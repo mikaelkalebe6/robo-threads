@@ -1,0 +1,27 @@
+name: Renovar token do Threads
+
+on:
+  schedule:
+    - cron: "15 13 1,15 * *"   # dias 1 e 15 de cada mes
+  workflow_dispatch:
+
+jobs:
+  renovar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Renovar
+        env:
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          THREADS_APP_SECRET: ${{ secrets.THREADS_APP_SECRET }}
+        run: python renovar_token.py
+      - name: Gravar token novo no GitHub
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          gh secret set THREADS_TOKEN --repo "${{ github.repository }}" < novo_token.txt
+          rm -f novo_token.txt
+          echo "Token atualizado."
