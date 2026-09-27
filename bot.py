@@ -36,6 +36,8 @@ INTERVALO_MIN = int(env("INTERVALO_MINIMO_MIN", "40"))
 RESP_POR_RODADA = int(env("RESPOSTAS_POR_RODADA", "6"))
 RESP_POR_DIA = int(env("RESPOSTAS_POR_DIA", "60"))
 CHANCE_FOTO = float(env("CHANCE_FOTO", "0.5"))
+CHANCE_TREND = float(env("CHANCE_TENDENCIA", "0.3"))
+EXEMPLOS = env("EXEMPLOS_RESPOSTAS", "")
 PERSONA = env("PERSONA", (
     "Voce escreve como um brasileiro comum que garimpa achados bons e baratos na Shopee. "
     "Tom leve, direto, de amigo indicando coisa boa. Linguagem simples do dia a dia, "
@@ -151,15 +153,17 @@ def escolher_inspiracao(itens, s):
 
 
 # ---------------------------------------------------------------- gemini
-def gemini(prompt, json_mode=False):
+def gemini(prompt, json_mode=False, busca=False):
     if not GEMINI_KEY:
         return None
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
     cfg = {"temperature": 1.0}
     if json_mode:
         cfg["responseMimeType"] = "application/json"
-    r = http("POST", url, body={"contents": [{"parts": [{"text": prompt}]}], "generationConfig": cfg},
-             headers={"x-goog-api-key": GEMINI_KEY})
+    corpo = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": cfg}
+    if busca:
+        corpo["tools"] = [{"google_search": {}}]
+    r = http("POST", url, body=corpo, headers={"x-goog-api-key": GEMINI_KEY})
     try:
         return "".join(p.get("text", "") for p in r["candidates"][0]["content"]["parts"]).strip()
     except Exception:
@@ -196,24 +200,46 @@ Estilo: {estilo}. Tamanho: {tamanho}.
 Regras: nao coloque link nem @; no maximo 1 emoji (ou nenhum); nada de hashtags em excesso (0 ou 1);
 nao use travessao; {'termine convidando a clicar no link abaixo de forma natural' if com_link else 'termine convidando a comentar (ex: pedir o link, dar opiniao)'}.
 Responda so com o texto do post."""
-    txt = limpar(gemini(prompt) or "")
+    usar_trend = random.random() < CHANCE_TREND
+    if usar_trend:
+        prompt += ("\nAntes de escrever, pesquise o que esta sendo muito comentado HOJE no Brasil "
+                   "(redes sociais e noticias) ligado ao tema da inspiracao e use esse assunto atual "
+                   "como gancho, de forma natural. Evite tragedias, mortes e politica partidaria. "
+                   "Nao cite fontes nem links.")
+    try:
+        txt = limpar(gemini(prompt, busca=usar_trend) or "")
+        if usar_trend:
+            log("Post usando tendencia do dia.")
+    except Exception as e:
+        log("Busca de tendencia falhou, seguindo sem:", e)
+        txt = limpar(gemini(prompt.split("\nAntes de escrever, pesquise")[0]) or "")
     if not txt:
         txt = insp["ideia"]
     return txt[:440]
 
 
 def gerar_resposta(post_txt, comentario, tem_link):
+    exemplos = ("Exemplos reais de como a dona do perfil responde (imite o jeito, nao copie):\n" + EXEMPLOS) if EXEMPLOS else ""
     prompt = f"""{PERSONA}
 
-Voce e o dono do perfil respondendo um comentario no seu post do Threads.
+Voce e a dona do perfil respondendo um comentario no seu proprio post do Threads, pelo celular.
 Seu post: {post_txt}
-Comentario: {comentario}
+Comentario da pessoa: {comentario}
 {'Existe um link do produto que voce pode mandar.' if tem_link else 'Nao existe link para mandar.'}
+{exemplos}
+
+Como responder:
+- Primeiro entenda a intencao: piada, ironia, sarcasmo, provocacao, desabafo, pergunta sincera ou so uma reacao. Responda a ESSA intencao. Se for piada ou ironia, entre na brincadeira; nunca responda ironia como se fosse literal.
+- Escreva como gente de verdade digitando rapido: portugues do Brasil informal, frases curtas, pode usar kkkk, pois e, real, ne, minusculas as vezes. Nada de tom de empresa, nada de "obrigada pelo comentario", nada de "que otima pergunta".
+- Tamanho: normalmente de 2 a 15 palavras. So escreva mais se a pessoa fez uma pergunta que pede mais.
+- Nao termine sempre com pergunta; so quando for natural puxar papo.
+- Emoji so de vez em quando e no maximo 1. Sem hashtag. Sem travessao.
+- Se discordarem, responda com leveza e bom humor, sem brigar e sem aceitar ofensa.
+- Nunca invente fatos pessoais especificos (profissao, cidade, valores, historias).
 
 Responda em JSON: {{"responder": true/false, "texto": "...", "mandar_link": true/false}}
-- responder=false se for spam, ofensa, propaganda de outra pessoa ou algo sem sentido.
-- mandar_link=true so se a pessoa pediu o link, perguntou preco/onde compra, disse que quer ou demonstrou interesse.
-- texto: 1 ou 2 frases, natural, simpatico, sem link, sem travessao, no maximo 1 emoji. Varie o jeito de falar."""
+- responder=false se for spam, ofensa pesada, propaganda de outra pessoa ou algo que nao pede resposta.
+- mandar_link=true so se a pessoa pediu o link ou demonstrou interesse claro em comprar."""
     r = gemini(prompt, json_mode=True)
     try:
         d = json.loads(r)
