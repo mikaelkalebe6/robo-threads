@@ -117,6 +117,25 @@ def url_csv(url):
     return f"https://docs.google.com/spreadsheets/d/{m.group(1)}/export?format=csv&gid={gid.group(1) if gid else '0'}"
 
 
+APPSHEET_APP = env("APPSHEET_APP", "PainelThreads-485832426")
+APPSHEET_TABELA = env("APPSHEET_TABELA", "Untitled")
+EXT_VIDEO = (".mp4", ".mov", ".m4v", ".webm")
+
+
+def url_midia(v):
+    # arquivo enviado pelo app (AppSheet) vira um link publico do AppSheet
+    v = (v or "").strip()
+    if not v or v.lower().startswith("http"):
+        return v
+    return ("https://www.appsheet.com/template/gettablefileurl?appName=" + urllib.parse.quote(APPSHEET_APP)
+            + "&tableName=" + urllib.parse.quote(APPSHEET_TABELA) + "&fileName=" + urllib.parse.quote(v))
+
+
+def eh_video(url):
+    return urllib.parse.unquote(url or "").lower().split("?")[0].endswith(EXT_VIDEO) or \
+        urllib.parse.unquote(url or "").lower().endswith(EXT_VIDEO)
+
+
 def ler_planilha():
     req = urllib.request.Request(url_csv(PLANILHA), headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=60) as r:
@@ -136,7 +155,7 @@ def ler_planilha():
             "ideia": ideia,
             "produto": l.get("produto", ""),
             "link": l.get("link", ""),
-            "foto": l.get("foto", "") or l.get("foto_url", "") or l.get("imagem", ""),
+            "foto": url_midia(l.get("foto", "") or l.get("foto_url", "") or l.get("imagem", "")),
             "obs": l.get("observacao", "") or l.get("obs", ""),
         })
     return itens
@@ -278,14 +297,15 @@ def publicar(texto, foto=None, responder_a=None):
     if MODO_TESTE:
         log("[MODO TESTE] publicaria:", {"texto": texto, "foto": foto, "reply_to": responder_a})
         return "teste_" + hashlib.md5((texto + str(time.time())).encode()).hexdigest()[:8]
-    p = {"media_type": "IMAGE" if foto else "TEXT", "text": texto}
+    video = bool(foto) and eh_video(foto)
+    p = {"media_type": ("VIDEO" if video else "IMAGE") if foto else "TEXT", "text": texto}
     if foto:
-        p["image_url"] = foto
+        p["video_url" if video else "image_url"] = foto
     if responder_a:
         p["reply_to_id"] = responder_a
     cid = threads("POST", "me/threads", **p)["id"]
-    for _ in range(12):  # espera a Meta processar
-        time.sleep(5 if foto else 3)
+    for _ in range(30 if foto else 12):  # espera a Meta processar (video demora mais)
+        time.sleep(8 if foto else 3)
         st = threads("GET", cid, fields="status,error_message")
         if st.get("status") == "FINISHED":
             break
@@ -357,7 +377,14 @@ def tarefa_postar(s, agora):
         texto = f"{texto}\n\n{insp['link']}"
 
     time.sleep(random.randint(0, 90))  # pequeno atraso aleatorio extra
-    pid = publicar(texto, foto=insp["foto"] if usar_foto else None)
+    try:
+        pid = publicar(texto, foto=insp["foto"] if usar_foto else None)
+    except Exception as e:
+        if not usar_foto:
+            raise
+        log("Midia recusada, postando so o texto:", str(e)[:150])
+        usar_foto = False
+        pid = publicar(texto)
     log(f"POSTADO ({'foto' if usar_foto else 'texto'}{', link no post' if link_no_post else ''}):", pid)
 
     if tem_link and not link_no_post:
