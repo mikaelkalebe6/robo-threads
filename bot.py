@@ -376,7 +376,7 @@ def tarefa_postar(s, agora):
     if link_no_post:
         texto = f"{texto}\n\n{insp['link']}"
 
-    time.sleep(random.randint(0, 90))  # pequeno atraso aleatorio extra
+    time.sleep(random.randint(0, 25))  # pequeno atraso aleatorio extra (curto para economizar minutos do GitHub)
     try:
         pid = publicar(texto, foto=insp["foto"] if usar_foto else None)
     except Exception as e:
