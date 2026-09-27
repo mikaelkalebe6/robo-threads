@@ -9,7 +9,7 @@
   "feitos": [
    "09:17"
   ],
-  "respostas": 1
+  "respostas": 3
  },
  "posts": [
   {
@@ -21,7 +21,9 @@
   }
  ],
  "respondidos": [
-  "18086168192280211"
+  "18086168192280211",
+  "18011000411975175",
+  "18135835081572144"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e"
@@ -32,6 +34,8 @@
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-09-27",
-  "raquelsiqueiracostade": 1
+  "raquelsiqueiracostade": 1,
+  "meywaluna": 1,
+  "tamaramcabral": 1
  }
 }
