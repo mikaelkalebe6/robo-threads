@@ -55,29 +55,63 @@ Observacao do Kalebe sobre esta inspiracao: {obs}
 {extra}"""
 
 
+CRAWLERS = [{"User-Agent": "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"},
+            {"User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"}, UA]
+
+
+def _meta(h, prop):
+    m = re.search(r'<meta[^>]+(?:property|name)=["\']%s["\'][^>]+content=["\']([^"\']*)' % re.escape(prop), h, re.I) or \
+        re.search(r'<meta[^>]+content=["\']([^"\']*)["\'][^>]+(?:property|name)=["\']%s["\']' % re.escape(prop), h, re.I)
+    return html.unescape(m.group(1).strip()) if m and m.group(1).strip() else ""
+
+
 def meta_da_pagina(link):
-    """Texto publico do post (legenda) sem login: oEmbed do TikTok ou meta tags da pagina."""
-    textos = []
+    """Legenda e midia publicas do post, sem login: oEmbed do TikTok, embed do Instagram ou meta tags
+    lidas como o robo de preview de links (o mesmo que o WhatsApp usa)."""
+    textos, midia = [], {"video": "", "imagem": ""}
     try:
         if "tiktok.com" in link:
             d, _ = baixar("https://www.tiktok.com/oembed?url=" + urllib.parse.quote(link, safe=""))
             j = json.loads(d)
             textos.append(f"Autor: {j.get('author_name', '')}. Legenda: {j.get('title', '')}")
+            midia["imagem"] = j.get("thumbnail_url", "")
         else:
-            d, _ = baixar(link, limite=600000)
-            h = d.decode("utf-8", "replace")
-            for prop in ("og:title", "og:description", "description", "twitter:description"):
-                m = re.search(r'<meta[^>]+(?:property|name)=["\']%s["\'][^>]+content=["\']([^"\']*)' % re.escape(prop), h, re.I) or \
-                    re.search(r'<meta[^>]+content=["\']([^"\']*)["\'][^>]+(?:property|name)=["\']%s["\']' % re.escape(prop), h, re.I)
-                if m and m.group(1).strip():
-                    textos.append(html.unescape(m.group(1).strip()))
+            urls = [link]
+            m = re.search(r"instagram\.com/(?:[^/]+/)?(p|reel|reels|tv)/([^/?#]+)", link)
+            if m:
+                urls.insert(0, f"https://www.instagram.com/p/{m.group(2)}/embed/captioned/")
+            for u in urls:
+                for hdr in CRAWLERS:
+                    try:
+                        d, _ = baixar(u, limite=800000, headers=hdr)
+                    except Exception:
+                        continue
+                    h = d.decode("utf-8", "replace")
+                    if "/embed/captioned" in u:
+                        c = re.search(r'class="Caption"[^>]*>(.*?)</div>', h, re.S)
+                        if c:
+                            textos.append(html.unescape(re.sub(r"<[^>]+>", " ", c.group(1))).strip())
+                        im = re.search(r'class="EmbeddedMediaImage"[^>]+src="([^"]+)"', h)
+                        if im and not midia["imagem"]:
+                            midia["imagem"] = html.unescape(im.group(1))
+                    for prop in ("og:title", "og:description", "description", "twitter:description"):
+                        t = _meta(h, prop)
+                        if t:
+                            textos.append(t)
+                    midia["video"] = midia["video"] or _meta(h, "og:video") or _meta(h, "og:video:secure_url")
+                    midia["imagem"] = midia["imagem"] or _meta(h, "og:image")
+                    if textos or midia["video"]:
+                        break
+                if textos or midia["video"]:
+                    break
     except Exception as e:
         log("Nao consegui ler a pagina:", str(e)[:120])
     vistos, final = set(), []
     for t in textos:
-        if t not in vistos:
+        t = re.sub(r"\s+", " ", t).strip()
+        if t and t not in vistos:
             vistos.add(t); final.append(t)
-    return "\n".join(final)[:3000]
+    return "\n".join(final)[:3000], midia
 
 
 def baixar_video(link):
@@ -118,18 +152,36 @@ def analisar(link, video, obs):
         return gemini(partes)
     if re.search(r"(youtube\.com|youtu\.be)", link or "", re.I):
         return gemini([{"file_data": {"file_uri": link}}, {"text": PEDIDO.format(obs=obs, extra="")}])
-    texto = meta_da_pagina(link)
+    texto, midia = meta_da_pagina(link)
     arq = baixar_video(link)
+    if not arq and midia.get("video"):
+        try:
+            dados, _ = baixar(midia["video"], limite=MAX_MB * 1024 * 1024)
+            if len(dados) <= MAX_MB * 1024 * 1024:
+                arq = os.path.join(AQUI, "_video_tmp.mp4")
+                open(arq, "wb").write(dados)
+                log("Video baixado pelo link publico da pagina:", link)
+        except Exception as e:
+            log("Nao consegui baixar o video da pagina:", str(e)[:120])
     if arq:
         dados = open(arq, "rb").read()
         ext = os.path.splitext(arq)[1].lower()
         partes = [{"inline_data": {"mime_type": MIME.get(ext, "video/mp4"), "data": base64.b64encode(dados).decode()}},
                   {"text": PEDIDO.format(obs=obs, extra="Link original: " + link + ("\nLegenda publica: " + texto if texto else ""))}]
         return gemini(partes)
-    if not texto:
+    partes = []
+    if midia.get("imagem"):
+        try:
+            dados, ctype = baixar(midia["imagem"], limite=8 * 1024 * 1024)
+            if dados and "image" in (ctype or "image/jpeg"):
+                partes.append({"inline_data": {"mime_type": (ctype or "image/jpeg").split(";")[0], "data": base64.b64encode(dados).decode()}})
+        except Exception as e:
+            log("Nao consegui baixar a imagem:", str(e)[:120])
+    if not texto and not partes:
         return ("Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). "
                 "Claude: listar no resumo de domingo para decidir o plano B.")
-    return gemini([{"text": PEDIDO.format(obs=obs, extra="Texto publico encontrado no post:\n" + texto)}])
+    extra = ("Texto publico encontrado no post:\n" + texto) if texto else "Sem legenda publica; analise a imagem do post."
+    return gemini(partes + [{"text": PEDIDO.format(obs=obs, extra=extra)}])
 
 
 def main():
@@ -154,7 +206,7 @@ def main():
         texto = l.get("legenda_ou_texto", "")
         if not (link or video or texto):
             continue
-        chave = hashlib.md5((link + "|" + video + "|" + texto).encode()).hexdigest()[:12]
+        chave = hashlib.md5(("v2|" + link + "|" + video + "|" + texto).encode()).hexdigest()[:12]
         if chave not in feitos:
             novos.append((chave, l))
     if not novos:
@@ -181,6 +233,9 @@ def main():
         antigo = open(SAIDA, encoding="utf-8").read() if os.path.exists(SAIDA) else ""
         cabecalho = "# Inspiracoes lidas pelo Gemini (mais novas primeiro)\n\n"
         corpo = antigo.replace(cabecalho, "")
+        refeitos = {b.split("\n", 1)[0].split(" | ", 1)[-1] for b in blocos}
+        corpo = "\n".join(x for x in re.split(r"(?m)^(?=## )", corpo)
+                          if x.strip() and x.split("\n", 1)[0].split(" | ", 1)[-1] not in refeitos)
         corpo = ("\n".join(blocos) + "\n" + corpo)[:60000]
         open(SAIDA, "w", encoding="utf-8").write(cabecalho + corpo.strip() + "\n")
     estado["feitos"] = sorted(feitos)[-2000:]
