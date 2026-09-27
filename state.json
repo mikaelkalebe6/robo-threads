@@ -9,7 +9,7 @@
   "feitos": [
    "09:17"
   ],
-  "respostas": 0
+  "respostas": 1
  },
  "posts": [
   {
@@ -20,7 +20,9 @@
    "quando": "2026-09-27T12:27:44.374785-04:00"
   }
  ],
- "respondidos": [],
+ "respondidos": [
+  "18086168192280211"
+ ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e"
  ],
@@ -29,6 +31,7 @@
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
-  "_data": "2026-09-27"
+  "_data": "2026-09-27",
+  "raquelsiqueiracostade": 1
  }
 }
