@@ -163,7 +163,24 @@ def gemini(prompt, json_mode=False, busca=False):
     corpo = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": cfg}
     if busca:
         corpo["tools"] = [{"google_search": {}}]
-    r = http("POST", url, body=corpo, headers={"x-goog-api-key": GEMINI_KEY})
+    r, ultimo = None, None
+    modelos = [GEMINI_MODEL] + [m for m in ("gemini-flash-lite-latest",) if m != GEMINI_MODEL]
+    for modelo in modelos:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
+        for tentativa in range(2):
+            try:
+                r = http("POST", url, body=corpo, headers={"x-goog-api-key": GEMINI_KEY})
+                break
+            except Exception as e:
+                ultimo, msg = e, str(e)
+                if busca or not any(c in msg for c in ("HTTP 500", "HTTP 503", "HTTP 429", "timed out")):
+                    raise
+                log(f"Gemini instavel ({modelo}), tentando de novo...")
+                time.sleep(6 * (tentativa + 1))
+        if r is not None:
+            break
+    if r is None:
+        raise ultimo
     try:
         return "".join(p.get("text", "") for p in r["candidates"][0]["content"]["parts"]).strip()
     except Exception:
@@ -389,7 +406,11 @@ def tarefa_responder(s, agora):
             quem = c.get("username", "?")
             if por_pessoa.get(quem, 0) >= 2:  # no maximo 2 respostas por pessoa por dia
                 continue
-            d = gerar_resposta(post.get("texto", ""), c.get("text", ""), bool(post.get("link")))
+            try:
+                d = gerar_resposta(post.get("texto", ""), c.get("text", ""), bool(post.get("link")))
+            except Exception as e:
+                log("Gemini fora do ar; o resto dos comentarios fica para a proxima rodada:", str(e)[:120])
+                return
             s.setdefault("respondidos", []).append(c["id"])
             respondidos.add(c["id"])
             if not d.get("responder") or not d.get("texto"):
