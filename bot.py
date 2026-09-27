@@ -168,13 +168,13 @@ def gemini(prompt, json_mode=False):
 
 
 ESTILOS = [
-    "comece com uma pergunta que a pessoa se identifica",
-    "conte em 2 frases uma situacao do dia a dia que o produto resolve",
-    "estilo 'achado do dia', empolgado mas natural",
-    "opiniao sincera e curta, como quem ja usou",
-    "lista curtinha de 2 ou 3 motivos, sem numerar",
-    "comparacao rapida: antes x depois de ter o produto",
-    "frase curta e direta, estilo desabafo engracado",
+    "pergunta direta que faz a pessoa querer opinar",
+    "opiniao curta e um pouco polemica, sem ofender ninguem",
+    "confissao leve do dia a dia seguida de uma pergunta",
+    "enquete de duas opcoes (isso ou aquilo)",
+    "mini historia de 2 frases com pergunta no final",
+    "frase de identificacao, estilo 'quem mais...'",
+    "humor do cotidiano, curto e direto",
 ]
 
 
@@ -188,9 +188,9 @@ def gerar_post(insp, com_link):
     tamanho = random.choice(["bem curto (1 a 2 linhas)", "curto (2 a 4 linhas)", "medio (ate 5 linhas)"])
     prompt = f"""{PERSONA}
 
-Escreva UM post para o Threads, em portugues do Brasil.
+Escreva UM post para o Threads, em portugues do Brasil. Use a inspiracao como referencia de tema e de gancho, sem copiar literalmente, e siga a observacao.
 Inspiracao: {insp['ideia']}
-Produto: {insp['produto'] or 'o da inspiracao'}
+Produto: {insp['produto'] or 'nenhum (nao fale de produto, marca, empresa ou investimento)'}
 Observacao: {insp['obs'] or '-'}
 Estilo: {estilo}. Tamanho: {tamanho}.
 Regras: nao coloque link nem @; no maximo 1 emoji (ou nenhum); nada de hashtags em excesso (0 ou 1);
