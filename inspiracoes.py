@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Leitor de inspiracoes: le links/videos novos da planilha de Inspiracoes e pede ao Gemini
 (transcricao + analise). Resultado vai para inspiracoes_lidas.md, que o Claude le no domingo."""
-import os, re, json, base64, hashlib, csv, io, html, urllib.request, urllib.parse
+import os, re, sys, json, base64, hashlib, csv, io, html, urllib.request, urllib.parse
 import datetime as dt
 from zoneinfo import ZoneInfo
 
@@ -80,6 +80,28 @@ def meta_da_pagina(link):
     return "\n".join(final)[:3000]
 
 
+def baixar_video(link):
+    """Baixa o video publico do link (TikTok, Instagram, Threads, Facebook...) sem login, com yt-dlp."""
+    import subprocess, glob, tempfile
+    try:
+        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "--disable-pip-version-check", "yt-dlp"],
+                       check=True, timeout=120, capture_output=True)
+        pasta = tempfile.mkdtemp()
+        r = subprocess.run([sys.executable, "-m", "yt_dlp", "-q", "--no-playlist", "--no-warnings",
+                            "--max-filesize", "%dM" % MAX_MB,
+                            "-f", "best[ext=mp4][filesize<%dM]/best[ext=mp4]/best" % MAX_MB,
+                            "-o", os.path.join(pasta, "v.%(ext)s"), link],
+                           timeout=150, capture_output=True, text=True)
+        arqs = [a for a in glob.glob(os.path.join(pasta, "v.*")) if not a.endswith(".part")]
+        if arqs and os.path.getsize(arqs[0]) <= MAX_MB * 1024 * 1024:
+            log("Video baixado:", link)
+            return arqs[0]
+        log("Sem video para baixar (ou post de foto/texto):", (r.stderr or "")[:150].replace("\n", " "))
+    except Exception as e:
+        log("Download do video falhou:", str(e)[:150])
+    return None
+
+
 def analisar(link, video, obs):
     obs = obs or "(nenhuma)"
     if video:
@@ -97,9 +119,16 @@ def analisar(link, video, obs):
     if re.search(r"(youtube\.com|youtu\.be)", link or "", re.I):
         return gemini([{"file_data": {"file_uri": link}}, {"text": PEDIDO.format(obs=obs, extra="")}])
     texto = meta_da_pagina(link)
+    arq = baixar_video(link)
+    if arq:
+        dados = open(arq, "rb").read()
+        ext = os.path.splitext(arq)[1].lower()
+        partes = [{"inline_data": {"mime_type": MIME.get(ext, "video/mp4"), "data": base64.b64encode(dados).decode()}},
+                  {"text": PEDIDO.format(obs=obs, extra="Link original: " + link + ("\nLegenda publica: " + texto if texto else ""))}]
+        return gemini(partes)
     if not texto:
-        return ("Nao consegui ler nada publico deste link (rede fechada ou post sem legenda). "
-                "Para entender, suba o video no campo 'video' do app ou cole o texto em 'legenda_ou_texto'.")
+        return ("Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). "
+                "Claude: listar no resumo de domingo para decidir o plano B.")
     return gemini([{"text": PEDIDO.format(obs=obs, extra="Texto publico encontrado no post:\n" + texto)}])
 
 
