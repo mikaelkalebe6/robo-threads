@@ -8,7 +8,8 @@
   ],
   "feitos": [
    "09:17",
-   "15:28"
+   "15:28",
+   "18:48"
   ],
   "respostas": 3
  },
@@ -26,6 +27,13 @@
    "link": "",
    "texto": "SEM MENTIR: tem dias que eu fecho o notebook e sinto que continuei dentro do trabalho, sem virar a chave. Me contem nos comentários: qual é a rotina de vocês pra desligar a cabeça no home office?",
    "quando": "2026-09-27T15:37:08.854365-04:00"
+  },
+  {
+   "id": "17884736979502919",
+   "insp": "3546666699",
+   "link": "",
+   "texto": "SEJAM SINCEROS: com que idade vocês saíram da casa dos pais?\n\nFico pensando se existe mesmo um momento ideal ou se a gente só vai na cara e na coragem quando a vida adulta aperta. \n\nQuantos anos você tinha quando deu esse passo? Deixa sua idade aqui nos comentários e me conta se foi no tempo certo.",
+   "quando": "2026-09-27T19:07:09.253953-04:00"
   }
  ],
  "respondidos": [
@@ -35,11 +43,13 @@
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
-  "027a4610c3c2db7918247e272a52a726"
+  "027a4610c3c2db7918247e272a52a726",
+  "8b4d90e6cf568045ddaaa5d9bb4b2582"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
-  "36df8573cc": 1790537921.4420874
+  "36df8573cc": 1790537921.4420874,
+  "3546666699": 1790550466.4820309
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
