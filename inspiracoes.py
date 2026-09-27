@@ -34,13 +34,22 @@ def baixar(url, limite=None, headers=None):
 
 
 def gemini(partes):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODELO}:generateContent"
     corpo = json.dumps({"contents": [{"parts": partes}], "generationConfig": {"temperature": 0.4}}).encode()
-    req = urllib.request.Request(url, data=corpo, method="POST",
-                                 headers={"Content-Type": "application/json", "x-goog-api-key": KEY})
-    with urllib.request.urlopen(req, timeout=240) as r:
-        j = json.loads(r.read())
-    return "".join(p.get("text", "") for p in j["candidates"][0]["content"]["parts"]).strip()
+    erro = None
+    for modelo in [MODELO] + [m for m in ("gemini-flash-lite-latest",) if m != MODELO]:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
+        req = urllib.request.Request(url, data=corpo, method="POST",
+                                     headers={"Content-Type": "application/json", "x-goog-api-key": KEY})
+        try:
+            with urllib.request.urlopen(req, timeout=240) as r:
+                j = json.loads(r.read())
+            return "".join(p.get("text", "") for p in j["candidates"][0]["content"]["parts"]).strip()
+        except Exception as e:
+            erro = e
+            if not any(c in str(e) for c in ("429", "503", "500")):
+                raise
+            log(f"Gemini {modelo} indisponivel, tentando reserva...")
+    raise erro
 
 
 PEDIDO = """Voce analisa conteudo de inspiracao para o perfil @lorenafleck_ no Threads (posts de engajamento em portugues do Brasil, tom leve e direto; nunca falar de investimento).
@@ -94,7 +103,7 @@ def meta_da_pagina(link):
                         im = re.search(r'class="EmbeddedMediaImage"[^>]+src="([^"]+)"', h)
                         if im and not midia["imagem"]:
                             midia["imagem"] = html.unescape(im.group(1))
-                        h2 = h.replace('\\"', '"').replace("\\/", "/").replace("\\u0026", "&")
+                        h2 = re.sub(r'\\+"', '"', re.sub(r"\\+u0026", "&", re.sub(r"\\+/", "/", h)))
                         for u2 in re.findall(r'"display_url"\s*:\s*"(https:[^"]+)"', h2):
                             if u2 not in midia["imagens"]:
                                 midia["imagens"].append(u2)
