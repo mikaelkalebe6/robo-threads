@@ -224,13 +224,17 @@ def limpar(t):
 
 
 def gerar_post(insp, com_link):
+    obs = (insp.get("obs") or "").strip().lower()
+    if not obs or "literal" in obs:
+        log("Gancho escrito pelo Kalebe: postando o texto dele sem reescrever.")
+        return (insp["ideia"] or "").strip()[:500]
     estilo = random.choice(ESTILOS)
     tamanho = random.choice(["bem curto (1 a 2 linhas)", "curto (2 a 4 linhas)", "medio (ate 5 linhas)"])
     prompt = f"""{PERSONA}
 
 Escreva UM post para o Threads, em portugues do Brasil. Use a inspiracao como referencia de tema e de gancho, sem copiar literalmente, e siga a observacao.
 Inspiracao: {insp['ideia']}
-Produto: {insp['produto'] or 'nenhum (nao fale de produto, marca, empresa ou investimento)'}
+Produto: {insp['produto'] or 'nenhum (nao fale de produto, marca ou empresa)'}
 Observacao: {insp['obs'] or '-'}
 Estilo: {estilo}. Tamanho: {tamanho}.
 Regras: nao coloque link nem @; no maximo 1 emoji (ou nenhum); nada de hashtags em excesso (0 ou 1);

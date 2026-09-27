@@ -52,7 +52,7 @@ def gemini(partes):
     raise erro
 
 
-PEDIDO = """Voce analisa conteudo de inspiracao para o perfil @lorenafleck_ no Threads (posts de engajamento em portugues do Brasil, tom leve e direto; nunca falar de investimento).
+PEDIDO = """Voce analisa conteudo de inspiracao para o perfil @lorenafleck_ no Threads (posts de engajamento em portugues do Brasil, tom leve e direto).
 Responda em portugues do Brasil, sem travessoes, curto, neste formato:
 **Tipo:** (video, foto, texto, carrossel) | **Idioma original:** ...
 **Transcricao/Conteudo:** (se for video ou audio: transcreva a fala traduzida para portugues, no maximo 250 palavras; se for texto: resuma)
