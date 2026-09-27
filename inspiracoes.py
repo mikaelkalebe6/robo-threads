@@ -68,7 +68,7 @@ def _meta(h, prop):
 def meta_da_pagina(link):
     """Legenda e midia publicas do post, sem login: oEmbed do TikTok, embed do Instagram ou meta tags
     lidas como o robo de preview de links (o mesmo que o WhatsApp usa)."""
-    textos, midia = [], {"video": "", "imagem": ""}
+    textos, midia = [], {"video": "", "imagem": "", "imagens": []}
     try:
         if "tiktok.com" in link:
             d, _ = baixar("https://www.tiktok.com/oembed?url=" + urllib.parse.quote(link, safe=""))
@@ -94,6 +94,10 @@ def meta_da_pagina(link):
                         im = re.search(r'class="EmbeddedMediaImage"[^>]+src="([^"]+)"', h)
                         if im and not midia["imagem"]:
                             midia["imagem"] = html.unescape(im.group(1))
+                        h2 = h.replace('\\"', '"').replace("\\/", "/").replace("\\u0026", "&")
+                        for u2 in re.findall(r'"display_url"\s*:\s*"(https:[^"]+)"', h2):
+                            if u2 not in midia["imagens"]:
+                                midia["imagens"].append(u2)
                     for prop in ("og:title", "og:description", "description", "twitter:description"):
                         t = _meta(h, prop)
                         if t:
@@ -112,6 +116,29 @@ def meta_da_pagina(link):
         if t and t not in vistos:
             vistos.add(t); final.append(t)
     return "\n".join(final)[:3000], midia
+
+
+def imagens_carrossel(link):
+    """Lista as imagens de todas as paginas de um carrossel (yt-dlp, sem login e sem baixar video)."""
+    import subprocess
+    try:
+        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "--disable-pip-version-check", "yt-dlp"],
+                       check=True, timeout=120, capture_output=True)
+        r = subprocess.run([sys.executable, "-m", "yt_dlp", "-J", "--ignore-no-formats-error", "--no-warnings", link],
+                           timeout=90, capture_output=True, text=True)
+        j = json.loads(r.stdout or "{}")
+    except Exception as e:
+        log("Nao consegui listar o carrossel:", str(e)[:120]); return []
+    itens = j.get("entries") or [j]
+    urls = []
+    for it in itens:
+        th = [t for t in (it or {}).get("thumbnails") or [] if t.get("url")]
+        if th:
+            melhor = max(th, key=lambda t: (t.get("width") or 0) * (t.get("height") or 0) or t.get("preference") or 0)
+            urls.append(melhor["url"])
+        elif (it or {}).get("thumbnail"):
+            urls.append(it["thumbnail"])
+    return urls
 
 
 def baixar_video(link):
@@ -170,17 +197,30 @@ def analisar(link, video, obs):
                   {"text": PEDIDO.format(obs=obs, extra="Link original: " + link + ("\nLegenda publica: " + texto if texto else ""))}]
         return gemini(partes)
     partes = []
-    if midia.get("imagem"):
+    imagens = list(midia.get("imagens") or [])
+    if "instagram.com" in link and len(imagens) < 2:
+        for u in imagens_carrossel(link):
+            if u not in imagens:
+                imagens.append(u)
+    if not imagens and midia.get("imagem"):
+        imagens = [midia["imagem"]]
+    for u in imagens[:10]:
         try:
-            dados, ctype = baixar(midia["imagem"], limite=8 * 1024 * 1024)
+            dados, ctype = baixar(u, limite=8 * 1024 * 1024)
             if dados and "image" in (ctype or "image/jpeg"):
                 partes.append({"inline_data": {"mime_type": (ctype or "image/jpeg").split(";")[0], "data": base64.b64encode(dados).decode()}})
         except Exception as e:
             log("Nao consegui baixar a imagem:", str(e)[:120])
+    if len(partes) > 1:
+        log("Carrossel com %d imagens:" % len(partes), link)
     if not texto and not partes:
         return ("Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). "
                 "Claude: listar no resumo de domingo para decidir o plano B.")
     extra = ("Texto publico encontrado no post:\n" + texto) if texto else "Sem legenda publica; analise a imagem do post."
+    if len(partes) > 1:
+        extra += ("\nE um CARROSSEL com %d imagens, na ordem. Na parte Transcricao/Conteudo, transcreva o texto de TODAS "
+                  "as imagens, uma por linha (Imagem 1: ..., Imagem 2: ...), sem limite de palavras; as frases sao a parte "
+                  "mais importante." % len(partes))
     return gemini(partes + [{"text": PEDIDO.format(obs=obs, extra=extra)}])
 
 
@@ -206,7 +246,7 @@ def main():
         texto = l.get("legenda_ou_texto", "")
         if not (link or video or texto):
             continue
-        chave = hashlib.md5(("v2|" + link + "|" + video + "|" + texto).encode()).hexdigest()[:12]
+        chave = hashlib.md5(("v3|" + link + "|" + video + "|" + texto).encode()).hexdigest()[:12]
         if chave not in feitos:
             novos.append((chave, l))
     if not novos:
