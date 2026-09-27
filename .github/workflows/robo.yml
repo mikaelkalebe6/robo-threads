@@ -37,6 +37,12 @@ jobs:
           CHANCE_FOTO: ${{ vars.CHANCE_FOTO }}
           PERSONA: ${{ vars.PERSONA }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          EXEMPLOS_RESPOSTAS: ${{ vars.EXEMPLOS_RESPOSTAS }}
+          CHANCE_TENDENCIA: ${{ vars.CHANCE_TENDENCIA }}
+          INTERVALO_MINIMO_MIN: ${{ vars.INTERVALO_MINIMO_MIN }}
+          RESPOSTAS_POR_RODADA: ${{ vars.RESPOSTAS_POR_RODADA }}
+          RESPOSTAS_POR_DIA: ${{ vars.RESPOSTAS_POR_DIA }}
+          APPSHEET_APP: ${{ vars.APPSHEET_APP }}
         run: python bot.py
       - name: Salvar memoria do robo
         if: always()
