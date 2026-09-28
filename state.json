@@ -1,17 +1,19 @@
 {
  "plano": {
-  "data": "2026-09-27",
+  "data": "2026-09-28",
   "horarios": [
-   "09:17",
-   "15:28",
-   "18:48"
+   "09:25",
+   "10:05",
+   "10:58",
+   "12:15",
+   "14:14",
+   "15:59",
+   "17:47",
+   "18:38",
+   "21:37"
   ],
-  "feitos": [
-   "09:17",
-   "15:28",
-   "18:48"
-  ],
-  "respostas": 9
+  "feitos": [],
+  "respostas": 0
  },
  "posts": [
   {
@@ -59,15 +61,6 @@
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
-  "_data": "2026-09-27",
-  "raquelsiqueiracostade": 1,
-  "meywaluna": 1,
-  "tamaramcabral": 1,
-  "im.andreianunes": 1,
-  "gabirosadacunha": 1,
-  "gabriellaarbr_": 1,
-  "sandraayrescake": 1,
-  "ferduarte.fd": 1,
-  "odebochado.ofc": 1
+  "_data": "2026-09-28"
  }
 }
