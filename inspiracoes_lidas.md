@@ -1,5 +1,16 @@
 # Inspiracoes lidas pelo Gemini (mais novas primeiro)
 
+## 28/09/2026 | https://www.instagram.com/p/Dd1gcz1u8aE/?stkn=emF6b3FwdThpcWd4
+**Tipo:** Foto | **Idioma original:** Português
+**Transcricao/Conteudo:** Placa humorística em um corredor de loja mostrando um cabo elétrico com dois plugues machos nas pontas (o infame "cabo suicida"), com o texto dizendo que o produto não existe, não é vendido, não pode ser encontrado e que seu uso é fortemente desaconselhado.
+**Gancho:** Imagem absurda de um cabo elétrico perigoso com dois plugues.
+**Estrutura:** Imagem bizarra + legenda irônica sobre a ausência e o perigo do item.
+**Por que funciona:** Usa humor irônico e um absurdo técnico conhecido para gerar identificação imediata e comentários.
+**3 ganchos para o perfil:** 
+1. Todo mundo já tentou resolver um problema do jeito mais errado possível pelo menos uma vez.
+2. Aquele produto que parece ótimo na teoria mas é um desastre na prática.
+3. Se a lógica falhou, a culpa é de quem inventou essa gambiarra.
+
 ## 28/09/2026 | https://vt.tiktok.com/ZSbMk8jMp/
 **Tipo:** Vídeo | **Idioma original:** Espanhol
 
@@ -16,6 +27,7 @@
 2. Bateu uma saudade absurda da sensação gostosa de digitar nas teclinhas do BlackBerry.
 3. Se lançassem um smartphone moderno exatamente assim por aqui, você compraria?
 
+
 ## 28/09/2026 | https://vt.tiktok.com/ZSbMkf6a3/
 **Tipo:** foto | **Idioma original:** Português
 **Transcricao/Conteudo:** Parece loucura, mas quando você ACREDITA que nasceu para ter as melhores coisas da vida, as melhores coisas encontrarão caminho até você.
@@ -26,6 +38,7 @@
 1. Acreditar nisso mudou totalmente a forma como eu vivo meus dias.
 2. Tem dias que a gente só precisa lembrar de quem a gente nasceu para ser.
 3. Se você ainda duvida do seu potencial, leia isso até entender.
+
 
 ## 27/09/2026 | https://www.threads.com/share/_wpKt4jCp/
 **Tipo:** Texto | **Idioma original:** Português
@@ -44,6 +57,7 @@
 3. Se a sua senha principal ainda tem seu ano de nascimento ou nome do pet, precisamos ter uma conversa séria.
 
 
+
 ## 27/09/2026 | https://www.threads.com/@futurizando
 **Tipo:** Texto / Perfil | **Idioma original:** Português  
 **Transcricao/Conteudo:** Bio do perfil Futurizando no Threads, autoproclamando-se como a maior página de previsões do mundo e destacando prova social com mais de 700 previsões acertadas e mais de 70 mil clientes atendidos.  
@@ -54,6 +68,7 @@
 1. Eu finjo que não sou curiosa, mas se alguém ler o meu futuro hoje eu acredito em absolutamente tudo.  
 2. Me fala o seu signo e o seu maior defeito que eu tento adivinhar como vai ser a sua semana.  
 3. Se você pudesse receber uma resposta definitiva sobre o seu futuro agora, o que perguntaria?
+
 
 
 
@@ -77,6 +92,7 @@ Imagem 10: "Att, Osvaldo." Semestre que vem a turma vai pro 8º periodo e já av
 Já aconteceu de você entrar em um lugar por engano e acabar virando a atração principal?
 Tem gente que tenta se encaixar em grupos novos e tem o Seu Osvaldo que simplesmente virou a lenda da faculdade.
 O que você faria se caísse em um grupo de WhatsApp de uma turma totalmente aleatória?
+
 
 
 
@@ -107,6 +123,7 @@ Imagem 6: Vai por mim, essa página não vai aparecer pra você de novo, então 
 
 
 
+
 ## 27/09/2026 | https://www.threads.com/share/BAWxZQiG8k/
 **Tipo:** Foto com texto | **Idioma original:** Português
 
@@ -122,6 +139,7 @@ Imagem 6: Vai por mim, essa página não vai aparecer pra você de novo, então 
 1. Alguém me avisa se ainda vale a pena se apaixonar hoje em dia ou se é puro golpe?
 2. Acho que caí na besteira de me apegar, qual é a primeira coisa que eu deveria fazer?
 3. Qual é a regra de ouro que vocês nunca quebram quando começam a gostar de alguém?
+
 
 
 
