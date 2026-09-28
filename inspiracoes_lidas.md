@@ -1,5 +1,32 @@
 # Inspiracoes lidas pelo Gemini (mais novas primeiro)
 
+## 28/09/2026 | https://vt.tiktok.com/ZSbMk8jMp/
+**Tipo:** Vídeo | **Idioma original:** Espanhol
+
+**Transcricao/Conteudo:** Demonstração em vídeo de um smartphone moderno rodando Android, com tela touch cheia de widgets, integrado a um teclado físico QWERTY estilo BlackBerry. Legenda: "De volta à era do BlackBerry".
+
+**Gancho:** O impacto visual imediato de ver um celular atual com o clássico teclado físico dos anos 2000.
+
+**Estrutura:** Apresentação da tela moderna, seguida da digitação nostálgica no teclado físico.
+
+**Por que funciona:** Desperta uma onda instantânea de nostalgia e curiosidade tecnológica, gerando debate entre quem sente falta do teclado físico e quem prefere 100% touch.
+
+**3 ganchos para o perfil:**
+1. Você voltaria a usar um celular com teclado físico hoje ou já não vive sem o touch?
+2. Bateu uma saudade absurda da sensação gostosa de digitar nas teclinhas do BlackBerry.
+3. Se lançassem um smartphone moderno exatamente assim por aqui, você compraria?
+
+## 28/09/2026 | https://vt.tiktok.com/ZSbMkf6a3/
+**Tipo:** foto | **Idioma original:** Português
+**Transcricao/Conteudo:** Parece loucura, mas quando você ACREDITA que nasceu para ter as melhores coisas da vida, as melhores coisas encontrarão caminho até você.
+**Gancho:** Afirmação curiosa sobre como a vida funciona que desperta interesse imediato.
+**Estrutura:** Premissa surpreendente seguida da revelação de uma crença positiva sobre merecimento.
+**Por que funciona:** Mistura uma paisagem linda de Capri com um pensamento otimista e aspiracional que gera identificação e compartilhamentos.
+**3 ganchos para o perfil:**
+1. Acreditar nisso mudou totalmente a forma como eu vivo meus dias.
+2. Tem dias que a gente só precisa lembrar de quem a gente nasceu para ser.
+3. Se você ainda duvida do seu potencial, leia isso até entender.
+
 ## 27/09/2026 | https://www.threads.com/share/_wpKt4jCp/
 **Tipo:** Texto | **Idioma original:** Português
 
@@ -16,6 +43,7 @@
 2. Um checklist rápido de segurança digital para você dormir tranquila hoje:
 3. Se a sua senha principal ainda tem seu ano de nascimento ou nome do pet, precisamos ter uma conversa séria.
 
+
 ## 27/09/2026 | https://www.threads.com/@futurizando
 **Tipo:** Texto / Perfil | **Idioma original:** Português  
 **Transcricao/Conteudo:** Bio do perfil Futurizando no Threads, autoproclamando-se como a maior página de previsões do mundo e destacando prova social com mais de 700 previsões acertadas e mais de 70 mil clientes atendidos.  
@@ -26,6 +54,7 @@
 1. Eu finjo que não sou curiosa, mas se alguém ler o meu futuro hoje eu acredito em absolutamente tudo.  
 2. Me fala o seu signo e o seu maior defeito que eu tento adivinhar como vai ser a sua semana.  
 3. Se você pudesse receber uma resposta definitiva sobre o seu futuro agora, o que perguntaria?
+
 
 
 ## 27/09/2026 | https://www.instagram.com/p/DdvV4u6EXfg/?stkn=czNxNnM5ZmhzcnMw
@@ -48,6 +77,7 @@ Imagem 10: "Att, Osvaldo." Semestre que vem a turma vai pro 8º periodo e já av
 Já aconteceu de você entrar em um lugar por engano e acabar virando a atração principal?
 Tem gente que tenta se encaixar em grupos novos e tem o Seu Osvaldo que simplesmente virou a lenda da faculdade.
 O que você faria se caísse em um grupo de WhatsApp de uma turma totalmente aleatória?
+
 
 
 
@@ -76,6 +106,7 @@ Imagem 6: Vai por mim, essa página não vai aparecer pra você de novo, então 
 
 
 
+
 ## 27/09/2026 | https://www.threads.com/share/BAWxZQiG8k/
 **Tipo:** Foto com texto | **Idioma original:** Português
 
@@ -91,6 +122,7 @@ Imagem 6: Vai por mim, essa página não vai aparecer pra você de novo, então 
 1. Alguém me avisa se ainda vale a pena se apaixonar hoje em dia ou se é puro golpe?
 2. Acho que caí na besteira de me apegar, qual é a primeira coisa que eu deveria fazer?
 3. Qual é a regra de ouro que vocês nunca quebram quando começam a gostar de alguém?
+
 
 
 
