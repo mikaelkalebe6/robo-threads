@@ -15,7 +15,8 @@
   "feitos": [
    "09:25",
    "10:05",
-   "10:58"
+   "10:58",
+   "12:15"
   ],
   "respostas": 1
  },
@@ -47,6 +48,13 @@
    "link": "",
    "texto": "SEJAM SINCEROS: ventilador barulhento a noite toda ou ar-condicionado geladinho e boleto chorando no fim do mês?",
    "quando": "2026-09-28T09:37:11.694674-04:00"
+  },
+  {
+   "id": "17956463874017267",
+   "insp": "7ba791c39f",
+   "link": "",
+   "texto": "PESSOAS QUE VIAJAM MUITO: eu juro que tento curtir o frio da serra, mas o som do mar me ganha toda vez. No fim das contas, a gente sempre volta para onde a alma descansa mais. Qual lado do time vocês são?",
+   "quando": "2026-09-28T13:07:14.877789-04:00"
   }
  ],
  "respondidos": [
@@ -65,13 +73,15 @@
   "64c01cf55c0ee3637b90fc4f543e751e",
   "027a4610c3c2db7918247e272a52a726",
   "8b4d90e6cf568045ddaaa5d9bb4b2582",
-  "f96c60de8157d384f22b5be0a7f72111"
+  "f96c60de8157d384f22b5be0a7f72111",
+  "d13fd94abe8d96a2dcb3d4b02c93cb89"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
   "36df8573cc": 1790537921.4420874,
   "3546666699": 1790550466.4820309,
-  "38ecc56e84": 1790602946.2972836
+  "38ecc56e84": 1790602946.2972836,
+  "7ba791c39f": 1790615357.5071127
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
