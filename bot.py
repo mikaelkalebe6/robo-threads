@@ -30,6 +30,15 @@ GROQ_KEY = env("GROQ_API_KEY")
 GROQ_MODELOS = [m.strip() for m in env("GROQ_MODEL", "openai/gpt-oss-120b,qwen/qwen3.8-27b,openai/gpt-oss-20b").split(",") if m.strip()]
 CEREBRAS_KEY = env("CEREBRAS_API_KEY")
 CEREBRAS_MODELOS = [m.strip() for m in env("CEREBRAS_MODEL", "gpt-oss-120b,qwen-3.8-27b").split(",") if m.strip()]
+# OpenRouter: so modelos GRATIS (sem credito na conta, modelo pago nem funciona, entao nunca cobra)
+OPENROUTER_KEY = env("OPENROUTER_API_KEY")
+OPENROUTER_MODELOS = [m.strip() for m in env("OPENROUTER_MODEL", "stealth/space-bunny-alpha,openai/gpt-oss-120b:free").split(",") if m.strip()]
+
+
+def reservas():
+    return (("Groq", "https://api.groq.com/openai/v1", GROQ_KEY, GROQ_MODELOS),
+            ("OpenRouter", "https://openrouter.ai/api/v1", OPENROUTER_KEY, OPENROUTER_MODELOS),
+            ("Cerebras", "https://api.cerebras.ai/v1", CEREBRAS_KEY, CEREBRAS_MODELOS))
 PLANILHA = env("PLANILHA_URL")
 MODO_TESTE = env("MODO_TESTE", "0") == "1"
 PAUSADO = env("PAUSADO", "0") == "1"
@@ -189,7 +198,7 @@ def gemini(prompt, json_mode=False, busca=False):
         corpo["tools"] = [{"google_search": {}}]
     r, ultimo = None, None
     modelos = [GEMINI_MODEL] + [m for m in ("gemini-flash-lite-latest",) if m != GEMINI_MODEL]
-    tem_reserva = bool(GROQ_KEY or CEREBRAS_KEY)
+    tem_reserva = bool(GROQ_KEY or OPENROUTER_KEY or CEREBRAS_KEY)
     for modelo in modelos:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
         for tentativa in range(1 if tem_reserva else 2):
@@ -216,13 +225,35 @@ def gemini(prompt, json_mode=False, busca=False):
 
 # ---------------------------------------------------------------- reservas (Groq, Cerebras)
 _MODELOS_RUINS = set()
+_DESCOBERTOS = {}
+
+
+def _descobrir(nome, base, hdr):
+    """Pergunta ao servidor quais modelos existem hoje (usado quando os da lista sairam do ar)."""
+    try:
+        dados = http("GET", f"{base}/models", headers=hdr, tentativas=1, timeout=30).get("data", [])
+    except Exception:
+        return []
+    if nome == "OpenRouter":  # so os gratis
+        ids = [m["id"] for m in dados if str((m.get("pricing") or {}).get("prompt")) in ("0", "0.0")
+               and str((m.get("pricing") or {}).get("completion")) in ("0", "0.0") and m["id"].endswith(":free")]
+    else:
+        ids = [m["id"] for m in dados if re.search(r"gpt-oss|qwen|llama", m["id"])]
+    ids = [m for m in ids if not re.search(r"guard|whisper|tts|vision|embed", m) and (nome, m) not in _MODELOS_RUINS][:3]
+    _DESCOBERTOS[nome] = list(ids)
+    if ids:
+        log(f"{nome}: modelos antigos sairam do ar, tentando {', '.join(ids)}")
+    return list(ids)
 
 
 def _compat_openai(nome, base, chave, modelos, prompt, json_mode):
-    """Groq e Cerebras usam o mesmo formato. Tenta os modelos em ordem; se todos sumirem, pergunta a lista ao servidor."""
+    """Groq, OpenRouter e Cerebras usam o mesmo formato. Tenta os modelos em ordem; se todos sumirem, pergunta a lista ao servidor."""
     hdr = {"Authorization": f"Bearer {chave}", "User-Agent": "robo-threads/1.0", "Accept": "application/json"}
-    lista = [m for m in modelos if (nome, m) not in _MODELOS_RUINS]
-    tentou_lista = False
+    lista = [m for m in modelos + _DESCOBERTOS.get(nome, []) if (nome, m) not in _MODELOS_RUINS]
+    tentou_lista = nome in _DESCOBERTOS
+    if not lista and not tentou_lista:
+        tentou_lista = True
+        lista = _descobrir(nome, base, hdr)
     ultimo = None
     while lista:
         modelo = lista.pop(0)
@@ -239,18 +270,16 @@ def _compat_openai(nome, base, chave, modelos, prompt, json_mode):
         except Exception as e:
             ultimo = e
             msg = str(e)
-            if any(c in msg for c in ("HTTP 404", "model_not_found", "does not exist", "decommissioned", "not found")):
+            if json_mode and "HTTP 400" in msg and "response_format" in msg:
+                lista.insert(0, modelo)  # modelo nao aceita modo JSON: tenta de novo sem ele
+                json_mode = False
+                continue
+            if any(c in msg for c in ("HTTP 404", "HTTP 402", "model_not_found", "does not exist", "decommissioned",
+                                      "not found", "No endpoints", "credits")):
                 _MODELOS_RUINS.add((nome, modelo))
                 if not lista and not tentou_lista:
                     tentou_lista = True
-                    try:
-                        ids = [m["id"] for m in http("GET", f"{base}/models", headers=hdr, tentativas=1, timeout=30).get("data", [])]
-                        lista = [m for m in ids if re.search(r"gpt-oss|qwen|llama", m) and not re.search(r"guard|whisper|tts|vision", m)
-                                 and (nome, m) not in _MODELOS_RUINS][:3]
-                        if lista:
-                            log(f"{nome}: modelos antigos sairam do ar, tentando {', '.join(lista)}")
-                    except Exception:
-                        pass
+                    lista = _descobrir(nome, base, hdr)
                 continue
             if "HTTP 401" in msg or "HTTP 403" in msg:
                 break  # chave invalida: nao insistir
@@ -258,7 +287,7 @@ def _compat_openai(nome, base, chave, modelos, prompt, json_mode):
 
 
 def ia(prompt, json_mode=False, busca=False):
-    """Pede o texto ao Gemini; se ele falhar, usa Groq e depois Cerebras. Levanta erro so se todas falharem."""
+    """Pede o texto ao Gemini; se ele falhar, usa as reservas (Groq, OpenRouter gratis, Cerebras). Levanta erro so se todas falharem."""
     erros = []
     if GEMINI_KEY:
         try:
@@ -270,8 +299,7 @@ def ia(prompt, json_mode=False, busca=False):
             if busca:
                 raise  # a busca de tendencia so existe no Gemini; quem chama tenta de novo sem busca
             erros.append(f"Gemini: {str(e)[:80]}")
-    for nome, base, chave, modelos in (("Groq", "https://api.groq.com/openai/v1", GROQ_KEY, GROQ_MODELOS),
-                                       ("Cerebras", "https://api.cerebras.ai/v1", CEREBRAS_KEY, CEREBRAS_MODELOS)):
+    for nome, base, chave, modelos in reservas():
         if not chave:
             continue
         try:
@@ -366,11 +394,12 @@ Responda em JSON: {{"responder": true/false, "texto": "...", "mandar_link": true
 - mandar_link=true so se a pessoa pediu o link ou demonstrou interesse claro em comprar."""
     r = ia(prompt, json_mode=True)
     try:
-        d = json.loads(r)
+        m = re.search(r"\{.*\}", r or "", re.S)  # algumas IAs embrulham o JSON em ```json
+        d = json.loads(m.group(0) if m else r)
         d["texto"] = limpar(d.get("texto", ""))[:400]
         return d
     except Exception:
-        if not (GEMINI_KEY or GROQ_KEY or CEREBRAS_KEY):
+        if not (GEMINI_KEY or GROQ_KEY or OPENROUTER_KEY or CEREBRAS_KEY):
             return {"responder": True, "texto": random.choice(["Valeu pelo comentario!", "Tamo junto!", "Que bom que curtiu!"]),
                     "mandar_link": tem_link and bool(re.search(r"link|quero|onde|pre[cç]o|quanto", comentario or "", re.I))}
         return {"responder": False}
@@ -427,8 +456,7 @@ def plano_do_dia(s, agora):
 
 def checar_reservas():
     """Uma vez por dia confere se as IAs reservas respondem (2 pedidos pequenos), so para aparecer no log."""
-    for nome, base, chave, modelos in (("Groq", "https://api.groq.com/openai/v1", GROQ_KEY, GROQ_MODELOS),
-                                       ("Cerebras", "https://api.cerebras.ai/v1", CEREBRAS_KEY, CEREBRAS_MODELOS)):
+    for nome, base, chave, modelos in reservas():
         if not chave:
             log(f"Reserva {nome}: sem chave (nao configurada).")
             continue
