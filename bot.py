@@ -286,10 +286,13 @@ def _compat_openai(nome, base, chave, modelos, prompt, json_mode):
     raise ultimo or RuntimeError(f"{nome} sem modelo disponivel")
 
 
+_FORA = set()  # IAs que falharam nesta rodada: nao insiste nelas de novo (rodada nunca trava)
+
+
 def ia(prompt, json_mode=False, busca=False):
     """Pede o texto ao Gemini; se ele falhar, usa as reservas (Groq, OpenRouter gratis, Cerebras). Levanta erro so se todas falharem."""
     erros = []
-    if GEMINI_KEY:
+    if GEMINI_KEY and "Gemini" not in _FORA:
         try:
             r = gemini(prompt, json_mode=json_mode, busca=busca)
             if r:
@@ -298,15 +301,19 @@ def ia(prompt, json_mode=False, busca=False):
         except Exception as e:
             if busca:
                 raise  # a busca de tendencia so existe no Gemini; quem chama tenta de novo sem busca
+            _FORA.add("Gemini")
             erros.append(f"Gemini: {str(e)[:80]}")
+    elif "Gemini" in _FORA:
+        erros.append("Gemini: fora do ar nesta rodada")
     for nome, base, chave, modelos in reservas():
-        if not chave:
+        if not chave or nome in _FORA:
             continue
         try:
             txt, modelo = _compat_openai(nome, base, chave, modelos, prompt, json_mode)
             log(f"Texto feito pela reserva {nome} ({modelo}), porque: {erros[-1] if erros else '-'}")
             return txt
         except Exception as e:
+            _FORA.add(nome)
             erros.append(f"{nome}: {str(e)[:80]}")
     if not erros:
         return None
@@ -450,7 +457,6 @@ def plano_do_dia(s, agora):
     p = {"data": hoje, "horarios": [f"{h // 60:02d}:{h % 60:02d}" for h in horarios], "feitos": [], "respostas": 0}
     s["plano"] = p
     log(f"Plano de hoje: {len(horarios)} posts ->", ", ".join(p["horarios"]))
-    checar_reservas()
     return p
 
 
@@ -599,6 +605,10 @@ def main():
         raise SystemExit("Falta a variavel PLANILHA_URL.")
     s = carregar_estado()
     agora = dt.datetime.now(TZ)
+    if s.get("reservas_checadas") != agora.strftime("%Y-%m-%d"):
+        checar_reservas()  # 1 vez por dia: mostra no log se Groq/OpenRouter/Cerebras respondem
+        s["reservas_checadas"] = agora.strftime("%Y-%m-%d")
+        _FORA.clear()
     erros = 0
     for tarefa in (tarefa_postar, tarefa_responder):
         try:
