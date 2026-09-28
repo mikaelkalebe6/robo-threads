@@ -19,9 +19,10 @@
    "12:15",
    "14:14",
    "15:59",
-   "17:47"
+   "17:47",
+   "18:38"
   ],
-  "respostas": 13
+  "respostas": 15
  },
  "posts": [
   {
@@ -79,6 +80,13 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: qual é aquela coisa específica que você se recusa a pagar o preço cheio e espera o tempo que for preciso para entrar em promoção?",
    "quando": "2026-09-28T18:07:10.149361-04:00"
+  },
+  {
+   "id": "18131070491495146",
+   "insp": "d12059d204",
+   "link": "",
+   "texto": "ME CONTA: quem mais tem 47 abas abertas no celular e simplesmente não consegue fechar nenhuma?",
+   "quando": "2026-09-28T19:07:09.392761-04:00"
   }
  ],
  "respondidos": [
@@ -104,7 +112,9 @@
   "18103787987351590",
   "18022199792707543",
   "18495157090103744",
-  "17964464553191413"
+  "17964464553191413",
+  "17970607047148958",
+  "17912983725534365"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -114,7 +124,8 @@
   "d13fd94abe8d96a2dcb3d4b02c93cb89",
   "5770744d7d6d9a0c9b3e25dd82a2b35b",
   "e5e209402fa6c9963be6d71628598d11",
-  "42c7bff59081e6fcf09011fe0479b404"
+  "42c7bff59081e6fcf09011fe0479b404",
+  "c3c147ba5bffb021d0a17087813fee1a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -124,7 +135,8 @@
   "7ba791c39f": 1790615357.5071127,
   "7d71edeab3": 1790620679.9542685,
   "0127d41120": 1790626122.8509536,
-  "ff5027f0d8": 1790633283.7908828
+  "ff5027f0d8": 1790633283.7908828,
+  "d12059d204": 1790636883.6793935
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -141,7 +153,9 @@
   "renatothimoteo": 1,
   "jeffressurge": 1,
   "annamonteiro283": 1,
-  "ronaldo.lacerda_": 1
+  "ronaldo.lacerda_": 1,
+  "defariaswellington": 1,
+  "hiroshi_espefelde": 1
  },
  "reservas_checadas": "2026-09-28"
 }
