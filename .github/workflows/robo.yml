@@ -1,10 +1,8 @@
 name: Robo Threads
 
 on:
-  schedule:
-    # a cada 30 min, das 07h as 23h30 de Manaus (GitHub usa horario UTC). Reativado em 27/09/2026
-    - cron: "7,37 11-23 * * *"
-    - cron: "7,37 0-3 * * *"
+  # Disparado so pelo despertador externo (cron-job.org), a cada 30 min, 7h as 23h37 de Manaus.
+  # O schedule interno do GitHub foi removido em 27/09/2026 (quase nunca disparava e gerava rodada dupla).
   workflow_dispatch:
 
 permissions:
