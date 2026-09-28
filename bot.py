@@ -225,7 +225,7 @@ def limpar(t):
 
 def gerar_post(insp, com_link):
     obs = (insp.get("obs") or "").strip().lower()
-    if not obs or "literal" in obs:
+    if "literal" in obs:
         log("Gancho escrito pelo Kalebe: postando o texto dele sem reescrever.")
         return (insp["ideia"] or "").strip()[:500]
     estilo = random.choice(ESTILOS)
@@ -238,7 +238,7 @@ Produto: {insp['produto'] or 'nenhum (nao fale de produto, marca ou empresa)'}
 Observacao: {insp['obs'] or '-'}
 Estilo: {estilo}. Tamanho: {tamanho}.
 Regras: nao coloque link nem @; no maximo 1 emoji (ou nenhum); nada de hashtags em excesso (0 ou 1);
-nao use travessao; {'termine convidando a clicar no link abaixo de forma natural' if com_link else 'termine convidando a comentar (ex: pedir o link, dar opiniao)'}.
+nao use travessao; {'termine convidando a clicar no link abaixo de forma natural' if com_link else 'termine de forma natural e variada: as vezes com uma pergunta para comentarem, as vezes com uma opiniao ou uma frase seca, sem pedir comentario toda vez'}.
 Responda so com o texto do post."""
     usar_trend = random.random() < CHANCE_TREND
     if usar_trend:
