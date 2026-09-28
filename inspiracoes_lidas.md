@@ -1,5 +1,16 @@
 # Inspiracoes lidas pelo Gemini (mais novas primeiro)
 
+## 27/09/2026 | https://www.threads.com/@futurizando
+**Tipo:** Texto / Perfil | **Idioma original:** Português  
+**Transcricao/Conteudo:** Bio do perfil Futurizando no Threads, autoproclamando-se como a maior página de previsões do mundo e destacando prova social com mais de 700 previsões acertadas e mais de 70 mil clientes atendidos.  
+**Gancho:** Apelo imediato de autoridade com declaração superlativa e mística logo na primeira frase.  
+**Estrutura:** Afirmação de autoridade máxima + métrica de acertos + métrica de clientes atendidos.  
+**Por que funciona:** Usa números expressivos de prova social para ativar a curiosidade humana sobre o futuro e o desconhecido.  
+**3 ganchos para o perfil:**  
+1. Eu finjo que não sou curiosa, mas se alguém ler o meu futuro hoje eu acredito em absolutamente tudo.  
+2. Me fala o seu signo e o seu maior defeito que eu tento adivinhar como vai ser a sua semana.  
+3. Se você pudesse receber uma resposta definitiva sobre o seu futuro agora, o que perguntaria?
+
 ## 27/09/2026 | https://www.instagram.com/p/DdvV4u6EXfg/?stkn=czNxNnM5ZmhzcnMw
 **Tipo:** carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:** 
@@ -20,6 +31,7 @@ Imagem 10: "Att, Osvaldo." Semestre que vem a turma vai pro 8º periodo e já av
 Já aconteceu de você entrar em um lugar por engano e acabar virando a atração principal?
 Tem gente que tenta se encaixar em grupos novos e tem o Seu Osvaldo que simplesmente virou a lenda da faculdade.
 O que você faria se caísse em um grupo de WhatsApp de uma turma totalmente aleatória?
+
 
 ## 27/09/2026 | https://www.instagram.com/p/DdleJ43lkww/?stkn=MTBxaDBlcDZ3MWZrMQ==
 **Tipo:** Carrossel | **Idioma original:** Português
@@ -44,6 +56,7 @@ Imagem 6: Vai por mim, essa página não vai aparecer pra você de novo, então 
 3. Tem dias em que tudo o que a gente precisa é ouvir a coisa certa na hora certa:
 
 
+
 ## 27/09/2026 | https://www.threads.com/share/BAWxZQiG8k/
 **Tipo:** Foto com texto | **Idioma original:** Português
 
@@ -59,6 +72,7 @@ Imagem 6: Vai por mim, essa página não vai aparecer pra você de novo, então 
 1. Alguém me avisa se ainda vale a pena se apaixonar hoje em dia ou se é puro golpe?
 2. Acho que caí na besteira de me apegar, qual é a primeira coisa que eu deveria fazer?
 3. Qual é a regra de ouro que vocês nunca quebram quando começam a gostar de alguém?
+
 
 
 ## 27/09/2026 | https://www.threads.com/share/_rN8LJPCn/
