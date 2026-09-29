@@ -18,9 +18,10 @@
    "11:21",
    "13:12",
    "14:00",
-   "16:56"
+   "16:56",
+   "19:16"
   ],
-  "respostas": 100
+  "respostas": 109
  },
  "posts": [
   {
@@ -135,6 +136,14 @@
    "texto": "ME CONTA: outro dia me peguei chamando ir até a farmácia comprar remédio de \"dar um rolê\". O paulistano não tem salvação, qualquer saída de casa com mais de cem metros vira evento.\n\nQual é a gíria da sua cidade que você solta no automático até alguém de fora estranhar?",
    "quando": "2026-09-29T17:07:09.135672-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18061892768525973",
+   "insp": "573ba90908",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: Qual clipe dos VMA ainda faz seu coração bater quando lembra a adolescência? Eu ainda fico na pilha toda vez que escuto aquele refrão 🎧. E o seu?",
+   "quando": "2026-09-29T19:37:09.315886-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -289,7 +298,16 @@
   "18354239869174922",
   "18085271147700747",
   "17907091686483560",
-  "17992713635868299"
+  "17992713635868299",
+  "17948562498308194",
+  "18097470014094209",
+  "18429026272149689",
+  "17903345670596190",
+  "18103060328631490",
+  "17936455338379630",
+  "17910299214541143",
+  "18133044875506774",
+  "17977580276914859"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -307,7 +325,8 @@
   "08048c685a58dd140dfb05d63b1010b6",
   "7f49e2d7c183532e4aa2003684a9d79c",
   "43d2c7cc6673bea2161ea5c88644755a",
-  "d242b3e3272b12d70ace5da3dc0f2e68"
+  "d242b3e3272b12d70ace5da3dc0f2e68",
+  "869ad1dcefe45943f3e9ef7459637dae"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -325,7 +344,8 @@
   "c71e576931": 1790696301.2662683,
   "cd232d0d3c": 1790702799.9300892,
   "fb72b5075b": 1790705255.8349135,
-  "0445902113": 1790716045.8918386
+  "0445902113": 1790716045.8918386,
+  "573ba90908": 1790725049.010326
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -424,55 +444,19 @@
   "tayberaldi": 1,
   "sendoclara_": 1,
   "giomarangoni_": 1,
-  "nubs_catiele": 1
+  "nubs_catiele": 1,
+  "eduardoviana1984": 1,
+  "dalvarollo_": 1,
+  "ladygbueno": 1,
+  "lidianepereiraoficial": 1,
+  "coelholiih": 1,
+  "alissonsimeao": 1,
+  "kmillamp": 1,
+  "sou.totus": 1,
+  "_daniinascimento": 1
  },
  "reservas_checadas": "2026-09-29",
  "ultimas_respostas": [
-  {
-   "t": "coragem pq juizo zero ne",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "duas horas e meia de boneco azul brilhante fazendo parkour",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "serio vejo grings falando mal e fico chocada achei tudo la 😭",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "foi com expectativa de povinho cult e voltou com carter de turista basica",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "milagre a pessoa voltar inteira ne kkkkkkkmmmkkkkk",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "medo desse sigilo todo kkkkkk",
-   "p": "ressalva",
-   "r": 2
-  },
-  {
-   "t": "coragem falar isso com tres horas de hobbit andando na grama",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "pesado demais logo cedo vc quer acabar com o dia de todo mundo",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "to doida pra conhecer, falam tao bem de la",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pelo menos boleto vc paga e some, gente chata fica pro resto da vida 😭",
    "p": "ressalva",
@@ -577,6 +561,51 @@
    "t": "coragem colocar a obra prima coreana na roda de tiro",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "paris decadente me vendeu demais ja entrou pra lista",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "falam tao mal de la q a gente vai achando q vai ser so cimento e tristeza e sai de boca aberta kkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sair pra um festival e acabar morando um ano la e bom demais pra ser so viagem 🩵",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ja entrou pra lista pq romântico basico tem seu valor 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "falam tao bem de la q ta no topo da minha lista pra quando der",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece nome de filme medieval mas ja fiquei curiosa pra saber oq tem la",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "garcom na agua doce ja ganhou meu coracao antes de eu ver o resto 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "falam tao bem de la q da vontade de ir so pra ver se e tudo isso msm",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa cidade tem um charme q pega a gente msm",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],
@@ -615,6 +644,11 @@
    "t": "espertinho vc so de camarote esperando o trabalho dos outros",
    "c": "Vou comentar só pra pegar as tips",
    "q": "2026-09-29T16:07:09.869883-04:00"
+  },
+  "17918054568443728": {
+   "t": "paris decadente me vendeu demais ja entrou pra lista",
+   "c": "Bucareste, capital da Romênia. Estava esperando absolutamente nada e encontrei uma cidade charmosa com uma vibe de Paris decadente",
+   "q": "2026-09-29T19:37:09.315886-04:00"
   }
  }
 }
