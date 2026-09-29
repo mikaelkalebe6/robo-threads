@@ -18,7 +18,7 @@
    "11:21",
    "13:12"
   ],
-  "respostas": 66
+  "respostas": 72
  },
  "posts": [
   {
@@ -238,7 +238,13 @@
   "17909662887552783",
   "18093245651406905",
   "18105184081958601",
-  "18074176382735817"
+  "18074176382735817",
+  "18155895259514025",
+  "18419019844155327",
+  "18096410366355108",
+  "18483690280111484",
+  "18117246583959675",
+  "18069228911769227"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -334,12 +340,17 @@
   "penseinumacoisa": 1,
   "pochag_": 1,
   "davidevidenciaancestral": 1,
-  "valerianicolella2": 1,
+  "valerianicolella2": 2,
   "allaninhay": 1,
   "alex_reis_santiago": 1,
   "_saudadedomar": 1,
   "wrik_jo": 1,
-  "vickibolzoni": 1
+  "vickibolzoni": 1,
+  "isa.xavierf": 1,
+  "devaneiosdefernanda": 1,
+  "ernabecker": 1,
+  "vitor_saulo": 1,
+  "carolinefbrandao": 1
  },
  "reservas_checadas": "2026-09-29",
  "ultimas_respostas": [
@@ -372,6 +383,36 @@
    "t": "a pele que habito vc foi longe demais socorro",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "menos de 10 mil passos ja eh retiro espiritual pra mim kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "anotando todas pq minha mala ja ta pronta",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "milão eh pra quem gosta de ver vitrine chique rezando pro boleto cair",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "sei bem como eh esse dar umas olhadas kkkkkkkmmmkkkk",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "coragem pq juizo zero ne",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "duas horas e meia de boneco azul brilhante fazendo parkour",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],
@@ -380,6 +421,11 @@
    "t": "medo de saber oq vc esconde kkkk",
    "c": "X",
    "q": "2026-09-29T13:30:35.173479-04:00"
+  },
+  "18114750425025391": {
+   "t": "menos de 10 mil passos ja eh retiro espiritual pra mim kkk",
+   "c": "Eu sei que vão me julgar ahahahah mas Gramado! Vou explicar: eu sou praieira, gosto de emoção, coisa grande, adrenalina. Serra e cidadezinha pequena não é pra mim. Mas é pro meu marido rs \nFomos pra G",
+   "q": "2026-09-29T13:37:09.880609-04:00"
   }
  }
 }
