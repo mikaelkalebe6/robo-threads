@@ -16,9 +16,10 @@
    "08:55",
    "10:04",
    "11:21",
-   "13:12"
+   "13:12",
+   "14:00"
   ],
-  "respostas": 72
+  "respostas": 78
  },
  "posts": [
   {
@@ -118,6 +119,13 @@
    "link": "",
    "texto": "ME CONTA: qual foi a cidade mais subestimada que você já visitou? Eu fui achando que não ia ter nada pra fazer e voltei apaixonada.",
    "quando": "2026-09-29T13:25:29.359706-04:00"
+  },
+  {
+   "id": "18183951262422935",
+   "insp": "fb72b5075b",
+   "link": "",
+   "texto": "Quem mais tem a sensação de que existem milhares de profissões misteriosas por aí que pagam super bem e a gente só fica sabendo tarde demais?",
+   "quando": "2026-09-29T14:07:09.741832-04:00"
   }
  ],
  "respondidos": [
@@ -244,7 +252,13 @@
   "18096410366355108",
   "18483690280111484",
   "18117246583959675",
-  "18069228911769227"
+  "18069228911769227",
+  "18028676990684620",
+  "18111084020520237",
+  "17877617646630628",
+  "18046213004816797",
+  "18034399574903263",
+  "18451204630123531"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -260,7 +274,8 @@
   "bdc104390d495996f091b8c9a6bd1faa",
   "5d5134adf4448bd5764bdf4599145927",
   "08048c685a58dd140dfb05d63b1010b6",
-  "7f49e2d7c183532e4aa2003684a9d79c"
+  "7f49e2d7c183532e4aa2003684a9d79c",
+  "43d2c7cc6673bea2161ea5c88644755a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -276,7 +291,8 @@
   "08c5fced1d": 1790687276.4493108,
   "4c34f415ce": 1790690916.9672582,
   "c71e576931": 1790696301.2662683,
-  "cd232d0d3c": 1790702799.9300892
+  "cd232d0d3c": 1790702799.9300892,
+  "fb72b5075b": 1790705255.8349135
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -346,11 +362,16 @@
   "_saudadedomar": 1,
   "wrik_jo": 1,
   "vickibolzoni": 1,
-  "isa.xavierf": 1,
+  "isa.xavierf": 2,
   "devaneiosdefernanda": 1,
   "ernabecker": 1,
   "vitor_saulo": 1,
-  "carolinefbrandao": 1
+  "carolinefbrandao": 1,
+  "karolinarcosta": 1,
+  "elzabognardemelo": 1,
+  "ronifernads": 1,
+  "cristyna_sousa13": 1,
+  "gustavoluizcoradi": 1
  },
  "reservas_checadas": "2026-09-29",
  "ultimas_respostas": [
@@ -413,6 +434,36 @@
    "t": "duas horas e meia de boneco azul brilhante fazendo parkour",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "serio vejo grings falando mal e fico chocada achei tudo la 😭",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "foi com expectativa de povinho cult e voltou com carter de turista basica",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "milagre a pessoa voltar inteira ne kkkkkkkmmmkkkkk",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "medo desse sigilo todo kkkkkk",
+   "p": "ressalva",
+   "r": 2
+  },
+  {
+   "t": "coragem falar isso com tres horas de hobbit andando na grama",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "pesado demais logo cedo vc quer acabar com o dia de todo mundo",
+   "p": "discorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],
@@ -426,6 +477,11 @@
    "t": "menos de 10 mil passos ja eh retiro espiritual pra mim kkk",
    "c": "Eu sei que vão me julgar ahahahah mas Gramado! Vou explicar: eu sou praieira, gosto de emoção, coisa grande, adrenalina. Serra e cidadezinha pequena não é pra mim. Mas é pro meu marido rs \nFomos pra G",
    "q": "2026-09-29T13:37:09.880609-04:00"
+  },
+  "17924323935204453": {
+   "t": "serio vejo grings falando mal e fico chocada achei tudo la 😭",
+   "c": "Atenas",
+   "q": "2026-09-29T14:07:09.741832-04:00"
   }
  }
 }
