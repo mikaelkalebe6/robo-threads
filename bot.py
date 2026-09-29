@@ -48,7 +48,7 @@ PAUSADO = env("PAUSADO", "0") == "1"
 # Mudou uma regra do robo? Mude a Variable e, se for o novo normal, mude AQUI tambem.
 PADRAO = {
     "POSTS_MIN": "6", "POSTS_MAX": "16", "HORA_INICIO": "8", "HORA_FIM": "22", "INTERVALO_MINIMO_MIN": "40",
-    "RESPOSTAS_POR_RODADA": "6", "RESPOSTAS_POR_DIA": "60", "RESPOSTAS_POR_PESSOA": "2",
+    "RESPOSTAS_POR_RODADA": "6", "RESPOSTAS_POR_DIA": "300", "RESPOSTAS_POR_PESSOA": "2",
     "CHANCE_FOTO": "0.5", "CHANCE_TENDENCIA": "0.3",
 }
 _USOU_PADRAO = []
