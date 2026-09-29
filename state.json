@@ -19,7 +19,7 @@
    "13:12",
    "14:00"
   ],
-  "respostas": 90
+  "respostas": 96
  },
  "posts": [
   {
@@ -270,7 +270,13 @@
   "18098420237175758",
   "18106732448622419",
   "18436335283182092",
-  "18208329994316740"
+  "18208329994316740",
+  "18142127440515939",
+  "18104723567105136",
+  "18150610111546878",
+  "17994276783021121",
+  "18234969319324265",
+  "18151158478535399"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -390,45 +396,19 @@
   "patyliborio": 1,
   "cassiolozanoguidotti": 1,
   "julianagarcez.adv": 1,
-  "shaenycosta": 1,
+  "shaenycosta": 2,
   "beachinaider": 1,
   "fevf": 1,
   "rodrigo.editorial": 1,
   "angelicamlnmarreiros": 1,
-  "geulight": 1
+  "geulight": 2,
+  "artesdade87": 1,
+  "daiane.carmo.94": 1,
+  "acaldeira_": 1,
+  "val.ribeiro.sc": 1
  },
  "reservas_checadas": "2026-09-29",
  "ultimas_respostas": [
-  {
-   "t": "medo de saber oq vc esconde kkkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "exposta com sucesso kkkkkk",
-   "p": "ressalva",
-   "r": 2
-  },
-  {
-   "t": "duas horas de pura bomba sonora socorro kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "nem comento pra nao perder a amizade kkkkkkkk",
-   "p": "discorda",
-   "r": 2
-  },
-  {
-   "t": "to bloqueando imediatamente nao aceito calunia contra o patrimônio nacional 😭",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "a pele que habito vc foi longe demais socorro",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "menos de 10 mil passos ja eh retiro espiritual pra mim kkk",
    "p": "ressalva",
@@ -548,6 +528,36 @@
    "t": "duas horas e meia de terno e gritaria na mesa redonda socorro",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "sim a casa da julieta eh uma marmotagem sem fim mas o prosecco salva tudo 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "medo real de crianca descobrir q a gente tbm tem medos bobos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "duas horas e meia de jazz colorido e choro kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pesado hein mas tem pe fe e cabeca cortada pra dar e vender",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "agente secreto e star wars espacial passou dos limites ne",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "essa categoria eh perigosa pq vc comeca defendendo o lixo e acaba criando personalidade baseada em bomba 🙏🏼",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],
@@ -576,6 +586,11 @@
    "t": "fui achando q ia ser so balela romantica e sai querendo morar numa varanda de la",
    "c": "Verona",
    "q": "2026-09-29T15:07:47.686227-04:00"
+  },
+  "17910717966494706": {
+   "t": "sim a casa da julieta eh uma marmotagem sem fim mas o prosecco salva tudo 😭",
+   "c": "Exatamente, achei que seria só Julieta (a casa foi a minha decepção, mesmo sabendo que era fake)… mas é uma das cidades que mais amo visitar, poderia ficar horas sentada olhando o rio e tomando um pro",
+   "q": "2026-09-29T15:37:11.453150-04:00"
   }
  }
 }
