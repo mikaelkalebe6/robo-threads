@@ -48,8 +48,15 @@ PAUSADO = env("PAUSADO", "0") == "1"
 # Mudou uma regra do robo? Mude a Variable e, se for o novo normal, mude AQUI tambem.
 PADRAO = {
     "POSTS_MIN": "6", "POSTS_MAX": "16", "HORA_INICIO": "8", "HORA_FIM": "22", "INTERVALO_MINIMO_MIN": "40",
-    "RESPOSTAS_POR_RODADA": "6", "RESPOSTAS_POR_DIA": "300", "RESPOSTAS_POR_PESSOA": "2",
+    "RESPOSTAS_POR_RODADA": "6", "RESPOSTAS_POR_DIA": "100", "RESPOSTAS_POR_PESSOA": "2",
     "CHANCE_FOTO": "0.5", "CHANCE_TENDENCIA": "0.3",
+    # pausas em segundos (curtas para economizar minutos do GitHub; auditoria de 29/09)
+    "PAUSA_RESPOSTA_MIN": "2", "PAUSA_RESPOSTA_MAX": "5", "ATRASO_POST_MAX": "10",
+    "ATRASO_LINK_MIN": "5", "ATRASO_LINK_MAX": "15",
+    # teste: parte dos posts escrita pelas IAs reservas, ate a data (para comparar desempenho)
+    "CHANCE_POST_RESERVA": "0.1", "TESTE_RESERVA_ATE": "2026-10-20",
+    # Gemini: o principal (GEMINI_MODEL) so aceita poucos pedidos/dia no gratis e fica para os posts
+    "GEMINI_MODEL_RESPOSTA": "gemini-flash-lite-latest",
 }
 _USOU_PADRAO = []
 
@@ -72,6 +79,12 @@ RESP_POR_DIA = int(cfg("RESPOSTAS_POR_DIA"))
 RESP_POR_PESSOA = int(cfg("RESPOSTAS_POR_PESSOA"))
 CHANCE_FOTO = float(cfg("CHANCE_FOTO"))
 CHANCE_TREND = float(cfg("CHANCE_TENDENCIA"))
+PAUSA_RESP = sorted((int(cfg("PAUSA_RESPOSTA_MIN")), int(cfg("PAUSA_RESPOSTA_MAX"))))
+ATRASO_POST_MAX = int(cfg("ATRASO_POST_MAX"))
+ATRASO_LINK = sorted((int(cfg("ATRASO_LINK_MIN")), int(cfg("ATRASO_LINK_MAX"))))
+CHANCE_POST_RESERVA = float(cfg("CHANCE_POST_RESERVA"))
+TESTE_RESERVA_ATE = cfg("TESTE_RESERVA_ATE")
+GEMINI_MODEL_RESPOSTA = cfg("GEMINI_MODEL_RESPOSTA")
 if MIN_POSTS > MAX_POSTS:
     MIN_POSTS, MAX_POSTS = MAX_POSTS, MIN_POSTS
 EXEMPLOS = env("EXEMPLOS_RESPOSTAS", "")
@@ -240,7 +253,7 @@ def _avisar_falha_gemini(modelo, msg):
         log(f"Gemini {modelo} falhou ({motivo}); pulando para o proximo modelo.")
 
 
-def gemini(prompt, json_mode=False, busca=False, imagens=None):
+def gemini(prompt, json_mode=False, busca=False, imagens=None, modelos=None):
     if not GEMINI_KEY:
         return None
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
@@ -252,11 +265,12 @@ def gemini(prompt, json_mode=False, busca=False, imagens=None):
     if busca:
         corpo["tools"] = [{"google_search": {}}]
     r, ultimo = None, None
-    modelos = [GEMINI_MODEL] + [m for m in ("gemini-flash-lite-latest",) if m != GEMINI_MODEL]
+    modelos = modelos or ([GEMINI_MODEL] + [m for m in ("gemini-flash-lite-latest",) if m != GEMINI_MODEL])
     for modelo in modelos:  # principal na frente, 1 tentativa so; falhou, pula para o proximo (decisao do Kalebe 29/09)
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
         try:
             r = http("POST", url, body=corpo, headers={"x-goog-api-key": GEMINI_KEY}, tentativas=1, timeout=45)
+            _QUEM[0] = f"Gemini {modelo}"
             break
         except Exception as e:
             ultimo, msg = e, str(e)
@@ -336,15 +350,38 @@ def _compat_openai(nome, base, chave, modelos, prompt, json_mode):
 
 
 _FORA = set()  # IAs que falharam nesta rodada: nao insiste nelas de novo (rodada nunca trava)
+_QUEM = [""]  # qual IA escreveu o ultimo texto (vai para o registro do post)
 
 
-def ia(prompt, json_mode=False, busca=False, imagens=None, prompt_reserva=None):
+def _so_reservas(prompt, json_mode):
+    """Teste de desempenho: tenta so as reservas. Falhou = None (quem chama volta ao Gemini)."""
+    for nome, base, chave, modelos in reservas():
+        if not chave or nome in _FORA:
+            continue
+        try:
+            txt, modelo = _compat_openai(nome, base, chave, modelos, prompt, json_mode)
+            _QUEM[0] = f"{nome} {modelo}"
+            return txt
+        except Exception as e:
+            _FORA.add(nome)
+            log(f"Teste de reserva: {nome} falhou ({str(e)[:80]})")
+    return None
+
+
+def ia(prompt, json_mode=False, busca=False, imagens=None, prompt_reserva=None, modelos_gemini=None, so_reserva=False):
     """Pede o texto ao Gemini; se ele falhar, usa as reservas (Groq, OpenRouter gratis). Levanta erro so se todas falharem.
-    imagens: so o Gemini enxerga. As reservas recebem prompt_reserva (avisando que nao da para ver a imagem)."""
+    imagens: so o Gemini enxerga. As reservas recebem prompt_reserva (avisando que nao da para ver a imagem).
+    modelos_gemini: quais modelos do Gemini tentar (respostas usam o GEMINI_MODEL_RESPOSTA).
+    so_reserva: teste de desempenho das reservas; se elas falharem, segue o caminho normal."""
+    _QUEM[0] = ""
+    if so_reserva:
+        txt = _so_reservas(prompt_reserva or prompt, json_mode)
+        if txt:
+            return txt
     erros = []
     if GEMINI_KEY and "Gemini" not in _FORA:
         try:
-            r = gemini(prompt, json_mode=json_mode, busca=busca, imagens=imagens)
+            r = gemini(prompt, json_mode=json_mode, busca=busca, imagens=imagens, modelos=modelos_gemini)
             if r:
                 return r
             erros.append("Gemini: resposta vazia")
@@ -361,6 +398,7 @@ def ia(prompt, json_mode=False, busca=False, imagens=None, prompt_reserva=None):
         try:
             txt, modelo = _compat_openai(nome, base, chave, modelos, prompt_reserva or prompt, json_mode)
             log(f"Texto feito pela reserva {nome} ({modelo}), porque: {erros[-1] if erros else '-'}")
+            _QUEM[0] = f"{nome} {modelo}"
             return txt
         except Exception as e:
             _FORA.add(nome)
@@ -398,6 +436,7 @@ def gerar_post(insp, com_link):
     obs = (insp.get("obs") or "").strip().lower()
     if "literal" in obs:
         log("Gancho escrito pelo Kalebe: postando o texto dele sem reescrever.")
+        _QUEM[0] = "literal"
         return (insp["ideia"] or "").strip()[:500]
     estilo = random.choice(ESTILOS)
     tamanho = random.choice(["bem curto (1 a 2 linhas)", "curto (2 a 4 linhas)", "medio (ate 5 linhas)"])
@@ -411,7 +450,16 @@ Estilo: {estilo}. Tamanho: {tamanho}.
 Regras: nao coloque link nem @; no maximo 1 emoji (ou nenhum); nada de hashtags em excesso (0 ou 1);
 nao use travessao; {'termine convidando a clicar no link abaixo de forma natural' if com_link else 'termine de forma natural e variada: as vezes com uma pergunta para comentarem, as vezes com uma opiniao ou uma frase seca, sem pedir comentario toda vez'}.
 Responda so com o texto do post."""
-    usar_trend = random.random() < CHANCE_TREND
+    teste_reserva = dt.datetime.now(TZ).strftime("%Y-%m-%d") <= TESTE_RESERVA_ATE and random.random() < CHANCE_POST_RESERVA
+    usar_trend = random.random() < CHANCE_TREND and not teste_reserva  # busca so existe no Gemini
+    if teste_reserva:
+        try:
+            txt = limpar(_so_reservas(prompt, False) or "")
+            if txt:
+                log(f"Teste de reserva: post escrito por {_QUEM[0]}.")
+                return txt[:440]
+        except Exception as e:
+            log("Teste de reserva falhou, seguindo com o Gemini:", str(e)[:120])
     if usar_trend:
         prompt += ("\nAntes de escrever, pesquise o que esta sendo muito comentado HOJE no Brasil "
                    "(redes sociais e noticias) ligado ao tema da inspiracao e use esse assunto atual "
@@ -432,6 +480,7 @@ Responda so com o texto do post."""
         txt = ""
     if not txt:
         txt = (insp["ideia"] or "").strip()
+        _QUEM[0] = "literal (IAs fora)"
     return txt[:440]
 
 
@@ -520,7 +569,8 @@ Responda so em JSON: {{"intencao": "...", "emocao": "...", "energia": 0, "espera
     d = {"responder": False}
     for tentativa in range(2):
         extra = "" if not tentativa else "\nSua ultima tentativa repetiu uma resposta recente. Escreva outra, diferente."
-        r = ia(montar(True) + extra, json_mode=True, imagens=imagens, prompt_reserva=montar(False) + extra)
+        r = ia(montar(True) + extra, json_mode=True, imagens=imagens, prompt_reserva=montar(False) + extra,
+               modelos_gemini=[GEMINI_MODEL_RESPOSTA])
         try:
             m = re.search(r"\{.*\}", r or "", re.S)  # algumas IAs embrulham o JSON em ```json
             d = json.loads(m.group(0) if m else r)
@@ -621,6 +671,7 @@ def tarefa_postar(s, agora):
         tem_link = bool(insp["link"])
         link_no_post = tem_link and random.random() < 0.5
         t = gerar_post(insp, com_link=link_no_post)
+        ia_post = _QUEM[0]
         hs = hashlib.md5(sem_acento(t).encode()).hexdigest()
         if hs not in s.get("hashes", []):
             texto = t
@@ -633,7 +684,7 @@ def tarefa_postar(s, agora):
     if link_no_post:
         texto = f"{texto}\n\n{insp['link']}"
 
-    time.sleep(random.randint(0, 25))  # pequeno atraso aleatorio extra (curto para economizar minutos do GitHub)
+    time.sleep(random.randint(0, ATRASO_POST_MAX))  # pequeno atraso aleatorio (curto para economizar minutos do GitHub)
     try:
         pid = publicar(texto, foto=insp["foto"] if usar_foto else None)
     except Exception as e:
@@ -642,10 +693,10 @@ def tarefa_postar(s, agora):
         log("Midia recusada, postando so o texto:", str(e)[:150])
         usar_foto = False
         pid = publicar(texto)
-    log(f"POSTADO ({'foto' if usar_foto else 'texto'}{', link no post' if link_no_post else ''}):", pid)
+    log(f"POSTADO ({'foto' if usar_foto else 'texto'}{', link no post' if link_no_post else ''}, escrito por {ia_post or '-'}):", pid)
 
     if tem_link and not link_no_post:
-        time.sleep(random.randint(20, 60))
+        time.sleep(random.randint(*ATRASO_LINK))
         lid = publicar(random.choice(FRASES_LINK_PROPRIO).format(l=insp["link"]), responder_a=pid)
         s.setdefault("minhas_respostas", {})[lid] = {"t": "(link)", "c": "", "q": agora.isoformat()}
         log("Link colocado no primeiro comentario.")
@@ -654,7 +705,7 @@ def tarefa_postar(s, agora):
     s.setdefault("hashes", []).append(hs)
     s.setdefault("uso", {})[insp["id"]] = time.time()
     s.setdefault("posts", []).append({"id": pid, "insp": insp["id"], "link": insp["link"],
-                                      "texto": texto[:300], "quando": agora.isoformat()})
+                                      "texto": texto[:300], "quando": agora.isoformat(), "ia": ia_post})
     salvar_estado(s)
 
 
@@ -824,7 +875,7 @@ def tarefa_responder(s, agora):
             txt = d["texto"]
             if d.get("mandar_link") and post.get("link"):
                 txt = f"{txt}\n{random.choice(FRASES_LINK).format(l=post['link'])}"
-            time.sleep(random.randint(8, 25))
+            time.sleep(random.randint(*PAUSA_RESP))
             rid = publicar(txt, responder_a=c["id"])
             feitas += 1
             p["respostas"] = p.get("respostas", 0) + 1
@@ -851,7 +902,9 @@ def main():
     agora = dt.datetime.now(TZ)
     if s.get("reservas_checadas") != agora.strftime("%Y-%m-%d"):
         log(f"Config em uso: {MIN_POSTS} a {MAX_POSTS} posts/dia, {HORA_INI}h as {HORA_FIM}h, intervalo {INTERVALO_MIN} min, "
-            f"respostas {RESP_POR_RODADA}/rodada {RESP_POR_DIA}/dia {RESP_POR_PESSOA}/pessoa, foto {CHANCE_FOTO}, tendencia {CHANCE_TREND}")
+            f"respostas {RESP_POR_RODADA}/rodada {RESP_POR_DIA}/dia {RESP_POR_PESSOA}/pessoa, foto {CHANCE_FOTO}, tendencia {CHANCE_TREND}, "
+            f"pausas resposta {PAUSA_RESP[0]}-{PAUSA_RESP[1]}s post 0-{ATRASO_POST_MAX}s link {ATRASO_LINK[0]}-{ATRASO_LINK[1]}s, "
+            f"Gemini posts {GEMINI_MODEL} respostas {GEMINI_MODEL_RESPOSTA}, teste reservas {CHANCE_POST_RESERVA} ate {TESTE_RESERVA_ATE}")
         if _USOU_PADRAO:
             log("Valores do PADRAO do codigo (Variable vazia):", ", ".join(_USOU_PADRAO))
         checar_reservas()  # 1 vez por dia: mostra no log se Groq/OpenRouter respondem
