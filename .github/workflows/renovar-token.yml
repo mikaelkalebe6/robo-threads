@@ -5,6 +5,9 @@ on:
     - cron: "15 13 1,15 * *"   # dias 1 e 15 de cada mes
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   renovar:
     runs-on: ubuntu-latest
