@@ -135,12 +135,13 @@ def http(method, url, params=None, body=None, headers=None, tentativas=3, timeou
                 return json.loads(txt) if txt else {}
         except urllib.error.HTTPError as e:
             msg = e.read().decode("utf-8", "replace")
-            ultimo = RuntimeError(f"HTTP {e.code}: {msg[:500]}")
+            ultimo = RuntimeError(f"HTTP {e.code}: {msg[:1500]}")
             if e.code < 500 and e.code != 429:
                 raise ultimo
         except Exception as e:
             ultimo = e
-        time.sleep(5 * (i + 1))
+        if i < tentativas - 1:
+            time.sleep(5 * (i + 1))  # espera so se ainda vai tentar de novo
     raise ultimo
 
 
@@ -221,6 +222,24 @@ def escolher_inspiracao(itens, s):
 
 
 # ---------------------------------------------------------------- gemini
+_GEMINI_AVISOS = set()
+
+
+def _avisar_falha_gemini(modelo, msg):
+    """Mostra no log o MOTIVO da falha (1 vez por rodada), para saber se e cota, sobrecarga ou tempo."""
+    if "HTTP 429" in msg:
+        q = re.search(r'"quotaId":\s*"([^"]+)"', msg)
+        v = re.search(r'"quotaValue":\s*"?(\d+)', msg)
+        motivo = "cota esgotada" + (f": {q.group(1)}, limite {v.group(1)}" if q and v else (f": {q.group(1)}" if q else ""))
+    elif "HTTP 503" in msg:
+        motivo = "servidor do Google sobrecarregado (503)"
+    else:
+        motivo = msg[:80]
+    if (modelo, motivo) not in _GEMINI_AVISOS:
+        _GEMINI_AVISOS.add((modelo, motivo))
+        log(f"Gemini {modelo} falhou ({motivo}); pulando para o proximo modelo.")
+
+
 def gemini(prompt, json_mode=False, busca=False, imagens=None):
     if not GEMINI_KEY:
         return None
@@ -234,22 +253,16 @@ def gemini(prompt, json_mode=False, busca=False, imagens=None):
         corpo["tools"] = [{"google_search": {}}]
     r, ultimo = None, None
     modelos = [GEMINI_MODEL] + [m for m in ("gemini-flash-lite-latest",) if m != GEMINI_MODEL]
-    tem_reserva = bool(GROQ_KEY or OPENROUTER_KEY)
-    for modelo in modelos:
+    for modelo in modelos:  # principal na frente, 1 tentativa so; falhou, pula para o proximo (decisao do Kalebe 29/09)
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
-        for tentativa in range(1 if tem_reserva else 2):
-            try:
-                r = http("POST", url, body=corpo, headers={"x-goog-api-key": GEMINI_KEY},
-                         tentativas=2 if tem_reserva else 3, timeout=45 if tem_reserva else 60)
-                break
-            except Exception as e:
-                ultimo, msg = e, str(e)
-                if busca or not any(c in msg for c in ("HTTP 500", "HTTP 503", "HTTP 429", "timed out")):
-                    raise
-                log(f"Gemini instavel ({modelo}), tentando de novo...")
-                time.sleep(6 * (tentativa + 1))
-        if r is not None:
+        try:
+            r = http("POST", url, body=corpo, headers={"x-goog-api-key": GEMINI_KEY}, tentativas=1, timeout=45)
             break
+        except Exception as e:
+            ultimo, msg = e, str(e)
+            if busca or not any(c in msg for c in ("HTTP 500", "HTTP 502", "HTTP 503", "HTTP 504", "HTTP 429", "timed out", "timeout")):
+                raise
+            _avisar_falha_gemini(modelo, msg)
     if r is None:
         raise ultimo
     try:
