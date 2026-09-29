@@ -9,6 +9,7 @@ TZ = ZoneInfo("America/Manaus")
 AQUI = os.path.dirname(os.path.abspath(__file__))
 ESTADO = os.path.join(AQUI, "inspiracoes_estado.json")
 SAIDA = os.path.join(AQUI, "inspiracoes_lidas.md")
+SAIDA_MELHORIAS = os.path.join(AQUI, "melhorias_lidas.md")  # links marcados "Melhoria" no app: ideias para o projeto, nao post
 KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 MODELO = os.environ.get("GEMINI_MODEL", "").strip() or "gemini-flash-latest"
 PLANILHA = os.environ.get("INSPIRACOES_URL", "").strip() or \
@@ -62,6 +63,18 @@ Responda em portugues do Brasil, sem travessoes, curto, neste formato:
 **3 ganchos para o perfil:** (3 frases prontas, originais, sem copiar o conteudo)
 Observacao do Kalebe sobre esta inspiracao: {obs}
 {extra}"""
+
+PEDIDO_MELHORIA = """O Kalebe salvou este conteudo como IDEIA DE MELHORIA para o projeto dele (automacao do Threads com IA, crescimento de perfil, afiliados Shopee, uso do Claude). NAO e inspiracao de post: nao sugira ganchos.
+Responda em portugues do Brasil, sem travessoes, direto, neste formato:
+**Tipo:** (video, foto, texto, carrossel) | **Idioma original:** ...
+**Conteudo:** (se for video ou audio: transcreva a fala traduzida para portugues, no maximo 300 palavras; se for texto ou imagens: resuma tudo, inclusive o texto das imagens)
+**Ideia principal:** (1 ou 2 frases)
+**Ferramentas, sites ou precos citados:** (lista curta, ou "nenhum")
+**Como aplicar no projeto:** (2 a 4 passos praticos)
+**Riscos ou custos:** (ban, seguranca, dinheiro; ou "nenhum aparente")
+Observacao do Kalebe: {obs}
+{extra}"""
+_PED = [PEDIDO]  # pedido em uso no item atual (post ou melhoria)
 
 
 CRAWLERS = [{"User-Agent": "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"},
@@ -184,10 +197,10 @@ def analisar(link, video, obs):
         ext = os.path.splitext(urllib.parse.unquote(video).split("?")[0])[1].lower()
         mime = MIME.get(ext) or (ctype.split(";")[0] if ctype and "/" in ctype and "html" not in ctype else "video/mp4")
         partes = [{"inline_data": {"mime_type": mime, "data": base64.b64encode(dados).decode()}},
-                  {"text": PEDIDO.format(obs=obs, extra="Link original: " + (link or "-"))}]
+                  {"text": _PED[0].format(obs=obs, extra="Link original: " + (link or "-"))}]
         return gemini(partes)
     if re.search(r"(youtube\.com|youtu\.be)", link or "", re.I):
-        return gemini([{"file_data": {"file_uri": link}}, {"text": PEDIDO.format(obs=obs, extra="")}])
+        return gemini([{"file_data": {"file_uri": link}}, {"text": _PED[0].format(obs=obs, extra="")}])
     texto, midia = meta_da_pagina(link)
     arq = baixar_video(link)
     if not arq and midia.get("video"):
@@ -203,7 +216,7 @@ def analisar(link, video, obs):
         dados = open(arq, "rb").read()
         ext = os.path.splitext(arq)[1].lower()
         partes = [{"inline_data": {"mime_type": MIME.get(ext, "video/mp4"), "data": base64.b64encode(dados).decode()}},
-                  {"text": PEDIDO.format(obs=obs, extra="Link original: " + link + ("\nLegenda publica: " + texto if texto else ""))}]
+                  {"text": _PED[0].format(obs=obs, extra="Link original: " + link + ("\nLegenda publica: " + texto if texto else ""))}]
         return gemini(partes)
     partes = []
     imagens = list(midia.get("imagens") or [])
@@ -230,7 +243,28 @@ def analisar(link, video, obs):
         extra += ("\nE um CARROSSEL com %d imagens, na ordem. Na parte Transcricao/Conteudo, transcreva o texto de TODAS "
                   "as imagens, uma por linha (Imagem 1: ..., Imagem 2: ...), sem limite de palavras; as frases sao a parte "
                   "mais importante." % len(partes))
-    return gemini(partes + [{"text": PEDIDO.format(obs=obs, extra=extra)}])
+    return gemini(partes + [{"text": _PED[0].format(obs=obs, extra=extra)}])
+
+
+def eh_melhoria(l):
+    """Coluna "tipo" do app (botao Post / Melhoria). Vazio conta como Post."""
+    t = (l.get("tipo", "") or "").lower()
+    return "melhoria" in t or "ideia" in t
+
+
+def gravar(caminho, cabecalho, blocos, remover=()):
+    """Poe os blocos novos no topo do arquivo, tirando versoes antigas do mesmo link (e os links em remover)."""
+    if not blocos and not remover:
+        return
+    antigo = open(caminho, encoding="utf-8").read() if os.path.exists(caminho) else ""
+    if not antigo and not blocos:
+        return
+    corpo = antigo.replace(cabecalho, "")
+    tira = {b.split("\n", 1)[0].split(" | ", 1)[-1] for b in list(blocos) + list(remover)}
+    corpo = "\n".join(x for x in re.split(r"(?m)^(?=## )", corpo)
+                      if x.strip() and x.split("\n", 1)[0].split(" | ", 1)[-1] not in tira)
+    corpo = ("\n".join(blocos) + "\n" + corpo)[:60000]
+    open(caminho, "w", encoding="utf-8").write(cabecalho + corpo.strip() + "\n")
 
 
 def main():
@@ -255,17 +289,20 @@ def main():
         texto = l.get("legenda_ou_texto", "")
         if not (link or video or texto):
             continue
-        chave = hashlib.md5(("v3|" + link + "|" + video + "|" + texto).encode()).hexdigest()[:12]
+        prefixo = "v3|melhoria|" if eh_melhoria(l) else "v3|"
+        chave = hashlib.md5((prefixo + link + "|" + video + "|" + texto).encode()).hexdigest()[:12]
         if chave not in feitos:
             novos.append((chave, l))
     if not novos:
         return
-    blocos = []
+    blocos, blocos_m = [], []
     for chave, l in novos[:POR_RODADA]:
         link, video, obs, texto = l.get("link", ""), l.get("video", ""), l.get("observacao", ""), l.get("legenda_ou_texto", "")
+        melhoria = eh_melhoria(l)
+        _PED[0] = PEDIDO_MELHORIA if melhoria else PEDIDO
         try:
             if texto and not video and not link:
-                analise = gemini([{"text": PEDIDO.format(obs=obs or "(nenhuma)", extra="Texto enviado pelo Kalebe:\n" + texto)}])
+                analise = gemini([{"text": _PED[0].format(obs=obs or "(nenhuma)", extra="Texto enviado pelo Kalebe:\n" + texto)}])
             else:
                 analise = analisar(link, video, obs)
                 if texto:
@@ -276,17 +313,13 @@ def main():
                 log("Gemini indisponivel agora, tento na proxima rodada:", msg[:100]); break
             analise = "Falhou ao analisar: " + msg[:200]
         feitos.add(chave)
-        blocos.append(f"## {l.get('data', '') or agora.strftime('%d/%m/%Y')} | {link or video or 'texto'}\n{analise}\n")
-        log("Lida:", link or video or "texto")
-    if blocos:
-        antigo = open(SAIDA, encoding="utf-8").read() if os.path.exists(SAIDA) else ""
-        cabecalho = "# Inspiracoes lidas pelo Gemini (mais novas primeiro)\n\n"
-        corpo = antigo.replace(cabecalho, "")
-        refeitos = {b.split("\n", 1)[0].split(" | ", 1)[-1] for b in blocos}
-        corpo = "\n".join(x for x in re.split(r"(?m)^(?=## )", corpo)
-                          if x.strip() and x.split("\n", 1)[0].split(" | ", 1)[-1] not in refeitos)
-        corpo = ("\n".join(blocos) + "\n" + corpo)[:60000]
-        open(SAIDA, "w", encoding="utf-8").write(cabecalho + corpo.strip() + "\n")
+        (blocos_m if melhoria else blocos).append(
+            f"## {l.get('data', '') or agora.strftime('%d/%m/%Y')} | {link or video or 'texto'}\n{analise}\n")
+        log("Lida (melhoria):" if melhoria else "Lida:", link or video or "texto")
+    gravar(SAIDA, "# Inspiracoes lidas pelo Gemini (mais novas primeiro)\n\n", blocos)
+    gravar(SAIDA_MELHORIAS, "# Ideias e melhorias salvas pelo Kalebe, lidas pelo Gemini (para o Claude; mais novas primeiro)\n\n", blocos_m)
+    if blocos_m:  # item reclassificado como melhoria sai do arquivo de inspiracoes de post
+        gravar(SAIDA, "# Inspiracoes lidas pelo Gemini (mais novas primeiro)\n\n", [], remover=blocos_m)
     estado["feitos"] = sorted(feitos)[-2000:]
     json.dump(estado, open(ESTADO, "w"))
 
