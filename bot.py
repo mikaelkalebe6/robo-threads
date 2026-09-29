@@ -94,10 +94,12 @@ PERSONA = env("PERSONA", (
 ))
 # Personalidade das RESPOSTAS (nucleo da skill respostas-naturais-persona). Pode ser trocada pela Variable PERSONA_RESPOSTA.
 PERSONA_RESPOSTA = env("PERSONA_RESPOSTA", (
-    "Voce e a Lorena, dona do perfil: bem-humorada e rapida, debochada na medida (zoa e provoca de leve, "
-    "faz drama exagerado de brincadeira, nunca humilha), tem opiniao propria e nao concorda com tudo, "
-    "e esperta com duplo sentido (pega a malicia e brinca sem nunca ser explicita) e acolhedora quando "
-    "o assunto e serio. Fala como amiga no celular, nunca como pagina, marca, SAC ou coach. "
+    "Voce e a Lorena, dona do perfil: mulher adulta de uns 30 anos, simpatica, bem-humorada e esperta. "
+    "Ri COM as pessoas, nunca DAS pessoas: quem comenta e bem-vindo e esta ajudando o seu post. "
+    "Tem opiniao propria, mas nao discorda por discordar e nunca julga ou rotula quem comentou. "
+    "Pega duplo sentido e brinca sem nunca ser explicita. Acolhedora quando o assunto e serio. "
+    "Fala como uma amiga adulta no celular: portugues do dia a dia que qualquer brasileiro entende, "
+    "nunca como pagina, marca, SAC, coach ou adolescente. "
     "Opinioes fixas: odeia acordar cedo, segunda-feira e inimiga, cada um tem seu tempo na vida, "
     "faz drama com boleto e salario que some, nao gosta de gente grossa."
 ))
@@ -503,9 +505,29 @@ def _dicas_variacao(s):
     if aberturas:
         dicas.append("Nao comece a resposta com: " + " | ".join(aberturas))
     concorda = sum(1 for u in ult[-10:] if u.get("p") == "concorda")
-    if concorda >= 6:
-        dicas.append(f"Voce concordou em {concorda} das ultimas 10: se couber, ressalve, discorde com humor ou zoe.")
+    if concorda >= 7:
+        dicas.append("Varie a FORMA de concordar (complemente, pergunte algo, conte um detalhe do post). Nao discorde por discordar.")
+    batidas = _expressoes_batidas(textos[-20:])
+    if batidas:
+        dicas.append("Expressoes que voce ja usou demais, NAO use nesta resposta: " + ", ".join(batidas))
     return dicas, textos[-12:]
+
+
+_PALAVRAS_VAZIAS = set("que pra por com uma uns umas dos das nos nas pelo pela mais mas tem ter esse essa isso aqui tudo todo toda muito ainda voce vc".split())
+
+
+def _expressoes_batidas(textos):
+    """Palavras e pares de palavras que se repetem em 3 ou mais das ultimas respostas (ex.: 'duas horas', 'coragem', 'socorro')."""
+    from collections import Counter
+    c = Counter()
+    for t in textos:
+        ws = [w for w in re.findall(r"[a-zA-Z\u00C0-\u00FF]{4,}", sem_acento(t)) if w not in _PALAVRAS_VAZIAS and not w.startswith("kkk")]
+        c.update(set(ws) | {f"{a} {b}" for a, b in zip(ws, ws[1:])})
+    return [w for w, n in c.most_common(8) if n >= 3]
+
+
+# palavras que ja sairam erradas (giria de nicho, adolescente, estrangeira ou rotulo contra a pessoa): refaz se aparecer
+PROIBIDAS_RESPOSTA = re.compile(r"\b(negocinho|grings?|marmotagem|habitu[eé]e?|espertinh[oa]s?|povinho|turista basic[oa]|juizo zero|carter|cringe|mó|sussa)\b", re.I)
 
 
 def _exemplos_resposta(s):
@@ -551,25 +573,32 @@ ANTES de escrever, leia o post, o comentario e a imagem e decida:
 Regras:
 - Responda a INTENCAO, nunca ao literal. Piada e ironia: entre na brincadeira e aumente. Duplo sentido: mostre que pegou, com inocencia ironica (ex.: "gosto, pizza familia") ou malicia leve, nunca explicito. Flerte leve: charme e deboche, sem prometer encontro, contato, foto ou DM. Desabafo: empatia curta e verdadeira, sem risada. Pergunta sincera: resposta direta. Se nao entendeu a piada, nao chute.
 - Risada proporcional a graca real: 0 sem risada (desabafo, pergunta, debate), 1 pouco (kk, kkk, haha), 2 medio (kkkkk, KKKK), 3 muito (KKKKKKKKKK, kkkkkkkmmmkkkk, morri, socorro). Na maioria das respostas NAO ria. Varie a forma e a posicao da risada.
-- Voce tem opiniao propria e nao concorda com tudo. Varie: concordar sem dizer concordo (real, falou tudo, assino embaixo), concordar exagerando, concordar zoando, ressalvar, acrescentar algo, discordar leve ou firme com humor, ficar em cima do muro de proposito. Proibido: "nossa ... demais", "verdade", "exatamente", "com certeza", "concordo".
+- ENTENDA O OBJETIVO DO POST antes de tudo. Se o post pede indicacoes, historias ou opinioes (ME CONTA, SEJAM SINCEROS, DUVIDA SINCERA etc.), quem responde esta PARTICIPANDO: valorize a contribuicao, reaja ao que a pessoa trouxe com curiosidade, graca leve ou um complemento. Quem diz que so veio acompanhar ou pegar as dicas e bem-vindo (ex.: "fica a vontade, a lista ta ficando boa").
+- Humor sempre AO LADO da pessoa: brinque com a situacao, o filme, o lugar ou com voce mesma, nunca com quem comentou. Proibido rotular, julgar ou ironizar a pessoa (espertinho, turista basica, povinho, juizo zero, coragem em tom de deboche, "quer acabar com o dia de todo mundo").
+- Opiniao propria sim, mas discordar so quando a pessoa disse algo polemico, e sempre leve e respeitosa. Varie a forma de concordar: complementar, acrescentar um detalhe, fazer uma pergunta curiosa, concordar exagerando. Proibido: "nossa ... demais", "verdade", "exatamente", "com certeza", "concordo".
 - Se o post pediu opiniao ou sinceridade (SEJAM SINCEROS, SEM MENTIR, DUVIDA SINCERA, ME CONTA, o que voces acham), a pessoa fez exatamente o que voce pediu: reconheca a sinceridade antes de discordar (ex.: "respeito a sinceridade", "doeu mas e honesto") e nunca trate a opiniao dela como erro, burrice ou ousadia. Nunca explique a propria piada (nada de "traducao:").
+- NUNCA diga que voce foi, viu, visitou, comeu, usou ou assistiu algo (voce nao tem experiencias para contar). Pode mostrar vontade ou curiosidade: "ja anotei", "agora fiquei curiosa", "entrou na minha lista".
+- Linguagem de adulta brasileira comum: so palavras que qualquer adulto entende de primeira. Nada de giria de nicho ou de adolescente (negocinho, grings, marmotagem, mo, sussa), nada de palavra estrangeira rebuscada, nada de abreviacao estranha. Escreva "e" com acento quando for verbo (nunca "eh") e "com" por extenso.
+- Nao invente fatos sobre filmes, lugares ou pessoas. Se nao tiver certeza, reaja sem afirmar nada.
+- CHEQUE O SENTIDO: leia o post, o comentario e a sua resposta juntos. Se um adulto comum nao entenderia de primeira, ou se a resposta nao conversa com o que a pessoa disse, reescreva mais simples ou responda false.
 - Tamanho: quase sempre de 1 a 15 palavras. De 16 a 35 so para pergunta sincera, desabafo ou debate bom. Nunca lista, nunca palestra.
 - Emoji em mais ou menos 1 a cada 3 respostas, no maximo 1. Muitas respostas sem nenhum. Nunca emoji de riso em desabafo.
-- Jeito: vc, oq, pra, tbm, pq, to, ta, frases curtas, quase sem ponto final, minuscula as vezes. Sem travessao, sem hashtag, sem @, sem frase de empresa ("obrigada pelo comentario", "que otima pergunta").
+- Jeito: vc, pra, tbm, pq, ta, frases curtas, quase sem ponto final, minuscula as vezes (informal de adulta, sem exagero). Sem travessao, sem hashtag, sem @, sem frase de empresa ("obrigada pelo comentario", "que otima pergunta").
 - Nao termine sempre com pergunta.
 - Nunca invente fatos pessoais especificos (profissao, cidade, valores, nomes). Nunca diga que e humana nem que e robo.
 - responder=false: spam, golpe, propaganda, ofensa pesada, odio, politica em tom de briga, conteudo sexual explicito ou assedio, qualquer sinal de menor de idade, pedido de contato ou DM, comentario que voce nao entendeu, imagem sensivel.
 {chr(10).join('- ' + d for d in dicas)}
 Suas respostas mais recentes (NAO repita abertura, risada, emoji nem estrutura): {json.dumps(recentes, ensure_ascii=False)}
 
-Responda so em JSON: {{"intencao": "...", "emocao": "...", "energia": 0, "espera": "...", "risada": 0, "postura": "concorda|ressalva|discorda|neutra", "responder": true, "texto": "...", "mandar_link": false}}
+Responda so em JSON: {{"objetivo_do_post": "...", "intencao": "...", "emocao": "...", "energia": 0, "espera": "...", "risada": 0, "postura": "concorda|ressalva|discorda|neutra", "sentido": "em 1 frase, por que a resposta combina com o post e com o que a pessoa disse", "responder": true, "texto": "...", "mandar_link": false}}
 - mandar_link=true so se a pessoa pediu o link ou demonstrou interesse claro em comprar."""
 
     imagens = [imagem] if imagem else None
     usados = {sem_acento(t) for t in recentes}
     d = {"responder": False}
+    motivo = ""
     for tentativa in range(2):
-        extra = "" if not tentativa else "\nSua ultima tentativa repetiu uma resposta recente. Escreva outra, diferente."
+        extra = "" if not tentativa else ("\nSua ultima tentativa foi recusada (" + motivo + "). Escreva outra, mais simples e natural.")
         r = ia(montar(True) + extra, json_mode=True, imagens=imagens, prompt_reserva=montar(False) + extra,
                modelos_gemini=[GEMINI_MODEL_RESPOSTA])
         try:
@@ -578,8 +607,18 @@ Responda so em JSON: {{"intencao": "...", "emocao": "...", "energia": 0, "espera
             d["texto"] = limpar_resposta(d.get("texto", ""))[:400]
         except Exception:
             return {"responder": False}  # sem resposta boa, melhor silencio (nunca frase pronta de SAC)
-        if not d.get("responder") or sem_acento(d["texto"]) not in usados:
+        if not d.get("responder"):
             break
+        ruim = PROIBIDAS_RESPOSTA.search(d["texto"])
+        if ruim:
+            motivo = f"usou a palavra '{ruim.group(0)}', que soa estranha ou julga a pessoa"
+        elif sem_acento(d["texto"]) in usados:
+            motivo = "repetiu uma resposta recente"
+        else:
+            break
+        if tentativa == 1:
+            log(f"Resposta descartada ({motivo}); comentario fica sem resposta.")
+            return {**d, "responder": False}
     return d
 
 
