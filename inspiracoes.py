@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Leitor de inspiracoes: le links/videos novos da planilha de Inspiracoes e pede ao Gemini
 (transcricao + analise). Resultado vai para inspiracoes_lidas.md, que o Claude le no domingo."""
-import os, re, sys, json, base64, hashlib, csv, io, html, urllib.request, urllib.parse
+import os, re, sys, json, time, base64, hashlib, csv, io, html, urllib.request, urllib.parse
 import datetime as dt
 from zoneinfo import ZoneInfo
 
@@ -16,7 +16,9 @@ PLANILHA = os.environ.get("INSPIRACOES_URL", "").strip() or \
     "https://docs.google.com/spreadsheets/d/1KTkNtlksA4sWBh5Usfwc9EsRELcoGaBXXVOEEo9Km-k/export?format=csv&gid=1716591096"
 APP = os.environ.get("APPSHEET_APP", "").strip() or "PainelThreads-485832426"
 TABELA = os.environ.get("APPSHEET_TABELA_INSP", "").strip() or "Untitled 2"
-POR_RODADA = 3
+POR_RODADA = int(os.environ.get("INSPIRACOES_POR_RODADA", "").strip() or 12)  # le tudo o que der em cada leitura
+HORAS_ENTRE = float(os.environ.get("INSPIRACOES_HORAS", "").strip() or 6)  # poucas leituras por dia (8h, 14h, 20h)
+TEMPO_MAX = 180  # segundos por leitura; o que sobrar fica para a rodada seguinte
 MAX_MB = 18
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36"}
 MIME = {".mp4": "video/mp4", ".mov": "video/quicktime", ".m4v": "video/mp4", ".webm": "video/webm",
@@ -273,6 +275,12 @@ def main():
     agora = dt.datetime.now(TZ)
     if not (8 <= agora.hour <= 22):
         return
+    estado = json.load(open(ESTADO)) if os.path.exists(ESTADO) else {"feitos": []}
+    proxima = estado.get("proxima_leitura", 0)
+    if time.time() < proxima:  # le poucas vezes por dia, mas tudo o que der em cada leitura
+        log("Proxima leitura as", dt.datetime.fromtimestamp(proxima, TZ).strftime("%H:%M"))
+        return
+    inicio = time.time()
     try:
         d, _ = baixar(PLANILHA)
         txt = d.decode("utf-8-sig", "replace")
@@ -280,7 +288,6 @@ def main():
         log("Nao consegui ler a planilha de inspiracoes:", str(e)[:150]); return
     if txt.lstrip().startswith("<"):
         log("Planilha de inspiracoes nao esta compartilhada como 'Qualquer pessoa com o link: Leitor'."); return
-    estado = json.load(open(ESTADO)) if os.path.exists(ESTADO) else {"feitos": []}
     feitos = set(estado["feitos"])
     novos = []
     for l in csv.DictReader(io.StringIO(txt)):
@@ -293,10 +300,13 @@ def main():
         chave = hashlib.md5((prefixo + link + "|" + video + "|" + texto).encode()).hexdigest()[:12]
         if chave not in feitos:
             novos.append((chave, l))
-    if not novos:
-        return
     blocos, blocos_m = [], []
+    sobrou, parou = len(novos) > POR_RODADA, False
     for chave, l in novos[:POR_RODADA]:
+        if time.time() - inicio > TEMPO_MAX:
+            log("Tempo desta leitura acabou; o resto fica para a proxima rodada.")
+            sobrou = True
+            break
         link, video, obs, texto = l.get("link", ""), l.get("video", ""), l.get("observacao", ""), l.get("legenda_ou_texto", "")
         melhoria = eh_melhoria(l)
         _PED[0] = PEDIDO_MELHORIA if melhoria else PEDIDO
@@ -310,17 +320,20 @@ def main():
         except Exception as e:
             msg = str(e)
             if any(c in msg for c in ("429", "503", "500", "timed out")):
-                log("Gemini indisponivel agora, tento na proxima rodada:", msg[:100]); break
+                log("Gemini indisponivel agora, tento de novo em 1 hora:", msg[:100]); parou = True; break
             analise = "Falhou ao analisar: " + msg[:200]
         feitos.add(chave)
         (blocos_m if melhoria else blocos).append(
             f"## {l.get('data', '') or agora.strftime('%d/%m/%Y')} | {link or video or 'texto'}\n{analise}\n")
         log("Lida (melhoria):" if melhoria else "Lida:", link or video or "texto")
-    gravar(SAIDA, "# Inspiracoes lidas pelo Gemini (mais novas primeiro)\n\n", blocos)
-    gravar(SAIDA_MELHORIAS, "# Ideias e melhorias salvas pelo Kalebe, lidas pelo Gemini (para o Claude; mais novas primeiro)\n\n", blocos_m)
-    if blocos_m:  # item reclassificado como melhoria sai do arquivo de inspiracoes de post
+    if blocos:
+        gravar(SAIDA, "# Inspiracoes lidas pelo Gemini (mais novas primeiro)\n\n", blocos)
+    if blocos_m:
+        gravar(SAIDA_MELHORIAS, "# Ideias e melhorias salvas pelo Kalebe, lidas pelo Gemini (para o Claude; mais novas primeiro)\n\n", blocos_m)
+        # item reclassificado como melhoria sai do arquivo de inspiracoes de post
         gravar(SAIDA, "# Inspiracoes lidas pelo Gemini (mais novas primeiro)\n\n", [], remover=blocos_m)
     estado["feitos"] = sorted(feitos)[-2000:]
+    estado["proxima_leitura"] = time.time() + 3600 if parou else (0 if sobrou else inicio + HORAS_ENTRE * 3600)
     json.dump(estado, open(ESTADO, "w"))
 
 

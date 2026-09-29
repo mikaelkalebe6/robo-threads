@@ -5,6 +5,7 @@ Robo do Threads (API oficial da Meta).
 - Responde comentarios dos posts do robo no jeito da Lorena (skill respostas-naturais-persona):
   le a imagem do comentario, dosa a risada, varia a forma de concordar, evita repetir,
   responde treplica e guarda tudo em respostas_log.jsonl para a revisao semanal
+  (a IA escreve as respostas da rodada ao mesmo tempo; a publicacao sai uma por uma, com pausa)
 - Respostas escritas a mao pelo Kalebe viram exemplos do robo (1 vez por dia)
 - Le os ganchos de uma Planilha Google
 Quantidades, horarios e limites: Variables do GitHub. Sem Variable, vale o dicionario PADRAO abaixo.
@@ -13,6 +14,7 @@ REGRA: nao escreva numeros de configuracao neste texto nem em comentarios; eles 
 """
 import os, re, json, time, random, hashlib, csv, io, unicodedata, sys, base64
 import urllib.request, urllib.parse, urllib.error
+from concurrent.futures import ThreadPoolExecutor
 import datetime as dt
 from zoneinfo import ZoneInfo
 
@@ -57,6 +59,8 @@ PADRAO = {
     "CHANCE_POST_RESERVA": "0.1", "TESTE_RESERVA_ATE": "2026-10-20",
     # Gemini: o principal (GEMINI_MODEL) so aceita poucos pedidos/dia no gratis e fica para os posts
     "GEMINI_MODEL_RESPOSTA": "gemini-flash-lite-latest",
+    # quantas respostas a IA escreve ao mesmo tempo (a publicacao continua uma por uma, com pausa)
+    "IA_PARALELO": "3",
 }
 _USOU_PADRAO = []
 
@@ -85,6 +89,7 @@ ATRASO_LINK = sorted((int(cfg("ATRASO_LINK_MIN")), int(cfg("ATRASO_LINK_MAX"))))
 CHANCE_POST_RESERVA = float(cfg("CHANCE_POST_RESERVA"))
 TESTE_RESERVA_ATE = cfg("TESTE_RESERVA_ATE")
 GEMINI_MODEL_RESPOSTA = cfg("GEMINI_MODEL_RESPOSTA")
+IA_PARALELO = max(1, int(cfg("IA_PARALELO")))
 if MIN_POSTS > MAX_POSTS:
     MIN_POSTS, MAX_POSTS = MAX_POSTS, MIN_POSTS
 EXEMPLOS = env("EXEMPLOS_RESPOSTAS", "")
@@ -648,6 +653,28 @@ def publicar(texto, foto=None, responder_a=None):
     return threads("POST", "me/threads_publish", creation_id=cid)["id"]
 
 
+def criar_resposta(texto, responder_a):
+    """Etapa 1 da resposta: a Meta ja comeca a processar enquanto o robo faz a pausa."""
+    if MODO_TESTE:
+        return "teste_c" + hashlib.md5((texto + str(time.time())).encode()).hexdigest()[:8]
+    return threads("POST", "me/threads", media_type="TEXT", text=texto, reply_to_id=responder_a)["id"]
+
+
+def publicar_resposta(cid, texto):
+    """Etapa 2: publica o container criado antes (sem a espera fixa de 3 s)."""
+    if MODO_TESTE:
+        log("[MODO TESTE] publicaria:", {"texto": texto, "container": cid})
+        return "teste_" + cid[7:]
+    for _ in range(12):
+        st = threads("GET", cid, fields="status,error_message")
+        if st.get("status") == "FINISHED":
+            break
+        if st.get("status") in ("ERROR", "EXPIRED"):
+            raise RuntimeError(f"Meta recusou a resposta: {st}")
+        time.sleep(3)
+    return threads("POST", "me/threads_publish", creation_id=cid)["id"]
+
+
 # ---------------------------------------------------------------- plano do dia
 def plano_do_dia(s, agora):
     hoje = agora.strftime("%Y-%m-%d")
@@ -758,6 +785,11 @@ _LEITURAS = [
 ]
 
 
+def _tirar_leitura(modo, campos):
+    if _LEITURAS and _LEITURAS[0] == (modo, campos):  # leituras em paralelo: so tira uma vez
+        _LEITURAS.pop(0)
+
+
 def ler_comentarios(post_id, meus_ids):
     """Comentarios do post + treplicas a respostas do robo. Nunca respostas entre outras pessoas."""
     ultimo = None
@@ -769,13 +801,13 @@ def ler_comentarios(post_id, meus_ids):
             ultimo = e
             if "HTTP 400" in str(e) or "HTTP 500" in str(e):
                 log(f"Leitura '{modo}' recusada pela Meta, usando a proxima:", str(e)[:120])
-                _LEITURAS.pop(0)
+                _tirar_leitura(modo, campos)
                 continue
             raise
         if modo != "conversation":
             return dados
         if dados and not any("replied_to" in c for c in dados):
-            _LEITURAS.pop(0)  # sem como saber a quem cada um respondeu: volta para o modo simples
+            _tirar_leitura(modo, campos)  # sem como saber a quem cada um respondeu: volta para o modo simples
             continue
         ok = []
         for c in dados:
@@ -871,61 +903,111 @@ def tarefa_responder(s, agora):
     limite = agora - dt.timedelta(days=4)
     posts = [x for x in s.get("posts", []) if not str(x["id"]).startswith("teste_")
              and dt.datetime.fromisoformat(x["quando"]) > limite][-15:]
-    feitas = 0
     por_pessoa = s.setdefault("por_pessoa", {})
     if por_pessoa.get("_data") != p["data"]:
         por_pessoa.clear()
         por_pessoa["_data"] = p["data"]
-    for post in reversed(posts):
+
+    # 1) le os comentarios: o primeiro post sozinho (fixa o jeito de leitura), os outros ao mesmo tempo
+    meus = set(minhas)
+
+    def ler(post):
         try:
-            comentarios = ler_comentarios(post["id"], set(minhas))
+            return post, ler_comentarios(post["id"], meus)
         except Exception as e:
             log("Nao li comentarios de", post["id"], e)
-            continue
+            return post, []
+    ordem = list(reversed(posts))
+    lidos = [ler(ordem[0])] if ordem else []
+    if len(ordem) > 1:
+        with ThreadPoolExecutor(5) as ex:
+            lidos += list(ex.map(ler, ordem[1:]))
+
+    # 2) escolhe os comentarios desta rodada (limites por rodada, dia e pessoa)
+    vagas = min(RESP_POR_RODADA, RESP_POR_DIA - p.get("respostas", 0))
+    escolhidos, na_fila = [], {}
+    for post, comentarios in lidos:
         for c in comentarios:
-            if feitas >= RESP_POR_RODADA or p.get("respostas", 0) >= RESP_POR_DIA:
+            if len(escolhidos) >= vagas:
                 break
-            if c["id"] in respondidos or c.get("username") == eu:
-                continue
             quem = c.get("username", "?")
-            if por_pessoa.get(quem, 0) >= RESP_POR_PESSOA:
+            if c["id"] in respondidos or quem == eu or por_pessoa.get(quem, 0) + na_fila.get(quem, 0) >= RESP_POR_PESSOA:
                 continue
-            tipo = (c.get("media_type") or "").upper()
-            url_img = c.get("media_url") if tipo in ("IMAGE", "CAROUSEL_ALBUM", "GIF") else c.get("thumbnail_url")
-            imagem = baixar_imagem(url_img) if url_img else None
-            imagem_perdida = bool(tipo) and tipo not in ("TEXT_POST", "TEXT") and not imagem
-            contexto = minhas.get(c.get("_alvo", "")) if c.get("_alvo") != str(post["id"]) else None
-            try:
-                d = gerar_resposta(post.get("texto", ""), c.get("text", ""), bool(post.get("link")), s,
-                                   imagem=imagem, imagem_perdida=imagem_perdida, contexto=contexto)
-            except Exception as e:
-                log("IAs fora do ar; o resto dos comentarios fica para a proxima rodada:", str(e)[:200])
-                return
-            s.setdefault("respondidos", []).append(c["id"])
-            respondidos.add(c["id"])
-            reg = {"quando": agora.isoformat(timespec="minutes"), "post": post["id"], "comentario": (c.get("text") or "")[:300],
-                   "imagem": "vista" if imagem else ("nao_vista" if imagem_perdida else "nao"), "treplica": bool(contexto),
-                   "intencao": d.get("intencao"), "emocao": d.get("emocao"), "energia": d.get("energia"),
-                   "risada": d.get("risada"), "postura": d.get("postura")}
-            if not d.get("responder") or not d.get("texto"):
-                log(f"Ignorado comentario de @{quem} ({d.get('intencao') or '-'})")
-                registrar_resposta({**reg, "respondeu": False})
-                salvar_estado(s)
-                continue
-            txt = d["texto"]
-            if d.get("mandar_link") and post.get("link"):
-                txt = f"{txt}\n{random.choice(FRASES_LINK).format(l=post['link'])}"
-            time.sleep(random.randint(*PAUSA_RESP))
-            rid = publicar(txt, responder_a=c["id"])
-            feitas += 1
-            p["respostas"] = p.get("respostas", 0) + 1
-            por_pessoa[quem] = por_pessoa.get(quem, 0) + 1
-            minhas[str(rid)] = {"t": d["texto"][:200], "c": (c.get("text") or "")[:200], "q": agora.isoformat()}
-            s.setdefault("ultimas_respostas", []).append({"t": d["texto"], "p": d.get("postura"), "r": d.get("risada")})
-            registrar_resposta({**reg, "respondeu": True, "resposta": txt, "id": str(rid)})
-            log(f"Respondi @{quem} [{d.get('intencao') or '-'}, risada {d.get('risada')}, {d.get('postura') or '-'}"
-                f"{', imagem' if imagem else ''}{', treplica' if contexto else ''}]{' (com link)' if 'http' in txt else ''}")
-            salvar_estado(s)
+            na_fila[quem] = na_fila.get(quem, 0) + 1
+            escolhidos.append((post, c))
+    if not escolhidos:
+        log("Respostas nesta rodada: 0")
+        return
+
+    # 3) a IA escreve as respostas ao mesmo tempo (imagem baixada junto)
+    def escrever(item):
+        post, c = item
+        tipo = (c.get("media_type") or "").upper()
+        url_img = c.get("media_url") if tipo in ("IMAGE", "CAROUSEL_ALBUM", "GIF") else c.get("thumbnail_url")
+        imagem = baixar_imagem(url_img) if url_img else None
+        perdida = bool(tipo) and tipo not in ("TEXT_POST", "TEXT") and not imagem
+        contexto = minhas.get(c.get("_alvo", "")) if c.get("_alvo") != str(post["id"]) else None
+        try:
+            d = gerar_resposta(post.get("texto", ""), c.get("text", ""), bool(post.get("link")), s,
+                               imagem=imagem, imagem_perdida=perdida, contexto=contexto)
+            return {"post": post, "c": c, "d": d, "imagem": imagem, "perdida": perdida, "contexto": contexto}
+        except Exception as e:
+            return {"post": post, "c": c, "erro": e}
+    with ThreadPoolExecutor(IA_PARALELO) as ex:
+        prontos = list(ex.map(escrever, escolhidos))
+
+    # 4) registra, cria as respostas na Meta e publica uma por uma com pausa
+    fila, no_lote, avisou = [], set(), False
+    for r in prontos:
+        post, c = r["post"], r["c"]
+        if "erro" in r:
+            if not avisou:
+                log("IAs fora do ar; o resto dos comentarios fica para a proxima rodada:", str(r["erro"])[:200])
+                avisou = True
+            continue
+        d, quem = r["d"], c.get("username", "?")
+        chave = sem_acento(d.get("texto") or "")
+        if d.get("responder") and d.get("texto") and chave in no_lote:
+            continue  # igual a outra resposta desta rodada: fica para a proxima
+        s.setdefault("respondidos", []).append(c["id"])
+        respondidos.add(c["id"])
+        reg = {"quando": agora.isoformat(timespec="minutes"), "post": post["id"], "comentario": (c.get("text") or "")[:300],
+               "imagem": "vista" if r["imagem"] else ("nao_vista" if r["perdida"] else "nao"), "treplica": bool(r["contexto"]),
+               "intencao": d.get("intencao"), "emocao": d.get("emocao"), "energia": d.get("energia"),
+               "risada": d.get("risada"), "postura": d.get("postura")}
+        if not d.get("responder") or not d.get("texto"):
+            log(f"Ignorado comentario de @{quem} ({d.get('intencao') or '-'})")
+            registrar_resposta({**reg, "respondeu": False})
+            continue
+        no_lote.add(chave)
+        txt = d["texto"]
+        if d.get("mandar_link") and post.get("link"):
+            txt = f"{txt}\n{random.choice(FRASES_LINK).format(l=post['link'])}"
+        try:
+            cid = criar_resposta(txt, c["id"])
+        except Exception as e:
+            log(f"Meta nao aceitou a resposta para @{quem}:", str(e)[:150])
+            continue
+        fila.append((r, reg, txt, cid))
+    salvar_estado(s)
+    feitas = 0
+    for r, reg, txt, cid in fila:
+        c, d, quem = r["c"], r["d"], r["c"].get("username", "?")
+        time.sleep(random.randint(*PAUSA_RESP))
+        try:
+            rid = publicar_resposta(cid, txt)
+        except Exception as e:
+            log(f"Falhou ao publicar a resposta para @{quem}:", str(e)[:150])
+            continue
+        feitas += 1
+        p["respostas"] = p.get("respostas", 0) + 1
+        por_pessoa[quem] = por_pessoa.get(quem, 0) + 1
+        minhas[str(rid)] = {"t": d["texto"][:200], "c": (c.get("text") or "")[:200], "q": agora.isoformat()}
+        s.setdefault("ultimas_respostas", []).append({"t": d["texto"], "p": d.get("postura"), "r": d.get("risada")})
+        registrar_resposta({**reg, "respondeu": True, "resposta": txt, "id": str(rid)})
+        log(f"Respondi @{quem} [{d.get('intencao') or '-'}, risada {d.get('risada')}, {d.get('postura') or '-'}"
+            f"{', imagem' if r['imagem'] else ''}{', treplica' if r['contexto'] else ''}]{' (com link)' if 'http' in txt else ''}")
+        salvar_estado(s)
     log(f"Respostas nesta rodada: {feitas}")
 
 
@@ -944,7 +1026,7 @@ def main():
         log(f"Config em uso: {MIN_POSTS} a {MAX_POSTS} posts/dia, {HORA_INI}h as {HORA_FIM}h, intervalo {INTERVALO_MIN} min, "
             f"respostas {RESP_POR_RODADA}/rodada {RESP_POR_DIA}/dia {RESP_POR_PESSOA}/pessoa, foto {CHANCE_FOTO}, tendencia {CHANCE_TREND}, "
             f"pausas resposta {PAUSA_RESP[0]}-{PAUSA_RESP[1]}s post 0-{ATRASO_POST_MAX}s link {ATRASO_LINK[0]}-{ATRASO_LINK[1]}s, "
-            f"Gemini posts {GEMINI_MODEL} respostas {GEMINI_MODEL_RESPOSTA}, teste reservas {CHANCE_POST_RESERVA} ate {TESTE_RESERVA_ATE}")
+            f"Gemini posts {GEMINI_MODEL} respostas {GEMINI_MODEL_RESPOSTA} ({IA_PARALELO} ao mesmo tempo), teste reservas {CHANCE_POST_RESERVA} ate {TESTE_RESERVA_ATE}")
         if _USOU_PADRAO:
             log("Valores do PADRAO do codigo (Variable vazia):", ", ".join(_USOU_PADRAO))
         checar_reservas()  # 1 vez por dia: mostra no log se Groq/OpenRouter respondem
