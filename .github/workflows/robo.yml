@@ -15,13 +15,15 @@ concurrency:
 jobs:
   rodar:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 8   # trava de seguranca: rodada normal leva 1 a 3 min
     steps:
       - uses: actions/checkout@v4
+      # setup-python fica: o leitor de inspiracoes instala o yt-dlp com pip (o python do sistema bloqueia pip)
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - name: Rodar robo
+        timeout-minutes: 5
         env:
           THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -48,13 +50,22 @@ jobs:
           APPSHEET_TABELA: ${{ vars.APPSHEET_TABELA }}
           PERSONA_RESPOSTA: ${{ vars.PERSONA_RESPOSTA }}
           RESPOSTAS_POR_PESSOA: ${{ vars.RESPOSTAS_POR_PESSOA }}
+          PAUSA_RESPOSTA_MIN: ${{ vars.PAUSA_RESPOSTA_MIN }}
+          PAUSA_RESPOSTA_MAX: ${{ vars.PAUSA_RESPOSTA_MAX }}
+          ATRASO_POST_MAX: ${{ vars.ATRASO_POST_MAX }}
+          ATRASO_LINK_MIN: ${{ vars.ATRASO_LINK_MIN }}
+          ATRASO_LINK_MAX: ${{ vars.ATRASO_LINK_MAX }}
+          CHANCE_POST_RESERVA: ${{ vars.CHANCE_POST_RESERVA }}
+          TESTE_RESERVA_ATE: ${{ vars.TESTE_RESERVA_ATE }}
+          GEMINI_MODEL_RESPOSTA: ${{ vars.GEMINI_MODEL_RESPOSTA }}
         run: python bot.py
       - name: Ler inspiracoes (Gemini)
         continue-on-error: true
         timeout-minutes: 6
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          # modelo principal do Gemini fica so para os posts (cota gratis de 20/dia); leitor usa o lite
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL_INSPIRACOES || 'gemini-flash-lite-latest' }}
           INSPIRACOES_URL: ${{ vars.INSPIRACOES_URL }}
           APPSHEET_APP: ${{ vars.APPSHEET_APP }}
         run: python inspiracoes.py
