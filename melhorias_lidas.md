@@ -1,5 +1,16 @@
 # Ideias e melhorias salvas pelo Kalebe, lidas pelo Gemini (para o Claude; mais novas primeiro)
 
+## 29/09/2026 | https://www.instagram.com/reel/Ddtc9dCxGam/?stkn=NXZkNnl5ZWE5NnVr
+**Tipo:** video | **Idioma original:** Português
+**Conteudo:** Como fazer uma cybersecurity básica pra não ser processado
+**Ideia principal:** Implementar boas práticas de segurança cibernética básica em projetos de software para evitar riscos legais e vazamentos de dados.
+**Ferramentas, sites ou precos citados:** Nenhum
+**Como aplicar no projeto:** 
+1. Auditar as rotinas de autenticação e criptografia dos dados dos usuários na automação do Threads e no sistema de afiliados.
+2. Garantir conformidade com a LGPD no armazenamento de dados obtidos por IA.
+3. Implementar controle de acesso restrito às chaves de API e variáveis de ambiente (como as do Claude).
+**Riscos ou custos:** Risco legal de vazamento de dados de usuários e penalidades da LGPD.
+
 ## 28/09/2026 | https://www.instagram.com/reel/DdnRmRzjb_i/?stkn=MWdsczBxYjBicjV3Ng==
 **Tipo:** video | **Idioma original:** Portugues
 **Conteudo:** O Claude acabou de dominar o Instagram porque agora voce consegue conectar o Claude no Instagram e ele cuida da sua conta inteira para voce. Chama Instagram Agent Skill e e completamente gratuito. Nao e so uma skill, sao 11 delas, cada uma faz um trabalho diferente: /ig-reel escreve seus posts em cima de 25 formatos de hooks comprovados; /ig-comment comenta nos posts dos outros para voce; /ig-reply cuida das respostas; /ig-profile otimiza seu perfil; /ig-plan planeja a sua semana inteira no Instagram. Ela te ajuda a descobrir o que postar, quando postar e com quem interagir. Mas a parte mais doida e a skill de viralizacao: ela acha os reels de melhor desempenho no seu nicho, destrincha por que eles funcionaram e transforma essas ideias em roteiros originais para voce. Para configurar, e so ir no Claude e colar o link do repositorio do GitHub de jakeschincariol/instagram-agent-skill.
@@ -11,6 +22,7 @@
 3. Testar as funcoes de planejamento, analise de perfil e geracao de roteiros baseados em tendencias para o projeto de automacao do Threads e crescimento de perfil.
 **Riscos ou custos:** Risco de banimento em funcoes de automacao de interacao direta (comentarios automaticos e respostas de mensagens), conforme apontado na legenda publica. Uso do Claude (versao gratuita ou paga).
 Observacao do Kalebe: (nenhuma)
+
 
 ## 29/09/2026 | https://www.instagram.com/p/DdclXN5m8Fd/?img_index=2&stkn=MWk4eHFnbndqaGczZg==
 **Tipo:** carrossel | **Idioma original:** Português do Brasil
@@ -36,6 +48,7 @@ Imagem 7: COMENTE "PSR3C" E EU TE MANDO O PROMPT
 
 **Riscos ou custos:** Nenhum aparente. O próprio autor avisa que o prompt não elimina 100% das alucinações, apenas expõe a fragilidade da resposta ao exigir autoverificação de confiança.
 
+
 ## 29/09/2026 | https://www.instagram.com/reel/DbHLy-GBRqz/?stkn=MThqb3Judm1mM2hrbg==
 **Tipo:** video | **Idioma original:** Portugues
 **Conteudo:** O criador alerta que publicar aplicativos gerados por IA ("vibecoding") pode ser perigoso, dando acesso a dados e cartões de crédito. Apresenta 3 validações essenciais: 1) Variaveis de ambiente: inspecionar o site no navegador, ir em Sources, procurar termos como `sk_` ou `KEY` para garantir que chaves sensíveis não estejam expostas no client-side. 2) Autenticação (Cookies): verificar se ao limpar os cookies e recarregar a pagina, páginas privadas continuam acessíveis (se sim, falha na autenticação). 3) Rate Limiting: pedir para a IA implementar limite de requisições para evitar ataques de força bruta (tentativas infinitas de senha).
@@ -47,6 +60,7 @@ Imagem 7: COMENTE "PSR3C" E EU TE MANDO O PROMPT
 3. Pedir à IA (Claude) para implementar *rate limiting* nas rotas de login e API do projeto para prevenir ataques de força bruta.
 **Riscos ou custos:** Risco alto de segurança (vazamento de dados de usuários, exposição de chaves de API, comprometimento do sistema e fraudes financeiras).
 
+
 ## 28/09/2026 | https://www.instagram.com/reel/Ddt5T--xm2k/?stkn=bG83YXhyaHBmODRt
 **Tipo:** Vídeo | **Idioma original:** Português
 **Conteúdo:** O criador apresenta o WhatsApp Business MCP, lançado pela Meta em 15 de setembro, que permite criar agentes de IA conectados diretamente à API oficial do WhatsApp pelo Claude. O processo, que antes exigia especialistas e configuração complexa, agora é feito por comandos conversacionais: o Claude cria a conta Meta Business, adiciona e valida o número, conecta na API oficial, verifica termos/pagamento, testa o webhook e envia mensagens. O Claude também envia templates para análise da Meta e avisa se houver reprovação. Para usar, basta adicionar o MCP no Claude e fazer login com a conta Meta.
@@ -57,6 +71,7 @@ Imagem 7: COMENTE "PSR3C" E EU TE MANDO O PROMPT
 2. Conectar a conta Meta Business e validar o número de telefone por comandos na interface do Claude.
 3. Configurar os agentes de IA e testar o envio de mensagens automatizadas pelo webhook.
 **Riscos ou custos:** Liberação gradual da Meta/Claude pode atrasar o acesso; custos de API da Meta conforme uso comercial.
+
 
 
 ## 28/09/2026 | https://www.instagram.com/p/Ddg-IN0EZ4S/?img_index=8&stkn=MWNnM2w0cjJoODQyYw==
@@ -83,6 +98,7 @@ Imagem 10: Passo 9: Coloque seu agente online 24/7. Seu laptop não deve ser o s
 **Riscos ou custos:** Custos operacionais com servidores VPS e consumo de tokens de API (OpenRouter/Claude); risco de banimento de número caso a API oficial do WhatsApp Business da Meta não seja utilizada corretamente para automações em massa.
 
 
+
 ## 28/09/2026 | https://www.instagram.com/reel/DdWY7PsidwP/?stkn=MTBqMWF1Z2RjanZydQ==
 **Tipo:** vídeo | **Idioma original:** Português do Brasil
 
@@ -104,6 +120,7 @@ Dá uma olhada nesse carrossel que a gente criou em menos de 1 minuto, se você 
 **Riscos ou custos:** Nenhum aparente.
 
 
+
 ## 27/09/2026 | https://www.threads.com/@futurizando
 **Tipo:** foto | **Idioma original:** Portugues
 **Conteudo:** Imagem do Olho da Providencia dentro de um triangulo (simbolo iconico associado a teorias da conspiracao, previsoes e ocultismo), isolado em fundo azul claro. O perfil associado e @futurizando no Threads, descrito como a maior pagina de previsoes do mundo, com mais de 700 previsoes acertadas e mais de 70 mil clientes atendidos.
@@ -114,6 +131,7 @@ Dá uma olhada nesse carrossel que a gente criou em menos de 1 minuto, se você 
 2. Usar o Claude para programar um agente que analise tendencias bizzarras ou previsoes de longo prazo e gere textos intrigantes associados a essas imagens.
 3. Automatizar a publicacao desses posts visuais no Threads usando a automacao para testar engajamento com temas de curiosidade e misterio.
 **Riscos ou custos:** Nenhum aparente
+
 
 
 
@@ -141,6 +159,7 @@ Como o seu projeto mexe com **automação (que interage com contas de redes soci
 2. **2FA Obrigatório:** Exija autenticação em dois fatores em todas as contas de desenvolvedor, e-mails associados e painéis que controlam a automação.
 3. **Gestão de Segredos (Secrets Management):** No código do Claude ou scripts de automação, **nunca** deixe tokens, senhas ou chaves de API hardcoded (visíveis no código). Use variáveis de ambiente (`.env`).
 4. **Controle de Sessão e Acesso:** Se a automação roda em um servidor ou VPS, restrinja o acesso via SSH (use chaves SSH em vez de senha) e mantenha o sistema operacional atualizado para evitar brechas de segurança.
+
 
 
 
