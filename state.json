@@ -19,7 +19,7 @@
    "13:12",
    "14:00"
   ],
-  "respostas": 84
+  "respostas": 90
  },
  "posts": [
   {
@@ -264,7 +264,13 @@
   "18627190438025309",
   "18162548062513723",
   "18043730258684148",
-  "18174776263446747"
+  "18174776263446747",
+  "18136177282567500",
+  "18075967769724971",
+  "18098420237175758",
+  "18106732448622419",
+  "18436335283182092",
+  "18208329994316740"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -383,7 +389,13 @@
   "jeess.ca": 1,
   "patyliborio": 1,
   "cassiolozanoguidotti": 1,
-  "julianagarcez.adv": 1
+  "julianagarcez.adv": 1,
+  "shaenycosta": 1,
+  "beachinaider": 1,
+  "fevf": 1,
+  "rodrigo.editorial": 1,
+  "angelicamlnmarreiros": 1,
+  "geulight": 1
  },
  "reservas_checadas": "2026-09-29",
  "ultimas_respostas": [
@@ -506,6 +518,36 @@
    "t": "passada q ódio é esse com jazz colorido",
    "p": "discorda",
    "r": 0
+  },
+  {
+   "t": "fui achando q ia ser so balela romantica e sai querendo morar numa varanda de la",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "falam tao bem de la q da ate desconfianca",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "viagem de moto na patagonia coragem pura kkkkkkk mas bariloche entrega mesmo",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "escondido onde se o barulho de tiro acorda a vizinhança inteira",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "coragem achar DiCaprio de touca de aviador insuportavel",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "duas horas e meia de terno e gritaria na mesa redonda socorro",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],
@@ -529,6 +571,11 @@
    "t": "to doida pra conhecer, falam tao bem de la",
    "c": "Praga.",
    "q": "2026-09-29T14:37:13.395980-04:00"
+  },
+  "18097243529359667": {
+   "t": "fui achando q ia ser so balela romantica e sai querendo morar numa varanda de la",
+   "c": "Verona",
+   "q": "2026-09-29T15:07:47.686227-04:00"
   }
  }
 }
