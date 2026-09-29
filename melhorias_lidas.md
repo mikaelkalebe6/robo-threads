@@ -1,5 +1,52 @@
 # Ideias e melhorias salvas pelo Kalebe, lidas pelo Gemini (para o Claude; mais novas primeiro)
 
+## 28/09/2026 | https://www.instagram.com/reel/DdnRmRzjb_i/?stkn=MWdsczBxYjBicjV3Ng==
+**Tipo:** video | **Idioma original:** Portugues
+**Conteudo:** O Claude acabou de dominar o Instagram porque agora voce consegue conectar o Claude no Instagram e ele cuida da sua conta inteira para voce. Chama Instagram Agent Skill e e completamente gratuito. Nao e so uma skill, sao 11 delas, cada uma faz um trabalho diferente: /ig-reel escreve seus posts em cima de 25 formatos de hooks comprovados; /ig-comment comenta nos posts dos outros para voce; /ig-reply cuida das respostas; /ig-profile otimiza seu perfil; /ig-plan planeja a sua semana inteira no Instagram. Ela te ajuda a descobrir o que postar, quando postar e com quem interagir. Mas a parte mais doida e a skill de viralizacao: ela acha os reels de melhor desempenho no seu nicho, destrincha por que eles funcionaram e transforma essas ideias em roteiros originais para voce. Para configurar, e so ir no Claude e colar o link do repositorio do GitHub de jakeschincariol/instagram-agent-skill.
+**Ideia principal:** Usar skills do Claude para automatizar tarefas do Instagram, especialmente planejamento, criacao de roteiros baseados em virais e analise de desempenho.
+**Ferramentas, sites ou precos citados:** Claude, Instagram, GitHub (jakeschincariol/instagram-agent-skill), Python.
+**Como aplicar no projeto:**
+1. Acessar o repositorio no GitHub fornecido (jakeschincariol/instagram-agent-skill).
+2. Instalar as skills no Claude conforme o guia de uso do repositorio.
+3. Testar as funcoes de planejamento, analise de perfil e geracao de roteiros baseados em tendencias para o projeto de automacao do Threads e crescimento de perfil.
+**Riscos ou custos:** Risco de banimento em funcoes de automacao de interacao direta (comentarios automaticos e respostas de mensagens), conforme apontado na legenda publica. Uso do Claude (versao gratuita ou paga).
+Observacao do Kalebe: (nenhuma)
+
+## 29/09/2026 | https://www.instagram.com/p/DdclXN5m8Fd/?img_index=2&stkn=MWk4eHFnbndqaGczZg==
+**Tipo:** carrossel | **Idioma original:** Português do Brasil
+
+**Conteudo:**
+Imagem 1: Claude mente com confiança pra você todo santo dia. Esse prompt obriga ele a falar a verdade
+Imagem 2: Passo 1: vá nas configurações do Claude
+Imagem 3: Passo 2: vá em Geral e cole o prompt dos próximos slides. Cola o prompt aqui
+Imagem 4: PROMPT: Você não é meu assistente. Você é meu conselheiro, e por acaso é mais inteligente que eu. Siga estas regras em toda resposta: 1. Nunca comece concordando. Sua primeira frase precisa questionar minha suposição, apontar o que estou deixando de fora, ou fazer uma pergunta que exponha uma falha no meu raciocínio. 2. Classifique sua confiança. Antes de qualquer afirmação, marque [Certo] se tem evidência forte, [Provável] se é inferência sólida, [Chutando] se está preenchendo lacunas. Se a maior parte for chute, diga isso primeiro. 3. Elimine estas frases de vez: "Ótima pergunta", "Você está absolutamente certo", "Isso faz muito sentido", "Com certeza", "Definitivamente". Se se pegar escrevendo uma, apague e reescreva.
+Imagem 5: PROMPT: 4. Discorde com estrutura. Quando eu estiver errado, diga: "Discordo porque [motivo]. O que eu faria no lugar é [alternativa]. O risco da sua abordagem é [desvantagem específica].". 5. Me dê primeiro a resposta desconfortável. Se existe uma verdade que eu provavelmente não quero ouvir, comece por ela. Primeira linha, não enterrada no terceiro parágrafo. 6. Sem parágrafo de aquecimento. Pule o "Existem várias formas de olhar pra isso". Comece pela coisa mais útil que você tem a dizer. 7. Se eu insistir, não recua. Mantenha sua posição a menos que eu te dê informação genuinamente nova. "Mas eu realmente acho" não é informação nova.
+Imagem 6: DEPOIS DO PROMPT: O Claude para de só concordar com você. Ele aponta as fraquezas da sua ideia, diz o quanto realmente está confiante, e te dá a verdade dura primeiro, como um conselheiro de verdade em vez de um puxa-saco.
+Imagem 7: COMENTE "PSR3C" E EU TE MANDO O PROMPT
+
+**Ideia principal:** Configurar o prompt mestre nas instruções globais do Claude para forçá-lo a parar de bajular e apontar falhas, mentiras e lacunas diretamente.
+
+**Ferramentas, sites ou preços citados:** Claude (Anthropic), nenhuma outra ferramenta ou preço.
+
+**Como aplicar no projeto:**
+1. Acessar as configurações globais do Claude (Settings > General).
+2. Localizar o campo "Instructions for Claude" (Instruções personalizadas/System Prompt).
+3. Copiar e colar as 7 regras do prompt apresentadas no carrossel (foco em eliminar concordância vazia, exigir marcação de confiança e começar pela verdade desconfortável).
+4. Salvar as alterações para aplicar em todos os chats futuros focados na automação de conteúdo e afiliados.
+
+**Riscos ou custos:** Nenhum aparente. O próprio autor avisa que o prompt não elimina 100% das alucinações, apenas expõe a fragilidade da resposta ao exigir autoverificação de confiança.
+
+## 29/09/2026 | https://www.instagram.com/reel/DbHLy-GBRqz/?stkn=MThqb3Judm1mM2hrbg==
+**Tipo:** video | **Idioma original:** Portugues
+**Conteudo:** O criador alerta que publicar aplicativos gerados por IA ("vibecoding") pode ser perigoso, dando acesso a dados e cartões de crédito. Apresenta 3 validações essenciais: 1) Variaveis de ambiente: inspecionar o site no navegador, ir em Sources, procurar termos como `sk_` ou `KEY` para garantir que chaves sensíveis não estejam expostas no client-side. 2) Autenticação (Cookies): verificar se ao limpar os cookies e recarregar a pagina, páginas privadas continuam acessíveis (se sim, falha na autenticação). 3) Rate Limiting: pedir para a IA implementar limite de requisições para evitar ataques de força bruta (tentativas infinitas de senha).
+**Ideia principal:** Três testes de segurança básicos (variáveis de ambiente, cookies de autenticação e rate limiting) que devem ser feitos antes de publicar qualquer aplicativo gerado por IA.
+**Ferramentas, sites ou precos citados:** Claude (mencionado indiretamente como a IA utilizada)
+**Como aplicar no projeto:** 
+1. Inspecionar o código-fonte do projeto no navegador para verificar se há chaves de API (`sk_`, chaves secretas) expostas no client-side.
+2. Testar o fluxo de autenticação limpando cookies e verificando se páginas protegidas bloqueiam o acesso corretamente.
+3. Pedir à IA (Claude) para implementar *rate limiting* nas rotas de login e API do projeto para prevenir ataques de força bruta.
+**Riscos ou custos:** Risco alto de segurança (vazamento de dados de usuários, exposição de chaves de API, comprometimento do sistema e fraudes financeiras).
+
 ## 28/09/2026 | https://www.instagram.com/reel/Ddt5T--xm2k/?stkn=bG83YXhyaHBmODRt
 **Tipo:** Vídeo | **Idioma original:** Português
 **Conteúdo:** O criador apresenta o WhatsApp Business MCP, lançado pela Meta em 15 de setembro, que permite criar agentes de IA conectados diretamente à API oficial do WhatsApp pelo Claude. O processo, que antes exigia especialistas e configuração complexa, agora é feito por comandos conversacionais: o Claude cria a conta Meta Business, adiciona e valida o número, conecta na API oficial, verifica termos/pagamento, testa o webhook e envia mensagens. O Claude também envia templates para análise da Meta e avisa se houver reprovação. Para usar, basta adicionar o MCP no Claude e fazer login com a conta Meta.
@@ -10,6 +57,7 @@
 2. Conectar a conta Meta Business e validar o número de telefone por comandos na interface do Claude.
 3. Configurar os agentes de IA e testar o envio de mensagens automatizadas pelo webhook.
 **Riscos ou custos:** Liberação gradual da Meta/Claude pode atrasar o acesso; custos de API da Meta conforme uso comercial.
+
 
 ## 28/09/2026 | https://www.instagram.com/p/Ddg-IN0EZ4S/?img_index=8&stkn=MWNnM2w0cjJoODQyYw==
 **Tipo:** Carrossel | **Idioma original:** Português
@@ -34,6 +82,7 @@ Imagem 10: Passo 9: Coloque seu agente online 24/7. Seu laptop não deve ser o s
 4. Hospedar a aplicação final em uma VPS barata para garantir execução automatizada e contínua 24/7.
 **Riscos ou custos:** Custos operacionais com servidores VPS e consumo de tokens de API (OpenRouter/Claude); risco de banimento de número caso a API oficial do WhatsApp Business da Meta não seja utilizada corretamente para automações em massa.
 
+
 ## 28/09/2026 | https://www.instagram.com/reel/DdWY7PsidwP/?stkn=MTBqMWF1Z2RjanZydQ==
 **Tipo:** vídeo | **Idioma original:** Português do Brasil
 
@@ -54,6 +103,7 @@ Dá uma olhada nesse carrossel que a gente criou em menos de 1 minuto, se você 
 
 **Riscos ou custos:** Nenhum aparente.
 
+
 ## 27/09/2026 | https://www.threads.com/@futurizando
 **Tipo:** foto | **Idioma original:** Portugues
 **Conteudo:** Imagem do Olho da Providencia dentro de um triangulo (simbolo iconico associado a teorias da conspiracao, previsoes e ocultismo), isolado em fundo azul claro. O perfil associado e @futurizando no Threads, descrito como a maior pagina de previsoes do mundo, com mais de 700 previsoes acertadas e mais de 70 mil clientes atendidos.
@@ -64,6 +114,7 @@ Dá uma olhada nesse carrossel que a gente criou em menos de 1 minuto, se você 
 2. Usar o Claude para programar um agente que analise tendencias bizzarras ou previsoes de longo prazo e gere textos intrigantes associados a essas imagens.
 3. Automatizar a publicacao desses posts visuais no Threads usando a automacao para testar engajamento com temas de curiosidade e misterio.
 **Riscos ou custos:** Nenhum aparente
+
 
 
 ## 27/09/2026 | https://www.threads.com/share/_wpKt4jCp/
@@ -90,6 +141,7 @@ Como o seu projeto mexe com **automação (que interage com contas de redes soci
 2. **2FA Obrigatório:** Exija autenticação em dois fatores em todas as contas de desenvolvedor, e-mails associados e painéis que controlam a automação.
 3. **Gestão de Segredos (Secrets Management):** No código do Claude ou scripts de automação, **nunca** deixe tokens, senhas ou chaves de API hardcoded (visíveis no código). Use variáveis de ambiente (`.env`).
 4. **Controle de Sessão e Acesso:** Se a automação roda em um servidor ou VPS, restrinja o acesso via SSH (use chaves SSH em vez de senha) e mantenha o sistema operacional atualizado para evitar brechas de segurança.
+
 
 
 ## 28/09/2026 | https://www.instagram.com/reel/DcRXtN0J0no/?stkn=Ymp3ZDNiaWFsZnhq

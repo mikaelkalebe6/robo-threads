@@ -12,8 +12,10 @@
    "20:01",
    "20:47"
   ],
-  "feitos": [],
-  "respostas": 24
+  "feitos": [
+   "08:55"
+  ],
+  "respostas": 30
  },
  "posts": [
   {
@@ -85,6 +87,13 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: é normal a cabeça dar um nó do nada quando a rotina começa a pesar demais? Ontem juro que passei horas pensando em como seria sumir por uns dias sem dar satisfação pra ninguém, só pra ver o que acontecia. Quem nunca?",
    "quando": "2026-09-28T21:37:08.485808-04:00"
+  },
+  {
+   "id": "18120277567977847",
+   "insp": "08c5fced1d",
+   "link": "",
+   "texto": "SEJAM SINCEROS: qual app você apagaria agora mesmo se pudesse ter só três no celular?",
+   "quando": "2026-09-29T09:07:12.976607-04:00"
   }
  ],
  "respondidos": [
@@ -161,7 +170,13 @@
   "18190848997398126",
   "18130290499771592",
   "18219993346341652",
-  "18098143430532589"
+  "18098143430532589",
+  "18626060362014712",
+  "18105693656212741",
+  "18103573781282038",
+  "18101813921308698",
+  "18180398482428698",
+  "17915651319453856"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -173,7 +188,8 @@
   "e5e209402fa6c9963be6d71628598d11",
   "42c7bff59081e6fcf09011fe0479b404",
   "c3c147ba5bffb021d0a17087813fee1a",
-  "eac573f7d827387b89f7b18e8dc2ac98"
+  "eac573f7d827387b89f7b18e8dc2ac98",
+  "bdc104390d495996f091b8c9a6bd1faa"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -185,7 +201,8 @@
   "0127d41120": 1790626122.8509536,
   "ff5027f0d8": 1790633283.7908828,
   "d12059d204": 1790636883.6793935,
-  "f6d9ba8473": 1790645865.3717055
+  "f6d9ba8473": 1790645865.3717055,
+  "08c5fced1d": 1790687276.4493108
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -212,7 +229,13 @@
   "matheusc._amorim": 1,
   "nectouxhoffmann": 1,
   "lululetsfly": 1,
-  "pedropact": 1
+  "pedropact": 1,
+  "micaelharcanjo": 1,
+  "aparecidadeoliveira1207": 1,
+  "alexandrediasdapaixao": 1,
+  "rebecccammm": 1,
+  "profwillianfernando": 1,
+  "luis_augustogomesbaring": 1
  },
  "reservas_checadas": "2026-09-29"
 }
