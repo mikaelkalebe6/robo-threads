@@ -29,7 +29,6 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
-          CEREBRAS_MODEL: ${{ vars.CEREBRAS_MODEL }}
           PLANILHA_URL: ${{ vars.PLANILHA_URL }}
           MODO_TESTE: ${{ vars.MODO_TESTE }}
           PAUSADO: ${{ vars.PAUSADO }}
