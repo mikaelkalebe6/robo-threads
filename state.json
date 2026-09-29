@@ -19,7 +19,7 @@
    "13:12",
    "14:00"
   ],
-  "respostas": 78
+  "respostas": 84
  },
  "posts": [
   {
@@ -258,7 +258,13 @@
   "17877617646630628",
   "18046213004816797",
   "18034399574903263",
-  "18451204630123531"
+  "18451204630123531",
+  "17898653979600678",
+  "18129189316766738",
+  "18627190438025309",
+  "18162548062513723",
+  "18043730258684148",
+  "18174776263446747"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -371,7 +377,13 @@
   "elzabognardemelo": 1,
   "ronifernads": 1,
   "cristyna_sousa13": 1,
-  "gustavoluizcoradi": 1
+  "gustavoluizcoradi": 1,
+  "adesal9": 1,
+  "vitor_rnbp": 1,
+  "jeess.ca": 1,
+  "patyliborio": 1,
+  "cassiolozanoguidotti": 1,
+  "julianagarcez.adv": 1
  },
  "reservas_checadas": "2026-09-29",
  "ultimas_respostas": [
@@ -464,6 +476,36 @@
    "t": "pesado demais logo cedo vc quer acabar com o dia de todo mundo",
    "p": "discorda",
    "r": 0
+  },
+  {
+   "t": "to doida pra conhecer, falam tao bem de la",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos boleto vc paga e some, gente chata fica pro resto da vida 😭",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pesadelo desbloqueado com sucesso kkkkkkkkk",
+   "p": "ressalva",
+   "r": 2
+  },
+  {
+   "t": "esse app deveria vir de fabrica bloqueado pra nossa propia paz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "duas horas e meia de macaco jogando osso pro alto so pra virar nave espacial socorro",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "passada q ódio é esse com jazz colorido",
+   "p": "discorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],
@@ -482,6 +524,11 @@
    "t": "serio vejo grings falando mal e fico chocada achei tudo la 😭",
    "c": "Atenas",
    "q": "2026-09-29T14:07:09.741832-04:00"
+  },
+  "18126228350490809": {
+   "t": "to doida pra conhecer, falam tao bem de la",
+   "c": "Praga.",
+   "q": "2026-09-29T14:37:13.395980-04:00"
   }
  }
 }
