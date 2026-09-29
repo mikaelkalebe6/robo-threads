@@ -17,7 +17,8 @@
    "10:04",
    "11:21",
    "13:12",
-   "14:00"
+   "14:00",
+   "16:56"
   ],
   "respostas": 100
  },
@@ -126,6 +127,14 @@
    "link": "",
    "texto": "Quem mais tem a sensação de que existem milhares de profissões misteriosas por aí que pagam super bem e a gente só fica sabendo tarde demais?",
    "quando": "2026-09-29T14:07:09.741832-04:00"
+  },
+  {
+   "id": "18396832552205152",
+   "insp": "0445902113",
+   "link": "",
+   "texto": "ME CONTA: outro dia me peguei chamando ir até a farmácia comprar remédio de \"dar um rolê\". O paulistano não tem salvação, qualquer saída de casa com mais de cem metros vira evento.\n\nQual é a gíria da sua cidade que você solta no automático até alguém de fora estranhar?",
+   "quando": "2026-09-29T17:07:09.135672-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -297,7 +306,8 @@
   "5d5134adf4448bd5764bdf4599145927",
   "08048c685a58dd140dfb05d63b1010b6",
   "7f49e2d7c183532e4aa2003684a9d79c",
-  "43d2c7cc6673bea2161ea5c88644755a"
+  "43d2c7cc6673bea2161ea5c88644755a",
+  "d242b3e3272b12d70ace5da3dc0f2e68"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -314,7 +324,8 @@
   "4c34f415ce": 1790690916.9672582,
   "c71e576931": 1790696301.2662683,
   "cd232d0d3c": 1790702799.9300892,
-  "fb72b5075b": 1790705255.8349135
+  "fb72b5075b": 1790705255.8349135,
+  "0445902113": 1790716045.8918386
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
