@@ -17,7 +17,7 @@
    "10:04",
    "11:21"
   ],
-  "respostas": 58
+  "respostas": 60
  },
  "posts": [
   {
@@ -222,7 +222,9 @@
   "18089393351218301",
   "17908652469480338",
   "18069797636771492",
-  "18067426343510089"
+  "18067426343510089",
+  "18355314838222166",
+  "18186108133412437"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -313,7 +315,9 @@
   "gilyan.ceos": 1,
   "softcampos2": 1,
   "pjcotrim": 1,
-  "penseinumacoisa": 1
+  "penseinumacoisa": 1,
+  "pochag_": 1,
+  "davidevidenciaancestral": 1
  },
  "reservas_checadas": "2026-09-29"
 }
