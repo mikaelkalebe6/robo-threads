@@ -25,11 +25,9 @@ def env(nome, padrao=""):
 TOKEN = env("THREADS_TOKEN")
 GEMINI_KEY = env("GEMINI_API_KEY")
 GEMINI_MODEL = env("GEMINI_MODEL", "gemini-flash-latest")
-# Reservas gratis para quando o Gemini cair (Groq e Cerebras). Sem chave, simplesmente nao usa.
+# Reservas gratis para quando o Gemini cair (Groq e OpenRouter). Sem chave, simplesmente nao usa.
 GROQ_KEY = env("GROQ_API_KEY")
 GROQ_MODELOS = [m.strip() for m in env("GROQ_MODEL", "openai/gpt-oss-120b,qwen/qwen3.8-27b,openai/gpt-oss-20b").split(",") if m.strip()]
-CEREBRAS_KEY = env("CEREBRAS_API_KEY")
-CEREBRAS_MODELOS = [m.strip() for m in env("CEREBRAS_MODEL", "gpt-oss-120b,qwen-3.8-27b").split(",") if m.strip()]
 # OpenRouter: so modelos GRATIS (sem credito na conta, modelo pago nem funciona, entao nunca cobra)
 OPENROUTER_KEY = env("OPENROUTER_API_KEY")
 OPENROUTER_MODELOS = [m.strip() for m in env("OPENROUTER_MODEL", "stealth/space-bunny-alpha,openai/gpt-oss-120b:free").split(",") if m.strip()]
@@ -37,8 +35,7 @@ OPENROUTER_MODELOS = [m.strip() for m in env("OPENROUTER_MODEL", "stealth/space-
 
 def reservas():
     return (("Groq", "https://api.groq.com/openai/v1", GROQ_KEY, GROQ_MODELOS),
-            ("OpenRouter", "https://openrouter.ai/api/v1", OPENROUTER_KEY, OPENROUTER_MODELOS),
-            ("Cerebras", "https://api.cerebras.ai/v1", CEREBRAS_KEY, CEREBRAS_MODELOS))
+            ("OpenRouter", "https://openrouter.ai/api/v1", OPENROUTER_KEY, OPENROUTER_MODELOS))
 PLANILHA = env("PLANILHA_URL")
 MODO_TESTE = env("MODO_TESTE", "0") == "1"
 PAUSADO = env("PAUSADO", "0") == "1"
@@ -198,7 +195,7 @@ def gemini(prompt, json_mode=False, busca=False):
         corpo["tools"] = [{"google_search": {}}]
     r, ultimo = None, None
     modelos = [GEMINI_MODEL] + [m for m in ("gemini-flash-lite-latest",) if m != GEMINI_MODEL]
-    tem_reserva = bool(GROQ_KEY or OPENROUTER_KEY or CEREBRAS_KEY)
+    tem_reserva = bool(GROQ_KEY or OPENROUTER_KEY)
     for modelo in modelos:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
         for tentativa in range(1 if tem_reserva else 2):
@@ -223,7 +220,7 @@ def gemini(prompt, json_mode=False, busca=False):
         return None
 
 
-# ---------------------------------------------------------------- reservas (Groq, Cerebras)
+# ---------------------------------------------------------------- reservas (Groq, OpenRouter)
 _MODELOS_RUINS = set()
 _DESCOBERTOS = {}
 
@@ -247,7 +244,7 @@ def _descobrir(nome, base, hdr):
 
 
 def _compat_openai(nome, base, chave, modelos, prompt, json_mode):
-    """Groq, OpenRouter e Cerebras usam o mesmo formato. Tenta os modelos em ordem; se todos sumirem, pergunta a lista ao servidor."""
+    """Groq e OpenRouter usam o mesmo formato. Tenta os modelos em ordem; se todos sumirem, pergunta a lista ao servidor."""
     hdr = {"Authorization": f"Bearer {chave}", "User-Agent": "robo-threads/1.0", "Accept": "application/json"}
     lista = [m for m in modelos + _DESCOBERTOS.get(nome, []) if (nome, m) not in _MODELOS_RUINS]
     tentou_lista = nome in _DESCOBERTOS
@@ -290,7 +287,7 @@ _FORA = set()  # IAs que falharam nesta rodada: nao insiste nelas de novo (rodad
 
 
 def ia(prompt, json_mode=False, busca=False):
-    """Pede o texto ao Gemini; se ele falhar, usa as reservas (Groq, OpenRouter gratis, Cerebras). Levanta erro so se todas falharem."""
+    """Pede o texto ao Gemini; se ele falhar, usa as reservas (Groq, OpenRouter gratis). Levanta erro so se todas falharem."""
     erros = []
     if GEMINI_KEY and "Gemini" not in _FORA:
         try:
@@ -406,7 +403,7 @@ Responda em JSON: {{"responder": true/false, "texto": "...", "mandar_link": true
         d["texto"] = limpar(d.get("texto", ""))[:400]
         return d
     except Exception:
-        if not (GEMINI_KEY or GROQ_KEY or OPENROUTER_KEY or CEREBRAS_KEY):
+        if not (GEMINI_KEY or GROQ_KEY or OPENROUTER_KEY):
             return {"responder": True, "texto": random.choice(["Valeu pelo comentario!", "Tamo junto!", "Que bom que curtiu!"]),
                     "mandar_link": tem_link and bool(re.search(r"link|quero|onde|pre[cç]o|quanto", comentario or "", re.I))}
         return {"responder": False}
@@ -606,7 +603,7 @@ def main():
     s = carregar_estado()
     agora = dt.datetime.now(TZ)
     if s.get("reservas_checadas") != agora.strftime("%Y-%m-%d"):
-        checar_reservas()  # 1 vez por dia: mostra no log se Groq/OpenRouter/Cerebras respondem
+        checar_reservas()  # 1 vez por dia: mostra no log se Groq/OpenRouter respondem
         s["reservas_checadas"] = agora.strftime("%Y-%m-%d")
         _FORA.clear()
     erros = 0
