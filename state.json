@@ -13,9 +13,10 @@
    "20:47"
   ],
   "feitos": [
-   "08:55"
+   "08:55",
+   "10:04"
   ],
-  "respostas": 36
+  "respostas": 42
  },
  "posts": [
   {
@@ -94,6 +95,13 @@
    "link": "",
    "texto": "SEJAM SINCEROS: qual app você apagaria agora mesmo se pudesse ter só três no celular?",
    "quando": "2026-09-29T09:07:12.976607-04:00"
+  },
+  {
+   "id": "17954234199257769",
+   "insp": "4c34f415ce",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: pagar mais caro para resolver um perrengue rápido vale cada centavo e eu não tenho a menor vergonha disso. Quem concorda?",
+   "quando": "2026-09-29T10:07:09.649581-04:00"
   }
  ],
  "respondidos": [
@@ -183,7 +191,13 @@
   "17985100788076750",
   "18199992541378435",
   "18116278807974125",
-  "17915455005259921"
+  "17915455005259921",
+  "18653145082028162",
+  "18171799075454846",
+  "18113861096044459",
+  "18138696196618247",
+  "18122404147933171",
+  "17966794899174695"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -196,7 +210,8 @@
   "42c7bff59081e6fcf09011fe0479b404",
   "c3c147ba5bffb021d0a17087813fee1a",
   "eac573f7d827387b89f7b18e8dc2ac98",
-  "bdc104390d495996f091b8c9a6bd1faa"
+  "bdc104390d495996f091b8c9a6bd1faa",
+  "5d5134adf4448bd5764bdf4599145927"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -209,7 +224,8 @@
   "ff5027f0d8": 1790633283.7908828,
   "d12059d204": 1790636883.6793935,
   "f6d9ba8473": 1790645865.3717055,
-  "08c5fced1d": 1790687276.4493108
+  "08c5fced1d": 1790687276.4493108,
+  "4c34f415ce": 1790690916.9672582
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -248,7 +264,13 @@
   "karlfinm": 1,
   "cintiamacedos": 1,
   "andrewsars": 1,
-  "miley_medeiros": 1
+  "miley_medeiros": 1,
+  "fallen_angel_eclipse": 1,
+  "michellicarvalho": 1,
+  "marisolpatriota": 1,
+  "backstreetgirl1926": 1,
+  "rubensmj": 1,
+  "sushizinhaa": 1
  },
  "reservas_checadas": "2026-09-29"
 }
