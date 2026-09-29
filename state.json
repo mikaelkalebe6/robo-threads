@@ -19,7 +19,7 @@
    "13:12",
    "14:00"
   ],
-  "respostas": 96
+  "respostas": 100
  },
  "posts": [
   {
@@ -276,7 +276,11 @@
   "18150610111546878",
   "17994276783021121",
   "18234969319324265",
-  "18151158478535399"
+  "18151158478535399",
+  "18354239869174922",
+  "18085271147700747",
+  "17907091686483560",
+  "17992713635868299"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -405,30 +409,14 @@
   "artesdade87": 1,
   "daiane.carmo.94": 1,
   "acaldeira_": 1,
-  "val.ribeiro.sc": 1
+  "val.ribeiro.sc": 1,
+  "tayberaldi": 1,
+  "sendoclara_": 1,
+  "giomarangoni_": 1,
+  "nubs_catiele": 1
  },
  "reservas_checadas": "2026-09-29",
  "ultimas_respostas": [
-  {
-   "t": "menos de 10 mil passos ja eh retiro espiritual pra mim kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "anotando todas pq minha mala ja ta pronta",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "milão eh pra quem gosta de ver vitrine chique rezando pro boleto cair",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "sei bem como eh esse dar umas olhadas kkkkkkkmmmkkkk",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "coragem pq juizo zero ne",
    "p": "discorda",
@@ -558,6 +546,26 @@
    "t": "essa categoria eh perigosa pq vc comeca defendendo o lixo e acaba criando personalidade baseada em bomba 🙏🏼",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "espertinho vc so de camarote esperando o trabalho dos outros",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "jp tem um negocinho q suga a gente msm",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "bruxelas eh a definição de cidade q a pessoa vai c zero fé e volta achando q é habituee da grand place kkkkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "coragem colocar a obra prima coreana na roda de tiro",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],
@@ -591,6 +599,11 @@
    "t": "sim a casa da julieta eh uma marmotagem sem fim mas o prosecco salva tudo 😭",
    "c": "Exatamente, achei que seria só Julieta (a casa foi a minha decepção, mesmo sabendo que era fake)… mas é uma das cidades que mais amo visitar, poderia ficar horas sentada olhando o rio e tomando um pro",
    "q": "2026-09-29T15:37:11.453150-04:00"
+  },
+  "18060760853716573": {
+   "t": "espertinho vc so de camarote esperando o trabalho dos outros",
+   "c": "Vou comentar só pra pegar as tips",
+   "q": "2026-09-29T16:07:09.869883-04:00"
   }
  }
 }
