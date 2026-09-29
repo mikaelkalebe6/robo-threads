@@ -18,7 +18,7 @@
    "11:21",
    "13:12"
   ],
-  "respostas": 60
+  "respostas": 66
  },
  "posts": [
   {
@@ -232,7 +232,13 @@
   "18069797636771492",
   "18067426343510089",
   "18355314838222166",
-  "18186108133412437"
+  "18186108133412437",
+  "18354011416169079",
+  "18124792930842923",
+  "17909662887552783",
+  "18093245651406905",
+  "18105184081958601",
+  "18074176382735817"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -327,10 +333,53 @@
   "pjcotrim": 1,
   "penseinumacoisa": 1,
   "pochag_": 1,
-  "davidevidenciaancestral": 1
+  "davidevidenciaancestral": 1,
+  "valerianicolella2": 1,
+  "allaninhay": 1,
+  "alex_reis_santiago": 1,
+  "_saudadedomar": 1,
+  "wrik_jo": 1,
+  "vickibolzoni": 1
  },
  "reservas_checadas": "2026-09-29",
- "ultimas_respostas": [],
+ "ultimas_respostas": [
+  {
+   "t": "medo de saber oq vc esconde kkkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "exposta com sucesso kkkkkk",
+   "p": "ressalva",
+   "r": 2
+  },
+  {
+   "t": "duas horas de pura bomba sonora socorro kkkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "nem comento pra nao perder a amizade kkkkkkkk",
+   "p": "discorda",
+   "r": 2
+  },
+  {
+   "t": "to bloqueando imediatamente nao aceito calunia contra o patrimônio nacional 😭",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "a pele que habito vc foi longe demais socorro",
+   "p": "ressalva",
+   "r": 0
+  }
+ ],
  "exemplos_kalebe": [],
- "minhas_respostas": {}
+ "minhas_respostas": {
+  "18006119856004212": {
+   "t": "medo de saber oq vc esconde kkkk",
+   "c": "X",
+   "q": "2026-09-29T13:30:35.173479-04:00"
+  }
+ }
 }
