@@ -14,9 +14,10 @@
   ],
   "feitos": [
    "08:55",
-   "10:04"
+   "10:04",
+   "11:21"
   ],
-  "respostas": 52
+  "respostas": 58
  },
  "posts": [
   {
@@ -102,6 +103,13 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: pagar mais caro para resolver um perrengue rápido vale cada centavo e eu não tenho a menor vergonha disso. Quem concorda?",
    "quando": "2026-09-29T10:07:09.649581-04:00"
+  },
+  {
+   "id": "18465035737185312",
+   "insp": "c71e576931",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: por que todo mundo finge que boletos e burocracias são fáceis de entender na primeira tentativa? Tem coisa de adulto que parece um idioma secreto que a gente só concorda em silêncio.",
+   "quando": "2026-09-29T11:37:12.747959-04:00"
   }
  ],
  "respondidos": [
@@ -208,7 +216,13 @@
   "18267575659306227",
   "18344321782265249",
   "18107906021163965",
-  "17970234564163445"
+  "17970234564163445",
+  "17942501226356981",
+  "18492849805104350",
+  "18089393351218301",
+  "17908652469480338",
+  "18069797636771492",
+  "18067426343510089"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -222,7 +236,8 @@
   "c3c147ba5bffb021d0a17087813fee1a",
   "eac573f7d827387b89f7b18e8dc2ac98",
   "bdc104390d495996f091b8c9a6bd1faa",
-  "5d5134adf4448bd5764bdf4599145927"
+  "5d5134adf4448bd5764bdf4599145927",
+  "08048c685a58dd140dfb05d63b1010b6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -236,7 +251,8 @@
   "d12059d204": 1790636883.6793935,
   "f6d9ba8473": 1790645865.3717055,
   "08c5fced1d": 1790687276.4493108,
-  "4c34f415ce": 1790690916.9672582
+  "4c34f415ce": 1790690916.9672582,
+  "c71e576931": 1790696301.2662683
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -291,7 +307,13 @@
   "sdriaoa": 1,
   "fanolisenshi": 1,
   "joycegabeta": 1,
-  "laraestevamr": 1
+  "laraestevamr": 1,
+  "celiadaniele": 1,
+  "manucostaxp": 1,
+  "gilyan.ceos": 1,
+  "softcampos2": 1,
+  "pjcotrim": 1,
+  "penseinumacoisa": 1
  },
  "reservas_checadas": "2026-09-29"
 }
