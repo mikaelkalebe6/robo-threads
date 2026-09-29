@@ -15,7 +15,8 @@
   "feitos": [
    "08:55",
    "10:04",
-   "11:21"
+   "11:21",
+   "13:12"
   ],
   "respostas": 60
  },
@@ -110,6 +111,13 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: por que todo mundo finge que boletos e burocracias são fáceis de entender na primeira tentativa? Tem coisa de adulto que parece um idioma secreto que a gente só concorda em silêncio.",
    "quando": "2026-09-29T11:37:12.747959-04:00"
+  },
+  {
+   "id": "18465847714140415",
+   "insp": "cd232d0d3c",
+   "link": "",
+   "texto": "ME CONTA: qual foi a cidade mais subestimada que você já visitou? Eu fui achando que não ia ter nada pra fazer e voltei apaixonada.",
+   "quando": "2026-09-29T13:25:29.359706-04:00"
   }
  ],
  "respondidos": [
@@ -239,7 +247,8 @@
   "eac573f7d827387b89f7b18e8dc2ac98",
   "bdc104390d495996f091b8c9a6bd1faa",
   "5d5134adf4448bd5764bdf4599145927",
-  "08048c685a58dd140dfb05d63b1010b6"
+  "08048c685a58dd140dfb05d63b1010b6",
+  "7f49e2d7c183532e4aa2003684a9d79c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -254,7 +263,8 @@
   "f6d9ba8473": 1790645865.3717055,
   "08c5fced1d": 1790687276.4493108,
   "4c34f415ce": 1790690916.9672582,
-  "c71e576931": 1790696301.2662683
+  "c71e576931": 1790696301.2662683,
+  "cd232d0d3c": 1790702799.9300892
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -319,5 +329,8 @@
   "pochag_": 1,
   "davidevidenciaancestral": 1
  },
- "reservas_checadas": "2026-09-29"
+ "reservas_checadas": "2026-09-29",
+ "ultimas_respostas": [],
+ "exemplos_kalebe": [],
+ "minhas_respostas": {}
 }
