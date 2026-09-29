@@ -1,29 +1,19 @@
 {
  "plano": {
-  "data": "2026-09-28",
+  "data": "2026-09-29",
   "horarios": [
-   "09:25",
-   "10:05",
-   "10:58",
-   "12:15",
-   "14:14",
-   "15:59",
-   "17:47",
-   "18:38",
-   "21:37"
+   "08:55",
+   "10:04",
+   "11:21",
+   "13:12",
+   "14:00",
+   "16:56",
+   "19:16",
+   "20:01",
+   "20:47"
   ],
-  "feitos": [
-   "09:25",
-   "10:05",
-   "10:58",
-   "12:15",
-   "14:14",
-   "15:59",
-   "17:47",
-   "18:38",
-   "21:37"
-  ],
-  "respostas": 40
+  "feitos": [],
+  "respostas": 6
  },
  "posts": [
   {
@@ -147,7 +137,13 @@
   "18356388205221519",
   "17915001867260714",
   "18031185674674360",
-  "18195528751391487"
+  "18195528751391487",
+  "18094530125558489",
+  "18097451762386456",
+  "17912879907525974",
+  "18217353394347431",
+  "17909830674508039",
+  "18076032617426190"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -175,46 +171,13 @@
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
-  "_data": "2026-09-28",
-  "hugo.nogueira": 1,
-  "laio_souza69": 1,
-  "soumarcioborges": 1,
-  "gloriamanfron": 1,
-  "itssamsilva": 1,
-  "arianepaschoalino": 1,
-  "maikeleite_": 1,
-  "jamesbiggs2024": 1,
-  "maisaacnf": 1,
-  "renatothimoteo": 1,
-  "jeffressurge": 1,
-  "annamonteiro283": 1,
-  "ronaldo.lacerda_": 1,
-  "defariaswellington": 1,
-  "hiroshi_espefelde": 1,
-  "andre_brito4": 1,
-  "victor590273": 1,
-  "gonn.soutoo": 1,
-  "1corredor_correndo": 1,
-  "jhu.bracq": 1,
-  "eucasper95": 1,
-  "mesquitaantoniocarlosmacedo": 1,
-  "fgrodrigues26": 1,
-  "astmascarenhas": 1,
-  "drirrschuchowsky": 1,
-  "joabe_sameke": 1,
-  "biancozta": 1,
-  "casarulta": 1,
-  "vivcimim": 1,
-  "gleycearaujo0702": 1,
-  "styleffox": 1,
-  "nicolesantosm__": 1,
-  "o_vine_esperanca": 1,
-  "gustavosalvador.r": 1,
-  "limacastro": 1,
-  "lucas_samanueska": 1,
-  "3lla.gabri": 1,
-  "parallax_filmz": 2,
-  "pcjuliani": 1
+  "_data": "2026-09-29",
+  "ominivac": 1,
+  "clauskruger": 1,
+  "safekamino2002": 1,
+  "gerliane.dias": 1,
+  "enriqueguzella": 1,
+  "jonathanlsoares": 1
  },
- "reservas_checadas": "2026-09-28"
+ "reservas_checadas": "2026-09-29"
 }
