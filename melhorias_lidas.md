@@ -1,5 +1,48 @@
 # Ideias e melhorias salvas pelo Kalebe, lidas pelo Gemini (para o Claude; mais novas primeiro)
 
+## 29/09/2026 | https://www.instagram.com/reel/DdtvW3Zu3ym/?stkn=MWFiNmg3aGMzZWVrdQ==
+**Tipo:** vídeo | **Idioma original:** português
+
+**Conteúdo:** O criador apresenta em menos de 26 segundos uma lista com 19 pontos de segurança para verificar com o Claude antes de colocar um site ou sistema no ar: 1 - env exposta, 2 - validação frontend, 3 - validação backend, 4 - SQL injection, 5 - Autenticação fraca, 6 - Exposição IDOR, 7 - Senhas direto no banco, 8 - Ataque de força bruta, 9 - Bloquear durante envio, 10 - CSRF, 11 - Upload sem validação, 12 - revelando info, 13 - Dp vulneráveis, 14 - Tokens mal otimizados, 15 - Rate limit, 16 - sensíveis expostos, 17 - SSRF, 18 - Sessões e cookies inseguros, 19 - .
+
+**Ideia principal:** Fazer um check-up de segurança com IA (Claude) cobrindo 19 pontos críticos antes de subir um sistema ou automação para produção.
+
+**Ferramentas, sites ou preços citados:** Claude
+
+**Como aplicar no projeto:**
+1. Criar um prompt estruturado pedindo ao Claude para revisar o código da automação do Threads e do sistema de afiliados focando nos 19 pontos citados no vídeo.
+2. Executar a varredura ponto a ponto no código atual do robô.
+3. Corrigir vulnerabilidades apontadas, especialmente em relação a credenciais (`.env`), tokens e requisições à API.
+
+**Riscos ou custos:** Nenhum aparente.
+
+## 29/09/2026 | https://www.instagram.com/reel/Dd2YHcqivjY/?stkn=YjkyajJmODBwa2M5
+**Tipo:** vídeo | **Idioma original:** português
+
+**Conteúdo:** O criador (Wagner Assis) demonstra uma falha comum em aplicações criadas com auxílio de IA ("vibe coding"): a IA gera rotas administrativas (como `/admin`) apenas ocultando-as do menu visual, mas sem restringir o acesso no servidor. Como resultado, qualquer usuário deslogado ou cliente comum consegue acessar painéis administrativos e exportar dados diretamente pela URL. A solução é garantir que a validação de privilégios ocorra no servidor (backend) para todas as rotas restritas.
+
+**Ideia principal:** Ocultar links de administração no front-end não protege a aplicação; é obrigatório validar permissões de administrador no servidor em todas as rotas sensíveis.
+
+**Ferramentas, sites ou preços citados:** Supabase, Claude Code, Cursor AI.
+
+**Como aplicar no projeto:**
+1. Auditar todas as rotas e endpoints administrativos do projeto (automação do Threads, painéis, exportações).
+2. Garantir que o backend (ex: Supabase RLS ou middleware de autenticação) valide explicitamente se o usuário tem cargo de admin antes de executar qualquer ação restrita.
+3. Testar o acesso às URLs administrativas nas condições: deslogado, logado como usuário comum e logado como admin.
+
+**Riscos ou custos:** Risco de segurança e vazamento de dados caso rotas administrativas fiquem desprotegidas no servidor.
+
+## 29/09/2026 | https://www.instagram.com/reel/Dd3mET7hWOI/?stkn=MWxrbmg0d2hzbnFuYg==
+**Tipo:** Vídeo | **Idioma original:** Português
+**Conteúdo:** Requisitos mínimos de segurança para desenvolver um software seguro: 1. HTTPS, 2. Senhas com Hash, 3. MFA, 4. Rate Limit, 5. Validação de Inputs, 6. Sanitização de dados, 7. Proteção contra SQL Injection, 8. Migrations, 9. Rollback, 10. Controle de Acesso, 11. Expiração de sessão, 12. Secrets fora do código, 13. CORS configurado, 14. Logs de segurança, 15. Backup automático, 16. Criptografia de dados sensíveis, 17. Dependências atualizadas, 18. Princípio do menor privilégio, 19. Monitoramento e alertas, 20. Plano de recuperação.
+**Ideia principal:** Check-list essencial de 20 requisitos técnicos para garantir a segurança básica no desenvolvimento de software.
+**Ferramentas, sites ou preços citados:** Nenhum
+**Como aplicar no projeto:**
+1. Pedir para o Claude revisar o código do projeto de automação buscando vulnerabilidades nos itens críticos (como CORS, secrets fora do código e rate limit).
+2. Garantir que credenciais e chaves da API Shopee e Claude estejam em variáveis de ambiente, nunca hardcoded.
+3. Implementar logs de segurança para monitorar erros e execuções das automações do Threads.
+**Riscos ou custos:** Nenhum aparente.
+
 ## 29/09/2026 | https://www.instagram.com/reel/Ddtc9dCxGam/?stkn=NXZkNnl5ZWE5NnVr
 **Tipo:** video | **Idioma original:** Português
 **Conteudo:** Como fazer uma cybersecurity básica pra não ser processado
@@ -10,6 +53,7 @@
 2. Garantir conformidade com a LGPD no armazenamento de dados obtidos por IA.
 3. Implementar controle de acesso restrito às chaves de API e variáveis de ambiente (como as do Claude).
 **Riscos ou custos:** Risco legal de vazamento de dados de usuários e penalidades da LGPD.
+
 
 ## 28/09/2026 | https://www.instagram.com/reel/DdnRmRzjb_i/?stkn=MWdsczBxYjBicjV3Ng==
 **Tipo:** video | **Idioma original:** Portugues
@@ -22,6 +66,7 @@
 3. Testar as funcoes de planejamento, analise de perfil e geracao de roteiros baseados em tendencias para o projeto de automacao do Threads e crescimento de perfil.
 **Riscos ou custos:** Risco de banimento em funcoes de automacao de interacao direta (comentarios automaticos e respostas de mensagens), conforme apontado na legenda publica. Uso do Claude (versao gratuita ou paga).
 Observacao do Kalebe: (nenhuma)
+
 
 
 ## 29/09/2026 | https://www.instagram.com/p/DdclXN5m8Fd/?img_index=2&stkn=MWk4eHFnbndqaGczZg==
@@ -49,6 +94,7 @@ Imagem 7: COMENTE "PSR3C" E EU TE MANDO O PROMPT
 **Riscos ou custos:** Nenhum aparente. O próprio autor avisa que o prompt não elimina 100% das alucinações, apenas expõe a fragilidade da resposta ao exigir autoverificação de confiança.
 
 
+
 ## 29/09/2026 | https://www.instagram.com/reel/DbHLy-GBRqz/?stkn=MThqb3Judm1mM2hrbg==
 **Tipo:** video | **Idioma original:** Portugues
 **Conteudo:** O criador alerta que publicar aplicativos gerados por IA ("vibecoding") pode ser perigoso, dando acesso a dados e cartões de crédito. Apresenta 3 validações essenciais: 1) Variaveis de ambiente: inspecionar o site no navegador, ir em Sources, procurar termos como `sk_` ou `KEY` para garantir que chaves sensíveis não estejam expostas no client-side. 2) Autenticação (Cookies): verificar se ao limpar os cookies e recarregar a pagina, páginas privadas continuam acessíveis (se sim, falha na autenticação). 3) Rate Limiting: pedir para a IA implementar limite de requisições para evitar ataques de força bruta (tentativas infinitas de senha).
@@ -61,6 +107,7 @@ Imagem 7: COMENTE "PSR3C" E EU TE MANDO O PROMPT
 **Riscos ou custos:** Risco alto de segurança (vazamento de dados de usuários, exposição de chaves de API, comprometimento do sistema e fraudes financeiras).
 
 
+
 ## 28/09/2026 | https://www.instagram.com/reel/Ddt5T--xm2k/?stkn=bG83YXhyaHBmODRt
 **Tipo:** Vídeo | **Idioma original:** Português
 **Conteúdo:** O criador apresenta o WhatsApp Business MCP, lançado pela Meta em 15 de setembro, que permite criar agentes de IA conectados diretamente à API oficial do WhatsApp pelo Claude. O processo, que antes exigia especialistas e configuração complexa, agora é feito por comandos conversacionais: o Claude cria a conta Meta Business, adiciona e valida o número, conecta na API oficial, verifica termos/pagamento, testa o webhook e envia mensagens. O Claude também envia templates para análise da Meta e avisa se houver reprovação. Para usar, basta adicionar o MCP no Claude e fazer login com a conta Meta.
@@ -71,6 +118,7 @@ Imagem 7: COMENTE "PSR3C" E EU TE MANDO O PROMPT
 2. Conectar a conta Meta Business e validar o número de telefone por comandos na interface do Claude.
 3. Configurar os agentes de IA e testar o envio de mensagens automatizadas pelo webhook.
 **Riscos ou custos:** Liberação gradual da Meta/Claude pode atrasar o acesso; custos de API da Meta conforme uso comercial.
+
 
 
 
@@ -99,6 +147,7 @@ Imagem 10: Passo 9: Coloque seu agente online 24/7. Seu laptop não deve ser o s
 
 
 
+
 ## 28/09/2026 | https://www.instagram.com/reel/DdWY7PsidwP/?stkn=MTBqMWF1Z2RjanZydQ==
 **Tipo:** vídeo | **Idioma original:** Português do Brasil
 
@@ -121,6 +170,7 @@ Dá uma olhada nesse carrossel que a gente criou em menos de 1 minuto, se você 
 
 
 
+
 ## 27/09/2026 | https://www.threads.com/@futurizando
 **Tipo:** foto | **Idioma original:** Portugues
 **Conteudo:** Imagem do Olho da Providencia dentro de um triangulo (simbolo iconico associado a teorias da conspiracao, previsoes e ocultismo), isolado em fundo azul claro. O perfil associado e @futurizando no Threads, descrito como a maior pagina de previsoes do mundo, com mais de 700 previsoes acertadas e mais de 70 mil clientes atendidos.
@@ -131,6 +181,7 @@ Dá uma olhada nesse carrossel que a gente criou em menos de 1 minuto, se você 
 2. Usar o Claude para programar um agente que analise tendencias bizzarras ou previsoes de longo prazo e gere textos intrigantes associados a essas imagens.
 3. Automatizar a publicacao desses posts visuais no Threads usando a automacao para testar engajamento com temas de curiosidade e misterio.
 **Riscos ou custos:** Nenhum aparente
+
 
 
 
@@ -159,6 +210,7 @@ Como o seu projeto mexe com **automação (que interage com contas de redes soci
 2. **2FA Obrigatório:** Exija autenticação em dois fatores em todas as contas de desenvolvedor, e-mails associados e painéis que controlam a automação.
 3. **Gestão de Segredos (Secrets Management):** No código do Claude ou scripts de automação, **nunca** deixe tokens, senhas ou chaves de API hardcoded (visíveis no código). Use variáveis de ambiente (`.env`).
 4. **Controle de Sessão e Acesso:** Se a automação roda em um servidor ou VPS, restrinja o acesso via SSH (use chaves SSH em vez de senha) e mantenha o sistema operacional atualizado para evitar brechas de segurança.
+
 
 
 
