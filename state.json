@@ -22,9 +22,10 @@
    "08:10",
    "08:50",
    "09:56",
-   "11:15"
+   "11:15",
+   "12:33"
   ],
-  "respostas": 62
+  "respostas": 69
  },
  "posts": [
   {
@@ -194,6 +195,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: quem prefere cachorro costuma ser mais carente ou é só impressão minha? 🐾",
    "quando": "2026-09-30T11:37:11.115444-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17915913696462020",
+   "insp": "2b14999174",
+   "link": "",
+   "texto": "SEJAM SINCEROS: ser legal o tempo todo só traz prejuízo emocional ou sou eu que estou escolhendo os caminhos errados",
+   "quando": "2026-09-30T12:37:10.761748-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -456,7 +465,14 @@
   "17878652820553259",
   "17908782684488337",
   "18086425280296085",
-  "18139554127621366"
+  "18139554127621366",
+  "17969265603171631",
+  "18356774188247160",
+  "18183021538418259",
+  "18114012502820713",
+  "18163486891490391",
+  "18134273065708980",
+  "18107676773224758"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -481,7 +497,8 @@
   "c2c94c00d996d30f29aa7b62e8d8dfae",
   "e92a4c585e2ef4db6a0a4447a4df25ab",
   "68175986c1a1dd5a8c8da5431230c148",
-  "fdae5502c42707848860950824762a62"
+  "fdae5502c42707848860950824762a62",
+  "6dd8006c99f41580346bc68e9733f159"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -506,7 +523,8 @@
   "fd6c7eeb28": 1790771853.9675057,
   "8afd53c3f1": 1790773645.4395769,
   "b5bc8dc34f": 1790777255.0346036,
-  "018fcf3621": 1790782693.9690814
+  "018fcf3621": 1790782693.9690814,
+  "2b14999174": 1790786274.782627
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -572,45 +590,17 @@
   "medusa.radioativa.dart": 1,
   "larinhagoonie": 1,
   "frevynha": 1,
-  "gislaine_silva7": 1
+  "gislaine_silva7": 1,
+  "carolbuuu": 1,
+  "v1eiraz_sz": 1,
+  "yasminguarisi": 1,
+  "pacavichi": 1,
+  "isabela.lima.r": 1,
+  "thatisestrem": 1,
+  "dessadionisio": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "dizem que a arquitetura de lá parece cenário de filme mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Lua de mel em lugar que a gente torcia o nariz costuma ser a melhor surpresa, já entrou na lista",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkk puxando a raiz inteira, o caos em pessoa 🌱",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "kkkkkkkkkkkkkkkk o bicho foi estrategista demais, preciso respeitar esse plano maligno",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "kkkkkkkkkkkkkkk não creio socorro o solado saindo aos pouquinhos 😭",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "12 anos e achando q a gata ia mandar o recibo detalhado né 😭",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkk com essa cara de anjo ninguém diz que é o dono da bagunça",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "kkkkkkkkkkkkkkkk meu deus do céu foi um evento canônico completo na sua casa",
    "p": "concorda",
@@ -725,6 +715,41 @@
    "t": "agora virou cômoda improvisada",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "kkkkkkkkkkk menos mal q vc tava em casa porque o estrago ia ser maior",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "socorro o colchão foi de base completamente, pelo menos ele garantiu a diversão",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkk virou alpinista profissional agora né",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkkkkkkkkkkk ela acumulando os tesouros dela no lugar mais importante",
+   "p": "concorda",
+   "r": 4
+  },
+  {
+   "t": "kkkkkkkkk a dupla dinâmica dormindo plena fingindo demência depois do crime",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkkkkkkkk o bichinho escolheu a pior semana possível pra deixar a lembrança",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkkkkkkkkkk o prejuizo veio em formato de recheio de espuma",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "exemplos_kalebe": [],
