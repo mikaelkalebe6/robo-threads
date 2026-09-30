@@ -546,6 +546,38 @@ def _exemplos_resposta(s):
     return "\n\n".join(partes)
 
 
+# escrita (pedido do Kalebe em 30/09): abreviacao faz parte, mas com dose; acento e virgula para ficar facil de entender
+_ABREV = {"q": "que", "vc": "você", "vcs": "vocês", "pq": "porque", "tbm": "também", "tb": "também", "msm": "mesmo",
+          "agr": "agora", "oq": "o que", "gnt": "gente", "td": "tudo", "mt": "muito", "mto": "muito", "blz": "beleza",
+          "prox": "próxima", "cmg": "comigo", "qdo": "quando", "qnd": "quando", "eh": "é", "hj": "hoje", "dps": "depois",
+          "vdd": "verdade", "ngm": "ninguém", "pfv": "por favor", "sla": "sei lá"}
+_ACENTO = {"nao": "não", "so": "só", "ja": "já", "la": "lá", "ne": "né", "voce": "você", "voces": "vocês",
+           "tambem": "também", "entao": "então", "tao": "tão", "serio": "sério", "ta": "tá", "to": "tô", "ai": "aí",
+           "ate": "até", "cade": "cadê", "alguem": "alguém", "ninguem": "ninguém"}
+_ABREV_OK = ("vc", "tbm", "pq", "q", "msm", "oq", "agr", "hj")  # as comuns; no maximo 2 por resposta
+_MAX_ABREV = 2
+
+
+def ajustar_escrita(texto, pode_abreviar):
+    """Dosa a abreviacao (ate 2 comuns quando o sorteio deixou, o resto por extenso) e poe acento nas palavras certas."""
+    usou = [0]
+
+    def troca(m):
+        w = m.group(0)
+        low = w.lower()
+        if low in _ABREV:
+            if pode_abreviar and usou[0] < _MAX_ABREV and low in _ABREV_OK:
+                usou[0] += 1
+                return w
+            novo = _ABREV[low]
+        elif low in _ACENTO:
+            novo = _ACENTO[low]
+        else:
+            return w
+        return novo[0].upper() + novo[1:] if w[0].isupper() else novo
+    return re.sub(r"(?<![\w@#/.])[A-Za-z]+(?![\w/.])", troca, texto or "")
+
+
 def gerar_resposta(post_txt, comentario, tem_link, s=None, imagem=None, imagem_perdida=False, contexto=None):
     s = s if s is not None else {}
     dicas, recentes = _dicas_variacao(s)
@@ -553,6 +585,10 @@ def gerar_resposta(post_txt, comentario, tem_link, s=None, imagem=None, imagem_p
     if contexto:
         ctx = (f'Isto e uma TREPLICA: antes a pessoa comentou "{contexto.get("c", "")}" e voce respondeu '
                f'"{contexto.get("t", "")}". Agora ela respondeu voce. Continue a conversa (se esquentou, pode rir um nivel acima).\n')
+
+    pode_abreviar = random.random() < 0.5
+    regra_abrev = ("Nesta resposta pode usar ate 2 abreviacoes comuns (vc, tbm, pq, q, msm); o resto por extenso." if pode_abreviar
+                   else "Nesta resposta escreva por extenso, sem abreviacao.")
 
     def montar(ve_imagem):
         if imagem and ve_imagem:
@@ -580,15 +616,16 @@ Regras:
 - Risada proporcional a graca real: 0 sem risada (desabafo, pergunta, debate), 1 pouco (kk, kkk, haha), 2 medio (kkkkk, KKKK), 3 muito (KKKKKKKKKK, kkkkkkkmmmkkkk, morri, socorro). Na maioria das respostas NAO ria. Varie a forma e a posicao da risada.
 - ENTENDA O OBJETIVO DO POST antes de tudo. Se o post pede indicacoes, historias ou opinioes (ME CONTA, SEJAM SINCEROS, DUVIDA SINCERA etc.), quem responde esta PARTICIPANDO: valorize a contribuicao, reaja ao que a pessoa trouxe com curiosidade, graca leve ou um complemento. Quem diz que so veio acompanhar ou pegar as dicas e bem-vindo (ex.: "fica a vontade, a lista ta ficando boa").
 - Humor sempre AO LADO da pessoa: brinque com a situacao, o filme, o lugar ou com voce mesma, nunca com quem comentou. Proibido rotular, julgar ou ironizar a pessoa (espertinho, turista basica, povinho, juizo zero, coragem em tom de deboche, "quer acabar com o dia de todo mundo").
-- Opiniao propria sim, mas discordar so quando a pessoa disse algo polemico, e sempre leve e respeitosa. Varie a forma de concordar: complementar, acrescentar um detalhe, fazer uma pergunta curiosa, concordar exagerando. Proibido: "nossa ... demais", "verdade", "exatamente", "com certeza", "concordo".
+- Opiniao propria sim, mas discordar so quando a pessoa disse algo polemico, e sempre leve e respeitosa. Varie a forma de concordar: complementar, acrescentar um detalhe, fazer uma pergunta curiosa, concordar exagerando. Expressoes como "nossa", "exato", "verdade", "com certeza", "todo mundo fala", "ja ta anotada", "coragem" sao tempero: podem aparecer, mas de vez em quando, nunca em sequencia e nunca repetindo as suas respostas recentes.
 - Se o post pediu opiniao ou sinceridade (SEJAM SINCEROS, SEM MENTIR, DUVIDA SINCERA, ME CONTA, o que voces acham), a pessoa fez exatamente o que voce pediu: reconheca a sinceridade antes de discordar (ex.: "respeito a sinceridade", "doeu mas e honesto") e nunca trate a opiniao dela como erro, burrice ou ousadia. Nunca explique a propria piada (nada de "traducao:").
 - NUNCA diga que voce foi, viu, visitou, comeu, usou ou assistiu algo (voce nao tem experiencias para contar). Pode mostrar vontade ou curiosidade: "ja anotei", "agora fiquei curiosa", "entrou na minha lista".
 - Linguagem de adulta brasileira comum: so palavras que qualquer adulto entende de primeira. Nada de giria de nicho ou de adolescente (negocinho, grings, marmotagem, mo, sussa), nada de palavra estrangeira rebuscada, nada de abreviacao estranha. Escreva "e" com acento quando for verbo (nunca "eh") e "com" por extenso.
 - Nao invente fatos sobre filmes, lugares ou pessoas. Se nao tiver certeza, reaja sem afirmar nada.
+- DOSE: humor, giria, abreviacao, risada, emoji e expressoes prontas sao tempero, nao o prato. A base de toda resposta e uma frase simples, gentil e facil de ler, que conversa com o que a pessoa disse e com o objetivo do seu post. Se a resposta parece de adolescente ou de alguem forcando graca, tire tempero.
 - CHEQUE O SENTIDO: leia o post, o comentario e a sua resposta juntos. Se um adulto comum nao entenderia de primeira, ou se a resposta nao conversa com o que a pessoa disse, reescreva mais simples ou responda false.
 - Tamanho: quase sempre de 1 a 15 palavras. De 16 a 35 so para pergunta sincera, desabafo ou debate bom. Nunca lista, nunca palestra.
 - Emoji em mais ou menos 1 a cada 3 respostas, no maximo 1. Muitas respostas sem nenhum. Nunca emoji de riso em desabafo.
-- Jeito: vc, pra, tbm, pq, ta, frases curtas, quase sem ponto final, minuscula as vezes (informal de adulta, sem exagero). Sem travessao, sem hashtag, sem @, sem frase de empresa ("obrigada pelo comentario", "que otima pergunta").
+- Jeito: portugues de rede social de uma adulta. Abreviacao faz parte (vc, tbm, pq, q), mas com dose: o texto tem que ser facil de entender de primeira, com virgula quando ajuda a leitura e acento certo (é, já, lá, só, não, você, também, está). Frases curtas, pouco ponto final, minuscula as vezes. {regra_abrev} Sem travessao, sem hashtag, sem @, sem frase de empresa ("obrigada pelo comentario", "que otima pergunta").
 - Nao termine sempre com pergunta.
 - Nunca invente fatos pessoais especificos (profissao, cidade, valores, nomes). Nunca diga que e humana nem que e robo.
 - responder=false: spam, golpe, propaganda, ofensa pesada, odio, politica em tom de briga, conteudo sexual explicito ou assedio, qualquer sinal de menor de idade, pedido de contato ou DM, comentario que voce nao entendeu, imagem sensivel.
@@ -609,7 +646,7 @@ Responda so em JSON: {{"objetivo_do_post": "...", "intencao": "...", "emocao": "
         try:
             m = re.search(r"\{.*\}", r or "", re.S)  # algumas IAs embrulham o JSON em ```json
             d = json.loads(m.group(0) if m else r)
-            d["texto"] = limpar_resposta(d.get("texto", ""))[:400]
+            d["texto"] = ajustar_escrita(limpar_resposta(d.get("texto", "")), pode_abreviar)[:400]
         except Exception:
             return {"responder": False}  # sem resposta boa, melhor silencio (nunca frase pronta de SAC)
         if not d.get("responder"):
@@ -889,6 +926,47 @@ def atualizar_exemplos_kalebe(s):
     log(f"Respostas manuais do Kalebe viraram exemplo: {novos} nova(s), {len(s.get('exemplos_kalebe', []))} no total.")
 
 
+def _marcas(texto):
+    """Abertura e pares de palavras de uma resposta (para achar respostas parecidas no mesmo lote)."""
+    ws = [w for w in re.findall(r"[a-z]{3,}", sem_acento(texto or "").lower()) if not w.startswith("kk")]
+    pares = {f"{a} {b}" for a, b in zip(ws, ws[1:]) if (len(a) >= 4 and a not in _PALAVRAS_VAZIAS) or (len(b) >= 4 and b not in _PALAVRAS_VAZIAS)}
+    abre = ws[0] if ws and len(ws[0]) >= 4 and ws[0] not in _PALAVRAS_VAZIAS else ""
+    return abre, pares
+
+
+def _variar_lote(prontos, s):
+    """As respostas do lote sao escritas ao mesmo tempo e uma nao ve a outra: se duas ficarem parecidas
+    (mesma abertura ou mesma expressao), a segunda e reescrita ja vendo as anteriores; se continuar parecida, fica para a proxima rodada."""
+    vistas = []
+    for r in prontos:
+        d = r.get("d") or {}
+        if "erro" in r or not d.get("responder") or not d.get("texto"):
+            continue
+        for tentativa in range(2):
+            ab, pares = _marcas(d["texto"])
+            if not any((ab and ab == a2) or pares & p2 for a2, p2, _ in vistas):
+                break
+            if tentativa == 1:
+                r["repetida"] = True
+                break
+            antes = s.get("ultimas_respostas", [])
+            s["ultimas_respostas"] = antes + [{"t": t} for _, _, t in vistas]
+            try:
+                c, post = r["c"], r["post"]
+                d = gerar_resposta(post.get("texto", ""), c.get("text", ""), bool(post.get("link")), s,
+                                   imagem=r.get("imagem"), imagem_perdida=r.get("perdida"), contexto=r.get("contexto"))
+                r["d"] = d
+            except Exception:
+                r["repetida"] = True
+                break
+            finally:
+                s["ultimas_respostas"] = antes
+            if not d.get("responder") or not d.get("texto"):
+                break
+        if d.get("responder") and d.get("texto") and not r.get("repetida"):
+            vistas.append((*_marcas(d["texto"]), d["texto"]))
+
+
 def tarefa_responder(s, agora):
     p = plano_do_dia(s, agora)
     if p.get("respostas", 0) >= RESP_POR_DIA:
@@ -955,6 +1033,7 @@ def tarefa_responder(s, agora):
             return {"post": post, "c": c, "erro": e}
     with ThreadPoolExecutor(IA_PARALELO) as ex:
         prontos = list(ex.map(escrever, escolhidos))
+    _variar_lote(prontos, s)
 
     # 4) registra, cria as respostas na Meta e publica uma por uma com pausa
     fila, no_lote, avisou = [], set(), False
@@ -967,8 +1046,8 @@ def tarefa_responder(s, agora):
             continue
         d, quem = r["d"], c.get("username", "?")
         chave = sem_acento(d.get("texto") or "")
-        if d.get("responder") and d.get("texto") and chave in no_lote:
-            continue  # igual a outra resposta desta rodada: fica para a proxima
+        if (d.get("responder") and d.get("texto") and chave in no_lote) or r.get("repetida"):
+            continue  # parecida com outra resposta desta rodada: fica para a proxima
         s.setdefault("respondidos", []).append(c["id"])
         respondidos.add(c["id"])
         reg = {"quando": agora.isoformat(timespec="minutes"), "post": post["id"], "comentario": (c.get("text") or "")[:300],
