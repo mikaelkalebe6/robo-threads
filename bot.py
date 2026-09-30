@@ -7,6 +7,7 @@ Robo do Threads (API oficial da Meta).
   responde treplica e guarda tudo em respostas_log.jsonl para a revisao semanal
   (a IA escreve as respostas da rodada ao mesmo tempo; a publicacao sai uma por uma, com pausa)
 - Respostas escritas a mao pelo Kalebe viram exemplos do robo (1 vez por dia)
+- Nao responde comentario que o perfil ja respondeu a mao (Kalebe responde primeiro, o robo fica de fora)
 - Le os ganchos de uma Planilha Google
 Quantidades, horarios e limites: Variables do GitHub. Sem Variable, vale o dicionario PADRAO abaixo.
 REGRA: nao escreva numeros de configuracao neste texto nem em comentarios; eles ficam so no PADRAO
@@ -836,8 +837,9 @@ def _tirar_leitura(modo, campos):
         _LEITURAS.pop(0)
 
 
-def ler_comentarios(post_id, meus_ids):
-    """Comentarios do post + treplicas a respostas do robo. Nunca respostas entre outras pessoas."""
+def ler_comentarios(post_id, meus_ids, eu=""):
+    """Comentarios do post + treplicas a respostas do robo. Nunca respostas entre outras pessoas.
+    Marca _ja_respondido quando o perfil (Kalebe a mao ou o robo) ja respondeu aquele comentario."""
     ultimo = None
     while _LEITURAS:
         modo, campos = _LEITURAS[0]
@@ -856,11 +858,15 @@ def ler_comentarios(post_id, meus_ids):
             _tirar_leitura(modo, campos)  # sem como saber a quem cada um respondeu: volta para o modo simples
             continue
         ok = []
+        eu_l = (eu or "").lower()
+        ja = {str((d.get("replied_to") or {}).get("id", "") if isinstance(d.get("replied_to"), dict) else d.get("replied_to") or "")
+              for d in dados if eu_l and (d.get("username") or "").lower() == eu_l}
         for c in dados:
             rt = c.get("replied_to")
             alvo = str(rt.get("id", "") if isinstance(rt, dict) else (rt or ""))
             if alvo == str(post_id) or alvo in meus_ids:
                 c["_alvo"] = alvo
+                c["_ja_respondido"] = str(c.get("id")) in ja
                 ok.append(c)
         return ok
     raise ultimo or RuntimeError("nenhum jeito de ler comentarios funcionou")
@@ -1000,7 +1006,7 @@ def tarefa_responder(s, agora):
 
     def ler(post):
         try:
-            return post, ler_comentarios(post["id"], meus)
+            return post, ler_comentarios(post["id"], meus, eu)
         except Exception as e:
             log("Nao li comentarios de", post["id"], e)
             return post, []
@@ -1012,16 +1018,23 @@ def tarefa_responder(s, agora):
 
     # 2) escolhe os comentarios desta rodada (limites por rodada, dia e pessoa)
     vagas = min(RESP_POR_RODADA, RESP_POR_DIA - p.get("respostas", 0))
-    escolhidos, na_fila = [], {}
+    escolhidos, na_fila, ja_mao = [], {}, 0
     for post, comentarios in lidos:
         for c in comentarios:
             if len(escolhidos) >= vagas:
                 break
             quem = c.get("username", "?")
+            if c.get("_ja_respondido") and c["id"] not in respondidos and quem != eu:
+                s.setdefault("respondidos", []).append(c["id"])  # o Kalebe ja respondeu a mao: o robo nao entra
+                respondidos.add(c["id"])
+                ja_mao += 1
+                continue
             if c["id"] in respondidos or quem == eu or por_pessoa.get(quem, 0) + na_fila.get(quem, 0) >= RESP_POR_PESSOA:
                 continue
             na_fila[quem] = na_fila.get(quem, 0) + 1
             escolhidos.append((post, c))
+    if ja_mao:
+        log(f"Comentarios ja respondidos a mao pelo perfil (robo nao responde): {ja_mao}")
     if not escolhidos:
         log("Respostas nesta rodada: 0")
         return
