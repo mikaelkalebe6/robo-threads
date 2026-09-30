@@ -23,7 +23,7 @@
    "20:01",
    "20:47"
   ],
-  "respostas": 141
+  "respostas": 145
  },
  "posts": [
   {
@@ -357,7 +357,11 @@
   "17862408297692401",
   "17914742223528195",
   "18014390036959959",
-  "18204712561371639"
+  "18204712561371639",
+  "18117552082991110",
+  "18098013545451737",
+  "17898367629656293",
+  "18233640985323853"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -537,30 +541,14 @@
   "mari_berguer": 1,
   "need4brahia": 2,
   "erigoulart": 1,
-  "oiurisalvador": 1
+  "oiurisalvador": 1,
+  "jubhering": 1,
+  "guilhermemrod": 1,
+  "escritor.andy": 1,
+  "darc_joana_ii": 1
  },
  "reservas_checadas": "2026-09-29",
  "ultimas_respostas": [
-  {
-   "t": "sério? tem fama de ser tão parada q agora fiquei curiosa p ver",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "vitoria tem fama errada entao ja ta anotada pra conferir",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "coragem mas entendo total kkkk 3 horas de relogio parado",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "kkkkkkk nao sobra um com capa salvando o mundo",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "kkkkkkkkkk coragem colocar esse na roda de tiro",
    "p": "ressalva",
@@ -689,6 +677,26 @@
   {
    "t": "esse titulo e tao longo q a sessao acaba antes de comecar kkkkk",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "chile tem dessas mesmo, ja foi pra lista",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "falam muito disso msm, entrou pra minha listinha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "agora fiquei curiosa pq nunca tinha ouvido falar, vou pesquisar sobre",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesado mas entendo perfeitamente quem acha parado demais",
+   "p": "ressalva",
    "r": 0
   }
  ],
