@@ -27,7 +27,7 @@
    "13:24",
    "14:42"
   ],
-  "respostas": 101
+  "respostas": 107
  },
  "posts": [
   {
@@ -522,7 +522,13 @@
   "18029643740684331",
   "18112111826589401",
   "18082603742701543",
-  "18334922176276442"
+  "18334922176276442",
+  "17988791997061231",
+  "18143414608595267",
+  "18564094531077499",
+  "17983325556335094",
+  "17895342045674543",
+  "17993363640013489"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -680,40 +686,16 @@
   "brunocslp": 1,
   "luferreira_r": 1,
   "rodrigonattrodtoficial": 1,
-  "vorcarodasuica": 1
+  "vorcarodasuica": 1,
+  "jonas._.koch": 1,
+  "marianatalina1158": 1,
+  "georgiapaulasilva": 1,
+  "danielesilva9364": 1,
+  "heyevaldo": 1,
+  "phebianchini": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "exato, o sim automático acaba engolindo quem a gente é de verdade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa parte do conselho foi certeira, obrigada por lembrar que eu continuo no time do bem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa esperança em um mundo assim é linda, vai dar certo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Entendi, ser gentil não precisa ser sinônimo de perder a própria identidade 🤔",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "pelo menos vejo que não estou sozinha nessa missão impossível",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "falar é fácil, difícil é lembrar disso na hora que a gente tá querendo evitar confusão",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pesado mas faz total sentido, a carência de aprovação acaba cobrando caro",
    "p": "ressalva",
@@ -833,6 +815,36 @@
    "t": "nossa sim, se ver no espelho e se reconhecer é a parte mais difícil de tudo isso",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "kkkkkkkkkkkk pior que o primeiro salario some antes da gente lembrar o que comprou",
+   "p": "neutra",
+   "r": 2
+  },
+  {
+   "t": "kkkkkkkk a moeda antiga já é quase peça de museu",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkkkkkk o dinheiro chegou e saiu correndo para o mercado",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkkkkk milagre econômico esse daí 😭",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "muitos milhares logo de cara assim é para poucos",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkk o valor já era pouco mas guardar dez reais foi pura estratégia financeira",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "exemplos_kalebe": [],
