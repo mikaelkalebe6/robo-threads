@@ -27,9 +27,10 @@
    "13:24",
    "14:42",
    "15:52",
-   "16:58"
+   "16:58",
+   "18:11"
   ],
-  "respostas": 141
+  "respostas": 148
  },
  "posts": [
   {
@@ -239,6 +240,14 @@
    "link": "",
    "texto": "SEJAM SINCEROS: a melhor decisão da minha vida foi ter começado a falar não sem dar nenhuma desculpa elaborada. As pessoas criam uma culpa gigante por recusar convite, mas a paz de espírito de só dizer que não vai é inegociável.",
    "quando": "2026-09-30T17:07:12.778570-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17972114157148567",
+   "insp": "3ce988f7a6",
+   "link": "",
+   "texto": "PESSOAS QUE: tiram o dia de folga mas passam o tempo todo sentindo culpa por não estar produzindo nada.",
+   "quando": "2026-09-30T18:37:10.864297-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -580,7 +589,14 @@
   "18097334099096845",
   "18105047255098152",
   "18028689854911870",
-  "18262550347307387"
+  "18262550347307387",
+  "18121119121934417",
+  "18414570235084050",
+  "18038576729835689",
+  "18080982323365225",
+  "18383798407225010",
+  "18483741937128870",
+  "17895089121417520"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -610,7 +626,8 @@
   "c54ab0083007bb588c99ef314a6e1c02",
   "32fe579b7c430b96c478fd4950d6be0c",
   "b17ffc999b5ba35ec3c521d3e6d69220",
-  "d2c1b21cca6762f2babda2b2413e0447"
+  "d2c1b21cca6762f2babda2b2413e0447",
+  "d7c8c4c1090b62ee518b48217f025222"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -640,7 +657,8 @@
   "8b93fbf051": 1790789849.0126176,
   "c7f8b70e05": 1790795284.8806252,
   "00c9530901": 1790798863.395636,
-  "828a5aba09": 1790802454.7834787
+  "828a5aba09": 1790802454.7834787,
+  "3ce988f7a6": 1790807853.3159423
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -781,45 +799,17 @@
   "limaelenaalvesde": 1,
   "misinibaldi": 1,
   "andressa.gs97": 1,
-  "natchiixd": 1
+  "natchiixd": 1,
+  "cristiane.m.azeredo": 1,
+  "marcelormelo_": 1,
+  "mireledmello": 1,
+  "jcsbarreto73": 1,
+  "gi.patti": 1,
+  "claudio.penna": 1,
+  "manu.m.luz": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "kkkkkk caramba, rendia muito mais que hoje em dia",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "kkkkkkkkk desse jeito vc tá nível chefe de cozinha internacional",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "queria conseguir fazer isso sem me sentir culpada depois",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "realidade bem difícil de alcançar hoje em dia, tudo subiu demais mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Nossa, tá impossível fechar qualquer conta sem tomar um susto ultimamente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "já passou no teste, esse bolo tá com uma cara ótima",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pior que vc tem um ponto, fica difícil confiar na perfeição",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "verdade, falar não para os outros e o único jeito de comecar a dizer sim para a gente",
    "p": "concorda",
@@ -934,6 +924,41 @@
    "t": "kkkkkkkkkkkkkkkkkkkkkkk o nariz no xixi socorro eu não aguento isso",
    "p": "concorda",
    "r": 3
+  },
+  {
+   "t": "nem dava tempo de esquentar na carteira",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, mas às vezes a gente cata os caminhos tortos antes de achar a turma certa",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "kkk pelo menos o cardápio é barato né",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Poxa, o violão nunca mais será o mesmo kkk 😅",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkkkk cobrou o preço exato da ofensa de ter ficado pra trás",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "KKKKKKKKKKKKK trinta ovos socorro o prejuízo veio com juros e correção monetária",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "ela com os lacinhos cor de rosa jura inocência total",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],
