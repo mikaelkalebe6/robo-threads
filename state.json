@@ -25,9 +25,10 @@
    "11:15",
    "12:33",
    "13:24",
-   "14:42"
+   "14:42",
+   "15:52"
   ],
-  "respostas": 107
+  "respostas": 114
  },
  "posts": [
   {
@@ -222,6 +223,14 @@
    "texto": "DÚVIDA SINCERA: qual foi o valor do seu primeiro salário e quanto tempo durou na sua mão?",
    "quando": "2026-09-30T15:07:08.876959-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18121584379911418",
+   "insp": "00c9530901",
+   "link": "",
+   "texto": "Fui fechar as contas do mês e tomei um susto com o quanto tudo subiu por aqui. Quanto você precisa ganhar hoje pra viver tranquilo aí na sua cidade?",
+   "quando": "2026-09-30T16:07:11.240206-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -528,7 +537,14 @@
   "18564094531077499",
   "17983325556335094",
   "17895342045674543",
-  "17993363640013489"
+  "17993363640013489",
+  "18117091786993692",
+  "18151708075534491",
+  "17903060358596171",
+  "18124853632705073",
+  "18122168003295879",
+  "18388711477161082",
+  "18087138491274108"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -556,7 +572,8 @@
   "fdae5502c42707848860950824762a62",
   "6dd8006c99f41580346bc68e9733f159",
   "c54ab0083007bb588c99ef314a6e1c02",
-  "32fe579b7c430b96c478fd4950d6be0c"
+  "32fe579b7c430b96c478fd4950d6be0c",
+  "b17ffc999b5ba35ec3c521d3e6d69220"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -584,7 +601,8 @@
   "018fcf3621": 1790782693.9690814,
   "2b14999174": 1790786274.782627,
   "8b93fbf051": 1790789849.0126176,
-  "c7f8b70e05": 1790795284.8806252
+  "c7f8b70e05": 1790795284.8806252,
+  "00c9530901": 1790798863.395636
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -692,45 +710,17 @@
   "georgiapaulasilva": 1,
   "danielesilva9364": 1,
   "heyevaldo": 1,
-  "phebianchini": 1
+  "phebianchini": 1,
+  "raquelcs1982": 1,
+  "jamille_mf": 1,
+  "eu_alexandre81": 1,
+  "jeferson_2223": 1,
+  "leandropantozzi": 1,
+  "egston": 1,
+  "diogo.diash2025": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "pesado mas faz total sentido, a carência de aprovação acaba cobrando caro",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "socorro, então o problema não sou só eu",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, mas o filtro às vezes emperra bem na hora q a gente mais precisa 🙏🏼",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "vou ter que atualizar esse mapa urgentemente então",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkkk agora o jogo virou completamente",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "parabéns, você acabou de virar patrimônio histórico",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "depende de quanto você quer sofrer no dia seguinte kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "salpicão e canjica já garantiram seu lugar no pódio kkkkk",
    "p": "concorda",
@@ -845,6 +835,41 @@
    "t": "kkkkkkkk o valor já era pouco mas guardar dez reais foi pura estratégia financeira",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "2001 parece que foi ontem e ao mesmo tempo há cem anos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "saudade de quando o dinheiro sumia mas a gente achava graça",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkk pior que os livros duram mais que o dinheiro na mao",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "nem dá tempo de acostumar com a nota na carteira",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkk caramba, rendia muito mais que hoje em dia",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkkkkkkkk desse jeito vc tá nível chefe de cozinha internacional",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "queria conseguir fazer isso sem me sentir culpada depois",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],
