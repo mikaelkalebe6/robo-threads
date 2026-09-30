@@ -28,9 +28,10 @@
    "14:42",
    "15:52",
    "16:58",
-   "18:11"
+   "18:11",
+   "19:01"
   ],
-  "respostas": 148
+  "respostas": 154
  },
  "posts": [
   {
@@ -249,6 +250,14 @@
    "texto": "PESSOAS QUE: tiram o dia de folga mas passam o tempo todo sentindo culpa por não estar produzindo nada.",
    "quando": "2026-09-30T18:37:10.864297-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18132944335669250",
+   "insp": "c05528a8e3",
+   "link": "",
+   "texto": "SEJAM SINCEROS: se você fosse casar hoje, iria de separação total ou comunhão parcial de bens? \n\nTem gente que jura que separação total é falta de romantismo, e tem quem ache que misturar tudo é pedir para ter dor de cabeça no futuro.\n\nQual dos dois você escolheria?",
+   "quando": "2026-09-30T19:07:09.621863-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -596,7 +605,13 @@
   "18080982323365225",
   "18383798407225010",
   "18483741937128870",
-  "17895089121417520"
+  "17895089121417520",
+  "18089766551663455",
+  "18002129604007599",
+  "17986902429115031",
+  "18135566200633442",
+  "17911739343494632",
+  "18114917134816605"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -627,7 +642,8 @@
   "32fe579b7c430b96c478fd4950d6be0c",
   "b17ffc999b5ba35ec3c521d3e6d69220",
   "d2c1b21cca6762f2babda2b2413e0447",
-  "d7c8c4c1090b62ee518b48217f025222"
+  "d7c8c4c1090b62ee518b48217f025222",
+  "f72e7cd9b1826e3c657f5d145159b534"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -658,7 +674,8 @@
   "c7f8b70e05": 1790795284.8806252,
   "00c9530901": 1790798863.395636,
   "828a5aba09": 1790802454.7834787,
-  "3ce988f7a6": 1790807853.3159423
+  "3ce988f7a6": 1790807853.3159423,
+  "c05528a8e3": 1790809650.077538
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -806,40 +823,16 @@
   "jcsbarreto73": 1,
   "gi.patti": 1,
   "claudio.penna": 1,
-  "manu.m.luz": 1
+  "manu.m.luz": 1,
+  "mysterioo_o": 1,
+  "kelsenalves23": 1,
+  "silverstonesilva": 1,
+  "mcesar.sc": 1,
+  "juliofeuser": 1,
+  "fabigiopato": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "verdade, falar não para os outros e o único jeito de comecar a dizer sim para a gente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkk pois é, bem isso mesmo, lição de budista que a gente tenta seguir 🙏🏼",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "exato, o peso de tentar agradar todo mundo sobra sempre nas nossas costas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkk pois é, aprendizado caro esse né",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pesado mas com zero mentiras",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkk foi direto ao ponto sem pensar duas vezes",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "tentar acertar o tom todo santo dia cansa demais",
    "p": "concorda",
@@ -957,6 +950,36 @@
   },
   {
    "t": "ela com os lacinhos cor de rosa jura inocência total",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece que a gente foi programada pra não saber descansar em paz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "escolinha particular sempre pagava aquela miséria com carinho né",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perfeito, o grande desafio é achar esse ponto exato sem virar otária no meio do caminho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, o difícil é lembrar disso bem na hora q a espinhada dói",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "medida exata pra não explodir por dentro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nossa chorei junto agora, segunda-feira sem pet shop e com bicho grudado é o fundo do poço 😭",
    "p": "concorda",
    "r": 0
   }
