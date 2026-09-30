@@ -22,7 +22,7 @@
    "08:10",
    "08:50"
   ],
-  "respostas": 26
+  "respostas": 31
  },
  "posts": [
   {
@@ -402,7 +402,12 @@
   "18070796555588082",
   "18068955632504799",
   "18165779485469676",
-  "18143613376584978"
+  "18143613376584978",
+  "18491282359106719",
+  "18094591139391424",
+  "18074922824541028",
+  "18010265381969311",
+  "18134758699710752"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -478,35 +483,15 @@
   "nieladiasreal": 1,
   "brunosantolf": 1,
   "eduardo_dukz": 1,
-  "pietroschlager": 1
+  "pietroschlager": 1,
+  "invest.base": 1,
+  "lolokrut": 1,
+  "rosa848": 1,
+  "nathskywalker": 1,
+  "adv.gianicezimbra": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "chile tem dessas mesmo, ja foi pra lista",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "falam muito disso msm, entrou pra minha listinha",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "agora fiquei curiosa pq nunca tinha ouvido falar, vou pesquisar sobre",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesado mas entendo perfeitamente quem acha parado demais",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "todo mundo fala q e so turistada mas quem vai diz q e surreal de linda msm",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "todo mundo q vai fala isso, ja ta anotada pra prox viagem",
    "p": "concorda",
@@ -629,6 +614,31 @@
   },
   {
    "t": "falam tanto dali q fico morrendo de curiosidade pra ver cm é",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "organizar assim parece bom no papel mas na hr H o boleto sempre surpreende",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "medo de ficar sem nada é um motor poderoso mesmo, dieta da sobrevivência pura",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkk sinto q todo mundo volta de lá falando q a paz e absurda",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "nossa essa fica gravada na cabeca de quem vai, morro de curiosidade p ver",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tem fama de ser só badalação mas dizem que os cantinhos escondidos de lá são outra história",
    "p": "concorda",
    "r": 0
   }
