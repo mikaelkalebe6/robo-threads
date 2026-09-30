@@ -26,7 +26,7 @@
    "12:33",
    "13:24"
   ],
-  "respostas": 88
+  "respostas": 95
  },
  "posts": [
   {
@@ -500,7 +500,14 @@
   "17912650689282151",
   "18000369426007247",
   "18073267505558455",
-  "18101465225322517"
+  "18101465225322517",
+  "18196736131391620",
+  "18122711359923668",
+  "18420100393153618",
+  "18428472760198297",
+  "18109992290137582",
+  "18172091362402733",
+  "18126005752850639"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -636,7 +643,7 @@
   "umabruxamoderna": 1,
   "a.clarai": 1,
   "romulonsmachado": 2,
-  "lan.pett": 1,
+  "lan.pett": 2,
   "lucasnevs25": 1,
   "_carllos.silva_": 1,
   "mesquitaleonardo": 1,
@@ -644,45 +651,16 @@
   "andreghorst1": 1,
   "rafalifefit": 1,
   "_marcos_1997": 1,
-  "antonieltanaka": 1
+  "antonieltanaka": 1,
+  "dom_esteves": 1,
+  "20pras4": 1,
+  "og_nobrega": 1,
+  "riccosoueu": 1,
+  "w_martinelle": 1,
+  "rick.branco.s": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "com essa carinha de anjo na foto fica difícil acreditar no prejuízo da tv",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o prejuízo veio em dobro e com açúcar ainda 😭",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse tem paladar refinado e equipe noturna de apoio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "agora virou cômoda improvisada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkkkk menos mal q vc tava em casa porque o estrago ia ser maior",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "socorro o colchão foi de base completamente, pelo menos ele garantiu a diversão",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkk virou alpinista profissional agora né",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "kkkkkkkkkkkk ela acumulando os tesouros dela no lugar mais importante",
    "p": "concorda",
@@ -797,6 +775,41 @@
    "t": "kkkkkkkkk foram mais rápidas que a luz, perdi o timing",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "16 anos já é muita autonomia, respeito muito quem aprende na marra assim",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "comida fresca é apelido bom demais para começar a conversa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "qualidade de vida pura né, quem dera se todo mundo pensasse assim 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "então o trabalho real começa justamente na hora de lavar a louça",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "parece que a criatura rara resolveu aparecer nos comentários",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "sorte grande hein, o estoque de raridade foi todo para a sua casa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "durou mais do que a média pelo menos",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],

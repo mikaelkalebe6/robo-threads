@@ -20,6 +20,7 @@
 
 
 
+
 ## 28/09/2026 | https://www.threads.com/share/BAEQlI9LD4/
 **Tipo:** Texto | **Idioma original:** Português
 **Transcricao/Conteudo:** Reclamação bem-humorada sobre o feed cheio de homens bonitos e um pedido cômico para o algoritmo mostrar homens feios.
@@ -30,6 +31,7 @@
 1. Cansada de conselhos amorosos sensatos nesse threads!
 2. Algoritmo, por favor, me entregue apenas ex-namorados problemáticos hoje.
 3. Chega de produtividade por aqui, me traga motivos para procrastinar.
+
 
 
 
@@ -75,6 +77,7 @@
 
 
 
+
 ## 28/09/2026 | https://www.instagram.com/reel/DdC8gy_RFrB/?stkn=MXRiNXl1aHZmaGF3cQ==
 **Tipo:** video | **Idioma original:** Portugues do Brasil
 **Transcricao/Conteudo:** Conectei o Claude no WhatsApp e vou te ensinar. Tem gente pedindo isso, entao sem enrolacao. Vão no GitHub e pesquisem OpenWA, que tem mais de 13 mil estrelas. Baixem ele. E um gateway de API gratuito do WhatsApp e open-source, voce roda localmente no seu computador sem pagar hospedagem. Comandos no terminal para instalar, start e API rodando localmente. Abra no navegador, coloque a chave API, crie sessao e escaneie o QR code do seu WhatsApp. Pronto, o Claude esta conectado no seu WhatsApp. Voce pode criar webhooks para automacao. Pedi para ele puxar quantas pessoas mandaram mensagem procurando mentoria ou curso, ele puxou o historico e quis disparar as mensagens. Tem risco de cair a conta por ser API nao oficial, entao use com sabedoria. Comente WPP que te mando o link.
@@ -98,6 +101,7 @@
 
 
 
+
 ## 28/09/2026 | https://www.instagram.com/p/Dd1gcz1u8aE/?stkn=emF6b3FwdThpcWd4
 **Tipo:** Foto | **Idioma original:** Português
 **Transcricao/Conteudo:** Placa humorística em um corredor de loja mostrando um cabo elétrico com dois plugues machos nas pontas (o infame "cabo suicida"), com o texto dizendo que o produto não existe, não é vendido, não pode ser encontrado e que seu uso é fortemente desaconselhado.
@@ -108,6 +112,7 @@
 1. Todo mundo já tentou resolver um problema do jeito mais errado possível pelo menos uma vez.
 2. Aquele produto que parece ótimo na teoria mas é um desastre na prática.
 3. Se a lógica falhou, a culpa é de quem inventou essa gambiarra.
+
 
 
 
@@ -152,6 +157,7 @@
 
 
 
+
 ## 28/09/2026 | https://vt.tiktok.com/ZSbMkf6a3/
 **Tipo:** foto | **Idioma original:** Português
 **Transcricao/Conteudo:** Parece loucura, mas quando você ACREDITA que nasceu para ter as melhores coisas da vida, as melhores coisas encontrarão caminho até você.
@@ -162,6 +168,7 @@
 1. Acreditar nisso mudou totalmente a forma como eu vivo meus dias.
 2. Tem dias que a gente só precisa lembrar de quem a gente nasceu para ser.
 3. Se você ainda duvida do seu potencial, leia isso até entender.
+
 
 
 
@@ -197,6 +204,7 @@ Imagem 10: "Att, Osvaldo." Semestre que vem a turma vai pro 8º periodo e já av
 Já aconteceu de você entrar em um lugar por engano e acabar virando a atração principal?
 Tem gente que tenta se encaixar em grupos novos e tem o Seu Osvaldo que simplesmente virou a lenda da faculdade.
 O que você faria se caísse em um grupo de WhatsApp de uma turma totalmente aleatória?
+
 
 
 
@@ -255,6 +263,7 @@ Imagem 6: Vai por mim, essa página não vai aparecer pra você de novo, então 
 
 
 
+
 ## 27/09/2026 | https://www.threads.com/share/BAWxZQiG8k/
 **Tipo:** Foto com texto | **Idioma original:** Português
 
@@ -270,6 +279,7 @@ Imagem 6: Vai por mim, essa página não vai aparecer pra você de novo, então 
 1. Alguém me avisa se ainda vale a pena se apaixonar hoje em dia ou se é puro golpe?
 2. Acho que caí na besteira de me apegar, qual é a primeira coisa que eu deveria fazer?
 3. Qual é a regra de ouro que vocês nunca quebram quando começam a gostar de alguém?
+
 
 
 
