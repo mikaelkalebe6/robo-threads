@@ -24,9 +24,10 @@
    "09:56",
    "11:15",
    "12:33",
-   "13:24"
+   "13:24",
+   "14:42"
   ],
-  "respostas": 95
+  "respostas": 101
  },
  "posts": [
   {
@@ -212,6 +213,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: homem que mora sozinho e cozinha além de miojo e ovo frito virou lenda urbana ou vocês ainda guardam esperança?",
    "quando": "2026-09-30T13:37:10.884762-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17881816005690087",
+   "insp": "c7f8b70e05",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual foi o valor do seu primeiro salário e quanto tempo durou na sua mão?",
+   "quando": "2026-09-30T15:07:08.876959-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -507,7 +516,13 @@
   "18428472760198297",
   "18109992290137582",
   "18172091362402733",
-  "18126005752850639"
+  "18126005752850639",
+  "18233410795321480",
+  "18105039554244879",
+  "18029643740684331",
+  "18112111826589401",
+  "18082603742701543",
+  "18334922176276442"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -534,7 +549,8 @@
   "68175986c1a1dd5a8c8da5431230c148",
   "fdae5502c42707848860950824762a62",
   "6dd8006c99f41580346bc68e9733f159",
-  "c54ab0083007bb588c99ef314a6e1c02"
+  "c54ab0083007bb588c99ef314a6e1c02",
+  "32fe579b7c430b96c478fd4950d6be0c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -561,7 +577,8 @@
   "b5bc8dc34f": 1790777255.0346036,
   "018fcf3621": 1790782693.9690814,
   "2b14999174": 1790786274.782627,
-  "8b93fbf051": 1790789849.0126176
+  "8b93fbf051": 1790789849.0126176,
+  "c7f8b70e05": 1790795284.8806252
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -657,40 +674,16 @@
   "og_nobrega": 1,
   "riccosoueu": 1,
   "w_martinelle": 1,
-  "rick.branco.s": 1
+  "rick.branco.s": 1,
+  "dayamelo_": 1,
+  "litwinczyknataliaoliveira": 1,
+  "brunocslp": 1,
+  "luferreira_r": 1,
+  "rodrigonattrodtoficial": 1,
+  "vorcarodasuica": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "kkkkkkkkkkkk ela acumulando os tesouros dela no lugar mais importante",
-   "p": "concorda",
-   "r": 4
-  },
-  {
-   "t": "kkkkkkkkk a dupla dinâmica dormindo plena fingindo demência depois do crime",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "kkkkkkkkk o bichinho escolheu a pior semana possível pra deixar a lembrança",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "kkkkkkkkkkk o prejuizo veio em formato de recheio de espuma",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "tentando praticar isso mas o costume de pedir desculpa por existir atrapalha",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Verdade, quem tenta ser legal demais acaba se esgotando 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "exato, o sim automático acaba engolindo quem a gente é de verdade",
    "p": "concorda",
@@ -809,6 +802,36 @@
   {
    "t": "durou mais do que a média pelo menos",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "obrigada mana, vou tentar lembrar disso no próximo boleto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, mas a paciencia as vezes acaba no meio do caminho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkk exato, um dia é o caos e no outro a paz",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkkkkkkkkkkk queria ter essa paz de espírito pra colocar em prática",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "pesado mas confesso que às vezes dá vontade de testar essa teoria",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "nossa sim, se ver no espelho e se reconhecer é a parte mais difícil de tudo isso",
+   "p": "concorda",
    "r": 0
   }
  ],
