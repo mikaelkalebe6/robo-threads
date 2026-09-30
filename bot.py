@@ -550,10 +550,19 @@ def _exemplos_resposta(s):
 _ABREV = {"q": "que", "vc": "você", "vcs": "vocês", "pq": "porque", "tbm": "também", "tb": "também", "msm": "mesmo",
           "agr": "agora", "oq": "o que", "gnt": "gente", "td": "tudo", "mt": "muito", "mto": "muito", "blz": "beleza",
           "prox": "próxima", "cmg": "comigo", "qdo": "quando", "qnd": "quando", "eh": "é", "hj": "hoje", "dps": "depois",
-          "vdd": "verdade", "ngm": "ninguém", "pfv": "por favor", "sla": "sei lá"}
+          "vdd": "verdade", "ngm": "ninguém", "pfv": "por favor", "sla": "sei lá", "cm": "como", "nd": "nada",
+          "tmb": "também", "tbem": "também", "dnv": "de novo", "qm": "quem", "qq": "qualquer", "tds": "todos",
+          "sdd": "saudade", "fds": "fim de semana", "pdc": "pode crer"}
 _ACENTO = {"nao": "não", "so": "só", "ja": "já", "la": "lá", "ne": "né", "voce": "você", "voces": "vocês",
            "tambem": "também", "entao": "então", "tao": "tão", "serio": "sério", "ta": "tá", "to": "tô", "ai": "aí",
-           "ate": "até", "cade": "cadê", "alguem": "alguém", "ninguem": "ninguém"}
+           "ate": "até", "cade": "cadê", "alguem": "alguém", "ninguem": "ninguém", "sao": "são", "estao": "estão",
+           "vao": "vão", "preco": "preço", "comeco": "começo", "facil": "fácil", "dificil": "difícil", "otimo": "ótimo",
+           "otima": "ótima", "unico": "único", "unica": "única", "musica": "música", "historia": "história",
+           "historico": "histórico", "historica": "histórica", "regiao": "região", "coracao": "coração",
+           "proximo": "próximo", "proxima": "próxima", "ultimo": "último", "ultima": "última", "rapido": "rápido",
+           "rapida": "rápida", "familia": "família", "agua": "água", "cafe": "café", "ferias": "férias",
+           "possivel": "possível", "incrivel": "incrível", "horrivel": "horrível", "nivel": "nível", "impecavel": "impecável",
+           "saudavel": "saudável"}
 _ABREV_OK = ("vc", "tbm", "pq", "q", "msm", "oq", "agr", "hj")  # as comuns; no maximo 2 por resposta
 _MAX_ABREV = 2
 
