@@ -19,9 +19,10 @@
    "21:59"
   ],
   "feitos": [
-   "08:10"
+   "08:10",
+   "08:50"
   ],
-  "respostas": 23
+  "respostas": 26
  },
  "posts": [
   {
@@ -167,6 +168,14 @@
    "link": "",
    "texto": "SEJAM SINCEROS: a maior furada financeira que a internet inventou foi essa de que a gente precisa investir antes de ter uma reserva de paz. No fim das contas, paz de espírito paga mais boleto que dica de milhagem.",
    "quando": "2026-09-30T08:37:11.794228-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18114365423332793",
+   "insp": "8afd53c3f1",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: vocês conseguem guardar uma parte do salário todo mês ou o dinheiro evapora antes do dia vinte? Queria entender se sou só eu que às vezes olho pra conta e me pergunto para onde foi tudo.",
+   "quando": "2026-09-30T09:07:10.052378-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -390,7 +399,10 @@
   "18463658416140302",
   "17869860633647018",
   "18135717178628981",
-  "18070796555588082"
+  "18070796555588082",
+  "18068955632504799",
+  "18165779485469676",
+  "18143613376584978"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -412,7 +424,8 @@
   "869ad1dcefe45943f3e9ef7459637dae",
   "cb12a61f62ce5ead4676cd9ef003a67a",
   "dfdceb2993810498d2dd1b6130a5c281",
-  "c2c94c00d996d30f29aa7b62e8d8dfae"
+  "c2c94c00d996d30f29aa7b62e8d8dfae",
+  "e92a4c585e2ef4db6a0a4447a4df25ab"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -434,7 +447,8 @@
   "573ba90908": 1790725049.010326,
   "09e842892c": 1790726852.4957767,
   "6447474ad3": 1790730448.4125926,
-  "fd6c7eeb28": 1790771853.9675057
+  "fd6c7eeb28": 1790771853.9675057,
+  "8afd53c3f1": 1790773645.4395769
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -461,25 +475,13 @@
   "ivandarmanin": 1,
   "deividgava": 1,
   "jsdelimans": 1,
-  "nieladiasreal": 1
+  "nieladiasreal": 1,
+  "brunosantolf": 1,
+  "eduardo_dukz": 1,
+  "pietroschlager": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "kkkkk esse divide demais asopinioes mas entendo pq tem ritmo bem lento",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "muita gente fala que surpreende mesmo, preciso ver de perto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse titulo e tao longo q a sessao acaba antes de comecar kkkkk",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "chile tem dessas mesmo, ja foi pra lista",
    "p": "concorda",
@@ -612,6 +614,21 @@
   },
   {
    "t": "pesado mas entregou tudo na franqueza",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "muita gente fala que parece Europa mas com preco melhor, preciso ver isso de perto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkk pisei na bola então por nunca ter dado moral pra lá",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "falam tanto dali q fico morrendo de curiosidade pra ver cm é",
    "p": "concorda",
    "r": 0
   }
