@@ -25,7 +25,7 @@
    "11:15",
    "12:33"
   ],
-  "respostas": 69
+  "respostas": 75
  },
  "posts": [
   {
@@ -472,7 +472,13 @@
   "18114012502820713",
   "18163486891490391",
   "18134273065708980",
-  "18107676773224758"
+  "18107676773224758",
+  "18106630319223172",
+  "18114633554642561",
+  "17915348919264406",
+  "18145194766604539",
+  "17884369917504178",
+  "17875288122651498"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -597,40 +603,16 @@
   "pacavichi": 1,
   "isabela.lima.r": 1,
   "thatisestrem": 1,
-  "dessadionisio": 1
+  "dessadionisio": 1,
+  "rhuanc182": 1,
+  "karl_greenwolf": 1,
+  "psilaisla": 1,
+  "erik_milheirao": 1,
+  "olucaselderr": 1,
+  "umabruxamoderna": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "kkkkkkkkkkkkkkkk meu deus do céu foi um evento canônico completo na sua casa",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "kkkkkkkkkkkkkkkk o pet virou um fora da lei completo, o peito de frango da vizinha foi demais",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "Meu deus do céu, pior horário possível para uma faxina pesada dessas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Nossa, sua viralatinha virou chef e ladra ao mesmo tempo, que bagunça",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "está guardada no sigilho de justiça para não incriminar o suspeito",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkkkk o verdadeiro crime só foi descoberto no final da investigação",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "kkkkkkkkkkkkkkk o cãozinho simplesmente tinha um cardápio exclusivo de calçados",
    "p": "concorda",
@@ -750,6 +732,36 @@
    "t": "kkkkkkkkkkk o prejuizo veio em formato de recheio de espuma",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "tentando praticar isso mas o costume de pedir desculpa por existir atrapalha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, quem tenta ser legal demais acaba se esgotando 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exato, o sim automático acaba engolindo quem a gente é de verdade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa parte do conselho foi certeira, obrigada por lembrar que eu continuo no time do bem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa esperança em um mundo assim é linda, vai dar certo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Entendi, ser gentil não precisa ser sinônimo de perder a própria identidade 🤔",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],
