@@ -21,9 +21,10 @@
   "feitos": [
    "08:10",
    "08:50",
-   "09:56"
+   "09:56",
+   "11:15"
   ],
-  "respostas": 48
+  "respostas": 55
  },
  "posts": [
   {
@@ -185,6 +186,14 @@
    "link": "",
    "texto": "PESSOAS QUE TÊM PET: qual foi a maior arte que o bichinho de vocês já aprontou em casa? \n\nO meu conseguiu abrir o armário e espalhar farinha pela cozinha inteira hoje cedo.",
    "quando": "2026-09-30T10:07:10.209809-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17922796089426941",
+   "insp": "018fcf3621",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: quem prefere cachorro costuma ser mais carente ou é só impressão minha? 🐾",
+   "quando": "2026-09-30T11:37:11.115444-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -433,7 +442,14 @@
   "18118017344052131",
   "17956462725252912",
   "18150299500547960",
-  "18146647663566267"
+  "18146647663566267",
+  "18131189840508118",
+  "18085313999323576",
+  "17878091940632129",
+  "17994437400011194",
+  "18089120501226066",
+  "18108166859610799",
+  "18125455240701790"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -457,7 +473,8 @@
   "dfdceb2993810498d2dd1b6130a5c281",
   "c2c94c00d996d30f29aa7b62e8d8dfae",
   "e92a4c585e2ef4db6a0a4447a4df25ab",
-  "68175986c1a1dd5a8c8da5431230c148"
+  "68175986c1a1dd5a8c8da5431230c148",
+  "fdae5502c42707848860950824762a62"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -481,7 +498,8 @@
   "6447474ad3": 1790730448.4125926,
   "fd6c7eeb28": 1790771853.9675057,
   "8afd53c3f1": 1790773645.4395769,
-  "b5bc8dc34f": 1790777255.0346036
+  "b5bc8dc34f": 1790777255.0346036,
+  "018fcf3621": 1790782693.9690814
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -533,45 +551,17 @@
   "henriichrist": 1,
   "ceicinhamatiasdasilva_____": 1,
   "daninhaddl": 1,
-  "viajantesdk2k2.0": 1
+  "viajantesdk2k2.0": 1,
+  "amandaalcantaras": 1,
+  "ingridnoespectro": 1,
+  "laraaires": 1,
+  "rakechy": 1,
+  "fraanbruch": 1,
+  "welldaniele": 1,
+  "esterfdiniz": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "duas q sempre vejo o povo falar q surpreende demais, preciso conferir",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa regiao historica e daquelas q a gnt so descobre por acaso ne",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, quem nao conhece acha que e so praia mas tem muito mais escondido por la",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkk mexeu com os elfos agora aguenta a fúria do fandom 😭",
-   "p": "ressalva",
-   "r": 2
-  },
-  {
-   "t": "pesado mas entregou tudo na franqueza",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "muita gente fala que parece Europa mas com preco melhor, preciso ver isso de perto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkk pisei na bola então por nunca ter dado moral pra lá",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "falam tanto dali q fico morrendo de curiosidade pra ver cm é",
    "p": "concorda",
@@ -684,6 +674,41 @@
   },
   {
    "t": "coitada da cachorrinha, fogos são o terror absoluto para os bichos, um absurdo completo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkk todo dia tem folha de ocorrência nova pra assinar",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkkkkkk mãe permissiva não sobrevive a um gato corredor espalhando ração cedo 🙏🏼",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "imagina o trabalho pra limpar tudo depois dessa escavação",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkkkkkk o criminoso dormindo plena paz fingindo q não armou o cativeiro da dona",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkkkkkkk o nível de destruição foi profissional, uma churrasqueira inteira é demais",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkkkkkkkkk a gangue é grande e especializada em eletrônicos",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pães de leite ninho já é demais, ela tem ótimo gosto para o crime",
    "p": "concorda",
    "r": 0
   }
