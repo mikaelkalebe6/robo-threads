@@ -19,7 +19,7 @@
    "21:59"
   ],
   "feitos": [],
-  "respostas": 7
+  "respostas": 13
  },
  "posts": [
   {
@@ -364,7 +364,13 @@
   "17930369088409513",
   "17887561959476377",
   "17966888226191166",
-  "17881940223624691"
+  "17881940223624691",
+  "17933533281398804",
+  "18368796739215979",
+  "17947320306299979",
+  "18119779541283588",
+  "17971157799174199",
+  "18477751573116263"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -417,40 +423,16 @@
   "ernani_romagna": 1,
   "jdsnf._": 1,
   "betomeleva": 1,
-  "vagasideias": 1
+  "vagasideias": 1,
+  "viniciusaribeiro92": 1,
+  "rodrigofw": 1,
+  "nelson_fukuyama": 1,
+  "markus_tanan": 1,
+  "abrhaaog": 1,
+  "ovitorolive": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "mtos anos de franquia pra dar sono em dobro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "duas q sempre vejo falarem bem mas o pessoal costuma ignorar nos roteiros",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse lugar tem fama de calmo mas pelo jeito guarda umas surpresas boas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parece nome de remedio mas ja ta na minha lista",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "lugar q tem fama de esquisito costuma ser o mais divertido msm",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "muita explosao pra pouco enredo socorro",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "nossa sim o sono vem forte e nao passa por nada",
    "p": "concorda",
@@ -569,6 +551,36 @@
   {
    "t": "nossa falam super bem de la mesmo, ja ta anotada pra pesquisar",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa surpresa boa e a melhor parte de viajar sem esperar nada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nossa arquitetura de la e impecavel mesmo, ja entrou pro topo da lista",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "to por fora, tem oq la?",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "serio vejo todo mundo falar q e so praia mas dizem q a energia la e outra 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkk exato, da uma preguica so de ver o tamanho da lista",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "corajoso hein, mexeu com a religião de muita gente 😭",
+   "p": "ressalva",
    "r": 0
   }
  ],
