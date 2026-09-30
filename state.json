@@ -20,9 +20,10 @@
    "14:00",
    "16:56",
    "19:16",
-   "20:01"
+   "20:01",
+   "20:47"
   ],
-  "respostas": 123
+  "respostas": 129
  },
  "posts": [
   {
@@ -153,6 +154,14 @@
    "texto": "SEJAM SINCEROS: quem foi que inventou que a vida adulta é só boleto e sofrimento porque eu tô achando a parte de não fazer nada no domingo bem aceitável",
    "quando": "2026-09-29T20:07:09.556199-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17905405122570901",
+   "insp": "6447474ad3",
+   "link": "",
+   "texto": "SEM MENTIR: entrei na copa do trabalho semana passada e ouvi meio segundo de uma conversa que mudou tudo o que eu sabia sobre a gerência. Agora tenho que cruzar com as pessoas no corredor fingindo costume.\n\nQual foi a maior fofoca corporativa que caiu no seu colo sem você procurar?",
+   "quando": "2026-09-29T21:07:10.001469-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -330,7 +339,13 @@
   "18208901779366778",
   "18634902826033693",
   "18015652565745210",
-  "18022270541873371"
+  "18022270541873371",
+  "17981480948899081",
+  "18114108322917583",
+  "18129867910762419",
+  "18018264719732216",
+  "18130084066793516",
+  "18126535756826185"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -350,7 +365,8 @@
   "43d2c7cc6673bea2161ea5c88644755a",
   "d242b3e3272b12d70ace5da3dc0f2e68",
   "869ad1dcefe45943f3e9ef7459637dae",
-  "cb12a61f62ce5ead4676cd9ef003a67a"
+  "cb12a61f62ce5ead4676cd9ef003a67a",
+  "dfdceb2993810498d2dd1b6130a5c281"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -370,7 +386,8 @@
   "fb72b5075b": 1790705255.8349135,
   "0445902113": 1790716045.8918386,
   "573ba90908": 1790725049.010326,
-  "09e842892c": 1790726852.4957767
+  "09e842892c": 1790726852.4957767,
+  "6447474ad3": 1790730448.4125926
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -492,40 +509,15 @@
   "marcelavrt": 1,
   "ofelipeandradee": 1,
   "nandamendesf": 1,
-  "deboraribeiro1406": 1
+  "deboraribeiro1406": 1,
+  "gabiberbert": 1,
+  "margeuek": 1,
+  "beatrizamp": 1,
+  "properenglish_ananda": 1,
+  "raviporto": 2
  },
  "reservas_checadas": "2026-09-29",
  "ultimas_respostas": [
-  {
-   "t": "pesado hein mas tem pe fe e cabeca cortada pra dar e vender",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "agente secreto e star wars espacial passou dos limites ne",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "essa categoria eh perigosa pq vc comeca defendendo o lixo e acaba criando personalidade baseada em bomba 🙏🏼",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "espertinho vc so de camarote esperando o trabalho dos outros",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "jp tem um negocinho q suga a gente msm",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "bruxelas eh a definição de cidade q a pessoa vai c zero fé e volta achando q é habituee da grand place kkkkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "coragem colocar a obra prima coreana na roda de tiro",
    "p": "ressalva",
@@ -643,6 +635,36 @@
   },
   {
    "t": "mtos anos de franquia pra dar sono em dobro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "duas q sempre vejo falarem bem mas o pessoal costuma ignorar nos roteiros",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse lugar tem fama de calmo mas pelo jeito guarda umas surpresas boas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece nome de remedio mas ja ta na minha lista",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "lugar q tem fama de esquisito costuma ser o mais divertido msm",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "muita explosao pra pouco enredo socorro",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "nossa sim o sono vem forte e nao passa por nada",
    "p": "concorda",
    "r": 0
   }
