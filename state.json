@@ -22,7 +22,7 @@
    "19:16",
    "20:01"
   ],
-  "respostas": 116
+  "respostas": 123
  },
  "posts": [
   {
@@ -323,7 +323,14 @@
   "18121660618745695",
   "18094664162401444",
   "18143437219599356",
-  "18352500241302095"
+  "18352500241302095",
+  "18139634029718987",
+  "18127691011865204",
+  "18151403386541509",
+  "18208901779366778",
+  "18634902826033693",
+  "18015652565745210",
+  "18022270541873371"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -478,45 +485,17 @@
   "ninagregorioo": 1,
   "ednei_carvalho_": 1,
   "_psykin": 1,
-  "rodrigo_calcaterra": 1
+  "rodrigo_calcaterra": 1,
+  "keila21lima": 1,
+  "teusretratos": 1,
+  "a_dri_ana_71": 1,
+  "marcelavrt": 1,
+  "ofelipeandradee": 1,
+  "nandamendesf": 1,
+  "deboraribeiro1406": 1
  },
  "reservas_checadas": "2026-09-29",
  "ultimas_respostas": [
-  {
-   "t": "viagem de moto na patagonia coragem pura kkkkkkk mas bariloche entrega mesmo",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "escondido onde se o barulho de tiro acorda a vizinhança inteira",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "coragem achar DiCaprio de touca de aviador insuportavel",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "duas horas e meia de terno e gritaria na mesa redonda socorro",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "sim a casa da julieta eh uma marmotagem sem fim mas o prosecco salva tudo 😭",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "medo real de crianca descobrir q a gente tbm tem medos bobos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "duas horas e meia de jazz colorido e choro kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "pesado hein mas tem pe fe e cabeca cortada pra dar e vender",
    "p": "discorda",
@@ -631,6 +610,41 @@
    "t": "kkkkkkkkkk coragem colocar esse na roda de tiro",
    "p": "ressalva",
    "r": 2
+  },
+  {
+   "t": "catalunha tem um poder de fazer a gente querer largar tudo msm",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse litoral ai guarda uns lugares q surpreendem dms a gente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece nome de filme medieval mas ja entrou na minha rota",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ouvi falar q e da paz msm, ja ta anotada pra conhecer",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "3 horas de relogio parado e muita paciencia msm 😭",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pesado demais pras tres horas de relogio",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "mtos anos de franquia pra dar sono em dobro",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],
