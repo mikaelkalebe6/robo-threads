@@ -23,7 +23,7 @@
    "20:01",
    "20:47"
   ],
-  "respostas": 129
+  "respostas": 133
  },
  "posts": [
   {
@@ -345,7 +345,11 @@
   "18129867910762419",
   "18018264719732216",
   "18130084066793516",
-  "18126535756826185"
+  "18126535756826185",
+  "17947732476300167",
+  "18008947133977340",
+  "18485419717129534",
+  "18195733795387774"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -514,30 +518,14 @@
   "margeuek": 1,
   "beatrizamp": 1,
   "properenglish_ananda": 1,
-  "raviporto": 2
+  "raviporto": 2,
+  "gustavofclopes": 1,
+  "danielmarinip": 1,
+  "camargobruna_": 1,
+  "hernestohermoso": 1
  },
  "reservas_checadas": "2026-09-29",
  "ultimas_respostas": [
-  {
-   "t": "coragem colocar a obra prima coreana na roda de tiro",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "paris decadente me vendeu demais ja entrou pra lista",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "falam tao mal de la q a gente vai achando q vai ser so cimento e tristeza e sai de boca aberta kkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sair pra um festival e acabar morando um ano la e bom demais pra ser so viagem 🩵",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "ja entrou pra lista pq romântico basico tem seu valor 😭",
    "p": "concorda",
@@ -666,6 +654,26 @@
   {
    "t": "nossa sim o sono vem forte e nao passa por nada",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sair frustrada de um canto e achar um refrao desse jeito e sorte dms ja ta anotada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "falam tao bem de la q da vontade de largar tudo e ir 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fui sabendo de nada e agora nao sai da cabeca",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "coragem pura pq todo mundo ama essa lanterna verde francesa kkkk",
+   "p": "discorda",
    "r": 0
   }
  ],
