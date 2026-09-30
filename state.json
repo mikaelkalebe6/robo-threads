@@ -23,9 +23,10 @@
    "08:50",
    "09:56",
    "11:15",
-   "12:33"
+   "12:33",
+   "13:24"
   ],
-  "respostas": 75
+  "respostas": 81
  },
  "posts": [
   {
@@ -203,6 +204,14 @@
    "link": "",
    "texto": "SEJAM SINCEROS: ser legal o tempo todo só traz prejuízo emocional ou sou eu que estou escolhendo os caminhos errados",
    "quando": "2026-09-30T12:37:10.761748-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18142466698599562",
+   "insp": "8b93fbf051",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: homem que mora sozinho e cozinha além de miojo e ovo frito virou lenda urbana ou vocês ainda guardam esperança?",
+   "quando": "2026-09-30T13:37:10.884762-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -478,7 +487,13 @@
   "17915348919264406",
   "18145194766604539",
   "17884369917504178",
-  "17875288122651498"
+  "17875288122651498",
+  "18107168785915538",
+  "17974376277131899",
+  "17959938810236721",
+  "18111774923132290",
+  "18378871636224646",
+  "18147948331501841"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -504,7 +519,8 @@
   "e92a4c585e2ef4db6a0a4447a4df25ab",
   "68175986c1a1dd5a8c8da5431230c148",
   "fdae5502c42707848860950824762a62",
-  "6dd8006c99f41580346bc68e9733f159"
+  "6dd8006c99f41580346bc68e9733f159",
+  "c54ab0083007bb588c99ef314a6e1c02"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -530,7 +546,8 @@
   "8afd53c3f1": 1790773645.4395769,
   "b5bc8dc34f": 1790777255.0346036,
   "018fcf3621": 1790782693.9690814,
-  "2b14999174": 1790786274.782627
+  "2b14999174": 1790786274.782627,
+  "8b93fbf051": 1790789849.0126176
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -545,7 +562,7 @@
   "viniciusaribeiro92": 1,
   "rodrigofw": 1,
   "nelson_fukuyama": 1,
-  "markus_tanan": 1,
+  "markus_tanan": 2,
   "abrhaaog": 1,
   "ovitorolive": 1,
   "raizambarreto": 1,
@@ -609,40 +626,15 @@
   "psilaisla": 1,
   "erik_milheirao": 1,
   "olucaselderr": 1,
-  "umabruxamoderna": 1
+  "umabruxamoderna": 1,
+  "a.clarai": 1,
+  "romulonsmachado": 1,
+  "lan.pett": 1,
+  "lucasnevs25": 1,
+  "_carllos.silva_": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "kkkkkkkkkkkkkkk o cãozinho simplesmente tinha um cardápio exclusivo de calçados",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Com essa carinha de quem não quebra um prato fica difícil acreditar em tanta travessura",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "coitada da cachorrinha, fogos são o terror absoluto para os bichos, um absurdo completo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkk todo dia tem folha de ocorrência nova pra assinar",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "kkkkkkk mãe permissiva não sobrevive a um gato corredor espalhando ração cedo 🙏🏼",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "imagina o trabalho pra limpar tudo depois dessa escavação",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "kkkkkkkkkkkk o criminoso dormindo plena paz fingindo q não armou o cativeiro da dona",
    "p": "concorda",
@@ -761,6 +753,36 @@
   {
    "t": "Entendi, ser gentil não precisa ser sinônimo de perder a própria identidade 🤔",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "pelo menos vejo que não estou sozinha nessa missão impossível",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "falar é fácil, difícil é lembrar disso na hora que a gente tá querendo evitar confusão",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesado mas faz total sentido, a carência de aprovação acaba cobrando caro",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "socorro, então o problema não sou só eu",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, mas o filtro às vezes emperra bem na hora q a gente mais precisa 🙏🏼",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "vou ter que atualizar esse mapa urgentemente então",
+   "p": "concorda",
    "r": 0
   }
  ],
