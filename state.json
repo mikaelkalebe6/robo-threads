@@ -18,8 +18,10 @@
    "21:19",
    "21:59"
   ],
-  "feitos": [],
-  "respostas": 20
+  "feitos": [
+   "08:10"
+  ],
+  "respostas": 23
  },
  "posts": [
   {
@@ -158,6 +160,14 @@
    "texto": "SEM MENTIR: entrei na copa do trabalho semana passada e ouvi meio segundo de uma conversa que mudou tudo o que eu sabia sobre a gerência. Agora tenho que cruzar com as pessoas no corredor fingindo costume.\n\nQual foi a maior fofoca corporativa que caiu no seu colo sem você procurar?",
    "quando": "2026-09-29T21:07:10.001469-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18629096797003443",
+   "insp": "fd6c7eeb28",
+   "link": "",
+   "texto": "SEJAM SINCEROS: a maior furada financeira que a internet inventou foi essa de que a gente precisa investir antes de ter uma reserva de paz. No fim das contas, paz de espírito paga mais boleto que dica de milhagem.",
+   "quando": "2026-09-30T08:37:11.794228-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -377,7 +387,10 @@
   "18094869977670184",
   "18011918936954349",
   "18024662831880661",
-  "18463658416140302"
+  "18463658416140302",
+  "17869860633647018",
+  "18135717178628981",
+  "18070796555588082"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -398,7 +411,8 @@
   "d242b3e3272b12d70ace5da3dc0f2e68",
   "869ad1dcefe45943f3e9ef7459637dae",
   "cb12a61f62ce5ead4676cd9ef003a67a",
-  "dfdceb2993810498d2dd1b6130a5c281"
+  "dfdceb2993810498d2dd1b6130a5c281",
+  "c2c94c00d996d30f29aa7b62e8d8dfae"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -419,7 +433,8 @@
   "0445902113": 1790716045.8918386,
   "573ba90908": 1790725049.010326,
   "09e842892c": 1790726852.4957767,
-  "6447474ad3": 1790730448.4125926
+  "6447474ad3": 1790730448.4125926,
+  "fd6c7eeb28": 1790771853.9675057
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -443,25 +458,13 @@
   "anapaulaportilho": 1,
   "alexandre_marangoni": 1,
   "daniellrbm": 1,
-  "ivandarmanin": 1
+  "ivandarmanin": 1,
+  "deividgava": 1,
+  "jsdelimans": 1,
+  "nieladiasreal": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "esse lugar e lindo dms ja entrou pro topo da lista",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "serio q ganha de florenca ja ta anotada pra proxima",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "mas isso nao e livro socorro 😭",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "kkkkk esse divide demais asopinioes mas entendo pq tem ritmo bem lento",
    "p": "ressalva",
@@ -594,6 +597,21 @@
   },
   {
    "t": "essa regiao historica e daquelas q a gnt so descobre por acaso ne",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, quem nao conhece acha que e so praia mas tem muito mais escondido por la",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkkk mexeu com os elfos agora aguenta a fúria do fandom 😭",
+   "p": "ressalva",
+   "r": 2
+  },
+  {
+   "t": "pesado mas entregou tudo na franqueza",
    "p": "concorda",
    "r": 0
   }
