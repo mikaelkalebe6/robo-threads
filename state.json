@@ -20,9 +20,10 @@
   ],
   "feitos": [
    "08:10",
-   "08:50"
+   "08:50",
+   "09:56"
   ],
-  "respostas": 31
+  "respostas": 34
  },
  "posts": [
   {
@@ -176,6 +177,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: vocês conseguem guardar uma parte do salário todo mês ou o dinheiro evapora antes do dia vinte? Queria entender se sou só eu que às vezes olho pra conta e me pergunto para onde foi tudo.",
    "quando": "2026-09-30T09:07:10.052378-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17936648637122403",
+   "insp": "b5bc8dc34f",
+   "link": "",
+   "texto": "PESSOAS QUE TÊM PET: qual foi a maior arte que o bichinho de vocês já aprontou em casa? \n\nO meu conseguiu abrir o armário e espalhar farinha pela cozinha inteira hoje cedo.",
+   "quando": "2026-09-30T10:07:10.209809-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -407,7 +416,10 @@
   "18094591139391424",
   "18074922824541028",
   "18010265381969311",
-  "18134758699710752"
+  "18134758699710752",
+  "18112649363120475",
+  "18137110186724453",
+  "18018422075946439"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -430,7 +442,8 @@
   "cb12a61f62ce5ead4676cd9ef003a67a",
   "dfdceb2993810498d2dd1b6130a5c281",
   "c2c94c00d996d30f29aa7b62e8d8dfae",
-  "e92a4c585e2ef4db6a0a4447a4df25ab"
+  "e92a4c585e2ef4db6a0a4447a4df25ab",
+  "68175986c1a1dd5a8c8da5431230c148"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -453,7 +466,8 @@
   "09e842892c": 1790726852.4957767,
   "6447474ad3": 1790730448.4125926,
   "fd6c7eeb28": 1790771853.9675057,
-  "8afd53c3f1": 1790773645.4395769
+  "8afd53c3f1": 1790773645.4395769,
+  "b5bc8dc34f": 1790777255.0346036
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -488,25 +502,13 @@
   "lolokrut": 1,
   "rosa848": 1,
   "nathskywalker": 1,
-  "adv.gianicezimbra": 1
+  "adv.gianicezimbra": 1,
+  "sergiobtb": 1,
+  "raquel4beauty": 1,
+  "diariodeobra.20025": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "todo mundo q vai fala isso, ja ta anotada pra prox viagem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "falam tao bem de la q preciso conferir isso de perto logo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "chicago tem fama de ser so vento mas dizem q a arquitetura de la da uma surra em muita capital europeia 😭",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "nossa eu jurava q la era so aquela coisa engessada de politica, fiquei curiosa agr",
    "p": "concorda",
@@ -639,6 +641,21 @@
   },
   {
    "t": "tem fama de ser só badalação mas dizem que os cantinhos escondidos de lá são outra história",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sério? todo mundo acha que é só pra trabalho, agora fiquei curiosa pra ver",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dizem que a arquitetura de lá parece cenário de filme mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Lua de mel em lugar que a gente torcia o nariz costuma ser a melhor surpresa, já entrou na lista",
    "p": "concorda",
    "r": 0
   }
