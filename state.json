@@ -32,9 +32,10 @@
    "19:01",
    "19:50",
    "20:38",
-   "21:19"
+   "21:19",
+   "21:59"
   ],
-  "respostas": 186
+  "respostas": 193
  },
  "posts": [
   {
@@ -284,6 +285,14 @@
    "link": "",
    "texto": "SEJAM SINCEROS: vocês contariam pra melhor amiga se vissem o namorado dela com outra no rolê? É o tipo de coisa que estraga a amizade ou pior é deixar ela ser enganada.",
    "quando": "2026-09-30T21:37:13.948034-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17872728318638998",
+   "insp": "559f0792a7",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual é o cheiro exato que te transporta direto para a casa da sua avó? Para mim é sempre aquela mistura de café passado na hora com pano de chão úmido que eu nunca consegui recriar igual.",
+   "quando": "2026-09-30T22:07:08.156050-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -671,7 +680,14 @@
   "18124376032861921",
   "18122831966489167",
   "18130956460668256",
-  "17905084152588428"
+  "17905084152588428",
+  "17924709438426451",
+  "18134354470633499",
+  "18131679751756824",
+  "18162364378492895",
+  "18134661175639542",
+  "18393356083163300",
+  "18195810526385765"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -706,7 +722,8 @@
   "f72e7cd9b1826e3c657f5d145159b534",
   "7a85ccf5af93f0555cf3eb5e6f382905",
   "f0ba4c948a297ca4e9ee02d5b8a7c3bb",
-  "e3834208b026d9dfee9afacf2cb1cef7"
+  "e3834208b026d9dfee9afacf2cb1cef7",
+  "6b199a9bb8427eedb548d0ce332a7e0d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -741,7 +758,8 @@
   "c05528a8e3": 1790809650.077538,
   "fbedf7f149": 1790813252.2096584,
   "c2d56efe9f": 1790816840.2517245,
-  "7a1c42a5d7": 1790818665.313843
+  "7a1c42a5d7": 1790818665.313843,
+  "559f0792a7": 1790820449.309396
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -924,45 +942,17 @@
   "marciocoutomusica": 1,
   "_amanda_rengel_": 1,
   "nickfor.you": 1,
-  "alelg30": 1
+  "alelg30": 1,
+  "due.calici": 1,
+  "wilsonsampaio_": 1,
+  "anaju_jfdg": 1,
+  "tatyane_rocks": 1,
+  "marchesininando": 1,
+  "jefferson_c_maciel": 1,
+  "jesus_winchester1992": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "verdade, cada escolha tem seu peso mas o importante é saber onde vc tá pisando",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkk pior q é bem por aí né",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "escolha clássica, o bom é que divide o peso dos boletos 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkkkkkkkkk pior q o agiota cobra mais q o divórcio socorro",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "boa escolha, o importante é a conversa estar alinhada desde o começo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "kkkkk 3 milhoes na epoca dava pra comprar o banco inteiro",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "essa defesa toda machuca por dentro mas a gente entende o motivo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "kkkkk as vezes a gente precisa vestir a armadura para sobrevivir",
    "p": "concorda",
@@ -1077,6 +1067,41 @@
    "t": "kkkkkkkkkkkkmmkkkkkkk invasão de domicílio com direito a visita pro crush",
    "p": "concorda",
    "r": 3
+  },
+  {
+   "t": "sim total, o peso na consciencia de guardar isso ia ser só seu",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo a reação que a gente tem vendo o circo pegar fogo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nossa verdade, sem prova nenhuma a gente ainda sai como a chata da história",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "essa paz de andar sem pressa pelas ladeiras é tudo de bom",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "salário hoje em dia tá vindo só de visita rápida né 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "muito pesado esse refrão socorro 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, lidar com gente é um exercício diário de paciência mesmo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [],
