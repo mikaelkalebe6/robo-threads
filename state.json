@@ -22,7 +22,8 @@
    "14:24",
    "15:43",
    "16:28",
-   "17:09"
+   "17:09",
+   "19:24"
   ],
   "respostas": 100,
   "escondidos": 1
@@ -654,6 +655,14 @@
    "texto": "PESSOAS CASADAS: qual foi a primeira discussão boba de vocês logo depois de dividir o mesmo teto?",
    "quando": "2026-10-01T17:37:10.369426-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18112546067130766",
+   "insp": "f31593e501",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: casa pequena pertinho do trabalho ou casa grande longe de tudo? Cada escolha tem seu preço na vida. Eu acabo preferindo a praticidade, mas sei que tem gente que valoriza o espaço. E você, qual sacrifica?",
+   "quando": "2026-10-01T19:37:09.159244-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -1211,7 +1220,8 @@
   "b091b42cea5fe130a23ab1921ad9ad3e",
   "703d75806efb2fa09b8e54812fd5cc4a",
   "da316a38e4628247a7aa4df308aa62b5",
-  "e36dec1aaa40bbd4d0eae84d297e7c76"
+  "e36dec1aaa40bbd4d0eae84d297e7c76",
+  "01b2a84c8e0b5e54e4bc80201dcb24eb"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1255,7 +1265,8 @@
   "c0031ddd0f": 1790879857.0117278,
   "cfb5d252d5": 1790885244.5991204,
   "ae1c8a29b8": 1790887047.4568858,
-  "40d9bc7aa4": 1790890644.6638198
+  "40d9bc7aa4": 1790890644.6638198,
+  "f31593e501": 1790897845.9699235
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
