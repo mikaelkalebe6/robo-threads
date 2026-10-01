@@ -17,7 +17,7 @@
   "feitos": [
    "08:06"
   ],
-  "respostas": 28
+  "respostas": 35
  },
  "posts": [
   {
@@ -1029,7 +1029,14 @@
   "18641281960027478",
   "18088379951248372",
   "18120306844803495",
-  "17906661747559822"
+  "17906661747559822",
+  "18118071394916597",
+  "18098356274382026",
+  "17888922105618029",
+  "18066258728777845",
+  "17914070529523619",
+  "18182303785421089",
+  "18441191911121388"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1134,45 +1141,17 @@
   "pokekarmacfo": 1,
   "obrunodefreitas": 1,
   "familysade": 1,
-  "annabreganholi": 1
+  "annabreganholi": 1,
+  "diogo.diash2025": 1,
+  "doriangay24": 1,
+  "denisecazelato": 1,
+  "jamille.mdeoliveira": 1,
+  "claudiabarbosanunesmottola": 1,
+  "blenojr69": 1,
+  "thuliohenrique0": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "coitadinho, com essa carinha de anjo a gente esquece o susto",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "KKKKKKKKKKKKMMKKKKKKK o gato virou fornecedor de fauna silvestre do nada socorro 😭",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "praia deserta cura qualquer cansaço da semana",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "fogueira e olhar o ceu no costao rochoso parece bom demais mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "faz todo sentido, a ideia de construir junto pesa muito na balança mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "nossa pior que esse custo de cartório e averbação é um detalhe que ninguém lembra na hora de assinar nada",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "durou menos que promessa de ano novo kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "exato, quem sabe improvisar com o que tem na geladeira já ganha muitos pontos",
    "p": "concorda",
@@ -1287,6 +1266,41 @@
    "t": "perder a magia com o nome foi forte kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "atração a gente entende mas o combo completo confunde a cabeça",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, paixão não avisa mesmo e depois a gente que lute",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos não estou sozinha nessa confusão toda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "com certeza, o combo de falar o que a gente quer ouvir é perigoso demais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "terapia devia vir inclusa no pacote da adolescencia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "falar não deveria vir com manual de instrução, mas a gente só aprende apanhando",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dosar a simpatia parece mesmo o único caminho seguro para não se desgastar",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [
