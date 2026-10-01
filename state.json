@@ -21,9 +21,11 @@
    "11:06",
    "14:24",
    "15:43",
-   "16:28"
+   "16:28",
+   "17:09"
   ],
-  "respostas": 88
+  "respostas": 90,
+  "escondidos": 1
  },
  "posts": [
   {
@@ -644,6 +646,14 @@
    "texto": "DÚVIDA SINCERA: parece que ter uma renda extra virou obrigação, né? Eu ainda luto pra equilibrar o trabalho fixo com uns freelas de vez em quando. E você, sente que isso é escolha ou necessidade?",
    "quando": "2026-10-01T16:37:08.779943-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "17911576407521279",
+   "insp": "40d9bc7aa4",
+   "link": "",
+   "texto": "PESSOAS CASADAS: qual foi a primeira discussão boba de vocês logo depois de dividir o mesmo teto?",
+   "quando": "2026-10-01T17:37:10.369426-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1144,7 +1154,10 @@
   "18104294051625447",
   "18347120008302013",
   "17948566599322509",
-  "18011230046761384"
+  "18011230046761384",
+  "18112628258517755",
+  "17914321449459622",
+  "18107680286225084"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1187,7 +1200,8 @@
   "a19e8ae53b25ff10f46e02fb14505594",
   "b091b42cea5fe130a23ab1921ad9ad3e",
   "703d75806efb2fa09b8e54812fd5cc4a",
-  "da316a38e4628247a7aa4df308aa62b5"
+  "da316a38e4628247a7aa4df308aa62b5",
+  "e36dec1aaa40bbd4d0eae84d297e7c76"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1230,7 +1244,8 @@
   "db79935195": 1790867256.044346,
   "c0031ddd0f": 1790879857.0117278,
   "cfb5d252d5": 1790885244.5991204,
-  "ae1c8a29b8": 1790887047.4568858
+  "ae1c8a29b8": 1790887047.4568858,
+  "40d9bc7aa4": 1790890644.6638198
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1321,20 +1336,12 @@
   "kudo_c137": 1,
   "jessicabeatrizlima": 1,
   "gabrielagvenancio": 1,
-  "mplkinveste": 1
+  "mplkinveste": 1,
+  "alvares.ana_": 1,
+  "guillermomelgarejoofc": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "mensagem escrita já é um perigo, imagina o estrago que a voz faz kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "parece que a conta nunca fecha né",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "o corpo realmente cobra o preço depois mas a cabeça não para",
    "p": "concorda",
@@ -1474,6 +1481,16 @@
    "t": "madrugada tem um foco secreto que nenhuma luz do dia consegue explicar kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "pois é, virou questão de sobrevivência básica",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "para sempre é lindo mas o boleto chega todo mês para testar a fé na eternidade",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [
