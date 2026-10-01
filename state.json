@@ -1,41 +1,21 @@
 {
  "plano": {
-  "data": "2026-09-30",
+  "data": "2026-10-01",
   "horarios": [
-   "08:10",
-   "08:50",
-   "09:56",
-   "11:15",
-   "12:33",
-   "13:24",
-   "14:42",
-   "15:52",
-   "16:58",
-   "18:11",
-   "19:01",
-   "19:50",
-   "20:38",
-   "21:19",
-   "21:59"
+   "08:06",
+   "09:10",
+   "09:52",
+   "11:06",
+   "14:24",
+   "15:43",
+   "16:28",
+   "17:09",
+   "19:24",
+   "20:21",
+   "21:21"
   ],
-  "feitos": [
-   "08:10",
-   "08:50",
-   "09:56",
-   "11:15",
-   "12:33",
-   "13:24",
-   "14:42",
-   "15:52",
-   "16:58",
-   "18:11",
-   "19:01",
-   "19:50",
-   "20:38",
-   "21:19",
-   "21:59"
-  ],
-  "respostas": 211
+  "feitos": [],
+  "respostas": 7
  },
  "posts": [
   {
@@ -43,105 +23,240 @@
    "insp": "d256f4ea39",
    "link": "",
    "texto": "DÚVIDA SINCERA: como vocês conseguem acordar cedo e já sair funcionando?\n\nEu preciso de pelo menos meia hora sentada na beira da cama encarando o nada pro meu sistema reiniciar. \n\nQuem mais é desse time ou vocês já pulam da cama cheios de energia? Me contem aqui.",
-   "quando": "2026-09-27T12:27:44.374785-04:00"
+   "quando": "2026-09-27T12:27:44.374785-04:00",
+   "metricas": {
+    "views": 123,
+    "likes": 0,
+    "replies": 7,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18128760283682675",
    "insp": "36df8573cc",
    "link": "",
    "texto": "SEM MENTIR: tem dias que eu fecho o notebook e sinto que continuei dentro do trabalho, sem virar a chave. Me contem nos comentários: qual é a rotina de vocês pra desligar a cabeça no home office?",
-   "quando": "2026-09-27T15:37:08.854365-04:00"
+   "quando": "2026-09-27T15:37:08.854365-04:00",
+   "metricas": {
+    "views": 106,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "17884736979502919",
    "insp": "3546666699",
    "link": "",
    "texto": "SEJAM SINCEROS: com que idade vocês saíram da casa dos pais?\n\nFico pensando se existe mesmo um momento ideal ou se a gente só vai na cara e na coragem quando a vida adulta aperta. \n\nQuantos anos você tinha quando deu esse passo? Deixa sua idade aqui nos comentários e me conta se foi no tempo certo.",
-   "quando": "2026-09-27T19:07:09.253953-04:00"
+   "quando": "2026-09-27T19:07:09.253953-04:00",
+   "metricas": {
+    "views": 325,
+    "likes": 0,
+    "replies": 22,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18138130741619752",
    "insp": "38ecc56e84",
    "link": "",
    "texto": "SEJAM SINCEROS: ventilador barulhento a noite toda ou ar-condicionado geladinho e boleto chorando no fim do mês?",
-   "quando": "2026-09-28T09:37:11.694674-04:00"
+   "quando": "2026-09-28T09:37:11.694674-04:00",
+   "metricas": {
+    "views": 138,
+    "likes": 1,
+    "replies": 6,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "17956463874017267",
    "insp": "7ba791c39f",
    "link": "",
    "texto": "PESSOAS QUE VIAJAM MUITO: eu juro que tento curtir o frio da serra, mas o som do mar me ganha toda vez. No fim das contas, a gente sempre volta para onde a alma descansa mais. Qual lado do time vocês são?",
-   "quando": "2026-09-28T13:07:14.877789-04:00"
+   "quando": "2026-09-28T13:07:14.877789-04:00",
+   "metricas": {
+    "views": 396,
+    "likes": 5,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18446915563127877",
    "insp": "7d71edeab3",
    "link": "",
    "texto": "SEJAM SINCEROS: qual é aquele filme super famoso que todo mundo acha uma obra-prima e você achou insuportável de chato",
-   "quando": "2026-09-28T14:37:10.282567-04:00"
+   "quando": "2026-09-28T14:37:10.282567-04:00",
+   "metricas": {
+    "views": 9920,
+    "likes": 50,
+    "replies": 313,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 1,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18090027728675796",
    "insp": "0127d41120",
    "link": "",
    "texto": "DÚVIDA SINCERA: qual aplicativo do celular todo mundo usa escondido e finge que nem tem instalado?",
-   "quando": "2026-09-28T16:07:09.206298-04:00"
+   "quando": "2026-09-28T16:07:09.206298-04:00",
+   "metricas": {
+    "views": 22206,
+    "likes": 147,
+    "replies": 117,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18089014508680179",
    "insp": "ff5027f0d8",
    "link": "",
    "texto": "DÚVIDA SINCERA: qual é aquela coisa específica que você se recusa a pagar o preço cheio e espera o tempo que for preciso para entrar em promoção?",
-   "quando": "2026-09-28T18:07:10.149361-04:00"
+   "quando": "2026-09-28T18:07:10.149361-04:00",
+   "metricas": {
+    "views": 315,
+    "likes": 0,
+    "replies": 6,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18131070491495146",
    "insp": "d12059d204",
    "link": "",
    "texto": "ME CONTA: quem mais tem 47 abas abertas no celular e simplesmente não consegue fechar nenhuma?",
-   "quando": "2026-09-28T19:07:09.392761-04:00"
+   "quando": "2026-09-28T19:07:09.392761-04:00",
+   "metricas": {
+    "views": 288,
+    "likes": 2,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18169506337466989",
    "insp": "f6d9ba8473",
    "link": "",
    "texto": "DÚVIDA SINCERA: é normal a cabeça dar um nó do nada quando a rotina começa a pesar demais? Ontem juro que passei horas pensando em como seria sumir por uns dias sem dar satisfação pra ninguém, só pra ver o que acontecia. Quem nunca?",
-   "quando": "2026-09-28T21:37:08.485808-04:00"
+   "quando": "2026-09-28T21:37:08.485808-04:00",
+   "metricas": {
+    "views": 846,
+    "likes": 13,
+    "replies": 20,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18120277567977847",
    "insp": "08c5fced1d",
    "link": "",
    "texto": "SEJAM SINCEROS: qual app você apagaria agora mesmo se pudesse ter só três no celular?",
-   "quando": "2026-09-29T09:07:12.976607-04:00"
+   "quando": "2026-09-29T09:07:12.976607-04:00",
+   "metricas": {
+    "views": 490,
+    "likes": 0,
+    "replies": 15,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "17954234199257769",
    "insp": "4c34f415ce",
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: pagar mais caro para resolver um perrengue rápido vale cada centavo e eu não tenho a menor vergonha disso. Quem concorda?",
-   "quando": "2026-09-29T10:07:09.649581-04:00"
+   "quando": "2026-09-29T10:07:09.649581-04:00",
+   "metricas": {
+    "views": 264,
+    "likes": 2,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18465035737185312",
    "insp": "c71e576931",
    "link": "",
    "texto": "DÚVIDA SINCERA: por que todo mundo finge que boletos e burocracias são fáceis de entender na primeira tentativa? Tem coisa de adulto que parece um idioma secreto que a gente só concorda em silêncio.",
-   "quando": "2026-09-29T11:37:12.747959-04:00"
+   "quando": "2026-09-29T11:37:12.747959-04:00",
+   "metricas": {
+    "views": 583,
+    "likes": 5,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18465847714140415",
    "insp": "cd232d0d3c",
    "link": "",
    "texto": "ME CONTA: qual foi a cidade mais subestimada que você já visitou? Eu fui achando que não ia ter nada pra fazer e voltei apaixonada.",
-   "quando": "2026-09-29T13:25:29.359706-04:00"
+   "quando": "2026-09-29T13:25:29.359706-04:00",
+   "metricas": {
+    "views": 37958,
+    "likes": 68,
+    "replies": 349,
+    "reposts": 0,
+    "quotes": 1,
+    "shares": 3,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18183951262422935",
    "insp": "fb72b5075b",
    "link": "",
    "texto": "Quem mais tem a sensação de que existem milhares de profissões misteriosas por aí que pagam super bem e a gente só fica sabendo tarde demais?",
-   "quando": "2026-09-29T14:07:09.741832-04:00"
+   "quando": "2026-09-29T14:07:09.741832-04:00",
+   "metricas": {
+    "views": 357,
+    "likes": 8,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18396832552205152",
@@ -149,7 +264,16 @@
    "link": "",
    "texto": "ME CONTA: outro dia me peguei chamando ir até a farmácia comprar remédio de \"dar um rolê\". O paulistano não tem salvação, qualquer saída de casa com mais de cem metros vira evento.\n\nQual é a gíria da sua cidade que você solta no automático até alguém de fora estranhar?",
    "quando": "2026-09-29T17:07:09.135672-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 242,
+    "likes": 1,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18061892768525973",
@@ -157,7 +281,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: Qual clipe dos VMA ainda faz seu coração bater quando lembra a adolescência? Eu ainda fico na pilha toda vez que escuto aquele refrão 🎧. E o seu?",
    "quando": "2026-09-29T19:37:09.315886-04:00",
-   "ia": "Groq openai/gpt-oss-120b"
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 266,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18115817942107372",
@@ -165,7 +298,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: quem foi que inventou que a vida adulta é só boleto e sofrimento porque eu tô achando a parte de não fazer nada no domingo bem aceitável",
    "quando": "2026-09-29T20:07:09.556199-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 557,
+    "likes": 9,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "17905405122570901",
@@ -173,7 +315,16 @@
    "link": "",
    "texto": "SEM MENTIR: entrei na copa do trabalho semana passada e ouvi meio segundo de uma conversa que mudou tudo o que eu sabia sobre a gerência. Agora tenho que cruzar com as pessoas no corredor fingindo costume.\n\nQual foi a maior fofoca corporativa que caiu no seu colo sem você procurar?",
    "quando": "2026-09-29T21:07:10.001469-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 816,
+    "likes": 3,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18629096797003443",
@@ -181,7 +332,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: a maior furada financeira que a internet inventou foi essa de que a gente precisa investir antes de ter uma reserva de paz. No fim das contas, paz de espírito paga mais boleto que dica de milhagem.",
    "quando": "2026-09-30T08:37:11.794228-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 578,
+    "likes": 5,
+    "replies": 7,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18114365423332793",
@@ -189,7 +349,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: vocês conseguem guardar uma parte do salário todo mês ou o dinheiro evapora antes do dia vinte? Queria entender se sou só eu que às vezes olho pra conta e me pergunto para onde foi tudo.",
    "quando": "2026-09-30T09:07:10.052378-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 2491,
+    "likes": 21,
+    "replies": 35,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 1,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "17936648637122403",
@@ -197,7 +366,16 @@
    "link": "",
    "texto": "PESSOAS QUE TÊM PET: qual foi a maior arte que o bichinho de vocês já aprontou em casa? \n\nO meu conseguiu abrir o armário e espalhar farinha pela cozinha inteira hoje cedo.",
    "quando": "2026-09-30T10:07:10.209809-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 29760,
+    "likes": 274,
+    "replies": 516,
+    "reposts": 5,
+    "quotes": 3,
+    "shares": 4,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "17922796089426941",
@@ -205,7 +383,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: quem prefere cachorro costuma ser mais carente ou é só impressão minha? 🐾",
    "quando": "2026-09-30T11:37:11.115444-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 389,
+    "likes": 2,
+    "replies": 10,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "17915913696462020",
@@ -213,7 +400,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: ser legal o tempo todo só traz prejuízo emocional ou sou eu que estou escolhendo os caminhos errados",
    "quando": "2026-09-30T12:37:10.761748-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 3778,
+    "likes": 120,
+    "replies": 145,
+    "reposts": 4,
+    "quotes": 1,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18142466698599562",
@@ -221,7 +417,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: homem que mora sozinho e cozinha além de miojo e ovo frito virou lenda urbana ou vocês ainda guardam esperança?",
    "quando": "2026-09-30T13:37:10.884762-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 1704,
+    "likes": 11,
+    "replies": 68,
+    "reposts": 0,
+    "quotes": 1,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "17881816005690087",
@@ -229,7 +434,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: qual foi o valor do seu primeiro salário e quanto tempo durou na sua mão?",
    "quando": "2026-09-30T15:07:08.876959-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 1055,
+    "likes": 4,
+    "replies": 54,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18121584379911418",
@@ -237,7 +451,16 @@
    "link": "",
    "texto": "Fui fechar as contas do mês e tomei um susto com o quanto tudo subiu por aqui. Quanto você precisa ganhar hoje pra viver tranquilo aí na sua cidade?",
    "quando": "2026-09-30T16:07:11.240206-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 795,
+    "likes": 3,
+    "replies": 14,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "17907747183556672",
@@ -245,7 +468,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: a melhor decisão da minha vida foi ter começado a falar não sem dar nenhuma desculpa elaborada. As pessoas criam uma culpa gigante por recusar convite, mas a paz de espírito de só dizer que não vai é inegociável.",
    "quando": "2026-09-30T17:07:12.778570-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 548,
+    "likes": 14,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "17972114157148567",
@@ -253,7 +485,16 @@
    "link": "",
    "texto": "PESSOAS QUE: tiram o dia de folga mas passam o tempo todo sentindo culpa por não estar produzindo nada.",
    "quando": "2026-09-30T18:37:10.864297-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 812,
+    "likes": 14,
+    "replies": 5,
+    "reposts": 1,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18132944335669250",
@@ -261,7 +502,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: se você fosse casar hoje, iria de separação total ou comunhão parcial de bens? \n\nTem gente que jura que separação total é falta de romantismo, e tem quem ache que misturar tudo é pedir para ter dor de cabeça no futuro.\n\nQual dos dois você escolheria?",
    "quando": "2026-09-30T19:07:09.621863-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 592,
+    "likes": 7,
+    "replies": 24,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18197919661348074",
@@ -269,7 +519,16 @@
    "link": "",
    "texto": "PESSOAS QUE VIAJAM MUITO: praia deserta ou cidade histórica no fim de semana prolongado",
    "quando": "2026-09-30T20:07:11.344298-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 215,
+    "likes": 2,
+    "replies": 7,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "17911320168536912",
@@ -277,7 +536,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: quando eu era criança, sonhava ser astronauta. Hoje sou analista de dados, mas ainda olho pro céu e imagino. E vocês, que sonho de infância ainda faz o coração acelerar?",
    "quando": "2026-09-30T21:07:10.285631-04:00",
-   "ia": "Groq openai/gpt-oss-120b"
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 167,
+    "likes": 1,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "18000024422810127",
@@ -285,7 +553,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: vocês contariam pra melhor amiga se vissem o namorado dela com outra no rolê? É o tipo de coisa que estraga a amizade ou pior é deixar ela ser enganada.",
    "quando": "2026-09-30T21:37:13.948034-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 352,
+    "likes": 4,
+    "replies": 6,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   },
   {
    "id": "17872728318638998",
@@ -293,7 +570,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: qual é o cheiro exato que te transporta direto para a casa da sua avó? Para mim é sempre aquela mistura de café passado na hora com pano de chão úmido que eu nunca consegui recriar igual.",
    "quando": "2026-09-30T22:07:08.156050-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 589,
+    "likes": 4,
+    "replies": 18,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-01"
+   }
   }
  ],
  "respondidos": [
@@ -705,7 +991,14 @@
   "18335964718258987",
   "17902596672597298",
   "17882862621622150",
-  "18130563931685574"
+  "18130563931685574",
+  "18146242774565940",
+  "18126894250629046",
+  "18100806596377289",
+  "17984651522891885",
+  "18112667975518999",
+  "18112320067843802",
+  "18144322522585106"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -781,248 +1074,17 @@
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
-  "_data": "2026-09-30",
-  "jessicabucco_": 1,
-  "janesolrejane": 1,
-  "jackmendeez": 1,
-  "ernani_romagna": 1,
-  "jdsnf._": 1,
-  "betomeleva": 1,
-  "vagasideias": 1,
-  "viniciusaribeiro92": 1,
-  "rodrigofw": 1,
-  "nelson_fukuyama": 1,
-  "markus_tanan": 2,
-  "abrhaaog": 1,
-  "ovitorolive": 1,
-  "raizambarreto": 1,
-  "c.henrique.brito": 1,
-  "okevennascimento": 1,
-  "anapaulaportilho": 1,
-  "alexandre_marangoni": 1,
-  "daniellrbm": 1,
-  "ivandarmanin": 1,
-  "deividgava": 1,
-  "jsdelimans": 1,
-  "nieladiasreal": 1,
-  "brunosantolf": 1,
-  "eduardo_dukz": 1,
-  "pietroschlager": 1,
-  "invest.base": 1,
-  "lolokrut": 1,
-  "rosa848": 1,
-  "nathskywalker": 1,
-  "adv.gianicezimbra": 1,
-  "sergiobtb": 1,
-  "raquel4beauty": 1,
-  "diariodeobra.20025": 1,
-  "simonstro": 1,
-  "maria.gscarvalho": 1,
-  "vic_tavaress": 1,
+  "_data": "2026-10-01",
+  "fernandojjp.1968": 1,
+  "guinh015": 1,
+  "fiuzera92": 1,
   "biancaknieling": 1,
-  "barbara_nascimento1988": 1,
-  "terapiaprapele": 1,
-  "caramelofobia": 1,
-  "e201061": 1,
-  "carolinna_britt": 1,
-  "sailormigraine": 1,
-  "henriichrist": 1,
-  "ceicinhamatiasdasilva_____": 1,
-  "daninhaddl": 1,
-  "viajantesdk2k2.0": 1,
-  "amandaalcantaras": 1,
-  "ingridnoespectro": 1,
-  "laraaires": 1,
-  "rakechy": 1,
-  "fraanbruch": 1,
-  "welldaniele": 1,
-  "esterfdiniz": 1,
-  "diasdasaev": 1,
-  "fe_tavares_esperidiao": 1,
-  "m_eduwerther": 1,
-  "medusa.radioativa.dart": 1,
-  "larinhagoonie": 1,
-  "frevynha": 1,
-  "gislaine_silva7": 1,
-  "carolbuuu": 1,
-  "v1eiraz_sz": 1,
-  "yasminguarisi": 1,
-  "pacavichi": 1,
-  "isabela.lima.r": 1,
-  "thatisestrem": 1,
-  "dessadionisio": 1,
-  "rhuanc182": 1,
-  "karl_greenwolf": 1,
-  "psilaisla": 1,
-  "erik_milheirao": 1,
-  "olucaselderr": 1,
-  "umabruxamoderna": 1,
-  "a.clarai": 1,
-  "romulonsmachado": 2,
-  "lan.pett": 2,
-  "lucasnevs25": 1,
-  "_carllos.silva_": 1,
-  "mesquitaleonardo": 1,
-  "jzanelatto76": 1,
-  "andreghorst1": 1,
-  "rafalifefit": 1,
-  "_marcos_1997": 1,
-  "antonieltanaka": 1,
-  "dom_esteves": 1,
-  "20pras4": 1,
-  "og_nobrega": 1,
-  "riccosoueu": 1,
-  "w_martinelle": 1,
-  "rick.branco.s": 1,
-  "dayamelo_": 1,
-  "litwinczyknataliaoliveira": 1,
-  "brunocslp": 1,
-  "luferreira_r": 1,
-  "rodrigonattrodtoficial": 1,
-  "vorcarodasuica": 1,
-  "jonas._.koch": 1,
-  "marianatalina1158": 1,
-  "georgiapaulasilva": 1,
-  "danielesilva9364": 1,
-  "heyevaldo": 1,
-  "phebianchini": 1,
-  "raquelcs1982": 1,
-  "jamille_mf": 1,
-  "eu_alexandre81": 1,
-  "jeferson_2223": 1,
-  "leandropantozzi": 1,
-  "egston": 1,
-  "diogo.diash2025": 1,
-  "janeandrade1": 1,
-  "panchomaru": 1,
-  "silas.soaresds": 1,
-  "rafavacho": 1,
-  "opimenta88.pt": 1,
-  "brunono_brunoverso": 1,
-  "thalybortoli": 1,
-  "pokekarmacfo": 1,
-  "trindafer": 1,
-  "fabiod.garcia": 1,
-  "fernandotoledo1992": 1,
-  "samusempaciencia": 1,
-  "ramalhodanielhashimoto2026": 1,
-  "viniciusdavi25": 1,
-  "reonarudo_tibia": 1,
-  "belmontebruno": 1,
-  "elinmaike": 1,
-  "joaocandidodacunha": 1,
-  "tarotcomdrifortes": 1,
-  "lay_dallass": 1,
-  "rfski91": 1,
-  "fabiocortez21": 2,
-  "limaelenaalvesde": 1,
-  "misinibaldi": 1,
-  "andressa.gs97": 1,
-  "natchiixd": 1,
-  "cristiane.m.azeredo": 1,
-  "marcelormelo_": 1,
-  "mireledmello": 1,
-  "jcsbarreto73": 1,
-  "gi.patti": 1,
-  "claudio.penna": 1,
-  "manu.m.luz": 1,
-  "mysterioo_o": 2,
-  "kelsenalves23": 1,
-  "silverstonesilva": 1,
-  "mcesar.sc": 1,
-  "juliofeuser": 1,
-  "fabigiopato": 1,
-  "fer.pinheirooo": 1,
-  "pedecofigueira": 1,
-  "amandamartinser": 1,
-  "lu1zaoliveira": 1,
-  "cjscalco33": 2,
-  "robsongoulart143": 1,
-  "bilbobollseiro": 1,
-  "mccarton6": 1,
-  "v.codognotto": 1,
-  "everton4_lif3": 1,
-  "gustavo.foliveira": 1,
-  "preciso_falar_95": 1,
-  "josimar.dev": 1,
-  "guinh015": 2,
-  "reidosmares": 1,
-  "gugadorno": 1,
-  "fernandolopesmachado": 1,
-  "bibsasouza": 1,
-  "jota.helio": 1,
-  "jeemendonca": 1,
-  "8run4": 1,
-  "by_l4ry": 1,
-  "carolschmitztavares": 1,
-  "fernandoopcharski": 1,
-  "k6980i": 1,
-  "marciocoutomusica": 1,
-  "_amanda_rengel_": 1,
-  "nickfor.you": 1,
-  "alelg30": 1,
-  "due.calici": 1,
-  "wilsonsampaio_": 1,
-  "anaju_jfdg": 1,
-  "tatyane_rocks": 1,
-  "marchesininando": 1,
-  "jefferson_c_maciel": 1,
-  "jesus_winchester1992": 1,
-  "guiluismelo": 1,
-  "andersonmsil": 1,
-  "allexia.spe": 1,
-  "rodritg04": 1,
-  "marceloborgonha": 1,
-  "jeh_limag": 1,
-  "thomsza": 1,
-  "debygarc": 1,
-  "hbastoos": 1,
-  "alternative.08": 1,
-  "carolborgss_": 1,
-  "ruben200514": 1,
-  "gabii2.4": 2,
-  "tuspalicia": 1,
-  "caqueiroga": 1,
-  "louoleinik": 1,
-  "maicluana": 1
+  "ernabecker": 1,
+  "fabiocortez21": 1,
+  "markus_tanan": 1
  },
- "reservas_checadas": "2026-09-30",
+ "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "conselho precioso, o difícil as vezes e só achar esse filtro no meio do caminho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parece que a vida cobra taxa de juros toda vez que a gente tenta ser legal",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "menos de um mês e a Skol já tá com currículo completo de bagunça força viu",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "já pronta pra frigideira",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkkkkkmmkkkkkkk invasão de domicílio com direito a visita pro crush",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "sim total, o peso na consciencia de guardar isso ia ser só seu",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo a reação que a gente tem vendo o circo pegar fogo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "nossa verdade, sem prova nenhuma a gente ainda sai como a chata da história",
    "p": "ressalva",
@@ -1137,9 +1199,125 @@
    "t": "KKKKKKKKKKKKMMKKKKKKK o gato virou fornecedor de fauna silvestre do nada socorro 😭",
    "p": "concorda",
    "r": 3
+  },
+  {
+   "t": "praia deserta cura qualquer cansaço da semana",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fogueira e olhar o ceu no costao rochoso parece bom demais mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "faz todo sentido, a ideia de construir junto pesa muito na balança mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "nossa pior que esse custo de cartório e averbação é um detalhe que ninguém lembra na hora de assinar nada",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "durou menos que promessa de ano novo kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "exato, quem sabe improvisar com o que tem na geladeira já ganha muitos pontos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "então pelo menos alguém mantinha a casa alimentada né",
+   "p": "concorda",
+   "r": 0
   }
  ],
- "exemplos_kalebe": [],
+ "exemplos_kalebe": [
+  {
+   "c": "Fui fazer as compras e comprei meu queijo bola q tanto amo, quando voltamos do mercado a bolsa ficou na varanda sem q eu percebesse quando me deu conta essa bonita já tinha comido o meu queijo todo 🥴🤣",
+   "r": "ela foi certeira no mais caro kkkkkkk"
+  },
+  {
+   "c": "Fora essa vez q fui jogar um frango assado fora e esqueci a bolsa no quintal e fui na rua, quando voltei ela tinha comido todo o frango e estava parecendo uma bola de futebol 🤣🤣🤣🤣🤣 ainda ficou com mui",
+   "r": "parece mesmo uma bolinha kkkkkkkk sofri com a dor de barriga depois"
+  },
+  {
+   "c": "Seja tu mesma.\nDa menos trabalho",
+   "r": "fácil de falar, difícil é não gastar o dobro de energia fingindo costume né"
+  },
+  {
+   "c": "Provavelmente… não tenho ctz pq não sou🤣",
+   "r": "justo, melhor garantia que a gente pode ter"
+  },
+  {
+   "c": "eu ate quando to dormindo",
+   "r": "pesadelo de alta performance né"
+  },
+  {
+   "c": "Hoje foi o cheiro de molho de tomate que ela fazia para o macarrão dela. O cheiro me veio na rua, e eu me senti com 10 anos de novo.",
+   "r": "baita viagem no tempo esse molho hein, bom demais 🍅"
+  },
+  {
+   "c": "A casa da minha avó tinha muito cheiro de café e cigarro de palha q ela fumou até morrer e é raro eu sentir o cheiro hoje em dia pois não conheço ninguém q fume palheiro mais.",
+   "r": "cheiro bem específico mesmo, difícil achar alguém que acenda um hoje em dia"
+  },
+  {
+   "c": "Nenhum, minha vó nem gostava de mim na casa dela.",
+   "r": "nossa, relação de família complicada dói demais, sinto muito"
+  },
+  {
+   "c": "Todo prato temperado com coentro.",
+   "r": "coragem, esse cheiro divide opiniões na cozinha"
+  },
+  {
+   "c": "Chicória na frigideira com azeite, minha avó paterna. Vó Zilda",
+   "r": "chicória na frigideira tem um cheiro forte que marca mesmo né"
+  },
+  {
+   "c": "Olha eu cozinho muito bem gosto de fazer comida me relaxa tudo bem tem vezes que eu não to afim mais quando estou expirado a comida sai maravilhosa",
+   "r": "quando o papo é boa comida até a esperança renova kkkk"
+  },
+  {
+   "c": "Carne frita. Nunca encontrei ninguém que fizesse igual a ela. Sinto muito saudades",
+   "r": "essa lembrança fica guardada pra sempre né"
+  },
+  {
+   "c": "O cheiro da carne assada que a veia fazia era sensacional. O cheirinho bom!",
+   "r": "nossa carne assada de vó tem um poder inexplicável kkkk"
+  },
+  {
+   "c": "tenho nada de cheiro assim. E olha que morei com meus avós até os 5 anos. Mas é um lugar querido, vou lá ainda, meu avô ainda é vivo (fez 92 anos início do mês), mora na mesma casa, então de vez em qu",
+   "r": "92 anos firme e forte na mesma casa que delicia"
+  },
+  {
+   "c": "",
+   "r": "Decorando as questões das últimas 5 provas e também decorando a engenharia reversa de cada uma delas"
+  },
+  {
+   "c": "Honestamente, eu sou legal sempre, porém com cautela, uma vez que lhe dar com humanos é complexo, isso muda de individuo pra individuo.",
+   "r": "verdade, lidar com gente é um exercício diário de paciência mesmo"
+  },
+  {
+   "c": "Ambas as opções... A vida é o refrão música sweet dreams.",
+   "r": "muito pesado esse refrão socorro 😭"
+  },
+  {
+   "c": "Com base do que aconteceu com meu salário que recebi hoje, eu teria que estar ganhando 5x mais do que recebo. 🤡",
+   "r": "salário hoje em dia tá vindo só de visita rápida né 😭"
+  },
+  {
+   "c": "Cidade histórica 🥹",
+   "r": "essa paz de andar sem pressa pelas ladeiras é tudo de bom"
+  },
+  {
+   "c": "Eu tentaria ter provas e contaria, sem provas não porque já fiz e sai como errada ainda",
+   "r": "nossa verdade, sem prova nenhuma a gente ainda sai como a chata da história"
+  }
+ ],
  "minhas_respostas": {
   "18006119856004212": {
    "t": "medo de saber oq vc esconde kkkk",
@@ -1184,30 +1362,62 @@
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
  "exemplos_vistos": [
-  "18014829782954502",
-  "18491450740105963",
-  "18132016063703881",
-  "18108982334599696",
-  "18107512901596972",
-  "18043529066820143",
-  "17908149960486177",
-  "18335967478285475",
-  "18096954560549708",
-  "18096747389644022",
-  "17906863833559342",
   "18116925077090964",
-  "17879920404628904",
-  "17959179330225098",
-  "18110287427146354",
+  "18070898129493339",
+  "18096747389644022",
+  "18027227012692142",
+  "18459385276184078",
   "17937131694375460",
-  "18108415799061502",
-  "17892318582434660",
-  "18127926811699599",
-  "18090378716280532",
-  "18369950038214979",
-  "18082139822329091",
+  "18110287427146354",
+  "18021400670715322",
+  "17907442629482346",
+  "18107512901596972",
   "18339553045269887",
+  "17892318582434660",
+  "18094135208544727",
+  "18335967478285475",
+  "18108982334599696",
+  "18090378716280532",
   "18114943336824411",
-  "18024018362879480"
+  "17988836559104282",
+  "18030325466912938",
+  "18094912616390743",
+  "18043529066820143",
+  "18491450740105963",
+  "18369950038214979",
+  "18456022396191866",
+  "17879920404628904",
+  "18096954560549708",
+  "18332955241278576",
+  "18004921337789505",
+  "18133016467780276",
+  "18069523232766891",
+  "18073912466466425",
+  "17908149960486177",
+  "18214334506350986",
+  "18109275590611826",
+  "18108345305594207",
+  "18014829782954502",
+  "18115694528053601",
+  "18285422176289263",
+  "17927922210439291",
+  "18096110321673804",
+  "18127926811699599",
+  "18634657369029116",
+  "18492127912108721",
+  "18082139822329091",
+  "17908496052557816",
+  "18024018362879480",
+  "17906863833559342",
+  "17959179330225098",
+  "18108415799061502",
+  "18132016063703881"
+ ],
+ "perfil_metricas": [
+  {
+   "data": "2026-10-01",
+   "views": 109964,
+   "followers_count": 71
+  }
  ]
 }
