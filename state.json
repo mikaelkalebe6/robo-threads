@@ -21,7 +21,7 @@
    "11:06",
    "14:24"
   ],
-  "respostas": 81
+  "respostas": 83
  },
  "posts": [
   {
@@ -1118,7 +1118,9 @@
   "18018461507946573",
   "17964273494982524",
   "18001986705007587",
-  "17960380851248285"
+  "17960380851248285",
+  "17870373351647072",
+  "18113123983975069"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1284,20 +1286,12 @@
   "it.boy.cens": 1,
   "dylxn_tsk": 1,
   "ruivabbw": 1,
-  "camila_voceprecisadecor": 1
+  "camila_voceprecisadecor": 1,
+  "mdcgio": 1,
+  "octointeriores": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "totalmente, tratar mal trabalhador é o fundo do poço da falta de noção",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "voz de escritor com sotaque calmo é um perigo que ninguém avisa",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "adolescência era a época oficial de criar novela na cabeça com qualquer ligação",
    "p": "concorda",
@@ -1437,6 +1431,16 @@
    "t": "propaganda de dia dos pais sempre acha um ponto fraco que a gente nem sabia que tinha kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "justo, eu teria a mesma cara de dúvida olhando para o saldo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "organizar a demanda para trabalhar com essa tranquilidade à noite muda tudo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [
