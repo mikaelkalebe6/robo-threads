@@ -30,9 +30,10 @@
    "16:58",
    "18:11",
    "19:01",
-   "19:50"
+   "19:50",
+   "20:38"
   ],
-  "respostas": 172
+  "respostas": 179
  },
  "posts": [
   {
@@ -267,6 +268,14 @@
    "texto": "PESSOAS QUE VIAJAM MUITO: praia deserta ou cidade histórica no fim de semana prolongado",
    "quando": "2026-09-30T20:07:11.344298-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17911320168536912",
+   "insp": "c2d56efe9f",
+   "link": "",
+   "texto": "SEJAM SINCEROS: quando eu era criança, sonhava ser astronauta. Hoje sou analista de dados, mas ainda olho pro céu e imagino. E vocês, que sonho de infância ainda faz o coração acelerar?",
+   "quando": "2026-09-30T21:07:10.285631-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -639,7 +648,14 @@
   "18156496267512369",
   "18118484570469917",
   "18117642383285017",
-  "18129415453796746"
+  "18129415453796746",
+  "17950875483276344",
+  "18138369262625489",
+  "18343603792285160",
+  "18114387193827751",
+  "18038903555833446",
+  "17910342246483117",
+  "17969270775177773"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -672,7 +688,8 @@
   "d2c1b21cca6762f2babda2b2413e0447",
   "d7c8c4c1090b62ee518b48217f025222",
   "f72e7cd9b1826e3c657f5d145159b534",
-  "7a85ccf5af93f0555cf3eb5e6f382905"
+  "7a85ccf5af93f0555cf3eb5e6f382905",
+  "f0ba4c948a297ca4e9ee02d5b8a7c3bb"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -705,7 +722,8 @@
   "828a5aba09": 1790802454.7834787,
   "3ce988f7a6": 1790807853.3159423,
   "c05528a8e3": 1790809650.077538,
-  "fbedf7f149": 1790813252.2096584
+  "fbedf7f149": 1790813252.2096584,
+  "c2d56efe9f": 1790816840.2517245
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -864,7 +882,7 @@
   "pedecofigueira": 1,
   "amandamartinser": 1,
   "lu1zaoliveira": 1,
-  "cjscalco33": 1,
+  "cjscalco33": 2,
   "robsongoulart143": 1,
   "bilbobollseiro": 1,
   "mccarton6": 1,
@@ -876,45 +894,16 @@
   "guinh015": 1,
   "reidosmares": 1,
   "gugadorno": 1,
-  "fernandolopesmachado": 1
+  "fernandolopesmachado": 1,
+  "bibsasouza": 1,
+  "jota.helio": 1,
+  "jeemendonca": 1,
+  "8run4": 1,
+  "by_l4ry": 1,
+  "carolschmitztavares": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "verdade, mas às vezes a gente cata os caminhos tortos antes de achar a turma certa",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "kkk pelo menos o cardápio é barato né",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Poxa, o violão nunca mais será o mesmo kkk 😅",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "kkkkk cobrou o preço exato da ofensa de ter ficado pra trás",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "KKKKKKKKKKKKK trinta ovos socorro o prejuízo veio com juros e correção monetária",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "ela com os lacinhos cor de rosa jura inocência total",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parece que a gente foi programada pra não saber descansar em paz",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "escolinha particular sempre pagava aquela miséria com carinho né",
    "p": "concorda",
@@ -1027,6 +1016,41 @@
   },
   {
    "t": "sim, parece q virou convite pros outros montarem em cima né 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nossa, ouvir isso direto de quem passou por isso muda tudo na nossa visão",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse relógio com pulseira trocável marcou uma geração inteira",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "então me conta como faz do jeito certo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "kkkkkk socorro o bicho queria abrir uma piscina em casa",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkkkkkkkkkkkmmkkkkkkk o do escritório foi golpe baixo demais",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "kkkkkkkk o pote de peso em duas horas foi apelou dms",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "com essa carinha de óculos escuros ele com certeza saiu impune de tudo",
    "p": "concorda",
    "r": 0
   }
