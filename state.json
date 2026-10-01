@@ -20,9 +20,10 @@
    "09:52",
    "11:06",
    "14:24",
-   "15:43"
+   "15:43",
+   "16:28"
   ],
-  "respostas": 84
+  "respostas": 85
  },
  "posts": [
   {
@@ -635,6 +636,14 @@
    "texto": "SEM MENTIR: novela ou série? Esse ano a série me prendeu mais que qualquer trama de novela. E você?",
    "quando": "2026-10-01T16:07:10.063128-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18084836903701822",
+   "insp": "ae1c8a29b8",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: parece que ter uma renda extra virou obrigação, né? Eu ainda luto pra equilibrar o trabalho fixo com uns freelas de vez em quando. E você, sente que isso é escolha ou necessidade?",
+   "quando": "2026-10-01T16:37:08.779943-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -1130,7 +1139,8 @@
   "17960380851248285",
   "17870373351647072",
   "18113123983975069",
-  "18633438349037552"
+  "18633438349037552",
+  "17909702400475834"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1172,7 +1182,8 @@
   "99590e42df7bc3952dcc0f24db38b86a",
   "a19e8ae53b25ff10f46e02fb14505594",
   "b091b42cea5fe130a23ab1921ad9ad3e",
-  "703d75806efb2fa09b8e54812fd5cc4a"
+  "703d75806efb2fa09b8e54812fd5cc4a",
+  "da316a38e4628247a7aa4df308aa62b5"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1214,7 +1225,8 @@
   "52a7f9104a": 1790863692.6714327,
   "db79935195": 1790867256.044346,
   "c0031ddd0f": 1790879857.0117278,
-  "cfb5d252d5": 1790885244.5991204
+  "cfb5d252d5": 1790885244.5991204,
+  "ae1c8a29b8": 1790887047.4568858
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1301,15 +1313,11 @@
   "camila_voceprecisadecor": 1,
   "mdcgio": 1,
   "octointeriores": 1,
-  "k.aminah.art": 1
+  "k.aminah.art": 1,
+  "kudo_c137": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "pesado demais carregar esse peso sozinha",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "verdade, as vezes a gente espera um pingo de reciprocidade sem nem notar",
    "p": "concorda",
@@ -1452,6 +1460,11 @@
   },
   {
    "t": "esse é clássico demais, impossível não lembrar da musiquinha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fugiu totalmente do roteiro tradicional mas anime prende mesmo",
    "p": "concorda",
    "r": 0
   }
