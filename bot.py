@@ -8,6 +8,7 @@ Robo do Threads (API oficial da Meta).
   (a IA escreve as respostas da rodada ao mesmo tempo; a publicacao sai uma por uma, com pausa)
 - Respostas escritas a mao pelo Kalebe viram exemplos do robo (1 vez por dia)
 - Nao responde comentario que o perfil ja respondeu a mao (Kalebe responde primeiro, o robo fica de fora)
+- Esconde (nao apaga) spam e golpe quando a IA e os sinais de spam concordam; 1 vez por dia guarda as estatisticas dos posts
 - Le os ganchos de uma Planilha Google
 Quantidades, horarios e limites: Variables do GitHub. Sem Variable, vale o dicionario PADRAO abaixo.
 REGRA: nao escreva numeros de configuracao neste texto nem em comentarios; eles ficam so no PADRAO
@@ -62,6 +63,10 @@ PADRAO = {
     "GEMINI_MODEL_RESPOSTA": "gemini-flash-lite-latest",
     # quantas respostas a IA escreve ao mesmo tempo (a publicacao continua uma por uma, com pausa)
     "IA_PARALELO": "3",
+    # esconder spam/golpe nos comentarios (1 liga, 0 desliga) e no maximo quantos por dia (trava contra engano)
+    "ESCONDER_SPAM": "1", "ESCONDER_POR_DIA": "15",
+    # estatisticas (permissao threads_manage_insights): de quantos dias de posts ler os numeros, 1 vez por dia
+    "METRICAS_DIAS": "7",
 }
 _USOU_PADRAO = []
 
@@ -91,6 +96,9 @@ CHANCE_POST_RESERVA = float(cfg("CHANCE_POST_RESERVA"))
 TESTE_RESERVA_ATE = cfg("TESTE_RESERVA_ATE")
 GEMINI_MODEL_RESPOSTA = cfg("GEMINI_MODEL_RESPOSTA")
 IA_PARALELO = max(1, int(cfg("IA_PARALELO")))
+ESCONDER_SPAM = cfg("ESCONDER_SPAM") == "1"
+ESCONDER_POR_DIA = int(cfg("ESCONDER_POR_DIA"))
+METRICAS_DIAS = int(cfg("METRICAS_DIAS"))
 if MIN_POSTS > MAX_POSTS:
     MIN_POSTS, MAX_POSTS = MAX_POSTS, MIN_POSTS
 EXEMPLOS = env("EXEMPLOS_RESPOSTAS", "")
@@ -982,6 +990,71 @@ def _variar_lote(prontos, s):
             vistas.append((*_marcas(d["texto"]), d["texto"]))
 
 
+# sinais de spam/golpe: so esconde quando a IA tambem disse que e spam (duas confirmacoes, para nao esconder gente de verdade)
+SINAIS_SPAM = re.compile(r"(https?://|www\.|\.com\b|\bt\.me\b|\bpix\b|whats|\bzap\b|telegram|chama no (pv|privado|direct|dm)|"
+                         r"me chama|renda extra|ganh\w* (r\$|\d)|lucro garantido|clique no link|link na (minha )?bio|"
+                         r"\d{4,5}[- ]?\d{4}|promo\w*|desconto|sorteio|seguidores gratis)")
+
+
+def esconder_se_spam(c, d, p):
+    """Esconde (nao apaga) comentario de spam ou golpe. O Kalebe pode mostrar de volta no app. Trava diaria contra engano."""
+    if not ESCONDER_SPAM or MODO_TESTE or p.get("escondidos", 0) >= ESCONDER_POR_DIA or p.get("esconder_falhou"):
+        return False
+    if (d.get("intencao") or "").lower() not in ("spam", "golpe") or not SINAIS_SPAM.search(sem_acento(c.get("text") or "").lower()):
+        return False
+    try:
+        threads("POST", f"{c['id']}/manage_reply", hide="true")
+    except Exception as e:
+        p["esconder_falhou"] = True  # sem permissao ou erro da Meta: nao insiste no resto do dia
+        log("Nao consegui esconder spam (segue normal, so ignora):", str(e)[:150])
+        return False
+    p["escondidos"] = p.get("escondidos", 0) + 1
+    return True
+
+
+def _valor_metrica(m):
+    """A Meta devolve o numero em total_value ou na lista values (soma)."""
+    if isinstance(m.get("total_value"), dict):
+        return m["total_value"].get("value", 0)
+    return sum(v.get("value", 0) for v in m.get("values", []) if isinstance(v.get("value"), (int, float)))
+
+
+def coletar_metricas(s, agora):
+    """1 vez por dia: views, curtidas, respostas, reposts, citacoes e compartilhamentos de cada post dos ultimos dias,
+    e seguidores/views do perfil. Fica no state.json para o robo e o briefing usarem. Precisa da permissao threads_manage_insights."""
+    limite = agora - dt.timedelta(days=METRICAS_DIAS)
+    posts = [x for x in s.get("posts", []) if not str(x["id"]).startswith("teste_")
+             and dt.datetime.fromisoformat(x["quando"]) > limite]
+    falhas = []
+
+    def ler(post):
+        try:
+            dados = threads("GET", f"{post['id']}/insights", metric="views,likes,replies,reposts,quotes,shares").get("data", [])
+            post["metricas"] = {m.get("name"): _valor_metrica(m) for m in dados} | {"em": agora.strftime("%Y-%m-%d")}
+        except Exception as e:
+            falhas.append(str(e)[:150])
+    with ThreadPoolExecutor(5) as ex:
+        list(ex.map(ler, posts))
+    if falhas and len(falhas) == len(posts):
+        log("Estatisticas indisponiveis (falta a permissao threads_manage_insights?):", falhas[0])
+        return
+    perfil = {"data": agora.strftime("%Y-%m-%d")}
+    try:
+        ontem = int((agora - dt.timedelta(days=1)).timestamp())
+        dados = threads("GET", "me/threads_insights", metric="views,followers_count", since=ontem,
+                        until=int(agora.timestamp())).get("data", [])
+        perfil.update({m.get("name"): _valor_metrica(m) for m in dados})
+    except Exception as e:
+        log("Estatisticas do perfil: falhou (segue normal):", str(e)[:150])
+    s["perfil_metricas"] = (s.get("perfil_metricas", []) + [perfil])[-90:]
+    com = [x for x in posts if x.get("metricas")]
+    if com:
+        top = max(com, key=lambda x: x["metricas"].get("views", 0))
+        hora = dt.datetime.fromisoformat(top["quando"]).strftime("%H:%M")
+        log(f"Estatisticas: {len(com)} posts lidos, seguidores {perfil.get('followers_count', '?')}, "
+            f"views do perfil nas ultimas 24h {perfil.get('views', '?')}, melhor post {top['metricas'].get('views', 0)} views ({hora})")
+
+
 def tarefa_responder(s, agora):
     p = plano_do_dia(s, agora)
     if p.get("respostas", 0) >= RESP_POR_DIA:
@@ -1077,8 +1150,9 @@ def tarefa_responder(s, agora):
                "intencao": d.get("intencao"), "emocao": d.get("emocao"), "energia": d.get("energia"),
                "risada": d.get("risada"), "postura": d.get("postura")}
         if not d.get("responder") or not d.get("texto"):
-            log(f"Ignorado comentario de @{quem} ({d.get('intencao') or '-'})")
-            registrar_resposta({**reg, "respondeu": False})
+            escondido = esconder_se_spam(c, d, p)
+            log(f"{'Escondi spam' if escondido else 'Ignorado comentario'} de @{quem} ({d.get('intencao') or '-'})")
+            registrar_resposta({**reg, "respondeu": False, **({"escondido": True} if escondido else {})})
             continue
         no_lote.add(chave)
         txt = d["texto"]
@@ -1127,7 +1201,8 @@ def main():
         log(f"Config em uso: {MIN_POSTS} a {MAX_POSTS} posts/dia, {HORA_INI}h as {HORA_FIM}h, intervalo {INTERVALO_MIN} min, "
             f"respostas {RESP_POR_RODADA}/rodada {RESP_POR_DIA}/dia {RESP_POR_PESSOA}/pessoa, foto {CHANCE_FOTO}, tendencia {CHANCE_TREND}, "
             f"pausas resposta {PAUSA_RESP[0]}-{PAUSA_RESP[1]}s post 0-{ATRASO_POST_MAX}s link {ATRASO_LINK[0]}-{ATRASO_LINK[1]}s, "
-            f"Gemini posts {GEMINI_MODEL} respostas {GEMINI_MODEL_RESPOSTA} ({IA_PARALELO} ao mesmo tempo), teste reservas {CHANCE_POST_RESERVA} ate {TESTE_RESERVA_ATE}")
+            f"Gemini posts {GEMINI_MODEL} respostas {GEMINI_MODEL_RESPOSTA} ({IA_PARALELO} ao mesmo tempo), teste reservas {CHANCE_POST_RESERVA} ate {TESTE_RESERVA_ATE}, "
+            f"esconder spam {'sim' if ESCONDER_SPAM else 'nao'} ate {ESCONDER_POR_DIA}/dia, estatisticas dos ultimos {METRICAS_DIAS} dias")
         if _USOU_PADRAO:
             log("Valores do PADRAO do codigo (Variable vazia):", ", ".join(_USOU_PADRAO))
         checar_reservas()  # 1 vez por dia: mostra no log se Groq/OpenRouter respondem
@@ -1136,6 +1211,10 @@ def main():
                 atualizar_exemplos_kalebe(s)
             except Exception as e:
                 log("Exemplos do Kalebe: falhou (segue normal):", str(e)[:150])
+            try:
+                coletar_metricas(s, agora)
+            except Exception as e:
+                log("Estatisticas: falhou (segue normal):", str(e)[:150])
         s["reservas_checadas"] = agora.strftime("%Y-%m-%d")
         _FORA.clear()
     erros = 0
