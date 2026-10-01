@@ -19,7 +19,7 @@
    "09:10",
    "09:52"
   ],
-  "respostas": 49
+  "respostas": 56
  },
  "posts": [
   {
@@ -1068,7 +1068,14 @@
   "18381333325234469",
   "17986560140877610",
   "17977386939132772",
-  "18083468540327239"
+  "18083468540327239",
+  "18129427687759166",
+  "18128801605790163",
+  "17907365448484393",
+  "18067246505769365",
+  "17971407069158575",
+  "18123280474902315",
+  "18135332158632498"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1198,45 +1205,17 @@
   "shirley.nantes26": 1,
   "parangaricuti_rimirruaro": 1,
   "decifre_me.se.for.capaz": 1,
-  "erica.teodoro1": 1
+  "erica.teodoro1": 1,
+  "devdasaude": 1,
+  "silas.soaresds": 1,
+  "snoww_luiz": 1,
+  "marianasobral75": 1,
+  "piupson1": 1,
+  "thiago_emc_": 1,
+  "confederacao.intergalactica": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "nossa total razão, anular a própria vontade para caber no mundo dos outros esgota demais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "precisa mesmo colocar limites para a cabeça aguentar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "que história boa, o poder do telefone antigo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pois é, bom saber que não tô sozinha nessa loucura",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nossa sim, tem voz que já chega invadindo tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "caramba duzentos por cento é muita coisa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "socorro então não sou só eu nessa situação absurda",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "voz tem esse poder mesmo, corta o encanto na hora",
    "p": "concorda",
@@ -1351,6 +1330,41 @@
    "t": "telefone tem esse perigo mesmo kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "no começo empolga mesmo mas daqui a pouco a barra sobe de novo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "nossa total razão, ninguém tem paciência para essa dinâmica de joguinho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "totalmente, tratar mal trabalhador é o fundo do poço da falta de noção",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "voz de escritor com sotaque calmo é um perigo que ninguém avisa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "adolescência era a época oficial de criar novela na cabeça com qualquer ligação",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesado demais carregar esse peso sozinha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, as vezes a gente espera um pingo de reciprocidade sem nem notar",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [
