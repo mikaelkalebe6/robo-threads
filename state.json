@@ -16,9 +16,10 @@
   ],
   "feitos": [
    "08:06",
-   "09:10"
+   "09:10",
+   "09:52"
   ],
-  "respostas": 42
+  "respostas": 49
  },
  "posts": [
   {
@@ -599,6 +600,14 @@
    "texto": "Quem mais aqui tem um botão invisível que desliga o interesse na hora?\n\nPra mim, gente que trata mal quem tá trabalhando ou vive competindo em conversa faz a atração evaporar em dois segundos. Não tem volta.\n\nO que faz vocês perderem o encanto instantaneamente?",
    "quando": "2026-10-01T09:37:12.227942-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "17870059656644754",
+   "insp": "52a7f9104a",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: essa história de inteligência artificial facilitar a rotina só está criando mais demandas para vocês também ou fui sorteada sozinha? Na minha área parece que só mudou o jeito de acumular serviço.",
+   "quando": "2026-10-01T10:07:14.441923-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1052,7 +1061,14 @@
   "18104079410367356",
   "18087523793271403",
   "17987156508114434",
-  "18197682040383695"
+  "18197682040383695",
+  "18091558364666961",
+  "17923763889426348",
+  "18150218461535641",
+  "18381333325234469",
+  "17986560140877610",
+  "17977386939132772",
+  "18083468540327239"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1090,7 +1106,8 @@
   "e3834208b026d9dfee9afacf2cb1cef7",
   "6b199a9bb8427eedb548d0ce332a7e0d",
   "0c4e570eaaf3df81ea0a6f30a430ee2c",
-  "36cc8410dc97dc2d55e306cba72f8ffd"
+  "36cc8410dc97dc2d55e306cba72f8ffd",
+  "99590e42df7bc3952dcc0f24db38b86a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1128,7 +1145,8 @@
   "7a1c42a5d7": 1790818665.313843,
   "559f0792a7": 1790820449.309396,
   "962dfe5354": 1790856442.2857137,
-  "4fb1c220f3": 1790861857.0642593
+  "4fb1c220f3": 1790861857.0642593,
+  "52a7f9104a": 1790863692.6714327
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1173,45 +1191,17 @@
   "aykqueyan": 1,
   "ananias_vini": 1,
   "cbrbal": 1,
-  "loma_mir": 1
+  "loma_mir": 1,
+  "gustavo.janiques": 1,
+  "oliviadolabella": 1,
+  "cathy_ts06": 1,
+  "shirley.nantes26": 1,
+  "parangaricuti_rimirruaro": 1,
+  "decifre_me.se.for.capaz": 1,
+  "erica.teodoro1": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "com certeza, saber impor limites muda tudo na convivência",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "achei essa reconstrução da frase muito sensata",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo demais, o boleto decide tudo por nós kkkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "exato, com tantas variáveis envolvidas o suporte jurídico faz toda diferença",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "definição técnica impecável, mas o boleto da partilha ainda me dá calafrio 😭",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "parece que passou pelo trator mas o importante é a intenção kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "verdade, dosar é o único jeito de não enlouquecer",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "nossa total razão, anular a própria vontade para caber no mundo dos outros esgota demais",
    "p": "concorda",
@@ -1326,6 +1316,41 @@
    "t": "quem não se importa sai ganhando mesmo porque não carrega o peso dos outros",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "vergonha alheia de competir em conversa é dose mesmo, dá vontade de sumir",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "platonico em dobro e cantor na mira é forte kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "então vc é imune a essa modalidade de castigo kkkk",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "a curiosidade já é meio caminho andado para o perigo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "agora fiquei curiosa para conferir essa voz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perigoso demais esse nível de leitura kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "telefone tem esse perigo mesmo kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "exemplos_kalebe": [
