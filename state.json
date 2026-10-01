@@ -17,7 +17,7 @@
   "feitos": [
    "08:06"
   ],
-  "respostas": 21
+  "respostas": 28
  },
  "posts": [
   {
@@ -1022,7 +1022,14 @@
   "18488238619104490",
   "18168040231479343",
   "17950813215270200",
-  "18115287313824794"
+  "18115287313824794",
+  "18079835963343461",
+  "18174702247444105",
+  "18193767931395738",
+  "18641281960027478",
+  "18088379951248372",
+  "18120306844803495",
+  "17906661747559822"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1120,45 +1127,17 @@
   "jose_luiz_duarte": 1,
   "maxsuelteles.27": 1,
   "_caelani.jk": 1,
-  "ajanpereira": 1
+  "ajanpereira": 1,
+  "anymagna": 1,
+  "eduardoafons0": 1,
+  "vocequeentendeu": 1,
+  "pokekarmacfo": 1,
+  "obrunodefreitas": 1,
+  "familysade": 1,
+  "annabreganholi": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "pesadelo de alta performance né",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, melhor garantia que a gente pode ter",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "fácil de falar, difícil é não gastar o dobro de energia fingindo costume né",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parece mesmo uma bolinha kkkkkkkk sofri com a dor de barriga depois",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "ela foi certeira no mais caro kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "socorro, o bichinho decidiu destruir sua paz em três dias úteis kkkk 😭",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkk total, brigada de facção criminosa dentro de casa",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "coitadinho, com essa carinha de anjo a gente esquece o susto",
    "p": "ressalva",
@@ -1273,6 +1252,41 @@
    "t": "precisa mesmo colocar limites para a cabeça aguentar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "que história boa, o poder do telefone antigo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pois é, bom saber que não tô sozinha nessa loucura",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nossa sim, tem voz que já chega invadindo tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "caramba duzentos por cento é muita coisa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "socorro então não sou só eu nessa situação absurda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "voz tem esse poder mesmo, corta o encanto na hora",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perder a magia com o nome foi forte kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "exemplos_kalebe": [
