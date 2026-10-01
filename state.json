@@ -19,9 +19,10 @@
    "09:10",
    "09:52",
    "11:06",
-   "14:24"
+   "14:24",
+   "15:43"
   ],
-  "respostas": 83
+  "respostas": 84
  },
  "posts": [
   {
@@ -626,6 +627,14 @@
    "texto": "ME CONTA: qual foi o último comercial de margarina ou banco que te arrancou uma lágrima do nada? Juro que sou forte com filme triste, mas propaganda com musiquinha fofa acaba comigo no sofá.",
    "quando": "2026-10-01T14:37:12.990945-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18138700843713493",
+   "insp": "cfb5d252d5",
+   "link": "",
+   "texto": "SEM MENTIR: novela ou série? Esse ano a série me prendeu mais que qualquer trama de novela. E você?",
+   "quando": "2026-10-01T16:07:10.063128-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -1120,7 +1129,8 @@
   "18001986705007587",
   "17960380851248285",
   "17870373351647072",
-  "18113123983975069"
+  "18113123983975069",
+  "18633438349037552"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1161,7 +1171,8 @@
   "36cc8410dc97dc2d55e306cba72f8ffd",
   "99590e42df7bc3952dcc0f24db38b86a",
   "a19e8ae53b25ff10f46e02fb14505594",
-  "b091b42cea5fe130a23ab1921ad9ad3e"
+  "b091b42cea5fe130a23ab1921ad9ad3e",
+  "703d75806efb2fa09b8e54812fd5cc4a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1202,7 +1213,8 @@
   "4fb1c220f3": 1790861857.0642593,
   "52a7f9104a": 1790863692.6714327,
   "db79935195": 1790867256.044346,
-  "c0031ddd0f": 1790879857.0117278
+  "c0031ddd0f": 1790879857.0117278,
+  "cfb5d252d5": 1790885244.5991204
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1288,15 +1300,11 @@
   "ruivabbw": 1,
   "camila_voceprecisadecor": 1,
   "mdcgio": 1,
-  "octointeriores": 1
+  "octointeriores": 1,
+  "k.aminah.art": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "adolescência era a época oficial de criar novela na cabeça com qualquer ligação",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pesado demais carregar esse peso sozinha",
    "p": "concorda",
@@ -1439,6 +1447,11 @@
   },
   {
    "t": "organizar a demanda para trabalhar com essa tranquilidade à noite muda tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse é clássico demais, impossível não lembrar da musiquinha",
    "p": "concorda",
    "r": 0
   }
