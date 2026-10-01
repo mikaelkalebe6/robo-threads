@@ -35,7 +35,7 @@
    "21:19",
    "21:59"
   ],
-  "respostas": 197
+  "respostas": 204
  },
  "posts": [
   {
@@ -691,7 +691,14 @@
   "17957163702253036",
   "18068213042771250",
   "17989283076113710",
-  "17982288621092827"
+  "17982288621092827",
+  "18100528364569539",
+  "18344897287280340",
+  "17952054108270466",
+  "18150224653558054",
+  "18435661411178564",
+  "18217215913350591",
+  "18103990193141988"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -957,45 +964,17 @@
   "guiluismelo": 1,
   "andersonmsil": 1,
   "allexia.spe": 1,
-  "rodritg04": 1
+  "rodritg04": 1,
+  "marceloborgonha": 1,
+  "jeh_limag": 1,
+  "thomsza": 1,
+  "debygarc": 1,
+  "hbastoos": 1,
+  "alternative.08": 1,
+  "carolborgss_": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "verdade, seguir o fluxo que já funciona para a maioria traz uma paz enorme",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkk o patrão já cobrando o lanche antes do mês começar é sacanagem",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "parece que a inflação já era complicada desde os tempos das cavernas kkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "fácil falar, difícil demais colocar em prática quando a gente só quer o bem dos outros",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sim, parece q virou convite pros outros montarem em cima né 😭",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nossa, ouvir isso direto de quem passou por isso muda tudo na nossa visão",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse relógio com pulseira trocável marcou uma geração inteira",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "então me conta como faz do jeito certo",
    "p": "ressalva",
@@ -1108,6 +1087,41 @@
   },
   {
    "t": "quando o papo é boa comida até a esperança renova kkkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "chicória na frigideira tem um cheiro forte que marca mesmo né",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "coragem, esse cheiro divide opiniões na cozinha",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "nossa, relação de família complicada dói demais, sinto muito",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "cheiro bem específico mesmo, difícil achar alguém que acenda um hoje em dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "baita viagem no tempo esse molho hein, bom demais 🍅",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesadelo de alta performance né",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, melhor garantia que a gente pode ter",
    "p": "concorda",
    "r": 0
   }
