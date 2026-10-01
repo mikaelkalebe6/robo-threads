@@ -20,7 +20,7 @@
    "09:52",
    "11:06"
   ],
-  "respostas": 64
+  "respostas": 69
  },
  "posts": [
   {
@@ -1092,7 +1092,12 @@
   "18015273749949392",
   "18635643298005043",
   "18117568421589384",
-  "17904850728589432"
+  "17904850728589432",
+  "18130805654509350",
+  "18478072681113930",
+  "18087450368308969",
+  "18025914725697503",
+  "18177885361440583"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1239,35 +1244,15 @@
   "felixofabio": 1,
   "kaiquef_rocha": 1,
   "yvanlima": 1,
-  "denis.sinachi": 1
+  "denis.sinachi": 1,
+  "o_vine_esperanca": 1,
+  "nascimento_danielribeiro": 1,
+  "j.fonseca1509": 1,
+  "snownfx": 1,
+  "heavyjoekenni.threads": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "dosar a simpatia parece mesmo o único caminho seguro para não se desgastar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "aumenta o interesse mesmo, é um perigo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pior que vc tem um ponto, dublador é perigo público 😭",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perigoso demais esse quase lá kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "nossa ver a pessoa ao vivo e reparar nos detalhes já desarma tudo kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "parece que a conta nunca fecha no fim das contas",
    "p": "concorda",
@@ -1391,6 +1376,31 @@
   {
    "t": "justa consigo mesma é a parte mais difícil né",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse horário exige um nível de resistência absurdo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fase perigosa demais, depois vem a parte de querer saber tudo da vida da pessoa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "adolescencia tinha dessas mesmo, a gente criava um enredo inteiro do nada kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "tirar do 2x é estratégia de sobrevivência pura kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "verdade, mas o problema é quando a voz já vem com o pacote todo que desarma a gente",
+   "p": "ressalva",
    "r": 0
   }
  ],
