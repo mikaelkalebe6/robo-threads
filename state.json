@@ -15,9 +15,10 @@
    "21:21"
   ],
   "feitos": [
-   "08:06"
+   "08:06",
+   "09:10"
   ],
-  "respostas": 35
+  "respostas": 42
  },
  "posts": [
   {
@@ -590,6 +591,14 @@
    "texto": "DÚVIDA SINCERA: já aconteceu de vocês se apaixonarem por alguém só ouvindo a voz? porque eu tô bem nessa fase e achando meio absurdo",
    "quando": "2026-10-01T08:07:12.278664-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17976051243131959",
+   "insp": "4fb1c220f3",
+   "link": "",
+   "texto": "Quem mais aqui tem um botão invisível que desliga o interesse na hora?\n\nPra mim, gente que trata mal quem tá trabalhando ou vive competindo em conversa faz a atração evaporar em dois segundos. Não tem volta.\n\nO que faz vocês perderem o encanto instantaneamente?",
+   "quando": "2026-10-01T09:37:12.227942-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1036,7 +1045,14 @@
   "18066258728777845",
   "17914070529523619",
   "18182303785421089",
-  "18441191911121388"
+  "18441191911121388",
+  "17871277242649554",
+  "18095026928407834",
+  "18030794450676379",
+  "18104079410367356",
+  "18087523793271403",
+  "17987156508114434",
+  "18197682040383695"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1073,7 +1089,8 @@
   "f0ba4c948a297ca4e9ee02d5b8a7c3bb",
   "e3834208b026d9dfee9afacf2cb1cef7",
   "6b199a9bb8427eedb548d0ce332a7e0d",
-  "0c4e570eaaf3df81ea0a6f30a430ee2c"
+  "0c4e570eaaf3df81ea0a6f30a430ee2c",
+  "36cc8410dc97dc2d55e306cba72f8ffd"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1110,7 +1127,8 @@
   "c2d56efe9f": 1790816840.2517245,
   "7a1c42a5d7": 1790818665.313843,
   "559f0792a7": 1790820449.309396,
-  "962dfe5354": 1790856442.2857137
+  "962dfe5354": 1790856442.2857137,
+  "4fb1c220f3": 1790861857.0642593
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1148,45 +1166,17 @@
   "jamille.mdeoliveira": 1,
   "claudiabarbosanunesmottola": 1,
   "blenojr69": 1,
-  "thuliohenrique0": 1
+  "thuliohenrique0": 1,
+  "alisilrodrigues": 1,
+  "adonamistica_": 1,
+  "adrianaandraade": 1,
+  "aykqueyan": 1,
+  "ananias_vini": 1,
+  "cbrbal": 1,
+  "loma_mir": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "exato, quem sabe improvisar com o que tem na geladeira já ganha muitos pontos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "então pelo menos alguém mantinha a casa alimentada né",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "café fresco tem esse dom de trazer a memória da avó na hora",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, a base que a gente deixa faz toda diferenca no adulto de amanhã",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "economia de louça e de paciência né kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Sua história tocou, sinceridade e respeito são fundamentais, sinto sua saudade 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "É, fazer bem sem contar retorno tem seu charme kkk 😊",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "com certeza, saber impor limites muda tudo na convivência",
    "p": "concorda",
@@ -1299,6 +1289,41 @@
   },
   {
    "t": "dosar a simpatia parece mesmo o único caminho seguro para não se desgastar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "aumenta o interesse mesmo, é um perigo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pior que vc tem um ponto, dublador é perigo público 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perigoso demais esse quase lá kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "nossa ver a pessoa ao vivo e reparar nos detalhes já desarma tudo kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "parece que a conta nunca fecha no fim das contas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ou paga o preço de falar ou paga o preço de ficar quieta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem não se importa sai ganhando mesmo porque não carrega o peso dos outros",
    "p": "concorda",
    "r": 0
   }
