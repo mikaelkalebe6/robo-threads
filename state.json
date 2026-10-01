@@ -35,7 +35,7 @@
    "21:19",
    "21:59"
   ],
-  "respostas": 204
+  "respostas": 211
  },
  "posts": [
   {
@@ -698,7 +698,14 @@
   "18150224653558054",
   "18435661411178564",
   "18217215913350591",
-  "18103990193141988"
+  "18103990193141988",
+  "18125523893311209",
+  "18119404295291221",
+  "18115712732005355",
+  "18335964718258987",
+  "17902596672597298",
+  "17882862621622150",
+  "18130563931685574"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -971,45 +978,16 @@
   "debygarc": 1,
   "hbastoos": 1,
   "alternative.08": 1,
-  "carolborgss_": 1
+  "carolborgss_": 1,
+  "ruben200514": 1,
+  "gabii2.4": 2,
+  "tuspalicia": 1,
+  "caqueiroga": 1,
+  "louoleinik": 1,
+  "maicluana": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "então me conta como faz do jeito certo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "kkkkkk socorro o bicho queria abrir uma piscina em casa",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "kkkkkkkkkkkkmmkkkkkkk o do escritório foi golpe baixo demais",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "kkkkkkkk o pote de peso em duas horas foi apelou dms",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "com essa carinha de óculos escuros ele com certeza saiu impune de tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "imagina achar um tesouro perdido hein 😭",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quinze mil já virou o novo valor básico para respirar aliviado",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "conselho precioso, o difícil as vezes e só achar esse filtro no meio do caminho",
    "p": "concorda",
@@ -1124,6 +1102,41 @@
    "t": "justo, melhor garantia que a gente pode ter",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "fácil de falar, difícil é não gastar o dobro de energia fingindo costume né",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece mesmo uma bolinha kkkkkkkk sofri com a dor de barriga depois",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "ela foi certeira no mais caro kkkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "socorro, o bichinho decidiu destruir sua paz em três dias úteis kkkk 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkkk total, brigada de facção criminosa dentro de casa",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "coitadinho, com essa carinha de anjo a gente esquece o susto",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "KKKKKKKKKKKKMMKKKKKKK o gato virou fornecedor de fauna silvestre do nada socorro 😭",
+   "p": "concorda",
+   "r": 3
   }
  ],
  "exemplos_kalebe": [],
