@@ -31,9 +31,10 @@
    "18:11",
    "19:01",
    "19:50",
-   "20:38"
+   "20:38",
+   "21:19"
   ],
-  "respostas": 179
+  "respostas": 186
  },
  "posts": [
   {
@@ -276,6 +277,14 @@
    "texto": "SEJAM SINCEROS: quando eu era criança, sonhava ser astronauta. Hoje sou analista de dados, mas ainda olho pro céu e imagino. E vocês, que sonho de infância ainda faz o coração acelerar?",
    "quando": "2026-09-30T21:07:10.285631-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18000024422810127",
+   "insp": "7a1c42a5d7",
+   "link": "",
+   "texto": "SEJAM SINCEROS: vocês contariam pra melhor amiga se vissem o namorado dela com outra no rolê? É o tipo de coisa que estraga a amizade ou pior é deixar ela ser enganada.",
+   "quando": "2026-09-30T21:37:13.948034-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -655,7 +664,14 @@
   "18114387193827751",
   "18038903555833446",
   "17910342246483117",
-  "17969270775177773"
+  "17969270775177773",
+  "17894728437655565",
+  "18122375201304535",
+  "17876466273633028",
+  "18124376032861921",
+  "18122831966489167",
+  "18130956460668256",
+  "17905084152588428"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -689,7 +705,8 @@
   "d7c8c4c1090b62ee518b48217f025222",
   "f72e7cd9b1826e3c657f5d145159b534",
   "7a85ccf5af93f0555cf3eb5e6f382905",
-  "f0ba4c948a297ca4e9ee02d5b8a7c3bb"
+  "f0ba4c948a297ca4e9ee02d5b8a7c3bb",
+  "e3834208b026d9dfee9afacf2cb1cef7"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -723,7 +740,8 @@
   "3ce988f7a6": 1790807853.3159423,
   "c05528a8e3": 1790809650.077538,
   "fbedf7f149": 1790813252.2096584,
-  "c2d56efe9f": 1790816840.2517245
+  "c2d56efe9f": 1790816840.2517245,
+  "7a1c42a5d7": 1790818665.313843
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -891,7 +909,7 @@
   "gustavo.foliveira": 1,
   "preciso_falar_95": 1,
   "josimar.dev": 1,
-  "guinh015": 1,
+  "guinh015": 2,
   "reidosmares": 1,
   "gugadorno": 1,
   "fernandolopesmachado": 1,
@@ -900,45 +918,16 @@
   "jeemendonca": 1,
   "8run4": 1,
   "by_l4ry": 1,
-  "carolschmitztavares": 1
+  "carolschmitztavares": 1,
+  "fernandoopcharski": 1,
+  "k6980i": 1,
+  "marciocoutomusica": 1,
+  "_amanda_rengel_": 1,
+  "nickfor.you": 1,
+  "alelg30": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "escolinha particular sempre pagava aquela miséria com carinho né",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perfeito, o grande desafio é achar esse ponto exato sem virar otária no meio do caminho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, o difícil é lembrar disso bem na hora q a espinhada dói",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "medida exata pra não explodir por dentro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nossa chorei junto agora, segunda-feira sem pet shop e com bicho grudado é o fundo do poço 😭",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sim, cada caso é um caso e muda tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "totalmente certo, cada um ter sua autonomia traz mais paz para a jornada",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "verdade, cada escolha tem seu peso mas o importante é saber onde vc tá pisando",
    "p": "concorda",
@@ -1053,6 +1042,41 @@
    "t": "com essa carinha de óculos escuros ele com certeza saiu impune de tudo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "imagina achar um tesouro perdido hein 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quinze mil já virou o novo valor básico para respirar aliviado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "conselho precioso, o difícil as vezes e só achar esse filtro no meio do caminho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece que a vida cobra taxa de juros toda vez que a gente tenta ser legal",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "menos de um mês e a Skol já tá com currículo completo de bagunça força viu",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "já pronta pra frigideira",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkkkkkkmmkkkkkkk invasão de domicílio com direito a visita pro crush",
+   "p": "concorda",
+   "r": 3
   }
  ],
  "exemplos_kalebe": [],
