@@ -17,9 +17,10 @@
   "feitos": [
    "08:06",
    "09:10",
-   "09:52"
+   "09:52",
+   "11:06"
   ],
-  "respostas": 56
+  "respostas": 60
  },
  "posts": [
   {
@@ -608,6 +609,14 @@
    "texto": "DÚVIDA SINCERA: essa história de inteligência artificial facilitar a rotina só está criando mais demandas para vocês também ou fui sorteada sozinha? Na minha área parece que só mudou o jeito de acumular serviço.",
    "quando": "2026-10-01T10:07:14.441923-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18122498098866857",
+   "insp": "db79935195",
+   "link": "",
+   "texto": "SEM MENTIR: quem acha que dormir cedo garante sucesso nunca viu a madrugada criativa de quem trabalha à noite. E você, qual horário te faz render?",
+   "quando": "2026-10-01T11:07:15.167680-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -1075,7 +1084,11 @@
   "18067246505769365",
   "17971407069158575",
   "18123280474902315",
-  "18135332158632498"
+  "18135332158632498",
+  "18139247335618625",
+  "17918719305444151",
+  "17901037248374996",
+  "18521248048100842"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1114,7 +1127,8 @@
   "6b199a9bb8427eedb548d0ce332a7e0d",
   "0c4e570eaaf3df81ea0a6f30a430ee2c",
   "36cc8410dc97dc2d55e306cba72f8ffd",
-  "99590e42df7bc3952dcc0f24db38b86a"
+  "99590e42df7bc3952dcc0f24db38b86a",
+  "a19e8ae53b25ff10f46e02fb14505594"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1153,7 +1167,8 @@
   "559f0792a7": 1790820449.309396,
   "962dfe5354": 1790856442.2857137,
   "4fb1c220f3": 1790861857.0642593,
-  "52a7f9104a": 1790863692.6714327
+  "52a7f9104a": 1790863692.6714327,
+  "db79935195": 1790867256.044346
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1212,30 +1227,14 @@
   "marianasobral75": 1,
   "piupson1": 1,
   "thiago_emc_": 1,
-  "confederacao.intergalactica": 1
+  "confederacao.intergalactica": 1,
+  "haarmanfritz": 1,
+  "elinasc.21": 1,
+  "luizeapolinario": 1,
+  "andrewsarteus": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "voz tem esse poder mesmo, corta o encanto na hora",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perder a magia com o nome foi forte kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "atração a gente entende mas o combo completo confunde a cabeça",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, paixão não avisa mesmo e depois a gente que lute",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pelo menos não estou sozinha nessa confusão toda",
    "p": "concorda",
@@ -1363,6 +1362,26 @@
   },
   {
    "t": "verdade, as vezes a gente espera um pingo de reciprocidade sem nem notar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nossa sim, broxa qualquer um na hora",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "madrugada na fm parecia uma novela particular com trilha sonora e tudo kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "mensagem escrita já é um perigo, imagina o estrago que a voz faz kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "parece que a conta nunca fecha né",
    "p": "concorda",
    "r": 0
   }
