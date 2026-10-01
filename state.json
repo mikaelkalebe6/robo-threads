@@ -24,7 +24,7 @@
    "16:28",
    "17:09"
   ],
-  "respostas": 97,
+  "respostas": 99,
   "escondidos": 1
  },
  "posts": [
@@ -1164,7 +1164,9 @@
   "18335551207272222",
   "18125825134867233",
   "18075981917439314",
-  "18412722607081386"
+  "18412722607081386",
+  "18112901357332938",
+  "18030716333895628"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1352,20 +1354,12 @@
   "darth_jony": 1,
   "gustavopinto1979": 1,
   "mingauarte": 1,
-  "demelo.igor": 1
+  "demelo.igor": 1,
+  "akvergennes": 1,
+  "angelicagregorio_": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "tirar do 2x é estratégia de sobrevivência pura kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "verdade, mas o problema é quando a voz já vem com o pacote todo que desarma a gente",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "nem fala, um perigo sem tamanho",
    "p": "concorda",
@@ -1505,6 +1499,16 @@
    "t": "essa do copo é clássico de quem cedeu só pra paz reinar kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "apagador de luz vira a principal ferramenta de sobrevivência doméstica kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "maternidade e tarefas domesticas são o verdadeiro turno duplo sem hora pra acabar",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [
