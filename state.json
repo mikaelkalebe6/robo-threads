@@ -20,7 +20,7 @@
    "09:52",
    "11:06"
   ],
-  "respostas": 60
+  "respostas": 64
  },
  "posts": [
   {
@@ -1088,7 +1088,11 @@
   "18139247335618625",
   "17918719305444151",
   "17901037248374996",
-  "18521248048100842"
+  "18521248048100842",
+  "18015273749949392",
+  "18635643298005043",
+  "18117568421589384",
+  "17904850728589432"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1231,30 +1235,14 @@
   "haarmanfritz": 1,
   "elinasc.21": 1,
   "luizeapolinario": 1,
-  "andrewsarteus": 1
+  "andrewsarteus": 1,
+  "felixofabio": 1,
+  "kaiquef_rocha": 1,
+  "yvanlima": 1,
+  "denis.sinachi": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos não estou sozinha nessa confusão toda",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "com certeza, o combo de falar o que a gente quer ouvir é perigoso demais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "terapia devia vir inclusa no pacote da adolescencia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "falar não deveria vir com manual de instrução, mas a gente só aprende apanhando",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "dosar a simpatia parece mesmo o único caminho seguro para não se desgastar",
    "p": "concorda",
@@ -1382,6 +1370,26 @@
   },
   {
    "t": "parece que a conta nunca fecha né",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o corpo realmente cobra o preço depois mas a cabeça não para",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "terceiro turno exige respeito e muito café kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "ainda é quinta mas a semana já tá longa o suficiente pra isso",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justa consigo mesma é a parte mais difícil né",
    "p": "concorda",
    "r": 0
   }
