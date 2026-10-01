@@ -20,7 +20,7 @@
    "09:52",
    "11:06"
   ],
-  "respostas": 75
+  "respostas": 76
  },
  "posts": [
   {
@@ -1103,7 +1103,8 @@
   "18117382274068101",
   "18126583787484012",
   "18126848743850619",
-  "18061960754619124"
+  "18061960754619124",
+  "18112183490127159"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1261,15 +1262,11 @@
   "pripmg": 1,
   "likke69": 1,
   "filipegreenflow": 1,
-  "s.mauriciodecastro": 1
+  "s.mauriciodecastro": 1,
+  "brendawyni": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "a curiosidade já é meio caminho andado para o perigo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "agora fiquei curiosa para conferir essa voz",
    "p": "concorda",
@@ -1412,6 +1409,11 @@
   },
   {
    "t": "parece absurdo até acontecer com você",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "maternidade real demais, zerar o sono e ainda encarar a escola cedo é uma maratona pesada",
    "p": "ressalva",
    "r": 0
   }
