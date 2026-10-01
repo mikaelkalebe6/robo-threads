@@ -18,9 +18,10 @@
    "08:06",
    "09:10",
    "09:52",
-   "11:06"
+   "11:06",
+   "14:24"
   ],
-  "respostas": 76
+  "respostas": 79
  },
  "posts": [
   {
@@ -617,6 +618,14 @@
    "texto": "SEM MENTIR: quem acha que dormir cedo garante sucesso nunca viu a madrugada criativa de quem trabalha à noite. E você, qual horário te faz render?",
    "quando": "2026-10-01T11:07:15.167680-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18220845559346566",
+   "insp": "c0031ddd0f",
+   "link": "",
+   "texto": "ME CONTA: qual foi o último comercial de margarina ou banco que te arrancou uma lágrima do nada? Juro que sou forte com filme triste, mas propaganda com musiquinha fofa acaba comigo no sofá.",
+   "quando": "2026-10-01T14:37:12.990945-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1104,7 +1113,10 @@
   "18126583787484012",
   "18126848743850619",
   "18061960754619124",
-  "18112183490127159"
+  "18112183490127159",
+  "17996795987828304",
+  "18018461507946573",
+  "17964273494982524"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1144,7 +1156,8 @@
   "0c4e570eaaf3df81ea0a6f30a430ee2c",
   "36cc8410dc97dc2d55e306cba72f8ffd",
   "99590e42df7bc3952dcc0f24db38b86a",
-  "a19e8ae53b25ff10f46e02fb14505594"
+  "a19e8ae53b25ff10f46e02fb14505594",
+  "b091b42cea5fe130a23ab1921ad9ad3e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1184,7 +1197,8 @@
   "962dfe5354": 1790856442.2857137,
   "4fb1c220f3": 1790861857.0642593,
   "52a7f9104a": 1790863692.6714327,
-  "db79935195": 1790867256.044346
+  "db79935195": 1790867256.044346,
+  "c0031ddd0f": 1790879857.0117278
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1263,25 +1277,13 @@
   "likke69": 1,
   "filipegreenflow": 1,
   "s.mauriciodecastro": 1,
-  "brendawyni": 1
+  "brendawyni": 1,
+  "mandsletto": 1,
+  "it.boy.cens": 1,
+  "dylxn_tsk": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "agora fiquei curiosa para conferir essa voz",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perigoso demais esse nível de leitura kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "telefone tem esse perigo mesmo kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "no começo empolga mesmo mas daqui a pouco a barra sobe de novo",
    "p": "ressalva",
@@ -1415,6 +1417,21 @@
   {
    "t": "maternidade real demais, zerar o sono e ainda encarar a escola cedo é uma maratona pesada",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "papo reto, o silêncio da noite rende por três períodos do dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nossa vc foi direto ao ponto hein kkkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "a ciência pode até achar impossível mas o coração não avisa antes",
+   "p": "discorda",
    "r": 0
   }
  ],
