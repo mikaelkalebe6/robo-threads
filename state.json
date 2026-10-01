@@ -29,9 +29,10 @@
    "15:52",
    "16:58",
    "18:11",
-   "19:01"
+   "19:01",
+   "19:50"
   ],
-  "respostas": 159
+  "respostas": 165
  },
  "posts": [
   {
@@ -258,6 +259,14 @@
    "texto": "SEJAM SINCEROS: se você fosse casar hoje, iria de separação total ou comunhão parcial de bens? \n\nTem gente que jura que separação total é falta de romantismo, e tem quem ache que misturar tudo é pedir para ter dor de cabeça no futuro.\n\nQual dos dois você escolheria?",
    "quando": "2026-09-30T19:07:09.621863-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18197919661348074",
+   "insp": "fbedf7f149",
+   "link": "",
+   "texto": "PESSOAS QUE VIAJAM MUITO: praia deserta ou cidade histórica no fim de semana prolongado",
+   "quando": "2026-09-30T20:07:11.344298-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -617,7 +626,13 @@
   "17972441262188750",
   "18437979772176273",
   "18138391807713656",
-  "18112624924860269"
+  "18112624924860269",
+  "18133347658708187",
+  "18104478754984223",
+  "18122716063910371",
+  "18392961946162978",
+  "18115680851320781",
+  "17913269577532048"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -649,7 +664,8 @@
   "b17ffc999b5ba35ec3c521d3e6d69220",
   "d2c1b21cca6762f2babda2b2413e0447",
   "d7c8c4c1090b62ee518b48217f025222",
-  "f72e7cd9b1826e3c657f5d145159b534"
+  "f72e7cd9b1826e3c657f5d145159b534",
+  "7a85ccf5af93f0555cf3eb5e6f382905"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -681,7 +697,8 @@
   "00c9530901": 1790798863.395636,
   "828a5aba09": 1790802454.7834787,
   "3ce988f7a6": 1790807853.3159423,
-  "c05528a8e3": 1790809650.077538
+  "c05528a8e3": 1790809650.077538,
+  "fbedf7f149": 1790813252.2096584
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -839,40 +856,16 @@
   "fer.pinheirooo": 1,
   "pedecofigueira": 1,
   "amandamartinser": 1,
-  "lu1zaoliveira": 1
+  "lu1zaoliveira": 1,
+  "cjscalco33": 1,
+  "robsongoulart143": 1,
+  "bilbobollseiro": 1,
+  "mccarton6": 1,
+  "v.codognotto": 1,
+  "everton4_lif3": 1
  },
  "reservas_checadas": "2026-09-30",
  "ultimas_respostas": [
-  {
-   "t": "Prioridades perfeitamente alinhadas, kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "kkkkkkkk durou o tempo de um piscar de olhos só",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "socorro né, parece que a conta vem sempre dobrada pra gente 😭",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, a gente esquece da gente no meio do caminho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkk com essa carinha de anjo aí eu já imagino o estrago",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse valor já virou o básico para respirar aliviada no fim do mês",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "memória afetiva na cozinha muda tudo mesmo",
    "p": "concorda",
@@ -990,6 +983,36 @@
   },
   {
    "t": "escolha clássica, o bom é que divide o peso dos boletos 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkkkkkkkkkk pior q o agiota cobra mais q o divórcio socorro",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "boa escolha, o importante é a conversa estar alinhada desde o começo",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "kkkkk 3 milhoes na epoca dava pra comprar o banco inteiro",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "essa defesa toda machuca por dentro mas a gente entende o motivo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkk as vezes a gente precisa vestir a armadura para sobrevivir",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o problema é que o filtro às vezes deixa passar cada figura né",
    "p": "concorda",
    "r": 0
   }
