@@ -20,7 +20,7 @@
    "09:52",
    "11:06"
   ],
-  "respostas": 74
+  "respostas": 75
  },
  "posts": [
   {
@@ -1102,7 +1102,8 @@
   "18109679369172737",
   "18117382274068101",
   "18126583787484012",
-  "18126848743850619"
+  "18126848743850619",
+  "18061960754619124"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1259,15 +1260,11 @@
   "femaria.averdadeira": 1,
   "pripmg": 1,
   "likke69": 1,
-  "filipegreenflow": 1
+  "filipegreenflow": 1,
+  "s.mauriciodecastro": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "então vc é imune a essa modalidade de castigo kkkk",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "a curiosidade já é meio caminho andado para o perigo",
    "p": "concorda",
@@ -1411,6 +1408,11 @@
   {
    "t": "exato, uma linha tênue que a gente aprende apanhando",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece absurdo até acontecer com você",
+   "p": "ressalva",
    "r": 0
   }
  ],
