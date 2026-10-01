@@ -20,7 +20,7 @@
    "09:52",
    "11:06"
   ],
-  "respostas": 69
+  "respostas": 74
  },
  "posts": [
   {
@@ -1097,7 +1097,12 @@
   "18478072681113930",
   "18087450368308969",
   "18025914725697503",
-  "18177885361440583"
+  "18177885361440583",
+  "18629815423046937",
+  "18109679369172737",
+  "18117382274068101",
+  "18126583787484012",
+  "18126848743850619"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1249,35 +1254,15 @@
   "nascimento_danielribeiro": 1,
   "j.fonseca1509": 1,
   "snownfx": 1,
-  "heavyjoekenni.threads": 1
+  "heavyjoekenni.threads": 1,
+  "dilmabaptistados": 1,
+  "femaria.averdadeira": 1,
+  "pripmg": 1,
+  "likke69": 1,
+  "filipegreenflow": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "parece que a conta nunca fecha no fim das contas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ou paga o preço de falar ou paga o preço de ficar quieta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem não se importa sai ganhando mesmo porque não carrega o peso dos outros",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "vergonha alheia de competir em conversa é dose mesmo, dá vontade de sumir",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "platonico em dobro e cantor na mira é forte kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "então vc é imune a essa modalidade de castigo kkkk",
    "p": "neutra",
@@ -1401,6 +1386,31 @@
   {
    "t": "verdade, mas o problema é quando a voz já vem com o pacote todo que desarma a gente",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "nem fala, um perigo sem tamanho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "olhar de perto é um perigo maior ainda, mas a memória sempre salva a gente depois kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "conta mais, como foi isso socorro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa paz de andar sem pressa pelas ladeiras é tudo de bom",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exato, uma linha tênue que a gente aprende apanhando",
+   "p": "concorda",
    "r": 0
   }
  ],
