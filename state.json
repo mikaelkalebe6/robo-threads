@@ -24,7 +24,7 @@
    "16:28",
    "17:09"
   ],
-  "respostas": 99,
+  "respostas": 100,
   "escondidos": 1
  },
  "posts": [
@@ -1166,7 +1166,8 @@
   "18075981917439314",
   "18412722607081386",
   "18112901357332938",
-  "18030716333895628"
+  "18030716333895628",
+  "18460888438139835"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1356,15 +1357,11 @@
   "mingauarte": 1,
   "demelo.igor": 1,
   "akvergennes": 1,
-  "angelicagregorio_": 1
+  "angelicagregorio_": 1,
+  "lsdacosta88": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "nem fala, um perigo sem tamanho",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "olhar de perto é um perigo maior ainda, mas a memória sempre salva a gente depois kkkkkk",
    "p": "concorda",
@@ -1509,6 +1506,11 @@
    "t": "maternidade e tarefas domesticas são o verdadeiro turno duplo sem hora pra acabar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "socorro fechar armário virou questão de segurança nacional pelo visto kkkkkkkkkkkk",
+   "p": "concorda",
+   "r": 3
   }
  ],
  "exemplos_kalebe": [
