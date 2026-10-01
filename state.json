@@ -14,8 +14,10 @@
    "20:21",
    "21:21"
   ],
-  "feitos": [],
-  "respostas": 14
+  "feitos": [
+   "08:06"
+  ],
+  "respostas": 21
  },
  "posts": [
   {
@@ -580,6 +582,14 @@
     "shares": 0,
     "em": "2026-10-01"
    }
+  },
+  {
+   "id": "17867648829661062",
+   "insp": "962dfe5354",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: já aconteceu de vocês se apaixonarem por alguém só ouvindo a voz? porque eu tô bem nessa fase e achando meio absurdo",
+   "quando": "2026-10-01T08:07:12.278664-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1005,7 +1015,14 @@
   "18136861597629435",
   "18088885205236388",
   "18115655117281659",
-  "18017749556931189"
+  "18017749556931189",
+  "17958588483231001",
+  "17989459872065752",
+  "18382598566239595",
+  "18488238619104490",
+  "18168040231479343",
+  "17950813215270200",
+  "18115287313824794"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1041,7 +1058,8 @@
   "7a85ccf5af93f0555cf3eb5e6f382905",
   "f0ba4c948a297ca4e9ee02d5b8a7c3bb",
   "e3834208b026d9dfee9afacf2cb1cef7",
-  "6b199a9bb8427eedb548d0ce332a7e0d"
+  "6b199a9bb8427eedb548d0ce332a7e0d",
+  "0c4e570eaaf3df81ea0a6f30a430ee2c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1077,7 +1095,8 @@
   "fbedf7f149": 1790813252.2096584,
   "c2d56efe9f": 1790816840.2517245,
   "7a1c42a5d7": 1790818665.313843,
-  "559f0792a7": 1790820449.309396
+  "559f0792a7": 1790820449.309396,
+  "962dfe5354": 1790856442.2857137
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1094,45 +1113,17 @@
   "padduaplanosdesauderj": 1,
   "condevlad3": 1,
   "wanderson_con.roots6": 1,
-  "marcelhenriquegullo": 1
+  "marcelhenriquegullo": 1,
+  "karensmachado": 1,
+  "jullyanne.fernandes": 1,
+  "adv.barbaralopes": 1,
+  "jose_luiz_duarte": 1,
+  "maxsuelteles.27": 1,
+  "_caelani.jk": 1,
+  "ajanpereira": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "essa lembrança fica guardada pra sempre né",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quando o papo é boa comida até a esperança renova kkkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "chicória na frigideira tem um cheiro forte que marca mesmo né",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "coragem, esse cheiro divide opiniões na cozinha",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "nossa, relação de família complicada dói demais, sinto muito",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "cheiro bem específico mesmo, difícil achar alguém que acenda um hoje em dia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "baita viagem no tempo esse molho hein, bom demais 🍅",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pesadelo de alta performance né",
    "p": "concorda",
@@ -1245,6 +1236,41 @@
   },
   {
    "t": "achei essa reconstrução da frase muito sensata",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo demais, o boleto decide tudo por nós kkkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "exato, com tantas variáveis envolvidas o suporte jurídico faz toda diferença",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "definição técnica impecável, mas o boleto da partilha ainda me dá calafrio 😭",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "parece que passou pelo trator mas o importante é a intenção kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "verdade, dosar é o único jeito de não enlouquecer",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nossa total razão, anular a própria vontade para caber no mundo dos outros esgota demais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "precisa mesmo colocar limites para a cabeça aguentar",
    "p": "concorda",
    "r": 0
   }
