@@ -21,7 +21,7 @@
    "08:01",
    "08:51"
   ],
-  "respostas": 11
+  "respostas": 17
  },
  "posts": [
   {
@@ -1328,7 +1328,13 @@
   "17992079112024661",
   "18112818278124124",
   "18486837418108322",
-  "17921683617223015"
+  "17921683617223015",
+  "18127778086830761",
+  "17919052266445692",
+  "18096349094644462",
+  "18179931772441774",
+  "18117017579326754",
+  "18132278650811159"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1440,40 +1446,16 @@
   "cfc994bb78": 1,
   "c8ca6c32a4": 1,
   "f47c0c6d0e": 1,
-  "4c52992342": 1
+  "4c52992342": 1,
+  "3db8885dba": 1,
+  "e8dc7af288": 1,
+  "eb8e874c87": 1,
+  "15c6f7441a": 1,
+  "cc6d1c46c8": 1,
+  "fa445de76a": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "briga de gato dentro ou fora de casa tem potencial pra virar mini novela kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "caraca foi direto pro boss final kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "essa do copo é clássico de quem cedeu só pra paz reinar kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "apagador de luz vira a principal ferramenta de sobrevivência doméstica kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "maternidade e tarefas domesticas são o verdadeiro turno duplo sem hora pra acabar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "socorro fechar armário virou questão de segurança nacional pelo visto kkkkkkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
   {
    "t": "economia de tempo no trânsito vale demais",
    "p": "concorda",
@@ -1591,6 +1573,36 @@
   },
   {
    "t": "justo, contra a amargura da vida todo mundo apela para o doce mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tem horas que o papel ainda abre portas que a experiencia sozinha demora muito para alcançar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, a mao na massa acaba ensinando o q nenhum livro mostra sozinho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem vai direto pra pratica paga o preço no tempo mas ganha casca cedo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa rota de fazer o tecnico primeiro parece ótima para entrar na area sem desespero",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o humor do dia realmente decide o nível de açúcar kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "entre carvão e xarope o prejuízo é garantido de qualquer forma",
    "p": "concorda",
    "r": 0
   }
