@@ -215,7 +215,7 @@ def url_csv(url):
     return f"https://docs.google.com/spreadsheets/d/{m.group(1)}/export?format=csv&gid={gid.group(1) if gid else '0'}"
 
 
-APPSHEET_APP = env("APPSHEET_APP", "PainelThreads-485832426")
+APPSHEET_APP = env("APPSHEET_APP")  # Variable do GitHub (o nome do app nao fica no codigo)
 APPSHEET_TABELA = env("APPSHEET_TABELA", "Untitled")
 EXT_VIDEO = (".mp4", ".mov", ".m4v", ".webm")
 
@@ -225,6 +225,9 @@ def url_midia(v):
     v = (v or "").strip()
     if not v or v.lower().startswith("http"):
         return v
+    if not APPSHEET_APP:
+        log("Falta a Variable APPSHEET_APP: arquivo do app ignorado, post sai sem foto.")
+        return ""
     return ("https://www.appsheet.com/template/gettablefileurl?appName=" + urllib.parse.quote(APPSHEET_APP)
             + "&tableName=" + urllib.parse.quote(APPSHEET_TABELA) + "&fileName=" + urllib.parse.quote(v))
 

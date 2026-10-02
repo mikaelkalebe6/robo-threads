@@ -12,9 +12,8 @@ SAIDA = os.path.join(AQUI, "inspiracoes_lidas.md")
 SAIDA_MELHORIAS = os.path.join(AQUI, "melhorias_lidas.md")  # links marcados "Melhoria" no app: ideias para o projeto, nao post
 KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 MODELO = os.environ.get("GEMINI_MODEL", "").strip() or "gemini-flash-latest"
-PLANILHA = os.environ.get("INSPIRACOES_URL", "").strip() or \
-    "https://docs.google.com/spreadsheets/d/1KTkNtlksA4sWBh5Usfwc9EsRELcoGaBXXVOEEo9Km-k/export?format=csv&gid=1716591096"
-APP = os.environ.get("APPSHEET_APP", "").strip() or "PainelThreads-485832426"
+PLANILHA = os.environ.get("INSPIRACOES_URL", "").strip()  # Variable do GitHub (o link nao fica no codigo)
+APP = os.environ.get("APPSHEET_APP", "").strip()  # Variable do GitHub
 TABELA = os.environ.get("APPSHEET_TABELA_INSP", "").strip() or "Untitled 2"
 POR_RODADA = int(os.environ.get("INSPIRACOES_POR_RODADA", "").strip() or 12)  # le tudo o que der em cada leitura
 HORAS_ENTRE = float(os.environ.get("INSPIRACOES_HORAS", "").strip() or 6)  # poucas leituras por dia (8h, 14h, 20h)
@@ -199,6 +198,8 @@ def baixar_video(link):
 
 def analisar(link, video, obs):
     obs = obs or "(nenhuma)"
+    if video and not video.lower().startswith("http") and not APP:
+        return "Falta a Variable APPSHEET_APP para abrir o arquivo enviado pelo app."
     if video:
         url = video if video.lower().startswith("http") else (
             "https://www.appsheet.com/template/gettablefileurl?appName=" + urllib.parse.quote(APP)
@@ -281,6 +282,9 @@ def gravar(caminho, cabecalho, blocos, remover=()):
 
 def main():
     if not KEY:
+        return
+    if not PLANILHA:
+        log("Falta a Variable INSPIRACOES_URL. Leitor parado.")
         return
     agora = dt.datetime.now(TZ)
     if not (8 <= agora.hour <= 22):
