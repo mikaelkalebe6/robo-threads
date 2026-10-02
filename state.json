@@ -27,7 +27,7 @@
    "13:40",
    "14:26"
   ],
-  "respostas": 63
+  "respostas": 64
  },
  "posts": [
   {
@@ -1434,7 +1434,9 @@
   "18135459079645312",
   "18118236115762216",
   "18078108065391157",
-  "18497020432102751"
+  "18497020432102751",
+  "18137654890558429",
+  "18131104306705291"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1606,15 +1608,11 @@
   "c6204bfc61": 1,
   "4083f0d608": 1,
   "38cf0bc797": 1,
-  "801b208447": 1
+  "801b208447": 1,
+  "9e1cc41f4f": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "pesado mas respeito a sinceridade",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "mantém a tradição da mensagem autêntica então",
    "p": "neutra",
@@ -1758,6 +1756,11 @@
   {
    "t": "a caverna parece um pouco extrema mas a tecnologia realmente chegou longe demais",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "churrasco depois do futebol é a recompensa oficial por continuar vivo",
+   "p": "concorda",
    "r": 0
   }
  ],
