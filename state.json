@@ -24,7 +24,7 @@
    "11:00",
    "11:50"
   ],
-  "respostas": 30
+  "respostas": 36
  },
  "posts": [
   {
@@ -1374,7 +1374,13 @@
   "17887714101477669",
   "18140312203616833",
   "18071857160770667",
-  "18074022818565642"
+  "18074022818565642",
+  "17956937409254006",
+  "18079667888415707",
+  "17946733383342169",
+  "17959543767231265",
+  "18446408545135062",
+  "17894599773424700"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1507,44 +1513,19 @@
   "9160f129f3": 1,
   "7535b0fd73": 1,
   "601fbb1f44": 1,
-  "e8b8402afd": 1,
+  "e8b8402afd": 2,
   "cdaacb9a40": 1,
   "6516bbb104": 1,
   "1eb4ad9c86": 1,
-  "dc05debfd4": 1
+  "dc05debfd4": 1,
+  "65e7b03cde": 1,
+  "e54decfa12": 1,
+  "b0372194e7": 1,
+  "9352055ad7": 1,
+  "973fc007ec": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "esse aí prende a atenção de qualquer um por horas mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perto do trabalho ganha muita hora de vida de volta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "colocar o pó direto na boca é um atalho bem ousado para a cafeína kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pior que a linha entre café e xarope já ficou bem invisível mesmo kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "kkkkkkkkkkkkkkk o rir foi ótimo",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "medo de descobrir que eu só gosto de xarope mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "pelo menos a xarope de manhã já vem com atestado de doçura kkk",
    "p": "concorda",
@@ -1664,6 +1645,36 @@
    "t": "justo, melhor remediar o paladar cedo do que sofrer kkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "filtro de gramática e carinho é um bom resumo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "confesso que o resultado costuma ser melhor do que a nossa própria criatividade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "respeito a firmeza, melhor não arriscar a máquina escrever errado",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pesado mas respeito a sinceridade",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "mantém a tradição da mensagem autêntica então",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "simplesmente o chatgpt fazendo o meio de campo amoroso kkkkkkk",
+   "p": "concorda",
+   "r": 3
   }
  ],
  "minhas_respostas": {
