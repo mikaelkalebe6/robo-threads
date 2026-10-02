@@ -23,9 +23,10 @@
    "15:43",
    "16:28",
    "17:09",
-   "19:24"
+   "19:24",
+   "20:21"
   ],
-  "respostas": 103,
+  "respostas": 104,
   "escondidos": 1
  },
  "posts": [
@@ -663,6 +664,14 @@
    "texto": "DÚVIDA SINCERA: casa pequena pertinho do trabalho ou casa grande longe de tudo? Cada escolha tem seu preço na vida. Eu acabo preferindo a praticidade, mas sei que tem gente que valoriza o espaço. E você, qual sacrifica?",
    "quando": "2026-10-01T19:37:09.159244-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "17900115993606030",
+   "insp": "a43cbb8320",
+   "link": "",
+   "texto": "SEJAM SINCEROS: eu peço comida achando que vou devorar tudo, espero uma hora e quando chega parece que a fome evaporou. Mais alguém é assim?",
+   "quando": "2026-10-01T20:37:10.342510-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1179,7 +1188,8 @@
   "18460888438139835",
   "18130838905688739",
   "18080322050707714",
-  "18028067162911169"
+  "18028067162911169",
+  "18115151351326888"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1224,7 +1234,8 @@
   "703d75806efb2fa09b8e54812fd5cc4a",
   "da316a38e4628247a7aa4df308aa62b5",
   "e36dec1aaa40bbd4d0eae84d297e7c76",
-  "01b2a84c8e0b5e54e4bc80201dcb24eb"
+  "01b2a84c8e0b5e54e4bc80201dcb24eb",
+  "5651b71a0d38a883350d04fbd562b94c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1269,7 +1280,8 @@
   "cfb5d252d5": 1790885244.5991204,
   "ae1c8a29b8": 1790887047.4568858,
   "40d9bc7aa4": 1790890644.6638198,
-  "f31593e501": 1790897845.9699235
+  "f31593e501": 1790897845.9699235,
+  "a43cbb8320": 1790901451.134189
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1375,15 +1387,11 @@
   "lsdacosta88": 1,
   "n.a.sk8": 1,
   "nataliazablonsk": 1,
-  "alinesaraiva.psique": 1
+  "alinesaraiva.psique": 1,
+  "moraescatita": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "exato, uma linha tênue que a gente aprende apanhando",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "parece absurdo até acontecer com você",
    "p": "ressalva",
@@ -1528,6 +1536,11 @@
    "t": "essa do julgamento é covardia pura com o nosso emocional",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "um bom dia bem dito já desmonta a gente inteira kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "exemplos_kalebe": [
