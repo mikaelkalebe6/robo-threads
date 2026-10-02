@@ -23,7 +23,7 @@
    "09:41",
    "11:00"
   ],
-  "respostas": 25
+  "respostas": 29
  },
  "posts": [
   {
@@ -1360,7 +1360,11 @@
   "17958501342252750",
   "17960205582233062",
   "18135788788629383",
-  "18076790807406660"
+  "18076790807406660",
+  "17927300703179776",
+  "17887714101477669",
+  "18140312203616833",
+  "18071857160770667"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1490,30 +1494,14 @@
   "1084d160f2": 1,
   "9160f129f3": 1,
   "7535b0fd73": 1,
-  "601fbb1f44": 1
+  "601fbb1f44": 1,
+  "e8b8402afd": 1,
+  "cdaacb9a40": 1,
+  "6516bbb104": 1,
+  "1eb4ad9c86": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "paciência zero é o resumo da vida moderna mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nossa canal sem IA contando causo antigo já entrou na minha lista",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "vídeos longos assim exigem uma produção muito boa para segurar a gente até o final",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ficar na abstinência quando acaba o vídeo é terrível kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "verdade, esse silêncio da madrugada tem uma paz que de dia simplesmente não existe kkkk",
    "p": "concorda",
@@ -1641,6 +1629,26 @@
   },
   {
    "t": "feijão com arroz já é a base de tudo, o café com açúcar é só o bônus",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, o churrasco hoje em dia tá exigindo planejamento de evento corporativo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem junta os dois sai ganhando e ainda economiza na fisioterapia kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pelo menos a doceira interna já foi ativada logo cedo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o processo é longo mas uma hora o paladar acostuma",
    "p": "concorda",
    "r": 0
   }
