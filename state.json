@@ -17,7 +17,9 @@
    "20:41",
    "21:45"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:01"
+  ],
   "respostas": 2
  },
  "posts": [
@@ -770,6 +772,14 @@
     "shares": 0,
     "em": "2026-10-02"
    }
+  },
+  {
+   "id": "18096193091431069",
+   "insp": "f9515d2675",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: quem toma café com açúcar realmente sente o gosto do café ou só quer água com xarope quente de manhã.",
+   "quando": "2026-10-02T08:07:09.600020-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1346,7 +1356,8 @@
   "e36dec1aaa40bbd4d0eae84d297e7c76",
   "01b2a84c8e0b5e54e4bc80201dcb24eb",
   "5651b71a0d38a883350d04fbd562b94c",
-  "3fd85ccaf69d5eb90b85a56ed7c28476"
+  "3fd85ccaf69d5eb90b85a56ed7c28476",
+  "4a8b93b5e8eae01b5f7d81900cf5b85a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1393,7 +1404,8 @@
   "40d9bc7aa4": 1790890644.6638198,
   "f31593e501": 1790897845.9699235,
   "a43cbb8320": 1790901451.134189,
-  "02a5d6ab73": 1790905052.903709
+  "02a5d6ab73": 1790905052.903709,
+  "f9515d2675": 1790942852.9562535
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
