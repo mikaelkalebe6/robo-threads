@@ -19,9 +19,10 @@
   ],
   "feitos": [
    "08:01",
-   "08:51"
+   "08:51",
+   "09:41"
   ],
-  "respostas": 17
+  "respostas": 20
  },
  "posts": [
   {
@@ -789,6 +790,14 @@
    "texto": "DÚVIDA SINCERA: vale a pena passar anos estudando teoria na faculdade ou o caminho curto direto pra prática traz resultado mais rápido? Vejo tanta gente mudando de rota que fico pensando se o diploma ainda pesa tanto.",
    "quando": "2026-10-02T09:07:08.399914-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18106520135190725",
+   "insp": "75f882533b",
+   "link": "",
+   "texto": "PESSOAS QUE leram um livro só na escola e hoje dão lição de moral na internet, como vocês conseguem essa paz de espírito 📚",
+   "quando": "2026-10-02T10:07:10.911507-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1334,7 +1343,10 @@
   "18096349094644462",
   "18179931772441774",
   "18117017579326754",
-  "18132278650811159"
+  "18132278650811159",
+  "17921713809443211",
+  "17987441352059361",
+  "18020093786946745"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1383,7 +1395,8 @@
   "5651b71a0d38a883350d04fbd562b94c",
   "3fd85ccaf69d5eb90b85a56ed7c28476",
   "4a8b93b5e8eae01b5f7d81900cf5b85a",
-  "c1963d62dfb50c95350db59ca76cc497"
+  "c1963d62dfb50c95350db59ca76cc497",
+  "4d67ff5e82659811220849a019cbe302"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1432,7 +1445,8 @@
   "a43cbb8320": 1790901451.134189,
   "02a5d6ab73": 1790905052.903709,
   "f9515d2675": 1790942852.9562535,
-  "25cf5fb448": 1790946451.19922
+  "25cf5fb448": 1790946451.19922,
+  "75f882533b": 1790950055.3061569
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1452,25 +1466,13 @@
   "eb8e874c87": 1,
   "15c6f7441a": 1,
   "cc6d1c46c8": 1,
-  "fa445de76a": 1
+  "fa445de76a": 1,
+  "73558d0d69": 1,
+  "d43e8ca20d": 1,
+  "e14af3d036": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "economia de tempo no trânsito vale demais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perto do trabalho qualquer lugar vira luxo mesmo kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa do julgamento é covardia pura com o nosso emocional",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "um bom dia bem dito já desmonta a gente inteira kkk",
    "p": "concorda",
@@ -1605,6 +1607,21 @@
    "t": "entre carvão e xarope o prejuízo é garantido de qualquer forma",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "justo, nesse caso eu prefiro garantir que o teto não vai cair na minha cabeça kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "terra adoçada com xarope é um belo resumo de como a gente começa o dia kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pelo menos a dose de doce já garante o combustível da resistência kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
