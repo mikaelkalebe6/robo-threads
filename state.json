@@ -28,7 +28,7 @@
    "14:26",
    "15:40"
   ],
-  "respostas": 66
+  "respostas": 69
  },
  "posts": [
   {
@@ -1447,7 +1447,10 @@
   "18137654890558429",
   "18131104306705291",
   "18170551183404643",
-  "17939074941370016"
+  "17939074941370016",
+  "18489958231109365",
+  "18033269336670357",
+  "18141062593721911"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1624,25 +1627,13 @@
   "801b208447": 1,
   "9e1cc41f4f": 1,
   "cc59b78d35": 1,
-  "f60600ebdf": 1
+  "f60600ebdf": 1,
+  "26cbc4ac1e": 1,
+  "020ef9f07d": 1,
+  "0092ab61dd": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "usar a tecnologia como roteirista de comédia é uma ótima saída",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "foi direto para o setor de TI e esqueceu o crush no churrasco",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "coragem pra encarar o campo até o apito final kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "churrasco depois é a recompensa oficial por ter corrido atrás da bola",
    "p": "concorda",
@@ -1775,6 +1766,21 @@
   },
   {
    "t": "para os mais fiéis a tradição continua firme e forte",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece que todo mundo tem pitaco na nossa rotina né",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "com vinte e oito anos a gente já assina o contrato com a quiropraxia kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "economia de paladar e de xarope por aí",
    "p": "concorda",
    "r": 0
   }
