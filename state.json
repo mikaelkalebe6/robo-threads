@@ -18,9 +18,10 @@
    "21:45"
   ],
   "feitos": [
-   "08:01"
+   "08:01",
+   "08:51"
   ],
-  "respostas": 8
+  "respostas": 11
  },
  "posts": [
   {
@@ -780,6 +781,14 @@
    "texto": "DÚVIDA SINCERA: quem toma café com açúcar realmente sente o gosto do café ou só quer água com xarope quente de manhã.",
    "quando": "2026-10-02T08:07:09.600020-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18115517300116532",
+   "insp": "25cf5fb448",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: vale a pena passar anos estudando teoria na faculdade ou o caminho curto direto pra prática traz resultado mais rápido? Vejo tanta gente mudando de rota que fico pensando se o diploma ainda pesa tanto.",
+   "quando": "2026-10-02T09:07:08.399914-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1316,7 +1325,10 @@
   "18086442401299357",
   "18118591900981852",
   "17970741225177884",
-  "17992079112024661"
+  "17992079112024661",
+  "18112818278124124",
+  "18486837418108322",
+  "17921683617223015"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1364,7 +1376,8 @@
   "01b2a84c8e0b5e54e4bc80201dcb24eb",
   "5651b71a0d38a883350d04fbd562b94c",
   "3fd85ccaf69d5eb90b85a56ed7c28476",
-  "4a8b93b5e8eae01b5f7d81900cf5b85a"
+  "4a8b93b5e8eae01b5f7d81900cf5b85a",
+  "c1963d62dfb50c95350db59ca76cc497"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1412,7 +1425,8 @@
   "f31593e501": 1790897845.9699235,
   "a43cbb8320": 1790901451.134189,
   "02a5d6ab73": 1790905052.903709,
-  "f9515d2675": 1790942852.9562535
+  "f9515d2675": 1790942852.9562535,
+  "25cf5fb448": 1790946451.19922
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1423,25 +1437,13 @@
   "322756319a": 2,
   "c7c01cbd13": 1,
   "849f36dd75": 1,
-  "cfc994bb78": 1
+  "cfc994bb78": 1,
+  "c8ca6c32a4": 1,
+  "f47c0c6d0e": 1,
+  "4c52992342": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "faxina recente com chuva é teste para qualquer relacionamento kkkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nossa de divórcio por causa de calendário da semana foi longe demais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "promessa de divisão de tarefas dura exatamente até o primeiro boleto kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "briga de gato dentro ou fora de casa tem potencial pra virar mini novela kkkk",
    "p": "concorda",
@@ -1576,6 +1578,21 @@
    "t": "ódio interno às seis da manhã é o ingrediente secreto que falta na minha xícara kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "respeito demais quem tem essa disciplina pela manhã",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "definitivamente encarado como combustivel industrial de segunda a sexta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, contra a amargura da vida todo mundo apela para o doce mesmo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
