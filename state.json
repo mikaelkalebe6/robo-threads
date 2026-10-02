@@ -22,7 +22,7 @@
    "08:51",
    "09:41"
   ],
-  "respostas": 20
+  "respostas": 23
  },
  "posts": [
   {
@@ -1346,7 +1346,10 @@
   "18132278650811159",
   "17921713809443211",
   "17987441352059361",
-  "18020093786946745"
+  "18020093786946745",
+  "18372662035215008",
+  "17958501342252750",
+  "17960205582233062"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1469,25 +1472,13 @@
   "fa445de76a": 1,
   "73558d0d69": 1,
   "d43e8ca20d": 1,
-  "e14af3d036": 1
+  "e14af3d036": 1,
+  "7a6fe87a21": 1,
+  "1084d160f2": 1,
+  "9160f129f3": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "um bom dia bem dito já desmonta a gente inteira kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "nossa ter a prova viva disso é um privilégio raro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pizza e sushi realmente têm um poder mágico de barrar essa evaporação da fome kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "o que é isso?",
    "p": "neutra",
@@ -1622,6 +1613,21 @@
    "t": "pelo menos a dose de doce já garante o combustível da resistência kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "escola nenhuma prepara a gente para os boletos que chegam depois",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, o gosto do grão fica firme e forte por baixo de tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "setecentos mililitros por dia já entra na categoria de combustível industrial pesado",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
