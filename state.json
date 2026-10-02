@@ -25,9 +25,10 @@
    "11:50",
    "12:38",
    "13:40",
-   "14:26"
+   "14:26",
+   "15:40"
   ],
-  "respostas": 64
+  "respostas": 66
  },
  "posts": [
   {
@@ -843,6 +844,14 @@
    "texto": "DÚVIDA SINCERA: em que momento da vida adulta a gente começa a achar normal ter dor nas costas só por ter dormido",
    "quando": "2026-10-02T14:37:09.071619-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17968067577176906",
+   "insp": "a537fed31d",
+   "link": "",
+   "texto": "Quem mais aqui já foi julgado pela forma que escolheu pra ganhar a vida? Pelo visto pagar os próprios boletos em paz nunca é o suficiente.",
+   "quando": "2026-10-02T16:07:09.012772-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1436,7 +1445,9 @@
   "18078108065391157",
   "18497020432102751",
   "18137654890558429",
-  "18131104306705291"
+  "18131104306705291",
+  "18170551183404643",
+  "17939074941370016"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1491,7 +1502,8 @@
   "5e1b2621b6e16d1ff018d7fde8a6b029",
   "15967efbb3d1a778425452824c065491",
   "a26a0aca7ce81d8afee83190b02ab2f7",
-  "3bf2efb3b474b9e75ef236a60169b084"
+  "3bf2efb3b474b9e75ef236a60169b084",
+  "b2633c9210e1db50cf889c51c8b9de7a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1546,7 +1558,8 @@
   "e50a061e21": 1790957272.388927,
   "ff377f4a44": 1790960890.434097,
   "e66fb581d1": 1790964490.8074522,
-  "9c5110941a": 1790966245.2623403
+  "9c5110941a": 1790966245.2623403,
+  "a537fed31d": 1790971649.0084443
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1609,20 +1622,12 @@
   "4083f0d608": 1,
   "38cf0bc797": 1,
   "801b208447": 1,
-  "9e1cc41f4f": 1
+  "9e1cc41f4f": 1,
+  "cc59b78d35": 1,
+  "f60600ebdf": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "mantém a tradição da mensagem autêntica então",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "simplesmente o chatgpt fazendo o meio de campo amoroso kkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
   {
    "t": "usar a tecnologia como roteirista de comédia é uma ótima saída",
    "p": "concorda",
@@ -1760,6 +1765,16 @@
   },
   {
    "t": "churrasco depois do futebol é a recompensa oficial por continuar vivo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sortuda demais por escapar dessa fase ainda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "para os mais fiéis a tradição continua firme e forte",
    "p": "concorda",
    "r": 0
   }
