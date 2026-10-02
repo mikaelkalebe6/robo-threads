@@ -12,9 +12,8 @@ SAIDA = os.path.join(AQUI, "inspiracoes_lidas.md")
 SAIDA_MELHORIAS = os.path.join(AQUI, "melhorias_lidas.md")  # links marcados "Melhoria" no app: ideias para o projeto, nao post
 KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 MODELO = os.environ.get("GEMINI_MODEL", "").strip() or "gemini-flash-latest"
-PLANILHA = os.environ.get("INSPIRACOES_URL", "").strip() or \
-    "https://docs.google.com/spreadsheets/d/1KTkNtlksA4sWBh5Usfwc9EsRELcoGaBXXVOEEo9Km-k/export?format=csv&gid=1716591096"
-APP = os.environ.get("APPSHEET_APP", "").strip() or "PainelThreads-485832426"
+PLANILHA = os.environ.get("INSPIRACOES_URL", "").strip()  # Variable do GitHub (o link nao fica no codigo)
+APP = os.environ.get("APPSHEET_APP", "").strip()  # Variable do GitHub
 TABELA = os.environ.get("APPSHEET_TABELA_INSP", "").strip() or "Untitled 2"
 POR_RODADA = int(os.environ.get("INSPIRACOES_POR_RODADA", "").strip() or 12)  # le tudo o que der em cada leitura
 HORAS_ENTRE = float(os.environ.get("INSPIRACOES_HORAS", "").strip() or 6)  # poucas leituras por dia (8h, 14h, 20h)
@@ -63,10 +62,10 @@ Responda em portugues do Brasil, sem travessoes, curto, neste formato:
 **Estrutura:** (passos do conteudo em 1 linha)
 **Por que funciona:** (1 ou 2 frases)
 **3 ganchos para o perfil:** (3 frases prontas, originais, sem copiar o conteudo)
-Observacao do Kalebe sobre esta inspiracao: {obs}
+Observacao do dono sobre esta inspiracao: {obs}
 {extra}"""
 
-PEDIDO_MELHORIA = """O Kalebe salvou este conteudo como IDEIA DE MELHORIA para o projeto dele (automacao do Threads com IA, crescimento de perfil, afiliados Shopee, uso do Claude). NAO e inspiracao de post: nao sugira ganchos.
+PEDIDO_MELHORIA = """O dono do perfil salvou este conteudo como IDEIA DE MELHORIA para o projeto dele (automacao do Threads com IA, crescimento de perfil, afiliados Shopee, uso do Claude). NAO e inspiracao de post: nao sugira ganchos.
 Responda em portugues do Brasil, sem travessoes, direto, neste formato:
 **Tipo:** (video, foto, texto, carrossel) | **Idioma original:** ...
 **Conteudo:** (se for video ou audio: transcreva a fala traduzida para portugues, no maximo 300 palavras; se for texto ou imagens: resuma tudo, inclusive o texto das imagens)
@@ -74,7 +73,7 @@ Responda em portugues do Brasil, sem travessoes, direto, neste formato:
 **Ferramentas, sites ou precos citados:** (lista curta, ou "nenhum")
 **Como aplicar no projeto:** (2 a 4 passos praticos)
 **Riscos ou custos:** (ban, seguranca, dinheiro; ou "nenhum aparente")
-Observacao do Kalebe: {obs}
+Observacao do dono: {obs}
 {extra}"""
 _PED = [PEDIDO]  # pedido em uso no item atual (post ou melhoria)
 
@@ -142,12 +141,23 @@ def meta_da_pagina(link):
     return "\n".join(final)[:3000], midia
 
 
+def instalar_ytdlp():
+    """Instala o yt-dlp so na primeira vez que precisar na rodada (python do sistema pede --user)."""
+    import subprocess, importlib.util
+    if importlib.util.find_spec("yt_dlp"):
+        return
+    base = [sys.executable, "-m", "pip", "install", "-q", "--disable-pip-version-check"]
+    r = subprocess.run(base + ["--user", "--break-system-packages", "yt-dlp"], timeout=120, capture_output=True)
+    if r.returncode:
+        subprocess.run(base + ["yt-dlp"], check=True, timeout=120, capture_output=True)
+    importlib.invalidate_caches()
+
+
 def imagens_carrossel(link):
     """Lista as imagens de todas as paginas de um carrossel (yt-dlp, sem login e sem baixar video)."""
     import subprocess
     try:
-        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "--disable-pip-version-check", "yt-dlp"],
-                       check=True, timeout=120, capture_output=True)
+        instalar_ytdlp()
         r = subprocess.run([sys.executable, "-m", "yt_dlp", "-J", "--ignore-no-formats-error", "--no-warnings", link],
                            timeout=90, capture_output=True, text=True)
         j = json.loads(r.stdout or "{}")
@@ -169,8 +179,7 @@ def baixar_video(link):
     """Baixa o video publico do link (TikTok, Instagram, Threads, Facebook...) sem login, com yt-dlp."""
     import subprocess, glob, tempfile
     try:
-        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "--disable-pip-version-check", "yt-dlp"],
-                       check=True, timeout=120, capture_output=True)
+        instalar_ytdlp()
         pasta = tempfile.mkdtemp()
         r = subprocess.run([sys.executable, "-m", "yt_dlp", "-q", "--no-playlist", "--no-warnings",
                             "--max-filesize", "%dM" % MAX_MB,
@@ -189,6 +198,8 @@ def baixar_video(link):
 
 def analisar(link, video, obs):
     obs = obs or "(nenhuma)"
+    if video and not video.lower().startswith("http") and not APP:
+        return "Falta a Variable APPSHEET_APP para abrir o arquivo enviado pelo app."
     if video:
         url = video if video.lower().startswith("http") else (
             "https://www.appsheet.com/template/gettablefileurl?appName=" + urllib.parse.quote(APP)
@@ -261,7 +272,7 @@ def gravar(caminho, cabecalho, blocos, remover=()):
     antigo = open(caminho, encoding="utf-8").read() if os.path.exists(caminho) else ""
     if not antigo and not blocos:
         return
-    corpo = antigo.replace(cabecalho, "")
+    corpo = re.sub(r"\A# [^\n]*\n+", "", antigo)  # tira o cabecalho que estiver no topo
     tira = {b.split("\n", 1)[0].split(" | ", 1)[-1] for b in list(blocos) + list(remover)}
     corpo = "\n".join(x for x in re.split(r"(?m)^(?=## )", corpo)
                       if x.strip() and x.split("\n", 1)[0].split(" | ", 1)[-1] not in tira)
@@ -271,6 +282,9 @@ def gravar(caminho, cabecalho, blocos, remover=()):
 
 def main():
     if not KEY:
+        return
+    if not PLANILHA:
+        log("Falta a Variable INSPIRACOES_URL. Leitor parado.")
         return
     agora = dt.datetime.now(TZ)
     if not (8 <= agora.hour <= 22):
@@ -288,7 +302,8 @@ def main():
         log("Nao consegui ler a planilha de inspiracoes:", str(e)[:150]); return
     if txt.lstrip().startswith("<"):
         log("Planilha de inspiracoes nao esta compartilhada como 'Qualquer pessoa com o link: Leitor'."); return
-    feitos = set(estado["feitos"])
+    ordem = list(estado["feitos"])
+    feitos = set(ordem)
     novos = []
     for l in csv.DictReader(io.StringIO(txt)):
         l = {(k or "").strip().lower(): (v or "").strip() for k, v in l.items()}
@@ -312,27 +327,28 @@ def main():
         _PED[0] = PEDIDO_MELHORIA if melhoria else PEDIDO
         try:
             if texto and not video and not link:
-                analise = gemini([{"text": _PED[0].format(obs=obs or "(nenhuma)", extra="Texto enviado pelo Kalebe:\n" + texto)}])
+                analise = gemini([{"text": _PED[0].format(obs=obs or "(nenhuma)", extra="Texto enviado pelo dono:\n" + texto)}])
             else:
                 analise = analisar(link, video, obs)
                 if texto:
-                    analise += "\n\n**Texto colado pelo Kalebe:** " + texto[:500]
+                    analise += "\n\n**Texto colado pelo dono:** " + texto[:500]
         except Exception as e:
             msg = str(e)
             if any(c in msg for c in ("429", "503", "500", "timed out")):
                 log("Gemini indisponivel agora, tento de novo em 1 hora:", msg[:100]); parou = True; break
             analise = "Falhou ao analisar: " + msg[:200]
         feitos.add(chave)
+        ordem.append(chave)
         (blocos_m if melhoria else blocos).append(
             f"## {l.get('data', '') or agora.strftime('%d/%m/%Y')} | {link or video or 'texto'}\n{analise}\n")
         log("Lida (melhoria):" if melhoria else "Lida:", link or video or "texto")
     if blocos:
         gravar(SAIDA, "# Inspiracoes lidas pelo Gemini (mais novas primeiro)\n\n", blocos)
     if blocos_m:
-        gravar(SAIDA_MELHORIAS, "# Ideias e melhorias salvas pelo Kalebe, lidas pelo Gemini (para o Claude; mais novas primeiro)\n\n", blocos_m)
+        gravar(SAIDA_MELHORIAS, "# Ideias e melhorias salvas pelo dono, lidas pelo Gemini (para o Claude; mais novas primeiro)\n\n", blocos_m)
         # item reclassificado como melhoria sai do arquivo de inspiracoes de post
         gravar(SAIDA, "# Inspiracoes lidas pelo Gemini (mais novas primeiro)\n\n", [], remover=blocos_m)
-    estado["feitos"] = sorted(feitos)[-2000:]
+    estado["feitos"] = ordem[-2000:]  # mais antigos saem primeiro
     estado["proxima_leitura"] = time.time() + 3600 if parou else (0 if sobrou else inicio + HORAS_ENTRE * 3600)
     json.dump(estado, open(ESTADO, "w"))
 
