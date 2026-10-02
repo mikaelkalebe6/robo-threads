@@ -24,9 +24,10 @@
    "11:00",
    "11:50",
    "12:38",
-   "13:40"
+   "13:40",
+   "14:26"
   ],
-  "respostas": 52
+  "respostas": 57
  },
  "posts": [
   {
@@ -834,6 +835,14 @@
    "texto": "DÚVIDA SINCERA: como vocês chamam aquele pão de padaria que é crocante por fora e macio por dentro? Em cada lugar que vou é um nome diferente e eu fico perdida.",
    "quando": "2026-10-02T14:07:09.142633-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17909645082310635",
+   "insp": "9c5110941a",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: em que momento da vida adulta a gente começa a achar normal ter dor nas costas só por ter dormido",
+   "quando": "2026-10-02T14:37:09.071619-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1414,7 +1423,12 @@
   "17975433591129842",
   "17960311397997984",
   "18119048257845220",
-  "18635221336028655"
+  "18635221336028655",
+  "17911330482510430",
+  "18431916274180232",
+  "18434773729145191",
+  "18090308231216650",
+  "18639127642043813"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1468,7 +1482,8 @@
   "c699eb403b6f63f53fad273c0d532081",
   "5e1b2621b6e16d1ff018d7fde8a6b029",
   "15967efbb3d1a778425452824c065491",
-  "a26a0aca7ce81d8afee83190b02ab2f7"
+  "a26a0aca7ce81d8afee83190b02ab2f7",
+  "3bf2efb3b474b9e75ef236a60169b084"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1522,7 +1537,8 @@
   "0de75da121": 1790953680.934701,
   "e50a061e21": 1790957272.388927,
   "ff377f4a44": 1790960890.434097,
-  "e66fb581d1": 1790964490.8074522
+  "e66fb581d1": 1790964490.8074522,
+  "9c5110941a": 1790966245.2623403
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1573,35 +1589,15 @@
   "13860d968a": 1,
   "d8a9b0f5c4": 2,
   "4774d1e432": 1,
-  "8251ec041b": 1
+  "8251ec041b": 1,
+  "331135dc84": 1,
+  "a092d61fd6": 1,
+  "4a37576ba0": 1,
+  "9c526ecd38": 1,
+  "25763406df": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "setecentos mililitros por dia já entra na categoria de combustível industrial pesado",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "paladar acostumado realmente muda tudo quando a gente comeca a provar outros grãos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "feijão com arroz já é a base de tudo, o café com açúcar é só o bônus",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, o churrasco hoje em dia tá exigindo planejamento de evento corporativo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem junta os dois sai ganhando e ainda economiza na fisioterapia kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "pelo menos a doceira interna já foi ativada logo cedo",
    "p": "concorda",
@@ -1725,6 +1721,31 @@
   {
    "t": "pelo menos a cor fica parecida com café",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse é clássico e não tem erro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse nome aí sempre rende um debate forte kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "agora fiquei curiosa para saber qual é a sua versão desse mistério",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sorte a sua por manter a sanidade intacta",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "concordo que a sinceridade faz toda a diferenca, só achei curioso até onde a tecnologia entra nas conversas",
+   "p": "ressalva",
    "r": 0
   }
  ],
