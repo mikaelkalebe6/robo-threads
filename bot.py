@@ -174,11 +174,20 @@ def http(method, url, params=None, body=None, headers=None, tentativas=3, timeou
     raise ultimo
 
 
+_TOKEN_NA_URL = [False]  # seguranca: o token vai no cabecalho (nunca aparece em endereco); so volta para a URL se a Meta recusar
+
+
 def threads(method, caminho, **params):
-    params["access_token"] = TOKEN
-    if method == "GET":
-        return http("GET", f"{API}/{caminho}", params=params)
-    return http("POST", f"{API}/{caminho}", params=params)
+    if _TOKEN_NA_URL[0]:
+        return http(method, f"{API}/{caminho}", params={**params, "access_token": TOKEN})
+    try:
+        return http(method, f"{API}/{caminho}", params=params, headers={"Authorization": f"Bearer {TOKEN}"})
+    except RuntimeError as e:
+        if "access token" not in str(e).lower() and '"code":190' not in str(e).replace(" ", ""):
+            raise
+        _TOKEN_NA_URL[0] = True
+        log("Meta nao aceitou o token no cabecalho; usando o jeito antigo nesta rodada.")
+        return http(method, f"{API}/{caminho}", params={**params, "access_token": TOKEN})
 
 
 # ---------------------------------------------------------------- planilha
