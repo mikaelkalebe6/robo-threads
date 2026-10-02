@@ -281,12 +281,11 @@ def _avisar_falha_gemini(modelo, msg):
 def gemini(prompt, json_mode=False, busca=False, imagens=None, modelos=None):
     if not GEMINI_KEY:
         return None
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-    cfg = {"temperature": 1.0}
+    geracao = {"temperature": 1.0}
     if json_mode:
-        cfg["responseMimeType"] = "application/json"
+        geracao["responseMimeType"] = "application/json"
     partes = [{"text": prompt}] + [{"inline_data": {"mime_type": im["mime"], "data": im["b64"]}} for im in (imagens or [])]
-    corpo = {"contents": [{"parts": partes}], "generationConfig": cfg}
+    corpo = {"contents": [{"parts": partes}], "generationConfig": geracao}
     if busca:
         corpo["tools"] = [{"google_search": {}}]
     r, ultimo = None, None

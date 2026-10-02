@@ -18,10 +18,8 @@ jobs:
     timeout-minutes: 8   # trava de seguranca: rodada normal leva 1 a 3 min
     steps:
       - uses: actions/checkout@v4
-      # setup-python fica: o leitor de inspiracoes instala o yt-dlp com pip (o python do sistema bloqueia pip)
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+      # sem setup-python: usa o python3 que ja vem no servidor (economiza segundos em toda rodada).
+      # o leitor de inspiracoes instala o yt-dlp com pip --user quando precisa.
       - name: Rodar robo
         timeout-minutes: 5
         env:
@@ -58,7 +56,7 @@ jobs:
           CHANCE_POST_RESERVA: ${{ vars.CHANCE_POST_RESERVA }}
           TESTE_RESERVA_ATE: ${{ vars.TESTE_RESERVA_ATE }}
           GEMINI_MODEL_RESPOSTA: ${{ vars.GEMINI_MODEL_RESPOSTA }}
-        run: python bot.py
+        run: python3 bot.py
       - name: Renovar token do Threads (automatico)
         if: always()
         continue-on-error: true
@@ -73,7 +71,7 @@ jobs:
           ULT=$(cat token_renovado_em.txt 2>/dev/null || echo 0)
           AGORA=$(date +%s)
           if [ $((AGORA - ULT)) -lt $((DIAS * 86400)) ]; then echo "Token do Threads renovado ha menos de $DIAS dias."; exit 0; fi
-          if python renovar_token.py && gh secret set THREADS_TOKEN --repo "${{ github.repository }}" < novo_token.txt; then
+          if python3 renovar_token.py && gh secret set THREADS_TOKEN --repo "${{ github.repository }}" < novo_token.txt; then
             echo "$AGORA" > token_renovado_em.txt
             echo "Token do Threads renovado e salvo no GitHub."
           else
@@ -89,7 +87,7 @@ jobs:
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL_INSPIRACOES || 'gemini-flash-lite-latest' }}
           INSPIRACOES_URL: ${{ vars.INSPIRACOES_URL }}
           APPSHEET_APP: ${{ vars.APPSHEET_APP }}
-        run: python inspiracoes.py
+        run: python3 inspiracoes.py
       - name: Salvar memoria do robo
         if: always()
         run: |
