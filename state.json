@@ -20,9 +20,10 @@
   "feitos": [
    "08:01",
    "08:51",
-   "09:41"
+   "09:41",
+   "11:00"
   ],
-  "respostas": 23
+  "respostas": 25
  },
  "posts": [
   {
@@ -798,6 +799,14 @@
    "texto": "PESSOAS QUE leram um livro só na escola e hoje dão lição de moral na internet, como vocês conseguem essa paz de espírito 📚",
    "quando": "2026-10-02T10:07:10.911507-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17977682021918313",
+   "insp": "0de75da121",
+   "link": "",
+   "texto": "Quem mais aqui já passou da fase de se quebrar no futebol de domingo e prefere mil vezes o churrasco? Ou a pelada ainda é sagrada?",
+   "quando": "2026-10-02T11:07:09.550320-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1349,7 +1358,9 @@
   "18020093786946745",
   "18372662035215008",
   "17958501342252750",
-  "17960205582233062"
+  "17960205582233062",
+  "18135788788629383",
+  "18076790807406660"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1399,7 +1410,8 @@
   "3fd85ccaf69d5eb90b85a56ed7c28476",
   "4a8b93b5e8eae01b5f7d81900cf5b85a",
   "c1963d62dfb50c95350db59ca76cc497",
-  "4d67ff5e82659811220849a019cbe302"
+  "4d67ff5e82659811220849a019cbe302",
+  "c699eb403b6f63f53fad273c0d532081"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1449,7 +1461,8 @@
   "02a5d6ab73": 1790905052.903709,
   "f9515d2675": 1790942852.9562535,
   "25cf5fb448": 1790946451.19922,
-  "75f882533b": 1790950055.3061569
+  "75f882533b": 1790950055.3061569,
+  "0de75da121": 1790953680.934701
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1475,20 +1488,12 @@
   "e14af3d036": 1,
   "7a6fe87a21": 1,
   "1084d160f2": 1,
-  "9160f129f3": 1
+  "9160f129f3": 1,
+  "7535b0fd73": 1,
+  "601fbb1f44": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "o que é isso?",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "canal q foge de marketing pesado já ganha muitos pontos comigo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "paciência zero é o resumo da vida moderna mesmo",
    "p": "concorda",
@@ -1626,6 +1631,16 @@
   },
   {
    "t": "setecentos mililitros por dia já entra na categoria de combustível industrial pesado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paladar acostumado realmente muda tudo quando a gente comeca a provar outros grãos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "feijão com arroz já é a base de tudo, o café com açúcar é só o bônus",
    "p": "concorda",
    "r": 0
   }
