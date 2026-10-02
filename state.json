@@ -27,7 +27,7 @@
    "20:21",
    "21:21"
   ],
-  "respostas": 111,
+  "respostas": 113,
   "escondidos": 1
  },
  "posts": [
@@ -1206,7 +1206,9 @@
   "18623076211029941",
   "18013173689967515",
   "18140697970615392",
-  "17978102490135084"
+  "17978102490135084",
+  "17925167250423311",
+  "17905718322594514"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1414,20 +1416,12 @@
   "dliplay": 1,
   "cleosollec": 1,
   "lucas_samanueska": 1,
-  "beatrizsrodrig": 1
+  "beatrizsrodrig": 1,
+  "asileana_": 1,
+  "olucaodesign": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "justo, eu teria a mesma cara de dúvida olhando para o saldo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "organizar a demanda para trabalhar com essa tranquilidade à noite muda tudo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse é clássico demais, impossível não lembrar da musiquinha",
    "p": "concorda",
@@ -1567,6 +1561,16 @@
    "t": "vídeos longos assim exigem uma produção muito boa para segurar a gente até o final",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "ficar na abstinência quando acaba o vídeo é terrível kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "verdade, esse silêncio da madrugada tem uma paz que de dia simplesmente não existe kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "exemplos_kalebe": [
