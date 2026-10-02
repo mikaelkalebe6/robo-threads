@@ -27,9 +27,10 @@
    "13:40",
    "14:26",
    "15:40",
-   "17:14"
+   "17:14",
+   "18:09"
   ],
-  "respostas": 76
+  "respostas": 82
  },
  "posts": [
   {
@@ -861,6 +862,14 @@
    "texto": "SEM MENTIR: qual o carro dos seus sonhos e qual é o que tá na sua garagem hoje?\n\nA distância entre o que a gente queria acelerar e o boleto do IPVA que a gente aguenta pagar costuma ser de uns 200 mil reais.",
    "quando": "2026-10-02T17:37:09.006249-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18121402547515693",
+   "insp": "8b6d90e25d",
+   "link": "",
+   "texto": "SEJAM SINCEROS: \nUma colega pediu aumento e o chefe apareceu no dia seguinte com uma plantinha de presente. \nVocês cuidavam da planta no puro ódio ou já começavam a mandar currículo ali mesmo?",
+   "quando": "2026-10-02T18:37:08.734576-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1467,7 +1476,13 @@
   "18111929075163338",
   "18447754288133781",
   "18072982331777040",
-  "17939803329381998"
+  "17939803329381998",
+  "18143931610604792",
+  "17991053867851702",
+  "18094400663553992",
+  "18107476181194693",
+  "18123091171926691",
+  "17908288755476967"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1524,7 +1539,8 @@
   "a26a0aca7ce81d8afee83190b02ab2f7",
   "3bf2efb3b474b9e75ef236a60169b084",
   "b2633c9210e1db50cf889c51c8b9de7a",
-  "931a09b1f0d6432e16ed309f23560bf7"
+  "931a09b1f0d6432e16ed309f23560bf7",
+  "4ad75506bd6a1935940e270d8e60914f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1581,7 +1597,8 @@
   "e66fb581d1": 1790964490.8074522,
   "9c5110941a": 1790966245.2623403,
   "a537fed31d": 1790971649.0084443,
-  "170d280425": 1790977043.7117248
+  "170d280425": 1790977043.7117248,
+  "8b6d90e25d": 1790980648.7524374
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1656,40 +1673,16 @@
   "82d1808bee": 1,
   "3e3b798224": 1,
   "c6ae75c242": 1,
-  "b9b6c4d7c3": 1
+  "b9b6c4d7c3": 1,
+  "7e225653b4": 1,
+  "9ca0aecac3": 1,
+  "8ee72e279d": 1,
+  "1233dfafd7": 1,
+  "226e826c12": 1,
+  "a9f54577e9": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "certa, é só água quente com gosto de carboidrato kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "daqui a pouco o robô vai até namorar no nosso lugar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, no presencial o roteiro falha e tem que improvisar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse segundo sentido aí costuma dar mais falta que o primeiro kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "converso muito sobre isso e vejo que construir repertório muda tudo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos a cor fica parecida com café",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse é clássico e não tem erro",
    "p": "concorda",
@@ -1809,6 +1802,36 @@
    "t": "corolla 2005 emprestado já é patrimônio histórico da família kkkkkkk",
    "p": "concorda",
    "r": 4
+  },
+  {
+   "t": "o salto de estilo foi forte mas o Lexus já tá muito bem na fita kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o corolla resolve a vida mas a mercedes é covardia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse fit entrega tudo e ainda sobra espaço pro resto da vida",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "zerou o jogo da infância com sucesso 🙏",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sair educando a faixa da esquerda com uma Blazer v6 é estilo de vida puro kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "esse pequeno detalhe de quatrocentos mil reais é só um detalhe irrelevante kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
