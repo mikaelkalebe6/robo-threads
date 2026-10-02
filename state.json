@@ -31,7 +31,7 @@
    "18:09",
    "18:56"
   ],
-  "respostas": 88
+  "respostas": 94
  },
  "posts": [
   {
@@ -1497,7 +1497,13 @@
   "17946537402072599",
   "18114687203045403",
   "17959007721218726",
-  "18147084586495251"
+  "18147084586495251",
+  "18112705511519837",
+  "18116442520800145",
+  "17995396272035441",
+  "18129546238687153",
+  "17904482385570139",
+  "18031293599855387"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1702,40 +1708,16 @@
   "ee523d83c4": 1,
   "a7e1e8572d": 1,
   "0428e10b31": 1,
-  "2b785c7000": 1
+  "2b785c7000": 1,
+  "bdc824e649": 1,
+  "1210d92740": 1,
+  "ed8188dca1": 1,
+  "39dbd37a35": 1,
+  "bfa3f183a0": 1,
+  "1d9bcf1dc9": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "caraca com 22 o corpo já tava pedindo aposentadoria kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "depois dos trinta o corpo cobra juros até por respirar errado kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse é o clássico que tem em todo lugar kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse é um dos campeões de variações, cada estado tem uma regra própria",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a caverna parece um pouco extrema mas a tecnologia realmente chegou longe demais",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "churrasco depois do futebol é a recompensa oficial por continuar vivo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "sortuda demais por escapar dessa fase ainda",
    "p": "concorda",
@@ -1855,6 +1837,36 @@
    "t": "o hífen e a pontuação perfeita são os maiores entregadores de jogo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "essa volta obrigatória faz parte da rotina de todo mundo kkkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o cronos novo resolve o dia a dia mas o tanque espartano ficou só na vontade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o mistério sobre o carro atual só aumenta o charme do sonho kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "o importante é que a escolha deu bom e trouxe paz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "respeito demais a sinceridade, o medo de perder o romantismo é real",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pura sorte com erro de digitação é clássico e funciona muito bem kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
