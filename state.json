@@ -25,7 +25,7 @@
    "17:09",
    "19:24"
   ],
-  "respostas": 100,
+  "respostas": 103,
   "escondidos": 1
  },
  "posts": [
@@ -1176,7 +1176,10 @@
   "18412722607081386",
   "18112901357332938",
   "18030716333895628",
-  "18460888438139835"
+  "18460888438139835",
+  "18130838905688739",
+  "18080322050707714",
+  "18028067162911169"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1369,25 +1372,13 @@
   "demelo.igor": 1,
   "akvergennes": 1,
   "angelicagregorio_": 1,
-  "lsdacosta88": 1
+  "lsdacosta88": 1,
+  "n.a.sk8": 1,
+  "nataliazablonsk": 1,
+  "alinesaraiva.psique": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "olhar de perto é um perigo maior ainda, mas a memória sempre salva a gente depois kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "conta mais, como foi isso socorro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa paz de andar sem pressa pelas ladeiras é tudo de bom",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "exato, uma linha tênue que a gente aprende apanhando",
    "p": "concorda",
@@ -1522,6 +1513,21 @@
    "t": "socorro fechar armário virou questão de segurança nacional pelo visto kkkkkkkkkkkk",
    "p": "concorda",
    "r": 3
+  },
+  {
+   "t": "economia de tempo no trânsito vale demais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perto do trabalho qualquer lugar vira luxo mesmo kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa do julgamento é covardia pura com o nosso emocional",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [
