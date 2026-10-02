@@ -22,9 +22,10 @@
    "08:51",
    "09:41",
    "11:00",
-   "11:50"
+   "11:50",
+   "12:38"
   ],
-  "respostas": 36
+  "respostas": 41
  },
  "posts": [
   {
@@ -816,6 +817,14 @@
    "texto": "SEM MENTIR: quem aqui já usou inteligência artificial para escrever mensagem para o crush. confesso que achei engenhoso, mas fico pensando se a outra pessoa percebeu.",
    "quando": "2026-10-02T12:07:10.597748-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18097741532099173",
+   "insp": "ff377f4a44",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual foi o maior sinal de alerta que a gente inventa justificativa para ignorar no começo do namoro?",
+   "quando": "2026-10-02T13:07:10.072768-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1380,7 +1389,12 @@
   "17946733383342169",
   "17959543767231265",
   "18446408545135062",
-  "17894599773424700"
+  "17894599773424700",
+  "17884566885506337",
+  "18089021390675482",
+  "18115747603799187",
+  "18487783909109031",
+  "18117242560890200"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1432,7 +1446,8 @@
   "c1963d62dfb50c95350db59ca76cc497",
   "4d67ff5e82659811220849a019cbe302",
   "c699eb403b6f63f53fad273c0d532081",
-  "5e1b2621b6e16d1ff018d7fde8a6b029"
+  "5e1b2621b6e16d1ff018d7fde8a6b029",
+  "15967efbb3d1a778425452824c065491"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1484,7 +1499,8 @@
   "25cf5fb448": 1790946451.19922,
   "75f882533b": 1790950055.3061569,
   "0de75da121": 1790953680.934701,
-  "e50a061e21": 1790957272.388927
+  "e50a061e21": 1790957272.388927,
+  "ff377f4a44": 1790960890.434097
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1501,13 +1517,13 @@
   "4c52992342": 1,
   "3db8885dba": 1,
   "e8dc7af288": 1,
-  "eb8e874c87": 1,
+  "eb8e874c87": 2,
   "15c6f7441a": 1,
   "cc6d1c46c8": 1,
   "fa445de76a": 1,
   "73558d0d69": 1,
   "d43e8ca20d": 1,
-  "e14af3d036": 1,
+  "e14af3d036": 2,
   "7a6fe87a21": 1,
   "1084d160f2": 1,
   "9160f129f3": 1,
@@ -1522,35 +1538,13 @@
   "e54decfa12": 1,
   "b0372194e7": 1,
   "9352055ad7": 1,
-  "973fc007ec": 1
+  "973fc007ec": 1,
+  "1de4776485": 1,
+  "ef631df2b2": 1,
+  "90d5e6fc16": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos a xarope de manhã já vem com atestado de doçura kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "ódio interno às seis da manhã é o ingrediente secreto que falta na minha xícara kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "respeito demais quem tem essa disciplina pela manhã",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "definitivamente encarado como combustivel industrial de segunda a sexta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, contra a amargura da vida todo mundo apela para o doce mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "tem horas que o papel ainda abre portas que a experiencia sozinha demora muito para alcançar",
    "p": "concorda",
@@ -1675,6 +1669,31 @@
    "t": "simplesmente o chatgpt fazendo o meio de campo amoroso kkkkkkk",
    "p": "concorda",
    "r": 3
+  },
+  {
+   "t": "usar a tecnologia como roteirista de comédia é uma ótima saída",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "foi direto para o setor de TI e esqueceu o crush no churrasco",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "coragem pra encarar o campo até o apito final kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "churrasco depois é a recompensa oficial por ter corrido atrás da bola",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exato, quando a fatura chega a ilusão de escolha acaba rapidinho",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
