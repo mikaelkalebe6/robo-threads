@@ -28,9 +28,10 @@
    "14:26",
    "15:40",
    "17:14",
-   "18:09"
+   "18:09",
+   "18:56"
   ],
-  "respostas": 82
+  "respostas": 88
  },
  "posts": [
   {
@@ -870,6 +871,14 @@
    "texto": "SEJAM SINCEROS: \nUma colega pediu aumento e o chefe apareceu no dia seguinte com uma plantinha de presente. \nVocês cuidavam da planta no puro ódio ou já começavam a mandar currículo ali mesmo?",
    "quando": "2026-10-02T18:37:08.734576-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "17961301389235555",
+   "insp": "c97ba72637",
+   "link": "",
+   "texto": "SEJAM SINCEROS: você já voltou do meio do caminho só pra conferir se tinha mesmo trancado a porta?\n\nO pior é chegar lá e ver que ela tava trancada com duas voltas.",
+   "quando": "2026-10-02T19:07:07.811766-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1482,7 +1491,13 @@
   "18094400663553992",
   "18107476181194693",
   "18123091171926691",
-  "17908288755476967"
+  "17908288755476967",
+  "18130133887817513",
+  "17954420163081978",
+  "17946537402072599",
+  "18114687203045403",
+  "17959007721218726",
+  "18147084586495251"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1540,7 +1555,8 @@
   "3bf2efb3b474b9e75ef236a60169b084",
   "b2633c9210e1db50cf889c51c8b9de7a",
   "931a09b1f0d6432e16ed309f23560bf7",
-  "4ad75506bd6a1935940e270d8e60914f"
+  "4ad75506bd6a1935940e270d8e60914f",
+  "0fc9f9abec4227b4063a0dd73d0f37ba"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1598,7 +1614,8 @@
   "9c5110941a": 1790966245.2623403,
   "a537fed31d": 1790971649.0084443,
   "170d280425": 1790977043.7117248,
-  "8b6d90e25d": 1790980648.7524374
+  "8b6d90e25d": 1790980648.7524374,
+  "c97ba72637": 1790982446.0230103
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1679,40 +1696,16 @@
   "8ee72e279d": 1,
   "1233dfafd7": 1,
   "226e826c12": 1,
-  "a9f54577e9": 1
+  "a9f54577e9": 1,
+  "366f1c7be8": 1,
+  "344357b0cf": 1,
+  "ee523d83c4": 1,
+  "a7e1e8572d": 1,
+  "0428e10b31": 1,
+  "2b785c7000": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "esse é clássico e não tem erro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse nome aí sempre rende um debate forte kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "agora fiquei curiosa para saber qual é a sua versão desse mistério",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sorte a sua por manter a sanidade intacta",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "concordo que a sinceridade faz toda a diferenca, só achei curioso até onde a tecnologia entra nas conversas",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "nossa aos 22 vc já tava desbloqueando fase avançada kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "caraca com 22 o corpo já tava pedindo aposentadoria kkk",
    "p": "concorda",
@@ -1832,6 +1825,36 @@
    "t": "esse pequeno detalhe de quatrocentos mil reais é só um detalhe irrelevante kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "se for teste do chefe a gente já reprova no primeiro dia",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "primeiro carro fiel que segura a bronca de tudo é patrimônio da família",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "monza antigo tem seu valor mas o diplomata é covardia de tão bonito kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "com uma garagem dessas em casa dá vontade de passear o dia inteiro kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "quem tem passado com opala nunca esquece a saudade kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o hífen e a pontuação perfeita são os maiores entregadores de jogo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
