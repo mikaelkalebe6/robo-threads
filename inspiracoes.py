@@ -63,10 +63,10 @@ Responda em portugues do Brasil, sem travessoes, curto, neste formato:
 **Estrutura:** (passos do conteudo em 1 linha)
 **Por que funciona:** (1 ou 2 frases)
 **3 ganchos para o perfil:** (3 frases prontas, originais, sem copiar o conteudo)
-Observacao do Kalebe sobre esta inspiracao: {obs}
+Observacao do dono sobre esta inspiracao: {obs}
 {extra}"""
 
-PEDIDO_MELHORIA = """O Kalebe salvou este conteudo como IDEIA DE MELHORIA para o projeto dele (automacao do Threads com IA, crescimento de perfil, afiliados Shopee, uso do Claude). NAO e inspiracao de post: nao sugira ganchos.
+PEDIDO_MELHORIA = """O dono do perfil salvou este conteudo como IDEIA DE MELHORIA para o projeto dele (automacao do Threads com IA, crescimento de perfil, afiliados Shopee, uso do Claude). NAO e inspiracao de post: nao sugira ganchos.
 Responda em portugues do Brasil, sem travessoes, direto, neste formato:
 **Tipo:** (video, foto, texto, carrossel) | **Idioma original:** ...
 **Conteudo:** (se for video ou audio: transcreva a fala traduzida para portugues, no maximo 300 palavras; se for texto ou imagens: resuma tudo, inclusive o texto das imagens)
@@ -74,7 +74,7 @@ Responda em portugues do Brasil, sem travessoes, direto, neste formato:
 **Ferramentas, sites ou precos citados:** (lista curta, ou "nenhum")
 **Como aplicar no projeto:** (2 a 4 passos praticos)
 **Riscos ou custos:** (ban, seguranca, dinheiro; ou "nenhum aparente")
-Observacao do Kalebe: {obs}
+Observacao do dono: {obs}
 {extra}"""
 _PED = [PEDIDO]  # pedido em uso no item atual (post ou melhoria)
 
@@ -271,7 +271,7 @@ def gravar(caminho, cabecalho, blocos, remover=()):
     antigo = open(caminho, encoding="utf-8").read() if os.path.exists(caminho) else ""
     if not antigo and not blocos:
         return
-    corpo = antigo.replace(cabecalho, "")
+    corpo = re.sub(r"\A# [^\n]*\n+", "", antigo)  # tira o cabecalho que estiver no topo
     tira = {b.split("\n", 1)[0].split(" | ", 1)[-1] for b in list(blocos) + list(remover)}
     corpo = "\n".join(x for x in re.split(r"(?m)^(?=## )", corpo)
                       if x.strip() and x.split("\n", 1)[0].split(" | ", 1)[-1] not in tira)
@@ -323,11 +323,11 @@ def main():
         _PED[0] = PEDIDO_MELHORIA if melhoria else PEDIDO
         try:
             if texto and not video and not link:
-                analise = gemini([{"text": _PED[0].format(obs=obs or "(nenhuma)", extra="Texto enviado pelo Kalebe:\n" + texto)}])
+                analise = gemini([{"text": _PED[0].format(obs=obs or "(nenhuma)", extra="Texto enviado pelo dono:\n" + texto)}])
             else:
                 analise = analisar(link, video, obs)
                 if texto:
-                    analise += "\n\n**Texto colado pelo Kalebe:** " + texto[:500]
+                    analise += "\n\n**Texto colado pelo dono:** " + texto[:500]
         except Exception as e:
             msg = str(e)
             if any(c in msg for c in ("429", "503", "500", "timed out")):
@@ -341,7 +341,7 @@ def main():
     if blocos:
         gravar(SAIDA, "# Inspiracoes lidas pelo Gemini (mais novas primeiro)\n\n", blocos)
     if blocos_m:
-        gravar(SAIDA_MELHORIAS, "# Ideias e melhorias salvas pelo Kalebe, lidas pelo Gemini (para o Claude; mais novas primeiro)\n\n", blocos_m)
+        gravar(SAIDA_MELHORIAS, "# Ideias e melhorias salvas pelo dono, lidas pelo Gemini (para o Claude; mais novas primeiro)\n\n", blocos_m)
         # item reclassificado como melhoria sai do arquivo de inspiracoes de post
         gravar(SAIDA, "# Inspiracoes lidas pelo Gemini (mais novas primeiro)\n\n", [], remover=blocos_m)
     estado["feitos"] = ordem[-2000:]  # mais antigos saem primeiro

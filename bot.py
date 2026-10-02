@@ -6,8 +6,8 @@ Robo do Threads (API oficial da Meta).
   le a imagem do comentario, dosa a risada, varia a forma de concordar, evita repetir,
   responde treplica e guarda tudo em respostas_log.jsonl para a revisao semanal
   (a IA escreve as respostas da rodada ao mesmo tempo; a publicacao sai uma por uma, com pausa)
-- Respostas escritas a mao pelo Kalebe viram exemplos do robo (1 vez por dia)
-- Nao responde comentario que o perfil ja respondeu a mao (Kalebe responde primeiro, o robo fica de fora)
+- Respostas escritas a mao pelo dono viram exemplos do robo (1 vez por dia)
+- Nao responde comentario que o perfil ja respondeu a mao (o dono responde primeiro, o robo fica de fora)
 - Esconde (nao apaga) spam e golpe quando a IA e os sinais de spam concordam; 1 vez por dia guarda as estatisticas dos posts
 - Le os ganchos de uma Planilha Google
 Quantidades, horarios e limites: Variables do GitHub. Sem Variable, vale o dicionario PADRAO abaixo.
@@ -128,9 +128,19 @@ def log(*a):
 def carregar_estado():
     try:
         with open(STATE_FILE, encoding="utf-8") as f:
-            return json.load(f) or {}
+            s = json.load(f) or {}
     except Exception:
         return {}
+    if "exemplos_kalebe" in s:  # nome antigo da lista
+        s["exemplos_dono"] = s.pop("exemplos_kalebe") + s.get("exemplos_dono", [])
+    pp = s.get("por_pessoa", {})  # versoes antigas guardavam o @ de quem comentou: troca pelo codigo
+    s["por_pessoa"] = {(k if k == "_data" or re.fullmatch(r"[0-9a-f]{10}", k) else cod_pessoa(k)): v for k, v in pp.items()}
+    return s
+
+
+def cod_pessoa(username):
+    """Codigo fixo e anonimo do @ (o @ de quem comenta nunca fica salvo nem no log)."""
+    return hashlib.md5((username or "?").lower().encode()).hexdigest()[:10]
 
 
 def salvar_estado(s):
@@ -140,7 +150,7 @@ def salvar_estado(s):
     s["hashes"] = s.get("hashes", [])[-200:]
     s["uso"] = dict(sorted(s.get("uso", {}).items(), key=lambda kv: kv[1])[-500:])
     s["ultimas_respostas"] = s.get("ultimas_respostas", [])[-30:]
-    s["exemplos_kalebe"] = s.get("exemplos_kalebe", [])[-20:]
+    s["exemplos_dono"] = s.get("exemplos_dono", [])[-20:]
     s["minhas_respostas"] = dict(list(s.get("minhas_respostas", {}).items())[-400:])
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(s, f, ensure_ascii=False, indent=1)
@@ -290,7 +300,7 @@ def gemini(prompt, json_mode=False, busca=False, imagens=None, modelos=None):
         corpo["tools"] = [{"google_search": {}}]
     r, ultimo = None, None
     modelos = modelos or ([GEMINI_MODEL] + [m for m in ("gemini-flash-lite-latest",) if m != GEMINI_MODEL])
-    for modelo in modelos:  # principal na frente, 1 tentativa so; falhou, pula para o proximo (decisao do Kalebe 29/09)
+    for modelo in modelos:  # principal na frente, 1 tentativa so; falhou, pula para o proximo (decisao do dono 29/09)
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
         try:
             r = http("POST", url, body=corpo, headers={"x-goog-api-key": GEMINI_KEY}, tentativas=1, timeout=45)
@@ -459,7 +469,7 @@ def limpar_resposta(t):
 def gerar_post(insp, com_link):
     obs = (insp.get("obs") or "").strip().lower()
     if "literal" in obs:
-        log("Gancho escrito pelo Kalebe: postando o texto dele sem reescrever.")
+        log("Gancho escrito pelo dono: postando o texto dele sem reescrever.")
         _QUEM[0] = "literal"
         return (insp["ideia"] or "").strip()[:500]
     estilo = random.choice(ESTILOS)
@@ -554,7 +564,7 @@ PROIBIDAS_RESPOSTA = re.compile(r"\b(negocinho|grings?|marmotagem|habitu[eé]e?|
 
 def _exemplos_resposta(s):
     partes = []
-    ek = s.get("exemplos_kalebe", [])[-8:]
+    ek = s.get("exemplos_dono", [])[-8:]
     if ek:
         partes.append("Respostas que a dona do perfil escreveu a mao (padrao ouro, imite o jeito, nao copie):\n" +
                       "\n".join(f'- comentario: "{e.get("c") or "?"}" -> resposta: "{e.get("r")}"' for e in ek))
@@ -563,7 +573,7 @@ def _exemplos_resposta(s):
     return "\n\n".join(partes)
 
 
-# escrita (pedido do Kalebe em 30/09): abreviacao faz parte, mas com dose; acento e virgula para ficar facil de entender
+# escrita (pedido do dono em 30/09): abreviacao faz parte, mas com dose; acento e virgula para ficar facil de entender
 _ABREV = {"q": "que", "vc": "você", "vcs": "vocês", "pq": "porque", "tbm": "também", "tb": "também", "msm": "mesmo",
           "agr": "agora", "oq": "o que", "gnt": "gente", "td": "tudo", "mt": "muito", "mto": "muito", "blz": "beleza",
           "prox": "próxima", "cmg": "comigo", "qdo": "quando", "qnd": "quando", "eh": "é", "hj": "hoje", "dps": "depois",
@@ -855,7 +865,7 @@ def _tirar_leitura(modo, campos):
 
 def ler_comentarios(post_id, meus_ids, eu=""):
     """Comentarios do post + treplicas a respostas do robo. Nunca respostas entre outras pessoas.
-    Marca _ja_respondido quando o perfil (Kalebe a mao ou o robo) ja respondeu aquele comentario."""
+    Marca _ja_respondido quando o perfil (o dono a mao ou o robo) ja respondeu aquele comentario."""
     ultimo = None
     while _LEITURAS:
         modo, campos = _LEITURAS[0]
@@ -917,8 +927,8 @@ def registrar_resposta(registro):
         log("Nao gravei o diario de respostas:", str(e)[:120])
 
 
-def atualizar_exemplos_kalebe(s):
-    """1 vez por dia: respostas que o Kalebe escreveu a mao viram exemplos prioritarios. As do robo ficam de fora."""
+def atualizar_exemplos_dono(s):
+    """1 vez por dia: respostas que o dono escreveu a mao viram exemplos prioritarios. As do robo ficam de fora."""
     desde = dt.datetime.fromisoformat(s.setdefault("exemplos_desde", dt.datetime.now(TZ).isoformat()))
     minhas = s.get("minhas_respostas", {})
     vistos = set(s.get("exemplos_vistos", []))
@@ -942,7 +952,7 @@ def atualizar_exemplos_kalebe(s):
         except Exception:
             continue
         if quando <= desde:
-            continue  # antes de ligar este recurso nao da para separar robo x Kalebe
+            continue  # antes de ligar este recurso nao da para separar robo x dono
         comentario = ""
         rt = x.get("replied_to")
         alvo = rt.get("id") if isinstance(rt, dict) else rt
@@ -951,10 +961,10 @@ def atualizar_exemplos_kalebe(s):
                 comentario = threads("GET", alvo, fields="text").get("text", "") or ""
             except Exception:
                 pass
-        s.setdefault("exemplos_kalebe", []).append({"c": comentario[:200], "r": txt[:200]})
+        s.setdefault("exemplos_dono", []).append({"c": comentario[:200], "r": txt[:200]})
         novos += 1
     s["exemplos_vistos"] = list(vistos)[-300:]
-    log(f"Respostas manuais do Kalebe viraram exemplo: {novos} nova(s), {len(s.get('exemplos_kalebe', []))} no total.")
+    log(f"Respostas manuais do dono viraram exemplo: {novos} nova(s), {len(s.get('exemplos_dono', []))} no total.")
 
 
 def _marcas(texto):
@@ -1005,7 +1015,7 @@ SINAIS_SPAM = re.compile(r"(https?://|www\.|\.com\b|\bt\.me\b|\bpix\b|whats|\bza
 
 
 def esconder_se_spam(c, d, p):
-    """Esconde (nao apaga) comentario de spam ou golpe. O Kalebe pode mostrar de volta no app. Trava diaria contra engano."""
+    """Esconde (nao apaga) comentario de spam ou golpe. O dono pode mostrar de volta no app. Trava diaria contra engano."""
     if not ESCONDER_SPAM or MODO_TESTE or p.get("escondidos", 0) >= ESCONDER_POR_DIA or p.get("esconder_falhou"):
         return False
     if (d.get("intencao") or "").lower() not in ("spam", "golpe") or not SINAIS_SPAM.search(sem_acento(c.get("text") or "").lower()):
@@ -1106,13 +1116,14 @@ def tarefa_responder(s, agora):
                 break
             quem = c.get("username", "?")
             if c.get("_ja_respondido") and c["id"] not in respondidos and quem != eu:
-                s.setdefault("respondidos", []).append(c["id"])  # o Kalebe ja respondeu a mao: o robo nao entra
+                s.setdefault("respondidos", []).append(c["id"])  # o dono ja respondeu a mao: o robo nao entra
                 respondidos.add(c["id"])
                 ja_mao += 1
                 continue
-            if c["id"] in respondidos or quem == eu or por_pessoa.get(quem, 0) + na_fila.get(quem, 0) >= RESP_POR_PESSOA:
+            cp = cod_pessoa(quem)
+            if c["id"] in respondidos or quem == eu or por_pessoa.get(cp, 0) + na_fila.get(cp, 0) >= RESP_POR_PESSOA:
                 continue
-            na_fila[quem] = na_fila.get(quem, 0) + 1
+            na_fila[cp] = na_fila.get(cp, 0) + 1
             escolhidos.append((post, c))
     if ja_mao:
         log(f"Comentarios ja respondidos a mao pelo perfil (robo nao responde): {ja_mao}")
@@ -1147,7 +1158,7 @@ def tarefa_responder(s, agora):
                 log("IAs fora do ar; o resto dos comentarios fica para a proxima rodada:", str(r["erro"])[:200])
                 avisou = True
             continue
-        d, quem = r["d"], c.get("username", "?")
+        d, quem = r["d"], cod_pessoa(c.get("username"))
         chave = sem_acento(d.get("texto") or "")
         if (d.get("responder") and d.get("texto") and chave in no_lote) or r.get("repetida"):
             continue  # parecida com outra resposta desta rodada: fica para a proxima
@@ -1159,7 +1170,7 @@ def tarefa_responder(s, agora):
                "risada": d.get("risada"), "postura": d.get("postura")}
         if not d.get("responder") or not d.get("texto"):
             escondido = esconder_se_spam(c, d, p)
-            log(f"{'Escondi spam' if escondido else 'Ignorado comentario'} de @{quem} ({d.get('intencao') or '-'})")
+            log(f"{'Escondi spam' if escondido else 'Ignorado comentario'} de {quem} ({d.get('intencao') or '-'})")
             registrar_resposta({**reg, "respondeu": False, **({"escondido": True} if escondido else {})})
             continue
         no_lote.add(chave)
@@ -1169,18 +1180,18 @@ def tarefa_responder(s, agora):
         try:
             cid = criar_resposta(txt, c["id"])
         except Exception as e:
-            log(f"Meta nao aceitou a resposta para @{quem}:", str(e)[:150])
+            log(f"Meta nao aceitou a resposta para {quem}:", str(e)[:150])
             continue
         fila.append((r, reg, txt, cid))
     salvar_estado(s)
     feitas = 0
     for r, reg, txt, cid in fila:
-        c, d, quem = r["c"], r["d"], r["c"].get("username", "?")
+        c, d, quem = r["c"], r["d"], cod_pessoa(r["c"].get("username"))
         time.sleep(random.randint(*PAUSA_RESP))
         try:
             rid = publicar_resposta(cid, txt)
         except Exception as e:
-            log(f"Falhou ao publicar a resposta para @{quem}:", str(e)[:150])
+            log(f"Falhou ao publicar a resposta para {quem}:", str(e)[:150])
             continue
         feitas += 1
         p["respostas"] = p.get("respostas", 0) + 1
@@ -1188,7 +1199,7 @@ def tarefa_responder(s, agora):
         minhas[str(rid)] = {"t": d["texto"][:200], "c": (c.get("text") or "")[:200], "q": agora.isoformat()}
         s.setdefault("ultimas_respostas", []).append({"t": d["texto"], "p": d.get("postura"), "r": d.get("risada")})
         registrar_resposta({**reg, "respondeu": True, "resposta": txt, "id": str(rid)})
-        log(f"Respondi @{quem} [{d.get('intencao') or '-'}, risada {d.get('risada')}, {d.get('postura') or '-'}"
+        log(f"Respondi {quem} [{d.get('intencao') or '-'}, risada {d.get('risada')}, {d.get('postura') or '-'}"
             f"{', imagem' if r['imagem'] else ''}{', treplica' if r['contexto'] else ''}]{' (com link)' if 'http' in txt else ''}")
         salvar_estado(s)
     log(f"Respostas nesta rodada: {feitas}")
@@ -1216,9 +1227,9 @@ def main():
         checar_reservas()  # 1 vez por dia: mostra no log se Groq/OpenRouter respondem
         if TOKEN and not MODO_TESTE:
             try:
-                atualizar_exemplos_kalebe(s)
+                atualizar_exemplos_dono(s)
             except Exception as e:
-                log("Exemplos do Kalebe: falhou (segue normal):", str(e)[:150])
+                log("Exemplos do dono: falhou (segue normal):", str(e)[:150])
             try:
                 coletar_metricas(s, agora)
             except Exception as e:
