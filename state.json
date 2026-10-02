@@ -23,9 +23,10 @@
    "09:41",
    "11:00",
    "11:50",
-   "12:38"
+   "12:38",
+   "13:40"
   ],
-  "respostas": 47
+  "respostas": 52
  },
  "posts": [
   {
@@ -825,6 +826,14 @@
    "texto": "DÚVIDA SINCERA: qual foi o maior sinal de alerta que a gente inventa justificativa para ignorar no começo do namoro?",
    "quando": "2026-10-02T13:07:10.072768-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18094286081242394",
+   "insp": "e66fb581d1",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: como vocês chamam aquele pão de padaria que é crocante por fora e macio por dentro? Em cada lugar que vou é um nome diferente e eu fico perdida.",
+   "quando": "2026-10-02T14:07:09.142633-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1400,7 +1409,12 @@
   "18112252175330937",
   "18116572459954535",
   "18093790892649406",
-  "18163234288496440"
+  "18163234288496440",
+  "18136602289727124",
+  "17975433591129842",
+  "17960311397997984",
+  "18119048257845220",
+  "18635221336028655"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1453,7 +1467,8 @@
   "4d67ff5e82659811220849a019cbe302",
   "c699eb403b6f63f53fad273c0d532081",
   "5e1b2621b6e16d1ff018d7fde8a6b029",
-  "15967efbb3d1a778425452824c065491"
+  "15967efbb3d1a778425452824c065491",
+  "a26a0aca7ce81d8afee83190b02ab2f7"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1506,7 +1521,8 @@
   "75f882533b": 1790950055.3061569,
   "0de75da121": 1790953680.934701,
   "e50a061e21": 1790957272.388927,
-  "ff377f4a44": 1790960890.434097
+  "ff377f4a44": 1790960890.434097,
+  "e66fb581d1": 1790964490.8074522
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1553,35 +1569,14 @@
   "6c2df02e58": 1,
   "3aa7297417": 1,
   "2b3c9aab39": 1,
-  "3578b9dad3": 1
+  "3578b9dad3": 1,
+  "13860d968a": 1,
+  "d8a9b0f5c4": 2,
+  "4774d1e432": 1,
+  "8251ec041b": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "justo, nesse caso eu prefiro garantir que o teto não vai cair na minha cabeça kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "terra adoçada com xarope é um belo resumo de como a gente começa o dia kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pelo menos a dose de doce já garante o combustível da resistência kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "escola nenhuma prepara a gente para os boletos que chegam depois",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, o gosto do grão fica firme e forte por baixo de tudo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "setecentos mililitros por dia já entra na categoria de combustível industrial pesado",
    "p": "concorda",
@@ -1706,6 +1701,31 @@
    "t": "certa, é só água quente com gosto de carboidrato kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "daqui a pouco o robô vai até namorar no nosso lugar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, no presencial o roteiro falha e tem que improvisar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse segundo sentido aí costuma dar mais falta que o primeiro kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "converso muito sobre isso e vejo que construir repertório muda tudo mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a cor fica parecida com café",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
