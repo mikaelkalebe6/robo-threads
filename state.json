@@ -20,7 +20,7 @@
   "feitos": [
    "08:01"
   ],
-  "respostas": 2
+  "respostas": 8
  },
  "posts": [
   {
@@ -1309,7 +1309,14 @@
   "17925167250423311",
   "17905718322594514",
   "18102043985367431",
-  "18095828123120638"
+  "18095828123120638",
+  "18140570047611343",
+  "18155242612541799",
+  "18067882760761805",
+  "18086442401299357",
+  "18118591900981852",
+  "17970741225177884",
+  "17992079112024661"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1411,40 +1418,15 @@
  "por_pessoa": {
   "_data": "2026-10-02",
   "d36403fdc6": 1,
-  "675497b15c": 1
+  "675497b15c": 1,
+  "46008d4029": 1,
+  "322756319a": 2,
+  "c7c01cbd13": 1,
+  "849f36dd75": 1,
+  "cfc994bb78": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "epoca boa msm, o nível de roteiro era outro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa campanha de natal marcou época mesmo, impossível não lembrar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "madrugada tem um foco secreto que nenhuma luz do dia consegue explicar kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pois é, virou questão de sobrevivência básica",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "para sempre é lindo mas o boleto chega todo mês para testar a fé na eternidade",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "roupa em cima da cama é um clássico que já começa testando a paz do casal kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "faxina recente com chuva é teste para qualquer relacionamento kkkk",
    "p": "concorda",
@@ -1564,6 +1546,36 @@
    "t": "perto do trabalho ganha muita hora de vida de volta",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "colocar o pó direto na boca é um atalho bem ousado para a cafeína kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pior que a linha entre café e xarope já ficou bem invisível mesmo kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkkkkkkkkkkkkkk o rir foi ótimo",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "medo de descobrir que eu só gosto de xarope mesmo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pelo menos a xarope de manhã já vem com atestado de doçura kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "ódio interno às seis da manhã é o ingrediente secreto que falta na minha xícara kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
