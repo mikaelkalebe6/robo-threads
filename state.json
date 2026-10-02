@@ -26,9 +26,10 @@
    "12:38",
    "13:40",
    "14:26",
-   "15:40"
+   "15:40",
+   "17:14"
   ],
-  "respostas": 69
+  "respostas": 70
  },
  "posts": [
   {
@@ -852,6 +853,14 @@
    "texto": "Quem mais aqui já foi julgado pela forma que escolheu pra ganhar a vida? Pelo visto pagar os próprios boletos em paz nunca é o suficiente.",
    "quando": "2026-10-02T16:07:09.012772-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18093766889373946",
+   "insp": "170d280425",
+   "link": "",
+   "texto": "SEM MENTIR: qual o carro dos seus sonhos e qual é o que tá na sua garagem hoje?\n\nA distância entre o que a gente queria acelerar e o boleto do IPVA que a gente aguenta pagar costuma ser de uns 200 mil reais.",
+   "quando": "2026-10-02T17:37:09.006249-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1450,7 +1459,9 @@
   "17939074941370016",
   "18489958231109365",
   "18033269336670357",
-  "18141062593721911"
+  "18141062593721911",
+  "18012655562985438",
+  "18111020462129348"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1506,7 +1517,8 @@
   "15967efbb3d1a778425452824c065491",
   "a26a0aca7ce81d8afee83190b02ab2f7",
   "3bf2efb3b474b9e75ef236a60169b084",
-  "b2633c9210e1db50cf889c51c8b9de7a"
+  "b2633c9210e1db50cf889c51c8b9de7a",
+  "931a09b1f0d6432e16ed309f23560bf7"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1562,7 +1574,8 @@
   "ff377f4a44": 1790960890.434097,
   "e66fb581d1": 1790964490.8074522,
   "9c5110941a": 1790966245.2623403,
-  "a537fed31d": 1790971649.0084443
+  "a537fed31d": 1790971649.0084443,
+  "170d280425": 1790977043.7117248
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1630,15 +1643,11 @@
   "f60600ebdf": 1,
   "26cbc4ac1e": 1,
   "020ef9f07d": 1,
-  "0092ab61dd": 1
+  "0092ab61dd": 1,
+  "ae2a8e7324": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "churrasco depois é a recompensa oficial por ter corrido atrás da bola",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "exato, quando a fatura chega a ilusão de escolha acaba rapidinho",
    "p": "concorda",
@@ -1782,6 +1791,11 @@
   {
    "t": "economia de paladar e de xarope por aí",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "receber mensagem robotizada deve broxar na hora",
+   "p": "ressalva",
    "r": 0
   }
  ],
