@@ -27,7 +27,7 @@
    "20:21",
    "21:21"
   ],
-  "respostas": 107,
+  "respostas": 110,
   "escondidos": 1
  },
  "posts": [
@@ -1202,7 +1202,10 @@
   "18141628327599397",
   "17898084882607923",
   "18116234824799477",
-  "17907982710590618"
+  "17907982710590618",
+  "18623076211029941",
+  "18013173689967515",
+  "18140697970615392"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1406,25 +1409,13 @@
   "moraescatita": 1,
   "isabelarwood": 1,
   "alvinhu182": 1,
-  "vanessa_ngarcia": 1
+  "vanessa_ngarcia": 1,
+  "dliplay": 1,
+  "cleosollec": 1,
+  "lucas_samanueska": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "nossa vc foi direto ao ponto hein kkkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "a ciência pode até achar impossível mas o coração não avisa antes",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "esse comercial passa um filme inteiro na nossa cabeça em dois minutos 🥹",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "propaganda de dia dos pais sempre acha um ponto fraco que a gente nem sabia que tinha kkkk",
    "p": "concorda",
@@ -1558,6 +1549,21 @@
   {
    "t": "o que é isso?",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "canal q foge de marketing pesado já ganha muitos pontos comigo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paciência zero é o resumo da vida moderna mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nossa canal sem IA contando causo antigo já entrou na minha lista",
+   "p": "concorda",
    "r": 0
   }
  ],
