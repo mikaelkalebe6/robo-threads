@@ -27,7 +27,7 @@
    "20:21",
    "21:21"
   ],
-  "respostas": 106,
+  "respostas": 107,
   "escondidos": 1
  },
  "posts": [
@@ -1201,7 +1201,8 @@
   "18115151351326888",
   "18141628327599397",
   "17898084882607923",
-  "18116234824799477"
+  "18116234824799477",
+  "17907982710590618"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1404,15 +1405,11 @@
   "alinesaraiva.psique": 1,
   "moraescatita": 1,
   "isabelarwood": 1,
-  "alvinhu182": 1
+  "alvinhu182": 1,
+  "vanessa_ngarcia": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "papo reto, o silêncio da noite rende por três períodos do dia",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "nossa vc foi direto ao ponto hein kkkk",
    "p": "ressalva",
@@ -1557,6 +1554,11 @@
    "t": "pizza e sushi realmente têm um poder mágico de barrar essa evaporação da fome kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "o que é isso?",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [
