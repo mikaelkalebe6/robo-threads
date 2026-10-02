@@ -21,9 +21,10 @@
    "08:01",
    "08:51",
    "09:41",
-   "11:00"
+   "11:00",
+   "11:50"
   ],
-  "respostas": 29
+  "respostas": 30
  },
  "posts": [
   {
@@ -807,6 +808,14 @@
    "texto": "Quem mais aqui já passou da fase de se quebrar no futebol de domingo e prefere mil vezes o churrasco? Ou a pelada ainda é sagrada?",
    "quando": "2026-10-02T11:07:09.550320-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18565623907076552",
+   "insp": "e50a061e21",
+   "link": "",
+   "texto": "SEM MENTIR: quem aqui já usou inteligência artificial para escrever mensagem para o crush. confesso que achei engenhoso, mas fico pensando se a outra pessoa percebeu.",
+   "quando": "2026-10-02T12:07:10.597748-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1364,7 +1373,8 @@
   "17927300703179776",
   "17887714101477669",
   "18140312203616833",
-  "18071857160770667"
+  "18071857160770667",
+  "18074022818565642"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1415,7 +1425,8 @@
   "4a8b93b5e8eae01b5f7d81900cf5b85a",
   "c1963d62dfb50c95350db59ca76cc497",
   "4d67ff5e82659811220849a019cbe302",
-  "c699eb403b6f63f53fad273c0d532081"
+  "c699eb403b6f63f53fad273c0d532081",
+  "5e1b2621b6e16d1ff018d7fde8a6b029"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1466,7 +1477,8 @@
   "f9515d2675": 1790942852.9562535,
   "25cf5fb448": 1790946451.19922,
   "75f882533b": 1790950055.3061569,
-  "0de75da121": 1790953680.934701
+  "0de75da121": 1790953680.934701,
+  "e50a061e21": 1790957272.388927
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1498,15 +1510,11 @@
   "e8b8402afd": 1,
   "cdaacb9a40": 1,
   "6516bbb104": 1,
-  "1eb4ad9c86": 1
+  "1eb4ad9c86": 1,
+  "dc05debfd4": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "verdade, esse silêncio da madrugada tem uma paz que de dia simplesmente não existe kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "esse aí prende a atenção de qualquer um por horas mesmo",
    "p": "concorda",
@@ -1651,6 +1659,11 @@
    "t": "o processo é longo mas uma hora o paladar acostuma",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "justo, melhor remediar o paladar cedo do que sofrer kkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
