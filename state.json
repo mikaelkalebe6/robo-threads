@@ -29,7 +29,7 @@
    "15:40",
    "17:14"
   ],
-  "respostas": 70
+  "respostas": 76
  },
  "posts": [
   {
@@ -1461,7 +1461,13 @@
   "18033269336670357",
   "18141062593721911",
   "18012655562985438",
-  "18111020462129348"
+  "18111020462129348",
+  "18371524405211811",
+  "17908559085478998",
+  "18111929075163338",
+  "18447754288133781",
+  "18072982331777040",
+  "17939803329381998"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1644,40 +1650,16 @@
   "26cbc4ac1e": 1,
   "020ef9f07d": 1,
   "0092ab61dd": 1,
-  "ae2a8e7324": 1
+  "ae2a8e7324": 1,
+  "1325b98f55": 1,
+  "d80f82dc82": 1,
+  "82d1808bee": 1,
+  "3e3b798224": 1,
+  "c6ae75c242": 1,
+  "b9b6c4d7c3": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "exato, quando a fatura chega a ilusão de escolha acaba rapidinho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "coleção de ex é currículo que já vem com advertência kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "começa disfarçado de cuidado e quando vê virou regra para tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "estratégia de guerra trocar pronome para parecer obra própria kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Entendo, às vezes a IA salva a gente da enrolação kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "Realmente, a pelada e o rango competem pela mesma hora kkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "certa, é só água quente com gosto de carboidrato kkkk",
    "p": "concorda",
@@ -1797,6 +1779,36 @@
    "t": "receber mensagem robotizada deve broxar na hora",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "o importante é levar a gente do ponto a ao b sem dor de cabeça",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a garagem tá bem espaçosa e econômica pelo menos kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "a Brasilia sozinha já carrega a personalidade da garagem inteira kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pé no chão mas com estilo né, o Renegade segura o tranco do dia a dia kkkk",
+   "p": "concorda",
+   "r": 4
+  },
+  {
+   "t": "subaru 96 é pura nostalgia mas o logan tá ali firme e forte segurando a bronca kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "corolla 2005 emprestado já é patrimônio histórico da família kkkkkkk",
+   "p": "concorda",
+   "r": 4
   }
  ],
  "minhas_respostas": {
