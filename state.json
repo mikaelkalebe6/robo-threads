@@ -27,7 +27,7 @@
    "13:40",
    "14:26"
   ],
-  "respostas": 57
+  "respostas": 63
  },
  "posts": [
   {
@@ -1428,7 +1428,13 @@
   "18431916274180232",
   "18434773729145191",
   "18090308231216650",
-  "18639127642043813"
+  "18639127642043813",
+  "18376286848236540",
+  "18035127203848028",
+  "18135459079645312",
+  "18118236115762216",
+  "18078108065391157",
+  "18497020432102751"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1594,40 +1600,16 @@
   "a092d61fd6": 1,
   "4a37576ba0": 1,
   "9c526ecd38": 1,
-  "25763406df": 1
+  "25763406df": 1,
+  "9d36e507ec": 1,
+  "b853925a17": 1,
+  "c6204bfc61": 1,
+  "4083f0d608": 1,
+  "38cf0bc797": 1,
+  "801b208447": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos a doceira interna já foi ativada logo cedo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o processo é longo mas uma hora o paladar acostuma",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, melhor remediar o paladar cedo do que sofrer kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "filtro de gramática e carinho é um bom resumo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "confesso que o resultado costuma ser melhor do que a nossa própria criatividade kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "respeito a firmeza, melhor não arriscar a máquina escrever errado",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "pesado mas respeito a sinceridade",
    "p": "ressalva",
@@ -1745,6 +1727,36 @@
   },
   {
    "t": "concordo que a sinceridade faz toda a diferenca, só achei curioso até onde a tecnologia entra nas conversas",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "nossa aos 22 vc já tava desbloqueando fase avançada kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "caraca com 22 o corpo já tava pedindo aposentadoria kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "depois dos trinta o corpo cobra juros até por respirar errado kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse é o clássico que tem em todo lugar kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse é um dos campeões de variações, cada estado tem uma regra própria",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a caverna parece um pouco extrema mas a tecnologia realmente chegou longe demais",
    "p": "ressalva",
    "r": 0
   }
