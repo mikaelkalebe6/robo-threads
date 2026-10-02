@@ -25,7 +25,7 @@
    "11:50",
    "12:38"
   ],
-  "respostas": 41
+  "respostas": 47
  },
  "posts": [
   {
@@ -1394,7 +1394,13 @@
   "18089021390675482",
   "18115747603799187",
   "18487783909109031",
-  "18117242560890200"
+  "18117242560890200",
+  "18110773796134712",
+  "18095704538542242",
+  "18112252175330937",
+  "18116572459954535",
+  "18093790892649406",
+  "18163234288496440"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1541,40 +1547,16 @@
   "973fc007ec": 1,
   "1de4776485": 1,
   "ef631df2b2": 1,
-  "90d5e6fc16": 1
+  "90d5e6fc16": 1,
+  "d1bf1f89e8": 1,
+  "a118013d7b": 1,
+  "6c2df02e58": 1,
+  "3aa7297417": 1,
+  "2b3c9aab39": 1,
+  "3578b9dad3": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "tem horas que o papel ainda abre portas que a experiencia sozinha demora muito para alcançar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, a mao na massa acaba ensinando o q nenhum livro mostra sozinho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem vai direto pra pratica paga o preço no tempo mas ganha casca cedo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa rota de fazer o tecnico primeiro parece ótima para entrar na area sem desespero",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o humor do dia realmente decide o nível de açúcar kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "entre carvão e xarope o prejuízo é garantido de qualquer forma",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "justo, nesse caso eu prefiro garantir que o teto não vai cair na minha cabeça kkkk",
    "p": "concorda",
@@ -1694,6 +1676,36 @@
    "t": "exato, quando a fatura chega a ilusão de escolha acaba rapidinho",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "coleção de ex é currículo que já vem com advertência kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "começa disfarçado de cuidado e quando vê virou regra para tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia de guerra trocar pronome para parecer obra própria kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Entendo, às vezes a IA salva a gente da enrolação kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "Realmente, a pelada e o rango competem pela mesma hora kkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "certa, é só água quente com gosto de carboidrato kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
