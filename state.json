@@ -26,7 +26,7 @@
    "19:24",
    "20:21"
   ],
-  "respostas": 104,
+  "respostas": 105,
   "escondidos": 1
  },
  "posts": [
@@ -1189,7 +1189,9 @@
   "18130838905688739",
   "18080322050707714",
   "18028067162911169",
-  "18115151351326888"
+  "18115151351326888",
+  "18141628327599397",
+  "17898084882607923"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1388,15 +1390,11 @@
   "n.a.sk8": 1,
   "nataliazablonsk": 1,
   "alinesaraiva.psique": 1,
-  "moraescatita": 1
+  "moraescatita": 1,
+  "isabelarwood": 1
  },
  "reservas_checadas": "2026-10-01",
  "ultimas_respostas": [
-  {
-   "t": "parece absurdo até acontecer com você",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "maternidade real demais, zerar o sono e ainda encarar a escola cedo é uma maratona pesada",
    "p": "ressalva",
@@ -1541,6 +1539,11 @@
    "t": "um bom dia bem dito já desmonta a gente inteira kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "nossa ter a prova viva disso é um privilégio raro",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "exemplos_kalebe": [
