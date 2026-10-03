@@ -20,27 +20,12 @@
    "09:27",
    "10:16",
    "10:59",
-   "12:08"
+   "12:08",
+   "12:51"
   ],
-  "respostas": 72
+  "respostas": 78
  },
  "posts": [
-  {
-   "id": "17956463874017267",
-   "insp": "7ba791c39f",
-   "link": "",
-   "texto": "PESSOAS QUE VIAJAM MUITO: eu juro que tento curtir o frio da serra, mas o som do mar me ganha toda vez. No fim das contas, a gente sempre volta para onde a alma descansa mais. Qual lado do time vocês são?",
-   "quando": "2026-09-28T13:07:14.877789-04:00",
-   "metricas": {
-    "views": 400,
-    "likes": 5,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-03"
-   }
-  },
   {
    "id": "18446915563127877",
    "insp": "7d71edeab3",
@@ -988,6 +973,14 @@
    "texto": "Quem mais aí atrai conversa de gente desconhecida do nada? Hoje no ônibus sentei do lado de uma mulher que me contou a separação inteira dela em quatro paradas. Desci agoniada sem saber o desfecho. Vocês também dão trela na rua ou vivem com o fone no máximo?",
    "quando": "2026-10-03T12:37:08.109030-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18177828211432861",
+   "insp": "46db302f47",
+   "link": "",
+   "texto": "PESSOAS QUE TRABALHAM EM HOME OFFICE: vocês conseguem trabalhar de pijama o dia todo ou precisam fingir que são pessoas normais trocando de roupa?",
+   "quando": "2026-10-03T13:07:08.428027-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1690,7 +1683,13 @@
   "18216430483351046",
   "18464384872186995",
   "17951097813339559",
-  "17924154834205744"
+  "17924154834205744",
+  "18121432612943432",
+  "18104270408358504",
+  "17909468823505335",
+  "18097768532387147",
+  "18143422051596098",
+  "18070863575761700"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1756,7 +1755,8 @@
   "2edce8b75b92113d3a6c054b3392b162",
   "e981961ab12125d16d698ed03ea714d8",
   "a4fc875f3921358e3ce35f496f8291d6",
-  "e994786418473778de5f52da380bc7e8"
+  "e994786418473778de5f52da380bc7e8",
+  "ddc3821637b8b43f6974b7565c1818db"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1822,7 +1822,8 @@
   "3a347dea45": 1791034644.2278385,
   "9c1e78bb9a": 1791038248.3376563,
   "7d0b87a61f": 1791040054.20017,
-  "143d9cb236": 1791045474.23247
+  "143d9cb236": 1791045474.23247,
+  "46db302f47": 1791047239.8406873
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1897,40 +1898,16 @@
   "a1a5ed856c": 1,
   "3b0af5b1bf": 1,
   "6d56f5d0f2": 1,
-  "951152d0a1": 1
+  "951152d0a1": 1,
+  "cc9e67a8c2": 1,
+  "068316b624": 1,
+  "b50408449e": 1,
+  "5e2dbbd3cd": 1,
+  "95fd976bb2": 1,
+  "ca59515481": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "o psiquiatra já deve ter internado junto com o paciente kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "essa sensação do som batendo no peito não tem tela de celular que substitua",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a distância entre o sonho e o kicks é o resumo da vida real kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o elétrico baratinho já seria uma vitória mas a garagem vazia é clássica kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "os boletos mudam mas o gosto refina no meio do caminho kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "do fury de 58 pro ka é uma viagem no tempo bem dramática kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "esse peso de tentar ser quem não é rouba a nossa paz e o nosso tempo",
    "p": "concorda",
@@ -2048,6 +2025,36 @@
   },
   {
    "t": "o hb20 resolve bem o dia a dia mas a propaganda faz a gente sonhar mesmo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "comparação justa é luxo que a gente não tem kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "lavar o carro no domingo de sol faz parte da terapia do fim de semana",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o renegade vai ter que aceitar a traição mental com o jetour kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "sair de um ford ka direto pra f250 é um salto de fé impressionante kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o argo aguenta o tranco mas o volvo tá lá no topo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o salto do civic pra esse mustang é só um detalhe de duzentos mil kkk",
    "p": "concorda",
    "r": 1
   }
