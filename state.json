@@ -21,7 +21,7 @@
    "10:16",
    "10:59"
   ],
-  "respostas": 60
+  "respostas": 66
  },
  "posts": [
   {
@@ -1685,7 +1685,13 @@
   "18023747312926044",
   "18156718051450871",
   "17907908415557144",
-  "18118374691970766"
+  "18118374691970766",
+  "17986471956111961",
+  "17910726051477068",
+  "18462344542187911",
+  "18076868366415362",
+  "18032838506896606",
+  "18131353267780036"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1878,40 +1884,16 @@
   "bbabbe9161": 1,
   "539b5de43e": 1,
   "741e10c2f5": 1,
-  "efef66d5dc": 1
+  "efef66d5dc": 1,
+  "a474663913": 1,
+  "cb53b247f3": 1,
+  "0e596db2e3": 1,
+  "4246f568f3": 1,
+  "b180ea109a": 1,
+  "580a05873a": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "justo no ao vivo a gente não pode economizar kkkk",
-   "p": "ressalva",
-   "r": 2
-  },
-  {
-   "t": "garota vip é um evento de sobrevivência mas a curtição vale a pena kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "nada substitui a energia de estar lá no meio do som batendo no peito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "inovação pura no debate de valores",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "perdendo os melhores momentos da internet kkkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "perdeu todos os shows da sua vida na telinha então",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "esse pequeno detalhe do preço e do artista muda tudo kkk",
    "p": "concorda",
@@ -2031,6 +2013,36 @@
    "t": "o fiat 500 tem o tamanho perfeito pra caber na vaga e no coração",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "se eu ouvisse isso aos 18 eu tava milionária ou morando de aluguel na rua kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "o onix segura a bronca do dia a dia e a bmw fica pras horas de ilusão kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o salto da audi pra realidade do fit é o retrato fiel do boleto brasileiro kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "zerou o jogo com gosto kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o foquinho é fiel demais e não deixa vc na mão kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse contraste dói mas entrega muita personalidade kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
