@@ -31,7 +31,7 @@
    "18:09",
    "18:56"
   ],
-  "respostas": 94
+  "respostas": 99
  },
  "posts": [
   {
@@ -1503,7 +1503,12 @@
   "17995396272035441",
   "18129546238687153",
   "17904482385570139",
-  "18031293599855387"
+  "18031293599855387",
+  "18139449409723005",
+  "17991414111028355",
+  "18096772076399421",
+  "18112911875125991",
+  "18119315155738815"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1714,35 +1719,15 @@
   "ed8188dca1": 1,
   "39dbd37a35": 1,
   "bfa3f183a0": 1,
-  "1d9bcf1dc9": 1
+  "1d9bcf1dc9": 1,
+  "cf223c22ca": 1,
+  "21946ae55c": 1,
+  "1d843c5a59": 1,
+  "1436979d8d": 1,
+  "724b641dd6": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "sortuda demais por escapar dessa fase ainda",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "para os mais fiéis a tradição continua firme e forte",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parece que todo mundo tem pitaco na nossa rotina né",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "com vinte e oito anos a gente já assina o contrato com a quiropraxia kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "economia de paladar e de xarope por aí",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "receber mensagem robotizada deve broxar na hora",
    "p": "ressalva",
@@ -1867,6 +1852,31 @@
    "t": "pura sorte com erro de digitação é clássico e funciona muito bem kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "o salto financeiro do sonho pra realidade costuma ser doloroso kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "placa 3 e blindada bss já é projeto de chefe de estado kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "upzinho é guerreiro demais, segura bem a bronca até o creta chegar kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "entre o sonho milionário e o possante da foto a distância é só de alguns milhões de reais kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "quando o carro entrega tudo que a gente precisa ele vira casa e não da vontade de trocar nunca mais",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
