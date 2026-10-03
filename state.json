@@ -24,27 +24,12 @@
    "12:51",
    "14:19",
    "15:43",
-   "17:39"
+   "17:39",
+   "19:28"
   ],
   "respostas": 100
  },
  "posts": [
-  {
-   "id": "18131070491495146",
-   "insp": "d12059d204",
-   "link": "",
-   "texto": "ME CONTA: quem mais tem 47 abas abertas no celular e simplesmente não consegue fechar nenhuma?",
-   "quando": "2026-09-28T19:07:09.392761-04:00",
-   "metricas": {
-    "views": 294,
-    "likes": 2,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-03"
-   }
-  },
   {
    "id": "18169506337466989",
    "insp": "f6d9ba8473",
@@ -960,6 +945,14 @@
    "texto": "PESSOAS QUE JÁ FIZERAM MOCHILÃO: qual perrengue gigante demorou mais tempo para virar piada?",
    "quando": "2026-10-03T18:07:10.431978-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17933170953146937",
+   "insp": "20b4497ce2",
+   "link": "",
+   "texto": "SEJAM SINCEROS: qual foi o gasto com criança que ninguém te avisou antes e te pegou de surpresa?",
+   "quando": "2026-10-03T19:37:07.608662-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1768,7 +1761,8 @@
   "ddc3821637b8b43f6974b7565c1818db",
   "51d047d8e532aa14973f2a2d58d057f9",
   "f3b44bc7b4b91707ffc69155720af6ab",
-  "aece3aafa1dd599e3af52ead674b2974"
+  "aece3aafa1dd599e3af52ead674b2974",
+  "31ff36337e441b9af0d5f20df8e227ea"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1838,7 +1832,8 @@
   "46db302f47": 1791047239.8406873,
   "120d39bc61": 1791052643.211581,
   "880c48c090": 1791058075.4252539,
-  "c5b66c6c5b": 1791065245.2783217
+  "c5b66c6c5b": 1791065245.2783217,
+  "20b4497ce2": 1791070649.591163
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
