@@ -16,7 +16,7 @@
    "21:45"
   ],
   "feitos": [],
-  "respostas": 12
+  "respostas": 18
  },
  "posts": [
   {
@@ -1648,7 +1648,13 @@
   "18120806122940230",
   "18621100555063252",
   "17910210969472554",
-  "17946909681067120"
+  "17946909681067120",
+  "18103571288369558",
+  "17909479500491354",
+  "18120579181726337",
+  "18110303831150163",
+  "18079539623354249",
+  "18228738889333689"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1785,40 +1791,16 @@
   "2d9515c79b": 1,
   "54b7aa4e9e": 2,
   "ff3bb7c03f": 1,
-  "6afd6eedbc": 1
+  "6afd6eedbc": 1,
+  "7f3db7ba85": 1,
+  "452bc77efc": 1,
+  "876057459b": 1,
+  "33b3457b15": 1,
+  "d6318f4a2b": 1,
+  "736afa2f9a": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "se for teste do chefe a gente já reprova no primeiro dia",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "primeiro carro fiel que segura a bronca de tudo é patrimônio da família",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "monza antigo tem seu valor mas o diplomata é covardia de tão bonito kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "com uma garagem dessas em casa dá vontade de passear o dia inteiro kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "quem tem passado com opala nunca esquece a saudade kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o hífen e a pontuação perfeita são os maiores entregadores de jogo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa volta obrigatória faz parte da rotina de todo mundo kkkk",
    "p": "concorda",
@@ -1936,6 +1918,36 @@
   },
   {
    "t": "depois de dirigir tanto carro a paz de espirito no renegade virou o verdadeiro luxo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse nenhum da garagem é o retrato fiel da economia brasileira atual",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "pajero pra rodar o mes todo virou o sonho real depois que a gente cansa de sofrer",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse patinho no painel já garante metade da diversão do trajeto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o fusca é poesia mas o etios é quem banca o boleto kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "nove anos firme e forte é quase um casamento de longa data",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "agora ficou profundo e bem real essa mistura de escolha e emocioes",
    "p": "concorda",
    "r": 0
   }
