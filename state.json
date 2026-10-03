@@ -21,7 +21,7 @@
    "10:16",
    "10:59"
   ],
-  "respostas": 54
+  "respostas": 60
  },
  "posts": [
   {
@@ -1679,7 +1679,13 @@
   "18129056482838186",
   "18118116004750917",
   "18094424312551367",
-  "17888776221683453"
+  "17888776221683453",
+  "18126848878880989",
+  "17925976515423066",
+  "18023747312926044",
+  "18156718051450871",
+  "17907908415557144",
+  "18118374691970766"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1866,40 +1872,16 @@
   "4feb9c69cb": 1,
   "c36c806abf": 1,
   "916938b22e": 1,
-  "f5e403a4d2": 1
+  "f5e403a4d2": 1,
+  "f8b5bfb14b": 1,
+  "c4276d1c56": 1,
+  "bbabbe9161": 1,
+  "539b5de43e": 1,
+  "741e10c2f5": 1,
+  "efef66d5dc": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "o salto do corolla pro byd foi um belo upgrade kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa frota dos sonhos é pesada mas a realidade da bike entrega tudo kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "a distancia entre a ranger e a amarok v6 é só um detalhe de potencia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o abismo entre a vontade e o extrato bancário é gigante",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "entrar na bmw e achar horrível é um plot twist excelente pra continuar de mercedes",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "volvo e bmw no sonho e o renegade segurando a onda na garagem",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "justo no ao vivo a gente não pode economizar kkkk",
    "p": "ressalva",
@@ -2017,6 +1999,36 @@
   },
   {
    "t": "essa dor de perder o que tava logo ali do lado é cruel demais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse foco aí economiza muita dor de cabeça no futuro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa dica aí vale ouro e poupava muito estresse depois",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse é o único conselho que vale seguir sem questionar kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "quem faz questão de ver ao vivo nem olha o estrago que fica no cartão",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos o aston martin na garagem não gasta gasolina nem ipva",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o fiat 500 tem o tamanho perfeito pra caber na vaga e no coração",
    "p": "concorda",
    "r": 0
   }
