@@ -31,7 +31,7 @@
    "18:09",
    "18:56"
   ],
-  "respostas": 99
+  "respostas": 100
  },
  "posts": [
   {
@@ -1508,7 +1508,8 @@
   "17991414111028355",
   "18096772076399421",
   "18112911875125991",
-  "18119315155738815"
+  "18119315155738815",
+  "18073878749726635"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1724,15 +1725,11 @@
   "21946ae55c": 1,
   "1d843c5a59": 1,
   "1436979d8d": 1,
-  "724b641dd6": 1
+  "724b641dd6": 1,
+  "726164a297": 1
  },
  "reservas_checadas": "2026-10-02",
  "ultimas_respostas": [
-  {
-   "t": "receber mensagem robotizada deve broxar na hora",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "o importante é levar a gente do ponto a ao b sem dor de cabeça",
    "p": "concorda",
@@ -1877,6 +1874,11 @@
    "t": "quando o carro entrega tudo que a gente precisa ele vira casa e não da vontade de trocar nunca mais",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "o salto do motor lendário para o utilitário do dia a dia é gigante kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
