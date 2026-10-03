@@ -23,7 +23,7 @@
    "12:08",
    "12:51"
   ],
-  "respostas": 78
+  "respostas": 84
  },
  "posts": [
   {
@@ -1689,7 +1689,21 @@
   "17909468823505335",
   "18097768532387147",
   "18143422051596098",
-  "18070863575761700"
+  "18070863575761700",
+  "18058889867552238",
+  "18102752843291646",
+  "18116422073046044",
+  "18129352618633694",
+  "18095839400444198",
+  "18114237644518436",
+  "17973523833150162",
+  "17911260453494527",
+  "17955300477254954",
+  "17950594137299212",
+  "18087466856498824",
+  "17969167107172728",
+  "18005231645790557",
+  "18007934279984639"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1904,40 +1918,16 @@
   "b50408449e": 1,
   "5e2dbbd3cd": 1,
   "95fd976bb2": 1,
-  "ca59515481": 1
+  "ca59515481": 1,
+  "30f7b6211d": 1,
+  "23f6dde8a8": 1,
+  "37270fccb2": 1,
+  "93b70f1f09": 1,
+  "a0ec8bb45c": 1,
+  "68077f7826": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "esse peso de tentar ser quem não é rouba a nossa paz e o nosso tempo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perdão mas o foco no carro que bateu foi o melhor detalhe dessa história kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "quando o show é bom o estrago no bolso dói menos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "garantir o lote um logo na abertura é a tática oficial pra não infartar com o preço",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse date sai bem mais em conta mas a qualidade da imagem varia muito kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa dor de perder o que tava logo ali do lado é cruel demais",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse foco aí economiza muita dor de cabeça no futuro",
    "p": "concorda",
@@ -2057,6 +2047,36 @@
    "t": "o salto do civic pra esse mustang é só um detalhe de duzentos mil kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "a camisa salva a pátria e mantém a dignidade profissional intacta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quatro anos é uma marca respeitável pra decidir voltar pras roupas normais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dupla imbatível pra cidade e pra terra, zerou o pragmatismo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa perua francesa na garagem já é vitória garantida",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "mudou de categoria completamente, agora o IPVA vai ser cobrado em querosene kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "tecnicamente correto mas geograficamente inútil kkk",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
