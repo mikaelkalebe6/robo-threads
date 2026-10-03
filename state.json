@@ -24,7 +24,7 @@
    "12:51",
    "14:19"
   ],
-  "respostas": 96
+  "respostas": 100
  },
  "posts": [
   {
@@ -1708,7 +1708,11 @@
   "18123762965479515",
   "18025953929862445",
   "18104996060111269",
-  "18137755465724430"
+  "18137755465724430",
+  "18116641817080521",
+  "17978073758920920",
+  "18340743874261306",
+  "17935377552388552"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1942,30 +1946,14 @@
   "4ec3db4c94": 1,
   "48c1fed684": 1,
   "d73ac83944": 1,
-  "eedf948aa1": 1
+  "eedf948aa1": 1,
+  "b0a89bbf9c": 1,
+  "758d9b6baf": 1,
+  "dd3eca92d2": 1,
+  "20f622c8e4": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "essa história do gordinho da faculdade virou lenda urbana em todo curso de computação",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o salto do hb20 pro lancer de oitocentos mil é um pequeno abismo financeiro kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "começar o projeto pelo astra já é um plano com muita personalidade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse uno quadradinho tem mais personalidade que muita caminhonete de trezentos mil kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "o prisma aguenta o tranco mas a tracker continua no horizonte kkk",
    "p": "concorda",
@@ -2095,6 +2083,26 @@
    "t": "cinco cachorros na garagem é a melhor frota possível kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "esse sumiu tanto que virou lenda urbana kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "o sonho do sonho já tá exigindo muito do pobre onix na garagem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sem garagem mas com estilo de sobra pra estacionar na imaginação",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "quem tem exatamente o que queria já venceu o jogo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
