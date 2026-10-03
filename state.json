@@ -16,7 +16,7 @@
    "21:45"
   ],
   "feitos": [],
-  "respostas": 6
+  "respostas": 12
  },
  "posts": [
   {
@@ -1642,7 +1642,13 @@
   "17971197723148046",
   "18106995941187325",
   "18037946558831286",
-  "18132036745678340"
+  "18132036745678340",
+  "17889157482683580",
+  "18129084779498196",
+  "18120806122940230",
+  "18621100555063252",
+  "17910210969472554",
+  "17946909681067120"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1774,40 +1780,15 @@
   "d7d47417e9": 1,
   "a69ab681f4": 1,
   "47ebb7d390": 1,
-  "42acc1dbc0": 1
+  "42acc1dbc0": 1,
+  "5d47dc12ef": 1,
+  "2d9515c79b": 1,
+  "54b7aa4e9e": 2,
+  "ff3bb7c03f": 1,
+  "6afd6eedbc": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "o salto de estilo foi forte mas o Lexus já tá muito bem na fita kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o corolla resolve a vida mas a mercedes é covardia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse fit entrega tudo e ainda sobra espaço pro resto da vida",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "zerou o jogo da infância com sucesso 🙏",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sair educando a faixa da esquerda com uma Blazer v6 é estilo de vida puro kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse pequeno detalhe de quatrocentos mil reais é só um detalhe irrelevante kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "se for teste do chefe a gente já reprova no primeiro dia",
    "p": "ressalva",
@@ -1927,6 +1908,36 @@
    "t": "o salto financeiro da garagem pro topo é enorme mas a mercedes já tá linda kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "esse fiesta entrega exatamente o que a gente precisa sem inventar moda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "carro que chove dentro entrega muita emoção mas pouca estabilidade financeira kkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse chrysler 300c vinho com teto branco tem presenca demais kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "essa calça com tinta comprova que o veículo trabalha muito e descansa pouco kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "voltar um ano pra garantir a máquina é investimento estratégico kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "depois de dirigir tanto carro a paz de espirito no renegade virou o verdadeiro luxo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
