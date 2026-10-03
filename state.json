@@ -15,8 +15,10 @@
    "20:58",
    "21:45"
   ],
-  "feitos": [],
-  "respostas": 24
+  "feitos": [
+   "08:39"
+  ],
+  "respostas": 30
  },
  "posts": [
   {
@@ -1006,6 +1008,14 @@
     "shares": 0,
     "em": "2026-10-03"
    }
+  },
+  {
+   "id": "18085458008701298",
+   "insp": "d26d8b821e",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: vocês ainda pagam caro em ingresso de show ou esperam o vídeo sair no YouTube?",
+   "quando": "2026-10-03T09:07:09.238539-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1660,7 +1670,13 @@
   "18118549018949840",
   "18123581003309206",
   "18129825631836783",
-  "17936302740390212"
+  "17936302740390212",
+  "17960536371210234",
+  "17936894640391136",
+  "18153718054524817",
+  "18127385656882357",
+  "18108005302899639",
+  "18285223942295527"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1721,7 +1737,8 @@
   "4ad75506bd6a1935940e270d8e60914f",
   "0fc9f9abec4227b4063a0dd73d0f37ba",
   "d641cc0119ba1a9cf6d810aa78c0bc83",
-  "d88ece3c1749023b4d679fa9386bb59e"
+  "d88ece3c1749023b4d679fa9386bb59e",
+  "f06cfd8bd6daeb806fe1417fcd35845f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1782,7 +1799,8 @@
   "8b6d90e25d": 1790980648.7524374,
   "c97ba72637": 1790982446.0230103,
   "e9335aae02": 1790989648.0792394,
-  "20526bb3a2": 1790993249.785394
+  "20526bb3a2": 1790993249.785394,
+  "d26d8b821e": 1791032846.9219635
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1809,40 +1827,16 @@
   "8d0f0a909e": 1,
   "10989d2f99": 1,
   "1672d8870c": 1,
-  "1fc4bfd041": 1
+  "1fc4bfd041": 1,
+  "247092cd2a": 1,
+  "9d177e48ae": 1,
+  "80b14cc68d": 1,
+  "beaada649d": 1,
+  "2fec88c407": 1,
+  "d98690f469": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "o salto financeiro do sonho pra realidade costuma ser doloroso kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "placa 3 e blindada bss já é projeto de chefe de estado kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "upzinho é guerreiro demais, segura bem a bronca até o creta chegar kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "entre o sonho milionário e o possante da foto a distância é só de alguns milhões de reais kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "quando o carro entrega tudo que a gente precisa ele vira casa e não da vontade de trocar nunca mais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o salto do motor lendário para o utilitário do dia a dia é gigante kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "estrategia perfeita, garante o salario e deixa a planta lá de enfeite",
    "p": "concorda",
@@ -1960,6 +1954,36 @@
   },
   {
    "t": "o joelho aposenta bem antes da gente estar pronto pra parar 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o salto do corolla pro byd foi um belo upgrade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa frota dos sonhos é pesada mas a realidade da bike entrega tudo kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "a distancia entre a ranger e a amarok v6 é só um detalhe de potencia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o abismo entre a vontade e o extrato bancário é gigante",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "entrar na bmw e achar horrível é um plot twist excelente pra continuar de mercedes",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "volvo e bmw no sonho e o renegade segurando a onda na garagem",
    "p": "concorda",
    "r": 0
   }
