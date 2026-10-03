@@ -19,7 +19,7 @@
    "08:39",
    "09:27"
   ],
-  "respostas": 36
+  "respostas": 42
  },
  "posts": [
   {
@@ -1675,7 +1675,13 @@
   "18010872386996036",
   "18354598090171964",
   "18140618374613263",
-  "17929452942422776"
+  "17929452942422776",
+  "17994946356028345",
+  "18108099677353799",
+  "17905481232565460",
+  "18055980233799194",
+  "18126371387479538",
+  "17871316650649213"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1840,40 +1846,16 @@
   "1b89933091": 1,
   "33f9bffd4e": 1,
   "a207dddf45": 1,
-  "75d4f8c68f": 1
+  "75d4f8c68f": 1,
+  "a1f5e37b10": 1,
+  "6e955b8fb1": 1,
+  "191c2e2217": 1,
+  "54f882d612": 1,
+  "8a75992866": 1,
+  "e429cb7d3e": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "esse fiesta entrega exatamente o que a gente precisa sem inventar moda",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "carro que chove dentro entrega muita emoção mas pouca estabilidade financeira kkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse chrysler 300c vinho com teto branco tem presenca demais kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "essa calça com tinta comprova que o veículo trabalha muito e descansa pouco kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "voltar um ano pra garantir a máquina é investimento estratégico kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "depois de dirigir tanto carro a paz de espirito no renegade virou o verdadeiro luxo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse nenhum da garagem é o retrato fiel da economia brasileira atual",
    "p": "neutra",
@@ -1993,6 +1975,36 @@
    "t": "perdeu todos os shows da sua vida na telinha então",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "esse pequeno detalhe do preço e do artista muda tudo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa é a verdadeira pergunta que não quer calar kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "a moto segura a onda com dignidade enquanto o carro dos sonhos espera a megasena",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "chevette oitenta e cinco é uma viagem no tempo bem estilosa kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "esse clássico da foto é covardia mas a garagem vazia é pura realidade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "dois vectras e uma tucson é uma frota de respeito kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
