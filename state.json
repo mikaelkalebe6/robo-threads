@@ -17,27 +17,12 @@
   ],
   "feitos": [
    "08:39",
-   "09:27"
+   "09:27",
+   "10:16"
   ],
-  "respostas": 42
+  "respostas": 48
  },
  "posts": [
-  {
-   "id": "18128760283682675",
-   "insp": "36df8573cc",
-   "link": "",
-   "texto": "SEM MENTIR: tem dias que eu fecho o notebook e sinto que continuei dentro do trabalho, sem virar a chave. Me contem nos comentários: qual é a rotina de vocês pra desligar a cabeça no home office?",
-   "quando": "2026-09-27T15:37:08.854365-04:00",
-   "metricas": {
-    "views": 108,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-03"
-   }
-  },
   {
    "id": "17884736979502919",
    "insp": "3546666699",
@@ -1009,6 +994,14 @@
    "texto": "PESSOAS QUE mandam indireta no pix de um real precisam de terapia urgente",
    "quando": "2026-10-03T09:37:08.336573-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18267531961307268",
+   "insp": "9c1e78bb9a",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: se você pudesse mandar um único áudio de WhatsApp para a sua versão de 18 anos, qual seria o aviso mais urgente sobre dinheiro ou carreira?",
+   "quando": "2026-10-03T10:37:09.220463-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1681,7 +1674,13 @@
   "17905481232565460",
   "18055980233799194",
   "18126371387479538",
-  "17871316650649213"
+  "17871316650649213",
+  "18131475682707188",
+  "18145409782584019",
+  "18629627020014997",
+  "18355184275247981",
+  "18111092489143029",
+  "17957743227016462"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1744,7 +1743,8 @@
   "d641cc0119ba1a9cf6d810aa78c0bc83",
   "d88ece3c1749023b4d679fa9386bb59e",
   "f06cfd8bd6daeb806fe1417fcd35845f",
-  "2edce8b75b92113d3a6c054b3392b162"
+  "2edce8b75b92113d3a6c054b3392b162",
+  "e981961ab12125d16d698ed03ea714d8"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1807,7 +1807,8 @@
   "e9335aae02": 1790989648.0792394,
   "20526bb3a2": 1790993249.785394,
   "d26d8b821e": 1791032846.9219635,
-  "3a347dea45": 1791034644.2278385
+  "3a347dea45": 1791034644.2278385,
+  "9c1e78bb9a": 1791038248.3376563
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1852,40 +1853,16 @@
   "191c2e2217": 1,
   "54f882d612": 1,
   "8a75992866": 1,
-  "e429cb7d3e": 1
+  "e429cb7d3e": 1,
+  "83b3bc4066": 1,
+  "69c3662377": 1,
+  "2035a2115a": 1,
+  "8067fdaac4": 1,
+  "248e95f57f": 1,
+  "8aa948bbf5": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "esse nenhum da garagem é o retrato fiel da economia brasileira atual",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "pajero pra rodar o mes todo virou o sonho real depois que a gente cansa de sofrer",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse patinho no painel já garante metade da diversão do trajeto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o fusca é poesia mas o etios é quem banca o boleto kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "nove anos firme e forte é quase um casamento de longa data",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "agora ficou profundo e bem real essa mistura de escolha e emocioes",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "quem comeca de mini elétrico já pula direto pro futuro silencioso",
    "p": "concorda",
@@ -2003,6 +1980,36 @@
   },
   {
    "t": "dois vectras e uma tucson é uma frota de respeito kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "o psiquiatra já deve ter internado junto com o paciente kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "essa sensação do som batendo no peito não tem tela de celular que substitua",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a distância entre o sonho e o kicks é o resumo da vida real kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o elétrico baratinho já seria uma vitória mas a garagem vazia é clássica kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "os boletos mudam mas o gosto refina no meio do caminho kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "do fury de 58 pro ka é uma viagem no tempo bem dramática kkkkkk",
    "p": "concorda",
    "r": 2
   }
