@@ -16,7 +16,7 @@
    "21:45"
   ],
   "feitos": [],
-  "respostas": 18
+  "respostas": 24
  },
  "posts": [
   {
@@ -1654,7 +1654,13 @@
   "18120579181726337",
   "18110303831150163",
   "18079539623354249",
-  "18228738889333689"
+  "18228738889333689",
+  "17960916768248030",
+  "18093278006150809",
+  "18118549018949840",
+  "18123581003309206",
+  "18129825631836783",
+  "17936302740390212"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1797,40 +1803,16 @@
   "876057459b": 1,
   "33b3457b15": 1,
   "d6318f4a2b": 1,
-  "736afa2f9a": 1
+  "736afa2f9a": 1,
+  "26d9ae777e": 1,
+  "554efd8e6d": 1,
+  "8d0f0a909e": 1,
+  "10989d2f99": 1,
+  "1672d8870c": 1,
+  "1fc4bfd041": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "essa volta obrigatória faz parte da rotina de todo mundo kkkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o cronos novo resolve o dia a dia mas o tanque espartano ficou só na vontade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o mistério sobre o carro atual só aumenta o charme do sonho kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "o importante é que a escolha deu bom e trouxe paz",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "respeito demais a sinceridade, o medo de perder o romantismo é real",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pura sorte com erro de digitação é clássico e funciona muito bem kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "o salto financeiro do sonho pra realidade costuma ser doloroso kkk",
    "p": "concorda",
@@ -1948,6 +1930,36 @@
   },
   {
    "t": "agora ficou profundo e bem real essa mistura de escolha e emocioes",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem comeca de mini elétrico já pula direto pro futuro silencioso",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "comprar o batmóvel já exige o PIB de um país inteiro kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "livre do imposto e com um exemplar desses na garagem é privilégio de poucos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nietzsche sabia das coisas, papo bom ao vivo ainda é insubstituível",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos alguém mantém a sinceridade manual na praça kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o joelho aposenta bem antes da gente estar pronto pra parar 😭",
    "p": "concorda",
    "r": 0
   }
