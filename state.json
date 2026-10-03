@@ -21,27 +21,12 @@
    "10:16",
    "10:59",
    "12:08",
-   "12:51"
+   "12:51",
+   "14:19"
   ],
-  "respostas": 90
+  "respostas": 96
  },
  "posts": [
-  {
-   "id": "18446915563127877",
-   "insp": "7d71edeab3",
-   "link": "",
-   "texto": "SEJAM SINCEROS: qual é aquele filme super famoso que todo mundo acha uma obra-prima e você achou insuportável de chato",
-   "quando": "2026-09-28T14:37:10.282567-04:00",
-   "metricas": {
-    "views": 9982,
-    "likes": 51,
-    "replies": 318,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-10-03"
-   }
-  },
   {
    "id": "18090027728675796",
    "insp": "0127d41120",
@@ -981,6 +966,14 @@
    "texto": "PESSOAS QUE TRABALHAM EM HOME OFFICE: vocês conseguem trabalhar de pijama o dia todo ou precisam fingir que são pessoas normais trocando de roupa?",
    "quando": "2026-10-03T13:07:08.428027-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18118642979062271",
+   "insp": "120d39bc61",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual amizade sumiu da sua vida do nada e até hoje você tenta entender o porquê",
+   "quando": "2026-10-03T14:37:08.420964-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1709,7 +1702,13 @@
   "18021463280926870",
   "18632275795023472",
   "17970972654173320",
-  "18341448283257105"
+  "18341448283257105",
+  "18144705763602526",
+  "18632748547042451",
+  "18123762965479515",
+  "18025953929862445",
+  "18104996060111269",
+  "18137755465724430"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1776,7 +1775,8 @@
   "e981961ab12125d16d698ed03ea714d8",
   "a4fc875f3921358e3ce35f496f8291d6",
   "e994786418473778de5f52da380bc7e8",
-  "ddc3821637b8b43f6974b7565c1818db"
+  "ddc3821637b8b43f6974b7565c1818db",
+  "51d047d8e532aa14973f2a2d58d057f9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1843,7 +1843,8 @@
   "9c1e78bb9a": 1791038248.3376563,
   "7d0b87a61f": 1791040054.20017,
   "143d9cb236": 1791045474.23247,
-  "46db302f47": 1791047239.8406873
+  "46db302f47": 1791047239.8406873,
+  "120d39bc61": 1791052643.211581
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1935,40 +1936,16 @@
   "537d724179": 1,
   "4e5d5045e8": 1,
   "4bda028aa4": 1,
-  "c3486de1b8": 1
+  "c3486de1b8": 1,
+  "ffbdc2a758": 1,
+  "4f30a74046": 1,
+  "4ec3db4c94": 1,
+  "48c1fed684": 1,
+  "d73ac83944": 1,
+  "eedf948aa1": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "se eu ouvisse isso aos 18 eu tava milionária ou morando de aluguel na rua kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "o onix segura a bronca do dia a dia e a bmw fica pras horas de ilusão kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o salto da audi pra realidade do fit é o retrato fiel do boleto brasileiro kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "zerou o jogo com gosto kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o foquinho é fiel demais e não deixa vc na mão kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse contraste dói mas entrega muita personalidade kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "essa história do gordinho da faculdade virou lenda urbana em todo curso de computação",
    "p": "concorda",
@@ -2088,6 +2065,36 @@
    "t": "se a energia boa atrai tanta gente assim o segredo é começar a andar de cara fechada",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "separar o banho e a roupa do dia a dia ajuda muito a lembrar que o expediente começou",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "segue a carreira mas não esquece de pagar os boletos",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "o otimismo de quem vai colocar um turbo nesse motor merece respeito kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "volvo com banco claro é chique demais pro meu boleto kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "perder o carro assim é uma judiação, mas o importante é seguir firme",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "cinco cachorros na garagem é a melhor frota possível kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
