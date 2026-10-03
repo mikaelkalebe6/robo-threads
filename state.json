@@ -16,27 +16,12 @@
    "21:45"
   ],
   "feitos": [
-   "08:39"
+   "08:39",
+   "09:27"
   ],
-  "respostas": 30
+  "respostas": 36
  },
  "posts": [
-  {
-   "id": "18088021415656513",
-   "insp": "d256f4ea39",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: como vocês conseguem acordar cedo e já sair funcionando?\n\nEu preciso de pelo menos meia hora sentada na beira da cama encarando o nada pro meu sistema reiniciar. \n\nQuem mais é desse time ou vocês já pulam da cama cheios de energia? Me contem aqui.",
-   "quando": "2026-09-27T12:27:44.374785-04:00",
-   "metricas": {
-    "views": 126,
-    "likes": 0,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-03"
-   }
-  },
   {
    "id": "18128760283682675",
    "insp": "36df8573cc",
@@ -1016,6 +1001,14 @@
    "texto": "DÚVIDA SINCERA: vocês ainda pagam caro em ingresso de show ou esperam o vídeo sair no YouTube?",
    "quando": "2026-10-03T09:07:09.238539-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18179115472434875",
+   "insp": "3a347dea45",
+   "link": "",
+   "texto": "PESSOAS QUE mandam indireta no pix de um real precisam de terapia urgente",
+   "quando": "2026-10-03T09:37:08.336573-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1676,7 +1669,13 @@
   "18153718054524817",
   "18127385656882357",
   "18108005302899639",
-  "18285223942295527"
+  "18285223942295527",
+  "18092041304167205",
+  "18105743044950896",
+  "18010872386996036",
+  "18354598090171964",
+  "18140618374613263",
+  "17929452942422776"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1738,7 +1737,8 @@
   "0fc9f9abec4227b4063a0dd73d0f37ba",
   "d641cc0119ba1a9cf6d810aa78c0bc83",
   "d88ece3c1749023b4d679fa9386bb59e",
-  "f06cfd8bd6daeb806fe1417fcd35845f"
+  "f06cfd8bd6daeb806fe1417fcd35845f",
+  "2edce8b75b92113d3a6c054b3392b162"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1800,7 +1800,8 @@
   "c97ba72637": 1790982446.0230103,
   "e9335aae02": 1790989648.0792394,
   "20526bb3a2": 1790993249.785394,
-  "d26d8b821e": 1791032846.9219635
+  "d26d8b821e": 1791032846.9219635,
+  "3a347dea45": 1791034644.2278385
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1833,40 +1834,16 @@
   "80b14cc68d": 1,
   "beaada649d": 1,
   "2fec88c407": 1,
-  "d98690f469": 1
+  "d98690f469": 1,
+  "e582d99a8a": 1,
+  "b3a2a61c46": 1,
+  "1b89933091": 1,
+  "33f9bffd4e": 1,
+  "a207dddf45": 1,
+  "75d4f8c68f": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "estrategia perfeita, garante o salario e deixa a planta lá de enfeite",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "economia garantida por pura falta de opção kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "o contraste entre o volvo e o citroen resume bem a nossa realidade financeira",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a moto certa no momento certo vale mais que qualquer carro kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "a vida vai mudando a rota e a gente aprende a negociar o que importa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o salto financeiro da garagem pro topo é enorme mas a mercedes já tá linda kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "esse fiesta entrega exatamente o que a gente precisa sem inventar moda",
    "p": "concorda",
@@ -1985,6 +1962,36 @@
   {
    "t": "volvo e bmw no sonho e o renegade segurando a onda na garagem",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo no ao vivo a gente não pode economizar kkkk",
+   "p": "ressalva",
+   "r": 2
+  },
+  {
+   "t": "garota vip é um evento de sobrevivência mas a curtição vale a pena kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "nada substitui a energia de estar lá no meio do som batendo no peito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "inovação pura no debate de valores",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "perdendo os melhores momentos da internet kkkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "perdeu todos os shows da sua vida na telinha então",
+   "p": "neutra",
    "r": 0
   }
  ],
