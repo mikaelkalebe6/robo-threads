@@ -23,27 +23,12 @@
    "12:08",
    "12:51",
    "14:19",
-   "15:43"
+   "15:43",
+   "17:39"
   ],
   "respostas": 100
  },
  "posts": [
-  {
-   "id": "18089014508680179",
-   "insp": "ff5027f0d8",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual é aquela coisa específica que você se recusa a pagar o preço cheio e espera o tempo que for preciso para entrar em promoção?",
-   "quando": "2026-09-28T18:07:10.149361-04:00",
-   "metricas": {
-    "views": 324,
-    "likes": 0,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-03"
-   }
-  },
   {
    "id": "18131070491495146",
    "insp": "d12059d204",
@@ -967,6 +952,14 @@
    "texto": "DÚVIDA SINCERA: acordar mais cedo com calma ou dormir mais quinze minutos correndo?",
    "quando": "2026-10-03T16:07:09.997128-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17895939030415554",
+   "insp": "c5b66c6c5b",
+   "link": "",
+   "texto": "PESSOAS QUE JÁ FIZERAM MOCHILÃO: qual perrengue gigante demorou mais tempo para virar piada?",
+   "quando": "2026-10-03T18:07:10.431978-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1774,7 +1767,8 @@
   "e994786418473778de5f52da380bc7e8",
   "ddc3821637b8b43f6974b7565c1818db",
   "51d047d8e532aa14973f2a2d58d057f9",
-  "f3b44bc7b4b91707ffc69155720af6ab"
+  "f3b44bc7b4b91707ffc69155720af6ab",
+  "aece3aafa1dd599e3af52ead674b2974"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1843,7 +1837,8 @@
   "143d9cb236": 1791045474.23247,
   "46db302f47": 1791047239.8406873,
   "120d39bc61": 1791052643.211581,
-  "880c48c090": 1791058075.4252539
+  "880c48c090": 1791058075.4252539,
+  "c5b66c6c5b": 1791065245.2783217
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
