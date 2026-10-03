@@ -22,27 +22,12 @@
    "10:59",
    "12:08",
    "12:51",
-   "14:19"
+   "14:19",
+   "15:43"
   ],
   "respostas": 100
  },
  "posts": [
-  {
-   "id": "18090027728675796",
-   "insp": "0127d41120",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual aplicativo do celular todo mundo usa escondido e finge que nem tem instalado?",
-   "quando": "2026-09-28T16:07:09.206298-04:00",
-   "metricas": {
-    "views": 22233,
-    "likes": 147,
-    "replies": 117,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-03"
-   }
-  },
   {
    "id": "18089014508680179",
    "insp": "ff5027f0d8",
@@ -974,6 +959,14 @@
    "texto": "DÚVIDA SINCERA: qual amizade sumiu da sua vida do nada e até hoje você tenta entender o porquê",
    "quando": "2026-10-03T14:37:08.420964-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17957805633235218",
+   "insp": "880c48c090",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: acordar mais cedo com calma ou dormir mais quinze minutos correndo?",
+   "quando": "2026-10-03T16:07:09.997128-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1780,7 +1773,8 @@
   "a4fc875f3921358e3ce35f496f8291d6",
   "e994786418473778de5f52da380bc7e8",
   "ddc3821637b8b43f6974b7565c1818db",
-  "51d047d8e532aa14973f2a2d58d057f9"
+  "51d047d8e532aa14973f2a2d58d057f9",
+  "f3b44bc7b4b91707ffc69155720af6ab"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1848,7 +1842,8 @@
   "7d0b87a61f": 1791040054.20017,
   "143d9cb236": 1791045474.23247,
   "46db302f47": 1791047239.8406873,
-  "120d39bc61": 1791052643.211581
+  "120d39bc61": 1791052643.211581,
+  "880c48c090": 1791058075.4252539
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
