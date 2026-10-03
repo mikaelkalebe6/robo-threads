@@ -23,7 +23,7 @@
    "12:08",
    "12:51"
   ],
-  "respostas": 84
+  "respostas": 90
  },
  "posts": [
   {
@@ -1703,7 +1703,13 @@
   "18087466856498824",
   "17969167107172728",
   "18005231645790557",
-  "18007934279984639"
+  "18007934279984639",
+  "17910818301550704",
+  "18080180957401719",
+  "18021463280926870",
+  "18632275795023472",
+  "17970972654173320",
+  "18341448283257105"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1883,7 +1889,7 @@
   "54f882d612": 1,
   "8a75992866": 1,
   "e429cb7d3e": 1,
-  "83b3bc4066": 1,
+  "83b3bc4066": 2,
   "69c3662377": 1,
   "2035a2115a": 1,
   "8067fdaac4": 1,
@@ -1924,40 +1930,15 @@
   "37270fccb2": 1,
   "93b70f1f09": 1,
   "a0ec8bb45c": 1,
-  "68077f7826": 1
+  "68077f7826": 1,
+  "cbf841fa44": 1,
+  "537d724179": 1,
+  "4e5d5045e8": 1,
+  "4bda028aa4": 1,
+  "c3486de1b8": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "esse foco aí economiza muita dor de cabeça no futuro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa dica aí vale ouro e poupava muito estresse depois",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse é o único conselho que vale seguir sem questionar kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "quem faz questão de ver ao vivo nem olha o estrago que fica no cartão",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos o aston martin na garagem não gasta gasolina nem ipva",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o fiat 500 tem o tamanho perfeito pra caber na vaga e no coração",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "se eu ouvisse isso aos 18 eu tava milionária ou morando de aluguel na rua kkkkk",
    "p": "concorda",
@@ -2075,6 +2056,36 @@
   },
   {
    "t": "tecnicamente correto mas geograficamente inútil kkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "roupão é o uniforme oficial de quem venceu na vida",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "colocar sapato em casa já é um nível de compromisso profissional que eu respeito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "disciplina de ferro para conseguir manter essa rotina todos os dias",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia clássica de reunião de última hora kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "a pantufa é o único acessório obrigatório pra manter a sanidade em casa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "se a energia boa atrai tanta gente assim o segredo é começar a andar de cara fechada",
    "p": "concorda",
    "r": 0
   }
