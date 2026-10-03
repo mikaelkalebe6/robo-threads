@@ -30,7 +30,8 @@
    "17:14",
    "18:09",
    "18:56",
-   "20:41"
+   "20:41",
+   "21:45"
   ],
   "respostas": 100
  },
@@ -888,6 +889,14 @@
    "texto": "SEM MENTIR: qual foi a última vez que você avisou que tava no trânsito enquanto ainda procurava a chave de casa?\n\nEu juro que tento ser uma adulta pontual, mas às vezes apelo para a ficção desses dez minutinhos de engarrafamento.\n\nQuem mais se identifica?",
    "quando": "2026-10-02T21:07:10.188337-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "17898651726671893",
+   "insp": "20526bb3a2",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: quem já começou a brigar no grupo da família por causa de Inglaterra e Espanha?",
+   "quando": "2026-10-02T22:07:07.436952-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1578,7 +1587,8 @@
   "931a09b1f0d6432e16ed309f23560bf7",
   "4ad75506bd6a1935940e270d8e60914f",
   "0fc9f9abec4227b4063a0dd73d0f37ba",
-  "d641cc0119ba1a9cf6d810aa78c0bc83"
+  "d641cc0119ba1a9cf6d810aa78c0bc83",
+  "d88ece3c1749023b4d679fa9386bb59e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1638,7 +1648,8 @@
   "170d280425": 1790977043.7117248,
   "8b6d90e25d": 1790980648.7524374,
   "c97ba72637": 1790982446.0230103,
-  "e9335aae02": 1790989648.0792394
+  "e9335aae02": 1790989648.0792394,
+  "20526bb3a2": 1790993249.785394
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
