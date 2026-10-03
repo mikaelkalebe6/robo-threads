@@ -1,39 +1,22 @@
 {
  "plano": {
-  "data": "2026-10-02",
+  "data": "2026-10-03",
   "horarios": [
-   "08:01",
-   "08:51",
-   "09:41",
-   "11:00",
-   "11:50",
-   "12:38",
-   "13:40",
-   "14:26",
-   "15:40",
-   "17:14",
-   "18:09",
-   "18:56",
-   "20:41",
+   "08:39",
+   "09:27",
+   "10:16",
+   "10:59",
+   "12:08",
+   "12:51",
+   "14:19",
+   "15:43",
+   "17:39",
+   "19:28",
+   "20:58",
    "21:45"
   ],
-  "feitos": [
-   "08:01",
-   "08:51",
-   "09:41",
-   "11:00",
-   "11:50",
-   "12:38",
-   "13:40",
-   "14:26",
-   "15:40",
-   "17:14",
-   "18:09",
-   "18:56",
-   "20:41",
-   "21:45"
-  ],
-  "respostas": 100
+  "feitos": [],
+  "respostas": 6
  },
  "posts": [
   {
@@ -43,13 +26,13 @@
    "texto": "DÚVIDA SINCERA: como vocês conseguem acordar cedo e já sair funcionando?\n\nEu preciso de pelo menos meia hora sentada na beira da cama encarando o nada pro meu sistema reiniciar. \n\nQuem mais é desse time ou vocês já pulam da cama cheios de energia? Me contem aqui.",
    "quando": "2026-09-27T12:27:44.374785-04:00",
    "metricas": {
-    "views": 124,
+    "views": 126,
     "likes": 0,
     "replies": 7,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -59,13 +42,13 @@
    "texto": "SEM MENTIR: tem dias que eu fecho o notebook e sinto que continuei dentro do trabalho, sem virar a chave. Me contem nos comentários: qual é a rotina de vocês pra desligar a cabeça no home office?",
    "quando": "2026-09-27T15:37:08.854365-04:00",
    "metricas": {
-    "views": 107,
+    "views": 108,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -75,13 +58,13 @@
    "texto": "SEJAM SINCEROS: com que idade vocês saíram da casa dos pais?\n\nFico pensando se existe mesmo um momento ideal ou se a gente só vai na cara e na coragem quando a vida adulta aperta. \n\nQuantos anos você tinha quando deu esse passo? Deixa sua idade aqui nos comentários e me conta se foi no tempo certo.",
    "quando": "2026-09-27T19:07:09.253953-04:00",
    "metricas": {
-    "views": 330,
+    "views": 336,
     "likes": 0,
     "replies": 22,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -91,13 +74,13 @@
    "texto": "SEJAM SINCEROS: ventilador barulhento a noite toda ou ar-condicionado geladinho e boleto chorando no fim do mês?",
    "quando": "2026-09-28T09:37:11.694674-04:00",
    "metricas": {
-    "views": 139,
+    "views": 142,
     "likes": 1,
     "replies": 6,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -107,13 +90,13 @@
    "texto": "PESSOAS QUE VIAJAM MUITO: eu juro que tento curtir o frio da serra, mas o som do mar me ganha toda vez. No fim das contas, a gente sempre volta para onde a alma descansa mais. Qual lado do time vocês são?",
    "quando": "2026-09-28T13:07:14.877789-04:00",
    "metricas": {
-    "views": 397,
+    "views": 400,
     "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -123,13 +106,13 @@
    "texto": "SEJAM SINCEROS: qual é aquele filme super famoso que todo mundo acha uma obra-prima e você achou insuportável de chato",
    "quando": "2026-09-28T14:37:10.282567-04:00",
    "metricas": {
-    "views": 9969,
+    "views": 9982,
     "likes": 51,
     "replies": 318,
     "reposts": 0,
     "quotes": 0,
     "shares": 1,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -139,13 +122,13 @@
    "texto": "DÚVIDA SINCERA: qual aplicativo do celular todo mundo usa escondido e finge que nem tem instalado?",
    "quando": "2026-09-28T16:07:09.206298-04:00",
    "metricas": {
-    "views": 22219,
+    "views": 22233,
     "likes": 147,
     "replies": 117,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -155,13 +138,13 @@
    "texto": "DÚVIDA SINCERA: qual é aquela coisa específica que você se recusa a pagar o preço cheio e espera o tempo que for preciso para entrar em promoção?",
    "quando": "2026-09-28T18:07:10.149361-04:00",
    "metricas": {
-    "views": 320,
+    "views": 324,
     "likes": 0,
     "replies": 6,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -171,13 +154,13 @@
    "texto": "ME CONTA: quem mais tem 47 abas abertas no celular e simplesmente não consegue fechar nenhuma?",
    "quando": "2026-09-28T19:07:09.392761-04:00",
    "metricas": {
-    "views": 290,
+    "views": 294,
     "likes": 2,
     "replies": 3,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -187,13 +170,13 @@
    "texto": "DÚVIDA SINCERA: é normal a cabeça dar um nó do nada quando a rotina começa a pesar demais? Ontem juro que passei horas pensando em como seria sumir por uns dias sem dar satisfação pra ninguém, só pra ver o que acontecia. Quem nunca?",
    "quando": "2026-09-28T21:37:08.485808-04:00",
    "metricas": {
-    "views": 848,
+    "views": 854,
     "likes": 13,
     "replies": 20,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -203,13 +186,13 @@
    "texto": "SEJAM SINCEROS: qual app você apagaria agora mesmo se pudesse ter só três no celular?",
    "quando": "2026-09-29T09:07:12.976607-04:00",
    "metricas": {
-    "views": 494,
+    "views": 497,
     "likes": 0,
     "replies": 15,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -219,13 +202,13 @@
    "texto": "OPINIÃO IMPOPULAR: pagar mais caro para resolver um perrengue rápido vale cada centavo e eu não tenho a menor vergonha disso. Quem concorda?",
    "quando": "2026-09-29T10:07:09.649581-04:00",
    "metricas": {
-    "views": 267,
+    "views": 271,
     "likes": 2,
     "replies": 3,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -235,13 +218,13 @@
    "texto": "DÚVIDA SINCERA: por que todo mundo finge que boletos e burocracias são fáceis de entender na primeira tentativa? Tem coisa de adulto que parece um idioma secreto que a gente só concorda em silêncio.",
    "quando": "2026-09-29T11:37:12.747959-04:00",
    "metricas": {
-    "views": 586,
+    "views": 590,
     "likes": 5,
     "replies": 3,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -251,13 +234,13 @@
    "texto": "ME CONTA: qual foi a cidade mais subestimada que você já visitou? Eu fui achando que não ia ter nada pra fazer e voltei apaixonada.",
    "quando": "2026-09-29T13:25:29.359706-04:00",
    "metricas": {
-    "views": 38613,
-    "likes": 69,
-    "replies": 356,
+    "views": 38673,
+    "likes": 71,
+    "replies": 358,
     "reposts": 0,
     "quotes": 1,
     "shares": 3,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -267,13 +250,13 @@
    "texto": "Quem mais tem a sensação de que existem milhares de profissões misteriosas por aí que pagam super bem e a gente só fica sabendo tarde demais?",
    "quando": "2026-09-29T14:07:09.741832-04:00",
    "metricas": {
-    "views": 361,
+    "views": 367,
     "likes": 8,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -284,13 +267,13 @@
    "quando": "2026-09-29T17:07:09.135672-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 248,
+    "views": 253,
     "likes": 1,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -301,13 +284,13 @@
    "quando": "2026-09-29T19:37:09.315886-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "metricas": {
-    "views": 273,
+    "views": 278,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -318,13 +301,13 @@
    "quando": "2026-09-29T20:07:09.556199-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 564,
+    "views": 567,
     "likes": 9,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -335,13 +318,13 @@
    "quando": "2026-09-29T21:07:10.001469-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 827,
+    "views": 831,
     "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -352,13 +335,13 @@
    "quando": "2026-09-30T08:37:11.794228-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 624,
+    "views": 629,
     "likes": 6,
     "replies": 7,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -369,13 +352,13 @@
    "quando": "2026-09-30T09:07:10.052378-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 3128,
+    "views": 3158,
     "likes": 25,
     "replies": 37,
     "reposts": 0,
     "quotes": 0,
     "shares": 1,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -386,13 +369,13 @@
    "quando": "2026-09-30T10:07:10.209809-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 34273,
-    "likes": 301,
-    "replies": 560,
+    "views": 34529,
+    "likes": 304,
+    "replies": 562,
     "reposts": 5,
     "quotes": 4,
     "shares": 4,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -403,13 +386,13 @@
    "quando": "2026-09-30T11:37:11.115444-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 406,
+    "views": 412,
     "likes": 2,
     "replies": 10,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -420,13 +403,13 @@
    "quando": "2026-09-30T12:37:10.761748-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 4475,
+    "views": 4500,
     "likes": 134,
     "replies": 177,
     "reposts": 4,
     "quotes": 1,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -437,13 +420,13 @@
    "quando": "2026-09-30T13:37:10.884762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1787,
+    "views": 1806,
     "likes": 12,
     "replies": 83,
     "reposts": 0,
     "quotes": 1,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -454,13 +437,13 @@
    "quando": "2026-09-30T15:07:08.876959-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1144,
+    "views": 1163,
     "likes": 4,
     "replies": 56,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -471,13 +454,13 @@
    "quando": "2026-09-30T16:07:11.240206-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 835,
+    "views": 842,
     "likes": 3,
     "replies": 14,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -488,13 +471,13 @@
    "quando": "2026-09-30T17:07:12.778570-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 568,
+    "views": 574,
     "likes": 14,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -505,13 +488,13 @@
    "quando": "2026-09-30T18:37:10.864297-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 833,
+    "views": 839,
     "likes": 14,
     "replies": 5,
     "reposts": 1,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -522,13 +505,13 @@
    "quando": "2026-09-30T19:07:09.621863-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 711,
+    "views": 724,
     "likes": 7,
     "replies": 34,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -539,13 +522,13 @@
    "quando": "2026-09-30T20:07:11.344298-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 260,
+    "views": 271,
     "likes": 2,
     "replies": 12,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -556,13 +539,13 @@
    "quando": "2026-09-30T21:07:10.285631-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "metricas": {
-    "views": 201,
+    "views": 211,
     "likes": 1,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -573,13 +556,13 @@
    "quando": "2026-09-30T21:37:13.948034-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 415,
+    "views": 423,
     "likes": 4,
     "replies": 6,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -590,13 +573,13 @@
    "quando": "2026-09-30T22:07:08.156050-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 676,
+    "views": 690,
     "likes": 6,
     "replies": 21,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -607,13 +590,13 @@
    "quando": "2026-10-01T08:07:12.278664-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 2823,
+    "views": 2869,
     "likes": 65,
-    "replies": 100,
+    "replies": 108,
     "reposts": 3,
     "quotes": 0,
     "shares": 1,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -624,13 +607,13 @@
    "quando": "2026-10-01T09:37:12.227942-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 517,
+    "views": 532,
     "likes": 5,
     "replies": 10,
     "reposts": 1,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -641,13 +624,13 @@
    "quando": "2026-10-01T10:07:14.441923-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 105,
+    "views": 119,
     "likes": 0,
     "replies": 3,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -658,13 +641,13 @@
    "quando": "2026-10-01T11:07:15.167680-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "metricas": {
-    "views": 1152,
-    "likes": 22,
+    "views": 1197,
+    "likes": 24,
     "replies": 19,
     "reposts": 2,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -675,13 +658,13 @@
    "quando": "2026-10-01T14:37:12.990945-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 875,
+    "views": 902,
     "likes": 3,
     "replies": 14,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -692,13 +675,13 @@
    "quando": "2026-10-01T16:07:10.063128-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "metricas": {
-    "views": 340,
+    "views": 366,
     "likes": 1,
     "replies": 4,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -709,13 +692,13 @@
    "quando": "2026-10-01T16:37:08.779943-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "metricas": {
-    "views": 395,
+    "views": 433,
     "likes": 2,
-    "replies": 6,
+    "replies": 8,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -726,13 +709,13 @@
    "quando": "2026-10-01T17:37:10.369426-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1786,
+    "views": 1917,
     "likes": 7,
     "replies": 21,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -743,13 +726,13 @@
    "quando": "2026-10-01T19:37:09.159244-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "metricas": {
-    "views": 91,
+    "views": 116,
     "likes": 1,
-    "replies": 6,
+    "replies": 8,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -760,13 +743,13 @@
    "quando": "2026-10-01T20:37:10.342510-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 268,
+    "views": 294,
     "likes": 1,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -777,13 +760,13 @@
    "quando": "2026-10-01T21:37:10.381701-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 567,
+    "views": 677,
     "likes": 5,
-    "replies": 15,
+    "replies": 16,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-02"
+    "em": "2026-10-03"
    }
   },
   {
@@ -792,7 +775,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: quem toma café com açúcar realmente sente o gosto do café ou só quer água com xarope quente de manhã.",
    "quando": "2026-10-02T08:07:09.600020-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 2327,
+    "likes": 13,
+    "replies": 67,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "18115517300116532",
@@ -800,7 +792,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: vale a pena passar anos estudando teoria na faculdade ou o caminho curto direto pra prática traz resultado mais rápido? Vejo tanta gente mudando de rota que fico pensando se o diploma ainda pesa tanto.",
    "quando": "2026-10-02T09:07:08.399914-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 383,
+    "likes": 2,
+    "replies": 17,
+    "reposts": 0,
+    "quotes": 1,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "18106520135190725",
@@ -808,7 +809,16 @@
    "link": "",
    "texto": "PESSOAS QUE leram um livro só na escola e hoje dão lição de moral na internet, como vocês conseguem essa paz de espírito 📚",
    "quando": "2026-10-02T10:07:10.911507-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 226,
+    "likes": 1,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "17977682021918313",
@@ -816,7 +826,16 @@
    "link": "",
    "texto": "Quem mais aqui já passou da fase de se quebrar no futebol de domingo e prefere mil vezes o churrasco? Ou a pelada ainda é sagrada?",
    "quando": "2026-10-02T11:07:09.550320-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 980,
+    "likes": 9,
+    "replies": 22,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "18565623907076552",
@@ -824,7 +843,16 @@
    "link": "",
    "texto": "SEM MENTIR: quem aqui já usou inteligência artificial para escrever mensagem para o crush. confesso que achei engenhoso, mas fico pensando se a outra pessoa percebeu.",
    "quando": "2026-10-02T12:07:10.597748-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 1629,
+    "likes": 10,
+    "replies": 54,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "18097741532099173",
@@ -832,7 +860,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: qual foi o maior sinal de alerta que a gente inventa justificativa para ignorar no começo do namoro?",
    "quando": "2026-10-02T13:07:10.072768-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 3856,
+    "likes": 11,
+    "replies": 4,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "18094286081242394",
@@ -840,7 +877,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: como vocês chamam aquele pão de padaria que é crocante por fora e macio por dentro? Em cada lugar que vou é um nome diferente e eu fico perdida.",
    "quando": "2026-10-02T14:07:09.142633-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 646,
+    "likes": 4,
+    "replies": 13,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "17909645082310635",
@@ -848,7 +894,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: em que momento da vida adulta a gente começa a achar normal ter dor nas costas só por ter dormido",
    "quando": "2026-10-02T14:37:09.071619-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 1595,
+    "likes": 24,
+    "replies": 10,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "17968067577176906",
@@ -856,7 +911,16 @@
    "link": "",
    "texto": "Quem mais aqui já foi julgado pela forma que escolheu pra ganhar a vida? Pelo visto pagar os próprios boletos em paz nunca é o suficiente.",
    "quando": "2026-10-02T16:07:09.012772-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 342,
+    "likes": 2,
+    "replies": 5,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "18093766889373946",
@@ -864,7 +928,16 @@
    "link": "",
    "texto": "SEM MENTIR: qual o carro dos seus sonhos e qual é o que tá na sua garagem hoje?\n\nA distância entre o que a gente queria acelerar e o boleto do IPVA que a gente aguenta pagar costuma ser de uns 200 mil reais.",
    "quando": "2026-10-02T17:37:09.006249-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 8316,
+    "likes": 43,
+    "replies": 186,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "18121402547515693",
@@ -872,7 +945,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: \nUma colega pediu aumento e o chefe apareceu no dia seguinte com uma plantinha de presente. \nVocês cuidavam da planta no puro ódio ou já começavam a mandar currículo ali mesmo?",
    "quando": "2026-10-02T18:37:08.734576-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 323,
+    "likes": 3,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "17961301389235555",
@@ -880,7 +962,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: você já voltou do meio do caminho só pra conferir se tinha mesmo trancado a porta?\n\nO pior é chegar lá e ver que ela tava trancada com duas voltas.",
    "quando": "2026-10-02T19:07:07.811766-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 213,
+    "likes": 1,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "18101072033635172",
@@ -888,7 +979,16 @@
    "link": "",
    "texto": "SEM MENTIR: qual foi a última vez que você avisou que tava no trânsito enquanto ainda procurava a chave de casa?\n\nEu juro que tento ser uma adulta pontual, mas às vezes apelo para a ficção desses dez minutinhos de engarrafamento.\n\nQuem mais se identifica?",
    "quando": "2026-10-02T21:07:10.188337-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 317,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   },
   {
    "id": "17898651726671893",
@@ -896,7 +996,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: quem já começou a brigar no grupo da família por causa de Inglaterra e Espanha?",
    "quando": "2026-10-02T22:07:07.436952-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 70,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-03"
+   }
   }
  ],
  "respondidos": [
@@ -1527,7 +1636,13 @@
   "18096772076399421",
   "18112911875125991",
   "18119315155738815",
-  "18073878749726635"
+  "18073878749726635",
+  "18186246535410865",
+  "17883581805688826",
+  "17971197723148046",
+  "18106995941187325",
+  "18037946558831286",
+  "18132036745678340"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1653,135 +1768,16 @@
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
-  "_data": "2026-10-02",
-  "d36403fdc6": 1,
-  "675497b15c": 1,
-  "46008d4029": 1,
-  "322756319a": 2,
-  "c7c01cbd13": 1,
-  "849f36dd75": 1,
-  "cfc994bb78": 1,
-  "c8ca6c32a4": 1,
-  "f47c0c6d0e": 1,
-  "4c52992342": 1,
-  "3db8885dba": 1,
-  "e8dc7af288": 1,
-  "eb8e874c87": 2,
-  "15c6f7441a": 1,
-  "cc6d1c46c8": 1,
-  "fa445de76a": 1,
-  "73558d0d69": 1,
-  "d43e8ca20d": 1,
-  "e14af3d036": 2,
-  "7a6fe87a21": 1,
-  "1084d160f2": 1,
-  "9160f129f3": 1,
-  "7535b0fd73": 1,
-  "601fbb1f44": 1,
-  "e8b8402afd": 2,
-  "cdaacb9a40": 1,
-  "6516bbb104": 1,
-  "1eb4ad9c86": 1,
-  "dc05debfd4": 1,
-  "65e7b03cde": 1,
-  "e54decfa12": 1,
-  "b0372194e7": 1,
-  "9352055ad7": 1,
-  "973fc007ec": 1,
-  "1de4776485": 1,
-  "ef631df2b2": 1,
-  "90d5e6fc16": 1,
-  "d1bf1f89e8": 1,
-  "a118013d7b": 1,
-  "6c2df02e58": 1,
-  "3aa7297417": 1,
-  "2b3c9aab39": 1,
-  "3578b9dad3": 1,
-  "13860d968a": 1,
-  "d8a9b0f5c4": 2,
-  "4774d1e432": 1,
-  "8251ec041b": 1,
-  "331135dc84": 1,
-  "a092d61fd6": 1,
-  "4a37576ba0": 1,
-  "9c526ecd38": 1,
-  "25763406df": 1,
-  "9d36e507ec": 1,
-  "b853925a17": 1,
-  "c6204bfc61": 1,
-  "4083f0d608": 1,
-  "38cf0bc797": 1,
-  "801b208447": 1,
-  "9e1cc41f4f": 1,
-  "cc59b78d35": 1,
-  "f60600ebdf": 1,
-  "26cbc4ac1e": 1,
-  "020ef9f07d": 1,
-  "0092ab61dd": 1,
-  "ae2a8e7324": 1,
-  "1325b98f55": 1,
-  "d80f82dc82": 1,
-  "82d1808bee": 1,
-  "3e3b798224": 1,
-  "c6ae75c242": 1,
-  "b9b6c4d7c3": 1,
-  "7e225653b4": 1,
-  "9ca0aecac3": 1,
-  "8ee72e279d": 1,
-  "1233dfafd7": 1,
-  "226e826c12": 1,
-  "a9f54577e9": 1,
-  "366f1c7be8": 1,
-  "344357b0cf": 1,
-  "ee523d83c4": 1,
-  "a7e1e8572d": 1,
-  "0428e10b31": 1,
-  "2b785c7000": 1,
-  "bdc824e649": 1,
-  "1210d92740": 1,
-  "ed8188dca1": 1,
-  "39dbd37a35": 1,
-  "bfa3f183a0": 1,
-  "1d9bcf1dc9": 1,
-  "cf223c22ca": 1,
-  "21946ae55c": 1,
-  "1d843c5a59": 1,
-  "1436979d8d": 1,
-  "724b641dd6": 1,
-  "726164a297": 1
+  "_data": "2026-10-03",
+  "b75f92e118": 1,
+  "a84027ba10": 1,
+  "d7d47417e9": 1,
+  "a69ab681f4": 1,
+  "47ebb7d390": 1,
+  "42acc1dbc0": 1
  },
- "reservas_checadas": "2026-10-02",
+ "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "o importante é levar a gente do ponto a ao b sem dor de cabeça",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a garagem tá bem espaçosa e econômica pelo menos kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "a Brasilia sozinha já carrega a personalidade da garagem inteira kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pé no chão mas com estilo né, o Renegade segura o tranco do dia a dia kkkk",
-   "p": "concorda",
-   "r": 4
-  },
-  {
-   "t": "subaru 96 é pura nostalgia mas o logan tá ali firme e forte segurando a bronca kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "corolla 2005 emprestado já é patrimônio histórico da família kkkkkkk",
-   "p": "concorda",
-   "r": 4
-  },
   {
    "t": "o salto de estilo foi forte mas o Lexus já tá muito bem na fita kkk",
    "p": "concorda",
@@ -1901,6 +1897,36 @@
    "t": "o salto do motor lendário para o utilitário do dia a dia é gigante kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "estrategia perfeita, garante o salario e deixa a planta lá de enfeite",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "economia garantida por pura falta de opção kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "o contraste entre o volvo e o citroen resume bem a nossa realidade financeira",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a moto certa no momento certo vale mais que qualquer carro kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "a vida vai mudando a rota e a gente aprende a negociar o que importa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o salto financeiro da garagem pro topo é enorme mas a mercedes já tá linda kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -1947,81 +1973,106 @@
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
  "exemplos_vistos": [
-  "18069523232766891",
-  "18459385276184078",
-  "18285422176289263",
-  "18094912616390743",
-  "18634657369029116",
-  "18161168437504066",
-  "18027227012692142",
-  "18113213018031626",
-  "18116925077090964",
-  "17984782986072944",
-  "18109914164143806",
-  "17927922210439291",
-  "18082139822329091",
-  "18497683198099542",
-  "18110268866521413",
-  "17908496052557816",
-  "18335967478285475",
-  "18120837592933268",
-  "18108982334599696",
-  "18132016063703881",
-  "18177364090449516",
-  "17879920404628904",
-  "18090378716280532",
-  "18115694528053601",
-  "18163950925487799",
-  "18114882100825869",
-  "17997447995822785",
-  "17906863833559342",
-  "18096747389644022",
-  "18631998049021230",
-  "18021400670715322",
-  "17907442629482346",
-  "18079219115431962",
-  "17892318582434660",
-  "18096954560549708",
-  "18071467721730800",
-  "18109275590611826",
-  "18051331004801317",
-  "18094135208544727",
-  "17911554354556978",
-  "18417490684158620",
-  "18491450740105963",
-  "18204336784371741",
-  "18456022396191866",
-  "18108345305594207",
-  "17897352048395688",
-  "17950599921295752",
-  "18014829782954502",
-  "17959179330225098",
-  "18170464573412264",
-  "17908149960486177",
-  "18123801926486818",
-  "18339553045269887",
-  "18332955241278576",
-  "18110287427146354",
-  "18073912466466425",
-  "18369950038214979",
-  "17937131694375460",
   "18127926811699599",
-  "18492127912108721",
-  "17948953083057527",
+  "18114309020029481",
+  "18132016063703881",
+  "18417490684158620",
+  "17897352048395688",
   "18635570998024657",
+  "17963104194207074",
+  "18030325466912938",
+  "18027227012692142",
+  "18096954560549708",
+  "18079219115431962",
+  "18634657369029116",
+  "18411621742088665",
+  "18213694846358675",
+  "18154396690515058",
+  "18021400670715322",
+  "18101775545376897",
+  "18110268866521413",
+  "18114943336824411",
+  "18123801926486818",
+  "18073384493567526",
+  "18421209049155906",
+  "17906863833559342",
+  "18094912616390743",
+  "18204336784371741",
+  "18051331004801317",
+  "18163950925487799",
+  "18043529066820143",
+  "18491450740105963",
+  "18176940304437596",
+  "18492127912108721",
+  "18082139822329091",
+  "18090378716280532",
+  "18071467721730800",
+  "17906616480569650",
+  "18114882100825869",
+  "18109914164143806",
+  "18369950038214979",
+  "18094135208544727",
+  "17925556089425779",
+  "17879920404628904",
+  "18110287427146354",
+  "18285422176289263",
+  "18631998049021230",
+  "17950599921295752",
+  "18120837592933268",
+  "18497683198099542",
+  "18170464573412264",
+  "18214334506350986",
+  "17892597258438366",
+  "17959179330225098",
+  "17997447995822785",
+  "18109275590611826",
+  "18070898129493339",
+  "18025226822704064",
+  "18332955241278576",
+  "17911554354556978",
+  "18113213018031626",
+  "18177364090449516",
+  "17892318582434660",
+  "18096110321673804",
+  "18456022396191866",
+  "17907442629482346",
+  "18096747389644022",
+  "18014829782954502",
+  "18137955163714233",
+  "18107512901596972",
+  "18115573313079602",
+  "17988836559104282",
+  "17908149960486177",
+  "18026262110700057",
+  "17927922210439291",
+  "18069523232766891",
+  "17908496052557816",
+  "18115694528053601",
+  "18074724326556172",
+  "18459385276184078",
+  "18130993828786479",
   "18004921337789505",
   "18024018362879480",
-  "18214334506350986",
-  "18070898129493339",
-  "18107512901596972",
+  "18009008270986885",
+  "18226082437334894",
+  "17948953083057527",
+  "17908783965473698",
+  "18352577458221806",
+  "18335967478285475",
+  "17984782986072944",
+  "18198117412381158",
+  "18339553045269887",
+  "18074059685473256",
   "18133016467780276",
-  "18101775545376897",
-  "17988836559104282",
-  "18114943336824411",
-  "18096110321673804",
-  "18043529066820143",
-  "18030325466912938",
-  "18108415799061502"
+  "18108415799061502",
+  "17937131694375460",
+  "18118193725983110",
+  "18194809495385686",
+  "18108345305594207",
+  "18116925077090964",
+  "18108982334599696",
+  "18073912466466425",
+  "18161168437504066"
  ],
  "perfil_metricas": [
   {
@@ -2033,88 +2084,93 @@
    "data": "2026-10-02",
    "views": 29991,
    "followers_count": 78
+  },
+  {
+   "data": "2026-10-03",
+   "views": 38435,
+   "followers_count": 84
   }
  ],
  "exemplos_dono": [
   {
-   "c": "De videos longos confesso que eu só estou curtindo atualmente ver o Heitir jogando Mario Kart com o pessoal que rende boas risadas, fora isso só os resumos do canal Nautilus que são muito bem feitos e",
-   "r": "canal q foge de marketing pesado já ganha muitos pontos comigo"
+   "c": "Sonho: Haval H6\nGaragem: Honda Hr-v",
+   "r": "o salto financeiro do sonho pra realidade costuma ser doloroso kkk"
   },
   {
-   "c": "Cadê a chave/republica coisa de nerd e o não importa",
-   "r": "o que é isso?"
+   "c": "O meu era na pura sorte com alguns erros kkkkkkk. Nunca tentei amg",
+   "r": "pura sorte com erro de digitação é clássico e funciona muito bem kkkk"
   },
   {
-   "c": "Quando é coisa diferente, pizza, sushi, lanche, etc, eu n perco a fome n kkkkk, mas já aconteceu isso com comida mais simples",
-   "r": "pizza e sushi realmente têm um poder mágico de barrar essa evaporação da fome kkkk"
+   "c": "Acho tosco, bizarro e falta de intelecto, paixão e nem sei mais o que pensar.\nFicaria decepcionado!",
+   "r": "respeito demais a sinceridade, o medo de perder o romantismo é real"
   },
   {
-   "c": "Sim e tive o privilégio de conhecer o dono da voz ao vivo varias vezes e ter fotos com ele! E ele sabe o efeito que causa",
-   "r": "nossa ter a prova viva disso é um privilégio raro"
+   "c": "Meu sonho : F150 Raptor ou Ranger raptor\nRealidade : C4 Lounge THP 2015 ( Aliás , tô muito feliz com a escolha )",
+   "r": "o importante é que a escolha deu bom e trouxe paz"
   },
   {
-   "c": "Kkkkkkk se apaixonar pelo um simples bom dia, o restante e só por foto no insta, e nada mais 🥹",
-   "r": "um bom dia bem dito já desmonta a gente inteira kkk"
+   "c": "Meu carro dos sonhos é um Bentley Continental GT.... O que tá na garagem hj não importa... 😉",
+   "r": "o mistério sobre o carro atual só aumenta o charme do sonho kkkkk"
   },
   {
-   "c": "Boticário, aquele do julgamento. Passei por tudo aquilo. E depois teve do adolescente com a tempestade. Acabou comigo.",
-   "r": "essa do julgamento é covardia pura com o nosso emocional"
+   "c": "Se não fossem os elétricos, seria sim.\n\nEu queria um carro grande, robusto, espartano e econômico.\n\nTenho um Cronos 2026 na garagem.",
+   "r": "o cronos novo resolve o dia a dia mas o tanque espartano ficou só na vontade"
   },
   {
-   "c": "eu tô numa pequena longe do trabalho, então se fosse perto, qualquer lugar estaria no lucro kkkkk",
-   "r": "perto do trabalho qualquer lugar vira luxo mesmo kkkk"
+   "c": "Várias vezes. Kkkkk",
+   "r": "essa volta obrigatória faz parte da rotina de todo mundo kkkk"
   },
   {
-   "c": "Pequena perto",
-   "r": "economia de tempo no trânsito vale demais"
+   "c": "Ja recebi, percebi e achei muito deselegante. \n\nTinha hífen no meio do texto e muitos outros sinais…",
+   "r": "o hífen e a pontuação perfeita são os maiores entregadores de jogo"
   },
   {
-   "c": "FECHA OS TREM QUE VOCÊ ABRE PELO AMOR DE DEEEEEEEUUUUSSSS",
-   "r": "socorro fechar armário virou questão de segurança nacional pelo visto kkkkkkkkkkkk"
+   "c": "Nem sempre o IPVA e o preço é o empecilho. Tenho um EV e uma AMG, mas quero um Opala que eu tive há mais de 20 anos 😥",
+   "r": "quem tem passado com opala nunca esquece a saudade kkkk"
   },
   {
-   "c": "No horário que a minha filha está na escola, bem, tranquila, alimentada e descansada, fora isso estou lidando com as demandas da casa e da maternidade 🥰",
-   "r": "maternidade e tarefas domesticas são o verdadeiro turno duplo sem hora pra acabar"
+   "c": "Eu tenho os dois que eu queria.\nMas vai saber se daqui um pouco eu não tô querendo outro 😏￼",
+   "r": "com uma garagem dessas em casa dá vontade de passear o dia inteiro kkkkk"
   },
   {
-   "c": "Acho que o fato do meu marido deixar todas as luzes acesas por onde passa.",
-   "r": "apagador de luz vira a principal ferramenta de sobrevivência doméstica kkk"
+   "c": "Curto carros antigos,hoje tenho um Monza SL/E 88 automático mas queria mesmo um Diplomata entre 85/87.",
+   "r": "monza antigo tem seu valor mas o diplomata é covardia de tão bonito kkkk"
   },
   {
-   "c": "Já fui casado. E a minha primeira discussão boba foi: o copo fica escorrendo na pia com a boca pra cima ou pra baixo. Obviamente, abri mão da minha opinião sobre isso rs (é bem boba mesmo haha)",
-   "r": "essa do copo é clássico de quem cedeu só pra paz reinar kkkk"
+   "c": "O meu fiesta ano 2007 meu primeiro carro e único",
+   "r": "primeiro carro fiel que segura a bronca de tudo é patrimônio da família"
   },
   {
-   "c": "Engraçado…. Eu não lembro da primeira discussão.\nMas lembro com detalhes a discussão do divórcio",
-   "r": "caraca foi direto pro boss final kkkk"
+   "c": "Pode ser cara esteja testando",
+   "r": "se for teste do chefe a gente já reprova no primeiro dia"
   },
   {
-   "c": "Ex casado aqui… não sei foi a primeira discussão, mas a mais boba disparado foi com a ração do gato, pouco tempo depois de casados. Era pra ter colocado o comedouro do lado de fora da porta da cozinha",
-   "r": "briga de gato dentro ou fora de casa tem potencial pra virar mini novela kkkk"
+   "c": "Uma Mercedes, que usada custa uns 500 mil reais. Só me falta 430.",
+   "r": "esse pequeno detalhe de quatrocentos mil reais é só um detalhe irrelevante kkkk"
   },
   {
-   "c": "Foi que quando morassemos juntos, as tarefas de casa seriam dividas. E eu tava fazendo tudo sozinho. Kkkk",
-   "r": "promessa de divisão de tarefas dura exatamente até o primeiro boleto kkkk"
+   "c": "Tenho um Palio 2012.\nMas o meu sonho de consumo é uma Blazer 4.3 V6 só pra sair educando a faixa da esquerda com um veículo que corre e que tem presença",
+   "r": "sair educando a faixa da esquerda com uma Blazer v6 é estilo de vida puro kkkkk"
   },
   {
-   "c": "Lembro da última seríssima que tivemos, achei que rolaria divórcio. \n\nA semana começa na segunda-feira ou no\ndomingo? Se eu treinar no domingo, conta para a semana 1 ou 2? Argumentação fortíssima de a",
-   "r": "nossa de divórcio por causa de calendário da semana foi longe demais"
+   "c": "Sempre quis ter uma Mitsubishi. (Qualquer uma kkkk era meu sonho de criança)\nHoje tenho uma Pajero. Conquistei minha Mitsubishi.\nEu já tenho o carro dos meus sonhos. 🙏",
+   "r": "zerou o jogo da infância com sucesso 🙏"
   },
   {
-   "c": "Período chuvoso, eu saí por último de casa e esqueci de fechar as janelas. Ele havia faxinado tudo no dia anterior, chegou e encontrou tudo molhado... Eu não tive grande culpa, sou lerda e esqueci,ele",
-   "r": "faxina recente com chuva é teste para qualquer relacionamento kkkk"
+   "c": "Meu sonho humilde e estético é o Veloster. O que está na minha garagem é um Fit 2005 que para a minha atual realidade foi muito maior que o meu sonho ✨",
+   "r": "esse fit entrega tudo e ainda sobra espaço pro resto da vida"
   },
   {
-   "c": "Roupas em cima da cama.",
-   "r": "roupa em cima da cama é um clássico que já começa testando a paz do casal kkkk"
+   "c": "Eu tenho um Corolla 2026-27 , mas sonho seria uma Mercedes",
+   "r": "o corolla resolve a vida mas a mercedes é covardia"
   },
   {
-   "c": "Comunhão total, o casamento tem que ser pra unir as vidas pra sempre, não parcialmente ou temporalmente ..",
-   "r": "para sempre é lindo mas o boleto chega todo mês para testar a fé na eternidade"
+   "c": "Sonho: Ferrari\nGaragem: Lexus UX250H",
+   "r": "o salto de estilo foi forte mas o Lexus já tá muito bem na fita kkk"
   },
   {
-   "c": "Antes era um plus e agora é pura necessidade",
-   "r": "pois é, virou questão de sobrevivência básica"
+   "c": "BYD king, mas na garagem um corolla 2005 q nem é meu! 🙄",
+   "r": "corolla 2005 emprestado já é patrimônio histórico da família kkkkkkk"
   }
  ]
 }
