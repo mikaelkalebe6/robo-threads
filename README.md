@@ -3,7 +3,7 @@
 Robô que posta e responde comentários no Threads usando só a API oficial da Meta.
 
 ## O que ele faz
-- Posta várias vezes por dia em horários sorteados (horário de Manaus), com texto escrito pela IA a partir dos ganchos da planilha.
+- Posta várias vezes por dia em horários sorteados (no fuso da Variable `FUSO`), com texto escrito pela IA a partir dos ganchos da planilha.
 - Responde comentários dos próprios posts no jeito da persona, com limites por rodada, por dia e por pessoa.
 - Não responde comentário que o dono já respondeu à mão. As respostas manuais viram exemplos para a IA.
 - Esconde (não apaga) spam e golpe.
@@ -36,3 +36,5 @@ Os arquivos de memória são escritos pelo robô. Não editar à mão.
 ## Botões úteis (Variables)
 - `PAUSADO=1`: o robô não faz nada.
 - `MODO_TESTE=1`: só mostra no log o que publicaria.
+- `FUSO`: fuso dos horários do robô (padrão `America/Manaus`).
+- `PERSONA_RESPOSTA`: personalidade das respostas. Sem ela, vale um texto genérico do código.

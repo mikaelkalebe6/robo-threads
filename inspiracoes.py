@@ -5,7 +5,7 @@ import os, re, sys, json, time, base64, hashlib, csv, io, html, urllib.request, 
 import datetime as dt
 from zoneinfo import ZoneInfo
 
-TZ = ZoneInfo("America/Manaus")
+TZ = ZoneInfo(os.environ.get("FUSO", "").strip() or "America/Manaus")  # Variable FUSO
 AQUI = os.path.dirname(os.path.abspath(__file__))
 ESTADO = os.path.join(AQUI, "inspiracoes_estado.json")
 SAIDA = os.path.join(AQUI, "inspiracoes_lidas.md")
@@ -54,7 +54,7 @@ def gemini(partes):
     raise erro
 
 
-PEDIDO = """Voce analisa conteudo de inspiracao para o perfil @lorenafleck_ no Threads (posts de engajamento em portugues do Brasil, tom leve e direto).
+PEDIDO = """Voce analisa conteudo de inspiracao para o perfil no Threads (posts de engajamento em portugues do Brasil, tom leve e direto).
 Responda em portugues do Brasil, sem travessoes, curto, neste formato:
 **Tipo:** (video, foto, texto, carrossel) | **Idioma original:** ...
 **Transcricao/Conteudo:** (se for video ou audio: transcreva a fala traduzida para portugues, no maximo 250 palavras; se for texto: resuma)

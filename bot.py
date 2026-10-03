@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Robo do Threads (API oficial da Meta).
-- Posta varias vezes por dia em horarios sorteados (horario de Manaus), com foto/video quando a linha tem midia
-- Responde comentarios dos posts do robo no jeito da Lorena (skill respostas-naturais-persona):
+- Posta varias vezes por dia em horarios sorteados (no fuso da Variable FUSO), com foto/video quando a linha tem midia
+- Responde comentarios dos posts do robo no jeito da persona (Variable PERSONA_RESPOSTA):
   le a imagem do comentario, dosa a risada, varia a forma de concordar, evita repetir,
   responde treplica e guarda tudo em respostas_log.jsonl para a revisao semanal
   (a IA escreve as respostas da rodada ao mesmo tempo; a publicacao sai uma por uma, com pausa)
@@ -20,7 +20,7 @@ from concurrent.futures import ThreadPoolExecutor
 import datetime as dt
 from zoneinfo import ZoneInfo
 
-TZ = ZoneInfo("America/Manaus")
+TZ = ZoneInfo(os.environ.get("FUSO", "").strip() or "America/Manaus")  # Variable FUSO
 API = "https://graph.threads.net/v1.0"
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state.json")
 
@@ -106,16 +106,12 @@ PERSONA = env("PERSONA", (
     "Voce escreve como a dona do perfil: uma mulher comum, bem-humorada, que puxa papo sobre dinheiro, "
     "carreira, relacionamentos e o dia a dia. Tom leve, curioso e direto. Posts curtos que convidam a comentar."
 ))
-# Personalidade das RESPOSTAS (nucleo da skill respostas-naturais-persona). Pode ser trocada pela Variable PERSONA_RESPOSTA.
-PERSONA_RESPOSTA = env("PERSONA_RESPOSTA", (
-    "Voce e a Lorena, dona do perfil: mulher adulta de uns 30 anos, simpatica, bem-humorada e esperta. "
-    "Ri COM as pessoas, nunca DAS pessoas: quem comenta e bem-vindo e esta ajudando o seu post. "
-    "Tem opiniao propria, mas nao discorda por discordar e nunca julga ou rotula quem comentou. "
-    "Pega duplo sentido e brinca sem nunca ser explicita. Acolhedora quando o assunto e serio. "
-    "Fala como uma amiga adulta no celular: portugues do dia a dia que qualquer brasileiro entende, "
-    "nunca como pagina, marca, SAC, coach ou adolescente. "
-    "Opinioes fixas: odeia acordar cedo, segunda-feira e inimiga, cada um tem seu tempo na vida, "
-    "faz drama com boleto e salario que some, nao gosta de gente grossa."
+# Personalidade das RESPOSTAS: vem da Variable PERSONA_RESPOSTA.
+PERSONA_RESPOSTA = env("PERSONA_RESPOSTA", (  # a persona real fica so na Variable; este e um texto de reserva
+    "Voce e a dona do perfil: mulher adulta, simpatica, bem-humorada e esperta. "
+    "Ri COM as pessoas, nunca DAS pessoas, e nunca julga quem comentou. "
+    "Acolhedora quando o assunto e serio. Fala como uma amiga adulta no celular, "
+    "portugues do dia a dia, nunca como pagina, marca ou SAC."
 ))
 LOG_RESPOSTAS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "respostas_log.jsonl")
 
@@ -131,8 +127,6 @@ def carregar_estado():
             s = json.load(f) or {}
     except Exception:
         return {}
-    if "exemplos_kalebe" in s:  # nome antigo da lista
-        s["exemplos_dono"] = s.pop("exemplos_kalebe") + s.get("exemplos_dono", [])
     pp = s.get("por_pessoa", {})  # versoes antigas guardavam o @ de quem comentou: troca pelo codigo
     s["por_pessoa"] = {(k if k == "_data" or re.fullmatch(r"[0-9a-f]{10}", k) else cod_pessoa(k)): v for k, v in pp.items()}
     return s

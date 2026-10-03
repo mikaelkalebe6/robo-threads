@@ -1,12 +1,9 @@
 name: Robo Threads
 
 on:
-  # Disparado so pelo despertador externo (cron-job.org), a cada 30 min, 7h as 23h37 de Manaus.
+  # Disparado so pelo despertador externo (cron-job.org), a cada 30 min, das 7h as 23h37 no fuso do robo.
   # O schedule interno do GitHub foi removido em 27/09/2026 (quase nunca disparava e gerava rodada dupla).
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 concurrency:
   group: robo-threads
@@ -15,9 +12,11 @@ concurrency:
 jobs:
   rodar:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # so para salvar a memoria do robo
     timeout-minutes: 8   # trava de seguranca: rodada normal leva 1 a 3 min
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
       # sem setup-python: usa o python3 que ja vem no servidor (economiza segundos em toda rodada).
       # o leitor de inspiracoes instala o yt-dlp com pip --user quando precisa.
       - name: Rodar robo
@@ -56,6 +55,7 @@ jobs:
           CHANCE_POST_RESERVA: ${{ vars.CHANCE_POST_RESERVA }}
           TESTE_RESERVA_ATE: ${{ vars.TESTE_RESERVA_ATE }}
           GEMINI_MODEL_RESPOSTA: ${{ vars.GEMINI_MODEL_RESPOSTA }}
+          FUSO: ${{ vars.FUSO }}
         run: python3 bot.py
       - name: Renovar token do Threads (automatico)
         if: always()
@@ -87,6 +87,7 @@ jobs:
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL_INSPIRACOES || 'gemini-flash-lite-latest' }}
           INSPIRACOES_URL: ${{ vars.INSPIRACOES_URL }}
           APPSHEET_APP: ${{ vars.APPSHEET_APP }}
+          FUSO: ${{ vars.FUSO }}
         run: python3 inspiracoes.py
       - name: Salvar memoria do robo
         if: always()
