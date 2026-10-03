@@ -19,27 +19,12 @@
    "08:39",
    "09:27",
    "10:16",
-   "10:59"
+   "10:59",
+   "12:08"
   ],
-  "respostas": 66
+  "respostas": 72
  },
  "posts": [
-  {
-   "id": "18138130741619752",
-   "insp": "38ecc56e84",
-   "link": "",
-   "texto": "SEJAM SINCEROS: ventilador barulhento a noite toda ou ar-condicionado geladinho e boleto chorando no fim do mês?",
-   "quando": "2026-09-28T09:37:11.694674-04:00",
-   "metricas": {
-    "views": 142,
-    "likes": 1,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-03"
-   }
-  },
   {
    "id": "17956463874017267",
    "insp": "7ba791c39f",
@@ -995,6 +980,14 @@
    "texto": "ACABEI DE PERCEBER: achei uma caixa antiga de lembranças e me dei conta de quanto tempo faz que não vejo a letra de alguém que eu gosto. Hoje em dia nossa rotina virou só áudio acelerado e mensagem rápida.\n\nQual foi a última vez que você recebeu um bilhete ou uma carta escrita à mão de verdade?",
    "quando": "2026-10-03T11:07:09.029655-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18120448615994554",
+   "insp": "143d9cb236",
+   "link": "",
+   "texto": "Quem mais aí atrai conversa de gente desconhecida do nada? Hoje no ônibus sentei do lado de uma mulher que me contou a separação inteira dela em quatro paradas. Desci agoniada sem saber o desfecho. Vocês também dão trela na rua ou vivem com o fone no máximo?",
+   "quando": "2026-10-03T12:37:08.109030-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1691,7 +1684,13 @@
   "18462344542187911",
   "18076868366415362",
   "18032838506896606",
-  "18131353267780036"
+  "18131353267780036",
+  "17909344764518687",
+  "18167735704480576",
+  "18216430483351046",
+  "18464384872186995",
+  "17951097813339559",
+  "17924154834205744"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1756,7 +1755,8 @@
   "f06cfd8bd6daeb806fe1417fcd35845f",
   "2edce8b75b92113d3a6c054b3392b162",
   "e981961ab12125d16d698ed03ea714d8",
-  "a4fc875f3921358e3ce35f496f8291d6"
+  "a4fc875f3921358e3ce35f496f8291d6",
+  "e994786418473778de5f52da380bc7e8"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1821,7 +1821,8 @@
   "d26d8b821e": 1791032846.9219635,
   "3a347dea45": 1791034644.2278385,
   "9c1e78bb9a": 1791038248.3376563,
-  "7d0b87a61f": 1791040054.20017
+  "7d0b87a61f": 1791040054.20017,
+  "143d9cb236": 1791045474.23247
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1890,40 +1891,16 @@
   "0e596db2e3": 1,
   "4246f568f3": 1,
   "b180ea109a": 1,
-  "580a05873a": 1
+  "580a05873a": 1,
+  "58d2abf28f": 1,
+  "40e4284ae0": 1,
+  "a1a5ed856c": 1,
+  "3b0af5b1bf": 1,
+  "6d56f5d0f2": 1,
+  "951152d0a1": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "esse pequeno detalhe do preço e do artista muda tudo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa é a verdadeira pergunta que não quer calar kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "a moto segura a onda com dignidade enquanto o carro dos sonhos espera a megasena",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "chevette oitenta e cinco é uma viagem no tempo bem estilosa kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse clássico da foto é covardia mas a garagem vazia é pura realidade kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "dois vectras e uma tucson é uma frota de respeito kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "o psiquiatra já deve ter internado junto com o paciente kkkkkk",
    "p": "concorda",
@@ -2043,6 +2020,36 @@
    "t": "esse contraste dói mas entrega muita personalidade kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "essa história do gordinho da faculdade virou lenda urbana em todo curso de computação",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o salto do hb20 pro lancer de oitocentos mil é um pequeno abismo financeiro kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "começar o projeto pelo astra já é um plano com muita personalidade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse uno quadradinho tem mais personalidade que muita caminhonete de trezentos mil kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o prisma aguenta o tranco mas a tracker continua no horizonte kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o hb20 resolve bem o dia a dia mas a propaganda faz a gente sonhar mesmo kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
