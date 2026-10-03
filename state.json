@@ -18,27 +18,12 @@
   "feitos": [
    "08:39",
    "09:27",
-   "10:16"
+   "10:16",
+   "10:59"
   ],
-  "respostas": 48
+  "respostas": 54
  },
  "posts": [
-  {
-   "id": "17884736979502919",
-   "insp": "3546666699",
-   "link": "",
-   "texto": "SEJAM SINCEROS: com que idade vocês saíram da casa dos pais?\n\nFico pensando se existe mesmo um momento ideal ou se a gente só vai na cara e na coragem quando a vida adulta aperta. \n\nQuantos anos você tinha quando deu esse passo? Deixa sua idade aqui nos comentários e me conta se foi no tempo certo.",
-   "quando": "2026-09-27T19:07:09.253953-04:00",
-   "metricas": {
-    "views": 336,
-    "likes": 0,
-    "replies": 22,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-03"
-   }
-  },
   {
    "id": "18138130741619752",
    "insp": "38ecc56e84",
@@ -1002,6 +987,14 @@
    "texto": "DÚVIDA SINCERA: se você pudesse mandar um único áudio de WhatsApp para a sua versão de 18 anos, qual seria o aviso mais urgente sobre dinheiro ou carreira?",
    "quando": "2026-10-03T10:37:09.220463-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18125642254808162",
+   "insp": "7d0b87a61f",
+   "link": "",
+   "texto": "ACABEI DE PERCEBER: achei uma caixa antiga de lembranças e me dei conta de quanto tempo faz que não vejo a letra de alguém que eu gosto. Hoje em dia nossa rotina virou só áudio acelerado e mensagem rápida.\n\nQual foi a última vez que você recebeu um bilhete ou uma carta escrita à mão de verdade?",
+   "quando": "2026-10-03T11:07:09.029655-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1680,7 +1673,13 @@
   "18629627020014997",
   "18355184275247981",
   "18111092489143029",
-  "17957743227016462"
+  "17957743227016462",
+  "18128700946799735",
+  "18125431717894137",
+  "18129056482838186",
+  "18118116004750917",
+  "18094424312551367",
+  "17888776221683453"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1744,7 +1743,8 @@
   "d88ece3c1749023b4d679fa9386bb59e",
   "f06cfd8bd6daeb806fe1417fcd35845f",
   "2edce8b75b92113d3a6c054b3392b162",
-  "e981961ab12125d16d698ed03ea714d8"
+  "e981961ab12125d16d698ed03ea714d8",
+  "a4fc875f3921358e3ce35f496f8291d6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1808,7 +1808,8 @@
   "20526bb3a2": 1790993249.785394,
   "d26d8b821e": 1791032846.9219635,
   "3a347dea45": 1791034644.2278385,
-  "9c1e78bb9a": 1791038248.3376563
+  "9c1e78bb9a": 1791038248.3376563,
+  "7d0b87a61f": 1791040054.20017
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1859,40 +1860,16 @@
   "2035a2115a": 1,
   "8067fdaac4": 1,
   "248e95f57f": 1,
-  "8aa948bbf5": 1
+  "8aa948bbf5": 1,
+  "26bc2e2e7b": 1,
+  "1cee6693b9": 1,
+  "4feb9c69cb": 1,
+  "c36c806abf": 1,
+  "916938b22e": 1,
+  "f5e403a4d2": 1
  },
  "reservas_checadas": "2026-10-03",
  "ultimas_respostas": [
-  {
-   "t": "quem comeca de mini elétrico já pula direto pro futuro silencioso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "comprar o batmóvel já exige o PIB de um país inteiro kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "livre do imposto e com um exemplar desses na garagem é privilégio de poucos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nietzsche sabia das coisas, papo bom ao vivo ainda é insubstituível",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos alguém mantém a sinceridade manual na praça kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o joelho aposenta bem antes da gente estar pronto pra parar 😭",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "o salto do corolla pro byd foi um belo upgrade kkk",
    "p": "concorda",
@@ -2012,6 +1989,36 @@
    "t": "do fury de 58 pro ka é uma viagem no tempo bem dramática kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "esse peso de tentar ser quem não é rouba a nossa paz e o nosso tempo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perdão mas o foco no carro que bateu foi o melhor detalhe dessa história kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "quando o show é bom o estrago no bolso dói menos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "garantir o lote um logo na abertura é a tática oficial pra não infartar com o preço",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse date sai bem mais em conta mas a qualidade da imagem varia muito kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa dor de perder o que tava logo ali do lado é cruel demais",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
