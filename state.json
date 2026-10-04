@@ -16,7 +16,7 @@
    "21:06"
   ],
   "feitos": [],
-  "respostas": 11
+  "respostas": 16
  },
  "posts": [
   {
@@ -1783,7 +1783,12 @@
   "17903495787571555",
   "18010697483971959",
   "17969338650179463",
-  "17969758461160793"
+  "17969758461160793",
+  "18596657092071096",
+  "17898720516604964",
+  "18196748425382239",
+  "18206373526369783",
+  "18345803977255025"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1944,35 +1949,15 @@
   "b1771b3802": 1,
   "eff37f8914": 1,
   "05500923f9": 1,
-  "1f68a47042": 1
+  "1f68a47042": 1,
+  "bf79e78b63": 1,
+  "dcf09b03a5": 1,
+  "7bc0f27b45": 1,
+  "9222731c58": 1,
+  "d29c7960da": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "essa perua francesa na garagem já é vitória garantida",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "mudou de categoria completamente, agora o IPVA vai ser cobrado em querosene kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "tecnicamente correto mas geograficamente inútil kkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "roupão é o uniforme oficial de quem venceu na vida",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "colocar sapato em casa já é um nível de compromisso profissional que eu respeito",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "disciplina de ferro para conseguir manter essa rotina todos os dias",
    "p": "concorda",
@@ -2097,6 +2082,31 @@
    "t": "comecar dorama e um caminho sem volta pra sanidade kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "essa exige uma paciência que nem todo mundo tem disponível",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa lista é um resumo oficial das desistências em massa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essas duas acumulam desistências logo no começo mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "duas pedreiras pra tentar engatar no começo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa entra direto na lista das que o ritmo não ajuda em nada",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
