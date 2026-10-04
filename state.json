@@ -24,28 +24,12 @@
    "14:38",
    "15:29",
    "16:49",
-   "17:50"
+   "17:50",
+   "18:52"
   ],
   "respostas": 100
  },
  "posts": [
-  {
-   "id": "18114365423332793",
-   "insp": "8afd53c3f1",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: vocês conseguem guardar uma parte do salário todo mês ou o dinheiro evapora antes do dia vinte? Queria entender se sou só eu que às vezes olho pra conta e me pergunto para onde foi tudo.",
-   "quando": "2026-09-30T09:07:10.052378-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 3169,
-    "likes": 25,
-    "replies": 37,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-10-04"
-   }
-  },
   {
    "id": "17936648637122403",
    "insp": "b5bc8dc34f",
@@ -967,6 +951,14 @@
    "texto": "ME CONTA: qual foi aquela compra que você pensou muito, deixou pra lá e até hoje se arrepende de não ter feito? Queria entender se a culpa foi o valor ou só indecisão mesmo.",
    "quando": "2026-10-04T18:07:08.634664-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17948454009322563",
+   "insp": "0fc3b77eb4",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: Um casal de amigos torrou o valor de uma entrada de imóvel numa festa de casamento e começou a vida a dois no vermelho. Vale a pena pagar tão caro por uma única noite ou é pura loucura?",
+   "quando": "2026-10-04T19:07:07.760926-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1889,7 +1881,8 @@
   "7e8e8b52d65dde96b279c2cc0141c93f",
   "64b08835f6b736d08313d4bb79bbb220",
   "a4e768a27641c2f85e4ba989256c01ea",
-  "f9c14049da594edaf143273a0023b7f0"
+  "f9c14049da594edaf143273a0023b7f0",
+  "567e5e93d54b87ab8fc3ee4e65cbc0e6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1971,7 +1964,8 @@
   "d3233367fd": 1791140845.51298,
   "dce953f387": 1791142652.6592295,
   "c638d9ff81": 1791148042.25671,
-  "c5cc27e19f": 1791151645.7283194
+  "c5cc27e19f": 1791151645.7283194,
+  "0fc3b77eb4": 1791155244.913814
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
