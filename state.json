@@ -17,27 +17,12 @@
   ],
   "feitos": [
    "08:33",
-   "09:45"
+   "09:45",
+   "10:51"
   ],
-  "respostas": 45
+  "respostas": 51
  },
  "posts": [
-  {
-   "id": "18465847714140415",
-   "insp": "cd232d0d3c",
-   "link": "",
-   "texto": "ME CONTA: qual foi a cidade mais subestimada que você já visitou? Eu fui achando que não ia ter nada pra fazer e voltei apaixonada.",
-   "quando": "2026-09-29T13:25:29.359706-04:00",
-   "metricas": {
-    "views": 38695,
-    "likes": 71,
-    "replies": 361,
-    "reposts": 0,
-    "quotes": 1,
-    "shares": 3,
-    "em": "2026-10-04"
-   }
-  },
   {
    "id": "18183951262422935",
    "insp": "fb72b5075b",
@@ -1021,6 +1006,14 @@
    "texto": "SEJAM SINCEROS: qual a mania mais estranha que vocês têm e ainda não contam? Eu ainda guardo guardanapos de todos os cafés que visito, tem até uma gaveta cheia de “memórias” de cappuccino. 😂\n\nE aí, tem alguma curiosidade que ninguém sabe?",
    "quando": "2026-10-04T10:07:09.848825-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18152407384556806",
+   "insp": "7d6d624d0c",
+   "link": "",
+   "texto": "SEJAM SINCEROS: para a galera que já passou dos 30, o joelho que começou a estalar primeiro foi o esquerdo ou o direito? \n\nEsquerdo\nDireito",
+   "quando": "2026-10-04T11:07:10.011751-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1805,7 +1798,13 @@
   "18381062707233811",
   "17955103323081503",
   "18236427115318451",
-  "17904393702348996"
+  "17904393702348996",
+  "18080366399352346",
+  "18627370426010367",
+  "18133727872658785",
+  "18117112085051404",
+  "18098724092636626",
+  "18234912622320331"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1880,7 +1879,8 @@
   "8fff55645ddedede79f9d7558c4d5347",
   "0c139e89b4d50fdff0fa5341a639e5bc",
   "c3a3b30d6dc4fc9245d1342151bf6b2a",
-  "5a3908b7e3e83ecc8b30cd9bbc3595cb"
+  "5a3908b7e3e83ecc8b30cd9bbc3595cb",
+  "3c5c7cf05984c1aefaaa17b19cd5619b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1955,7 +1955,8 @@
   "39b02ce282": 1791076070.1774423,
   "6d7d2f32e2": 1791079643.0164294,
   "3d41eeda62": 1791117448.2717893,
-  "4e6f1fb18b": 1791122845.40371
+  "4e6f1fb18b": 1791122845.40371,
+  "7d6d624d0c": 1791126454.4498146
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2003,40 +2004,16 @@
   "d6a9ada24c": 1,
   "f68017f954": 1,
   "558cc2a4a4": 1,
-  "9d5aacd666": 1
+  "9d5aacd666": 1,
+  "12a02dc68e": 1,
+  "129c02a9b3": 1,
+  "8496337d4e": 1,
+  "dbcde44fce": 1,
+  "dd4d5d243b": 1,
+  "deb23ff633": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "essa entra direto na lista das que o ritmo não ajuda em nada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sucessión exige um fôlego que nem todo mundo tem no primeiro episódio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse trio acumulou muito abandono no começo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa trilogia acumulou muitas desistencia no começo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "duas pedreiras oficializadas na desistencia em massa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "zero paciência é o resumo de várias que tentei ver",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa é um clássico de quem desiste correndo",
    "p": "neutra",
@@ -2156,6 +2133,36 @@
    "t": "farmacia quando tem crianca parece que cobra o dobro sem avisar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "método radical mas se funciona tá valendo kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa lista acumulou tantas desistências que virou um marco de resistência ao cansaço",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa aí exigia um nível de paciência que não sei se tenho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ter o estilo favorito e ainda assim não conseguir passar do inicio mostra que o cansaco vence mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essas duas são teste deresistencia mesmo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa quantidade prova que a paciência humana tem um limite bem curto kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
