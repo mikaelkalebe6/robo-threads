@@ -25,27 +25,12 @@
    "14:19",
    "15:43",
    "17:39",
-   "19:28"
+   "19:28",
+   "20:58"
   ],
   "respostas": 100
  },
  "posts": [
-  {
-   "id": "18169506337466989",
-   "insp": "f6d9ba8473",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: é normal a cabeça dar um nó do nada quando a rotina começa a pesar demais? Ontem juro que passei horas pensando em como seria sumir por uns dias sem dar satisfação pra ninguém, só pra ver o que acontecia. Quem nunca?",
-   "quando": "2026-09-28T21:37:08.485808-04:00",
-   "metricas": {
-    "views": 854,
-    "likes": 13,
-    "replies": 20,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-03"
-   }
-  },
   {
    "id": "18120277567977847",
    "insp": "08c5fced1d",
@@ -953,6 +938,14 @@
    "texto": "SEJAM SINCEROS: qual foi o gasto com criança que ninguém te avisou antes e te pegou de surpresa?",
    "quando": "2026-10-03T19:37:07.608662-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18027138863883219",
+   "insp": "39b02ce282",
+   "link": "",
+   "texto": "PESSOAS QUE TRABALHAM COM PÚBLICO: qual foi o cliente mais sem noção que já apareceu na sua frente?",
+   "quando": "2026-10-03T21:07:27.096518-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1762,7 +1755,8 @@
   "51d047d8e532aa14973f2a2d58d057f9",
   "f3b44bc7b4b91707ffc69155720af6ab",
   "aece3aafa1dd599e3af52ead674b2974",
-  "31ff36337e441b9af0d5f20df8e227ea"
+  "31ff36337e441b9af0d5f20df8e227ea",
+  "8fff55645ddedede79f9d7558c4d5347"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1833,7 +1827,8 @@
   "120d39bc61": 1791052643.211581,
   "880c48c090": 1791058075.4252539,
   "c5b66c6c5b": 1791065245.2783217,
-  "20b4497ce2": 1791070649.591163
+  "20b4497ce2": 1791070649.591163,
+  "39b02ce282": 1791076070.1774423
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
