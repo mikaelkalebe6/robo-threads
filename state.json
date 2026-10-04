@@ -21,28 +21,12 @@
    "10:51",
    "12:24",
    "13:46",
-   "14:38"
+   "14:38",
+   "15:29"
   ],
-  "respostas": 99
+  "respostas": 100
  },
  "posts": [
-  {
-   "id": "18115817942107372",
-   "insp": "09e842892c",
-   "link": "",
-   "texto": "SEJAM SINCEROS: quem foi que inventou que a vida adulta é só boleto e sofrimento porque eu tô achando a parte de não fazer nada no domingo bem aceitável",
-   "quando": "2026-09-29T20:07:09.556199-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 569,
-    "likes": 9,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-04"
-   }
-  },
   {
    "id": "17905405122570901",
    "insp": "6447474ad3",
@@ -991,6 +975,14 @@
    "texto": "ME CONTA: qual é o assunto que tem 100% de chance de virar barraco no almoço de família de vocês? Na minha é futebol, todo santo domingo alguém sai da mesa bravo.",
    "quando": "2026-10-04T15:07:09.893804-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18234677503320142",
+   "insp": "dce953f387",
+   "link": "",
+   "texto": "SEM MENTIR: vocês respondem na hora ou leem pela barra de notificação só pra fingir que ainda não viram?",
+   "quando": "2026-10-04T15:37:08.493797-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1830,7 +1822,8 @@
   "17869903965648146",
   "17912239188509760",
   "18077181299406610",
-  "18127797103859828"
+  "18127797103859828",
+  "18144727450598377"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1909,7 +1902,8 @@
   "3c5c7cf05984c1aefaaa17b19cd5619b",
   "63c894bcdc7c509a7fce9401836e3b60",
   "d0bcfa7ea92f88947eed97176a27c669",
-  "7e8e8b52d65dde96b279c2cc0141c93f"
+  "7e8e8b52d65dde96b279c2cc0141c93f",
+  "64b08835f6b736d08313d4bb79bbb220"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1988,7 +1982,8 @@
   "7d6d624d0c": 1791126454.4498146,
   "5d46bb3702": 1791131871.1175742,
   "23a8ecfd7a": 1791137246.3924928,
-  "d3233367fd": 1791140845.51298
+  "d3233367fd": 1791140845.51298,
+  "dce953f387": 1791142652.6592295
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2089,15 +2084,11 @@
   "aebc2c3d59": 1,
   "e989f0fcfc": 1,
   "b0c9bfd0a2": 1,
-  "64e82bf6c3": 1
+  "64e82bf6c3": 1,
+  "cb1ce0071b": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "exato, quem dorme junto todo dia não precisa guardar segredo de estado",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa lista tem alguns dos maiores pesos pesados do streaming que a gente desiste no primeiro obstaculo",
    "p": "concorda",
@@ -2242,6 +2233,11 @@
    "t": "essa tem defensora ferrenha mas o começo realmente testa a paciencia kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "esse tipo de desculpa pronta sempre consegue piorar a situacao",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
