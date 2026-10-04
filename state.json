@@ -21,7 +21,7 @@
    "10:51",
    "12:24"
   ],
-  "respostas": 75
+  "respostas": 81
  },
  "posts": [
   {
@@ -1821,7 +1821,13 @@
   "18119563754473481",
   "17989186490867705",
   "18010010405969810",
-  "18159254587500603"
+  "18159254587500603",
+  "18099959531067514",
+  "18063356765523733",
+  "18127108421318010",
+  "18072623147565598",
+  "18448594426123151",
+  "18312412483304935"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2053,40 +2059,16 @@
   "1deab9b408": 1,
   "9fac97c4f1": 1,
   "71396c7be9": 1,
-  "943d2c53c3": 1
+  "943d2c53c3": 1,
+  "062b6cc439": 1,
+  "482363043f": 1,
+  "6f33e88819": 1,
+  "35bdd21b81": 1,
+  "3ca0f2327d": 1,
+  "37a4430333": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "método radical mas se funciona tá valendo kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa lista acumulou tantas desistências que virou um marco de resistência ao cansaço",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa aí exigia um nível de paciência que não sei se tenho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ter o estilo favorito e ainda assim não conseguir passar do inicio mostra que o cansaco vence mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essas duas são teste deresistencia mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa quantidade prova que a paciência humana tem um limite bem curto kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "se eu abrir essa gaveta cai um monte de guardanapo na sua cara",
    "p": "concorda",
@@ -2206,6 +2188,36 @@
    "t": "feira inteira pra durar tres dias é um mistério",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "serie que serve de remedio para insonia cumpre um papel nobre kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "dexter logo no inicio exige uma coragem que eu não tenho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa é famosa por ter um ritmo bem específico mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "vacina particular parece plano de saude de tanto que assusta kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "perrengue só é bom com o tempo seguro de distância kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse odio matinal é o preço que a gente paga por quinze minutos a mais de sono",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
