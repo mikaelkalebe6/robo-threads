@@ -16,27 +16,12 @@
    "21:06"
   ],
   "feitos": [
-   "08:33"
+   "08:33",
+   "09:45"
   ],
-  "respostas": 34
+  "respostas": 39
  },
  "posts": [
-  {
-   "id": "18465035737185312",
-   "insp": "c71e576931",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: por que todo mundo finge que boletos e burocracias são fáceis de entender na primeira tentativa? Tem coisa de adulto que parece um idioma secreto que a gente só concorda em silêncio.",
-   "quando": "2026-09-29T11:37:12.747959-04:00",
-   "metricas": {
-    "views": 591,
-    "likes": 5,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-04"
-   }
-  },
   {
    "id": "18465847714140415",
    "insp": "cd232d0d3c",
@@ -1028,6 +1013,14 @@
    "texto": "SEJAM SINCEROS: antes dos 40, qual parada você vai garantir?  \nChapada dos Veadeiros ou Lençóis Maranhenses 🌎  \n\nQual dos dois já está na sua lista?",
    "quando": "2026-10-04T08:37:08.831632-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18105099868970989",
+   "insp": "4e6f1fb18b",
+   "link": "",
+   "texto": "SEJAM SINCEROS: qual a mania mais estranha que vocês têm e ainda não contam? Eu ainda guardo guardanapos de todos os cafés que visito, tem até uma gaveta cheia de “memórias” de cappuccino. 😂\n\nE aí, tem alguma curiosidade que ninguém sabe?",
+   "quando": "2026-10-04T10:07:09.848825-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -1801,7 +1794,12 @@
   "18393841756164184",
   "18132396799739336",
   "18117552721996752",
-  "18633362671053593"
+  "18633362671053593",
+  "18129393598823667",
+  "18008551172969049",
+  "18283085056292181",
+  "18103768628576553",
+  "18179497753486274"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1875,7 +1873,8 @@
   "31ff36337e441b9af0d5f20df8e227ea",
   "8fff55645ddedede79f9d7558c4d5347",
   "0c139e89b4d50fdff0fa5341a639e5bc",
-  "c3a3b30d6dc4fc9245d1342151bf6b2a"
+  "c3a3b30d6dc4fc9245d1342151bf6b2a",
+  "5a3908b7e3e83ecc8b30cd9bbc3595cb"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1949,7 +1948,8 @@
   "20b4497ce2": 1791070649.591163,
   "39b02ce282": 1791076070.1774423,
   "6d7d2f32e2": 1791079643.0164294,
-  "3d41eeda62": 1791117448.2717893
+  "3d41eeda62": 1791117448.2717893,
+  "4e6f1fb18b": 1791122845.40371
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1987,35 +1987,15 @@
   "66ed3e11f4": 1,
   "c15f11683d": 1,
   "4600fd20a6": 1,
-  "511a20ad80": 1
+  "511a20ad80": 1,
+  "0fecdd1623": 1,
+  "8bdb9b47d3": 1,
+  "0db77694e4": 1,
+  "6957a373c1": 1,
+  "58d9ba9dff": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "prison break pedia paciência demais confesso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa exige coragem pra passar dos primeiros episódios kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "dar uma segunda chance depois de anos é para os fortes kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "acabar a primeira temporada dormindo e voltando é quase uma maratona olímpica kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essas duas são campeãs em fazer a gente desistir logo no começo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa é o tipo de série que o cansaço venceu a gente rapidinho kkkkkk",
    "p": "concorda",
@@ -2140,6 +2120,31 @@
    "t": "fralda de uso diário é um boleto disfarçado de item básico",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "essa lista aí tem os pesos pesados que vencem qualquer um pelo cansaço kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "suco de laranja em restaurante tem preço de oásis no deserto kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "terapias e consultas especializadas pesam muito no orçamento e ninguém avisa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "escola infantil pesa tanto no orçamento que deveria vir com aviso prévio",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pior que o boleto muda de tamanho mas nunca some kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
