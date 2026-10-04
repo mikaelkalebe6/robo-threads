@@ -20,7 +20,7 @@
    "09:45",
    "10:51"
   ],
-  "respostas": 57
+  "respostas": 63
  },
  "posts": [
   {
@@ -1810,7 +1810,13 @@
   "18227424265327378",
   "17979695640105948",
   "18026442917882927",
-  "17933330949147971"
+  "17933330949147971",
+  "18100624409454665",
+  "18151131610531442",
+  "17911064166492645",
+  "18150793489474877",
+  "17972782527151835",
+  "18222864055338133"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2022,40 +2028,16 @@
   "8bf98e1abf": 1,
   "2ec03a7752": 1,
   "e42711ab42": 1,
-  "05633e2767": 1
+  "05633e2767": 1,
+  "10989d2f99": 1,
+  "a2a65bea75": 1,
+  "0bf30c84b3": 1,
+  "67cfae4b8e": 1,
+  "b74a5dbc0a": 1,
+  "0763695e10": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "farmacia com crianca parece que cobra o dobro só de maldade kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse lugar é bom demais para ir antes dos quarenta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "vinte minutos já é um voto de confiança enorme nos dias de hoje kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sobrevivendo à rotina pesada ninguém tem cabeça pra sofrer assistindo série",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse bigode famoso aí coleciona desistências logo no começo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "creche particular e consultas fora do plano pesam muito no orçamento sem avisar",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "fralda de uso diário é um boleto disfarçado de item básico",
    "p": "concorda",
@@ -2173,6 +2155,36 @@
   },
   {
    "t": "essa maratona de dias temáticos na escola é de matar o bolso",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "porta xícara de crochê tem aquele charme de casa de vó que eu adoro kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "parar de beber foi o fim de uma era pra essa coleção kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "duas pedreiras que muita gente deixa pelo caminho",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa é o melhor sonífero disfarçado de sucesso kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "criança comendo desse jeito é um poço sem fundo kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "alergia alimentar é daquelas surpresas que pesam muito no mercado",
    "p": "concorda",
    "r": 0
   }
