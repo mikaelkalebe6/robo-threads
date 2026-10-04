@@ -26,27 +26,12 @@
    "15:43",
    "17:39",
    "19:28",
-   "20:58"
+   "20:58",
+   "21:45"
   ],
   "respostas": 100
  },
  "posts": [
-  {
-   "id": "18120277567977847",
-   "insp": "08c5fced1d",
-   "link": "",
-   "texto": "SEJAM SINCEROS: qual app você apagaria agora mesmo se pudesse ter só três no celular?",
-   "quando": "2026-09-29T09:07:12.976607-04:00",
-   "metricas": {
-    "views": 497,
-    "likes": 0,
-    "replies": 15,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-03"
-   }
-  },
   {
    "id": "17954234199257769",
    "insp": "4c34f415ce",
@@ -946,6 +931,14 @@
    "texto": "PESSOAS QUE TRABALHAM COM PÚBLICO: qual foi o cliente mais sem noção que já apareceu na sua frente?",
    "quando": "2026-10-03T21:07:27.096518-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17962360311229899",
+   "insp": "6d7d2f32e2",
+   "link": "",
+   "texto": "SEJAM SINCEROS: quantas séries famosas vocês já abandonaram logo nos primeiros minutos porque o ritmo não me prendeu de jeito nenhum? A gente tenta acompanhar o hype, mas o cansaço vence.",
+   "quando": "2026-10-03T22:07:08.232231-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1756,7 +1749,8 @@
   "f3b44bc7b4b91707ffc69155720af6ab",
   "aece3aafa1dd599e3af52ead674b2974",
   "31ff36337e441b9af0d5f20df8e227ea",
-  "8fff55645ddedede79f9d7558c4d5347"
+  "8fff55645ddedede79f9d7558c4d5347",
+  "0c139e89b4d50fdff0fa5341a639e5bc"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1828,7 +1822,8 @@
   "880c48c090": 1791058075.4252539,
   "c5b66c6c5b": 1791065245.2783217,
   "20b4497ce2": 1791070649.591163,
-  "39b02ce282": 1791076070.1774423
+  "39b02ce282": 1791076070.1774423,
+  "6d7d2f32e2": 1791079643.0164294
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
