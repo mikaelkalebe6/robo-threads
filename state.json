@@ -20,28 +20,12 @@
    "09:45",
    "10:51",
    "12:24",
-   "13:46"
+   "13:46",
+   "14:38"
   ],
-  "respostas": 93
+  "respostas": 99
  },
  "posts": [
-  {
-   "id": "18061892768525973",
-   "insp": "573ba90908",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: Qual clipe dos VMA ainda faz seu coração bater quando lembra a adolescência? Eu ainda fico na pilha toda vez que escuto aquele refrão 🎧. E o seu?",
-   "quando": "2026-09-29T19:37:09.315886-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 279,
-    "likes": 2,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-04"
-   }
-  },
   {
    "id": "18115817942107372",
    "insp": "09e842892c",
@@ -999,6 +983,14 @@
    "texto": "DÚVIDA SINCERA: a vizinha bate na porta pedindo sal e fica duas horas contando a vida dela. Vocês deixariam entrar ou fingiriam que não estão em casa?",
    "quando": "2026-10-04T14:07:09.250805-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18423724351146165",
+   "insp": "d3233367fd",
+   "link": "",
+   "texto": "ME CONTA: qual é o assunto que tem 100% de chance de virar barraco no almoço de família de vocês? Na minha é futebol, todo santo domingo alguém sai da mesa bravo.",
+   "quando": "2026-10-04T15:07:09.893804-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1832,7 +1824,13 @@
   "17909195562489946",
   "18079648409342515",
   "17918269305444116",
-  "18118022540076924"
+  "18118022540076924",
+  "18109833881230982",
+  "18165533158486374",
+  "17869903965648146",
+  "17912239188509760",
+  "18077181299406610",
+  "18127797103859828"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1910,7 +1908,8 @@
   "5a3908b7e3e83ecc8b30cd9bbc3595cb",
   "3c5c7cf05984c1aefaaa17b19cd5619b",
   "63c894bcdc7c509a7fce9401836e3b60",
-  "d0bcfa7ea92f88947eed97176a27c669"
+  "d0bcfa7ea92f88947eed97176a27c669",
+  "7e8e8b52d65dde96b279c2cc0141c93f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1988,7 +1987,8 @@
   "4e6f1fb18b": 1791122845.40371,
   "7d6d624d0c": 1791126454.4498146,
   "5d46bb3702": 1791131871.1175742,
-  "23a8ecfd7a": 1791137246.3924928
+  "23a8ecfd7a": 1791137246.3924928,
+  "d3233367fd": 1791140845.51298
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2083,40 +2083,16 @@
   "5439368521": 1,
   "43012ad5b7": 1,
   "43b4c27ff2": 1,
-  "a3313a7f82": 1
+  "a3313a7f82": 1,
+  "f6a1606e31": 1,
+  "413590e667": 1,
+  "aebc2c3d59": 1,
+  "e989f0fcfc": 1,
+  "b0c9bfd0a2": 1,
+  "64e82bf6c3": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "estratégia de guerra escolher a cabine certa kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse barulhinho da coca-cola deve dar um toque especial pra mania kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pagar pra ver série longa e arriscada não tá com nada kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "passar desse trecho inicial exige uma paciencia que a gente simplesmente não tem no fim do dia",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "duas pedreiras difíceis de encarar até o fim",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cinco aniversários por mes é um boleto coletivo disfarçado de festa",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "exato, quem dorme junto todo dia não precisa guardar segredo de estado",
    "p": "concorda",
@@ -2236,6 +2212,36 @@
    "t": "essa é clássica, pouca gente aguenta o começo pra chegar nos episódios bons kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "duas gigantes que muita gente deixa pelo caminho logo no começo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "comprar essa briga com todas as famosas de uma vez é muita coragem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "previsível demais acaba cansando a gente mesmo antes da metade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa é famosa por exigir um mapa pra não se perder no enredo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa acumulou desistência logo nos primeiros minutos kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa tem defensora ferrenha mas o começo realmente testa a paciencia kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
