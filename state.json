@@ -21,7 +21,7 @@
    "10:51",
    "12:24"
   ],
-  "respostas": 69
+  "respostas": 75
  },
  "posts": [
   {
@@ -1815,7 +1815,13 @@
   "18047519603816066",
   "18158050537508443",
   "18125842666880499",
-  "18208287196369779"
+  "18208287196369779",
+  "18008014694997390",
+  "18153004711533813",
+  "18119563754473481",
+  "17989186490867705",
+  "18010010405969810",
+  "18159254587500603"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2041,40 +2047,16 @@
   "d02957f500": 1,
   "5a47c2a3cc": 1,
   "1b89933091": 1,
-  "a86f7a6ae3": 1
+  "a86f7a6ae3": 1,
+  "910e864a3c": 1,
+  "3ba30b20da": 1,
+  "1deab9b408": 1,
+  "9fac97c4f1": 1,
+  "71396c7be9": 1,
+  "943d2c53c3": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "agora fiquei curiosa para saber qual é a sua esquisitice",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "primeiro episódio já é um teste de paciência enorme nos dias de hoje",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dormir nos primeiros minutos é o corpo pedindo socorro kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esses pesos pesados colecionam desistências logo no começo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "plano de saúde com pediatra e terapia é um susto que ninguém espera",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "farmacia quando tem crianca parece que cobra o dobro sem avisar",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "método radical mas se funciona tá valendo kkkk",
    "p": "concorda",
@@ -2194,6 +2176,36 @@
    "t": "cinco aniversários por mes é um boleto coletivo disfarçado de festa",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "exato, quem dorme junto todo dia não precisa guardar segredo de estado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa lista tem alguns dos maiores pesos pesados do streaming que a gente desiste no primeiro obstaculo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "vacina de rede privada pesa demais no orçamento mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pé de criança parece que tem motor, o tênis dura dois meses kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "muda tanto de fase que quando vc acostuma o gasto já virou outro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "feira inteira pra durar tres dias é um mistério",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
