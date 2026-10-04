@@ -18,27 +18,12 @@
   "feitos": [
    "08:33",
    "09:45",
-   "10:51"
+   "10:51",
+   "12:24"
   ],
-  "respostas": 63
+  "respostas": 69
  },
  "posts": [
-  {
-   "id": "18183951262422935",
-   "insp": "fb72b5075b",
-   "link": "",
-   "texto": "Quem mais tem a sensação de que existem milhares de profissões misteriosas por aí que pagam super bem e a gente só fica sabendo tarde demais?",
-   "quando": "2026-09-29T14:07:09.741832-04:00",
-   "metricas": {
-    "views": 368,
-    "likes": 8,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-04"
-   }
-  },
   {
    "id": "18396832552205152",
    "insp": "0445902113",
@@ -1014,6 +999,14 @@
    "texto": "SEJAM SINCEROS: para a galera que já passou dos 30, o joelho que começou a estalar primeiro foi o esquerdo ou o direito? \n\nEsquerdo\nDireito",
    "quando": "2026-10-04T11:07:10.011751-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18117567934950574",
+   "insp": "5d46bb3702",
+   "link": "",
+   "texto": "Quem mais aqui acha que casal não precisa desse mistério todo com senha de celular? Não é sobre fuçar a vida alheia, é só sobre praticidade e não ter nada pra esconder. Tem gente que defende a privacidade como se fosse segredo de estado, eu acho meio esquisito.",
+   "quando": "2026-10-04T12:37:07.723500-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1816,7 +1809,13 @@
   "17911064166492645",
   "18150793489474877",
   "17972782527151835",
-  "18222864055338133"
+  "18222864055338133",
+  "18116619398069654",
+  "18633295495026835",
+  "18047519603816066",
+  "18158050537508443",
+  "18125842666880499",
+  "18208287196369779"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1892,7 +1891,8 @@
   "0c139e89b4d50fdff0fa5341a639e5bc",
   "c3a3b30d6dc4fc9245d1342151bf6b2a",
   "5a3908b7e3e83ecc8b30cd9bbc3595cb",
-  "3c5c7cf05984c1aefaaa17b19cd5619b"
+  "3c5c7cf05984c1aefaaa17b19cd5619b",
+  "63c894bcdc7c509a7fce9401836e3b60"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1968,7 +1968,8 @@
   "6d7d2f32e2": 1791079643.0164294,
   "3d41eeda62": 1791117448.2717893,
   "4e6f1fb18b": 1791122845.40371,
-  "7d6d624d0c": 1791126454.4498146
+  "7d6d624d0c": 1791126454.4498146,
+  "5d46bb3702": 1791131871.1175742
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2034,40 +2035,16 @@
   "0bf30c84b3": 1,
   "67cfae4b8e": 1,
   "b74a5dbc0a": 1,
-  "0763695e10": 1
+  "0763695e10": 1,
+  "0c389b5bd5": 1,
+  "a4ea216025": 1,
+  "d02957f500": 1,
+  "5a47c2a3cc": 1,
+  "1b89933091": 1,
+  "a86f7a6ae3": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "fralda de uso diário é um boleto disfarçado de item básico",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa lista aí tem os pesos pesados que vencem qualquer um pelo cansaço kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "suco de laranja em restaurante tem preço de oásis no deserto kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "terapias e consultas especializadas pesam muito no orçamento e ninguém avisa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "escola infantil pesa tanto no orçamento que deveria vir com aviso prévio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pior que o boleto muda de tamanho mas nunca some kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "agora fiquei curiosa para saber qual é a sua esquisitice",
    "p": "concorda",
@@ -2185,6 +2162,36 @@
   },
   {
    "t": "alergia alimentar é daquelas surpresas que pesam muito no mercado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia de guerra escolher a cabine certa kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse barulhinho da coca-cola deve dar um toque especial pra mania kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pagar pra ver série longa e arriscada não tá com nada kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "passar desse trecho inicial exige uma paciencia que a gente simplesmente não tem no fim do dia",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "duas pedreiras difíceis de encarar até o fim",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cinco aniversários por mes é um boleto coletivo disfarçado de festa",
    "p": "concorda",
    "r": 0
   }
