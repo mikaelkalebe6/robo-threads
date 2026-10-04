@@ -23,28 +23,12 @@
    "13:46",
    "14:38",
    "15:29",
-   "16:49"
+   "16:49",
+   "17:50"
   ],
   "respostas": 100
  },
  "posts": [
-  {
-   "id": "18629096797003443",
-   "insp": "fd6c7eeb28",
-   "link": "",
-   "texto": "SEJAM SINCEROS: a maior furada financeira que a internet inventou foi essa de que a gente precisa investir antes de ter uma reserva de paz. No fim das contas, paz de espírito paga mais boleto que dica de milhagem.",
-   "quando": "2026-09-30T08:37:11.794228-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 630,
-    "likes": 6,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-04"
-   }
-  },
   {
    "id": "18114365423332793",
    "insp": "8afd53c3f1",
@@ -975,6 +959,14 @@
    "texto": "SEM MENTIR: uma semana sem internet eu consigo sobreviver, mas um mês sem doce? Não dá, preciso daquele açúcar pra dar aquele gás nas ideias. 🍬 E vocês, o que escolheriam?",
    "quando": "2026-10-04T17:07:11.168141-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18115684799079677",
+   "insp": "c5cc27e19f",
+   "link": "",
+   "texto": "ME CONTA: qual foi aquela compra que você pensou muito, deixou pra lá e até hoje se arrepende de não ter feito? Queria entender se a culpa foi o valor ou só indecisão mesmo.",
+   "quando": "2026-10-04T18:07:08.634664-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1896,7 +1888,8 @@
   "d0bcfa7ea92f88947eed97176a27c669",
   "7e8e8b52d65dde96b279c2cc0141c93f",
   "64b08835f6b736d08313d4bb79bbb220",
-  "a4e768a27641c2f85e4ba989256c01ea"
+  "a4e768a27641c2f85e4ba989256c01ea",
+  "f9c14049da594edaf143273a0023b7f0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1977,7 +1970,8 @@
   "23a8ecfd7a": 1791137246.3924928,
   "d3233367fd": 1791140845.51298,
   "dce953f387": 1791142652.6592295,
-  "c638d9ff81": 1791148042.25671
+  "c638d9ff81": 1791148042.25671,
+  "c5cc27e19f": 1791151645.7283194
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
