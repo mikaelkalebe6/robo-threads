@@ -16,7 +16,7 @@
    "21:06"
   ],
   "feitos": [],
-  "respostas": 5
+  "respostas": 11
  },
  "posts": [
   {
@@ -1777,7 +1777,13 @@
   "18033008342891617",
   "18195793465387285",
   "17885132139622142",
-  "17936135334390900"
+  "17936135334390900",
+  "18103343180168928",
+  "17923244829433461",
+  "17903495787571555",
+  "18010697483971959",
+  "17969338650179463",
+  "17969758461160793"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1932,40 +1938,16 @@
   "81c5ac015a": 1,
   "f08acdb80c": 1,
   "c833559389": 1,
-  "975dff708a": 1
+  "975dff708a": 1,
+  "59ad698a49": 1,
+  "7c19fc7966": 1,
+  "b1771b3802": 1,
+  "eff37f8914": 1,
+  "05500923f9": 1,
+  "1f68a47042": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "sair de um ford ka direto pra f250 é um salto de fé impressionante kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o argo aguenta o tranco mas o volvo tá lá no topo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o salto do civic pra esse mustang é só um detalhe de duzentos mil kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "a camisa salva a pátria e mantém a dignidade profissional intacta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quatro anos é uma marca respeitável pra decidir voltar pras roupas normais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dupla imbatível pra cidade e pra terra, zerou o pragmatismo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa perua francesa na garagem já é vitória garantida",
    "p": "concorda",
@@ -2085,6 +2067,36 @@
    "t": "prison break pedia paciência demais confesso",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "essa exige coragem pra passar dos primeiros episódios kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "dar uma segunda chance depois de anos é para os fortes kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "acabar a primeira temporada dormindo e voltando é quase uma maratona olímpica kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essas duas são campeãs em fazer a gente desistir logo no começo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa é o tipo de série que o cansaço venceu a gente rapidinho kkkkkk",
+   "p": "concorda",
+   "r": 4
+  },
+  {
+   "t": "comecar dorama e um caminho sem volta pra sanidade kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
