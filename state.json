@@ -22,28 +22,12 @@
    "12:24",
    "13:46",
    "14:38",
-   "15:29"
+   "15:29",
+   "16:49"
   ],
   "respostas": 100
  },
  "posts": [
-  {
-   "id": "17905405122570901",
-   "insp": "6447474ad3",
-   "link": "",
-   "texto": "SEM MENTIR: entrei na copa do trabalho semana passada e ouvi meio segundo de uma conversa que mudou tudo o que eu sabia sobre a gerência. Agora tenho que cruzar com as pessoas no corredor fingindo costume.\n\nQual foi a maior fofoca corporativa que caiu no seu colo sem você procurar?",
-   "quando": "2026-09-29T21:07:10.001469-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 832,
-    "likes": 4,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-04"
-   }
-  },
   {
    "id": "18629096797003443",
    "insp": "fd6c7eeb28",
@@ -983,6 +967,14 @@
    "texto": "SEM MENTIR: vocês respondem na hora ou leem pela barra de notificação só pra fingir que ainda não viram?",
    "quando": "2026-10-04T15:37:08.493797-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "17891293701615453",
+   "insp": "c638d9ff81",
+   "link": "",
+   "texto": "SEM MENTIR: uma semana sem internet eu consigo sobreviver, mas um mês sem doce? Não dá, preciso daquele açúcar pra dar aquele gás nas ideias. 🍬 E vocês, o que escolheriam?",
+   "quando": "2026-10-04T17:07:11.168141-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -1903,7 +1895,8 @@
   "63c894bcdc7c509a7fce9401836e3b60",
   "d0bcfa7ea92f88947eed97176a27c669",
   "7e8e8b52d65dde96b279c2cc0141c93f",
-  "64b08835f6b736d08313d4bb79bbb220"
+  "64b08835f6b736d08313d4bb79bbb220",
+  "a4e768a27641c2f85e4ba989256c01ea"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1983,7 +1976,8 @@
   "5d46bb3702": 1791131871.1175742,
   "23a8ecfd7a": 1791137246.3924928,
   "d3233367fd": 1791140845.51298,
-  "dce953f387": 1791142652.6592295
+  "dce953f387": 1791142652.6592295,
+  "c638d9ff81": 1791148042.25671
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
