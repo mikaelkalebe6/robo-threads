@@ -19,28 +19,12 @@
    "08:33",
    "09:45",
    "10:51",
-   "12:24"
+   "12:24",
+   "13:46"
   ],
-  "respostas": 81
+  "respostas": 87
  },
  "posts": [
-  {
-   "id": "18396832552205152",
-   "insp": "0445902113",
-   "link": "",
-   "texto": "ME CONTA: outro dia me peguei chamando ir até a farmácia comprar remédio de \"dar um rolê\". O paulistano não tem salvação, qualquer saída de casa com mais de cem metros vira evento.\n\nQual é a gíria da sua cidade que você solta no automático até alguém de fora estranhar?",
-   "quando": "2026-09-29T17:07:09.135672-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 254,
-    "likes": 1,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-04"
-   }
-  },
   {
    "id": "18061892768525973",
    "insp": "573ba90908",
@@ -1007,6 +991,14 @@
    "texto": "Quem mais aqui acha que casal não precisa desse mistério todo com senha de celular? Não é sobre fuçar a vida alheia, é só sobre praticidade e não ter nada pra esconder. Tem gente que defende a privacidade como se fosse segredo de estado, eu acho meio esquisito.",
    "quando": "2026-10-04T12:37:07.723500-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18115420961019155",
+   "insp": "23a8ecfd7a",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a vizinha bate na porta pedindo sal e fica duas horas contando a vida dela. Vocês deixariam entrar ou fingiriam que não estão em casa?",
+   "quando": "2026-10-04T14:07:09.250805-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1827,7 +1819,14 @@
   "18127108421318010",
   "18072623147565598",
   "18448594426123151",
-  "18312412483304935"
+  "18312412483304935",
+  "18117184897959773",
+  "18134616622726003",
+  "18007957055780569",
+  "18114027422591340",
+  "18119381108513520",
+  "17913566832534019",
+  "17903719278573492"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1904,7 +1903,8 @@
   "c3a3b30d6dc4fc9245d1342151bf6b2a",
   "5a3908b7e3e83ecc8b30cd9bbc3595cb",
   "3c5c7cf05984c1aefaaa17b19cd5619b",
-  "63c894bcdc7c509a7fce9401836e3b60"
+  "63c894bcdc7c509a7fce9401836e3b60",
+  "d0bcfa7ea92f88947eed97176a27c669"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1981,7 +1981,8 @@
   "3d41eeda62": 1791117448.2717893,
   "4e6f1fb18b": 1791122845.40371,
   "7d6d624d0c": 1791126454.4498146,
-  "5d46bb3702": 1791131871.1175742
+  "5d46bb3702": 1791131871.1175742,
+  "23a8ecfd7a": 1791137246.3924928
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2065,40 +2066,16 @@
   "6f33e88819": 1,
   "35bdd21b81": 1,
   "3ca0f2327d": 1,
-  "37a4430333": 1
+  "37a4430333": 1,
+  "ae9e39bcfa": 1,
+  "018df7d792": 1,
+  "6a7e253c7d": 1,
+  "869d7200f6": 1,
+  "e8b8402afd": 1,
+  "0a3e7ca540": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "se eu abrir essa gaveta cai um monte de guardanapo na sua cara",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "gritar por aí sem motivo é um ótimo jeito de espantar os maus espíritos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dois pesos pesados que colecionam desistências logo no começo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa lista é um cemitério de produções famosas que não passaram do teste de fogo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa série é famosa por exigir uma dose extra de foco que falta no fim do dia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa maratona de dias temáticos na escola é de matar o bolso",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "porta xícara de crochê tem aquele charme de casa de vó que eu adoro kkkk",
    "p": "concorda",
@@ -2217,6 +2194,36 @@
   {
    "t": "esse odio matinal é o preço que a gente paga por quinze minutos a mais de sono",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "breaking bad exige uma paciência que o cansaço da semana não permite kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essas duas gigantes acumulam desistências logo nos primeiros minutos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tempo de qualidade pesa muito mais na rotina do que qualquer brinquedo caro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "saúde pesa demais no orçamento e a paz de espírito acaba custando caro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa é a verdadeira dúvida cruel de toda manhã",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "estratégia de defesa válida pra poupar energia",
+   "p": "ressalva",
    "r": 0
   }
  ],
