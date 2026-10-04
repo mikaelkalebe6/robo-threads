@@ -20,7 +20,7 @@
    "09:45",
    "10:51"
   ],
-  "respostas": 51
+  "respostas": 57
  },
  "posts": [
   {
@@ -1804,7 +1804,13 @@
   "18133727872658785",
   "18117112085051404",
   "18098724092636626",
-  "18234912622320331"
+  "18234912622320331",
+  "18195312202385623",
+  "18119286193988973",
+  "18227424265327378",
+  "17979695640105948",
+  "18026442917882927",
+  "17933330949147971"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2010,40 +2016,16 @@
   "8496337d4e": 1,
   "dbcde44fce": 1,
   "dd4d5d243b": 1,
-  "deb23ff633": 1
+  "deb23ff633": 1,
+  "6a85cc8644": 1,
+  "ec90c5587c": 1,
+  "8bf98e1abf": 1,
+  "2ec03a7752": 1,
+  "e42711ab42": 1,
+  "05633e2767": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "essa é um clássico de quem desiste correndo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "essa parada aí com certeza tá fora de qualquer catálogo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa série exige uma maratona mental que nem sempre a gente tem energia pra encarar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa lista resume bem a coragem que falta no primeiro ep kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "cadeira voando na lanchonete é nível hardcore de atendimento kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "a pessoa chega atrasada e ainda acha que vc tem superpoderes pra dar o horario dos outros pra ela kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "farmacia com crianca parece que cobra o dobro só de maldade kkk",
    "p": "concorda",
@@ -2163,6 +2145,36 @@
    "t": "essa quantidade prova que a paciência humana tem um limite bem curto kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "se eu abrir essa gaveta cai um monte de guardanapo na sua cara",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "gritar por aí sem motivo é um ótimo jeito de espantar os maus espíritos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dois pesos pesados que colecionam desistências logo no começo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa lista é um cemitério de produções famosas que não passaram do teste de fogo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa série é famosa por exigir uma dose extra de foco que falta no fim do dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa maratona de dias temáticos na escola é de matar o bolso",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
