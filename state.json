@@ -22,7 +22,7 @@
    "12:24",
    "13:46"
   ],
-  "respostas": 87
+  "respostas": 93
  },
  "posts": [
   {
@@ -1826,7 +1826,13 @@
   "18114027422591340",
   "18119381108513520",
   "17913566832534019",
-  "17903719278573492"
+  "17903719278573492",
+  "17872002393639831",
+  "18198572485391029",
+  "17909195562489946",
+  "18079648409342515",
+  "17918269305444116",
+  "18118022540076924"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2056,7 +2062,7 @@
   "1b89933091": 1,
   "a86f7a6ae3": 1,
   "910e864a3c": 1,
-  "3ba30b20da": 1,
+  "3ba30b20da": 2,
   "1deab9b408": 1,
   "9fac97c4f1": 1,
   "71396c7be9": 1,
@@ -2072,40 +2078,15 @@
   "6a7e253c7d": 1,
   "869d7200f6": 1,
   "e8b8402afd": 1,
-  "0a3e7ca540": 1
+  "0a3e7ca540": 1,
+  "679ccfefe1": 1,
+  "5439368521": 1,
+  "43012ad5b7": 1,
+  "43b4c27ff2": 1,
+  "a3313a7f82": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "porta xícara de crochê tem aquele charme de casa de vó que eu adoro kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "parar de beber foi o fim de uma era pra essa coleção kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "duas pedreiras que muita gente deixa pelo caminho",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa é o melhor sonífero disfarçado de sucesso kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "criança comendo desse jeito é um poço sem fundo kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "alergia alimentar é daquelas surpresas que pesam muito no mercado",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "estratégia de guerra escolher a cabine certa kkkk",
    "p": "concorda",
@@ -2225,6 +2206,36 @@
    "t": "estratégia de defesa válida pra poupar energia",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "lado jornalista ativado é perigoso porque a pessoa quer apurar os fatos todos kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "depende do dia é a resposta definitiva pra qualquer drama social kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "separar a vizinha que vale a pena da chata é questão de sobrevivência kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "estratégia eficiente para garantir o sal sem perder a tarde inteira kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quem esconde demais costuma dar trabalho mesmo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa é clássica, pouca gente aguenta o começo pra chegar nos episódios bons kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
