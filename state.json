@@ -19,7 +19,7 @@
    "08:33",
    "09:45"
   ],
-  "respostas": 39
+  "respostas": 45
  },
  "posts": [
   {
@@ -1799,7 +1799,13 @@
   "18008551172969049",
   "18283085056292181",
   "18103768628576553",
-  "18179497753486274"
+  "18179497753486274",
+  "18196033111390488",
+  "17890859628615768",
+  "18381062707233811",
+  "17955103323081503",
+  "18236427115318451",
+  "17904393702348996"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1974,7 +1980,7 @@
   "ae381795d6": 1,
   "e876f2d955": 1,
   "14f6eaebca": 1,
-  "f0766ea08f": 1,
+  "f0766ea08f": 2,
   "363f43b23e": 1,
   "b35859f239": 1,
   "7c20df6b4f": 1,
@@ -1992,40 +1998,15 @@
   "8bdb9b47d3": 1,
   "0db77694e4": 1,
   "6957a373c1": 1,
-  "58d9ba9dff": 1
+  "58d9ba9dff": 1,
+  "34d929957c": 1,
+  "d6a9ada24c": 1,
+  "f68017f954": 1,
+  "558cc2a4a4": 1,
+  "9d5aacd666": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "essa é o tipo de série que o cansaço venceu a gente rapidinho kkkkkk",
-   "p": "concorda",
-   "r": 4
-  },
-  {
-   "t": "comecar dorama e um caminho sem volta pra sanidade kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "essa exige uma paciência que nem todo mundo tem disponível",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa lista é um resumo oficial das desistências em massa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essas duas acumulam desistências logo no começo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "duas pedreiras pra tentar engatar no começo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa entra direto na lista das que o ritmo não ajuda em nada",
    "p": "concorda",
@@ -2145,6 +2126,36 @@
    "t": "pior que o boleto muda de tamanho mas nunca some kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "agora fiquei curiosa para saber qual é a sua esquisitice",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "primeiro episódio já é um teste de paciência enorme nos dias de hoje",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dormir nos primeiros minutos é o corpo pedindo socorro kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esses pesos pesados colecionam desistências logo no começo mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "plano de saúde com pediatra e terapia é um susto que ninguém espera",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "farmacia quando tem crianca parece que cobra o dobro sem avisar",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
