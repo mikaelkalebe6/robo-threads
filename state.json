@@ -18,7 +18,7 @@
   "feitos": [
    "08:33"
   ],
-  "respostas": 22
+  "respostas": 28
  },
  "posts": [
   {
@@ -1788,7 +1788,14 @@
   "18375055744215033",
   "18033522764896524",
   "18126323137845419",
-  "18562534888073216"
+  "18562534888073216",
+  "17975750187152199",
+  "18025139117916793",
+  "18015386717957122",
+  "17893067577432932",
+  "17950080636320748",
+  "18335358103277175",
+  "17990525577099377"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1962,40 +1969,16 @@
   "e876f2d955": 1,
   "14f6eaebca": 1,
   "f0766ea08f": 1,
-  "363f43b23e": 1
+  "363f43b23e": 1,
+  "b35859f239": 1,
+  "7c20df6b4f": 1,
+  "8a9c147ab1": 1,
+  "d8d1c73532": 1,
+  "6f8afaf834": 1,
+  "ea3118d867": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "o otimismo de quem vai colocar um turbo nesse motor merece respeito kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "volvo com banco claro é chique demais pro meu boleto kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "perder o carro assim é uma judiação, mas o importante é seguir firme",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "cinco cachorros na garagem é a melhor frota possível kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse sumiu tanto que virou lenda urbana kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "o sonho do sonho já tá exigindo muito do pobre onix na garagem",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "sem garagem mas com estilo de sobra pra estacionar na imaginação",
    "p": "neutra",
@@ -2115,6 +2098,36 @@
    "t": "essa é um clássico de quem desiste correndo",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "essa parada aí com certeza tá fora de qualquer catálogo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa série exige uma maratona mental que nem sempre a gente tem energia pra encarar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa lista resume bem a coragem que falta no primeiro ep kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "cadeira voando na lanchonete é nível hardcore de atendimento kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "a pessoa chega atrasada e ainda acha que vc tem superpoderes pra dar o horario dos outros pra ela kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "farmacia com crianca parece que cobra o dobro só de maldade kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
