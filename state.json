@@ -15,26 +15,12 @@
    "20:22",
    "21:06"
   ],
-  "feitos": [],
-  "respostas": 16
+  "feitos": [
+   "08:33"
+  ],
+  "respostas": 22
  },
  "posts": [
-  {
-   "id": "17954234199257769",
-   "insp": "4c34f415ce",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: pagar mais caro para resolver um perrengue rápido vale cada centavo e eu não tenho a menor vergonha disso. Quem concorda?",
-   "quando": "2026-09-29T10:07:09.649581-04:00",
-   "metricas": {
-    "views": 272,
-    "likes": 2,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-04"
-   }
-  },
   {
    "id": "18465035737185312",
    "insp": "c71e576931",
@@ -1034,6 +1020,14 @@
     "shares": 0,
     "em": "2026-10-04"
    }
+  },
+  {
+   "id": "18080156645367951",
+   "insp": "3d41eeda62",
+   "link": "",
+   "texto": "SEJAM SINCEROS: antes dos 40, qual parada você vai garantir?  \nChapada dos Veadeiros ou Lençóis Maranhenses 🌎  \n\nQual dos dois já está na sua lista?",
+   "quando": "2026-10-04T08:37:08.831632-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -1788,7 +1782,13 @@
   "17898720516604964",
   "18196748425382239",
   "18206373526369783",
-  "18345803977255025"
+  "18345803977255025",
+  "18358287514216076",
+  "18637729594003737",
+  "18375055744215033",
+  "18033522764896524",
+  "18126323137845419",
+  "18562534888073216"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1861,7 +1861,8 @@
   "aece3aafa1dd599e3af52ead674b2974",
   "31ff36337e441b9af0d5f20df8e227ea",
   "8fff55645ddedede79f9d7558c4d5347",
-  "0c139e89b4d50fdff0fa5341a639e5bc"
+  "0c139e89b4d50fdff0fa5341a639e5bc",
+  "c3a3b30d6dc4fc9245d1342151bf6b2a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1934,7 +1935,8 @@
   "c5b66c6c5b": 1791065245.2783217,
   "20b4497ce2": 1791070649.591163,
   "39b02ce282": 1791076070.1774423,
-  "6d7d2f32e2": 1791079643.0164294
+  "6d7d2f32e2": 1791079643.0164294,
+  "3d41eeda62": 1791117448.2717893
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -1954,40 +1956,16 @@
   "dcf09b03a5": 1,
   "7bc0f27b45": 1,
   "9222731c58": 1,
-  "d29c7960da": 1
+  "d29c7960da": 1,
+  "2ab098bc30": 1,
+  "ae381795d6": 1,
+  "e876f2d955": 1,
+  "14f6eaebca": 1,
+  "f0766ea08f": 1,
+  "363f43b23e": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "disciplina de ferro para conseguir manter essa rotina todos os dias",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "estratégia clássica de reunião de última hora kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "a pantufa é o único acessório obrigatório pra manter a sanidade em casa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "se a energia boa atrai tanta gente assim o segredo é começar a andar de cara fechada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "separar o banho e a roupa do dia a dia ajuda muito a lembrar que o expediente começou",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "segue a carreira mas não esquece de pagar os boletos",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "o otimismo de quem vai colocar um turbo nesse motor merece respeito kkkk",
    "p": "concorda",
@@ -2106,6 +2084,36 @@
   {
    "t": "essa entra direto na lista das que o ritmo não ajuda em nada",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sucessión exige um fôlego que nem todo mundo tem no primeiro episódio",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse trio acumulou muito abandono no começo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa trilogia acumulou muitas desistencia no começo mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "duas pedreiras oficializadas na desistencia em massa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "zero paciência é o resumo de várias que tentei ver",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa é um clássico de quem desiste correndo",
+   "p": "neutra",
    "r": 0
   }
  ],
