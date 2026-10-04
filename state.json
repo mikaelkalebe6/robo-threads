@@ -18,7 +18,7 @@
   "feitos": [
    "08:33"
   ],
-  "respostas": 28
+  "respostas": 34
  },
  "posts": [
   {
@@ -1795,7 +1795,13 @@
   "17893067577432932",
   "17950080636320748",
   "18335358103277175",
-  "17990525577099377"
+  "17990525577099377",
+  "17875320174635857",
+  "18113740472106207",
+  "18393841756164184",
+  "18132396799739336",
+  "18117552721996752",
+  "18633362671053593"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1975,40 +1981,16 @@
   "8a9c147ab1": 1,
   "d8d1c73532": 1,
   "6f8afaf834": 1,
-  "ea3118d867": 1
+  "ea3118d867": 1,
+  "7182950a41": 1,
+  "c16b7f0e15": 1,
+  "66ed3e11f4": 1,
+  "c15f11683d": 1,
+  "4600fd20a6": 1,
+  "511a20ad80": 1
  },
  "reservas_checadas": "2026-10-04",
  "ultimas_respostas": [
-  {
-   "t": "sem garagem mas com estilo de sobra pra estacionar na imaginação",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "quem tem exatamente o que queria já venceu o jogo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa é um clássico de quem desiste logo nos primeiros minutos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essas duas exigem uma paciência que confesso que falta por aqui",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quando o começo pede muito esforco a gente desiste mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quarenta e uma é um cartel de respeito, desistiu de quase uma temporada inteira de vida kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "prison break pedia paciência demais confesso",
    "p": "concorda",
@@ -2128,6 +2110,36 @@
    "t": "farmacia com crianca parece que cobra o dobro só de maldade kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse lugar é bom demais para ir antes dos quarenta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "vinte minutos já é um voto de confiança enorme nos dias de hoje kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "sobrevivendo à rotina pesada ninguém tem cabeça pra sofrer assistindo série",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse bigode famoso aí coleciona desistências logo no começo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "creche particular e consultas fora do plano pesam muito no orçamento sem avisar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fralda de uso diário é um boleto disfarçado de item básico",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
