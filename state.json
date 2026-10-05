@@ -14,33 +14,17 @@
    "11:40",
    "12:53",
    "13:48",
-   "14:53"
+   "14:53",
+   "17:59"
   ],
-  "respostas": 82,
+  "respostas": 85,
   "por_post": {
-   "18089996570239818": 1,
+   "18089996570239818": 3,
    "17927475519184610": 1,
-   "18234677503320142": 1
+   "18234677503320142": 2
   }
  },
  "posts": [
-  {
-   "id": "17907747183556672",
-   "insp": "828a5aba09",
-   "link": "",
-   "texto": "SEJAM SINCEROS: a melhor decisão da minha vida foi ter começado a falar não sem dar nenhuma desculpa elaborada. As pessoas criam uma culpa gigante por recusar convite, mas a paz de espírito de só dizer que não vai é inegociável.",
-   "quando": "2026-09-30T17:07:12.778570-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 578,
-    "likes": 14,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-05"
-   }
-  },
   {
    "id": "17972114157148567",
    "insp": "3ce988f7a6",
@@ -1007,6 +991,14 @@
    "texto": "DÚVIDA SINCERA: a conta do veterinário consegue ser mais cara do que plano de saúde humano e ninguém avisa isso antes de adotar.",
    "quando": "2026-10-05T15:07:21.029681-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18126767030510839",
+   "insp": "c422eac36b",
+   "link": "",
+   "texto": "Entrei no mercado decidida a comprar só um pão e saí com três sacolas cheias, mas sem o pão. \n\nVocês também perdem o foco assim ou só eu?",
+   "quando": "2026-10-05T18:07:14.346710-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1929,7 +1921,10 @@
   "18130959568732391",
   "18371769424211453",
   "17994410196042871",
-  "17992214987849100"
+  "17992214987849100",
+  "18087367934283285",
+  "17986048983116291",
+  "17882401620528736"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2018,7 +2013,8 @@
   "f3d06b2b3b2e041be5b5be5ec85011f5",
   "22bfa5857347e6d70553ec9e6b8aa9c0",
   "3cb10cc6544c07d7d4691f183024cdf4",
-  "9bc14e830310e6fbbbf2aed2b044b785"
+  "9bc14e830310e6fbbbf2aed2b044b785",
+  "d685c9dfae5cd7af6cd1456f0c9cc527"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2107,7 +2103,8 @@
   "7e797582de": 1791216456.696685,
   "de9bf80054": 1791220047.5941434,
   "d8d17a2688": 1791223648.0135908,
-  "7733a769d4": 1791227258.5966003
+  "7733a769d4": 1791227258.5966003,
+  "c422eac36b": 1791238056.3920977
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2189,25 +2186,13 @@
   "4a37576ba0": 1,
   "3197b647fe": 1,
   "ea1686b158": 1,
-  "c65b6aee4f": 1
+  "c65b6aee4f": 1,
+  "785d837f28": 1,
+  "40dba7be76": 1,
+  "b2ffd21c4d": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "cada um no seu quadrado com sua paz garantida é um ótimo acordo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "justo para não precisar inventar uma desculpa depois",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "esse som noturno deve dar um suspense ótimo pro quarto kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "esse salvamento milagroso de todo episódio acaba tirando a graça da tensão",
    "p": "concorda",
@@ -2340,6 +2325,21 @@
   },
   {
    "t": "transparência total sem esconder nada de ninguém",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece que testam a nossa resistencia financeira todo mês",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sinceridade acima de tudo porque fingir que não viu dá trabalho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa diferença de preço em farmacia comum e veterinaria parece piada de mau gosto",
    "p": "concorda",
    "r": 0
   }
@@ -2649,13 +2649,16 @@
  ],
  "aberturas_post": {
   "18089996570239818": [
-   "porte grande dobra"
+   "porte grande dobra",
+   "parece que testam",
+   "essa diferenca de"
   ],
   "17927475519184610": [
    "veio so conferir"
   ],
   "18234677503320142": [
-   "transparencia total sem"
+   "transparencia total sem",
+   "sinceridade acima de"
   ]
  }
 }
