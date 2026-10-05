@@ -26,28 +26,12 @@
    "16:49",
    "17:50",
    "18:52",
-   "20:22"
+   "20:22",
+   "21:06"
   ],
   "respostas": 100
  },
  "posts": [
-  {
-   "id": "17922796089426941",
-   "insp": "018fcf3621",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: quem prefere cachorro costuma ser mais carente ou é só impressão minha? 🐾",
-   "quando": "2026-09-30T11:37:11.115444-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 415,
-    "likes": 2,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-04"
-   }
-  },
   {
    "id": "17915913696462020",
    "insp": "2b14999174",
@@ -950,6 +934,14 @@
    "link": "",
    "texto": "SEJAM SINCEROS: homem que cozinha bem ganha quantos pontos na paquera de 0 a 10",
    "quando": "2026-10-04T20:37:08.010046-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18036205694903067",
+   "insp": "7fff0e06da",
+   "link": "",
+   "texto": "SEM MENTIR: o que te faz perder a vontade de trabalhar num lugar? \n\nEu juro que tento ter paciência, mas reunião que podia ser um email e chefe que acha que vida pessoal é detalhe me broxam no primeiro mês.",
+   "quando": "2026-10-04T21:07:09.598454-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -1875,7 +1867,8 @@
   "a4e768a27641c2f85e4ba989256c01ea",
   "f9c14049da594edaf143273a0023b7f0",
   "567e5e93d54b87ab8fc3ee4e65cbc0e6",
-  "7fb7a5f5f67624d28da24546e868cb0a"
+  "7fb7a5f5f67624d28da24546e868cb0a",
+  "3622febd97918e95eb2cfcd309971087"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1959,7 +1952,8 @@
   "c638d9ff81": 1791148042.25671,
   "c5cc27e19f": 1791151645.7283194,
   "0fc3b77eb4": 1791155244.913814,
-  "c7f375102c": 1791160638.6544247
+  "c7f375102c": 1791160638.6544247,
+  "7fff0e06da": 1791162445.4803498
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
