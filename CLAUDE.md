@@ -19,3 +19,7 @@
 
 ## Comunicação
 - Português simples e direto, sem travessões.
+
+## PRs e comentários no GitHub
+- Não colocar rodapé de autoria ("Generated with Claude Code", link de sessão) em PR, comentário ou review.
+- Commits sem linhas "Co-Authored-By" ou "Claude-Session".

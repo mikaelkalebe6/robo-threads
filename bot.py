@@ -9,6 +9,8 @@ Robo do Threads (API oficial da Meta).
 - Respostas escritas a mao pelo dono viram exemplos do robo (1 vez por dia)
 - Nao responde comentario que o perfil ja respondeu a mao (o dono responde primeiro, o robo fica de fora)
 - Esconde (nao apaga) spam e golpe quando a IA e os sinais de spam concordam; 1 vez por dia guarda as estatisticas dos posts
+- Divide o teto diario de respostas pelas rodadas ate HORA_FIM, com teto por post e prioridade ao post com menos respostas
+- 1 vez por dia grava dados/AAAA-MM-DD.json (perfil, publico agregado e posts com metricas) para o briefing
 - Le os ganchos de uma Planilha Google
 Quantidades, horarios e limites: Variables do GitHub. Sem Variable, vale o dicionario PADRAO abaixo.
 REGRA: nao escreva numeros de configuracao neste texto nem em comentarios; eles ficam so no PADRAO
@@ -53,6 +55,10 @@ PAUSADO = env("PAUSADO", "0") == "1"
 PADRAO = {
     "POSTS_MIN": "6", "POSTS_MAX": "16", "HORA_INICIO": "8", "HORA_FIM": "22", "INTERVALO_MINIMO_MIN": "40",
     "RESPOSTAS_POR_RODADA": "6", "RESPOSTAS_POR_DIA": "100", "RESPOSTAS_POR_PESSOA": "2",
+    # teto de respostas por post no dia (para um post viral nao comer o dia todo) e o piso de cada rodada
+    "RESPOSTAS_POR_POST_DIA": "20", "RESPOSTAS_MIN_RODADA": "2",
+    # de quantos em quantos minutos o despertador externo chama o robo (para dividir o teto do dia ate HORA_FIM)
+    "MINUTOS_ENTRE_RODADAS": "30",
     "CHANCE_FOTO": "0.5", "CHANCE_TENDENCIA": "0.3",
     # pausas em segundos (curtas para economizar minutos do GitHub; auditoria de 29/09)
     "PAUSA_RESPOSTA_MIN": "2", "PAUSA_RESPOSTA_MAX": "5", "ATRASO_POST_MAX": "10",
@@ -67,6 +73,8 @@ PADRAO = {
     "ESCONDER_SPAM": "1", "ESCONDER_POR_DIA": "15",
     # estatisticas (permissao threads_manage_insights): de quantos dias de posts ler os numeros, 1 vez por dia
     "METRICAS_DIAS": "7",
+    # pasta dados/ (1 arquivo por dia para o briefing): quantos dias guardar
+    "DADOS_DIAS": "60",
 }
 _USOU_PADRAO = []
 
@@ -87,6 +95,9 @@ INTERVALO_MIN = int(cfg("INTERVALO_MINIMO_MIN"))
 RESP_POR_RODADA = int(cfg("RESPOSTAS_POR_RODADA"))
 RESP_POR_DIA = int(cfg("RESPOSTAS_POR_DIA"))
 RESP_POR_PESSOA = int(cfg("RESPOSTAS_POR_PESSOA"))
+RESP_POR_POST = int(cfg("RESPOSTAS_POR_POST_DIA"))
+RESP_MIN_RODADA = int(cfg("RESPOSTAS_MIN_RODADA"))
+MIN_ENTRE_RODADAS = max(1, int(cfg("MINUTOS_ENTRE_RODADAS")))
 CHANCE_FOTO = float(cfg("CHANCE_FOTO"))
 CHANCE_TREND = float(cfg("CHANCE_TENDENCIA"))
 PAUSA_RESP = sorted((int(cfg("PAUSA_RESPOSTA_MIN")), int(cfg("PAUSA_RESPOSTA_MAX"))))
@@ -99,6 +110,7 @@ IA_PARALELO = max(1, int(cfg("IA_PARALELO")))
 ESCONDER_SPAM = cfg("ESCONDER_SPAM") == "1"
 ESCONDER_POR_DIA = int(cfg("ESCONDER_POR_DIA"))
 METRICAS_DIAS = int(cfg("METRICAS_DIAS"))
+DADOS_DIAS = int(cfg("DADOS_DIAS"))
 if MIN_POSTS > MAX_POSTS:
     MIN_POSTS, MAX_POSTS = MAX_POSTS, MIN_POSTS
 EXEMPLOS = env("EXEMPLOS_RESPOSTAS", "")
@@ -114,6 +126,7 @@ PERSONA_RESPOSTA = env("PERSONA_RESPOSTA", (  # a persona real fica so na Variab
     "portugues do dia a dia, nunca como pagina, marca ou SAC."
 ))
 LOG_RESPOSTAS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "respostas_log.jsonl")
+DADOS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "dados")
 
 
 def log(*a):
@@ -146,6 +159,7 @@ def salvar_estado(s):
     s["ultimas_respostas"] = s.get("ultimas_respostas", [])[-30:]
     s["exemplos_dono"] = s.get("exemplos_dono", [])[-20:]
     s["minhas_respostas"] = dict(list(s.get("minhas_respostas", {}).items())[-400:])
+    s["aberturas_post"] = dict(list(s.get("aberturas_post", {}).items())[-30:])
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(s, f, ensure_ascii=False, indent=1)
 
@@ -478,7 +492,8 @@ Inspiracao: {insp['ideia']}
 Produto: {insp['produto'] or 'nenhum (nao fale de produto, marca ou empresa)'}
 Observacao: {insp['obs'] or '-'}
 Estilo: {estilo}. Tamanho: {tamanho}.
-Regras: nao coloque link nem @; no maximo 1 emoji (ou nenhum); nada de hashtags em excesso (0 ou 1);
+Regras: O prefixo em caixa alta tem que combinar com o texto. DUVIDA SINCERA, SEJAM SINCEROS e ME CONTA só quando o post for uma pergunta de verdade. Se o post for afirmação ou opinião, use VAMOS CONCORDAR, VAMOS SER HONESTOS, NINGUEM FALA DISSO, OPINIAO IMPOPULAR, ou escreva sem prefixo.
+nao coloque link nem @; no maximo 1 emoji (ou nenhum); nada de hashtags em excesso (0 ou 1);
 nao use travessao; {'termine convidando a clicar no link abaixo de forma natural' if com_link else 'termine de forma natural e variada: as vezes com uma pergunta para comentarem, as vezes com uma opiniao ou uma frase seca, sem pedir comentario toda vez'}.
 Responda so com o texto do post."""
     teste_reserva = dt.datetime.now(TZ).strftime("%Y-%m-%d") <= TESTE_RESERVA_ATE and random.random() < CHANCE_POST_RESERVA
@@ -488,7 +503,7 @@ Responda so com o texto do post."""
             txt = limpar(_so_reservas(prompt, False) or "")
             if txt:
                 log(f"Teste de reserva: post escrito por {_QUEM[0]}.")
-                return txt[:440]
+                return corrigir_prefixo(txt[:440])
         except Exception as e:
             log("Teste de reserva falhou, seguindo com o Gemini:", str(e)[:120])
     if usar_trend:
@@ -512,7 +527,44 @@ Responda so com o texto do post."""
     if not txt:
         txt = (insp["ideia"] or "").strip()
         _QUEM[0] = "literal (IAs fora)"
-    return txt[:440]
+    return corrigir_prefixo(txt[:440])
+
+
+# prefixo de pergunta (DUVIDA SINCERA etc.) em post que nao pergunta nada engana quem le
+PREFIXOS_AFIRMACAO = ["VAMOS CONCORDAR", "VAMOS SER HONESTOS", "NINGUÉM FALA DISSO", "OPINIÃO IMPOPULAR"]
+PREFIXO_PERGUNTA = re.compile(r"^\s*(D[UÚ]VIDA SINCERA|SEJAM SINCEROS|ME CONTA)\b\s*[:,.!\-]*\s*")
+
+
+def corrigir_prefixo(txt):
+    """Post com prefixo de pergunta e sem nenhum '?': a IA le o texto e escolhe o prefixo de afirmacao que encaixa,
+    ou nenhum. Se a IA falhar ou responder fora da lista, tira o prefixo (nunca sorteia)."""
+    m = PREFIXO_PERGUNTA.match(txt or "")
+    if not m or "?" in txt:
+        return txt
+    resto = txt[m.end():].lstrip()
+    if not resto:
+        return txt
+    opcoes = PREFIXOS_AFIRMACAO + ["NENHUM"]
+    troca, quem = "", _QUEM[0]  # o registro do post continua com a IA que escreveu o texto
+    try:
+        r = ia(f"""Este post do Threads esta sem prefixo. Escolha o prefixo em caixa alta que mais combina com o tom e o sentido dele:
+- VAMOS CONCORDAR: verdade que quase todo mundo vive e reconhece
+- VAMOS SER HONESTOS: admitir algo que as pessoas fingem que nao acontece
+- NINGUÉM FALA DISSO: assunto pouco comentado, um detalhe que passa despercebido
+- OPINIÃO IMPOPULAR: opiniao que vai contra a maioria e pode gerar debate
+- NENHUM: nenhum encaixa bem; o post fica melhor sem prefixo
+Post: {resto}
+Responda so em JSON: {{"prefixo": "um da lista"}}""", json_mode=True, modelos_gemini=[GEMINI_MODEL_RESPOSTA])
+        mm = re.search(r"\{.*\}", r or "", re.S)
+        escolha = (json.loads(mm.group(0) if mm else r).get("prefixo") or "").strip().upper()
+        escolha = next((o for o in opcoes if sem_acento(o) == sem_acento(escolha)), "NENHUM")
+        troca = "" if escolha == "NENHUM" else escolha
+    except Exception as e:
+        log("Escolha do prefixo falhou, tirando o prefixo:", str(e)[:120])
+    _QUEM[0] = quem
+    novo = f"{troca}: {resto}" if troca else resto[0].upper() + resto[1:]
+    log("Prefixo corrigido:", m.group(1), "->", troca or "sem prefixo")
+    return novo
 
 
 RISO = re.compile(r"k{3,}|\bkk\b|(ha){2,}|\brs(rs)*\b|morri|socorro|chorando|\U0001F480|\U0001F602|\U0001F923|\U0001F62D", re.I)
@@ -555,6 +607,18 @@ def _expressoes_batidas(textos):
     return [w for w, n in c.most_common(8) if n >= 3]
 
 
+# vicios de texto de IA (pedido de 05/10): refaz se aparecer
+VICIOS_IA = re.compile(r"\bnao (e|eh|era|foi) (so |apenas )?sobre\b|\bnao (e|eh) (so|apenas) [^,.;!?]{1,40}[,.;] ?(e|eh) |"
+                       r"\be (ta|esta) tudo bem\b|^sinceramente\?|\bno fim do dia\b|\bao final do dia\b|\bisso diz muito\b|"
+                       r"\ba verdade e que\b|\bvamos combinar\b")
+
+
+def abertura3(texto):
+    """As 3 primeiras palavras da resposta (sem risada e emoji), para nao comecar igual no mesmo post."""
+    ws = [w for w in re.findall(r"[a-z0-9]+", sem_acento(texto or "")) if not w.startswith("kk") and not re.fullmatch(r"(ha)+|(rs)+", w)]
+    return " ".join(ws[:3])
+
+
 # palavras que ja sairam erradas (giria de nicho, adolescente, estrangeira ou rotulo contra a pessoa): refaz se aparecer
 PROIBIDAS_RESPOSTA = re.compile(r"\b(negocinho|grings?|marmotagem|habitu[eé]e?|espertinh[oa]s?|povinho|turista basic[oa]|juizo zero|carter|cringe|mó|sussa)\b", re.I)
 
@@ -586,7 +650,26 @@ _ACENTO = {"nao": "não", "so": "só", "ja": "já", "la": "lá", "ne": "né", "v
            "proximo": "próximo", "proxima": "próxima", "ultimo": "último", "ultima": "última", "rapido": "rápido",
            "rapida": "rápida", "familia": "família", "agua": "água", "cafe": "café", "ferias": "férias",
            "possivel": "possível", "incrivel": "incrível", "horrivel": "horrível", "nivel": "nível", "impecavel": "impecável",
-           "saudavel": "saudável"}
+           "saudavel": "saudável",
+           # ampliacao de 05/10 (so palavras sem duplo sentido sem acento)
+           "alem": "além", "porem": "porém", "atras": "atrás", "apos": "após", "mae": "mãe", "maes": "mães",
+           "irmao": "irmão", "irma": "irmã", "mao": "mão", "maos": "mãos", "pao": "pão", "chao": "chão",
+           "opiniao": "opinião", "razao": "razão", "emocao": "emoção", "atencao": "atenção", "situacao": "situação",
+           "informacao": "informação", "decisao": "decisão", "questao": "questão", "visao": "visão", "licao": "lição",
+           "relacao": "relação", "opcao": "opção", "reacao": "reação", "promocao": "promoção", "colecao": "coleção",
+           "paixao": "paixão", "verao": "verão", "aviao": "avião", "cancao": "canção", "solucao": "solução",
+           "geracao": "geração", "educacao": "educação", "acao": "ação", "conteudo": "conteúdo", "saude": "saúde",
+           "util": "útil", "inutil": "inútil", "obvio": "óbvio", "obvia": "óbvia", "medico": "médico", "medica": "médica",
+           "numero": "número", "pessimo": "péssimo", "pessima": "péssima", "maximo": "máximo", "minimo": "mínimo",
+           "magico": "mágico", "classico": "clássico", "classica": "clássica", "tipico": "típico", "tipica": "típica",
+           "logico": "lógico", "maquina": "máquina", "camera": "câmera", "lampada": "lâmpada", "silencio": "silêncio",
+           "sabado": "sábado", "cha": "chá", "tres": "três", "mes": "mês", "pe": "pé", "ceu": "céu", "heroi": "herói",
+           "genio": "gênio", "paciencia": "paciência", "experiencia": "experiência", "ciencia": "ciência",
+           "diferenca": "diferença", "crianca": "criança", "criancas": "crianças", "cabeca": "cabeça",
+           "comecar": "começar", "forca": "força", "almoco": "almoço", "servico": "serviço", "acucar": "açúcar",
+           "estomago": "estômago", "onibus": "ônibus", "ingles": "inglês", "portugues": "português", "tenis": "tênis",
+           "ultimos": "últimos", "ultimas": "últimas", "proximos": "próximos", "musicas": "músicas",
+           "historias": "histórias", "familias": "famílias", "sera": "será"}
 _ABREV_OK = ("vc", "tbm", "pq", "q", "msm", "oq", "agr", "hj")  # as comuns; no maximo 2 por resposta
 _MAX_ABREV = 2
 
@@ -611,9 +694,10 @@ def ajustar_escrita(texto, pode_abreviar):
     return re.sub(r"(?<![\w@#/.])[A-Za-z]+(?![\w/.])", troca, texto or "")
 
 
-def gerar_resposta(post_txt, comentario, tem_link, s=None, imagem=None, imagem_perdida=False, contexto=None):
+def gerar_resposta(post_txt, comentario, tem_link, s=None, imagem=None, imagem_perdida=False, contexto=None, post_id=None):
     s = s if s is not None else {}
     dicas, recentes = _dicas_variacao(s)
+    aberturas = s.get("aberturas_post", {}).get(str(post_id), []) if post_id else []
     ctx = ""
     if contexto:
         ctx = (f'Isto e uma TREPLICA: antes a pessoa comentou "{contexto.get("c", "")}" e voce respondeu '
@@ -660,10 +744,12 @@ Regras:
 - Emoji em mais ou menos 1 a cada 3 respostas, no maximo 1. Muitas respostas sem nenhum. Nunca emoji de riso em desabafo.
 - Jeito: portugues de rede social de uma adulta. Abreviacao faz parte (vc, tbm, pq, q), mas com dose: o texto tem que ser facil de entender de primeira, com virgula quando ajuda a leitura e acento certo (é, já, lá, só, não, você, também, está). Frases curtas, pouco ponto final, minuscula as vezes. {regra_abrev} Sem travessao, sem hashtag, sem @, sem frase de empresa ("obrigada pelo comentario", "que otima pergunta").
 - Nao termine sempre com pergunta.
+- Sem vicio de texto de IA: nada de "nao e sobre X, e sobre Y", "nao e so X, e Y", "e ta tudo bem", "sinceramente?" no comeco, "no fim do dia", "isso diz muito", "a verdade e que", "vamos combinar".
 - Nunca invente fatos pessoais especificos (profissao, cidade, valores, nomes). Nunca diga que e humana nem que e robo.
 - responder=false: spam, golpe, propaganda, ofensa pesada, odio, politica em tom de briga, conteudo sexual explicito ou assedio, qualquer sinal de menor de idade, pedido de contato ou DM, comentario que voce nao entendeu, imagem sensivel.
 {chr(10).join('- ' + d for d in dicas)}
 Suas respostas mais recentes (NAO repita abertura, risada, emoji nem estrutura): {json.dumps(recentes, ensure_ascii=False)}
+{('Comecos que voce ja usou NESTE post (nao comece igual): ' + json.dumps(aberturas[-10:], ensure_ascii=False)) if aberturas else ''}
 
 Responda so em JSON: {{"objetivo_do_post": "...", "intencao": "...", "emocao": "...", "energia": 0, "espera": "...", "risada": 0, "postura": "concorda|ressalva|discorda|neutra", "sentido": "em 1 frase, por que a resposta combina com o post e com o que a pessoa disse", "responder": true, "texto": "...", "mandar_link": false}}
 - mandar_link=true so se a pessoa pediu o link ou demonstrou interesse claro em comprar."""
@@ -685,8 +771,13 @@ Responda so em JSON: {{"objetivo_do_post": "...", "intencao": "...", "emocao": "
         if not d.get("responder"):
             break
         ruim = PROIBIDAS_RESPOSTA.search(d["texto"])
+        vicio = VICIOS_IA.search(sem_acento(d["texto"]))
         if ruim:
             motivo = f"usou a palavra '{ruim.group(0)}', que soa estranha ou julga a pessoa"
+        elif vicio:
+            motivo = f"usou '{vicio.group(0).strip()}', que soa como texto de IA"
+        elif abertura3(d["texto"]) and abertura3(d["texto"]) in aberturas:
+            motivo = f"comecou igual a outra resposta deste post ('{abertura3(d['texto'])}')"
         elif sem_acento(d["texto"]) in usados:
             motivo = "repetiu uma resposta recente"
         else:
@@ -980,19 +1071,22 @@ def _variar_lote(prontos, s):
         d = r.get("d") or {}
         if "erro" in r or not d.get("responder") or not d.get("texto"):
             continue
+        pid = str(r["post"]["id"])
         for tentativa in range(2):
             ab, pares = _marcas(d["texto"])
-            if not any((ab and ab == a2) or pares & p2 for a2, p2, _ in vistas):
+            a3 = abertura3(d["texto"])
+            if not any((ab and ab == a2) or pares & p2 or (a3 and pid == pid2 and a3 == a3b) for a2, p2, _, pid2, a3b in vistas):
                 break
             if tentativa == 1:
                 r["repetida"] = True
                 break
             antes = s.get("ultimas_respostas", [])
-            s["ultimas_respostas"] = antes + [{"t": t} for _, _, t in vistas]
+            s["ultimas_respostas"] = antes + [{"t": t} for _, _, t, _, _ in vistas]
             try:
                 c, post = r["c"], r["post"]
                 d = gerar_resposta(post.get("texto", ""), c.get("text", ""), bool(post.get("link")), s,
-                                   imagem=r.get("imagem"), imagem_perdida=r.get("perdida"), contexto=r.get("contexto"))
+                                   imagem=r.get("imagem"), imagem_perdida=r.get("perdida"), contexto=r.get("contexto"),
+                                   post_id=post["id"])
                 r["d"] = d
             except Exception:
                 r["repetida"] = True
@@ -1002,7 +1096,7 @@ def _variar_lote(prontos, s):
             if not d.get("responder") or not d.get("texto"):
                 break
         if d.get("responder") and d.get("texto") and not r.get("repetida"):
-            vistas.append((*_marcas(d["texto"]), d["texto"]))
+            vistas.append((*_marcas(d["texto"]), d["texto"], pid, abertura3(d["texto"])))
 
 
 # sinais de spam/golpe: so esconde quando a IA tambem disse que e spam (duas confirmacoes, para nao esconder gente de verdade)
@@ -1070,6 +1164,102 @@ def coletar_metricas(s, agora):
             f"views do perfil nas ultimas 24h {perfil.get('views', '?')}, melhor post {top['metricas'].get('views', 0)} views ({hora})")
 
 
+def _demografia(m):
+    """follower_demographics: {"18-24": n, ...} (so numeros agregados, nenhuma pessoa)."""
+    out = {}
+    for b in (m.get("total_value") or {}).get("breakdowns", []):
+        for r in b.get("results", []):
+            chave = ", ".join(str(v) for v in r.get("dimension_values", []))
+            out[chave] = r.get("value", 0)
+    return out
+
+
+def coletar_dados(s, agora):
+    """1 vez por dia grava dados/AAAA-MM-DD.json para o briefing (sem navegador): perfil de 1 e 7 dias, publico
+    agregado e todos os posts do perfil dos ultimos dias (robo ou nao) com metricas. Nenhum dado de outras pessoas.
+    Apaga os arquivos mais velhos que DADOS_DIAS. Cada parte que falhar fica vazia e a rodada segue."""
+    os.makedirs(DADOS_DIR, exist_ok=True)
+    hoje = agora.strftime("%Y-%m-%d")
+    out = {"data": hoje, "gerado_em": agora.isoformat(timespec="minutes"), "perfil": {}, "publico": {}, "posts": [], "falhas": []}
+    fim = int(agora.timestamp())
+    metricas = "views,likes,replies,reposts,quotes"
+    for nome, dias in (("1_dia", 1), ("7_dias", METRICAS_DIAS)):
+        try:
+            ini = int((agora - dt.timedelta(days=dias)).timestamp())
+            dados = threads("GET", "me/threads_insights", metric=metricas, since=ini, until=fim).get("data", [])
+            out["perfil"][nome] = {m.get("name"): _valor_metrica(m) for m in dados}
+        except Exception as e:
+            out["falhas"].append(f"perfil {nome}: {str(e)[:150]}")
+    try:
+        dados = threads("GET", "me/threads_insights", metric="followers_count").get("data", [])
+        out["perfil"]["followers"] = sum(_valor_metrica(m) for m in dados if m.get("name") == "followers_count")
+    except Exception as e:
+        out["falhas"].append(f"seguidores: {str(e)[:150]}")
+    for quebra in ("age", "gender", "country", "city"):
+        try:
+            dados = threads("GET", "me/threads_insights", metric="follower_demographics", breakdown=quebra).get("data", [])
+            out["publico"][quebra] = _demografia(dados[0]) if dados else {}
+        except Exception as e:
+            out["falhas"].append(f"publico {quebra}: {str(e)[:150]}")  # a Meta so libera com muitos seguidores
+
+    meus = {str(x["id"]): x for x in s.get("posts", [])}
+    lista = []
+    try:
+        ini = int((agora - dt.timedelta(days=METRICAS_DIAS)).timestamp())
+        r = threads("GET", "me/threads", fields="id,timestamp,text,media_type,permalink", since=ini, until=fim, limit=100)
+        lista = r.get("data", [])
+        for _ in range(5):  # paginas extras (dia de muito post)
+            prox = (r.get("paging") or {}).get("cursors", {}).get("after")
+            if not prox or not (r.get("paging") or {}).get("next"):
+                break
+            r = threads("GET", "me/threads", fields="id,timestamp,text,media_type,permalink", since=ini, until=fim,
+                        limit=100, after=prox)
+            lista += r.get("data", [])
+    except Exception as e:
+        out["falhas"].append(f"posts: {str(e)[:150]}")
+
+    def ler(x):
+        pid = str(x.get("id"))
+        robo = meus.get(pid)
+        item = {"id": pid, "quando": x.get("timestamp"), "texto": (x.get("text") or "")[:500],
+                "midia": x.get("media_type"), "link": x.get("permalink"), "robo": bool(robo)}
+        if robo:
+            item["ia"] = robo.get("ia")
+        if robo and (robo.get("metricas") or {}).get("em") == hoje:  # ja lido hoje por coletar_metricas
+            item["metricas"] = {k: v for k, v in robo["metricas"].items() if k != "em"}
+            return item
+        try:
+            dados = threads("GET", f"{pid}/insights", metric="views,likes,replies,reposts,quotes,shares").get("data", [])
+            item["metricas"] = {m.get("name"): _valor_metrica(m) for m in dados}
+        except Exception as e:
+            item["metricas"] = {}
+            out["falhas"].append(f"post {pid}: {str(e)[:100]}")
+        return item
+    if lista:
+        with ThreadPoolExecutor(5) as ex:
+            out["posts"] = list(ex.map(ler, lista))
+    with open(os.path.join(DADOS_DIR, hoje + ".json"), "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=1)
+    corte = (agora - dt.timedelta(days=DADOS_DIAS)).strftime("%Y-%m-%d")
+    for nome in os.listdir(DADOS_DIR):
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.json", nome) and nome[:10] < corte:
+            os.remove(os.path.join(DADOS_DIR, nome))
+    log(f"Dados do dia gravados em dados/{hoje}.json: {len(out['posts'])} posts, "
+        f"seguidores {out['perfil'].get('followers', '?')}, falhas {len(out['falhas'])}")
+
+
+def cota_da_rodada(p, agora):
+    """Divide o que sobra do teto do dia pelas rodadas que ainda faltam ate HORA_FIM (piso e teto por rodada).
+    Depois de HORA_FIM a sobra do dia fica liberada, respeitando o teto por rodada."""
+    resta = max(0, RESP_POR_DIA - p.get("respostas", 0))
+    falta_min = HORA_FIM * 60 - (agora.hour * 60 + agora.minute)
+    rodadas = falta_min // MIN_ENTRE_RODADAS + 1 if falta_min > 0 else 1
+    cota = min(RESP_POR_RODADA, resta, max(RESP_MIN_RODADA, -(-resta // rodadas)))
+    quando = f"{rodadas} rodada(s) ate {HORA_FIM}h" if falta_min > 0 else f"depois das {HORA_FIM}h, sobra liberada"
+    log(f"Cota desta rodada: {cota} (restam {resta} no dia, {quando})")
+    return cota
+
+
 def tarefa_responder(s, agora):
     p = plano_do_dia(s, agora)
     if p.get("respostas", 0) >= RESP_POR_DIA:
@@ -1104,26 +1294,47 @@ def tarefa_responder(s, agora):
         with ThreadPoolExecutor(5) as ex:
             lidos += list(ex.map(ler, ordem[1:]))
 
-    # 2) escolhe os comentarios desta rodada (limites por rodada, dia e pessoa)
-    vagas = min(RESP_POR_RODADA, RESP_POR_DIA - p.get("respostas", 0))
-    escolhidos, na_fila, ja_mao = [], {}, 0
-    for post, comentarios in lidos:
+    # 2) escolhe os comentarios desta rodada (limites por rodada, dia, post e pessoa)
+    vagas = cota_da_rodada(p, agora)
+    por_post = p.setdefault("por_post", {})
+    candidatos, ja_mao = [], 0
+    for i, (post, comentarios) in enumerate(lidos):  # lidos vem do post mais novo para o mais antigo
+        fila_post = []
         for c in comentarios:
-            if len(escolhidos) >= vagas:
-                break
             quem = c.get("username", "?")
             if c.get("_ja_respondido") and c["id"] not in respondidos and quem != eu:
                 s.setdefault("respondidos", []).append(c["id"])  # o dono ja respondeu a mao: o robo nao entra
                 respondidos.add(c["id"])
                 ja_mao += 1
                 continue
-            cp = cod_pessoa(quem)
-            if c["id"] in respondidos or quem == eu or por_pessoa.get(cp, 0) + na_fila.get(cp, 0) >= RESP_POR_PESSOA:
+            if c["id"] in respondidos or quem == eu:
                 continue
-            na_fila[cp] = na_fila.get(cp, 0) + 1
-            escolhidos.append((post, c))
+            fila_post.append(c)
+        if fila_post:
+            candidatos.append([i, post, fila_post])
     if ja_mao:
         log(f"Comentarios ja respondidos a mao pelo perfil (robo nao responde): {ja_mao}")
+    # um por vez, sempre para o post com menos respostas hoje (no empate, o mais novo); post no teto fica de fora
+    escolhidos, na_fila, no_post, no_teto = [], {}, {}, 0
+    while len(escolhidos) < vagas and candidatos:
+        abertos = [x for x in candidatos if por_post.get(str(x[1]["id"]), 0) + no_post.get(str(x[1]["id"]), 0) < RESP_POR_POST]
+        no_teto = len(candidatos) - len(abertos)
+        if not abertos:
+            break
+        item = min(abertos, key=lambda x: (por_post.get(str(x[1]["id"]), 0) + no_post.get(str(x[1]["id"]), 0), x[0]))
+        _, post, fila_post = item
+        while fila_post:
+            c = fila_post.pop(0)
+            cp = cod_pessoa(c.get("username", "?"))
+            if por_pessoa.get(cp, 0) + na_fila.get(cp, 0) < RESP_POR_PESSOA:
+                na_fila[cp] = na_fila.get(cp, 0) + 1
+                no_post[str(post["id"])] = no_post.get(str(post["id"]), 0) + 1
+                escolhidos.append((post, c))
+                break
+        if not fila_post:
+            candidatos.remove(item)
+    if no_teto:
+        log(f"Posts no teto de {RESP_POR_POST} respostas hoje (comentarios ficam sem resposta): {no_teto}")
     if not escolhidos:
         log("Respostas nesta rodada: 0")
         return
@@ -1138,7 +1349,7 @@ def tarefa_responder(s, agora):
         contexto = minhas.get(c.get("_alvo", "")) if c.get("_alvo") != str(post["id"]) else None
         try:
             d = gerar_resposta(post.get("texto", ""), c.get("text", ""), bool(post.get("link")), s,
-                               imagem=imagem, imagem_perdida=perdida, contexto=contexto)
+                               imagem=imagem, imagem_perdida=perdida, contexto=contexto, post_id=post["id"])
             return {"post": post, "c": c, "d": d, "imagem": imagem, "perdida": perdida, "contexto": contexto}
         except Exception as e:
             return {"post": post, "c": c, "erro": e}
@@ -1192,6 +1403,11 @@ def tarefa_responder(s, agora):
             continue
         feitas += 1
         p["respostas"] = p.get("respostas", 0) + 1
+        por_post[str(r["post"]["id"])] = por_post.get(str(r["post"]["id"]), 0) + 1
+        ab = abertura3(d["texto"])
+        if ab:
+            lista = s.setdefault("aberturas_post", {}).setdefault(str(r["post"]["id"]), [])
+            s["aberturas_post"][str(r["post"]["id"])] = (lista + [ab])[-RESP_POR_POST:]
         por_pessoa[quem] = por_pessoa.get(quem, 0) + 1
         minhas[str(rid)] = {"t": d["texto"][:200], "c": (c.get("text") or "")[:200], "q": agora.isoformat()}
         s.setdefault("ultimas_respostas", []).append({"t": d["texto"], "p": d.get("postura"), "r": d.get("risada")})
@@ -1215,10 +1431,10 @@ def main():
     agora = dt.datetime.now(TZ)
     if s.get("reservas_checadas") != agora.strftime("%Y-%m-%d"):
         log(f"Config em uso: {MIN_POSTS} a {MAX_POSTS} posts/dia, {HORA_INI}h as {HORA_FIM}h, intervalo {INTERVALO_MIN} min, "
-            f"respostas {RESP_POR_RODADA}/rodada {RESP_POR_DIA}/dia {RESP_POR_PESSOA}/pessoa, foto {CHANCE_FOTO}, tendencia {CHANCE_TREND}, "
+            f"respostas {RESP_POR_RODADA}/rodada {RESP_POR_DIA}/dia {RESP_POR_PESSOA}/pessoa {RESP_POR_POST}/post (piso {RESP_MIN_RODADA}/rodada, rodada a cada {MIN_ENTRE_RODADAS} min), foto {CHANCE_FOTO}, tendencia {CHANCE_TREND}, "
             f"pausas resposta {PAUSA_RESP[0]}-{PAUSA_RESP[1]}s post 0-{ATRASO_POST_MAX}s link {ATRASO_LINK[0]}-{ATRASO_LINK[1]}s, "
             f"Gemini posts {GEMINI_MODEL} respostas {GEMINI_MODEL_RESPOSTA} ({IA_PARALELO} ao mesmo tempo), teste reservas {CHANCE_POST_RESERVA} ate {TESTE_RESERVA_ATE}, "
-            f"esconder spam {'sim' if ESCONDER_SPAM else 'nao'} ate {ESCONDER_POR_DIA}/dia, estatisticas dos ultimos {METRICAS_DIAS} dias")
+            f"esconder spam {'sim' if ESCONDER_SPAM else 'nao'} ate {ESCONDER_POR_DIA}/dia, estatisticas dos ultimos {METRICAS_DIAS} dias, pasta dados por {DADOS_DIAS} dias")
         if _USOU_PADRAO:
             log("Valores do PADRAO do codigo (Variable vazia):", ", ".join(_USOU_PADRAO))
         checar_reservas()  # 1 vez por dia: mostra no log se Groq/OpenRouter respondem
@@ -1231,6 +1447,10 @@ def main():
                 coletar_metricas(s, agora)
             except Exception as e:
                 log("Estatisticas: falhou (segue normal):", str(e)[:150])
+            try:
+                coletar_dados(s, agora)
+            except Exception as e:
+                log("Pasta dados: falhou (segue normal):", str(e)[:150])
         s["reservas_checadas"] = agora.strftime("%Y-%m-%d")
         _FORA.clear()
     erros = 0
