@@ -17,12 +17,12 @@
    "14:53",
    "17:59"
   ],
-  "respostas": 88,
+  "respostas": 90,
   "por_post": {
-   "18089996570239818": 3,
+   "18089996570239818": 4,
    "17927475519184610": 1,
    "18234677503320142": 2,
-   "18126767030510839": 3
+   "18126767030510839": 4
   }
  },
  "posts": [
@@ -1928,7 +1928,9 @@
   "17882401620528736",
   "17910666384472375",
   "18634231150001602",
-  "18082609676354248"
+  "18082609676354248",
+  "17993526770848654",
+  "18152200825545667"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2196,20 +2198,12 @@
   "b2ffd21c4d": 1,
   "18c58217c8": 1,
   "a2f5bf3490": 1,
-  "41e5b18c4c": 1
+  "41e5b18c4c": 1,
+  "eb8e874c87": 1,
+  "ce9e26212b": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "o ritmo tem que ajudar muito pra prender a atencao logo de cara",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "medida exata de acordo com o grau de intimidade",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "filtro de urgência ativado com sucesso para sobreviver ao dia",
    "p": "concorda",
@@ -2349,6 +2343,16 @@
    "t": "a lista é só uma sugestão educada que a gente ignora no primeiro corredor kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "lista salva a alma mas falha na hora H kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "descobrir isso tarde demais deveria ser crime inafiançável",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -2658,7 +2662,8 @@
   "18089996570239818": [
    "porte grande dobra",
    "parece que testam",
-   "essa diferenca de"
+   "essa diferenca de",
+   "descobrir isso tarde"
   ],
   "17927475519184610": [
    "veio so conferir"
@@ -2670,7 +2675,8 @@
   "18126767030510839": [
    "quem nunca passa",
    "amem porque essa",
-   "a lista e"
+   "a lista e",
+   "lista salva a"
   ]
  },
  "shopee_checada": "2026-10-05|1",
