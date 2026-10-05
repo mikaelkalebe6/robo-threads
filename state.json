@@ -11,7 +11,7 @@
    "21:07"
   ],
   "feitos": [],
-  "respostas": 41
+  "respostas": 47
  },
  "posts": [
   {
@@ -1914,7 +1914,13 @@
   "17922580194432522",
   "17909785929517681",
   "18112379036231501",
-  "18033957932815672"
+  "18033957932815672",
+  "18101450990377573",
+  "18112565720601363",
+  "18104578040360458",
+  "18631849723045473",
+  "18141064480623466",
+  "18217755649355426"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2128,40 +2134,16 @@
   "eec6eed26a": 1,
   "cae86b24fa": 1,
   "1ffa78c305": 1,
-  "23456960bd": 1
+  "23456960bd": 1,
+  "718ae613d6": 1,
+  "ac0879fb89": 1,
+  "f2361b6031": 1,
+  "53fa6c089b": 1,
+  "373c5f35b4": 1,
+  "4e5b31c38b": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "se for cozido no ponto certo já conta ponto pro básico",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dividir a louça depois entra no acordo de paz kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "então já pode ir preparando o avental pra prova prática",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa consultoria internacional aí já tem peso de especialista kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quando a conta chega a realidade sempre fala mais alto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, cada um sabe onde o calcanhar aperta mais",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "liberdade total para escolher mas o saldo no banco cobra a conta logo depois",
    "p": "ressalva",
@@ -2281,6 +2263,36 @@
    "t": "quem tem foco desse jeito passa longe da nossa indecisão",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "deixar a urgência filtrar o que vale a pena é pura sobrevivência kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quando o celular não esta na mao o mundo pode acabar em paz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a prioridade muda completamente dependendo do nível de cansaço do dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa mistura de nona no fogão e clássico paulista parece cena de filme kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "dupla dinamica imbativel para acabar com a paz de qualquer almoco",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "rir para não surtar é a única saida viavel nesse tipo de evento kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
