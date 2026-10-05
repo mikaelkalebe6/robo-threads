@@ -11,7 +11,7 @@
    "21:07"
   ],
   "feitos": [],
-  "respostas": 29
+  "respostas": 35
  },
  "posts": [
   {
@@ -1902,7 +1902,13 @@
   "18202559278373213",
   "18187860805415742",
   "18394201948162626",
-  "18566823583072244"
+  "18566823583072244",
+  "18130363735742989",
+  "17968031966965357",
+  "18079209854371246",
+  "17882484924689150",
+  "18111972007873801",
+  "17904315834353093"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2104,40 +2110,16 @@
   "0eacbcc76f": 1,
   "2e21bfa101": 1,
   "bcfe340430": 1,
-  "f5562bf7f8": 1
+  "f5562bf7f8": 1,
+  "8e9596a838": 1,
+  "19336a1222": 1,
+  "7ecd58e310": 1,
+  "f9b4075b3d": 1,
+  "908eb6c9cc": 1,
+  "4f6dfc5700": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "esse tipo de desculpa pronta sempre consegue piorar a situacao",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "boleto vencendo não aceita promessa de ambiente divertido",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "horário de madrugada pra trabalho não é cobrança, é falta de noção total",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "poderia ser engraçado se não fosse a realidade de muita gente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "caráter realmente vem em primeiro lugar e muda tudo na escolha",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sinceridade cortando o papo reto sem rodeios",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "pontuação máxima garantida na certa kkk",
    "p": "concorda",
@@ -2257,6 +2239,36 @@
    "t": "pessoa prática que não enrola pra resolver as coisas",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "quem já tá com o aparelho na mao não tem nem como fingir demencia kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse manual de sobrevivência com tantas regras defensivas é genial kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa tática de ler pela barra evita muitos compromissos indesejados kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "depende se a preguica de responder ganha da culpa de deixar no vacuo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "a intenção é boa mas a coragem de responder na hora nem sempre resiste kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse jogo de cena cansa mas a gente acaba jogando kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
