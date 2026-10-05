@@ -11,7 +11,7 @@
    "21:07"
   ],
   "feitos": [],
-  "respostas": 6
+  "respostas": 12
  },
  "posts": [
   {
@@ -1879,7 +1879,13 @@
   "17988719955059442",
   "17938778394389527",
   "18112890665026423",
-  "18010342385970944"
+  "18010342385970944",
+  "18136521868584934",
+  "18051369281807173",
+  "18111944816162150",
+  "18129904543770506",
+  "18168590380465081",
+  "18349779352267070"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2059,40 +2065,16 @@
   "b34edd09cc": 1,
   "0092ab61dd": 1,
   "9447223fdb": 1,
-  "aa9e7ef774": 1
+  "aa9e7ef774": 1,
+  "8ed191b414": 1,
+  "b8c7642111": 1,
+  "8a4620ac27": 1,
+  "68f20f3bed": 1,
+  "97f4161283": 1,
+  "146ca0709d": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "dexter logo no inicio exige uma coragem que eu não tenho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa é famosa por ter um ritmo bem específico mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "vacina particular parece plano de saude de tanto que assusta kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "perrengue só é bom com o tempo seguro de distância kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse odio matinal é o preço que a gente paga por quinze minutos a mais de sono",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "breaking bad exige uma paciência que o cansaço da semana não permite kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essas duas gigantes acumulam desistências logo nos primeiros minutos",
    "p": "concorda",
@@ -2212,6 +2194,36 @@
    "t": "pontuação máxima garantida na certa kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "dez é pouco pra quem chega nesse nível de apresentação kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "depende do cardápio e da sobremesa kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "nota máxima merecida então kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quem garante o básico que enche a barriga já sai na frente kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "veio só pra garantir o camarote da disputa kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "se for cozido no ponto certo já conta ponto pro básico",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
