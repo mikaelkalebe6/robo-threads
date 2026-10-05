@@ -25,28 +25,12 @@
    "15:29",
    "16:49",
    "17:50",
-   "18:52"
+   "18:52",
+   "20:22"
   ],
   "respostas": 100
  },
  "posts": [
-  {
-   "id": "17936648637122403",
-   "insp": "b5bc8dc34f",
-   "link": "",
-   "texto": "PESSOAS QUE TÊM PET: qual foi a maior arte que o bichinho de vocês já aprontou em casa? \n\nO meu conseguiu abrir o armário e espalhar farinha pela cozinha inteira hoje cedo.",
-   "quando": "2026-09-30T10:07:10.209809-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 34580,
-    "likes": 304,
-    "replies": 562,
-    "reposts": 5,
-    "quotes": 4,
-    "shares": 4,
-    "em": "2026-10-04"
-   }
-  },
   {
    "id": "17922796089426941",
    "insp": "018fcf3621",
@@ -959,6 +943,14 @@
    "texto": "DÚVIDA SINCERA: Um casal de amigos torrou o valor de uma entrada de imóvel numa festa de casamento e começou a vida a dois no vermelho. Vale a pena pagar tão caro por uma única noite ou é pura loucura?",
    "quando": "2026-10-04T19:07:07.760926-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "17927475519184610",
+   "insp": "c7f375102c",
+   "link": "",
+   "texto": "SEJAM SINCEROS: homem que cozinha bem ganha quantos pontos na paquera de 0 a 10",
+   "quando": "2026-10-04T20:37:08.010046-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1882,7 +1874,8 @@
   "64b08835f6b736d08313d4bb79bbb220",
   "a4e768a27641c2f85e4ba989256c01ea",
   "f9c14049da594edaf143273a0023b7f0",
-  "567e5e93d54b87ab8fc3ee4e65cbc0e6"
+  "567e5e93d54b87ab8fc3ee4e65cbc0e6",
+  "7fb7a5f5f67624d28da24546e868cb0a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -1965,7 +1958,8 @@
   "dce953f387": 1791142652.6592295,
   "c638d9ff81": 1791148042.25671,
   "c5cc27e19f": 1791151645.7283194,
-  "0fc3b77eb4": 1791155244.913814
+  "0fc3b77eb4": 1791155244.913814,
+  "c7f375102c": 1791160638.6544247
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
