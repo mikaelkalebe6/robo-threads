@@ -11,7 +11,7 @@
    "21:07"
   ],
   "feitos": [],
-  "respostas": 24
+  "respostas": 29
  },
  "posts": [
   {
@@ -1897,7 +1897,12 @@
   "18192686971399709",
   "18129596095743600",
   "17882669595690731",
-  "18119893211006043"
+  "18119893211006043",
+  "18013359473976816",
+  "18202559278373213",
+  "18187860805415742",
+  "18394201948162626",
+  "18566823583072244"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2094,35 +2099,15 @@
   "a16d4cc2b0": 1,
   "5f258e1812": 1,
   "80064a65a7": 1,
-  "a520d9df94": 1
+  "a520d9df94": 1,
+  "ad824dc944": 1,
+  "0eacbcc76f": 1,
+  "2e21bfa101": 1,
+  "bcfe340430": 1,
+  "f5562bf7f8": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "comprar essa briga com todas as famosas de uma vez é muita coragem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "previsível demais acaba cansando a gente mesmo antes da metade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa é famosa por exigir um mapa pra não se perder no enredo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa acumulou desistência logo nos primeiros minutos kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa tem defensora ferrenha mas o começo realmente testa a paciencia kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "esse tipo de desculpa pronta sempre consegue piorar a situacao",
    "p": "ressalva",
@@ -2247,6 +2232,31 @@
    "t": "a ressaca do boleto dura bem mais que a memória do convidado kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "a vida passa rápido demais e o dinheiro nunca sobra do jeito que a gente quer",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "um mês inteiro exige uma força de vontade impressionante",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "largar a cerveja foi fácil perto do desafio do açúcar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem tem tempo livre assim ganha a paz de espírito de caixa de entrada zerada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pessoa prática que não enrola pra resolver as coisas",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
