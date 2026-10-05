@@ -10,27 +10,12 @@
    "20:11",
    "21:07"
   ],
-  "feitos": [],
-  "respostas": 59
+  "feitos": [
+   "11:40"
+  ],
+  "respostas": 63
  },
  "posts": [
-  {
-   "id": "17915913696462020",
-   "insp": "2b14999174",
-   "link": "",
-   "texto": "SEJAM SINCEROS: ser legal o tempo todo só traz prejuízo emocional ou sou eu que estou escolhendo os caminhos errados",
-   "quando": "2026-09-30T12:37:10.761748-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 4514,
-    "likes": 134,
-    "replies": 177,
-    "reposts": 4,
-    "quotes": 1,
-    "shares": 0,
-    "em": "2026-10-05"
-   }
-  },
   {
    "id": "18142466698599562",
    "insp": "8b93fbf051",
@@ -1033,6 +1018,14 @@
     "shares": 0,
     "em": "2026-10-05"
    }
+  },
+  {
+   "id": "18089275931235702",
+   "insp": "7e797582de",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a programação infantil de antigamente era bem mais caótica do que a gente lembra ou é só nostalgia pura? Minha memória diz que era ótimo mas reassistir hoje em dia dá um pouco de medo",
+   "quando": "2026-10-05T12:07:12.437095-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1932,7 +1925,11 @@
   "18121682878820094",
   "17992033758024938",
   "17959892622248678",
-  "17960919791999346"
+  "17960919791999346",
+  "18149465209557362",
+  "18159655411501226",
+  "18013646912958211",
+  "17916864252463181"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2017,7 +2014,8 @@
   "f9c14049da594edaf143273a0023b7f0",
   "567e5e93d54b87ab8fc3ee4e65cbc0e6",
   "7fb7a5f5f67624d28da24546e868cb0a",
-  "3622febd97918e95eb2cfcd309971087"
+  "3622febd97918e95eb2cfcd309971087",
+  "f3d06b2b3b2e041be5b5be5ec85011f5"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2102,7 +2100,8 @@
   "c5cc27e19f": 1791151645.7283194,
   "0fc3b77eb4": 1791155244.913814,
   "c7f375102c": 1791160638.6544247,
-  "7fff0e06da": 1791162445.4803498
+  "7fff0e06da": 1791162445.4803498,
+  "7e797582de": 1791216456.696685
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2162,30 +2161,14 @@
   "19e786a41f": 1,
   "dc0f20eb20": 1,
   "3849d42b97": 1,
-  "e2fa755561": 1
+  "e2fa755561": 1,
+  "636bb26f45": 1,
+  "c9dc6877bb": 1,
+  "df88b8ab04": 1,
+  "e3e72a0d47": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "quem já tá com o aparelho na mao não tem nem como fingir demencia kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse manual de sobrevivência com tantas regras defensivas é genial kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa tática de ler pela barra evita muitos compromissos indesejados kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "depende se a preguica de responder ganha da culpa de deixar no vacuo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "a intenção é boa mas a coragem de responder na hora nem sempre resiste kkk",
    "p": "concorda",
@@ -2315,6 +2298,26 @@
    "t": "o ritmo tem que ajudar muito pra prender a atencao logo de cara",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "medida exata de acordo com o grau de intimidade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "filtro de urgência ativado com sucesso para sobreviver ao dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "depende do nível de paciencia do dia kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa é famosa por perder muita gente logo no começo kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
