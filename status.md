@@ -30,3 +30,9 @@ O log mostra 1 vez por dia a linha "Config em uso" com os valores valendo de ver
 
 ## Variables novas (opcionais; vazias = PADRAO)
 `RESPOSTAS_POR_POST_DIA`, `RESPOSTAS_MIN_RODADA`, `MINUTOS_ENTRE_RODADAS`, `DADOS_DIAS`.
+
+## Horários perdidos por falha do GitHub (mudança de 05/10/2026)
+- Se várias rodadas falharem, o robô posta só 1 na rodada seguinte (como antes).
+- Os horários muito atrasados não são mais descartados. Cada um ganha um novo horário sorteado entre agora + `INTERVALO_MINIMO_MIN` e `HORA_FIM`, longe dos outros horários do dia. No log aparece "Horario X reencaixado para Y".
+- Só é descartado se não couber mais no dia. No log aparece "Post perdido (sem espaco no dia)".
+- Comentários não mudam: o que ficou sem resposta durante a falha entra nas rodadas seguintes, dentro do teto do dia.

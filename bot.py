@@ -871,6 +871,22 @@ def checar_reservas():
             log(f"Reserva {nome}: FALHOU ({str(e)[:120]}).")
 
 
+def reencaixar(p, h, agora_min):
+    """Horario que passou durante uma falha ganha um novo horario sorteado entre agora + INTERVALO_MIN e HORA_FIM,
+    longe dos outros horarios do dia. Sem espaco no dia, o post e descartado."""
+    outros = [int(x[:2]) * 60 + int(x[3:]) for x in p["horarios"] if x != h]
+    livres = [m for m in range(agora_min + INTERVALO_MIN, HORA_FIM * 60 + 1)
+              if all(abs(m - o) >= INTERVALO_MIN for o in outros)]
+    if not livres:
+        p["feitos"].append(h)
+        log("Post perdido (sem espaco no dia):", h)
+        return
+    m = random.choice(livres)
+    novo = f"{m // 60:02d}:{m % 60:02d}"
+    p["horarios"] = sorted([x for x in p["horarios"] if x != h] + [novo])
+    log(f"Horario {h} reencaixado para {novo}")
+
+
 def tarefa_postar(s, agora):
     p = plano_do_dia(s, agora)
     agora_min = agora.hour * 60 + agora.minute
@@ -879,15 +895,16 @@ def tarefa_postar(s, agora):
     if not vencidos:
         log("Nenhum post na hora agora. Proximo:", pendentes[0] if pendentes else "amanha")
         return
-    # se varios venceram (atraso do GitHub), posta so 1 e descarta os muito antigos
-    for h in vencidos[:-1]:
-        if agora_min - (int(h[:2]) * 60 + int(h[3:])) > 90:
-            p["feitos"].append(h)
-            log("Horario perdido (atraso), pulando:", h)
-    h = [x for x in vencidos if x not in p["feitos"]][0]
+    # se varios venceram (falha ou atraso do GitHub), posta so 1 agora e reencaixa os muito antigos no resto do dia
     if agora.hour > HORA_FIM:
-        p["feitos"].append(h)
+        for h in vencidos:
+            p["feitos"].append(h)
+            log("Post perdido (sem espaco no dia):", h)
         return
+    h = vencidos[0]
+    for velho in vencidos[1:]:
+        if agora_min - (int(velho[:2]) * 60 + int(velho[3:])) > 90:
+            reencaixar(p, velho, agora_min)
 
     itens = ler_planilha()
     if not itens:
