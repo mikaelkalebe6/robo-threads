@@ -44,3 +44,12 @@ O log mostra 1 vez por dia a linha "Config em uso" com os valores valendo de ver
 - Credenciais só nos Secrets `SHOPEE_APP_ID` e `SHOPEE_SECRET`. Elas nunca aparecem no log nem na memória do robô: o passo de salvar a memória bloqueia se encontrar o Secret.
 - `SHOPEE_LIGADO` (Variable opcional): 0 desliga.
 - Próxima fase: campanhas (ex.: link de afiliado no comentário depois de X min se o post passar de Y views), uma por vez e com confirmação.
+
+## Shopee fase 2 (planejada, ainda não feita)
+Fluxo combinado em 05/10/2026 para posts com produto:
+1. A palavra-chave vem do Kalebe (ex.: "garrafa térmica") ou a IA sugere pelo tema do post.
+2. O robô (código, não a IA) busca na Shopee com `buscar_produtos` e filtra: nota boa, comissão acima de um mínimo, produto vendendo.
+3. A IA recebe os 3 a 5 melhores com os dados reais, escolhe o que combina com o post e escreve sem inventar preço.
+4. O robô gera o link com `link_afiliado` (marcador = id do post) e publica. Depois, as vendas por post entram em `dados/`.
+- Campanhas ditas em linguagem simples ("5 posts com link no comentário depois de 1h se bater 100 views") viram regras em `campanhas.json`, mandadas por PR.
+- Antes de ativar: mostrar ao Kalebe o que muda na publicação (regra do CLAUDE.md). Fixar comentário depende de a API do Threads permitir.
