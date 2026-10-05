@@ -12,28 +12,12 @@
   ],
   "feitos": [
    "11:40",
-   "12:53"
+   "12:53",
+   "13:48"
   ],
-  "respostas": 71
+  "respostas": 72
  },
  "posts": [
-  {
-   "id": "17881816005690087",
-   "insp": "c7f8b70e05",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual foi o valor do seu primeiro salário e quanto tempo durou na sua mão?",
-   "quando": "2026-09-30T15:07:08.876959-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1170,
-    "likes": 4,
-    "replies": 56,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-05"
-   }
-  },
   {
    "id": "18121584379911418",
    "insp": "00c9530901",
@@ -1018,6 +1002,14 @@
    "texto": "DÚVIDA SINCERA: você prefere um elogio do chefe na reunião de equipe ou um dia de folga surpresa sem precisar justificar nada",
    "quando": "2026-10-05T13:07:10.584384-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18446705149192097",
+   "insp": "d8d17a2688",
+   "link": "",
+   "texto": "SEJAM SINCEROS: eu vivo namorando aquele aparelho novo de última geração que tem a melhor câmera do mundo, mas na prática sigo apagando foto todo dia pra liberar espaço no meu guerreiro que já tá pedindo arrego.\n\nQual seria o celular dos sonhos de vocês hoje e qual é a realidade que tá aí no bolso?",
+   "quando": "2026-10-05T14:07:08.673846-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1929,7 +1921,8 @@
   "18092418215672710",
   "18118311454986930",
   "17937183393124535",
-  "18106358626964208"
+  "18106358626964208",
+  "17912550492515974"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2016,7 +2009,8 @@
   "7fb7a5f5f67624d28da24546e868cb0a",
   "3622febd97918e95eb2cfcd309971087",
   "f3d06b2b3b2e041be5b5be5ec85011f5",
-  "22bfa5857347e6d70553ec9e6b8aa9c0"
+  "22bfa5857347e6d70553ec9e6b8aa9c0",
+  "3cb10cc6544c07d7d4691f183024cdf4"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2103,7 +2097,8 @@
   "c7f375102c": 1791160638.6544247,
   "7fff0e06da": 1791162445.4803498,
   "7e797582de": 1791216456.696685,
-  "de9bf80054": 1791220047.5941434
+  "de9bf80054": 1791220047.5941434,
+  "d8d17a2688": 1791223648.0135908
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2174,15 +2169,11 @@
   "e3ef449c9e": 1,
   "3cd5743672": 1,
   "e7102b50d0": 1,
-  "be503e68c6": 1
+  "be503e68c6": 1,
+  "b81961b943": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "deixar a urgência filtrar o que vale a pena é pura sobrevivência kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "quando o celular não esta na mao o mundo pode acabar em paz",
    "p": "concorda",
@@ -2325,6 +2316,11 @@
   },
   {
    "t": "pontuação máxima garantida logo de cara 🥰",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "filtro seletivo excelente para não acumular conversas",
    "p": "concorda",
    "r": 0
   }
