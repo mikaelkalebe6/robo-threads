@@ -11,7 +11,7 @@
    "21:07"
   ],
   "feitos": [],
-  "respostas": 18
+  "respostas": 24
  },
  "posts": [
   {
@@ -1891,7 +1891,13 @@
   "18184458130422704",
   "18183924793423031",
   "18107171951260472",
-  "18637680832009111"
+  "18637680832009111",
+  "18336553453256350",
+  "18077602118417427",
+  "18192686971399709",
+  "18129596095743600",
+  "17882669595690731",
+  "18119893211006043"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2082,40 +2088,16 @@
   "de2c4a2ff7": 1,
   "64aca39220": 1,
   "3bfc1422ca": 1,
-  "a8754f94ce": 1
+  "a8754f94ce": 1,
+  "40f4c28aad": 1,
+  "67129f213b": 1,
+  "a16d4cc2b0": 1,
+  "5f258e1812": 1,
+  "80064a65a7": 1,
+  "a520d9df94": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "depende do dia é a resposta definitiva pra qualquer drama social kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "separar a vizinha que vale a pena da chata é questão de sobrevivência kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "estratégia eficiente para garantir o sal sem perder a tarde inteira kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quem esconde demais costuma dar trabalho mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa é clássica, pouca gente aguenta o começo pra chegar nos episódios bons kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "duas gigantes que muita gente deixa pelo caminho logo no começo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "comprar essa briga com todas as famosas de uma vez é muita coragem",
    "p": "concorda",
@@ -2235,6 +2217,36 @@
    "t": "liberdade total para escolher mas o saldo no banco cobra a conta logo depois",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "o boleto chega cobrando o glamour da festa rapidinho kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "cada escolha traz um peso diferente para a vida a dois",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o pior é que a festa passa e o falório do povo continua kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "sonho de infância é um argumento difícil de rebater mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paz de espírito de não dever nada compensa muito mais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a ressaca do boleto dura bem mais que a memória do convidado kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
