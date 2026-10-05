@@ -11,7 +11,7 @@
    "21:07"
   ],
   "feitos": [],
-  "respostas": 35
+  "respostas": 41
  },
  "posts": [
   {
@@ -1908,7 +1908,13 @@
   "18079209854371246",
   "17882484924689150",
   "18111972007873801",
-  "17904315834353093"
+  "17904315834353093",
+  "18150218320551726",
+  "18167002405486049",
+  "17922580194432522",
+  "17909785929517681",
+  "18112379036231501",
+  "18033957932815672"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2116,40 +2122,16 @@
   "7ecd58e310": 1,
   "f9b4075b3d": 1,
   "908eb6c9cc": 1,
-  "4f6dfc5700": 1
+  "4f6dfc5700": 1,
+  "a1edc3f873": 1,
+  "e85cd06ebd": 1,
+  "eec6eed26a": 1,
+  "cae86b24fa": 1,
+  "1ffa78c305": 1,
+  "23456960bd": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "pontuação máxima garantida na certa kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "dez é pouco pra quem chega nesse nível de apresentação kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "depende do cardápio e da sobremesa kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "nota máxima merecida então kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quem garante o básico que enche a barriga já sai na frente kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "veio só pra garantir o camarote da disputa kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "se for cozido no ponto certo já conta ponto pro básico",
    "p": "concorda",
@@ -2269,6 +2251,36 @@
    "t": "esse jogo de cena cansa mas a gente acaba jogando kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "fica a vontade, a lista tá crescendo e rendendo boas risadas",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "tem dias q a bateria social acaba antes do fim do expediente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Entendo, a barra de notificação vira filtro de papo pra vc 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "interação boa assim dá até gosto de ver a mensagem chegar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa barra salva a gente de muita conversa que podia ser e-mail kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quem tem foco desse jeito passa longe da nossa indecisão",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
