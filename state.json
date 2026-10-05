@@ -1,35 +1,17 @@
 {
  "plano": {
-  "data": "2026-10-04",
+  "data": "2026-10-05",
   "horarios": [
-   "08:33",
-   "09:45",
-   "10:51",
-   "12:24",
-   "13:46",
-   "14:38",
-   "15:29",
-   "16:49",
-   "17:50",
-   "18:52",
-   "20:22",
-   "21:06"
+   "11:40",
+   "12:53",
+   "13:48",
+   "14:53",
+   "17:59",
+   "20:11",
+   "21:07"
   ],
-  "feitos": [
-   "08:33",
-   "09:45",
-   "10:51",
-   "12:24",
-   "13:46",
-   "14:38",
-   "15:29",
-   "16:49",
-   "17:50",
-   "18:52",
-   "20:22",
-   "21:06"
-  ],
-  "respostas": 100
+  "feitos": [],
+  "respostas": 6
  },
  "posts": [
   {
@@ -40,13 +22,13 @@
    "quando": "2026-09-30T12:37:10.761748-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 4506,
+    "views": 4514,
     "likes": 134,
     "replies": 177,
     "reposts": 4,
     "quotes": 1,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -57,13 +39,13 @@
    "quando": "2026-09-30T13:37:10.884762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1813,
+    "views": 1819,
     "likes": 12,
     "replies": 83,
     "reposts": 0,
     "quotes": 1,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -74,13 +56,13 @@
    "quando": "2026-09-30T15:07:08.876959-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1167,
+    "views": 1170,
     "likes": 4,
     "replies": 56,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -91,13 +73,13 @@
    "quando": "2026-09-30T16:07:11.240206-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 851,
+    "views": 857,
     "likes": 3,
     "replies": 14,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -108,13 +90,13 @@
    "quando": "2026-09-30T17:07:12.778570-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 576,
+    "views": 578,
     "likes": 14,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -125,13 +107,13 @@
    "quando": "2026-09-30T18:37:10.864297-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 843,
+    "views": 845,
     "likes": 14,
     "replies": 5,
     "reposts": 1,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -142,13 +124,13 @@
    "quando": "2026-09-30T19:07:09.621863-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 726,
+    "views": 728,
     "likes": 7,
     "replies": 34,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -159,13 +141,13 @@
    "quando": "2026-09-30T20:07:11.344298-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 274,
+    "views": 276,
     "likes": 2,
     "replies": 12,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -176,13 +158,13 @@
    "quando": "2026-09-30T21:07:10.285631-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "metricas": {
-    "views": 213,
+    "views": 216,
     "likes": 1,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -193,13 +175,13 @@
    "quando": "2026-09-30T21:37:13.948034-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 425,
+    "views": 428,
     "likes": 4,
     "replies": 6,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -210,13 +192,13 @@
    "quando": "2026-09-30T22:07:08.156050-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 693,
+    "views": 697,
     "likes": 6,
     "replies": 21,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -227,13 +209,13 @@
    "quando": "2026-10-01T08:07:12.278664-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 2875,
+    "views": 2882,
     "likes": 65,
     "replies": 108,
     "reposts": 3,
     "quotes": 0,
     "shares": 1,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -244,13 +226,13 @@
    "quando": "2026-10-01T09:37:12.227942-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 534,
+    "views": 537,
     "likes": 5,
     "replies": 10,
     "reposts": 1,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -261,13 +243,13 @@
    "quando": "2026-10-01T10:07:14.441923-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 121,
+    "views": 123,
     "likes": 0,
     "replies": 3,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -278,13 +260,13 @@
    "quando": "2026-10-01T11:07:15.167680-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "metricas": {
-    "views": 1204,
+    "views": 1206,
     "likes": 24,
     "replies": 19,
     "reposts": 2,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -295,13 +277,13 @@
    "quando": "2026-10-01T14:37:12.990945-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 905,
+    "views": 907,
     "likes": 3,
     "replies": 14,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -312,13 +294,13 @@
    "quando": "2026-10-01T16:07:10.063128-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "metricas": {
-    "views": 369,
+    "views": 371,
     "likes": 1,
     "replies": 4,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -329,13 +311,13 @@
    "quando": "2026-10-01T16:37:08.779943-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "metricas": {
-    "views": 435,
+    "views": 437,
     "likes": 2,
     "replies": 8,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -346,13 +328,13 @@
    "quando": "2026-10-01T17:37:10.369426-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1924,
+    "views": 1926,
     "likes": 7,
     "replies": 21,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -363,13 +345,13 @@
    "quando": "2026-10-01T19:37:09.159244-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "metricas": {
-    "views": 121,
+    "views": 123,
     "likes": 1,
     "replies": 8,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -380,13 +362,13 @@
    "quando": "2026-10-01T20:37:10.342510-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 296,
+    "views": 298,
     "likes": 1,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -397,13 +379,13 @@
    "quando": "2026-10-01T21:37:10.381701-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 681,
+    "views": 683,
     "likes": 5,
     "replies": 16,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -414,13 +396,13 @@
    "quando": "2026-10-02T08:07:09.600020-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 2372,
+    "views": 2391,
     "likes": 13,
     "replies": 67,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -431,13 +413,13 @@
    "quando": "2026-10-02T09:07:08.399914-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 393,
+    "views": 409,
     "likes": 2,
     "replies": 17,
     "reposts": 0,
     "quotes": 1,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -448,13 +430,13 @@
    "quando": "2026-10-02T10:07:10.911507-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 230,
+    "views": 232,
     "likes": 1,
     "replies": 3,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -465,13 +447,13 @@
    "quando": "2026-10-02T11:07:09.550320-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 1004,
+    "views": 1012,
     "likes": 9,
     "replies": 23,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -482,13 +464,13 @@
    "quando": "2026-10-02T12:07:10.597748-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1689,
+    "views": 1692,
     "likes": 11,
     "replies": 57,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -499,13 +481,13 @@
    "quando": "2026-10-02T13:07:10.072768-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 5661,
+    "views": 5669,
     "likes": 13,
     "replies": 4,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -516,13 +498,13 @@
    "quando": "2026-10-02T14:07:09.142633-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 692,
+    "views": 694,
     "likes": 4,
     "replies": 16,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -533,13 +515,13 @@
    "quando": "2026-10-02T14:37:09.071619-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1647,
+    "views": 1650,
     "likes": 25,
     "replies": 10,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -550,13 +532,13 @@
    "quando": "2026-10-02T16:07:09.012772-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 357,
+    "views": 359,
     "likes": 2,
     "replies": 6,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -567,13 +549,13 @@
    "quando": "2026-10-02T17:37:09.006249-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 22076,
-    "likes": 118,
-    "replies": 499,
+    "views": 23163,
+    "likes": 120,
+    "replies": 517,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -584,13 +566,13 @@
    "quando": "2026-10-02T18:37:08.734576-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 339,
+    "views": 344,
     "likes": 3,
     "replies": 4,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -601,13 +583,13 @@
    "quando": "2026-10-02T19:07:07.811766-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 226,
+    "views": 231,
     "likes": 1,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -618,13 +600,13 @@
    "quando": "2026-10-02T21:07:10.188337-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 342,
+    "views": 348,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -635,13 +617,13 @@
    "quando": "2026-10-02T22:07:07.436952-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 102,
+    "views": 109,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -652,13 +634,13 @@
    "quando": "2026-10-03T09:07:09.238539-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 947,
+    "views": 972,
     "likes": 4,
     "replies": 36,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -669,13 +651,13 @@
    "quando": "2026-10-03T09:37:08.336573-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 221,
+    "views": 229,
     "likes": 0,
     "replies": 3,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -686,13 +668,13 @@
    "quando": "2026-10-03T10:37:09.220463-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 316,
+    "views": 325,
     "likes": 3,
     "replies": 20,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -703,13 +685,13 @@
    "quando": "2026-10-03T11:07:09.029655-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 183,
+    "views": 194,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -720,13 +702,13 @@
    "quando": "2026-10-03T12:37:08.109030-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 178,
+    "views": 195,
     "likes": 2,
     "replies": 4,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -737,13 +719,13 @@
    "quando": "2026-10-03T13:07:08.428027-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1379,
+    "views": 1423,
     "likes": 9,
     "replies": 33,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -754,13 +736,13 @@
    "quando": "2026-10-03T14:37:08.420964-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1197,
-    "likes": 4,
-    "replies": 4,
+    "views": 1403,
+    "likes": 6,
+    "replies": 6,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -771,13 +753,13 @@
    "quando": "2026-10-03T16:07:09.997128-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 113,
+    "views": 133,
     "likes": 3,
-    "replies": 5,
+    "replies": 7,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -788,13 +770,13 @@
    "quando": "2026-10-03T18:07:10.431978-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 404,
+    "views": 425,
     "likes": 1,
-    "replies": 1,
+    "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -805,13 +787,13 @@
    "quando": "2026-10-03T19:37:07.608662-04:00",
    "ia": "Gemini gemini-flash-latest",
    "metricas": {
-    "views": 31813,
-    "likes": 100,
-    "replies": 151,
+    "views": 67392,
+    "likes": 202,
+    "replies": 302,
     "reposts": 0,
     "quotes": 0,
-    "shares": 1,
-    "em": "2026-10-04"
+    "shares": 3,
+    "em": "2026-10-05"
    }
   },
   {
@@ -822,13 +804,13 @@
    "quando": "2026-10-03T21:07:27.096518-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 415,
+    "views": 515,
     "likes": 0,
-    "replies": 4,
+    "replies": 6,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -839,13 +821,13 @@
    "quando": "2026-10-03T22:07:08.232231-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1318,
-    "likes": 12,
-    "replies": 23,
+    "views": 12603,
+    "likes": 94,
+    "replies": 264,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-10-04"
+    "em": "2026-10-05"
    }
   },
   {
@@ -854,7 +836,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: antes dos 40, qual parada você vai garantir?  \nChapada dos Veadeiros ou Lençóis Maranhenses 🌎  \n\nQual dos dois já está na sua lista?",
    "quando": "2026-10-04T08:37:08.831632-04:00",
-   "ia": "Groq openai/gpt-oss-120b"
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 165,
+    "likes": 2,
+    "replies": 4,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-05"
+   }
   },
   {
    "id": "18105099868970989",
@@ -862,7 +853,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: qual a mania mais estranha que vocês têm e ainda não contam? Eu ainda guardo guardanapos de todos os cafés que visito, tem até uma gaveta cheia de “memórias” de cappuccino. 😂\n\nE aí, tem alguma curiosidade que ninguém sabe?",
    "quando": "2026-10-04T10:07:09.848825-04:00",
-   "ia": "Groq openai/gpt-oss-120b"
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 1188,
+    "likes": 7,
+    "replies": 22,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-05"
+   }
   },
   {
    "id": "18152407384556806",
@@ -870,7 +870,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: para a galera que já passou dos 30, o joelho que começou a estalar primeiro foi o esquerdo ou o direito? \n\nEsquerdo\nDireito",
    "quando": "2026-10-04T11:07:10.011751-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 73,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-05"
+   }
   },
   {
    "id": "18117567934950574",
@@ -878,7 +887,16 @@
    "link": "",
    "texto": "Quem mais aqui acha que casal não precisa desse mistério todo com senha de celular? Não é sobre fuçar a vida alheia, é só sobre praticidade e não ter nada pra esconder. Tem gente que defende a privacidade como se fosse segredo de estado, eu acho meio esquisito.",
    "quando": "2026-10-04T12:37:07.723500-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 225,
+    "likes": 2,
+    "replies": 5,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-05"
+   }
   },
   {
    "id": "18115420961019155",
@@ -886,7 +904,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: a vizinha bate na porta pedindo sal e fica duas horas contando a vida dela. Vocês deixariam entrar ou fingiriam que não estão em casa?",
    "quando": "2026-10-04T14:07:09.250805-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 602,
+    "likes": 4,
+    "replies": 15,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-05"
+   }
   },
   {
    "id": "18423724351146165",
@@ -894,7 +921,16 @@
    "link": "",
    "texto": "ME CONTA: qual é o assunto que tem 100% de chance de virar barraco no almoço de família de vocês? Na minha é futebol, todo santo domingo alguém sai da mesa bravo.",
    "quando": "2026-10-04T15:07:09.893804-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 476,
+    "likes": 1,
+    "replies": 6,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-05"
+   }
   },
   {
    "id": "18234677503320142",
@@ -902,7 +938,16 @@
    "link": "",
    "texto": "SEM MENTIR: vocês respondem na hora ou leem pela barra de notificação só pra fingir que ainda não viram?",
    "quando": "2026-10-04T15:37:08.493797-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 3389,
+    "likes": 59,
+    "replies": 70,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-05"
+   }
   },
   {
    "id": "17891293701615453",
@@ -910,7 +955,16 @@
    "link": "",
    "texto": "SEM MENTIR: uma semana sem internet eu consigo sobreviver, mas um mês sem doce? Não dá, preciso daquele açúcar pra dar aquele gás nas ideias. 🍬 E vocês, o que escolheriam?",
    "quando": "2026-10-04T17:07:11.168141-04:00",
-   "ia": "Groq openai/gpt-oss-120b"
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 194,
+    "likes": 4,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-05"
+   }
   },
   {
    "id": "18115684799079677",
@@ -918,7 +972,16 @@
    "link": "",
    "texto": "ME CONTA: qual foi aquela compra que você pensou muito, deixou pra lá e até hoje se arrepende de não ter feito? Queria entender se a culpa foi o valor ou só indecisão mesmo.",
    "quando": "2026-10-04T18:07:08.634664-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 372,
+    "likes": 0,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-05"
+   }
   },
   {
    "id": "17948454009322563",
@@ -926,7 +989,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: Um casal de amigos torrou o valor de uma entrada de imóvel numa festa de casamento e começou a vida a dois no vermelho. Vale a pena pagar tão caro por uma única noite ou é pura loucura?",
    "quando": "2026-10-04T19:07:07.760926-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 817,
+    "likes": 4,
+    "replies": 10,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-05"
+   }
   },
   {
    "id": "17927475519184610",
@@ -934,7 +1006,16 @@
    "link": "",
    "texto": "SEJAM SINCEROS: homem que cozinha bem ganha quantos pontos na paquera de 0 a 10",
    "quando": "2026-10-04T20:37:08.010046-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 870,
+    "likes": 12,
+    "replies": 18,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-05"
+   }
   },
   {
    "id": "18036205694903067",
@@ -942,7 +1023,16 @@
    "link": "",
    "texto": "SEM MENTIR: o que te faz perder a vontade de trabalhar num lugar? \n\nEu juro que tento ter paciência, mas reunião que podia ser um email e chefe que acha que vida pessoal é detalhe me broxam no primeiro mês.",
    "quando": "2026-10-04T21:07:09.598454-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 675,
+    "likes": 2,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-10-05"
+   }
   }
  ],
  "respondidos": [
@@ -1783,7 +1873,13 @@
   "17912239188509760",
   "18077181299406610",
   "18127797103859828",
-  "18144727450598377"
+  "18144727450598377",
+  "17913878316462629",
+  "18108140440922235",
+  "17988719955059442",
+  "17938778394389527",
+  "18112890665026423",
+  "18010342385970944"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -1957,138 +2053,16 @@
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
-  "_data": "2026-10-04",
-  "fc0da17fc1": 1,
-  "81c5ac015a": 1,
-  "f08acdb80c": 1,
-  "c833559389": 1,
-  "975dff708a": 1,
-  "59ad698a49": 1,
-  "7c19fc7966": 1,
-  "b1771b3802": 1,
-  "eff37f8914": 1,
-  "05500923f9": 1,
-  "1f68a47042": 1,
-  "bf79e78b63": 1,
-  "dcf09b03a5": 1,
-  "7bc0f27b45": 1,
-  "9222731c58": 1,
-  "d29c7960da": 1,
-  "2ab098bc30": 1,
-  "ae381795d6": 1,
-  "e876f2d955": 1,
-  "14f6eaebca": 1,
-  "f0766ea08f": 2,
-  "363f43b23e": 1,
-  "b35859f239": 1,
-  "7c20df6b4f": 1,
-  "8a9c147ab1": 1,
-  "d8d1c73532": 1,
-  "6f8afaf834": 1,
-  "ea3118d867": 1,
-  "7182950a41": 1,
-  "c16b7f0e15": 1,
-  "66ed3e11f4": 1,
-  "c15f11683d": 1,
-  "4600fd20a6": 1,
-  "511a20ad80": 1,
-  "0fecdd1623": 1,
-  "8bdb9b47d3": 1,
-  "0db77694e4": 1,
-  "6957a373c1": 1,
-  "58d9ba9dff": 1,
-  "34d929957c": 1,
-  "d6a9ada24c": 1,
-  "f68017f954": 1,
-  "558cc2a4a4": 1,
-  "9d5aacd666": 1,
-  "12a02dc68e": 1,
-  "129c02a9b3": 1,
-  "8496337d4e": 1,
-  "dbcde44fce": 1,
-  "dd4d5d243b": 1,
-  "deb23ff633": 1,
-  "6a85cc8644": 1,
-  "ec90c5587c": 1,
-  "8bf98e1abf": 1,
-  "2ec03a7752": 1,
-  "e42711ab42": 1,
-  "05633e2767": 1,
-  "10989d2f99": 1,
-  "a2a65bea75": 1,
-  "0bf30c84b3": 1,
-  "67cfae4b8e": 1,
-  "b74a5dbc0a": 1,
-  "0763695e10": 1,
-  "0c389b5bd5": 1,
-  "a4ea216025": 1,
-  "d02957f500": 1,
-  "5a47c2a3cc": 1,
-  "1b89933091": 1,
-  "a86f7a6ae3": 1,
-  "910e864a3c": 1,
-  "3ba30b20da": 2,
-  "1deab9b408": 1,
-  "9fac97c4f1": 1,
-  "71396c7be9": 1,
-  "943d2c53c3": 1,
-  "062b6cc439": 1,
-  "482363043f": 1,
-  "6f33e88819": 1,
-  "35bdd21b81": 1,
-  "3ca0f2327d": 1,
-  "37a4430333": 1,
-  "ae9e39bcfa": 1,
-  "018df7d792": 1,
-  "6a7e253c7d": 1,
-  "869d7200f6": 1,
-  "e8b8402afd": 1,
-  "0a3e7ca540": 1,
-  "679ccfefe1": 1,
-  "5439368521": 1,
-  "43012ad5b7": 1,
-  "43b4c27ff2": 1,
-  "a3313a7f82": 1,
-  "f6a1606e31": 1,
-  "413590e667": 1,
-  "aebc2c3d59": 1,
-  "e989f0fcfc": 1,
-  "b0c9bfd0a2": 1,
-  "64e82bf6c3": 1,
-  "cb1ce0071b": 1
+  "_data": "2026-10-05",
+  "23f6dde8a8": 1,
+  "1d06969815": 1,
+  "b34edd09cc": 1,
+  "0092ab61dd": 1,
+  "9447223fdb": 1,
+  "aa9e7ef774": 1
  },
- "reservas_checadas": "2026-10-04",
+ "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "essa lista tem alguns dos maiores pesos pesados do streaming que a gente desiste no primeiro obstaculo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "vacina de rede privada pesa demais no orçamento mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pé de criança parece que tem motor, o tênis dura dois meses kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "muda tanto de fase que quando vc acostuma o gasto já virou outro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "feira inteira pra durar tres dias é um mistério",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "serie que serve de remedio para insonia cumpre um papel nobre kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "dexter logo no inicio exige uma coragem que eu não tenho",
    "p": "concorda",
@@ -2208,6 +2182,36 @@
    "t": "esse tipo de desculpa pronta sempre consegue piorar a situacao",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "boleto vencendo não aceita promessa de ambiente divertido",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "horário de madrugada pra trabalho não é cobrança, é falta de noção total",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "poderia ser engraçado se não fosse a realidade de muita gente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "caráter realmente vem em primeiro lugar e muda tudo na escolha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sinceridade cortando o papo reto sem rodeios",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pontuação máxima garantida na certa kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -2254,130 +2258,155 @@
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
  "exemplos_vistos": [
-  "18118193725983110",
-  "17971009029165131",
-  "18108982334599696",
-  "18204336784371741",
-  "18352577458221806",
-  "18073912466466425",
-  "17997447995822785",
-  "18109002071227677",
-  "18117308641990693",
-  "18163950925487799",
-  "17959179330225098",
-  "17892318582434660",
-  "18114943336824411",
-  "18459385276184078",
-  "18110268866521413",
-  "17892597258438366",
-  "17950599921295752",
-  "18176940304437596",
-  "18132246595707629",
-  "18071467721730800",
-  "18154396690515058",
-  "18109275590611826",
-  "18177364090449516",
-  "18107512901596972",
-  "18130993828786479",
-  "18335967478285475",
-  "18033633812851627",
-  "17930737638407105",
-  "18346863541254451",
-  "18456022396191866",
-  "18096747389644022",
-  "18120837592933268",
-  "18213694846358675",
-  "18114564994835223",
-  "17937131694375460",
-  "18411621742088665",
-  "17906616480569650",
-  "18009008270986885",
-  "18082139822329091",
-  "17963993564984617",
-  "18021400670715322",
-  "18492127912108721",
-  "18069523232766891",
-  "18339553045269887",
-  "18417490684158620",
-  "18004921337789505",
-  "18132704491774231",
-  "18113213018031626",
-  "18123801926486818",
-  "18198117412381158",
-  "18631998049021230",
-  "18194809495385686",
-  "18022043666940892",
-  "17979766221073925",
-  "18116925077090964",
-  "18226082437334894",
-  "18074724326556172",
-  "17989144395056961",
-  "18133016467780276",
-  "18070898129493339",
-  "17879920404628904",
-  "18096954560549708",
-  "18114309020029481",
-  "17906863833559342",
-  "18090378716280532",
-  "17988836559104282",
-  "18127926811699599",
-  "18115694528053601",
-  "18215489083357671",
-  "17908496052557816",
-  "18098001707373961",
-  "18051331004801317",
-  "18096110321673804",
-  "18108415799061502",
-  "17908149960486177",
-  "18109914164143806",
-  "18369950038214979",
-  "18043529066820143",
-  "18027227012692142",
-  "18024018362879480",
-  "17908783965473698",
-  "17897352048395688",
-  "18198536962381252",
-  "18114882100825869",
-  "18635570998024657",
-  "18132016063703881",
-  "18114177740278969",
-  "18094912616390743",
-  "18137955163714233",
-  "18421209049155906",
-  "18079219115431962",
-  "18115573313079602",
-  "17927922210439291",
   "17911554354556978",
-  "18108345305594207",
-  "18332955241278576",
-  "18285422176289263",
-  "17984782986072944",
-  "18084195473702549",
-  "18370778428215831",
-  "18074059685473256",
-  "18101775545376897",
-  "18026262110700057",
-  "18491450740105963",
-  "18134387740676601",
-  "17907442629482346",
-  "18634657369029116",
-  "18161168437504066",
+  "18070898129493339",
+  "18456022396191866",
+  "18114564994835223",
+  "17906863833559342",
+  "18132016063703881",
+  "18116925077090964",
+  "18459385276184078",
+  "18339553045269887",
+  "18117864323320859",
+  "17971009029165131",
+  "18127926811699599",
+  "18154396690515058",
+  "18014829782954502",
+  "17997447995822785",
+  "18108415799061502",
+  "17959179330225098",
+  "18096110321673804",
+  "18021400670715322",
+  "18109914164143806",
+  "18346863541254451",
+  "18096954560549708",
+  "17927922210439291",
+  "18082139822329091",
+  "18132246595707629",
+  "18069523232766891",
+  "18079219115431962",
+  "18098001707373961",
+  "18025226822704064",
+  "18115573313079602",
+  "18194809495385686",
   "18054089810581478",
-  "18097905098553287",
-  "17925556089425779",
+  "17950599921295752",
+  "17990439558049925",
+  "17963993564984617",
+  "18130993828786479",
+  "18213694846358675",
+  "18109002071227677",
+  "17936560125126227",
+  "18491450740105963",
+  "18370778428215831",
+  "18116576311961745",
+  "17988836559104282",
+  "18369950038214979",
   "18497683198099542",
   "18094135208544727",
-  "18170464573412264",
-  "18110287427146354",
-  "18014829782954502",
-  "18030325466912938",
+  "18137955163714233",
+  "18026262110700057",
+  "18033633812851627",
+  "18123801926486818",
+  "17892318582434660",
+  "18022043666940892",
+  "18226082437334894",
   "18214334506350986",
-  "18459369493187705",
-  "18037958900836323",
-  "17963104194207074",
+  "18204336784371741",
+  "18071467721730800",
+  "18096747389644022",
+  "18110268866521413",
+  "18118193725983110",
+  "18090378716280532",
+  "18108345305594207",
+  "18110169962174885",
+  "17979766221073925",
+  "18114882100825869",
   "17948953083057527",
+  "18343389019252078",
+  "17925556089425779",
+  "17911419774470329",
+  "18126953470853218",
+  "18332955241278576",
+  "18037958900836323",
+  "18134387740676601",
+  "17984782986072944",
+  "17908783965473698",
+  "18107512901596972",
+  "18117748178287394",
+  "18073912466466425",
+  "18411621742088665",
+  "18116079538909610",
+  "18161168437504066",
+  "18108982334599696",
+  "18110287427146354",
+  "18170464573412264",
+  "17908496052557816",
+  "18198117412381158",
+  "18215489083357671",
+  "18117120878327557",
+  "18198536962381252",
+  "18026643158857033",
+  "17930737638407105",
+  "18030325466912938",
+  "18106034987117542",
+  "18109275590611826",
+  "18094912616390743",
+  "18177364090449516",
+  "18285422176289263",
+  "18114943336824411",
+  "18004921337789505",
+  "18074724326556172",
+  "17989144395056961",
+  "18335967478285475",
+  "17906616480569650",
+  "18114309020029481",
+  "18009008270986885",
+  "18634657369029116",
+  "18118545826915640",
+  "18492127912108721",
+  "18635570998024657",
+  "18631998049021230",
+  "18024018362879480",
+  "18352577458221806",
+  "18421209049155906",
+  "17908149960486177",
+  "18051331004801317",
+  "18113213018031626",
+  "17897352048395688",
+  "18134180620677734",
+  "18117308641990693",
+  "18043529066820143",
+  "18114177740278969",
+  "18176594854447684",
+  "18133016467780276",
+  "18027227012692142",
+  "17907442629482346",
   "18073384493567526",
-  "18025226822704064"
+  "17983566375120292",
+  "18459369493187705",
+  "18084195473702549",
+  "18097905098553287",
+  "18115694528053601",
+  "18489056776128423",
+  "18411402496085667",
+  "18132704491774231",
+  "18086639165291339",
+  "17963104194207074",
+  "18033557567669657",
+  "17879920404628904",
+  "17937131694375460",
+  "18074059685473256",
+  "18118453004096228",
+  "18417490684158620",
+  "18163950925487799",
+  "18101775545376897",
+  "18108103334224491",
+  "18176940304437596",
+  "18118326811957241",
+  "18120837592933268",
+  "17964429743985027",
+  "17892597258438366"
  ],
  "perfil_metricas": [
   {
@@ -2399,88 +2428,93 @@
    "data": "2026-10-04",
    "views": 117261,
    "followers_count": 87
+  },
+  {
+   "data": "2026-10-05",
+   "views": 146978,
+   "followers_count": 89
   }
  ],
  "exemplos_dono": [
   {
-   "c": "Gastos com atividades extra curriculares 😅\nDá pra viver sem, até da! Mas acho muito importante a criança praticar um esporte diferente, alguma atividade prazerosa que não seja obrigação",
-   "r": "As crianças precisam desse estímulo mesmo!"
+   "c": "“The office” 😬🥲",
+   "r": "essa tem defensora ferrenha mas o começo realmente testa a paciencia kkkk"
   },
   {
-   "c": "Banana",
-   "r": "SIM KKKKKKKKK"
+   "c": "Dexter 😅",
+   "r": "essa acumulou desistência logo nos primeiros minutos kkkk"
   },
   {
-   "c": "Presente de Festa de aniversário.\nMudei minha filha de escola e ainda somos convidados pra muitas festas da escola antiga.\nHaja presente.\nDecidi que meu 13º esse ano é pra comprar vários brinquedos in",
-   "r": "Vc foi genial"
+   "c": "Dark. Desisti na primeira temporada. Não entendi bulhufas",
+   "r": "essa é famosa por exigir um mapa pra não se perder no enredo"
   },
   {
-   "c": "Gastos com futebol, chuteira, uniforme de escolinha, camisas de timessssss, época da copa álbum e figurinhas, blusa da seleção, entre mil outras coisas meu Deussssss 🥴",
-   "r": "E tudo faz parte do \"oferecer a melhor qualidade de vida possível\""
+   "c": "The mentalist ficou previsível para mim",
+   "r": "previsível demais acaba cansando a gente mesmo antes da metade"
   },
   {
-   "c": "Vacinas. Gente, que negócio caro é vacina. 🥴🥴",
-   "r": "Quais vacinas vc pagou no particular?"
+   "c": "Breaking bad\nGame of thrones \nDark \nLost\nThe walking dead\nThe last of us\nThe office",
+   "r": "comprar essa briga com todas as famosas de uma vez é muita coragem"
   },
   {
-   "c": "Remédios são caros para caramba.\nO médico nunca passa um só. \nVitamina disso, anti isso pra aquilo, hidratantes para pele, protetor solar,etc",
-   "r": "1 kit de vitaminas 200 reais kkkk"
+   "c": "Lucifer e Friends. Não me prenderam",
+   "r": "duas gigantes que muita gente deixa pelo caminho logo no começo"
   },
   {
-   "c": "",
-   "r": "Não"
+   "c": "The office! Não consigo passar do segundo ou terceiro episódio",
+   "r": "essa é clássica, pouca gente aguenta o começo pra chegar nos episódios bons kkkk"
   },
   {
-   "c": "Acordando bem é o que importa rsrs",
-   "r": "Importante é manter o sono \"saudável\" né kkkkk mesmo se for dormir só 4 da manhã 🤡"
+   "c": "Meu celular tem senha e minhas namoradas sempre tiveram, n tenho nada a esconder.\nQuem tem muito mistério é pq deve.\nBtw, sempre tive as senhas e NUNCA fui bisbilhotar. A pessoa que mais fez confusão ",
+   "r": "quem esconde demais costuma dar trabalho mesmo kkk"
   },
   {
-   "c": "Tenho exatamente o que ru queria,  um nissan",
-   "r": "quem tem exatamente o que queria já venceu o jogo"
+   "c": "Pediria para ela esperar, fecharia a porta, traria o sal e após entregar se ela tentasse puxar assunto falaria que tava ocupado e vida que segue.",
+   "r": "estratégia eficiente para garantir o sal sem perder a tarde inteira kkk"
   },
   {
-   "c": "Não tem garagem mas quero SUV na cor rosa cromado",
-   "r": "sem garagem mas com estilo de sobra pra estacionar na imaginação"
+   "c": "Então depende...de qual vizinha. As que valem apena até deixo entrar mas se fosse aquela chata, era dar o sal e dizer que estava ocupada.",
+   "r": "separar a vizinha que vale a pena da chata é questão de sobrevivência kkk"
   },
   {
-   "c": "Sonho atual: GWM Haval H9 2026\nSonho do Sonho: Land Rover Defender 110 2026\nCarro atual: Onix 2025",
-   "r": "o sonho do sonho já tá exigindo muito do pobre onix na garagem"
+   "c": "Depende da vizinha, depende do meu humor no dia...",
+   "r": "depende do dia é a resposta definitiva pra qualquer drama social kkkk"
   },
   {
-   "c": "Pedro de Lara.",
-   "r": "esse sumiu tanto que virou lenda urbana kkkkk"
+   "c": "Depende da história que ela conta.  Tem gente que traz umas histórias que ativam o meu lado jornalista. Kk",
+   "r": "lado jornalista ativado é perigoso porque a pessoa quer apurar os fatos todos kkk"
   },
   {
-   "c": "Carro dos meus sonhos hoje: novo Peugeot 2008. O que tenho na garagem hoje: 5 cachorros 😂",
-   "r": "cinco cachorros na garagem é a melhor frota possível kkkkk"
+   "c": "Nenhuma. Normalmente quem se afasta sou eu",
+   "r": "estratégia de defesa válida pra poupar energia"
   },
   {
-   "c": "Queria só a minha Tucson que a enchente levou... 🤷‍♀️ mas chego lá, temos agora um Ka Sedan, tá bom por hora... 😅",
-   "r": "perder o carro assim é uma judiação, mas o importante é seguir firme"
+   "c": "Não sei, agora tô na dúvida 😕",
+   "r": "essa é a verdadeira dúvida cruel de toda manhã"
   },
   {
-   "c": "Sonho: Volvo XC60 ￼com bancos claros\nAtual: Kia Picanto",
-   "r": "volvo com banco claro é chique demais pro meu boleto kkkkk"
+   "c": "Vacinas 😬 achei q faria tudo pelo sus e só algumas no particular, mas sinceramente quase todas quero fazer pela particular por conta das reações!",
+   "r": "saúde pesa demais no orçamento e a paz de espírito acaba custando caro"
   },
   {
-   "c": "Eles são o mesmo carro\n1.6 16v que futuramente vai ser turbo",
-   "r": "o otimismo de quem vai colocar um turbo nesse motor merece respeito kkkk"
+   "c": "O gasto de tempo de qualidade. Você PRECISA brincar junto, ouvir e contar histórias, levar em parque, zoológico, museu, biblioteca. Lazer e cultura são importantíssimos, e muitos pais negligenciam. Ac",
+   "r": "tempo de qualidade pesa muito mais na rotina do que qualquer brinquedo caro"
   },
   {
-   "c": "Segue a carreira....",
-   "r": "segue a carreira mas não esquece de pagar os boletos"
+   "c": "Stranger things não me prendeu.\nThe walking dead tbm não.",
+   "r": "essas duas gigantes acumulam desistências logo nos primeiros minutos"
   },
   {
-   "c": "Não e porque eu trabalho de casa que ficou de pijama o dia todo. Tomar banho ao levantar, trocar de roupa, ter horários de almoço, essa rotina ajuda a separar os horários de trabalho e descanso, pra m",
-   "r": "separar o banho e a roupa do dia a dia ajuda muito a lembrar que o expediente começou"
+   "c": "Breaking Bad e Peak Blinders",
+   "r": "breaking bad exige uma paciência que o cansaço da semana não permite kkk"
   },
   {
-   "c": "Eu compreendo.  Às vezes comigo isso acontece do nada e no lugares mais aleatórios. Indo de crianças até idosos e de todo tipo de assunto. O que me disseram foi que isso vem da energia que você transm",
-   "r": "se a energia boa atrai tanta gente assim o segredo é começar a andar de cara fechada"
+   "c": "Acordo mais cedo. Se eu acordar em cima da hora de sair, não consigo raciocinar nada além de ódio e rancor. Preciso dos meus minutos a sós com uma caneca de café.",
+   "r": "esse odio matinal é o preço que a gente paga por quinze minutos a mais de sono"
   },
   {
-   "c": "Quando trabalhei, eu preferia me vestir e maquiar pra ter uma sensação de normalidade hehehehe. Mas a pantufa eu não abria mão",
-   "r": "a pantufa é o único acessório obrigatório pra manter a sanidade em casa"
+   "c": "Todos os meus perrengues viraram piada no momento em que foi resolvido",
+   "r": "perrengue só é bom com o tempo seguro de distância kkk"
   }
  ]
 }
