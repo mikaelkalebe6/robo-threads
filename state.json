@@ -15,7 +15,7 @@
    "12:53",
    "13:48"
   ],
-  "respostas": 72
+  "respostas": 75
  },
  "posts": [
   {
@@ -1922,7 +1922,10 @@
   "18118311454986930",
   "17937183393124535",
   "18106358626964208",
-  "17912550492515974"
+  "17912550492515974",
+  "18126126275308873",
+  "18475025179113441",
+  "18164082787499947"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2170,25 +2173,13 @@
   "3cd5743672": 1,
   "e7102b50d0": 1,
   "be503e68c6": 1,
-  "b81961b943": 1
+  "b81961b943": 1,
+  "58f3056820": 1,
+  "4021caa1b1": 1,
+  "1a5b21f563": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "quando o celular não esta na mao o mundo pode acabar em paz",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a prioridade muda completamente dependendo do nível de cansaço do dia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa mistura de nona no fogão e clássico paulista parece cena de filme kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "dupla dinamica imbativel para acabar com a paz de qualquer almoco",
    "p": "concorda",
@@ -2321,6 +2312,21 @@
   },
   {
    "t": "filtro seletivo excelente para não acumular conversas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "realidade bem sensata para não chorar no fim do mês kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o salto do sonho pro plano b é a realidade de quase todo mundo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo demais, quem tem o celular na mao e quer resolver logo economiza um tempao",
    "p": "concorda",
    "r": 0
   }
