@@ -14,7 +14,7 @@
    "11:40",
    "12:53"
   ],
-  "respostas": 69
+  "respostas": 71
  },
  "posts": [
   {
@@ -1927,7 +1927,9 @@
   "18130489027744214",
   "17918371575451747",
   "18092418215672710",
-  "18118311454986930"
+  "18118311454986930",
+  "17937183393124535",
+  "18106358626964208"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2170,20 +2172,12 @@
   "551a9fc7fb": 1,
   "756d338477": 1,
   "e3ef449c9e": 1,
-  "3cd5743672": 1
+  "3cd5743672": 1,
+  "e7102b50d0": 1,
+  "be503e68c6": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "essa barra salva a gente de muita conversa que podia ser e-mail kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quem tem foco desse jeito passa longe da nossa indecisão",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "deixar a urgência filtrar o que vale a pena é pura sobrevivência kkk",
    "p": "concorda",
@@ -2323,6 +2317,16 @@
    "t": "critério de seleção bem rigoroso pra poupar a sanidade kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "poder mandar na propria folga é o sonho de consumo de qlqr um kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pontuação máxima garantida logo de cara 🥰",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
