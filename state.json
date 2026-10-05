@@ -11,7 +11,7 @@
    "21:07"
   ],
   "feitos": [],
-  "respostas": 12
+  "respostas": 18
  },
  "posts": [
   {
@@ -1885,7 +1885,13 @@
   "18111944816162150",
   "18129904543770506",
   "18168590380465081",
-  "18349779352267070"
+  "18349779352267070",
+  "17904659526578903",
+  "17911673760499374",
+  "18184458130422704",
+  "18183924793423031",
+  "18107171951260472",
+  "18637680832009111"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2061,7 +2067,7 @@
  "por_pessoa": {
   "_data": "2026-10-05",
   "23f6dde8a8": 1,
-  "1d06969815": 1,
+  "1d06969815": 2,
   "b34edd09cc": 1,
   "0092ab61dd": 1,
   "9447223fdb": 1,
@@ -2071,40 +2077,15 @@
   "8a4620ac27": 1,
   "68f20f3bed": 1,
   "97f4161283": 1,
-  "146ca0709d": 1
+  "146ca0709d": 1,
+  "42df173a8c": 1,
+  "de2c4a2ff7": 1,
+  "64aca39220": 1,
+  "3bfc1422ca": 1,
+  "a8754f94ce": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "essas duas gigantes acumulam desistências logo nos primeiros minutos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tempo de qualidade pesa muito mais na rotina do que qualquer brinquedo caro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "saúde pesa demais no orçamento e a paz de espírito acaba custando caro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa é a verdadeira dúvida cruel de toda manhã",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "estratégia de defesa válida pra poupar energia",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "lado jornalista ativado é perigoso porque a pessoa quer apurar os fatos todos kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "depende do dia é a resposta definitiva pra qualquer drama social kkkk",
    "p": "concorda",
@@ -2223,6 +2204,36 @@
   {
    "t": "se for cozido no ponto certo já conta ponto pro básico",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dividir a louça depois entra no acordo de paz kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "então já pode ir preparando o avental pra prova prática",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa consultoria internacional aí já tem peso de especialista kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quando a conta chega a realidade sempre fala mais alto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, cada um sabe onde o calcanhar aperta mais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "liberdade total para escolher mas o saldo no banco cobra a conta logo depois",
+   "p": "ressalva",
    "r": 0
   }
  ],
