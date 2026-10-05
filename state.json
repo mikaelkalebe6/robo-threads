@@ -11,28 +11,12 @@
    "21:07"
   ],
   "feitos": [
-   "11:40"
+   "11:40",
+   "12:53"
   ],
-  "respostas": 68
+  "respostas": 69
  },
  "posts": [
-  {
-   "id": "18142466698599562",
-   "insp": "8b93fbf051",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: homem que mora sozinho e cozinha além de miojo e ovo frito virou lenda urbana ou vocês ainda guardam esperança?",
-   "quando": "2026-09-30T13:37:10.884762-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1819,
-    "likes": 12,
-    "replies": 83,
-    "reposts": 0,
-    "quotes": 1,
-    "shares": 0,
-    "em": "2026-10-05"
-   }
-  },
   {
    "id": "17881816005690087",
    "insp": "c7f8b70e05",
@@ -1026,6 +1010,14 @@
    "texto": "DÚVIDA SINCERA: a programação infantil de antigamente era bem mais caótica do que a gente lembra ou é só nostalgia pura? Minha memória diz que era ótimo mas reassistir hoje em dia dá um pouco de medo",
    "quando": "2026-10-05T12:07:12.437095-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18116788114783020",
+   "insp": "de9bf80054",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: você prefere um elogio do chefe na reunião de equipe ou um dia de folga surpresa sem precisar justificar nada",
+   "quando": "2026-10-05T13:07:10.584384-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1934,7 +1926,8 @@
   "18115232099118973",
   "18130489027744214",
   "17918371575451747",
-  "18092418215672710"
+  "18092418215672710",
+  "18118311454986930"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2020,7 +2013,8 @@
   "567e5e93d54b87ab8fc3ee4e65cbc0e6",
   "7fb7a5f5f67624d28da24546e868cb0a",
   "3622febd97918e95eb2cfcd309971087",
-  "f3d06b2b3b2e041be5b5be5ec85011f5"
+  "f3d06b2b3b2e041be5b5be5ec85011f5",
+  "22bfa5857347e6d70553ec9e6b8aa9c0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2106,7 +2100,8 @@
   "0fc3b77eb4": 1791155244.913814,
   "c7f375102c": 1791160638.6544247,
   "7fff0e06da": 1791162445.4803498,
-  "7e797582de": 1791216456.696685
+  "7e797582de": 1791216456.696685,
+  "de9bf80054": 1791220047.5941434
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2174,15 +2169,11 @@
   "2bcad456c4": 1,
   "551a9fc7fb": 1,
   "756d338477": 1,
-  "e3ef449c9e": 1
+  "e3ef449c9e": 1,
+  "3cd5743672": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "interação boa assim dá até gosto de ver a mensagem chegar",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa barra salva a gente de muita conversa que podia ser e-mail kkk",
    "p": "concorda",
@@ -2327,6 +2318,11 @@
    "t": "barra de notificacao é uma ótima ferramenta para ganhar tempo na resposta",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "critério de seleção bem rigoroso pra poupar a sanidade kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
