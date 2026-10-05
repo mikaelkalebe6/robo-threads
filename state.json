@@ -17,11 +17,12 @@
    "14:53",
    "17:59"
   ],
-  "respostas": 85,
+  "respostas": 88,
   "por_post": {
    "18089996570239818": 3,
    "17927475519184610": 1,
-   "18234677503320142": 2
+   "18234677503320142": 2,
+   "18126767030510839": 3
   }
  },
  "posts": [
@@ -1924,7 +1925,10 @@
   "17992214987849100",
   "18087367934283285",
   "17986048983116291",
-  "17882401620528736"
+  "17882401620528736",
+  "17910666384472375",
+  "18634231150001602",
+  "18082609676354248"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2189,25 +2193,13 @@
   "c65b6aee4f": 1,
   "785d837f28": 1,
   "40dba7be76": 1,
-  "b2ffd21c4d": 1
+  "b2ffd21c4d": 1,
+  "18c58217c8": 1,
+  "a2f5bf3490": 1,
+  "41e5b18c4c": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "esse salvamento milagroso de todo episódio acaba tirando a graça da tensão",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sair do primeiro episódio já é um sinal claro de que o ritmo não ajudou kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa lista tem peso pesado que a rotina simplesmente não aguenta kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "o ritmo tem que ajudar muito pra prender a atencao logo de cara",
    "p": "concorda",
@@ -2342,6 +2334,21 @@
    "t": "essa diferença de preço em farmacia comum e veterinaria parece piada de mau gosto",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "quem nunca passa por isso que atire a primeira pedra kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "amém porque essa paz de espírito foi embora bem na hora de passar no caixa kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "a lista é só uma sugestão educada que a gente ignora no primeiro corredor kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -2659,6 +2666,13 @@
   "18234677503320142": [
    "transparencia total sem",
    "sinceridade acima de"
+  ],
+  "18126767030510839": [
+   "quem nunca passa",
+   "amem porque essa",
+   "a lista e"
   ]
- }
+ },
+ "shopee_checada": "2026-10-05|1",
+ "shopee_ok": "2026-10-05"
 }
