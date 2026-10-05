@@ -26,6 +26,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+          SHOPEE_LIGADO: ${{ vars.SHOPEE_LIGADO }}
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
           PLANILHA_URL: ${{ vars.PLANILHA_URL }}
@@ -99,6 +102,8 @@ jobs:
         run: python3 inspiracoes.py
       - name: Salvar memoria do robo
         if: always()
+        env:
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -108,5 +113,9 @@ jobs:
           # trava de seguranca: se algum arquivo da memoria tiver cara de chave ou token, nao salva e avisa
           if git diff --cached | grep -Eq 'THAA[A-Za-z0-9]{20}|EAA[A-Za-z0-9]{30}|AIza[0-9A-Za-z_-]{30}|gsk_[A-Za-z0-9]{20}|sk-or-v1-|ghp_[A-Za-z0-9]{20}|github_pat_'; then
             echo "::error::Possivel chave ou token na memoria do robo. Nada foi salvo. Avisar o Claude."; git reset -q; exit 1
+          fi
+          # a chave da Shopee nao tem formato fixo: confere o proprio valor (o GitHub esconde o valor no log)
+          if [ -n "$SHOPEE_SECRET" ] && git diff --cached | grep -qF "$SHOPEE_SECRET"; then
+            echo "::error::Chave da Shopee na memoria do robo. Nada foi salvo. Avisar o Claude."; git reset -q; exit 1
           fi
           git diff --cached --quiet || (git commit -m "memoria do robo" && (git push || (git pull --rebase && git push)))

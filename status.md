@@ -36,3 +36,11 @@ O log mostra 1 vez por dia a linha "Config em uso" com os valores valendo de ver
 - Os horários muito atrasados não são mais descartados. Cada um ganha um novo horário sorteado entre agora + `INTERVALO_MINIMO_MIN` e `HORA_FIM`, longe dos outros horários do dia. No log aparece "Horario X reencaixado para Y".
 - Só é descartado se não couber mais no dia. No log aparece "Post perdido (sem espaco no dia)".
 - Comentários não mudam: o que ficou sem resposta durante a falha entra nas rodadas seguintes, dentro do teto do dia.
+
+## Shopee Afiliados (fase 1, 05/10/2026)
+- Módulo separado `shopee.py`: conexão assinada (SHA256) com a Open API de Afiliados, busca de produtos e link curto de afiliado.
+- Por enquanto só testa a conexão (leitura) 1 vez por dia, e também na rodada em que os Secrets aparecem. Não publica nada.
+- No log aparece "Shopee: conectado OK", "Shopee: desligada" ou "Shopee: falhou (segue normal)".
+- Credenciais só nos Secrets `SHOPEE_APP_ID` e `SHOPEE_SECRET`. Elas nunca aparecem no log nem na memória do robô: o passo de salvar a memória bloqueia se encontrar o Secret.
+- `SHOPEE_LIGADO` (Variable opcional): 0 desliga.
+- Próxima fase: campanhas (ex.: link de afiliado no comentário depois de X min se o post passar de Y views), uma por vez e com confirmação.
