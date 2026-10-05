@@ -75,6 +75,8 @@ PADRAO = {
     "METRICAS_DIAS": "7",
     # pasta dados/ (1 arquivo por dia para o briefing): quantos dias guardar
     "DADOS_DIAS": "60",
+    # Shopee Afiliados (shopee.py): 1 liga o teste diario de conexao (so leitura) quando os Secrets existem, 0 desliga
+    "SHOPEE_LIGADO": "1",
 }
 _USOU_PADRAO = []
 
@@ -111,6 +113,7 @@ ESCONDER_SPAM = cfg("ESCONDER_SPAM") == "1"
 ESCONDER_POR_DIA = int(cfg("ESCONDER_POR_DIA"))
 METRICAS_DIAS = int(cfg("METRICAS_DIAS"))
 DADOS_DIAS = int(cfg("DADOS_DIAS"))
+SHOPEE_LIGADO = cfg("SHOPEE_LIGADO") == "1"
 if MIN_POSTS > MAX_POSTS:
     MIN_POSTS, MAX_POSTS = MAX_POSTS, MIN_POSTS
 EXEMPLOS = env("EXEMPLOS_RESPOSTAS", "")
@@ -1265,6 +1268,26 @@ def coletar_dados(s, agora):
         f"seguidores {out['perfil'].get('followers', '?')}, falhas {len(out['falhas'])}")
 
 
+def checar_shopee(s, agora):
+    """1 vez por dia (e logo na rodada em que os Secrets aparecem) confere a conexao com a Shopee Afiliados.
+    So leitura, nao publica nada. Falha nunca para o robo."""
+    if not SHOPEE_LIGADO:
+        return
+    try:
+        import shopee
+        marca = f"{agora.strftime('%Y-%m-%d')}|{int(shopee.configurada())}"
+        if s.get("shopee_checada") == marca:
+            return
+        s["shopee_checada"] = marca
+        if not shopee.configurada():
+            log("Shopee: desligada (faltam os Secrets SHOPEE_APP_ID e SHOPEE_SECRET).")
+            return
+        log("Shopee:", shopee.testar_conexao())
+        s["shopee_ok"] = agora.strftime("%Y-%m-%d")
+    except Exception as e:
+        log("Shopee: falhou (segue normal):", str(e)[:200])
+
+
 def cota_da_rodada(p, agora):
     """Divide o que sobra do teto do dia pelas rodadas que ainda faltam ate HORA_FIM (piso e teto por rodada).
     Depois de HORA_FIM a sobra do dia fica liberada, respeitando o teto por rodada."""
@@ -1451,7 +1474,7 @@ def main():
             f"respostas {RESP_POR_RODADA}/rodada {RESP_POR_DIA}/dia {RESP_POR_PESSOA}/pessoa {RESP_POR_POST}/post (piso {RESP_MIN_RODADA}/rodada, rodada a cada {MIN_ENTRE_RODADAS} min), foto {CHANCE_FOTO}, tendencia {CHANCE_TREND}, "
             f"pausas resposta {PAUSA_RESP[0]}-{PAUSA_RESP[1]}s post 0-{ATRASO_POST_MAX}s link {ATRASO_LINK[0]}-{ATRASO_LINK[1]}s, "
             f"Gemini posts {GEMINI_MODEL} respostas {GEMINI_MODEL_RESPOSTA} ({IA_PARALELO} ao mesmo tempo), teste reservas {CHANCE_POST_RESERVA} ate {TESTE_RESERVA_ATE}, "
-            f"esconder spam {'sim' if ESCONDER_SPAM else 'nao'} ate {ESCONDER_POR_DIA}/dia, estatisticas dos ultimos {METRICAS_DIAS} dias, pasta dados por {DADOS_DIAS} dias")
+            f"esconder spam {'sim' if ESCONDER_SPAM else 'nao'} ate {ESCONDER_POR_DIA}/dia, estatisticas dos ultimos {METRICAS_DIAS} dias, pasta dados por {DADOS_DIAS} dias, shopee {'sim' if SHOPEE_LIGADO else 'nao'}")
         if _USOU_PADRAO:
             log("Valores do PADRAO do codigo (Variable vazia):", ", ".join(_USOU_PADRAO))
         checar_reservas()  # 1 vez por dia: mostra no log se Groq/OpenRouter respondem
@@ -1470,6 +1493,8 @@ def main():
                 log("Pasta dados: falhou (segue normal):", str(e)[:150])
         s["reservas_checadas"] = agora.strftime("%Y-%m-%d")
         _FORA.clear()
+    if not MODO_TESTE:
+        checar_shopee(s, agora)
     erros = 0
     for tarefa in (tarefa_postar, tarefa_responder):
         try:
