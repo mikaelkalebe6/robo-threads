@@ -11,7 +11,7 @@
    "21:07"
   ],
   "feitos": [],
-  "respostas": 47
+  "respostas": 53
  },
  "posts": [
   {
@@ -1920,7 +1920,13 @@
   "18104578040360458",
   "18631849723045473",
   "18141064480623466",
-  "18217755649355426"
+  "18217755649355426",
+  "18337867225274520",
+  "18115411028061776",
+  "18160066915500643",
+  "18073217684732190",
+  "18011586608987811",
+  "18112027334167511"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2099,7 +2105,7 @@
   "1d06969815": 2,
   "b34edd09cc": 1,
   "0092ab61dd": 1,
-  "9447223fdb": 1,
+  "9447223fdb": 2,
   "aa9e7ef774": 1,
   "8ed191b414": 1,
   "b8c7642111": 1,
@@ -2140,40 +2146,15 @@
   "f2361b6031": 1,
   "53fa6c089b": 1,
   "373c5f35b4": 1,
-  "4e5b31c38b": 1
+  "4e5b31c38b": 1,
+  "1565cef2a8": 1,
+  "da62353e48": 1,
+  "deb02d9674": 1,
+  "fb0dabcbd3": 1,
+  "ec60953f58": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "liberdade total para escolher mas o saldo no banco cobra a conta logo depois",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "o boleto chega cobrando o glamour da festa rapidinho kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "cada escolha traz um peso diferente para a vida a dois",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o pior é que a festa passa e o falório do povo continua kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sonho de infância é um argumento difícil de rebater mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "paz de espírito de não dever nada compensa muito mais",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "a ressaca do boleto dura bem mais que a memória do convidado kkk",
    "p": "concorda",
@@ -2293,6 +2274,36 @@
    "t": "rir para não surtar é a única saida viavel nesse tipo de evento kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "Entendo, regra de urgência salva a gente 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "praticidade assim evita muita novela desnecessaria",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "limite bem traçado e o sal entregue sem perder tempo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, quando rola tempo e confiança a gente escuta até o final",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "vc deu um manual completo de sobrevivência pra cada tipo de dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cada um no seu quadrado com sua paz garantida é um ótimo acordo",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
