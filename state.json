@@ -11,7 +11,7 @@
    "21:07"
   ],
   "feitos": [],
-  "respostas": 53
+  "respostas": 59
  },
  "posts": [
   {
@@ -1926,7 +1926,13 @@
   "18160066915500643",
   "18073217684732190",
   "18011586608987811",
-  "18112027334167511"
+  "18112027334167511",
+  "18069230789784572",
+  "18129598519755093",
+  "18121682878820094",
+  "17992033758024938",
+  "17959892622248678",
+  "17960919791999346"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2129,7 +2135,7 @@
   "2e21bfa101": 1,
   "bcfe340430": 1,
   "f5562bf7f8": 1,
-  "8e9596a838": 1,
+  "8e9596a838": 2,
   "19336a1222": 1,
   "7ecd58e310": 1,
   "f9b4075b3d": 1,
@@ -2151,40 +2157,15 @@
   "da62353e48": 1,
   "deb02d9674": 1,
   "fb0dabcbd3": 1,
-  "ec60953f58": 1
+  "ec60953f58": 1,
+  "5bd7d5d908": 1,
+  "19e786a41f": 1,
+  "dc0f20eb20": 1,
+  "3849d42b97": 1,
+  "e2fa755561": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "a ressaca do boleto dura bem mais que a memória do convidado kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "a vida passa rápido demais e o dinheiro nunca sobra do jeito que a gente quer",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "um mês inteiro exige uma força de vontade impressionante",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "largar a cerveja foi fácil perto do desafio do açúcar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem tem tempo livre assim ganha a paz de espírito de caixa de entrada zerada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pessoa prática que não enrola pra resolver as coisas",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "quem já tá com o aparelho na mao não tem nem como fingir demencia kkk",
    "p": "concorda",
@@ -2303,6 +2284,36 @@
   {
    "t": "cada um no seu quadrado com sua paz garantida é um ótimo acordo",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "justo para não precisar inventar uma desculpa depois",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "esse som noturno deve dar um suspense ótimo pro quarto kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse salvamento milagroso de todo episódio acaba tirando a graça da tensão",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sair do primeiro episódio já é um sinal claro de que o ritmo não ajudou kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa lista tem peso pesado que a rotina simplesmente não aguenta kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o ritmo tem que ajudar muito pra prender a atencao logo de cara",
+   "p": "concorda",
    "r": 0
   }
  ],
