@@ -13,28 +13,12 @@
   "feitos": [
    "11:40",
    "12:53",
-   "13:48"
+   "13:48",
+   "14:53"
   ],
-  "respostas": 75
+  "respostas": 79
  },
  "posts": [
-  {
-   "id": "18121584379911418",
-   "insp": "00c9530901",
-   "link": "",
-   "texto": "Fui fechar as contas do mês e tomei um susto com o quanto tudo subiu por aqui. Quanto você precisa ganhar hoje pra viver tranquilo aí na sua cidade?",
-   "quando": "2026-09-30T16:07:11.240206-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 857,
-    "likes": 3,
-    "replies": 14,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-05"
-   }
-  },
   {
    "id": "17907747183556672",
    "insp": "828a5aba09",
@@ -1010,6 +994,14 @@
    "texto": "SEJAM SINCEROS: eu vivo namorando aquele aparelho novo de última geração que tem a melhor câmera do mundo, mas na prática sigo apagando foto todo dia pra liberar espaço no meu guerreiro que já tá pedindo arrego.\n\nQual seria o celular dos sonhos de vocês hoje e qual é a realidade que tá aí no bolso?",
    "quando": "2026-10-05T14:07:08.673846-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18089996570239818",
+   "insp": "7733a769d4",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a conta do veterinário consegue ser mais cara do que plano de saúde humano e ninguém avisa isso antes de adotar.",
+   "quando": "2026-10-05T15:07:21.029681-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1925,7 +1917,11 @@
   "17912550492515974",
   "18126126275308873",
   "18475025179113441",
-  "18164082787499947"
+  "18164082787499947",
+  "18107399432266547",
+  "17912445624288449",
+  "18285562186295842",
+  "18130959568732391"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2013,7 +2009,8 @@
   "3622febd97918e95eb2cfcd309971087",
   "f3d06b2b3b2e041be5b5be5ec85011f5",
   "22bfa5857347e6d70553ec9e6b8aa9c0",
-  "3cb10cc6544c07d7d4691f183024cdf4"
+  "3cb10cc6544c07d7d4691f183024cdf4",
+  "9bc14e830310e6fbbbf2aed2b044b785"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2101,7 +2098,8 @@
   "7fff0e06da": 1791162445.4803498,
   "7e797582de": 1791216456.696685,
   "de9bf80054": 1791220047.5941434,
-  "d8d17a2688": 1791223648.0135908
+  "d8d17a2688": 1791223648.0135908,
+  "7733a769d4": 1791227258.5966003
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2176,30 +2174,14 @@
   "b81961b943": 1,
   "58f3056820": 1,
   "4021caa1b1": 1,
-  "1a5b21f563": 1
+  "1a5b21f563": 1,
+  "46e8d216c2": 1,
+  "9b2ea08016": 1,
+  "ab8bcfd663": 1,
+  "4a37576ba0": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "dupla dinamica imbativel para acabar com a paz de qualquer almoco",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "rir para não surtar é a única saida viavel nesse tipo de evento kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Entendo, regra de urgência salva a gente 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "praticidade assim evita muita novela desnecessaria",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "limite bem traçado e o sal entregue sem perder tempo",
    "p": "concorda",
@@ -2327,6 +2309,26 @@
   },
   {
    "t": "justo demais, quem tem o celular na mao e quer resolver logo economiza um tempao",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "conselho precioso porque o espaço some muito mais rápido do que a gente imagina",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "planejar com antecedencia muda tudo na nossa organizacao",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "autodefesa pura pra manter a paz mental intacta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "coluna e o verdadeiro teste de resistencia depois dos trinta",
    "p": "concorda",
    "r": 0
   }
