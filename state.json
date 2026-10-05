@@ -16,7 +16,12 @@
    "13:48",
    "14:53"
   ],
-  "respostas": 79
+  "respostas": 82,
+  "por_post": {
+   "18089996570239818": 1,
+   "17927475519184610": 1,
+   "18234677503320142": 1
+  }
  },
  "posts": [
   {
@@ -1921,7 +1926,10 @@
   "18107399432266547",
   "17912445624288449",
   "18285562186295842",
-  "18130959568732391"
+  "18130959568732391",
+  "18371769424211453",
+  "17994410196042871",
+  "17992214987849100"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2178,25 +2186,13 @@
   "46e8d216c2": 1,
   "9b2ea08016": 1,
   "ab8bcfd663": 1,
-  "4a37576ba0": 1
+  "4a37576ba0": 1,
+  "3197b647fe": 1,
+  "ea1686b158": 1,
+  "c65b6aee4f": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "limite bem traçado e o sal entregue sem perder tempo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Verdade, quando rola tempo e confiança a gente escuta até o final",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "vc deu um manual completo de sobrevivência pra cada tipo de dia",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "cada um no seu quadrado com sua paz garantida é um ótimo acordo",
    "p": "ressalva",
@@ -2329,6 +2325,21 @@
   },
   {
    "t": "coluna e o verdadeiro teste de resistencia depois dos trinta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "porte grande dobra qualquer orçamento veterinário sem a menor piedade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "veio só conferir o placar da galera",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "transparência total sem esconder nada de ninguém",
    "p": "concorda",
    "r": 0
   }
@@ -2635,5 +2646,16 @@
    "c": "Todos os meus perrengues viraram piada no momento em que foi resolvido",
    "r": "perrengue só é bom com o tempo seguro de distância kkk"
   }
- ]
+ ],
+ "aberturas_post": {
+  "18089996570239818": [
+   "porte grande dobra"
+  ],
+  "17927475519184610": [
+   "veio so conferir"
+  ],
+  "18234677503320142": [
+   "transparencia total sem"
+  ]
+ }
 }
