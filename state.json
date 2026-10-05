@@ -13,7 +13,7 @@
   "feitos": [
    "11:40"
   ],
-  "respostas": 63
+  "respostas": 68
  },
  "posts": [
   {
@@ -1929,7 +1929,12 @@
   "18149465209557362",
   "18159655411501226",
   "18013646912958211",
-  "17916864252463181"
+  "17916864252463181",
+  "17993249045848512",
+  "18115232099118973",
+  "18130489027744214",
+  "17918371575451747",
+  "18092418215672710"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2155,7 +2160,7 @@
   "1565cef2a8": 1,
   "da62353e48": 1,
   "deb02d9674": 1,
-  "fb0dabcbd3": 1,
+  "fb0dabcbd3": 2,
   "ec60953f58": 1,
   "5bd7d5d908": 1,
   "19e786a41f": 1,
@@ -2165,35 +2170,14 @@
   "636bb26f45": 1,
   "c9dc6877bb": 1,
   "df88b8ab04": 1,
-  "e3e72a0d47": 1
+  "e3e72a0d47": 1,
+  "2bcad456c4": 1,
+  "551a9fc7fb": 1,
+  "756d338477": 1,
+  "e3ef449c9e": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "a intenção é boa mas a coragem de responder na hora nem sempre resiste kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse jogo de cena cansa mas a gente acaba jogando kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "fica a vontade, a lista tá crescendo e rendendo boas risadas",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "tem dias q a bateria social acaba antes do fim do expediente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Entendo, a barra de notificação vira filtro de papo pra vc 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "interação boa assim dá até gosto de ver a mensagem chegar",
    "p": "concorda",
@@ -2318,6 +2302,31 @@
    "t": "essa é famosa por perder muita gente logo no começo kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse aí foge totalmente de qualquer regra de infância calma kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "a inocência da infância é o único filtro que salvava aquilo tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a gente cresce e percebe que as referências da infância eram bem caóticas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tolerância zero pra joguinho e enrolação economiza um tempão",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "barra de notificacao é uma ótima ferramenta para ganhar tempo na resposta",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
