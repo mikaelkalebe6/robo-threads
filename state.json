@@ -29,9 +29,10 @@
    "15:35",
    "16:17",
    "17:19",
-   "18:14"
+   "18:14",
+   "19:17"
   ],
-  "respostas": 74,
+  "respostas": 80,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 9,
@@ -43,30 +44,13 @@
    "18090795653210068": 7,
    "18152505118527863": 3,
    "18021445505924431": 9,
-   "18375054751212499": 5,
+   "18375054751212499": 6,
    "18118761089472689": 5,
-   "18021014444726359": 6,
-   "18146079442603271": 3
+   "18021014444726359": 7,
+   "18146079442603271": 7
   }
  },
  "posts": [
-  {
-   "id": "17911576407521279",
-   "insp": "40d9bc7aa4",
-   "link": "",
-   "texto": "PESSOAS CASADAS: qual foi a primeira discussão boba de vocês logo depois de dividir o mesmo teto?",
-   "quando": "2026-10-01T17:37:10.369426-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1931,
-    "likes": 7,
-    "replies": 21,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "18112546067130766",
    "insp": "f31593e501",
@@ -970,6 +954,14 @@
    "texto": "VAMOS SER HONESTOS: já fingi estar no telefone só pra escapar do papo no elevador. 😅",
    "quando": "2026-10-06T18:37:09.983750-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18115007600278222",
+   "insp": "5a57ea2b34",
+   "link": "",
+   "texto": "Parei de tentar justificar minha falta de vontade de sair de casa e ganhei dez anos de paz mental.",
+   "quando": "2026-10-06T19:37:08.555066-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1986,7 +1978,13 @@
   "18008603897987982",
   "18118527350286917",
   "17964541079982810",
-  "18177920275429006"
+  "18177920275429006",
+  "18092360942465211",
+  "18119340877985493",
+  "17905893042665725",
+  "18132285799706707",
+  "18131179984774283",
+  "18126233719920438"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2089,7 +2087,8 @@
   "391fab575aaff1588f6274e28881098b",
   "d7ecd06aadc9a372746bec96f514dbd8",
   "838038e1434c395acc8fd7455794bcb9",
-  "d379ace921beb1f62650137586c822e0"
+  "d379ace921beb1f62650137586c822e0",
+  "29f6804a7183a8baa370f30abfae57c4"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2192,7 +2191,8 @@
   "fb886a59a7": 1791315444.3711731,
   "852685f1e2": 1791319047.1416328,
   "07137399ea": 1791322646.4106162,
-  "20c7cdebe0": 1791326248.2575233
+  "20c7cdebe0": 1791326248.2575233,
+  "5a57ea2b34": 1791329841.1190572
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2265,40 +2265,16 @@
   "dbf65cd183": 1,
   "7eb4bef55a": 1,
   "890efd1530": 1,
-  "e29c086d80": 1
+  "e29c086d80": 1,
+  "ec99c8a36d": 1,
+  "3ba30b20da": 1,
+  "1eb4ad9c86": 1,
+  "68077f7826": 1,
+  "3eb5563caa": 1,
+  "88d1633a79": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "galinhada com pequi exige cautela para morder mas é tiro certo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dizem q espalha bactéria pela pia por causa da água da torneira",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "prato pesado e caprichado que sustenta qualquer viagem kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pesado na medida certa para apagar qualquer um depois do prato kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa coxinha de um quilo resolve a fome de um batalhão inteiro kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "mão na massa desse jeito economiza bastante mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "concordo, hospital humano também pode sair caro, a conta sempre surpreende",
    "p": "concorda",
@@ -2417,6 +2393,36 @@
   {
    "t": "paciência passou longe por hoje pelo jeito",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "vira rotina pra quem quer paz no trajeto kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "fora do elevador o repertório de desculpas precisa ser mais criativo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "desespero genuíno para evitar contato humano",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "medo de abrir a caixa de surpresas do painel e piorar tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "defender a propria paz não entra na categoria de orgulho",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "regra matemática que salva o orçamento da gente",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -2861,7 +2867,8 @@
    "raiva acumulada e",
    "o painel virou",
    "agora virou peca",
-   "esse ai colecionava"
+   "esse ai colecionava",
+   "medo de abrir"
   ],
   "18118761089472689": [
    "isso sim e",
@@ -2876,12 +2883,17 @@
    "trocar de carro",
    "esse valor ja",
    "quase o preco",
-   "paciencia passou longe"
+   "paciencia passou longe",
+   "regra matematica que"
   ],
   "18146079442603271": [
    "economia de energia",
    "quem nunca fingiu",
-   "estrategia fixa pra"
+   "estrategia fixa pra",
+   "vira rotina pra",
+   "fora do elevador",
+   "desespero genuino para",
+   "defender a propria"
   ]
  },
  "shopee_checada": "2026-10-06|1",
