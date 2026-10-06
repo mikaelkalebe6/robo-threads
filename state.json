@@ -21,9 +21,10 @@
   "feitos": [
    "08:44",
    "10:02",
-   "10:47"
+   "10:47",
+   "11:27"
   ],
-  "respostas": 35,
+  "respostas": 39,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 8,
@@ -31,28 +32,12 @@
    "18446705149192097": 2,
    "17927475519184610": 1,
    "17948454009322563": 1,
-   "18113316785517878": 3,
-   "18090795653210068": 5
+   "18113316785517878": 4,
+   "18090795653210068": 5,
+   "18152505118527863": 3
   }
  },
  "posts": [
-  {
-   "id": "17872728318638998",
-   "insp": "559f0792a7",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual é o cheiro exato que te transporta direto para a casa da sua avó? Para mim é sempre aquela mistura de café passado na hora com pano de chão úmido que eu nunca consegui recriar igual.",
-   "quando": "2026-09-30T22:07:08.156050-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 699,
-    "likes": 6,
-    "replies": 21,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "17867648829661062",
    "insp": "962dfe5354",
@@ -1027,6 +1012,14 @@
    "link": "",
    "texto": "Eu comprei um aparelho de fazer pão que usei exatamente duas vezes na vida antes de virar peça de decoração na pia. Juro que a promessa de acordar com cheiro de pão fresco parecia muito mais romântica do que lavar aquela batedeira gigante depois. Qual foi a pior compra que já me convenceram a fazer?",
    "quando": "2026-10-06T11:07:10.078708-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18021445505924431",
+   "insp": "380b00e24d",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: se alguém de fora chega na tua cidade hoje faminto, qual prato típico tu obrigatoriamente manda o infeliz provar primeiro",
+   "quando": "2026-10-06T11:37:09.550675-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -2004,7 +1997,11 @@
   "17959361970240032",
   "17930490885162037",
   "17947084653300741",
-  "18105051617195851"
+  "18105051617195851",
+  "18109475369522279",
+  "18108779732607173",
+  "18116872283098880",
+  "18468946801190263"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2099,7 +2096,8 @@
   "a394ab203d94e8c051a391da2f4ec606",
   "bbcadfd99d1d09858b72cd7a80f8299e",
   "77abb99d4acbd4bf95d3f3d196e7c974",
-  "92d54301a9af0bbfd9e2594d5cc5b2b7"
+  "92d54301a9af0bbfd9e2594d5cc5b2b7",
+  "d745ccf8df54a20b9b9e9b1324d7af32"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2194,7 +2192,8 @@
   "58ac2ae535": 1791248867.6549494,
   "db597fa355": 1791292045.8237777,
   "f1481a1658": 1791295658.0818608,
-  "338b545216": 1791299241.9964204
+  "338b545216": 1791299241.9964204,
+  "380b00e24d": 1791301049.584341
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2230,30 +2229,14 @@
   "1672d8870c": 1,
   "cd80936d33": 1,
   "7fb3998d6f": 2,
-  "8b68fc8bbd": 1
+  "8b68fc8bbd": 1,
+  "0c9c89fd68": 1,
+  "5921bf478a": 1,
+  "6668b27695": 1,
+  "787e190ae7": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "se o buffet for bom a conta se paga em boletos e abraços kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "grampo e prego já entram na categoria de kit sobrevivência sem garantia kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "devolver o excesso no caixa exige uma coragem que eu não tenho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "plano de saúde para quatro é investimento pesado mas traz paz pro bolso",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "a utilidade aparece sempre no dia seguinte ao que a gente desiste de procurar",
    "p": "concorda",
@@ -2382,6 +2365,26 @@
   {
    "t": "Verdade, mas o SUS não cobre nossos bichinhos 😅",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "relíquia que só dá trabalho e saudade de um dinheiro que já foi",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o problema é chegar nessa fase boa sem desistir no meio do caminho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a airfryer ainda ganha ponto na categoria utilidade pública",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "medida drástica mas totalmente justa com quem falta com o básico",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -2788,7 +2791,8 @@
   "18113316785517878": [
    "o importante e",
    "bom dia so",
-   "a pessoa consegue"
+   "a pessoa consegue",
+   "medida drastica mas"
   ],
   "18090795653210068": [
    "frango babento ja",
@@ -2796,6 +2800,11 @@
    "ciencia ganha da",
    "eu tambem ja",
    "deixar de molho"
+  ],
+  "18152505118527863": [
+   "reliquia que so",
+   "o problema e",
+   "pelo menos a"
   ]
  },
  "shopee_checada": "2026-10-06|1",
