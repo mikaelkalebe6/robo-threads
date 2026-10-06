@@ -17,13 +17,13 @@
    "14:53",
    "17:59"
   ],
-  "respostas": 92,
+  "respostas": 94,
   "por_post": {
    "18089996570239818": 4,
-   "17927475519184610": 1,
+   "17927475519184610": 2,
    "18234677503320142": 2,
    "18126767030510839": 5,
-   "18089275931235702": 1
+   "18089275931235702": 2
   }
  },
  "posts": [
@@ -1933,7 +1933,9 @@
   "17993526770848654",
   "18152200825545667",
   "18216327700348306",
-  "18128764084695311"
+  "18128764084695311",
+  "18146429128601171",
+  "17968129772965672"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2205,20 +2207,12 @@
   "eb8e874c87": 1,
   "ce9e26212b": 1,
   "0c9c89fd68": 1,
-  "81c5bb9fb1": 1
+  "81c5bb9fb1": 1,
+  "518712d991": 1,
+  "2ceb2b66f7": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "essa é famosa por perder muita gente logo no começo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse aí foge totalmente de qualquer regra de infância calma kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "a inocência da infância é o único filtro que salvava aquilo tudo",
    "p": "concorda",
@@ -2356,6 +2350,16 @@
   },
   {
    "t": "o perigo mora justamente nesse quase kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Concordo, antes a programação infantil era mais livre e abrangente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, ponto extra pra quem sabe saborear também kkk",
    "p": "concorda",
    "r": 1
   }
@@ -2671,7 +2675,8 @@
    "descobrir isso tarde"
   ],
   "17927475519184610": [
-   "veio so conferir"
+   "veio so conferir",
+   "verdade ponto extra"
   ],
   "18234677503320142": [
    "transparencia total sem",
@@ -2685,7 +2690,8 @@
    "o perigo mora"
   ],
   "18089275931235702": [
-   "essa musica e"
+   "essa musica e",
+   "concordo antes a"
   ]
  },
  "shopee_checada": "2026-10-05|1",
