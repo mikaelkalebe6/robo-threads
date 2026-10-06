@@ -24,7 +24,8 @@
    "10:47",
    "11:27",
    "12:43",
-   "13:47"
+   "13:47",
+   "14:48"
   ],
   "respostas": 53,
   "por_post": {
@@ -41,23 +42,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17870059656644754",
-   "insp": "52a7f9104a",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: essa história de inteligência artificial facilitar a rotina só está criando mais demandas para vocês também ou fui sorteada sozinha? Na minha área parece que só mudou o jeito de acumular serviço.",
-   "quando": "2026-10-01T10:07:14.441923-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 126,
-    "likes": 0,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "18122498098866857",
    "insp": "db79935195",
@@ -1006,6 +990,14 @@
    "texto": "O cara emendou cinco minutos falando mal da ex no primeiro café. Não dá pra tankar tanta energia ruim logo de cara.",
    "quando": "2026-10-06T14:07:09.825425-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17989585521024894",
+   "insp": "ff5db927b2",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: Quando lembro da infância, a mamãe sempre servia o arroz primeiro e o feijão por cima, como se fosse um pequeno segredo. Hoje, ao preparar pra mim, fico na dúvida: feijão por cima ou por baixo do arroz?",
+   "quando": "2026-10-06T15:07:11.015654-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -2099,7 +2091,8 @@
   "92d54301a9af0bbfd9e2594d5cc5b2b7",
   "d745ccf8df54a20b9b9e9b1324d7af32",
   "6605182ed5362256a93dbc8cd23b5076",
-  "f4285a8b5138233e3a788554e310faea"
+  "f4285a8b5138233e3a788554e310faea",
+  "854255bb532b29b16629c1c797c00991"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2197,7 +2190,8 @@
   "338b545216": 1791299241.9964204,
   "380b00e24d": 1791301049.584341,
   "642c97cc3a": 1791306486.7916007,
-  "3effd5124d": 1791310042.3382156
+  "3effd5124d": 1791310042.3382156,
+  "ff5db927b2": 1791313646.070318
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
