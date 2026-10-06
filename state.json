@@ -19,37 +19,21 @@
    "21:57"
   ],
   "feitos": [
-   "08:44"
+   "08:44",
+   "10:02"
   ],
-  "respostas": 24,
+  "respostas": 28,
   "por_post": {
    "18118643042050925": 6,
-   "18126767030510839": 7,
-   "18089996570239818": 6,
+   "18126767030510839": 8,
+   "18089996570239818": 8,
    "18446705149192097": 1,
    "17927475519184610": 1,
    "17948454009322563": 1,
-   "18113316785517878": 2
+   "18113316785517878": 3
   }
  },
  "posts": [
-  {
-   "id": "17911320168536912",
-   "insp": "c2d56efe9f",
-   "link": "",
-   "texto": "SEJAM SINCEROS: quando eu era criança, sonhava ser astronauta. Hoje sou analista de dados, mas ainda olho pro céu e imagino. E vocês, que sonho de infância ainda faz o coração acelerar?",
-   "quando": "2026-09-30T21:07:10.285631-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 218,
-    "likes": 1,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "18000024422810127",
    "insp": "7a1c42a5d7",
@@ -1043,6 +1027,14 @@
    "texto": "Eu julgo na hora quem não dá boa tarde para o motorista de aplicativo.",
    "quando": "2026-10-06T09:07:09.174612-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18090795653210068",
+   "insp": "f1481a1658",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: vocês lavam o frango antes de cozinhar ou acham que só espalha bactéria pela pia inteira",
+   "quando": "2026-10-06T10:07:15.515888-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2008,7 +2000,11 @@
   "18446408182122492",
   "18125438666479042",
   "18066445352607046",
-  "18354522328223193"
+  "18354522328223193",
+  "17950730259320342",
+  "17949221112341418",
+  "18097142009400651",
+  "17946641670069625"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2101,7 +2097,8 @@
   "d685c9dfae5cd7af6cd1456f0c9cc527",
   "65378016ebeb45b1e935c0a64d72b004",
   "a394ab203d94e8c051a391da2f4ec606",
-  "bbcadfd99d1d09858b72cd7a80f8299e"
+  "bbcadfd99d1d09858b72cd7a80f8299e",
+  "77abb99d4acbd4bf95d3f3d196e7c974"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2194,7 +2191,8 @@
   "c422eac36b": 1791238056.3920977,
   "2832d4baf6": 1791247069.3264678,
   "58ac2ae535": 1791248867.6549494,
-  "db597fa355": 1791292045.8237777
+  "db597fa355": 1791292045.8237777,
+  "f1481a1658": 1791295658.0818608
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2220,30 +2218,14 @@
   "f439d3cc21": 1,
   "675497b15c": 1,
   "c8c22e5713": 1,
-  "9f69f31f6a": 1
+  "9f69f31f6a": 1,
+  "24bef23b4b": 1,
+  "5640168f02": 1,
+  "f9e4316a08": 1,
+  "82446c71da": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "essa conta nunca fecha no final do mês para ninguém",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesquisa de preço e esquecer o que realmente precisava resumem muito bem qualquer ida ao mercado",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "responsabilidade vem no pacote mas o susto com a conta sempre pega de surpresa kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sou a prova viva de que a lista é mera sugestão kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "vela e cabo velho dividindo espaço é o verdadeiro museu do improviso",
    "p": "concorda",
@@ -2373,6 +2355,26 @@
    "t": "vc também? sacola cheia e o pão evaporou kkkk 😂",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "a pessoa consegue mudar o endereço e a educação no meio do caminho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "prever tudo antes é impossível mas a gente aprende na marra",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "missão impossível voltar com o que tava na lista kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "salva a vida mas a mensalidade também vem pesada",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -2721,7 +2723,9 @@
    "essa reducao no",
    "saude no geral",
    "particular humano pesa",
-   "verdade quando o"
+   "verdade quando o",
+   "prever tudo antes",
+   "salva a vida"
   ],
   "17927475519184610": [
    "veio so conferir",
@@ -2746,7 +2750,8 @@
    "padaria na proxima",
    "pelo menos a",
    "lista e a",
-   "vc tambem sacola"
+   "vc tambem sacola",
+   "missao impossivel voltar"
   ],
   "18089275931235702": [
    "essa musica e",
@@ -2772,7 +2777,8 @@
   ],
   "18113316785517878": [
    "o importante e",
-   "bom dia so"
+   "bom dia so",
+   "a pessoa consegue"
   ]
  },
  "shopee_checada": "2026-10-06|1",
