@@ -24,7 +24,7 @@
    "10:47",
    "11:27"
   ],
-  "respostas": 39,
+  "respostas": 43,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 8,
@@ -34,7 +34,8 @@
    "17948454009322563": 1,
    "18113316785517878": 4,
    "18090795653210068": 5,
-   "18152505118527863": 3
+   "18152505118527863": 3,
+   "18021445505924431": 4
   }
  },
  "posts": [
@@ -2001,7 +2002,11 @@
   "18109475369522279",
   "18108779732607173",
   "18116872283098880",
-  "18468946801190263"
+  "18468946801190263",
+  "18093767927555938",
+  "17870848569643651",
+  "18102706781458185",
+  "18088632998256233"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2233,30 +2238,14 @@
   "0c9c89fd68": 1,
   "5921bf478a": 1,
   "6668b27695": 1,
-  "787e190ae7": 1
+  "787e190ae7": 1,
+  "4b62f46bbf": 1,
+  "7bc2993945": 1,
+  "c8f43f72a9": 1,
+  "4487a1c180": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "a utilidade aparece sempre no dia seguinte ao que a gente desiste de procurar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tamo junto no clube dos desatentos kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa reducao no setor humano enquanto o pet fica de fora não faz o menor sentido",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "inevitável aceitar que esse museu faz parte da decoração da casa",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "padaria na próxima tentativa parece um plano ótimo mas o perigo de sair com trinta paes doces e zero pão frances continua enorme",
    "p": "concorda",
@@ -2384,6 +2373,26 @@
   },
   {
    "t": "medida drástica mas totalmente justa com quem falta com o básico",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse caldo quente com jambu que deixa a boca dormente é uma experiência forte",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Pizza até que agrada, mas aqui a gente começa com uma boa coxinha kkk 😋",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "clássico que nunca falha com quem chega com fome",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "recepção calorosa desse jeito assusta qualquer um",
    "p": "concorda",
    "r": 0
   }
@@ -2805,6 +2814,12 @@
    "reliquia que so",
    "o problema e",
    "pelo menos a"
+  ],
+  "18021445505924431": [
+   "esse caldo quente",
+   "pizza ate que",
+   "classico que nunca",
+   "recepcao calorosa desse"
   ]
  },
  "shopee_checada": "2026-10-06|1",
