@@ -30,7 +30,7 @@
    "16:17",
    "17:19"
   ],
-  "respostas": 62,
+  "respostas": 65,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 9,
@@ -42,8 +42,9 @@
    "18090795653210068": 7,
    "18152505118527863": 3,
    "18021445505924431": 9,
-   "18375054751212499": 3,
-   "18118761089472689": 5
+   "18375054751212499": 4,
+   "18118761089472689": 5,
+   "18021014444726359": 2
   }
  },
  "posts": [
@@ -1980,7 +1981,10 @@
   "18560922031073142",
   "17870712450648213",
   "18123159193703883",
-  "17990952627023635"
+  "17990952627023635",
+  "18071282681727112",
+  "18098746688305764",
+  "18135294523573896"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2245,25 +2249,13 @@
   "81ea46ce0d": 1,
   "52ee05a22d": 1,
   "c682c4cd55": 1,
-  "2a971de5c1": 1
+  "2a971de5c1": 1,
+  "0428e10b31": 1,
+  "772ca241ad": 1,
+  "9860d007ee": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "kkk eu também já lavei tudo, até o sobrinho, antes do chef dizer q não 😂",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "deixar de molho é um caminho diferente kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Verdade, mas o SUS não cobre nossos bichinhos 😅",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "relíquia que só dá trabalho e saudade de um dinheiro que já foi",
    "p": "concorda",
@@ -2398,6 +2390,21 @@
    "t": "essa desculpa vem com atestado de dor que ninguém tem como questionar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "daqui a pouco aceitam pix parcelado em dez vezes kkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "comprar em balde já é nível profissional de economia automotiva",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "agora virou peca de museu de tanto carinho kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -2838,7 +2845,8 @@
   "18375054751212499": [
    "mecanico sempre estraga",
    "raiva acumulada e",
-   "o painel virou"
+   "o painel virou",
+   "agora virou peca"
   ],
   "18118761089472689": [
    "isso sim e",
@@ -2846,6 +2854,10 @@
    "tecnologia sempre presente",
    "verdade mas as",
    "essa desculpa vem"
+  ],
+  "18021014444726359": [
+   "daqui a pouco",
+   "comprar em balde"
   ]
  },
  "shopee_checada": "2026-10-06|1",
