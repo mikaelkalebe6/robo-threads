@@ -18,35 +18,20 @@
    "21:10",
    "21:57"
   ],
-  "feitos": [],
-  "respostas": 16,
+  "feitos": [
+   "08:44"
+  ],
+  "respostas": 20,
   "por_post": {
-   "18118643042050925": 5,
-   "18126767030510839": 4,
-   "18089996570239818": 4,
+   "18118643042050925": 6,
+   "18126767030510839": 6,
+   "18089996570239818": 5,
    "18446705149192097": 1,
    "17927475519184610": 1,
    "17948454009322563": 1
   }
  },
  "posts": [
-  {
-   "id": "18197919661348074",
-   "insp": "fbedf7f149",
-   "link": "",
-   "texto": "PESSOAS QUE VIAJAM MUITO: praia deserta ou cidade histórica no fim de semana prolongado",
-   "quando": "2026-09-30T20:07:11.344298-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 278,
-    "likes": 2,
-    "replies": 12,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "17911320168536912",
    "insp": "c2d56efe9f",
@@ -1049,6 +1034,14 @@
     "shares": 0,
     "em": "2026-10-06"
    }
+  },
+  {
+   "id": "18113316785517878",
+   "insp": "db597fa355",
+   "link": "",
+   "texto": "Eu julgo na hora quem não dá boa tarde para o motorista de aplicativo.",
+   "quando": "2026-10-06T09:07:09.174612-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2006,7 +1999,11 @@
   "18360290023218158",
   "18345311851253069",
   "17887711290478854",
-  "18125958862870540"
+  "18125958862870540",
+  "18105651503195080",
+  "17976190892930699",
+  "18124716680304280",
+  "18125834260872272"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2098,7 +2095,8 @@
   "9bc14e830310e6fbbbf2aed2b044b785",
   "d685c9dfae5cd7af6cd1456f0c9cc527",
   "65378016ebeb45b1e935c0a64d72b004",
-  "a394ab203d94e8c051a391da2f4ec606"
+  "a394ab203d94e8c051a391da2f4ec606",
+  "bbcadfd99d1d09858b72cd7a80f8299e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2190,7 +2188,8 @@
   "7733a769d4": 1791227258.5966003,
   "c422eac36b": 1791238056.3920977,
   "2832d4baf6": 1791247069.3264678,
-  "58ac2ae535": 1791248867.6549494
+  "58ac2ae535": 1791248867.6549494,
+  "db597fa355": 1791292045.8237777
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2208,30 +2207,14 @@
   "73602b9311": 1,
   "58f62ad689": 1,
   "d77d8066ee": 1,
-  "c36d332646": 1
+  "c36d332646": 1,
+  "0409909721": 1,
+  "cffb44a08a": 1,
+  "9107108448": 1,
+  "a9959b0216": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "amém porque essa paz de espírito foi embora bem na hora de passar no caixa kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "a lista é só uma sugestão educada que a gente ignora no primeiro corredor kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "lista salva a alma mas falha na hora H kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "descobrir isso tarde demais deveria ser crime inafiançável",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa música é um patrimônio nacional da falta de noção kkkk",
    "p": "concorda",
@@ -2361,6 +2344,26 @@
    "t": "dois quartos inteiros já passam de gaveta para território inexplorado com direito a suspense",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "pelo menos a gente garante tudo menos o que precisava kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "particular humano pesa muito mas o choque com o pet pega desprevenido",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "tampa sem pote é outro mistério que desafia a lógica de qualquer cozinha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "lista é a única salvação para não esquecer o motivo da visita kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -2707,7 +2710,8 @@
    "essa seria a",
    "plano de saude",
    "essa reducao no",
-   "saude no geral"
+   "saude no geral",
+   "particular humano pesa"
   ],
   "17927475519184610": [
    "veio so conferir",
@@ -2729,7 +2733,9 @@
    "desconto bom faz",
    "devolver o excesso",
    "tamo junto no",
-   "padaria na proxima"
+   "padaria na proxima",
+   "pelo menos a",
+   "lista e a"
   ],
   "18089275931235702": [
    "essa musica e",
@@ -2741,7 +2747,8 @@
    "grampo e prego",
    "a utilidade aparece",
    "inevitavel aceitar que",
-   "dois quartos inteiros"
+   "dois quartos inteiros",
+   "tampa sem pote"
   ],
   "18116788114783020": [
    "essa decisao e"
