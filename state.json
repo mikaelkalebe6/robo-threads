@@ -25,9 +25,10 @@
    "11:27",
    "12:43",
    "13:47",
-   "14:48"
+   "14:48",
+   "15:35"
   ],
-  "respostas": 53,
+  "respostas": 54,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 9,
@@ -36,29 +37,12 @@
    "17927475519184610": 1,
    "17948454009322563": 1,
    "18113316785517878": 4,
-   "18090795653210068": 6,
+   "18090795653210068": 7,
    "18152505118527863": 3,
    "18021445505924431": 9
   }
  },
  "posts": [
-  {
-   "id": "18122498098866857",
-   "insp": "db79935195",
-   "link": "",
-   "texto": "SEM MENTIR: quem acha que dormir cedo garante sucesso nunca viu a madrugada criativa de quem trabalha à noite. E você, qual horário te faz render?",
-   "quando": "2026-10-01T11:07:15.167680-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 1209,
-    "likes": 24,
-    "replies": 19,
-    "reposts": 2,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "18220845559346566",
    "insp": "c0031ddd0f",
@@ -998,6 +982,14 @@
    "texto": "DÚVIDA SINCERA: Quando lembro da infância, a mamãe sempre servia o arroz primeiro e o feijão por cima, como se fosse um pequeno segredo. Hoje, ao preparar pra mim, fico na dúvida: feijão por cima ou por baixo do arroz?",
    "quando": "2026-10-06T15:07:11.015654-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18375054751212499",
+   "insp": "fb886a59a7",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: vocês também batem no painel do carro pedindo pra ele aguentar mais um pouco quando acende alguma luz do nada?",
+   "quando": "2026-10-06T15:37:09.864411-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1993,7 +1985,8 @@
   "17898019548671603",
   "18117370250072424",
   "18061451324566751",
-  "18211122655362907"
+  "18211122655362907",
+  "18059788817570547"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2092,7 +2085,8 @@
   "d745ccf8df54a20b9b9e9b1324d7af32",
   "6605182ed5362256a93dbc8cd23b5076",
   "f4285a8b5138233e3a788554e310faea",
-  "854255bb532b29b16629c1c797c00991"
+  "854255bb532b29b16629c1c797c00991",
+  "391fab575aaff1588f6274e28881098b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2191,12 +2185,13 @@
   "380b00e24d": 1791301049.584341,
   "642c97cc3a": 1791306486.7916007,
   "3effd5124d": 1791310042.3382156,
-  "ff5db927b2": 1791313646.070318
+  "ff5db927b2": 1791313646.070318,
+  "fb886a59a7": 1791315444.3711731
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-10-06",
-  "0f55188be0": 1,
+  "0f55188be0": 2,
   "c745f5f62f": 1,
   "e3100afe26": 1,
   "8678c6384e": 1,
@@ -2248,11 +2243,6 @@
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "vc também? sacola cheia e o pão evaporou kkkk 😂",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "a pessoa consegue mudar o endereço e a educação no meio do caminho",
    "p": "concorda",
@@ -2395,6 +2385,11 @@
   },
   {
    "t": "mercado vira uma dimensao paralela onde o foco simplesmente evapora",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "time do não firme e forte",
    "p": "concorda",
    "r": 0
   }
@@ -2815,7 +2810,8 @@
    "ciencia ganha da",
    "eu tambem ja",
    "deixar de molho",
-   "dizem q espalha"
+   "dizem q espalha",
+   "time do nao"
   ],
   "18152505118527863": [
    "reliquia que so",
