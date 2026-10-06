@@ -22,7 +22,7 @@
    "08:44",
    "10:02"
   ],
-  "respostas": 28,
+  "respostas": 31,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 8,
@@ -30,7 +30,8 @@
    "18446705149192097": 1,
    "17927475519184610": 1,
    "17948454009322563": 1,
-   "18113316785517878": 3
+   "18113316785517878": 3,
+   "18090795653210068": 3
   }
  },
  "posts": [
@@ -2004,7 +2005,10 @@
   "17950730259320342",
   "17949221112341418",
   "18097142009400651",
-  "17946641670069625"
+  "17946641670069625",
+  "17907155481334058",
+  "17890372191683173",
+  "18249620716308978"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2222,25 +2226,13 @@
   "24bef23b4b": 1,
   "5640168f02": 1,
   "f9e4316a08": 1,
-  "82446c71da": 1
+  "82446c71da": 1,
+  "d8332c0f72": 1,
+  "2cddfa8a29": 1,
+  "1672d8870c": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "vela e cabo velho dividindo espaço é o verdadeiro museu do improviso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa decisão é pesada demais para uma segunda-feira",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "caixa de sapato é o modelo premium desse museu kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "desconto bom faz milagre com a nossa paciência",
    "p": "concorda",
@@ -2373,6 +2365,21 @@
   },
   {
    "t": "salva a vida mas a mensalidade também vem pesada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "frango babento já cruza a linha de qualquer tolerância",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cada um segue a sua regra nessa missão",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ciência ganha da tradição de vó nessa hora",
    "p": "concorda",
    "r": 0
   }
@@ -2779,6 +2786,11 @@
    "o importante e",
    "bom dia so",
    "a pessoa consegue"
+  ],
+  "18090795653210068": [
+   "frango babento ja",
+   "cada um segue",
+   "ciencia ganha da"
   ]
  },
  "shopee_checada": "2026-10-06|1",
