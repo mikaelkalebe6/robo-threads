@@ -16,35 +16,19 @@
    "13:48",
    "14:53",
    "17:59",
-   "20:11"
+   "20:11",
+   "21:07"
   ],
-  "respostas": 96,
+  "respostas": 98,
   "por_post": {
-   "18089996570239818": 5,
+   "18089996570239818": 6,
    "17927475519184610": 2,
    "18234677503320142": 2,
-   "18126767030510839": 6,
+   "18126767030510839": 7,
    "18089275931235702": 2
   }
  },
  "posts": [
-  {
-   "id": "18132944335669250",
-   "insp": "c05528a8e3",
-   "link": "",
-   "texto": "SEJAM SINCEROS: se você fosse casar hoje, iria de separação total ou comunhão parcial de bens? \n\nTem gente que jura que separação total é falta de romantismo, e tem quem ache que misturar tudo é pedir para ter dor de cabeça no futuro.\n\nQual dos dois você escolheria?",
-   "quando": "2026-09-30T19:07:09.621863-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 728,
-    "likes": 7,
-    "replies": 34,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-05"
-   }
-  },
   {
    "id": "18197919661348074",
    "insp": "fbedf7f149",
@@ -993,6 +977,14 @@
    "texto": "Tem dia que a gente dorme seis horas e acha que tá ótimo, mas no dia seguinte a conta chega. Ou é o sono em dia ou é cafeína o dia inteiro.",
    "quando": "2026-10-05T20:37:10.569235-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18118643042050925",
+   "insp": "58ac2ae535",
+   "link": "",
+   "texto": "Quem mais tem em casa uma gaveta que é basicamente um cemitério de cabos que ninguém sabe se funcionam, chaves aleatórias e sacola plástica?\n\nToda casa tem esse pequeno museu do caos e a gente só aceita.",
+   "quando": "2026-10-05T21:07:11.596505-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -1929,7 +1921,10 @@
   "18146429128601171",
   "17968129772965672",
   "18127328218894341",
-  "18129286489804627"
+  "18129286489804627",
+  "18073708181758166",
+  "18131586040669632",
+  "18130403023786174"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2020,7 +2015,8 @@
   "3cb10cc6544c07d7d4691f183024cdf4",
   "9bc14e830310e6fbbbf2aed2b044b785",
   "d685c9dfae5cd7af6cd1456f0c9cc527",
-  "65378016ebeb45b1e935c0a64d72b004"
+  "65378016ebeb45b1e935c0a64d72b004",
+  "a394ab203d94e8c051a391da2f4ec606"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2111,7 +2107,8 @@
   "d8d17a2688": 1791223648.0135908,
   "7733a769d4": 1791227258.5966003,
   "c422eac36b": 1791238056.3920977,
-  "2832d4baf6": 1791247069.3264678
+  "2832d4baf6": 1791247069.3264678,
+  "58ac2ae535": 1791248867.6549494
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2207,20 +2204,12 @@
   "518712d991": 1,
   "2ceb2b66f7": 1,
   "e83f3a1d86": 1,
-  "92d635c080": 1
+  "92d635c080": 1,
+  "6baf7c8a05": 1,
+  "8173dd55a8": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "tolerância zero pra joguinho e enrolação economiza um tempão",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "barra de notificacao é uma ótima ferramenta para ganhar tempo na resposta",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "critério de seleção bem rigoroso pra poupar a sanidade kkk",
    "p": "concorda",
@@ -2360,6 +2349,16 @@
    "t": "pesquisa de preço e esquecer o que realmente precisava resumem muito bem qualquer ida ao mercado",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "responsabilidade vem no pacote mas o susto com a conta sempre pega de surpresa kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "sou a prova viva de que a lista é mera sugestão kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -2671,7 +2670,8 @@
    "parece que testam",
    "essa diferenca de",
    "descobrir isso tarde",
-   "essa conta nunca"
+   "essa conta nunca",
+   "responsabilidade vem no"
   ],
   "17927475519184610": [
    "veio so conferir",
@@ -2687,7 +2687,8 @@
    "a lista e",
    "lista salva a",
    "o perigo mora",
-   "pesquisa de preco"
+   "pesquisa de preco",
+   "sou a prova"
   ],
   "18089275931235702": [
    "essa musica e",
