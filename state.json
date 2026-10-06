@@ -26,9 +26,10 @@
    "12:43",
    "13:47",
    "14:48",
-   "15:35"
+   "15:35",
+   "16:17"
   ],
-  "respostas": 55,
+  "respostas": 56,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 9,
@@ -40,27 +41,10 @@
    "18090795653210068": 7,
    "18152505118527863": 3,
    "18021445505924431": 9,
-   "18375054751212499": 1
+   "18375054751212499": 2
   }
  },
  "posts": [
-  {
-   "id": "18220845559346566",
-   "insp": "c0031ddd0f",
-   "link": "",
-   "texto": "ME CONTA: qual foi o último comercial de margarina ou banco que te arrancou uma lágrima do nada? Juro que sou forte com filme triste, mas propaganda com musiquinha fofa acaba comigo no sofá.",
-   "quando": "2026-10-01T14:37:12.990945-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 911,
-    "likes": 3,
-    "replies": 14,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "18138700843713493",
    "insp": "cfb5d252d5",
@@ -991,6 +975,14 @@
    "texto": "DÚVIDA SINCERA: vocês também batem no painel do carro pedindo pra ele aguentar mais um pouco quando acende alguma luz do nada?",
    "quando": "2026-10-06T15:37:09.864411-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18118761089472689",
+   "insp": "852685f1e2",
+   "link": "",
+   "texto": "SEM MENTIR: fingi que meu cachorro tinha comido o celular pra cancelar o jantar. Vocês já inventaram algo pior?",
+   "quando": "2026-10-06T16:37:09.559906-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -1988,7 +1980,8 @@
   "18061451324566751",
   "18211122655362907",
   "18059788817570547",
-  "18127378229488726"
+  "18127378229488726",
+  "18137912656723525"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2088,7 +2081,8 @@
   "6605182ed5362256a93dbc8cd23b5076",
   "f4285a8b5138233e3a788554e310faea",
   "854255bb532b29b16629c1c797c00991",
-  "391fab575aaff1588f6274e28881098b"
+  "391fab575aaff1588f6274e28881098b",
+  "d7ecd06aadc9a372746bec96f514dbd8"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2188,7 +2182,8 @@
   "642c97cc3a": 1791306486.7916007,
   "3effd5124d": 1791310042.3382156,
   "ff5db927b2": 1791313646.070318,
-  "fb886a59a7": 1791315444.3711731
+  "fb886a59a7": 1791315444.3711731,
+  "852685f1e2": 1791319047.1416328
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2242,15 +2237,11 @@
   "09d39fdd78": 1,
   "78c72967ad": 1,
   "871544c533": 1,
-  "7a6fe87a21": 1
+  "7a6fe87a21": 1,
+  "bac125aa36": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "prever tudo antes é impossível mas a gente aprende na marra",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "missão impossível voltar com o que tava na lista kkk",
    "p": "concorda",
@@ -2395,6 +2386,11 @@
    "t": "mecânico sempre estraga o romance da nossa relação com o carro kkk",
    "p": "ressalva",
    "r": 1
+  },
+  {
+   "t": "raiva acumulada é o combustível oficial de todo motorista",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -2833,7 +2829,8 @@
    "essa coxinha de"
   ],
   "18375054751212499": [
-   "mecanico sempre estraga"
+   "mecanico sempre estraga",
+   "raiva acumulada e"
   ]
  },
  "shopee_checada": "2026-10-06|1",
