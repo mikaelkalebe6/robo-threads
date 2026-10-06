@@ -20,38 +20,22 @@
   ],
   "feitos": [
    "08:44",
-   "10:02"
+   "10:02",
+   "10:47"
   ],
-  "respostas": 31,
+  "respostas": 35,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 8,
-   "18089996570239818": 8,
-   "18446705149192097": 1,
+   "18089996570239818": 9,
+   "18446705149192097": 2,
    "17927475519184610": 1,
    "17948454009322563": 1,
    "18113316785517878": 3,
-   "18090795653210068": 3
+   "18090795653210068": 5
   }
  },
  "posts": [
-  {
-   "id": "18000024422810127",
-   "insp": "7a1c42a5d7",
-   "link": "",
-   "texto": "SEJAM SINCEROS: vocês contariam pra melhor amiga se vissem o namorado dela com outra no rolê? É o tipo de coisa que estraga a amizade ou pior é deixar ela ser enganada.",
-   "quando": "2026-09-30T21:37:13.948034-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 430,
-    "likes": 4,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "17872728318638998",
    "insp": "559f0792a7",
@@ -1036,6 +1020,14 @@
    "texto": "VAMOS SER HONESTOS: vocês lavam o frango antes de cozinhar ou acham que só espalha bactéria pela pia inteira",
    "quando": "2026-10-06T10:07:15.515888-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18152505118527863",
+   "insp": "338b545216",
+   "link": "",
+   "texto": "Eu comprei um aparelho de fazer pão que usei exatamente duas vezes na vida antes de virar peça de decoração na pia. Juro que a promessa de acordar com cheiro de pão fresco parecia muito mais romântica do que lavar aquela batedeira gigante depois. Qual foi a pior compra que já me convenceram a fazer?",
+   "quando": "2026-10-06T11:07:10.078708-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2008,7 +2000,11 @@
   "17946641670069625",
   "17907155481334058",
   "17890372191683173",
-  "18249620716308978"
+  "18249620716308978",
+  "17959361970240032",
+  "17930490885162037",
+  "17947084653300741",
+  "18105051617195851"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2102,7 +2098,8 @@
   "65378016ebeb45b1e935c0a64d72b004",
   "a394ab203d94e8c051a391da2f4ec606",
   "bbcadfd99d1d09858b72cd7a80f8299e",
-  "77abb99d4acbd4bf95d3f3d196e7c974"
+  "77abb99d4acbd4bf95d3f3d196e7c974",
+  "92d54301a9af0bbfd9e2594d5cc5b2b7"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2196,7 +2193,8 @@
   "2832d4baf6": 1791247069.3264678,
   "58ac2ae535": 1791248867.6549494,
   "db597fa355": 1791292045.8237777,
-  "f1481a1658": 1791295658.0818608
+  "f1481a1658": 1791295658.0818608,
+  "338b545216": 1791299241.9964204
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2229,30 +2227,13 @@
   "82446c71da": 1,
   "d8332c0f72": 1,
   "2cddfa8a29": 1,
-  "1672d8870c": 1
+  "1672d8870c": 1,
+  "cd80936d33": 1,
+  "7fb3998d6f": 2,
+  "8b68fc8bbd": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "desconto bom faz milagre com a nossa paciência",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa seria a solução logica se o valor mensal não pesasse tanto no bolso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "trocar um S25 Ultra por uma máquina de ovos foi um excelente negócio para o marido kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "quem não sabe cozinha ganha pontos pelo perigo de destruir a cozinha",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "se o buffet for bom a conta se paga em boletos e abraços kkkk",
    "p": "concorda",
@@ -2381,6 +2362,26 @@
   {
    "t": "ciência ganha da tradição de vó nessa hora",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "subiu um modelo só mas o boleto deve ter subido dez kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkk eu também já lavei tudo, até o sobrinho, antes do chef dizer q não 😂",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "deixar de molho é um caminho diferente kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Verdade, mas o SUS não cobre nossos bichinhos 😅",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -2732,7 +2733,8 @@
    "particular humano pesa",
    "verdade quando o",
    "prever tudo antes",
-   "salva a vida"
+   "salva a vida",
+   "verdade mas o"
   ],
   "17927475519184610": [
    "veio so conferir",
@@ -2777,7 +2779,8 @@
    "essa decisao e"
   ],
   "18446705149192097": [
-   "trocar um s25"
+   "trocar um s25",
+   "subiu um modelo"
   ],
   "17948454009322563": [
    "se o buffet"
@@ -2790,7 +2793,9 @@
   "18090795653210068": [
    "frango babento ja",
    "cada um segue",
-   "ciencia ganha da"
+   "ciencia ganha da",
+   "eu tambem ja",
+   "deixar de molho"
   ]
  },
  "shopee_checada": "2026-10-06|1",
