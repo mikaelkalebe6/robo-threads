@@ -23,12 +23,13 @@
    "10:02",
    "10:47",
    "11:27",
-   "12:43"
+   "12:43",
+   "13:47"
   ],
-  "respostas": 52,
+  "respostas": 53,
   "por_post": {
    "18118643042050925": 6,
-   "18126767030510839": 8,
+   "18126767030510839": 9,
    "18089996570239818": 12,
    "18446705149192097": 2,
    "17927475519184610": 1,
@@ -40,23 +41,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17976051243131959",
-   "insp": "4fb1c220f3",
-   "link": "",
-   "texto": "Quem mais aqui tem um botão invisível que desliga o interesse na hora?\n\nPra mim, gente que trata mal quem tá trabalhando ou vive competindo em conversa faz a atração evaporar em dois segundos. Não tem volta.\n\nO que faz vocês perderem o encanto instantaneamente?",
-   "quando": "2026-10-01T09:37:12.227942-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 540,
-    "likes": 5,
-    "replies": 10,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "17870059656644754",
    "insp": "52a7f9104a",
@@ -1013,6 +997,14 @@
    "link": "",
    "texto": "Tem boleto que parece que a gente paga todo mês de castigo por ter escolhido morar sozinho.",
    "quando": "2026-10-06T13:07:09.575515-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18101068082257287",
+   "insp": "3effd5124d",
+   "link": "",
+   "texto": "O cara emendou cinco minutos falando mal da ex no primeiro café. Não dá pra tankar tanta energia ruim logo de cara.",
+   "quando": "2026-10-06T14:07:09.825425-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -2008,7 +2000,8 @@
   "18344734195248816",
   "17898019548671603",
   "18117370250072424",
-  "18061451324566751"
+  "18061451324566751",
+  "18211122655362907"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2105,7 +2098,8 @@
   "77abb99d4acbd4bf95d3f3d196e7c974",
   "92d54301a9af0bbfd9e2594d5cc5b2b7",
   "d745ccf8df54a20b9b9e9b1324d7af32",
-  "6605182ed5362256a93dbc8cd23b5076"
+  "6605182ed5362256a93dbc8cd23b5076",
+  "f4285a8b5138233e3a788554e310faea"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2202,7 +2196,8 @@
   "f1481a1658": 1791295658.0818608,
   "338b545216": 1791299241.9964204,
   "380b00e24d": 1791301049.584341,
-  "642c97cc3a": 1791306486.7916007
+  "642c97cc3a": 1791306486.7916007,
+  "3effd5124d": 1791310042.3382156
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2254,15 +2249,11 @@
   "c417805505": 1,
   "ef9e370da7": 1,
   "09d39fdd78": 1,
-  "78c72967ad": 1
+  "78c72967ad": 1,
+  "871544c533": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "Verdade quando o vet liga a conta o bolso chora kkkk 😂",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "vc também? sacola cheia e o pão evaporou kkkk 😂",
    "p": "concorda",
@@ -2406,6 +2397,11 @@
   {
    "t": "o problema é que no plano humano a gente paga rezando pra não usar e no veterinario o susto vem de uma vez só",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "mercado vira uma dimensao paralela onde o foco simplesmente evapora",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -2787,7 +2783,8 @@
    "pelo menos a",
    "lista e a",
    "vc tambem sacola",
-   "missao impossivel voltar"
+   "missao impossivel voltar",
+   "mercado vira uma"
   ],
   "18089275931235702": [
    "essa musica e",
