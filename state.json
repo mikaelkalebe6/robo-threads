@@ -27,9 +27,10 @@
    "13:47",
    "14:48",
    "15:35",
-   "16:17"
+   "16:17",
+   "17:19"
   ],
-  "respostas": 61,
+  "respostas": 62,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 9,
@@ -42,27 +43,10 @@
    "18152505118527863": 3,
    "18021445505924431": 9,
    "18375054751212499": 3,
-   "18118761089472689": 4
+   "18118761089472689": 5
   }
  },
  "posts": [
-  {
-   "id": "18138700843713493",
-   "insp": "cfb5d252d5",
-   "link": "",
-   "texto": "SEM MENTIR: novela ou série? Esse ano a série me prendeu mais que qualquer trama de novela. E você?",
-   "quando": "2026-10-01T16:07:10.063128-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 374,
-    "likes": 1,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "18084836903701822",
    "insp": "ae1c8a29b8",
@@ -984,6 +968,14 @@
    "texto": "SEM MENTIR: fingi que meu cachorro tinha comido o celular pra cancelar o jantar. Vocês já inventaram algo pior?",
    "quando": "2026-10-06T16:37:09.559906-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18021014444726359",
+   "insp": "07137399ea",
+   "link": "",
+   "texto": "O meu mecânico me cobra a alma ou o rim na troca de óleo, não tem meio termo.",
+   "quando": "2026-10-06T17:37:09.902116-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1987,7 +1979,8 @@
   "17949489045325130",
   "18560922031073142",
   "17870712450648213",
-  "18123159193703883"
+  "18123159193703883",
+  "17990952627023635"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2088,7 +2081,8 @@
   "f4285a8b5138233e3a788554e310faea",
   "854255bb532b29b16629c1c797c00991",
   "391fab575aaff1588f6274e28881098b",
-  "d7ecd06aadc9a372746bec96f514dbd8"
+  "d7ecd06aadc9a372746bec96f514dbd8",
+  "838038e1434c395acc8fd7455794bcb9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2189,7 +2183,8 @@
   "3effd5124d": 1791310042.3382156,
   "ff5db927b2": 1791313646.070318,
   "fb886a59a7": 1791315444.3711731,
-  "852685f1e2": 1791319047.1416328
+  "852685f1e2": 1791319047.1416328,
+  "07137399ea": 1791322646.4106162
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2249,15 +2244,11 @@
   "5e42ccac0d": 1,
   "81ea46ce0d": 1,
   "52ee05a22d": 1,
-  "c682c4cd55": 1
+  "c682c4cd55": 1,
+  "2a971de5c1": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "subiu um modelo só mas o boleto deve ter subido dez kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "kkk eu também já lavei tudo, até o sobrinho, antes do chef dizer q não 😂",
    "p": "concorda",
@@ -2401,6 +2392,11 @@
   {
    "t": "verdade mas às vezes a mentira branca salva uma noite de preguiça",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "essa desculpa vem com atestado de dor que ninguém tem como questionar",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -2848,7 +2844,8 @@
    "isso sim e",
    "sinceridade fria e",
    "tecnologia sempre presente",
-   "verdade mas as"
+   "verdade mas as",
+   "essa desculpa vem"
   ]
  },
  "shopee_checada": "2026-10-06|1",
