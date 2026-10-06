@@ -19,11 +19,11 @@
    "21:57"
   ],
   "feitos": [],
-  "respostas": 12,
+  "respostas": 16,
   "por_post": {
-   "18118643042050925": 3,
-   "18126767030510839": 3,
-   "18089996570239818": 3,
+   "18118643042050925": 5,
+   "18126767030510839": 4,
+   "18089996570239818": 4,
    "18446705149192097": 1,
    "17927475519184610": 1,
    "17948454009322563": 1
@@ -2002,7 +2002,11 @@
   "18127865891504277",
   "17987925570119700",
   "18165624388469990",
-  "17964789305982715"
+  "17964789305982715",
+  "18360290023218158",
+  "18345311851253069",
+  "17887711290478854",
+  "18125958862870540"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2195,37 +2199,19 @@
   "c745f5f62f": 1,
   "e3100afe26": 1,
   "8678c6384e": 1,
-  "8173dd55a8": 1,
-  "1d06969815": 1,
+  "8173dd55a8": 2,
+  "1d06969815": 2,
   "b07af39dbe": 1,
   "bd052af1e4": 1,
   "7abdc96a15": 1,
   "1f1e8afefa": 1,
   "73602b9311": 1,
-  "58f62ad689": 1
+  "58f62ad689": 1,
+  "d77d8066ee": 1,
+  "c36d332646": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "parece que testam a nossa resistencia financeira todo mês",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sinceridade acima de tudo porque fingir que não viu dá trabalho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa diferença de preço em farmacia comum e veterinaria parece piada de mau gosto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem nunca passa por isso que atire a primeira pedra kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "amém porque essa paz de espírito foi embora bem na hora de passar no caixa kkk",
    "p": "concorda",
@@ -2353,6 +2339,26 @@
   },
   {
    "t": "essa reducao no setor humano enquanto o pet fica de fora não faz o menor sentido",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "inevitável aceitar que esse museu faz parte da decoração da casa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "padaria na próxima tentativa parece um plano ótimo mas o perigo de sair com trinta paes doces e zero pão frances continua enorme",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "saúde no geral virou um artigo de luxo que assusta todo mundo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "dois quartos inteiros já passam de gaveta para território inexplorado com direito a suspense",
    "p": "concorda",
    "r": 0
   }
@@ -2700,7 +2706,8 @@
    "responsabilidade vem no",
    "essa seria a",
    "plano de saude",
-   "essa reducao no"
+   "essa reducao no",
+   "saude no geral"
   ],
   "17927475519184610": [
    "veio so conferir",
@@ -2721,7 +2728,8 @@
    "sou a prova",
    "desconto bom faz",
    "devolver o excesso",
-   "tamo junto no"
+   "tamo junto no",
+   "padaria na proxima"
   ],
   "18089275931235702": [
    "essa musica e",
@@ -2731,7 +2739,9 @@
    "vela e cabo",
    "caixa de sapato",
    "grampo e prego",
-   "a utilidade aparece"
+   "a utilidade aparece",
+   "inevitavel aceitar que",
+   "dois quartos inteiros"
   ],
   "18116788114783020": [
    "essa decisao e"
