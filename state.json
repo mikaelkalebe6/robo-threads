@@ -19,13 +19,15 @@
    "20:11",
    "21:07"
   ],
-  "respostas": 98,
+  "respostas": 100,
   "por_post": {
    "18089996570239818": 6,
    "17927475519184610": 2,
    "18234677503320142": 2,
    "18126767030510839": 7,
-   "18089275931235702": 2
+   "18089275931235702": 2,
+   "18118643042050925": 1,
+   "18116788114783020": 1
   }
  },
  "posts": [
@@ -1924,7 +1926,9 @@
   "18129286489804627",
   "18073708181758166",
   "18131586040669632",
-  "18130403023786174"
+  "18130403023786174",
+  "17905576005591604",
+  "18135404254644280"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2206,20 +2210,11 @@
   "e83f3a1d86": 1,
   "92d635c080": 1,
   "6baf7c8a05": 1,
-  "8173dd55a8": 1
+  "8173dd55a8": 2,
+  "10711c0ddf": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "critério de seleção bem rigoroso pra poupar a sanidade kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "poder mandar na propria folga é o sonho de consumo de qlqr um kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "pontuação máxima garantida logo de cara 🥰",
    "p": "concorda",
@@ -2359,6 +2354,16 @@
    "t": "sou a prova viva de que a lista é mera sugestão kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "vela e cabo velho dividindo espaço é o verdadeiro museu do improviso",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa decisão é pesada demais para uma segunda-feira",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -2693,6 +2698,12 @@
   "18089275931235702": [
    "essa musica e",
    "concordo antes a"
+  ],
+  "18118643042050925": [
+   "vela e cabo"
+  ],
+  "18116788114783020": [
+   "essa decisao e"
   ]
  },
  "shopee_checada": "2026-10-05|1",
