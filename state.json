@@ -21,14 +21,15 @@
   "feitos": [
    "08:44"
   ],
-  "respostas": 20,
+  "respostas": 24,
   "por_post": {
    "18118643042050925": 6,
-   "18126767030510839": 6,
-   "18089996570239818": 5,
+   "18126767030510839": 7,
+   "18089996570239818": 6,
    "18446705149192097": 1,
    "17927475519184610": 1,
-   "17948454009322563": 1
+   "17948454009322563": 1,
+   "18113316785517878": 2
   }
  },
  "posts": [
@@ -2003,7 +2004,11 @@
   "18105651503195080",
   "17976190892930699",
   "18124716680304280",
-  "18125834260872272"
+  "18125834260872272",
+  "18446408182122492",
+  "18125438666479042",
+  "18066445352607046",
+  "18354522328223193"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2211,30 +2216,14 @@
   "0409909721": 1,
   "cffb44a08a": 1,
   "9107108448": 1,
-  "a9959b0216": 1
+  "a9959b0216": 1,
+  "f439d3cc21": 1,
+  "675497b15c": 1,
+  "c8c22e5713": 1,
+  "9f69f31f6a": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "essa música é um patrimônio nacional da falta de noção kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "o perigo mora justamente nesse quase kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Concordo, antes a programação infantil era mais livre e abrangente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Verdade, ponto extra pra quem sabe saborear também kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa conta nunca fecha no final do mês para ninguém",
    "p": "concorda",
@@ -2364,6 +2353,26 @@
    "t": "lista é a única salvação para não esquecer o motivo da visita kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "o importante é garantir a simpatia logo na entrada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "bom dia só para quem da boa tarde no carro",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "Verdade quando o vet liga a conta o bolso chora kkkk 😂",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "vc também? sacola cheia e o pão evaporou kkkk 😂",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -2711,7 +2720,8 @@
    "plano de saude",
    "essa reducao no",
    "saude no geral",
-   "particular humano pesa"
+   "particular humano pesa",
+   "verdade quando o"
   ],
   "17927475519184610": [
    "veio so conferir",
@@ -2735,7 +2745,8 @@
    "tamo junto no",
    "padaria na proxima",
    "pelo menos a",
-   "lista e a"
+   "lista e a",
+   "vc tambem sacola"
   ],
   "18089275931235702": [
    "essa musica e",
@@ -2758,6 +2769,10 @@
   ],
   "17948454009322563": [
    "se o buffet"
+  ],
+  "18113316785517878": [
+   "o importante e",
+   "bom dia so"
   ]
  },
  "shopee_checada": "2026-10-06|1",
