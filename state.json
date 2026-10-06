@@ -25,18 +25,18 @@
    "11:27",
    "12:43"
   ],
-  "respostas": 48,
+  "respostas": 52,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 8,
-   "18089996570239818": 9,
+   "18089996570239818": 12,
    "18446705149192097": 2,
    "17927475519184610": 1,
    "17948454009322563": 1,
    "18113316785517878": 4,
    "18090795653210068": 6,
    "18152505118527863": 3,
-   "18021445505924431": 8
+   "18021445505924431": 9
   }
  },
  "posts": [
@@ -2004,7 +2004,11 @@
   "18128474335845298",
   "18033559109667616",
   "18441580993133793",
-  "18435287542181390"
+  "18435287542181390",
+  "18344734195248816",
+  "17898019548671603",
+  "18117370250072424",
+  "18061451324566751"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2246,30 +2250,14 @@
   "384cc83546": 1,
   "ece5db08cb": 1,
   "c07282c513": 1,
-  "d80f82dc82": 1
+  "d80f82dc82": 1,
+  "c417805505": 1,
+  "ef9e370da7": 1,
+  "09d39fdd78": 1,
+  "78c72967ad": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "tampa sem pote é outro mistério que desafia a lógica de qualquer cozinha",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "lista é a única salvação para não esquecer o motivo da visita kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o importante é garantir a simpatia logo na entrada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "bom dia só para quem da boa tarde no carro",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "Verdade quando o vet liga a conta o bolso chora kkkk 😂",
    "p": "concorda",
@@ -2399,6 +2387,26 @@
    "t": "pesado na medida certa para apagar qualquer um depois do prato kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "essa coxinha de um quilo resolve a fome de um batalhão inteiro kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "mão na massa desse jeito economiza bastante mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "concordo, hospital humano também pode sair caro, a conta sempre surpreende",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o problema é que no plano humano a gente paga rezando pra não usar e no veterinario o susto vem de uma vez só",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -2750,7 +2758,10 @@
    "verdade quando o",
    "prever tudo antes",
    "salva a vida",
-   "verdade mas o"
+   "verdade mas o",
+   "mao na massa",
+   "concordo hospital humano",
+   "o problema e"
   ],
   "17927475519184610": [
    "veio so conferir",
@@ -2828,7 +2839,8 @@
    "para quem chega",
    "galinhada com pequi",
    "prato pesado e",
-   "pesado na medida"
+   "pesado na medida",
+   "essa coxinha de"
   ]
  },
  "shopee_checada": "2026-10-06|1",
