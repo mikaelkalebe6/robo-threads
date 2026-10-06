@@ -28,9 +28,10 @@
    "14:48",
    "15:35",
    "16:17",
-   "17:19"
+   "17:19",
+   "18:14"
   ],
-  "respostas": 65,
+  "respostas": 68,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 9,
@@ -42,29 +43,12 @@
    "18090795653210068": 7,
    "18152505118527863": 3,
    "18021445505924431": 9,
-   "18375054751212499": 4,
+   "18375054751212499": 5,
    "18118761089472689": 5,
-   "18021014444726359": 2
+   "18021014444726359": 4
   }
  },
  "posts": [
-  {
-   "id": "18084836903701822",
-   "insp": "ae1c8a29b8",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: parece que ter uma renda extra virou obrigação, né? Eu ainda luto pra equilibrar o trabalho fixo com uns freelas de vez em quando. E você, sente que isso é escolha ou necessidade?",
-   "quando": "2026-10-01T16:37:08.779943-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 440,
-    "likes": 2,
-    "replies": 8,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "17911576407521279",
    "insp": "40d9bc7aa4",
@@ -977,6 +961,14 @@
    "texto": "O meu mecânico me cobra a alma ou o rim na troca de óleo, não tem meio termo.",
    "quando": "2026-10-06T17:37:09.902116-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18146079442603271",
+   "insp": "20c7cdebe0",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: já fingi estar no telefone só pra escapar do papo no elevador. 😅",
+   "quando": "2026-10-06T18:37:09.983750-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -1984,7 +1976,10 @@
   "17990952627023635",
   "18071282681727112",
   "18098746688305764",
-  "18135294523573896"
+  "18135294523573896",
+  "17910480126493376",
+  "18355550488223066",
+  "17949916449057726"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2086,7 +2081,8 @@
   "854255bb532b29b16629c1c797c00991",
   "391fab575aaff1588f6274e28881098b",
   "d7ecd06aadc9a372746bec96f514dbd8",
-  "838038e1434c395acc8fd7455794bcb9"
+  "838038e1434c395acc8fd7455794bcb9",
+  "d379ace921beb1f62650137586c822e0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2188,7 +2184,8 @@
   "ff5db927b2": 1791313646.070318,
   "fb886a59a7": 1791315444.3711731,
   "852685f1e2": 1791319047.1416328,
-  "07137399ea": 1791322646.4106162
+  "07137399ea": 1791322646.4106162,
+  "20c7cdebe0": 1791326248.2575233
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2252,25 +2249,13 @@
   "2a971de5c1": 1,
   "0428e10b31": 1,
   "772ca241ad": 1,
-  "9860d007ee": 1
+  "9860d007ee": 1,
+  "3e77ac2b6c": 1,
+  "1c84d68558": 1,
+  "98d0b8c367": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "relíquia que só dá trabalho e saudade de um dinheiro que já foi",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o problema é chegar nessa fase boa sem desistir no meio do caminho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos a airfryer ainda ganha ponto na categoria utilidade pública",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "medida drástica mas totalmente justa com quem falta com o básico",
    "p": "concorda",
@@ -2403,6 +2388,21 @@
   },
   {
    "t": "agora virou peca de museu de tanto carinho kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "trocar de carro por causa de oleo já e estrategia nível hardcore kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "esse valor já garante um susto diferente a cada visita",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "esse aí colecionava luz no painel só para enfeitar kkkkkk",
    "p": "concorda",
    "r": 2
   }
@@ -2846,7 +2846,8 @@
    "mecanico sempre estraga",
    "raiva acumulada e",
    "o painel virou",
-   "agora virou peca"
+   "agora virou peca",
+   "esse ai colecionava"
   ],
   "18118761089472689": [
    "isso sim e",
@@ -2857,7 +2858,9 @@
   ],
   "18021014444726359": [
    "daqui a pouco",
-   "comprar em balde"
+   "comprar em balde",
+   "trocar de carro",
+   "esse valor ja"
   ]
  },
  "shopee_checada": "2026-10-06|1",
