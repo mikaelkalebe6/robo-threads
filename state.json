@@ -28,7 +28,7 @@
    "14:48",
    "15:35"
   ],
-  "respostas": 54,
+  "respostas": 55,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 9,
@@ -39,7 +39,8 @@
    "18113316785517878": 4,
    "18090795653210068": 7,
    "18152505118527863": 3,
-   "18021445505924431": 9
+   "18021445505924431": 9,
+   "18375054751212499": 1
   }
  },
  "posts": [
@@ -1986,7 +1987,8 @@
   "18117370250072424",
   "18061451324566751",
   "18211122655362907",
-  "18059788817570547"
+  "18059788817570547",
+  "18127378229488726"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2239,15 +2241,11 @@
   "ef9e370da7": 1,
   "09d39fdd78": 1,
   "78c72967ad": 1,
-  "871544c533": 1
+  "871544c533": 1,
+  "7a6fe87a21": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "a pessoa consegue mudar o endereço e a educação no meio do caminho",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "prever tudo antes é impossível mas a gente aprende na marra",
    "p": "ressalva",
@@ -2392,6 +2390,11 @@
    "t": "time do não firme e forte",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "mecânico sempre estraga o romance da nossa relação com o carro kkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -2828,6 +2831,9 @@
    "prato pesado e",
    "pesado na medida",
    "essa coxinha de"
+  ],
+  "18375054751212499": [
+   "mecanico sempre estraga"
   ]
  },
  "shopee_checada": "2026-10-06|1",
