@@ -19,12 +19,14 @@
    "21:57"
   ],
   "feitos": [],
-  "respostas": 4,
+  "respostas": 8,
   "por_post": {
-   "18118643042050925": 1,
-   "18126767030510839": 1,
+   "18118643042050925": 2,
+   "18126767030510839": 2,
    "18089996570239818": 1,
-   "18446705149192097": 1
+   "18446705149192097": 1,
+   "17927475519184610": 1,
+   "17948454009322563": 1
   }
  },
  "posts": [
@@ -1992,7 +1994,11 @@
   "17953729452257070",
   "17899567935601503",
   "17981337519106394",
-  "18066490835784155"
+  "18066490835784155",
+  "17898889098671695",
+  "17908787220555531",
+  "18093533978176332",
+  "17949253467335228"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2184,30 +2190,14 @@
   "0f55188be0": 1,
   "c745f5f62f": 1,
   "e3100afe26": 1,
-  "8678c6384e": 1
+  "8678c6384e": 1,
+  "8173dd55a8": 1,
+  "1d06969815": 1,
+  "b07af39dbe": 1,
+  "bd052af1e4": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "justo demais, quem tem o celular na mao e quer resolver logo economiza um tempao",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "conselho precioso porque o espaço some muito mais rápido do que a gente imagina",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "planejar com antecedencia muda tudo na nossa organizacao",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "autodefesa pura pra manter a paz mental intacta",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "coluna e o verdadeiro teste de resistencia depois dos trinta",
    "p": "concorda",
@@ -2337,6 +2327,26 @@
    "t": "trocar um S25 Ultra por uma máquina de ovos foi um excelente negócio para o marido kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "quem não sabe cozinha ganha pontos pelo perigo de destruir a cozinha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "se o buffet for bom a conta se paga em boletos e abraços kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "grampo e prego já entram na categoria de kit sobrevivência sem garantia kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "devolver o excesso no caixa exige uma coragem que eu não tenho",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -2684,7 +2694,8 @@
   ],
   "17927475519184610": [
    "veio so conferir",
-   "verdade ponto extra"
+   "verdade ponto extra",
+   "quem nao sabe"
   ],
   "18234677503320142": [
    "transparencia total sem",
@@ -2698,7 +2709,8 @@
    "o perigo mora",
    "pesquisa de preco",
    "sou a prova",
-   "desconto bom faz"
+   "desconto bom faz",
+   "devolver o excesso"
   ],
   "18089275931235702": [
    "essa musica e",
@@ -2706,13 +2718,17 @@
   ],
   "18118643042050925": [
    "vela e cabo",
-   "caixa de sapato"
+   "caixa de sapato",
+   "grampo e prego"
   ],
   "18116788114783020": [
    "essa decisao e"
   ],
   "18446705149192097": [
    "trocar um s25"
+  ],
+  "17948454009322563": [
+   "se o buffet"
   ]
  },
  "shopee_checada": "2026-10-06|1",
