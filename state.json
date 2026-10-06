@@ -15,35 +15,19 @@
    "12:53",
    "13:48",
    "14:53",
-   "17:59"
+   "17:59",
+   "20:11"
   ],
-  "respostas": 94,
+  "respostas": 96,
   "por_post": {
-   "18089996570239818": 4,
+   "18089996570239818": 5,
    "17927475519184610": 2,
    "18234677503320142": 2,
-   "18126767030510839": 5,
+   "18126767030510839": 6,
    "18089275931235702": 2
   }
  },
  "posts": [
-  {
-   "id": "17972114157148567",
-   "insp": "3ce988f7a6",
-   "link": "",
-   "texto": "PESSOAS QUE: tiram o dia de folga mas passam o tempo todo sentindo culpa por não estar produzindo nada.",
-   "quando": "2026-09-30T18:37:10.864297-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 845,
-    "likes": 14,
-    "replies": 5,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-05"
-   }
-  },
   {
    "id": "18132944335669250",
    "insp": "c05528a8e3",
@@ -1001,6 +985,14 @@
    "texto": "Entrei no mercado decidida a comprar só um pão e saí com três sacolas cheias, mas sem o pão. \n\nVocês também perdem o foco assim ou só eu?",
    "quando": "2026-10-05T18:07:14.346710-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18085466636306923",
+   "insp": "2832d4baf6",
+   "link": "",
+   "texto": "Tem dia que a gente dorme seis horas e acha que tá ótimo, mas no dia seguinte a conta chega. Ou é o sono em dia ou é cafeína o dia inteiro.",
+   "quando": "2026-10-05T20:37:10.569235-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -1935,7 +1927,9 @@
   "18216327700348306",
   "18128764084695311",
   "18146429128601171",
-  "17968129772965672"
+  "17968129772965672",
+  "18127328218894341",
+  "18129286489804627"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2025,7 +2019,8 @@
   "22bfa5857347e6d70553ec9e6b8aa9c0",
   "3cb10cc6544c07d7d4691f183024cdf4",
   "9bc14e830310e6fbbbf2aed2b044b785",
-  "d685c9dfae5cd7af6cd1456f0c9cc527"
+  "d685c9dfae5cd7af6cd1456f0c9cc527",
+  "65378016ebeb45b1e935c0a64d72b004"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2115,7 +2110,8 @@
   "de9bf80054": 1791220047.5941434,
   "d8d17a2688": 1791223648.0135908,
   "7733a769d4": 1791227258.5966003,
-  "c422eac36b": 1791238056.3920977
+  "c422eac36b": 1791238056.3920977,
+  "2832d4baf6": 1791247069.3264678
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2209,20 +2205,12 @@
   "0c9c89fd68": 1,
   "81c5bb9fb1": 1,
   "518712d991": 1,
-  "2ceb2b66f7": 1
+  "2ceb2b66f7": 1,
+  "e83f3a1d86": 1,
+  "92d635c080": 1
  },
  "reservas_checadas": "2026-10-05",
  "ultimas_respostas": [
-  {
-   "t": "a inocência da infância é o único filtro que salvava aquilo tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a gente cresce e percebe que as referências da infância eram bem caóticas",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "tolerância zero pra joguinho e enrolação economiza um tempão",
    "p": "concorda",
@@ -2362,6 +2350,16 @@
    "t": "Verdade, ponto extra pra quem sabe saborear também kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "essa conta nunca fecha no final do mês para ninguém",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesquisa de preço e esquecer o que realmente precisava resumem muito bem qualquer ida ao mercado",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -2672,7 +2670,8 @@
    "porte grande dobra",
    "parece que testam",
    "essa diferenca de",
-   "descobrir isso tarde"
+   "descobrir isso tarde",
+   "essa conta nunca"
   ],
   "17927475519184610": [
    "veio so conferir",
@@ -2687,7 +2686,8 @@
    "amem porque essa",
    "a lista e",
    "lista salva a",
-   "o perigo mora"
+   "o perigo mora",
+   "pesquisa de preco"
   ],
   "18089275931235702": [
    "essa musica e",
