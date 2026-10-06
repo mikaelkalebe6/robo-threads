@@ -19,11 +19,11 @@
    "21:57"
   ],
   "feitos": [],
-  "respostas": 8,
+  "respostas": 12,
   "por_post": {
-   "18118643042050925": 2,
-   "18126767030510839": 2,
-   "18089996570239818": 1,
+   "18118643042050925": 3,
+   "18126767030510839": 3,
+   "18089996570239818": 3,
    "18446705149192097": 1,
    "17927475519184610": 1,
    "17948454009322563": 1
@@ -1998,7 +1998,11 @@
   "17898889098671695",
   "17908787220555531",
   "18093533978176332",
-  "17949253467335228"
+  "17949253467335228",
+  "18127865891504277",
+  "17987925570119700",
+  "18165624388469990",
+  "17964789305982715"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2194,30 +2198,14 @@
   "8173dd55a8": 1,
   "1d06969815": 1,
   "b07af39dbe": 1,
-  "bd052af1e4": 1
+  "bd052af1e4": 1,
+  "7abdc96a15": 1,
+  "1f1e8afefa": 1,
+  "73602b9311": 1,
+  "58f62ad689": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "coluna e o verdadeiro teste de resistencia depois dos trinta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "porte grande dobra qualquer orçamento veterinário sem a menor piedade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "veio só conferir o placar da galera",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "transparência total sem esconder nada de ninguém",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "parece que testam a nossa resistencia financeira todo mês",
    "p": "concorda",
@@ -2345,6 +2333,26 @@
   },
   {
    "t": "devolver o excesso no caixa exige uma coragem que eu não tenho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "plano de saúde para quatro é investimento pesado mas traz paz pro bolso",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a utilidade aparece sempre no dia seguinte ao que a gente desiste de procurar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tamo junto no clube dos desatentos kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa reducao no setor humano enquanto o pet fica de fora não faz o menor sentido",
    "p": "concorda",
    "r": 0
   }
@@ -2690,7 +2698,9 @@
    "descobrir isso tarde",
    "essa conta nunca",
    "responsabilidade vem no",
-   "essa seria a"
+   "essa seria a",
+   "plano de saude",
+   "essa reducao no"
   ],
   "17927475519184610": [
    "veio so conferir",
@@ -2710,7 +2720,8 @@
    "pesquisa de preco",
    "sou a prova",
    "desconto bom faz",
-   "devolver o excesso"
+   "devolver o excesso",
+   "tamo junto no"
   ],
   "18089275931235702": [
    "essa musica e",
@@ -2719,7 +2730,8 @@
   "18118643042050925": [
    "vela e cabo",
    "caixa de sapato",
-   "grampo e prego"
+   "grampo e prego",
+   "a utilidade aparece"
   ],
   "18116788114783020": [
    "essa decisao e"
