@@ -31,7 +31,7 @@
    "17:19",
    "18:14"
   ],
-  "respostas": 68,
+  "respostas": 74,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 9,
@@ -39,13 +39,14 @@
    "18446705149192097": 2,
    "17927475519184610": 1,
    "17948454009322563": 1,
-   "18113316785517878": 4,
+   "18113316785517878": 5,
    "18090795653210068": 7,
    "18152505118527863": 3,
    "18021445505924431": 9,
    "18375054751212499": 5,
    "18118761089472689": 5,
-   "18021014444726359": 4
+   "18021014444726359": 6,
+   "18146079442603271": 3
   }
  },
  "posts": [
@@ -1979,7 +1980,13 @@
   "18135294523573896",
   "17910480126493376",
   "18355550488223066",
-  "17949916449057726"
+  "17949916449057726",
+  "18096483929438773",
+  "18089144120297861",
+  "18008603897987982",
+  "18118527350286917",
+  "17964541079982810",
+  "18177920275429006"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2252,40 +2259,16 @@
   "9860d007ee": 1,
   "3e77ac2b6c": 1,
   "1c84d68558": 1,
-  "98d0b8c367": 1
+  "98d0b8c367": 1,
+  "0af94583c3": 1,
+  "366f1c7be8": 1,
+  "dbf65cd183": 1,
+  "7eb4bef55a": 1,
+  "890efd1530": 1,
+  "e29c086d80": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "medida drástica mas totalmente justa com quem falta com o básico",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse caldo quente com jambu que deixa a boca dormente é uma experiência forte",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Pizza até que agrada, mas aqui a gente começa com uma boa coxinha kkk 😋",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "clássico que nunca falha com quem chega com fome",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "recepção calorosa desse jeito assusta qualquer um",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "para quem chega faminto isso aí resolve o problema rapidinho kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "galinhada com pequi exige cautela para morder mas é tiro certo",
    "p": "concorda",
@@ -2405,6 +2388,36 @@
    "t": "esse aí colecionava luz no painel só para enfeitar kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "economia de energia invejável fechar a cara assim",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem nunca fingiu uma chamada importante que atire a primeira pedra kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "estratégia fixa pra garantir paz antes da primeira aula do dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quase o preço de um eletrodoméstico novo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perdem a chance de garantir simpatia logo na largada do dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paciência passou longe por hoje pelo jeito",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -2815,7 +2828,8 @@
    "o importante e",
    "bom dia so",
    "a pessoa consegue",
-   "medida drastica mas"
+   "medida drastica mas",
+   "perdem a chance"
   ],
   "18090795653210068": [
    "frango babento ja",
@@ -2860,7 +2874,14 @@
    "daqui a pouco",
    "comprar em balde",
    "trocar de carro",
-   "esse valor ja"
+   "esse valor ja",
+   "quase o preco",
+   "paciencia passou longe"
+  ],
+  "18146079442603271": [
+   "economia de energia",
+   "quem nunca fingiu",
+   "estrategia fixa pra"
   ]
  },
  "shopee_checada": "2026-10-06|1",
