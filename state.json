@@ -24,7 +24,7 @@
    "10:47",
    "11:27"
   ],
-  "respostas": 43,
+  "respostas": 46,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 8,
@@ -33,9 +33,9 @@
    "17927475519184610": 1,
    "17948454009322563": 1,
    "18113316785517878": 4,
-   "18090795653210068": 5,
+   "18090795653210068": 6,
    "18152505118527863": 3,
-   "18021445505924431": 4
+   "18021445505924431": 6
   }
  },
  "posts": [
@@ -2006,7 +2006,10 @@
   "18093767927555938",
   "17870848569643651",
   "18102706781458185",
-  "18088632998256233"
+  "18088632998256233",
+  "18042446339837215",
+  "18344637925249177",
+  "18128474335845298"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2220,7 +2223,7 @@
   "0409909721": 1,
   "cffb44a08a": 1,
   "9107108448": 1,
-  "a9959b0216": 1,
+  "a9959b0216": 2,
   "f439d3cc21": 1,
   "675497b15c": 1,
   "c8c22e5713": 1,
@@ -2242,25 +2245,12 @@
   "4b62f46bbf": 1,
   "7bc2993945": 1,
   "c8f43f72a9": 1,
-  "4487a1c180": 1
+  "4487a1c180": 1,
+  "384cc83546": 1,
+  "ece5db08cb": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "padaria na próxima tentativa parece um plano ótimo mas o perigo de sair com trinta paes doces e zero pão frances continua enorme",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "saúde no geral virou um artigo de luxo que assusta todo mundo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "dois quartos inteiros já passam de gaveta para território inexplorado com direito a suspense",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pelo menos a gente garante tudo menos o que precisava kkkk",
    "p": "concorda",
@@ -2394,6 +2384,21 @@
   {
    "t": "recepção calorosa desse jeito assusta qualquer um",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "para quem chega faminto isso aí resolve o problema rapidinho kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "galinhada com pequi exige cautela para morder mas é tiro certo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dizem q espalha bactéria pela pia por causa da água da torneira",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -2808,7 +2813,8 @@
    "cada um segue",
    "ciencia ganha da",
    "eu tambem ja",
-   "deixar de molho"
+   "deixar de molho",
+   "dizem q espalha"
   ],
   "18152505118527863": [
    "reliquia que so",
@@ -2819,7 +2825,9 @@
    "esse caldo quente",
    "pizza ate que",
    "classico que nunca",
-   "recepcao calorosa desse"
+   "recepcao calorosa desse",
+   "para quem chega",
+   "galinhada com pequi"
   ]
  },
  "shopee_checada": "2026-10-06|1",
