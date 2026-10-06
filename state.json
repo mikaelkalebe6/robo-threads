@@ -22,9 +22,10 @@
    "08:44",
    "10:02",
    "10:47",
-   "11:27"
+   "11:27",
+   "12:43"
   ],
-  "respostas": 46,
+  "respostas": 48,
   "por_post": {
    "18118643042050925": 6,
    "18126767030510839": 8,
@@ -35,27 +36,10 @@
    "18113316785517878": 4,
    "18090795653210068": 6,
    "18152505118527863": 3,
-   "18021445505924431": 6
+   "18021445505924431": 8
   }
  },
  "posts": [
-  {
-   "id": "17867648829661062",
-   "insp": "962dfe5354",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: já aconteceu de vocês se apaixonarem por alguém só ouvindo a voz? porque eu tô bem nessa fase e achando meio absurdo",
-   "quando": "2026-10-01T08:07:12.278664-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 2888,
-    "likes": 65,
-    "replies": 108,
-    "reposts": 3,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "17976051243131959",
    "insp": "4fb1c220f3",
@@ -1021,6 +1005,14 @@
    "link": "",
    "texto": "VAMOS CONCORDAR: se alguém de fora chega na tua cidade hoje faminto, qual prato típico tu obrigatoriamente manda o infeliz provar primeiro",
    "quando": "2026-10-06T11:37:09.550675-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18074133248740525",
+   "insp": "642c97cc3a",
+   "link": "",
+   "texto": "Tem boleto que parece que a gente paga todo mês de castigo por ter escolhido morar sozinho.",
+   "quando": "2026-10-06T13:07:09.575515-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -2009,7 +2001,10 @@
   "18088632998256233",
   "18042446339837215",
   "18344637925249177",
-  "18128474335845298"
+  "18128474335845298",
+  "18033559109667616",
+  "18441580993133793",
+  "18435287542181390"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2105,7 +2100,8 @@
   "bbcadfd99d1d09858b72cd7a80f8299e",
   "77abb99d4acbd4bf95d3f3d196e7c974",
   "92d54301a9af0bbfd9e2594d5cc5b2b7",
-  "d745ccf8df54a20b9b9e9b1324d7af32"
+  "d745ccf8df54a20b9b9e9b1324d7af32",
+  "6605182ed5362256a93dbc8cd23b5076"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2201,7 +2197,8 @@
   "db597fa355": 1791292045.8237777,
   "f1481a1658": 1791295658.0818608,
   "338b545216": 1791299241.9964204,
-  "380b00e24d": 1791301049.584341
+  "380b00e24d": 1791301049.584341,
+  "642c97cc3a": 1791306486.7916007
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2247,20 +2244,12 @@
   "c8f43f72a9": 1,
   "4487a1c180": 1,
   "384cc83546": 1,
-  "ece5db08cb": 1
+  "ece5db08cb": 1,
+  "c07282c513": 1,
+  "d80f82dc82": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos a gente garante tudo menos o que precisava kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "particular humano pesa muito mas o choque com o pet pega desprevenido",
-   "p": "discorda",
-   "r": 0
-  },
   {
    "t": "tampa sem pote é outro mistério que desafia a lógica de qualquer cozinha",
    "p": "concorda",
@@ -2400,6 +2389,16 @@
    "t": "dizem q espalha bactéria pela pia por causa da água da torneira",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "prato pesado e caprichado que sustenta qualquer viagem kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pesado na medida certa para apagar qualquer um depois do prato kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -2827,7 +2826,9 @@
    "classico que nunca",
    "recepcao calorosa desse",
    "para quem chega",
-   "galinhada com pequi"
+   "galinhada com pequi",
+   "prato pesado e",
+   "pesado na medida"
   ]
  },
  "shopee_checada": "2026-10-06|1",
