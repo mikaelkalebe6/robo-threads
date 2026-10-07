@@ -32,9 +32,9 @@
    "18:14",
    "19:17"
   ],
-  "respostas": 80,
+  "respostas": 85,
   "por_post": {
-   "18118643042050925": 6,
+   "18118643042050925": 7,
    "18126767030510839": 9,
    "18089996570239818": 12,
    "18446705149192097": 2,
@@ -43,11 +43,12 @@
    "18113316785517878": 5,
    "18090795653210068": 7,
    "18152505118527863": 3,
-   "18021445505924431": 9,
+   "18021445505924431": 10,
    "18375054751212499": 6,
    "18118761089472689": 5,
-   "18021014444726359": 7,
-   "18146079442603271": 7
+   "18021014444726359": 8,
+   "18146079442603271": 8,
+   "18115007600278222": 1
   }
  },
  "posts": [
@@ -1984,7 +1985,12 @@
   "17905893042665725",
   "18132285799706707",
   "18131179984774283",
-  "18126233719920438"
+  "18126233719920438",
+  "18076798595427804",
+  "18170436811461799",
+  "18095905604670556",
+  "17933153307147061",
+  "17988108786112026"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2271,35 +2277,15 @@
   "1eb4ad9c86": 1,
   "68077f7826": 1,
   "3eb5563caa": 1,
-  "88d1633a79": 1
+  "88d1633a79": 1,
+  "f0992d7402": 1,
+  "1874df8f43": 1,
+  "da88e53276": 1,
+  "b92ce9e1a2": 1,
+  "817589b224": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "concordo, hospital humano também pode sair caro, a conta sempre surpreende",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o problema é que no plano humano a gente paga rezando pra não usar e no veterinario o susto vem de uma vez só",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "mercado vira uma dimensao paralela onde o foco simplesmente evapora",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "time do não firme e forte",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "mecânico sempre estraga o romance da nossa relação com o carro kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "raiva acumulada é o combustível oficial de todo motorista",
    "p": "concorda",
@@ -2424,6 +2410,31 @@
    "t": "regra matemática que salva o orçamento da gente",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "bateria social zerada deveria vir com atestado médico",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sábia decisão para preservar a sanidade mental kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "economia de papo garantida kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse outro lugar com certeza fica bem longe da realidade financeira da gente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse divide opiniões mas tem quem defenda com unhas e dentes kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -2818,7 +2829,8 @@
    "a utilidade aparece",
    "inevitavel aceitar que",
    "dois quartos inteiros",
-   "tampa sem pote"
+   "tampa sem pote",
+   "sabia decisao para"
   ],
   "18116788114783020": [
    "essa decisao e"
@@ -2860,7 +2872,8 @@
    "galinhada com pequi",
    "prato pesado e",
    "pesado na medida",
-   "essa coxinha de"
+   "essa coxinha de",
+   "esse divide opinioes"
   ],
   "18375054751212499": [
    "mecanico sempre estraga",
@@ -2884,7 +2897,8 @@
    "esse valor ja",
    "quase o preco",
    "paciencia passou longe",
-   "regra matematica que"
+   "regra matematica que",
+   "esse outro lugar"
   ],
   "18146079442603271": [
    "economia de energia",
@@ -2893,7 +2907,11 @@
    "vira rotina pra",
    "fora do elevador",
    "desespero genuino para",
-   "defender a propria"
+   "defender a propria",
+   "economia de papo"
+  ],
+  "18115007600278222": [
+   "bateria social zerada"
   ]
  },
  "shopee_checada": "2026-10-06|1",
