@@ -27,7 +27,7 @@
    "13:24",
    "14:25"
   ],
-  "respostas": 58,
+  "respostas": 61,
   "por_post": {
    "17969520279187566": 9,
    "18075881765449513": 9,
@@ -39,8 +39,9 @@
    "18021014444726359": 1,
    "18028146761692151": 3,
    "18126416557887514": 9,
-   "18031353434910534": 3,
-   "18375624967238237": 6
+   "18031353434910534": 4,
+   "18375624967238237": 7,
+   "18118205002998533": 1
   }
  },
  "posts": [
@@ -2105,7 +2106,10 @@
   "17911229826515271",
   "18089470340256511",
   "18125691854488203",
-  "18091486871491043"
+  "18091486871491043",
+  "18126528775873107",
+  "17911558368473279",
+  "17874504957584314"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2394,25 +2398,13 @@
   "2c7d381a4d": 1,
   "0ca3c4be85": 1,
   "b4b4f7e041": 1,
-  "ab1920944a": 1
+  "ab1920944a": 1,
+  "280792b6e0": 1,
+  "a1f5e37b10": 1,
+  "0fe9e38c2b": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "Ainda bem que a Primark vai salvar o dia 😅",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Verdade, o cheiro parece mais propaganda que diferença real kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "dois minutos de paz são motivos suficientes pra esconder kkk",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "bolinho de arroz vai muito bem kkk",
    "p": "concorda",
@@ -2546,6 +2538,21 @@
   {
    "t": "com certeza, o tempo certo é o dia em que a preguiça de digitar vence",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "na teoria é lindo mas na prática a conversa sempre acaba com eles tendo razão",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pesado demais para uma simples bolacha kkkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "pergunta boa que não quer calar",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -3136,7 +3143,8 @@
   "18031353434910534": [
    "separar a bolacha",
    "metodo cientifico de",
-   "processo burocratico demais"
+   "processo burocratico demais",
+   "pesado demais para"
   ],
   "18375624967238237": [
    "ja comeca com",
@@ -3144,7 +3152,11 @@
    "verdade mensagem trava",
    "precisa de coragem",
    "cada um tem",
-   "com certeza o"
+   "com certeza o",
+   "pergunta boa que"
+  ],
+  "18118205002998533": [
+   "na teoria e"
   ]
  },
  "shopee_checada": "2026-10-07|1",
