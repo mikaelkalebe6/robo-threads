@@ -31,7 +31,7 @@
    "16:46",
    "17:33"
   ],
-  "respostas": 79,
+  "respostas": 81,
   "por_post": {
    "17969520279187566": 9,
    "18075881765449513": 10,
@@ -47,7 +47,7 @@
    "18375624967238237": 10,
    "18118205002998533": 1,
    "18024377885876978": 6,
-   "18109013291351299": 4,
+   "18109013291351299": 6,
    "18129184651699420": 1
   }
  },
@@ -2101,7 +2101,10 @@
   "18099112862175782",
   "18368470966212880",
   "17911652616540694",
-  "18015717296747830"
+  "18015717296747830",
+  "18095075318343911",
+  "17948699862321928",
+  "17933314068146231"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2416,20 +2419,12 @@
   "1e855517af": 1,
   "eb03a21a27": 1,
   "9ca0aecac3": 1,
-  "5928b62261": 1
+  "5928b62261": 1,
+  "98b8820829": 1,
+  "441619a291": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "processo burocrático demais para um lanche",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "essa opção não vem inclusa no pacote do jogo kkk",
-   "p": "neutra",
-   "r": 1
-  },
   {
    "t": "começou o dia ganhando kkkk",
    "p": "concorda",
@@ -2567,6 +2562,16 @@
   },
   {
    "t": "saber dosar os dois jeitos é o segredo para a viagem render bem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa parte de fazer amizade no caminho é a melhor parte kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "paz espírito pura, ninguém pra discutir horário de acordar",
    "p": "concorda",
    "r": 0
   }
@@ -3172,7 +3177,9 @@
    "turma animada assim",
    "quando da certo",
    "liberdade total para",
-   "saber dosar os"
+   "saber dosar os",
+   "essa parte de",
+   "paz espirito pura"
   ],
   "18129184651699420": [
    "pelo menos essa"
