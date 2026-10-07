@@ -29,13 +29,14 @@
    "15:26",
    "16:06",
    "16:46",
-   "17:33"
+   "17:33",
+   "18:53"
   ],
-  "respostas": 81,
+  "respostas": 85,
   "por_post": {
-   "17969520279187566": 9,
+   "17969520279187566": 10,
    "18075881765449513": 10,
-   "18117333691945990": 9,
+   "18117333691945990": 10,
    "18115007600278222": 1,
    "18375054751212499": 1,
    "18101068082257287": 1,
@@ -46,29 +47,12 @@
    "18031353434910534": 4,
    "18375624967238237": 10,
    "18118205002998533": 1,
-   "18024377885876978": 6,
+   "18024377885876978": 8,
    "18109013291351299": 6,
    "18129184651699420": 1
   }
  },
  "posts": [
-  {
-   "id": "17961301389235555",
-   "insp": "c97ba72637",
-   "link": "",
-   "texto": "SEJAM SINCEROS: você já voltou do meio do caminho só pra conferir se tinha mesmo trancado a porta?\n\nO pior é chegar lá e ver que ela tava trancada com duas voltas.",
-   "quando": "2026-10-02T19:07:07.811766-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 236,
-    "likes": 1,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "18101072033635172",
    "insp": "e9335aae02",
@@ -971,6 +955,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: inventar desculpa mirabolante para não sair de casa dá muito mais trabalho do que simplesmente dizer que não tá a fim. \n\nA verdade poupa a criatividade de todo mundo e ainda economiza energia.",
    "quando": "2026-10-07T17:37:09.811642-04:00",
+   "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "17904357669353514",
+   "insp": "69415b36aa",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: amizade com ex é sinal de maturidade ou apego disfarçado? \n\nPra mim não funciona de jeito nenhum.",
+   "quando": "2026-10-07T19:07:08.662013-04:00",
    "ia": "Gemini gemini-flash-latest"
   }
  ],
@@ -2104,7 +2096,11 @@
   "18015717296747830",
   "18095075318343911",
   "17948699862321928",
-  "17933314068146231"
+  "17933314068146231",
+  "18032005961899316",
+  "17946847962072382",
+  "18128302018856550",
+  "18106485586960995"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2222,7 +2218,8 @@
   "abb98f9fe199fc4b91d4d23dd9515c7d",
   "ca3be7acfd34977077d6e2d1f5b9bd48",
   "9b286df994d04d2fd18b81b6045a74d0",
-  "bd192be1121e266310eccc3fa3eaaffa"
+  "bd192be1121e266310eccc3fa3eaaffa",
+  "f34ca01b6710a4c885e61b681523271d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2340,7 +2337,8 @@
   "dd26d54eba": 1791401855.1985977,
   "59c16f2082": 1791403651.236615,
   "b7ff902af0": 1791407257.6508343,
-  "bc90ccda37": 1791409064.7536128
+  "bc90ccda37": 1791409064.7536128,
+  "69415b36aa": 1791414450.6617262
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2370,7 +2368,7 @@
   "2eca4eb086": 1,
   "1db3643203": 1,
   "c02e1aefdd": 1,
-  "a118013d7b": 1,
+  "a118013d7b": 2,
   "3a8e535cc4": 1,
   "c3285cd1c1": 1,
   "23f6dde8a8": 2,
@@ -2421,30 +2419,13 @@
   "9ca0aecac3": 1,
   "5928b62261": 1,
   "98b8820829": 1,
-  "441619a291": 1
+  "441619a291": 1,
+  "65f01eeff8": 1,
+  "2bcfbebeeb": 1,
+  "b391de087b": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "começou o dia ganhando kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "já começa com o pé na porta né kkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "Uau, 1 ano? Eu já perdi a conta, mas vale a pena",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Verdade, mensagem trava, melhor marcar o café logo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "precisa de coragem e muita bateria social pra isso",
    "p": "ressalva",
@@ -2574,6 +2555,26 @@
    "t": "paz espírito pura, ninguém pra discutir horário de acordar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "parece que o relógio acelera só para judiar da gente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sim, a contagem regressiva pra segunda já estraga o dia todo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "zerou o quesito honestidade no relacionamento kkkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "economia de energia garantida kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -3087,7 +3088,8 @@
    "menos uma cobranca",
    "estamos no mesmo",
    "precisa calcular a",
-   "procura rara mas"
+   "procura rara mas",
+   "economia de energia"
   ],
   "18075881765449513": [
    "pizza fria nao",
@@ -3112,7 +3114,8 @@
    "entao vc era",
    "dois minutos de",
    "sorte a sua",
-   "essa opcao nao"
+   "essa opcao nao",
+   "zerou o quesito"
   ],
   "18101068082257287": [
    "um misterio como"
@@ -3171,7 +3174,9 @@
    "sorte a sua",
    "verdade domingo de",
    "exato o peso",
-   "pessoa corajosa encontrada"
+   "pessoa corajosa encontrada",
+   "parece que o",
+   "sim a contagem"
   ],
   "18109013291351299": [
    "turma animada assim",
