@@ -23,12 +23,13 @@
    "09:16",
    "10:34",
    "11:15",
-   "11:56"
+   "11:56",
+   "13:24"
   ],
-  "respostas": 48,
+  "respostas": 52,
   "por_post": {
-   "17969520279187566": 8,
-   "18075881765449513": 8,
+   "17969520279187566": 9,
+   "18075881765449513": 9,
    "18117333691945990": 8,
    "18115007600278222": 1,
    "18375054751212499": 1,
@@ -37,27 +38,10 @@
    "18021014444726359": 1,
    "18028146761692151": 3,
    "18126416557887514": 9,
-   "18031353434910534": 1
+   "18031353434910534": 3
   }
  },
  "posts": [
-  {
-   "id": "18097741532099173",
-   "insp": "ff377f4a44",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual foi o maior sinal de alerta que a gente inventa justificativa para ignorar no começo do namoro?",
-   "quando": "2026-10-02T13:07:10.072768-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 5675,
-    "likes": 13,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "18094286081242394",
    "insp": "e66fb581d1",
@@ -1014,6 +998,14 @@
    "link": "",
    "texto": "VAMOS CONCORDAR: quem come o recheio do biscoito primeiro já tá perdendo o melhor da vida.",
    "quando": "2026-10-07T12:07:09.677362-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18375624967238237",
+   "insp": "e9173b96df",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: quanto tempo de conversa até marcar o primeiro encontro?  \nQuem mais já ficou contando os dias?",
+   "quando": "2026-10-07T13:37:11.642567-04:00",
    "ia": "Groq openai/gpt-oss-120b"
   }
  ],
@@ -2110,7 +2102,11 @@
   "17915368293465068",
   "18202668661340681",
   "18199186984377121",
-  "17958642123247594"
+  "17958642123247594",
+  "17961768027209224",
+  "17874907062585554",
+  "17968838217177597",
+  "18080764724420683"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2222,7 +2218,8 @@
   "cadf03af555c59e56290d26c186a9037",
   "9ce4a72f8e6cd55e93c78e8dcf2b767c",
   "f853537ce4ec7c134eaecfbd63524121",
-  "976fd840ef15f9ca98a707d8e7eb721e"
+  "976fd840ef15f9ca98a707d8e7eb721e",
+  "f41c68575e3d5fa0edf80e57796738ad"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2334,7 +2331,8 @@
   "fb0beb9a45": 1791380300.4169106,
   "bf83cca91b": 1791383893.0639527,
   "f9f379c8bc": 1791387494.7057095,
-  "0edf5745b6": 1791389239.8850503
+  "0edf5745b6": 1791389239.8850503,
+  "e9173b96df": 1791394644.6266675
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2385,30 +2383,14 @@
   "47bdbc1737": 1,
   "c5f301d4f4": 2,
   "7dd573b84c": 1,
-  "5e43edb048": 1
+  "5e43edb048": 1,
+  "865ad76f1f": 1,
+  "ed1fcf8d77": 1,
+  "01b98b8b09": 1,
+  "6ed3222eb5": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "exato, pagar caro só pelo nome às vezes dói no bolso à toa kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "economia que vinha com gostinho de infância kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "agora fiquei curiosa com essa marca",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "aí você só subiu o nível da refeição",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "já comeca com vantagem então",
    "p": "concorda",
@@ -2538,6 +2520,26 @@
    "t": "então o problema do aluguel você já resolveu, agora falta só convencer a gente a mudar pro centro",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "método científico de consumo kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "processo burocrático demais para um lanche",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "essa opção não vem inclusa no pacote do jogo kkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "começou o dia ganhando kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3082,7 +3084,8 @@
    "ai voce so",
    "dupla que atravessa",
    "bolinho de arroz",
-   "tecnicamente sim mas"
+   "tecnicamente sim mas",
+   "comecou o dia"
   ],
   "17969520279187566": [
    "estrategia valida para",
@@ -3092,7 +3095,8 @@
    "para evitar aquela",
    "entao vc era",
    "dois minutos de",
-   "sorte a sua"
+   "sorte a sua",
+   "essa opcao nao"
   ],
   "18101068082257287": [
    "um misterio como"
@@ -3123,7 +3127,9 @@
    "entao o problema"
   ],
   "18031353434910534": [
-   "separar a bolacha"
+   "separar a bolacha",
+   "metodo cientifico de",
+   "processo burocratico demais"
   ]
  },
  "shopee_checada": "2026-10-07|1",
