@@ -19,37 +19,21 @@
    "21:23"
   ],
   "feitos": [
-   "08:30"
+   "08:30",
+   "09:16"
   ],
-  "respostas": 20,
+  "respostas": 24,
   "por_post": {
    "17969520279187566": 5,
-   "18075881765449513": 4,
-   "18117333691945990": 4,
+   "18075881765449513": 5,
+   "18117333691945990": 5,
    "18115007600278222": 1,
    "18375054751212499": 1,
    "18101068082257287": 1,
-   "18138080410624086": 4
+   "18138080410624086": 6
   }
  },
  "posts": [
-  {
-   "id": "18115517300116532",
-   "insp": "25cf5fb448",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: vale a pena passar anos estudando teoria na faculdade ou o caminho curto direto pra prática traz resultado mais rápido? Vejo tanta gente mudando de rota que fico pensando se o diploma ainda pesa tanto.",
-   "quando": "2026-10-02T09:07:08.399914-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 426,
-    "likes": 2,
-    "replies": 17,
-    "reposts": 0,
-    "quotes": 1,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "18106520135190725",
    "insp": "75f882533b",
@@ -1042,6 +1026,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: vocês realmente acham que o produto de marca famosa é sempre melhor ou é só marketing que faz a gente pagar o dobro?",
    "quando": "2026-10-07T08:37:45.957475-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18028146761692151",
+   "insp": "fb0beb9a45",
+   "link": "",
+   "texto": "PESSOAS QUE VIAJAM MUITO: o aeroporto parecia super tranquilo até a mala sumir na esteira. É o tipo de caos que testa a paciência de qualquer um.",
+   "quando": "2026-10-07T09:37:11.413312-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -2110,7 +2102,11 @@
   "18050120483811947",
   "18483120535128345",
   "17879576529547258",
-  "18149358946596086"
+  "18149358946596086",
+  "18353808085223210",
+  "18657991738044470",
+  "17900259498607159",
+  "18130595653705478"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2218,7 +2214,8 @@
   "ec88faad8a0d21fc5d1927a18454469b",
   "6032886c6bc875b43f3b7720cd9ded55",
   "5dc79f555bd6112b8b53d18f691b4c34",
-  "56e0d0ec03ccbfdbe9f8cd7bc0c4ff40"
+  "56e0d0ec03ccbfdbe9f8cd7bc0c4ff40",
+  "cadf03af555c59e56290d26c186a9037"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2326,7 +2323,8 @@
   "017f3ae860": 1791333458.1197262,
   "40b922d817": 1791337109.1160452,
   "bc64a2ff13": 1791338847.1850562,
-  "e69b61516f": 1791376726.9967973
+  "e69b61516f": 1791376726.9967973,
+  "fb0beb9a45": 1791380300.4169106
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2350,30 +2348,14 @@
   "9905db2669": 1,
   "2f768cdf03": 1,
   "2d98d003ad": 1,
-  "71277afffc": 1
+  "71277afffc": 1,
+  "e7102b50d0": 1,
+  "7a72765f14": 1,
+  "2eca4eb086": 1,
+  "1db3643203": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos a gente economiza sola de sapato",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "passaporte carimbado para o topo da lista",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perder alguém muda totalmente a nossa vontade de tentar certas coisas",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "vantagem competitiva garantida kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "soma pontos rápido demais",
    "p": "concorda",
@@ -2503,6 +2485,26 @@
    "t": "economia que vinha com gostinho de infância kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "agora fiquei curiosa com essa marca",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "aí você só subiu o nível da refeição",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "já comeca com vantagem então",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tem que entregar o que promete mesmo pra valer a pena",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3030,7 +3032,8 @@
    "entao agora o",
    "investe na poupanca",
    "estrategia infalivel para",
-   "ja sai na"
+   "ja sai na",
+   "ja comeca com"
   ],
   "18075881765449513": [
    "pizza fria nao",
@@ -3038,7 +3041,8 @@
    "essa iguaria merece",
    "combinacao perfeita pra",
    "essa dupla ai",
-   "entao o paladar"
+   "entao o paladar",
+   "ai voce so"
   ],
   "17969520279187566": [
    "estrategia valida para",
@@ -3054,7 +3058,9 @@
    "verdade pura o",
    "essa conta e",
    "exato pagar caro",
-   "economia que vinha"
+   "economia que vinha",
+   "agora fiquei curiosa",
+   "tem que entregar"
   ]
  },
  "shopee_checada": "2026-10-07|1",
