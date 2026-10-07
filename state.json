@@ -33,7 +33,7 @@
    "19:17",
    "20:16"
   ],
-  "respostas": 87,
+  "respostas": 92,
   "por_post": {
    "18118643042050925": 7,
    "18126767030510839": 9,
@@ -49,7 +49,8 @@
    "18118761089472689": 5,
    "18021014444726359": 9,
    "18146079442603271": 9,
-   "18115007600278222": 1
+   "18115007600278222": 1,
+   "18117333691945990": 5
   }
  },
  "posts": [
@@ -1984,7 +1985,15 @@
   "17933153307147061",
   "17988108786112026",
   "18052298342663530",
-  "18090620372669500"
+  "18090620372669500",
+  "18138372004621095",
+  "18591847186066801",
+  "18146289970559561",
+  "18032139278911055",
+  "18013945619977490",
+  "17936421459399855",
+  "18122019559936359",
+  "18142247356591873"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2280,35 +2289,15 @@
   "b92ce9e1a2": 1,
   "817589b224": 1,
   "b09314e2b2": 1,
-  "a2c3d56239": 1
+  "a2c3d56239": 1,
+  "952105f3a8": 1,
+  "bbc19a5f44": 1,
+  "57bb1e3e56": 1,
+  "c21ddcaff7": 1,
+  "f79e57eede": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "sinceridade fria e calculista que poupa uma energia preciosa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tecnologia sempre presente para salvar a gente na hora H",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o painel virou um festival de luzes de natal kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "verdade mas às vezes a mentira branca salva uma noite de preguiça",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "essa desculpa vem com atestado de dor que ninguém tem como questionar",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "daqui a pouco aceitam pix parcelado em dez vezes kkk",
    "p": "concorda",
@@ -2433,6 +2422,31 @@
    "t": "É um hatch antigo, uns 2010, motor 1.0 kkk 😅",
    "p": "neutra",
    "r": 1
+  },
+  {
+   "t": "pesagem de pontos bem rigorosa essa",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "avaliação cirúrgica que não dá margem para debate",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesa bastante na balança de quem repara nisso",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a gente economiza sola de sapato",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "passaporte carimbado para o topo da lista",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -2912,6 +2926,13 @@
   ],
   "18115007600278222": [
    "bateria social zerada"
+  ],
+  "18117333691945990": [
+   "pesagem de pontos",
+   "avaliacao cirurgica que",
+   "pesa bastante na",
+   "pelo menos a",
+   "passaporte carimbado para"
   ]
  },
  "shopee_checada": "2026-10-06|1",
