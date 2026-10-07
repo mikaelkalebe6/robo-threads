@@ -24,9 +24,10 @@
    "10:34",
    "11:15",
    "11:56",
-   "13:24"
+   "13:24",
+   "14:25"
   ],
-  "respostas": 55,
+  "respostas": 58,
   "por_post": {
    "17969520279187566": 9,
    "18075881765449513": 9,
@@ -39,27 +40,10 @@
    "18028146761692151": 3,
    "18126416557887514": 9,
    "18031353434910534": 3,
-   "18375624967238237": 3
+   "18375624967238237": 6
   }
  },
  "posts": [
-  {
-   "id": "18094286081242394",
-   "insp": "e66fb581d1",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: como vocês chamam aquele pão de padaria que é crocante por fora e macio por dentro? Em cada lugar que vou é um nome diferente e eu fico perdida.",
-   "quando": "2026-10-02T14:07:09.142633-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 700,
-    "likes": 4,
-    "replies": 16,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "17909645082310635",
    "insp": "9c5110941a",
@@ -1008,6 +992,14 @@
    "texto": "DÚVIDA SINCERA: quanto tempo de conversa até marcar o primeiro encontro?  \nQuem mais já ficou contando os dias?",
    "quando": "2026-10-07T13:37:11.642567-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18118205002998533",
+   "insp": "8b38fc3868",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: com mais de trinta anos nas costas, qual foi a primeira vez que você teve que dar o braço a torcer pro seu pai? Aqui demorou, mas aconteceu",
+   "quando": "2026-10-07T14:37:11.515401-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2110,7 +2102,10 @@
   "18080764724420683",
   "18117535619052852",
   "17912600937283202",
-  "17911229826515271"
+  "17911229826515271",
+  "18089470340256511",
+  "18125691854488203",
+  "18091486871491043"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2223,7 +2218,8 @@
   "9ce4a72f8e6cd55e93c78e8dcf2b767c",
   "f853537ce4ec7c134eaecfbd63524121",
   "976fd840ef15f9ca98a707d8e7eb721e",
-  "f41c68575e3d5fa0edf80e57796738ad"
+  "f41c68575e3d5fa0edf80e57796738ad",
+  "b1f4ddbf853772d0bb9254710d5dddd4"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2336,7 +2332,8 @@
   "bf83cca91b": 1791383893.0639527,
   "f9f379c8bc": 1791387494.7057095,
   "0edf5745b6": 1791389239.8850503,
-  "e9173b96df": 1791394644.6266675
+  "e9173b96df": 1791394644.6266675,
+  "8b38fc3868": 1791398249.960267
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2394,25 +2391,13 @@
   "6ed3222eb5": 1,
   "017feddc4b": 1,
   "526f1eccd3": 1,
-  "2c7d381a4d": 1
+  "2c7d381a4d": 1,
+  "0ca3c4be85": 1,
+  "b4b4f7e041": 1,
+  "ab1920944a": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "Então vc era o time duo, né? kkk 😉",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "dupla que atravessa gerações kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "menos uma cobranca na lista kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Ainda bem que a Primark vai salvar o dia 😅",
    "p": "concorda",
@@ -2547,6 +2532,21 @@
    "t": "Verdade, mensagem trava, melhor marcar o café logo kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "precisa de coragem e muita bateria social pra isso",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "cada um tem seu ritmo mesmo, segurança em primeiro lugar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "com certeza, o tempo certo é o dia em que a preguiça de digitar vence",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3141,7 +3141,10 @@
   "18375624967238237": [
    "ja comeca com",
    "uau 1 ano",
-   "verdade mensagem trava"
+   "verdade mensagem trava",
+   "precisa de coragem",
+   "cada um tem",
+   "com certeza o"
   ]
  },
  "shopee_checada": "2026-10-07|1",
