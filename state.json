@@ -25,7 +25,7 @@
    "11:15",
    "11:56"
   ],
-  "respostas": 40,
+  "respostas": 44,
   "por_post": {
    "17969520279187566": 8,
    "18075881765449513": 8,
@@ -36,7 +36,8 @@
    "18138080410624086": 7,
    "18021014444726359": 1,
    "18028146761692151": 3,
-   "18126416557887514": 2
+   "18126416557887514": 5,
+   "18031353434910534": 1
   }
  },
  "posts": [
@@ -2101,7 +2102,11 @@
   "17950085145275652",
   "18098280260428959",
   "18105681173369041",
-  "17889875382460457"
+  "17889875382460457",
+  "18097214753197675",
+  "18077777438717476",
+  "18144237913574314",
+  "18139159138616911"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2369,30 +2374,14 @@
   "601fbb1f44": 1,
   "d263e49d46": 1,
   "8a66d58bd1": 1,
-  "525d8a9b6c": 1
+  "525d8a9b6c": 1,
+  "b9899e9b3e": 1,
+  "1d156ca5a3": 1,
+  "f727786d28": 1,
+  "47bdbc1737": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "essa dupla aí acerta qualquer começo de dia kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "estratégia infalível para garantir a atenção kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justo, mas tem quem prefira evitar a DR do final de semana",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "então o paladar ainda não foi corrompido pela magia da geladeira",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "já sai na frente de muita gente",
    "p": "concorda",
@@ -2522,6 +2511,26 @@
    "t": "precisa calcular a inflação dessa pontuação aí",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "separar a bolacha do recheio desse jeito deveria ser crime",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "passarinho cantando e quintal bom compensam qualquer distância",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "verdade, pelo menos não gasta horas no transporte kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "comprar isso aí exige coragem e um boleto eterno kkkk",
+   "p": "neutra",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -3097,7 +3106,13 @@
   ],
   "18126416557887514": [
    "esse tem que",
-   "achar um cantinho"
+   "achar um cantinho",
+   "passarinho cantando e",
+   "verdade pelo menos",
+   "comprar isso ai"
+  ],
+  "18031353434910534": [
+   "separar a bolacha"
   ]
  },
  "shopee_checada": "2026-10-07|1",
