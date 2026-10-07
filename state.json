@@ -21,39 +21,23 @@
   "feitos": [
    "08:30",
    "09:16",
-   "10:34"
+   "10:34",
+   "11:15"
   ],
-  "respostas": 32,
+  "respostas": 36,
   "por_post": {
-   "17969520279187566": 7,
+   "17969520279187566": 8,
    "18075881765449513": 7,
-   "18117333691945990": 6,
+   "18117333691945990": 7,
    "18115007600278222": 1,
    "18375054751212499": 1,
    "18101068082257287": 1,
    "18138080410624086": 7,
    "18021014444726359": 1,
-   "18028146761692151": 1
+   "18028146761692151": 3
   }
  },
  "posts": [
-  {
-   "id": "17977682021918313",
-   "insp": "0de75da121",
-   "link": "",
-   "texto": "Quem mais aqui já passou da fase de se quebrar no futebol de domingo e prefere mil vezes o churrasco? Ou a pelada ainda é sagrada?",
-   "quando": "2026-10-02T11:07:09.550320-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 1023,
-    "likes": 9,
-    "replies": 23,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "18565623907076552",
    "insp": "e50a061e21",
@@ -1029,6 +1013,14 @@
    "texto": "VAMOS CONCORDAR: dinheiro que tira a tranquilidade não vale. Melhor um salário menor e acordar sorrindo.",
    "quando": "2026-10-07T10:37:14.496667-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18126416557887514",
+   "insp": "f9f379c8bc",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: morar de aluguel no centro ganha de qualquer casa longe de tudo.",
+   "quando": "2026-10-07T11:37:09.396020-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2108,7 +2100,11 @@
   "18089426900240738",
   "17920080708445529",
   "18106599407221284",
-  "18100913411378906"
+  "18100913411378906",
+  "17895480294417449",
+  "18156191977509565",
+  "18126547564880566",
+  "18358478236222731"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2218,7 +2214,8 @@
   "5dc79f555bd6112b8b53d18f691b4c34",
   "56e0d0ec03ccbfdbe9f8cd7bc0c4ff40",
   "cadf03af555c59e56290d26c186a9037",
-  "9ce4a72f8e6cd55e93c78e8dcf2b767c"
+  "9ce4a72f8e6cd55e93c78e8dcf2b767c",
+  "f853537ce4ec7c134eaecfbd63524121"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2328,7 +2325,8 @@
   "bc64a2ff13": 1791338847.1850562,
   "e69b61516f": 1791376726.9967973,
   "fb0beb9a45": 1791380300.4169106,
-  "bf83cca91b": 1791383893.0639527
+  "bf83cca91b": 1791383893.0639527,
+  "f9f379c8bc": 1791387494.7057095
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2364,30 +2362,14 @@
   "23f6dde8a8": 1,
   "01f59f7a3d": 1,
   "0f41586f01": 1,
-  "7d105637b4": 1
+  "7d105637b4": 1,
+  "80064a65a7": 1,
+  "ec5261ea78": 1,
+  "da997a6cd5": 1,
+  "bf3aa65ee6": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "então agora o jeito e apostar no carisma kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "virou item de primeira necessidade já",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "aí o estrago ia ser completo kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "um misterio como o assunto surge tão fácil assim",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "estratégia radical pra não ter que negociar o horário do videogame",
    "p": "concorda",
@@ -2516,6 +2498,26 @@
   {
    "t": "bolinho de arroz vai muito bem kkk",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "economia de tempo e de paciência, melhor estratégia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "roma consegue ser caótica e linda ao mesmo tempo, pelo menos acharam",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estamos no mesmo barco sem rumo",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "sorte a sua que passou longe dessa fase",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -3047,7 +3049,8 @@
    "estrategia infalivel para",
    "ja sai na",
    "ja comeca com",
-   "menos uma cobranca"
+   "menos uma cobranca",
+   "estamos no mesmo"
   ],
   "18075881765449513": [
    "pizza fria nao",
@@ -3067,7 +3070,8 @@
    "justo mas tem",
    "para evitar aquela",
    "entao vc era",
-   "dois minutos de"
+   "dois minutos de",
+   "sorte a sua"
   ],
   "18101068082257287": [
    "um misterio como"
@@ -3082,7 +3086,9 @@
    "verdade o cheiro"
   ],
   "18028146761692151": [
-   "ainda bem que"
+   "ainda bem que",
+   "economia de tempo",
+   "roma consegue ser"
   ]
  },
  "shopee_checada": "2026-10-07|1",
