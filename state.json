@@ -26,9 +26,10 @@
    "11:56",
    "13:24",
    "14:25",
-   "15:26"
+   "15:26",
+   "16:06"
   ],
-  "respostas": 64,
+  "respostas": 67,
   "por_post": {
    "17969520279187566": 9,
    "18075881765449513": 9,
@@ -38,31 +39,14 @@
    "18101068082257287": 1,
    "18138080410624086": 7,
    "18021014444726359": 1,
-   "18028146761692151": 3,
-   "18126416557887514": 9,
+   "18028146761692151": 4,
+   "18126416557887514": 10,
    "18031353434910534": 4,
-   "18375624967238237": 9,
+   "18375624967238237": 10,
    "18118205002998533": 1
   }
  },
  "posts": [
-  {
-   "id": "17968067577176906",
-   "insp": "a537fed31d",
-   "link": "",
-   "texto": "Quem mais aqui já foi julgado pela forma que escolheu pra ganhar a vida? Pelo visto pagar os próprios boletos em paz nunca é o suficiente.",
-   "quando": "2026-10-02T16:07:09.012772-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 364,
-    "likes": 2,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "18093766889373946",
    "insp": "170d280425",
@@ -992,6 +976,14 @@
    "link": "",
    "texto": "PESSOAS QUE ainda usam caderno pra anotar gastos merecem respeito, porque eu já teria perdido o controle e comprado outra caneta inútil",
    "quando": "2026-10-07T15:37:10.653013-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18024377885876978",
+   "insp": "59c16f2082",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: o domingo à noite consegue ser bem mais pesado que a segunda de manhã.",
+   "quando": "2026-10-07T16:07:10.043927-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -2104,7 +2096,10 @@
   "17874504957584314",
   "18027979622878905",
   "18064499534784797",
-  "17912797608542991"
+  "17912797608542991",
+  "18133568131737299",
+  "17968444704186991",
+  "18113371618845168"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2219,7 +2214,8 @@
   "976fd840ef15f9ca98a707d8e7eb721e",
   "f41c68575e3d5fa0edf80e57796738ad",
   "b1f4ddbf853772d0bb9254710d5dddd4",
-  "abb98f9fe199fc4b91d4d23dd9515c7d"
+  "abb98f9fe199fc4b91d4d23dd9515c7d",
+  "ca3be7acfd34977077d6e2d1f5b9bd48"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2334,7 +2330,8 @@
   "0edf5745b6": 1791389239.8850503,
   "e9173b96df": 1791394644.6266675,
   "8b38fc3868": 1791398249.960267,
-  "dd26d54eba": 1791401855.1985977
+  "dd26d54eba": 1791401855.1985977,
+  "59c16f2082": 1791403651.236615
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2400,25 +2397,13 @@
   "a1f5e37b10": 1,
   "0fe9e38c2b": 1,
   "5bf9b2b63f": 2,
-  "b9d495fcbb": 1
+  "b9d495fcbb": 1,
+  "c682c4cd55": 1,
+  "b9fbec33d1": 1,
+  "35fc056b64": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "estamos no mesmo barco sem rumo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "sorte a sua que passou longe dessa fase",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "esse tem que marcar sessão pra conseguir alugar kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "achar um cantinho silencioso no meio do burburinho é raridade rara",
    "p": "concorda",
@@ -2553,6 +2538,21 @@
    "t": "procura rara mas que vale cada segundo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "essa é de tirar a paz de qualquer um mesmo 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "contar 45 dias exige uma dose certa de coragem que eu não sei se tenho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa economia de transporte alivia bastante o estresse do barulho kkkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3127,7 +3127,8 @@
   "18028146761692151": [
    "ainda bem que",
    "economia de tempo",
-   "roma consegue ser"
+   "roma consegue ser",
+   "essa e de"
   ],
   "18126416557887514": [
    "esse tem que",
@@ -3138,7 +3139,8 @@
    "justo cada canto",
    "sempre tem esse",
    "verdade caos tem",
-   "entao o problema"
+   "entao o problema",
+   "essa economia de"
   ],
   "18031353434910534": [
    "separar a bolacha",
@@ -3155,7 +3157,8 @@
    "com certeza o",
    "pergunta boa que",
    "uma semana e",
-   "estamos no mesmo"
+   "estamos no mesmo",
+   "contar 45 dias"
   ],
   "18118205002998533": [
    "na teoria e"
