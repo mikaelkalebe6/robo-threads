@@ -20,38 +20,23 @@
   ],
   "feitos": [
    "08:30",
-   "09:16"
+   "09:16",
+   "10:34"
   ],
-  "respostas": 28,
+  "respostas": 32,
   "por_post": {
-   "17969520279187566": 6,
-   "18075881765449513": 6,
+   "17969520279187566": 7,
+   "18075881765449513": 7,
    "18117333691945990": 6,
    "18115007600278222": 1,
    "18375054751212499": 1,
    "18101068082257287": 1,
-   "18138080410624086": 6,
-   "18021014444726359": 1
+   "18138080410624086": 7,
+   "18021014444726359": 1,
+   "18028146761692151": 1
   }
  },
  "posts": [
-  {
-   "id": "18106520135190725",
-   "insp": "75f882533b",
-   "link": "",
-   "texto": "PESSOAS QUE leram um livro só na escola e hoje dão lição de moral na internet, como vocês conseguem essa paz de espírito 📚",
-   "quando": "2026-10-02T10:07:10.911507-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 237,
-    "likes": 1,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "17977682021918313",
    "insp": "0de75da121",
@@ -1036,6 +1021,14 @@
    "texto": "PESSOAS QUE VIAJAM MUITO: o aeroporto parecia super tranquilo até a mala sumir na esteira. É o tipo de caos que testa a paciência de qualquer um.",
    "quando": "2026-10-07T09:37:11.413312-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17884868841506086",
+   "insp": "bf83cca91b",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: dinheiro que tira a tranquilidade não vale. Melhor um salário menor e acordar sorrindo.",
+   "quando": "2026-10-07T10:37:14.496667-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -2111,7 +2104,11 @@
   "18097269242450585",
   "18642514159062732",
   "18115477408964736",
-  "17951525937289311"
+  "17951525937289311",
+  "18089426900240738",
+  "17920080708445529",
+  "18106599407221284",
+  "18100913411378906"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2220,7 +2217,8 @@
   "6032886c6bc875b43f3b7720cd9ded55",
   "5dc79f555bd6112b8b53d18f691b4c34",
   "56e0d0ec03ccbfdbe9f8cd7bc0c4ff40",
-  "cadf03af555c59e56290d26c186a9037"
+  "cadf03af555c59e56290d26c186a9037",
+  "9ce4a72f8e6cd55e93c78e8dcf2b767c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2329,7 +2327,8 @@
   "40b922d817": 1791337109.1160452,
   "bc64a2ff13": 1791338847.1850562,
   "e69b61516f": 1791376726.9967973,
-  "fb0beb9a45": 1791380300.4169106
+  "fb0beb9a45": 1791380300.4169106,
+  "bf83cca91b": 1791383893.0639527
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2361,30 +2360,14 @@
   "c02e1aefdd": 1,
   "a118013d7b": 1,
   "3a8e535cc4": 1,
-  "c3285cd1c1": 1
+  "c3285cd1c1": 1,
+  "23f6dde8a8": 1,
+  "01f59f7a3d": 1,
+  "0f41586f01": 1,
+  "7d105637b4": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "pizza fria não tem hora errada pra acontecer kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "amém alguém lúcido nessa rede",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "estratégia válida para manter a paz em casa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa iguaria merece respeito em qualquer horario do dia",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "então agora o jeito e apostar no carisma kkk",
    "p": "concorda",
@@ -2514,6 +2497,26 @@
    "t": "menos uma cobranca na lista kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "Ainda bem que a Primark vai salvar o dia 😅",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Verdade, o cheiro parece mais propaganda que diferença real kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "dois minutos de paz são motivos suficientes pra esconder kkk",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "bolinho de arroz vai muito bem kkk",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3054,7 +3057,8 @@
    "essa dupla ai",
    "entao o paladar",
    "ai voce so",
-   "dupla que atravessa"
+   "dupla que atravessa",
+   "bolinho de arroz"
   ],
   "17969520279187566": [
    "estrategia valida para",
@@ -3062,7 +3066,8 @@
    "justo demais mas",
    "justo mas tem",
    "para evitar aquela",
-   "entao vc era"
+   "entao vc era",
+   "dois minutos de"
   ],
   "18101068082257287": [
    "um misterio como"
@@ -3073,7 +3078,11 @@
    "exato pagar caro",
    "economia que vinha",
    "agora fiquei curiosa",
-   "tem que entregar"
+   "tem que entregar",
+   "verdade o cheiro"
+  ],
+  "18028146761692151": [
+   "ainda bem que"
   ]
  },
  "shopee_checada": "2026-10-07|1",
