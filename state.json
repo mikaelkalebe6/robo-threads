@@ -30,9 +30,10 @@
    "16:17",
    "17:19",
    "18:14",
-   "19:17"
+   "19:17",
+   "20:16"
   ],
-  "respostas": 85,
+  "respostas": 87,
   "por_post": {
    "18118643042050925": 7,
    "18126767030510839": 9,
@@ -46,29 +47,12 @@
    "18021445505924431": 10,
    "18375054751212499": 6,
    "18118761089472689": 5,
-   "18021014444726359": 8,
-   "18146079442603271": 8,
+   "18021014444726359": 9,
+   "18146079442603271": 9,
    "18115007600278222": 1
   }
  },
  "posts": [
-  {
-   "id": "18112546067130766",
-   "insp": "f31593e501",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: casa pequena pertinho do trabalho ou casa grande longe de tudo? Cada escolha tem seu preço na vida. Eu acabo preferindo a praticidade, mas sei que tem gente que valoriza o espaço. E você, qual sacrifica?",
-   "quando": "2026-10-01T19:37:09.159244-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 126,
-    "likes": 1,
-    "replies": 8,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "17900115993606030",
    "insp": "a43cbb8320",
@@ -962,6 +946,14 @@
    "link": "",
    "texto": "Parei de tentar justificar minha falta de vontade de sair de casa e ganhei dez anos de paz mental.",
    "quando": "2026-10-06T19:37:08.555066-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18117333691945990",
+   "insp": "017f3ae860",
+   "link": "",
+   "texto": "Homem que sabe dançar ganha pelo menos uns oito pontos de cara na paquera.",
+   "quando": "2026-10-06T20:37:08.398124-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -1990,7 +1982,9 @@
   "18170436811461799",
   "18095905604670556",
   "17933153307147061",
-  "17988108786112026"
+  "17988108786112026",
+  "18052298342663530",
+  "18090620372669500"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2094,7 +2088,8 @@
   "d7ecd06aadc9a372746bec96f514dbd8",
   "838038e1434c395acc8fd7455794bcb9",
   "d379ace921beb1f62650137586c822e0",
-  "29f6804a7183a8baa370f30abfae57c4"
+  "29f6804a7183a8baa370f30abfae57c4",
+  "ec88faad8a0d21fc5d1927a18454469b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2198,7 +2193,8 @@
   "852685f1e2": 1791319047.1416328,
   "07137399ea": 1791322646.4106162,
   "20c7cdebe0": 1791326248.2575233,
-  "5a57ea2b34": 1791329841.1190572
+  "5a57ea2b34": 1791329841.1190572,
+  "017f3ae860": 1791333458.1197262
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2282,20 +2278,12 @@
   "1874df8f43": 1,
   "da88e53276": 1,
   "b92ce9e1a2": 1,
-  "817589b224": 1
+  "817589b224": 1,
+  "b09314e2b2": 1,
+  "a2c3d56239": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "raiva acumulada é o combustível oficial de todo motorista",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "isso sim é estar com a previdência social em dia de tanta prova que tem guardada",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "sinceridade fria e calculista que poupa uma energia preciosa",
    "p": "concorda",
@@ -2434,6 +2422,16 @@
   {
    "t": "esse divide opiniões mas tem quem defenda com unhas e dentes kkk",
    "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "parece que faltaram palavras para descrever a cena",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "É um hatch antigo, uns 2010, motor 1.0 kkk 😅",
+   "p": "neutra",
    "r": 1
   }
  ],
@@ -2898,7 +2896,8 @@
    "quase o preco",
    "paciencia passou longe",
    "regra matematica que",
-   "esse outro lugar"
+   "esse outro lugar",
+   "e um hatch"
   ],
   "18146079442603271": [
    "economia de energia",
@@ -2908,7 +2907,8 @@
    "fora do elevador",
    "desespero genuino para",
    "defender a propria",
-   "economia de papo"
+   "economia de papo",
+   "parece que faltaram"
   ],
   "18115007600278222": [
    "bateria social zerada"
