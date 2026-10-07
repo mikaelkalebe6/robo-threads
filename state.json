@@ -19,12 +19,14 @@
    "21:23"
   ],
   "feitos": [],
-  "respostas": 4,
+  "respostas": 8,
   "por_post": {
-   "17969520279187566": 1,
-   "18075881765449513": 1,
+   "17969520279187566": 2,
+   "18075881765449513": 2,
    "18117333691945990": 1,
-   "18115007600278222": 1
+   "18115007600278222": 1,
+   "18375054751212499": 1,
+   "18101068082257287": 1
   }
  },
  "posts": [
@@ -2098,7 +2100,11 @@
   "18639937366011757",
   "18466464070190053",
   "18179921971434304",
-  "18145806409600366"
+  "18145806409600366",
+  "17886620640686471",
+  "18118844749754650",
+  "17946627696348579",
+  "18061659215530449"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2320,30 +2326,14 @@
   "36060dfc6c": 1,
   "f0992d7402": 1,
   "e9ca7833a8": 1,
-  "3a80bd6a2d": 1
+  "3a80bd6a2d": 1,
+  "1d06969815": 1,
+  "be837baf3d": 1,
+  "50c632f5cc": 1,
+  "52ee05a22d": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "vira rotina pra quem quer paz no trajeto kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "fora do elevador o repertório de desculpas precisa ser mais criativo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "desespero genuíno para evitar contato humano",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "medo de abrir a caixa de surpresas do painel e piorar tudo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "defender a propria paz não entra na categoria de orgulho",
    "p": "ressalva",
@@ -2471,6 +2461,26 @@
   },
   {
    "t": "virou item de primeira necessidade já",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "aí o estrago ia ser completo kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "um misterio como o assunto surge tão fácil assim",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia radical pra não ter que negociar o horário do videogame",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "combinação perfeita pra começar o dia",
    "p": "concorda",
    "r": 0
   }
@@ -2949,7 +2959,8 @@
    "o painel virou",
    "agora virou peca",
    "esse ai colecionava",
-   "medo de abrir"
+   "medo de abrir",
+   "ai o estrago"
   ],
   "18118761089472689": [
    "isso sim e",
@@ -3001,10 +3012,15 @@
   "18075881765449513": [
    "pizza fria nao",
    "amem alguem lucido",
-   "essa iguaria merece"
+   "essa iguaria merece",
+   "combinacao perfeita pra"
   ],
   "17969520279187566": [
-   "estrategia valida para"
+   "estrategia valida para",
+   "estrategia radical pra"
+  ],
+  "18101068082257287": [
+   "um misterio como"
   ]
  },
  "shopee_checada": "2026-10-07|1",
