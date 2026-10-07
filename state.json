@@ -27,9 +27,10 @@
    "13:24",
    "14:25",
    "15:26",
-   "16:06"
+   "16:06",
+   "16:46"
   ],
-  "respostas": 70,
+  "respostas": 72,
   "por_post": {
    "17969520279187566": 9,
    "18075881765449513": 9,
@@ -44,27 +45,10 @@
    "18031353434910534": 4,
    "18375624967238237": 10,
    "18118205002998533": 1,
-   "18024377885876978": 3
+   "18024377885876978": 5
   }
  },
  "posts": [
-  {
-   "id": "18093766889373946",
-   "insp": "170d280425",
-   "link": "",
-   "texto": "SEM MENTIR: qual o carro dos seus sonhos e qual é o que tá na sua garagem hoje?\n\nA distância entre o que a gente queria acelerar e o boleto do IPVA que a gente aguenta pagar costuma ser de uns 200 mil reais.",
-   "quando": "2026-10-02T17:37:09.006249-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 23320,
-    "likes": 120,
-    "replies": 520,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "18121402547515693",
    "insp": "8b6d90e25d",
@@ -986,6 +970,14 @@
    "texto": "OPINIÃO IMPOPULAR: o domingo à noite consegue ser bem mais pesado que a segunda de manhã.",
    "quando": "2026-10-07T16:07:10.043927-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18109013291351299",
+   "insp": "b7ff902af0",
+   "link": "",
+   "texto": "Viajar sozinho ou viajar com a turma?\n\nDe um lado a paz de não ter que negociar roteiro nem horário com ninguém. Do outro, a resenha boa de dividir os perrengues. \n\nEu amo meus amigos, mas a liberdade de ir sozinho ganha fácil.",
+   "quando": "2026-10-07T17:07:08.688987-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -2106,7 +2098,9 @@
   "18127116601804506",
   "18126866977919059",
   "18129859441762686",
-  "18020818769927093"
+  "18020818769927093",
+  "18126274997490944",
+  "18121234907080355"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2222,7 +2216,8 @@
   "f41c68575e3d5fa0edf80e57796738ad",
   "b1f4ddbf853772d0bb9254710d5dddd4",
   "abb98f9fe199fc4b91d4d23dd9515c7d",
-  "ca3be7acfd34977077d6e2d1f5b9bd48"
+  "ca3be7acfd34977077d6e2d1f5b9bd48",
+  "9b286df994d04d2fd18b81b6045a74d0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2338,7 +2333,8 @@
   "e9173b96df": 1791394644.6266675,
   "8b38fc3868": 1791398249.960267,
   "dd26d54eba": 1791401855.1985977,
-  "59c16f2082": 1791403651.236615
+  "59c16f2082": 1791403651.236615,
+  "b7ff902af0": 1791407257.6508343
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2409,20 +2405,12 @@
   "b9fbec33d1": 1,
   "35fc056b64": 1,
   "64800fe8c5": 1,
-  "3eb5563caa": 1
+  "3eb5563caa": 1,
+  "28041a1cab": 1,
+  "4a4b438586": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "separar a bolacha do recheio desse jeito deveria ser crime",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "passarinho cantando e quintal bom compensam qualquer distância",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "verdade, pelo menos não gasta horas no transporte kkk",
    "p": "concorda",
@@ -2561,6 +2549,16 @@
   {
    "t": "sorte a sua porque a ansiedade aqui já bate forte cedo",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "Verdade, domingo de solteiro vira maratona de séries e pizza, né? 😂",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "exato, o peso do solto na segunda é ruim mas esse vão entre um e outro mata",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -3175,7 +3173,9 @@
   "18024377885876978": [
    "nem precisa esperar",
    "esse pelo menos",
-   "sorte a sua"
+   "sorte a sua",
+   "verdade domingo de",
+   "exato o peso"
   ]
  },
  "shopee_checada": "2026-10-07|1",
