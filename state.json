@@ -31,9 +31,10 @@
    "17:19",
    "18:14",
    "19:17",
-   "20:16"
+   "20:16",
+   "21:10"
   ],
-  "respostas": 92,
+  "respostas": 98,
   "por_post": {
    "18118643042050925": 7,
    "18126767030510839": 9,
@@ -48,29 +49,12 @@
    "18375054751212499": 6,
    "18118761089472689": 5,
    "18021014444726359": 9,
-   "18146079442603271": 9,
+   "18146079442603271": 10,
    "18115007600278222": 1,
-   "18117333691945990": 5
+   "18117333691945990": 10
   }
  },
  "posts": [
-  {
-   "id": "17900115993606030",
-   "insp": "a43cbb8320",
-   "link": "",
-   "texto": "SEJAM SINCEROS: eu peço comida achando que vou devorar tudo, espero uma hora e quando chega parece que a fome evaporou. Mais alguém é assim?",
-   "quando": "2026-10-01T20:37:10.342510-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 301,
-    "likes": 1,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "18355032229223757",
    "insp": "02a5d6ab73",
@@ -955,6 +939,14 @@
    "link": "",
    "texto": "Homem que sabe dançar ganha pelo menos uns oito pontos de cara na paquera.",
    "quando": "2026-10-06T20:37:08.398124-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18075881765449513",
+   "insp": "40b922d817",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: pizza fria no café da manhã ganha de qualquer almoço.",
+   "quando": "2026-10-06T21:37:10.064026-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -1993,7 +1985,13 @@
   "18013945619977490",
   "17936421459399855",
   "18122019559936359",
-  "18142247356591873"
+  "18142247356591873",
+  "18348406033264093",
+  "17951765046275748",
+  "18089163785690828",
+  "18132046807708489",
+  "17920315014440447",
+  "18107293952186298"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2098,7 +2096,8 @@
   "838038e1434c395acc8fd7455794bcb9",
   "d379ace921beb1f62650137586c822e0",
   "29f6804a7183a8baa370f30abfae57c4",
-  "ec88faad8a0d21fc5d1927a18454469b"
+  "ec88faad8a0d21fc5d1927a18454469b",
+  "6032886c6bc875b43f3b7720cd9ded55"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2203,7 +2202,8 @@
   "07137399ea": 1791322646.4106162,
   "20c7cdebe0": 1791326248.2575233,
   "5a57ea2b34": 1791329841.1190572,
-  "017f3ae860": 1791333458.1197262
+  "017f3ae860": 1791333458.1197262,
+  "40b922d817": 1791337109.1160452
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2294,40 +2294,16 @@
   "bbc19a5f44": 1,
   "57bb1e3e56": 1,
   "c21ddcaff7": 1,
-  "f79e57eede": 1
+  "f79e57eede": 1,
+  "43849222cc": 1,
+  "332785b443": 1,
+  "52e933aa11": 1,
+  "24fcd55509": 1,
+  "526f1eccd3": 1,
+  "e45a3c30a1": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "daqui a pouco aceitam pix parcelado em dez vezes kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "comprar em balde já é nível profissional de economia automotiva",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "agora virou peca de museu de tanto carinho kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "trocar de carro por causa de oleo já e estrategia nível hardcore kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "esse valor já garante um susto diferente a cada visita",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "esse aí colecionava luz no painel só para enfeitar kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "economia de energia invejável fechar a cara assim",
    "p": "concorda",
@@ -2445,6 +2421,36 @@
   },
   {
    "t": "passaporte carimbado para o topo da lista",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perder alguém muda totalmente a nossa vontade de tentar certas coisas",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "vantagem competitiva garantida kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "soma pontos rápido demais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "já tem um ótimo cardapio de ritmos pra começar pontuando",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "matematica avançada na paquera kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "tecnica de sobrevivencia domestica nível profissional kkkk",
    "p": "concorda",
    "r": 0
   }
@@ -2922,7 +2928,8 @@
    "desespero genuino para",
    "defender a propria",
    "economia de papo",
-   "parece que faltaram"
+   "parece que faltaram",
+   "tecnica de sobrevivencia"
   ],
   "18115007600278222": [
    "bateria social zerada"
@@ -2932,7 +2939,12 @@
    "avaliacao cirurgica que",
    "pesa bastante na",
    "pelo menos a",
-   "passaporte carimbado para"
+   "passaporte carimbado para",
+   "perder alguem muda",
+   "vantagem competitiva garantida",
+   "soma pontos rapido",
+   "ja tem um",
+   "matematica avancada na"
   ]
  },
  "shopee_checada": "2026-10-06|1",
