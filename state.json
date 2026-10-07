@@ -31,7 +31,7 @@
    "16:46",
    "17:33"
   ],
-  "respostas": 76,
+  "respostas": 79,
   "por_post": {
    "17969520279187566": 9,
    "18075881765449513": 10,
@@ -47,7 +47,8 @@
    "18375624967238237": 10,
    "18118205002998533": 1,
    "18024377885876978": 6,
-   "18109013291351299": 2
+   "18109013291351299": 4,
+   "18129184651699420": 1
   }
  },
  "posts": [
@@ -2097,7 +2098,10 @@
   "18154950691522186",
   "18109696325182426",
   "18346984171271007",
-  "18099112862175782"
+  "18099112862175782",
+  "18368470966212880",
+  "17911652616540694",
+  "18015717296747830"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2409,25 +2413,13 @@
   "4a4b438586": 1,
   "ea6bb73980": 1,
   "34946d21a2": 1,
-  "1e855517af": 1
+  "1e855517af": 1,
+  "eb03a21a27": 1,
+  "9ca0aecac3": 1,
+  "5928b62261": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, caos tem seu charme, mas a conta de luz compensa kkkk 😅",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "então o problema do aluguel você já resolveu, agora falta só convencer a gente a mudar pro centro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "método científico de consumo kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "processo burocrático demais para um lanche",
    "p": "discorda",
@@ -2560,6 +2552,21 @@
   },
   {
    "t": "quem tem esse nível de lucidez merece respeito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos essa desculpa já vem pronta de fábrica",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "liberdade total para mudar o roteiro na hora e sem dor de cabeça",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "saber dosar os dois jeitos é o segredo para a viagem render bem",
    "p": "concorda",
    "r": 0
   }
@@ -2928,26 +2935,6 @@
   }
  ],
  "aberturas_post": {
-  "18089996570239818": [
-   "porte grande dobra",
-   "parece que testam",
-   "essa diferenca de",
-   "descobrir isso tarde",
-   "essa conta nunca",
-   "responsabilidade vem no",
-   "essa seria a",
-   "plano de saude",
-   "essa reducao no",
-   "saude no geral",
-   "particular humano pesa",
-   "verdade quando o",
-   "prever tudo antes",
-   "salva a vida",
-   "verdade mas o",
-   "mao na massa",
-   "concordo hospital humano",
-   "o problema e"
-  ],
   "17927475519184610": [
    "veio so conferir",
    "verdade ponto extra",
@@ -3183,7 +3170,12 @@
   ],
   "18109013291351299": [
    "turma animada assim",
-   "quando da certo"
+   "quando da certo",
+   "liberdade total para",
+   "saber dosar os"
+  ],
+  "18129184651699420": [
+   "pelo menos essa"
   ]
  },
  "shopee_checada": "2026-10-07|1",
