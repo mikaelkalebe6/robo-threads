@@ -32,7 +32,7 @@
    "17:33",
    "18:53"
   ],
-  "respostas": 85,
+  "respostas": 88,
   "por_post": {
    "17969520279187566": 10,
    "18075881765449513": 10,
@@ -49,7 +49,9 @@
    "18118205002998533": 1,
    "18024377885876978": 8,
    "18109013291351299": 6,
-   "18129184651699420": 1
+   "18129184651699420": 1,
+   "17904357669353514": 2,
+   "17884868841506086": 1
   }
  },
  "posts": [
@@ -2100,7 +2102,10 @@
   "18032005961899316",
   "17946847962072382",
   "18128302018856550",
-  "18106485586960995"
+  "18106485586960995",
+  "17997755511032114",
+  "17998198560035955",
+  "17868215568663223"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2422,25 +2427,13 @@
   "441619a291": 1,
   "65f01eeff8": 1,
   "2bcfbebeeb": 1,
-  "b391de087b": 1
+  "b391de087b": 1,
+  "7d73d09130": 1,
+  "c7f864adeb": 1,
+  "87790f5b88": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "precisa de coragem e muita bateria social pra isso",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "cada um tem seu ritmo mesmo, segurança em primeiro lugar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "com certeza, o tempo certo é o dia em que a preguiça de digitar vence",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "na teoria é lindo mas na prática a conversa sempre acaba com eles tendo razão",
    "p": "ressalva",
@@ -2575,6 +2568,21 @@
    "t": "economia de energia garantida kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "nove anos é uma vida inteira mesmo, aí o histórico pesa demais",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "esse aí tira a tranquilidade e a liberdade de brinde kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quem tem esse nível de paz de espírito merece uma medalha porque para mim não rola",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -2941,15 +2949,6 @@
   }
  ],
  "aberturas_post": {
-  "17927475519184610": [
-   "veio so conferir",
-   "verdade ponto extra",
-   "quem nao sabe"
-  ],
-  "18234677503320142": [
-   "transparencia total sem",
-   "sinceridade acima de"
-  ],
   "18126767030510839": [
    "quem nunca passa",
    "amem porque essa",
@@ -3188,6 +3187,13 @@
   ],
   "18129184651699420": [
    "pelo menos essa"
+  ],
+  "17904357669353514": [
+   "nove anos e",
+   "quem tem esse"
+  ],
+  "17884868841506086": [
+   "esse ai tira"
   ]
  },
  "shopee_checada": "2026-10-07|1",
