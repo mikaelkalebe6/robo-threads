@@ -32,9 +32,10 @@
    "18:14",
    "19:17",
    "20:16",
-   "21:10"
+   "21:10",
+   "21:57"
   ],
-  "respostas": 98,
+  "respostas": 100,
   "por_post": {
    "18118643042050925": 7,
    "18126767030510839": 9,
@@ -51,27 +52,11 @@
    "18021014444726359": 9,
    "18146079442603271": 10,
    "18115007600278222": 1,
-   "18117333691945990": 10
+   "18117333691945990": 10,
+   "18075881765449513": 2
   }
  },
  "posts": [
-  {
-   "id": "18355032229223757",
-   "insp": "02a5d6ab73",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual foi a última pessoa na TV ou no YouTube que te prendeu horas na frente da tela? Eu mesma passava o dia inteiro vendo os mesmos vídeos e hoje em dia confesso que perco a paciência com qualquer introdução longa",
-   "quando": "2026-10-01T21:37:10.381701-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 686,
-    "likes": 5,
-    "replies": 16,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-06"
-   }
-  },
   {
    "id": "18096193091431069",
    "insp": "f9515d2675",
@@ -948,6 +933,14 @@
    "texto": "VAMOS CONCORDAR: pizza fria no café da manhã ganha de qualquer almoço.",
    "quando": "2026-10-06T21:37:10.064026-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17969520279187566",
+   "insp": "bc64a2ff13",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual jogo vocês ainda jogam escondido da namorada?  \nAcho que todo mundo tem um.",
+   "quando": "2026-10-06T22:07:09.686593-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -1991,7 +1984,9 @@
   "18089163785690828",
   "18132046807708489",
   "17920315014440447",
-  "18107293952186298"
+  "18107293952186298",
+  "18473937172112029",
+  "18239974690315918"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2097,7 +2092,8 @@
   "d379ace921beb1f62650137586c822e0",
   "29f6804a7183a8baa370f30abfae57c4",
   "ec88faad8a0d21fc5d1927a18454469b",
-  "6032886c6bc875b43f3b7720cd9ded55"
+  "6032886c6bc875b43f3b7720cd9ded55",
+  "5dc79f555bd6112b8b53d18f691b4c34"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2203,7 +2199,8 @@
   "20c7cdebe0": 1791326248.2575233,
   "5a57ea2b34": 1791329841.1190572,
   "017f3ae860": 1791333458.1197262,
-  "40b922d817": 1791337109.1160452
+  "40b922d817": 1791337109.1160452,
+  "bc64a2ff13": 1791338847.1850562
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2300,20 +2297,12 @@
   "52e933aa11": 1,
   "24fcd55509": 1,
   "526f1eccd3": 1,
-  "e45a3c30a1": 1
+  "e45a3c30a1": 1,
+  "19e807620d": 1,
+  "3a80bd6a2d": 1
  },
  "reservas_checadas": "2026-10-06",
  "ultimas_respostas": [
-  {
-   "t": "economia de energia invejável fechar a cara assim",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem nunca fingiu uma chamada importante que atire a primeira pedra kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "estratégia fixa pra garantir paz antes da primeira aula do dia",
    "p": "concorda",
@@ -2451,6 +2440,16 @@
   },
   {
    "t": "tecnica de sobrevivencia domestica nível profissional kkkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pizza fria não tem hora errada pra acontecer kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "amém alguém lúcido nessa rede",
    "p": "concorda",
    "r": 0
   }
@@ -2945,6 +2944,10 @@
    "soma pontos rapido",
    "ja tem um",
    "matematica avancada na"
+  ],
+  "18075881765449513": [
+   "pizza fria nao",
+   "amem alguem lucido"
   ]
  },
  "shopee_checada": "2026-10-06|1",
