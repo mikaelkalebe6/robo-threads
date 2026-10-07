@@ -25,13 +25,14 @@
    "11:15",
    "11:56",
    "13:24",
-   "14:25"
+   "14:25",
+   "15:26"
   ],
-  "respostas": 61,
+  "respostas": 64,
   "por_post": {
    "17969520279187566": 9,
    "18075881765449513": 9,
-   "18117333691945990": 8,
+   "18117333691945990": 9,
    "18115007600278222": 1,
    "18375054751212499": 1,
    "18101068082257287": 1,
@@ -40,28 +41,11 @@
    "18028146761692151": 3,
    "18126416557887514": 9,
    "18031353434910534": 4,
-   "18375624967238237": 7,
+   "18375624967238237": 9,
    "18118205002998533": 1
   }
  },
  "posts": [
-  {
-   "id": "17909645082310635",
-   "insp": "9c5110941a",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: em que momento da vida adulta a gente começa a achar normal ter dor nas costas só por ter dormido",
-   "quando": "2026-10-02T14:37:09.071619-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1658,
-    "likes": 25,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "17968067577176906",
    "insp": "a537fed31d",
@@ -1000,6 +984,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: com mais de trinta anos nas costas, qual foi a primeira vez que você teve que dar o braço a torcer pro seu pai? Aqui demorou, mas aconteceu",
    "quando": "2026-10-07T14:37:11.515401-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18160752547502938",
+   "insp": "dd26d54eba",
+   "link": "",
+   "texto": "PESSOAS QUE ainda usam caderno pra anotar gastos merecem respeito, porque eu já teria perdido o controle e comprado outra caneta inútil",
+   "quando": "2026-10-07T15:37:10.653013-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -2109,7 +2101,10 @@
   "18091486871491043",
   "18126528775873107",
   "17911558368473279",
-  "17874504957584314"
+  "17874504957584314",
+  "18027979622878905",
+  "18064499534784797",
+  "17912797608542991"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2223,7 +2218,8 @@
   "f853537ce4ec7c134eaecfbd63524121",
   "976fd840ef15f9ca98a707d8e7eb721e",
   "f41c68575e3d5fa0edf80e57796738ad",
-  "b1f4ddbf853772d0bb9254710d5dddd4"
+  "b1f4ddbf853772d0bb9254710d5dddd4",
+  "abb98f9fe199fc4b91d4d23dd9515c7d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2337,7 +2333,8 @@
   "f9f379c8bc": 1791387494.7057095,
   "0edf5745b6": 1791389239.8850503,
   "e9173b96df": 1791394644.6266675,
-  "8b38fc3868": 1791398249.960267
+  "8b38fc3868": 1791398249.960267,
+  "dd26d54eba": 1791401855.1985977
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2401,25 +2398,12 @@
   "ab1920944a": 1,
   "280792b6e0": 1,
   "a1f5e37b10": 1,
-  "0fe9e38c2b": 1
+  "0fe9e38c2b": 1,
+  "5bf9b2b63f": 2,
+  "b9d495fcbb": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "bolinho de arroz vai muito bem kkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "economia de tempo e de paciência, melhor estratégia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "roma consegue ser caótica e linda ao mesmo tempo, pelo menos acharam",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "estamos no mesmo barco sem rumo",
    "p": "neutra",
@@ -2553,6 +2537,21 @@
   {
    "t": "pergunta boa que não quer calar",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "uma semana é o tempo ideal pra ver se a pessoa não é maluca",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estamos no mesmo barco então, o misterio continua",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "procura rara mas que vale cada segundo",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -3086,7 +3085,8 @@
    "ja comeca com",
    "menos uma cobranca",
    "estamos no mesmo",
-   "precisa calcular a"
+   "precisa calcular a",
+   "procura rara mas"
   ],
   "18075881765449513": [
    "pizza fria nao",
@@ -3153,7 +3153,9 @@
    "precisa de coragem",
    "cada um tem",
    "com certeza o",
-   "pergunta boa que"
+   "pergunta boa que",
+   "uma semana e",
+   "estamos no mesmo"
   ],
   "18118205002998533": [
    "na teoria e"
