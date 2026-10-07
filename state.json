@@ -18,35 +18,20 @@
    "20:43",
    "21:23"
   ],
-  "feitos": [],
-  "respostas": 12,
+  "feitos": [
+   "08:30"
+  ],
+  "respostas": 16,
   "por_post": {
-   "17969520279187566": 3,
-   "18075881765449513": 3,
-   "18117333691945990": 3,
+   "17969520279187566": 5,
+   "18075881765449513": 4,
+   "18117333691945990": 4,
    "18115007600278222": 1,
    "18375054751212499": 1,
    "18101068082257287": 1
   }
  },
  "posts": [
-  {
-   "id": "18096193091431069",
-   "insp": "f9515d2675",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: quem toma café com açúcar realmente sente o gosto do café ou só quer água com xarope quente de manhã.",
-   "quando": "2026-10-02T08:07:09.600020-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 2408,
-    "likes": 13,
-    "replies": 67,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "18115517300116532",
    "insp": "25cf5fb448",
@@ -1049,6 +1034,14 @@
     "shares": 0,
     "em": "2026-10-07"
    }
+  },
+  {
+   "id": "18138080410624086",
+   "insp": "e69b61516f",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: vocês realmente acham que o produto de marca famosa é sempre melhor ou é só marketing que faz a gente pagar o dobro?",
+   "quando": "2026-10-07T08:37:45.957475-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2108,7 +2101,11 @@
   "17981758179065022",
   "18132681914499070",
   "17901097884667621",
-  "18141527833716679"
+  "18141527833716679",
+  "18143722030591102",
+  "18222402499339761",
+  "17897992218604104",
+  "18127921690837178"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2215,7 +2212,8 @@
   "29f6804a7183a8baa370f30abfae57c4",
   "ec88faad8a0d21fc5d1927a18454469b",
   "6032886c6bc875b43f3b7720cd9ded55",
-  "5dc79f555bd6112b8b53d18f691b4c34"
+  "5dc79f555bd6112b8b53d18f691b4c34",
+  "56e0d0ec03ccbfdbe9f8cd7bc0c4ff40"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2322,7 +2320,8 @@
   "5a57ea2b34": 1791329841.1190572,
   "017f3ae860": 1791333458.1197262,
   "40b922d817": 1791337109.1160452,
-  "bc64a2ff13": 1791338847.1850562
+  "bc64a2ff13": 1791338847.1850562,
+  "e69b61516f": 1791376726.9967973
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2338,30 +2337,14 @@
   "b499fd5d62": 1,
   "99964d71d7": 1,
   "498fe45e27": 1,
-  "f996ea1bd8": 1
+  "f996ea1bd8": 1,
+  "e37dee9c55": 1,
+  "b918171e09": 1,
+  "8b18d4db60": 1,
+  "59b890d722": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "economia de papo garantida kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse outro lugar com certeza fica bem longe da realidade financeira da gente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse divide opiniões mas tem quem defenda com unhas e dentes kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "parece que faltaram palavras para descrever a cena",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "É um hatch antigo, uns 2010, motor 1.0 kkk 😅",
    "p": "neutra",
@@ -2491,6 +2474,26 @@
    "t": "estratégia infalível para garantir a atenção kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "justo, mas tem quem prefira evitar a DR do final de semana",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "então o paladar ainda não foi corrompido pela magia da geladeira",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "já sai na frente de muita gente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "para evitar aquela DR longa sobre tempo investido na tela",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3017,19 +3020,23 @@
    "matematica avancada na",
    "entao agora o",
    "investe na poupanca",
-   "estrategia infalivel para"
+   "estrategia infalivel para",
+   "ja sai na"
   ],
   "18075881765449513": [
    "pizza fria nao",
    "amem alguem lucido",
    "essa iguaria merece",
    "combinacao perfeita pra",
-   "essa dupla ai"
+   "essa dupla ai",
+   "entao o paladar"
   ],
   "17969520279187566": [
    "estrategia valida para",
    "estrategia radical pra",
-   "justo demais mas"
+   "justo demais mas",
+   "justo mas tem",
+   "para evitar aquela"
   ],
   "18101068082257287": [
    "um misterio como"
