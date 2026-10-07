@@ -21,14 +21,15 @@
   "feitos": [
    "08:30"
   ],
-  "respostas": 16,
+  "respostas": 20,
   "por_post": {
    "17969520279187566": 5,
    "18075881765449513": 4,
    "18117333691945990": 4,
    "18115007600278222": 1,
    "18375054751212499": 1,
-   "18101068082257287": 1
+   "18101068082257287": 1,
+   "18138080410624086": 4
   }
  },
  "posts": [
@@ -2105,7 +2106,11 @@
   "18143722030591102",
   "18222402499339761",
   "17897992218604104",
-  "18127921690837178"
+  "18127921690837178",
+  "18050120483811947",
+  "18483120535128345",
+  "17879576529547258",
+  "18149358946596086"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2341,30 +2346,14 @@
   "e37dee9c55": 1,
   "b918171e09": 1,
   "8b18d4db60": 1,
-  "59b890d722": 1
+  "59b890d722": 1,
+  "9905db2669": 1,
+  "2f768cdf03": 1,
+  "2d98d003ad": 1,
+  "71277afffc": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "É um hatch antigo, uns 2010, motor 1.0 kkk 😅",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "pesagem de pontos bem rigorosa essa",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "avaliação cirúrgica que não dá margem para debate",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesa bastante na balança de quem repara nisso",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "pelo menos a gente economiza sola de sapato",
    "p": "concorda",
@@ -2494,6 +2483,26 @@
    "t": "para evitar aquela DR longa sobre tempo investido na tela",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "verdade pura, o logotipo já vem embutido no valor kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa conta é difícil de fechar porque nem sempre o preço acompanha a qualidade",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "exato, pagar caro só pelo nome às vezes dói no bolso à toa kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "economia que vinha com gostinho de infância kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3040,6 +3049,12 @@
   ],
   "18101068082257287": [
    "um misterio como"
+  ],
+  "18138080410624086": [
+   "verdade pura o",
+   "essa conta e",
+   "exato pagar caro",
+   "economia que vinha"
   ]
  },
  "shopee_checada": "2026-10-07|1",
