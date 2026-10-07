@@ -28,12 +28,13 @@
    "14:25",
    "15:26",
    "16:06",
-   "16:46"
+   "16:46",
+   "17:33"
   ],
-  "respostas": 72,
+  "respostas": 76,
   "por_post": {
    "17969520279187566": 9,
-   "18075881765449513": 9,
+   "18075881765449513": 10,
    "18117333691945990": 9,
    "18115007600278222": 1,
    "18375054751212499": 1,
@@ -45,27 +46,11 @@
    "18031353434910534": 4,
    "18375624967238237": 10,
    "18118205002998533": 1,
-   "18024377885876978": 5
+   "18024377885876978": 6,
+   "18109013291351299": 2
   }
  },
  "posts": [
-  {
-   "id": "18121402547515693",
-   "insp": "8b6d90e25d",
-   "link": "",
-   "texto": "SEJAM SINCEROS: \nUma colega pediu aumento e o chefe apareceu no dia seguinte com uma plantinha de presente. \nVocês cuidavam da planta no puro ódio ou já começavam a mandar currículo ali mesmo?",
-   "quando": "2026-10-02T18:37:08.734576-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 349,
-    "likes": 3,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "17961301389235555",
    "insp": "c97ba72637",
@@ -977,6 +962,14 @@
    "link": "",
    "texto": "Viajar sozinho ou viajar com a turma?\n\nDe um lado a paz de não ter que negociar roteiro nem horário com ninguém. Do outro, a resenha boa de dividir os perrengues. \n\nEu amo meus amigos, mas a liberdade de ir sozinho ganha fácil.",
    "quando": "2026-10-07T17:07:08.688987-04:00",
+   "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18129184651699420",
+   "insp": "bc90ccda37",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: inventar desculpa mirabolante para não sair de casa dá muito mais trabalho do que simplesmente dizer que não tá a fim. \n\nA verdade poupa a criatividade de todo mundo e ainda economiza energia.",
+   "quando": "2026-10-07T17:37:09.811642-04:00",
    "ia": "Gemini gemini-flash-latest"
   }
  ],
@@ -2100,7 +2093,11 @@
   "18129859441762686",
   "18020818769927093",
   "18126274997490944",
-  "18121234907080355"
+  "18121234907080355",
+  "18154950691522186",
+  "18109696325182426",
+  "18346984171271007",
+  "18099112862175782"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2217,7 +2214,8 @@
   "b1f4ddbf853772d0bb9254710d5dddd4",
   "abb98f9fe199fc4b91d4d23dd9515c7d",
   "ca3be7acfd34977077d6e2d1f5b9bd48",
-  "9b286df994d04d2fd18b81b6045a74d0"
+  "9b286df994d04d2fd18b81b6045a74d0",
+  "bd192be1121e266310eccc3fa3eaaffa"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2334,7 +2332,8 @@
   "8b38fc3868": 1791398249.960267,
   "dd26d54eba": 1791401855.1985977,
   "59c16f2082": 1791403651.236615,
-  "b7ff902af0": 1791407257.6508343
+  "b7ff902af0": 1791407257.6508343,
+  "bc90ccda37": 1791409064.7536128
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2367,7 +2366,7 @@
   "a118013d7b": 1,
   "3a8e535cc4": 1,
   "c3285cd1c1": 1,
-  "23f6dde8a8": 1,
+  "23f6dde8a8": 2,
   "01f59f7a3d": 1,
   "0f41586f01": 1,
   "7d105637b4": 1,
@@ -2407,30 +2406,13 @@
   "64800fe8c5": 1,
   "3eb5563caa": 1,
   "28041a1cab": 1,
-  "4a4b438586": 1
+  "4a4b438586": 1,
+  "ea6bb73980": 1,
+  "34946d21a2": 1,
+  "1e855517af": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "verdade, pelo menos não gasta horas no transporte kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "comprar isso aí exige coragem e um boleto eterno kkkk",
-   "p": "neutra",
-   "r": 2
-  },
-  {
-   "t": "justo, cada canto tem seus perrengues diferentes né",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "sempre tem esse detalhe né kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "Verdade, caos tem seu charme, mas a conta de luz compensa kkkk 😅",
    "p": "concorda",
@@ -2558,6 +2540,26 @@
   },
   {
    "t": "exato, o peso do solto na segunda é ruim mas esse vão entre um e outro mata",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "turma animada assim que viaja todo ano é raridade boa demais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quando dá certo é bom demais mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pessoa corajosa encontrada com sucesso",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "quem tem esse nível de lucidez merece respeito",
    "p": "concorda",
    "r": 0
   }
@@ -3106,7 +3108,8 @@
    "dupla que atravessa",
    "bolinho de arroz",
    "tecnicamente sim mas",
-   "comecou o dia"
+   "comecou o dia",
+   "quem tem esse"
   ],
   "17969520279187566": [
    "estrategia valida para",
@@ -3175,7 +3178,12 @@
    "esse pelo menos",
    "sorte a sua",
    "verdade domingo de",
-   "exato o peso"
+   "exato o peso",
+   "pessoa corajosa encontrada"
+  ],
+  "18109013291351299": [
+   "turma animada assim",
+   "quando da certo"
   ]
  },
  "shopee_checada": "2026-10-07|1",
