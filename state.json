@@ -19,11 +19,11 @@
    "21:23"
   ],
   "feitos": [],
-  "respostas": 8,
+  "respostas": 12,
   "por_post": {
-   "17969520279187566": 2,
-   "18075881765449513": 2,
-   "18117333691945990": 1,
+   "17969520279187566": 3,
+   "18075881765449513": 3,
+   "18117333691945990": 3,
    "18115007600278222": 1,
    "18375054751212499": 1,
    "18101068082257287": 1
@@ -2104,7 +2104,11 @@
   "17886620640686471",
   "18118844749754650",
   "17946627696348579",
-  "18061659215530449"
+  "18061659215530449",
+  "17981758179065022",
+  "18132681914499070",
+  "17901097884667621",
+  "18141527833716679"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2330,30 +2334,14 @@
   "1d06969815": 1,
   "be837baf3d": 1,
   "50c632f5cc": 1,
-  "52ee05a22d": 1
+  "52ee05a22d": 1,
+  "b499fd5d62": 1,
+  "99964d71d7": 1,
+  "498fe45e27": 1,
+  "f996ea1bd8": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "defender a propria paz não entra na categoria de orgulho",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "regra matemática que salva o orçamento da gente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "bateria social zerada deveria vir com atestado médico",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sábia decisão para preservar a sanidade mental kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "economia de papo garantida kkk",
    "p": "concorda",
@@ -2483,6 +2471,26 @@
    "t": "combinação perfeita pra começar o dia",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "investe na poupança pra ver se rende juros kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "justo demais, mas tem quem prefira evitar a DR do final de semana",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "essa dupla aí acerta qualquer começo de dia kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "estratégia infalível para garantir a atenção kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3007,17 +3015,21 @@
    "soma pontos rapido",
    "ja tem um",
    "matematica avancada na",
-   "entao agora o"
+   "entao agora o",
+   "investe na poupanca",
+   "estrategia infalivel para"
   ],
   "18075881765449513": [
    "pizza fria nao",
    "amem alguem lucido",
    "essa iguaria merece",
-   "combinacao perfeita pra"
+   "combinacao perfeita pra",
+   "essa dupla ai"
   ],
   "17969520279187566": [
    "estrategia valida para",
-   "estrategia radical pra"
+   "estrategia radical pra",
+   "justo demais mas"
   ],
   "18101068082257287": [
    "um misterio como"
