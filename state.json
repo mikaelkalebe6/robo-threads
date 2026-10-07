@@ -29,7 +29,7 @@
    "15:26",
    "16:06"
   ],
-  "respostas": 67,
+  "respostas": 70,
   "por_post": {
    "17969520279187566": 9,
    "18075881765449513": 9,
@@ -43,7 +43,8 @@
    "18126416557887514": 10,
    "18031353434910534": 4,
    "18375624967238237": 10,
-   "18118205002998533": 1
+   "18118205002998533": 1,
+   "18024377885876978": 3
   }
  },
  "posts": [
@@ -2099,7 +2100,13 @@
   "17912797608542991",
   "18133568131737299",
   "17968444704186991",
-  "18113371618845168"
+  "18113371618845168",
+  "18113982734329001",
+  "17969526894179591",
+  "18127116601804506",
+  "18126866977919059",
+  "18129859441762686",
+  "18020818769927093"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2393,32 +2400,19 @@
   "0ca3c4be85": 1,
   "b4b4f7e041": 1,
   "ab1920944a": 1,
-  "280792b6e0": 1,
+  "280792b6e0": 2,
   "a1f5e37b10": 1,
   "0fe9e38c2b": 1,
   "5bf9b2b63f": 2,
   "b9d495fcbb": 1,
   "c682c4cd55": 1,
   "b9fbec33d1": 1,
-  "35fc056b64": 1
+  "35fc056b64": 1,
+  "64800fe8c5": 1,
+  "3eb5563caa": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "achar um cantinho silencioso no meio do burburinho é raridade rara",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tecnicamente sim mas a alma descansa igual",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "precisa calcular a inflação dessa pontuação aí",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "separar a bolacha do recheio desse jeito deveria ser crime",
    "p": "discorda",
@@ -2553,6 +2547,21 @@
    "t": "essa economia de transporte alivia bastante o estresse do barulho kkkk",
    "p": "ressalva",
    "r": 1
+  },
+  {
+   "t": "nem precisa esperar escurecer, bateu o horario o desespero vem junto kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse pelo menos a gente conseguia ignorar mudando de canal kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "sorte a sua porque a ansiedade aqui já bate forte cedo",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3162,6 +3171,11 @@
   ],
   "18118205002998533": [
    "na teoria e"
+  ],
+  "18024377885876978": [
+   "nem precisa esperar",
+   "esse pelo menos",
+   "sorte a sua"
   ]
  },
  "shopee_checada": "2026-10-07|1",
