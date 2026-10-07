@@ -26,7 +26,7 @@
    "11:56",
    "13:24"
   ],
-  "respostas": 52,
+  "respostas": 55,
   "por_post": {
    "17969520279187566": 9,
    "18075881765449513": 9,
@@ -38,7 +38,8 @@
    "18021014444726359": 1,
    "18028146761692151": 3,
    "18126416557887514": 9,
-   "18031353434910534": 3
+   "18031353434910534": 3,
+   "18375624967238237": 3
   }
  },
  "posts": [
@@ -2106,7 +2107,10 @@
   "17961768027209224",
   "17874907062585554",
   "17968838217177597",
-  "18080764724420683"
+  "18080764724420683",
+  "18117535619052852",
+  "17912600937283202",
+  "17911229826515271"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2387,25 +2391,13 @@
   "865ad76f1f": 1,
   "ed1fcf8d77": 1,
   "01b98b8b09": 1,
-  "6ed3222eb5": 1
+  "6ed3222eb5": 1,
+  "017feddc4b": 1,
+  "526f1eccd3": 1,
+  "2c7d381a4d": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "já comeca com vantagem então",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tem que entregar o que promete mesmo pra valer a pena",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pq o medo de achar outro pior e maior que o rombo no bolso",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "Então vc era o time duo, né? kkk 😉",
    "p": "concorda",
@@ -2538,6 +2530,21 @@
   },
   {
    "t": "começou o dia ganhando kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "já começa com o pé na porta né kkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "Uau, 1 ano? Eu já perdi a conta, mas vale a pena",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, mensagem trava, melhor marcar o café logo kkk",
    "p": "concorda",
    "r": 1
   }
@@ -3130,6 +3137,11 @@
    "separar a bolacha",
    "metodo cientifico de",
    "processo burocratico demais"
+  ],
+  "18375624967238237": [
+   "ja comeca com",
+   "uau 1 ano",
+   "verdade mensagem trava"
   ]
  },
  "shopee_checada": "2026-10-07|1",
