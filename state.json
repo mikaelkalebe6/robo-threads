@@ -22,15 +22,16 @@
    "08:30",
    "09:16"
   ],
-  "respostas": 24,
+  "respostas": 28,
   "por_post": {
-   "17969520279187566": 5,
-   "18075881765449513": 5,
-   "18117333691945990": 5,
+   "17969520279187566": 6,
+   "18075881765449513": 6,
+   "18117333691945990": 6,
    "18115007600278222": 1,
    "18375054751212499": 1,
    "18101068082257287": 1,
-   "18138080410624086": 6
+   "18138080410624086": 6,
+   "18021014444726359": 1
   }
  },
  "posts": [
@@ -2106,7 +2107,11 @@
   "18353808085223210",
   "18657991738044470",
   "17900259498607159",
-  "18130595653705478"
+  "18130595653705478",
+  "18097269242450585",
+  "18642514159062732",
+  "18115477408964736",
+  "17951525937289311"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2352,30 +2357,14 @@
   "e7102b50d0": 1,
   "7a72765f14": 1,
   "2eca4eb086": 1,
-  "1db3643203": 1
+  "1db3643203": 1,
+  "c02e1aefdd": 1,
+  "a118013d7b": 1,
+  "3a8e535cc4": 1,
+  "c3285cd1c1": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "soma pontos rápido demais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "já tem um ótimo cardapio de ritmos pra começar pontuando",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "matematica avançada na paquera kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "tecnica de sobrevivencia domestica nível profissional kkkk",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pizza fria não tem hora errada pra acontecer kkk",
    "p": "concorda",
@@ -2505,6 +2494,26 @@
    "t": "tem que entregar o que promete mesmo pra valer a pena",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "pq o medo de achar outro pior e maior que o rombo no bolso",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "Então vc era o time duo, né? kkk 😉",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "dupla que atravessa gerações kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "menos uma cobranca na lista kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3000,7 +3009,8 @@
    "paciencia passou longe",
    "regra matematica que",
    "esse outro lugar",
-   "e um hatch"
+   "e um hatch",
+   "pq o medo"
   ],
   "18146079442603271": [
    "economia de energia",
@@ -3033,7 +3043,8 @@
    "investe na poupanca",
    "estrategia infalivel para",
    "ja sai na",
-   "ja comeca com"
+   "ja comeca com",
+   "menos uma cobranca"
   ],
   "18075881765449513": [
    "pizza fria nao",
@@ -3042,14 +3053,16 @@
    "combinacao perfeita pra",
    "essa dupla ai",
    "entao o paladar",
-   "ai voce so"
+   "ai voce so",
+   "dupla que atravessa"
   ],
   "17969520279187566": [
    "estrategia valida para",
    "estrategia radical pra",
    "justo demais mas",
    "justo mas tem",
-   "para evitar aquela"
+   "para evitar aquela",
+   "entao vc era"
   ],
   "18101068082257287": [
    "um misterio como"
