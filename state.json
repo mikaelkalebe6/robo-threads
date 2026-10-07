@@ -22,39 +22,24 @@
    "08:30",
    "09:16",
    "10:34",
-   "11:15"
+   "11:15",
+   "11:56"
   ],
-  "respostas": 36,
+  "respostas": 40,
   "por_post": {
    "17969520279187566": 8,
-   "18075881765449513": 7,
-   "18117333691945990": 7,
+   "18075881765449513": 8,
+   "18117333691945990": 8,
    "18115007600278222": 1,
    "18375054751212499": 1,
    "18101068082257287": 1,
    "18138080410624086": 7,
    "18021014444726359": 1,
-   "18028146761692151": 3
+   "18028146761692151": 3,
+   "18126416557887514": 2
   }
  },
  "posts": [
-  {
-   "id": "18565623907076552",
-   "insp": "e50a061e21",
-   "link": "",
-   "texto": "SEM MENTIR: quem aqui já usou inteligência artificial para escrever mensagem para o crush. confesso que achei engenhoso, mas fico pensando se a outra pessoa percebeu.",
-   "quando": "2026-10-02T12:07:10.597748-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1698,
-    "likes": 11,
-    "replies": 57,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "18097741532099173",
    "insp": "ff377f4a44",
@@ -1021,6 +1006,14 @@
    "texto": "VAMOS SER HONESTOS: morar de aluguel no centro ganha de qualquer casa longe de tudo.",
    "quando": "2026-10-07T11:37:09.396020-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18031353434910534",
+   "insp": "0edf5745b6",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: quem come o recheio do biscoito primeiro já tá perdendo o melhor da vida.",
+   "quando": "2026-10-07T12:07:09.677362-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -2104,7 +2097,11 @@
   "17895480294417449",
   "18156191977509565",
   "18126547564880566",
-  "18358478236222731"
+  "18358478236222731",
+  "17950085145275652",
+  "18098280260428959",
+  "18105681173369041",
+  "17889875382460457"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2215,7 +2212,8 @@
   "56e0d0ec03ccbfdbe9f8cd7bc0c4ff40",
   "cadf03af555c59e56290d26c186a9037",
   "9ce4a72f8e6cd55e93c78e8dcf2b767c",
-  "f853537ce4ec7c134eaecfbd63524121"
+  "f853537ce4ec7c134eaecfbd63524121",
+  "976fd840ef15f9ca98a707d8e7eb721e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2326,7 +2324,8 @@
   "e69b61516f": 1791376726.9967973,
   "fb0beb9a45": 1791380300.4169106,
   "bf83cca91b": 1791383893.0639527,
-  "f9f379c8bc": 1791387494.7057095
+  "f9f379c8bc": 1791387494.7057095,
+  "0edf5745b6": 1791389239.8850503
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2366,30 +2365,14 @@
   "80064a65a7": 1,
   "ec5261ea78": 1,
   "da997a6cd5": 1,
-  "bf3aa65ee6": 1
+  "bf3aa65ee6": 1,
+  "601fbb1f44": 1,
+  "d263e49d46": 1,
+  "8a66d58bd1": 1,
+  "525d8a9b6c": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "estratégia radical pra não ter que negociar o horário do videogame",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "combinação perfeita pra começar o dia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "investe na poupança pra ver se rende juros kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "justo demais, mas tem quem prefira evitar a DR do final de semana",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "essa dupla aí acerta qualquer começo de dia kkk",
    "p": "concorda",
@@ -2518,6 +2501,26 @@
   {
    "t": "sorte a sua que passou longe dessa fase",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "esse tem que marcar sessão pra conseguir alugar kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "achar um cantinho silencioso no meio do burburinho é raridade rara",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tecnicamente sim mas a alma descansa igual",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "precisa calcular a inflação dessa pontuação aí",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -3050,7 +3053,8 @@
    "ja sai na",
    "ja comeca com",
    "menos uma cobranca",
-   "estamos no mesmo"
+   "estamos no mesmo",
+   "precisa calcular a"
   ],
   "18075881765449513": [
    "pizza fria nao",
@@ -3061,7 +3065,8 @@
    "entao o paladar",
    "ai voce so",
    "dupla que atravessa",
-   "bolinho de arroz"
+   "bolinho de arroz",
+   "tecnicamente sim mas"
   ],
   "17969520279187566": [
    "estrategia valida para",
@@ -3089,6 +3094,10 @@
    "ainda bem que",
    "economia de tempo",
    "roma consegue ser"
+  ],
+  "18126416557887514": [
+   "esse tem que",
+   "achar um cantinho"
   ]
  },
  "shopee_checada": "2026-10-07|1",
