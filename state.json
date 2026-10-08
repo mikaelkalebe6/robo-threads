@@ -19,7 +19,8 @@
    "10:00",
    "11:24",
    "12:11",
-   "16:14"
+   "16:14",
+   "17:12"
   ],
   "respostas": 53,
   "por_post": {
@@ -40,23 +41,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17957805633235218",
-   "insp": "880c48c090",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: acordar mais cedo com calma ou dormir mais quinze minutos correndo?",
-   "quando": "2026-10-03T16:07:09.997128-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 146,
-    "likes": 3,
-    "replies": 8,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-08"
-   }
-  },
   {
    "id": "17895939030415554",
    "insp": "c5b66c6c5b",
@@ -1004,6 +988,14 @@
    "link": "",
    "texto": "SEJAM SINCEROS: quem aqui realmente lê aquele contrato enorme antes de aceitar o aplicativo? Aposto que todo mundo só clica em concordar para passar logo.",
    "quando": "2026-10-08T16:37:09.661498-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18116932673061251",
+   "insp": "bcc0c20424",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: tem carro que é tão feio que vira charme e a gente acaba apegado igual bicho de estimação",
+   "quando": "2026-10-08T17:37:08.465537-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -2338,7 +2330,8 @@
   "1e7d4f4807e180a4a21d9ef82d303a35",
   "304eb72b0b2900835ebd0ebab9771b3d",
   "923cd7619535e817ddaaac108cfd3ae1",
-  "a240bc3a930cb570f0d7e65d0528d808"
+  "a240bc3a930cb570f0d7e65d0528d808",
+  "f6e28494869959ca8f398b2fc8641758"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2466,7 +2459,8 @@
   "9251fb6a0d": 1791468449.4808562,
   "9a79b11d92": 1791473853.9998388,
   "d6497bdd55": 1791477465.6790605,
-  "607a9f8d64": 1791491845.7964373
+  "607a9f8d64": 1791491845.7964373,
+  "bcc0c20424": 1791495460.9115326
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
