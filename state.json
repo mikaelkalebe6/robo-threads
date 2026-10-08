@@ -20,7 +20,7 @@
    "11:24",
    "12:11"
   ],
-  "respostas": 46,
+  "respostas": 49,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
@@ -28,10 +28,10 @@
    "17904357669353514": 5,
    "18109013291351299": 4,
    "18024377885876978": 2,
-   "18375624967238237": 8,
+   "18375624967238237": 10,
    "18126416557887514": 4,
    "18028146761692151": 1,
-   "17978027112134799": 6,
+   "17978027112134799": 7,
    "17990532371862859": 5,
    "18098203103652972": 2,
    "18099059360387148": 3
@@ -2210,7 +2210,10 @@
   "17888542440621559",
   "18050731982603210",
   "18089543492244454",
-  "18109908170131199"
+  "18109908170131199",
+  "17933667054146083",
+  "18110567261174679",
+  "18106370281976368"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2508,25 +2511,13 @@
   "32c0366525": 2,
   "1eb4ad9c86": 1,
   "29d6a83a6c": 1,
-  "746b68fd25": 1
+  "746b68fd25": 1,
+  "6b44e56b77": 1,
+  "d147a8eb91": 1,
+  "8cd3676f5b": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "presente com zero noção do destinatário kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "utilidade pública e necessária em pacote gigante kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "estratégia impecável para cada estação kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "forte demais para o meu gosto",
    "p": "concorda",
@@ -2661,6 +2652,21 @@
    "t": "Nossa, parece maratona de série que termina de repente",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "brinde de utilidade duvidosa que não funciona pra nada kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Exato, quando a sintonia aparece já marca o café kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "3 dias? já tô contando aqui kkk, bora curtir quando rolar",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3234,7 +3240,9 @@
    "velocidade maxima no",
    "que recorde hein",
    "parece que cada",
-   "nossa parece maratona"
+   "nossa parece maratona",
+   "exato quando a",
+   "3 dias ja"
   ],
   "18118205002998533": [
    "na teoria e"
@@ -3308,7 +3316,8 @@
    "utilidade publica e",
    "autocuidado de respeito",
    "ganhou foi o",
-   "tem presente que"
+   "tem presente que",
+   "brinde de utilidade"
   ],
   "17990532371862859": [
    "esse ambiente pequeno",
