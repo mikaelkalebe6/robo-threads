@@ -14,40 +14,24 @@
    "21:17"
   ],
   "feitos": [
-   "08:07"
+   "08:07",
+   "08:53"
   ],
-  "respostas": 16,
+  "respostas": 20,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 1,
-   "18115082014839784": 2,
-   "17904357669353514": 2,
+   "18115082014839784": 3,
+   "17904357669353514": 3,
    "18109013291351299": 2,
    "18024377885876978": 2,
    "18375624967238237": 2,
    "18126416557887514": 2,
    "18028146761692151": 1,
-   "17978027112134799": 1
+   "17978027112134799": 3
   }
  },
  "posts": [
-  {
-   "id": "18267531961307268",
-   "insp": "9c1e78bb9a",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: se você pudesse mandar um único áudio de WhatsApp para a sua versão de 18 anos, qual seria o aviso mais urgente sobre dinheiro ou carreira?",
-   "quando": "2026-10-03T10:37:09.220463-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 332,
-    "likes": 3,
-    "replies": 20,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-08"
-   }
-  },
   {
    "id": "18125642254808162",
    "insp": "7d0b87a61f",
@@ -1040,6 +1024,14 @@
    "link": "",
    "texto": "ME CONTA: Recebi um chapéu de unicórnio de presente de Natal e usei na festa da família, virou o centro das atenções. Qual foi o presente mais sem noção que você já ganhou?",
    "quando": "2026-10-08T08:07:10.631093-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "17990532371862859",
+   "insp": "f16c6c27c0",
+   "link": "",
+   "texto": "SEJAM SINCEROS: qual foi o pior emprego que você já teve?  \n1️⃣ Telemarketing agressivo  \n2️⃣ Garçom em festa infantil",
+   "quando": "2026-10-08T09:07:09.428118-04:00",
    "ia": "Groq openai/gpt-oss-120b"
   }
  ],
@@ -2209,7 +2201,11 @@
   "17863048602696207",
   "18090703373196943",
   "18185043631424020",
-  "17879444895554602"
+  "17879444895554602",
+  "17975813889134445",
+  "17916724401254969",
+  "18094140809341954",
+  "18114061781469089"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2332,7 +2328,8 @@
   "9cecc2e168eef687994d5434addf9b6d",
   "9808e3443c186e81200d25d4735c78b8",
   "a3180cc9e6c15e83e86a403dc10fbead",
-  "9ec753fb40dead2ad66d0585496aab6c"
+  "9ec753fb40dead2ad66d0585496aab6c",
+  "8925d0f6297c3ef244db0fe7af6632db"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2455,7 +2452,8 @@
   "0c6e3aa2e9": 1791418053.3214092,
   "6d05f48de0": 1791421663.0746691,
   "ab0f309ba0": 1791423493.1508825,
-  "927cd87598": 1791461243.4873743
+  "927cd87598": 1791461243.4873743,
+  "f16c6c27c0": 1791464840.5570676
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2474,30 +2472,14 @@
   "8b27c2e098": 1,
   "8033d69ded": 1,
   "8a34914b96": 1,
-  "564defc3d7": 1
+  "564defc3d7": 1,
+  "286a66a772": 1,
+  "25c57fdf25": 1,
+  "8bfd683993": 1,
+  "3dfe48e0a0": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "esse aí tira a tranquilidade e a liberdade de brinde kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quem tem esse nível de paz de espírito merece uma medalha porque para mim não rola",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "a sogra garantir o rango de domingo mesmo sem a ex por perto é nível avançado de diplomacia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "respeito total a sinceridade, cada um sabe o limite que funciona",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "com quem já tem outra pessoa na vida o buraco é mais embaixo mesmo",
    "p": "concorda",
@@ -2626,6 +2608,26 @@
   {
    "t": "pelo menos no centro a gente paga pela comodidade de ter tudo perto",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "presente com zero noção do destinatário kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "utilidade pública e necessária em pacote gigante kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "estratégia impecável para cada estação kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "forte demais para o meu gosto",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -3245,7 +3247,8 @@
    "com quem ja",
    "quando tem filho",
    "e o tipo",
-   "quando o termino"
+   "quando o termino",
+   "forte demais para"
   ],
   "17884868841506086": [
    "esse ai tira"
@@ -3259,7 +3262,8 @@
    "aposta maxima contra",
    "escolha direta e",
    "silencio e temperatura",
-   "ac a 72"
+   "ac a 72",
+   "estrategia impecavel para"
   ],
   "18105144680201716": [
    "criatividade mil para"
@@ -3268,7 +3272,9 @@
    "ostentacao que chama"
   ],
   "17978027112134799": [
-   "a ex sogra"
+   "a ex sogra",
+   "presente com zero",
+   "utilidade publica e"
   ]
  },
  "shopee_checada": "2026-10-08|1",
