@@ -14,12 +14,16 @@
    "21:17"
   ],
   "feitos": [],
-  "respostas": 4,
+  "respostas": 8,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 1,
    "18115082014839784": 1,
-   "17904357669353514": 1
+   "17904357669353514": 1,
+   "18109013291351299": 1,
+   "18024377885876978": 1,
+   "18375624967238237": 1,
+   "18126416557887514": 1
   }
  },
  "posts": [
@@ -2198,7 +2202,11 @@
   "18371354530212671",
   "18055891358645728",
   "18432327745147526",
-  "18142984327511627"
+  "18142984327511627",
+  "18095955971440289",
+  "18199739743344851",
+  "18409222591092937",
+  "18104370419002603"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2449,30 +2457,14 @@
   "_data": "2026-10-08",
   "0853fbed72": 1,
   "1d06969815": 2,
-  "7a6b838d64": 1
+  "7a6b838d64": 1,
+  "d7c9e71973": 1,
+  "3db11c40f3": 1,
+  "1948d48d94": 1,
+  "aec2884779": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "pessoa corajosa encontrada com sucesso",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "quem tem esse nível de lucidez merece respeito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos essa desculpa já vem pronta de fábrica",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "liberdade total para mudar o roteiro na hora e sem dor de cabeça",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "saber dosar os dois jeitos é o segredo para a viagem render bem",
    "p": "concorda",
@@ -2601,6 +2593,26 @@
   {
    "t": "é o tipo de assunto que divide mesa de bar na hora",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "economia e liberdade em casal são ótimas vantagens mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pura realidade e sem filtro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tempo clássico pra alinhar as expectativas e ver se vale o rolê",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "drama pesado com o aluguel mas continua sendo um ótimo argumento",
+   "p": "discorda",
    "r": 0
   }
  ],
@@ -3161,7 +3173,8 @@
    "sempre tem esse",
    "verdade caos tem",
    "entao o problema",
-   "essa economia de"
+   "essa economia de",
+   "drama pesado com"
   ],
   "18031353434910534": [
    "separar a bolacha",
@@ -3179,7 +3192,8 @@
    "pergunta boa que",
    "uma semana e",
    "estamos no mesmo",
-   "contar 45 dias"
+   "contar 45 dias",
+   "tempo classico pra"
   ],
   "18118205002998533": [
    "na teoria e"
@@ -3192,7 +3206,8 @@
    "exato o peso",
    "pessoa corajosa encontrada",
    "parece que o",
-   "sim a contagem"
+   "sim a contagem",
+   "pura realidade e"
   ],
   "18109013291351299": [
    "turma animada assim",
@@ -3200,7 +3215,8 @@
    "liberdade total para",
    "saber dosar os",
    "essa parte de",
-   "paz espirito pura"
+   "paz espirito pura",
+   "economia e liberdade"
   ],
   "18129184651699420": [
    "pelo menos essa",
