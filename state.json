@@ -13,37 +13,23 @@
    "19:15",
    "21:17"
   ],
-  "feitos": [],
-  "respostas": 8,
+  "feitos": [
+   "08:07"
+  ],
+  "respostas": 12,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 1,
-   "18115082014839784": 1,
-   "17904357669353514": 1,
-   "18109013291351299": 1,
+   "18115082014839784": 2,
+   "17904357669353514": 2,
+   "18109013291351299": 2,
    "18024377885876978": 1,
    "18375624967238237": 1,
-   "18126416557887514": 1
+   "18126416557887514": 1,
+   "18028146761692151": 1
   }
  },
  "posts": [
-  {
-   "id": "18179115472434875",
-   "insp": "3a347dea45",
-   "link": "",
-   "texto": "PESSOAS QUE mandam indireta no pix de um real precisam de terapia urgente",
-   "quando": "2026-10-03T09:37:08.336573-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 239,
-    "likes": 0,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-08"
-   }
-  },
   {
    "id": "18267531961307268",
    "insp": "9c1e78bb9a",
@@ -1046,6 +1032,14 @@
     "shares": 0,
     "em": "2026-10-08"
    }
+  },
+  {
+   "id": "17978027112134799",
+   "insp": "927cd87598",
+   "link": "",
+   "texto": "ME CONTA: Recebi um chapéu de unicórnio de presente de Natal e usei na festa da família, virou o centro das atenções. Qual foi o presente mais sem noção que você já ganhou?",
+   "quando": "2026-10-08T08:07:10.631093-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -2206,7 +2200,11 @@
   "18095955971440289",
   "18199739743344851",
   "18409222591092937",
-  "18104370419002603"
+  "18104370419002603",
+  "18117362774061165",
+  "18116446277049980",
+  "18491996716101321",
+  "17897352375672372"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2328,7 +2326,8 @@
   "f34ca01b6710a4c885e61b681523271d",
   "9cecc2e168eef687994d5434addf9b6d",
   "9808e3443c186e81200d25d4735c78b8",
-  "a3180cc9e6c15e83e86a403dc10fbead"
+  "a3180cc9e6c15e83e86a403dc10fbead",
+  "9ec753fb40dead2ad66d0585496aab6c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2450,7 +2449,8 @@
   "69415b36aa": 1791414450.6617262,
   "0c6e3aa2e9": 1791418053.3214092,
   "6d05f48de0": 1791421663.0746691,
-  "ab0f309ba0": 1791423493.1508825
+  "ab0f309ba0": 1791423493.1508825,
+  "927cd87598": 1791461243.4873743
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2461,30 +2461,14 @@
   "d7c9e71973": 1,
   "3db11c40f3": 1,
   "1948d48d94": 1,
-  "aec2884779": 1
+  "aec2884779": 1,
+  "6c85bcf2f5": 1,
+  "e7102b50d0": 1,
+  "d33fda4050": 1,
+  "22ec3fe9e5": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "saber dosar os dois jeitos é o segredo para a viagem render bem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa parte de fazer amizade no caminho é a melhor parte kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "paz espírito pura, ninguém pra discutir horário de acordar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parece que o relógio acelera só para judiar da gente",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "sim, a contagem regressiva pra segunda já estraga o dia todo kkk",
    "p": "concorda",
@@ -2613,6 +2597,26 @@
   {
    "t": "drama pesado com o aluguel mas continua sendo um ótimo argumento",
    "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "Tag na mochila é vida, evita perrengue kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Ac a 72 fica bem fresquinho, boa escolha kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quando o término é leve cada um segue em frente de verdade mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "acertou em cheio justamente a parte de acordar quando quiser",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -3161,7 +3165,8 @@
    "ainda bem que",
    "economia de tempo",
    "roma consegue ser",
-   "essa e de"
+   "essa e de",
+   "tag na mochila"
   ],
   "18126416557887514": [
    "esse tem que",
@@ -3216,7 +3221,8 @@
    "saber dosar os",
    "essa parte de",
    "paz espirito pura",
-   "economia e liberdade"
+   "economia e liberdade",
+   "acertou em cheio"
   ],
   "18129184651699420": [
    "pelo menos essa",
@@ -3229,7 +3235,8 @@
    "respeito total a",
    "com quem ja",
    "quando tem filho",
-   "e o tipo"
+   "e o tipo",
+   "quando o termino"
   ],
   "17884868841506086": [
    "esse ai tira"
@@ -3242,7 +3249,8 @@
    "duas escolhas dificeis",
    "aposta maxima contra",
    "escolha direta e",
-   "silencio e temperatura"
+   "silencio e temperatura",
+   "ac a 72"
   ],
   "18105144680201716": [
    "criatividade mil para"
