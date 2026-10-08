@@ -17,10 +17,10 @@
    "08:07",
    "08:53"
   ],
-  "respostas": 20,
+  "respostas": 24,
   "por_post": {
    "18105144680201716": 1,
-   "17921074737446173": 1,
+   "17921074737446173": 2,
    "18115082014839784": 3,
    "17904357669353514": 3,
    "18109013291351299": 2,
@@ -28,7 +28,8 @@
    "18375624967238237": 2,
    "18126416557887514": 2,
    "18028146761692151": 1,
-   "17978027112134799": 3
+   "17978027112134799": 3,
+   "17990532371862859": 3
   }
  },
  "posts": [
@@ -2205,7 +2206,11 @@
   "17975813889134445",
   "17916724401254969",
   "18094140809341954",
-  "18114061781469089"
+  "18114061781469089",
+  "18109738436234336",
+  "18625852306059983",
+  "18086918819298282",
+  "17976504153137081"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2466,7 +2471,7 @@
   "1948d48d94": 1,
   "aec2884779": 1,
   "6c85bcf2f5": 1,
-  "e7102b50d0": 1,
+  "e7102b50d0": 2,
   "d33fda4050": 1,
   "22ec3fe9e5": 1,
   "8b27c2e098": 1,
@@ -2476,30 +2481,13 @@
   "286a66a772": 1,
   "25c57fdf25": 1,
   "8bfd683993": 1,
-  "3dfe48e0a0": 1
+  "3dfe48e0a0": 1,
+  "0210060960": 1,
+  "35a679af89": 1,
+  "b6d30a7670": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "com quem já tem outra pessoa na vida o buraco é mais embaixo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse número é o ponto exato, nem forno nem congelador",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o algoritmo adora uma maldade né kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "resolveram trazer o caos disfarçado de evento pra dentro de casa kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "medida exata para causar confusão kkkkk",
    "p": "neutra",
@@ -2629,6 +2617,26 @@
    "t": "forte demais para o meu gosto",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse ambiente pequeno consegue concentrar todas as cobranças do mundo em uma sala só",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "escolha corajosa, esse aí tira a paz de qualquer um kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "sorte grande, agora virou herança de família kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Kkkkkkkkkkkkkmmmkkkkkkk trauma coletivo ativado com sucesso",
+   "p": "concorda",
+   "r": 3
   }
  ],
  "minhas_respostas": {
@@ -3025,10 +3033,6 @@
   }
  ],
  "aberturas_post": {
-  "18446705149192097": [
-   "trocar um s25",
-   "subiu um modelo"
-  ],
   "17948454009322563": [
    "se o buffet"
   ],
@@ -3269,12 +3273,18 @@
    "criatividade mil para"
   ],
   "17921074737446173": [
-   "ostentacao que chama"
+   "ostentacao que chama",
+   "sorte grande agora"
   ],
   "17978027112134799": [
    "a ex sogra",
    "presente com zero",
    "utilidade publica e"
+  ],
+  "17990532371862859": [
+   "esse ambiente pequeno",
+   "escolha corajosa esse",
+   "trauma coletivo ativado"
   ]
  },
  "shopee_checada": "2026-10-08|1",
