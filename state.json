@@ -19,7 +19,7 @@
    "10:00",
    "11:24"
   ],
-  "respostas": 40,
+  "respostas": 43,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
@@ -32,7 +32,8 @@
    "18028146761692151": 1,
    "17978027112134799": 6,
    "17990532371862859": 5,
-   "18098203103652972": 2
+   "18098203103652972": 2,
+   "18099059360387148": 3
   }
  },
  "posts": [
@@ -2211,7 +2212,10 @@
   "17961235857233295",
   "18117975631949510",
   "18074184317733803",
-  "18128605288875211"
+  "18128605288875211",
+  "17951586810391491",
+  "18070103342748240",
+  "17888542440621559"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2472,7 +2476,7 @@
   "1d06969815": 2,
   "7a6b838d64": 1,
   "d7c9e71973": 1,
-  "3db11c40f3": 1,
+  "3db11c40f3": 2,
   "1948d48d94": 1,
   "aec2884779": 1,
   "6c85bcf2f5": 1,
@@ -2503,25 +2507,11 @@
   "86c69aab0d": 1,
   "6e74223b29": 1,
   "2ec66d39d8": 1,
-  "5e106d3270": 1
+  "5e106d3270": 1,
+  "32c0366525": 2
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "quando o término é leve cada um segue em frente de verdade mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "acertou em cheio justamente a parte de acordar quando quiser",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a ex-sogra zerou o estoque de falta de noção kkkkkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
   {
    "t": "parece que a semana inteira resolve carregar no nosso ombro de uma vez só",
    "p": "concorda",
@@ -2656,6 +2646,21 @@
    "t": "tem presente que realmente passa do ponto da noção",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "Kkkkkkkkkkkkkmmmkkkkkkk",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "maca com ketchup já e teste para enfartar qualquer um",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estrategia de sobrevivencia pura kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3052,13 +3057,6 @@
   }
  ],
  "aberturas_post": {
-  "18113316785517878": [
-   "o importante e",
-   "bom dia so",
-   "a pessoa consegue",
-   "medida drastica mas",
-   "perdem a chance"
-  ],
   "18090795653210068": [
    "frango babento ja",
    "cada um segue",
@@ -3319,6 +3317,10 @@
   "18098203103652972": [
    "lei inquestionavel em",
    "esse nome tem"
+  ],
+  "18099059360387148": [
+   "maca com ketchup",
+   "estrategia de sobrevivencia"
   ]
  },
  "shopee_checada": "2026-10-08|1",
