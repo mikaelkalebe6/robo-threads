@@ -33,7 +33,7 @@
    "18:53",
    "20:01"
   ],
-  "respostas": 91,
+  "respostas": 94,
   "por_post": {
    "17969520279187566": 10,
    "18075881765449513": 10,
@@ -50,9 +50,10 @@
    "18118205002998533": 1,
    "18024377885876978": 8,
    "18109013291351299": 6,
-   "18129184651699420": 1,
+   "18129184651699420": 2,
    "17904357669353514": 5,
-   "17884868841506086": 1
+   "17884868841506086": 1,
+   "18115082014839784": 2
   }
  },
  "posts": [
@@ -2100,7 +2101,10 @@
   "17868215568663223",
   "18112374281125208",
   "18624048193052645",
-  "17972372058170953"
+  "17972372058170953",
+  "17943031614363251",
+  "17949808074054207",
+  "17877445581564381"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2349,7 +2353,7 @@
   "f0992d7402": 1,
   "e9ca7833a8": 1,
   "3a80bd6a2d": 1,
-  "1d06969815": 1,
+  "1d06969815": 2,
   "be837baf3d": 1,
   "50c632f5cc": 1,
   "52ee05a22d": 1,
@@ -2429,25 +2433,12 @@
   "c7f864adeb": 1,
   "87790f5b88": 1,
   "5f6662f6f4": 1,
-  "00433d3281": 1
+  "00433d3281": 1,
+  "86f431288d": 1,
+  "bc11f51536": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "uma semana é o tempo ideal pra ver se a pessoa não é maluca",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "estamos no mesmo barco então, o misterio continua",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "procura rara mas que vale cada segundo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa é de tirar a paz de qualquer um mesmo 😭",
    "p": "concorda",
@@ -2582,6 +2573,21 @@
    "t": "com quem já tem outra pessoa na vida o buraco é mais embaixo mesmo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse número é o ponto exato, nem forno nem congelador",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o algoritmo adora uma maldade né kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "resolveram trazer o caos disfarçado de evento pra dentro de casa kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -2948,24 +2954,6 @@
   }
  ],
  "aberturas_post": {
-  "18126767030510839": [
-   "quem nunca passa",
-   "amem porque essa",
-   "a lista e",
-   "lista salva a",
-   "o perigo mora",
-   "pesquisa de preco",
-   "sou a prova",
-   "desconto bom faz",
-   "devolver o excesso",
-   "tamo junto no",
-   "padaria na proxima",
-   "pelo menos a",
-   "lista e a",
-   "vc tambem sacola",
-   "missao impossivel voltar",
-   "mercado vira uma"
-  ],
   "18089275931235702": [
    "essa musica e",
    "concordo antes a"
@@ -3185,7 +3173,8 @@
    "paz espirito pura"
   ],
   "18129184651699420": [
-   "pelo menos essa"
+   "pelo menos essa",
+   "resolveram trazer o"
   ],
   "17904357669353514": [
    "nove anos e",
@@ -3196,6 +3185,10 @@
   ],
   "17884868841506086": [
    "esse ai tira"
+  ],
+  "18115082014839784": [
+   "esse numero e",
+   "o algoritmo adora"
   ]
  },
  "shopee_checada": "2026-10-07|1",
