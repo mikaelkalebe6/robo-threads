@@ -20,7 +20,7 @@
    "11:24",
    "12:11"
   ],
-  "respostas": 49,
+  "respostas": 51,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
@@ -28,7 +28,7 @@
    "17904357669353514": 5,
    "18109013291351299": 4,
    "18024377885876978": 2,
-   "18375624967238237": 10,
+   "18375624967238237": 12,
    "18126416557887514": 4,
    "18028146761692151": 1,
    "17978027112134799": 7,
@@ -2213,7 +2213,9 @@
   "18109908170131199",
   "17933667054146083",
   "18110567261174679",
-  "18106370281976368"
+  "18106370281976368",
+  "18092923235445105",
+  "18085214537337095"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2514,20 +2516,12 @@
   "746b68fd25": 1,
   "6b44e56b77": 1,
   "d147a8eb91": 1,
-  "8cd3676f5b": 1
+  "8cd3676f5b": 1,
+  "e609dba4f0": 1,
+  "09820c3fd8": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "forte demais para o meu gosto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse ambiente pequeno consegue concentrar todas as cobranças do mundo em uma sala só",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "escolha corajosa, esse aí tira a paz de qualquer um kkk",
    "p": "concorda",
@@ -2667,6 +2661,16 @@
    "t": "3 dias? já tô contando aqui kkk, bora curtir quando rolar",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "respeito total ao seu tempo, o importante é a química render depois",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "prazo justo para o papo render sem pressa",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3223,8 +3227,6 @@
    "pesado demais para"
   ],
   "18375624967238237": [
-   "ja comeca com",
-   "uau 1 ano",
    "verdade mensagem trava",
    "precisa de coragem",
    "cada um tem",
@@ -3242,7 +3244,9 @@
    "parece que cada",
    "nossa parece maratona",
    "exato quando a",
-   "3 dias ja"
+   "3 dias ja",
+   "respeito total ao",
+   "prazo justo para"
   ],
   "18118205002998533": [
    "na teoria e"
