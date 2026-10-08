@@ -23,7 +23,7 @@
    "17:12",
    "18:04"
   ],
-  "respostas": 58,
+  "respostas": 59,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
@@ -40,7 +40,7 @@
    "18099059360387148": 3,
    "17911108497554167": 1,
    "18116932673061251": 3,
-   "17986227470881809": 2
+   "17986227470881809": 3
   }
  },
  "posts": [
@@ -2201,7 +2201,8 @@
   "18232745317326357",
   "18271119508305598",
   "18020584622930520",
-  "18075321386484328"
+  "18075321386484328",
+  "18476600620114398"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2516,15 +2517,11 @@
   "6f0c9989ff": 1,
   "ed1fcf8d77": 1,
   "dc92b04f6c": 1,
-  "280792b6e0": 1
+  "280792b6e0": 1,
+  "9aec6ced5a": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "lei inquestionável em forma de fruta",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse nome tem som de carinho, achei fofinho",
    "p": "concorda",
@@ -2669,6 +2666,11 @@
    "t": "aquele modelo quadrado que parece uma caixinha de fósforo e a gente defende com unhas e dentes",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "querendo patrocinar o caos de novo kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -3321,7 +3323,8 @@
   ],
   "17986227470881809": [
    "sorte de quem",
-   "essa regra do"
+   "essa regra do",
+   "querendo patrocinar o"
   ]
  },
  "shopee_checada": "2026-10-08|1",
