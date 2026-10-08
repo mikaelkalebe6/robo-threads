@@ -18,19 +18,19 @@
    "08:53",
    "10:00"
   ],
-  "respostas": 32,
+  "respostas": 36,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
    "18115082014839784": 3,
    "17904357669353514": 4,
-   "18109013291351299": 3,
+   "18109013291351299": 4,
    "18024377885876978": 2,
-   "18375624967238237": 3,
-   "18126416557887514": 3,
+   "18375624967238237": 4,
+   "18126416557887514": 4,
    "18028146761692151": 1,
    "17978027112134799": 4,
-   "17990532371862859": 4,
+   "17990532371862859": 5,
    "18098203103652972": 2
   }
  },
@@ -2211,7 +2211,11 @@
   "18012738173977293",
   "18634044007047422",
   "17930785380163404",
-  "18108259913230236"
+  "18108259913230236",
+  "18101187713550454",
+  "18060059450572369",
+  "18098859881342974",
+  "18115601711013525"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2494,30 +2498,14 @@
   "42df173a8c": 2,
   "832919e0bc": 1,
   "c02b14bf50": 1,
-  "e45a3c30a1": 1
+  "e45a3c30a1": 1,
+  "c3e39e7bba": 1,
+  "a6b9319c89": 1,
+  "b5d2b34f40": 1,
+  "86c69aab0d": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "silêncio e temperatura controlada fazem toda a diferença para dormir bem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "é o tipo de assunto que divide mesa de bar na hora",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "economia e liberdade em casal são ótimas vantagens mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pura realidade e sem filtro",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "tempo clássico pra alinhar as expectativas e ver se vale o rolê",
    "p": "concorda",
@@ -2647,6 +2635,26 @@
    "t": "o disfarce dura até a próxima DR kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "verdade, cada um no seu ritmo rende muito mais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a evolução das redes sociais mudou completamente o cronograma de tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa promessa aí faz a pessoa esquecer que a chave vem com trinta anos de carnê",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "esse ganha o troféu de teste diário de paciência",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3200,7 +3208,8 @@
    "essa economia de",
    "drama pesado com",
    "pelo menos no",
-   "duas horas no"
+   "duas horas no",
+   "essa promessa ai"
   ],
   "18031353434910534": [
    "separar a bolacha",
@@ -3221,7 +3230,8 @@
    "contar 45 dias",
    "tempo classico pra",
    "resolvido rapido e",
-   "um mes e"
+   "um mes e",
+   "a evolucao das"
   ],
   "18118205002998533": [
    "na teoria e"
@@ -3247,7 +3257,8 @@
    "paz espirito pura",
    "economia e liberdade",
    "acertou em cheio",
-   "ficar esperto com"
+   "ficar esperto com",
+   "verdade cada um"
   ],
   "18129184651699420": [
    "pelo menos essa",
@@ -3297,7 +3308,8 @@
    "esse ambiente pequeno",
    "escolha corajosa esse",
    "trauma coletivo ativado",
-   "quarentena mental garantida"
+   "quarentena mental garantida",
+   "esse ganha o"
   ],
   "18098203103652972": [
    "lei inquestionavel em",
