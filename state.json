@@ -15,41 +15,25 @@
   ],
   "feitos": [
    "08:07",
-   "08:53"
+   "08:53",
+   "10:00"
   ],
-  "respostas": 24,
+  "respostas": 28,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
    "18115082014839784": 3,
    "17904357669353514": 3,
-   "18109013291351299": 2,
+   "18109013291351299": 3,
    "18024377885876978": 2,
-   "18375624967238237": 2,
-   "18126416557887514": 2,
+   "18375624967238237": 3,
+   "18126416557887514": 3,
    "18028146761692151": 1,
    "17978027112134799": 3,
-   "17990532371862859": 3
+   "17990532371862859": 4
   }
  },
  "posts": [
-  {
-   "id": "18125642254808162",
-   "insp": "7d0b87a61f",
-   "link": "",
-   "texto": "ACABEI DE PERCEBER: achei uma caixa antiga de lembranças e me dei conta de quanto tempo faz que não vejo a letra de alguém que eu gosto. Hoje em dia nossa rotina virou só áudio acelerado e mensagem rápida.\n\nQual foi a última vez que você recebeu um bilhete ou uma carta escrita à mão de verdade?",
-   "quando": "2026-10-03T11:07:09.029655-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 201,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-08"
-   }
-  },
   {
    "id": "18120448615994554",
    "insp": "143d9cb236",
@@ -1033,6 +1017,14 @@
    "link": "",
    "texto": "SEJAM SINCEROS: qual foi o pior emprego que você já teve?  \n1️⃣ Telemarketing agressivo  \n2️⃣ Garçom em festa infantil",
    "quando": "2026-10-08T09:07:09.428118-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18098203103652972",
+   "insp": "9251fb6a0d",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: bergamota, mexerica ou tangerina?  \nComo chama aí na sua cidade 😄",
+   "quando": "2026-10-08T10:07:12.125895-04:00",
    "ia": "Groq openai/gpt-oss-120b"
   }
  ],
@@ -2210,7 +2202,11 @@
   "18109738436234336",
   "18625852306059983",
   "18086918819298282",
-  "17976504153137081"
+  "17976504153137081",
+  "18359062180220312",
+  "17914007820465293",
+  "18124228864906981",
+  "17887578909479939"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2334,7 +2330,8 @@
   "9808e3443c186e81200d25d4735c78b8",
   "a3180cc9e6c15e83e86a403dc10fbead",
   "9ec753fb40dead2ad66d0585496aab6c",
-  "8925d0f6297c3ef244db0fe7af6632db"
+  "8925d0f6297c3ef244db0fe7af6632db",
+  "1e7d4f4807e180a4a21d9ef82d303a35"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2458,7 +2455,8 @@
   "6d05f48de0": 1791421663.0746691,
   "ab0f309ba0": 1791423493.1508825,
   "927cd87598": 1791461243.4873743,
-  "f16c6c27c0": 1791464840.5570676
+  "f16c6c27c0": 1791464840.5570676,
+  "9251fb6a0d": 1791468449.4808562
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2484,30 +2482,14 @@
   "3dfe48e0a0": 1,
   "0210060960": 1,
   "35a679af89": 1,
-  "b6d30a7670": 1
+  "b6d30a7670": 1,
+  "4da153c20a": 1,
+  "84061cb77a": 1,
+  "50b2f45425": 1,
+  "42df173a8c": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "medida exata para causar confusão kkkkk",
-   "p": "neutra",
-   "r": 2
-  },
-  {
-   "t": "arzão ganha na potência mas o ventilador ainda salva a gente no dia a dia kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "duas escolhas difíceis e nenhuma delas resolve o calor kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "aposta máxima contra o calor kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "quando tem filho no meio a dinâmica muda mesmo e o limite é a chave de tudo",
    "p": "concorda",
@@ -2637,6 +2619,26 @@
    "t": "Kkkkkkkkkkkkkmmmkkkkkkk trauma coletivo ativado com sucesso",
    "p": "concorda",
    "r": 3
+  },
+  {
+   "t": "ficar esperto com a seguranca é lei, mas essa liberdade compensa demais",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "um mês é um bom prazo pra ajustar a agenda e respirar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "duas horas no trânsito diário é teste de paciência todo dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quarentena mental garantida só de ler esse número",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3192,7 +3194,8 @@
    "entao o problema",
    "essa economia de",
    "drama pesado com",
-   "pelo menos no"
+   "pelo menos no",
+   "duas horas no"
   ],
   "18031353434910534": [
    "separar a bolacha",
@@ -3212,7 +3215,8 @@
    "estamos no mesmo",
    "contar 45 dias",
    "tempo classico pra",
-   "resolvido rapido e"
+   "resolvido rapido e",
+   "um mes e"
   ],
   "18118205002998533": [
    "na teoria e"
@@ -3237,7 +3241,8 @@
    "essa parte de",
    "paz espirito pura",
    "economia e liberdade",
-   "acertou em cheio"
+   "acertou em cheio",
+   "ficar esperto com"
   ],
   "18129184651699420": [
    "pelo menos essa",
@@ -3284,7 +3289,8 @@
   "17990532371862859": [
    "esse ambiente pequeno",
    "escolha corajosa esse",
-   "trauma coletivo ativado"
+   "trauma coletivo ativado",
+   "quarentena mental garantida"
   ]
  },
  "shopee_checada": "2026-10-08|1",
