@@ -20,7 +20,7 @@
    "11:24",
    "12:11"
   ],
-  "respostas": 51,
+  "respostas": 52,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
@@ -33,7 +33,7 @@
    "18028146761692151": 1,
    "17978027112134799": 7,
    "17990532371862859": 5,
-   "18098203103652972": 2,
+   "18098203103652972": 3,
    "18099059360387148": 3
   }
  },
@@ -2215,7 +2215,8 @@
   "18110567261174679",
   "18106370281976368",
   "18092923235445105",
-  "18085214537337095"
+  "18085214537337095",
+  "18154399366516547"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2518,15 +2519,10 @@
   "d147a8eb91": 1,
   "8cd3676f5b": 1,
   "e609dba4f0": 1,
-  "09820c3fd8": 1
+  "09820c3fd8": 2
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "escolha corajosa, esse aí tira a paz de qualquer um kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "sorte grande, agora virou herança de família kkkk",
    "p": "concorda",
@@ -2669,6 +2665,11 @@
   },
   {
    "t": "prazo justo para o papo render sem pressa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem fala bergamota com gosto já começa o dia ganhando",
    "p": "concorda",
    "r": 0
   }
@@ -3332,7 +3333,8 @@
   ],
   "18098203103652972": [
    "lei inquestionavel em",
-   "esse nome tem"
+   "esse nome tem",
+   "quem fala bergamota"
   ],
   "18099059360387148": [
    "maca com ketchup",
