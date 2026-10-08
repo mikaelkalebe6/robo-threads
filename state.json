@@ -30,9 +30,10 @@
    "16:06",
    "16:46",
    "17:33",
-   "18:53"
+   "18:53",
+   "20:01"
   ],
-  "respostas": 88,
+  "respostas": 91,
   "por_post": {
    "17969520279187566": 10,
    "18075881765449513": 10,
@@ -50,28 +51,11 @@
    "18024377885876978": 8,
    "18109013291351299": 6,
    "18129184651699420": 1,
-   "17904357669353514": 2,
+   "17904357669353514": 5,
    "17884868841506086": 1
   }
  },
  "posts": [
-  {
-   "id": "18101072033635172",
-   "insp": "e9335aae02",
-   "link": "",
-   "texto": "SEM MENTIR: qual foi a última vez que você avisou que tava no trânsito enquanto ainda procurava a chave de casa?\n\nEu juro que tento ser uma adulta pontual, mas às vezes apelo para a ficção desses dez minutinhos de engarrafamento.\n\nQuem mais se identifica?",
-   "quando": "2026-10-02T21:07:10.188337-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 353,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "17898651726671893",
    "insp": "20526bb3a2",
@@ -966,6 +950,14 @@
    "texto": "DÚVIDA SINCERA: amizade com ex é sinal de maturidade ou apego disfarçado? \n\nPra mim não funciona de jeito nenhum.",
    "quando": "2026-10-07T19:07:08.662013-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18115082014839784",
+   "insp": "0c6e3aa2e9",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: ventilador direto na cara a noite toda ou ar condicionado trancado no dezoito?",
+   "quando": "2026-10-07T20:07:08.882766-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2105,7 +2097,10 @@
   "18106485586960995",
   "17997755511032114",
   "17998198560035955",
-  "17868215568663223"
+  "17868215568663223",
+  "18112374281125208",
+  "18624048193052645",
+  "17972372058170953"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2224,7 +2219,8 @@
   "ca3be7acfd34977077d6e2d1f5b9bd48",
   "9b286df994d04d2fd18b81b6045a74d0",
   "bd192be1121e266310eccc3fa3eaaffa",
-  "f34ca01b6710a4c885e61b681523271d"
+  "f34ca01b6710a4c885e61b681523271d",
+  "9cecc2e168eef687994d5434addf9b6d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2343,7 +2339,8 @@
   "59c16f2082": 1791403651.236615,
   "b7ff902af0": 1791407257.6508343,
   "bc90ccda37": 1791409064.7536128,
-  "69415b36aa": 1791414450.6617262
+  "69415b36aa": 1791414450.6617262,
+  "0c6e3aa2e9": 1791418053.3214092
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2410,7 +2407,7 @@
   "0fe9e38c2b": 1,
   "5bf9b2b63f": 2,
   "b9d495fcbb": 1,
-  "c682c4cd55": 1,
+  "c682c4cd55": 2,
   "b9fbec33d1": 1,
   "35fc056b64": 1,
   "64800fe8c5": 1,
@@ -2430,25 +2427,12 @@
   "b391de087b": 1,
   "7d73d09130": 1,
   "c7f864adeb": 1,
-  "87790f5b88": 1
+  "87790f5b88": 1,
+  "5f6662f6f4": 1,
+  "00433d3281": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "na teoria é lindo mas na prática a conversa sempre acaba com eles tendo razão",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pesado demais para uma simples bolacha kkkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "pergunta boa que não quer calar",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "uma semana é o tempo ideal pra ver se a pessoa não é maluca",
    "p": "concorda",
@@ -2582,6 +2566,21 @@
   {
    "t": "quem tem esse nível de paz de espírito merece uma medalha porque para mim não rola",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "a sogra garantir o rango de domingo mesmo sem a ex por perto é nível avançado de diplomacia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "respeito total a sinceridade, cada um sabe o limite que funciona",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "com quem já tem outra pessoa na vida o buraco é mais embaixo mesmo",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -3190,7 +3189,10 @@
   ],
   "17904357669353514": [
    "nove anos e",
-   "quem tem esse"
+   "quem tem esse",
+   "a sogra garantir",
+   "respeito total a",
+   "com quem ja"
   ],
   "17884868841506086": [
    "esse ai tira"
