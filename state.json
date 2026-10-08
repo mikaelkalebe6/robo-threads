@@ -32,9 +32,10 @@
    "17:33",
    "18:53",
    "20:01",
-   "20:43"
+   "20:43",
+   "21:23"
   ],
-  "respostas": 97,
+  "respostas": 100,
   "por_post": {
    "17969520279187566": 10,
    "18075881765449513": 10,
@@ -52,29 +53,12 @@
    "18024377885876978": 8,
    "18109013291351299": 6,
    "18129184651699420": 2,
-   "17904357669353514": 5,
+   "17904357669353514": 6,
    "17884868841506086": 1,
-   "18115082014839784": 5
+   "18115082014839784": 7
   }
  },
  "posts": [
-  {
-   "id": "18085458008701298",
-   "insp": "d26d8b821e",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: vocês ainda pagam caro em ingresso de show ou esperam o vídeo sair no YouTube?",
-   "quando": "2026-10-03T09:07:09.238539-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 979,
-    "likes": 4,
-    "replies": 36,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "18179115472434875",
    "insp": "3a347dea45",
@@ -950,6 +934,14 @@
    "link": "",
    "texto": "Comer fruta fora de época sem olhar o preço no mercado já virou símbolo de status pra mim. O custo de vida subiu tanto que até a goiaba virou artigo de luxo.",
    "quando": "2026-10-07T21:07:09.137287-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18105144680201716",
+   "insp": "ab0f309ba0",
+   "link": "",
+   "texto": "Olho pro meu armário de infância e lembro de ter ganhado bem menos coisa no Natal do que a criançada ganha hoje em dia.",
+   "quando": "2026-10-07T21:37:08.620250-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -2099,7 +2091,11 @@
   "17877445581564381",
   "18503432503103676",
   "17999598126001673",
-  "18123162643898155"
+  "18123162643898155",
+  "17907024495560536",
+  "18083999168686874",
+  "18177560830380904",
+  "18033090266874821"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2220,7 +2216,8 @@
   "bd192be1121e266310eccc3fa3eaaffa",
   "f34ca01b6710a4c885e61b681523271d",
   "9cecc2e168eef687994d5434addf9b6d",
-  "9808e3443c186e81200d25d4735c78b8"
+  "9808e3443c186e81200d25d4735c78b8",
+  "a3180cc9e6c15e83e86a403dc10fbead"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2341,7 +2338,8 @@
   "bc90ccda37": 1791409064.7536128,
   "69415b36aa": 1791414450.6617262,
   "0c6e3aa2e9": 1791418053.3214092,
-  "6d05f48de0": 1791421663.0746691
+  "6d05f48de0": 1791421663.0746691,
+  "ab0f309ba0": 1791423493.1508825
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2425,7 +2423,7 @@
   "441619a291": 1,
   "65f01eeff8": 1,
   "2bcfbebeeb": 1,
-  "b391de087b": 1,
+  "b391de087b": 2,
   "7d73d09130": 1,
   "c7f864adeb": 1,
   "87790f5b88": 1,
@@ -2435,25 +2433,12 @@
   "bc11f51536": 1,
   "24f0167c2c": 1,
   "709602453a": 1,
-  "f60d67d0f8": 1
+  "f60d67d0f8": 1,
+  "5a5f24e8fc": 1,
+  "012af066d7": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "nem precisa esperar escurecer, bateu o horario o desespero vem junto kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse pelo menos a gente conseguia ignorar mudando de canal kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sorte a sua porque a ansiedade aqui já bate forte cedo",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "Verdade, domingo de solteiro vira maratona de séries e pizza, né? 😂",
    "p": "concorda",
@@ -2588,6 +2573,21 @@
    "t": "duas escolhas difíceis e nenhuma delas resolve o calor kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "aposta máxima contra o calor kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "quando tem filho no meio a dinâmica muda mesmo e o limite é a chave de tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "escolha direta e sem enrolação pra dar conta desse calor",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3181,7 +3181,8 @@
    "quem tem esse",
    "a sogra garantir",
    "respeito total a",
-   "com quem ja"
+   "com quem ja",
+   "quando tem filho"
   ],
   "17884868841506086": [
    "esse ai tira"
@@ -3191,7 +3192,9 @@
    "o algoritmo adora",
    "medida exata para",
    "arzao ganha na",
-   "duas escolhas dificeis"
+   "duas escolhas dificeis",
+   "aposta maxima contra",
+   "escolha direta e"
   ]
  },
  "shopee_checada": "2026-10-07|1",
