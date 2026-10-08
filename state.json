@@ -18,7 +18,8 @@
    "08:53",
    "10:00",
    "11:24",
-   "12:11"
+   "12:11",
+   "16:14"
   ],
   "respostas": 52,
   "por_post": {
@@ -38,23 +39,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18118642979062271",
-   "insp": "120d39bc61",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual amizade sumiu da sua vida do nada e até hoje você tenta entender o porquê",
-   "quando": "2026-10-03T14:37:08.420964-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1418,
-    "likes": 6,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-08"
-   }
-  },
   {
    "id": "17957805633235218",
    "insp": "880c48c090",
@@ -1012,6 +996,14 @@
    "texto": "VAMOS SER HONESTOS: já passei um relatório inteiro pro ChatGPT e ninguém percebeu. 🤫",
    "quando": "2026-10-08T12:37:10.129828-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "17911108497554167",
+   "insp": "607a9f8d64",
+   "link": "",
+   "texto": "SEJAM SINCEROS: quem aqui realmente lê aquele contrato enorme antes de aceitar o aplicativo? Aposto que todo mundo só clica em concordar para passar logo.",
+   "quando": "2026-10-08T16:37:09.661498-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2343,7 +2335,8 @@
   "8925d0f6297c3ef244db0fe7af6632db",
   "1e7d4f4807e180a4a21d9ef82d303a35",
   "304eb72b0b2900835ebd0ebab9771b3d",
-  "923cd7619535e817ddaaac108cfd3ae1"
+  "923cd7619535e817ddaaac108cfd3ae1",
+  "a240bc3a930cb570f0d7e65d0528d808"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2470,7 +2463,8 @@
   "f16c6c27c0": 1791464840.5570676,
   "9251fb6a0d": 1791468449.4808562,
   "9a79b11d92": 1791473853.9998388,
-  "d6497bdd55": 1791477465.6790605
+  "d6497bdd55": 1791477465.6790605,
+  "607a9f8d64": 1791491845.7964373
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
