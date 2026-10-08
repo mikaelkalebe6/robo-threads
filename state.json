@@ -20,9 +20,10 @@
    "11:24",
    "12:11",
    "16:14",
-   "17:12"
+   "17:12",
+   "18:04"
   ],
-  "respostas": 53,
+  "respostas": 55,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
@@ -37,27 +38,11 @@
    "17990532371862859": 5,
    "18098203103652972": 3,
    "18099059360387148": 3,
-   "17911108497554167": 1
+   "17911108497554167": 1,
+   "18116932673061251": 2
   }
  },
  "posts": [
-  {
-   "id": "17895939030415554",
-   "insp": "c5b66c6c5b",
-   "link": "",
-   "texto": "PESSOAS QUE JÁ FIZERAM MOCHILÃO: qual perrengue gigante demorou mais tempo para virar piada?",
-   "quando": "2026-10-03T18:07:10.431978-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 437,
-    "likes": 1,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-08"
-   }
-  },
   {
    "id": "17933170953146937",
    "insp": "20b4497ce2",
@@ -997,6 +982,14 @@
    "texto": "VAMOS CONCORDAR: tem carro que é tão feio que vira charme e a gente acaba apegado igual bicho de estimação",
    "quando": "2026-10-08T17:37:08.465537-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17986227470881809",
+   "insp": "29649aab34",
+   "link": "",
+   "texto": "Levar calote de amigo uma vez é aprendizado. Emprestar de novo pra mesma pessoa já é pedir pra ser feita de trouxa.",
+   "quando": "2026-10-08T18:07:09.718475-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -2202,7 +2195,9 @@
   "18092923235445105",
   "18085214537337095",
   "18154399366516547",
-  "18111690836174180"
+  "18111690836174180",
+  "17986943372879199",
+  "18232745317326357"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2331,7 +2326,8 @@
   "304eb72b0b2900835ebd0ebab9771b3d",
   "923cd7619535e817ddaaac108cfd3ae1",
   "a240bc3a930cb570f0d7e65d0528d808",
-  "f6e28494869959ca8f398b2fc8641758"
+  "f6e28494869959ca8f398b2fc8641758",
+  "1a924c6a15343ea79c49ea7444c6a610"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2460,7 +2456,8 @@
   "9a79b11d92": 1791473853.9998388,
   "d6497bdd55": 1791477465.6790605,
   "607a9f8d64": 1791491845.7964373,
-  "bcc0c20424": 1791495460.9115326
+  "bcc0c20424": 1791495460.9115326,
+  "29649aab34": 1791497253.2238147
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2510,20 +2507,12 @@
   "8cd3676f5b": 1,
   "e609dba4f0": 1,
   "09820c3fd8": 2,
-  "b35859f239": 1
+  "b35859f239": 1,
+  "0423d75b1f": 1,
+  "6f0c9989ff": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "Kkkkkkkkkkkkkmmmkkkkkkk trauma coletivo ativado com sucesso",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "ficar esperto com a seguranca é lei, mas essa liberdade compensa demais",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "um mês é um bom prazo pra ajustar a agenda e respirar",
    "p": "concorda",
@@ -2663,6 +2652,16 @@
    "t": "confesso que o único e-mail que a gente lê até o fim é a confirmação de férias",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "justo, tem modelo que não tem salvação mesmo",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "integrante oficial do clube do charme mal compreendido kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -3059,11 +3058,6 @@
   }
  ],
  "aberturas_post": {
-  "18152505118527863": [
-   "reliquia que so",
-   "o problema e",
-   "pelo menos a"
-  ],
   "18021445505924431": [
    "esse caldo quente",
    "pizza ate que",
@@ -3324,6 +3318,10 @@
   ],
   "17911108497554167": [
    "confesso que o"
+  ],
+  "18116932673061251": [
+   "justo tem modelo",
+   "integrante oficial do"
   ]
  },
  "shopee_checada": "2026-10-08|1",
