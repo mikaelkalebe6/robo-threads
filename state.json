@@ -21,7 +21,8 @@
    "12:11",
    "16:14",
    "17:12",
-   "18:04"
+   "18:04",
+   "19:15"
   ],
   "respostas": 59,
   "por_post": {
@@ -44,23 +45,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17933170953146937",
-   "insp": "20b4497ce2",
-   "link": "",
-   "texto": "SEJAM SINCEROS: qual foi o gasto com criança que ninguém te avisou antes e te pegou de surpresa?",
-   "quando": "2026-10-03T19:37:07.608662-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 68199,
-    "likes": 204,
-    "replies": 308,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 3,
-    "em": "2026-10-08"
-   }
-  },
   {
    "id": "18027138863883219",
    "insp": "39b02ce282",
@@ -991,6 +975,14 @@
    "texto": "Levar calote de amigo uma vez é aprendizado. Emprestar de novo pra mesma pessoa já é pedir pra ser feita de trouxa.",
    "quando": "2026-10-08T18:07:09.718475-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18157552714458950",
+   "insp": "63b1ece74f",
+   "link": "",
+   "texto": "OPINIAO IMPOPULAR: a pamonha de Goiás é boa sim, mas o pessoal exagera achando que não tem rival no país.",
+   "quando": "2026-10-08T19:37:09.521045-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2332,7 +2324,8 @@
   "923cd7619535e817ddaaac108cfd3ae1",
   "a240bc3a930cb570f0d7e65d0528d808",
   "f6e28494869959ca8f398b2fc8641758",
-  "1a924c6a15343ea79c49ea7444c6a610"
+  "1a924c6a15343ea79c49ea7444c6a610",
+  "28364cd36ae251ffe132cf77afca74e1"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2462,7 +2455,8 @@
   "d6497bdd55": 1791477465.6790605,
   "607a9f8d64": 1791491845.7964373,
   "bcc0c20424": 1791495460.9115326,
-  "29649aab34": 1791497253.2238147
+  "29649aab34": 1791497253.2238147,
+  "63b1ece74f": 1791502688.3760064
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
