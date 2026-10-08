@@ -21,7 +21,7 @@
    "12:11",
    "16:14"
   ],
-  "respostas": 52,
+  "respostas": 53,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
@@ -35,7 +35,8 @@
    "17978027112134799": 7,
    "17990532371862859": 5,
    "18098203103652972": 3,
-   "18099059360387148": 3
+   "18099059360387148": 3,
+   "17911108497554167": 1
   }
  },
  "posts": [
@@ -2208,7 +2209,8 @@
   "18106370281976368",
   "18092923235445105",
   "18085214537337095",
-  "18154399366516547"
+  "18154399366516547",
+  "18111690836174180"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2513,15 +2515,11 @@
   "d147a8eb91": 1,
   "8cd3676f5b": 1,
   "e609dba4f0": 1,
-  "09820c3fd8": 2
+  "09820c3fd8": 2,
+  "b35859f239": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "sorte grande, agora virou herança de família kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Kkkkkkkkkkkkkmmmkkkkkkk trauma coletivo ativado com sucesso",
    "p": "concorda",
@@ -2664,6 +2662,11 @@
   },
   {
    "t": "quem fala bergamota com gosto já começa o dia ganhando",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "confesso que o único e-mail que a gente lê até o fim é a confirmação de férias",
    "p": "concorda",
    "r": 0
   }
@@ -3062,15 +3065,6 @@
   }
  ],
  "aberturas_post": {
-  "18090795653210068": [
-   "frango babento ja",
-   "cada um segue",
-   "ciencia ganha da",
-   "eu tambem ja",
-   "deixar de molho",
-   "dizem q espalha",
-   "time do nao"
-  ],
   "18152505118527863": [
    "reliquia que so",
    "o problema e",
@@ -3333,6 +3327,9 @@
   "18099059360387148": [
    "maca com ketchup",
    "estrategia de sobrevivencia"
+  ],
+  "17911108497554167": [
+   "confesso que o"
   ]
  },
  "shopee_checada": "2026-10-08|1",
