@@ -16,17 +16,18 @@
   "feitos": [
    "08:07"
   ],
-  "respostas": 12,
+  "respostas": 16,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 1,
    "18115082014839784": 2,
    "17904357669353514": 2,
    "18109013291351299": 2,
-   "18024377885876978": 1,
-   "18375624967238237": 1,
-   "18126416557887514": 1,
-   "18028146761692151": 1
+   "18024377885876978": 2,
+   "18375624967238237": 2,
+   "18126416557887514": 2,
+   "18028146761692151": 1,
+   "17978027112134799": 1
   }
  },
  "posts": [
@@ -2204,7 +2205,11 @@
   "18117362774061165",
   "18116446277049980",
   "18491996716101321",
-  "17897352375672372"
+  "17897352375672372",
+  "17863048602696207",
+  "18090703373196943",
+  "18185043631424020",
+  "17879444895554602"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2465,30 +2470,14 @@
   "6c85bcf2f5": 1,
   "e7102b50d0": 1,
   "d33fda4050": 1,
-  "22ec3fe9e5": 1
+  "22ec3fe9e5": 1,
+  "8b27c2e098": 1,
+  "8033d69ded": 1,
+  "8a34914b96": 1,
+  "564defc3d7": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "sim, a contagem regressiva pra segunda já estraga o dia todo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "zerou o quesito honestidade no relacionamento kkkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "economia de energia garantida kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "nove anos é uma vida inteira mesmo, aí o histórico pesa demais",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "esse aí tira a tranquilidade e a liberdade de brinde kkk",
    "p": "concorda",
@@ -2617,6 +2606,26 @@
   {
    "t": "acertou em cheio justamente a parte de acordar quando quiser",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a ex-sogra zerou o estoque de falta de noção kkkkkkkkkkk",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "parece que a semana inteira resolve carregar no nosso ombro de uma vez só",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "resolvido rápido e sem enrolação kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pelo menos no centro a gente paga pela comodidade de ter tudo perto",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -3014,9 +3023,6 @@
   }
  ],
  "aberturas_post": {
-  "18116788114783020": [
-   "essa decisao e"
-  ],
   "18446705149192097": [
    "trocar um s25",
    "subiu um modelo"
@@ -3179,7 +3185,8 @@
    "verdade caos tem",
    "entao o problema",
    "essa economia de",
-   "drama pesado com"
+   "drama pesado com",
+   "pelo menos no"
   ],
   "18031353434910534": [
    "separar a bolacha",
@@ -3198,7 +3205,8 @@
    "uma semana e",
    "estamos no mesmo",
    "contar 45 dias",
-   "tempo classico pra"
+   "tempo classico pra",
+   "resolvido rapido e"
   ],
   "18118205002998533": [
    "na teoria e"
@@ -3212,7 +3220,8 @@
    "pessoa corajosa encontrada",
    "parece que o",
    "sim a contagem",
-   "pura realidade e"
+   "pura realidade e",
+   "parece que a"
   ],
   "18109013291351299": [
    "turma animada assim",
@@ -3257,6 +3266,9 @@
   ],
   "17921074737446173": [
    "ostentacao que chama"
+  ],
+  "17978027112134799": [
+   "a ex sogra"
   ]
  },
  "shopee_checada": "2026-10-08|1",
