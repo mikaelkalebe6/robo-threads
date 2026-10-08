@@ -17,9 +17,10 @@
    "08:07",
    "08:53",
    "10:00",
-   "11:24"
+   "11:24",
+   "12:11"
   ],
-  "respostas": 43,
+  "respostas": 46,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
@@ -27,7 +28,7 @@
    "17904357669353514": 5,
    "18109013291351299": 4,
    "18024377885876978": 2,
-   "18375624967238237": 5,
+   "18375624967238237": 8,
    "18126416557887514": 4,
    "18028146761692151": 1,
    "17978027112134799": 6,
@@ -37,23 +38,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18177828211432861",
-   "insp": "46db302f47",
-   "link": "",
-   "texto": "PESSOAS QUE TRABALHAM EM HOME OFFICE: vocês conseguem trabalhar de pijama o dia todo ou precisam fingir que são pessoas normais trocando de roupa?",
-   "quando": "2026-10-03T13:07:08.428027-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1445,
-    "likes": 9,
-    "replies": 33,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-08"
-   }
-  },
   {
    "id": "18118642979062271",
    "insp": "120d39bc61",
@@ -1020,6 +1004,14 @@
    "texto": "Comer prato horrível na casa dos outros só para não fazer desfeita é o teste definitivo de paciência. Ninguém merece elogiar macarronada crua.",
    "quando": "2026-10-08T11:37:09.704517-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18111330140174687",
+   "insp": "d6497bdd55",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: já passei um relatório inteiro pro ChatGPT e ninguém percebeu. 🤫",
+   "quando": "2026-10-08T12:37:10.129828-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -2215,7 +2207,10 @@
   "18128605288875211",
   "17951586810391491",
   "18070103342748240",
-  "17888542440621559"
+  "17888542440621559",
+  "18050731982603210",
+  "18089543492244454",
+  "18109908170131199"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2341,7 +2336,8 @@
   "9ec753fb40dead2ad66d0585496aab6c",
   "8925d0f6297c3ef244db0fe7af6632db",
   "1e7d4f4807e180a4a21d9ef82d303a35",
-  "304eb72b0b2900835ebd0ebab9771b3d"
+  "304eb72b0b2900835ebd0ebab9771b3d",
+  "923cd7619535e817ddaaac108cfd3ae1"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2467,7 +2463,8 @@
   "927cd87598": 1791461243.4873743,
   "f16c6c27c0": 1791464840.5570676,
   "9251fb6a0d": 1791468449.4808562,
-  "9a79b11d92": 1791473853.9998388
+  "9a79b11d92": 1791473853.9998388,
+  "d6497bdd55": 1791477465.6790605
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2508,25 +2505,13 @@
   "6e74223b29": 1,
   "2ec66d39d8": 1,
   "5e106d3270": 1,
-  "32c0366525": 2
+  "32c0366525": 2,
+  "1eb4ad9c86": 1,
+  "29d6a83a6c": 1,
+  "746b68fd25": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "parece que a semana inteira resolve carregar no nosso ombro de uma vez só",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "resolvido rápido e sem enrolação kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pelo menos no centro a gente paga pela comodidade de ter tudo perto",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "presente com zero noção do destinatário kkk",
    "p": "concorda",
@@ -2661,6 +2646,21 @@
    "t": "estrategia de sobrevivencia pura kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "Que recorde, hein? Ainda bem que a ansiedade não vem antes kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "parece que cada dia vale por uma manhã sem sono kkk",
+   "p": "neutra",
+   "r": 2
+  },
+  {
+   "t": "Nossa, parece maratona de série que termina de repente",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3231,7 +3231,10 @@
    "resolvido rapido e",
    "um mes e",
    "a evolucao das",
-   "velocidade maxima no"
+   "velocidade maxima no",
+   "que recorde hein",
+   "parece que cada",
+   "nossa parece maratona"
   ],
   "18118205002998533": [
    "na teoria e"
