@@ -18,19 +18,20 @@
    "08:53",
    "10:00"
   ],
-  "respostas": 28,
+  "respostas": 32,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
    "18115082014839784": 3,
-   "17904357669353514": 3,
+   "17904357669353514": 4,
    "18109013291351299": 3,
    "18024377885876978": 2,
    "18375624967238237": 3,
    "18126416557887514": 3,
    "18028146761692151": 1,
-   "17978027112134799": 3,
-   "17990532371862859": 4
+   "17978027112134799": 4,
+   "17990532371862859": 4,
+   "18098203103652972": 2
   }
  },
  "posts": [
@@ -2206,7 +2207,11 @@
   "18359062180220312",
   "17914007820465293",
   "18124228864906981",
-  "17887578909479939"
+  "17887578909479939",
+  "18012738173977293",
+  "18634044007047422",
+  "17930785380163404",
+  "18108259913230236"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2486,30 +2491,13 @@
   "4da153c20a": 1,
   "84061cb77a": 1,
   "50b2f45425": 1,
-  "42df173a8c": 1
+  "42df173a8c": 2,
+  "832919e0bc": 1,
+  "c02b14bf50": 1,
+  "e45a3c30a1": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "quando tem filho no meio a dinâmica muda mesmo e o limite é a chave de tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "escolha direta e sem enrolação pra dar conta desse calor",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "criatividade mil para compensar a falta de opção",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ostentação que chama kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "silêncio e temperatura controlada fazem toda a diferença para dormir bem",
    "p": "concorda",
@@ -2639,6 +2627,26 @@
    "t": "quarentena mental garantida só de ler esse número",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "lei inquestionável em forma de fruta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse nome tem som de carinho, achei fofinho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "autocuidado de respeito e com muita personalidade kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o disfarce dura até a próxima DR kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3035,9 +3043,6 @@
   }
  ],
  "aberturas_post": {
-  "17948454009322563": [
-   "se o buffet"
-  ],
   "18113316785517878": [
    "o importante e",
    "bom dia so",
@@ -3257,7 +3262,8 @@
    "quando tem filho",
    "e o tipo",
    "quando o termino",
-   "forte demais para"
+   "forte demais para",
+   "o disfarce dura"
   ],
   "17884868841506086": [
    "esse ai tira"
@@ -3284,13 +3290,18 @@
   "17978027112134799": [
    "a ex sogra",
    "presente com zero",
-   "utilidade publica e"
+   "utilidade publica e",
+   "autocuidado de respeito"
   ],
   "17990532371862859": [
    "esse ambiente pequeno",
    "escolha corajosa esse",
    "trauma coletivo ativado",
    "quarentena mental garantida"
+  ],
+  "18098203103652972": [
+   "lei inquestionavel em",
+   "esse nome tem"
   ]
  },
  "shopee_checada": "2026-10-08|1",
