@@ -31,9 +31,10 @@
    "16:46",
    "17:33",
    "18:53",
-   "20:01"
+   "20:01",
+   "20:43"
   ],
-  "respostas": 94,
+  "respostas": 97,
   "por_post": {
    "17969520279187566": 10,
    "18075881765449513": 10,
@@ -53,27 +54,10 @@
    "18129184651699420": 2,
    "17904357669353514": 5,
    "17884868841506086": 1,
-   "18115082014839784": 2
+   "18115082014839784": 5
   }
  },
  "posts": [
-  {
-   "id": "17898651726671893",
-   "insp": "20526bb3a2",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: quem já começou a brigar no grupo da família por causa de Inglaterra e Espanha?",
-   "quando": "2026-10-02T22:07:07.436952-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 114,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-07"
-   }
-  },
   {
    "id": "18085458008701298",
    "insp": "d26d8b821e",
@@ -958,6 +942,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: ventilador direto na cara a noite toda ou ar condicionado trancado no dezoito?",
    "quando": "2026-10-07T20:07:08.882766-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17921074737446173",
+   "insp": "6d05f48de0",
+   "link": "",
+   "texto": "Comer fruta fora de época sem olhar o preço no mercado já virou símbolo de status pra mim. O custo de vida subiu tanto que até a goiaba virou artigo de luxo.",
+   "quando": "2026-10-07T21:07:09.137287-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -2104,7 +2096,10 @@
   "17972372058170953",
   "17943031614363251",
   "17949808074054207",
-  "17877445581564381"
+  "17877445581564381",
+  "18503432503103676",
+  "17999598126001673",
+  "18123162643898155"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2224,7 +2219,8 @@
   "9b286df994d04d2fd18b81b6045a74d0",
   "bd192be1121e266310eccc3fa3eaaffa",
   "f34ca01b6710a4c885e61b681523271d",
-  "9cecc2e168eef687994d5434addf9b6d"
+  "9cecc2e168eef687994d5434addf9b6d",
+  "9808e3443c186e81200d25d4735c78b8"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2344,7 +2340,8 @@
   "b7ff902af0": 1791407257.6508343,
   "bc90ccda37": 1791409064.7536128,
   "69415b36aa": 1791414450.6617262,
-  "0c6e3aa2e9": 1791418053.3214092
+  "0c6e3aa2e9": 1791418053.3214092,
+  "6d05f48de0": 1791421663.0746691
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2435,25 +2432,13 @@
   "5f6662f6f4": 1,
   "00433d3281": 1,
   "86f431288d": 1,
-  "bc11f51536": 1
+  "bc11f51536": 1,
+  "24f0167c2c": 1,
+  "709602453a": 1,
+  "f60d67d0f8": 1
  },
  "reservas_checadas": "2026-10-07",
  "ultimas_respostas": [
-  {
-   "t": "essa é de tirar a paz de qualquer um mesmo 😭",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "contar 45 dias exige uma dose certa de coragem que eu não sei se tenho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa economia de transporte alivia bastante o estresse do barulho kkkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "nem precisa esperar escurecer, bateu o horario o desespero vem junto kkk",
    "p": "concorda",
@@ -2588,6 +2573,21 @@
    "t": "resolveram trazer o caos disfarçado de evento pra dentro de casa kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "medida exata para causar confusão kkkkk",
+   "p": "neutra",
+   "r": 2
+  },
+  {
+   "t": "arzão ganha na potência mas o ventilador ainda salva a gente no dia a dia kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "duas escolhas difíceis e nenhuma delas resolve o calor kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3188,7 +3188,10 @@
   ],
   "18115082014839784": [
    "esse numero e",
-   "o algoritmo adora"
+   "o algoritmo adora",
+   "medida exata para",
+   "arzao ganha na",
+   "duas escolhas dificeis"
   ]
  },
  "shopee_checada": "2026-10-07|1",
