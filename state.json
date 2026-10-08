@@ -23,7 +23,7 @@
    "17:12",
    "18:04"
   ],
-  "respostas": 55,
+  "respostas": 58,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
@@ -39,7 +39,8 @@
    "18098203103652972": 3,
    "18099059360387148": 3,
    "17911108497554167": 1,
-   "18116932673061251": 2
+   "18116932673061251": 3,
+   "17986227470881809": 2
   }
  },
  "posts": [
@@ -2197,7 +2198,10 @@
   "18154399366516547",
   "18111690836174180",
   "17986943372879199",
-  "18232745317326357"
+  "18232745317326357",
+  "18271119508305598",
+  "18020584622930520",
+  "18075321386484328"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2509,25 +2513,13 @@
   "09820c3fd8": 2,
   "b35859f239": 1,
   "0423d75b1f": 1,
-  "6f0c9989ff": 1
+  "6f0c9989ff": 1,
+  "ed1fcf8d77": 1,
+  "dc92b04f6c": 1,
+  "280792b6e0": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "um mês é um bom prazo pra ajustar a agenda e respirar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "duas horas no trânsito diário é teste de paciência todo dia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quarentena mental garantida só de ler esse número",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "lei inquestionável em forma de fruta",
    "p": "concorda",
@@ -2662,6 +2654,21 @@
    "t": "integrante oficial do clube do charme mal compreendido kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "sorte de quem passou batido por essa fase",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa regra do dinheiro perdido já devia vir impressa no manual kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "aquele modelo quadrado que parece uma caixinha de fósforo e a gente defende com unhas e dentes",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3058,18 +3065,6 @@
   }
  ],
  "aberturas_post": {
-  "18021445505924431": [
-   "esse caldo quente",
-   "pizza ate que",
-   "classico que nunca",
-   "recepcao calorosa desse",
-   "para quem chega",
-   "galinhada com pequi",
-   "prato pesado e",
-   "pesado na medida",
-   "essa coxinha de",
-   "esse divide opinioes"
-  ],
   "18375054751212499": [
    "mecanico sempre estraga",
    "raiva acumulada e",
@@ -3321,7 +3316,12 @@
   ],
   "18116932673061251": [
    "justo tem modelo",
-   "integrante oficial do"
+   "integrante oficial do",
+   "aquele modelo quadrado"
+  ],
+  "17986227470881809": [
+   "sorte de quem",
+   "essa regra do"
   ]
  },
  "shopee_checada": "2026-10-08|1",
