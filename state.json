@@ -16,35 +16,20 @@
    "20:51"
   ],
   "feitos": [
-   "08:13"
+   "08:13",
+   "09:20"
   ],
-  "respostas": 9,
+  "respostas": 11,
   "por_post": {
    "17871358557637154": 3,
-   "18157552714458950": 2,
+   "18157552714458950": 3,
    "17911108497554167": 1,
    "18111330140174687": 2,
-   "18098203103652972": 1
+   "18098203103652972": 1,
+   "18124736575742625": 1
   }
  },
  "posts": [
-  {
-   "id": "18080156645367951",
-   "insp": "3d41eeda62",
-   "link": "",
-   "texto": "SEJAM SINCEROS: antes dos 40, qual parada você vai garantir?  \nChapada dos Veadeiros ou Lençóis Maranhenses 🌎  \n\nQual dos dois já está na sua lista?",
-   "quando": "2026-10-04T08:37:08.831632-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 185,
-    "likes": 2,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-09"
-   }
-  },
   {
    "id": "18105099868970989",
    "insp": "4e6f1fb18b",
@@ -1037,6 +1022,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: quem nunca sente que depois de cada tarefa precisa de uma pausa? A vida tá me ensinando que descanso não é luxo, é necessidade. 🌿",
    "quando": "2026-10-09T08:37:08.900425-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18130387291689226",
+   "insp": "b0cef3aaad",
+   "link": "",
+   "texto": "DUVIDA SINCERA: Confesso que um ciúminho de vez em quando dá um empurrãozinho no relacionamento.  \nVocê acha que um pouquinho de ciúme ainda tem lugar saudável?",
+   "quando": "2026-10-09T09:37:09.183202-04:00",
    "ia": "Groq openai/gpt-oss-120b"
   }
  ],
@@ -2265,7 +2258,9 @@
   "18631098970034547",
   "17953055985279373",
   "17968588355966332",
-  "17951515572293600"
+  "17951515572293600",
+  "18132322225672968",
+  "17872198713639166"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2398,7 +2393,8 @@
   "1a924c6a15343ea79c49ea7444c6a610",
   "28364cd36ae251ffe132cf77afca74e1",
   "95ad509b06d48f418a919888fe971f99",
-  "e1a49f02d5f15e11330f03b4640eab87"
+  "e1a49f02d5f15e11330f03b4640eab87",
+  "ab9a28c40421f2977f6aca8b6e6dc076"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2531,7 +2527,8 @@
   "29649aab34": 1791497253.2238147,
   "63b1ece74f": 1791502688.3760064,
   "9dfc1777fa": 1791509880.1285467,
-  "c8a0ab9dff": 1791549494.5057452
+  "c8a0ab9dff": 1791549494.5057452,
+  "b0cef3aaad": 1791553048.7074025
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2543,20 +2540,12 @@
   "1d06969815": 2,
   "86f431288d": 1,
   "96516158b5": 1,
-  "42df173a8c": 1
+  "42df173a8c": 1,
+  "b52379b479": 1,
+  "0a336b41c3": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "Que recorde, hein? Ainda bem que a ansiedade não vem antes kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "parece que cada dia vale por uma manhã sem sono kkk",
-   "p": "neutra",
-   "r": 2
-  },
   {
    "t": "Nossa, parece maratona de série que termina de repente",
    "p": "concorda",
@@ -2696,6 +2685,16 @@
    "t": "surpresa garantida na hora do almoço kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "quanto antes a gente entende isso, mais leve fica o caminho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cruzes, passar por isso com pamonha é triste demais",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3121,18 +3120,6 @@
   }
  ],
  "aberturas_post": {
-  "18146079442603271": [
-   "economia de energia",
-   "quem nunca fingiu",
-   "estrategia fixa pra",
-   "vira rotina pra",
-   "fora do elevador",
-   "desespero genuino para",
-   "defender a propria",
-   "economia de papo",
-   "parece que faltaram",
-   "tecnica de sobrevivencia"
-  ],
   "18115007600278222": [
    "bateria social zerada",
    "virou item de"
@@ -3361,7 +3348,8 @@
    "justo demais entao",
    "ciume de patrimonio",
    "agora patos de",
-   "a do ceara"
+   "a do ceara",
+   "cruzes passar por"
   ],
   "17871358557637154": [
    "feijao pronto no",
@@ -3371,6 +3359,9 @@
   "18111330140174687": [
    "verdade fica com",
    "atalho util demais"
+  ],
+  "18124736575742625": [
+   "quanto antes a"
   ]
  },
  "shopee_checada": "2026-10-09|1",
