@@ -19,14 +19,15 @@
    "08:13",
    "09:20"
   ],
-  "respostas": 11,
+  "respostas": 14,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 3,
    "17911108497554167": 1,
    "18111330140174687": 2,
    "18098203103652972": 1,
-   "18124736575742625": 1
+   "18124736575742625": 1,
+   "18130387291689226": 3
   }
  },
  "posts": [
@@ -2260,7 +2261,10 @@
   "17968588355966332",
   "17951515572293600",
   "18132322225672968",
-  "17872198713639166"
+  "17872198713639166",
+  "18118793794971970",
+  "17882564439528847",
+  "18117604801789543"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2542,25 +2546,13 @@
   "96516158b5": 1,
   "42df173a8c": 1,
   "b52379b479": 1,
-  "0a336b41c3": 1
+  "0a336b41c3": 1,
+  "e9dda02104": 1,
+  "53150e4d62": 1,
+  "5151e6849d": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "Nossa, parece maratona de série que termina de repente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "brinde de utilidade duvidosa que não funciona pra nada kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Exato, quando a sintonia aparece já marca o café kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "3 dias? já tô contando aqui kkk, bora curtir quando rolar",
    "p": "concorda",
@@ -2693,6 +2685,21 @@
   },
   {
    "t": "cruzes, passar por isso com pamonha é triste demais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "queria ter essa paz toda mas as vezes um emprazinho vem disfarçado de cuidado",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pitadinha leve na medida certa só pra dar um gás",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "concordo, o limite é exatamente onde vira nóia",
    "p": "concorda",
    "r": 0
   }
@@ -3120,10 +3127,6 @@
   }
  ],
  "aberturas_post": {
-  "18115007600278222": [
-   "bateria social zerada",
-   "virou item de"
-  ],
   "18117333691945990": [
    "pesagem de pontos",
    "avaliacao cirurgica que",
@@ -3362,6 +3365,11 @@
   ],
   "18124736575742625": [
    "quanto antes a"
+  ],
+  "18130387291689226": [
+   "queria ter essa",
+   "pitadinha leve na",
+   "concordo o limite"
   ]
  },
  "shopee_checada": "2026-10-09|1",
