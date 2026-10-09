@@ -20,9 +20,10 @@
    "09:20",
    "10:31",
    "11:43",
-   "12:31"
+   "12:31",
+   "14:42"
   ],
-  "respostas": 40,
+  "respostas": 42,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 9,
@@ -31,28 +32,11 @@
    "18098203103652972": 1,
    "18124736575742625": 1,
    "18130387291689226": 10,
-   "17883591987689452": 9,
+   "17883591987689452": 11,
    "18133563994591000": 4
   }
  },
  "posts": [
-  {
-   "id": "18115420961019155",
-   "insp": "23a8ecfd7a",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a vizinha bate na porta pedindo sal e fica duas horas contando a vida dela. Vocês deixariam entrar ou fingiriam que não estão em casa?",
-   "quando": "2026-10-04T14:07:09.250805-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 627,
-    "likes": 4,
-    "replies": 18,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-09"
-   }
-  },
   {
    "id": "18423724351146165",
    "insp": "d3233367fd",
@@ -1010,6 +994,14 @@
    "texto": "VAMOS SER HONESTOS: a festa de casamento nem é a parte mais cara da história toda. \n\nO susto financeiro real vem no primeiro ano morando junto, tentando alinhar dois padrões de vida e descobrindo quanto custa manter uma casa funcionando no dia a dia. \n\nA festa acaba em seis horas, o boleto do condom",
    "quando": "2026-10-09T12:37:08.575872-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18015338645750822",
+   "insp": "6e6b47e4ea",
+   "link": "",
+   "texto": "Tem carro antigo que continua com um desenho muito mais bonito do que os lançamentos de hoje em dia. Parece que antigamente os designers caprichavam mais nos detalhes. Qual modelo clássico você acha que nunca sai de moda?",
+   "quando": "2026-10-09T15:07:09.028477-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2270,7 +2262,9 @@
   "18445025632134455",
   "17961818685208268",
   "17959971336228483",
-  "18114592315833067"
+  "18114592315833067",
+  "17868352281661294",
+  "18030722264856921"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2407,7 +2401,8 @@
   "ab9a28c40421f2977f6aca8b6e6dc076",
   "f0cfc3a4371fea3cf6c579dfd9b9a7b7",
   "fe2c1ef11b78502daf7dadf0d8bc64e7",
-  "98b8d51463cc88195e8e678b55a7bd0d"
+  "98b8d51463cc88195e8e678b55a7bd0d",
+  "3af1a22d0fad12754dcd97be96c85506"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2544,7 +2539,8 @@
   "b0cef3aaad": 1791553048.7074025,
   "3f6e169db2": 1791556688.1126475,
   "fbda80f1b4": 1791562061.4896867,
-  "c23c34d690": 1791563875.9416332
+  "c23c34d690": 1791563875.9416332,
+  "6e6b47e4ea": 1791572846.6349454
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2587,20 +2583,12 @@
   "329ca6bd2d": 1,
   "ffa1b31fcd": 1,
   "b6cf59c70b": 1,
-  "4a4b438586": 1
+  "4a4b438586": 1,
+  "5218456c52": 1,
+  "dc10fee143": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "cruzes, passar por isso com pamonha é triste demais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "queria ter essa paz toda mas as vezes um emprazinho vem disfarçado de cuidado",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "pitadinha leve na medida certa só pra dar um gás",
    "p": "concorda",
@@ -2740,6 +2728,16 @@
    "t": "kkkkk aí já passou de ciúme, virou investigação particular",
    "p": "discorda",
    "r": 2
+  },
+  {
+   "t": "economia e zero frescura",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "força na peruca que agora começa a saga dos convites kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3395,7 +3393,9 @@
    "justo querer comer",
    "dividir a conta",
    "certeza zero drama",
-   "verdade barzinho simples"
+   "verdade barzinho simples",
+   "economia e zero",
+   "forca na peruca"
   ],
   "18133563994591000": [
    "poder ate podia",
