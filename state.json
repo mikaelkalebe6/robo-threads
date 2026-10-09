@@ -22,7 +22,7 @@
    "11:43",
    "12:31"
   ],
-  "respostas": 36,
+  "respostas": 38,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 9,
@@ -31,8 +31,8 @@
    "18098203103652972": 1,
    "18124736575742625": 1,
    "18130387291689226": 9,
-   "17883591987689452": 7,
-   "18133563994591000": 3
+   "17883591987689452": 8,
+   "18133563994591000": 4
   }
  },
  "posts": [
@@ -2266,7 +2266,9 @@
   "18636279301047542",
   "18080237900709769",
   "18351278638281327",
-  "18169341328465062"
+  "18169341328465062",
+  "18445025632134455",
+  "17961818685208268"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2579,20 +2581,12 @@
   "91e6bca402": 1,
   "caac807f2a": 1,
   "f7bc601b29": 1,
-  "f85a1361aa": 1
+  "f85a1361aa": 1,
+  "329ca6bd2d": 1,
+  "ffa1b31fcd": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "a do ceará ficou de fora da briga mas a mineira tem seus fãs fiéis kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "atalho útil demais quando a cabeça já tá cheia",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "surpresa garantida na hora do almoço kkk",
    "p": "concorda",
@@ -2732,6 +2726,16 @@
    "t": "bem-vinda, prepare o estômago que a viagem só começou kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "estratégia perfeita, assim o susto vem fracionado kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "certeza, zero drama e muito melhor pra conversar",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3384,12 +3388,14 @@
    "papo reto menos",
    "ja ta com",
    "justo querer comer",
-   "dividir a conta"
+   "dividir a conta",
+   "certeza zero drama"
   ],
   "18133563994591000": [
    "poder ate podia",
    "depende do buffet",
-   "tem que querer"
+   "tem que querer",
+   "estrategia perfeita assim"
   ]
  },
  "shopee_checada": "2026-10-09|1",
