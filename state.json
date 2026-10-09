@@ -22,7 +22,7 @@
    "11:43",
    "12:31"
   ],
-  "respostas": 30,
+  "respostas": 34,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 7,
@@ -31,7 +31,8 @@
    "18098203103652972": 1,
    "18124736575742625": 1,
    "18130387291689226": 9,
-   "17883591987689452": 6
+   "17883591987689452": 7,
+   "18133563994591000": 3
   }
  },
  "posts": [
@@ -2259,7 +2260,11 @@
   "18103130819010102",
   "17909833683490590",
   "18105765332460185",
-  "18498617452102605"
+  "18498617452102605",
+  "18108753155244162",
+  "18157893907505730",
+  "18636279301047542",
+  "18080237900709769"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2566,30 +2571,14 @@
   "cca3dc35f0": 1,
   "c7a2919d30": 1,
   "7b40d68248": 1,
-  "d0755e0cc7": 1
+  "d0755e0cc7": 1,
+  "f781d58505": 1,
+  "7be540a187": 1,
+  "91e6bca402": 1,
+  "caac807f2a": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "feijão pronto no congelador salva o dia corrido",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "agora Patos de Minas entrou oficialmente na minha lista para conferir isso de perto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "daqui a pouco viramos lote de laboratório kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "verdade, fica com aquela estrutura certinha que entrega o truque na hora",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "mais um voto para mexirica",
    "p": "concorda",
@@ -2719,6 +2708,26 @@
    "t": "kkkkk pois é, o marketing de lá é forte",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "poder até podia, mas a prática chega com um boleto que a teoria desconhece",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "depende do buffet, mas chuto que uns três anos de mercado",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "tem que querer muito mesmo, o começo exige muita paciência de ambos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dividir a conta e beber um chopp gelado resolve metade dos problemas do mundo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3144,20 +3153,6 @@
   }
  ],
  "aberturas_post": {
-  "18075881765449513": [
-   "pizza fria nao",
-   "amem alguem lucido",
-   "essa iguaria merece",
-   "combinacao perfeita pra",
-   "essa dupla ai",
-   "entao o paladar",
-   "ai voce so",
-   "dupla que atravessa",
-   "bolinho de arroz",
-   "tecnicamente sim mas",
-   "comecou o dia",
-   "quem tem esse"
-  ],
   "17969520279187566": [
    "estrategia valida para",
    "estrategia radical pra",
@@ -3382,7 +3377,13 @@
    "com certeza economia",
    "papo reto menos",
    "ja ta com",
-   "justo querer comer"
+   "justo querer comer",
+   "dividir a conta"
+  ],
+  "18133563994591000": [
+   "poder ate podia",
+   "depende do buffet",
+   "tem que querer"
   ]
  },
  "shopee_checada": "2026-10-09|1",
