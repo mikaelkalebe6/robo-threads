@@ -22,10 +22,10 @@
    "11:43",
    "12:31"
   ],
-  "respostas": 34,
+  "respostas": 36,
   "por_post": {
    "17871358557637154": 3,
-   "18157552714458950": 7,
+   "18157552714458950": 9,
    "17911108497554167": 1,
    "18111330140174687": 2,
    "18098203103652972": 1,
@@ -2264,7 +2264,9 @@
   "18108753155244162",
   "18157893907505730",
   "18636279301047542",
-  "18080237900709769"
+  "18080237900709769",
+  "18351278638281327",
+  "18169341328465062"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2575,20 +2577,12 @@
   "f781d58505": 1,
   "7be540a187": 1,
   "91e6bca402": 1,
-  "caac807f2a": 1
+  "caac807f2a": 1,
+  "f7bc601b29": 1,
+  "f85a1361aa": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "mais um voto para mexirica",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perigo iminente de ser só mais uma caixa de feijão kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "a do ceará ficou de fora da briga mas a mineira tem seus fãs fiéis kkk",
    "p": "ressalva",
@@ -2728,6 +2722,16 @@
    "t": "dividir a conta e beber um chopp gelado resolve metade dos problemas do mundo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "essa do pequi de fora fiquei curiosa para conferir",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "bem-vinda, prepare o estômago que a viagem só começou kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3346,7 +3350,9 @@
    "perde totalmente a",
    "pamonha olimpica ja",
    "minas e goias",
-   "pois e o"
+   "pois e o",
+   "essa do pequi",
+   "bem vinda prepare"
   ],
   "17871358557637154": [
    "feijao pronto no",
