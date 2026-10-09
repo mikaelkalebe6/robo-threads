@@ -17,37 +17,21 @@
   ],
   "feitos": [
    "08:13",
-   "09:20"
+   "09:20",
+   "10:31"
   ],
-  "respostas": 14,
+  "respostas": 18,
   "por_post": {
    "17871358557637154": 3,
-   "18157552714458950": 3,
+   "18157552714458950": 4,
    "17911108497554167": 1,
    "18111330140174687": 2,
    "18098203103652972": 1,
    "18124736575742625": 1,
-   "18130387291689226": 3
+   "18130387291689226": 6
   }
  },
  "posts": [
-  {
-   "id": "18105099868970989",
-   "insp": "4e6f1fb18b",
-   "link": "",
-   "texto": "SEJAM SINCEROS: qual a mania mais estranha que vocês têm e ainda não contam? Eu ainda guardo guardanapos de todos os cafés que visito, tem até uma gaveta cheia de “memórias” de cappuccino. 😂\n\nE aí, tem alguma curiosidade que ninguém sabe?",
-   "quando": "2026-10-04T10:07:09.848825-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 1209,
-    "likes": 7,
-    "replies": 23,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-09"
-   }
-  },
   {
    "id": "18152407384556806",
    "insp": "7d6d624d0c",
@@ -1032,6 +1016,14 @@
    "texto": "DUVIDA SINCERA: Confesso que um ciúminho de vez em quando dá um empurrãozinho no relacionamento.  \nVocê acha que um pouquinho de ciúme ainda tem lugar saudável?",
    "quando": "2026-10-09T09:37:09.183202-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "17883591987689452",
+   "insp": "3f6e169db2",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: primeiro encontro num barzinho simples ganha de lavada de restaurante chique. Menos pressão, mais conversa de verdade.",
+   "quando": "2026-10-09T10:37:11.681065-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2264,7 +2256,11 @@
   "17872198713639166",
   "18118793794971970",
   "17882564439528847",
-  "18117604801789543"
+  "18117604801789543",
+  "18005511009005129",
+  "18092042618690234",
+  "18137974489621052",
+  "17919343977241246"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2398,7 +2394,8 @@
   "28364cd36ae251ffe132cf77afca74e1",
   "95ad509b06d48f418a919888fe971f99",
   "e1a49f02d5f15e11330f03b4640eab87",
-  "ab9a28c40421f2977f6aca8b6e6dc076"
+  "ab9a28c40421f2977f6aca8b6e6dc076",
+  "f0cfc3a4371fea3cf6c579dfd9b9a7b7"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2532,7 +2529,8 @@
   "63b1ece74f": 1791502688.3760064,
   "9dfc1777fa": 1791509880.1285467,
   "c8a0ab9dff": 1791549494.5057452,
-  "b0cef3aaad": 1791553048.7074025
+  "b0cef3aaad": 1791553048.7074025,
+  "3f6e169db2": 1791556688.1126475
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2549,30 +2547,14 @@
   "0a336b41c3": 1,
   "e9dda02104": 1,
   "53150e4d62": 1,
-  "5151e6849d": 1
+  "5151e6849d": 1,
+  "c8e63df383": 1,
+  "db2c93ecb8": 1,
+  "cbe017c799": 1,
+  "369cfcafe4": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "3 dias? já tô contando aqui kkk, bora curtir quando rolar",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "respeito total ao seu tempo, o importante é a química render depois",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "prazo justo para o papo render sem pressa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem fala bergamota com gosto já começa o dia ganhando",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "confesso que o único e-mail que a gente lê até o fim é a confirmação de férias",
    "p": "concorda",
@@ -2701,6 +2683,26 @@
   {
    "t": "concordo, o limite é exatamente onde vira nóia",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perfeita a diferença, saber separar o sentimento da noia muda tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perde totalmente a graça mesmo, estraga a experiência",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exato, jogo sujo estraga tudo e tira a leveza",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "relação abusiva estraga qualquer percepção de limite mesmo",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -3352,7 +3354,8 @@
    "ciume de patrimonio",
    "agora patos de",
    "a do ceara",
-   "cruzes passar por"
+   "cruzes passar por",
+   "perde totalmente a"
   ],
   "17871358557637154": [
    "feijao pronto no",
@@ -3369,7 +3372,10 @@
   "18130387291689226": [
    "queria ter essa",
    "pitadinha leve na",
-   "concordo o limite"
+   "concordo o limite",
+   "perfeita a diferenca",
+   "exato jogo sujo",
+   "relacao abusiva estraga"
   ]
  },
  "shopee_checada": "2026-10-09|1",
