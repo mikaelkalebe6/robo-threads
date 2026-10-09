@@ -25,7 +25,7 @@
    "19:15",
    "21:17"
   ],
-  "respostas": 63,
+  "respostas": 64,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
@@ -41,7 +41,7 @@
    "18098203103652972": 3,
    "18099059360387148": 3,
    "17911108497554167": 1,
-   "18116932673061251": 4,
+   "18116932673061251": 5,
    "17986227470881809": 4,
    "18157552714458950": 2
   }
@@ -2193,7 +2193,8 @@
   "18136857454711720",
   "18370565932210696",
   "17982904241901790",
-  "18032342168903845"
+  "18032342168903845",
+  "18119269078987044"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2517,15 +2518,11 @@
   "a474663913": 1,
   "787d8da48f": 1,
   "cca3dc35f0": 1,
-  "e0a77085dd": 1
+  "e0a77085dd": 1,
+  "8248ae207b": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "a evolução das redes sociais mudou completamente o cronograma de tudo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa promessa aí faz a pessoa esquecer que a chave vem com trinta anos de carnê",
    "p": "ressalva",
@@ -2668,6 +2665,11 @@
   },
   {
    "t": "o logan quadrado já vem com certificado de apego emocional",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos o defeito de fábrica vem visível de longe",
    "p": "concorda",
    "r": 0
   }
@@ -3310,7 +3312,8 @@
    "justo tem modelo",
    "integrante oficial do",
    "aquele modelo quadrado",
-   "o logan quadrado"
+   "o logan quadrado",
+   "pelo menos o"
   ],
   "17986227470881809": [
    "sorte de quem",
