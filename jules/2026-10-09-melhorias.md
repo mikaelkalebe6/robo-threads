@@ -35,7 +35,7 @@
 **No código atual:** Em parte. Credenciais já são ocultadas via variáveis de ambiente nos arquivos `bot.py`, `shopee.py` e `inspiracoes.py` (usando `os.environ.get`).
 **Esforço:** Médio
 **Riscos:** Gasto extra de IA e minutos do GitHub Actions se automatizado.
-**Recomendação:** Já aplicado em parte (O projeto já trata credenciais, mas para um robô no GitHub Actions ainda falta configurar: permissões restritas do workflow, actions fixadas por SHA, proteção contra vazamento de chave nos logs e limites de chamadas de API.)
+**Recomendação:** Já aplicado em parte (O repositório já conta com checagem rigorosa contra chaves no commit, permissões mínimas no checkout/write e ocultação de variáveis. Falta atualizar e fixar as versões das actions com o Hash SHA completo para mais segurança, e instituir controle de *rate limits*.)
 
 ### Proteção de Rotas Admin
 **Proposta:** Validar permissões de administrador no servidor backend para todas as rotas restritas.
@@ -49,7 +49,7 @@
 **No código atual:** Parcial. Chaves (secrets) já ficam fora do código em variáveis de ambiente nos arquivos `bot.py` e `shopee.py` (função `env()`), mas não há rate limit no código Python para requests.
 **Esforço:** Alto
 **Riscos:** Nenhum
-**Recomendação:** Já aplicado em parte (Credenciais fora do código já existem, mas ainda falta implementar no GitHub Actions: permissões do workflow, actions fixadas por SHA, proteção contra vazamento de chave nos logs e limites de chamadas.)
+**Recomendação:** Já aplicado em parte (Credenciais já ficam ocultas e as permissões do repositório já estão restritas, além de haver scripts nativos ocultando vazamento no log. Falta fixar as actions por SHA no `.github/workflows/robo.yml` (e no renovar-token.yml) e faltam limites (rate limits) no consumo de APIs das plataformas para maior segurança, embora o uso seja moderado.)
 
 ### Cybersecurity Básica
 **Proposta:** Boas práticas de segurança cibernética básica e adequação à LGPD.
@@ -159,9 +159,9 @@ Análise: O resumo focou na imagem de perfil (Olho da Providência) e na descri�
 | Atendimento WhatsApp OpenWA | Não aplicar | Alto | Ban do WhatsApp |
 | Guia Agente WhatsApp | Não aplicar | Alto | Custos com VPS |
 | Claude Instagram Skills | Não aplicar | Alto | Ban do Instagram |
-| Requisitos Básicos de Segurança | Já aplicado em parte | Alto | Nenhum |
+| Requisitos Básicos de Segurança | Já aplicado em parte | Baixo | Nenhum |
 | Integração WhatsApp Claude MCP | Não aplicar | Médio | Cobrança da Meta |
-| Auditoria de Segurança | Já aplicado em parte | Médio | Gasto com GitHub Actions |
+| Auditoria de Segurança | Já aplicado em parte | Baixo | Nenhum |
 | Cybersecurity Básica | Não aplicar | Baixo | Nenhum |
 | Validação Básica de Apps IA | Não aplicar | Baixo | Nenhum |
 | Segurança RLS Supabase | Não aplicar | Baixo | Nenhum |
