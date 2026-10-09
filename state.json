@@ -20,7 +20,7 @@
    "09:20",
    "10:31"
   ],
-  "respostas": 18,
+  "respostas": 21,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 4,
@@ -28,7 +28,8 @@
    "18111330140174687": 2,
    "18098203103652972": 1,
    "18124736575742625": 1,
-   "18130387291689226": 6
+   "18130387291689226": 7,
+   "17883591987689452": 2
   }
  },
  "posts": [
@@ -2260,7 +2261,11 @@
   "18005511009005129",
   "18092042618690234",
   "18137974489621052",
-  "17919343977241246"
+  "17919343977241246",
+  "18171910147454725",
+  "18088505984256257",
+  "18490255861107824",
+  "18097751180558835"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2551,25 +2556,13 @@
   "c8e63df383": 1,
   "db2c93ecb8": 1,
   "cbe017c799": 1,
-  "369cfcafe4": 1
+  "369cfcafe4": 1,
+  "b09314e2b2": 1,
+  "4633e0e948": 1,
+  "907191cb37": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "confesso que o único e-mail que a gente lê até o fim é a confirmação de férias",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, tem modelo que não tem salvação mesmo",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "integrante oficial do clube do charme mal compreendido kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "sorte de quem passou batido por essa fase",
    "p": "concorda",
@@ -2703,6 +2696,21 @@
   {
    "t": "relação abusiva estraga qualquer percepção de limite mesmo",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "te entendo totalmente, às vezes a melhor companhia é o silêncio mesmo",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "menos teatro e mais papo bom",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "respeito demais a visão, mas confesso que às vezes o limite entre cuidado e nóia é bem sutil",
+   "p": "discorda",
    "r": 0
   }
  ],
@@ -3129,28 +3137,6 @@
   }
  ],
  "aberturas_post": {
-  "18117333691945990": [
-   "pesagem de pontos",
-   "avaliacao cirurgica que",
-   "pesa bastante na",
-   "pelo menos a",
-   "passaporte carimbado para",
-   "perder alguem muda",
-   "vantagem competitiva garantida",
-   "soma pontos rapido",
-   "ja tem um",
-   "matematica avancada na",
-   "entao agora o",
-   "investe na poupanca",
-   "estrategia infalivel para",
-   "ja sai na",
-   "ja comeca com",
-   "menos uma cobranca",
-   "estamos no mesmo",
-   "precisa calcular a",
-   "procura rara mas",
-   "economia de energia"
-  ],
   "18075881765449513": [
    "pizza fria nao",
    "amem alguem lucido",
@@ -3375,7 +3361,12 @@
    "concordo o limite",
    "perfeita a diferenca",
    "exato jogo sujo",
-   "relacao abusiva estraga"
+   "relacao abusiva estraga",
+   "respeito demais a"
+  ],
+  "17883591987689452": [
+   "te entendo totalmente",
+   "menos teatro e"
   ]
  },
  "shopee_checada": "2026-10-09|1",
