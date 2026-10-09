@@ -24,7 +24,7 @@
    "14:42",
    "15:38"
   ],
-  "respostas": 51,
+  "respostas": 56,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 11,
@@ -33,9 +33,9 @@
    "18098203103652972": 1,
    "18124736575742625": 1,
    "18130387291689226": 10,
-   "17883591987689452": 11,
+   "17883591987689452": 12,
    "18133563994591000": 4,
-   "18015338645750822": 6,
+   "18015338645750822": 10,
    "18116932673061251": 1
   }
  },
@@ -2267,7 +2267,12 @@
   "18103467488196687",
   "17906981331586686",
   "18023344166925388",
-  "18101911970456022"
+  "18101911970456022",
+  "17973877437136711",
+  "18041468927835072",
+  "18565670443073932",
+  "18107586340964059",
+  "17987876709063537"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2599,35 +2604,15 @@
   "e4981c5584": 1,
   "52f217f7f3": 1,
   "4e9375fa4c": 1,
-  "6a4ca7f037": 1
+  "6a4ca7f037": 1,
+  "88d1633a79": 1,
+  "11b6cf87c8": 1,
+  "a601f751f4": 1,
+  "a2017d54da": 1,
+  "34a08c9ccc": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "com certeza, economia de tempo e de paciência",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade pura, o afeto muda de forma mas o cuidado é o mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dá aquele tempero que faltava pra movimentar as coisas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "papo reto, menos frescura e mais conversa boa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pamonha olímpica já seria uma modalidade justa kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "já tá com a agenda aberta?",
    "p": "concorda",
@@ -2752,6 +2737,31 @@
    "t": "haha verdade, a fama é gigante mas no fim o paladar que decide",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "essa fase da marca deixou o desenho dos carros muito marcante mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "duas escolhas com muita personalidade, a traseira do 914 é diferenciada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "até o telhado da Pizza Hut atrás entrega o bom gosto da época",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse aí marcou época nas ruas, quem teve lembra com carinho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "padrão ouro que poucas pessoas seguem",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3400,7 +3410,8 @@
    "certeza zero drama",
    "verdade barzinho simples",
    "economia e zero",
-   "forca na peruca"
+   "forca na peruca",
+   "padrao ouro que"
   ],
   "18133563994591000": [
    "poder ate podia",
@@ -3414,7 +3425,11 @@
    "esse e classico",
    "esse tem presenca",
    "parati tem lugar",
-   "essa fase ai"
+   "essa fase ai",
+   "essa fase da",
+   "duas escolhas com",
+   "ate o telhado",
+   "esse ai marcou"
   ]
  },
  "shopee_checada": "2026-10-09|1",
