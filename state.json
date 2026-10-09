@@ -21,12 +21,13 @@
    "10:31",
    "11:43",
    "12:31",
-   "14:42"
+   "14:42",
+   "15:38"
   ],
-  "respostas": 47,
+  "respostas": 51,
   "por_post": {
    "17871358557637154": 3,
-   "18157552714458950": 9,
+   "18157552714458950": 11,
    "17911108497554167": 1,
    "18111330140174687": 2,
    "18098203103652972": 1,
@@ -34,28 +35,11 @@
    "18130387291689226": 10,
    "17883591987689452": 11,
    "18133563994591000": 4,
-   "18015338645750822": 4,
+   "18015338645750822": 6,
    "18116932673061251": 1
   }
  },
  "posts": [
-  {
-   "id": "18423724351146165",
-   "insp": "d3233367fd",
-   "link": "",
-   "texto": "ME CONTA: qual é o assunto que tem 100% de chance de virar barraco no almoço de família de vocês? Na minha é futebol, todo santo domingo alguém sai da mesa bravo.",
-   "quando": "2026-10-04T15:07:09.893804-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 515,
-    "likes": 1,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-09"
-   }
-  },
   {
    "id": "18234677503320142",
    "insp": "dce953f387",
@@ -1003,6 +987,14 @@
    "link": "",
    "texto": "Tem carro antigo que continua com um desenho muito mais bonito do que os lançamentos de hoje em dia. Parece que antigamente os designers caprichavam mais nos detalhes. Qual modelo clássico você acha que nunca sai de moda?",
    "quando": "2026-10-09T15:07:09.028477-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18118295015072947",
+   "insp": "da2a07512c",
+   "link": "",
+   "texto": "Tem amizade que funciona no modo avião por meses e aí aparece do nada só com o roteiro completo da última fofoca. É um talento raro.",
+   "quando": "2026-10-09T16:07:08.843205-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -2271,7 +2263,11 @@
   "18124118500932357",
   "17969706536961588",
   "18105770060206470",
-  "18487468039111164"
+  "18487468039111164",
+  "18103467488196687",
+  "17906981331586686",
+  "18023344166925388",
+  "18101911970456022"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2409,7 +2405,8 @@
   "f0cfc3a4371fea3cf6c579dfd9b9a7b7",
   "fe2c1ef11b78502daf7dadf0d8bc64e7",
   "98b8d51463cc88195e8e678b55a7bd0d",
-  "3af1a22d0fad12754dcd97be96c85506"
+  "3af1a22d0fad12754dcd97be96c85506",
+  "d57d1e882cd253e19acc0e2a11a6ef21"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2547,7 +2544,8 @@
   "3f6e169db2": 1791556688.1126475,
   "fbda80f1b4": 1791562061.4896867,
   "c23c34d690": 1791563875.9416332,
-  "6e6b47e4ea": 1791572846.6349454
+  "6e6b47e4ea": 1791572846.6349454,
+  "da2a07512c": 1791576445.2365634
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2597,30 +2595,14 @@
   "1800b37713": 1,
   "fdc514070c": 1,
   "a894bbdab4": 1,
-  "96c0a81885": 1
+  "96c0a81885": 1,
+  "e4981c5584": 1,
+  "52f217f7f3": 1,
+  "4e9375fa4c": 1,
+  "6a4ca7f037": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "relação abusiva estraga qualquer percepção de limite mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "te entendo totalmente, às vezes a melhor companhia é o silêncio mesmo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "menos teatro e mais papo bom",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "respeito demais a visão, mas confesso que às vezes o limite entre cuidado e nóia é bem sutil",
-   "p": "discorda",
-   "r": 0
-  },
   {
    "t": "com certeza, economia de tempo e de paciência",
    "p": "concorda",
@@ -2750,6 +2732,26 @@
    "t": "esse tem presença garantida, a traseira dele é perfeita",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "parati tem lugar cativo no coração de muita gente kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa fase aí marcou época mesmo, imponência pura",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, quem tenta competir acaba ficando no quase mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "haha verdade, a fama é gigante mas no fim o paladar que decide",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3359,7 +3361,9 @@
    "minas e goias",
    "pois e o",
    "essa do pequi",
-   "bem vinda prepare"
+   "bem vinda prepare",
+   "justo quem tenta",
+   "verdade a fama"
   ],
   "17871358557637154": [
    "feijao pronto no",
@@ -3408,7 +3412,9 @@
    "airfryer com delineador",
    "com um motor",
    "esse e classico",
-   "esse tem presenca"
+   "esse tem presenca",
+   "parati tem lugar",
+   "essa fase ai"
   ]
  },
  "shopee_checada": "2026-10-09|1",
