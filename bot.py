@@ -77,6 +77,13 @@ PADRAO = {
     "DADOS_DIAS": "60",
     # Shopee Afiliados (shopee.py): 1 liga o teste diario de conexao (so leitura) quando os Secrets existem, 0 desliga
     "SHOPEE_LIGADO": "1",
+    # Shopee Fase 1: cacador, estrategias de links, fila de fios e cota
+    "SHOPEE_PALAVRAS": "acessorio carro,ferramenta,gadget,fone bluetooth,organizador,lanterna,suporte celular,churrasco,academia,presente masculino",
+    "SHOPEE_NOTA_MIN": "4.9", "SHOPEE_PRECO_MAX": "80", "SHOPEE_VENDAS_MIN": "300", "SHOPEE_REPETIR_DIAS": "14",
+    "TESTE_COMENTARIO_PRODUTO": "1",
+    "ESTRATEGIA_MEME": "0", "MEME_JANELA_HORAS": "24", "MEME_CHECAGENS_POR_RODADA": "5", "MEME_VIEWS_LINK": "1000", "MEME_LINKS_POR_DIA": "3",
+    "ESTRATEGIA_FIO": "0",
+    "PRODUTO_POR_DIA": "0",
 }
 _USOU_PADRAO = []
 
@@ -839,7 +846,236 @@ def publicar_resposta(cid, texto):
     return threads("POST", "me/threads_publish", creation_id=cid)["id"]
 
 
+def comentar_produto(s, pid, produto, estrategia):
+    """Comenta em um post com foto do produto, legenda curta gerada por IA e link de afiliado."""
+    import shopee
+    link = shopee.link_afiliado(produto.get("offerLink", ""), [estrategia, pid])
+    if not link:
+        link = produto.get("offerLink", "")
+
+    nome = produto.get("nome", "produto")
+    prompt = f"""{PERSONA_RESPOSTA}
+
+Escreva uma frase curtissima e natural (no maximo 80 caracteres) em portugues sobre o produto "{nome}".
+A frase sera postada com a foto do produto e um link de afiliado.
+Pode ser uma reacao curta, elogio simples, ou ate mesmo so uma carinha/emoji ou poucas palavras.
+Regras: no maximo 80 caracteres; sem travessoes; sem links; sem @; em tom natural de amiga."""
+
+    try:
+        frase = limpar_resposta(ia(prompt, modelos_gemini=[GEMINI_MODEL_RESPOSTA]) or "")
+    except Exception as e:
+        log("IA falhou ao gerar frase para comentario de produto:", str(e)[:100])
+        frase = ""
+
+    if len(frase) > 80:
+        frase = frase[:80].rsplit(" ", 1)[0]
+    frase = re.sub(r"\s*[\u2014\u2013]\s*", ", ", frase).strip()
+
+    texto = f"{frase}\n{link}" if frase else link
+    foto_url = produto.get("imageUrl", "")
+
+    try:
+        cid = publicar(texto, foto=foto_url, responder_a=pid)
+        s.setdefault("shopee_usados", {})[str(produto.get("itemId", ""))] = dt.datetime.now(TZ).isoformat()
+        log(f"Comentario de produto publicado ({estrategia}): {cid}")
+        return cid
+    except Exception as e:
+        log(f"Foto recusada ou erro ao comentar produto ({estrategia}):", str(e)[:200])
+        return None
+
+
+def checar_teste_comentario(s):
+    """TESTE UNICO: se TESTE_COMENTARIO_PRODUTO='1' e ainda nao rodou, comenta no post mais recente do robo."""
+    if cfg("TESTE_COMENTARIO_PRODUTO") != "1":
+        return
+    if s.get("teste_comentario_produto"):
+        return
+
+    import shopee
+    prods = shopee.escolher_produtos(s)
+    if not prods:
+        log("Teste de comentario com foto: nenhum produto disponivel.")
+        return
+
+    posts = [p for p in s.get("posts", []) if not str(p.get("id", "")).startswith("teste_")]
+    if not posts:
+        log("Teste de comentario com foto: nenhum post recente do robo encontrado.")
+        return
+
+    post_alvo = posts[-1]
+    pid = post_alvo["id"]
+    prod = prods[0]
+
+    log(f"Iniciando teste unico de comentario com foto no post {pid} com produto {prod.get('itemId')}...")
+    res = comentar_produto(s, pid, prod, "teste_comentario")
+    s["teste_comentario_produto"] = {
+        "data": dt.datetime.now(TZ).isoformat(),
+        "post_id": pid,
+        "produto_id": prod.get("itemId"),
+        "resultado": res or "falhou",
+    }
+    salvar_estado(s)
+
+
+def tarefa_estrategia_meme(s, agora):
+    """Estrategia 1: monitora posts 'meme' das ultimas MEME_JANELA_HORAS horas. Se passar de MEME_VIEWS_LINK views, comenta com link de produto."""
+    if cfg("ESTRATEGIA_MEME") != "1":
+        return
+
+    hoje = agora.strftime("%Y-%m-%d")
+    s.setdefault("meme_links_dia", {})
+    if s["meme_links_dia"].get("data") != hoje:
+        s["meme_links_dia"] = {"data": hoje, "qtd": 0}
+
+    max_links_dia = int(cfg("MEME_LINKS_POR_DIA"))
+    if s["meme_links_dia"]["qtd"] >= max_links_dia:
+        log(f"Estrategia Meme: limite diario de {max_links_dia} links atingido.")
+        return
+
+    janela = int(cfg("MEME_JANELA_HORAS"))
+    limite = agora - dt.timedelta(hours=janela)
+    max_cheque = int(cfg("MEME_CHECAGENS_POR_RODADA"))
+    min_views = int(cfg("MEME_VIEWS_LINK"))
+
+    candidatos = []
+    for p in s.get("posts", []):
+        if p.get("estrategia") != "meme":
+            continue
+        if p.get("meme_comentado"):
+            continue
+        if str(p.get("id", "")).startswith("teste_"):
+            continue
+        try:
+            q = dt.datetime.fromisoformat(p.get("quando", ""))
+            if q > limite:
+                candidatos.append(p)
+        except Exception:
+            continue
+
+    candidatos = candidatos[-max_cheque:]
+    if not candidatos:
+        return
+
+    import shopee
+    prods = shopee.escolher_produtos(s)
+    if not prods:
+        log("Estrategia Meme: nenhum produto disponivel.")
+        return
+
+    for p in candidatos:
+        if s["meme_links_dia"]["qtd"] >= max_links_dia:
+            break
+        pid = p["id"]
+        views = 0
+        try:
+            dados = threads("GET", f"{pid}/insights", metric="views").get("data", [])
+            views = sum(_valor_metrica(m) for m in dados if m.get("name") == "views")
+        except Exception as e:
+            log(f"Estrategia Meme: erro ao ler views do post {pid}:", str(e)[:120])
+            continue
+
+        if views >= min_views:
+            prod = prods[0]
+            log(f"Estrategia Meme: post {pid} viralizou ({views} views >= {min_views}). Comentando produto {prod.get('itemId')}...")
+            res = comentar_produto(s, pid, prod, "estrategia_meme")
+            p["meme_comentado"] = True
+            p["meme_views"] = views
+            if res:
+                s["meme_links_dia"]["qtd"] += 1
+            salvar_estado(s)
+
+
 # ---------------------------------------------------------------- plano do dia
+def publicar_fio(s, agora):
+    """Estrategia 3: le e publica um fio pronto de jules/fila/fio-*.json."""
+    if cfg("ESTRATEGIA_FIO") != "1":
+        return None
+
+    fila_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "jules", "fila")
+    if not os.path.exists(fila_dir):
+        return None
+
+    usados = set(s.get("fios_usados", []))
+    arquivos = sorted([f for f in os.listdir(fila_dir) if f.startswith("fio-") and f.endswith(".json")])
+
+    fio_escolhido, caminho_fio = None, None
+    for nome in arquivos:
+        caminho = os.path.join(fila_dir, nome)
+        try:
+            with open(caminho, encoding="utf-8") as f:
+                dados = json.load(f)
+            fid = str(dados.get("id") or nome)
+            if fid in usados or not dados.get("aprovado"):
+                continue
+            partes = dados.get("partes", [])
+            if len(partes) < 3 or len(partes) > 5:
+                continue
+            fio_escolhido = dados
+            caminho_fio = caminho
+            break
+        except Exception as e:
+            log(f"Erro ao ler fio {nome}:", str(e)[:120])
+            continue
+
+    if not fio_escolhido:
+        return None
+
+    fid = str(fio_escolhido.get("id") or os.path.basename(caminho_fio))
+    log(f"Publicando fio da fila ({fid})...")
+    prod_fio = fio_escolhido.get("produto") or {}
+
+    import shopee
+    partes = fio_escolhido.get("partes", [])
+    ultimo_id = None
+    primeiro_id = None
+
+    for idx, parte in enumerate(partes):
+        texto = parte.get("texto", "")
+        midia = parte.get("midia", "nenhuma")
+        tem_link = bool(parte.get("link"))
+
+        foto_url = None
+        if midia == "produto" and prod_fio.get("imageUrl"):
+            foto_url = prod_fio.get("imageUrl")
+
+        if tem_link and prod_fio.get("offerLink"):
+            link = shopee.link_afiliado(prod_fio.get("offerLink"), ["fio", fid, idx + 1])
+            if not link:
+                link = prod_fio.get("offerLink")
+            texto = f"{texto}\n\n{link}" if texto else link
+
+        if idx > 0:
+            time.sleep(random.randint(*PAUSA_RESP))
+
+        try:
+            pid = publicar(texto, foto=foto_url, responder_a=ultimo_id)
+            ultimo_id = pid
+            if idx == 0:
+                primeiro_id = pid
+        except Exception as e:
+            log(f"Erro ao publicar parte {idx + 1} do fio {fid}:", str(e)[:150])
+            if idx == 0:
+                return None
+            break
+
+    s.setdefault("fios_usados", []).append(fid)
+    if prod_fio.get("itemId"):
+        s.setdefault("shopee_usados", {})[str(prod_fio.get("itemId"))] = agora.isoformat()
+
+    s.setdefault("posts", []).append({
+        "id": primeiro_id,
+        "insp": f"fio_{fid}",
+        "link": "",
+        "texto": partes[0].get("texto", "")[:300] if partes else "fio",
+        "quando": agora.isoformat(),
+        "ia": "fio_literal",
+        "estrategia": "fio",
+    })
+    salvar_estado(s)
+    log(f"Fio {fid} publicado com sucesso. Post principal: {primeiro_id}")
+    return primeiro_id
+
+
 def plano_do_dia(s, agora):
     hoje = agora.strftime("%Y-%m-%d")
     p = s.get("plano")
@@ -855,9 +1091,25 @@ def plano_do_dia(s, agora):
         if all(abs(m - h) >= INTERVALO_MIN for h in horarios):
             horarios.append(m)
     horarios.sort()
-    p = {"data": hoje, "horarios": [f"{h // 60:02d}:{h % 60:02d}" for h in horarios], "feitos": [], "respostas": 0}
+
+    cota_prod = int(cfg("PRODUTO_POR_DIA"))
+    horarios_prod = []
+    if cota_prod > 0 and len(horarios) >= cota_prod:
+        # Espalha os horarios de produto uniformemente
+        passo = len(horarios) / cota_prod
+        indices = [int(i * passo + passo / 2) for i in range(cota_prod)]
+        horarios_prod = [horarios[i] for i in indices]
+
+    p = {
+        "data": hoje,
+        "horarios": [f"{h // 60:02d}:{h % 60:02d}" for h in horarios],
+        "horarios_produto": [f"{h // 60:02d}:{h % 60:02d}" for h in horarios_prod],
+        "feitos": [],
+        "produtos_feitos": 0,
+        "respostas": 0,
+    }
     s["plano"] = p
-    log(f"Plano de hoje: {len(horarios)} posts ->", ", ".join(p["horarios"]))
+    log(f"Plano de hoje: {len(horarios)} posts ({len(horarios_prod)} de produto) ->", ", ".join(p["horarios"]))
     return p
 
 
@@ -909,6 +1161,53 @@ def tarefa_postar(s, agora):
         if agora_min - (int(velho[:2]) * 60 + int(velho[3:])) > 90:
             reencaixar(p, velho, agora_min)
 
+    # Checa se este horario e um horario reservado para cota de produto
+    eh_horario_produto = h in p.get("horarios_produto", []) and p.get("produtos_feitos", 0) < int(cfg("PRODUTO_POR_DIA"))
+    if eh_horario_produto:
+        # Ordem 1: tentar publicar fio aprovado da fila (Estrategia 3)
+        pid_fio = publicar_fio(s, agora)
+        if pid_fio:
+            p["feitos"].append(h)
+            p["produtos_feitos"] = p.get("produtos_feitos", 0) + 1
+            salvar_estado(s)
+            return
+
+        # Ordem 2: post com foto do produto do dia + link no primeiro comentario via comentar_produto
+        import shopee
+        prods = shopee.escolher_produtos(s)
+        if prods:
+            prod = prods[0]
+            nome_p = prod.get("nome", "produto")
+            prompt_post = f"""{PERSONA}
+
+Escreva um post curto e atrativo para o Threads sobre {nome_p}.
+Mantenha o tom natural do perfil, sem parecer propaganda comercial, instigando curiosidade.
+Sem links no texto, sem travessoes."""
+            try:
+                txt_prod = limpar(ia(prompt_post) or "")
+            except Exception:
+                txt_prod = f"Olha isso que legal pra {nome_p}"
+
+            time.sleep(random.randint(0, ATRASO_POST_MAX))
+            try:
+                pid_prod = publicar(txt_prod, foto=prod.get("imageUrl"))
+            except Exception as e:
+                log("Erro ao publicar post de cota de produto com foto:", str(e)[:150])
+                pid_prod = None
+
+            if pid_prod:
+                p["feitos"].append(h)
+                p["produtos_feitos"] = p.get("produtos_feitos", 0) + 1
+                s.setdefault("posts", []).append({
+                    "id": pid_prod, "insp": f"prod_{prod.get('itemId')}", "link": "",
+                    "texto": txt_prod[:300], "quando": agora.isoformat(), "ia": _QUEM[0], "estrategia": "cota_produto"
+                })
+                salvar_estado(s)
+
+                time.sleep(random.randint(*ATRASO_LINK))
+                comentar_produto(s, pid_prod, prod, "cota_produto")
+                return
+
     itens = ler_planilha()
     if not itens:
         log("Planilha vazia. Nada para postar.")
@@ -952,8 +1251,11 @@ def tarefa_postar(s, agora):
     p["feitos"].append(h)
     s.setdefault("hashes", []).append(hs)
     s.setdefault("uso", {})[insp["id"]] = time.time()
-    s.setdefault("posts", []).append({"id": pid, "insp": insp["id"], "link": insp["link"],
-                                      "texto": texto[:300], "quando": agora.isoformat(), "ia": ia_post})
+    post_dict = {"id": pid, "insp": insp["id"], "link": insp["link"],
+                 "texto": texto[:300], "quando": agora.isoformat(), "ia": ia_post}
+    if "meme" in (insp.get("obs") or "").lower():
+        post_dict["estrategia"] = "meme"
+    s.setdefault("posts", []).append(post_dict)
     salvar_estado(s)
 
 
@@ -1470,11 +1772,14 @@ def main():
     s = carregar_estado()
     agora = dt.datetime.now(TZ)
     if s.get("reservas_checadas") != agora.strftime("%Y-%m-%d"):
+        p_hoje = s.get("plano", {})
+        prods_feitos = p_hoje.get("produtos_feitos", 0) if p_hoje.get("data") == agora.strftime("%Y-%m-%d") else 0
         log(f"Config em uso: {MIN_POSTS} a {MAX_POSTS} posts/dia, {HORA_INI}h as {HORA_FIM}h, intervalo {INTERVALO_MIN} min, "
             f"respostas {RESP_POR_RODADA}/rodada {RESP_POR_DIA}/dia {RESP_POR_PESSOA}/pessoa {RESP_POR_POST}/post (piso {RESP_MIN_RODADA}/rodada, rodada a cada {MIN_ENTRE_RODADAS} min), foto {CHANCE_FOTO}, tendencia {CHANCE_TREND}, "
             f"pausas resposta {PAUSA_RESP[0]}-{PAUSA_RESP[1]}s post 0-{ATRASO_POST_MAX}s link {ATRASO_LINK[0]}-{ATRASO_LINK[1]}s, "
             f"Gemini posts {GEMINI_MODEL} respostas {GEMINI_MODEL_RESPOSTA} ({IA_PARALELO} ao mesmo tempo), teste reservas {CHANCE_POST_RESERVA} ate {TESTE_RESERVA_ATE}, "
-            f"esconder spam {'sim' if ESCONDER_SPAM else 'nao'} ate {ESCONDER_POR_DIA}/dia, estatisticas dos ultimos {METRICAS_DIAS} dias, pasta dados por {DADOS_DIAS} dias, shopee {'sim' if SHOPEE_LIGADO else 'nao'}")
+            f"esconder spam {'sim' if ESCONDER_SPAM else 'nao'} ate {ESCONDER_POR_DIA}/dia, estatisticas dos ultimos {METRICAS_DIAS} dias, pasta dados por {DADOS_DIAS} dias, shopee {'sim' if SHOPEE_LIGADO else 'nao'}, "
+            f"produtos hoje {prods_feitos}/{cfg('PRODUTO_POR_DIA')}")
         if _USOU_PADRAO:
             log("Valores do PADRAO do codigo (Variable vazia):", ", ".join(_USOU_PADRAO))
         checar_reservas()  # 1 vez por dia: mostra no log se Groq/OpenRouter respondem
@@ -1495,8 +1800,9 @@ def main():
         _FORA.clear()
     if not MODO_TESTE:
         checar_shopee(s, agora)
+    checar_teste_comentario(s)
     erros = 0
-    for tarefa in (tarefa_postar, tarefa_responder):
+    for tarefa in (tarefa_postar, tarefa_estrategia_meme, tarefa_responder):
         try:
             tarefa(s, agora)
         except Exception as e:
