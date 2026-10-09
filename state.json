@@ -26,7 +26,7 @@
    "16:58",
    "17:48"
   ],
-  "respostas": 75,
+  "respostas": 79,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 13,
@@ -35,9 +35,9 @@
    "18098203103652972": 1,
    "18124736575742625": 1,
    "18130387291689226": 10,
-   "17883591987689452": 16,
+   "17883591987689452": 18,
    "18133563994591000": 5,
-   "18015338645750822": 16,
+   "18015338645750822": 18,
    "18116932673061251": 1,
    "18118295015072947": 1,
    "18030985622888288": 4,
@@ -2278,7 +2278,12 @@
   "17922121014221767",
   "17888794665468625",
   "18122631436930057",
-  "17933821515142474"
+  "17933821515142474",
+  "18108825101350881",
+  "17977017681133058",
+  "18074675657737553",
+  "18118597397054393",
+  "18102746978564379"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2637,30 +2642,14 @@
   "a39c96d8a6": 1,
   "01c030b68c": 1,
   "dd33b81d1a": 1,
-  "7970ffba7c": 1
+  "7970ffba7c": 1,
+  "4ff4426468": 1,
+  "f7916fa921": 1,
+  "2307989de4": 1,
+  "6a1ade1275": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "esse é clássico mesmo, a linha dele não envelhece nunca",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse tem presença garantida, a traseira dele é perfeita",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parati tem lugar cativo no coração de muita gente kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa fase aí marcou época mesmo, imponência pura",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "justo, quem tenta competir acaba ficando no quase mesmo",
    "p": "concorda",
@@ -2790,6 +2779,26 @@
    "t": "papo flui muito mais quando a gente não precisa fingir costume",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "verdade, esse clássico com rodas novas fica estiloso demais kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo, mas no barzinho pelo menos a gente foge do teatro",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "lista forte demais, Peugeot e Fiat dominaram essa época",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cafeteria também entra na lista, o cheiro de café já ajuda no clima kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3434,7 +3443,9 @@
    "parque no fim",
    "economia de energia",
    "economia de tempo",
-   "papo flui muito"
+   "papo flui muito",
+   "justo mas no",
+   "cafeteria tambem entra"
   ],
   "18133563994591000": [
    "poder ate podia",
@@ -3459,7 +3470,9 @@
    "linhas bem marcadas",
    "essa cor azul",
    "esse modelo marcou",
-   "esse desenho divide"
+   "esse desenho divide",
+   "verdade esse classico",
+   "lista forte demais"
   ],
   "18118295015072947": [
    "exato e o"
