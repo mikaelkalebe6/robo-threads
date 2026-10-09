@@ -19,38 +19,22 @@
    "08:13",
    "09:20",
    "10:31",
-   "11:43"
+   "11:43",
+   "12:31"
   ],
-  "respostas": 26,
+  "respostas": 30,
   "por_post": {
    "17871358557637154": 3,
-   "18157552714458950": 5,
+   "18157552714458950": 7,
    "17911108497554167": 1,
    "18111330140174687": 2,
    "18098203103652972": 1,
    "18124736575742625": 1,
    "18130387291689226": 9,
-   "17883591987689452": 4
+   "17883591987689452": 6
   }
  },
  "posts": [
-  {
-   "id": "18117567934950574",
-   "insp": "5d46bb3702",
-   "link": "",
-   "texto": "Quem mais aqui acha que casal não precisa desse mistério todo com senha de celular? Não é sobre fuçar a vida alheia, é só sobre praticidade e não ter nada pra esconder. Tem gente que defende a privacidade como se fosse segredo de estado, eu acho meio esquisito.",
-   "quando": "2026-10-04T12:37:07.723500-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 255,
-    "likes": 2,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-09"
-   }
-  },
   {
    "id": "18115420961019155",
    "insp": "23a8ecfd7a",
@@ -1017,6 +1001,14 @@
    "texto": "A gente diz que vai marcar alguma coisa e já sabe que nunca vai acontecer. É um acordo silencioso.",
    "quando": "2026-10-09T12:07:11.215179-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18133563994591000",
+   "insp": "c23c34d690",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: a festa de casamento nem é a parte mais cara da história toda. \n\nO susto financeiro real vem no primeiro ano morando junto, tentando alinhar dois padrões de vida e descobrindo quanto custa manter uma casa funcionando no dia a dia. \n\nA festa acaba em seis horas, o boleto do condom",
+   "quando": "2026-10-09T12:37:08.575872-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -2263,7 +2255,11 @@
   "17914382115496659",
   "18147274030560183",
   "17938769664378158",
-  "18197307892353318"
+  "18197307892353318",
+  "18103130819010102",
+  "17909833683490590",
+  "18105765332460185",
+  "18498617452102605"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2399,7 +2395,8 @@
   "e1a49f02d5f15e11330f03b4640eab87",
   "ab9a28c40421f2977f6aca8b6e6dc076",
   "f0cfc3a4371fea3cf6c579dfd9b9a7b7",
-  "fe2c1ef11b78502daf7dadf0d8bc64e7"
+  "fe2c1ef11b78502daf7dadf0d8bc64e7",
+  "98b8d51463cc88195e8e678b55a7bd0d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2535,7 +2532,8 @@
   "c8a0ab9dff": 1791549494.5057452,
   "b0cef3aaad": 1791553048.7074025,
   "3f6e169db2": 1791556688.1126475,
-  "fbda80f1b4": 1791562061.4896867
+  "fbda80f1b4": 1791562061.4896867,
+  "c23c34d690": 1791563875.9416332
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2564,30 +2562,14 @@
   "b5221de65f": 1,
   "87790f5b88": 1,
   "c37be1944c": 1,
-  "81b8a90d6c": 1
+  "81b8a90d6c": 1,
+  "cca3dc35f0": 1,
+  "c7a2919d30": 1,
+  "7b40d68248": 1,
+  "d0755e0cc7": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "ciúme de patrimônio cultural que chama kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "a gente aprende da pior forma possível",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o logan quadrado já vem com certificado de apego emocional",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos o defeito de fábrica vem visível de longe",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "feijão pronto no congelador salva o dia corrido",
    "p": "concorda",
@@ -2716,6 +2698,26 @@
   {
    "t": "pamonha olímpica já seria uma modalidade justa kkk",
    "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "já tá com a agenda aberta?",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo querer comer bem, mas a ideia era dividir o peso da escolha",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "minas e goias brigando pelo titulo daria um ótimo programa de tv",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "kkkkk pois é, o marketing de lá é forte",
+   "p": "concorda",
    "r": 1
   }
  ],
@@ -3347,7 +3349,9 @@
    "a do ceara",
    "cruzes passar por",
    "perde totalmente a",
-   "pamonha olimpica ja"
+   "pamonha olimpica ja",
+   "minas e goias",
+   "pois e o"
   ],
   "17871358557637154": [
    "feijao pronto no",
@@ -3376,7 +3380,9 @@
    "te entendo totalmente",
    "menos teatro e",
    "com certeza economia",
-   "papo reto menos"
+   "papo reto menos",
+   "ja ta com",
+   "justo querer comer"
   ]
  },
  "shopee_checada": "2026-10-09|1",
