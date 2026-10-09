@@ -23,7 +23,7 @@
    "12:31",
    "14:42"
   ],
-  "respostas": 42,
+  "respostas": 47,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 9,
@@ -33,7 +33,9 @@
    "18124736575742625": 1,
    "18130387291689226": 10,
    "17883591987689452": 11,
-   "18133563994591000": 4
+   "18133563994591000": 4,
+   "18015338645750822": 4,
+   "18116932673061251": 1
   }
  },
  "posts": [
@@ -2264,7 +2266,12 @@
   "17959971336228483",
   "18114592315833067",
   "17868352281661294",
-  "18030722264856921"
+  "18030722264856921",
+  "18036302771658882",
+  "18124118500932357",
+  "17969706536961588",
+  "18105770060206470",
+  "18487468039111164"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2585,35 +2592,15 @@
   "b6cf59c70b": 1,
   "4a4b438586": 1,
   "5218456c52": 1,
-  "dc10fee143": 1
+  "dc10fee143": 1,
+  "288eebc482": 1,
+  "1800b37713": 1,
+  "fdc514070c": 1,
+  "a894bbdab4": 1,
+  "96c0a81885": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "pitadinha leve na medida certa só pra dar um gás",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "concordo, o limite é exatamente onde vira nóia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perfeita a diferença, saber separar o sentimento da noia muda tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perde totalmente a graça mesmo, estraga a experiência",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "exato, jogo sujo estraga tudo e tira a leveza",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "relação abusiva estraga qualquer percepção de limite mesmo",
    "p": "ressalva",
@@ -2738,6 +2725,31 @@
    "t": "força na peruca que agora começa a saga dos convites kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "AirFryer com delineador foi genial, descrição perfeita dos carros atuais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkk pior que tem toda a lógica, quanto mais amassado mais a gente quer proteger",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "com um motor desses até quem não entende de carro olha duas vezes",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse é clássico mesmo, a linha dele não envelhece nunca",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse tem presença garantida, a traseira dele é perfeita",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3163,18 +3175,6 @@
   }
  ],
  "aberturas_post": {
-  "17969520279187566": [
-   "estrategia valida para",
-   "estrategia radical pra",
-   "justo demais mas",
-   "justo mas tem",
-   "para evitar aquela",
-   "entao vc era",
-   "dois minutos de",
-   "sorte a sua",
-   "essa opcao nao",
-   "zerou o quesito"
-  ],
   "18101068082257287": [
    "um misterio como"
   ],
@@ -3339,7 +3339,8 @@
    "integrante oficial do",
    "aquele modelo quadrado",
    "o logan quadrado",
-   "pelo menos o"
+   "pelo menos o",
+   "pior que tem"
   ],
   "17986227470881809": [
    "sorte de quem",
@@ -3402,6 +3403,12 @@
    "depende do buffet",
    "tem que querer",
    "estrategia perfeita assim"
+  ],
+  "18015338645750822": [
+   "airfryer com delineador",
+   "com um motor",
+   "esse e classico",
+   "esse tem presenca"
   ]
  },
  "shopee_checada": "2026-10-09|1",
