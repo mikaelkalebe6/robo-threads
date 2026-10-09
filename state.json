@@ -20,7 +20,7 @@
    "09:20",
    "10:31"
   ],
-  "respostas": 21,
+  "respostas": 24,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 4,
@@ -28,8 +28,8 @@
    "18111330140174687": 2,
    "18098203103652972": 1,
    "18124736575742625": 1,
-   "18130387291689226": 7,
-   "17883591987689452": 2
+   "18130387291689226": 9,
+   "17883591987689452": 3
   }
  },
  "posts": [
@@ -2265,7 +2265,11 @@
   "18171910147454725",
   "18088505984256257",
   "18490255861107824",
-  "18097751180558835"
+  "18097751180558835",
+  "18065605391784754",
+  "18151631005540367",
+  "17914382115496659",
+  "18147274030560183"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2559,25 +2563,13 @@
   "369cfcafe4": 1,
   "b09314e2b2": 1,
   "4633e0e948": 1,
-  "907191cb37": 1
+  "907191cb37": 1,
+  "1eb4ad9c86": 1,
+  "b5221de65f": 1,
+  "87790f5b88": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "sorte de quem passou batido por essa fase",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa regra do dinheiro perdido já devia vir impressa no manual kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "aquele modelo quadrado que parece uma caixinha de fósforo e a gente defende com unhas e dentes",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "querendo patrocinar o caos de novo kkkk",
    "p": "concorda",
@@ -2711,6 +2703,21 @@
   {
    "t": "respeito demais a visão, mas confesso que às vezes o limite entre cuidado e nóia é bem sutil",
    "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "com certeza, economia de tempo e de paciência",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade pura, o afeto muda de forma mas o cuidado é o mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dá aquele tempero que faltava pra movimentar as coisas",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -3362,11 +3369,14 @@
    "perfeita a diferenca",
    "exato jogo sujo",
    "relacao abusiva estraga",
-   "respeito demais a"
+   "respeito demais a",
+   "verdade pura o",
+   "da aquele tempero"
   ],
   "17883591987689452": [
    "te entendo totalmente",
-   "menos teatro e"
+   "menos teatro e",
+   "com certeza economia"
   ]
  },
  "shopee_checada": "2026-10-09|1",
