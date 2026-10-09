@@ -22,7 +22,7 @@
    "11:43",
    "12:31"
   ],
-  "respostas": 38,
+  "respostas": 40,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 9,
@@ -30,8 +30,8 @@
    "18111330140174687": 2,
    "18098203103652972": 1,
    "18124736575742625": 1,
-   "18130387291689226": 9,
-   "17883591987689452": 8,
+   "18130387291689226": 10,
+   "17883591987689452": 9,
    "18133563994591000": 4
   }
  },
@@ -2268,7 +2268,9 @@
   "18351278638281327",
   "18169341328465062",
   "18445025632134455",
-  "17961818685208268"
+  "17961818685208268",
+  "17959971336228483",
+  "18114592315833067"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2583,20 +2585,12 @@
   "f7bc601b29": 1,
   "f85a1361aa": 1,
   "329ca6bd2d": 1,
-  "ffa1b31fcd": 1
+  "ffa1b31fcd": 1,
+  "b6cf59c70b": 1,
+  "4a4b438586": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "surpresa garantida na hora do almoço kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quanto antes a gente entende isso, mais leve fica o caminho",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "cruzes, passar por isso com pamonha é triste demais",
    "p": "concorda",
@@ -2736,6 +2730,16 @@
    "t": "certeza, zero drama e muito melhor pra conversar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "verdade, barzinho simples ganha de qualquer lugar chique",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkk aí já passou de ciúme, virou investigação particular",
+   "p": "discorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -3379,7 +3383,8 @@
    "relacao abusiva estraga",
    "respeito demais a",
    "verdade pura o",
-   "da aquele tempero"
+   "da aquele tempero",
+   "ai ja passou"
   ],
   "17883591987689452": [
    "te entendo totalmente",
@@ -3389,7 +3394,8 @@
    "ja ta com",
    "justo querer comer",
    "dividir a conta",
-   "certeza zero drama"
+   "certeza zero drama",
+   "verdade barzinho simples"
   ],
   "18133563994591000": [
    "poder ate podia",
