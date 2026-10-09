@@ -35,7 +35,7 @@
 **No código atual:** Em parte. Credenciais já são ocultadas via variáveis de ambiente nos arquivos `bot.py`, `shopee.py` e `inspiracoes.py` (usando `os.environ.get`).
 **Esforço:** Médio
 **Riscos:** Gasto extra de IA e minutos do GitHub Actions se automatizado.
-**Recomendação:** Não aplicar (O projeto já trata credenciais via variáveis e o restante não se aplica (não há formulários web).)
+**Recomendação:** Já aplicado em parte (O projeto já trata credenciais, mas para um robô no GitHub Actions ainda falta configurar: permissões restritas do workflow, actions fixadas por SHA, proteção contra vazamento de chave nos logs e limites de chamadas de API.)
 
 ### Proteção de Rotas Admin
 **Proposta:** Validar permissões de administrador no servidor backend para todas as rotas restritas.
@@ -49,7 +49,7 @@
 **No código atual:** Parcial. Chaves (secrets) já ficam fora do código em variáveis de ambiente nos arquivos `bot.py` e `shopee.py` (função `env()`), mas não há rate limit no código Python para requests.
 **Esforço:** Alto
 **Riscos:** Nenhum
-**Recomendação:** Não aplicar (A maioria dos itens não é aplicável a um script isolado, exceto as variáveis de ambiente que já estão sendo usadas.)
+**Recomendação:** Já aplicado em parte (Credenciais fora do código já existem, mas ainda falta implementar no GitHub Actions: permissões do workflow, actions fixadas por SHA, proteção contra vazamento de chave nos logs e limites de chamadas.)
 
 ### Cybersecurity Básica
 **Proposta:** Boas práticas de segurança cibernética básica e adequação à LGPD.
@@ -124,12 +124,28 @@
 
 ## 2. Ações de Inspirações Lidas
 
-Nenhuma inspiração exigiu ação (como baixar, pesquisar, analisar ou estudar perfil).
+Link: https://www.instagram.com/p/DdvV4u6EXfg/ (Avô no WhatsApp)
+Ação pedida: Pesquisar a técnica de contar história em fios.
+Situação: Pendente. Falta pesquisar a técnica.
+
+Link: https://www.instagram.com/p/Dd1gcz1u8aE/ (Cabo de dois plugues)
+Ação pedida: Baixar o meme do cabo de dois plugues.
+Situação: Pendente. Falta baixar a imagem.
+
+Link: https://vt.tiktok.com/ZSbMk8jMp/ (Celular BlackBerry touch)
+Ação pedida: Baixar um vídeo do TikTok para postar.
+Situação: Pendente. Falta baixar o vídeo e programar o post.
 
 ## 3. Links de Perfil
 
 Perfil: https://www.threads.com/@isabelanunesantos
 Análise: O resumo avaliou apenas a bio e a foto da criadora. Não há posts reais analisados.
+
+Perfil: https://www.threads.com/@nalu.pri
+Análise: O resumo avaliou apenas a bio e a foto. Não há posts reais analisados.
+
+Perfil: https://www.threads.com/@futurizando
+Análise: O resumo focou na imagem de perfil (Olho da Providência) e na descrição da bio. Nenhum post real foi analisado.
 
 
 ## Resumo de Prioridades (Melhorias)
@@ -143,9 +159,9 @@ Análise: O resumo avaliou apenas a bio e a foto da criadora. Não há posts rea
 | Atendimento WhatsApp OpenWA | Não aplicar | Alto | Ban do WhatsApp |
 | Guia Agente WhatsApp | Não aplicar | Alto | Custos com VPS |
 | Claude Instagram Skills | Não aplicar | Alto | Ban do Instagram |
-| Requisitos Básicos de Segurança | Não aplicar | Alto | Nenhum |
+| Requisitos Básicos de Segurança | Já aplicado em parte | Alto | Nenhum |
 | Integração WhatsApp Claude MCP | Não aplicar | Médio | Cobrança da Meta |
-| Auditoria de Segurança | Não aplicar | Médio | Gasto com GitHub Actions |
+| Auditoria de Segurança | Já aplicado em parte | Médio | Gasto com GitHub Actions |
 | Cybersecurity Básica | Não aplicar | Baixo | Nenhum |
 | Validação Básica de Apps IA | Não aplicar | Baixo | Nenhum |
 | Segurança RLS Supabase | Não aplicar | Baixo | Nenhum |
