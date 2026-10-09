@@ -22,9 +22,10 @@
    "16:14",
    "17:12",
    "18:04",
-   "19:15"
+   "19:15",
+   "21:17"
   ],
-  "respostas": 61,
+  "respostas": 62,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
@@ -41,28 +42,11 @@
    "18099059360387148": 3,
    "17911108497554167": 1,
    "18116932673061251": 3,
-   "17986227470881809": 3,
+   "17986227470881809": 4,
    "18157552714458950": 2
   }
  },
  "posts": [
-  {
-   "id": "18027138863883219",
-   "insp": "39b02ce282",
-   "link": "",
-   "texto": "PESSOAS QUE TRABALHAM COM PÚBLICO: qual foi o cliente mais sem noção que já apareceu na sua frente?",
-   "quando": "2026-10-03T21:07:27.096518-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 527,
-    "likes": 0,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-08"
-   }
-  },
   {
    "id": "17962360311229899",
    "insp": "6d7d2f32e2",
@@ -984,6 +968,14 @@
    "texto": "OPINIAO IMPOPULAR: a pamonha de Goiás é boa sim, mas o pessoal exagera achando que não tem rival no país.",
    "quando": "2026-10-08T19:37:09.521045-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17871358557637154",
+   "insp": "9dfc1777fa",
+   "link": "",
+   "texto": "Quem mais aí atingiu a fase da vida adulta onde abrir o pote no congelador e realmente encontrar sorvete vira o ponto alto do dia?\n\nA gente aprende a comemorar vitórias muito específicas.",
+   "quando": "2026-10-08T21:37:09.511274-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -2199,7 +2191,8 @@
   "18130088179756018",
   "18394984114162629",
   "18136857454711720",
-  "18370565932210696"
+  "18370565932210696",
+  "17982904241901790"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2330,7 +2323,8 @@
   "a240bc3a930cb570f0d7e65d0528d808",
   "f6e28494869959ca8f398b2fc8641758",
   "1a924c6a15343ea79c49ea7444c6a610",
-  "28364cd36ae251ffe132cf77afca74e1"
+  "28364cd36ae251ffe132cf77afca74e1",
+  "95ad509b06d48f418a919888fe971f99"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2461,7 +2455,8 @@
   "607a9f8d64": 1791491845.7964373,
   "bcc0c20424": 1791495460.9115326,
   "29649aab34": 1791497253.2238147,
-  "63b1ece74f": 1791502688.3760064
+  "63b1ece74f": 1791502688.3760064,
+  "9dfc1777fa": 1791509880.1285467
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2519,15 +2514,11 @@
   "280792b6e0": 1,
   "9aec6ced5a": 1,
   "a474663913": 1,
-  "787d8da48f": 1
+  "787d8da48f": 1,
+  "cca3dc35f0": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "o disfarce dura até a próxima DR kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "verdade, cada um no seu ritmo rende muito mais",
    "p": "concorda",
@@ -2672,6 +2663,11 @@
    "t": "ciúme de patrimônio cultural que chama kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "a gente aprende da pior forma possível",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3316,7 +3312,8 @@
   "17986227470881809": [
    "sorte de quem",
    "essa regra do",
-   "querendo patrocinar o"
+   "querendo patrocinar o",
+   "a gente aprende"
   ],
   "18157552714458950": [
    "justo demais entao",
