@@ -18,38 +18,22 @@
   "feitos": [
    "08:13",
    "09:20",
-   "10:31"
+   "10:31",
+   "11:43"
   ],
-  "respostas": 24,
+  "respostas": 26,
   "por_post": {
    "17871358557637154": 3,
-   "18157552714458950": 4,
+   "18157552714458950": 5,
    "17911108497554167": 1,
    "18111330140174687": 2,
    "18098203103652972": 1,
    "18124736575742625": 1,
    "18130387291689226": 9,
-   "17883591987689452": 3
+   "17883591987689452": 4
   }
  },
  "posts": [
-  {
-   "id": "18152407384556806",
-   "insp": "7d6d624d0c",
-   "link": "",
-   "texto": "SEJAM SINCEROS: para a galera que já passou dos 30, o joelho que começou a estalar primeiro foi o esquerdo ou o direito? \n\nEsquerdo\nDireito",
-   "quando": "2026-10-04T11:07:10.011751-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 97,
-    "likes": 0,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-09"
-   }
-  },
   {
    "id": "18117567934950574",
    "insp": "5d46bb3702",
@@ -1024,6 +1008,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro num barzinho simples ganha de lavada de restaurante chique. Menos pressão, mais conversa de verdade.",
    "quando": "2026-10-09T10:37:11.681065-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18035663177850463",
+   "insp": "fbda80f1b4",
+   "link": "",
+   "texto": "A gente diz que vai marcar alguma coisa e já sabe que nunca vai acontecer. É um acordo silencioso.",
+   "quando": "2026-10-09T12:07:11.215179-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -2269,7 +2261,9 @@
   "18065605391784754",
   "18151631005540367",
   "17914382115496659",
-  "18147274030560183"
+  "18147274030560183",
+  "17938769664378158",
+  "18197307892353318"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2404,7 +2398,8 @@
   "95ad509b06d48f418a919888fe971f99",
   "e1a49f02d5f15e11330f03b4640eab87",
   "ab9a28c40421f2977f6aca8b6e6dc076",
-  "f0cfc3a4371fea3cf6c579dfd9b9a7b7"
+  "f0cfc3a4371fea3cf6c579dfd9b9a7b7",
+  "fe2c1ef11b78502daf7dadf0d8bc64e7"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2539,7 +2534,8 @@
   "9dfc1777fa": 1791509880.1285467,
   "c8a0ab9dff": 1791549494.5057452,
   "b0cef3aaad": 1791553048.7074025,
-  "3f6e169db2": 1791556688.1126475
+  "3f6e169db2": 1791556688.1126475,
+  "fbda80f1b4": 1791562061.4896867
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2566,20 +2562,12 @@
   "907191cb37": 1,
   "1eb4ad9c86": 1,
   "b5221de65f": 1,
-  "87790f5b88": 1
+  "87790f5b88": 1,
+  "c37be1944c": 1,
+  "81b8a90d6c": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "querendo patrocinar o caos de novo kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "justo demais, então você vive na paz de não ter duvidas",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "ciúme de patrimônio cultural que chama kkk",
    "p": "concorda",
@@ -2719,6 +2707,16 @@
    "t": "dá aquele tempero que faltava pra movimentar as coisas",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "papo reto, menos frescura e mais conversa boa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pamonha olímpica já seria uma modalidade justa kkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3348,7 +3346,8 @@
    "agora patos de",
    "a do ceara",
    "cruzes passar por",
-   "perde totalmente a"
+   "perde totalmente a",
+   "pamonha olimpica ja"
   ],
   "17871358557637154": [
    "feijao pronto no",
@@ -3376,7 +3375,8 @@
   "17883591987689452": [
    "te entendo totalmente",
    "menos teatro e",
-   "com certeza economia"
+   "com certeza economia",
+   "papo reto menos"
   ]
  },
  "shopee_checada": "2026-10-09|1",
