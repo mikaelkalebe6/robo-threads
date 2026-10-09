@@ -23,9 +23,10 @@
    "12:31",
    "14:42",
    "15:38",
-   "16:58"
+   "16:58",
+   "17:48"
   ],
-  "respostas": 66,
+  "respostas": 71,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 13,
@@ -34,33 +35,16 @@
    "18098203103652972": 1,
    "18124736575742625": 1,
    "18130387291689226": 10,
-   "17883591987689452": 13,
-   "18133563994591000": 4,
-   "18015338645750822": 13,
+   "17883591987689452": 14,
+   "18133563994591000": 5,
+   "18015338645750822": 14,
    "18116932673061251": 1,
    "18118295015072947": 1,
-   "18030985622888288": 2,
+   "18030985622888288": 4,
    "18099059360387148": 1
   }
  },
  "posts": [
-  {
-   "id": "17891293701615453",
-   "insp": "c638d9ff81",
-   "link": "",
-   "texto": "SEM MENTIR: uma semana sem internet eu consigo sobreviver, mas um mês sem doce? Não dá, preciso daquele açúcar pra dar aquele gás nas ideias. 🍬 E vocês, o que escolheriam?",
-   "quando": "2026-10-04T17:07:11.168141-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 231,
-    "likes": 4,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-09"
-   }
-  },
   {
    "id": "18115684799079677",
    "insp": "c5cc27e19f",
@@ -991,6 +975,14 @@
    "texto": "Outro dia vi meu irmão jogando online de fone e lembrei da época em que a gente juntava a galera na sala pra disputar na mesma tela. \n\nSei que os gráficos de hoje parecem cinema, mas vocês preferem o videogame clássico dos anos 2000 ou essa era conectada de agora?",
    "quando": "2026-10-09T17:07:09.179049-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18009434771778336",
+   "insp": "ae0c3922a8",
+   "link": "",
+   "texto": "Opinião impopular: tem robô mandando bom dia com mais carinho que muita gente da família.",
+   "quando": "2026-10-09T18:07:08.094562-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2277,7 +2269,12 @@
   "17919135375243667",
   "18113156600030993",
   "18175760629448797",
-  "17878365879630722"
+  "17878365879630722",
+  "18047145197817476",
+  "17887468803619615",
+  "17901221562602014",
+  "17910373467519748",
+  "18125133149478031"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2417,7 +2414,8 @@
   "98b8d51463cc88195e8e678b55a7bd0d",
   "3af1a22d0fad12754dcd97be96c85506",
   "d57d1e882cd253e19acc0e2a11a6ef21",
-  "951fe0d868338be0f3cfbef1d2512bfc"
+  "951fe0d868338be0f3cfbef1d2512bfc",
+  "54f50292890d72cfc9ad8b95617f3e2a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2557,7 +2555,8 @@
   "c23c34d690": 1791563875.9416332,
   "6e6b47e4ea": 1791572846.6349454,
   "da2a07512c": 1791576445.2365634,
-  "6ab249fcf7": 1791580080.9198704
+  "6ab249fcf7": 1791580080.9198704,
+  "ae0c3922a8": 1791583645.2915637
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2625,35 +2624,15 @@
   "b1a16a49b2": 1,
   "739b6415d8": 1,
   "b35859f239": 1,
-  "4f0d6e0b6b": 1
+  "4f0d6e0b6b": 1,
+  "f6fef20187": 1,
+  "51ec3c3a65": 1,
+  "a5ab48bc97": 1,
+  "24280b4d9c": 1,
+  "16e615f84e": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "estratégia perfeita, assim o susto vem fracionado kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "certeza, zero drama e muito melhor pra conversar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, barzinho simples ganha de qualquer lugar chique",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkk aí já passou de ciúme, virou investigação particular",
-   "p": "discorda",
-   "r": 2
-  },
-  {
-   "t": "economia e zero frescura",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "força na peruca que agora começa a saga dos convites kkk",
    "p": "concorda",
@@ -2778,6 +2757,31 @@
    "t": "kkk pois é, coragem né",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "sessão por convite é a paz que a gente precisa para curtir o jogo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "equilíbrio perfeito, cada fase tem sua graça",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sete anos de teste e o boleto ainda acha a gente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa cor azul dá um charme que poucos conseguem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "economia de energia e foco no que importa",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3419,13 +3423,15 @@
    "economia e zero",
    "forca na peruca",
    "padrao ouro que",
-   "parque no fim"
+   "parque no fim",
+   "economia de energia"
   ],
   "18133563994591000": [
    "poder ate podia",
    "depende do buffet",
    "tem que querer",
-   "estrategia perfeita assim"
+   "estrategia perfeita assim",
+   "sete anos de"
   ],
   "18015338645750822": [
    "airfryer com delineador",
@@ -3440,14 +3446,17 @@
    "esse ai marcou",
    "esse trator de",
    "adorei o dart",
-   "linhas bem marcadas"
+   "linhas bem marcadas",
+   "essa cor azul"
   ],
   "18118295015072947": [
    "exato e o"
   ],
   "18030985622888288": [
    "lan house com",
-   "verdade juntar a"
+   "verdade juntar a",
+   "sessao por convite",
+   "equilibrio perfeito cada"
   ]
  },
  "shopee_checada": "2026-10-09|1",
