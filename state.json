@@ -16,12 +16,13 @@
    "20:51"
   ],
   "feitos": [],
-  "respostas": 4,
+  "respostas": 8,
   "por_post": {
-   "17871358557637154": 1,
-   "18157552714458950": 1,
+   "17871358557637154": 2,
+   "18157552714458950": 2,
    "17911108497554167": 1,
-   "18111330140174687": 1
+   "18111330140174687": 2,
+   "18098203103652972": 1
   }
  },
  "posts": [
@@ -2266,7 +2267,11 @@
   "18049707254807882",
   "18149576548483216",
   "17989165725114639",
-  "18077262878469439"
+  "18077262878469439",
+  "18113749769110938",
+  "18631098970034547",
+  "17953055985279373",
+  "17968588355966332"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2538,30 +2543,14 @@
   "27b9f3b3d9": 1,
   "d37aff9cb6": 1,
   "09820c3fd8": 1,
-  "e7102b50d0": 1
+  "e7102b50d0": 1,
+  "1d06969815": 1,
+  "86f431288d": 1,
+  "96516158b5": 1,
+  "42df173a8c": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "velocidade máxima no primeiro contato",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tem presente que realmente passa do ponto da noção",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Kkkkkkkkkkkkkmmmkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "maca com ketchup já e teste para enfartar qualquer um",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "estrategia de sobrevivencia pura kkk",
    "p": "concorda",
@@ -2689,6 +2678,26 @@
   },
   {
    "t": "verdade, fica com aquela estrutura certinha que entrega o truque na hora",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "mais um voto para mexirica",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perigo iminente de ser só mais uma caixa de feijão kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "a do ceará ficou de fora da briga mas a mineira tem seus fãs fiéis kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "atalho útil demais quando a cabeça já tá cheia",
    "p": "concorda",
    "r": 0
   }
@@ -3328,7 +3337,8 @@
   "18098203103652972": [
    "lei inquestionavel em",
    "esse nome tem",
-   "quem fala bergamota"
+   "quem fala bergamota",
+   "mais um voto"
   ],
   "18099059360387148": [
    "maca com ketchup",
@@ -3354,13 +3364,16 @@
   "18157552714458950": [
    "justo demais entao",
    "ciume de patrimonio",
-   "agora patos de"
+   "agora patos de",
+   "a do ceara"
   ],
   "17871358557637154": [
-   "feijao pronto no"
+   "feijao pronto no",
+   "perigo iminente de"
   ],
   "18111330140174687": [
-   "verdade fica com"
+   "verdade fica com",
+   "atalho util demais"
   ]
  },
  "shopee_checada": "2026-10-09|1",
