@@ -26,7 +26,7 @@
    "16:58",
    "17:48"
   ],
-  "respostas": 71,
+  "respostas": 75,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 13,
@@ -35,9 +35,9 @@
    "18098203103652972": 1,
    "18124736575742625": 1,
    "18130387291689226": 10,
-   "17883591987689452": 14,
+   "17883591987689452": 16,
    "18133563994591000": 5,
-   "18015338645750822": 14,
+   "18015338645750822": 16,
    "18116932673061251": 1,
    "18118295015072947": 1,
    "18030985622888288": 4,
@@ -2274,7 +2274,11 @@
   "17887468803619615",
   "17901221562602014",
   "17910373467519748",
-  "18125133149478031"
+  "18125133149478031",
+  "17922121014221767",
+  "17888794665468625",
+  "18122631436930057",
+  "17933821515142474"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2629,30 +2633,14 @@
   "51ec3c3a65": 1,
   "a5ab48bc97": 1,
   "24280b4d9c": 1,
-  "16e615f84e": 1
+  "16e615f84e": 1,
+  "a39c96d8a6": 1,
+  "01c030b68c": 1,
+  "dd33b81d1a": 1,
+  "7970ffba7c": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "força na peruca que agora começa a saga dos convites kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "AirFryer com delineador foi genial, descrição perfeita dos carros atuais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkk pior que tem toda a lógica, quanto mais amassado mais a gente quer proteger",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "com um motor desses até quem não entende de carro olha duas vezes",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse é clássico mesmo, a linha dele não envelhece nunca",
    "p": "concorda",
@@ -2780,6 +2768,26 @@
   },
   {
    "t": "economia de energia e foco no que importa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse modelo marcou época mesmo, frente marcante que a gente reconhece de longe",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "economia de tempo e de paciência com garçom de luva branca",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse desenho divide opiniões mas tem muita personalidade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "papo flui muito mais quando a gente não precisa fingir costume",
    "p": "concorda",
    "r": 0
   }
@@ -3424,7 +3432,9 @@
    "forca na peruca",
    "padrao ouro que",
    "parque no fim",
-   "economia de energia"
+   "economia de energia",
+   "economia de tempo",
+   "papo flui muito"
   ],
   "18133563994591000": [
    "poder ate podia",
@@ -3447,7 +3457,9 @@
    "esse trator de",
    "adorei o dart",
    "linhas bem marcadas",
-   "essa cor azul"
+   "essa cor azul",
+   "esse modelo marcou",
+   "esse desenho divide"
   ],
   "18118295015072947": [
    "exato e o"
