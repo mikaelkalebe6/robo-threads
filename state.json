@@ -15,7 +15,9 @@
    "20:07",
    "20:51"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:13"
+  ],
   "respostas": 9,
   "por_post": {
    "17871358557637154": 3,
@@ -26,23 +28,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17962360311229899",
-   "insp": "6d7d2f32e2",
-   "link": "",
-   "texto": "SEJAM SINCEROS: quantas séries famosas vocês já abandonaram logo nos primeiros minutos porque o ritmo não me prendeu de jeito nenhum? A gente tenta acompanhar o hype, mas o cansaço vence.",
-   "quando": "2026-10-03T22:07:08.232231-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 13009,
-    "likes": 96,
-    "replies": 283,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-09"
-   }
-  },
   {
    "id": "18080156645367951",
    "insp": "3d41eeda62",
@@ -1045,6 +1030,14 @@
     "shares": 0,
     "em": "2026-10-09"
    }
+  },
+  {
+   "id": "18124736575742625",
+   "insp": "c8a0ab9dff",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: quem nunca sente que depois de cada tarefa precisa de uma pausa? A vida tá me ensinando que descanso não é luxo, é necessidade. 🌿",
+   "quando": "2026-10-09T08:37:08.900425-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -2404,7 +2397,8 @@
   "f6e28494869959ca8f398b2fc8641758",
   "1a924c6a15343ea79c49ea7444c6a610",
   "28364cd36ae251ffe132cf77afca74e1",
-  "95ad509b06d48f418a919888fe971f99"
+  "95ad509b06d48f418a919888fe971f99",
+  "e1a49f02d5f15e11330f03b4640eab87"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2536,7 +2530,8 @@
   "bcc0c20424": 1791495460.9115326,
   "29649aab34": 1791497253.2238147,
   "63b1ece74f": 1791502688.3760064,
-  "9dfc1777fa": 1791509880.1285467
+  "9dfc1777fa": 1791509880.1285467,
+  "c8a0ab9dff": 1791549494.5057452
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
