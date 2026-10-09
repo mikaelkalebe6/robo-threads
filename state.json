@@ -25,7 +25,7 @@
    "19:15",
    "21:17"
   ],
-  "respostas": 62,
+  "respostas": 63,
   "por_post": {
    "18105144680201716": 1,
    "17921074737446173": 2,
@@ -41,7 +41,7 @@
    "18098203103652972": 3,
    "18099059360387148": 3,
    "17911108497554167": 1,
-   "18116932673061251": 3,
+   "18116932673061251": 4,
    "17986227470881809": 4,
    "18157552714458950": 2
   }
@@ -2192,7 +2192,8 @@
   "18394984114162629",
   "18136857454711720",
   "18370565932210696",
-  "17982904241901790"
+  "17982904241901790",
+  "18032342168903845"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2515,15 +2516,11 @@
   "9aec6ced5a": 1,
   "a474663913": 1,
   "787d8da48f": 1,
-  "cca3dc35f0": 1
+  "cca3dc35f0": 1,
+  "e0a77085dd": 1
  },
  "reservas_checadas": "2026-10-08",
  "ultimas_respostas": [
-  {
-   "t": "verdade, cada um no seu ritmo rende muito mais",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "a evolução das redes sociais mudou completamente o cronograma de tudo",
    "p": "concorda",
@@ -2666,6 +2663,11 @@
   },
   {
    "t": "a gente aprende da pior forma possível",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o logan quadrado já vem com certificado de apego emocional",
    "p": "concorda",
    "r": 0
   }
@@ -3307,7 +3309,8 @@
   "18116932673061251": [
    "justo tem modelo",
    "integrante oficial do",
-   "aquele modelo quadrado"
+   "aquele modelo quadrado",
+   "o logan quadrado"
   ],
   "17986227470881809": [
    "sorte de quem",
