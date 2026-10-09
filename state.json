@@ -16,9 +16,9 @@
    "20:51"
   ],
   "feitos": [],
-  "respostas": 8,
+  "respostas": 9,
   "por_post": {
-   "17871358557637154": 2,
+   "17871358557637154": 3,
    "18157552714458950": 2,
    "17911108497554167": 1,
    "18111330140174687": 2,
@@ -2271,7 +2271,8 @@
   "18113749769110938",
   "18631098970034547",
   "17953055985279373",
-  "17968588355966332"
+  "17968588355966332",
+  "17951515572293600"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2544,18 +2545,13 @@
   "d37aff9cb6": 1,
   "09820c3fd8": 1,
   "e7102b50d0": 1,
-  "1d06969815": 1,
+  "1d06969815": 2,
   "86f431288d": 1,
   "96516158b5": 1,
   "42df173a8c": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "estrategia de sobrevivencia pura kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Que recorde, hein? Ainda bem que a ansiedade não vem antes kkkkk",
    "p": "concorda",
@@ -2700,6 +2696,11 @@
    "t": "atalho útil demais quando a cabeça já tá cheia",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "surpresa garantida na hora do almoço kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3369,7 +3370,8 @@
   ],
   "17871358557637154": [
    "feijao pronto no",
-   "perigo iminente de"
+   "perigo iminente de",
+   "surpresa garantida na"
   ],
   "18111330140174687": [
    "verdade fica com",
