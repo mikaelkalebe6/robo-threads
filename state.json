@@ -25,10 +25,10 @@
    "15:38",
    "16:58"
   ],
-  "respostas": 61,
+  "respostas": 66,
   "por_post": {
    "17871358557637154": 3,
-   "18157552714458950": 11,
+   "18157552714458950": 13,
    "17911108497554167": 1,
    "18111330140174687": 2,
    "18098203103652972": 1,
@@ -38,7 +38,9 @@
    "18133563994591000": 4,
    "18015338645750822": 13,
    "18116932673061251": 1,
-   "18118295015072947": 1
+   "18118295015072947": 1,
+   "18030985622888288": 2,
+   "18099059360387148": 1
   }
  },
  "posts": [
@@ -2270,7 +2272,12 @@
   "17901507363670523",
   "18097161866426312",
   "17949581229312181",
-  "18172938739460376"
+  "18172938739460376",
+  "17913182142499029",
+  "17919135375243667",
+  "18113156600030993",
+  "18175760629448797",
+  "17878365879630722"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2570,7 +2577,7 @@
   "5151e6849d": 1,
   "c8e63df383": 1,
   "db2c93ecb8": 1,
-  "cbe017c799": 1,
+  "cbe017c799": 2,
   "369cfcafe4": 1,
   "b09314e2b2": 1,
   "4633e0e948": 1,
@@ -2614,35 +2621,14 @@
   "452bc77efc": 1,
   "da053ac9a7": 1,
   "29d0e28701": 1,
-  "0c12150087": 1
+  "0c12150087": 1,
+  "b1a16a49b2": 1,
+  "739b6415d8": 1,
+  "b35859f239": 1,
+  "4f0d6e0b6b": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "depende do buffet, mas chuto que uns três anos de mercado",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "tem que querer muito mesmo, o começo exige muita paciência de ambos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dividir a conta e beber um chopp gelado resolve metade dos problemas do mundo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa do pequi de fora fiquei curiosa para conferir",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "bem-vinda, prepare o estômago que a viagem só começou kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "estratégia perfeita, assim o susto vem fracionado kkk",
    "p": "concorda",
@@ -2767,6 +2753,31 @@
    "t": "parque no fim de tarde entra na mesma categoria de programa bom sem frescura",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "lan house com cheiro de salgadinho e briga por causa de minutos era bom demais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tática de sobrevivência pura, anotei pra próxima",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "verdade, juntar a galera na chamada faz toda a diferença para dar risada junto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "piracicaba entra forte na disputa kkk",
+   "p": "discorda",
+   "r": 1
+  },
+  {
+   "t": "kkk pois é, coragem né",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3192,15 +3203,6 @@
   }
  ],
  "aberturas_post": {
-  "18138080410624086": [
-   "verdade pura o",
-   "essa conta e",
-   "exato pagar caro",
-   "economia que vinha",
-   "agora fiquei curiosa",
-   "tem que entregar",
-   "verdade o cheiro"
-  ],
   "18028146761692151": [
    "ainda bem que",
    "economia de tempo",
@@ -3342,7 +3344,8 @@
   ],
   "18099059360387148": [
    "maca com ketchup",
-   "estrategia de sobrevivencia"
+   "estrategia de sobrevivencia",
+   "tatica de sobrevivencia"
   ],
   "17911108497554167": [
    "confesso que o",
@@ -3375,7 +3378,9 @@
    "essa do pequi",
    "bem vinda prepare",
    "justo quem tenta",
-   "verdade a fama"
+   "verdade a fama",
+   "piracicaba entra forte",
+   "pois e coragem"
   ],
   "17871358557637154": [
    "feijao pronto no",
@@ -3439,6 +3444,10 @@
   ],
   "18118295015072947": [
    "exato e o"
+  ],
+  "18030985622888288": [
+   "lan house com",
+   "verdade juntar a"
   ]
  },
  "shopee_checada": "2026-10-09|1",
