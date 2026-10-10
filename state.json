@@ -24,43 +24,27 @@
    "09:52",
    "11:03",
    "11:43",
-   "14:35"
+   "14:35",
+   "16:39"
   ],
-  "produtos_feitos": 1,
-  "respostas": 69,
+  "produtos_feitos": 2,
+  "respostas": 73,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 11,
    "18030985622888288": 2,
-   "18015338645750822": 10,
+   "18015338645750822": 11,
    "17883591987689452": 8,
    "18124736575742625": 1,
    "17931200094409342": 8,
-   "18078986099393308": 11,
+   "18078986099393308": 12,
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3,
-   "17975559206935962": 10
+   "17975559206935962": 12
   }
  },
  "posts": [
-  {
-   "id": "18126767030510839",
-   "insp": "c422eac36b",
-   "link": "",
-   "texto": "Entrei no mercado decidida a comprar só um pão e saí com três sacolas cheias, mas sem o pão. \n\nVocês também perdem o foco assim ou só eu?",
-   "quando": "2026-10-05T18:07:14.346710-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1234,
-    "likes": 46,
-    "replies": 52,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-10"
-   }
-  },
   {
    "id": "18085466636306923",
    "insp": "2832d4baf6",
@@ -1024,6 +1008,18 @@
    "texto": "SEJAM SINCEROS: qual foi o primeiro salário de vocês? \n\nTenho quase certeza de que quem começou ganhando menos de 500 reais tem uma relação muito mais neurótica com dinheiro hoje em dia.",
    "quando": "2026-10-10T14:37:09.661425-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18099792050455079",
+   "insp": "prod_19999249755",
+   "link": "",
+   "texto": "Sempre achei que qualquer alicate servia para mexer com bijuteria até tentar fazer um detalhe menor e quase chorar de raiva.",
+   "quando": "2026-10-10T17:07:08.679990-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "comentfoto",
+   "produto": "19999249755"
   }
  ],
  "respondidos": [
@@ -2418,7 +2414,11 @@
   "18445856575134271",
   "18115480277016679",
   "18118407421952882",
-  "18175147447454390"
+  "18175147447454390",
+  "18124765187510393",
+  "18103195835019767",
+  "18098910455081568",
+  "18106497968579954"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2783,30 +2783,14 @@
   "7bd53530d6": 1,
   "d77d8066ee": 1,
   "2ea2505832": 1,
-  "bd9c735297": 1
+  "bd9c735297": 1,
+  "1948d48d94": 1,
+  "fafd658eb3": 1,
+  "f61681e948": 1,
+  "5d06b0ea91": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "roleta russa automotiva pura kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "boa tarde, tudo bem por aí?",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "precisa mesmo de muita fé e de um posto logo ali na frente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, o estrago vem silencioso e a conta da oficina assusta",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "kkkkk naruto players era caminho sem volta pra tarde toda",
    "p": "concorda",
@@ -2936,6 +2920,26 @@
    "t": "ajuda de custo que era praticamente um abraço e olhe lá",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "valor que hoje em dia não paga nem o lanche da tarde",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse frances aí parece nave espacial de filme antigo, uma obra de arte",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkkkkkkkkkkkk o salto quântico na conta bancária",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "matemática de alto risco que a gente confia cegamente kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -2988,6 +2992,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-10T10:07:08.825630-04:00"
+  },
+  "18193931152401485": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-10T17:07:08.679990-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -3540,7 +3549,6 @@
    "esse e o"
   ],
   "18015338645750822": [
-   "esse trator de",
    "adorei o dart",
    "linhas bem marcadas",
    "essa cor azul",
@@ -3559,7 +3567,8 @@
    "vectra b envelheceu",
    "kadett marcou epoca",
    "esse periodo da",
-   "alfa 164 tem"
+   "alfa 164 tem",
+   "esse frances ai"
   ],
   "18118295015072947": [
    "exato e o"
@@ -3627,7 +3636,8 @@
    "quando a gente",
    "cada um escolhe",
    "coragem ou muita",
-   "esse trecho ai"
+   "esse trecho ai",
+   "matematica de alto"
   ],
   "18076654343444049": [
    "boa tarde tudo"
@@ -3647,7 +3657,9 @@
    "comeco de seculo",
    "investimento de respeito",
    "comecar tao cedo",
-   "ajuda de custo"
+   "ajuda de custo",
+   "valor que hoje",
+   "o salto quantico"
   ]
  },
  "shopee_checada": "2026-10-10|1",
@@ -3677,274 +3689,536 @@
  },
  "shopee_produtos": [
   {
-   "data": "2026-10-09",
-   "itemId": "40478135497",
-   "nome": "Escova Linfática Facial De Ajuste De Precisão , Massageador Ergonômico Para Alívio Da Fadiga E Inchaço",
-   "preco": 11.72,
+   "campanha": "",
+   "peso_campanha": 1.0,
+   "desconto": 19.0,
+   "data": "2026-10-10",
+   "itemId": "18599696115",
+   "nome": "Sapatilha Aquática Pesca Praia Cachoeira Aventura Leve Confortável Antiderrapante",
+   "preco": 34.92,
    "nota": 4.9,
-   "vendas": 28604,
-   "comissao": 0.07,
-   "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-821ed-mgvvrmiz4q2w99",
-   "offerLink": "https://s.shopee.com.br/3qNkyNagzW"
+   "vendas": 4501,
+   "comissao": 0.18,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8dflmbun5yp64",
+   "offerLink": "https://s.shopee.com.br/6Algyu1ZBb",
+   "nota_rank": 25.145
   },
   {
-   "data": "2026-10-09",
-   "itemId": "23093960843",
-   "nome": "Pasta Sanfonada Para Documento Com 12 Divisórias E Pasta Prancheta Tamanho A4 Escritório Escolar",
-   "preco": 11.48,
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 73.0,
+   "data": "2026-10-10",
+   "itemId": "58214462678",
+   "nome": "Lanterna Super Potente X71 P50 Tática Mais Forte Do Mundo Potente Sitio Fazenda Acampamento Camping Segurança",
+   "preco": 39.99,
    "nota": 4.9,
-   "vendas": 17401,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9elqqn7nixzee",
-   "offerLink": "https://s.shopee.com.br/905r7sPp3u"
+   "vendas": 428,
+   "comissao": 0.11,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mqms2rujaqkhac",
+   "offerLink": "https://s.shopee.com.br/2LYyPqplK9",
+   "nota_rank": 15.054
   },
   {
-   "data": "2026-10-09",
-   "itemId": "23197759025",
-   "nome": "Escova De Limpeza Ajustável Janela Banheiro e Cozinha Ferramenta 9 EM 1 Recarregável",
-   "preco": 69.99,
-   "nota": 4.9,
-   "vendas": 14191,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdnnrqywav9t35",
-   "offerLink": "https://s.shopee.com.br/6fhwLaPuF7"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "29588922747",
-   "nome": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
-   "preco": 15.68,
-   "nota": 4.9,
-   "vendas": 13980,
-   "comissao": 0.04,
-   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ob-mp4layd5kxkw0c",
-   "offerLink": "https://s.shopee.com.br/4VdRlbcYQ2"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "23592798319",
-   "nome": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso",
-   "preco": 13.99,
-   "nota": 4.9,
-   "vendas": 13881,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-ms990bs5pmo485",
-   "offerLink": "https://s.shopee.com.br/9pey7PMeN9"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "22993575936",
-   "nome": "Pasta Sanfonada Com 12 Divisórias ou Pasta Prancheta Tamanho A4 Escritório Escolar",
-   "preco": 11.89,
-   "nota": 4.9,
-   "vendas": 13878,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3njv00ndrugd2",
-   "offerLink": "https://s.shopee.com.br/9fLXv6NHi6"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "23692240341",
-   "nome": "Alicate de Cutícula Mundial 522C: Precisão e Durabilidade",
-   "preco": 18.98,
-   "nota": 4.9,
-   "vendas": 13484,
-   "comissao": 0.06,
-   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbk0-lktyq6753ip22a",
-   "offerLink": "https://s.shopee.com.br/6q1MXtPGu8"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "40101081460",
-   "nome": "Suporte Para Telefone Principal Alça De Montagem Ajustável Multifuncional Tiro Ao Vivo Primeira Pessoa Com Clipe",
-   "preco": 22.34,
-   "nota": 4.9,
-   "vendas": 12904,
-   "comissao": 0.07,
-   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823p0-mp4mz19cdwy796",
-   "offerLink": "https://s.shopee.com.br/4LK1ZIdG2K"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "27939346346",
-   "nome": "Suporte Para Telefone Principal Alça De Montagem Ajustável Multifuncional Tiro Ao Vivo Primeira Pessoa Com Clipe",
-   "preco": 32.24,
-   "nota": 4.9,
-   "vendas": 10819,
-   "comissao": 0.07,
-   "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7reo9-m8vck44ich0533",
-   "offerLink": "https://s.shopee.com.br/3qNkyNfA3B"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "58208889792",
-   "nome": "Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração Fone Corrida Academia",
-   "preco": 40.99,
-   "nota": 4.9,
-   "vendas": 10734,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mozd89yz0xdx96",
-   "offerLink": "https://s.shopee.com.br/3LRUNSgzmr"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "18599879164",
-   "nome": "3/2/1 PCS Pochete Doleira Antifurto Nylon Impermeável Porta Celular Dinheiro Segurança Viagem Corrida Academia",
-   "preco": 10.99,
-   "nota": 4.9,
-   "vendas": 9302,
-   "comissao": 0.05,
-   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repa-mdv3544s8w65bd",
-   "offerLink": "https://s.shopee.com.br/3LRUNSyWdQ"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "22094787163",
-   "nome": "Capa Recarregável para Telefone - À Prova D'água Bolsa Protetora Bateria Integrada Tela Sensível",
-   "preco": 9.0,
-   "nota": 4.9,
-   "vendas": 8460,
-   "comissao": 0.06,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhvmuuzp23nmbd",
-   "offerLink": "https://s.shopee.com.br/4fwrxubzMU"
-  },
-  {
-   "data": "2026-10-09",
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 70.0,
+   "data": "2026-10-10",
    "itemId": "23093824562",
    "nome": "Tênis Casual Branco Feminino Masculino Conforto Premium Academia Original",
    "preco": 29.9,
    "nota": 4.9,
-   "vendas": 7321,
+   "vendas": 7422,
    "comissao": 0.08,
    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn8h5ufyu4kb0",
-   "offerLink": "https://s.shopee.com.br/1LgPzn68h6"
+   "offerLink": "https://s.shopee.com.br/7AeEAjg5qY",
+   "nota_rank": 12.036
   },
   {
-   "data": "2026-10-09",
+   "campanha": "10.10",
+   "peso_campanha": 1.4,
+   "desconto": 71.0,
+   "data": "2026-10-10",
+   "itemId": "19999249755",
+   "nome": "Kit Jogo de Alicates p/ Corte Eletrônico Artesanato & Bijuterias",
+   "preco": 24.98,
+   "nota": 4.9,
+   "vendas": 5520,
+   "comissao": 0.07,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd73-lv3eggtotyveb0",
+   "offerLink": "https://s.shopee.com.br/3qNmCbbBSo",
+   "nota_rank": 11.909
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 36.0,
+   "data": "2026-10-10",
+   "itemId": "22894551427",
+   "nome": "Canivete Dobrável Aço Inox com Trava para Camping Pesca Churrasco Multiuso",
+   "preco": 22.63,
+   "nota": 4.9,
+   "vendas": 2766,
+   "comissao": 0.1,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqvbo3ll08hv26",
+   "offerLink": "https://s.shopee.com.br/5LCZzN4jsU",
+   "nota_rank": 9.191
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 43.0,
+   "data": "2026-10-10",
+   "itemId": "45754796089",
+   "nome": " Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
+   "preco": 21.52,
+   "nota": 4.9,
+   "vendas": 4818,
+   "comissao": 0.09,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pg-mp4m6nw7jxmq22",
+   "offerLink": "https://s.shopee.com.br/2gBooSsksL",
+   "nota_rank": 8.667
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.4,
+   "desconto": 49.0,
+   "data": "2026-10-10",
+   "itemId": "58208889792",
+   "nome": "Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração Fone Corrida Academia",
+   "preco": 40.99,
+   "nota": 4.9,
+   "vendas": 10837,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mozd89yz0xdx96",
+   "offerLink": "https://s.shopee.com.br/2VsOc9keu5",
+   "nota_rank": 8.648
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.4,
+   "desconto": 0.0,
+   "data": "2026-10-10",
+   "itemId": "48456298850",
+   "nome": "Seringa Insulina 1ml Agulha Fixa 8x0,30mm - Kit 10 / 30 / 50",
+   "preco": 24.9,
+   "nota": 5.0,
+   "vendas": 3828,
+   "comissao": 0.06,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-ms5qaszueps46b",
+   "offerLink": "https://s.shopee.com.br/3g4M0Ibonn",
+   "nota_rank": 7.494
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 58.0,
+   "data": "2026-10-10",
+   "itemId": "58257654101",
+   "nome": "Ferramenta Dobrável Multiuso Aço Inox Portátil para Emergências",
+   "preco": 12.7,
+   "nota": 4.9,
+   "vendas": 2510,
+   "comissao": 0.12,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mtxrb0vhm1vueb",
+   "offerLink": "https://s.shopee.com.br/9pezLdnXSq",
+   "nota_rank": 6.684
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.4,
+   "desconto": 61.0,
+   "data": "2026-10-10",
+   "itemId": "22893054360",
+   "nome": "ANA1108 KIT Grande Alicate cortador de unhas Aço",
+   "preco": 13.45,
+   "nota": 4.9,
+   "vendas": 6364,
+   "comissao": 0.07,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zun-ml4dgzglzmyqf3",
+   "offerLink": "https://s.shopee.com.br/2qVF0lezUW",
+   "nota_rank": 6.518
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.4,
+   "desconto": 55.0,
+   "data": "2026-10-10",
+   "itemId": "22098563874",
+   "nome": "Kit 15 Pincéis + 10 Boleadores Em 5 Pincéis Manicure Desenho",
+   "preco": 13.39,
+   "nota": 4.9,
+   "vendas": 5574,
+   "comissao": 0.07,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauw-ma8xiie8ismffa",
+   "offerLink": "https://s.shopee.com.br/3VkvnzcS8i",
+   "nota_rank": 6.268
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 46.0,
+   "data": "2026-10-10",
+   "itemId": "21498326018",
+   "nome": "Calça Legging Canelada Premium de Cintura Alta Sem Costura Academia Feminina Elástica e Fitness",
+   "preco": 42.89,
+   "nota": 4.9,
+   "vendas": 7602,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mlphu75k4mpw72",
+   "offerLink": "https://s.shopee.com.br/8fT1xUaNnt",
+   "nota_rank": 6.142
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.4,
+   "desconto": 57.0,
+   "data": "2026-10-10",
+   "itemId": "58265284158",
+   "nome": "Kit Hama Beads 10.000 Peças 2,6mm 24 Cores Pinças + Ferramentas Pegboard Chaveiro Brinquedos",
+   "preco": 29.98,
+   "nota": 4.9,
+   "vendas": 4130,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mra6ucrvp8uf6d",
+   "offerLink": "https://s.shopee.com.br/30ofD4eM9b",
+   "nota_rank": 5.851
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 60.0,
+   "data": "2026-10-10",
+   "itemId": "53108597653",
+   "nome": "Suporte para Lâmina de Barbear Parede com Fita 3M Organizador Banheiro Barbeador Masculino Feminino",
+   "preco": 7.99,
+   "nota": 4.9,
+   "vendas": 3823,
+   "comissao": 0.14,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mmwl722oawox34",
+   "offerLink": "https://s.shopee.com.br/80DLAGq39e",
+   "nota_rank": 5.21
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 22.0,
+   "data": "2026-10-10",
+   "itemId": "22393525887",
+   "nome": "máquina de acabamento cortar cabelo barba barbeador pezinho profissional recarregável kemei KM-032",
+   "preco": 42.96,
+   "nota": 4.9,
+   "vendas": 3605,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req4-m2clh512lud4cb",
+   "offerLink": "https://s.shopee.com.br/905sM6mF7s",
+   "nota_rank": 5.089
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.4,
+   "desconto": 50.0,
+   "data": "2026-10-10",
    "itemId": "23993565028",
    "nome": "Suporte Celular Carro Veicular Trava Automática anti queda",
    "preco": 24.99,
    "nota": 4.9,
-   "vendas": 4526,
+   "vendas": 4499,
    "comissao": 0.03,
    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3m7hftjtxp779",
-   "offerLink": "https://s.shopee.com.br/5VVyxRQ5Kn"
+   "offerLink": "https://s.shopee.com.br/7ptuxxHQ16",
+   "nota_rank": 4.793
   },
   {
-   "data": "2026-10-09",
-   "itemId": "58251425003",
-   "nome": "Suporte de peito ajustável para telefones celulares e câmeras GoPro para peito de motocicleta e bicicleta Envio rápido",
-   "preco": 21.5,
-   "nota": 4.9,
-   "vendas": 3904,
-   "comissao": 0.07,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhtbser5knb685",
-   "offerLink": "https://s.shopee.com.br/AKbEiKP99n"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "21897981655",
-   "nome": "Led Neon Rgb Luz Interno C/controle Acessórios Carro Tuning",
-   "preco": 22.6,
-   "nota": 4.9,
-   "vendas": 3831,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2wqq460zqad99",
-   "offerLink": "https://s.shopee.com.br/5fpP9kPRzq"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "40761616665",
-   "nome": "Suporte De Telefone De Cabeça-Alça De Montagem Ajustável Multifuncional Tiro Ao Vivo Com Clipe",
-   "preco": 24.0,
-   "nota": 4.9,
-   "vendas": 3694,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7reo9-m8vck44ich0533",
-   "offerLink": "https://s.shopee.com.br/8KqAKeWlDL"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "22493432361",
-   "nome": "Lanterna de Cabeça 5 Led Luz Forte  À Prova D 'Água USB Recarregável 4 Modos",
-   "preco": 19.85,
-   "nota": 4.9,
-   "vendas": 3294,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reqi-m8lur4kj8tr6d2",
-   "offerLink": "https://s.shopee.com.br/BUSbe1mVc"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "58261620022",
-   "nome": "Afiador De Faca Profissional Amolador 4 Em 1 Tesoura Cozinha Churrasco Ergonomico Rapido Antiderrapante Premium",
-   "preco": 10.99,
-   "nota": 4.9,
-   "vendas": 3238,
-   "comissao": 0.09,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mot67lu3i1og8d",
-   "offerLink": "https://s.shopee.com.br/30odyqvbKV"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "22793709815",
-   "nome": "Lanterna Projeção Infantil imagens Divertidas Brinquedo Crianças",
-   "preco": 12.9,
-   "nota": 4.9,
-   "vendas": 3069,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m682itxn75vp59",
-   "offerLink": "https://s.shopee.com.br/9zyOJiQLYS"
-  },
-  {
-   "data": "2026-10-09",
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 42.0,
+   "data": "2026-10-10",
    "itemId": "58204067039",
    "nome": "Lanterna Tática WUDI T9 P50 Super Luminosa Recarregável USB Ideal Para Sitio Fazenda AcampamentoCamping SegurançaNoturna",
    "preco": 34.99,
    "nota": 4.9,
-   "vendas": 3055,
+   "vendas": 3144,
    "comissao": 0.03,
    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261k-mjye50tsga9wb4",
-   "offerLink": "https://s.shopee.com.br/AKbEiKP4sY"
+   "offerLink": "https://s.shopee.com.br/9APIYPPkSK",
+   "nota_rank": 4.442
   },
   {
-   "data": "2026-10-09",
-   "itemId": "49610876725",
-   "nome": "Rádio Caixa de Som Bluetooth Recarregável  Lanterna Retro Portátil FM AM USB SD Pilha",
-   "preco": 67.9,
+   "campanha": "10.10",
+   "peso_campanha": 1.4,
+   "desconto": 71.0,
+   "data": "2026-10-10",
+   "itemId": "21897981655",
+   "nome": "Led Neon Rgb Luz Interno C/controle Acessórios Carro Tuning",
+   "preco": 22.6,
    "nota": 4.9,
-   "vendas": 2661,
-   "comissao": 0.13,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mogu34styw3n6e",
-   "offerLink": "https://s.shopee.com.br/Lnsnx19Ah"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "23994017710",
-   "nome": "KIT 10-30 Relógio De Led M4 Atacado Revenda Festa Lembrancinha Presente À Prova D'água",
-   "preco": 42.9,
-   "nota": 4.9,
-   "vendas": 1878,
-   "comissao": 0.08,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma30h4y1s9bt78",
-   "offerLink": "https://s.shopee.com.br/AAHoW1Ya2L"
-  },
-  {
-   "data": "2026-10-09",
-   "itemId": "21697974917",
-   "nome": "Tênis Masculino presente NATAL ANO NOVO Super confortável - Envio Imediato.",
-   "preco": 39.99,
-   "nota": 4.9,
-   "vendas": 1258,
+   "vendas": 3838,
    "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1onm1jj0h5d63",
-   "offerLink": "https://s.shopee.com.br/9fLXv6aU3K"
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2wqq460zqad99",
+   "offerLink": "https://s.shopee.com.br/7faUleI3M5",
+   "nota_rank": 4.423
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 62.0,
+   "data": "2026-10-10",
+   "itemId": "58208944738",
+   "nome": "Sapatilha Nautica Sola Anti Derrapante Meia Neoprene Tenis Hibrido Meia Praia Canoagem Pesca Rio Jet",
+   "preco": 29.99,
+   "nota": 4.9,
+   "vendas": 4770,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mtz77x28chkzfc",
+   "offerLink": "https://s.shopee.com.br/60SGmb2CWY",
+   "nota_rank": 4.303
+  },
+  {
+   "campanha": "",
+   "peso_campanha": 1.0,
+   "desconto": 16.0,
+   "data": "2026-10-10",
+   "itemId": "58211842722",
+   "nome": "Mochila Térmica Bag Freezer Cooler Gelo Bolsa Bebidas Anti Vazamento Praia Camping Premium - 18 litros",
+   "preco": 38.98,
+   "nota": 4.9,
+   "vendas": 2193,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pg-mozsqaz74bv0b8",
+   "offerLink": "https://s.shopee.com.br/AKbFwYldS1",
+   "nota_rank": 4.22
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 72.0,
+   "data": "2026-10-10",
+   "itemId": "58250519029",
+   "nome": "Carteira Curta Masculina Com Padrão De Pedra-Bolso Para Moedas Zíper Vários Cartões E Bordas Costuradas--BT",
+   "preco": 27.91,
+   "nota": 4.9,
+   "vendas": 2133,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhrfddfkvz7m45",
+   "offerLink": "https://s.shopee.com.br/8pmS9ne0h4",
+   "nota_rank": 3.624
+  },
+  {
+   "campanha": "",
+   "peso_campanha": 1.0,
+   "desconto": 7.0,
+   "data": "2026-10-10",
+   "itemId": "48514950250",
+   "nome": "Fio de Nylon 100mt 0,20/0,25/0,30/0,35/0,40/0,45/0,50/0,60/0,70/0,80/0,90/1,00 Linha de Pesca e Artesanato",
+   "preco": 9.3,
+   "nota": 4.9,
+   "vendas": 2198,
+   "comissao": 0.11,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mrfwoqn3rqx273",
+   "offerLink": "https://s.shopee.com.br/5VW0Bg46XX",
+   "nota_rank": 3.539
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 63.0,
+   "data": "2026-10-10",
+   "itemId": "18599879164",
+   "nome": "3/2/1 PCS Pochete Doleira Antifurto Nylon Impermeável Porta Celular Dinheiro Segurança Viagem Corrida Academia",
+   "preco": 10.99,
+   "nota": 4.9,
+   "vendas": 9228,
+   "comissao": 0.05,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repa-mdv3544s8w65bd",
+   "offerLink": "https://s.shopee.com.br/6q1Nm7hMWS",
+   "nota_rank": 2.833
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 44.0,
+   "data": "2026-10-10",
+   "itemId": "29835084423",
+   "nome": "Carteira Dupla Fina Masculina – Janela De Identificação Vertical E Porta-Cartões Compacto Com Slot Para Vários",
+   "preco": 14.03,
+   "nota": 4.9,
+   "vendas": 1306,
+   "comissao": 0.05,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyp-mcam8bi7elbl7d",
+   "offerLink": "https://s.shopee.com.br/1LgRE16Yuh",
+   "nota_rank": 2.667
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 70.0,
+   "data": "2026-10-10",
+   "itemId": "23199448516",
+   "nome": "Kit  Alicates Bijuteria Semijoia Artesanato Pesca Pinças Eletrônica",
+   "preco": 14.99,
+   "nota": 4.9,
+   "vendas": 1982,
+   "comissao": 0.04,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820m4-mnkc728pehag67",
+   "offerLink": "https://s.shopee.com.br/7ptuxxvDo1",
+   "nota_rank": 2.57
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 78.0,
+   "data": "2026-10-10",
+   "itemId": "19098752815",
+   "nome": "Suporte Veicular Carro Para Celular 360 ° Giratório Universal Multifuncional Ventilacao Ar",
+   "preco": 17.79,
+   "nota": 4.9,
+   "vendas": 3449,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljg30etzu9ibac",
+   "offerLink": "https://s.shopee.com.br/3B85PNqqrS",
+   "nota_rank": 2.455
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 23.0,
+   "data": "2026-10-10",
+   "itemId": "22493432361",
+   "nome": "Lanterna de Cabeça 5 Led Luz Forte  À Prova D 'Água USB Recarregável 4 Modos",
+   "preco": 19.85,
+   "nota": 4.9,
+   "vendas": 3279,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reqi-m8lur4kj8tr6d2",
+   "offerLink": "https://s.shopee.com.br/9V28x1oo8o",
+   "nota_rank": 2.334
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 49.0,
+   "data": "2026-10-10",
+   "itemId": "21898099575",
+   "nome": "Suporte Veicular Carro Para Celular 360 ° Giratório Universal Multifuncional Ventilacao Ar JE-12",
+   "preco": 17.98,
+   "nota": 4.9,
+   "vendas": 2791,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reo2-m82d3ghzzngx0d",
+   "offerLink": "https://s.shopee.com.br/30ofD4rUCR",
+   "nota_rank": 2.314
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 37.0,
+   "data": "2026-10-10",
+   "itemId": "58204219260",
+   "nome": "​ Nova Carteira Ultrafina Masculina Porta Cartão Mini-Estilo Curto Vertical Slim Coreano Juvenil",
+   "preco": 18.99,
+   "nota": 4.9,
+   "vendas": 903,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260l-mk13ntv9qknbb0",
+   "offerLink": "https://s.shopee.com.br/2BFYDY3ODu",
+   "nota_rank": 1.996
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.0,
+   "desconto": 39.0,
+   "data": "2026-10-10",
+   "itemId": "58209986445",
+   "nome": "ASA Acendedor de Plasma Ecológico para Fogão Velas Camping Usb Luxo",
+   "preco": 13.88,
+   "nota": 4.9,
+   "vendas": 4743,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820lx-mnqkgerb6waq58",
+   "offerLink": "https://s.shopee.com.br/905sM6qi9d",
+   "nota_rank": 1.829
+  },
+  {
+   "campanha": "",
+   "peso_campanha": 1.0,
+   "desconto": 0.0,
+   "data": "2026-10-10",
+   "itemId": "14065340258",
+   "nome": "Chapéu Pescador Camping Australiano Proteção Pescoço",
+   "preco": 15.9,
+   "nota": 4.9,
+   "vendas": 4317,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/0094b9d03a832b090cfefd00cbed81f0",
+   "offerLink": "https://s.shopee.com.br/9fLZ9KoAnp",
+   "nota_rank": 1.734
+  },
+  {
+   "campanha": "",
+   "peso_campanha": 1.0,
+   "desconto": 0.0,
+   "data": "2026-10-10",
+   "itemId": "22898782559",
+   "nome": "LANTERNA UV ULTRAVIOLETA RECARREGÁVEL TÁTICA POTENTE",
+   "preco": 15.99,
+   "nota": 4.9,
+   "vendas": 1749,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me3mfna4dwxv1f",
+   "offerLink": "https://s.shopee.com.br/8fT1xUReTH",
+   "nota_rank": 1.556
+  },
+  {
+   "campanha": "",
+   "peso_campanha": 1.0,
+   "desconto": 0.0,
+   "data": "2026-10-10",
+   "itemId": "58266505350",
+   "nome": "Carteira Masculina Couro P.U - THE MAN.",
+   "preco": 16.99,
+   "nota": 4.9,
+   "vendas": 894,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-ms3k0uwuxe6c3d",
+   "offerLink": "https://s.shopee.com.br/2LYyPr2ksv",
+   "nota_rank": 1.505
+  },
+  {
+   "campanha": "10.10",
+   "peso_campanha": 1.4,
+   "desconto": 36.0,
+   "data": "2026-10-10",
+   "itemId": "14831203028",
+   "nome": "Pulseira de silicone para Smartwatch 44mm 40mm 38mm 42mm cinto de borracha smartwatch pulseira iwatch",
+   "preco": 7.99,
+   "nota": 4.9,
+   "vendas": 2696,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/b1ed91ed9ff02a3b583b6891da086210",
+   "offerLink": "https://s.shopee.com.br/8pmS9nQoHG",
+   "nota_rank": 1.359
+  },
+  {
+   "campanha": "",
+   "peso_campanha": 1.0,
+   "desconto": 0.0,
+   "data": "2026-10-10",
+   "itemId": "20298142088",
+   "nome": "Balaclava  Facial UV Respirável para Moto, Pesca e Esportes",
+   "preco": 10.9,
+   "nota": 4.9,
+   "vendas": 5795,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ou-mosj94b62cxuaf",
+   "offerLink": "https://s.shopee.com.br/6VOXNW0IVd",
+   "nota_rank": 1.231
   }
  ],
- "shopee_produtos_data": "2026-10-09",
+ "shopee_produtos_data": "2026-10-10",
  "shopee_usados": {
   "29588922747": "2026-10-09T22:37:10.488190-04:00",
-  "58261620022": "2026-10-10T10:07:08.825630-04:00"
+  "58261620022": "2026-10-10T10:07:08.825630-04:00",
+  "19999249755": "2026-10-10T17:07:08.679990-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -3958,5 +4232,102 @@
  },
  "carrosseis_usados": [
   "car-20261010-1"
+ ],
+ "shopee_campanhas_marca": "60cf778194",
+ "shopee_campanhas_api": [
+  {
+   "nome": "- - Health",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Fashion Accessories",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Home Appliances",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Men Clothes",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Men Shoes",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Mobile & Gadgets",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Travel & Luggage",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Women Bags",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Women Clothes",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Food Delivery",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Women Shoes",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Men Bags",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Watches",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Audio",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  },
+  {
+   "nome": "- - Food & Beverages",
+   "comissao": "0.03",
+   "fim": 32503651199,
+   "tipo": 2
+  }
+ ],
+ "shopee_campanhas_api_data": "2026-10-10",
+ "shopee_campanhas": [
+  "10.10"
  ]
 }
