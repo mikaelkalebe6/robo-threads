@@ -28,6 +28,7 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
           SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+          MIDIA_TOKEN: ${{ secrets.GH_PAT }}  # so para subir as artes dos carrosseis no repositorio publico de imagens
           SHOPEE_LIGADO: ${{ vars.SHOPEE_LIGADO }}
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}

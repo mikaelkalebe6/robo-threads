@@ -1242,7 +1242,8 @@ def proximo_carrossel(s):
             continue
         cid = str(c.get("id") or nome)
         slides = c.get("slides") or []
-        if cid in usados or not c.get("aprovado") or not 3 <= len(slides) <= 5 or not all(x.get("url") for x in slides):
+        if cid in usados or not c.get("aprovado") or not 3 <= len(slides) <= 5 \
+                or not all(x.get("url") or x.get("texto") or x.get("foto_produto") for x in slides):
             continue
         c["id"] = cid
         return c
@@ -1284,22 +1285,28 @@ def postar_carrossel(s, agora):
     texto = limpar(c.get("texto_post") or "")
     time.sleep(random.randint(0, ATRASO_POST_MAX))
     try:
-        pid = publicar_carrossel([x["url"] for x in c["slides"]], texto)
+        import carrossel
+        urls, visual = carrossel.preparar(c, prod)  # desenha e hospeda as artes (visual sorteado)
+    except Exception as e:  # falha de arte/hospedagem nao tira o carrossel da fila
+        log(f"Carrossel {c['id']}: artes nao ficaram prontas (segue para a proxima estrategia):", str(e)[:200])
+        return None
+    try:
+        pid = publicar_carrossel(urls, texto)
     except Exception as e:
         log(f"Carrossel {c['id']} falhou (segue para a proxima estrategia):", str(e)[:200])
         s.setdefault("carrossel_falhas", []).append({"id": c["id"], "quando": agora.isoformat(), "erro": str(e)[:200]})
         s["carrossel_falhas"] = s["carrossel_falhas"][-20:]
         return None
     s.setdefault("carrosseis_usados", []).append(c["id"])
-    log(f"POSTADO (carrossel {c['id']}, {len(c['slides'])} slides, produto {prod.get('itemId')}):", pid)
+    log(f"POSTADO (carrossel {c['id']}, visual {visual}, {len(c['slides'])} slides, produto {prod.get('itemId')}):", pid)
     s.setdefault("posts", []).append({
         "id": pid, "insp": f"car_{c['id']}", "link": "", "texto": (c["slides"][0].get("texto") or texto)[:300],
         "quando": agora.isoformat(), "ia": "carrossel", "estrategia": "carrossel", "formato": "carrossel",
-        "formato_link": "comentfoto", "produto": prod.get("itemId"), "modelo": c.get("modelo", "")})
+        "formato_link": "comentfoto", "produto": prod.get("itemId"), "modelo": c.get("modelo", ""), "visual": visual})
     salvar_estado(s)
     if prod.get("offerLink"):
         time.sleep(random.randint(*ATRASO_LINK))
-        comentar_produto(s, pid, prod, "carrossel", agora, frase=c.get("frase_link") or None)
+        comentar_produto(s, pid, prod, "carrossel", agora, formato=f"car{visual}", frase=c.get("frase_link") or None)
     return pid
 
 
