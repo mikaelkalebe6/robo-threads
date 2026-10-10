@@ -30,10 +30,10 @@
    "18:56"
   ],
   "produtos_feitos": 2,
-  "respostas": 85,
+  "respostas": 88,
   "por_post": {
    "18179925583431899": 3,
-   "17904297183598082": 12,
+   "17904297183598082": 13,
    "18030985622888288": 2,
    "18015338645750822": 15,
    "17883591987689452": 8,
@@ -43,7 +43,8 @@
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3,
-   "17975559206935962": 16
+   "17975559206935962": 16,
+   "18003828527991536": 2
   }
  },
  "posts": [
@@ -2415,7 +2416,12 @@
   "18342908944258299",
   "18034750304852696",
   "18130734043757248",
-  "18488636500107472"
+  "18488636500107472",
+  "17971551018173673",
+  "18109795724190514",
+  "17908054656556103",
+  "18484417315129353",
+  "17903017797667670"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2799,25 +2805,13 @@
   "e7102b50d0": 1,
   "47656906e5": 1,
   "1519cdb4bc": 1,
-  "fdc8777827": 1
+  "fdc8777827": 1,
+  "8891bec714": 1,
+  "81cb6bda77": 1,
+  "bc3be619af": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "alfa 164 tem linha elegante que chama atenção até hoje",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse trecho aí pedia um santo forte no banco de trás kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "sal de parrilha muda o nível da carne completamente",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "trabalho infantil disfarçado de mesada, surreal pensar que isso era normal",
    "p": "concorda",
@@ -2950,6 +2944,21 @@
   },
   {
    "t": "escala 6x1 aos quinze anos devia ser proibido por lei",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesado mas real, construir rede de apoio na marra exige demais da gente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "camomila com apagão geral, combo perfeito pra zerar os problemas kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "limão dá aquele toque que corta a gordura perfeitamente",
    "p": "concorda",
    "r": 0
   }
@@ -3420,9 +3429,6 @@
   }
  ],
  "aberturas_post": {
-  "17884868841506086": [
-   "esse ai tira"
-  ],
   "18115082014839784": [
    "esse numero e",
    "o algoritmo adora",
@@ -3600,7 +3606,6 @@
    "jogo virou segundo"
   ],
   "17904297183598082": [
-   "item obrigatorio que",
    "verdade sem ela",
    "esse e a",
    "pelo menos no",
@@ -3619,7 +3624,8 @@
    "indispensavel para aguentar",
    "boa companhia e",
    "sal de parrilha",
-   "acompanhamento classico que"
+   "acompanhamento classico que",
+   "limao da aquele"
   ],
   "18179925583431899": [
    "pesado mas pior",
@@ -3679,6 +3685,10 @@
    "passar por isso",
    "epoca em que",
    "escala 6x1 aos"
+  ],
+  "18003828527991536": [
+   "pesado mas real",
+   "camomila com apagao"
   ]
  },
  "shopee_checada": "2026-10-10|1",
