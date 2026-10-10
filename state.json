@@ -19,36 +19,21 @@
    "16:39",
    "20:45"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:47"
+  ],
   "produtos_feitos": 0,
-  "respostas": 16,
+  "respostas": 20,
   "por_post": {
    "18179925583431899": 3,
-   "17904297183598082": 4,
+   "17904297183598082": 5,
    "18030985622888288": 2,
-   "18015338645750822": 3,
-   "17883591987689452": 3,
+   "18015338645750822": 5,
+   "17883591987689452": 4,
    "18124736575742625": 1
   }
  },
  "posts": [
-  {
-   "id": "18036205694903067",
-   "insp": "7fff0e06da",
-   "link": "",
-   "texto": "SEM MENTIR: o que te faz perder a vontade de trabalhar num lugar? \n\nEu juro que tento ter paciência, mas reunião que podia ser um email e chefe que acha que vida pessoal é detalhe me broxam no primeiro mês.",
-   "quando": "2026-10-04T21:07:09.598454-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 767,
-    "likes": 2,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-10"
-   }
-  },
   {
    "id": "18089275931235702",
    "insp": "7e797582de",
@@ -1051,6 +1036,14 @@
     "shares": 0,
     "em": "2026-10-10"
    }
+  },
+  {
+   "id": "17931200094409342",
+   "insp": "b6e8893db8",
+   "link": "",
+   "texto": "Praia dá muito mais trabalho do que descanso. Areia em tudo, muvuca, vento na cara... Troco fácil por uma cachoeira no meio do mato sem pensar duas vezes.",
+   "quando": "2026-10-10T09:07:10.034169-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -2389,7 +2382,11 @@
   "18016575551943073",
   "17910211998309581",
   "17866160364675034",
-  "18108545063499230"
+  "18108545063499230",
+  "18460640491184321",
+  "18080612156714295",
+  "18129889534702906",
+  "18473484478119022"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2533,7 +2530,8 @@
   "54f50292890d72cfc9ad8b95617f3e2a",
   "730b6789af14cd15c42450aefa3bef59",
   "08bbf20aaef98a13ea397d42847ea825",
-  "462702bb356c7df254619fac4a893742"
+  "462702bb356c7df254619fac4a893742",
+  "1f424406178c707bc4721cdf2fa7767f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2677,7 +2675,8 @@
   "ae0c3922a8": 1791583645.2915637,
   "239781c6f2": 1791589092.918579,
   "42105a2390": 1791590842.082595,
-  "a0d83e5ad4": 1791594453.9146647
+  "a0d83e5ad4": 1791594453.9146647,
+  "b6e8893db8": 1791637653.5574567
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2697,30 +2696,14 @@
   "ccfaf025a3": 1,
   "d76d21a06e": 1,
   "107ef6403b": 1,
-  "b498ae5898": 1
+  "b498ae5898": 1,
+  "2ec7a2def8": 1,
+  "02a25dc915": 1,
+  "e5341fc0dc": 1,
+  "78c9177f9b": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "pão de alho no ponto carvão tem seus defensores kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sem ele a gente só tá comendo carne crua no escuro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkkkkkk aí o churrasco vira show particular",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "base de qualquer churrasco que se preze",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa é a base de tudo, sem discussão",
    "p": "concorda",
@@ -2848,6 +2831,26 @@
   },
   {
    "t": "clima bom faz toda a diferença pra carne descer bem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "monza hatch tem uma linha lateral que não envelhece nunca",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "teste prático definitivo para filtrar o pretendente kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "fritas no churrasco é ousadia boa, combinação forte",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "lista pesada, mustang e opala tão em outro patamar",
    "p": "concorda",
    "r": 0
   }
@@ -3463,7 +3466,6 @@
    "ai ja passou"
   ],
   "17883591987689452": [
-   "papo reto menos",
    "ja ta com",
    "justo querer comer",
    "dividir a conta",
@@ -3482,7 +3484,8 @@
    "zero erro papo",
    "rodizio de 300",
    "parece obvio para",
-   "quando o lugar"
+   "quando o lugar",
+   "teste pratico definitivo"
   ],
   "18133563994591000": [
    "poder ate podia",
@@ -3492,8 +3495,6 @@
    "sete anos de"
   ],
   "18015338645750822": [
-   "esse tem presenca",
-   "parati tem lugar",
    "essa fase ai",
    "essa fase da",
    "duas escolhas com",
@@ -3511,7 +3512,9 @@
    "opala 81 tem",
    "cada marca tinha",
    "aerodinamica impecavel esse",
-   "trabalho manual exigia"
+   "trabalho manual exigia",
+   "monza hatch tem",
+   "lista pesada mustang"
   ],
   "18118295015072947": [
    "exato e o"
@@ -3547,7 +3550,8 @@
    "comeca a lista",
    "trilha sonora boa",
    "vinagrete fresquinho equilibra",
-   "clima bom faz"
+   "clima bom faz",
+   "fritas no churrasco"
   ],
   "18179925583431899": [
    "pesado mas pior",
