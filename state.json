@@ -27,7 +27,7 @@
    "14:35"
   ],
   "produtos_feitos": 1,
-  "respostas": 58,
+  "respostas": 61,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 11,
@@ -39,7 +39,8 @@
    "18078986099393308": 11,
    "18133563994591000": 1,
    "18076654343444049": 1,
-   "17924890374203799": 3
+   "17924890374203799": 3,
+   "17975559206935962": 3
   }
  },
  "posts": [
@@ -2404,7 +2405,10 @@
   "18143212030597329",
   "18108913412613350",
   "18100980818530009",
-  "17969483567960136"
+  "17969483567960136",
+  "18112180103605229",
+  "18078242267715793",
+  "18143557840886313"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2741,7 +2745,7 @@
   "a0d00fb6a1": 1,
   "4264f614e9": 1,
   "7c152fdd90": 1,
-  "3c0b97a40f": 1,
+  "3c0b97a40f": 2,
   "032a38c2bd": 1,
   "772ca241ad": 1,
   "6ff133f684": 1,
@@ -2759,25 +2763,12 @@
   "69522376fd": 1,
   "b52f047f80": 1,
   "3e346271a0": 1,
-  "b7390aef96": 1
+  "b7390aef96": 1,
+  "48eab85c69": 1,
+  "fb8aff9dc6": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "acompanhamento obrigatório pra aguentar o calor da brasa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "vectra b envelheceu muito bem, linha limpa que não cansa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "papo flui bem melhor assim",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "fundamental para dar aquela quebrada na gordura",
    "p": "concorda",
@@ -2910,6 +2901,21 @@
   },
   {
    "t": "sal de parrilha muda o nível da carne completamente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "trabalho infantil disfarçado de mesada, surreal pensar que isso era normal",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "começar pesado assim molda a pessoa para qualquer parada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa escadinha aí foi o treino pesado pra vida adulta",
    "p": "concorda",
    "r": 0
   }
@@ -3375,19 +3381,6 @@
   }
  ],
  "aberturas_post": {
-  "17904357669353514": [
-   "nove anos e",
-   "quem tem esse",
-   "a sogra garantir",
-   "respeito total a",
-   "com quem ja",
-   "quando tem filho",
-   "e o tipo",
-   "quando o termino",
-   "forte demais para",
-   "o disfarce dura",
-   "quando da certo"
-  ],
   "17884868841506086": [
    "esse ai tira"
   ],
@@ -3624,6 +3617,11 @@
    "naruto players era",
    "cd do macdonalds",
    "esse jogo testava"
+  ],
+  "17975559206935962": [
+   "trabalho infantil disfarcado",
+   "comecar pesado assim",
+   "essa escadinha ai"
   ]
  },
  "shopee_checada": "2026-10-10|1",
