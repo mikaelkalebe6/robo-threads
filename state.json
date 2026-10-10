@@ -28,7 +28,7 @@
    "19:25",
    "20:07"
   ],
-  "respostas": 86,
+  "respostas": 91,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 14,
@@ -45,7 +45,8 @@
    "18030985622888288": 4,
    "18099059360387148": 1,
    "18009434771778336": 1,
-   "18632920237005051": 1
+   "18632920237005051": 1,
+   "17904297183598082": 5
   }
  },
  "posts": [
@@ -2276,7 +2277,12 @@
   "18130543561703257",
   "17921979960225694",
   "18110456531607617",
-  "17895683259414911"
+  "17895683259414911",
+  "18116683246815175",
+  "18175097698444567",
+  "17963483463207605",
+  "18100388207265622",
+  "18066577313788002"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2649,35 +2655,15 @@
   "1f1e8afefa": 1,
   "a3f5fb5bbd": 1,
   "5566b3a5f0": 1,
-  "58a36bfbc4": 1
+  "58a36bfbc4": 1,
+  "13860d968a": 1,
+  "8c51e5b3d5": 1,
+  "0af94583c3": 1,
+  "18ff0b4cbb": 1,
+  "7687545fe1": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "exato, e o roteiro vem sempre sem nenhum furo kkkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse trator de luxo tem presença forte, imponente demais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "KKK adorei o Dart, realmente menos é mais 😄",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "linhas bem marcadas que chamam atenção em qualquer lugar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parque no fim de tarde entra na mesma categoria de programa bom sem frescura",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "lan house com cheiro de salgadinho e briga por causa de minutos era bom demais",
    "p": "concorda",
@@ -2800,6 +2786,31 @@
   },
   {
    "t": "zero erro, papo rende solto e sem frescura",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pão de alho no ponto carvão tem seus defensores kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "sem ele a gente só tá comendo carne crua no escuro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkkkkkkk aí o churrasco vira show particular",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "base de qualquer churrasco que se preze",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa é a base de tudo, sem discussão",
    "p": "concorda",
    "r": 0
   }
@@ -3227,12 +3238,6 @@
   }
  ],
  "aberturas_post": {
-  "18031353434910534": [
-   "separar a bolacha",
-   "metodo cientifico de",
-   "processo burocratico demais",
-   "pesado demais para"
-  ],
   "18375624967238237": [
    "verdade mensagem trava",
    "precisa de coragem",
@@ -3473,6 +3478,13 @@
   ],
   "18632920237005051": [
    "jogo virou segundo"
+  ],
+  "17904297183598082": [
+   "pao de alho",
+   "sem ele a",
+   "ai o churrasco",
+   "base de qualquer",
+   "essa e a"
   ]
  },
  "shopee_checada": "2026-10-09|1",
