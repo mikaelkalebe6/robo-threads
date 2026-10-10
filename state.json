@@ -25,9 +25,10 @@
    "15:38",
    "16:58",
    "17:48",
-   "19:25"
+   "19:25",
+   "20:07"
   ],
-  "respostas": 84,
+  "respostas": 86,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 14,
@@ -36,34 +37,18 @@
    "18098203103652972": 1,
    "18124736575742625": 1,
    "18130387291689226": 10,
-   "17883591987689452": 19,
+   "17883591987689452": 20,
    "18133563994591000": 5,
    "18015338645750822": 20,
    "18116932673061251": 1,
    "18118295015072947": 1,
    "18030985622888288": 4,
    "18099059360387148": 1,
-   "18009434771778336": 1
+   "18009434771778336": 1,
+   "18632920237005051": 1
   }
  },
  "posts": [
-  {
-   "id": "17948454009322563",
-   "insp": "0fc3b77eb4",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: Um casal de amigos torrou o valor de uma entrada de imóvel numa festa de casamento e começou a vida a dois no vermelho. Vale a pena pagar tão caro por uma única noite ou é pura loucura?",
-   "quando": "2026-10-04T19:07:07.760926-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 993,
-    "likes": 4,
-    "replies": 21,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-09"
-   }
-  },
   {
    "id": "17927475519184610",
    "insp": "c7f375102c",
@@ -976,6 +961,14 @@
    "texto": "DÚVIDA SINCERA: qual foi o jogo de celular que fez vocês passarem raiva a ponto de desinstalar no mesmo dia?",
    "quando": "2026-10-09T19:37:08.415563-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17904297183598082",
+   "insp": "42105a2390",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: no churrasco tem um detalhe que nunca pode faltar, nem que a carne esteja perfeita. Qual é? 🔥",
+   "quando": "2026-10-09T20:07:10.474234-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -2281,7 +2274,9 @@
   "17994308300840165",
   "17919094767244283",
   "18130543561703257",
-  "17921979960225694"
+  "17921979960225694",
+  "18110456531607617",
+  "17895683259414911"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2423,7 +2418,8 @@
   "d57d1e882cd253e19acc0e2a11a6ef21",
   "951fe0d868338be0f3cfbef1d2512bfc",
   "54f50292890d72cfc9ad8b95617f3e2a",
-  "730b6789af14cd15c42450aefa3bef59"
+  "730b6789af14cd15c42450aefa3bef59",
+  "08bbf20aaef98a13ea397d42847ea825"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2565,7 +2561,8 @@
   "da2a07512c": 1791576445.2365634,
   "6ab249fcf7": 1791580080.9198704,
   "ae0c3922a8": 1791583645.2915637,
-  "239781c6f2": 1791589092.918579
+  "239781c6f2": 1791589092.918579,
+  "42105a2390": 1791590842.082595
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2650,20 +2647,12 @@
   "00bc43ec04": 1,
   "64f8c15197": 1,
   "1f1e8afefa": 1,
-  "a3f5fb5bbd": 1
+  "a3f5fb5bbd": 1,
+  "5566b3a5f0": 1,
+  "58a36bfbc4": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "esse aí marcou época nas ruas, quem teve lembra com carinho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "padrão ouro que poucas pessoas seguem",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "exato, e o roteiro vem sempre sem nenhum furo kkkkkkkk",
    "p": "concorda",
@@ -2801,6 +2790,16 @@
   },
   {
    "t": "opala 81 tem presença forte, clássico de respeito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "jogo virou segundo emprego que ninguém pediu",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "zero erro, papo rende solto e sem frescura",
    "p": "concorda",
    "r": 0
   }
@@ -3228,22 +3227,6 @@
   }
  ],
  "aberturas_post": {
-  "18126416557887514": [
-   "esse tem que",
-   "achar um cantinho",
-   "passarinho cantando e",
-   "verdade pelo menos",
-   "comprar isso ai",
-   "justo cada canto",
-   "sempre tem esse",
-   "verdade caos tem",
-   "entao o problema",
-   "essa economia de",
-   "drama pesado com",
-   "pelo menos no",
-   "duas horas no",
-   "essa promessa ai"
-  ],
   "18031353434910534": [
    "separar a bolacha",
    "metodo cientifico de",
@@ -3444,7 +3427,8 @@
    "papo flui muito",
    "justo mas no",
    "cafeteria tambem entra",
-   "tem quem prefira"
+   "tem quem prefira",
+   "zero erro papo"
   ],
   "18133563994591000": [
    "poder ate podia",
@@ -3486,6 +3470,9 @@
   ],
   "18009434771778336": [
    "esse gatinho da"
+  ],
+  "18632920237005051": [
+   "jogo virou segundo"
   ]
  },
  "shopee_checada": "2026-10-09|1",
