@@ -26,7 +26,7 @@
    "11:43"
   ],
   "produtos_feitos": 1,
-  "respostas": 46,
+  "respostas": 49,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 9,
@@ -34,11 +34,11 @@
    "18015338645750822": 9,
    "17883591987689452": 8,
    "18124736575742625": 1,
-   "17931200094409342": 5,
-   "18078986099393308": 5,
+   "17931200094409342": 6,
+   "18078986099393308": 6,
    "18133563994591000": 1,
    "18076654343444049": 1,
-   "17924890374203799": 2
+   "17924890374203799": 3
   }
  },
  "posts": [
@@ -2399,7 +2399,10 @@
   "18069398591500951",
   "18135178135686822",
   "18042482363824517",
-  "18122703400934344"
+  "18122703400934344",
+  "17910901302516242",
+  "17919452061243074",
+  "17909492709520046"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2740,25 +2743,13 @@
   "6ff133f684": 1,
   "61cc34e5ef": 1,
   "d778a5516b": 1,
-  "178633f105": 1
+  "178633f105": 1,
+  "e90ba8ac8e": 1,
+  "b457448402": 1,
+  "b61e5f7129": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "monza hatch tem uma linha lateral que não envelhece nunca",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "teste prático definitivo para filtrar o pretendente kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "fritas no churrasco é ousadia boa, combinação forte",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "lista pesada, mustang e opala tão em outro patamar",
    "p": "concorda",
@@ -2893,6 +2884,21 @@
    "t": "divisão oficial de categorias",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse jogo testava a paciência de qualquer amizade kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "medida exata do caos que a gente gosta de testar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paz e sombra sem grife",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3581,21 +3587,24 @@
    "para garantir o",
    "otimo dia por",
    "aperol com ar",
-   "divisao oficial de"
+   "divisao oficial de",
+   "paz e sombra"
   ],
   "18078986099393308": [
    "pura sobrevivencia com",
    "ai o coracao",
    "roleta russa automotiva",
    "precisa mesmo de",
-   "verdade o estrago"
+   "verdade o estrago",
+   "medida exata do"
   ],
   "18076654343444049": [
    "boa tarde tudo"
   ],
   "17924890374203799": [
    "naruto players era",
-   "cd do macdonalds"
+   "cd do macdonalds",
+   "esse jogo testava"
   ]
  },
  "shopee_checada": "2026-10-10|1",
