@@ -22,10 +22,11 @@
   "feitos": [
    "08:47",
    "09:52",
-   "11:03"
+   "11:03",
+   "11:43"
   ],
   "produtos_feitos": 1,
-  "respostas": 40,
+  "respostas": 43,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 9,
@@ -34,28 +35,12 @@
    "17883591987689452": 8,
    "18124736575742625": 1,
    "17931200094409342": 4,
-   "18078986099393308": 3,
-   "18133563994591000": 1
+   "18078986099393308": 5,
+   "18133563994591000": 1,
+   "18076654343444049": 1
   }
  },
  "posts": [
-  {
-   "id": "18446705149192097",
-   "insp": "d8d17a2688",
-   "link": "",
-   "texto": "SEJAM SINCEROS: eu vivo namorando aquele aparelho novo de última geração que tem a melhor câmera do mundo, mas na prática sigo apagando foto todo dia pra liberar espaço no meu guerreiro que já tá pedindo arrego.\n\nQual seria o celular dos sonhos de vocês hoje e qual é a realidade que tá aí no bolso?",
-   "quando": "2026-10-05T14:07:08.673846-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 489,
-    "likes": 3,
-    "replies": 15,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-10"
-   }
-  },
   {
    "id": "18089996570239818",
    "insp": "7733a769d4",
@@ -1036,6 +1021,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: rodar com o carro na reserva é puro desespero disfarçado de adrenalina.",
    "quando": "2026-10-10T11:07:09.209030-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17924890374203799",
+   "insp": "d74ec1b0c0",
+   "link": "",
+   "texto": "Eu joguei tanto daquele jogo horrível na infância que tenho vergonha de admitir. Qual o seu guilty pleasure dos anos 90?",
+   "quando": "2026-10-10T12:07:10.552905-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -2399,7 +2392,10 @@
   "17991177996058150",
   "18420614569155758",
   "17868377922661334",
-  "17975007383938810"
+  "17975007383938810",
+  "18111703625609037",
+  "18014345831979103",
+  "18069398591500951"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2545,7 +2541,8 @@
   "08bbf20aaef98a13ea397d42847ea825",
   "462702bb356c7df254619fac4a893742",
   "1f424406178c707bc4721cdf2fa7767f",
-  "ffed78dfb8a63dcf61d6e6bbdcc02c8d"
+  "ffed78dfb8a63dcf61d6e6bbdcc02c8d",
+  "1248f2a8f1ad3ecd03c6784dc2bb2993"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2691,7 +2688,8 @@
   "42105a2390": 1791590842.082595,
   "a0d83e5ad4": 1791594453.9146647,
   "b6e8893db8": 1791637653.5574567,
-  "f8cf963815": 1791644893.9161525
+  "f8cf963815": 1791644893.9161525,
+  "d74ec1b0c0": 1791648492.9168603
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2718,7 +2716,7 @@
   "78c9177f9b": 1,
   "df48f07a4e": 1,
   "791c42e396": 1,
-  "d4a11b306e": 1,
+  "d4a11b306e": 2,
   "70bd8a2afd": 1,
   "34a50b381c": 1,
   "84a30b687d": 1,
@@ -2733,25 +2731,12 @@
   "4264f614e9": 1,
   "7c152fdd90": 1,
   "3c0b97a40f": 1,
-  "032a38c2bd": 1
+  "032a38c2bd": 1,
+  "772ca241ad": 1,
+  "6ff133f684": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "parece óbvio para quem gosta de simplicidade mas muita gente ainda acha que lugar chique e regra",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "essa aí apela pra ciência direto kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "vinagrete fresquinho equilibra tudo na mesa",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "trabalho manual exigia muita paciência e traço firme",
    "p": "concorda",
@@ -2886,6 +2871,21 @@
    "t": "roleta russa automotiva pura kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "boa tarde, tudo bem por aí?",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "precisa mesmo de muita fé e de um posto logo ali na frente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, o estrago vem silencioso e a conta da oficina assusta",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3349,18 +3349,6 @@
   }
  ],
  "aberturas_post": {
-  "18109013291351299": [
-   "turma animada assim",
-   "quando da certo",
-   "liberdade total para",
-   "saber dosar os",
-   "essa parte de",
-   "paz espirito pura",
-   "economia e liberdade",
-   "acertou em cheio",
-   "ficar esperto com",
-   "verdade cada um"
-  ],
   "18129184651699420": [
    "pelo menos essa",
    "resolveram trazer o"
@@ -3594,7 +3582,12 @@
   "18078986099393308": [
    "pura sobrevivencia com",
    "ai o coracao",
-   "roleta russa automotiva"
+   "roleta russa automotiva",
+   "precisa mesmo de",
+   "verdade o estrago"
+  ],
+  "18076654343444049": [
+   "boa tarde tudo"
   ]
  },
  "shopee_checada": "2026-10-10|1",
