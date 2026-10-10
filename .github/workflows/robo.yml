@@ -100,6 +100,7 @@ jobs:
           INSPIRACOES_URL: ${{ vars.INSPIRACOES_URL }}
           APPSHEET_APP: ${{ vars.APPSHEET_APP }}
           FUSO: ${{ vars.FUSO }}
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}  # so para links de PERFIL (posts reais do perfil); trava de 20 perfis por mes
         run: python3 inspiracoes.py
       - name: Salvar memoria do robo
         if: always()
