@@ -2,7 +2,7 @@
 """
 Artes dos carrosseis: desenha cada slide (1080x1350) e hospeda no repositorio publico de imagens (MIDIA_REPO).
 - O texto vem pronto da fila (carrosseis/fila/car-*.json); *palavras entre asteriscos* saem na cor de destaque.
-- Hospedagem: API do GitHub com o Secret GH_PAT (variavel MIDIA_TOKEN), que nunca aparece em log.
+- Hospedagem: API do GitHub com o Secret MIDIA_PAT (variavel MIDIA_TOKEN), token so do repositorio de imagens, que nunca aparece em log.
 - Qualquer falha vira excecao curta; quem chama decide (o robo nunca para por causa daqui).
 """
 import os, io, json, base64, subprocess, sys, urllib.request, urllib.error
@@ -121,7 +121,7 @@ def desenhar(texto, n, total, rotulo="", foto=None, tema="e"):
 def hospedar(caminho, png):
     """Sobe o PNG no repositorio publico de imagens e devolve o link direto (raw)."""
     if not TOKEN:
-        raise RuntimeError("Carrossel sem hospedagem (falta o Secret GH_PAT com acesso ao repositorio de imagens)")
+        raise RuntimeError("Carrossel sem hospedagem (falta o Secret MIDIA_PAT com acesso ao repositorio de imagens)")
     url = f"https://api.github.com/repos/{MIDIA_REPO}/contents/{caminho}"
     corpo = json.dumps({"message": f"arte {caminho}", "content": base64.b64encode(png).decode()}).encode()
     req = urllib.request.Request(url, data=corpo, method="PUT", headers={
