@@ -1,7 +1,37 @@
 # Ideias e melhorias salvas pelo dono, lidas pelo Gemini (para o Claude; mais novas primeiro)
 
+## 09/10/2026 | https://www.threads.com/share/__xmoIOYE/
+**Tipo:** carrossel | **Idioma original:** inglês
+**Conteudo:** O perfil artificial.corner afirma que o Claude Code pode animar, mas a maioria das pessoas não instala as habilidades necessárias. O post lista 5 habilidades gratuitas e essenciais: 1. Three.js (CloudAI-X/threejs-skills) para cenas 3D interativas, iluminação e efeitos de partículas; 2. GSAP (greensock/gsap-skills) oficial da GreenSock para animações de texto, timelines e ScrollTrigger.
+**Ideia principal:** Instalar skills específicas no Claude Code para expandir drasticamente suas capacidades de animação e desenvolvimento visual.
+**Ferramentas, sites ou precos citados:** Claude Code, Three.js (CloudAI-X/threejs-skills), GSAP (greensock/gsap-skills). Gratuito.
+**Como aplicar no projeto:** 
+1. Mapear e encontrar os repositórios oficiais ou recomendados das skills citadas no Threads (Three.js e GSAP).
+2. Investigar a documentação de instalação de skills no Claude Code para entender a estrutura de diretórios e configuração correta.
+3. Instalar e testar as 5 skills sugeridas no ambiente do projeto para validar se o agente absorve as instruções adicionais de animação.
+**Riscos ou custos:** Nenhum aparente.
+
+## 10/10/2026 | https://www.instagram.com/reel/DeSF5M1ujEp/?psln=MXV0dnIxcDZmejNmbg==
+**Tipo:** carrossel | **Idioma original:** português
+
+**Conteúdo:** 
+Imagem 1: eae man de boa? o que recomendaria de segurança pra colocar em meu site?
+Imagem 2: eae man de boa? o que recomendaria de segurança pra colocar em meu site?
+
+**Ideia principal:** Responder à dúvida de um seguidor sobre recomendações de segurança para sites.
+
+**Ferramentas, sites ou preços citados:** nenhum
+
+**Como aplicar no projeto:**
+1. Criar conteúdos de Q&A (perguntas e respostas) abordando boas práticas de segurança web, criptografia e proteção de dados.
+2. Usar as dúvidas dos seguidores como tema para carrosséis educativos ou vídeos explicativos.
+3. Incorporar diretrizes rígidas de segurança no desenvolvimento e automação dos projetos do canal.
+
+**Riscos ou custos:** nenhum aparente
+
 ## 08/10/2026 | https://www.threads.com/share/BAPx2tKqwy/
 Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Claude: listar no resumo de domingo para decidir o plano B.
+
 
 ## 02/10/2026 | https://www.instagram.com/p/Dd84073EfAg/?img_index=2&stkn=MXdvdGpjdTk4cDd0ag==
 **Tipo:** carrossel | **Idioma original:** Português do Brasil
@@ -28,6 +58,7 @@ Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Cla
 **Riscos ou custos:** Nenhum aparente
 
 
+
 ## 01/10/2026 | https://www.threads.com/@nalu.pri
 **Tipo:** foto | **Idioma original:** português
 **Conteudo:** Foto de perfil da criadora @nalu.pri na plataforma Threads com a biografia Sou imperfeitaça, mas tenho bons princípios. 047.
@@ -38,6 +69,7 @@ Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Cla
 2. Analisar como a bio e a identidade visual são usadas para reter a atenção do público.
 3. Adaptar a estrutura de posts de maior sucesso dela para a estratégia de automação com IA.
 **Riscos ou custos:** nenhum aparente
+
 
 
 
@@ -60,6 +92,7 @@ Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Cla
 
 
 
+
 ## 29/09/2026 | https://www.instagram.com/reel/DdtvW3Zu3ym/?stkn=MWFiNmg3aGMzZWVrdQ==
 **Tipo:** vídeo | **Idioma original:** português
 
@@ -75,6 +108,7 @@ Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Cla
 3. Corrigir vulnerabilidades apontadas, especialmente em relação a credenciais (`.env`), tokens e requisições à API.
 
 **Riscos ou custos:** Nenhum aparente.
+
 
 
 
@@ -100,6 +134,7 @@ Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Cla
 
 
 
+
 ## 29/09/2026 | https://www.instagram.com/reel/Dd3mET7hWOI/?stkn=MWxrbmg0d2hzbnFuYg==
 **Tipo:** Vídeo | **Idioma original:** Português
 **Conteúdo:** Requisitos mínimos de segurança para desenvolver um software seguro: 1. HTTPS, 2. Senhas com Hash, 3. MFA, 4. Rate Limit, 5. Validação de Inputs, 6. Sanitização de dados, 7. Proteção contra SQL Injection, 8. Migrations, 9. Rollback, 10. Controle de Acesso, 11. Expiração de sessão, 12. Secrets fora do código, 13. CORS configurado, 14. Logs de segurança, 15. Backup automático, 16. Criptografia de dados sensíveis, 17. Dependências atualizadas, 18. Princípio do menor privilégio, 19. Monitoramento e alertas, 20. Plano de recuperação.
@@ -110,6 +145,7 @@ Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Cla
 2. Garantir que credenciais e chaves da API Shopee e Claude estejam em variáveis de ambiente, nunca hardcoded.
 3. Implementar logs de segurança para monitorar erros e execuções das automações do Threads.
 **Riscos ou custos:** Nenhum aparente.
+
 
 
 
@@ -131,6 +167,7 @@ Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Cla
 
 
 
+
 ## 28/09/2026 | https://www.instagram.com/reel/DdnRmRzjb_i/?stkn=MWdsczBxYjBicjV3Ng==
 **Tipo:** video | **Idioma original:** Portugues
 **Conteudo:** O Claude acabou de dominar o Instagram porque agora voce consegue conectar o Claude no Instagram e ele cuida da sua conta inteira para voce. Chama Instagram Agent Skill e e completamente gratuito. Nao e so uma skill, sao 11 delas, cada uma faz um trabalho diferente: /ig-reel escreve seus posts em cima de 25 formatos de hooks comprovados; /ig-comment comenta nos posts dos outros para voce; /ig-reply cuida das respostas; /ig-profile otimiza seu perfil; /ig-plan planeja a sua semana inteira no Instagram. Ela te ajuda a descobrir o que postar, quando postar e com quem interagir. Mas a parte mais doida e a skill de viralizacao: ela acha os reels de melhor desempenho no seu nicho, destrincha por que eles funcionaram e transforma essas ideias em roteiros originais para voce. Para configurar, e so ir no Claude e colar o link do repositorio do GitHub de jakeschincariol/instagram-agent-skill.
@@ -142,6 +179,7 @@ Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Cla
 3. Testar as funcoes de planejamento, analise de perfil e geracao de roteiros baseados em tendencias para o projeto de automacao do Threads e crescimento de perfil.
 **Riscos ou custos:** Risco de banimento em funcoes de automacao de interacao direta (comentarios automaticos e respostas de mensagens), conforme apontado na legenda publica. Uso do Claude (versao gratuita ou paga).
 Observacao do Kalebe: (nenhuma)
+
 
 
 
@@ -179,6 +217,7 @@ Imagem 7: COMENTE "PSR3C" E EU TE MANDO O PROMPT
 
 
 
+
 ## 29/09/2026 | https://www.instagram.com/reel/DbHLy-GBRqz/?stkn=MThqb3Judm1mM2hrbg==
 **Tipo:** video | **Idioma original:** Portugues
 **Conteudo:** O criador alerta que publicar aplicativos gerados por IA ("vibecoding") pode ser perigoso, dando acesso a dados e cartões de crédito. Apresenta 3 validações essenciais: 1) Variaveis de ambiente: inspecionar o site no navegador, ir em Sources, procurar termos como `sk_` ou `KEY` para garantir que chaves sensíveis não estejam expostas no client-side. 2) Autenticação (Cookies): verificar se ao limpar os cookies e recarregar a pagina, páginas privadas continuam acessíveis (se sim, falha na autenticação). 3) Rate Limiting: pedir para a IA implementar limite de requisições para evitar ataques de força bruta (tentativas infinitas de senha).
@@ -196,6 +235,7 @@ Imagem 7: COMENTE "PSR3C" E EU TE MANDO O PROMPT
 
 
 
+
 ## 28/09/2026 | https://www.instagram.com/reel/Ddt5T--xm2k/?stkn=bG83YXhyaHBmODRt
 **Tipo:** Vídeo | **Idioma original:** Português
 **Conteúdo:** O criador apresenta o WhatsApp Business MCP, lançado pela Meta em 15 de setembro, que permite criar agentes de IA conectados diretamente à API oficial do WhatsApp pelo Claude. O processo, que antes exigia especialistas e configuração complexa, agora é feito por comandos conversacionais: o Claude cria a conta Meta Business, adiciona e valida o número, conecta na API oficial, verifica termos/pagamento, testa o webhook e envia mensagens. O Claude também envia templates para análise da Meta e avisa se houver reprovação. Para usar, basta adicionar o MCP no Claude e fazer login com a conta Meta.
@@ -206,6 +246,7 @@ Imagem 7: COMENTE "PSR3C" E EU TE MANDO O PROMPT
 2. Conectar a conta Meta Business e validar o número de telefone por comandos na interface do Claude.
 3. Configurar os agentes de IA e testar o envio de mensagens automatizadas pelo webhook.
 **Riscos ou custos:** Liberação gradual da Meta/Claude pode atrasar o acesso; custos de API da Meta conforme uso comercial.
+
 
 
 
@@ -244,6 +285,7 @@ Imagem 10: Passo 9: Coloque seu agente online 24/7. Seu laptop não deve ser o s
 
 
 
+
 ## 28/09/2026 | https://www.instagram.com/reel/DdWY7PsidwP/?stkn=MTBqMWF1Z2RjanZydQ==
 **Tipo:** vídeo | **Idioma original:** Português do Brasil
 
@@ -271,6 +313,7 @@ Dá uma olhada nesse carrossel que a gente criou em menos de 1 minuto, se você 
 
 
 
+
 ## 27/09/2026 | https://www.threads.com/@futurizando
 **Tipo:** foto | **Idioma original:** Portugues
 **Conteudo:** Imagem do Olho da Providencia dentro de um triangulo (simbolo iconico associado a teorias da conspiracao, previsoes e ocultismo), isolado em fundo azul claro. O perfil associado e @futurizando no Threads, descrito como a maior pagina de previsoes do mundo, com mais de 700 previsoes acertadas e mais de 70 mil clientes atendidos.
@@ -281,6 +324,7 @@ Dá uma olhada nesse carrossel que a gente criou em menos de 1 minuto, se você 
 2. Usar o Claude para programar um agente que analise tendencias bizzarras ou previsoes de longo prazo e gere textos intrigantes associados a essas imagens.
 3. Automatizar a publicacao desses posts visuais no Threads usando a automacao para testar engajamento com temas de curiosidade e misterio.
 **Riscos ou custos:** Nenhum aparente
+
 
 
 
@@ -314,6 +358,7 @@ Como o seu projeto mexe com **automação (que interage com contas de redes soci
 2. **2FA Obrigatório:** Exija autenticação em dois fatores em todas as contas de desenvolvedor, e-mails associados e painéis que controlam a automação.
 3. **Gestão de Segredos (Secrets Management):** No código do Claude ou scripts de automação, **nunca** deixe tokens, senhas ou chaves de API hardcoded (visíveis no código). Use variáveis de ambiente (`.env`).
 4. **Controle de Sessão e Acesso:** Se a automação roda em um servidor ou VPS, restrinja o acesso via SSH (use chaves SSH em vez de senha) e mantenha o sistema operacional atualizado para evitar brechas de segurança.
+
 
 
 

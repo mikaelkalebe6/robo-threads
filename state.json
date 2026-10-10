@@ -21,13 +21,13 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 8,
+  "respostas": 12,
   "por_post": {
-   "18179925583431899": 2,
+   "18179925583431899": 3,
    "17904297183598082": 2,
-   "18030985622888288": 1,
-   "18015338645750822": 1,
-   "17883591987689452": 1,
+   "18030985622888288": 2,
+   "18015338645750822": 2,
+   "17883591987689452": 2,
    "18124736575742625": 1
   }
  },
@@ -2381,7 +2381,11 @@
   "18077103323437376",
   "18105292187261500",
   "18067047911781815",
-  "18157516510505808"
+  "18157516510505808",
+  "18127538399491521",
+  "18128639959697752",
+  "18130057454478887",
+  "18435155791182243"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2681,30 +2685,14 @@
   "ee2465580f": 1,
   "1d06969815": 1,
   "cca3dc35f0": 1,
-  "3a901fb5e7": 1
+  "3a901fb5e7": 1,
+  "946c5cfc08": 1,
+  "f66f6d0ae2": 1,
+  "9e1554cb9c": 1,
+  "7fcaeb92d6": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "cafeteria também entra na lista, o cheiro de café já ajuda no clima kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse gatinho dá bom dia melhor que muita gente mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "maravilhosa ela é mesmo, só não sei se ganha o título nacional absoluto",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "kkkkk aí você foi longe demais",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "tem quem prefira o roteiro completo, mas aí perde a graça do improviso kkk",
    "p": "concorda",
@@ -2834,6 +2822,26 @@
    "t": "trilha sonora boa muda completamente o clima do evento",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "justo demais, bomberman na mesma sala é teste de amizade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "aerodinâmica impecável, esse desenho realmente desafia o tempo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece óbvio para quem gosta de simplicidade mas muita gente ainda acha que lugar chique e regra",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "essa aí apela pra ciência direto kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -3447,7 +3455,6 @@
    "ai ja passou"
   ],
   "17883591987689452": [
-   "menos teatro e",
    "com certeza economia",
    "papo reto menos",
    "ja ta com",
@@ -3466,7 +3473,8 @@
    "cafeteria tambem entra",
    "tem quem prefira",
    "zero erro papo",
-   "rodizio de 300"
+   "rodizio de 300",
+   "parece obvio para"
   ],
   "18133563994591000": [
    "poder ate podia",
@@ -3476,7 +3484,6 @@
    "sete anos de"
   ],
   "18015338645750822": [
-   "com um motor",
    "esse e classico",
    "esse tem presenca",
    "parati tem lugar",
@@ -3495,7 +3502,8 @@
    "lista forte demais",
    "ai voce foi",
    "opala 81 tem",
-   "cada marca tinha"
+   "cada marca tinha",
+   "aerodinamica impecavel esse"
   ],
   "18118295015072947": [
    "exato e o"
@@ -3505,7 +3513,8 @@
    "verdade juntar a",
    "sessao por convite",
    "equilibrio perfeito cada",
-   "preconceito bobo que"
+   "preconceito bobo que",
+   "justo demais bomberman"
   ],
   "18009434771778336": [
    "esse gatinho da"
@@ -3533,7 +3542,8 @@
   "18179925583431899": [
    "pesado mas pior",
    "parece lenda urbana",
-   "audacia as vezes"
+   "audacia as vezes",
+   "essa ai apela"
   ]
  },
  "shopee_checada": "2026-10-10|1",

@@ -1,5 +1,47 @@
 # Inspiracoes lidas pelo Gemini (mais novas primeiro)
 
+## 09/10/2026 | https://www.threads.com/share/_yIvx57zi/
+**Tipo:** Texto | **Idioma original:** Português
+**Transcricao/Conteudo:** O post questiona a decisão do Orkut de usar uma petição pública para medir o interesse do público antes de retornar, apontando isso como uma jogada estratégica de marketing.
+**Gancho:** Questiona uma ação curiosa de uma marca nostálgica muito amada.
+**Estrutura:** Pergunta provocativa + revelação de que existe um plano oculto por trás.
+**Por que funciona:** Usa nostalgia e curiosidade sobre negócios para gerar identificação e muitos comentários.
+**3 ganchos para o perfil:** 
+1. Por que toda marca gigante está voltando para o básico?
+2. Nenhuma empresa faz nada por acaso, e isso prova meu ponto.
+3. Se você acha que o passado não vende, precisa saber disso.
+
+
+## 10/10/2026 | https://www.instagram.com/reel/DaxcJRIozQq/?vrfl=MTh2NmZuN2FrcmZlZA==
+**Tipo:** vídeo | **Idioma original:** coreano
+**Transcrição/Conteúdo:** Compilação rápida de pratos fartos de carne grelhada empilhada sobre tigelas de arroz com molho sendo derramado por cima, seguida por pratos chegando em um sistema de esteira de trem em um restaurante, tigelas de sopa de macarrão, sorvetes e copos de bebidas geladas.
+**Gancho:** Torre gigantesca de carne grelhada fumegante sobre uma montanha de arroz branco.
+**Estrutura:** Montagem acelerada de pratos de carne, derramamento de molho, entrega por trem na mesa e close em acompanhamentos e sobremesas.
+**Por que funciona:** O apelo visual exagerado e a rapidez do vídeo geram hipnose e água na boca instantaneamente.
+**3 ganchos para o perfil:**
+Quem aceitaria o desafio de comer essa torre de carne sozinha?
+Marque aquele amigo que comeria essa montanha de carne em cinco minutos.
+Isso aqui não é almoço, é um evento histórico.
+
+
+## 10/10/2026 | https://www.instagram.com/p/Dbn8OpJkZpB/?img_index=4&dlrf=MWkzeDR4a2RvOG11NQ==
+**Tipo:** Carrossel | **Idioma original:** Português
+**Transcricao/Conteudo:**
+Imagem 1: Como eu crio CARROSSEL usando a Claude em poucos minutos
+Imagem 2: Entra na Claude e vai em Projetos. Crie um novo projeto para os seus carrosséis virais
+Imagem 3: Abre o projeto e cola esse prompt aqui para treinar a Claude: Você é um especialista em criar carrosséis para Instagram projetados para vender, gerar autoridade e atrair clientes ideais. Sua tarefa é gerar um carrossel completo com base nas informações fornecidas pelo usuário. ESTRUTURA DO CARROSSEL SLIDE 1 — GANCHO (CAPA) Uma única frase. Ela deve fazer a pessoa parar de rolar o feed. Gere curiosidade ou tensão imediatamente. Exemplos que funcionam: "O erro que faz com que [cause um problema] em _____ é _____." "Se você passa [tempo] fazendo X e [nada acontece], é por causa disso." "Ninguém te conta isso sobre _____." "O que separa [A] de [B] não é o que você imagina." SLIDE 2 — PROBLEMA Apresente a dor com precisão. Mostre exatamente o que o leitor pensa: "Isso está acontecendo comigo." Seja específico e emocional. Nada de frases genéricas. SLIDES 3 A 5 — DESENVOLVIMENTO / SOLUÇÃO Apresente uma nova forma de enxergar o problema. Nada de dicas soltas. Nada de listas sem graça.
+Imagem 4: Agora, suba várias referências no projeto: Baixe vários modelos de carrossel viral de nichos diferentes para alimentar o repertório do projeto.
+Imagem 5: E pronto! Agora você tem um gerador de carrossel viral para te ajudar a criar conteúdo em poucos minutos. Agora é só dizer a ele que tipo de carrossel você quer e ele já vai gerar um modelo viral já validado. Mas lembra de ajustar o resultado, a IA não faz nada sozinha!
+Imagem 6: Quer receber um PDF com esse comando para testar aí? Comenta sua comida favorita que te mando o acesso.
+**Gancho:** Título direto na capa prometendo resolver uma dor comum (criar carrossel rápido com IA).
+**Estrutura:** Contexto do problema na capa, passo a passo prático para configurar a Claude do zero, e CTA para ganho de material gratuito.
+**Por que funciona:** Entrega um tutorial acionável, técnico e estruturado que gera alto valor prático, além de usar uma chamada para comentário inusitada para aumentar o engajamento.
+**3 ganchos para o perfil:**
+1. O erro que faz você perder horas criando posts do zero no Instagram.
+2. Como usar inteligência artificial para escrever seus roteiros em segundos sem perder a autenticidade.
+3. Pare de penar na hora de criar conteúdo e monte seu próprio assistente virtual de marketing hoje.
+
+
 ## 08/10/2026 | https://www.threads.com/share/BAZMb0Q3u1/
 **Tipo:** Texto | **Idioma original:** Português
 **Transcricao/Conteudo:** Desejo bem-humorado de encontrar um namorado asiático.
@@ -10,6 +52,8 @@
 - Alguém me explica por que todo mundo quer um namorado otaku?
 - Onde é que faz o cadastro para encomendar um crush internacional?
 - Confesso que meu padrão amoroso ficou impossível depois dos doramas.
+
+
 
 
 ## 02/10/2026 | https://www.threads.com/share/BAZbE06fTw/
@@ -26,6 +70,8 @@
 
 
 
+
+
 ## 02/10/2026 | https://www.instagram.com/p/Dd7bcDgTT0y/?stkn=MWVrZHJvM3RzMnV0YQ==
 **Tipo:** foto | **Idioma original:** Português
 **Transcricao/Conteudo:** Pergunta bem-humorada sobre o que pessoas sem filhos fazem no horário de pico do final da tarde, sugerindo que a rotina delas parece férias.
@@ -36,6 +82,8 @@
 1. A rotina de quem não tem filhos deveria virar atração turística.
 2. Confesse: quem não tem filhos já jantou e está dormindo agora, né?
 3. O nível de silêncio na casa de quem não tem pets ou filhos às 20h é chocante.
+
+
 
 
 
@@ -68,6 +116,8 @@
 
 
 
+
+
 ## 28/09/2026 | https://www.threads.com/share/BAEQlI9LD4/
 **Tipo:** Texto | **Idioma original:** Português
 **Transcricao/Conteudo:** Reclamação bem-humorada sobre o feed cheio de homens bonitos e um pedido cômico para o algoritmo mostrar homens feios.
@@ -78,6 +128,8 @@
 1. Cansada de conselhos amorosos sensatos nesse threads!
 2. Algoritmo, por favor, me entregue apenas ex-namorados problemáticos hoje.
 3. Chega de produtividade por aqui, me traga motivos para procrastinar.
+
+
 
 
 
@@ -137,6 +189,8 @@
 
 
 
+
+
 ## 28/09/2026 | https://www.instagram.com/reel/DdC8gy_RFrB/?stkn=MXRiNXl1aHZmaGF3cQ==
 **Tipo:** video | **Idioma original:** Portugues do Brasil
 **Transcricao/Conteudo:** Conectei o Claude no WhatsApp e vou te ensinar. Tem gente pedindo isso, entao sem enrolacao. Vão no GitHub e pesquisem OpenWA, que tem mais de 13 mil estrelas. Baixem ele. E um gateway de API gratuito do WhatsApp e open-source, voce roda localmente no seu computador sem pagar hospedagem. Comandos no terminal para instalar, start e API rodando localmente. Abra no navegador, coloque a chave API, crie sessao e escaneie o QR code do seu WhatsApp. Pronto, o Claude esta conectado no seu WhatsApp. Voce pode criar webhooks para automacao. Pedi para ele puxar quantas pessoas mandaram mensagem procurando mentoria ou curso, ele puxou o historico e quis disparar as mensagens. Tem risco de cair a conta por ser API nao oficial, entao use com sabedoria. Comente WPP que te mando o link.
@@ -167,6 +221,8 @@
 
 
 
+
+
 ## 28/09/2026 | https://www.instagram.com/p/Dd1gcz1u8aE/?stkn=emF6b3FwdThpcWd4
 **Tipo:** Foto | **Idioma original:** Português
 **Transcricao/Conteudo:** Placa humorística em um corredor de loja mostrando um cabo elétrico com dois plugues machos nas pontas (o infame "cabo suicida"), com o texto dizendo que o produto não existe, não é vendido, não pode ser encontrado e que seu uso é fortemente desaconselhado.
@@ -177,6 +233,8 @@
 1. Todo mundo já tentou resolver um problema do jeito mais errado possível pelo menos uma vez.
 2. Aquele produto que parece ótimo na teoria mas é um desastre na prática.
 3. Se a lógica falhou, a culpa é de quem inventou essa gambiarra.
+
+
 
 
 
@@ -235,6 +293,8 @@
 
 
 
+
+
 ## 28/09/2026 | https://vt.tiktok.com/ZSbMkf6a3/
 **Tipo:** foto | **Idioma original:** Português
 **Transcricao/Conteudo:** Parece loucura, mas quando você ACREDITA que nasceu para ter as melhores coisas da vida, as melhores coisas encontrarão caminho até você.
@@ -245,6 +305,8 @@
 1. Acreditar nisso mudou totalmente a forma como eu vivo meus dias.
 2. Tem dias que a gente só precisa lembrar de quem a gente nasceu para ser.
 3. Se você ainda duvida do seu potencial, leia isso até entender.
+
+
 
 
 
@@ -287,6 +349,8 @@ Imagem 10: "Att, Osvaldo." Semestre que vem a turma vai pro 8º periodo e já av
 Já aconteceu de você entrar em um lugar por engano e acabar virando a atração principal?
 Tem gente que tenta se encaixar em grupos novos e tem o Seu Osvaldo que simplesmente virou a lenda da faculdade.
 O que você faria se caísse em um grupo de WhatsApp de uma turma totalmente aleatória?
+
+
 
 
 
@@ -359,6 +423,8 @@ Imagem 6: Vai por mim, essa página não vai aparecer pra você de novo, então 
 
 
 
+
+
 ## 27/09/2026 | https://www.threads.com/share/BAWxZQiG8k/
 **Tipo:** Foto com texto | **Idioma original:** Português
 
@@ -374,6 +440,8 @@ Imagem 6: Vai por mim, essa página não vai aparecer pra você de novo, então 
 1. Alguém me avisa se ainda vale a pena se apaixonar hoje em dia ou se é puro golpe?
 2. Acho que caí na besteira de me apegar, qual é a primeira coisa que eu deveria fazer?
 3. Qual é a regra de ouro que vocês nunca quebram quando começam a gostar de alguém?
+
+
 
 
 
