@@ -24,13 +24,13 @@
    "09:52"
   ],
   "produtos_feitos": 1,
-  "respostas": 28,
+  "respostas": 32,
   "por_post": {
    "18179925583431899": 3,
-   "17904297183598082": 6,
+   "17904297183598082": 8,
    "18030985622888288": 2,
-   "18015338645750822": 6,
-   "17883591987689452": 6,
+   "18015338645750822": 7,
+   "17883591987689452": 7,
    "18124736575742625": 1,
    "17931200094409342": 4
   }
@@ -2393,7 +2393,11 @@
   "18635760046030933",
   "18119856649988920",
   "18117306040957746",
-  "18145254373589694"
+  "18145254373589694",
+  "18122138548838897",
+  "17995736064012337",
+  "17993163275846857",
+  "18149374399525215"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2713,30 +2717,14 @@
   "d4a11b306e": 1,
   "70bd8a2afd": 1,
   "34a50b381c": 1,
-  "84a30b687d": 1
+  "84a30b687d": 1,
+  "925cf129ef": 1,
+  "6057bbf5e6": 1,
+  "1a64109857": 1,
+  "12d0eb3eb4": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "inovou total no cardápio kkkk",
-   "p": "ressalva",
-   "r": 2
-  },
-  {
-   "t": "sem o mestre da brasa o evento vira só um monte de carvão queimando",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parece lenda urbana mas dizem que acontece na nossa frente",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "começa a lista exatamente pelo combustível essencial",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "preconceito bobo que tirou muita diversão da nossa mão",
    "p": "concorda",
@@ -2866,6 +2854,26 @@
    "t": "filtro de resistencia pesado kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "acompanhamento obrigatório pra aguentar o calor da brasa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "vectra b envelheceu muito bem, linha limpa que não cansa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "papo flui bem melhor assim",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fundamental para dar aquela quebrada na gordura",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3481,7 +3489,6 @@
    "ai ja passou"
   ],
   "17883591987689452": [
-   "dividir a conta",
    "certeza zero drama",
    "verdade barzinho simples",
    "economia e zero",
@@ -3500,7 +3507,8 @@
    "quando o lugar",
    "teste pratico definitivo",
    "autenticidade em primeiro",
-   "filtro de resistencia"
+   "filtro de resistencia",
+   "papo flui bem"
   ],
   "18133563994591000": [
    "poder ate podia",
@@ -3510,7 +3518,6 @@
    "sete anos de"
   ],
   "18015338645750822": [
-   "essa fase da",
    "duas escolhas com",
    "ate o telhado",
    "esse ai marcou",
@@ -3529,7 +3536,8 @@
    "trabalho manual exigia",
    "monza hatch tem",
    "lista pesada mustang",
-   "karmann ghia tem"
+   "karmann ghia tem",
+   "vectra b envelheceu"
   ],
   "18118295015072947": [
    "exato e o"
@@ -3549,7 +3557,6 @@
    "jogo virou segundo"
   ],
   "17904297183598082": [
-   "pao de alho",
    "sem ele a",
    "ai o churrasco",
    "base de qualquer",
@@ -3567,7 +3574,9 @@
    "vinagrete fresquinho equilibra",
    "clima bom faz",
    "fritas no churrasco",
-   "responsavel oficial por"
+   "responsavel oficial por",
+   "acompanhamento obrigatorio pra",
+   "fundamental para dar"
   ],
   "18179925583431899": [
    "pesado mas pior",
