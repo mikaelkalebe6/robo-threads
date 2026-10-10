@@ -53,8 +53,16 @@ def _quebrar(d, texto, f, largura):
     return linhas
 
 
-def desenhar(texto, n, total, rotulo=""):
-    """PNG (bytes) de um slide. n=1 e a capa (fonte maior e 'arrasta')."""
+def baixar_foto(url):
+    """Foto do produto (bytes) para colocar dentro do slide."""
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return r.read()
+
+
+def desenhar(texto, n, total, rotulo="", foto=None):
+    """PNG (bytes) de um slide. n=1 e a capa (fonte maior e 'arrasta'). foto = bytes da imagem do produto
+    (fica num cartao claro na parte de cima e o texto desce)."""
     Image, ImageDraw, ImageFont = _pil()
     capa = n == 1
     im = Image.new("RGB", (W, H), FUNDO)
@@ -63,9 +71,22 @@ def desenhar(texto, n, total, rotulo=""):
     f = _fonte(ImageFont, "InterDisplay-ExtraBold.otf" if capa else "InterDisplay-Bold.otf", tam)
     pequena = _fonte(ImageFont, "InterDisplay-Bold.otf", 32)
     m = 96
+    topo = 0
+    if foto:
+        tam = 80 if capa else 56
+        f = _fonte(ImageFont, "InterDisplay-ExtraBold.otf" if capa else "InterDisplay-Bold.otf", tam)
+        img = Image.open(io.BytesIO(foto)).convert("RGB")
+        caixa = (W - 2 * m, 600)
+        img.thumbnail((caixa[0] - 60, caixa[1] - 60))
+        d.rounded_rectangle([m, 90, W - m, 90 + caixa[1]], radius=36, fill=(250, 250, 248))
+        im.paste(img, (m + (caixa[0] - img.width) // 2, 90 + (caixa[1] - img.height) // 2))
+        topo = 90 + caixa[1]
     linhas = _quebrar(d, texto, f, W - 2 * m)
     altura = int(tam * 1.22)
-    y = (H - altura * len(linhas)) // 2 - (40 if capa else 0)
+    if foto:
+        y = topo + 150
+    else:
+        y = (H - altura * len(linhas)) // 2 - (40 if capa else 0)
     if rotulo:
         d.text((m, y - 110), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 34), fill=DESTAQUE)
     for linha in linhas:
@@ -118,6 +139,12 @@ def preparar(car, prod):
                 raise RuntimeError("slide de foto sem imagem do produto")
             urls.append(prod["imageUrl"])
         else:
-            png = desenhar(sl.get("texto", ""), i, len(slides), sl.get("rotulo", ""))
+            foto = None
+            if sl.get("com_foto") and prod.get("imageUrl"):
+                try:
+                    foto = baixar_foto(prod["imageUrl"])
+                except Exception:
+                    foto = None  # sem foto o slide sai so com texto
+            png = desenhar(sl.get("texto", ""), i, len(slides), sl.get("rotulo", ""), foto)
             urls.append(hospedar(f"car/{car['id']}-s{i}.png", png))
     return urls
