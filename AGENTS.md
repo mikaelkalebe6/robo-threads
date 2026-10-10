@@ -30,4 +30,6 @@ Leia este arquivo inteiro antes de qualquer tarefa neste repositório. Ele vale 
 ## Pastas suas
 - `jules/diario/AAAA-MM-DD.md`: relatório diário.
 - `jules/seguranca/AAAA-MM-DD.md`: relatório semanal de segurança.
-- `jules/fila/fio-*.json`: fios da estratégia 3 (só crie arquivos novos; quem marca `"aprovado": true` é o Claude). Formato: `id`, `aprovado`, `partes` (3 a 5 itens com `texto`, `midia` "produto" ou "nenhuma", `link` true/false) e `produto` (`itemId`, `imageUrl`, `offerLink`).
+- `jules/fila/fio-*.json`: fios da estratégia de fio (só crie arquivos novos; quem marca `"aprovado": true` é o Claude). Formato: `id`, `aprovado`, `partes` (3 a 5 itens com `texto`, `midia` "produto" ou "nenhuma", `link` true/false) e `produto` (`itemId`, `imageUrl`, `offerLink`).
+- Fios: só às vezes com foto do produto (mais ou menos 1 a cada 3). O robô já sorteia a foto quando o fio não pede; não marque `"midia": "produto"` em todos.
+- `carrosseis/rascunhos/car-*.json`: rascunhos de carrossel, só quando a issue pedir. Siga o formato da fila (`carrosseis/fila/`), sempre com `"aprovado": false`. Nunca escreva em `carrosseis/fila/`: quem gera as artes, aprova e coloca na fila é o Claude.

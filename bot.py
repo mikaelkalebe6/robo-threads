@@ -78,14 +78,16 @@ PADRAO = {
     # Shopee Afiliados (shopee.py): 1 liga o teste diario de conexao (so leitura) quando os Secrets existem, 0 desliga
     "SHOPEE_LIGADO": "1",
     # Shopee Fase 1: cacador, estrategias de links, fila de fios e cota
-    "SHOPEE_PALAVRAS": "acessorio carro,ferramenta,gadget,fone bluetooth,organizador,lanterna,suporte celular,churrasco,academia,presente masculino",
+    "SHOPEE_PALAVRAS": "acessorio carro,kit ferramentas,fone bluetooth,smartwatch,lanterna tatica,suporte celular carro,churrasco,academia,carteira masculina,relogio masculino,barbeador,camping,pesca",
     "SHOPEE_NOTA_MIN": "4.9", "SHOPEE_PRECO_MAX": "80", "SHOPEE_VENDAS_MIN": "300", "SHOPEE_REPETIR_DIAS": "14",
     "TESTE_COMENTARIO_PRODUTO": "1",
-    "ESTRATEGIA_MEME": "0", "MEME_JANELA_HORAS": "24", "MEME_CHECAGENS_POR_RODADA": "5", "MEME_VIEWS_LINK": "1000", "MEME_LINKS_POR_DIA": "3",
-    "ESTRATEGIA_FIO": "0",
-    "PRODUTO_POR_DIA": "0",
+    "ESTRATEGIA_MEME": "1", "MEME_JANELA_HORAS": "24", "MEME_CHECAGENS_POR_RODADA": "5", "MEME_VIEWS_LINK": "1000", "MEME_LINKS_POR_DIA": "3",
+    "ESTRATEGIA_FIO": "1",
+    "PRODUTO_POR_DIA": "3",
     # sorteio da estrategia em cada horario de produto (pesos iguais ate 23/10; nao ajustar sozinho)
-    "PESOS_ESTRATEGIA": "fio:1,produto_foto:1",
+    "PESOS_ESTRATEGIA": "carrossel:1,fio:1",
+    # fio sem foto na fila: chance de o robo colocar a foto do produto na parte do link (fio as vezes com foto)
+    "CHANCE_FOTO_FIO": "0.33",
     # produto sorteado entre os N melhores do dia; vendas da Shopee (conversionReport) dos ultimos N dias
     "SHOPEE_TOP_SORTEIO": "5", "SHOPEE_VENDAS_DIAS": "7",
 }
@@ -169,6 +171,9 @@ def salvar_estado(s):
     s["posts"] = s.get("posts", [])[-60:]
     s["respondidos"] = s.get("respondidos", [])[-3000:]
     s["hashes"] = s.get("hashes", [])[-200:]
+    for k in ("fios_usados", "carrosseis_usados"):
+        if k in s:
+            s[k] = s[k][-200:]
     s["uso"] = dict(sorted(s.get("uso", {}).items(), key=lambda kv: kv[1])[-500:])
     s["ultimas_respostas"] = s.get("ultimas_respostas", [])[-30:]
     s["exemplos_dono"] = s.get("exemplos_dono", [])[-20:]
@@ -913,7 +918,7 @@ Regras: no maximo 80 caracteres; sem travessoes; sem links; sem @; tom natural d
     return f"{frase} {carinha}" if modo == "ambos" else frase
 
 
-def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfoto"):
+def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfoto", frase=None):
     """Comenta no post com foto do produto + frase curta + link de afiliado com subIds.
     Qualquer falha (Shopee, IA, Meta) so vira log e devolve None: nunca derruba a rodada."""
     agora = agora or dt.datetime.now(TZ)
@@ -929,7 +934,7 @@ def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfot
         if not link:
             log("Comentario de produto sem link. Nada publicado.")
             return None
-        frase = frase_produto(produto.get("nome", "produto"))
+        frase = limpar_resposta(frase) if frase else frase_produto(produto.get("nome", "produto"))
         texto = f"{frase}\n{link}" if frase else link
         cid = publicar(texto, foto=produto.get("imageUrl") or None, responder_a=pid)
         s.setdefault("shopee_usados", {})[str(produto.get("itemId", ""))] = agora.isoformat()
@@ -1088,6 +1093,12 @@ def publicar_fio(s, agora):
     partes = fio_escolhido.get("partes", [])
     ultimo_id = None
     primeiro_id = None
+    # fio as vezes com foto: se o fio nao pediu foto, sorteia colocar a do produto na parte do link
+    if not any(pt.get("midia") == "produto" for pt in partes) and random.random() < float(cfg("CHANCE_FOTO_FIO")):
+        for pt in partes:
+            if pt.get("link"):
+                pt["midia"] = "produto"
+                break
 
     for idx, parte in enumerate(partes):
         texto = parte.get("texto", "")
@@ -1210,11 +1221,93 @@ def reencaixar(p, h, agora_min):
     log(f"Horario {h} reencaixado para {novo}")
 
 
+CARROSSEL_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "carrosseis", "fila")
+
+
+def proximo_carrossel(s):
+    """Primeiro carrossel aprovado e ainda nao usado em carrosseis/fila/car-*.json (3 a 5 slides com url)."""
+    if not os.path.isdir(CARROSSEL_DIR):
+        return None
+    usados = set(s.get("carrosseis_usados", []))
+    falhas = [x.get("id") for x in s.get("carrossel_falhas", [])]
+    usados |= {i for i in falhas if falhas.count(i) >= 2}  # recusado 2 vezes pela Meta: sai da fila
+    for nome in sorted(os.listdir(CARROSSEL_DIR)):
+        if not (nome.startswith("car-") and nome.endswith(".json")):
+            continue
+        try:
+            with open(os.path.join(CARROSSEL_DIR, nome), encoding="utf-8") as f:
+                c = json.load(f)
+        except Exception as e:
+            log(f"Carrossel {nome} ilegivel:", str(e)[:120])
+            continue
+        cid = str(c.get("id") or nome)
+        slides = c.get("slides") or []
+        if cid in usados or not c.get("aprovado") or not 3 <= len(slides) <= 5 or not all(x.get("url") for x in slides):
+            continue
+        c["id"] = cid
+        return c
+    return None
+
+
+def publicar_carrossel(urls, texto):
+    """Carrossel de imagens pela API oficial: 1 container por imagem (is_carousel_item) + container CAROUSEL."""
+    if MODO_TESTE:
+        log("[MODO TESTE] publicaria carrossel:", {"texto": texto, "imagens": urls})
+        return "teste_" + hashlib.md5((texto + str(time.time())).encode()).hexdigest()[:8]
+    filhos = [threads("POST", "me/threads", media_type="IMAGE", image_url=u, is_carousel_item="true")["id"] for u in urls]
+    for fid in filhos:  # cada imagem precisa estar pronta antes do carrossel
+        for _ in range(15):
+            st = threads("GET", fid, fields="status,error_message")
+            if st.get("status") == "FINISHED":
+                break
+            if st.get("status") in ("ERROR", "EXPIRED"):
+                raise RuntimeError(f"Meta recusou a imagem do carrossel: {st}")
+            time.sleep(2)
+    cid = threads("POST", "me/threads", media_type="CAROUSEL", children=",".join(filhos), text=texto)["id"]
+    for _ in range(15):
+        time.sleep(3)
+        st = threads("GET", cid, fields="status,error_message")
+        if st.get("status") == "FINISHED":
+            break
+        if st.get("status") in ("ERROR", "EXPIRED"):
+            raise RuntimeError(f"Meta recusou o carrossel: {st}")
+    return threads("POST", "me/threads_publish", creation_id=cid)["id"]
+
+
+def postar_carrossel(s, agora):
+    """Estrategia carrossel: publica o proximo da fila e comenta foto + frase + link. Devolve o id ou None."""
+    c = proximo_carrossel(s)
+    if not c:
+        log("Carrossel: nenhum aprovado na fila.")
+        return None
+    prod = c.get("produto") or {}
+    texto = limpar(c.get("texto_post") or "")
+    time.sleep(random.randint(0, ATRASO_POST_MAX))
+    try:
+        pid = publicar_carrossel([x["url"] for x in c["slides"]], texto)
+    except Exception as e:
+        log(f"Carrossel {c['id']} falhou (segue para a proxima estrategia):", str(e)[:200])
+        s.setdefault("carrossel_falhas", []).append({"id": c["id"], "quando": agora.isoformat(), "erro": str(e)[:200]})
+        s["carrossel_falhas"] = s["carrossel_falhas"][-20:]
+        return None
+    s.setdefault("carrosseis_usados", []).append(c["id"])
+    log(f"POSTADO (carrossel {c['id']}, {len(c['slides'])} slides, produto {prod.get('itemId')}):", pid)
+    s.setdefault("posts", []).append({
+        "id": pid, "insp": f"car_{c['id']}", "link": "", "texto": (c["slides"][0].get("texto") or texto)[:300],
+        "quando": agora.isoformat(), "ia": "carrossel", "estrategia": "carrossel", "formato": "carrossel",
+        "formato_link": "comentfoto", "produto": prod.get("itemId"), "modelo": c.get("modelo", "")})
+    salvar_estado(s)
+    if prod.get("offerLink"):
+        time.sleep(random.randint(*ATRASO_LINK))
+        comentar_produto(s, pid, prod, "carrossel", agora, frase=c.get("frase_link") or None)
+    return pid
+
+
 def postar_produto(s, p, h, agora):
     """Horario de produto: sorteia a estrategia; se a sorteada nao der (fio sem fila, sem produto), tenta a outra.
     Devolve True se publicou algo (o horario conta como feito). Falha da Shopee nunca derruba a rodada."""
     sorteada = sortear_estrategia()
-    ordem = [sorteada] + [e for e in ("fio", "produto_foto") if e != sorteada]
+    ordem = [sorteada] + [e for e in ("carrossel", "fio", "produto_foto") if e != sorteada]
     log(f"Horario de produto {h}: estrategia sorteada {sorteada}")
     for estr in ordem:
         if estr == "fio":
@@ -1224,6 +1317,13 @@ def postar_produto(s, p, h, agora):
                 log("Fio falhou (segue para a proxima estrategia):", str(e)[:150])
                 pid_fio = None
             if pid_fio:
+                p["feitos"].append(h)
+                p["produtos_feitos"] = p.get("produtos_feitos", 0) + 1
+                salvar_estado(s)
+                return True
+            continue
+        if estr == "carrossel":
+            if postar_carrossel(s, agora):
                 p["feitos"].append(h)
                 p["produtos_feitos"] = p.get("produtos_feitos", 0) + 1
                 salvar_estado(s)
