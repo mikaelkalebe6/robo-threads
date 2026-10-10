@@ -26,15 +26,16 @@
    "11:43",
    "14:35",
    "16:39",
-   "17:57"
+   "17:57",
+   "18:56"
   ],
   "produtos_feitos": 2,
-  "respostas": 82,
+  "respostas": 85,
   "por_post": {
    "18179925583431899": 3,
-   "17904297183598082": 11,
+   "17904297183598082": 12,
    "18030985622888288": 2,
-   "18015338645750822": 14,
+   "18015338645750822": 15,
    "17883591987689452": 8,
    "18124736575742625": 1,
    "17931200094409342": 8,
@@ -42,27 +43,10 @@
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3,
-   "17975559206935962": 15
+   "17975559206935962": 16
   }
  },
  "posts": [
-  {
-   "id": "18118643042050925",
-   "insp": "58ac2ae535",
-   "link": "",
-   "texto": "Quem mais tem em casa uma gaveta que é basicamente um cemitério de cabos que ninguém sabe se funcionam, chaves aleatórias e sacola plástica?\n\nToda casa tem esse pequeno museu do caos e a gente só aceita.",
-   "quando": "2026-10-05T21:07:11.596505-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 614,
-    "likes": 13,
-    "replies": 18,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-10"
-   }
-  },
   {
    "id": "18113316785517878",
    "insp": "db597fa355",
@@ -1012,6 +996,14 @@
    "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
    "quando": "2026-10-10T18:07:09.225159-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18003828527991536",
+   "insp": "a5b40d343a",
+   "link": "",
+   "texto": "ME CONTA: para a minha mãe, qualquer problema na vida se resolve com um banho quente e chá de camomila. De resfriado a coração partido. Qual é o remédio universal da mãe de vocês?",
+   "quando": "2026-10-10T19:07:09.130648-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -2420,7 +2412,10 @@
   "18077602019437966",
   "18633511894050462",
   "17889360657653835",
-  "18342908944258299"
+  "18342908944258299",
+  "18034750304852696",
+  "18130734043757248",
+  "18488636500107472"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2569,7 +2564,8 @@
   "ffed78dfb8a63dcf61d6e6bbdcc02c8d",
   "1248f2a8f1ad3ecd03c6784dc2bb2993",
   "fb57cff7523f595450752f2f29f22f39",
-  "90b9891efa06b034b7f430324eeebbd1"
+  "90b9891efa06b034b7f430324eeebbd1",
+  "0675cb7eda2a75b2851ab0e37f9e1a6e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2718,7 +2714,8 @@
   "f8cf963815": 1791644893.9161525,
   "d74ec1b0c0": 1791648492.9168603,
   "0b1e634fcd": 1791657457.6883128,
-  "eb9c03e299": 1791670089.8466873
+  "eb9c03e299": 1791670089.8466873,
+  "a5b40d343a": 1791673648.3117123
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2799,25 +2796,13 @@
   "ccb5e96f86": 1,
   "1c6aa3cfe3": 1,
   "e937350d16": 1,
-  "e7102b50d0": 1
+  "e7102b50d0": 1,
+  "47656906e5": 1,
+  "1519cdb4bc": 1,
+  "fdc8777827": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "cada um escolhe o tipo de emoção que quer pro dia",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "coragem ou muita fé no santo do combustível kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "boa companhia e bebida trincando resolvem qualquer carne mais ou menos",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "alfa 164 tem linha elegante que chama atenção até hoje",
    "p": "concorda",
@@ -2950,6 +2935,21 @@
   },
   {
    "t": "pura filosofia de vida arriscada, o extraordinário agradece o sufoco",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "acompanhamento clássico que não pode faltar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "lancer antigo tem aquela pose brava que impõe respeito na rua",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "escala 6x1 aos quinze anos devia ser proibido por lei",
    "p": "concorda",
    "r": 0
   }
@@ -3561,7 +3561,6 @@
    "esse e o"
   ],
   "18015338645750822": [
-   "esse modelo marcou",
    "esse desenho divide",
    "verdade esse classico",
    "lista forte demais",
@@ -3580,7 +3579,8 @@
    "esse frances ai",
    "esse conversivel e",
    "puma vermelho conversivel",
-   "esse seda italiano"
+   "esse seda italiano",
+   "lancer antigo tem"
   ],
   "18118295015072947": [
    "exato e o"
@@ -3600,7 +3600,6 @@
    "jogo virou segundo"
   ],
   "17904297183598082": [
-   "essa e a",
    "item obrigatorio que",
    "verdade sem ela",
    "esse e a",
@@ -3619,7 +3618,8 @@
    "fundamental para dar",
    "indispensavel para aguentar",
    "boa companhia e",
-   "sal de parrilha"
+   "sal de parrilha",
+   "acompanhamento classico que"
   ],
   "18179925583431899": [
    "pesado mas pior",
@@ -3677,7 +3677,8 @@
    "o salto quantico",
    "final dos anos",
    "passar por isso",
-   "epoca em que"
+   "epoca em que",
+   "escala 6x1 aos"
   ]
  },
  "shopee_checada": "2026-10-10|1",
