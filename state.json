@@ -27,7 +27,7 @@
    "14:35"
   ],
   "produtos_feitos": 1,
-  "respostas": 61,
+  "respostas": 64,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 11,
@@ -40,7 +40,7 @@
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3,
-   "17975559206935962": 3
+   "17975559206935962": 6
   }
  },
  "posts": [
@@ -2408,7 +2408,11 @@
   "17969483567960136",
   "18112180103605229",
   "18078242267715793",
-  "18143557840886313"
+  "18143557840886313",
+  "18144892810505575",
+  "18068223374510286",
+  "18192171193394139",
+  "18194678281402313"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2765,25 +2769,13 @@
   "3e346271a0": 1,
   "b7390aef96": 1,
   "48eab85c69": 1,
-  "fb8aff9dc6": 1
+  "fb8aff9dc6": 1,
+  "c0dc2273a0": 1,
+  "d3ddb3c5d9": 1,
+  "2beec2d330": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "fundamental para dar aquela quebrada na gordura",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kadett marcou época, carro honesto demais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "exato, economia de energia e de grana logo de cara",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "indispensável para aguentar o calor perto da brasa",
    "p": "concorda",
@@ -2916,6 +2908,21 @@
   },
   {
    "t": "essa escadinha aí foi o treino pesado pra vida adulta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse salto aí mostra bem como a vida real começa sem crachá",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nessa época o dinheiro ainda durava um pouquinho mais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "começo de carteira assim já vinha com brinde de ansiedade",
    "p": "concorda",
    "r": 0
   }
@@ -3621,7 +3628,10 @@
   "17975559206935962": [
    "trabalho infantil disfarcado",
    "comecar pesado assim",
-   "essa escadinha ai"
+   "essa escadinha ai",
+   "esse salto ai",
+   "nessa epoca o",
+   "comeco de carteira"
   ]
  },
  "shopee_checada": "2026-10-10|1",
