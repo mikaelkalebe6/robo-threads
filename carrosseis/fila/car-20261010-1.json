@@ -1,0 +1,15 @@
+{
+ "id": "car-20261010-1",
+ "aprovado": true,
+ "modelo": "dor-virada-produto",
+ "produto": {"itemId": "58261620022", "nome": "Afiador De Faca Profissional Amolador 4 Em 1 Tesoura Cozinha Churrasco", "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mot67lu3i1og8d", "offerLink": "https://s.shopee.com.br/30odyqvbKV"},
+ "slides": [
+  {"texto": "Você não erra o ponto da carne. Você erra *a faca.*"},
+  {"rotulo": "o problema", "texto": "Picanha cara, brasa no ponto e, na hora de servir, a faca *esmaga a fatia.* O suco fica na tábua e a carne chega seca no prato."},
+  {"rotulo": "a virada", "texto": "Não é a faca barata. *É o fio.* Faca cega rasga a fibra e espreme o suco. 30 segundos no afiador e a fatia sai inteira."},
+  {"foto_produto": true},
+  {"rotulo": "antes da próxima picanha", "texto": "Corta uma folha de papel com a sua faca. Se ela amassou em vez de cortar, *o link tá no comentário.*"}
+ ],
+ "texto_post": "Churrasqueiro bom também perde a carne na faca.",
+ "frase_link": "o afiador que fica do lado da churrasqueira"
+}
