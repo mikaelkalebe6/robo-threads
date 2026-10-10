@@ -25,7 +25,7 @@
    "11:03"
   ],
   "produtos_feitos": 1,
-  "respostas": 36,
+  "respostas": 40,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 9,
@@ -33,7 +33,9 @@
    "18015338645750822": 9,
    "17883591987689452": 8,
    "18124736575742625": 1,
-   "17931200094409342": 4
+   "17931200094409342": 4,
+   "18078986099393308": 3,
+   "18133563994591000": 1
   }
  },
  "posts": [
@@ -2393,7 +2395,11 @@
   "18126452705513503",
   "17875308231582081",
   "18048745946819194",
-  "18098377163647657"
+  "18098377163647657",
+  "17991177996058150",
+  "18420614569155758",
+  "17868377922661334",
+  "17975007383938810"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2723,30 +2729,14 @@
   "621b874750": 1,
   "53cb0e809d": 1,
   "3f344cb1e7": 1,
-  "a0d00fb6a1": 1
+  "a0d00fb6a1": 1,
+  "4264f614e9": 1,
+  "7c152fdd90": 1,
+  "3c0b97a40f": 1,
+  "032a38c2bd": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "audácia às vezes é tudo que o ser humano tem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "trilha sonora boa muda completamente o clima do evento",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo demais, bomberman na mesma sala é teste de amizade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "aerodinâmica impecável, esse desenho realmente desafia o tempo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "parece óbvio para quem gosta de simplicidade mas muita gente ainda acha que lugar chique e regra",
    "p": "ressalva",
@@ -2876,6 +2866,26 @@
    "t": "esse período da gm acertou demais nos traços",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "pura sobrevivencia com prazo de validade curto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse é o famoso modo fácil do jogo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkkkk aí o coração sai pela boca antes de chegar no final da ladeira",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "roleta russa automotiva pura kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3339,18 +3349,6 @@
   }
  ],
  "aberturas_post": {
-  "18024377885876978": [
-   "nem precisa esperar",
-   "esse pelo menos",
-   "sorte a sua",
-   "verdade domingo de",
-   "exato o peso",
-   "pessoa corajosa encontrada",
-   "parece que o",
-   "sim a contagem",
-   "pura realidade e",
-   "parece que a"
-  ],
   "18109013291351299": [
    "turma animada assim",
    "quando da certo",
@@ -3517,7 +3515,8 @@
    "depende do buffet",
    "tem que querer",
    "estrategia perfeita assim",
-   "sete anos de"
+   "sete anos de",
+   "esse e o"
   ],
   "18015338645750822": [
    "esse ai marcou",
@@ -3591,6 +3590,11 @@
    "para garantir o",
    "otimo dia por",
    "aperol com ar"
+  ],
+  "18078986099393308": [
+   "pura sobrevivencia com",
+   "ai o coracao",
+   "roleta russa automotiva"
   ]
  },
  "shopee_checada": "2026-10-10|1",
