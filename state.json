@@ -28,20 +28,20 @@
    "16:39"
   ],
   "produtos_feitos": 2,
-  "respostas": 73,
+  "respostas": 76,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 11,
    "18030985622888288": 2,
-   "18015338645750822": 11,
+   "18015338645750822": 12,
    "17883591987689452": 8,
    "18124736575742625": 1,
    "17931200094409342": 8,
-   "18078986099393308": 12,
+   "18078986099393308": 13,
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3,
-   "17975559206935962": 12
+   "17975559206935962": 13
   }
  },
  "posts": [
@@ -2418,7 +2418,10 @@
   "18124765187510393",
   "18103195835019767",
   "18098910455081568",
-  "18106497968579954"
+  "18106497968579954",
+  "18127780240869890",
+  "18094618229430807",
+  "18117820195783978"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2787,25 +2790,13 @@
   "1948d48d94": 1,
   "fafd658eb3": 1,
   "f61681e948": 1,
-  "5d06b0ea91": 1
+  "5d06b0ea91": 1,
+  "af64c071a6": 1,
+  "da85ca4d27": 1,
+  "54f2158b3c": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "kkkkk naruto players era caminho sem volta pra tarde toda",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "cd do macdonalds era evento raro na máquina de casa kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "divisão oficial de categorias",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "esse jogo testava a paciência de qualquer amizade kkkk",
    "p": "concorda",
@@ -2940,6 +2931,21 @@
    "t": "matemática de alto risco que a gente confia cegamente kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse conversível é uma verdadeira escultura sobre rodas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "final dos anos noventa com esse valor na mão já parecia outra realidade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paz de espírito que chama, zero emoção desnecessária",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3549,7 +3555,6 @@
    "esse e o"
   ],
   "18015338645750822": [
-   "adorei o dart",
    "linhas bem marcadas",
    "essa cor azul",
    "esse modelo marcou",
@@ -3568,7 +3573,8 @@
    "kadett marcou epoca",
    "esse periodo da",
    "alfa 164 tem",
-   "esse frances ai"
+   "esse frances ai",
+   "esse conversivel e"
   ],
   "18118295015072947": [
    "exato e o"
@@ -3637,7 +3643,8 @@
    "cada um escolhe",
    "coragem ou muita",
    "esse trecho ai",
-   "matematica de alto"
+   "matematica de alto",
+   "paz de espirito"
   ],
   "18076654343444049": [
    "boa tarde tudo"
@@ -3659,7 +3666,8 @@
    "comecar tao cedo",
    "ajuda de custo",
    "valor que hoje",
-   "o salto quantico"
+   "o salto quantico",
+   "final dos anos"
   ]
  },
  "shopee_checada": "2026-10-10|1",
