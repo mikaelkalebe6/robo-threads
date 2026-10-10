@@ -811,6 +811,14 @@ Responda so em JSON: {{"objetivo_do_post": "...", "intencao": "...", "emocao": "
 
 FRASES_LINK = ["Aqui o link 👉 {l}", "Link: {l}", "Tá aqui ó: {l}", "Link do achado: {l}", "Esse aqui 👉 {l}", "Pega aqui: {l}"]
 FRASES_LINK_PROPRIO = ["Link aqui 👇 {l}", "Pra quem pediu o link: {l}", "Link do produto: {l}", "{l}"]
+# texto com link de afiliado sai sempre com #publi discreto no fim (decisao do dono, 10/10/2026)
+_LINK_AFILIADO = re.compile(r"(shopee\.com|s\.shopee|shope\.ee|amzn\.to|amazon\.com\.br|mercadolivre\.com|meli\.la)", re.I)
+
+
+def com_publi(texto):
+    if texto and _LINK_AFILIADO.search(texto) and "#publi" not in texto.lower():
+        return texto.rstrip() + " #publi"
+    return texto
 
 
 # ---------------------------------------------------------------- publicar
@@ -940,7 +948,7 @@ def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfot
             log("Comentario de produto sem link. Nada publicado.")
             return None
         frase = limpar_resposta(frase) if frase else frase_produto(produto.get("nome", "produto"), produto.get("campanha", ""))
-        texto = f"{frase}\n{link}" if frase else link
+        texto = com_publi(f"{frase}\n{link}" if frase else link)
         cid = publicar(texto, foto=produto.get("imageUrl") or None, responder_a=pid)
         s.setdefault("shopee_usados", {})[str(produto.get("itemId", ""))] = agora.isoformat()
         s.setdefault("minhas_respostas", {})[cid] = {"t": "(link produto)", "c": "", "q": agora.isoformat()}
@@ -1122,7 +1130,7 @@ def publicar_fio(s, agora):
                 link = ""
             if not link:
                 link = prod_fio.get("offerLink")
-            texto = f"{texto}\n\n{link}" if texto else link
+            texto = com_publi(f"{texto}\n\n{link}" if texto else link)
 
         if idx > 0:
             time.sleep(random.randint(*PAUSA_RESP))
@@ -1430,7 +1438,7 @@ def tarefa_postar(s, agora):
         return
     usar_foto = bool(insp["foto"]) and random.random() < CHANCE_FOTO
     if link_no_post:
-        texto = f"{texto}\n\n{insp['link']}"
+        texto = com_publi(f"{texto}\n\n{insp['link']}")
 
     time.sleep(random.randint(0, ATRASO_POST_MAX))  # pequeno atraso aleatorio (curto para economizar minutos do GitHub)
     try:
@@ -1445,7 +1453,7 @@ def tarefa_postar(s, agora):
 
     if tem_link and not link_no_post:
         time.sleep(random.randint(*ATRASO_LINK))
-        lid = publicar(random.choice(FRASES_LINK_PROPRIO).format(l=insp["link"]), responder_a=pid)
+        lid = publicar(com_publi(random.choice(FRASES_LINK_PROPRIO).format(l=insp["link"])), responder_a=pid)
         s.setdefault("minhas_respostas", {})[lid] = {"t": "(link)", "c": "", "q": agora.isoformat()}
         log("Link colocado no primeiro comentario.")
 
