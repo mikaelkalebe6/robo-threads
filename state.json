@@ -23,14 +23,15 @@
    "08:47"
   ],
   "produtos_feitos": 0,
-  "respostas": 20,
+  "respostas": 24,
   "por_post": {
    "18179925583431899": 3,
-   "17904297183598082": 5,
+   "17904297183598082": 6,
    "18030985622888288": 2,
    "18015338645750822": 5,
-   "17883591987689452": 4,
-   "18124736575742625": 1
+   "17883591987689452": 5,
+   "18124736575742625": 1,
+   "17931200094409342": 2
   }
  },
  "posts": [
@@ -2386,7 +2387,11 @@
   "18460640491184321",
   "18080612156714295",
   "18129889534702906",
-  "18473484478119022"
+  "18473484478119022",
+  "17913727278533125",
+  "17962349898212456",
+  "18414523123089115",
+  "18177643666452656"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2686,7 +2691,7 @@
   "f27fb8a482": 1,
   "fc0b7682e2": 1,
   "ee2465580f": 1,
-  "1d06969815": 1,
+  "1d06969815": 2,
   "cca3dc35f0": 1,
   "3a901fb5e7": 1,
   "946c5cfc08": 1,
@@ -2698,32 +2703,14 @@
   "107ef6403b": 1,
   "b498ae5898": 1,
   "2ec7a2def8": 1,
-  "02a25dc915": 1,
+  "02a25dc915": 2,
   "e5341fc0dc": 1,
-  "78c9177f9b": 1
+  "78c9177f9b": 1,
+  "df48f07a4e": 1,
+  "791c42e396": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "essa é a base de tudo, sem discussão",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "item obrigatório que some rápido da mesa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, sem ela vira almoço de domingo em família",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse é a alma da festa, sem ele a carne não tem nem graça kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "pelo menos no final o vegano traz paz pra carne kkk",
    "p": "concorda",
@@ -2851,6 +2838,26 @@
   },
   {
    "t": "lista pesada, mustang e opala tão em outro patamar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, manutenção de poço de água exige respeito kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "para garantir o sufoco duplo e areia na toalha kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "autenticidade em primeiro lugar, melhor coisa ser vc msm desde o inicio",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "responsavel oficial por fazer tudo dar certo na brasa",
    "p": "concorda",
    "r": 0
   }
@@ -3311,9 +3318,6 @@
   }
  ],
  "aberturas_post": {
-  "18118205002998533": [
-   "na teoria e"
-  ],
   "18024377885876978": [
    "nem precisa esperar",
    "esse pelo menos",
@@ -3466,7 +3470,6 @@
    "ai ja passou"
   ],
   "17883591987689452": [
-   "ja ta com",
    "justo querer comer",
    "dividir a conta",
    "certeza zero drama",
@@ -3485,7 +3488,8 @@
    "rodizio de 300",
    "parece obvio para",
    "quando o lugar",
-   "teste pratico definitivo"
+   "teste pratico definitivo",
+   "autenticidade em primeiro"
   ],
   "18133563994591000": [
    "poder ate podia",
@@ -3551,13 +3555,18 @@
    "trilha sonora boa",
    "vinagrete fresquinho equilibra",
    "clima bom faz",
-   "fritas no churrasco"
+   "fritas no churrasco",
+   "responsavel oficial por"
   ],
   "18179925583431899": [
    "pesado mas pior",
    "parece lenda urbana",
    "audacia as vezes",
    "essa ai apela"
+  ],
+  "17931200094409342": [
+   "justo manutencao de",
+   "para garantir o"
   ]
  },
  "shopee_checada": "2026-10-10|1",
