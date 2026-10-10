@@ -1286,7 +1286,7 @@ def postar_carrossel(s, agora):
     time.sleep(random.randint(0, ATRASO_POST_MAX))
     try:
         import carrossel
-        urls = carrossel.preparar(c, prod)  # desenha e hospeda as artes que ainda nao tem link
+        urls, visual = carrossel.preparar(c, prod)  # desenha e hospeda as artes (visual sorteado)
     except Exception as e:  # falha de arte/hospedagem nao tira o carrossel da fila
         log(f"Carrossel {c['id']}: artes nao ficaram prontas (segue para a proxima estrategia):", str(e)[:200])
         return None
@@ -1298,15 +1298,15 @@ def postar_carrossel(s, agora):
         s["carrossel_falhas"] = s["carrossel_falhas"][-20:]
         return None
     s.setdefault("carrosseis_usados", []).append(c["id"])
-    log(f"POSTADO (carrossel {c['id']}, {len(c['slides'])} slides, produto {prod.get('itemId')}):", pid)
+    log(f"POSTADO (carrossel {c['id']}, visual {visual}, {len(c['slides'])} slides, produto {prod.get('itemId')}):", pid)
     s.setdefault("posts", []).append({
         "id": pid, "insp": f"car_{c['id']}", "link": "", "texto": (c["slides"][0].get("texto") or texto)[:300],
         "quando": agora.isoformat(), "ia": "carrossel", "estrategia": "carrossel", "formato": "carrossel",
-        "formato_link": "comentfoto", "produto": prod.get("itemId"), "modelo": c.get("modelo", "")})
+        "formato_link": "comentfoto", "produto": prod.get("itemId"), "modelo": c.get("modelo", ""), "visual": visual})
     salvar_estado(s)
     if prod.get("offerLink"):
         time.sleep(random.randint(*ATRASO_LINK))
-        comentar_produto(s, pid, prod, "carrossel", agora, frase=c.get("frase_link") or None)
+        comentar_produto(s, pid, prod, "carrossel", agora, formato=f"car{visual}", frase=c.get("frase_link") or None)
     return pid
 
 

@@ -8,7 +8,16 @@ Artes dos carrosseis: desenha cada slide (1080x1350) e hospeda no repositorio pu
 import os, io, json, base64, subprocess, sys, urllib.request, urllib.error
 
 W, H = 1080, 1350
-FUNDO, TEXTO, DESTAQUE, CINZA = (17, 17, 19), (245, 245, 240), (245, 165, 36), (140, 140, 140)
+# temas sorteados por carrossel (aleatoriedade ate acharmos o melhor visual): fundo, texto, destaque, cinza
+TEMAS = {
+    "e": ((17, 17, 19), (245, 245, 240), (245, 165, 36), (140, 140, 140)),   # escuro com ambar
+    "c": ((246, 244, 238), (22, 22, 24), (214, 90, 30), (120, 120, 120)),    # claro com laranja
+    "a": ((245, 165, 36), (20, 20, 20), (255, 255, 255), (60, 50, 30)),      # ambar com branco
+    "v": ((16, 38, 30), (240, 240, 232), (120, 220, 150), (130, 150, 140)),  # verde escuro
+}
+# foto do produto: m = so nos slides marcados com_foto, c = so na capa, n = nenhuma (so texto)
+MODOS_FOTO = ("m", "c", "n")
+FUNDO, TEXTO, DESTAQUE, CINZA = TEMAS["e"]
 PASTA_FONTES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fontes")
 MIDIA_REPO = os.environ.get("MIDIA_REPO", "").strip() or "mikaelkalebe6/robo-midia"
 TOKEN = os.environ.get("MIDIA_TOKEN", "").strip()
@@ -60,10 +69,11 @@ def baixar_foto(url):
         return r.read()
 
 
-def desenhar(texto, n, total, rotulo="", foto=None):
+def desenhar(texto, n, total, rotulo="", foto=None, tema="e"):
     """PNG (bytes) de um slide. n=1 e a capa (fonte maior e 'arrasta'). foto = bytes da imagem do produto
     (fica num cartao claro na parte de cima e o texto desce)."""
     Image, ImageDraw, ImageFont = _pil()
+    FUNDO, TEXTO, DESTAQUE, CINZA = TEMAS.get(tema, TEMAS["e"])
     capa = n == 1
     im = Image.new("RGB", (W, H), FUNDO)
     d = ImageDraw.Draw(im)
@@ -127,9 +137,21 @@ def hospedar(caminho, png):
     return f"https://raw.githubusercontent.com/{MIDIA_REPO}/main/{caminho}"
 
 
+def sortear_visual(car):
+    """Visual do carrossel: 'tema+modo' (ex.: 'em'). O JSON pode fixar com "visual"; senao sorteia."""
+    import random
+    v = str(car.get("visual") or "")
+    if len(v) == 2 and v[0] in TEMAS and v[1] in MODOS_FOTO:
+        return v
+    return random.choice(list(TEMAS)) + random.choice(MODOS_FOTO)
+
+
 def preparar(car, prod):
-    """Completa o url de cada slide: arte desenhada e hospedada, ou a foto do produto. Devolve a lista de urls."""
+    """Completa o url de cada slide: arte desenhada e hospedada, ou a foto do produto.
+    Devolve (lista de urls, visual sorteado)."""
     slides = car.get("slides") or []
+    visual = sortear_visual(car)
+    tema, modo = visual[0], visual[1]
     urls = []
     for i, sl in enumerate(slides, 1):
         if sl.get("url"):
@@ -140,11 +162,12 @@ def preparar(car, prod):
             urls.append(prod["imageUrl"])
         else:
             foto = None
-            if sl.get("com_foto") and prod.get("imageUrl"):
+            quer_foto = (modo == "m" and sl.get("com_foto")) or (modo == "c" and i == 1)
+            if quer_foto and prod.get("imageUrl"):
                 try:
                     foto = baixar_foto(prod["imageUrl"])
                 except Exception:
                     foto = None  # sem foto o slide sai so com texto
-            png = desenhar(sl.get("texto", ""), i, len(slides), sl.get("rotulo", ""), foto)
-            urls.append(hospedar(f"car/{car['id']}-s{i}.png", png))
-    return urls
+            png = desenhar(sl.get("texto", ""), i, len(slides), sl.get("rotulo", ""), foto, tema)
+            urls.append(hospedar(f"car/{car['id']}-{visual}-s{i}.png", png))
+    return urls, visual
