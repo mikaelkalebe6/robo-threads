@@ -1287,6 +1287,10 @@ def postar_carrossel(s, agora):
     try:
         import carrossel
         urls = carrossel.preparar(c, prod)  # desenha e hospeda as artes que ainda nao tem link
+    except Exception as e:  # falha de arte/hospedagem nao tira o carrossel da fila
+        log(f"Carrossel {c['id']}: artes nao ficaram prontas (segue para a proxima estrategia):", str(e)[:200])
+        return None
+    try:
         pid = publicar_carrossel(urls, texto)
     except Exception as e:
         log(f"Carrossel {c['id']} falhou (segue para a proxima estrategia):", str(e)[:200])
