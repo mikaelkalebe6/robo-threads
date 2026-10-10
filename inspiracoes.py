@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Leitor de inspiracoes: le links/videos novos da planilha de Inspiracoes e pede ao Gemini
 (transcricao + analise). Resultado vai para inspiracoes_lidas.md, que o Claude le no domingo."""
-import os, re, sys, json, time, base64, hashlib, csv, io, html, urllib.request, urllib.parse
+import os, re, sys, json, time, base64, hashlib, csv, io, html, urllib.request, urllib.parse, urllib.error
 import datetime as dt
 from zoneinfo import ZoneInfo
 
@@ -76,6 +76,115 @@ Responda em portugues do Brasil, sem travessoes, direto, neste formato:
 Observacao do dono: {obs}
 {extra}"""
 _PED = [PEDIDO]  # pedido em uso no item atual (post ou melhoria)
+
+PEDIDO_PERFIL = """O dono mandou o PERFIL inteiro de alguem como inspiracao (vendedor, criador ou concorrente). Abaixo estao os posts mais recentes com numeros reais.
+Responda em portugues do Brasil, sem travessoes, direto, neste formato:
+**Tipo:** Perfil ({rede}) | **Posts lidos:** {n}
+**Quem e e para quem fala:** (nicho, persona do publico, tom)
+**O que mais performa:** (os 3 posts com mais engajamento: o que tem em comum; formato, tema, gancho)
+**Padroes de gancho:** (como os posts comecam; 3 exemplos curtos parafraseados)
+**Como vende:** (se vende produto: como apresenta, onde poe o link, que prova usa; se nao vende, escreva "nao vende")
+**O que copiar para o @lorenafleck_:** (2 a 4 pontos praticos, inclusive para carrosseis)
+**5 ganchos para o perfil:** (frases prontas, originais, para homens de 25 a 44, Brasil inteiro)
+Observacao do dono: {obs}
+{extra}"""
+
+# ---------------------------------------------------------------- perfis pela Apify
+APIFY = os.environ.get("APIFY_TOKEN", "").strip()
+APIFY_POSTS = int(os.environ.get("APIFY_POSTS_POR_PERFIL", "").strip() or 12)
+APIFY_PERFIS_MES = int(os.environ.get("APIFY_PERFIS_MES", "").strip() or 20)  # trava de custo (credito gratis da Apify)
+ATORES = {  # rede: (ator da Apify, montagem da entrada)
+    "instagram": ("apify~instagram-scraper", lambda u, l: {"directUrls": [l], "resultsType": "posts", "resultsLimit": APIFY_POSTS}),
+    "tiktok": ("clockworks~tiktok-scraper", lambda u, l: {"profiles": [u], "resultsPerPage": APIFY_POSTS}),
+    "threads": ("automation-lab~threads-scraper", lambda u, l: {"mode": "posts", "usernames": [u], "maxPosts": APIFY_POSTS, "includeProfile": True}),
+}
+
+
+def perfil_do_link(link):
+    """(rede, usuario) se o link for de PERFIL (nao de um post); senao None."""
+    l = (link or "").split("?")[0].rstrip("/")
+    m = re.match(r"https?://(?:www\.)?instagram\.com/([A-Za-z0-9._]+)$", l)
+    if m and m.group(1).lower() not in ("p", "reel", "reels", "tv", "stories", "explore"):
+        return "instagram", m.group(1)
+    m = re.match(r"https?://(?:www\.|m\.)?tiktok\.com/@([A-Za-z0-9._]+)$", l)
+    if m:
+        return "tiktok", m.group(1)
+    m = re.match(r"https?://(?:www\.)?threads\.(?:net|com)/@([A-Za-z0-9._]+)$", l)
+    if m:
+        return "threads", m.group(1)
+    return None
+
+
+def _num(d, *nomes):
+    for n in nomes:
+        v = d.get(n)
+        if isinstance(v, (int, float)):
+            return int(v)
+    st = d.get("stats") or d.get("statistics") or {}
+    for n in nomes:
+        if isinstance(st.get(n), (int, float)):
+            return int(st[n])
+    return 0
+
+
+def _imagem(d):
+    for n in ("displayUrl", "thumbnailUrl", "imageUrl"):
+        if isinstance(d.get(n), str) and d[n].startswith("http"):
+            return d[n]
+    vm = d.get("videoMeta") or {}
+    if isinstance(vm.get("coverUrl"), str):
+        return vm["coverUrl"]
+    for m in d.get("media") or d.get("images") or []:
+        u = m.get("url") or m.get("imageUrl") or m.get("thumbnailUrl") if isinstance(m, dict) else m
+        if isinstance(u, str) and u.startswith("http"):
+            return u
+    return ""
+
+
+def ler_perfil(rede, usuario, link, obs, estado):
+    """Le os posts recentes do perfil pela Apify e pede a analise ao Gemini. Nunca mostra o token."""
+    mes = dt.datetime.now(TZ).strftime("%Y-%m")
+    uso = estado.setdefault("apify", {})
+    if uso.get("mes") != mes:
+        uso.clear(); uso.update({"mes": mes, "perfis": 0})
+    if uso["perfis"] >= APIFY_PERFIS_MES:
+        return "Limite de %d perfis por mes na Apify atingido (trava de custo). Fica para o mes que vem." % APIFY_PERFIS_MES
+    ator, entrada = ATORES[rede]
+    url = f"https://api.apify.com/v2/acts/{ator}/run-sync-get-dataset-items?timeout=150&maxItems={APIFY_POSTS + 2}"
+    req = urllib.request.Request(url, data=json.dumps(entrada(usuario, link)).encode(), method="POST",
+                                 headers={"Content-Type": "application/json", "Authorization": "Bearer " + APIFY})
+    try:
+        with urllib.request.urlopen(req, timeout=170) as r:
+            itens = json.loads(r.read() or b"[]")
+    except urllib.error.HTTPError as e:
+        return "Apify recusou (%d): %s" % (e.code, e.read().decode("utf-8", "replace")[:200].replace(APIFY, "***"))
+    except Exception as e:
+        return "Apify falhou: " + str(e)[:200].replace(APIFY, "***")
+    uso["perfis"] += 1
+    posts = [i for i in (itens if isinstance(itens, list) else []) if isinstance(i, dict) and not i.get("error")]
+    if not posts:
+        return "A Apify nao trouxe posts deste perfil (privado, sem posts ou bloqueado)."
+    linhas, ranking = [], []
+    for i, d in enumerate(posts[:APIFY_POSTS], 1):
+        texto = str(d.get("caption") or d.get("text") or d.get("desc") or "").replace("\n", " ")[:300]
+        curt = _num(d, "likesCount", "likeCount", "diggCount", "likes")
+        com = _num(d, "commentsCount", "replyCount", "commentCount", "comments")
+        views = _num(d, "videoViewCount", "videoPlayCount", "playCount", "viewCount", "views")
+        tipo = d.get("type") or d.get("mediaType") or ""
+        linhas.append(f"Post {i} ({tipo}) curtidas {curt}, comentarios {com}, views {views}: {texto}")
+        ranking.append((curt + 3 * com, i, _imagem(d)))
+    partes = []
+    for _, _, img in sorted(ranking, reverse=True)[:3]:  # imagens dos 3 que mais engajaram
+        if img:
+            try:
+                dados, ctype = baixar(img, limite=6 * 1024 * 1024)
+                if "image" in (ctype or "image/jpeg"):
+                    partes.append({"inline_data": {"mime_type": (ctype or "image/jpeg").split(";")[0], "data": base64.b64encode(dados).decode()}})
+            except Exception:
+                pass
+    extra = "Perfil: @%s (%s)\n" % (usuario, link) + "\n".join(linhas)
+    log(f"Perfil lido pela Apify: {rede} @{usuario} ({len(posts)} posts)")
+    return gemini(partes + [{"text": PEDIDO_PERFIL.format(rede=rede, n=len(linhas), obs=obs or "(nenhuma)", extra=extra)}])
 
 
 CRAWLERS = [{"User-Agent": "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"},
@@ -196,8 +305,14 @@ def baixar_video(link):
     return None
 
 
-def analisar(link, video, obs):
+def analisar(link, video, obs, estado=None):
     obs = obs or "(nenhuma)"
+    perfil = None if video else perfil_do_link(link)
+    if perfil:
+        if not APIFY:
+            return ("Link de PERFIL: precisa da Apify (Secret APIFY_TOKEN no passo de inspiracoes). "
+                    "Claude: conferir o robo.yml.")
+        return ler_perfil(perfil[0], perfil[1], link, obs, estado if estado is not None else {})
     if video and not video.lower().startswith("http") and not APP:
         return "Falta a Variable APPSHEET_APP para abrir o arquivo enviado pelo app."
     if video:
@@ -312,6 +427,8 @@ def main():
         if not (link or video or texto):
             continue
         prefixo = "v3|melhoria|" if eh_melhoria(l) else "v3|"
+        if APIFY and not video and perfil_do_link(link):  # perfil lido antes so pela bio: le de novo, agora com os posts
+            prefixo += "perfil|"
         chave = hashlib.md5((prefixo + link + "|" + video + "|" + texto).encode()).hexdigest()[:12]
         if chave not in feitos:
             novos.append((chave, l))
@@ -329,7 +446,7 @@ def main():
             if texto and not video and not link:
                 analise = gemini([{"text": _PED[0].format(obs=obs or "(nenhuma)", extra="Texto enviado pelo dono:\n" + texto)}])
             else:
-                analise = analisar(link, video, obs)
+                analise = analisar(link, video, obs, estado)
                 if texto:
                     analise += "\n\n**Texto colado pelo dono:** " + texto[:500]
         except Exception as e:
