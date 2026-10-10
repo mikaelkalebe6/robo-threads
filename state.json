@@ -26,9 +26,10 @@
    "16:58",
    "17:48",
    "19:25",
-   "20:07"
+   "20:07",
+   "20:51"
   ],
-  "respostas": 91,
+  "respostas": 96,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 14,
@@ -46,27 +47,10 @@
    "18099059360387148": 1,
    "18009434771778336": 1,
    "18632920237005051": 1,
-   "17904297183598082": 5
+   "17904297183598082": 10
   }
  },
  "posts": [
-  {
-   "id": "17927475519184610",
-   "insp": "c7f375102c",
-   "link": "",
-   "texto": "SEJAM SINCEROS: homem que cozinha bem ganha quantos pontos na paquera de 0 a 10",
-   "quando": "2026-10-04T20:37:08.010046-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1368,
-    "likes": 16,
-    "replies": 51,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-09"
-   }
-  },
   {
    "id": "18036205694903067",
    "insp": "7fff0e06da",
@@ -970,6 +954,14 @@
    "texto": "DÚVIDA SINCERA: no churrasco tem um detalhe que nunca pode faltar, nem que a carne esteja perfeita. Qual é? 🔥",
    "quando": "2026-10-09T20:07:10.474234-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18179925583431899",
+   "insp": "a0d83e5ad4",
+   "link": "",
+   "texto": "Quem mais aqui já caiu numa cantada tão tosca que funcionou só pela audácia. A verdade é que às vezes a gente facilita demais.",
+   "quando": "2026-10-09T21:07:08.476025-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -2282,7 +2274,12 @@
   "18175097698444567",
   "17963483463207605",
   "18100388207265622",
-  "18066577313788002"
+  "18066577313788002",
+  "17957195217252874",
+  "18120596485859754",
+  "17870857269646644",
+  "18096880985533050",
+  "18122610298901366"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2425,7 +2422,8 @@
   "951fe0d868338be0f3cfbef1d2512bfc",
   "54f50292890d72cfc9ad8b95617f3e2a",
   "730b6789af14cd15c42450aefa3bef59",
-  "08bbf20aaef98a13ea397d42847ea825"
+  "08bbf20aaef98a13ea397d42847ea825",
+  "462702bb356c7df254619fac4a893742"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2568,13 +2566,14 @@
   "6ab249fcf7": 1791580080.9198704,
   "ae0c3922a8": 1791583645.2915637,
   "239781c6f2": 1791589092.918579,
-  "42105a2390": 1791590842.082595
+  "42105a2390": 1791590842.082595,
+  "a0d83e5ad4": 1791594453.9146647
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-10-09",
   "27b9f3b3d9": 1,
-  "d37aff9cb6": 1,
+  "d37aff9cb6": 2,
   "09820c3fd8": 1,
   "e7102b50d0": 1,
   "1d06969815": 2,
@@ -2660,35 +2659,14 @@
   "8c51e5b3d5": 1,
   "0af94583c3": 1,
   "18ff0b4cbb": 1,
-  "7687545fe1": 1
+  "7687545fe1": 1,
+  "ba2ee04d5a": 1,
+  "e38324b350": 1,
+  "ce4ae6f4d4": 1,
+  "a967292c8e": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "lan house com cheiro de salgadinho e briga por causa de minutos era bom demais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tática de sobrevivência pura, anotei pra próxima",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "verdade, juntar a galera na chamada faz toda a diferença para dar risada junto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "piracicaba entra forte na disputa kkk",
-   "p": "discorda",
-   "r": 1
-  },
-  {
-   "t": "kkk pois é, coragem né",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "sessão por convite é a paz que a gente precisa para curtir o jogo",
    "p": "concorda",
@@ -2811,6 +2789,31 @@
   },
   {
    "t": "essa é a base de tudo, sem discussão",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "item obrigatório que some rápido da mesa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, sem ela vira almoço de domingo em família",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse é a alma da festa, sem ele a carne não tem nem graça kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pelo menos no final o vegano traz paz pra carne kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse aí carrega o evento inteiro nas costas",
    "p": "concorda",
    "r": 0
   }
@@ -3484,7 +3487,12 @@
    "sem ele a",
    "ai o churrasco",
    "base de qualquer",
-   "essa e a"
+   "essa e a",
+   "item obrigatorio que",
+   "verdade sem ela",
+   "esse e a",
+   "pelo menos no",
+   "esse ai carrega"
   ]
  },
  "shopee_checada": "2026-10-09|1",
