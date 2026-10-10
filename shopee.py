@@ -153,7 +153,11 @@ def escolher_produtos(s, cfg, log, hoje):
                 }
 
         lista = list(encontrados.values())
-        lista.sort(key=lambda x: (x["vendas"], x["comissao"]), reverse=True)
+        # ordem: comissao esperada por venda (preco x %) pesada pela procura (log das vendas)
+        import math
+        for x in lista:
+            x["nota_rank"] = round(x["preco"] * x["comissao"] * math.log10(x["vendas"] + 1), 3)
+        lista.sort(key=lambda x: x["nota_rank"], reverse=True)
         s["shopee_produtos"] = lista
         s["shopee_produtos_data"] = hoje
         return lista
