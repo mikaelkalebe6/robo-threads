@@ -29,20 +29,20 @@
    "17:57"
   ],
   "produtos_feitos": 2,
-  "respostas": 79,
+  "respostas": 82,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 11,
    "18030985622888288": 2,
-   "18015338645750822": 13,
+   "18015338645750822": 14,
    "17883591987689452": 8,
    "18124736575742625": 1,
    "17931200094409342": 8,
-   "18078986099393308": 14,
+   "18078986099393308": 15,
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3,
-   "17975559206935962": 14
+   "17975559206935962": 15
   }
  },
  "posts": [
@@ -2417,7 +2417,10 @@
   "17912272800498257",
   "18054099356804275",
   "18086746337287655",
-  "18077602019437966"
+  "18077602019437966",
+  "18633511894050462",
+  "17889360657653835",
+  "18342908944258299"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2772,7 +2775,7 @@
   "9727c7c6bf": 1,
   "3664af9c8c": 1,
   "69522376fd": 1,
-  "b52f047f80": 1,
+  "b52f047f80": 2,
   "3e346271a0": 1,
   "b7390aef96": 1,
   "48eab85c69": 1,
@@ -2794,25 +2797,12 @@
   "54f2158b3c": 1,
   "0176e962e1": 1,
   "ccb5e96f86": 1,
-  "1c6aa3cfe3": 1
+  "1c6aa3cfe3": 1,
+  "e937350d16": 1,
+  "e7102b50d0": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "emoção pura e o ponteiro rezando pra não zerar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "até parece plano perfeito mas a areia acha um jeito de entrar até na alma",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "quando a gente conhece a máquina o painel vira só enfeite",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "cada um escolhe o tipo de emoção que quer pro dia",
    "p": "ressalva",
@@ -2947,6 +2937,21 @@
    "t": "filtro de gasolina sofreu mas quem nunca kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse sedã italiano tem presença pesada demais, linha muito bem desenhada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "epoca em que esse valor ainda dava uma falsa sensacao de independencia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pura filosofia de vida arriscada, o extraordinário agradece o sufoco",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3556,7 +3561,6 @@
    "esse e o"
   ],
   "18015338645750822": [
-   "essa cor azul",
    "esse modelo marcou",
    "esse desenho divide",
    "verdade esse classico",
@@ -3575,7 +3579,8 @@
    "alfa 164 tem",
    "esse frances ai",
    "esse conversivel e",
-   "puma vermelho conversivel"
+   "puma vermelho conversivel",
+   "esse seda italiano"
   ],
   "18118295015072947": [
    "exato e o"
@@ -3646,7 +3651,8 @@
    "esse trecho ai",
    "matematica de alto",
    "paz de espirito",
-   "filtro de gasolina"
+   "filtro de gasolina",
+   "pura filosofia de"
   ],
   "18076654343444049": [
    "boa tarde tudo"
@@ -3670,7 +3676,8 @@
    "valor que hoje",
    "o salto quantico",
    "final dos anos",
-   "passar por isso"
+   "passar por isso",
+   "epoca em que"
   ]
  },
  "shopee_checada": "2026-10-10|1",
