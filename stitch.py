@@ -28,8 +28,13 @@ PROMPT_BASE = (
     "Create a single mobile screen that is ONLY one full-bleed photorealistic photograph, edge to edge, "
     "vertical 4:5 composition, natural light, real-life smartphone photo look, Brazilian everyday setting. "
     "Absolutely no UI elements, no text, no letters, no buttons, no navigation bar, no status bar, no logos, "
-    "no watermark, no frames. The whole screen is the photo. Keep the main subject in the upper two thirds; the bottom third "
-    "should be calm, simple and slightly dark (text will go there). Scene: ")
+    "no watermark, no frames. The whole screen is the photo. Scene: ")
+# onde o texto vai ficar no slide (layout + texto_pos do JSON): a foto deixa esse espaco livre, o resto e livre
+ESPACO_TEXTO = {
+    "baixo": " Composition: main subject in the upper two thirds; bottom third calm, simple and slightly dark.",
+    "topo": " Composition: main subject in the lower two thirds; top third calm, simple (sky, wall or blurred background).",
+    "split": " Composition: subject centered, filling the frame, nothing important near the edges.",
+}
 
 _log = {"rodada": time.strftime("%Y-%m-%d %H:%M:%S"), "eventos": []}
 _sessao = {"id": None, "n": 0}
@@ -191,9 +196,9 @@ def _melhor_imagem(res):
     return candidatos[0][1]
 
 
-def gerar(tools, pid, cena):
+def gerar(tools, pid, cena, espaco=""):
     nome_proj = _arg(tools, "generate_screen_from_text", ["projectId", "project_id", "project"])
-    args = {nome_proj: pid, "prompt": PROMPT_BASE + cena}
+    args = {nome_proj: pid, "prompt": PROMPT_BASE + cena + espaco}
     props = ((tools.get("generate_screen_from_text") or {}).get("inputSchema") or {}).get("properties") or {}
     if "deviceType" in props:
         args["deviceType"] = _enum(tools, "generate_screen_from_text", "deviceType", "MOBILE")
@@ -264,7 +269,9 @@ def processar_fila(tools, pid):
                 registrar("Limite de imagens por rodada atingido; o resto fica para a proxima.")
                 break
             try:
-                img = gerar(tools, pid, sl["imagem_ia"])
+                espaco = ESPACO_TEXTO["split"] if sl.get("layout") == "split" else (
+                    ESPACO_TEXTO.get(sl.get("texto_pos", "baixo"), "") if sl.get("layout") == "fundo" else "")
+                img = gerar(tools, pid, sl["imagem_ia"], espaco)
                 if not img:
                     raise RuntimeError("Stitch nao devolveu imagem")
                 jpg, tam = cortar(img)

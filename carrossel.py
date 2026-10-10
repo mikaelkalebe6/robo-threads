@@ -113,7 +113,7 @@ def _rodape(d, ImageFont, n, total, capa, cinza, destaque, sobre_foto=False):
         d.text((W - m - d.textlength("arrasta  >", font=pequena), H - 190), "arrasta  >", font=pequena, fill=destaque)
 
 
-def desenhar(texto, n, total, rotulo="", foto=None, tema="e", layout="", imagem=None, selo=""):
+def desenhar(texto, n, total, rotulo="", foto=None, tema="e", layout="", imagem=None, selo="", texto_pos="baixo"):
     """PNG (bytes) de um slide 1080x1350. n=1 e a capa (fonte maior e 'arrasta').
     layout (escolhido pelo Claude no JSON; vazio = cartao antigo):
       - "fundo":   imagem ocupando o slide inteiro, degradê escuro embaixo e o texto por cima (para o dedo).
@@ -135,10 +135,16 @@ def desenhar(texto, n, total, rotulo="", foto=None, tema="e", layout="", imagem=
         layout = ""  # sem imagem cai no cartao antigo (nunca quebra)
 
     if layout == "fundo":
+        # texto_pos (escolhido por slide no JSON): "baixo" (padrao) ou "topo", conforme onde a foto tem espaco livre
+        topo_txt = texto_pos == "topo"
         im = _cobrir(Image, img, W, H)
         sombra = Image.new("L", (1, H))
-        for yy in range(H):  # degradê: transparente em cima, escuro do meio para baixo
-            sombra.putpixel((0, yy), int(max(0, min(1, (yy - H * 0.30) / (H * 0.55))) ** 1.3 * 235))
+        for yy in range(H):  # degradê escuro so do lado do texto
+            yv = (H - yy) if topo_txt else yy
+            v = int(max(0, min(1, (yv - H * 0.30) / (H * 0.55))) ** 1.3 * 235)
+            if topo_txt:  # faixa escura leve no rodape para o @ e o "arrasta" continuarem legiveis
+                v = max(v, int(max(0, min(1, (yy - (H - 300)) / 220)) * 190))
+            sombra.putpixel((0, yy), v)
         preto = Image.new("RGB", (W, H), (8, 8, 10))
         im = Image.composite(preto, im, sombra.resize((W, H)))
         d = ImageDraw.Draw(im)
@@ -146,12 +152,12 @@ def desenhar(texto, n, total, rotulo="", foto=None, tema="e", layout="", imagem=
         f = _fonte(ImageFont, "InterDisplay-ExtraBold.otf" if capa else "InterDisplay-Bold.otf", tam)
         linhas = _quebrar(d, texto, f, W - 2 * m)
         altura = int(tam * 1.18)
-        y = H - 230 - altura * len(linhas)
+        y = (170 if rotulo else 110) if topo_txt else H - 230 - altura * len(linhas)
         if rotulo:
             d.text((m, y - 70), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 34), fill=DESTAQUE)
         _texto_destacado(d, linhas, f, m, y, altura, (250, 250, 246), DESTAQUE, sombra=(0, 0, 0))
         if selo:
-            _selo(d, ImageFont, selo, m, 90, DESTAQUE, (15, 15, 15))
+            _selo(d, ImageFont, selo, m, H - 330 if topo_txt else 90, DESTAQUE, (15, 15, 15))
         _rodape(d, ImageFont, n, total, capa, CINZA, DESTAQUE, sobre_foto=True)
     elif layout == "split":
         im = Image.new("RGB", (W, H), FUNDO)
@@ -300,7 +306,8 @@ def preparar(car, prod):
         elif sl.get("layout") in ("fundo", "split", "produto"):
             img = _imagem_do_slide(sl, prod)
             png = desenhar(sl.get("texto", ""), i, len(slides), sl.get("rotulo", ""), None, tema,
-                           layout=sl["layout"], imagem=img, selo=sl.get("selo", ""))
+                           layout=sl["layout"], imagem=img, selo=sl.get("selo", ""),
+                           texto_pos=sl.get("texto_pos", "baixo"))
             urls.append(hospedar(f"car/{car['id']}-{visual}-s{i}.png", png))
         else:
             foto = None
