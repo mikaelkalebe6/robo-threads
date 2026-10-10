@@ -20,38 +20,22 @@
    "20:45"
   ],
   "feitos": [
-   "08:47"
+   "08:47",
+   "09:52"
   ],
-  "produtos_feitos": 0,
-  "respostas": 24,
+  "produtos_feitos": 1,
+  "respostas": 28,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 6,
    "18030985622888288": 2,
-   "18015338645750822": 5,
-   "17883591987689452": 5,
+   "18015338645750822": 6,
+   "17883591987689452": 6,
    "18124736575742625": 1,
-   "17931200094409342": 2
+   "17931200094409342": 4
   }
  },
  "posts": [
-  {
-   "id": "18089275931235702",
-   "insp": "7e797582de",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a programação infantil de antigamente era bem mais caótica do que a gente lembra ou é só nostalgia pura? Minha memória diz que era ótimo mas reassistir hoje em dia dá um pouco de medo",
-   "quando": "2026-10-05T12:07:12.437095-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 506,
-    "likes": 7,
-    "replies": 11,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-10"
-   }
-  },
   {
    "id": "18116788114783020",
    "insp": "de9bf80054",
@@ -1045,6 +1029,20 @@
    "texto": "Praia dá muito mais trabalho do que descanso. Areia em tudo, muvuca, vento na cara... Troco fácil por uma cachoeira no meio do mato sem pensar duas vezes.",
    "quando": "2026-10-10T09:07:10.034169-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18076654343444049",
+   "insp": "car_car-20261010-1",
+   "link": "",
+   "texto": "Você não erra o ponto da carne. Você erra *a faca.*",
+   "quando": "2026-10-10T10:07:08.825630-04:00",
+   "ia": "carrossel",
+   "estrategia": "carrossel",
+   "formato": "carrossel",
+   "formato_link": "comentfoto",
+   "produto": "58261620022",
+   "modelo": "dor-virada-produto",
+   "visual": "vm"
   }
  ],
  "respondidos": [
@@ -2391,7 +2389,11 @@
   "17913727278533125",
   "17962349898212456",
   "18414523123089115",
-  "18177643666452656"
+  "18177643666452656",
+  "18635760046030933",
+  "18119856649988920",
+  "18117306040957746",
+  "18145254373589694"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2707,30 +2709,14 @@
   "e5341fc0dc": 1,
   "78c9177f9b": 1,
   "df48f07a4e": 1,
-  "791c42e396": 1
+  "791c42e396": 1,
+  "d4a11b306e": 1,
+  "70bd8a2afd": 1,
+  "34a50b381c": 1,
+  "84a30b687d": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos no final o vegano traz paz pra carne kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse aí carrega o evento inteiro nas costas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesado mas pior que é bem por aí mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "som bom transforma qualquer tarde em festa",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "inovou total no cardápio kkkk",
    "p": "ressalva",
@@ -2860,6 +2846,26 @@
    "t": "responsavel oficial por fazer tudo dar certo na brasa",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "ótimo dia por aqui também, bom descanso",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "aperol com ar condicionado e mar de fundo é outro nível mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "karmann ghia tem curvas que parecem obra de arte mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "filtro de resistencia pesado kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -2907,6 +2913,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-09T22:37:10.488190-04:00"
+  },
+  "18122929747898675": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-10T10:07:08.825630-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -3470,7 +3481,6 @@
    "ai ja passou"
   ],
   "17883591987689452": [
-   "justo querer comer",
    "dividir a conta",
    "certeza zero drama",
    "verdade barzinho simples",
@@ -3489,7 +3499,8 @@
    "parece obvio para",
    "quando o lugar",
    "teste pratico definitivo",
-   "autenticidade em primeiro"
+   "autenticidade em primeiro",
+   "filtro de resistencia"
   ],
   "18133563994591000": [
    "poder ate podia",
@@ -3499,7 +3510,6 @@
    "sete anos de"
   ],
   "18015338645750822": [
-   "essa fase ai",
    "essa fase da",
    "duas escolhas com",
    "ate o telhado",
@@ -3518,7 +3528,8 @@
    "aerodinamica impecavel esse",
    "trabalho manual exigia",
    "monza hatch tem",
-   "lista pesada mustang"
+   "lista pesada mustang",
+   "karmann ghia tem"
   ],
   "18118295015072947": [
    "exato e o"
@@ -3566,7 +3577,9 @@
   ],
   "17931200094409342": [
    "justo manutencao de",
-   "para garantir o"
+   "para garantir o",
+   "otimo dia por",
+   "aperol com ar"
   ]
  },
  "shopee_checada": "2026-10-10|1",
@@ -3862,7 +3875,8 @@
  ],
  "shopee_produtos_data": "2026-10-09",
  "shopee_usados": {
-  "29588922747": "2026-10-09T22:37:10.488190-04:00"
+  "29588922747": "2026-10-09T22:37:10.488190-04:00",
+  "58261620022": "2026-10-10T10:07:08.825630-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -3873,5 +3887,8 @@
  "meme_links_dia": {
   "data": "2026-10-10",
   "qtd": 0
- }
+ },
+ "carrosseis_usados": [
+  "car-20261010-1"
+ ]
 }

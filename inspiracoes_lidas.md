@@ -1,5 +1,13 @@
 # Inspiracoes lidas pelo Gemini (mais novas primeiro)
 
+## 10/10/2026 | https://www.instagram.com/p/DbodAhRjx3Z/?srtk=MW13emhicWJudnZxag==
+**Tipo:** Foto com chamada para acao | **Idioma original:** Portugues
+**Transcricao/Conteudo:** O post convida o usuario a comentar a palavra CARROSSEL para receber um prompt pronto para o Claude criar um carrossel inteiro.
+**Gancho:** Comenta CARROSSEL que eu te mando esse prompt pronto no seu DIRECT.
+**Estrutura:** Chamada direta com instrucao clara e beneficio imediato.
+**Por que funciona:** Gera engajamento automatico no perfil oferecendo uma ferramenta util em troca de um comentario simples.
+**3 ganchos para o perfil:** Comenta GUIA que te mando o passo a passo completo no seu direct. Digita ABAIXO a palavra ROTEIRO para receber a estrutura pronta. Quer o modelo secreto? Comenta TEXTO que eu te envio agora.
+
 ## 10/10/2026 | https://www.instagram.com/p/DXZKcP2ja7R/?img_index=2&vrfl=MWswZmw2enY3NHlpOA==
 **Tipo:** Carrossel | **Idioma original:** Português do Brasil
 
@@ -21,6 +29,7 @@ Imagem 6: Salva. Usa no próximo. Qual é o tema do seu próximo Reels? Comenta 
 1. Se o seu vídeo empaca em cem visualizações, o erro aconteceu antes mesmo de você ligar a câmera.
 2. Pare de perder horas editando Reels que ninguém assiste até o final.
 3. Este único prompt de inteligência artificial vai resolver seus problemas de criatividade para sempre.
+
 
 ## 10/10/2026 | https://www.instagram.com/p/Dcwxi1sFZ0b/?dlrf=MXJuNWhtYXlieHo0bw==
 **Tipo:** Carrossel | **Idioma original:** Português do Brasil
@@ -48,6 +57,7 @@ Imagem 10: COMENTA ARSENAL QUE EU MANDO TUDO.
 2. O problema do seu site feito por inteligência artificial não é o modelo, é a falta de direção estética.
 3. Descubrei como transformar qualquer IA em um diretor de arte sênior em menos de trinta segundos.
 
+
 ## 10/10/2026 | https://www.instagram.com/p/DaGsTb8k5U4/?psln=ZWxnbTFjNWhmNnhw
 **Tipo:** Carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:** 
@@ -63,6 +73,7 @@ Imagem 5: COMPARTILHE COM AQUELE AMIGO ADVOGADO QUE PRECISA SABER DISSO.
 O segredo que os profissionais mais produtivos escondem sobre o uso de IA.
 Pare de usar inteligência artificial apenas para o básico e comece a delegar o trabalho pesado.
 Seis comandos simples que resolvem as tarefas mais chatas do seu dia em segundos.
+
 
 ## 10/10/2026 | https://www.instagram.com/p/DYUzwlokWpa/?rpxt=MW1ndXQ4YzM2bG9hbw==
 **Tipo:** Carrossel | **Idioma original:** Português do Brasil
@@ -86,6 +97,7 @@ Imagem 6: Claude para Social Media Quer saber como acessar todas as skills e apr
 2. O segredo que os maiores criadores usam para automatizar a rotina de social media em segundos.
 3. Se você ainda perde horas criando conteúdos do zero, precisa conhecer esse atalho definitivo agora mesmo.
 
+
 ## 10/10/2026 | https://www.instagram.com/p/DW4UmBfEXBa/?dlrf=MXJraDkycHZkaWZ1ZQ==
 **Tipo:** carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:**
@@ -104,6 +116,7 @@ Pare de gastar horas no Canva enquanto a inteligência artificial faz seu carros
 Seu fluxo de criação de conteúdo está totalmente ultrapassado e eu posso provar.
 Crie um carrossel profissional inteiro usando apenas um comando de texto.
 
+
 ## 10/10/2026 | https://www.instagram.com/p/DavW9wmkSOE/?srtk=MTBvNTYxNXo0bnprcg==
 **Tipo:** carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:** 
@@ -121,6 +134,7 @@ Imagem 7: Existe um prompt que ensina o Claude a trabalhar exatamente do seu jei
 1. Pare de perder horas criando carrosséis do zero quando você pode automatizar o processo com inteligência artificial.
 2. O método exato que uso para produzir carrosséis profissionais em menos de cinco minutos usando o Claude.
 3. Se você acha que criar conteúdo é demorado, você ainda não testou essa integração secreta entre Canva e Claude.
+
 
 ## 10/10/2026 | https://www.instagram.com/p/DbhTOdIFwoT/?img_index=4&obrf=bW9pcG1uYTFzM3Y=
 **Tipo:** Carrossel | **Idioma original:** Português do Brasil
@@ -146,6 +160,7 @@ Imagem 8: Quer a fábrica já montada? O meu sistema já vem com a linha de prod
 2. Existe um jeito de fazer a inteligência artificial trabalhar exatamente como você.
 3. Se você ainda digita prompt gigante para criar posts, você está fazendo errado.
 
+
 ## 10/10/2026 | https://www.instagram.com/p/DcBQ9SjkYwc/?srtk=czdjdzVvdHhjc2o2
 **Tipo:** Carrossel | **Idioma original:** Português do Brasil
 
@@ -170,6 +185,7 @@ Imagem 8: Quer ver o processo completo? Eu gravei um vídeo no YouTube mostrando
 2. O erro que você comete no segundo slide está matando o alcance dos seus carrosséis.
 3. Como estruturar um carrossel do zero usando IA sem parecer um robô genérico.
 
+
 ## 10/10/2026 | https://www.instagram.com/p/DZavVUFkTiM/?mdxt=MmYzdGQ4cmxuaHR3
 **Tipo:** Carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:** 
@@ -191,6 +207,7 @@ Imagem 10: Aula Gratuita 20/06 - 10 06 2026 - Seu conteúdo no piloto automátic
 2. Por que programadores sofrem mais tentando fazer marketing do que codando sistemas complexos?
 3. Deixei de perder horas com design de carrossel e deixei a IA assumir o meu perfil.
 
+
 ## 10/10/2026 | https://www.instagram.com/p/DeQEufuFEV8/?img_index=2&srtk=MThreDBxNHpkanh4NQ==
 **Tipo:** carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:** O post ensina como usar o Claude para criar motion graphics, apontando que o resultado é uma página animada sem botão de exportar, e entrega os prompts completos e métodos de conversão em vídeo mediante comentário.
@@ -201,6 +218,7 @@ Imagem 10: Aula Gratuita 20/06 - 10 06 2026 - Seu conteúdo no piloto automátic
 Quer criar animações profissionais usando inteligência artificial sem saber programar?
 O segredo que ninguém te conta sobre gerar vídeos usando o Claude.
 Como transformar código do Claude em vídeos prontos para postar.
+
 
 ## 10/10/2026 | https://www.instagram.com/p/DWZa04oCbus/?vrfl=MWRmeTFyNDF2c2U0Nw==
 **Tipo:** carrossel | **Idioma original:** Português do Brasil
@@ -225,6 +243,7 @@ Imagem 7: Comente BASTIDOR aqui nos comentários. Eu te mando a instrução comp
 2. Como eu criei um comando secreto no Claude que faz todo o trabalho pesado para mim.
 3. Pare de perder tempo: veja como automatizar a criação de carrosséis com IA em minutos.
 
+
 ## 10/10/2026 | https://www.instagram.com/p/DXVUQ01jZe6/?obrf=NTZ3bGQxZ2NlNnNv
 **Tipo:** carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:** 
@@ -243,6 +262,7 @@ Imagem 7: AGORA É SUA VEZ: QUER CRIAR CARROSSÉIS ASSIM? PARA RECEBER O GUIA: c
 2. A inteligência artificial que desenha seus posts enquanto você toma café.
 3. Se você ainda faz carrossel slide por slide, você está trabalhando dobrado à toa.
 
+
 ## 09/10/2026 | https://www.threads.com/share/_yIvx57zi/
 **Tipo:** Texto | **Idioma original:** Português
 **Transcricao/Conteudo:** O post questiona a decisão do Orkut de usar uma petição pública para medir o interesse do público antes de retornar, apontando isso como uma jogada estratégica de marketing.
@@ -256,6 +276,7 @@ Imagem 7: AGORA É SUA VEZ: QUER CRIAR CARROSSÉIS ASSIM? PARA RECEBER O GUIA: c
 
 
 
+
 ## 10/10/2026 | https://www.instagram.com/reel/DaxcJRIozQq/?vrfl=MTh2NmZuN2FrcmZlZA==
 **Tipo:** vídeo | **Idioma original:** coreano
 **Transcrição/Conteúdo:** Compilação rápida de pratos fartos de carne grelhada empilhada sobre tigelas de arroz com molho sendo derramado por cima, seguida por pratos chegando em um sistema de esteira de trem em um restaurante, tigelas de sopa de macarrão, sorvetes e copos de bebidas geladas.
@@ -266,6 +287,7 @@ Imagem 7: AGORA É SUA VEZ: QUER CRIAR CARROSSÉIS ASSIM? PARA RECEBER O GUIA: c
 Quem aceitaria o desafio de comer essa torre de carne sozinha?
 Marque aquele amigo que comeria essa montanha de carne em cinco minutos.
 Isso aqui não é almoço, é um evento histórico.
+
 
 
 
@@ -288,6 +310,7 @@ Imagem 6: Quer receber um PDF com esse comando para testar aí? Comenta sua comi
 
 
 
+
 ## 08/10/2026 | https://www.threads.com/share/BAZMb0Q3u1/
 **Tipo:** Texto | **Idioma original:** Português
 **Transcricao/Conteudo:** Desejo bem-humorado de encontrar um namorado asiático.
@@ -298,6 +321,7 @@ Imagem 6: Quer receber um PDF com esse comando para testar aí? Comenta sua comi
 - Alguém me explica por que todo mundo quer um namorado otaku?
 - Onde é que faz o cadastro para encomendar um crush internacional?
 - Confesso que meu padrão amoroso ficou impossível depois dos doramas.
+
 
 
 
@@ -320,6 +344,7 @@ Imagem 6: Quer receber um PDF com esse comando para testar aí? Comenta sua comi
 
 
 
+
 ## 02/10/2026 | https://www.instagram.com/p/Dd7bcDgTT0y/?stkn=MWVrZHJvM3RzMnV0YQ==
 **Tipo:** foto | **Idioma original:** Português
 **Transcricao/Conteudo:** Pergunta bem-humorada sobre o que pessoas sem filhos fazem no horário de pico do final da tarde, sugerindo que a rotina delas parece férias.
@@ -330,6 +355,7 @@ Imagem 6: Quer receber um PDF com esse comando para testar aí? Comenta sua comi
 1. A rotina de quem não tem filhos deveria virar atração turística.
 2. Confesse: quem não tem filhos já jantou e está dormindo agora, né?
 3. O nível de silêncio na casa de quem não tem pets ou filhos às 20h é chocante.
+
 
 
 
@@ -368,6 +394,7 @@ Imagem 6: Quer receber um PDF com esse comando para testar aí? Comenta sua comi
 
 
 
+
 ## 28/09/2026 | https://www.threads.com/share/BAEQlI9LD4/
 **Tipo:** Texto | **Idioma original:** Português
 **Transcricao/Conteudo:** Reclamação bem-humorada sobre o feed cheio de homens bonitos e um pedido cômico para o algoritmo mostrar homens feios.
@@ -378,6 +405,7 @@ Imagem 6: Quer receber um PDF com esse comando para testar aí? Comenta sua comi
 1. Cansada de conselhos amorosos sensatos nesse threads!
 2. Algoritmo, por favor, me entregue apenas ex-namorados problemáticos hoje.
 3. Chega de produtividade por aqui, me traga motivos para procrastinar.
+
 
 
 
@@ -443,6 +471,7 @@ Imagem 6: Quer receber um PDF com esse comando para testar aí? Comenta sua comi
 
 
 
+
 ## 28/09/2026 | https://www.instagram.com/reel/DdC8gy_RFrB/?stkn=MXRiNXl1aHZmaGF3cQ==
 **Tipo:** video | **Idioma original:** Portugues do Brasil
 **Transcricao/Conteudo:** Conectei o Claude no WhatsApp e vou te ensinar. Tem gente pedindo isso, entao sem enrolacao. Vão no GitHub e pesquisem OpenWA, que tem mais de 13 mil estrelas. Baixem ele. E um gateway de API gratuito do WhatsApp e open-source, voce roda localmente no seu computador sem pagar hospedagem. Comandos no terminal para instalar, start e API rodando localmente. Abra no navegador, coloque a chave API, crie sessao e escaneie o QR code do seu WhatsApp. Pronto, o Claude esta conectado no seu WhatsApp. Voce pode criar webhooks para automacao. Pedi para ele puxar quantas pessoas mandaram mensagem procurando mentoria ou curso, ele puxou o historico e quis disparar as mensagens. Tem risco de cair a conta por ser API nao oficial, entao use com sabedoria. Comente WPP que te mando o link.
@@ -476,6 +505,7 @@ Imagem 6: Quer receber um PDF com esse comando para testar aí? Comenta sua comi
 
 
 
+
 ## 28/09/2026 | https://www.instagram.com/p/Dd1gcz1u8aE/?stkn=emF6b3FwdThpcWd4
 **Tipo:** Foto | **Idioma original:** Português
 **Transcricao/Conteudo:** Placa humorística em um corredor de loja mostrando um cabo elétrico com dois plugues machos nas pontas (o infame "cabo suicida"), com o texto dizendo que o produto não existe, não é vendido, não pode ser encontrado e que seu uso é fortemente desaconselhado.
@@ -486,6 +516,7 @@ Imagem 6: Quer receber um PDF com esse comando para testar aí? Comenta sua comi
 1. Todo mundo já tentou resolver um problema do jeito mais errado possível pelo menos uma vez.
 2. Aquele produto que parece ótimo na teoria mas é um desastre na prática.
 3. Se a lógica falhou, a culpa é de quem inventou essa gambiarra.
+
 
 
 
@@ -550,6 +581,7 @@ Imagem 6: Quer receber um PDF com esse comando para testar aí? Comenta sua comi
 
 
 
+
 ## 28/09/2026 | https://vt.tiktok.com/ZSbMkf6a3/
 **Tipo:** foto | **Idioma original:** Português
 **Transcricao/Conteudo:** Parece loucura, mas quando você ACREDITA que nasceu para ter as melhores coisas da vida, as melhores coisas encontrarão caminho até você.
@@ -560,6 +592,7 @@ Imagem 6: Quer receber um PDF com esse comando para testar aí? Comenta sua comi
 1. Acreditar nisso mudou totalmente a forma como eu vivo meus dias.
 2. Tem dias que a gente só precisa lembrar de quem a gente nasceu para ser.
 3. Se você ainda duvida do seu potencial, leia isso até entender.
+
 
 
 
@@ -605,6 +638,7 @@ Imagem 10: "Att, Osvaldo." Semestre que vem a turma vai pro 8º periodo e já av
 Já aconteceu de você entrar em um lugar por engano e acabar virando a atração principal?
 Tem gente que tenta se encaixar em grupos novos e tem o Seu Osvaldo que simplesmente virou a lenda da faculdade.
 O que você faria se caísse em um grupo de WhatsApp de uma turma totalmente aleatória?
+
 
 
 
@@ -683,6 +717,7 @@ Imagem 6: Vai por mim, essa página não vai aparecer pra você de novo, então 
 
 
 
+
 ## 27/09/2026 | https://www.threads.com/share/BAWxZQiG8k/
 **Tipo:** Foto com texto | **Idioma original:** Português
 
@@ -698,6 +733,7 @@ Imagem 6: Vai por mim, essa página não vai aparecer pra você de novo, então 
 1. Alguém me avisa se ainda vale a pena se apaixonar hoje em dia ou se é puro golpe?
 2. Acho que caí na besteira de me apegar, qual é a primeira coisa que eu deveria fazer?
 3. Qual é a regra de ouro que vocês nunca quebram quando começam a gostar de alguém?
+
 
 
 
