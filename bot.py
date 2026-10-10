@@ -1245,6 +1245,13 @@ def proximo_carrossel(s):
         if cid in usados or not c.get("aprovado") or not 3 <= len(slides) <= 5 \
                 or not all(x.get("url") or x.get("texto") or x.get("foto_produto") for x in slides):
             continue
+        try:
+            import carrossel
+            if not carrossel.pronto(c):  # imagem de IA ainda sendo gerada (no maximo 36 h de espera)
+                log(f"Carrossel {cid}: esperando as imagens de IA.")
+                continue
+        except Exception:
+            pass
         c["id"] = cid
         return c
     return None

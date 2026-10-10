@@ -69,50 +69,156 @@ def baixar_foto(url):
         return r.read()
 
 
-def desenhar(texto, n, total, rotulo="", foto=None, tema="e"):
-    """PNG (bytes) de um slide. n=1 e a capa (fonte maior e 'arrasta'). foto = bytes da imagem do produto
-    (fica num cartao claro na parte de cima e o texto desce)."""
-    Image, ImageDraw, ImageFont = _pil()
-    FUNDO, TEXTO, DESTAQUE, CINZA = TEMAS.get(tema, TEMAS["e"])
-    capa = n == 1
-    im = Image.new("RGB", (W, H), FUNDO)
-    d = ImageDraw.Draw(im)
-    tam = 92 if capa else 64
-    f = _fonte(ImageFont, "InterDisplay-ExtraBold.otf" if capa else "InterDisplay-Bold.otf", tam)
-    pequena = _fonte(ImageFont, "InterDisplay-Bold.otf", 32)
-    m = 96
-    topo = 0
-    if foto:
-        tam = 80 if capa else 56
-        f = _fonte(ImageFont, "InterDisplay-ExtraBold.otf" if capa else "InterDisplay-Bold.otf", tam)
-        img = Image.open(io.BytesIO(foto)).convert("RGB")
-        caixa = (W - 2 * m, 600)
-        img.thumbnail((caixa[0] - 60, caixa[1] - 60))
-        d.rounded_rectangle([m, 90, W - m, 90 + caixa[1]], radius=36, fill=(250, 250, 248))
-        im.paste(img, (m + (caixa[0] - img.width) // 2, 90 + (caixa[1] - img.height) // 2))
-        topo = 90 + caixa[1]
-    linhas = _quebrar(d, texto, f, W - 2 * m)
-    altura = int(tam * 1.22)
-    if foto:
-        y = topo + 150
-    else:
-        y = (H - altura * len(linhas)) // 2 - (40 if capa else 0)
-    if rotulo:
-        d.text((m, y - 110), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 34), fill=DESTAQUE)
+def _cobrir(Image, img, w, h, subir=3):
+    """Recorta a imagem para preencher w x h sem distorcer (corte no centro, um pouco para cima)."""
+    iw, ih = img.size
+    esc = max(w / iw, h / ih)
+    img = img.resize((max(w, int(iw * esc + 0.5)), max(h, int(ih * esc + 0.5))))
+    x = (img.width - w) // 2
+    y = max(0, (img.height - h) // subir)
+    return img.crop((x, y, x + w, y + h))
+
+
+def _texto_destacado(d, linhas, f, x0, y, altura, cor, destaque, sombra=None):
     for linha in linhas:
-        x, ligado = m, False
+        x, ligado = x0, False
         for parte in linha.split("*"):
             if parte:
-                d.text((x, y), parte, font=f, fill=DESTAQUE if ligado else TEXTO)
+                if sombra:
+                    d.text((x + 3, y + 3), parte, font=f, fill=sombra)
+                d.text((x, y), parte, font=f, fill=destaque if ligado else cor)
                 x += d.textlength(parte, font=f)
             ligado = not ligado
         y += altura
-    d.rectangle([m, H - 150, m + 90, H - 142], fill=DESTAQUE)
-    d.text((m, H - 120), PERFIL, font=pequena, fill=CINZA)
+    return y
+
+
+def _selo(d, ImageFont, texto, x, y, fundo, cor):
+    """Etiqueta curta (preco, nota, vendidos) em formato de pilula."""
+    f = _fonte(ImageFont, "InterDisplay-ExtraBold.otf", 40)
+    larg = int(d.textlength(texto, font=f)) + 56
+    d.rounded_rectangle([x, y, x + larg, y + 72], radius=36, fill=fundo)
+    d.text((x + 28, y + 12), texto, font=f, fill=cor)
+
+
+def _rodape(d, ImageFont, n, total, capa, cinza, destaque, sobre_foto=False):
+    m = 96
+    pequena = _fonte(ImageFont, "InterDisplay-Bold.otf", 32)
+    cor = (235, 235, 230) if sobre_foto else cinza
+    d.rectangle([m, H - 150, m + 90, H - 142], fill=destaque)
+    d.text((m, H - 120), PERFIL, font=pequena, fill=cor)
     cont = f"{n}/{total}"
-    d.text((W - m - d.textlength(cont, font=pequena), H - 120), cont, font=pequena, fill=CINZA)
+    d.text((W - m - d.textlength(cont, font=pequena), H - 120), cont, font=pequena, fill=cor)
     if capa:
-        d.text((W - m - d.textlength("arrasta  >", font=pequena), H - 190), "arrasta  >", font=pequena, fill=DESTAQUE)
+        d.text((W - m - d.textlength("arrasta  >", font=pequena), H - 190), "arrasta  >", font=pequena, fill=destaque)
+
+
+def desenhar(texto, n, total, rotulo="", foto=None, tema="e", layout="", imagem=None, selo=""):
+    """PNG (bytes) de um slide 1080x1350. n=1 e a capa (fonte maior e 'arrasta').
+    layout (escolhido pelo Claude no JSON; vazio = cartao antigo):
+      - "fundo":   imagem ocupando o slide inteiro, degradê escuro embaixo e o texto por cima (para o dedo).
+      - "split":   imagem grande na metade de cima (sangrando nas bordas) e texto embaixo.
+      - "produto": foto do produto grande e limpa, como vitrine, com titulo curto em cima e selo (preco/nota).
+      - "" ou "card": foto pequena num cartao claro (visual de 10/10) ou so texto.
+    imagem = bytes da cena (IA ou foto do produto); foto = bytes da foto do produto no layout antigo."""
+    Image, ImageDraw, ImageFont = _pil()
+    FUNDO, TEXTO, DESTAQUE, CINZA = TEMAS.get(tema, TEMAS["e"])
+    capa = n == 1
+    m = 96
+    img = None
+    if imagem:
+        try:
+            img = Image.open(io.BytesIO(imagem)).convert("RGB")
+        except Exception:
+            img = None
+    if layout in ("fundo", "split", "produto") and img is None:
+        layout = ""  # sem imagem cai no cartao antigo (nunca quebra)
+
+    if layout == "fundo":
+        im = _cobrir(Image, img, W, H)
+        sombra = Image.new("L", (1, H))
+        for yy in range(H):  # degradê: transparente em cima, escuro do meio para baixo
+            sombra.putpixel((0, yy), int(max(0, min(1, (yy - H * 0.30) / (H * 0.55))) ** 1.3 * 235))
+        preto = Image.new("RGB", (W, H), (8, 8, 10))
+        im = Image.composite(preto, im, sombra.resize((W, H)))
+        d = ImageDraw.Draw(im)
+        tam = 88 if capa else 62
+        f = _fonte(ImageFont, "InterDisplay-ExtraBold.otf" if capa else "InterDisplay-Bold.otf", tam)
+        linhas = _quebrar(d, texto, f, W - 2 * m)
+        altura = int(tam * 1.18)
+        y = H - 230 - altura * len(linhas)
+        if rotulo:
+            d.text((m, y - 70), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 34), fill=DESTAQUE)
+        _texto_destacado(d, linhas, f, m, y, altura, (250, 250, 246), DESTAQUE, sombra=(0, 0, 0))
+        if selo:
+            _selo(d, ImageFont, selo, m, 90, DESTAQUE, (15, 15, 15))
+        _rodape(d, ImageFont, n, total, capa, CINZA, DESTAQUE, sobre_foto=True)
+    elif layout == "split":
+        im = Image.new("RGB", (W, H), FUNDO)
+        alto = 760
+        im.paste(_cobrir(Image, img, W, alto), (0, 0))
+        d = ImageDraw.Draw(im)
+        tam = 76 if capa else 56
+        f = _fonte(ImageFont, "InterDisplay-ExtraBold.otf" if capa else "InterDisplay-Bold.otf", tam)
+        linhas = _quebrar(d, texto, f, W - 2 * m)
+        altura = int(tam * 1.2)
+        y = alto + 70
+        if rotulo:
+            d.text((m, y), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 32), fill=DESTAQUE)
+            y += 60
+        _texto_destacado(d, linhas, f, m, y, altura, TEXTO, DESTAQUE)
+        if selo:
+            _selo(d, ImageFont, selo, m, alto - 110, DESTAQUE, (15, 15, 15))
+        _rodape(d, ImageFont, n, total, capa, CINZA, DESTAQUE)
+    elif layout == "produto":
+        im = Image.new("RGB", (W, H), (255, 255, 255))  # branco: funde com o fundo das fotos da Shopee
+        d = ImageDraw.Draw(im)
+        tam = 70 if capa else 58
+        f = _fonte(ImageFont, "InterDisplay-ExtraBold.otf", tam)
+        linhas = _quebrar(d, texto, f, W - 2 * m)[:3]
+        altura = int(tam * 1.18)
+        y = 110
+        if rotulo:
+            d.text((m, y), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 32), fill=DESTAQUE if tema != "c" else (214, 90, 30))
+            y += 58
+        y = _texto_destacado(d, linhas, f, m, y, altura, (22, 22, 24), (214, 90, 30) if tema in ("c", "a") else DESTAQUE)
+        caixa_topo = y + 40
+        caixa_alt = H - 220 - caixa_topo
+        foto = img.copy()
+        foto.thumbnail((W - 2 * m, caixa_alt))
+        d.ellipse([W // 2 - 380, caixa_topo + caixa_alt - 70, W // 2 + 380, caixa_topo + caixa_alt + 10], fill=(238, 238, 234))
+        im.paste(foto, ((W - foto.width) // 2, caixa_topo + (caixa_alt - foto.height) // 2))
+        if selo:
+            _selo(d, ImageFont, selo, W - m - 20 - int(d.textlength(selo, font=_fonte(ImageFont, "InterDisplay-ExtraBold.otf", 40))) - 56,
+                  caixa_topo + 10, DESTAQUE if tema != "c" else (214, 90, 30), (15, 15, 15) if tema != "c" else (255, 255, 255))
+        _rodape(d, ImageFont, n, total, capa, (120, 120, 120), DESTAQUE if tema != "c" else (214, 90, 30))
+    else:
+        im = Image.new("RGB", (W, H), FUNDO)
+        d = ImageDraw.Draw(im)
+        tam = 92 if capa else 64
+        f = _fonte(ImageFont, "InterDisplay-ExtraBold.otf" if capa else "InterDisplay-Bold.otf", tam)
+        topo = 0
+        if foto is None and img is not None:
+            foto_img = img
+        elif foto:
+            foto_img = Image.open(io.BytesIO(foto)).convert("RGB")
+        else:
+            foto_img = None
+        if foto_img is not None:
+            tam = 80 if capa else 56
+            f = _fonte(ImageFont, "InterDisplay-ExtraBold.otf" if capa else "InterDisplay-Bold.otf", tam)
+            caixa = (W - 2 * m, 600)
+            foto_img.thumbnail((caixa[0] - 60, caixa[1] - 60))
+            d.rounded_rectangle([m, 90, W - m, 90 + caixa[1]], radius=36, fill=(250, 250, 248))
+            im.paste(foto_img, (m + (caixa[0] - foto_img.width) // 2, 90 + (caixa[1] - foto_img.height) // 2))
+            topo = 90 + caixa[1]
+        linhas = _quebrar(d, texto, f, W - 2 * m)
+        altura = int(tam * 1.22)
+        y = topo + 150 if foto_img is not None else (H - altura * len(linhas)) // 2 - (40 if capa else 0)
+        if rotulo:
+            d.text((m, y - 110), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 34), fill=DESTAQUE)
+        _texto_destacado(d, linhas, f, m, y, altura, TEXTO, DESTAQUE)
+        _rodape(d, ImageFont, n, total, capa, CINZA, DESTAQUE)
     buf = io.BytesIO()
     im.save(buf, "PNG", optimize=True)
     return buf.getvalue()
@@ -146,6 +252,37 @@ def sortear_visual(car):
     return random.choice(list(TEMAS)) + random.choice(MODOS_FOTO)
 
 
+def pronto(car, agora_ts=None):
+    """Carrossel com imagem de IA pedida ("imagem_ia") so sai depois que o workflow Artes IA tentou gerar,
+    ou se ja passou 1 dia do "criado" (aí sai com a foto do produto no lugar). Nunca trava a fila."""
+    import time as _t
+    falta = [s for s in car.get("slides") or [] if s.get("imagem_ia") and not s.get("imagem")]
+    if not falta or car.get("ia_tentado"):
+        return True
+    try:
+        criado = _t.mktime(_t.strptime(str(car.get("criado", ""))[:10], "%Y-%m-%d"))
+    except Exception:
+        return True
+    return (agora_ts or _t.time()) - criado > 36 * 3600
+
+
+def _imagem_do_slide(sl, prod):
+    """Bytes da imagem do slide: link proprio ("imagem"), "produto" (foto da Shopee) ou nenhuma."""
+    ref = sl.get("imagem") or ("produto" if sl.get("imagem_ia") else "")
+    url = prod.get("imageUrl") if ref == "produto" else ref
+    if not url:
+        return None
+    try:
+        return baixar_foto(url)
+    except Exception:
+        if ref != "produto" and prod.get("imageUrl"):
+            try:
+                return baixar_foto(prod["imageUrl"])
+            except Exception:
+                return None
+        return None
+
+
 def preparar(car, prod):
     """Completa o url de cada slide: arte desenhada e hospedada, ou a foto do produto.
     Devolve (lista de urls, visual sorteado)."""
@@ -160,6 +297,11 @@ def preparar(car, prod):
             if not prod.get("imageUrl"):
                 raise RuntimeError("slide de foto sem imagem do produto")
             urls.append(prod["imageUrl"])
+        elif sl.get("layout") in ("fundo", "split", "produto"):
+            img = _imagem_do_slide(sl, prod)
+            png = desenhar(sl.get("texto", ""), i, len(slides), sl.get("rotulo", ""), None, tema,
+                           layout=sl["layout"], imagem=img, selo=sl.get("selo", ""))
+            urls.append(hospedar(f"car/{car['id']}-{visual}-s{i}.png", png))
         else:
             foto = None
             quer_foto = (modo == "m" and sl.get("com_foto")) or (modo == "c" and i == 1)
