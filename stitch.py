@@ -28,7 +28,8 @@ PROMPT_BASE = (
     "Create a single mobile screen that is ONLY one full-bleed photorealistic photograph, edge to edge, "
     "vertical 4:5 composition, natural light, real-life smartphone photo look, Brazilian everyday setting. "
     "Absolutely no UI elements, no text, no letters, no buttons, no navigation bar, no status bar, no logos, "
-    "no watermark, no frames. The whole screen is the photo. Scene: ")
+    "no watermark, no frames. The whole screen is the photo. Keep the main subject in the upper two thirds; the bottom third "
+    "should be calm, simple and slightly dark (text will go there). Scene: ")
 
 _log = {"rodada": time.strftime("%Y-%m-%d %H:%M:%S"), "eventos": []}
 _sessao = {"id": None, "n": 0}
