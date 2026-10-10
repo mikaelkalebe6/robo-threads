@@ -1242,7 +1242,8 @@ def proximo_carrossel(s):
             continue
         cid = str(c.get("id") or nome)
         slides = c.get("slides") or []
-        if cid in usados or not c.get("aprovado") or not 3 <= len(slides) <= 5 or not all(x.get("url") for x in slides):
+        if cid in usados or not c.get("aprovado") or not 3 <= len(slides) <= 5 \
+                or not all(x.get("url") or x.get("texto") or x.get("foto_produto") for x in slides):
             continue
         c["id"] = cid
         return c
@@ -1284,7 +1285,9 @@ def postar_carrossel(s, agora):
     texto = limpar(c.get("texto_post") or "")
     time.sleep(random.randint(0, ATRASO_POST_MAX))
     try:
-        pid = publicar_carrossel([x["url"] for x in c["slides"]], texto)
+        import carrossel
+        urls = carrossel.preparar(c, prod)  # desenha e hospeda as artes que ainda nao tem link
+        pid = publicar_carrossel(urls, texto)
     except Exception as e:
         log(f"Carrossel {c['id']} falhou (segue para a proxima estrategia):", str(e)[:200])
         s.setdefault("carrossel_falhas", []).append({"id": c["id"], "quando": agora.isoformat(), "erro": str(e)[:200]})
