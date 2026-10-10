@@ -23,42 +23,26 @@
    "08:47",
    "09:52",
    "11:03",
-   "11:43"
+   "11:43",
+   "14:35"
   ],
   "produtos_feitos": 1,
-  "respostas": 55,
+  "respostas": 58,
   "por_post": {
    "18179925583431899": 3,
-   "17904297183598082": 10,
+   "17904297183598082": 11,
    "18030985622888288": 2,
-   "18015338645750822": 9,
+   "18015338645750822": 10,
    "17883591987689452": 8,
    "18124736575742625": 1,
    "17931200094409342": 7,
-   "18078986099393308": 10,
+   "18078986099393308": 11,
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3
   }
  },
  "posts": [
-  {
-   "id": "18089996570239818",
-   "insp": "7733a769d4",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a conta do veterinário consegue ser mais cara do que plano de saúde humano e ninguém avisa isso antes de adotar.",
-   "quando": "2026-10-05T15:07:21.029681-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 9227,
-    "likes": 88,
-    "replies": 132,
-    "reposts": 1,
-    "quotes": 1,
-    "shares": 2,
-    "em": "2026-10-10"
-   }
-  },
   {
    "id": "18126767030510839",
    "insp": "c422eac36b",
@@ -1031,6 +1015,14 @@
    "texto": "Eu joguei tanto daquele jogo horrível na infância que tenho vergonha de admitir. Qual o seu guilty pleasure dos anos 90?",
    "quando": "2026-10-10T12:07:10.552905-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17975559206935962",
+   "insp": "0b1e634fcd",
+   "link": "",
+   "texto": "SEJAM SINCEROS: qual foi o primeiro salário de vocês? \n\nTenho quase certeza de que quem começou ganhando menos de 500 reais tem uma relação muito mais neurótica com dinheiro hoje em dia.",
+   "quando": "2026-10-10T14:37:09.661425-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -2409,7 +2401,10 @@
   "17991605543851514",
   "18118155659516136",
   "17884211097623451",
-  "18143212030597329"
+  "18143212030597329",
+  "18108913412613350",
+  "18100980818530009",
+  "17969483567960136"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2556,7 +2551,8 @@
   "462702bb356c7df254619fac4a893742",
   "1f424406178c707bc4721cdf2fa7767f",
   "ffed78dfb8a63dcf61d6e6bbdcc02c8d",
-  "1248f2a8f1ad3ecd03c6784dc2bb2993"
+  "1248f2a8f1ad3ecd03c6784dc2bb2993",
+  "fb57cff7523f595450752f2f29f22f39"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2703,7 +2699,8 @@
   "a0d83e5ad4": 1791594453.9146647,
   "b6e8893db8": 1791637653.5574567,
   "f8cf963815": 1791644893.9161525,
-  "d74ec1b0c0": 1791648492.9168603
+  "d74ec1b0c0": 1791648492.9168603,
+  "0b1e634fcd": 1791657457.6883128
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2759,25 +2756,13 @@
   "2c32c3f4e4": 1,
   "9727c7c6bf": 1,
   "3664af9c8c": 1,
-  "69522376fd": 1
+  "69522376fd": 1,
+  "b52f047f80": 1,
+  "3e346271a0": 1,
+  "b7390aef96": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "aperol com ar condicionado e mar de fundo é outro nível mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "karmann ghia tem curvas que parecem obra de arte mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "filtro de resistencia pesado kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "acompanhamento obrigatório pra aguentar o calor da brasa",
    "p": "concorda",
@@ -2910,6 +2895,21 @@
   },
   {
    "t": "boa companhia e bebida trincando resolvem qualquer carne mais ou menos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "alfa 164 tem linha elegante que chama atenção até hoje",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse trecho aí pedia um santo forte no banco de trás kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "sal de parrilha muda o nível da carne completamente",
    "p": "concorda",
    "r": 0
   }
@@ -3529,7 +3529,6 @@
    "esse e o"
   ],
   "18015338645750822": [
-   "esse ai marcou",
    "esse trator de",
    "adorei o dart",
    "linhas bem marcadas",
@@ -3548,7 +3547,8 @@
    "karmann ghia tem",
    "vectra b envelheceu",
    "kadett marcou epoca",
-   "esse periodo da"
+   "esse periodo da",
+   "alfa 164 tem"
   ],
   "18118295015072947": [
    "exato e o"
@@ -3568,7 +3568,6 @@
    "jogo virou segundo"
   ],
   "17904297183598082": [
-   "base de qualquer",
    "essa e a",
    "item obrigatorio que",
    "verdade sem ela",
@@ -3587,7 +3586,8 @@
    "acompanhamento obrigatorio pra",
    "fundamental para dar",
    "indispensavel para aguentar",
-   "boa companhia e"
+   "boa companhia e",
+   "sal de parrilha"
   ],
   "18179925583431899": [
    "pesado mas pior",
@@ -3614,7 +3614,8 @@
    "emocao pura e",
    "quando a gente",
    "cada um escolhe",
-   "coragem ou muita"
+   "coragem ou muita",
+   "esse trecho ai"
   ],
   "18076654343444049": [
    "boa tarde tudo"
