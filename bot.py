@@ -955,8 +955,21 @@ def checar_teste_comentario(s, agora):
     if not posts:
         log("Teste de comentario com foto: nenhum post recente do robo encontrado.")
         return
-    pid = posts[-1]["id"]
-    log(f"Teste unico de comentario com foto no post {pid} (produto {prod.get('itemId')})...")
+    # comenta no post que mais performou nas ultimas 24 h (views lidas agora); sem leitura, usa o mais recente
+    limite = agora - dt.timedelta(hours=24)
+    recentes = [p for p in posts if dt.datetime.fromisoformat(p["quando"]) > limite] or posts[-1:]
+
+    def views(p):
+        try:
+            dados = threads("GET", f"{p['id']}/insights", metric="views").get("data", [])
+            return sum(_valor_metrica(m) for m in dados if m.get("name") == "views")
+        except Exception:
+            return -1
+    with ThreadPoolExecutor(5) as ex:
+        lidos = list(ex.map(views, recentes))
+    melhor = max(range(len(recentes)), key=lambda i: (lidos[i], i))
+    pid = recentes[melhor]["id"]
+    log(f"Teste unico de comentario com foto no post {pid} ({lidos[melhor]} views, melhor das ultimas 24 h; produto {prod.get('itemId')})...")
     res = comentar_produto(s, pid, prod, "teste", agora)
     s["teste_comentario_produto"] = {"data": agora.isoformat(), "post_id": pid,
                                      "produto_id": prod.get("itemId"), "resultado": res or "falhou"}
