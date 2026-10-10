@@ -26,16 +26,16 @@
    "11:43"
   ],
   "produtos_feitos": 1,
-  "respostas": 52,
+  "respostas": 55,
   "por_post": {
    "18179925583431899": 3,
-   "17904297183598082": 9,
+   "17904297183598082": 10,
    "18030985622888288": 2,
    "18015338645750822": 9,
    "17883591987689452": 8,
    "18124736575742625": 1,
    "17931200094409342": 7,
-   "18078986099393308": 8,
+   "18078986099393308": 10,
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3
@@ -2405,7 +2405,11 @@
   "17909492709520046",
   "18118907311962343",
   "17901570453377057",
-  "18115517714120326"
+  "18115517714120326",
+  "17991605543851514",
+  "18118155659516136",
+  "17884211097623451",
+  "18143212030597329"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2752,25 +2756,13 @@
   "b61e5f7129": 1,
   "0428e10b31": 1,
   "ad523a5fc6": 1,
-  "2c32c3f4e4": 1
+  "2c32c3f4e4": 1,
+  "9727c7c6bf": 1,
+  "3664af9c8c": 1,
+  "69522376fd": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "autenticidade em primeiro lugar, melhor coisa ser vc msm desde o inicio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "responsavel oficial por fazer tudo dar certo na brasa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ótimo dia por aqui também, bom descanso",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "aperol com ar condicionado e mar de fundo é outro nível mesmo",
    "p": "concorda",
@@ -2903,6 +2895,21 @@
   },
   {
    "t": "quando a gente conhece a máquina o painel vira só enfeite",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cada um escolhe o tipo de emoção que quer pro dia",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "coragem ou muita fé no santo do combustível kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "boa companhia e bebida trincando resolvem qualquer carne mais ou menos",
    "p": "concorda",
    "r": 0
   }
@@ -3561,7 +3568,6 @@
    "jogo virou segundo"
   ],
   "17904297183598082": [
-   "ai o churrasco",
    "base de qualquer",
    "essa e a",
    "item obrigatorio que",
@@ -3580,7 +3586,8 @@
    "responsavel oficial por",
    "acompanhamento obrigatorio pra",
    "fundamental para dar",
-   "indispensavel para aguentar"
+   "indispensavel para aguentar",
+   "boa companhia e"
   ],
   "18179925583431899": [
    "pesado mas pior",
@@ -3605,7 +3612,9 @@
    "verdade o estrago",
    "medida exata do",
    "emocao pura e",
-   "quando a gente"
+   "quando a gente",
+   "cada um escolhe",
+   "coragem ou muita"
   ],
   "18076654343444049": [
    "boa tarde tudo"
