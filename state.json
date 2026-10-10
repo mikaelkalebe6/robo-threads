@@ -25,43 +25,27 @@
    "11:03",
    "11:43",
    "14:35",
-   "16:39"
+   "16:39",
+   "17:57"
   ],
   "produtos_feitos": 2,
-  "respostas": 76,
+  "respostas": 79,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 11,
    "18030985622888288": 2,
-   "18015338645750822": 12,
+   "18015338645750822": 13,
    "17883591987689452": 8,
    "18124736575742625": 1,
    "17931200094409342": 8,
-   "18078986099393308": 13,
+   "18078986099393308": 14,
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3,
-   "17975559206935962": 13
+   "17975559206935962": 14
   }
  },
  "posts": [
-  {
-   "id": "18085466636306923",
-   "insp": "2832d4baf6",
-   "link": "",
-   "texto": "Tem dia que a gente dorme seis horas e acha que tá ótimo, mas no dia seguinte a conta chega. Ou é o sono em dia ou é cafeína o dia inteiro.",
-   "quando": "2026-10-05T20:37:10.569235-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 639,
-    "likes": 8,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-10"
-   }
-  },
   {
    "id": "18118643042050925",
    "insp": "58ac2ae535",
@@ -1020,6 +1004,14 @@
    "formato": "postfoto",
    "formato_link": "comentfoto",
    "produto": "19999249755"
+  },
+  {
+   "id": "18125162968914216",
+   "insp": "eb9c03e299",
+   "link": "",
+   "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
+   "quando": "2026-10-10T18:07:09.225159-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2421,7 +2413,11 @@
   "18106497968579954",
   "18127780240869890",
   "18094618229430807",
-  "18117820195783978"
+  "18117820195783978",
+  "17912272800498257",
+  "18054099356804275",
+  "18086746337287655",
+  "18077602019437966"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2569,7 +2565,8 @@
   "1f424406178c707bc4721cdf2fa7767f",
   "ffed78dfb8a63dcf61d6e6bbdcc02c8d",
   "1248f2a8f1ad3ecd03c6784dc2bb2993",
-  "fb57cff7523f595450752f2f29f22f39"
+  "fb57cff7523f595450752f2f29f22f39",
+  "90b9891efa06b034b7f430324eeebbd1"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2717,7 +2714,8 @@
   "b6e8893db8": 1791637653.5574567,
   "f8cf963815": 1791644893.9161525,
   "d74ec1b0c0": 1791648492.9168603,
-  "0b1e634fcd": 1791657457.6883128
+  "0b1e634fcd": 1791657457.6883128,
+  "eb9c03e299": 1791670089.8466873
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2793,25 +2791,13 @@
   "5d06b0ea91": 1,
   "af64c071a6": 1,
   "da85ca4d27": 1,
-  "54f2158b3c": 1
+  "54f2158b3c": 1,
+  "0176e962e1": 1,
+  "ccb5e96f86": 1,
+  "1c6aa3cfe3": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "esse jogo testava a paciência de qualquer amizade kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "medida exata do caos que a gente gosta de testar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "paz e sombra sem grife",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "emoção pura e o ponteiro rezando pra não zerar",
    "p": "concorda",
@@ -2946,6 +2932,21 @@
    "t": "paz de espírito que chama, zero emoção desnecessária",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "puma vermelho conversível é covardia, linha perfeita demais kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "passar por isso tão cedo molda a gente pra sempre kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "filtro de gasolina sofreu mas quem nunca kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3555,7 +3556,6 @@
    "esse e o"
   ],
   "18015338645750822": [
-   "linhas bem marcadas",
    "essa cor azul",
    "esse modelo marcou",
    "esse desenho divide",
@@ -3574,7 +3574,8 @@
    "esse periodo da",
    "alfa 164 tem",
    "esse frances ai",
-   "esse conversivel e"
+   "esse conversivel e",
+   "puma vermelho conversivel"
   ],
   "18118295015072947": [
    "exato e o"
@@ -3644,7 +3645,8 @@
    "coragem ou muita",
    "esse trecho ai",
    "matematica de alto",
-   "paz de espirito"
+   "paz de espirito",
+   "filtro de gasolina"
   ],
   "18076654343444049": [
    "boa tarde tudo"
@@ -3667,7 +3669,8 @@
    "ajuda de custo",
    "valor que hoje",
    "o salto quantico",
-   "final dos anos"
+   "final dos anos",
+   "passar por isso"
   ]
  },
  "shopee_checada": "2026-10-10|1",
