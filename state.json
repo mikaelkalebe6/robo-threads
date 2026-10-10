@@ -26,7 +26,7 @@
    "11:43"
   ],
   "produtos_feitos": 1,
-  "respostas": 49,
+  "respostas": 52,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 9,
@@ -34,8 +34,8 @@
    "18015338645750822": 9,
    "17883591987689452": 8,
    "18124736575742625": 1,
-   "17931200094409342": 6,
-   "18078986099393308": 6,
+   "17931200094409342": 7,
+   "18078986099393308": 8,
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3
@@ -2402,7 +2402,10 @@
   "18122703400934344",
   "17910901302516242",
   "17919452061243074",
-  "17909492709520046"
+  "17909492709520046",
+  "18118907311962343",
+  "17901570453377057",
+  "18115517714120326"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2746,25 +2749,13 @@
   "178633f105": 1,
   "e90ba8ac8e": 1,
   "b457448402": 1,
-  "b61e5f7129": 1
+  "b61e5f7129": 1,
+  "0428e10b31": 1,
+  "ad523a5fc6": 1,
+  "2c32c3f4e4": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "lista pesada, mustang e opala tão em outro patamar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, manutenção de poço de água exige respeito kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "para garantir o sufoco duplo e areia na toalha kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "autenticidade em primeiro lugar, melhor coisa ser vc msm desde o inicio",
    "p": "concorda",
@@ -2897,6 +2888,21 @@
   },
   {
    "t": "paz e sombra sem grife",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "emoção pura e o ponteiro rezando pra não zerar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "até parece plano perfeito mas a areia acha um jeito de entrar até na alma",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "quando a gente conhece a máquina o painel vira só enfeite",
    "p": "concorda",
    "r": 0
   }
@@ -3588,7 +3594,8 @@
    "otimo dia por",
    "aperol com ar",
    "divisao oficial de",
-   "paz e sombra"
+   "paz e sombra",
+   "ate parece plano"
   ],
   "18078986099393308": [
    "pura sobrevivencia com",
@@ -3596,7 +3603,9 @@
    "roleta russa automotiva",
    "precisa mesmo de",
    "verdade o estrago",
-   "medida exata do"
+   "medida exata do",
+   "emocao pura e",
+   "quando a gente"
   ],
   "18076654343444049": [
    "boa tarde tudo"
