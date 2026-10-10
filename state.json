@@ -21,12 +21,14 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 4,
+  "respostas": 8,
   "por_post": {
-   "18179925583431899": 1,
-   "17904297183598082": 1,
+   "18179925583431899": 2,
+   "17904297183598082": 2,
    "18030985622888288": 1,
-   "18015338645750822": 1
+   "18015338645750822": 1,
+   "17883591987689452": 1,
+   "18124736575742625": 1
   }
  },
  "posts": [
@@ -2375,7 +2377,11 @@
   "18102853253213857",
   "17930305920409981",
   "18101850629049361",
-  "18384554995224037"
+  "18384554995224037",
+  "18077103323437376",
+  "18105292187261500",
+  "18067047911781815",
+  "18157516510505808"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2671,30 +2677,14 @@
   "7fb87ba725": 1,
   "f6fcd7b4e4": 1,
   "f27fb8a482": 1,
-  "fc0b7682e2": 1
+  "fc0b7682e2": 1,
+  "ee2465580f": 1,
+  "1d06969815": 1,
+  "cca3dc35f0": 1,
+  "3a901fb5e7": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "papo flui muito mais quando a gente não precisa fingir costume",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, esse clássico com rodas novas fica estiloso demais kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justo, mas no barzinho pelo menos a gente foge do teatro",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "lista forte demais, Peugeot e Fiat dominaram essa época",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "cafeteria também entra na lista, o cheiro de café já ajuda no clima kkk",
    "p": "concorda",
@@ -2822,6 +2812,26 @@
   },
   {
    "t": "cada marca tinha uma identidade que hoje em dia sumiu",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "rodízio de 300 reais no primeiro encontro é investimento de risco kkkkk",
+   "p": "ressalva",
+   "r": 2
+  },
+  {
+   "t": "a maturidade traz esse alívio ótimo de parar de se cobrar tanto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "audácia às vezes é tudo que o ser humano tem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "trilha sonora boa muda completamente o clima do evento",
    "p": "concorda",
    "r": 0
   }
@@ -3421,7 +3431,8 @@
    "atalho util demais"
   ],
   "18124736575742625": [
-   "quanto antes a"
+   "quanto antes a",
+   "a maturidade traz"
   ],
   "18130387291689226": [
    "queria ter essa",
@@ -3436,7 +3447,6 @@
    "ai ja passou"
   ],
   "17883591987689452": [
-   "te entendo totalmente",
    "menos teatro e",
    "com certeza economia",
    "papo reto menos",
@@ -3455,7 +3465,8 @@
    "justo mas no",
    "cafeteria tambem entra",
    "tem quem prefira",
-   "zero erro papo"
+   "zero erro papo",
+   "rodizio de 300"
   ],
   "18133563994591000": [
    "poder ate podia",
@@ -3516,11 +3527,13 @@
    "som bom transforma",
    "inovou total no",
    "sem o mestre",
-   "comeca a lista"
+   "comeca a lista",
+   "trilha sonora boa"
   ],
   "18179925583431899": [
    "pesado mas pior",
-   "parece lenda urbana"
+   "parece lenda urbana",
+   "audacia as vezes"
   ]
  },
  "shopee_checada": "2026-10-10|1",
