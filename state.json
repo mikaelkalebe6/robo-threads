@@ -29,7 +29,7 @@
    "20:07",
    "20:51"
   ],
-  "respostas": 96,
+  "respostas": 100,
   "por_post": {
    "17871358557637154": 3,
    "18157552714458950": 14,
@@ -47,7 +47,8 @@
    "18099059360387148": 1,
    "18009434771778336": 1,
    "18632920237005051": 1,
-   "17904297183598082": 10
+   "17904297183598082": 13,
+   "18179925583431899": 1
   }
  },
  "posts": [
@@ -2279,7 +2280,11 @@
   "18120596485859754",
   "17870857269646644",
   "18096880985533050",
-  "18122610298901366"
+  "18122610298901366",
+  "17904588165577260",
+  "17965355264980504",
+  "17990423526061273",
+  "18113988581111639"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2663,30 +2668,14 @@
   "ba2ee04d5a": 1,
   "e38324b350": 1,
   "ce4ae6f4d4": 1,
-  "a967292c8e": 1
+  "a967292c8e": 1,
+  "816b9009c4": 1,
+  "cfcf846b6e": 1,
+  "8d9686f5b1": 1,
+  "685d679aac": 1
  },
  "reservas_checadas": "2026-10-09",
  "ultimas_respostas": [
-  {
-   "t": "sessão por convite é a paz que a gente precisa para curtir o jogo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "equilíbrio perfeito, cada fase tem sua graça",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sete anos de teste e o boleto ainda acha a gente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa cor azul dá um charme que poucos conseguem",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "economia de energia e foco no que importa",
    "p": "concorda",
@@ -2814,6 +2803,26 @@
   },
   {
    "t": "esse aí carrega o evento inteiro nas costas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesado mas pior que é bem por aí mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "som bom transforma qualquer tarde em festa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "inovou total no cardápio kkkk",
+   "p": "ressalva",
+   "r": 2
+  },
+  {
+   "t": "sem o mestre da brasa o evento vira só um monte de carvão queimando",
    "p": "concorda",
    "r": 0
   }
@@ -3241,28 +3250,6 @@
   }
  ],
  "aberturas_post": {
-  "18375624967238237": [
-   "verdade mensagem trava",
-   "precisa de coragem",
-   "cada um tem",
-   "com certeza o",
-   "pergunta boa que",
-   "uma semana e",
-   "estamos no mesmo",
-   "contar 45 dias",
-   "tempo classico pra",
-   "resolvido rapido e",
-   "um mes e",
-   "a evolucao das",
-   "velocidade maxima no",
-   "que recorde hein",
-   "parece que cada",
-   "nossa parece maratona",
-   "exato quando a",
-   "3 dias ja",
-   "respeito total ao",
-   "prazo justo para"
-  ],
   "18118205002998533": [
    "na teoria e"
   ],
@@ -3492,7 +3479,13 @@
    "verdade sem ela",
    "esse e a",
    "pelo menos no",
-   "esse ai carrega"
+   "esse ai carrega",
+   "som bom transforma",
+   "inovou total no",
+   "sem o mestre"
+  ],
+  "18179925583431899": [
+   "pesado mas pior"
   ]
  },
  "shopee_checada": "2026-10-09|1",
