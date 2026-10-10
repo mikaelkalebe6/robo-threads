@@ -27,7 +27,7 @@
    "14:35"
   ],
   "produtos_feitos": 1,
-  "respostas": 67,
+  "respostas": 69,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 11,
@@ -40,7 +40,7 @@
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3,
-   "17975559206935962": 8
+   "17975559206935962": 10
   }
  },
  "posts": [
@@ -2415,7 +2415,10 @@
   "18194678281402313",
   "17903755503598048",
   "17906616543580585",
-  "18445856575134271"
+  "18445856575134271",
+  "18115480277016679",
+  "18118407421952882",
+  "18175147447454390"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2778,20 +2781,12 @@
   "2beec2d330": 1,
   "8db700b77d": 1,
   "7bd53530d6": 1,
-  "d77d8066ee": 1
+  "d77d8066ee": 1,
+  "2ea2505832": 1,
+  "bd9c735297": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "esse é o famoso modo fácil do jogo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkkk aí o coração sai pela boca antes de chegar no final da ladeira",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "roleta russa automotiva pura kkkk",
    "p": "concorda",
@@ -2929,6 +2924,16 @@
   },
   {
    "t": "final de tarde com cerveja gelada muda qualquer cenário mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "começar tão cedo com essa responsabilidade explica muita coisa sobre a nossa relação com o dinheiro hoje",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ajuda de custo que era praticamente um abraço e olhe lá",
    "p": "concorda",
    "r": 0
   }
@@ -3640,7 +3645,9 @@
    "nessa epoca o",
    "comeco de carteira",
    "comeco de seculo",
-   "investimento de respeito"
+   "investimento de respeito",
+   "comecar tao cedo",
+   "ajuda de custo"
   ]
  },
  "shopee_checada": "2026-10-10|1",
