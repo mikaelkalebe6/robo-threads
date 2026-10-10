@@ -21,13 +21,13 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 16,
   "por_post": {
    "18179925583431899": 3,
-   "17904297183598082": 2,
+   "17904297183598082": 4,
    "18030985622888288": 2,
-   "18015338645750822": 2,
-   "17883591987689452": 2,
+   "18015338645750822": 3,
+   "17883591987689452": 3,
    "18124736575742625": 1
   }
  },
@@ -2385,7 +2385,11 @@
   "18127538399491521",
   "18128639959697752",
   "18130057454478887",
-  "18435155791182243"
+  "18435155791182243",
+  "18016575551943073",
+  "17910211998309581",
+  "17866160364675034",
+  "18108545063499230"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2689,30 +2693,14 @@
   "946c5cfc08": 1,
   "f66f6d0ae2": 1,
   "9e1554cb9c": 1,
-  "7fcaeb92d6": 1
+  "7fcaeb92d6": 1,
+  "ccfaf025a3": 1,
+  "d76d21a06e": 1,
+  "107ef6403b": 1,
+  "b498ae5898": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "tem quem prefira o roteiro completo, mas aí perde a graça do improviso kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "opala 81 tem presença forte, clássico de respeito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "jogo virou segundo emprego que ninguém pediu",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "zero erro, papo rende solto e sem frescura",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pão de alho no ponto carvão tem seus defensores kkk",
    "p": "concorda",
@@ -2842,6 +2830,26 @@
    "t": "essa aí apela pra ciência direto kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "vinagrete fresquinho equilibra tudo na mesa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "trabalho manual exigia muita paciência e traço firme",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quando o lugar ajuda a mente fica leve mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "clima bom faz toda a diferença pra carne descer bem",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3455,7 +3463,6 @@
    "ai ja passou"
   ],
   "17883591987689452": [
-   "com certeza economia",
    "papo reto menos",
    "ja ta com",
    "justo querer comer",
@@ -3474,7 +3481,8 @@
    "tem quem prefira",
    "zero erro papo",
    "rodizio de 300",
-   "parece obvio para"
+   "parece obvio para",
+   "quando o lugar"
   ],
   "18133563994591000": [
    "poder ate podia",
@@ -3484,7 +3492,6 @@
    "sete anos de"
   ],
   "18015338645750822": [
-   "esse e classico",
    "esse tem presenca",
    "parati tem lugar",
    "essa fase ai",
@@ -3503,7 +3510,8 @@
    "ai voce foi",
    "opala 81 tem",
    "cada marca tinha",
-   "aerodinamica impecavel esse"
+   "aerodinamica impecavel esse",
+   "trabalho manual exigia"
   ],
   "18118295015072947": [
    "exato e o"
@@ -3537,7 +3545,9 @@
    "inovou total no",
    "sem o mestre",
    "comeca a lista",
-   "trilha sonora boa"
+   "trilha sonora boa",
+   "vinagrete fresquinho equilibra",
+   "clima bom faz"
   ],
   "18179925583431899": [
    "pesado mas pior",
