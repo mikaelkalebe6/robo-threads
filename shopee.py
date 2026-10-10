@@ -59,6 +59,58 @@ def buscar_produtos(palavra, limite=5, ordem=2):
     return (consulta(q, {"k": palavra, "l": limite, "o": ordem}).get("productOfferV2") or {}).get("nodes") or []
 
 
+CAMPANHAS_ARQ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "campanhas", "campanhas.json")
+
+
+def campanhas_api(limite=15):
+    """Campanhas da Shopee Afiliados no ar (shopeeOfferV2, maior comissao primeiro). Erro vira excecao curta."""
+    q = """query($l:Int){shopeeOfferV2(sortType:2,page:1,limit:$l){
+      nodes{offerName commissionRate periodStartTime periodEndTime offerType}}}"""
+    nos = (consulta(q, {"l": limite}).get("shopeeOfferV2") or {}).get("nodes") or []
+    agora = time.time()
+    saida = []
+    for n in nos:
+        try:
+            ini, fim = int(n.get("periodStartTime") or 0), int(n.get("periodEndTime") or 0)
+        except Exception:
+            ini, fim = 0, 0
+        if (ini and ini > agora) or (fim and fim < agora):
+            continue
+        saida.append({"nome": str(n.get("offerName") or "")[:80], "comissao": n.get("commissionRate"),
+                      "fim": fim, "tipo": n.get("offerType")})
+    return saida
+
+
+def _quando(v, fim_do_dia=False):
+    """'AAAA-MM-DD' ou 'AAAA-MM-DDTHH:MM' (horario de Manaus) em timestamp."""
+    v = str(v or "").strip()
+    if not v:
+        return None
+    import datetime as dt
+    try:
+        d = dt.datetime.fromisoformat(v) if "T" in v else dt.datetime.fromisoformat(v + ("T23:59" if fim_do_dia else "T00:00"))
+        return d.replace(tzinfo=dt.timezone(dt.timedelta(hours=-4))).timestamp()
+    except Exception:
+        return None
+
+
+def campanhas_arquivo():
+    """Campanhas escolhidas pelo Claude (campanhas/campanhas.json): so as com "usar": true e no periodo."""
+    try:
+        dados = json.load(open(CAMPANHAS_ARQ, encoding="utf-8"))
+    except Exception:
+        return [], ""
+    bruto = json.dumps(dados, sort_keys=True)
+    agora = time.time()
+    ativas = []
+    for c in dados.get("campanhas", []) if isinstance(dados, dict) else []:
+        ini, fim = _quando(c.get("inicio")), _quando(c.get("fim"), True)
+        if c.get("usar") and (ini is None or ini <= agora) and (fim is None or agora <= fim):
+            ativas.append({"nome": str(c.get("nome") or "")[:30], "palavras": [p.strip() for p in c.get("palavras", []) if str(p).strip()][:6],
+                           "peso": float(c.get("peso") or 1.3)})
+    return ativas, hashlib.md5(bruto.encode()).hexdigest()[:10]
+
+
 def sub_id(valor):
     """A Shopee so aceita letras e numeros no subId: limpa e corta em 50."""
     import re
@@ -83,8 +135,10 @@ def escolher_produtos(s, cfg, log, hoje):
     cfg e log vem do bot; hoje = 'AAAA-MM-DD' no fuso do robo. Nunca levanta erro."""
     import datetime as dt
 
-    if s.get("shopee_produtos_data") == hoje:
+    ativas, marca = campanhas_arquivo()
+    if s.get("shopee_produtos_data") == hoje and s.get("shopee_campanhas_marca", "") == marca:
         return s.get("shopee_produtos") or []
+    s["shopee_campanhas_marca"] = marca  # campanha nova do Claude no meio do dia: refaz a busca
 
     if not configurada():
         s["shopee_produtos"] = []
@@ -111,8 +165,25 @@ def escolher_produtos(s, cfg, log, hoje):
             except Exception:
                 return False
 
+        # campanhas: as do Claude (arquivo) entram na busca e ganham peso; as da API ficam registradas para o Claude pensar
+        if cfg("CAMPANHAS_LIGADO") != "1":
+            ativas = []
+        if ativas and s.get("shopee_campanhas_api_data") != hoje:
+            try:
+                s["shopee_campanhas_api"] = campanhas_api()
+            except Exception as e:
+                s["shopee_campanhas_api"] = [{"erro": str(e)[:200]}]
+            s["shopee_campanhas_api_data"] = hoje
+        s["shopee_campanhas"] = [c["nome"] for c in ativas]
+        palavra_campanha = {}
+        for c in ativas:
+            for p in c["palavras"]:
+                palavra_campanha.setdefault(p, c)
+        if ativas:
+            log("Shopee: campanhas ativas:", ", ".join(c["nome"] for c in ativas))
+
         encontrados, falhas = {}, 0
-        for kw in palavras:
+        for kw in palavras + [p for p in palavra_campanha if p not in palavras]:
             try:
                 nos = buscar_produtos(kw, limite=10, ordem=2)
                 falhas = 0
@@ -140,7 +211,15 @@ def escolher_produtos(s, cfg, log, hoje):
                 if nota < nota_min or not preco or preco > preco_max or vendas < vendas_min:
                     continue
 
+                camp = palavra_campanha.get(kw)
+                try:
+                    desconto = float(node.get("priceDiscountRate") or 0)
+                except Exception:
+                    desconto = 0
                 encontrados[iid] = {
+                    "campanha": camp["nome"] if camp else (ativas[0]["nome"] if ativas and desconto >= 20 else ""),
+                    "peso_campanha": camp["peso"] if camp else 1.0,
+                    "desconto": desconto,
                     "data": hoje,
                     "itemId": iid,
                     "nome": str(node.get("productName") or ""),
@@ -156,7 +235,8 @@ def escolher_produtos(s, cfg, log, hoje):
         # ordem: comissao esperada por venda (preco x %) pesada pela procura (log das vendas)
         import math
         for x in lista:
-            x["nota_rank"] = round(x["preco"] * x["comissao"] * math.log10(x["vendas"] + 1), 3)
+            x["nota_rank"] = round(x["preco"] * x["comissao"] * math.log10(x["vendas"] + 1)
+                                   * x.get("peso_campanha", 1.0) * (1 + min(x.get("desconto", 0), 60) / 200), 3)
         lista.sort(key=lambda x: x["nota_rank"], reverse=True)
         s["shopee_produtos"] = lista
         s["shopee_produtos_data"] = hoje

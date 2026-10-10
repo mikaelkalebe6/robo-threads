@@ -90,6 +90,8 @@ PADRAO = {
     "CHANCE_FOTO_FIO": "0.33",
     # produto sorteado entre os N melhores do dia; vendas da Shopee (conversionReport) dos ultimos N dias
     "SHOPEE_TOP_SORTEIO": "5", "SHOPEE_VENDAS_DIAS": "7",
+    # campanhas da Shopee (10.10, 11.11...) escolhidas pelo Claude em campanhas/campanhas.json: 1 usa, 0 ignora
+    "CAMPANHAS_LIGADO": "1",
 }
 _USOU_PADRAO = []
 
@@ -895,16 +897,19 @@ def marcadores(estrategia, formato, agora, pid):
     return [estrategia, formato, agora.strftime("%H"), str(pid or "x")[-8:]]
 
 
-def frase_produto(nome):
-    """Frase do comentario variando: so frase, so carinha ou as duas."""
+def frase_produto(nome, campanha=""):
+    """Frase do comentario variando: so frase, so carinha ou as duas. Em campanha, as vezes cita a promocao."""
     modo = random.choice(["frase", "carinha", "ambos"])
+    if campanha and random.random() < 0.6:
+        modo = random.choice(["frase", "ambos"])
+    extra = f'\nO produto esta na promocao "{campanha}" da Shopee: cite isso de leve e natural (ex.: "aproveita que ta no {campanha}").' if campanha and modo != "carinha" else ""
     carinha = random.choice(CARINHAS_PRODUTO)
     if modo == "carinha":
         return carinha
     prompt = f"""{PERSONA_RESPOSTA}
 
 Escreva uma frase curtissima e natural (no maximo 80 caracteres) em portugues sobre o produto "{nome}".
-A frase vai junto com a foto do produto e um link. Pode ser reacao curta, elogio simples ou poucas palavras.
+A frase vai junto com a foto do produto e um link. Pode ser reacao curta, elogio simples ou poucas palavras.{extra}
 Regras: no maximo 80 caracteres; sem travessoes; sem links; sem @; tom natural de amiga; sem emoji."""
     try:
         frase = limpar_resposta(ia(prompt, modelos_gemini=[GEMINI_MODEL_RESPOSTA]) or "")
@@ -934,7 +939,7 @@ def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfot
         if not link:
             log("Comentario de produto sem link. Nada publicado.")
             return None
-        frase = limpar_resposta(frase) if frase else frase_produto(produto.get("nome", "produto"))
+        frase = limpar_resposta(frase) if frase else frase_produto(produto.get("nome", "produto"), produto.get("campanha", ""))
         texto = f"{frase}\n{link}" if frase else link
         cid = publicar(texto, foto=produto.get("imageUrl") or None, responder_a=pid)
         s.setdefault("shopee_usados", {})[str(produto.get("itemId", ""))] = agora.isoformat()
