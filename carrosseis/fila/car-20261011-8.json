@@ -15,7 +15,8 @@
    "layout": "manchete",
    "foto_inteira": true,
    "texto_pos": "topo",
-   "texto": "Escorpião brilha no escuro. *Com a luz certa.*"
+   "texto": "Escorpião brilha no escuro. *Com a luz certa.*",
+   "imagem_ia": "Dark backyard wall at night, a hand holding a small flashlight emitting purple ultraviolet light that makes a scorpion on the wall glow bright green, empty dark area at the top, vertical framing, photorealistic, no text, no logos, no brand names"
   },
   {
    "layout": "manchete",
@@ -41,7 +42,6 @@
  ],
  "texto_post": "Descobri isso depois de achar um no banheiro.",
  "frase_link": "a lanterna que mostra o escorpião",
- "descartado": "Kalebe 11/10: chega de lanterna (ja tem a X71 na fila)",
  "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261011-8-703f3546.jpg",
  "previa_hash": "703f3546"
 }
