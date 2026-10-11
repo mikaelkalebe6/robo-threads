@@ -23,16 +23,16 @@
    "09:50"
   ],
   "produtos_feitos": 1,
-  "respostas": 31,
+  "respostas": 34,
   "por_post": {
-   "17975559206935962": 13,
+   "17975559206935962": 14,
    "18179925583431899": 1,
    "17931200094409342": 1,
    "18009796532776328": 1,
    "18078986099393308": 2,
    "17894365761611421": 1,
    "18112767806335344": 1,
-   "18129449095879104": 11
+   "18129449095879104": 13
   }
  },
  "posts": [
@@ -888,7 +888,7 @@
    "texto": "Eu joguei tanto daquele jogo horrível na infância que tenho vergonha de admitir. Qual o seu guilty pleasure dos anos 90?",
    "quando": "2026-10-10T12:07:10.552905-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T11:37:09.203331-04:00",
+   "viral_chk": "2026-10-11T12:07:09.276302-04:00",
    "metricas": {
     "views": 570,
     "likes": 1,
@@ -946,7 +946,7 @@
    "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
    "quando": "2026-10-10T18:07:09.225159-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T11:37:09.203331-04:00",
+   "viral_chk": "2026-10-11T12:07:09.276302-04:00",
    "metricas": {
     "views": 71,
     "likes": 2,
@@ -964,7 +964,7 @@
    "texto": "ME CONTA: para a minha mãe, qualquer problema na vida se resolve com um banho quente e chá de camomila. De resfriado a coração partido. Qual é o remédio universal da mãe de vocês?",
    "quando": "2026-10-10T19:07:09.130648-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T11:37:09.203331-04:00",
+   "viral_chk": "2026-10-11T12:07:09.276302-04:00",
    "metricas": {
     "views": 376,
     "likes": 1,
@@ -1021,7 +1021,7 @@
    "texto": "DÚVIDA SINCERA: salário alto num lugar que suga sua alma ou ganhar menos pra trabalhar em paz?",
    "quando": "2026-10-10T21:37:09.313934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T11:07:08.806024-04:00",
+   "viral_chk": "2026-10-11T12:07:09.276302-04:00",
    "metricas": {
     "views": 85,
     "likes": 0,
@@ -1059,7 +1059,11 @@
    "texto": "OPINIÃO IMPOPULAR: ganhar dez mil reais hoje em dia mal paga o IPVA e resolve metade de um boleto atrasado.",
    "quando": "2026-10-11T10:07:10.408565-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T11:07:08.806024-04:00"
+   "viral_chk": "2026-10-11T12:07:09.276302-04:00",
+   "meme_comentado": true,
+   "meme_views": 1070,
+   "formato_link": "comentfoto",
+   "produto": "22393525887"
   }
  ],
  "respondidos": [
@@ -2521,7 +2525,11 @@
   "17910412233558752",
   "18435166090151699",
   "17948736906306943",
-  "18134099773581683"
+  "18134099773581683",
+  "18182228032426676",
+  "18126637651889063",
+  "18011986307976210",
+  "17964577557202870"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2863,25 +2871,13 @@
   "ca57c42826": 1,
   "18f35b061d": 1,
   "1d843c5a59": 1,
-  "3a67992610": 1
+  "3a67992610": 1,
+  "6d6feb4725": 1,
+  "a6b9319c89": 1,
+  "ff7a36e323": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "contexto bom faz milagre na hora H kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quantia modesta que já exigia malabarismo financeiro kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "valor histórico com zero glamour kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "zero defeitos na escolha, praia cobra caro no final do dia",
    "p": "concorda",
@@ -3016,6 +3012,21 @@
    "t": "pelo menos elimina o peso da cobrança embora o processo seja doloroso kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "nem precisa entrar em carro de luxo pra ver o orçamento apertar logo no começo do mês",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "com dez mil hoje em dia no máximo vc ganha o título de nobreza na fila do mercado kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa época pagava pouco mas exigia paciência em dobro kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3083,6 +3094,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-10T22:37:08.608812-04:00"
+  },
+  "17986881668881553": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-11T12:07:09.276302-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -3742,7 +3758,6 @@
    "esse jogo testava"
   ],
   "17975559206935962": [
-   "passar por isso",
    "epoca em que",
    "escala 6x1 aos",
    "virada do milenio",
@@ -3761,7 +3776,8 @@
    "consciencia financeira aos",
    "evoluir o nivel",
    "metade do salario",
-   "essa quantia nessa"
+   "essa quantia nessa",
+   "essa epoca pagava"
   ],
   "18003828527991536": [
    "pesado mas real",
@@ -3789,7 +3805,9 @@
    "ibge ia ter",
    "muda o cenario",
    "exato o pessoal",
-   "pelo menos elimina"
+   "pelo menos elimina",
+   "nem precisa entrar",
+   "com dez mil"
   ]
  },
  "shopee_checada": "2026-10-11|1",
@@ -4290,7 +4308,8 @@
   "58261620022": "2026-10-10T10:07:08.825630-04:00",
   "19999249755": "2026-10-10T21:07:08.531577-04:00",
   "45754796089": "2026-10-10T22:37:08.608812-04:00",
-  "18599696115": "2026-10-11T09:07:10.464629-04:00"
+  "18599696115": "2026-10-11T09:07:10.464629-04:00",
+  "22393525887": "2026-10-11T12:07:09.276302-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4300,7 +4319,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-11",
-  "qtd": 0
+  "qtd": 1
  },
  "carrosseis_usados": [
   "car-20261010-1"
