@@ -27,10 +27,11 @@
    "14:35",
    "16:39",
    "17:57",
-   "18:56"
+   "18:56",
+   "19:50"
   ],
   "produtos_feitos": 2,
-  "respostas": 88,
+  "respostas": 91,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 13,
@@ -38,33 +39,16 @@
    "18015338645750822": 15,
    "17883591987689452": 8,
    "18124736575742625": 1,
-   "17931200094409342": 8,
-   "18078986099393308": 15,
+   "17931200094409342": 9,
+   "18078986099393308": 16,
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3,
-   "17975559206935962": 16,
+   "17975559206935962": 17,
    "18003828527991536": 2
   }
  },
  "posts": [
-  {
-   "id": "18113316785517878",
-   "insp": "db597fa355",
-   "link": "",
-   "texto": "Eu julgo na hora quem não dá boa tarde para o motorista de aplicativo.",
-   "quando": "2026-10-06T09:07:09.174612-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 930,
-    "likes": 18,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-10"
-   }
-  },
   {
    "id": "18090795653210068",
    "insp": "f1481a1658",
@@ -1004,6 +988,14 @@
    "link": "",
    "texto": "ME CONTA: para a minha mãe, qualquer problema na vida se resolve com um banho quente e chá de camomila. De resfriado a coração partido. Qual é o remédio universal da mãe de vocês?",
    "quando": "2026-10-10T19:07:09.130648-04:00",
+   "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18438317413198976",
+   "insp": "a5b0a002b5",
+   "link": "",
+   "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
+   "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest"
   }
  ],
@@ -2421,7 +2413,10 @@
   "18109795724190514",
   "17908054656556103",
   "18484417315129353",
-  "17903017797667670"
+  "17903017797667670",
+  "18107286061938930",
+  "18123554095706506",
+  "18113429828584280"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2571,7 +2566,8 @@
   "1248f2a8f1ad3ecd03c6784dc2bb2993",
   "fb57cff7523f595450752f2f29f22f39",
   "90b9891efa06b034b7f430324eeebbd1",
-  "0675cb7eda2a75b2851ab0e37f9e1a6e"
+  "0675cb7eda2a75b2851ab0e37f9e1a6e",
+  "93bf9123793e0e90afd81a7df9de24f2"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2721,7 +2717,8 @@
   "d74ec1b0c0": 1791648492.9168603,
   "0b1e634fcd": 1791657457.6883128,
   "eb9c03e299": 1791670089.8466873,
-  "a5b40d343a": 1791673648.3117123
+  "a5b40d343a": 1791673648.3117123,
+  "a5b0a002b5": 1791677248.7385156
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2808,25 +2805,13 @@
   "fdc8777827": 1,
   "8891bec714": 1,
   "81cb6bda77": 1,
-  "bc3be619af": 1
+  "bc3be619af": 1,
+  "01af5a7598": 1,
+  "00f0737dba": 1,
+  "7193e61a99": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "trabalho infantil disfarçado de mesada, surreal pensar que isso era normal",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "começar pesado assim molda a pessoa para qualquer parada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa escadinha aí foi o treino pesado pra vida adulta",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse salto aí mostra bem como a vida real começa sem crachá",
    "p": "concorda",
@@ -2961,6 +2946,21 @@
    "t": "limão dá aquele toque que corta a gordura perfeitamente",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "idade avançada traz sabedoria e preguiça de passar perrengue kkkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "linha tênue entre a economia e o caos kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "virada do milênio com esse valor já vinha com emoção inclusa kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3641,7 +3641,8 @@
    "divisao oficial de",
    "paz e sombra",
    "ate parece plano",
-   "final de tarde"
+   "final de tarde",
+   "idade avancada traz"
   ],
   "18078986099393308": [
    "pura sobrevivencia com",
@@ -3658,7 +3659,8 @@
    "matematica de alto",
    "paz de espirito",
    "filtro de gasolina",
-   "pura filosofia de"
+   "pura filosofia de",
+   "linha tenue entre"
   ],
   "18076654343444049": [
    "boa tarde tudo"
@@ -3684,7 +3686,8 @@
    "final dos anos",
    "passar por isso",
    "epoca em que",
-   "escala 6x1 aos"
+   "escala 6x1 aos",
+   "virada do milenio"
   ],
   "18003828527991536": [
    "pesado mas real",
