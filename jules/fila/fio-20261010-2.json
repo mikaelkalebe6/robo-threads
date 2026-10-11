@@ -1,0 +1,27 @@
+{
+ "id": "fio-20261010-2",
+ "aprovado": true,
+ "criado": "2026-10-10",
+ "partes": [
+  {
+   "texto": "Todo motorista já passou por isso: o celular voa do painel na primeira lombada.",
+   "midia": "nenhuma",
+   "link": false
+  },
+  {
+   "texto": "Aí é GPS no chão, olho fora da pista pra pegar e corrida perdida. Suporte de ventosa cai no calor e o de garrinha solta a cada buraco.",
+   "midia": "nenhuma",
+   "link": false
+  },
+  {
+   "texto": "O que resolveu aqui foi o de trava automática: encostou o celular, ele fecha sozinho. Tira com uma mão só.",
+   "midia": "nenhuma",
+   "link": true
+  }
+ ],
+ "produto": {
+  "itemId": "23993565028",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3m7hftjtxp779",
+  "offerLink": "https://s.shopee.com.br/7ptuxxHQ16"
+ }
+}

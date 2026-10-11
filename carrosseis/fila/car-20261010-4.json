@@ -1,0 +1,40 @@
+{
+ "id": "car-20261010-4",
+ "aprovado": true,
+ "criado": "2026-10-10",
+ "modelo": "meme-legenda (ref. carrossel de meme com texto de legenda, 10/10)",
+ "produto": {
+  "itemId": "58257654101",
+  "nome": "Ferramenta Dobrável Multiuso Aço Inox Portátil para Emergências",
+  "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mtxrb0vhm1vueb",
+  "offerLink": "https://s.shopee.com.br/9pezLdnXSq"
+ },
+ "slides": [
+  {
+   "layout": "fundo",
+   "imagem_ia": "Humorous home scene, a Brazilian man in a simple kitchen trying to tighten a screw on a wobbly wooden chair using a butter knife, frustrated face, natural daylight, vertical framing, free space at the bottom, no text",
+   "texto": "Todo homem já apertou parafuso com *faca de manteiga.*"
+  },
+  {
+   "rotulo": "o problema",
+   "texto": "A caixa de ferramentas tá no carro, na casa do sogro ou *sumiu.* E o conserto de 2 minutos vira gambiarra."
+  },
+  {
+   "layout": "split",
+   "imagem": "produto",
+   "rotulo": "a virada",
+   "texto": "Não precisa de caixa. Precisa de *uma peça na gaveta*: alicate, chave e lâmina dobrados no tamanho da mão."
+  },
+  {
+   "layout": "produto",
+   "imagem": "produto",
+   "selo": "nota 4,9",
+   "texto": "Aço inox, dobrável, cabe no bolso. *Custa menos que um lanche.*"
+  },
+  {
+   "texto": "Marca o amigo que ainda usa faca de manteiga. *O link tá no comentário.*"
+  }
+ ],
+ "texto_post": "A faca de manteiga merece aposentadoria.",
+ "frase_link": "a ferramenta que vive na minha gaveta"
+}

@@ -1,0 +1,32 @@
+{
+ "id": "fio-20261010-1",
+ "aprovado": true,
+ "criado": "2026-10-10",
+ "partes": [
+  {
+   "texto": "O erro que estraga o passeio de cachoeira não é a água gelada. É ir de chinelo.",
+   "midia": "nenhuma",
+   "link": false
+  },
+  {
+   "texto": "Pedra lisa, limo e chinelo escorregando. Ou você anda travado o dia todo, ou volta com o pé cortado e o chinelo levado pela correnteza.",
+   "midia": "nenhuma",
+   "link": false
+  },
+  {
+   "texto": "Quem pesca e faz trilha já descobriu: sapatilha aquática. Gruda na pedra, seca rápido e não sai do pé.",
+   "midia": "produto",
+   "link": true
+  },
+  {
+   "texto": "Custa menos que a porção de peixe frito do almoço e ainda serve pra praia e pescaria.",
+   "midia": "nenhuma",
+   "link": false
+  }
+ ],
+ "produto": {
+  "itemId": "18599696115",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8dflmbun5yp64",
+  "offerLink": "https://s.shopee.com.br/6Algyu1ZBb"
+ }
+}

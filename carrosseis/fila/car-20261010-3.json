@@ -1,0 +1,41 @@
+{
+ "id": "car-20261010-3",
+ "aprovado": true,
+ "criado": "2026-10-10",
+ "modelo": "pera-como-assim (ref. carrossel de capa que gera 'pera, como assim', 10/10)",
+ "produto": {
+  "itemId": "45754796089",
+  "nome": " Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
+  "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pg-mp4m6nw7jxmq22",
+  "offerLink": "https://s.shopee.com.br/2gBooSsksL"
+ },
+ "slides": [
+  {
+   "layout": "fundo",
+   "imagem_ia": "Inside a car at dusk on a highway, close-up of the center console with a small dual car charger plugged into the 12V socket, two smartphones charging, one showing a map navigation app, warm light, vertical framing, free space at the top, no text",
+   "texto": "O celular tá plugado no carro. *E a bateria tá caindo.*",
+   "texto_pos": "topo"
+  },
+  {
+   "rotulo": "o problema",
+   "texto": "GPS ligado, música tocando, 3 horas de estrada. O USB de fábrica *não dá conta* e o celular chega no destino com 5%."
+  },
+  {
+   "layout": "split",
+   "imagem": "produto",
+   "rotulo": "a virada",
+   "texto": "O problema não é o celular. *É a saída fraca do carro.* Um carregador de verdade na tomada 12V resolve."
+  },
+  {
+   "layout": "produto",
+   "imagem": "produto",
+   "selo": "+4 mil vendidos",
+   "texto": "Duas USB e uma *Tipo-C*. Motorista e carona carregando juntos."
+  },
+  {
+   "texto": "Na próxima viagem, se o celular descarregar plugado, *o link tá no comentário.*"
+  }
+ ],
+ "texto_post": "A briga pelo carregador na viagem acaba aqui.",
+ "frase_link": "o carregador que acabou com a briga no carro"
+}
