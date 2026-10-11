@@ -172,22 +172,27 @@ def _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub, to
         y0 = H - 170 - (70 if sub else 0) - altura * len(linhas)
         if rotulo:
             d.text((m, y0 - 62), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 30), fill=ACENTO_MANCHETE)
-    y = y0
-    ligado = False
-    for linha in linhas:
-        x = m
-        partes = linha.split("*")
-        for k, parte in enumerate(partes):
-            if parte:
-                larg = d.textlength(parte, font=f)
-                if ligado:
-                    bx = d.textbbox((x, y), parte, font=f)
-                    d.rectangle([bx[0] - 10, bx[1] - 8, bx[2] + 10, bx[3] + 8], fill=ACENTO_MANCHETE)
-                d.text((x, y), parte, font=f, fill=(255, 255, 255) if ligado else cor)
-                x += larg
-            if k < len(partes) - 1:
-                ligado = not ligado
-        y += altura
+    # 2 passadas: primeiro todas as faixas do marca-texto, depois todo o texto (a faixa da linha de baixo
+    # nao pode cobrir a cedilha da linha de cima: "PESCOCO" em 11/10)
+    for passada in (0, 1):
+        y = y0
+        ligado = False
+        for linha in linhas:
+            x = m
+            partes = linha.split("*")
+            for k, parte in enumerate(partes):
+                if parte:
+                    larg = d.textlength(parte, font=f)
+                    if passada == 0 and ligado:
+                        bx = d.textbbox((x, y), parte, font=f)
+                        ref = d.textbbox((x, y), "HÁ", font=f)  # altura fixa: Ç e acento nao esticam a faixa
+                        d.rectangle([bx[0] - 10, ref[1] - 8, bx[2] + 10, ref[3] + 8], fill=ACENTO_MANCHETE)
+                    if passada == 1:
+                        d.text((x, y), parte, font=f, fill=(255, 255, 255) if ligado else cor)
+                    x += larg
+                if k < len(partes) - 1:
+                    ligado = not ligado
+            y += altura
     if sub:
         fs = _fonte(ImageFont, "InterDisplay-Bold.otf", 36)
         for ls in _quebrar(d, sub, fs, W - 2 * m)[:3]:
