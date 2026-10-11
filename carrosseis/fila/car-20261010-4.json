@@ -2,7 +2,7 @@
  "id": "car-20261010-4",
  "aprovado": false,
  "criado": "2026-10-10",
- "modelo": "meme-legenda (ref. carrossel de meme com texto de legenda, 10/10)",
+ "modelo": "meme-reacao + manchete (refs. DdbtUQQoA9- e DeRyDE-IH2i meme de reação com legenda em minúsculas; DXVUQ01jZe6 manchete condensada)",
  "produto": {
   "itemId": "58257654101",
   "nome": "Ferramenta Dobrável Multiuso Aço Inox Portátil para Emergências",
@@ -11,32 +11,43 @@
  },
  "slides": [
   {
-   "layout": "fundo",
-   "imagem_ia": "Humorous home scene, a Brazilian man in a simple kitchen trying to tighten a screw on a wobbly wooden chair using a butter knife, frustrated face, natural daylight, vertical framing, free space at the bottom, no text",
-   "texto": "Todo homem já apertou parafuso com *faca de manteiga.*",
-   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261010-4-s1.jpg"
+   "layout": "meme",
+   "texto": "eu apertando parafuso com faca de manteiga pela 47ª vez",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261010-4-s1.jpg",
+   "imagem_ia": "Humorous home scene, a Brazilian man in a simple kitchen trying to tighten a screw on a wobbly wooden chair using a butter knife, frustrated face, natural daylight, vertical framing, free space at the bottom, no text"
   },
   {
+   "layout": "manchete",
+   "tom": "claro",
    "rotulo": "o problema",
-   "texto": "A caixa de ferramentas tá no carro, na casa do sogro ou *sumiu.* E o conserto de 2 minutos vira gambiarra."
+   "texto": "A caixa de ferramentas *sumiu.*",
+   "sub": "Tá no carro, na casa do sogro ou emprestada. E o conserto de 2 minutos vira gambiarra."
   },
   {
-   "layout": "split",
-   "imagem": "produto",
+   "layout": "manchete",
+   "tom": "escuro",
    "rotulo": "a virada",
-   "texto": "Não precisa de caixa. Precisa de *uma peça na gaveta*: alicate, chave e lâmina dobrados no tamanho da mão."
-  },
-  {
-   "layout": "produto",
    "imagem": "produto",
-   "selo": "nota 4,9",
-   "texto": "Aço inox, dobrável, cabe no bolso. *Custa menos que um lanche.*"
+   "texto": "Uma peça na gaveta *resolve.*",
+   "sub": "Alicate, chave e lâmina dobrados no tamanho da mão."
   },
   {
-   "texto": "Marca o amigo que ainda usa faca de manteiga. *O link tá no comentário.*"
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "a prova",
+   "imagem": "produto",
+   "selo": "R$ 12,70",
+   "texto": "Inox. Dobrável. *Cabe no bolso.*"
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "texto": "Marca o amigo da *faca de manteiga.*",
+   "sub": "O link tá no comentário."
   }
  ],
  "texto_post": "A faca de manteiga merece aposentadoria.",
  "frase_link": "a ferramenta que vive na minha gaveta",
- "ia_tentado": true
+ "ia_tentado": true,
+ "visual": "em"
 }

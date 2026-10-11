@@ -2,7 +2,7 @@
  "id": "car-20261010-2",
  "aprovado": false,
  "criado": "2026-10-10",
- "modelo": "momento-exato (ref. carrossel de ganchos por nicho, 10/10: colocar a pessoa no momento exato)",
+ "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema com manchete condensada e marca-texto; DXVUQ01jZe6 slides alternando claro e escuro; DbodAhRjx3Z marca-texto vermelho; texto: DeKNxO2EVEn momento exato)",
  "produto": {
   "itemId": "58214462678",
   "nome": "Lanterna Super Potente X71 P50 Tática Mais Forte Do Mundo Potente Sitio Fazenda Acampamento Camping Segurança",
@@ -11,33 +11,43 @@
  },
  "slides": [
   {
-   "layout": "fundo",
-   "imagem_ia": "Night on a dark rural road in Brazil, a man kneeling next to a car with a flat tire, holding a powerful tactical flashlight whose bright beam lights the wheel and the road far ahead, cinematic, vertical framing, empty dark sky at the top, no text",
-   "texto": "Pneu furou às 23h, na estrada escura. *E o celular tá com 9%.*",
-   "texto_pos": "topo",
-   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261010-2-s1.jpg"
+   "layout": "manchete",
+   "foto_inteira": true,
+   "texto": "Pneu furou às 23h. *O celular tá com 9%.*",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261010-2-s1.jpg",
+   "imagem_ia": "Night on a dark rural road in Brazil, a man kneeling next to a car with a flat tire, holding a powerful tactical flashlight whose bright beam lights the wheel and the road far ahead, cinematic, vertical framing, empty dark sky at the top, no text"
   },
   {
+   "layout": "manchete",
+   "tom": "claro",
    "rotulo": "o problema",
-   "texto": "A lanterna do celular clareia 2 metros, esquenta e *come a bateria* que você precisa pra pedir ajuda."
+   "texto": "A lanterna do celular *clareia 2 metros.*",
+   "sub": "Esquenta, come a bateria que você precisa pra pedir ajuda e não mostra nem o estepe."
   },
   {
-   "layout": "split",
-   "imagem": "produto",
+   "layout": "manchete",
+   "tom": "escuro",
    "rotulo": "a virada",
-   "texto": "Quem roda à noite deixa uma lanterna de verdade no porta-luvas. *Recarrega no USB* e clareia a estrada inteira."
+   "imagem": "produto",
+   "texto": "Quem roda à noite tem *uma de verdade.*",
+   "sub": "Recarrega no USB, tem zoom e mora no porta-luvas."
   },
   {
-   "layout": "produto",
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "a prova",
    "imagem": "produto",
    "selo": "nota 4,9",
-   "texto": "Tática, recarregável, com zoom. *Do tamanho da mão.*"
+   "texto": "Clareia a *estrada inteira.*"
   },
   {
-   "texto": "Abre o porta-luvas agora. Se não tem lanterna lá, *o link tá no comentário.*"
+   "layout": "manchete",
+   "tom": "escuro",
+   "texto": "Abre o porta-luvas. Se não tem, *o link tá no comentário.*"
   }
  ],
  "texto_post": "Todo mundo acha que nunca vai precisar. Até a estrada apagar.",
  "frase_link": "a lanterna que mora no meu porta-luvas",
- "ia_tentado": true
+ "ia_tentado": true,
+ "visual": "em"
 }

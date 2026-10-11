@@ -116,7 +116,119 @@ def _rodape(d, ImageFont, n, total, capa, cinza, destaque, sobre_foto=False):
         d.text((W - m - d.textlength("arrasta  >", font=pequena), H - 190), "arrasta  >", font=pequena, fill=destaque)
 
 
-def desenhar(texto, n, total, rotulo="", foto=None, tema="e", layout="", imagem=None, selo="", texto_pos="baixo"):
+ACENTO_MANCHETE = (232, 58, 36)  # vermelho-laranja das referencias de 10/10 (marca-texto atras das palavras)
+
+
+def _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub, tom, contem, selo, inteira=False):
+    """Estilo "manchete condensada" (referencias do Kalebe de 10/10: letras enormes condensadas em caixa alta,
+    rotulo pequeno em cima, *palavra* em marca-texto colorido, foto ou produto embaixo, fundo claro ou escuro)."""
+    inteira = inteira and img is not None
+    claro = tom == "claro" and not inteira
+    fundo = (244, 241, 234) if claro else (14, 14, 16)
+    cor = (18, 18, 18) if claro else (247, 245, 238)
+    cinza = (110, 108, 102) if claro else (170, 170, 170)
+    if inteira:  # foto no slide inteiro (capa de cinema), degradê escuro embaixo e manchete por cima
+        im = _cobrir(Image, img, W, H)
+        sombra = Image.new("L", (1, H))
+        for yy in range(H):
+            sombra.putpixel((0, yy), int(max(0, min(1, (yy - H * 0.30) / (H * 0.50))) ** 1.2 * 235))
+        im = Image.composite(Image.new("RGB", (W, H), (6, 6, 8)), im, sombra.resize((W, H)))
+        img = None
+    else:
+        im = Image.new("RGB", (W, H), fundo)
+    d = ImageDraw.Draw(im)
+    m, capa = 80, n == 1
+    area_txt = int(H * (0.56 if img is not None else 0.80))
+    y0 = 120
+    if rotulo and not inteira:
+        d.text((m, y0), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 30), fill=ACENTO_MANCHETE)
+        y0 += 62
+    texto_up = texto.upper()
+    tam = 150 if capa else 124
+    while tam > 60:
+        f = _fonte(ImageFont, "Anton-Regular.ttf", tam)
+        linhas = _quebrar(d, texto_up, f, W - 2 * m - 20)
+        altura = int(tam * 1.16)
+        if y0 + altura * len(linhas) <= area_txt - (70 if sub else 0):
+            break
+        tam -= 6
+    if inteira:  # texto colado embaixo
+        y0 = H - 170 - (70 if sub else 0) - altura * len(linhas)
+        if rotulo:
+            d.text((m, y0 - 62), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 30), fill=ACENTO_MANCHETE)
+    y = y0
+    ligado = False
+    for linha in linhas:
+        x = m
+        partes = linha.split("*")
+        for k, parte in enumerate(partes):
+            if parte:
+                larg = d.textlength(parte, font=f)
+                if ligado:
+                    bx = d.textbbox((x, y), parte, font=f)
+                    d.rectangle([bx[0] - 10, bx[1] - 8, bx[2] + 10, bx[3] + 8], fill=ACENTO_MANCHETE)
+                d.text((x, y), parte, font=f, fill=(255, 255, 255) if ligado else cor)
+                x += larg
+            if k < len(partes) - 1:
+                ligado = not ligado
+        y += altura
+    if sub:
+        fs = _fonte(ImageFont, "InterDisplay-Bold.otf", 36)
+        for ls in _quebrar(d, sub, fs, W - 2 * m)[:3]:
+            d.text((m, y + 18), ls.replace("*", ""), font=fs, fill=cinza)
+            y += 46
+    if img is not None:
+        topo = max(y + 50, area_txt)
+        alt = H - 150 - topo
+        if contem:
+            caixa = Image.new("RGB", (W - 2 * m, alt), (255, 255, 255))
+            foto = img.copy()
+            foto.thumbnail((W - 2 * m - 40, alt - 40))
+            caixa.paste(foto, ((caixa.width - foto.width) // 2, (alt - foto.height) // 2))
+            im.paste(caixa, (m, topo))
+        else:
+            im.paste(_cobrir(Image, img, W - 2 * m, alt), (m, topo))
+        if selo:
+            _selo(d, ImageFont, selo, m + 24, topo + 24, ACENTO_MANCHETE, (255, 255, 255))
+    elif selo:
+        _selo(d, ImageFont, selo, m, H - 260, ACENTO_MANCHETE, (255, 255, 255))
+    pequena = _fonte(ImageFont, "InterDisplay-Bold.otf", 28)
+    d.text((m, H - 100), PERFIL, font=pequena, fill=cinza)
+    num = f"{n}/{total}"
+    d.text((W - m - d.textlength(num, font=pequena), H - 100), num, font=pequena, fill=cinza)
+    if capa:
+        d.text((W - m - d.textlength("arrasta >", font=pequena) - 90, H - 100), "arrasta >", font=pequena, fill=ACENTO_MANCHETE)
+    return im
+
+
+def _meme(Image, ImageDraw, ImageFont, texto, n, total, img):
+    """Estilo "meme de reacao" (referencias de 10/10): foto inteira, legenda curta em minusculas,
+    branca e centralizada no terco de baixo, com degradê para ler."""
+    im = _cobrir(Image, img, W, H)
+    sombra = Image.new("L", (1, H))
+    for yy in range(H):
+        sombra.putpixel((0, yy), int(max(0, min(1, (yy - H * 0.45) / (H * 0.45))) * 215))
+    im = Image.composite(Image.new("RGB", (W, H), (0, 0, 0)), im, sombra.resize((W, H)))
+    d = ImageDraw.Draw(im)
+    f = _fonte(ImageFont, "InterDisplay-Bold.otf", 58)
+    linhas = _quebrar(d, texto, f, W - 200)
+    altura = 72
+    y = H - 210 - altura * len(linhas)
+    for linha in linhas:
+        limpa = linha.replace("*", "")
+        x = (W - d.textlength(limpa, font=f)) // 2
+        d.text((x + 2, y + 2), limpa, font=f, fill=(0, 0, 0))
+        d.text((x, y), limpa, font=f, fill=(255, 255, 255))
+        y += altura
+    pequena = _fonte(ImageFont, "InterDisplay-Bold.otf", 26)
+    d.text((70, 60), PERFIL, font=pequena, fill=(235, 235, 235))
+    num = f"{n}/{total}"
+    d.text((W - 70 - d.textlength(num, font=pequena), 60), num, font=pequena, fill=(235, 235, 235))
+    return im
+
+
+def desenhar(texto, n, total, rotulo="", foto=None, tema="e", layout="", imagem=None, selo="", texto_pos="baixo",
+             sub="", tom="", contem=False, inteira=False):
     """PNG (bytes) de um slide 1080x1350. n=1 e a capa (fonte maior e 'arrasta').
     layout (escolhido pelo Claude no JSON; vazio = cartao antigo):
       - "fundo":   imagem ocupando o slide inteiro, degradê escuro embaixo e o texto por cima (para o dedo).
@@ -134,8 +246,16 @@ def desenhar(texto, n, total, rotulo="", foto=None, tema="e", layout="", imagem=
             img = Image.open(io.BytesIO(imagem)).convert("RGB")
         except Exception:
             img = None
-    if layout in ("fundo", "split", "produto") and img is None:
-        layout = ""  # sem imagem cai no cartao antigo (nunca quebra)
+    if layout in ("fundo", "split", "produto", "meme") and img is None:
+        layout = "manchete" if layout == "meme" else ""  # sem imagem: meme vira manchete; o resto cai no cartao antigo
+
+    if layout in ("manchete", "meme"):
+        im = (_meme(Image, ImageDraw, ImageFont, texto, n, total, img) if layout == "meme" else
+              _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub,
+                        tom or ("claro" if tema in ("c", "a") else "escuro"), contem, selo, inteira))
+        buf = io.BytesIO()
+        im.save(buf, "PNG", optimize=True)
+        return buf.getvalue()
 
     if layout == "fundo":
         # texto_pos (escolhido por slide no JSON): "baixo" (padrao) ou "topo", conforme onde a foto tem espaco livre
@@ -306,11 +426,12 @@ def preparar(car, prod):
             if not prod.get("imageUrl"):
                 raise RuntimeError("slide de foto sem imagem do produto")
             urls.append(prod["imageUrl"])
-        elif sl.get("layout") in ("fundo", "split", "produto"):
+        elif sl.get("layout") in ("fundo", "split", "produto", "manchete", "meme"):
             img = _imagem_do_slide(sl, prod)
             png = desenhar(sl.get("texto", ""), i, len(slides), sl.get("rotulo", ""), None, tema,
                            layout=sl["layout"], imagem=img, selo=sl.get("selo", ""),
-                           texto_pos=sl.get("texto_pos", "baixo"))
+                           texto_pos=sl.get("texto_pos", "baixo"), sub=sl.get("sub", ""), tom=sl.get("tom", ""),
+                           contem=sl.get("imagem") == "produto", inteira=bool(sl.get("foto_inteira")))
             urls.append(hospedar(f"car/{car['id']}-{visual}-s{i}.png", png))
         else:
             foto = None

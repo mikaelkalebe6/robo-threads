@@ -2,7 +2,7 @@
  "id": "car-20261010-3",
  "aprovado": false,
  "criado": "2026-10-10",
- "modelo": "pera-como-assim (ref. carrossel de capa que gera 'pera, como assim', 10/10)",
+ "modelo": "manchete-pera-como-assim (refs. DdolTobIKuQ capa que gera 'pera, como assim'; DeKNxO2EVEn blocos vermelhos sobre foto; DXVUQ01jZe6 alternando claro e escuro)",
  "produto": {
   "itemId": "45754796089",
   "nome": " Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
@@ -11,33 +11,42 @@
  },
  "slides": [
   {
-   "layout": "fundo",
-   "imagem_ia": "Inside a car at dusk on a highway, close-up of the center console with a small dual car charger plugged into the 12V socket, two smartphones charging, one showing a map navigation app, warm light, vertical framing, free space at the top, no text",
-   "texto": "O celular tá plugado no carro. *E a bateria tá caindo.*",
-   "texto_pos": "topo",
-   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261010-3-s1.jpg"
+   "layout": "manchete",
+   "foto_inteira": true,
+   "texto": "Tá plugado no carro. *E a bateria caindo.*",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261010-3-s1.jpg",
+   "imagem_ia": "Inside a car at dusk on a highway, close-up of the center console with a small dual car charger plugged into the 12V socket, two smartphones charging, one showing a map navigation app, warm light, vertical framing, free space at the top, no text"
   },
   {
+   "layout": "manchete",
+   "tom": "claro",
    "rotulo": "o problema",
-   "texto": "GPS ligado, música tocando, 3 horas de estrada. O USB de fábrica *não dá conta* e o celular chega no destino com 5%."
+   "texto": "GPS + música + 3h de estrada = *5% no destino.*"
   },
   {
-   "layout": "split",
-   "imagem": "produto",
+   "layout": "manchete",
+   "tom": "escuro",
    "rotulo": "a virada",
-   "texto": "O problema não é o celular. *É a saída fraca do carro.* Um carregador de verdade na tomada 12V resolve."
+   "texto": "Não é o celular. *É a saída fraca do carro.*",
+   "sub": "O USB de fábrica de muito carro não dá conta do GPS ligado."
   },
   {
-   "layout": "produto",
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "a solução",
    "imagem": "produto",
    "selo": "+4 mil vendidos",
-   "texto": "Duas USB e uma *Tipo-C*. Motorista e carona carregando juntos."
+   "texto": "Duas USB + *Tipo-C.*",
+   "sub": "Motorista e carona carregando juntos."
   },
   {
-   "texto": "Na próxima viagem, se o celular descarregar plugado, *o link tá no comentário.*"
+   "layout": "manchete",
+   "tom": "escuro",
+   "texto": "Próxima viagem: *o link tá no comentário.*"
   }
  ],
  "texto_post": "A briga pelo carregador na viagem acaba aqui.",
  "frase_link": "o carregador que acabou com a briga no carro",
- "ia_tentado": true
+ "ia_tentado": true,
+ "visual": "em"
 }
