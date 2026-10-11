@@ -30,6 +30,21 @@ jobs:
           SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
           MIDIA_TOKEN: ${{ secrets.MIDIA_PAT }}  # token proprio, so Contents no repositorio de imagens (sem ele o carrossel e pulado)
           SHOPEE_LIGADO: ${{ vars.SHOPEE_LIGADO }}
+          CHANCE_FOTO_FIO: ${{ vars.CHANCE_FOTO_FIO }}
+          ESTRATEGIA_FIO: ${{ vars.ESTRATEGIA_FIO }}
+          ESTRATEGIA_MEME: ${{ vars.ESTRATEGIA_MEME }}
+          MEME_CHECAGENS_POR_RODADA: ${{ vars.MEME_CHECAGENS_POR_RODADA }}
+          MEME_JANELA_HORAS: ${{ vars.MEME_JANELA_HORAS }}
+          MEME_LINKS_POR_DIA: ${{ vars.MEME_LINKS_POR_DIA }}
+          MEME_VIEWS_LINK: ${{ vars.MEME_VIEWS_LINK }}
+          PESOS_ESTRATEGIA: ${{ vars.PESOS_ESTRATEGIA }}
+          PRODUTO_POR_DIA: ${{ vars.PRODUTO_POR_DIA }}
+          SHOPEE_REPETIR_DIAS: ${{ vars.SHOPEE_REPETIR_DIAS }}
+          SHOPEE_TOP_IA: ${{ vars.SHOPEE_TOP_IA }}
+          SHOPEE_TOP_SORTEIO: ${{ vars.SHOPEE_TOP_SORTEIO }}
+          SHOPEE_VENDAS_DIAS: ${{ vars.SHOPEE_VENDAS_DIAS }}
+          TESTE_COMENTARIO_PRODUTO: ${{ vars.TESTE_COMENTARIO_PRODUTO }}
+          VIRAL_TODOS_POSTS: ${{ vars.VIRAL_TODOS_POSTS }}
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
           PLANILHA_URL: ${{ vars.PLANILHA_URL }}
