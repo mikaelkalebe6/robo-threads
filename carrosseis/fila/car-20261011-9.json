@@ -1,0 +1,43 @@
+{
+ "id": "car-20261011-9",
+ "aprovado": false,
+ "revisao": "aguardando previa",
+ "criado": "2026-10-11",
+ "modelo": "meme de reacao com foto real do produto (refs. DdbtUQQoA9-) + manchete (DXVUQ01jZe6)",
+ "produto": {
+  "itemId": "23093824562",
+  "nome": "Tênis Casual Branco Feminino Masculino Conforto Premium Academia Original",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn8h5ufyu4kb0",
+  "offerLink": "https://s.shopee.com.br/7AeEAjg5qY"
+ },
+ "slides": [
+  {
+   "layout": "meme",
+   "imagem": "produto",
+   "texto": "o tênis branco que combina até com a bermuda do churrasco"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "Tênis bom *custa uma parcela de carro.*",
+   "sub": "E o branco barato amarela, descola e machuca o calcanhar no primeiro mês."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "+7 mil vendidos",
+   "texto": "Tênis branco casual: *combina com tudo.*",
+   "sub": "Solado alto e visual limpo que vai com calça, bermuda ou jeans."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Do trabalho ao churrasco. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Tem tênis que vai em tudo. Esse é um.",
+ "frase_link": "o tênis branco daqui"
+}

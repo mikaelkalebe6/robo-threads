@@ -1,0 +1,32 @@
+{
+ "id": "fio-20261011-3",
+ "aprovado": true,
+ "criado": "2026-10-11",
+ "partes": [
+  {
+   "texto": "Carteira estufada no bolso de trás incomoda pra sentar e ainda mostra pra todo mundo onde tá o dinheiro.",
+   "midia": "nenhuma",
+   "link": false
+  },
+  {
+   "texto": "Nota amassada, comprovante de 2023, cartão que nem funciona mais. Você senta no carro e vai torto o caminho inteiro.",
+   "midia": "nenhuma",
+   "link": false
+  },
+  {
+   "texto": "Troquei por uma carteira fina de couro sintético. Cabe os cartões que eu uso e as notas, e quase some no bolso.",
+   "midia": "produto",
+   "link": true
+  },
+  {
+   "texto": "Preço de um almoço. Se a sua tá desse jeito, o link ficou aí em cima.",
+   "midia": "nenhuma",
+   "link": false
+  }
+ ],
+ "produto": {
+  "itemId": "23198658411",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgr21ik9cvlsea",
+  "offerLink": "https://s.shopee.com.br/2LYzLYebmu"
+ }
+}

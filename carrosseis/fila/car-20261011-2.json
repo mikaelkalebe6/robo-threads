@@ -1,0 +1,45 @@
+{
+ "id": "car-20261011-2",
+ "aprovado": false,
+ "revisao": "aguardando previa",
+ "criado": "2026-10-11",
+ "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
+ "produto": {
+  "itemId": "22493432361",
+  "nome": "Lanterna de Cabeça 5 Led Luz Forte  À Prova D 'Água USB Recarregável 4 Modos",
+  "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reqi-m8lur4kj8tr6d2",
+  "offerLink": "https://s.shopee.com.br/9V28x1oo8o"
+ },
+ "slides": [
+  {
+   "layout": "manchete",
+   "foto_inteira": true,
+   "texto_pos": "topo",
+   "imagem_ia": "Night, a man leaning under the open hood of an old car, wearing a bright LED headlamp on his forehead lighting the engine, both hands holding tools, dark empty sky at the top, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "Segurar a lanterna na boca *não é plano.*"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "Uma mão segura a luz, *a outra faz tudo.*",
+   "sub": "Pneu furado à noite, motor, pescaria, falta de luz. Sempre falta a terceira mão."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "recarrega no USB",
+   "texto": "Lanterna de cabeça: *as duas mãos livres.*",
+   "sub": "5 LEDs, elástico ajustável e recarga no cabo USB. A luz vai pra onde você olha."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Mora no porta-malas e na caixa de pesca. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Lanterna de mão é ótima até você precisar das duas mãos.",
+ "frase_link": "a lanterna de cabeça que eu deixo no carro"
+}

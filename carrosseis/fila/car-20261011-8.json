@@ -1,0 +1,45 @@
+{
+ "id": "car-20261011-8",
+ "aprovado": false,
+ "revisao": "aguardando previa",
+ "criado": "2026-10-11",
+ "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
+ "produto": {
+  "itemId": "22898782559",
+  "nome": "LANTERNA UV ULTRAVIOLETA RECARREGÁVEL TÁTICA POTENTE",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me3mfna4dwxv1f",
+  "offerLink": "https://s.shopee.com.br/8fT1xUReTH"
+ },
+ "slides": [
+  {
+   "layout": "manchete",
+   "foto_inteira": true,
+   "texto_pos": "topo",
+   "imagem_ia": "Dark backyard wall at night, a hand holding a small flashlight emitting purple ultraviolet light that makes a scorpion on the wall glow bright green, empty dark area at the top, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "Escorpião brilha no escuro. *Com a luz certa.*"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "No quintal à noite *ele some na parede.*",
+   "sub": "Lanterna comum não mostra. Com luz ultravioleta ele aparece verde."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "2 luzes em 1",
+   "texto": "Lanterna UV: *luz roxa e luz branca.*",
+   "sub": "Recarregável e cabe no bolso. Também mostra xixi de pet no tapete."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Quem mora perto de mato precisa de uma. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Descobri isso depois de achar um no banheiro.",
+ "frase_link": "a lanterna que mostra o escorpião"
+}

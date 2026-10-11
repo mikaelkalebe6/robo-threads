@@ -1,0 +1,45 @@
+{
+ "id": "car-20261011-7",
+ "aprovado": false,
+ "revisao": "aguardando previa",
+ "criado": "2026-10-11",
+ "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
+ "produto": {
+  "itemId": "20298142088",
+  "nome": "Balaclava  Facial UV Respirável para Moto, Pesca e Esportes",
+  "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ou-mosj94b62cxuaf",
+  "offerLink": "https://s.shopee.com.br/6VOXNW0IVd"
+ },
+ "slides": [
+  {
+   "layout": "manchete",
+   "foto_inteira": true,
+   "texto_pos": "topo",
+   "imagem_ia": "A motorcycle rider stopped at a traffic light under hot afternoon sun in a Brazilian city, open face helmet, squinting, sweaty and sunburned face, empty bright sky at the top, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "Capacete aberto, *rosto de pimentão.*"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "Sol, vento e poeira *o dia inteiro na moto.*",
+   "sub": "No fim do expediente o rosto arde e o pescoço tá vermelho."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "proteção UV",
+   "texto": "Balaclava: *rosto e pescoço cobertos.*",
+   "sub": "Tecido fino que respira e cabe por baixo do capacete. Serve pra pesca também."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Vários modelos e cores. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Quem roda de moto o dia todo vai entender na primeira foto.",
+ "frase_link": "a balaclava que eu indico"
+}

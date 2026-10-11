@@ -1,0 +1,45 @@
+{
+ "id": "car-20261011-4",
+ "aprovado": false,
+ "revisao": "aguardando previa",
+ "criado": "2026-10-11",
+ "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
+ "produto": {
+  "itemId": "21897981655",
+  "nome": "Led Neon Rgb Luz Interno C/controle Acessórios Carro Tuning",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2wqq460zqad99",
+  "offerLink": "https://s.shopee.com.br/7faUleI3M5"
+ },
+ "slides": [
+  {
+   "layout": "manchete",
+   "foto_inteira": true,
+   "texto_pos": "topo",
+   "imagem_ia": "Interior of a parked hatchback car at night seen from the back seat, soft colorful ambient LED light glowing under the dashboard and seats, city lights blurred outside, empty dark roof area at the top, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "Mesmo carro. *Outra noite.*"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "Carro por dentro à noite *é tudo breu.*",
+   "sub": "A chave cai no assoalho e você procura com a lanterna do celular."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "com controle",
+   "texto": "Luz LED interna: *a cor no controle.*",
+   "sub": "4 barras pra baixo do painel e dos bancos, liga no acendedor. Sem mexer na fiação."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Com o carro parado, ou bem fraquinha na estrada. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Tem gente que troca de carro. Eu troquei a luz.",
+ "frase_link": "a luz que mudou meu carro"
+}

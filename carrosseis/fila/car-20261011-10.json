@@ -1,0 +1,43 @@
+{
+ "id": "car-20261011-10",
+ "aprovado": false,
+ "revisao": "aguardando previa",
+ "criado": "2026-10-11",
+ "modelo": "vitrine (ref. DYUzwlokWpa) + manchete claro/escuro (DXVUQ01jZe6)",
+ "produto": {
+  "itemId": "14831203028",
+  "nome": "Pulseira de silicone para Smartwatch 44mm 40mm 38mm 42mm cinto de borracha smartwatch pulseira iwatch",
+  "imageUrl": "https://cf.shopee.com.br/file/b1ed91ed9ff02a3b583b6891da086210",
+  "offerLink": "https://s.shopee.com.br/8pmS9nQoHG"
+ },
+ "slides": [
+  {
+   "layout": "produto",
+   "texto": "Seu relógio *ainda é bom.* A pulseira que não.",
+   "selo": "várias cores"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "Pulseira original *rasga no suor.*",
+   "sub": "Academia, calor e serviço. Racha na dobra e a loja cobra caro pra trocar."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "R$ 8",
+   "texto": "Pulseira de silicone: *troca rapidinho.*",
+   "sub": "Encaixe no relógio inteligente de 38 a 44 mm. Uma pra treino, outra pra sair."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Escolhe a cor e *o link tá no comentário.*"
+  }
+ ],
+ "texto_post": "Não troquei o relógio. Troquei a pulseira.",
+ "frase_link": "a pulseira que eu uso"
+}

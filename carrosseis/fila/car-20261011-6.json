@@ -1,0 +1,43 @@
+{
+ "id": "car-20261011-6",
+ "aprovado": false,
+ "revisao": "aguardando previa",
+ "criado": "2026-10-11",
+ "modelo": "meme de reacao (refs. DdbtUQQoA9-, DeRyDE-IH2i) + manchete (DXVUQ01jZe6)",
+ "produto": {
+  "itemId": "14065340258",
+  "nome": "Chapéu Pescador Camping Australiano Proteção Pescoço",
+  "imageUrl": "https://cf.shopee.com.br/file/0094b9d03a832b090cfefd00cbed81f0",
+  "offerLink": "https://s.shopee.com.br/9fLZ9KoAnp"
+ },
+ "slides": [
+  {
+   "layout": "meme",
+   "imagem_ia": "A man fishing on a small boat on a Brazilian river under strong midday sun, seen from behind, wearing a regular cap, the back of his neck visibly red and sunburned, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "a nuca depois de 4 horas de pescaria de boné"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "Boné protege a testa. *A nuca vira churrasco.*",
+   "sub": "Sol na beira do rio a manhã inteira e a pele descascando a semana toda."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "várias cores",
+   "texto": "Chapéu com *capa no pescoço.*",
+   "sub": "Aba larga e tecido que cobre nuca e laterais. Pesca, roça, praia e obra."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Tem até o camuflado. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Pescador experiente se reconhece pelo chapéu, não pela vara.",
+ "frase_link": "o chapéu que salvou minha nuca"
+}

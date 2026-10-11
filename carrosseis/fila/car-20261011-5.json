@@ -1,0 +1,45 @@
+{
+ "id": "car-20261011-5",
+ "aprovado": false,
+ "revisao": "aguardando previa",
+ "criado": "2026-10-11",
+ "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
+ "produto": {
+  "itemId": "18599879164",
+  "nome": "3/2/1 PCS Pochete Doleira Antifurto Nylon Impermeável Porta Celular Dinheiro Segurança Viagem Corrida Academia",
+  "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repa-mdv3544s8w65bd",
+  "offerLink": "https://s.shopee.com.br/6q1Nm7hMWS"
+ },
+ "slides": [
+  {
+   "layout": "manchete",
+   "foto_inteira": true,
+   "texto_pos": "topo",
+   "imagem_ia": "Crowded outdoor music concert at night in Brazil seen from behind the crowd, a man's hand protectively touching his front pocket, stage lights far away, empty dark sky at the top, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "Show lotado. *Bolso da frente não é cofre.*"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "Celular no bolso *é o primeiro que some.*",
+   "sub": "Show, praia, metrô lotado. Quando você percebe, já foi."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "discreta",
+   "texto": "Pochete doleira: *por baixo da roupa.*",
+   "sub": "Fica escondida debaixo da camiseta com celular, cartão e documento. Duas divisórias."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Custa menos que uma capinha de celular. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Fui em 3 shows esse ano e voltei com o celular nos 3.",
+ "frase_link": "a pochete que ninguém vê"
+}
