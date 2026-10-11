@@ -21,10 +21,11 @@
    "08:19",
    "09:03",
    "09:50",
-   "14:16"
+   "14:16",
+   "15:29"
   ],
-  "produtos_feitos": 1,
-  "respostas": 44,
+  "produtos_feitos": 2,
+  "respostas": 46,
   "por_post": {
    "17975559206935962": 20,
    "18179925583431899": 1,
@@ -33,28 +34,11 @@
    "18078986099393308": 2,
    "17894365761611421": 1,
    "18112767806335344": 1,
-   "18129449095879104": 16,
-   "18125942191740363": 1
+   "18129449095879104": 17,
+   "18125942191740363": 2
   }
  },
  "posts": [
-  {
-   "id": "18375054751212499",
-   "insp": "fb886a59a7",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: vocês também batem no painel do carro pedindo pra ele aguentar mais um pouco quando acende alguma luz do nada?",
-   "quando": "2026-10-06T15:37:09.864411-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 588,
-    "likes": 10,
-    "replies": 18,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-11"
-   }
-  },
   {
    "id": "18118761089472689",
    "insp": "852685f1e2",
@@ -931,7 +915,7 @@
    "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
    "quando": "2026-10-10T18:07:09.225159-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T15:07:09.366456-04:00",
+   "viral_chk": "2026-10-11T15:37:09.556759-04:00",
    "metricas": {
     "views": 71,
     "likes": 2,
@@ -949,7 +933,7 @@
    "texto": "ME CONTA: para a minha mãe, qualquer problema na vida se resolve com um banho quente e chá de camomila. De resfriado a coração partido. Qual é o remédio universal da mãe de vocês?",
    "quando": "2026-10-10T19:07:09.130648-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T15:07:09.366456-04:00",
+   "viral_chk": "2026-10-11T15:37:09.556759-04:00",
    "metricas": {
     "views": 376,
     "likes": 1,
@@ -967,7 +951,7 @@
    "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
    "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T15:07:09.366456-04:00",
+   "viral_chk": "2026-10-11T15:37:09.556759-04:00",
    "metricas": {
     "views": 548,
     "likes": 21,
@@ -1006,7 +990,7 @@
    "texto": "DÚVIDA SINCERA: salário alto num lugar que suga sua alma ou ganhar menos pra trabalhar em paz?",
    "quando": "2026-10-10T21:37:09.313934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T15:07:09.366456-04:00",
+   "viral_chk": "2026-10-11T15:37:09.556759-04:00",
    "metricas": {
     "views": 85,
     "likes": 0,
@@ -1057,7 +1041,21 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T14:37:08.319928-04:00"
+   "viral_chk": "2026-10-11T15:37:09.556759-04:00"
+  },
+  {
+   "id": "18112326992130330",
+   "insp": "car_car-20261010-2",
+   "link": "",
+   "texto": "Pneu furou às 23h. *O celular tá com 9%.*",
+   "quando": "2026-10-11T15:37:09.556759-04:00",
+   "ia": "carrossel",
+   "estrategia": "carrossel",
+   "formato": "carrossel",
+   "formato_link": "comentfoto",
+   "produto": "58214462678",
+   "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema com manchete condensada e marca-texto; DXVUQ01jZe6 slides alternando claro e escuro; DbodAhRjx3Z marca-texto vermelho; texto: DeKNxO2EVEn momento exato)",
+   "visual": "em"
   }
  ],
  "respondidos": [
@@ -2534,7 +2532,9 @@
   "18095814116126859",
   "17984348172083490",
   "18114002009157267",
-  "18151878553540032"
+  "18151878553540032",
+  "18145033780574974",
+  "18287546236294280"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2891,20 +2891,12 @@
   "9df1418609": 1,
   "ad5361d90f": 1,
   "b75f92e118": 1,
-  "f4a6244f93": 1
+  "f4a6244f93": 1,
+  "09820c3fd8": 1,
+  "dc153fb9b9": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "metade do salario mínimo na epoca já exigia exercicio diario de paciência",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a inflação chega em todo lugar, até na nossa coragem kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa quantia nessa época já garantia ansiedade vitalícia de brinde",
    "p": "concorda",
@@ -3044,6 +3036,16 @@
    "t": "cada escolha uma surpresa diferente no caminho",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse posto aí pelo menos garante um visual clássico enquanto o motor desliga sozinho kkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "argumento impecável, mudou minha vida inteira",
+   "p": "discorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3116,6 +3118,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-11T12:07:09.276302-04:00"
+  },
+  "18116133517965530": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-11T15:37:09.556759-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -3820,10 +3827,12 @@
    "com dez mil",
    "pode ate ser",
    "mas parece que",
-   "esse ai deve"
+   "esse ai deve",
+   "argumento impecavel mudou"
   ],
   "18125942191740363": [
-   "cada escolha uma"
+   "cada escolha uma",
+   "esse posto ai"
   ]
  },
  "shopee_checada": "2026-10-11|1",
@@ -4325,7 +4334,8 @@
   "19999249755": "2026-10-10T21:07:08.531577-04:00",
   "45754796089": "2026-10-10T22:37:08.608812-04:00",
   "18599696115": "2026-10-11T09:07:10.464629-04:00",
-  "22393525887": "2026-10-11T12:07:09.276302-04:00"
+  "22393525887": "2026-10-11T12:07:09.276302-04:00",
+  "58214462678": "2026-10-11T15:37:09.556759-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4338,7 +4348,8 @@
   "qtd": 1
  },
  "carrosseis_usados": [
-  "car-20261010-1"
+  "car-20261010-1",
+  "car-20261010-2"
  ],
  "shopee_campanhas_marca": "60cf778194",
  "shopee_campanhas_api": [
