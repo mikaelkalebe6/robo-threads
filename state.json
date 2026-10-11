@@ -28,10 +28,11 @@
    "16:39",
    "17:57",
    "18:56",
-   "19:50"
+   "19:50",
+   "20:45"
   ],
-  "produtos_feitos": 2,
-  "respostas": 94,
+  "produtos_feitos": 3,
+  "respostas": 97,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 13,
@@ -40,32 +41,15 @@
    "17883591987689452": 8,
    "18124736575742625": 1,
    "17931200094409342": 9,
-   "18078986099393308": 18,
+   "18078986099393308": 19,
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3,
-   "17975559206935962": 18,
+   "17975559206935962": 20,
    "18003828527991536": 2
   }
  },
  "posts": [
-  {
-   "id": "18090795653210068",
-   "insp": "f1481a1658",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: vocês lavam o frango antes de cozinhar ou acham que só espalha bactéria pela pia inteira",
-   "quando": "2026-10-06T10:07:15.515888-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 409,
-    "likes": 1,
-    "replies": 15,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-10"
-   }
-  },
   {
    "id": "18152505118527863",
    "insp": "338b545216",
@@ -997,6 +981,18 @@
    "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
    "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18124510639917840",
+   "insp": "prod_19999249755",
+   "link": "",
+   "texto": "Comprei um kit de mini alicates de precisão pra arrumar umas bijuterias e agora acho que consigo consertar qualquer circuito da casa. A tesoura de cozinha finalmente teve paz.",
+   "quando": "2026-10-10T21:07:08.531577-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "comentfoto",
+   "produto": "19999249755"
   }
  ],
  "respondidos": [
@@ -2420,7 +2416,10 @@
   "18117215501326010",
   "17941532748096344",
   "18150941989543271",
-  "17899775910671394"
+  "17899775910671394",
+  "18128720230829726",
+  "18129048850693532",
+  "17919462369244967"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2815,25 +2814,13 @@
   "7193e61a99": 1,
   "330e6195cf": 1,
   "a218f35bf2": 1,
-  "3d15d7bdcd": 1
+  "3d15d7bdcd": 1,
+  "ff5612f7bb": 1,
+  "0d60fe312d": 1,
+  "43270636fd": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "começo de século passado já com esse valor na conta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "investimento de respeito, zero arrependimento kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "final de tarde com cerveja gelada muda qualquer cenário mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "começar tão cedo com essa responsabilidade explica muita coisa sobre a nossa relação com o dinheiro hoje",
    "p": "concorda",
@@ -2968,6 +2955,21 @@
    "t": "verdade absoluta, o carro sofre calado enquanto a gente arrisca",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "duzentos reais nessa idade molda uma pessoa para o resto da vida",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem tem intimidade com o ponteiro vive perigosamente",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "base para a vida inteira de ansiedade financeira",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3025,6 +3027,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-10T17:07:08.679990-04:00"
+  },
+  "17890663623683540": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-10T21:07:08.531577-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -3669,7 +3676,8 @@
    "pura filosofia de",
    "linha tenue entre",
    "carro velho raiz",
-   "verdade absoluta o"
+   "verdade absoluta o",
+   "quem tem intimidade"
   ],
   "18076654343444049": [
    "boa tarde tudo"
@@ -3697,7 +3705,9 @@
    "epoca em que",
    "escala 6x1 aos",
    "virada do milenio",
-   "infancia trabalhando cedo"
+   "infancia trabalhando cedo",
+   "duzentos reais nessa",
+   "base para a"
   ],
   "18003828527991536": [
    "pesado mas real",
@@ -4260,7 +4270,7 @@
  "shopee_usados": {
   "29588922747": "2026-10-09T22:37:10.488190-04:00",
   "58261620022": "2026-10-10T10:07:08.825630-04:00",
-  "19999249755": "2026-10-10T17:07:08.679990-04:00"
+  "19999249755": "2026-10-10T21:07:08.531577-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
