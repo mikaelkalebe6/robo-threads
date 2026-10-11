@@ -33,7 +33,7 @@
    "21:30"
   ],
   "produtos_feitos": 3,
-  "respostas": 98,
+  "respostas": 100,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 13,
@@ -47,7 +47,8 @@
    "18076654343444049": 1,
    "17924890374203799": 3,
    "17975559206935962": 20,
-   "18003828527991536": 2
+   "18003828527991536": 2,
+   "18009796532776328": 2
   }
  },
  "posts": [
@@ -2412,7 +2413,9 @@
   "18128720230829726",
   "18129048850693532",
   "17919462369244967",
-  "18108649414930745"
+  "18108649414930745",
+  "17971160856156635",
+  "17905708239664036"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2813,20 +2816,12 @@
   "ff5612f7bb": 1,
   "0d60fe312d": 1,
   "43270636fd": 1,
-  "da053ac9a7": 1
+  "da053ac9a7": 1,
+  "a6b9319c89": 1,
+  "844f18b9d5": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "ajuda de custo que era praticamente um abraço e olhe lá",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "valor que hoje em dia não paga nem o lanche da tarde",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse frances aí parece nave espacial de filme antigo, uma obra de arte",
    "p": "concorda",
@@ -2964,6 +2959,16 @@
   },
   {
    "t": "herança de pai raiz é trauma com ponteiro baixo, paz de espírito vale cada litro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "responsabilidade muda toda a perspectiva mesmo, a gente engole muita coisa pelos filhos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paz não tem preço mesmo, escolha certeira",
    "p": "concorda",
    "r": 0
   }
@@ -3439,18 +3444,6 @@
   }
  ],
  "aberturas_post": {
-  "18115082014839784": [
-   "esse numero e",
-   "o algoritmo adora",
-   "medida exata para",
-   "arzao ganha na",
-   "duas escolhas dificeis",
-   "aposta maxima contra",
-   "escolha direta e",
-   "silencio e temperatura",
-   "ac a 72",
-   "estrategia impecavel para"
-  ],
   "18105144680201716": [
    "criatividade mil para"
   ],
@@ -3709,6 +3702,10 @@
   "18003828527991536": [
    "pesado mas real",
    "camomila com apagao"
+  ],
+  "18009796532776328": [
+   "responsabilidade muda toda",
+   "paz nao tem"
   ]
  },
  "shopee_checada": "2026-10-10|1",
