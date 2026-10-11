@@ -24,7 +24,7 @@
    "14:16"
   ],
   "produtos_feitos": 1,
-  "respostas": 43,
+  "respostas": 44,
   "por_post": {
    "17975559206935962": 20,
    "18179925583431899": 1,
@@ -33,7 +33,8 @@
    "18078986099393308": 2,
    "17894365761611421": 1,
    "18112767806335344": 1,
-   "18129449095879104": 16
+   "18129449095879104": 16,
+   "18125942191740363": 1
   }
  },
  "posts": [
@@ -930,7 +931,7 @@
    "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
    "quando": "2026-10-10T18:07:09.225159-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T14:37:08.319928-04:00",
+   "viral_chk": "2026-10-11T15:07:09.366456-04:00",
    "metricas": {
     "views": 71,
     "likes": 2,
@@ -948,7 +949,7 @@
    "texto": "ME CONTA: para a minha mãe, qualquer problema na vida se resolve com um banho quente e chá de camomila. De resfriado a coração partido. Qual é o remédio universal da mãe de vocês?",
    "quando": "2026-10-10T19:07:09.130648-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T14:37:08.319928-04:00",
+   "viral_chk": "2026-10-11T15:07:09.366456-04:00",
    "metricas": {
     "views": 376,
     "likes": 1,
@@ -966,7 +967,7 @@
    "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
    "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T14:37:08.319928-04:00",
+   "viral_chk": "2026-10-11T15:07:09.366456-04:00",
    "metricas": {
     "views": 548,
     "likes": 21,
@@ -1005,7 +1006,7 @@
    "texto": "DÚVIDA SINCERA: salário alto num lugar que suga sua alma ou ganhar menos pra trabalhar em paz?",
    "quando": "2026-10-10T21:37:09.313934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T14:37:08.319928-04:00",
+   "viral_chk": "2026-10-11T15:07:09.366456-04:00",
    "metricas": {
     "views": 85,
     "likes": 0,
@@ -1023,7 +1024,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
    "quando": "2026-10-11T08:37:08.861815-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T14:07:09.997684-04:00"
+   "viral_chk": "2026-10-11T15:07:09.366456-04:00"
   },
   {
    "id": "18112767806335344",
@@ -2532,7 +2533,8 @@
   "17960986475999095",
   "18095814116126859",
   "17984348172083490",
-  "18114002009157267"
+  "18114002009157267",
+  "18151878553540032"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2888,15 +2890,11 @@
   "29675caf21": 1,
   "9df1418609": 1,
   "ad5361d90f": 1,
-  "b75f92e118": 1
+  "b75f92e118": 1,
+  "f4a6244f93": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "evoluir o nível de loucura resume perfeitamente a jornada corporativa kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "metade do salario mínimo na epoca já exigia exercicio diario de paciência",
    "p": "concorda",
@@ -3039,6 +3037,11 @@
   },
   {
    "t": "beneficio nessa epoca já ajudava a salvar o mês",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cada escolha uma surpresa diferente no caminho",
    "p": "concorda",
    "r": 0
   }
@@ -3552,13 +3555,6 @@
   }
  ],
  "aberturas_post": {
-  "17990532371862859": [
-   "esse ambiente pequeno",
-   "escolha corajosa esse",
-   "trauma coletivo ativado",
-   "quarentena mental garantida",
-   "esse ganha o"
-  ],
   "18098203103652972": [
    "lei inquestionavel em",
    "esse nome tem",
@@ -3825,6 +3821,9 @@
    "pode ate ser",
    "mas parece que",
    "esse ai deve"
+  ],
+  "18125942191740363": [
+   "cada escolha uma"
   ]
  },
  "shopee_checada": "2026-10-11|1",
