@@ -23,16 +23,16 @@
    "09:50"
   ],
   "produtos_feitos": 1,
-  "respostas": 38,
+  "respostas": 41,
   "por_post": {
-   "17975559206935962": 16,
+   "17975559206935962": 18,
    "18179925583431899": 1,
    "17931200094409342": 1,
    "18009796532776328": 1,
    "18078986099393308": 2,
    "17894365761611421": 1,
    "18112767806335344": 1,
-   "18129449095879104": 15
+   "18129449095879104": 16
   }
  },
  "posts": [
@@ -946,7 +946,7 @@
    "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
    "quando": "2026-10-10T18:07:09.225159-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T12:37:08.444291-04:00",
+   "viral_chk": "2026-10-11T13:07:10.414309-04:00",
    "metricas": {
     "views": 71,
     "likes": 2,
@@ -964,7 +964,7 @@
    "texto": "ME CONTA: para a minha mãe, qualquer problema na vida se resolve com um banho quente e chá de camomila. De resfriado a coração partido. Qual é o remédio universal da mãe de vocês?",
    "quando": "2026-10-10T19:07:09.130648-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T12:37:08.444291-04:00",
+   "viral_chk": "2026-10-11T13:07:10.414309-04:00",
    "metricas": {
     "views": 376,
     "likes": 1,
@@ -982,7 +982,7 @@
    "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
    "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T12:37:08.444291-04:00",
+   "viral_chk": "2026-10-11T13:07:10.414309-04:00",
    "metricas": {
     "views": 548,
     "likes": 21,
@@ -1021,7 +1021,7 @@
    "texto": "DÚVIDA SINCERA: salário alto num lugar que suga sua alma ou ganhar menos pra trabalhar em paz?",
    "quando": "2026-10-10T21:37:09.313934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T12:37:08.444291-04:00",
+   "viral_chk": "2026-10-11T13:07:10.414309-04:00",
    "metricas": {
     "views": 85,
     "likes": 0,
@@ -1039,7 +1039,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
    "quando": "2026-10-11T08:37:08.861815-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T12:37:08.444291-04:00"
+   "viral_chk": "2026-10-11T13:07:10.414309-04:00"
   },
   {
    "id": "18112767806335344",
@@ -2533,7 +2533,11 @@
   "18169768666475432",
   "18154040368523381",
   "18105749888109228",
-  "18150366424545390"
+  "18150366424545390",
+  "17995195587046512",
+  "18074606864479905",
+  "17960986475999095",
+  "18095814116126859"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2882,25 +2886,13 @@
   "859af6eb9c": 1,
   "651b1e71e3": 1,
   "a6db787552": 1,
-  "87afc0ed1b": 1
+  "87afc0ed1b": 1,
+  "1e176dd47a": 1,
+  "29675caf21": 1,
+  "9df1418609": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "esse valor nessa epoca já vinha com pacote completo de suor",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "shopping sempre exigiu muito e pagou pouco no começo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse ano já exigia muita criatividade pra fechar o mês kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "consciência financeira aos dezesseis anos é um privilégio raro que molda bem a relação com o dinheiro",
    "p": "concorda",
@@ -3033,6 +3025,21 @@
   },
   {
    "t": "poder de compra daquela epoca virou lenda urbana",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse aí deve vir com prestação vitalícia inclusa kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa faixa aí já vinha com o boleto embutido pra assustar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa quantia com toda essa carga de trabalho pesada deixa qualquer um traumatizado",
    "p": "concorda",
    "r": 0
   }
@@ -3766,8 +3773,6 @@
    "esse jogo testava"
   ],
   "17975559206935962": [
-   "virada do milenio",
-   "infancia trabalhando cedo",
    "duzentos reais nessa",
    "base para a",
    "momento historico que",
@@ -3785,7 +3790,9 @@
    "essa quantia nessa",
    "essa epoca pagava",
    "trabalhar cedo as",
-   "poder de compra"
+   "poder de compra",
+   "essa faixa ai",
+   "essa quantia com"
   ],
   "18003828527991536": [
    "pesado mas real",
@@ -3817,7 +3824,8 @@
    "nem precisa entrar",
    "com dez mil",
    "pode ate ser",
-   "mas parece que"
+   "mas parece que",
+   "esse ai deve"
   ]
  },
  "shopee_checada": "2026-10-11|1",
