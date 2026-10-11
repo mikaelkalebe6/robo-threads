@@ -83,6 +83,11 @@ PADRAO = {
     "TESTE_COMENTARIO_PRODUTO": "1",
     "ESTRATEGIA_MEME": "1", "MEME_JANELA_HORAS": "24", "MEME_CHECAGENS_POR_RODADA": "5", "MEME_VIEWS_LINK": "1000", "MEME_LINKS_POR_DIA": "3",
     "ESTRATEGIA_FIO": "1",
+    # Estrategia 1 ampliada (briefing 10/10): 1 = qualquer post de engajamento do robo que passar de MEME_VIEWS_LINK views
+    # recebe o link de um produto ligado ao tema (a IA escolhe; se nada combinar, nao comenta). 0 = so posts "meme"
+    "VIRAL_TODOS_POSTS": "1",
+    # quantos produtos do dia a IA ve para escolher o que combina (post viral e post de produto com foto)
+    "SHOPEE_TOP_IA": "12",
     "PRODUTO_POR_DIA": "3",
     # sorteio da estrategia em cada horario de produto (pesos iguais ate 23/10; nao ajustar sozinho)
     "PESOS_ESTRATEGIA": "carrossel:1,fio:1",
@@ -899,6 +904,73 @@ def sortear_produto(prods, s=None, agora=None):
     return random.choice(prods[:max(1, int(cfg("SHOPEE_TOP_SORTEIO")))]) if prods else None
 
 
+PUBLICO_PRODUTO = "maioria homens de 25 a 44 anos, Brasil inteiro"
+
+
+def _lista_para_ia(s, agora):
+    """Produtos do dia ainda nao divulgados, os N melhores (SHOPEE_TOP_IA)."""
+    prods = [p for p in produtos_do_dia(s, agora) if not produto_usado_recente(s, p.get("itemId"), agora)]
+    return prods[:max(1, int(cfg("SHOPEE_TOP_IA")))]
+
+
+def produto_para_post(s, agora, texto_post):
+    """Estrategia 1: a IA escolhe o produto do dia que combina com o tema do post viral.
+    Devolve o produto ou None (nada combina, ou IA fora: melhor nao comentar do que comentar qualquer coisa)."""
+    prods = _lista_para_ia(s, agora)
+    if not prods:
+        return None
+    lista = "\n".join(f"{i}. {p.get('nome', '')[:90]} (R$ {float(p.get('preco') or 0):.0f})" for i, p in enumerate(prods))
+    prompt = f"""Um post do Threads viralizou. Publico do perfil: {PUBLICO_PRODUTO}.
+Post: "{texto_post[:400]}"
+
+Produtos da Shopee disponiveis:
+{lista}
+
+Escolha o produto que combina de forma NATURAL com o assunto do post (quem leu o post pensaria "faz sentido").
+Se nenhum combina de verdade, responda -1. Nao force.
+Responda so em JSON: {{"indice": numero}}"""
+    try:
+        r = ia(prompt, json_mode=True, modelos_gemini=[GEMINI_MODEL_RESPOSTA])
+        m = re.search(r"\{.*\}", r or "", re.S)
+        i = int(json.loads(m.group(0) if m else r).get("indice", -1))
+    except Exception as e:
+        log("Estrategia 1: IA nao escolheu produto:", str(e)[:120])
+        return None
+    return prods[i] if 0 <= i < len(prods) else None
+
+
+def produto_e_texto_dor(s, agora):
+    """Post de produto com foto: a IA escolhe o produto que mais combina com o publico e escreve o post
+    no roteiro dor -> solucao (briefing 10/10). Sem IA: sorteio entre os melhores e texto simples."""
+    prods = _lista_para_ia(s, agora)
+    if not prods:
+        return None, ""
+    lista = "\n".join(f"{i}. {p.get('nome', '')[:90]} (R$ {float(p.get('preco') or 0):.0f}, nota {p.get('nota', '')})"
+                      for i, p in enumerate(prods))
+    prompt = f"""{PERSONA}
+
+Publico real do perfil: {PUBLICO_PRODUTO}.
+Produtos da Shopee disponiveis:
+{lista}
+
+1) Escolha o produto que esse publico mais compraria (util no dia a dia, carro, casa, ferramenta, lazer). Evite item de nicho estreito.
+2) Escreva um post curto para o Threads no roteiro DOR -> SOLUCAO:
+- primeira linha: a dor, o perrengue ou o erro comum que esse produto resolve, do jeito que a pessoa fala (gera identificacao);
+- depois: a solucao, citando o produto de forma natural, como quem conta uma descoberta, nunca como anuncio.
+Ate 3 linhas, portugues do dia a dia, sem link, sem preco, sem hashtag, sem travessao.
+Responda so em JSON: {{"indice": numero, "texto": "o post"}}"""
+    try:
+        r = ia(prompt, json_mode=True)
+        m = re.search(r"\{.*\}", r or "", re.S)
+        d = json.loads(m.group(0) if m else r)
+        i, txt = int(d.get("indice", -1)), limpar(str(d.get("texto") or ""))
+        if 0 <= i < len(prods) and txt:
+            return prods[i], txt
+    except Exception as e:
+        log("Post de produto: IA falhou no roteiro dor -> solucao:", str(e)[:120])
+    return sortear_produto(prods, s, agora), ""
+
+
 def sortear_estrategia():
     """Le PESOS_ESTRATEGIA ('fio:1,produto_foto:1') e sorteia uma. Peso invalido conta como 0."""
     nomes, pesos = [], []
@@ -1031,10 +1103,12 @@ def tarefa_estrategia_meme(s, agora):
     min_views = int(cfg("MEME_VIEWS_LINK"))
 
     candidatos = []
+    todos = cfg("VIRAL_TODOS_POSTS") == "1"
     for p in s.get("posts", []):
-        if p.get("estrategia") != "meme":
+        if p.get("estrategia") != "meme" and not (todos and not p.get("estrategia") and not p.get("produto")
+                                                  and not p.get("link")):
             continue
-        if p.get("meme_comentado"):
+        if p.get("meme_comentado") or p.get("viral_sem_produto"):
             continue
         if str(p.get("id", "")).startswith("teste_"):
             continue
@@ -1045,7 +1119,8 @@ def tarefa_estrategia_meme(s, agora):
         except Exception:
             continue
 
-    candidatos = candidatos[-max_cheque:]
+    # rodizio: confere primeiro quem foi conferido ha mais tempo (todos os posts da janela tem vez)
+    candidatos = sorted(candidatos, key=lambda p: p.get("viral_chk", ""))[:max_cheque]
     if not candidatos:
         return
 
@@ -1059,6 +1134,7 @@ def tarefa_estrategia_meme(s, agora):
             break
         pid = p["id"]
         views = 0
+        p["viral_chk"] = agora.isoformat()
         try:
             dados = threads("GET", f"{pid}/insights", metric="views").get("data", [])
             views = sum(_valor_metrica(m) for m in dados if m.get("name") == "views")
@@ -1067,12 +1143,20 @@ def tarefa_estrategia_meme(s, agora):
             continue
 
         if views >= min_views:
-            prod = sortear_produto(prods, s, agora)
+            if p.get("estrategia") == "meme":
+                prod = sortear_produto(prods, s, agora)
+            else:
+                prod = produto_para_post(s, agora, p.get("texto", ""))
+                if not prod:
+                    p["viral_sem_produto"] = True
+                    log(f"Estrategia 1: post {pid} viralizou ({views} views), mas nenhum produto combina. Sem link.")
+                    salvar_estado(s)
+                    continue
             if not prod:
                 log("Estrategia Meme: nenhum produto novo (todos ja divulgados).")
                 break
             log(f"Estrategia Meme: post {pid} viralizou ({views} views >= {min_views}). Comentando produto {prod.get('itemId')}...")
-            res = comentar_produto(s, pid, prod, "meme", agora)
+            res = comentar_produto(s, pid, prod, "meme" if p.get("estrategia") == "meme" else "viral", agora)
             p["meme_comentado"] = True
             p["meme_views"] = views
             p["formato_link"] = "comentfoto"
@@ -1377,20 +1461,11 @@ def postar_produto(s, p, h, agora):
             continue
         if estr != "produto_foto":
             continue
-        prod = sortear_produto(produtos_do_dia(s, agora), s, agora)
+        prod, txt_prod = produto_e_texto_dor(s, agora)
         if not prod:
             log("Produto do dia indisponivel ou ja divulgado.")
             continue
         nome_p = prod.get("nome", "produto")
-        prompt_post = f"""{PERSONA}
-
-Escreva um post curto e atrativo para o Threads sobre {nome_p}.
-Mantenha o tom natural do perfil, sem parecer propaganda comercial, instigando curiosidade.
-Sem links no texto, sem travessoes."""
-        try:
-            txt_prod = limpar(ia(prompt_post) or "")
-        except Exception:
-            txt_prod = ""
         txt_prod = txt_prod or f"Olha isso que eu achei: {nome_p[:60]}"
         time.sleep(random.randint(0, ATRASO_POST_MAX))
         try:

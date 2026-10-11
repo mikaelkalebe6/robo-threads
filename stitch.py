@@ -13,7 +13,7 @@ Como funciona:
   com a foto do produto, como antes.
 - Modo teste: python3 stitch.py --teste "descricao" gera 1 imagem em carrosseis/stitch_teste.png.
 """
-import os, sys, io, json, re, time, glob, urllib.request, urllib.error
+import os, sys, io, json, re, time, glob, urllib.request, urllib.error, urllib.parse
 
 HOST = os.environ.get("STITCH_HOST", "").strip() or "https://stitch.googleapis.com/mcp"
 CHAVE = os.environ.get("STITCH_API_KEY", "").strip()
@@ -164,7 +164,10 @@ def _links_imagem(texto):
 
 
 def _baixar(url, timeout=40):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0", "X-Goog-Api-Key": CHAVE})
+    cab = {"User-Agent": "Mozilla/5.0"}
+    if (urllib.parse.urlparse(url).hostname or "").endswith(".googleapis.com"):
+        cab["X-Goog-Api-Key"] = CHAVE  # a chave so vai para a API do Google, nunca para link de terceiros
+    req = urllib.request.Request(url, headers=cab)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read(), r.headers.get("Content-Type", "")
 
