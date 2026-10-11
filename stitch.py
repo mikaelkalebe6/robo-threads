@@ -292,6 +292,58 @@ def processar_fila(tools, pid):
     return feitas
 
 
+def previas():
+    """Previa de cada carrossel da fila ainda nao publicado: desenha os slides igual ao robo (com a foto real
+    da Shopee), junta lado a lado num JPG, sobe no repositorio de imagens e grava o link em "previa" no JSON.
+    So refaz quando o carrossel muda (hash). E o que o Claude revisa e o Kalebe ve na galeria."""
+    import hashlib
+    import carrossel
+    if not carrossel.configurado():
+        registrar("Previas: sem MIDIA_TOKEN, pulando")
+        return 0
+    usados = set()
+    try:
+        with open(os.path.join(os.path.dirname(PASTA), "state.json"), encoding="utf-8") as f:
+            usados = set(json.load(f).get("carrosseis_usados", []))
+    except Exception:
+        pass
+    Image = carrossel._pil()[0]
+    feitas = 0
+    for caminho in sorted(glob.glob(os.path.join(FILA, "car-*.json"))):
+        try:
+            with open(caminho, encoding="utf-8") as f:
+                car = json.load(f)
+            slides = car.get("slides") or []
+            if car.get("id") in usados or any(sl.get("imagem_ia") and not sl.get("imagem") for sl in slides):
+                continue
+            h = hashlib.sha1(json.dumps([slides, car.get("produto")], sort_keys=True).encode()).hexdigest()[:8]
+            if car.get("previa_hash") == h:
+                continue
+            pngs = []
+            original = carrossel.hospedar
+            carrossel.hospedar = lambda c, p: pngs.append(p) or c
+            try:
+                carrossel.preparar(car, car.get("produto") or {})
+            finally:
+                carrossel.hospedar = original
+            ims = [Image.open(io.BytesIO(p)).convert("RGB").resize((540, 675)) for p in pngs]
+            folha = Image.new("RGB", (550 * len(ims) - 10, 675), (255, 255, 255))
+            for k, im in enumerate(ims):
+                folha.paste(im, (k * 550, 0))
+            buf = io.BytesIO()
+            folha.save(buf, "JPEG", quality=85)
+            car["previa"] = carrossel.hospedar(f"previa/{car.get('id')}-{h}.jpg", buf.getvalue())
+            car["previa_hash"] = h
+            with open(caminho, "w", encoding="utf-8") as f:
+                json.dump(car, f, ensure_ascii=False, indent=1)
+                f.write("\n")
+            feitas += 1
+            registrar("Previa OK", car.get("id"), car["previa"])
+        except Exception as e:
+            registrar("Previa FALHOU", os.path.basename(caminho), str(e)[:200])
+    return feitas
+
+
 def main():
     if not CHAVE:
         print("Artes IA desligadas: falta o Secret STITCH_API_KEY.")
@@ -313,6 +365,11 @@ def main():
             registrar("Imagens novas:", processar_fila(tools, pid))
     except Exception as e:
         registrar("ERRO geral:", str(e)[:400])
+    try:
+        if not (len(sys.argv) > 2 and sys.argv[1] == "--teste"):
+            registrar("Previas novas:", previas())
+    except Exception as e:
+        registrar("Previas ERRO:", str(e)[:300])
     finally:
         salvar_log()
 

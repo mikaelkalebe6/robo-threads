@@ -22,28 +22,21 @@
    "tom": "claro",
    "rotulo": "o problema",
    "texto": "A lanterna do celular *clareia 2 metros.*",
-   "sub": "Esquenta, come a bateria que você precisa pra pedir ajuda e não mostra nem o estepe."
+   "sub": "Esquenta, gasta a bateria que você precisa pra pedir ajuda e não mostra nem o estepe."
   },
   {
    "layout": "manchete",
    "tom": "escuro",
-   "rotulo": "a virada",
+   "rotulo": "a solução",
    "imagem": "produto",
-   "texto": "Quem roda à noite tem *uma de verdade.*",
-   "sub": "Recarrega no USB, tem zoom e mora no porta-luvas."
+   "selo": "nota 4,9",
+   "texto": "Lanterna tática *no porta-luvas.*",
+   "sub": "Recarrega no USB, tem zoom e cabe na mão. Fica lá até o dia que você precisar."
   },
   {
    "layout": "manchete",
    "tom": "claro",
-   "rotulo": "a prova",
-   "imagem": "produto",
-   "selo": "nota 4,9",
-   "texto": "Clareia a *estrada inteira.*"
-  },
-  {
-   "layout": "manchete",
-   "tom": "escuro",
-   "texto": "Abre o porta-luvas. Se não tem, *o link tá no comentário.*"
+   "texto": "Abre o porta-luvas agora. Se não tem, *o link tá no comentário.*"
   }
  ],
  "texto_post": "Todo mundo acha que nunca vai precisar. Até a estrada apagar.",

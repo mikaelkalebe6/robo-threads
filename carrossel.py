@@ -138,11 +138,13 @@ def _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub, to
         im = Image.new("RGB", (W, H), fundo)
     d = ImageDraw.Draw(im)
     m, capa = 80, n == 1
-    area_txt = int(H * (0.56 if img is not None else 0.80))
+    area_txt = int(H * ((0.44 if contem else 0.56) if img is not None else 0.80))  # produto: foto grande, ela e a prova
     y0 = 120
-    if rotulo and not inteira:
+    if rotulo and not inteira and img is not None:
         d.text((m, y0), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 30), fill=ACENTO_MANCHETE)
         y0 += 62
+    elif rotulo and not inteira:
+        y0 += 62  # o rotulo e desenhado depois, junto com o bloco centralizado
     texto_up = texto.upper()
     tam = 150 if capa else 124
     while tam > 60:
@@ -152,6 +154,11 @@ def _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub, to
         if y0 + altura * len(linhas) <= area_txt - (70 if sub else 0):
             break
         tam -= 6
+    if img is None and not inteira:  # sem foto: bloco de texto centralizado na altura (nada de metade vazia)
+        bloco = altura * len(linhas) + (62 if rotulo else 0) + (46 * min(3, len(_quebrar(d, sub, _fonte(ImageFont, "InterDisplay-Bold.otf", 36), W - 2 * m))) + 18 if sub else 0)
+        y0 = max(120, (H - 150 - bloco) // 2) + (62 if rotulo else 0)
+        if rotulo:
+            d.text((m, y0 - 62), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 30), fill=ACENTO_MANCHETE)
     if inteira:  # texto colado embaixo
         y0 = H - 170 - (70 if sub else 0) - altura * len(linhas)
         if rotulo:
@@ -183,7 +190,8 @@ def _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub, to
         if contem:
             caixa = Image.new("RGB", (W - 2 * m, alt), (255, 255, 255))
             foto = img.copy()
-            foto.thumbnail((W - 2 * m - 40, alt - 40))
+            esc = min((W - 2 * m - 30) / foto.width, (alt - 30) / foto.height)  # amplia ou reduz para encher a caixa
+            foto = foto.resize((max(1, int(foto.width * esc)), max(1, int(foto.height * esc))))
             caixa.paste(foto, ((caixa.width - foto.width) // 2, (alt - foto.height) // 2))
             im.paste(caixa, (m, topo))
         else:

@@ -13,8 +13,7 @@
   {
    "layout": "meme",
    "texto": "eu apertando parafuso com faca de manteiga pela 47ª vez",
-   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261010-4-s1.jpg",
-   "imagem_ia": "Humorous home scene, a Brazilian man in a simple kitchen trying to tighten a screw on a wobbly wooden chair using a butter knife, frustrated face, natural daylight, vertical framing, free space at the bottom, no text"
+   "imagem_ia": "Humorous home scene, a Brazilian man in his 30s in a simple kitchen, squatting next to a wobbly wooden chair and trying to tighten a screw with a butter knife, frustrated funny face, plain grey t-shirt with no text and no logo, natural daylight, vertical framing, empty space at the bottom, no text anywhere"
   },
   {
    "layout": "manchete",
@@ -26,28 +25,20 @@
   {
    "layout": "manchete",
    "tom": "escuro",
-   "rotulo": "a virada",
+   "rotulo": "a solução",
    "imagem": "produto",
-   "texto": "Uma peça na gaveta *resolve.*",
-   "sub": "Alicate, chave e lâmina dobrados no tamanho da mão."
+   "selo": "R$ 12,70",
+   "texto": "Multiuso *que cabe no bolso.*",
+   "sub": "Alicate, chave e lâmina dobrados em aço inox. Mora na gaveta pro conserto de 2 minutos."
   },
   {
    "layout": "manchete",
    "tom": "claro",
-   "rotulo": "a prova",
-   "imagem": "produto",
-   "selo": "R$ 12,70",
-   "texto": "Inox. Dobrável. *Cabe no bolso.*"
-  },
-  {
-   "layout": "manchete",
-   "tom": "escuro",
    "texto": "Marca o amigo da *faca de manteiga.*",
    "sub": "O link tá no comentário."
   }
  ],
  "texto_post": "A faca de manteiga merece aposentadoria.",
  "frase_link": "a ferramenta que vive na minha gaveta",
- "ia_tentado": true,
  "visual": "em"
 }

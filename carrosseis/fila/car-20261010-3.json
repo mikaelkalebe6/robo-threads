@@ -21,14 +21,15 @@
    "layout": "manchete",
    "tom": "claro",
    "rotulo": "o problema",
-   "texto": "GPS + música + 3h de estrada = *5% no destino.*"
+   "texto": "GPS + música + 3h de estrada = *5% no destino.*",
+   "sub": "E isso com o celular plugado no USB do carro."
   },
   {
    "layout": "manchete",
    "tom": "escuro",
    "rotulo": "a virada",
-   "texto": "Não é o celular. *É a saída fraca do carro.*",
-   "sub": "O USB de fábrica de muito carro não dá conta do GPS ligado."
+   "texto": "O culpado é *a saída fraca do carro.*",
+   "sub": "Muito USB de fábrica não dá conta do GPS ligado. A bateria cai mesmo plugada."
   },
   {
    "layout": "manchete",
@@ -36,13 +37,8 @@
    "rotulo": "a solução",
    "imagem": "produto",
    "selo": "+4 mil vendidos",
-   "texto": "Duas USB + *Tipo-C.*",
-   "sub": "Motorista e carona carregando juntos."
-  },
-  {
-   "layout": "manchete",
-   "tom": "escuro",
-   "texto": "Próxima viagem: *o link tá no comentário.*"
+   "texto": "Carregador veicular *duplo + Tipo-C.*",
+   "sub": "Encaixa na tomada 12V. Motorista e carona carregando juntos. Link no comentário."
   }
  ],
  "texto_post": "A briga pelo carregador na viagem acaba aqui.",
