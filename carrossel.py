@@ -80,8 +80,9 @@ def _cobrir(Image, img, w, h, subir=3):
 
 
 def _texto_destacado(d, linhas, f, x0, y, altura, cor, destaque, sombra=None):
+    ligado = False  # o destaque continua na linha seguinte quando o *trecho* quebra de linha
     for linha in linhas:
-        x, ligado = x0, False
+        x = x0
         for parte in linha.split("*"):
             if parte:
                 if sombra:
