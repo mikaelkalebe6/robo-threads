@@ -31,7 +31,7 @@
    "19:50"
   ],
   "produtos_feitos": 2,
-  "respostas": 91,
+  "respostas": 94,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 13,
@@ -40,11 +40,11 @@
    "17883591987689452": 8,
    "18124736575742625": 1,
    "17931200094409342": 9,
-   "18078986099393308": 16,
+   "18078986099393308": 18,
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3,
-   "17975559206935962": 17,
+   "17975559206935962": 18,
    "18003828527991536": 2
   }
  },
@@ -2416,7 +2416,11 @@
   "17903017797667670",
   "18107286061938930",
   "18123554095706506",
-  "18113429828584280"
+  "18113429828584280",
+  "18117215501326010",
+  "17941532748096344",
+  "18150941989543271",
+  "17899775910671394"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2808,25 +2812,13 @@
   "bc3be619af": 1,
   "01af5a7598": 1,
   "00f0737dba": 1,
-  "7193e61a99": 1
+  "7193e61a99": 1,
+  "330e6195cf": 1,
+  "a218f35bf2": 1,
+  "3d15d7bdcd": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "esse salto aí mostra bem como a vida real começa sem crachá",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nessa época o dinheiro ainda durava um pouquinho mais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "começo de carteira assim já vinha com brinde de ansiedade",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "começo de século passado já com esse valor na conta",
    "p": "concorda",
@@ -2961,6 +2953,21 @@
    "t": "virada do milênio com esse valor já vinha com emoção inclusa kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "carro velho raiz entrega caos completo com direito a fipe emocionante",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "infância trabalhando cedo molda a gente de um jeito curioso",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade absoluta, o carro sofre calado enquanto a gente arrisca",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3660,7 +3667,9 @@
    "paz de espirito",
    "filtro de gasolina",
    "pura filosofia de",
-   "linha tenue entre"
+   "linha tenue entre",
+   "carro velho raiz",
+   "verdade absoluta o"
   ],
   "18076654343444049": [
    "boa tarde tudo"
@@ -3687,7 +3696,8 @@
    "passar por isso",
    "epoca em que",
    "escala 6x1 aos",
-   "virada do milenio"
+   "virada do milenio",
+   "infancia trabalhando cedo"
   ],
   "18003828527991536": [
    "pesado mas real",
