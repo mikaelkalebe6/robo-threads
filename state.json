@@ -22,10 +22,11 @@
    "09:03",
    "09:50",
    "14:16",
-   "15:29"
+   "15:29",
+   "17:04"
   ],
   "produtos_feitos": 2,
-  "respostas": 48,
+  "respostas": 50,
   "por_post": {
    "17975559206935962": 20,
    "18179925583431899": 1,
@@ -34,28 +35,11 @@
    "18078986099393308": 2,
    "17894365761611421": 1,
    "18112767806335344": 1,
-   "18129449095879104": 17,
-   "18125942191740363": 4
+   "18129449095879104": 18,
+   "18125942191740363": 5
   }
  },
  "posts": [
-  {
-   "id": "18118761089472689",
-   "insp": "852685f1e2",
-   "link": "",
-   "texto": "SEM MENTIR: fingi que meu cachorro tinha comido o celular pra cancelar o jantar. Vocês já inventaram algo pior?",
-   "quando": "2026-10-06T16:37:09.559906-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 671,
-    "likes": 1,
-    "replies": 15,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-10-11"
-   }
-  },
   {
    "id": "18021014444726359",
    "insp": "07137399ea",
@@ -915,7 +899,7 @@
    "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
    "quando": "2026-10-10T18:07:09.225159-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T16:37:08.690270-04:00",
+   "viral_chk": "2026-10-11T17:07:08.244826-04:00",
    "metricas": {
     "views": 71,
     "likes": 2,
@@ -933,7 +917,7 @@
    "texto": "ME CONTA: para a minha mãe, qualquer problema na vida se resolve com um banho quente e chá de camomila. De resfriado a coração partido. Qual é o remédio universal da mãe de vocês?",
    "quando": "2026-10-10T19:07:09.130648-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T16:37:08.690270-04:00",
+   "viral_chk": "2026-10-11T17:07:08.244826-04:00",
    "metricas": {
     "views": 376,
     "likes": 1,
@@ -951,7 +935,7 @@
    "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
    "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T16:37:08.690270-04:00",
+   "viral_chk": "2026-10-11T17:07:08.244826-04:00",
    "metricas": {
     "views": 548,
     "likes": 21,
@@ -1008,7 +992,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
    "quando": "2026-10-11T08:37:08.861815-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T16:07:09.239600-04:00"
+   "viral_chk": "2026-10-11T17:07:08.244826-04:00"
   },
   {
    "id": "18112767806335344",
@@ -1056,6 +1040,15 @@
    "produto": "58214462678",
    "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema com manchete condensada e marca-texto; DXVUQ01jZe6 slides alternando claro e escuro; DbodAhRjx3Z marca-texto vermelho; texto: DeKNxO2EVEn momento exato)",
    "visual": "em"
+  },
+  {
+   "id": "17910962637513171",
+   "insp": "f0670ff0d7",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: como hotel pequeno sobrevive na baixa temporada com o quarto vazio semanas inteiras e as contas chegando?",
+   "quando": "2026-10-11T17:07:08.244826-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-11T17:07:08.244826-04:00"
   }
  ],
  "respondidos": [
@@ -2536,7 +2529,9 @@
   "18145033780574974",
   "18287546236294280",
   "17870963388646628",
-  "18107263355227095"
+  "18107263355227095",
+  "18465190759142475",
+  "18025956035872364"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2691,7 +2686,8 @@
   "78a27020a9f7dab6104394540f3972c6",
   "304ad5f946f78247092dece129a207ea",
   "ed5ad2e3f5a6e43cedd727a2e024e90e",
-  "4af0b3e6fd3837af21dc957b6d133987"
+  "4af0b3e6fd3837af21dc957b6d133987",
+  "9988adbd9102adddb26695b2fc37e4a2"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2846,7 +2842,8 @@
   "7e236666a4": 1791682693.6785476,
   "95c7572ca7": 1791722249.162733,
   "eb6c939e24": 1791727694.1486886,
-  "d9cd77c4a6": 1791743849.964815
+  "d9cd77c4a6": 1791743849.964815,
+  "f0670ff0d7": 1791752839.976383
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2897,20 +2894,12 @@
   "09820c3fd8": 1,
   "dc153fb9b9": 1,
   "d80f82dc82": 1,
-  "db407d487e": 1
+  "db407d487e": 1,
+  "26270064d0": 1,
+  "e42f971076": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "esse é o tipo de encontro inesperado que encerra o passeio na hora",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "com certeza, a perspectiva muda completamente dependendo de onde a gente está pisando",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "dez mil não é estilo de vida luxuoso, é só o custo básico da vida real hoje",
    "p": "discorda",
@@ -3050,6 +3039,16 @@
    "t": "perigo real e oficial de ir parar em outra dimensao kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "estratégia infalível para não ter erro no caminho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "criatividade do algoritmo está em outro nível de entretenimento",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3832,13 +3831,15 @@
    "pode ate ser",
    "mas parece que",
    "esse ai deve",
-   "argumento impecavel mudou"
+   "argumento impecavel mudou",
+   "criatividade do algoritmo"
   ],
   "18125942191740363": [
    "cada escolha uma",
    "esse posto ai",
    "se o nivel",
-   "perigo real e"
+   "perigo real e",
+   "estrategia infalivel para"
   ]
  },
  "shopee_checada": "2026-10-11|1",
