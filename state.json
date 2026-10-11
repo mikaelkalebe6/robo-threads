@@ -29,10 +29,11 @@
    "17:57",
    "18:56",
    "19:50",
-   "20:45"
+   "20:45",
+   "21:30"
   ],
   "produtos_feitos": 3,
-  "respostas": 97,
+  "respostas": 98,
   "por_post": {
    "18179925583431899": 3,
    "17904297183598082": 13,
@@ -41,7 +42,7 @@
    "17883591987689452": 8,
    "18124736575742625": 1,
    "17931200094409342": 9,
-   "18078986099393308": 19,
+   "18078986099393308": 20,
    "18133563994591000": 1,
    "18076654343444049": 1,
    "17924890374203799": 3,
@@ -50,23 +51,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18152505118527863",
-   "insp": "338b545216",
-   "link": "",
-   "texto": "Eu comprei um aparelho de fazer pão que usei exatamente duas vezes na vida antes de virar peça de decoração na pia. Juro que a promessa de acordar com cheiro de pão fresco parecia muito mais romântica do que lavar aquela batedeira gigante depois. Qual foi a pior compra que já me convenceram a fazer?",
-   "quando": "2026-10-06T11:07:10.078708-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 421,
-    "likes": 3,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-10"
-   }
-  },
   {
    "id": "18021445505924431",
    "insp": "380b00e24d",
@@ -993,6 +977,14 @@
    "formato": "postfoto",
    "formato_link": "comentfoto",
    "produto": "19999249755"
+  },
+  {
+   "id": "18009796532776328",
+   "insp": "7e236666a4",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: salário alto num lugar que suga sua alma ou ganhar menos pra trabalhar em paz?",
+   "quando": "2026-10-10T21:37:09.313934-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -2419,7 +2411,8 @@
   "17899775910671394",
   "18128720230829726",
   "18129048850693532",
-  "17919462369244967"
+  "17919462369244967",
+  "18108649414930745"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2570,7 +2563,8 @@
   "fb57cff7523f595450752f2f29f22f39",
   "90b9891efa06b034b7f430324eeebbd1",
   "0675cb7eda2a75b2851ab0e37f9e1a6e",
-  "93bf9123793e0e90afd81a7df9de24f2"
+  "93bf9123793e0e90afd81a7df9de24f2",
+  "78a27020a9f7dab6104394540f3972c6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2721,7 +2715,8 @@
   "0b1e634fcd": 1791657457.6883128,
   "eb9c03e299": 1791670089.8466873,
   "a5b40d343a": 1791673648.3117123,
-  "a5b0a002b5": 1791677248.7385156
+  "a5b0a002b5": 1791677248.7385156,
+  "7e236666a4": 1791682693.6785476
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2817,15 +2812,11 @@
   "3d15d7bdcd": 1,
   "ff5612f7bb": 1,
   "0d60fe312d": 1,
-  "43270636fd": 1
+  "43270636fd": 1,
+  "da053ac9a7": 1
  },
  "reservas_checadas": "2026-10-10",
  "ultimas_respostas": [
-  {
-   "t": "começar tão cedo com essa responsabilidade explica muita coisa sobre a nossa relação com o dinheiro hoje",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "ajuda de custo que era praticamente um abraço e olhe lá",
    "p": "concorda",
@@ -2968,6 +2959,11 @@
   },
   {
    "t": "base para a vida inteira de ansiedade financeira",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "herança de pai raiz é trauma com ponteiro baixo, paz de espírito vale cada litro",
    "p": "concorda",
    "r": 0
   }
@@ -3677,7 +3673,8 @@
    "linha tenue entre",
    "carro velho raiz",
    "verdade absoluta o",
-   "quem tem intimidade"
+   "quem tem intimidade",
+   "heranca de pai"
   ],
   "18076654343444049": [
    "boa tarde tudo"
