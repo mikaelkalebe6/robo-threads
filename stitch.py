@@ -296,7 +296,7 @@ def processar_fila(tools, pid):
 def previas():
     """Previa de cada carrossel da fila ainda nao publicado: desenha os slides igual ao robo (com a foto real
     da Shopee), junta lado a lado num JPG, sobe no repositorio de imagens e grava o link em "previa" no JSON.
-    So refaz quando o carrossel muda (hash). E o que o Claude revisa e o Kalebe ve na galeria."""
+    So refaz quando o carrossel muda (hash). E o que o Claude revisa e o dono ve na galeria."""
     import hashlib
     import carrossel
     if not carrossel.configurado():
