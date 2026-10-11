@@ -15,7 +15,6 @@
    "layout": "manchete",
    "foto_inteira": true,
    "texto_pos": "topo",
-   "imagem_ia": "Night, a man leaning under the open hood of an old car, wearing a bright LED headlamp on his forehead lighting the engine, both hands holding tools, dark empty sky at the top, vertical framing, photorealistic, no text, no logos, no brand names",
    "texto": "Segurar a lanterna na boca *não é plano.*"
   },
   {
@@ -41,5 +40,6 @@
   }
  ],
  "texto_post": "Lanterna de mão é ótima até você precisar das duas mãos.",
- "frase_link": "a lanterna de cabeça que eu deixo no carro"
+ "frase_link": "a lanterna de cabeça que eu deixo no carro",
+ "descartado": "Kalebe 11/10: chega de lanterna (ja tem a X71 na fila)"
 }

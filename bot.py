@@ -78,7 +78,7 @@ PADRAO = {
     # Shopee Afiliados (shopee.py): 1 liga o teste diario de conexao (so leitura) quando os Secrets existem, 0 desliga
     "SHOPEE_LIGADO": "1",
     # Shopee Fase 1: cacador, estrategias de links, fila de fios e cota
-    "SHOPEE_PALAVRAS": "acessorio carro,kit ferramentas,fone bluetooth,smartwatch,lanterna tatica,suporte celular carro,churrasco,academia,carteira masculina,relogio masculino,barbeador,camping,pesca",
+    "SHOPEE_PALAVRAS": "acessorio carro,kit ferramentas,fone bluetooth,smartwatch,suporte celular carro,churrasco,academia,carteira masculina,relogio masculino,barbeador,camping,pesca",
     "SHOPEE_NOTA_MIN": "4.9", "SHOPEE_PRECO_MAX": "80", "SHOPEE_VENDAS_MIN": "300", "SHOPEE_REPETIR_DIAS": "14",
     "TESTE_COMENTARIO_PRODUTO": "1",
     "ESTRATEGIA_MEME": "1", "MEME_JANELA_HORAS": "24", "MEME_CHECAGENS_POR_RODADA": "5", "MEME_VIEWS_LINK": "1000", "MEME_LINKS_POR_DIA": "3",
