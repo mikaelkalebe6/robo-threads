@@ -13,7 +13,8 @@
   {
    "layout": "meme",
    "texto": "eu apertando parafuso com faca de manteiga pela 47ª vez",
-   "imagem_ia": "Humorous home scene, a Brazilian man in his 30s in a simple kitchen, squatting next to a wobbly wooden chair and trying to tighten a screw with a butter knife, frustrated funny face, plain grey t-shirt with no text and no logo, natural daylight, vertical framing, empty space at the bottom, no text anywhere"
+   "imagem_ia": "Humorous home scene, a Brazilian man in his 30s in a simple kitchen, squatting next to a wobbly wooden chair and trying to tighten a screw with a butter knife, frustrated funny face, plain grey t-shirt with no text and no logo, natural daylight, vertical framing, empty space at the bottom, no text anywhere",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261010-4-s1.jpg"
   },
   {
    "layout": "manchete",
@@ -40,5 +41,8 @@
  ],
  "texto_post": "A faca de manteiga merece aposentadoria.",
  "frase_link": "a ferramenta que vive na minha gaveta",
- "visual": "em"
+ "visual": "em",
+ "ia_tentado": true,
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261010-4-b7800d7f.jpg",
+ "previa_hash": "b7800d7f"
 }
