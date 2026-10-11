@@ -13,7 +13,7 @@ Como funciona:
   com a foto do produto, como antes.
 - Modo teste: python3 stitch.py --teste "descricao" gera 1 imagem em carrosseis/stitch_teste.png.
 """
-import os, sys, io, json, re, time, glob, urllib.request, urllib.error
+import os, sys, io, json, re, time, glob, urllib.request, urllib.error, urllib.parse
 
 HOST = os.environ.get("STITCH_HOST", "").strip() or "https://stitch.googleapis.com/mcp"
 CHAVE = os.environ.get("STITCH_API_KEY", "").strip()
