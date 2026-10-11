@@ -49,6 +49,7 @@ jobs:
           ACHADINHO_LINK_HORAS: ${{ vars.ACHADINHO_LINK_HORAS }}
           VIRAL_QUALQUER_CHANCE: ${{ vars.VIRAL_QUALQUER_CHANCE }}
           SHOPEE_PROIBIDOS: ${{ vars.SHOPEE_PROIBIDOS }}
+          VIDEOS_ABA: ${{ vars.VIDEOS_ABA }}
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
           PLANILHA_URL: ${{ vars.PLANILHA_URL }}

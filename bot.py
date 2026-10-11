@@ -95,6 +95,8 @@ PADRAO = {
     # o link entra depois numa resposta propria (frase curta + link + #publi, sem foto) quando o post passar de
     # ACHADINHO_VIEWS_LINK views ou, se nao passar, depois de ACHADINHO_LINK_HORAS horas
     "ACHADINHO_VIEWS_LINK": "500", "ACHADINHO_LINK_HORAS": "18",
+    # aba da planilha dos ganchos com os videos que o Kalebe sobe pelo app (tem prioridade no horario de produto com foto)
+    "VIDEOS_ABA": "videos",
     # post viral sem produto que combine: chance de ir mesmo assim com um produto bom do dia (Kalebe 11/10: 50/50)
     "VIRAL_QUALQUER_CHANCE": "0.5",
     # palavras proibidas no nome do produto (saude/medicamento e itens fora do publico); vale na hora do uso
@@ -262,7 +264,7 @@ APPSHEET_TABELA = env("APPSHEET_TABELA", "Untitled")
 EXT_VIDEO = (".mp4", ".mov", ".m4v", ".webm")
 
 
-def url_midia(v):
+def url_midia(v, tabela=None):
     # arquivo enviado pelo app (AppSheet) vira um link publico do AppSheet
     v = (v or "").strip()
     if not v or v.lower().startswith("http"):
@@ -271,7 +273,7 @@ def url_midia(v):
         log("Falta a Variable APPSHEET_APP: arquivo do app ignorado, post sai sem foto.")
         return ""
     return ("https://www.appsheet.com/template/gettablefileurl?appName=" + urllib.parse.quote(APPSHEET_APP)
-            + "&tableName=" + urllib.parse.quote(APPSHEET_TABELA) + "&fileName=" + urllib.parse.quote(v))
+            + "&tableName=" + urllib.parse.quote(tabela or APPSHEET_TABELA) + "&fileName=" + urllib.parse.quote(v))
 
 
 def eh_video(url):
@@ -302,6 +304,38 @@ def ler_planilha():
             "obs": l.get("observacao", "") or l.get("obs", ""),
         })
     return itens
+
+
+def ler_videos():
+    """Aba 'videos' da planilha dos ganchos (o Kalebe sobe pelo app): video | foto | link | descricao | ativo.
+    Le pelo nome da aba (sem gid). Nunca levanta erro: sem aba ou sem rede, devolve lista vazia."""
+    try:
+        m = re.search(r"/spreadsheets/d/([a-zA-Z0-9-_]+)", PLANILHA or "")
+        if not m:
+            return []
+        aba = cfg("VIDEOS_ABA")
+        url = f"https://docs.google.com/spreadsheets/d/{m.group(1)}/gviz/tq?tqx=out:csv&sheet={urllib.parse.quote(aba)}"
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            txt = r.read().decode("utf-8-sig", "replace")
+        if txt.lstrip().startswith("<"):
+            return []
+        itens = []
+        for linha in csv.DictReader(io.StringIO(txt)):
+            l = {sem_acento(k): (v or "").strip() for k, v in linha.items() if k}
+            if sem_acento(l.get("ativo", "sim")) in ("nao", "n", "0", "off"):
+                continue
+            video = url_midia(l.get("video", ""), tabela=aba)
+            link = l.get("link", "") or l.get("link_produto", "")
+            if not video or not eh_video(video) or "shopee" not in link.lower():
+                continue
+            itens.append({"id": hashlib.md5((l.get("video", "") + link).encode()).hexdigest()[:10], "video": video,
+                          "foto": url_midia(l.get("foto", ""), tabela=aba), "link": link,
+                          "descricao": l.get("descricao", "") or l.get("observacao", "")})
+        return itens
+    except Exception as e:
+        log("Videos do app: nao consegui ler a aba (segue sem video):", str(e)[:120])
+        return []
 
 
 def escolher_inspiracao(itens, s):
@@ -1128,6 +1162,53 @@ def checar_teste_comentario(s, agora):
     salvar_estado(s)
 
 
+def postar_video_app(s, p, h, agora):
+    """Achadinho com video do app (aba videos): video (+ foto ao lado, se tiver) e texto de descoberta, sem link.
+    O link entra depois pela tarefa_link_achadinho. Cada video sai 1 vez. Devolve True se publicou."""
+    usados = s.setdefault("videos_usados", {})
+    fila = [v for v in ler_videos() if v["id"] not in usados]
+    if not fila:
+        return False
+    v = fila[0]
+    txt = ""
+    try:
+        r = ia(f"""{PERSONA}
+
+Publico real do perfil: {PUBLICO_PRODUTO}.
+Vai sair um video mostrando este produto em uso: "{v['descricao'] or 'produto da Shopee'}".
+Escreva o texto do post no formato ACHADINHO (descoberta contada por quem usou):
+- primeira linha: o perrengue do dia a dia que ele resolve, com humor leve (ex.: "X da um trabalhao, ne? 😂");
+- depois: "descobri esse..." contando o que ele faz, como quem mostra para um amigo, nunca como anuncio;
+- feche com "olha como funciona 👀" ou uma pergunta curta.
+Ate 3 linhas, no maximo 2 emojis, sem link, sem preco, sem hashtag, sem marca, sem travessao.
+Responda so em JSON: {{"texto": "o post"}}""", json_mode=True)
+        m = re.search(r"\{.*\}", r or "", re.S)
+        txt = limpar(str(json.loads(m.group(0) if m else r).get("texto") or ""))
+    except Exception as e:
+        log("Video do app: IA nao escreveu o texto:", str(e)[:120])
+    if not txt:
+        txt = "Descobri isso aqui e não sei como vivi sem até hoje 😂 Olha como funciona 👀"
+    midias = [v["video"]] + ([v["foto"]] if v.get("foto") else [])
+    try:
+        pid = publicar_carrossel(midias, txt) if len(midias) > 1 else publicar(txt, foto=v["video"])
+    except Exception as e:
+        log("Video do app: Meta recusou (segue para o post com foto):", str(e)[:200])
+        usados[v["id"]] = "erro " + agora.isoformat()
+        salvar_estado(s)
+        return False
+    log(f"POSTADO (achadinho em video, video {v['id']}, link depois):", pid)
+    usados[v["id"]] = agora.isoformat()
+    p["feitos"].append(h)
+    p["produtos_feitos"] = p.get("produtos_feitos", 0) + 1
+    s.setdefault("posts", []).append({
+        "id": pid, "insp": f"video_{v['id']}", "link": "", "texto": txt[:300], "quando": agora.isoformat(),
+        "ia": _QUEM[0], "estrategia": "produto_video", "formato": "video" if len(midias) == 1 else "videofoto",
+        "formato_link": "respsemfoto", "produto": f"video_{v['id']}", "link_pendente": True,
+        "prod_dados": {"itemId": f"video_{v['id']}", "nome": v["descricao"][:80], "offerLink": v["link"], "imageUrl": "", "campanha": ""}})
+    salvar_estado(s)
+    return True
+
+
 FRASES_LINK_ACHADINHO = ["Isso aqui fez toda a diferença 🥰", "Pra quem perguntou, é esse aqui 👇", "Achei aqui 👇",
                          "O que eu usei foi esse 👇", "Tá aqui pra quem quiser 👇"]
 
@@ -1472,15 +1553,17 @@ def publicar_carrossel(urls, texto):
     if MODO_TESTE:
         log("[MODO TESTE] publicaria carrossel:", {"texto": texto, "imagens": urls})
         return "teste_" + hashlib.md5((texto + str(time.time())).encode()).hexdigest()[:8]
-    filhos = [threads("POST", "me/threads", media_type="IMAGE", image_url=u, is_carousel_item="true")["id"] for u in urls]
-    for fid in filhos:  # cada imagem precisa estar pronta antes do carrossel
-        for _ in range(15):
+    filhos = [threads("POST", "me/threads", media_type="VIDEO", video_url=u, is_carousel_item="true")["id"] if eh_video(u)
+              else threads("POST", "me/threads", media_type="IMAGE", image_url=u, is_carousel_item="true")["id"] for u in urls]
+    tem_video = any(eh_video(u) for u in urls)
+    for fid in filhos:  # cada imagem (ou video) precisa estar pronta antes do carrossel
+        for _ in range(40 if tem_video else 15):
             st = threads("GET", fid, fields="status,error_message")
             if st.get("status") == "FINISHED":
                 break
             if st.get("status") in ("ERROR", "EXPIRED"):
                 raise RuntimeError(f"Meta recusou a imagem do carrossel: {st}")
-            time.sleep(2)
+            time.sleep(5 if tem_video else 2)
     cid = threads("POST", "me/threads", media_type="CAROUSEL", children=",".join(filhos), text=texto)["id"]
     for _ in range(15):
         time.sleep(3)
@@ -1555,6 +1638,8 @@ def postar_produto(s, p, h, agora):
             continue
         if estr != "produto_foto":
             continue
+        if postar_video_app(s, p, h, agora):
+            return True
         prod, txt_prod = produto_e_texto_dor(s, agora)
         if not prod:
             log("Produto do dia indisponivel ou ja divulgado.")
