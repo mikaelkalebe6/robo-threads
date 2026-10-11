@@ -1,5 +1,90 @@
 # Inspiracoes lidas pelo Gemini (mais novas primeiro)
 
+## 10/10/2026 | https://www.instagram.com/p/DeEv2O8nCzm/?img_index=4&obrf=MXJzemtsY2pseW5qdg==
+**Tipo:** Carrossel | **Idioma original:** Português
+**Transcricao/Conteudo:** 
+Imagem 1: Automatizei o Google Meu Negócio dos meus clientes com Claude. E vou te mostrar o passo a passo.
+Imagem 2: Essa é a ficha da SEO Genome no Google. Vou usar ela de exemplo em cada passo.
+Imagem 3: Passo 1: peça acesso à API do Google Meu Negócio. O perfil precisa estar verificado e ativo há mais de 60 dias.
+Imagem 4: Passo 2: com o acesso aprovado, peça pro Claude conectar com essa API. Daí ele enxerga e mexe no seu perfil.
+Imagem 5: Passo 3: toda avaliação nova, o Claude responde sozinho. Em menos de 24h, citando o serviço e a cidade.
+Imagem 6: Passo 4: 3 postagens por semana, feitas pelo Claude. Ele puxa do seu blog, dos seus vídeos e das suas reuniões. Mais real, menos cara de IA.
+Imagem 7: Passo 5: uma foto nova por semana, de verdade. Fachada, equipe, serviço. Você tira, o Claude publica.
+Imagem 8: Passo 6: acompanhe tudo dentro do próprio perfil. Ligações, mensagens, rotas e cliques no site.
+Imagem 9: Perfil ativo é como o Google entende quem é o seu business. E passa a te mostrar mais.
+Imagem 10: Salva esse post e manda pra quem quer vender mais com o Google Meu Negócio.
+**Gancho:** Promessa forte de automação no Google Meu Negócio usando inteligência artificial logo na capa.
+**Estrutura:** Contexto inicial, apresentação de exemplo prático, passo a passo numerado de 1 a 6 e chamada para ação final.
+**Por que funciona:** Entrega um passo a passo técnico e acionável de forma simples, resolvendo uma dor real de negócios locais com uma ferramenta da moda (Claude).
+**3 ganchos para o perfil:** 
+1. Esquece postar manualmente no Google Meu Negócio, olha como automatizei tudo com IA.
+2. Seu perfil do Google está parado? Veja como deixar a IA cuidar dele sozinha.
+3. Quer aparecer mais no Google sem perder tempo criando conteúdo todo dia? Segue esse método.
+
+
+## 10/10/2026 | https://www.threads.com/share/BAYmP8E4DB/
+**Tipo:** texto | **Idioma original:** português
+
+**Transcricao/Conteudo:** O autor diz que tem fraqueza por pessoas cheirosas e pergunta aos seguidores qual detalhe os faz perder a concentração.
+
+**Gancho:** Começar com uma confissão pessoal e um gosto específico que desperta identificação imediata.
+
+**Estrutura:** Declaração de preferência pessoal + Pergunta aberta para a audiência.
+
+**Por que funciona:** Gera identificação rápida e convida a um debate divertido sobre atração e pequenos detalhes cotidianos.
+
+**3 ganchos para o perfil:**
+1. Eu simplesmente não resisto a quem tem esse hábito... e vocês?
+2. Qual é aquela mania inofensiva que desarma vocês na hora?
+3. Sinceramente, isso aqui é um ponto fraco gigante para mim. E para vocês?
+
+Observacao do dono sobre esta inspiracao: nenhuma
+
+
+## 10/10/2026 | https://www.threads.com/share/__kTiu-e2/
+**Tipo:** vídeo | **Idioma original:** português
+
+**Transcrição/Conteúdo:** Vídeo curto com tom de meme sobre um detalhe curioso ou criativo que exige sensibilidade artística para ser notado.
+
+**Gancho:** "Se você não tiver um mínimo de veia artística, provavelmente vai passar reto por isso 😂"
+
+**Estrutura:** Contextualização intrigante na legenda seguida pela revelação rápida no vídeo.
+
+**Por que funciona:** Cria um filtro de curiosidade e exclusividade que atrai quem se identifica como criativo.
+
+**3 ganchos para o perfil:**
+- Se você tem o olhar apurado, vai notar isso imediatamente.
+- Apenas os mais criativos vão entender a graça disso aqui.
+- Só quem cria conteúdo vai bater o olho e se identificar na hora.
+
+
+## 10/10/2026 | https://www.threads.com/@izarovaris
+**Tipo:** Perfil (threads) | **Posts lidos:** 8
+
+**Quem e e para quem fala:** Nicho de achados de Shopee, utilidades domesticas e humor do cotidiano. Fala com mulheres de 25 a 44 anos que gostam de casa organizada, truques de limpeza, achadinhos baratos e memes rapidos. O tom e leve, divertido, amigavel e informal, parecendo uma conversa entre amigas no WhatsApp.
+
+**O que mais performa:** Os posts com mais engajamento sao os baseados em videos com humor visual e curiosidade imediata. Os 3 posts de maior destaque (Post 7 com 10 mil curtidas, Post 5 e Post 2) tem em comum: usam um video leve ou curioso como gancho visual principal, abordam situacoes cotidianas ou produtos incomuns que geram identificacao instantanea, e abrem espaco para o publico opinar nos comentarios (pergunta aberta ou gargalhada inicial).
+
+**Padroes de gancho:** Os posts comecam sempre gerando curiosidade imediata, identificacao ou quebra de expectativa usando bom humor ou duvida compartilhada. Exemplos parafraseados:
+- Eu nao dava nada por isso, mas o resultado me chocou.
+- Vou falar e voces nao briguem comigo.
+- Quem foi que inventou isso?
+
+**Como vende:** Vende produtos de afiliado (Shopee) separando a estrategia em dois momentos: no primeiro post apresenta o video de entretenimento, curiosidade ouutilidade gerando desejo e duvida; logo em seguida, publica um post especifico de follow-up apenas com o link de afiliado e a hashtag #publi, direcionando diretamente para quem pediu nos comentarios ou se interessou.
+
+**O que copiar para o @lorenafleck_:**
+- Separar o video principal de entretenimento/utilidade da chamada de vendas, postando o link em uma sequencia logica logo apos o publico demonstrar interesse.
+- Usar ganchos baseados em duvidas reais ou opinioes polemicas leves sobre produtos e truques caseiros.
+- Manter legendas curtas, conversacionais e pontuadas por emojis que reforcem a expressao facial ou o tom de brincadeira.
+
+**5 ganchos para o perfil:**
+- Eu juro que tentei nao comprar, mas esse achadinho ganhou meu coracao.
+- Sabe aquele produto que parece inutil ate voce testar pela primeira vez?
+- Quem foi a mente brilhante que criou isso precisa receber um aumento.
+- Testei o truque famoso da internet e o resultado foi totalmente inesperado.
+- Se voce e mae ou cuida da casa, precisa ver isso antes de gastar seu dinheiro.
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DdOnlaijaN2/?rpxt=bGNsYnFuaWF4cjJ4
 **Tipo:** Carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:**
@@ -16,6 +101,8 @@ Imagem 6: Agora você pode retribuir o favor me indicando a sua série conforto 
 Pare tudo o que você está fazendo para anotar essas recomendações de séries que salvam qualquer dia caótico.
 Se o seu cérebro está fritando de tanto trabalhar hoje, aqui está a única lista de séries que você precisa ver agora.
 Chega de scroll infinito, estas são as únicas quatro séries que valem o seu tempo livre nesta semana.
+
+
 
 
 ## 10/10/2026 | https://www.instagram.com/p/DcloqnREXjG/?vrfl=MWR0MjY5ejZmZnJkaQ==
@@ -42,6 +129,8 @@ Imagem 7: Esqueci de alguma coisa??
 3. Lições dolorosas que o mercado digital me obrigou a aprender.
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DeKNxO2EVEn/?srtk=MWxvMnUyYmRpdmJwcQ==
 **Tipo:** carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:** 
@@ -64,6 +153,8 @@ Sabe por que aquele carrossel incrível teve zero comentários? O seu gancho est
 Parou de escrever "dicas de" e o seu conteúdo finalmente começou a prender a atenção na primeira linha.
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DeUy1aVGuTp/?cplk=MTBndTg4NnQyczkzbg==
 **Tipo:** Carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:** O post apresenta uma proposta comercial interativa e personalizada, demonstrando como integrar ferramentas de inteligência artificial na criação de posts sofisticados para redes sociais, mantendo um design elegante.
@@ -74,6 +165,8 @@ Parou de escrever "dicas de" e o seu conteúdo finalmente começou a prender a a
 1. Como criar posts profissionais usando IA sem parecer robô.
 2. A ferramenta secreta que economiza horas na sua produção de conteúdo.
 3. Pare de perder tempo fazendo design manual no Canva.
+
+
 
 
 ## 10/10/2026 | https://www.instagram.com/p/DePNKZTIHZ4/?srtk=MWpkNTR3dDdrM3RzYw==
@@ -90,6 +183,8 @@ Imagem 4: Para ter acesso, comenta FORMATO e olha o seu direct!
 1. Cansado de postar carrossel que ninguém lê? Aqui estão os três únicos formatos que realmente retêm a atenção.
 2. Descubra o padrão oculto nos carrosséis que viralizam todos os dias no meu perfil.
 3. Se você quer parar de perder tempo com design complexo, use este formato simples de carrossel.
+
+
 
 
 
@@ -112,6 +207,8 @@ Imagem 6: Tooooodo esse passo a passo tá dentro do CoCrIA, meu treinamento de p
 
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DeKpYGtoFoq/?obrf=Z2w1bm1vOTNidnNx
 **Tipo:** Carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:** O conteúdo destaca que pessoas se conectam com pessoas. Usar elementos engraçados e da rotina que mostram um lado humano, ligando isso ao produto, faz com que o público se sinta mais confortável para interagir por direct.
@@ -122,6 +219,8 @@ Imagem 6: Tooooodo esse passo a passo tá dentro do CoCrIA, meu treinamento de p
 1. Pare de falar só do seu produto e comece a mostrar quem está por trás dele.
 2. O segredo para vender no direct sem parecer chato.
 3. Se o seu perfil tá muito engessado, falta isso aqui na sua rotina.
+
+
 
 
 
@@ -150,6 +249,8 @@ Imagem 7: Que ferramenta salva sua vida por aí??
 
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DeHKO7CoE6W/?srtk=NWJudmgyazN1aG05
 **Tipo:** Carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:** 
@@ -169,8 +270,12 @@ Aviso prévio: quem decide reclamar o dia todo fica sem resultado
 
 
 
+
+
 ## 10/10/2026 | carrosel
 Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Claude: listar no resumo de domingo para decidir o plano B.
+
+
 
 
 
@@ -192,8 +297,12 @@ Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Cla
 
 
 
+
+
 ## 10/10/2026 | carrosel
 Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Claude: listar no resumo de domingo para decidir o plano B.
+
+
 
 
 
@@ -215,6 +324,8 @@ Nao consegui ler nada publico deste link (rede bloqueou o acesso sem login). Cla
 
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DdbtUQQoA9-/?dlrf=MTZmYTN5b2x5Nnh5dg==
 **Tipo:** carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:** 
@@ -229,6 +340,8 @@ Imagem 4: pov: cliente acabou de entrar e aprovou tudo na primeira leva
 1. Quando o cliente pede um milagre criativo para ontem e sem orçamento.
 2. O momento exato em que a sua planilha de planejamento anual desmorona.
 3. Quando o post que você fez sem nenhuma pretensão vira o assunto da semana.
+
+
 
 
 
@@ -257,6 +370,8 @@ Se você odeia montar relatório de social media, precisa testar esse método co
 
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DdR5xGxoINx/?dlrf=bjVwejJ6ZXB2ZXQz
 **Tipo:** Carrossel | **Idioma original:** Português do Brasil
 **Transcricao/Conteudo:** Resumo de um carrossel de fotos aleatórias de viagens, rotina, leituras e álbuns ouvidos recentemente.
@@ -267,6 +382,8 @@ Se você odeia montar relatório de social media, precisa testar esse método co
 1. Três livros que devorei nas últimas semanas e você deveria ler também.
 2. O diário visual da minha semana em poucos cliques.
 3. Se você curte indicações aleatórias de música e leitura, salva essa lista.
+
+
 
 
 
@@ -300,6 +417,8 @@ Se você odeia montar relatório de social media, precisa testar esse método co
 
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DbZI2pulqCl/?img_index=3&srtk=Nm82M2p4enBjdjNr
 **Tipo:** carrossel | **Idioma original:** Português do Brasil
 
@@ -328,6 +447,8 @@ Observacao do dono sobre esta inspiracao: nenhuma
 
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DYpPvFoETIJ/?rpxt=MTRiczgzM2w0cnB5Yg==
 **Tipo:** Carrossel | **Idioma original:** Português do Brasil
 
@@ -348,6 +469,8 @@ Imagem 5: Quer participar de um programa de I.A para Social Media? Comenta ELITE
 1. Esqueça tudo o que você sabe sobre inteligência artificial na rotina de agência.
 2. Três comandos simples para transformar seu perfil em uma máquina de fechar contratos.
 3. Como economizar dez horas por semana usando a ferramenta certa do jeito errado.
+
+
 
 
 
@@ -380,6 +503,8 @@ Imagem 7: No fim, IA boa não é a que escreve por você. É a que escreve com v
 
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DaaekPCkQRM/?mdxt=MWZld3RvZmc4cmJrZQ==
 **Tipo:** carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:**
@@ -397,6 +522,8 @@ Imagem 7: enfim... ser social media best-seller e geração Z é bom demais! ;)
 1. Sinais claros de que você trabalha com redes sociais e nasceu na era digital.
 2. A rotina caótica e charmosa de quem cuida de marcas na internet.
 3. Se você passa o dia inteiro alternando abas e criando conteúdo, esse estilo de vida é seu.
+
+
 
 
 
@@ -423,6 +550,8 @@ Imagem 6: Com isso, deixo TUDO em um lugar só e ainda tenho uma central aesthet
 1. Se o seu Notion parece mais um depósito de lixo do que uma ferramenta de organização, você está usando errado.
 2. Chega de perder horas enfeitando o Notion e foca no que realmente importa para o seu planejamento.
 3. O passo a passo exato para transformar o seu Notion bagunçado em uma máquina de organizar conteúdos.
+
+
 
 
 
@@ -455,6 +584,8 @@ Imagem 7: Me conheça pelas minhas músicas preferidas
 
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DeRyDE-IH2i/?cplk=MWNmYzF4YXljczFvNQ==
 **Tipo:** Carrossel | **Idioma original:** Português do Brasil
 
@@ -479,6 +610,8 @@ Imagem 4: Quando o conteúdo sobre o filme aleatório que eu assisti 1 mês atr�
 
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DbodAhRjx3Z/?srtk=MW13emhicWJudnZxag==
 **Tipo:** Foto com chamada para acao | **Idioma original:** Portugues
 **Transcricao/Conteudo:** O post convida o usuario a comentar a palavra CARROSSEL para receber um prompt pronto para o Claude criar um carrossel inteiro.
@@ -486,6 +619,8 @@ Imagem 4: Quando o conteúdo sobre o filme aleatório que eu assisti 1 mês atr�
 **Estrutura:** Chamada direta com instrucao clara e beneficio imediato.
 **Por que funciona:** Gera engajamento automatico no perfil oferecendo uma ferramenta util em troca de um comentario simples.
 **3 ganchos para o perfil:** Comenta GUIA que te mando o passo a passo completo no seu direct. Digita ABAIXO a palavra ROTEIRO para receber a estrutura pronta. Quer o modelo secreto? Comenta TEXTO que eu te envio agora.
+
+
 
 
 
@@ -513,6 +648,8 @@ Imagem 6: Salva. Usa no próximo. Qual é o tema do seu próximo Reels? Comenta 
 1. Se o seu vídeo empaca em cem visualizações, o erro aconteceu antes mesmo de você ligar a câmera.
 2. Pare de perder horas editando Reels que ninguém assiste até o final.
 3. Este único prompt de inteligência artificial vai resolver seus problemas de criatividade para sempre.
+
+
 
 
 
@@ -552,6 +689,8 @@ Imagem 10: COMENTA ARSENAL QUE EU MANDO TUDO.
 
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DaGsTb8k5U4/?psln=ZWxnbTFjNWhmNnhw
 **Tipo:** Carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:** 
@@ -567,6 +706,8 @@ Imagem 5: COMPARTILHE COM AQUELE AMIGO ADVOGADO QUE PRECISA SABER DISSO.
 O segredo que os profissionais mais produtivos escondem sobre o uso de IA.
 Pare de usar inteligência artificial apenas para o básico e comece a delegar o trabalho pesado.
 Seis comandos simples que resolvem as tarefas mais chatas do seu dia em segundos.
+
+
 
 
 
@@ -602,6 +743,8 @@ Imagem 6: Claude para Social Media Quer saber como acessar todas as skills e apr
 
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DW4UmBfEXBa/?dlrf=MXJraDkycHZkaWZ1ZQ==
 **Tipo:** carrossel | **Idioma original:** Português
 **Transcricao/Conteudo:**
@@ -619,6 +762,8 @@ Imagem 7: COMECE AGORA. Seu próximo carrossel está a 1 prompt de distância. S
 Pare de gastar horas no Canva enquanto a inteligência artificial faz seu carrossel em segundos.
 Seu fluxo de criação de conteúdo está totalmente ultrapassado e eu posso provar.
 Crie um carrossel profissional inteiro usando apenas um comando de texto.
+
+
 
 
 
@@ -650,69 +795,12 @@ Imagem 7: Existe um prompt que ensina o Claude a trabalhar exatamente do seu jei
 
 
 
+
+
 ## 10/10/2026 | https://www.instagram.com/p/DbhTOdIFwoT/?img_index=4&obrf=bW9pcG1uYTFzM3Y=
 **Tipo:** Carrossel | **Idioma original:** Português do Brasil
 
 **Transcricao/Conteudo:**
 Imagem 1: Carrosséis infinitos. Você monta a fábrica uma vez. Depois é só pedir o próximo. E o próximo. E o próximo.
 Imagem 2: O segredo não é o prompt. É o Projeto: uma pasta dentro do Claude onde as instruções ficam fixas: ele lê tudo antes de cada resposta, em todo chat novo. Quem cola prompt gigante toda vez tá remando. Quem monta o Projeto uma vez aperta um botão.
-Imagem 3: Passo 01. Cria um Projeto só pra isso. No claude.ai: menu lateral, Projetos, novo projeto. Batiza de "fábrica de carrosséis" e pronto, a estrutura existe.
-Imagem 4: Passo 02. Cola as instruções uma única vez. Instruções do projeto: slide 1 é um hook: uma frase que para o dedo; slide 2 é a segunda capa: quem passou, fica; pouco texto por slide, legível no celular; o último slide sempre fecha com um CTA; escreve na MINHA voz: [cola 3 legendas suas]. Isso vira a memória permanente da fábrica. Ele nunca mais esquece.
-Imagem 5: Passo 03. Agora é só pedir em série. Carrossel sobre os 5 erros de quem começa no meu nicho. Agora um comparando o jeito antigo e o jeito novo. Agora um com a história do meu primeiro cliente. Cada linha dessas volta estruturada, na tua voz, pronta pra desenhar. O esforço de montar já foi feito no passo 2.
-Imagem 6: E fica melhor a cada pedido. O Projeto guarda os chats anteriores como contexto. Quando você diz "esse ficou bom, segue essa linha", ele aprende teu gosto. Em duas semanas a fábrica escreve mais parecido com você do que você com pressa.
-Imagem 7: A parte que a IA não faz por você. A fábrica entrega a estrutura. O que enche ela de vida é o que só você tem: tuas histórias, teus clientes, teus números. Carrossel genérico morre no feed. Estrutura de máquina com história de gente é o combo que vence.
-Imagem 8: Quer a fábrica já montada? O meu sistema já vem com a linha de produção de carrossel pronta, na tua marca e na tua voz. Comenta "DUTYX" que eu te mando no direct.
-
-**Gancho:** Promete criar conteúdos infinitos de forma automática e rápida configurando uma ferramenta apenas uma vez.
-
-**Estrutura:** Promessa forte -> Exposição do problema comum -> Passo a passo da solução em 3 etapas -> Benefício a longo prazo -> Alerta de limite da ferramenta -> Chamada para ação.
-
-**Por que funciona:** Elimina o esforço repetitivo de criar prompts do zero e mostra um fluxo prático e validado, gerando alto valor percebido e curiosidade pelo método.
-
-**3 ganchos para o perfil:**
-1. Pare de perder horas criando conteúdo do zero toda semana.
-2. Existe um jeito de fazer a inteligência artificial trabalhar exatamente como você.
-3. Se você ainda digita prompt gigante para criar posts, você está fazendo errado.
-
-
-
-
-
-
-
-## 10/10/2026 | https://www.instagram.com/p/DcBQ9SjkYwc/?srtk=czdjdzVvdHhjc2o2
-**Tipo:** Carrossel | **Idioma original:** Português do Brasil
-
-**Transcricao/Conteudo:**
-Imagem 1: Como eu crio carrosséis virais
-Imagem 2: Eu não peço “crie um carrossel”. Eu dou um tema. O sistema decide a estrutura antes de escrever. E é aqui que muda tudo.
-Imagem 3: 01 — Ele escolhe a estrutura. Antes de escrever uma frase, ele decide: tipo de carrossel, objetivo, quantidade de slides, categoria do hook. A copy vem depois.
-Imagem 4: 02 — Ele não escreve 1 gancho. Ele cria várias capas. Depois compara: clareza, curiosidade, contraste, identificação e força visual. A capa precisa conquistar o primeiro swipe, mas existe outro hook escondido.
-Imagem 5: 03 — O slide 2 é outro hook. Ele não repete a capa. Entrega uma revelação que funciona até se esse for o primeiro slide visto. Você ganha uma segunda chance de prender a atenção.
-Imagem 6: 04 — O valor forte vem cedo. O melhor insight entra no slide 3. Depois, cada slide carrega uma única ideia. E precisa passar no teste: “Eu compartilharia só este slide?” Se a resposta for não, ele reescreve.
-Imagem 7: 05 — O segredo não é o ChatGPT. É o sistema que obriga o ChatGPT a pensar em: estrutura, hook, retenção, copy e direção visual. Depois, cada slide ainda vira um prompt pronto para criar o design. O ChatGPT executa. O método controla o resultado.
-Imagem 8: Quer ver o processo completo? Eu gravei um vídeo no YouTube mostrando, passo a passo, como eu crio esses carrosséis com o ChatGPT. Comenta “YT” que eu te envio o vídeo.
-
-**Gancho:** Promessa de bastidor revelando o método exato para criar carrosséis que viralizam.
-
-**Estrutura:** Promessa inicial seguida por 5 passos detalhados do sistema de criação e chamada para ação final.
-
-**Por que funciona:** Mistura design editorial moderno tipo mockup com passos acionáveis, gerando alto valor percebido e curiosidade pelo método.
-
-**3 ganchos para o perfil:**
-1. Pare de pedir para a IA apenas gerar texto se você quer que seus posts realmente convertam.
-2. O erro que você comete no segundo slide está matando o alcance dos seus carrosséis.
-3. Como estruturar um carrossel do zero usando IA sem parecer um robô genérico.
-
-
-
-
-
-
-
-## 10/10/2026 | https://www.instagram.com/p/DZavVUFkTiM/?mdxt=MmYzdGQ4cmxuaHR3
-**Tipo:** Carrossel | **Idioma original:** Português
-**Transcricao/Conteudo:** 
-Imagem 1: O sistema Claude - 10 06 2026 - Construí uma skill de Claude que cria meus carrosséis automaticamente. - Comenta Vibe - 01 / 10
-Imagem 2: 10 06 2026 - Slide 02 / 10 - O resultado de um único post criado pelo sistema: Salvamentos 4.341 pessoas guardaram pra voltar depois (2x as curtidas). Comentários 3.483 quase tudo palavra-gatilho no automático. Curtidas 2.060 o número que todo mundo olha. Compartilhamentos 1.174 gente mandando pra gente. 11.073 interações no total. Mais gente salvou do que curtiu — e nada disso existiria se dependesse do meu tempo livre. - Comenta Vibe - 02 / 10
-I
+Imagem 3: Passo 01. Cria um Projeto só pra isso. No claude.ai: menu lateral, Proje
