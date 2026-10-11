@@ -1,7 +1,7 @@
 {
  "id": "car-20261011-4",
- "aprovado": false,
- "revisao": "aguardando previa",
+ "aprovado": true,
+ "revisao": "aprovado 11/10 (previa real revisada pelo Claude)",
  "criado": "2026-10-11",
  "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
  "produto": {

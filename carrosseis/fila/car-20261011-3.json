@@ -1,7 +1,7 @@
 {
  "id": "car-20261011-3",
- "aprovado": false,
- "revisao": "aguardando previa",
+ "aprovado": true,
+ "revisao": "aprovado 11/10 (previa real revisada pelo Claude)",
  "criado": "2026-10-11",
  "modelo": "meme de reacao (refs. DdbtUQQoA9-, DeRyDE-IH2i) + manchete (DXVUQ01jZe6)",
  "produto": {
