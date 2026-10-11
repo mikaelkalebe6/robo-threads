@@ -12,12 +12,10 @@
  },
  "slides": [
   {
-   "layout": "manchete",
-   "foto_inteira": true,
-   "texto_pos": "topo",
-   "texto": "Segurar a lanterna na boca *não é plano.*",
+   "layout": "meme",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261011-2-s1-1791750228.jpg",
    "imagem_ia": "Night, a man leaning under the open hood of an old car, wearing a bright LED headlamp on his forehead lighting the engine, both hands holding tools, dark empty sky at the top, vertical framing, photorealistic, no text, no logos, no brand names",
-   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261011-2-s1-1791750228.jpg"
+   "texto": "segurar a lanterna na boca pra mexer no motor nunca foi plano"
   },
   {
    "layout": "manchete",
