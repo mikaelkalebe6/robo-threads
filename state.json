@@ -25,7 +25,7 @@
    "15:29"
   ],
   "produtos_feitos": 2,
-  "respostas": 47,
+  "respostas": 48,
   "por_post": {
    "17975559206935962": 20,
    "18179925583431899": 1,
@@ -35,7 +35,7 @@
    "17894365761611421": 1,
    "18112767806335344": 1,
    "18129449095879104": 17,
-   "18125942191740363": 3
+   "18125942191740363": 4
   }
  },
  "posts": [
@@ -915,7 +915,7 @@
    "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
    "quando": "2026-10-10T18:07:09.225159-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T16:07:09.239600-04:00",
+   "viral_chk": "2026-10-11T16:37:08.690270-04:00",
    "metricas": {
     "views": 71,
     "likes": 2,
@@ -933,7 +933,7 @@
    "texto": "ME CONTA: para a minha mãe, qualquer problema na vida se resolve com um banho quente e chá de camomila. De resfriado a coração partido. Qual é o remédio universal da mãe de vocês?",
    "quando": "2026-10-10T19:07:09.130648-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T16:07:09.239600-04:00",
+   "viral_chk": "2026-10-11T16:37:08.690270-04:00",
    "metricas": {
     "views": 376,
     "likes": 1,
@@ -951,7 +951,7 @@
    "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
    "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T16:07:09.239600-04:00",
+   "viral_chk": "2026-10-11T16:37:08.690270-04:00",
    "metricas": {
     "views": 548,
     "likes": 21,
@@ -990,7 +990,7 @@
    "texto": "DÚVIDA SINCERA: salário alto num lugar que suga sua alma ou ganhar menos pra trabalhar em paz?",
    "quando": "2026-10-10T21:37:09.313934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T16:07:09.239600-04:00",
+   "viral_chk": "2026-10-11T16:37:08.690270-04:00",
    "metricas": {
     "views": 85,
     "likes": 0,
@@ -1041,7 +1041,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T15:37:09.556759-04:00"
+   "viral_chk": "2026-10-11T16:37:08.690270-04:00"
   },
   {
    "id": "18112326992130330",
@@ -2535,7 +2535,8 @@
   "18151878553540032",
   "18145033780574974",
   "18287546236294280",
-  "17870963388646628"
+  "17870963388646628",
+  "18107263355227095"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2895,15 +2896,11 @@
   "f4a6244f93": 1,
   "09820c3fd8": 1,
   "dc153fb9b9": 1,
-  "d80f82dc82": 1
+  "d80f82dc82": 1,
+  "db407d487e": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "nem fale, o peso de manter a pose acaba com qualquer um",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse é o tipo de encontro inesperado que encerra o passeio na hora",
    "p": "concorda",
@@ -3046,6 +3043,11 @@
   },
   {
    "t": "se o nível do atendimento for esse o waze perde espaço na hora kkkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "perigo real e oficial de ir parar em outra dimensao kkkkkk",
    "p": "concorda",
    "r": 2
   }
@@ -3835,7 +3837,8 @@
   "18125942191740363": [
    "cada escolha uma",
    "esse posto ai",
-   "se o nivel"
+   "se o nivel",
+   "perigo real e"
   ]
  },
  "shopee_checada": "2026-10-11|1",
