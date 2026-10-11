@@ -13,7 +13,8 @@
   {
    "layout": "fundo",
    "imagem_ia": "Humorous home scene, a Brazilian man in a simple kitchen trying to tighten a screw on a wobbly wooden chair using a butter knife, frustrated face, natural daylight, vertical framing, free space at the bottom, no text",
-   "texto": "Todo homem já apertou parafuso com *faca de manteiga.*"
+   "texto": "Todo homem já apertou parafuso com *faca de manteiga.*",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261010-4-s1.jpg"
   },
   {
    "rotulo": "o problema",
@@ -36,5 +37,6 @@
   }
  ],
  "texto_post": "A faca de manteiga merece aposentadoria.",
- "frase_link": "a ferramenta que vive na minha gaveta"
+ "frase_link": "a ferramenta que vive na minha gaveta",
+ "ia_tentado": true
 }

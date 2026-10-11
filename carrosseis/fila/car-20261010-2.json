@@ -14,7 +14,8 @@
    "layout": "fundo",
    "imagem_ia": "Night on a dark rural road in Brazil, a man kneeling next to a car with a flat tire, holding a powerful tactical flashlight whose bright beam lights the wheel and the road far ahead, cinematic, vertical framing, empty dark sky at the top, no text",
    "texto": "Pneu furou às 23h, na estrada escura. *E o celular tá com 9%.*",
-   "texto_pos": "topo"
+   "texto_pos": "topo",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261010-2-s1.jpg"
   },
   {
    "rotulo": "o problema",
@@ -37,5 +38,6 @@
   }
  ],
  "texto_post": "Todo mundo acha que nunca vai precisar. Até a estrada apagar.",
- "frase_link": "a lanterna que mora no meu porta-luvas"
+ "frase_link": "a lanterna que mora no meu porta-luvas",
+ "ia_tentado": true
 }
