@@ -54,7 +54,7 @@ PAUSADO = env("PAUSADO", "0") == "1"
 # Mudou uma regra do robo? Mude a Variable e, se for o novo normal, mude AQUI tambem.
 PADRAO = {
     "POSTS_MIN": "6", "POSTS_MAX": "16", "HORA_INICIO": "8", "HORA_FIM": "22", "INTERVALO_MINIMO_MIN": "40",
-    "RESPOSTAS_POR_RODADA": "6", "RESPOSTAS_POR_DIA": "100", "RESPOSTAS_POR_PESSOA": "2",
+    "RESPOSTAS_POR_RODADA": "6", "RESPOSTAS_POR_DIA": "200", "RESPOSTAS_POR_PESSOA": "2",
     # teto de respostas por post no dia (para um post viral nao comer o dia todo) e o piso de cada rodada
     "RESPOSTAS_POR_POST_DIA": "20", "RESPOSTAS_MIN_RODADA": "2",
     # de quantos em quantos minutos o despertador externo chama o robo (para dividir o teto do dia ate HORA_FIM)
