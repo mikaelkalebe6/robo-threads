@@ -1,6 +1,6 @@
 {
  "id": "car-20261010-3",
- "aprovado": true,
+ "aprovado": false,
  "criado": "2026-10-10",
  "modelo": "manchete-pera-como-assim (refs. DdolTobIKuQ capa que gera 'pera, como assim'; DeKNxO2EVEn blocos vermelhos sobre foto; DXVUQ01jZe6 alternando claro e escuro)",
  "produto": {
@@ -47,5 +47,6 @@
  "ia_tentado": true,
  "visual": "em",
  "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261010-3-965f6dcb.jpg",
- "previa_hash": "965f6dcb"
+ "previa_hash": "965f6dcb",
+ "descartado": "10/10 23h20: a tomada 45754796089 ja saiu como link viral as 22h37 (repetiria em menos de 14 dias) e a cena de IA da capa mostra carregador de acendedor, nao tomada de painel. Refazer no lote de 18/10 com outro produto."
 }

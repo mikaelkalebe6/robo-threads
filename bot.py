@@ -883,8 +883,34 @@ def produtos_do_dia(s, agora=None):
         return []
 
 
+def produtos_reservados(s):
+    """itemIds de carrosseis e fios aprovados na fila e ainda nao publicados (reservados para eles)."""
+    base = os.path.dirname(os.path.abspath(__file__))
+    usados = set((s or {}).get("carrosseis_usados", [])) | set((s or {}).get("fios_usados", []))
+    ids = set()
+    for pasta, prefixo in ((os.path.join(base, "carrosseis", "fila"), "car-"), (os.path.join(base, "jules", "fila"), "fio-")):
+        try:
+            nomes = os.listdir(pasta)
+        except Exception:
+            continue
+        for nome in nomes:
+            if not (nome.startswith(prefixo) and nome.endswith(".json")):
+                continue
+            try:
+                with open(os.path.join(pasta, nome), encoding="utf-8") as f:
+                    d = json.load(f)
+            except Exception:
+                continue
+            if d.get("aprovado") and str(d.get("id") or nome) not in usados and (d.get("produto") or {}).get("itemId"):
+                ids.add(str(d["produto"]["itemId"]))
+    return ids
+
+
 def produto_usado_recente(s, iid, agora=None):
-    """True se o produto ja foi divulgado ha menos de SHOPEE_REPETIR_DIAS dias (shopee_usados no state)."""
+    """True se o produto ja foi divulgado ha menos de SHOPEE_REPETIR_DIAS dias (shopee_usados no state)
+    ou se esta reservado para um carrossel ou fio aprovado na fila (licao de 10/10)."""
+    if str(iid) in produtos_reservados(s):
+        return True
     u = (s or {}).get("shopee_usados", {}).get(str(iid))
     if not u:
         return False
