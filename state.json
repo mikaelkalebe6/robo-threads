@@ -17,33 +17,19 @@
    "15:29",
    "19:45"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:19"
+  ],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 15,
   "por_post": {
-   "17975559206935962": 10,
+   "17975559206935962": 12,
    "18179925583431899": 1,
-   "17931200094409342": 1
+   "17931200094409342": 1,
+   "18009796532776328": 1
   }
  },
  "posts": [
-  {
-   "id": "18021445505924431",
-   "insp": "380b00e24d",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: se alguém de fora chega na tua cidade hoje faminto, qual prato típico tu obrigatoriamente manda o infeliz provar primeiro",
-   "quando": "2026-10-06T11:37:09.550675-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 489,
-    "likes": 4,
-    "replies": 23,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-11"
-   }
-  },
   {
    "id": "18074133248740525",
    "insp": "642c97cc3a",
@@ -867,7 +853,7 @@
    "texto": "Praia dá muito mais trabalho do que descanso. Areia em tudo, muvuca, vento na cara... Troco fácil por uma cachoeira no meio do mato sem pensar duas vezes.",
    "quando": "2026-10-10T09:07:10.034169-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T08:07:08.537835-04:00",
+   "viral_chk": "2026-10-11T08:37:08.861815-04:00",
    "metricas": {
     "views": 934,
     "likes": 26,
@@ -930,7 +916,7 @@
    "texto": "Eu joguei tanto daquele jogo horrível na infância que tenho vergonha de admitir. Qual o seu guilty pleasure dos anos 90?",
    "quando": "2026-10-10T12:07:10.552905-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T08:07:08.537835-04:00",
+   "viral_chk": "2026-10-11T08:37:08.861815-04:00",
    "metricas": {
     "views": 570,
     "likes": 1,
@@ -988,7 +974,7 @@
    "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
    "quando": "2026-10-10T18:07:09.225159-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T08:07:08.537835-04:00",
+   "viral_chk": "2026-10-11T08:37:08.861815-04:00",
    "metricas": {
     "views": 71,
     "likes": 2,
@@ -1024,7 +1010,7 @@
    "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
    "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T07:37:08.556556-04:00",
+   "viral_chk": "2026-10-11T08:37:08.861815-04:00",
    "metricas": {
     "views": 548,
     "likes": 21,
@@ -1073,6 +1059,15 @@
     "shares": 0,
     "em": "2026-10-11"
    }
+  },
+  {
+   "id": "17894365761611421",
+   "insp": "95c7572ca7",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
+   "quando": "2026-10-11T08:37:08.861815-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-11T08:37:08.861815-04:00"
   }
  ],
  "respondidos": [
@@ -2514,7 +2509,10 @@
   "18099289484188072",
   "18089742995238897",
   "18105879401218377",
-  "18118020548068214"
+  "18118020548068214",
+  "18079293362438333",
+  "18132414742668840",
+  "18192933211395051"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2666,7 +2664,8 @@
   "90b9891efa06b034b7f430324eeebbd1",
   "0675cb7eda2a75b2851ab0e37f9e1a6e",
   "93bf9123793e0e90afd81a7df9de24f2",
-  "78a27020a9f7dab6104394540f3972c6"
+  "78a27020a9f7dab6104394540f3972c6",
+  "304ad5f946f78247092dece129a207ea"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2818,13 +2817,14 @@
   "eb9c03e299": 1791670089.8466873,
   "a5b40d343a": 1791673648.3117123,
   "a5b0a002b5": 1791677248.7385156,
-  "7e236666a4": 1791682693.6785476
+  "7e236666a4": 1791682693.6785476,
+  "95c7572ca7": 1791722249.162733
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-10-11",
   "186e55ad37": 1,
-  "1d06969815": 1,
+  "1d06969815": 2,
   "def86776e5": 1,
   "e3f891a5e3": 1,
   "b3d7ac3816": 1,
@@ -2834,25 +2834,12 @@
   "6d68526a09": 1,
   "49467d79c8": 1,
   "f8af79e2f9": 1,
-  "ed7ec76288": 1
+  "ed7ec76288": 1,
+  "331c868322": 1,
+  "af44cfa5fd": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "acompanhamento clássico que não pode faltar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "lancer antigo tem aquela pose brava que impõe respeito na rua",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "escala 6x1 aos quinze anos devia ser proibido por lei",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pesado mas real, construir rede de apoio na marra exige demais da gente",
    "p": "concorda",
@@ -2985,6 +2972,21 @@
   },
   {
    "t": "consciência financeira aos dezesseis anos é um privilégio raro que molda bem a relação com o dinheiro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia ousada de alternar colapso e descanso kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "evoluir o nível de loucura resume perfeitamente a jornada corporativa kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "metade do salario mínimo na epoca já exigia exercicio diario de paciência",
    "p": "concorda",
    "r": 0
   }
@@ -3729,8 +3731,6 @@
    "esse jogo testava"
   ],
   "17975559206935962": [
-   "valor que hoje",
-   "o salto quantico",
    "final dos anos",
    "passar por isso",
    "epoca em que",
@@ -3748,7 +3748,9 @@
    "esse valor nessa",
    "shopping sempre exigiu",
    "esse ano ja",
-   "consciencia financeira aos"
+   "consciencia financeira aos",
+   "evoluir o nivel",
+   "metade do salario"
   ],
   "18003828527991536": [
    "pesado mas real",
@@ -3756,7 +3758,8 @@
   ],
   "18009796532776328": [
    "responsabilidade muda toda",
-   "paz nao tem"
+   "paz nao tem",
+   "estrategia ousada de"
   ]
  },
  "shopee_checada": "2026-10-11|1",
