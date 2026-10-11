@@ -83,13 +83,15 @@ def _texto_destacado(d, linhas, f, x0, y, altura, cor, destaque, sombra=None):
     ligado = False  # o destaque continua na linha seguinte quando o *trecho* quebra de linha
     for linha in linhas:
         x = x0
-        for parte in linha.split("*"):
+        partes = linha.split("*")
+        for k, parte in enumerate(partes):
             if parte:
                 if sombra:
                     d.text((x + 3, y + 3), parte, font=f, fill=sombra)
                 d.text((x, y), parte, font=f, fill=destaque if ligado else cor)
                 x += d.textlength(parte, font=f)
-            ligado = not ligado
+            if k < len(partes) - 1:  # so troca onde existe um * de verdade
+                ligado = not ligado
         y += altura
     return y
 
