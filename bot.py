@@ -90,7 +90,15 @@ PADRAO = {
     "SHOPEE_TOP_IA": "12",
     "PRODUTO_POR_DIA": "3",
     # sorteio da estrategia em cada horario de produto (pesos iguais ate 23/10; nao ajustar sozinho)
-    "PESOS_ESTRATEGIA": "carrossel:1,fio:1",
+    "PESOS_ESTRATEGIA": "carrossel:1,fio:1,produto_foto:1",
+    # post de produto no formato achadinho (briefing 11/10, referencia @izarovaris): post de descoberta SEM link;
+    # o link entra depois numa resposta propria (frase curta + link + #publi, sem foto) quando o post passar de
+    # ACHADINHO_VIEWS_LINK views ou, se nao passar, depois de ACHADINHO_LINK_HORAS horas
+    "ACHADINHO_VIEWS_LINK": "500", "ACHADINHO_LINK_HORAS": "18",
+    # post viral sem produto que combine: chance de ir mesmo assim com um produto bom do dia (Kalebe 11/10: 50/50)
+    "VIRAL_QUALQUER_CHANCE": "0.5",
+    # palavras proibidas no nome do produto (saude/medicamento e itens fora do publico); vale na hora do uso
+    "SHOPEE_PROIBIDOS": "seringa,agulha,insulina,remedio,medicamento,farmacia,legging,calcinha,sutia,lingerie,bijuteria,micanga,hama beads,unha,esmalte,cilios,maquiagem,absorvente",
     # fio sem foto na fila: chance de o robo colocar a foto do produto na parte do link (fio as vezes com foto)
     "CHANCE_FOTO_FIO": "0.33",
     # produto sorteado entre os N melhores do dia; vendas da Shopee (conversionReport) dos ultimos N dias
@@ -877,10 +885,21 @@ def produtos_do_dia(s, agora=None):
     """Lista do cacador da Shopee (1 busca por dia, cache no state). Nunca levanta erro."""
     try:
         import shopee
-        return shopee.escolher_produtos(s, cfg, log, (agora or dt.datetime.now(TZ)).strftime("%Y-%m-%d"))
+        lista = shopee.escolher_produtos(s, cfg, log, (agora or dt.datetime.now(TZ)).strftime("%Y-%m-%d"))
+        return [x for x in lista if not produto_proibido(x.get("nome", ""))]
     except Exception as e:
         log("Shopee: falha ao escolher produtos (segue normal):", str(e)[:150])
         return []
+
+
+def _sem_acento(t):
+    return "".join(c for c in unicodedata.normalize("NFD", str(t or "").lower()) if unicodedata.category(c) != "Mn")
+
+
+def produto_proibido(nome):
+    """True se o nome do produto tem palavra da lista SHOPEE_PROIBIDOS (sem acento, sem maiuscula)."""
+    n = _sem_acento(nome)
+    return any(w and w in n for w in (_sem_acento(x).strip() for x in cfg("SHOPEE_PROIBIDOS").split(",")))
 
 
 def produtos_reservados(s):
@@ -980,10 +999,11 @@ Produtos da Shopee disponiveis:
 {lista}
 
 1) Escolha o produto que esse publico mais compraria (util no dia a dia, carro, casa, ferramenta, lazer). Evite item de nicho estreito.
-2) Escreva um post curto para o Threads no roteiro DOR -> SOLUCAO:
-- primeira linha: a dor, o perrengue ou o erro comum que esse produto resolve, do jeito que a pessoa fala (gera identificacao);
-- depois: a solucao, citando o produto de forma natural, como quem conta uma descoberta, nunca como anuncio.
-Ate 3 linhas, portugues do dia a dia, sem link, sem preco, sem hashtag, sem travessao.
+2) Escreva um post curto para o Threads no formato ACHADINHO (descoberta contada por quem usou):
+- primeira linha: o perrengue do dia a dia que esse produto resolve, com humor leve e do jeito que a pessoa fala (ex.: "X da um trabalhao, ne? 😂");
+- depois: "descobri esse..." contando o que ele faz, como quem mostra para um amigo, nunca como anuncio;
+- feche chamando para olhar a foto ou perguntando o que acharam (ex.: "olha como funciona 👀", "sera que e tudo isso mesmo?").
+Ate 3 linhas, portugues do dia a dia, no maximo 2 emojis, sem link, sem preco, sem hashtag, sem nome de marca, sem travessao.
 Responda so em JSON: {{"indice": numero, "texto": "o post"}}"""
     try:
         r = ia(prompt, json_mode=True)
@@ -1045,7 +1065,7 @@ Regras: no maximo 80 caracteres; sem travessoes; sem links; sem @; tom natural d
     return f"{frase} {carinha}" if modo == "ambos" else frase
 
 
-def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfoto", frase=None):
+def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfoto", frase=None, com_foto=True):
     """Comenta no post com foto do produto + frase curta + link de afiliado com subIds.
     Qualquer falha (Shopee, IA, Meta) so vira log e devolve None: nunca derruba a rodada."""
     agora = agora or dt.datetime.now(TZ)
@@ -1063,7 +1083,7 @@ def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfot
             return None
         frase = limpar_resposta(frase) if frase else frase_produto(produto.get("nome", "produto"), produto.get("campanha", ""))
         texto = com_publi(f"{frase}\n{link}" if frase else link)
-        cid = publicar(texto, foto=produto.get("imageUrl") or None, responder_a=pid)
+        cid = publicar(texto, foto=(produto.get("imageUrl") or None) if com_foto else None, responder_a=pid)
         s.setdefault("shopee_usados", {})[str(produto.get("itemId", ""))] = agora.isoformat()
         s.setdefault("minhas_respostas", {})[cid] = {"t": "(link produto)", "c": "", "q": agora.isoformat()}
         log(f"Comentario de produto publicado ({estrategia}): {cid}")
@@ -1106,6 +1126,50 @@ def checar_teste_comentario(s, agora):
     s["teste_comentario_produto"] = {"data": agora.isoformat(), "post_id": pid,
                                      "produto_id": prod.get("itemId"), "resultado": res or "falhou"}
     salvar_estado(s)
+
+
+FRASES_LINK_ACHADINHO = ["Isso aqui fez toda a diferença 🥰", "Pra quem perguntou, é esse aqui 👇", "Achei aqui 👇",
+                         "O que eu usei foi esse 👇", "Tá aqui pra quem quiser 👇"]
+
+
+def tarefa_link_achadinho(s, agora):
+    """Post de produto achadinho: poe o link numa resposta propria quando passar de ACHADINHO_VIEWS_LINK views
+    ou depois de ACHADINHO_LINK_HORAS horas. Frase curta + link + #publi, sem foto. Nunca derruba a rodada."""
+    min_views = int(cfg("ACHADINHO_VIEWS_LINK"))
+    horas = float(cfg("ACHADINHO_LINK_HORAS"))
+    for p in s.get("posts", []):
+        if not p.get("link_pendente") or str(p.get("id", "")).startswith("teste_"):
+            continue
+        try:
+            idade = (agora - dt.datetime.fromisoformat(p.get("quando", ""))).total_seconds() / 3600
+        except Exception:
+            idade = 99
+        views = 0
+        if idade < horas:
+            try:
+                dados = threads("GET", f"{p['id']}/insights", metric="views").get("data", [])
+                views = sum(_valor_metrica(m) for m in dados if m.get("name") == "views")
+            except Exception as e:
+                log(f"Achadinho: erro ao ler views do post {p['id']}:", str(e)[:120])
+                continue
+            if views < min_views:
+                continue
+        prod = p.get("prod_dados") or {}
+        if not prod.get("offerLink"):
+            p["link_pendente"] = False
+            log(f"Achadinho: post {p['id']} sem dados do produto. Link cancelado.")
+            salvar_estado(s)
+            continue
+        motivo = f"{views} views" if idade < horas else f"{idade:.0f}h depois"
+        log(f"Achadinho: link do post {p['id']} ({motivo}).")
+        res = comentar_produto(s, p["id"], prod, "produtofoto", agora, formato="respsemfoto",
+                               frase=random.choice(FRASES_LINK_ACHADINHO), com_foto=False)
+        p["link_pendente"] = False
+        p["link_em"] = agora.isoformat()
+        p["link_views"] = views
+        if not res:
+            p["link_falhou"] = True
+        salvar_estado(s)
 
 
 def tarefa_estrategia_meme(s, agora):
@@ -1173,6 +1237,10 @@ def tarefa_estrategia_meme(s, agora):
                 prod = sortear_produto(prods, s, agora)
             else:
                 prod = produto_para_post(s, agora, p.get("texto", ""))
+                if not prod and random.random() < float(cfg("VIRAL_QUALQUER_CHANCE") or 0):
+                    prod = sortear_produto(_lista_para_ia(s, agora), s, agora)
+                    if prod:
+                        log(f"Estrategia 1: nada combina com o post {pid}; sorteio 50/50 escolheu um produto bom do dia.")
                 if not prod:
                     p["viral_sem_produto"] = True
                     log(f"Estrategia 1: post {pid} viralizou ({views} views), mas nenhum produto combina. Sem link.")
@@ -1499,16 +1567,17 @@ def postar_produto(s, p, h, agora):
         except Exception as e:
             log("Erro ao publicar post de produto com foto:", str(e)[:150])
             continue
-        log(f"POSTADO (produto_foto, produto {prod.get('itemId')}):", pid_prod)
+        log(f"POSTADO (produto_foto achadinho, produto {prod.get('itemId')}, link depois):", pid_prod)
         p["feitos"].append(h)
         p["produtos_feitos"] = p.get("produtos_feitos", 0) + 1
+        # produto reservado ja na postagem (nao entra no viral nem em outro post enquanto espera o link)
+        s.setdefault("shopee_usados", {})[str(prod.get("itemId", ""))] = agora.isoformat()
         s.setdefault("posts", []).append({
             "id": pid_prod, "insp": f"prod_{prod.get('itemId')}", "link": "", "texto": txt_prod[:300],
             "quando": agora.isoformat(), "ia": _QUEM[0], "estrategia": "produto_foto", "formato": "postfoto",
-            "formato_link": "comentfoto", "produto": prod.get("itemId")})
+            "formato_link": "respsemfoto", "produto": prod.get("itemId"), "link_pendente": True,
+            "prod_dados": {k: prod.get(k, "") for k in ("itemId", "nome", "offerLink", "imageUrl", "campanha")}})
         salvar_estado(s)
-        time.sleep(random.randint(*ATRASO_LINK))
-        comentar_produto(s, pid_prod, prod, "produtofoto", agora)
         return True
     return False
 
@@ -2155,7 +2224,7 @@ def main():
     except Exception as e:
         log("Teste de comentario com foto: falhou (segue normal):", str(e)[:150])
     erros = 0
-    for tarefa in (tarefa_postar, tarefa_estrategia_meme, tarefa_responder):
+    for tarefa in (tarefa_postar, tarefa_link_achadinho, tarefa_estrategia_meme, tarefa_responder):
         try:
             tarefa(s, agora)
         except Exception as e:
