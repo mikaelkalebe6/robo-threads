@@ -20,7 +20,8 @@
   "feitos": [
    "08:19",
    "09:03",
-   "09:50"
+   "09:50",
+   "14:16"
   ],
   "produtos_feitos": 1,
   "respostas": 43,
@@ -36,23 +37,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17989585521024894",
-   "insp": "ff5db927b2",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: Quando lembro da infância, a mamãe sempre servia o arroz primeiro e o feijão por cima, como se fosse um pequeno segredo. Hoje, ao preparar pra mim, fico na dúvida: feijão por cima ou por baixo do arroz?",
-   "quando": "2026-10-06T15:07:11.015654-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 130,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-11"
-   }
-  },
   {
    "id": "18375054751212499",
    "insp": "fb886a59a7",
@@ -946,7 +930,7 @@
    "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
    "quando": "2026-10-10T18:07:09.225159-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T14:07:09.997684-04:00",
+   "viral_chk": "2026-10-11T14:37:08.319928-04:00",
    "metricas": {
     "views": 71,
     "likes": 2,
@@ -964,7 +948,7 @@
    "texto": "ME CONTA: para a minha mãe, qualquer problema na vida se resolve com um banho quente e chá de camomila. De resfriado a coração partido. Qual é o remédio universal da mãe de vocês?",
    "quando": "2026-10-10T19:07:09.130648-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T14:07:09.997684-04:00",
+   "viral_chk": "2026-10-11T14:37:08.319928-04:00",
    "metricas": {
     "views": 376,
     "likes": 1,
@@ -982,7 +966,7 @@
    "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
    "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T14:07:09.997684-04:00",
+   "viral_chk": "2026-10-11T14:37:08.319928-04:00",
    "metricas": {
     "views": 548,
     "likes": 21,
@@ -1021,7 +1005,7 @@
    "texto": "DÚVIDA SINCERA: salário alto num lugar que suga sua alma ou ganhar menos pra trabalhar em paz?",
    "quando": "2026-10-10T21:37:09.313934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T14:07:09.997684-04:00",
+   "viral_chk": "2026-10-11T14:37:08.319928-04:00",
    "metricas": {
     "views": 85,
     "likes": 0,
@@ -1064,6 +1048,15 @@
    "meme_views": 1070,
    "formato_link": "comentfoto",
    "produto": "22393525887"
+  },
+  {
+   "id": "18125942191740363",
+   "insp": "d9cd77c4a6",
+   "link": "",
+   "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
+   "quando": "2026-10-11T14:37:08.319928-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-11T14:37:08.319928-04:00"
   }
  ],
  "respondidos": [
@@ -2693,7 +2686,8 @@
   "93bf9123793e0e90afd81a7df9de24f2",
   "78a27020a9f7dab6104394540f3972c6",
   "304ad5f946f78247092dece129a207ea",
-  "ed5ad2e3f5a6e43cedd727a2e024e90e"
+  "ed5ad2e3f5a6e43cedd727a2e024e90e",
+  "4af0b3e6fd3837af21dc957b6d133987"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2847,7 +2841,8 @@
   "a5b0a002b5": 1791677248.7385156,
   "7e236666a4": 1791682693.6785476,
   "95c7572ca7": 1791722249.162733,
-  "eb6c939e24": 1791727694.1486886
+  "eb6c939e24": 1791727694.1486886,
+  "d9cd77c4a6": 1791743849.964815
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
