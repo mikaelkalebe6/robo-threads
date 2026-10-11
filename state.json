@@ -18,35 +18,20 @@
    "19:45"
   ],
   "feitos": [
-   "08:19"
+   "08:19",
+   "09:03"
   ],
-  "produtos_feitos": 0,
-  "respostas": 15,
+  "produtos_feitos": 1,
+  "respostas": 17,
   "por_post": {
-   "17975559206935962": 12,
+   "17975559206935962": 13,
    "18179925583431899": 1,
    "17931200094409342": 1,
-   "18009796532776328": 1
+   "18009796532776328": 1,
+   "18078986099393308": 1
   }
  },
  "posts": [
-  {
-   "id": "18074133248740525",
-   "insp": "642c97cc3a",
-   "link": "",
-   "texto": "Tem boleto que parece que a gente paga todo mês de castigo por ter escolhido morar sozinho.",
-   "quando": "2026-10-06T13:07:09.575515-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 384,
-    "likes": 7,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-11"
-   }
-  },
   {
    "id": "18101068082257287",
    "insp": "3effd5124d",
@@ -916,7 +901,7 @@
    "texto": "Eu joguei tanto daquele jogo horrível na infância que tenho vergonha de admitir. Qual o seu guilty pleasure dos anos 90?",
    "quando": "2026-10-10T12:07:10.552905-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T08:37:08.861815-04:00",
+   "viral_chk": "2026-10-11T09:07:10.464629-04:00",
    "metricas": {
     "views": 570,
     "likes": 1,
@@ -974,7 +959,7 @@
    "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
    "quando": "2026-10-10T18:07:09.225159-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T08:37:08.861815-04:00",
+   "viral_chk": "2026-10-11T09:07:10.464629-04:00",
    "metricas": {
     "views": 71,
     "likes": 2,
@@ -992,7 +977,7 @@
    "texto": "ME CONTA: para a minha mãe, qualquer problema na vida se resolve com um banho quente e chá de camomila. De resfriado a coração partido. Qual é o remédio universal da mãe de vocês?",
    "quando": "2026-10-10T19:07:09.130648-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T08:07:08.537835-04:00",
+   "viral_chk": "2026-10-11T09:07:10.464629-04:00",
    "metricas": {
     "views": 376,
     "likes": 1,
@@ -1010,7 +995,7 @@
    "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
    "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T08:37:08.861815-04:00",
+   "viral_chk": "2026-10-11T09:07:10.464629-04:00",
    "metricas": {
     "views": 548,
     "likes": 21,
@@ -1049,7 +1034,7 @@
    "texto": "DÚVIDA SINCERA: salário alto num lugar que suga sua alma ou ganhar menos pra trabalhar em paz?",
    "quando": "2026-10-10T21:37:09.313934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T08:07:08.537835-04:00",
+   "viral_chk": "2026-10-11T09:07:10.464629-04:00",
    "metricas": {
     "views": 85,
     "likes": 0,
@@ -1068,6 +1053,17 @@
    "quando": "2026-10-11T08:37:08.861815-04:00",
    "ia": "Gemini gemini-flash-latest",
    "viral_chk": "2026-10-11T08:37:08.861815-04:00"
+  },
+  {
+   "id": "18112767806335344",
+   "insp": "fio_fio-20261010-1",
+   "link": "",
+   "texto": "O erro que estraga o passeio de cachoeira não é a água gelada. É ir de chinelo.",
+   "quando": "2026-10-11T09:07:10.464629-04:00",
+   "ia": "fio_literal",
+   "estrategia": "fio",
+   "formato": "fio",
+   "produto": "18599696115"
   }
  ],
  "respondidos": [
@@ -2512,7 +2508,9 @@
   "18118020548068214",
   "18079293362438333",
   "18132414742668840",
-  "18192933211395051"
+  "18192933211395051",
+  "17985142683088704",
+  "18034230152667557"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2836,20 +2834,12 @@
   "f8af79e2f9": 1,
   "ed7ec76288": 1,
   "331c868322": 1,
-  "af44cfa5fd": 1
+  "af44cfa5fd": 1,
+  "bac125aa36": 1,
+  "541675cda0": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "pesado mas real, construir rede de apoio na marra exige demais da gente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "camomila com apagão geral, combo perfeito pra zerar os problemas kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "limão dá aquele toque que corta a gordura perfeitamente",
    "p": "concorda",
@@ -2987,6 +2977,16 @@
   },
   {
    "t": "metade do salario mínimo na epoca já exigia exercicio diario de paciência",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a inflação chega em todo lugar, até na nossa coragem kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa quantia nessa época já garantia ansiedade vitalícia de brinde",
    "p": "concorda",
    "r": 0
   }
@@ -3701,7 +3701,6 @@
    "zero defeitos na"
   ],
   "18078986099393308": [
-   "pura sobrevivencia com",
    "ai o coracao",
    "roleta russa automotiva",
    "precisa mesmo de",
@@ -3720,7 +3719,8 @@
    "carro velho raiz",
    "verdade absoluta o",
    "quem tem intimidade",
-   "heranca de pai"
+   "heranca de pai",
+   "a inflacao chega"
   ],
   "18076654343444049": [
    "boa tarde tudo"
@@ -3731,7 +3731,6 @@
    "esse jogo testava"
   ],
   "17975559206935962": [
-   "final dos anos",
    "passar por isso",
    "epoca em que",
    "escala 6x1 aos",
@@ -3750,7 +3749,8 @@
    "esse ano ja",
    "consciencia financeira aos",
    "evoluir o nivel",
-   "metade do salario"
+   "metade do salario",
+   "essa quantia nessa"
   ],
   "18003828527991536": [
    "pesado mas real",
@@ -4259,7 +4259,8 @@
   "29588922747": "2026-10-09T22:37:10.488190-04:00",
   "58261620022": "2026-10-10T10:07:08.825630-04:00",
   "19999249755": "2026-10-10T21:07:08.531577-04:00",
-  "45754796089": "2026-10-10T22:37:08.608812-04:00"
+  "45754796089": "2026-10-10T22:37:08.608812-04:00",
+  "18599696115": "2026-10-11T09:07:10.464629-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4368,5 +4369,8 @@
   }
  ],
  "shopee_campanhas_api_data": "2026-10-10",
- "shopee_campanhas": []
+ "shopee_campanhas": [],
+ "fios_usados": [
+  "fio-20261010-1"
+ ]
 }
