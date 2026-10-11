@@ -16,7 +16,8 @@
    "foto_inteira": true,
    "texto_pos": "topo",
    "imagem_ia": "Interior of a parked car at night seen from the back seat, strong vivid purple and blue LED ambient light glowing on the floor under the dashboard and under the front seats, the whole cabin washed in colorful light, dark empty roof area at the top, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "Mesmo carro. *Outra noite.*"
+   "texto": "Mesmo carro. *Outra noite.*",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261011-4-s1-1791750878.jpg"
   },
   {
    "layout": "manchete",
@@ -42,6 +43,7 @@
  ],
  "texto_post": "Tem gente que troca de carro. Eu troquei a luz.",
  "frase_link": "a luz que mudou meu carro",
- "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261011-4-6acdf759.jpg",
- "previa_hash": "6acdf759"
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261011-4-027a494e.jpg",
+ "previa_hash": "027a494e",
+ "ia_tentado": true
 }
