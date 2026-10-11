@@ -90,7 +90,17 @@ PADRAO = {
     "SHOPEE_TOP_IA": "12",
     "PRODUTO_POR_DIA": "3",
     # sorteio da estrategia em cada horario de produto (pesos iguais ate 23/10; nao ajustar sozinho)
-    "PESOS_ESTRATEGIA": "carrossel:1,fio:1",
+    "PESOS_ESTRATEGIA": "carrossel:1,fio:1,produto_foto:1",
+    # post de produto no formato achadinho (briefing 11/10, referencia @izarovaris): post de descoberta SEM link;
+    # o link entra depois numa resposta propria (frase curta + link + #publi, sem foto) quando o post passar de
+    # ACHADINHO_VIEWS_LINK views ou, se nao passar, depois de ACHADINHO_LINK_HORAS horas
+    "ACHADINHO_VIEWS_LINK": "500", "ACHADINHO_LINK_HORAS": "18",
+    # aba da planilha dos ganchos com os videos que o Kalebe sobe pelo app (tem prioridade no horario de produto com foto)
+    "VIDEOS_ABA": "videos",
+    # post viral sem produto que combine: chance de ir mesmo assim com um produto bom do dia (Kalebe 11/10: 50/50)
+    "VIRAL_QUALQUER_CHANCE": "0.5",
+    # palavras proibidas no nome do produto (saude/medicamento e itens fora do publico); vale na hora do uso
+    "SHOPEE_PROIBIDOS": "seringa,agulha,insulina,remedio,medicamento,farmacia,legging,calcinha,sutia,lingerie,bijuteria,micanga,hama beads,unha,esmalte,cilios,maquiagem,absorvente",
     # fio sem foto na fila: chance de o robo colocar a foto do produto na parte do link (fio as vezes com foto)
     "CHANCE_FOTO_FIO": "0.33",
     # produto sorteado entre os N melhores do dia; vendas da Shopee (conversionReport) dos ultimos N dias
@@ -254,7 +264,7 @@ APPSHEET_TABELA = env("APPSHEET_TABELA", "Untitled")
 EXT_VIDEO = (".mp4", ".mov", ".m4v", ".webm")
 
 
-def url_midia(v):
+def url_midia(v, tabela=None):
     # arquivo enviado pelo app (AppSheet) vira um link publico do AppSheet
     v = (v or "").strip()
     if not v or v.lower().startswith("http"):
@@ -263,7 +273,7 @@ def url_midia(v):
         log("Falta a Variable APPSHEET_APP: arquivo do app ignorado, post sai sem foto.")
         return ""
     return ("https://www.appsheet.com/template/gettablefileurl?appName=" + urllib.parse.quote(APPSHEET_APP)
-            + "&tableName=" + urllib.parse.quote(APPSHEET_TABELA) + "&fileName=" + urllib.parse.quote(v))
+            + "&tableName=" + urllib.parse.quote(tabela or APPSHEET_TABELA) + "&fileName=" + urllib.parse.quote(v))
 
 
 def eh_video(url):
@@ -294,6 +304,38 @@ def ler_planilha():
             "obs": l.get("observacao", "") or l.get("obs", ""),
         })
     return itens
+
+
+def ler_videos():
+    """Aba 'videos' da planilha dos ganchos (o Kalebe sobe pelo app): video | foto | link | descricao | ativo.
+    Le pelo nome da aba (sem gid). Nunca levanta erro: sem aba ou sem rede, devolve lista vazia."""
+    try:
+        m = re.search(r"/spreadsheets/d/([a-zA-Z0-9-_]+)", PLANILHA or "")
+        if not m:
+            return []
+        aba = cfg("VIDEOS_ABA")
+        url = f"https://docs.google.com/spreadsheets/d/{m.group(1)}/gviz/tq?tqx=out:csv&sheet={urllib.parse.quote(aba)}"
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            txt = r.read().decode("utf-8-sig", "replace")
+        if txt.lstrip().startswith("<"):
+            return []
+        itens = []
+        for linha in csv.DictReader(io.StringIO(txt)):
+            l = {sem_acento(k): (v or "").strip() for k, v in linha.items() if k}
+            if sem_acento(l.get("ativo", "sim")) in ("nao", "n", "0", "off"):
+                continue
+            video = url_midia(l.get("video", ""), tabela=aba)
+            link = l.get("link", "") or l.get("link_produto", "")
+            if not video or not eh_video(video) or "shopee" not in link.lower():
+                continue
+            itens.append({"id": hashlib.md5((l.get("video", "") + link).encode()).hexdigest()[:10], "video": video,
+                          "foto": url_midia(l.get("foto", ""), tabela=aba), "link": link,
+                          "descricao": l.get("descricao", "") or l.get("observacao", "")})
+        return itens
+    except Exception as e:
+        log("Videos do app: nao consegui ler a aba (segue sem video):", str(e)[:120])
+        return []
 
 
 def escolher_inspiracao(itens, s):
@@ -877,10 +919,21 @@ def produtos_do_dia(s, agora=None):
     """Lista do cacador da Shopee (1 busca por dia, cache no state). Nunca levanta erro."""
     try:
         import shopee
-        return shopee.escolher_produtos(s, cfg, log, (agora or dt.datetime.now(TZ)).strftime("%Y-%m-%d"))
+        lista = shopee.escolher_produtos(s, cfg, log, (agora or dt.datetime.now(TZ)).strftime("%Y-%m-%d"))
+        return [x for x in lista if not produto_proibido(x.get("nome", ""))]
     except Exception as e:
         log("Shopee: falha ao escolher produtos (segue normal):", str(e)[:150])
         return []
+
+
+def _sem_acento(t):
+    return "".join(c for c in unicodedata.normalize("NFD", str(t or "").lower()) if unicodedata.category(c) != "Mn")
+
+
+def produto_proibido(nome):
+    """True se o nome do produto tem palavra da lista SHOPEE_PROIBIDOS (sem acento, sem maiuscula)."""
+    n = _sem_acento(nome)
+    return any(w and w in n for w in (_sem_acento(x).strip() for x in cfg("SHOPEE_PROIBIDOS").split(",")))
 
 
 def produtos_reservados(s):
@@ -980,10 +1033,11 @@ Produtos da Shopee disponiveis:
 {lista}
 
 1) Escolha o produto que esse publico mais compraria (util no dia a dia, carro, casa, ferramenta, lazer). Evite item de nicho estreito.
-2) Escreva um post curto para o Threads no roteiro DOR -> SOLUCAO:
-- primeira linha: a dor, o perrengue ou o erro comum que esse produto resolve, do jeito que a pessoa fala (gera identificacao);
-- depois: a solucao, citando o produto de forma natural, como quem conta uma descoberta, nunca como anuncio.
-Ate 3 linhas, portugues do dia a dia, sem link, sem preco, sem hashtag, sem travessao.
+2) Escreva um post curto para o Threads no formato ACHADINHO (descoberta contada por quem usou):
+- primeira linha: o perrengue do dia a dia que esse produto resolve, com humor leve e do jeito que a pessoa fala (ex.: "X da um trabalhao, ne? 😂");
+- depois: "descobri esse..." contando o que ele faz, como quem mostra para um amigo, nunca como anuncio;
+- feche chamando para olhar a foto ou perguntando o que acharam (ex.: "olha como funciona 👀", "sera que e tudo isso mesmo?").
+Ate 3 linhas, portugues do dia a dia, no maximo 2 emojis, sem link, sem preco, sem hashtag, sem nome de marca, sem travessao.
 Responda so em JSON: {{"indice": numero, "texto": "o post"}}"""
     try:
         r = ia(prompt, json_mode=True)
@@ -1045,7 +1099,7 @@ Regras: no maximo 80 caracteres; sem travessoes; sem links; sem @; tom natural d
     return f"{frase} {carinha}" if modo == "ambos" else frase
 
 
-def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfoto", frase=None):
+def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfoto", frase=None, com_foto=True):
     """Comenta no post com foto do produto + frase curta + link de afiliado com subIds.
     Qualquer falha (Shopee, IA, Meta) so vira log e devolve None: nunca derruba a rodada."""
     agora = agora or dt.datetime.now(TZ)
@@ -1063,7 +1117,7 @@ def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfot
             return None
         frase = limpar_resposta(frase) if frase else frase_produto(produto.get("nome", "produto"), produto.get("campanha", ""))
         texto = com_publi(f"{frase}\n{link}" if frase else link)
-        cid = publicar(texto, foto=produto.get("imageUrl") or None, responder_a=pid)
+        cid = publicar(texto, foto=(produto.get("imageUrl") or None) if com_foto else None, responder_a=pid)
         s.setdefault("shopee_usados", {})[str(produto.get("itemId", ""))] = agora.isoformat()
         s.setdefault("minhas_respostas", {})[cid] = {"t": "(link produto)", "c": "", "q": agora.isoformat()}
         log(f"Comentario de produto publicado ({estrategia}): {cid}")
@@ -1106,6 +1160,97 @@ def checar_teste_comentario(s, agora):
     s["teste_comentario_produto"] = {"data": agora.isoformat(), "post_id": pid,
                                      "produto_id": prod.get("itemId"), "resultado": res or "falhou"}
     salvar_estado(s)
+
+
+def postar_video_app(s, p, h, agora):
+    """Achadinho com video do app (aba videos): video (+ foto ao lado, se tiver) e texto de descoberta, sem link.
+    O link entra depois pela tarefa_link_achadinho. Cada video sai 1 vez. Devolve True se publicou."""
+    usados = s.setdefault("videos_usados", {})
+    fila = [v for v in ler_videos() if v["id"] not in usados]
+    if not fila:
+        return False
+    v = fila[0]
+    txt = ""
+    try:
+        r = ia(f"""{PERSONA}
+
+Publico real do perfil: {PUBLICO_PRODUTO}.
+Vai sair um video mostrando este produto em uso: "{v['descricao'] or 'produto da Shopee'}".
+Escreva o texto do post no formato ACHADINHO (descoberta contada por quem usou):
+- primeira linha: o perrengue do dia a dia que ele resolve, com humor leve (ex.: "X da um trabalhao, ne? 😂");
+- depois: "descobri esse..." contando o que ele faz, como quem mostra para um amigo, nunca como anuncio;
+- feche com "olha como funciona 👀" ou uma pergunta curta.
+Ate 3 linhas, no maximo 2 emojis, sem link, sem preco, sem hashtag, sem marca, sem travessao.
+Responda so em JSON: {{"texto": "o post"}}""", json_mode=True)
+        m = re.search(r"\{.*\}", r or "", re.S)
+        txt = limpar(str(json.loads(m.group(0) if m else r).get("texto") or ""))
+    except Exception as e:
+        log("Video do app: IA nao escreveu o texto:", str(e)[:120])
+    if not txt:
+        txt = "Descobri isso aqui e não sei como vivi sem até hoje 😂 Olha como funciona 👀"
+    midias = [v["video"]] + ([v["foto"]] if v.get("foto") else [])
+    try:
+        pid = publicar_carrossel(midias, txt) if len(midias) > 1 else publicar(txt, foto=v["video"])
+    except Exception as e:
+        log("Video do app: Meta recusou (segue para o post com foto):", str(e)[:200])
+        usados[v["id"]] = "erro " + agora.isoformat()
+        salvar_estado(s)
+        return False
+    log(f"POSTADO (achadinho em video, video {v['id']}, link depois):", pid)
+    usados[v["id"]] = agora.isoformat()
+    p["feitos"].append(h)
+    p["produtos_feitos"] = p.get("produtos_feitos", 0) + 1
+    s.setdefault("posts", []).append({
+        "id": pid, "insp": f"video_{v['id']}", "link": "", "texto": txt[:300], "quando": agora.isoformat(),
+        "ia": _QUEM[0], "estrategia": "produto_video", "formato": "video" if len(midias) == 1 else "videofoto",
+        "formato_link": "respsemfoto", "produto": f"video_{v['id']}", "link_pendente": True,
+        "prod_dados": {"itemId": f"video_{v['id']}", "nome": v["descricao"][:80], "offerLink": v["link"], "imageUrl": "", "campanha": ""}})
+    salvar_estado(s)
+    return True
+
+
+FRASES_LINK_ACHADINHO = ["Isso aqui fez toda a diferença 🥰", "Pra quem perguntou, é esse aqui 👇", "Achei aqui 👇",
+                         "O que eu usei foi esse 👇", "Tá aqui pra quem quiser 👇"]
+
+
+def tarefa_link_achadinho(s, agora):
+    """Post de produto achadinho: poe o link numa resposta propria quando passar de ACHADINHO_VIEWS_LINK views
+    ou depois de ACHADINHO_LINK_HORAS horas. Frase curta + link + #publi, sem foto. Nunca derruba a rodada."""
+    min_views = int(cfg("ACHADINHO_VIEWS_LINK"))
+    horas = float(cfg("ACHADINHO_LINK_HORAS"))
+    for p in s.get("posts", []):
+        if not p.get("link_pendente") or str(p.get("id", "")).startswith("teste_"):
+            continue
+        try:
+            idade = (agora - dt.datetime.fromisoformat(p.get("quando", ""))).total_seconds() / 3600
+        except Exception:
+            idade = 99
+        views = 0
+        if idade < horas:
+            try:
+                dados = threads("GET", f"{p['id']}/insights", metric="views").get("data", [])
+                views = sum(_valor_metrica(m) for m in dados if m.get("name") == "views")
+            except Exception as e:
+                log(f"Achadinho: erro ao ler views do post {p['id']}:", str(e)[:120])
+                continue
+            if views < min_views:
+                continue
+        prod = p.get("prod_dados") or {}
+        if not prod.get("offerLink"):
+            p["link_pendente"] = False
+            log(f"Achadinho: post {p['id']} sem dados do produto. Link cancelado.")
+            salvar_estado(s)
+            continue
+        motivo = f"{views} views" if idade < horas else f"{idade:.0f}h depois"
+        log(f"Achadinho: link do post {p['id']} ({motivo}).")
+        res = comentar_produto(s, p["id"], prod, "produtofoto", agora, formato="respsemfoto",
+                               frase=random.choice(FRASES_LINK_ACHADINHO), com_foto=False)
+        p["link_pendente"] = False
+        p["link_em"] = agora.isoformat()
+        p["link_views"] = views
+        if not res:
+            p["link_falhou"] = True
+        salvar_estado(s)
 
 
 def tarefa_estrategia_meme(s, agora):
@@ -1173,6 +1318,10 @@ def tarefa_estrategia_meme(s, agora):
                 prod = sortear_produto(prods, s, agora)
             else:
                 prod = produto_para_post(s, agora, p.get("texto", ""))
+                if not prod and random.random() < float(cfg("VIRAL_QUALQUER_CHANCE") or 0):
+                    prod = sortear_produto(_lista_para_ia(s, agora), s, agora)
+                    if prod:
+                        log(f"Estrategia 1: nada combina com o post {pid}; sorteio 50/50 escolheu um produto bom do dia.")
                 if not prod:
                     p["viral_sem_produto"] = True
                     log(f"Estrategia 1: post {pid} viralizou ({views} views), mas nenhum produto combina. Sem link.")
@@ -1404,15 +1553,17 @@ def publicar_carrossel(urls, texto):
     if MODO_TESTE:
         log("[MODO TESTE] publicaria carrossel:", {"texto": texto, "imagens": urls})
         return "teste_" + hashlib.md5((texto + str(time.time())).encode()).hexdigest()[:8]
-    filhos = [threads("POST", "me/threads", media_type="IMAGE", image_url=u, is_carousel_item="true")["id"] for u in urls]
-    for fid in filhos:  # cada imagem precisa estar pronta antes do carrossel
-        for _ in range(15):
+    filhos = [threads("POST", "me/threads", media_type="VIDEO", video_url=u, is_carousel_item="true")["id"] if eh_video(u)
+              else threads("POST", "me/threads", media_type="IMAGE", image_url=u, is_carousel_item="true")["id"] for u in urls]
+    tem_video = any(eh_video(u) for u in urls)
+    for fid in filhos:  # cada imagem (ou video) precisa estar pronta antes do carrossel
+        for _ in range(40 if tem_video else 15):
             st = threads("GET", fid, fields="status,error_message")
             if st.get("status") == "FINISHED":
                 break
             if st.get("status") in ("ERROR", "EXPIRED"):
                 raise RuntimeError(f"Meta recusou a imagem do carrossel: {st}")
-            time.sleep(2)
+            time.sleep(5 if tem_video else 2)
     cid = threads("POST", "me/threads", media_type="CAROUSEL", children=",".join(filhos), text=texto)["id"]
     for _ in range(15):
         time.sleep(3)
@@ -1487,6 +1638,8 @@ def postar_produto(s, p, h, agora):
             continue
         if estr != "produto_foto":
             continue
+        if postar_video_app(s, p, h, agora):
+            return True
         prod, txt_prod = produto_e_texto_dor(s, agora)
         if not prod:
             log("Produto do dia indisponivel ou ja divulgado.")
@@ -1499,16 +1652,17 @@ def postar_produto(s, p, h, agora):
         except Exception as e:
             log("Erro ao publicar post de produto com foto:", str(e)[:150])
             continue
-        log(f"POSTADO (produto_foto, produto {prod.get('itemId')}):", pid_prod)
+        log(f"POSTADO (produto_foto achadinho, produto {prod.get('itemId')}, link depois):", pid_prod)
         p["feitos"].append(h)
         p["produtos_feitos"] = p.get("produtos_feitos", 0) + 1
+        # produto reservado ja na postagem (nao entra no viral nem em outro post enquanto espera o link)
+        s.setdefault("shopee_usados", {})[str(prod.get("itemId", ""))] = agora.isoformat()
         s.setdefault("posts", []).append({
             "id": pid_prod, "insp": f"prod_{prod.get('itemId')}", "link": "", "texto": txt_prod[:300],
             "quando": agora.isoformat(), "ia": _QUEM[0], "estrategia": "produto_foto", "formato": "postfoto",
-            "formato_link": "comentfoto", "produto": prod.get("itemId")})
+            "formato_link": "respsemfoto", "produto": prod.get("itemId"), "link_pendente": True,
+            "prod_dados": {k: prod.get(k, "") for k in ("itemId", "nome", "offerLink", "imageUrl", "campanha")}})
         salvar_estado(s)
-        time.sleep(random.randint(*ATRASO_LINK))
-        comentar_produto(s, pid_prod, prod, "produtofoto", agora)
         return True
     return False
 
@@ -2155,7 +2309,7 @@ def main():
     except Exception as e:
         log("Teste de comentario com foto: falhou (segue normal):", str(e)[:150])
     erros = 0
-    for tarefa in (tarefa_postar, tarefa_estrategia_meme, tarefa_responder):
+    for tarefa in (tarefa_postar, tarefa_link_achadinho, tarefa_estrategia_meme, tarefa_responder):
         try:
             tarefa(s, agora)
         except Exception as e:

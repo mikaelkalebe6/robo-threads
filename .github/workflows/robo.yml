@@ -45,6 +45,11 @@ jobs:
           SHOPEE_VENDAS_DIAS: ${{ vars.SHOPEE_VENDAS_DIAS }}
           TESTE_COMENTARIO_PRODUTO: ${{ vars.TESTE_COMENTARIO_PRODUTO }}
           VIRAL_TODOS_POSTS: ${{ vars.VIRAL_TODOS_POSTS }}
+          ACHADINHO_VIEWS_LINK: ${{ vars.ACHADINHO_VIEWS_LINK }}
+          ACHADINHO_LINK_HORAS: ${{ vars.ACHADINHO_LINK_HORAS }}
+          VIRAL_QUALQUER_CHANCE: ${{ vars.VIRAL_QUALQUER_CHANCE }}
+          SHOPEE_PROIBIDOS: ${{ vars.SHOPEE_PROIBIDOS }}
+          VIDEOS_ABA: ${{ vars.VIDEOS_ABA }}
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
           PLANILHA_URL: ${{ secrets.PLANILHA_URL || vars.PLANILHA_URL }}  # secreto: nao aparece no log publico
