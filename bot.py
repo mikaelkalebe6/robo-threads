@@ -323,8 +323,8 @@ def ler_videos():
         itens = []
         for linha in csv.DictReader(io.StringIO(txt)):
             l = {sem_acento(k): (v or "").strip() for k, v in linha.items() if k}
-            if sem_acento(l.get("ativo", "sim")) in ("nao", "n", "0", "off"):
-                continue
+            if sem_acento(l.get("ativo", "sim")) in ("nao", "n", "0", "off", "false", "falso", "no"):
+                continue  # botao Sim/Nao do app grava TRUE/FALSE; vazio conta como ativo
             video = url_midia(l.get("video", ""), tabela=aba)
             link = l.get("link", "") or l.get("link_produto", "")
             if not video or not eh_video(video) or "shopee" not in link.lower():
