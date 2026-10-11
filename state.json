@@ -27,7 +27,7 @@
    "18:55"
   ],
   "produtos_feitos": 2,
-  "respostas": 58,
+  "respostas": 63,
   "por_post": {
    "17975559206935962": 20,
    "18179925583431899": 1,
@@ -38,7 +38,8 @@
    "18112767806335344": 1,
    "18129449095879104": 18,
    "18125942191740363": 5,
-   "17910962637513171": 8
+   "17910962637513171": 9,
+   "18129285628827828": 4
   }
  },
  "posts": [
@@ -920,7 +921,7 @@
    "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
    "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T19:07:07.516757-04:00",
+   "viral_chk": "2026-10-11T19:37:08.786844-04:00",
    "metricas": {
     "views": 548,
     "likes": 21,
@@ -959,7 +960,7 @@
    "texto": "DÚVIDA SINCERA: salário alto num lugar que suga sua alma ou ganhar menos pra trabalhar em paz?",
    "quando": "2026-10-10T21:37:09.313934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T19:07:07.516757-04:00",
+   "viral_chk": "2026-10-11T19:37:08.786844-04:00",
    "metricas": {
     "views": 85,
     "likes": 0,
@@ -977,7 +978,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
    "quando": "2026-10-11T08:37:08.861815-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T18:37:07.892734-04:00"
+   "viral_chk": "2026-10-11T19:37:08.786844-04:00"
   },
   {
    "id": "18112767806335344",
@@ -1010,7 +1011,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T18:37:07.892734-04:00"
+   "viral_chk": "2026-10-11T19:37:08.786844-04:00"
   },
   {
    "id": "18112326992130330",
@@ -1046,7 +1047,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T19:07:07.516757-04:00"
+   "viral_chk": "2026-10-11T19:37:08.786844-04:00"
   }
  ],
  "respondidos": [
@@ -2538,7 +2539,12 @@
   "18099594167552990",
   "18128472364875966",
   "17904058857597943",
-  "18118210403006134"
+  "18118210403006134",
+  "17914378392521002",
+  "18031562231899806",
+  "18095605352406464",
+  "18145853995541627",
+  "18118216160061036"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2913,35 +2919,15 @@
   "93d7b5d904": 1,
   "707c61b978": 1,
   "0c7e7e3d30": 1,
-  "6ecc9ced86": 1
+  "6ecc9ced86": 1,
+  "01af5a7598": 1,
+  "1016b2723c": 1,
+  "106e226ec5": 1,
+  "e7102b50d0": 1,
+  "4ebf569f8e": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "muda o cenário mas o sufoco de ver o dinheiro sumir continua igual kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "exato, o pessoal ganha um pouquinho a mais e já quer abraçar financiamento q não cabe no mês kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pelo menos elimina o peso da cobrança embora o processo seja doloroso kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "nem precisa entrar em carro de luxo pra ver o orçamento apertar logo no começo do mês",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "com dez mil hoje em dia no máximo vc ganha o título de nobreza na fila do mercado kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa época pagava pouco mas exigia paciência em dobro kkk",
    "p": "concorda",
@@ -3065,6 +3051,31 @@
   {
    "t": "manutenção é boa mas o boleto da luz não costuma esperar a reforma acabar",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "memória de elefante até a porta do supermercado kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quem tem essa disciplina toda merece um prêmio de organização",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "tecnologia ótima mas na hora da pressa o papel ainda ganha no esquecimento kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "sensação de vazio exata de quem perdeu tempo e dinheiro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa lógica de metas deve aliviar a pressão mas na prática o caixa sente o golpe",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -3587,11 +3598,6 @@
   }
  ],
  "aberturas_post": {
-  "18099059360387148": [
-   "maca com ketchup",
-   "estrategia de sobrevivencia",
-   "tatica de sobrevivencia"
-  ],
   "17911108497554167": [
    "confesso que o",
    "daqui a pouco"
@@ -3865,7 +3871,14 @@
    "ja entra com",
    "contratar nessa modalidade",
    "demitir para recontratar",
-   "manutencao e boa"
+   "manutencao e boa",
+   "essa logica de"
+  ],
+  "18129285628827828": [
+   "memoria de elefante",
+   "quem tem essa",
+   "tecnologia otima mas",
+   "sensacao de vazio"
   ]
  },
  "shopee_checada": "2026-10-11|1",
