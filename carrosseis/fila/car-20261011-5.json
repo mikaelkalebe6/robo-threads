@@ -16,7 +16,8 @@
    "foto_inteira": true,
    "texto_pos": "topo",
    "imagem_ia": "Crowded outdoor music concert at night in Brazil seen from behind the crowd, a man's hand protectively touching his front pocket, stage lights far away, empty dark sky at the top, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "Show lotado. *Bolso da frente não é cofre.*"
+   "texto": "Show lotado. *Bolso da frente não é cofre.*",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261011-5-s1-1791750017.jpg"
   },
   {
    "layout": "manchete",
@@ -41,5 +42,8 @@
   }
  ],
  "texto_post": "Fui em 3 shows esse ano e voltei com o celular nos 3.",
- "frase_link": "a pochete que ninguém vê"
+ "frase_link": "a pochete que ninguém vê",
+ "ia_tentado": true,
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261011-5-1fc448d1.jpg",
+ "previa_hash": "1fc448d1"
 }

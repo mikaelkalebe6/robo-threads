@@ -16,7 +16,8 @@
    "foto_inteira": true,
    "texto_pos": "topo",
    "imagem_ia": "Sunny Brazilian beach parking lot, a man in his 30s with a black insulated cooler backpack on his shoulders pulling out an ice cold can, friends unloading a crowded car behind him, empty bright sky at the top, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "Isopor no carro lotado. *Cerveja quente às 11h.*"
+   "texto": "Isopor no carro lotado. *Cerveja quente às 11h.*",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261011-1-s1-1791749887.jpg"
   },
   {
    "layout": "manchete",
@@ -41,5 +42,8 @@
   }
  ],
  "texto_post": "Quem já carregou isopor do estacionamento até a areia sabe.",
- "frase_link": "a mochila que salvou meu domingo"
+ "frase_link": "a mochila que salvou meu domingo",
+ "ia_tentado": true,
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261011-1-30e156f6.jpg",
+ "previa_hash": "30e156f6"
 }

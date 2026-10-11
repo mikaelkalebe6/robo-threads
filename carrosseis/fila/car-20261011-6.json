@@ -14,7 +14,8 @@
   {
    "layout": "meme",
    "imagem_ia": "A man fishing on a small boat on a Brazilian river under strong midday sun, seen from behind, wearing a regular cap, the back of his neck visibly red and sunburned, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "a nuca depois de 4 horas de pescaria de boné"
+   "texto": "a nuca depois de 4 horas de pescaria de boné",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261011-6-s1-1791750072.jpg"
   },
   {
    "layout": "manchete",
@@ -39,5 +40,8 @@
   }
  ],
  "texto_post": "Pescador experiente se reconhece pelo chapéu, não pela vara.",
- "frase_link": "o chapéu que salvou minha nuca"
+ "frase_link": "o chapéu que salvou minha nuca",
+ "ia_tentado": true,
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261011-6-d91bf562.jpg",
+ "previa_hash": "d91bf562"
 }

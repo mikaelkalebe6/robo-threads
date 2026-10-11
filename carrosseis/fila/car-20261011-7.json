@@ -16,7 +16,8 @@
    "foto_inteira": true,
    "texto_pos": "topo",
    "imagem_ia": "A motorcycle rider stopped at a traffic light under hot afternoon sun in a Brazilian city, open face helmet, squinting, sweaty and sunburned face, empty bright sky at the top, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "Capacete aberto, *rosto de pimentão.*"
+   "texto": "Capacete aberto, *rosto de pimentão.*",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261011-7-s1-1791750105.jpg"
   },
   {
    "layout": "manchete",
@@ -41,5 +42,8 @@
   }
  ],
  "texto_post": "Quem roda de moto o dia todo vai entender na primeira foto.",
- "frase_link": "a balaclava que eu indico"
+ "frase_link": "a balaclava que eu indico",
+ "ia_tentado": true,
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261011-7-71d51a38.jpg",
+ "previa_hash": "71d51a38"
 }

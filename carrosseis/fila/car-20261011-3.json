@@ -14,7 +14,8 @@
   {
    "layout": "meme",
    "imagem_ia": "Close up of a home kitchen gas stove burner with several burnt matches scattered around it and a nearly empty matchbox, morning light, a hand holding one more match, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "a caixa de fósforo acabando bem na hora do café"
+   "texto": "a caixa de fósforo acabando bem na hora do café",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261011-3-s1-1791749934.jpg"
   },
   {
    "layout": "manchete",
@@ -39,5 +40,8 @@
   }
  ],
  "texto_post": "Fósforo é coisa do passado e ninguém me avisou.",
- "frase_link": "esse acendedor aqui"
+ "frase_link": "esse acendedor aqui",
+ "ia_tentado": true,
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261011-3-6c904e5e.jpg",
+ "previa_hash": "6c904e5e"
 }
