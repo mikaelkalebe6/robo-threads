@@ -878,8 +878,24 @@ def produtos_do_dia(s, agora=None):
         return []
 
 
-def sortear_produto(prods):
-    """Sorteia entre os SHOPEE_TOP_SORTEIO melhores do dia (nao sempre o 1o)."""
+def produto_usado_recente(s, iid, agora=None):
+    """True se o produto ja foi divulgado ha menos de SHOPEE_REPETIR_DIAS dias (shopee_usados no state)."""
+    u = (s or {}).get("shopee_usados", {}).get(str(iid))
+    if not u:
+        return False
+    try:
+        agora = agora or dt.datetime.now(TZ)
+        return (agora - dt.datetime.fromisoformat(str(u))).days < int(cfg("SHOPEE_REPETIR_DIAS"))
+    except Exception:
+        return True  # data estranha: na duvida nao repete
+
+
+def sortear_produto(prods, s=None, agora=None):
+    """Sorteia entre os SHOPEE_TOP_SORTEIO melhores do dia (nao sempre o 1o).
+    A lista do dia fica em cache: aqui tira o que ja foi divulgado HOJE ou nos ultimos SHOPEE_REPETIR_DIAS
+    (bug de 10/10: o kit de alicates saiu 2 vezes no mesmo dia). Sem produto novo devolve None."""
+    if s is not None:
+        prods = [p for p in (prods or []) if not produto_usado_recente(s, p.get("itemId"), agora)]
     return random.choice(prods[:max(1, int(cfg("SHOPEE_TOP_SORTEIO")))]) if prods else None
 
 
@@ -965,7 +981,7 @@ def checar_teste_comentario(s, agora):
         return
     if MODO_TESTE or not SHOPEE_LIGADO:
         return
-    prod = sortear_produto(produtos_do_dia(s, agora))
+    prod = sortear_produto(produtos_do_dia(s, agora), s, agora)
     if not prod:
         log("Teste de comentario com foto: nenhum produto disponivel hoje (tenta de novo amanha).")
         return
@@ -1051,7 +1067,10 @@ def tarefa_estrategia_meme(s, agora):
             continue
 
         if views >= min_views:
-            prod = sortear_produto(prods)
+            prod = sortear_produto(prods, s, agora)
+            if not prod:
+                log("Estrategia Meme: nenhum produto novo (todos ja divulgados).")
+                break
             log(f"Estrategia Meme: post {pid} viralizou ({views} views >= {min_views}). Comentando produto {prod.get('itemId')}...")
             res = comentar_produto(s, pid, prod, "meme", agora)
             p["meme_comentado"] = True
@@ -1358,9 +1377,9 @@ def postar_produto(s, p, h, agora):
             continue
         if estr != "produto_foto":
             continue
-        prod = sortear_produto(produtos_do_dia(s, agora))
+        prod = sortear_produto(produtos_do_dia(s, agora), s, agora)
         if not prod:
-            log("Produto do dia indisponivel.")
+            log("Produto do dia indisponivel ou ja divulgado.")
             continue
         nome_p = prod.get("nome", "produto")
         prompt_post = f"""{PERSONA}
