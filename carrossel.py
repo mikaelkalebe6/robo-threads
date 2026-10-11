@@ -119,7 +119,7 @@ def _rodape(d, ImageFont, n, total, capa, cinza, destaque, sobre_foto=False):
 ACENTO_MANCHETE = (232, 58, 36)  # vermelho-laranja das referencias de 10/10 (marca-texto atras das palavras)
 
 
-def _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub, tom, contem, selo, inteira=False):
+def _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub, tom, contem, selo, inteira=False, texto_pos="baixo"):
     """Estilo "manchete condensada" (referencias do Kalebe de 10/10: letras enormes condensadas em caixa alta,
     rotulo pequeno em cima, *palavra* em marca-texto colorido, foto ou produto embaixo, fundo claro ou escuro)."""
     inteira = inteira and img is not None
@@ -130,8 +130,13 @@ def _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub, to
     if inteira:  # foto no slide inteiro (capa de cinema), degradê escuro embaixo e manchete por cima
         im = _cobrir(Image, img, W, H)
         sombra = Image.new("L", (1, H))
-        for yy in range(H):
-            sombra.putpixel((0, yy), int(max(0, min(1, (yy - H * 0.30) / (H * 0.50))) ** 1.2 * 235))
+        topo_txt = texto_pos == "topo"
+        for yy in range(H):  # escurece so a faixa do texto; o resto da foto (a cena que vende) fica limpo
+            yv = (H - yy) if topo_txt else yy
+            v = int(max(0, min(1, (yv - H * 0.52) / (H * 0.36))) ** 1.2 * 225)
+            if topo_txt:
+                v = max(v, int(max(0, min(1, (yy - (H - 200)) / 160)) * 170))  # rodape legivel
+            sombra.putpixel((0, yy), v)
         im = Image.composite(Image.new("RGB", (W, H), (6, 6, 8)), im, sombra.resize((W, H)))
         img = None
     else:
@@ -139,6 +144,8 @@ def _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub, to
     d = ImageDraw.Draw(im)
     m, capa = 80, n == 1
     area_txt = int(H * ((0.44 if contem else 0.56) if img is not None else 0.80))  # produto: foto grande, ela e a prova
+    if inteira:
+        area_txt = int(H * 0.36) + 120  # capa de cinema: o texto ocupa no maximo ~1/3 e nao come a cena
     y0 = 120
     if rotulo and not inteira and img is not None:
         d.text((m, y0), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 30), fill=ACENTO_MANCHETE)
@@ -146,7 +153,7 @@ def _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub, to
     elif rotulo and not inteira:
         y0 += 62  # o rotulo e desenhado depois, junto com o bloco centralizado
     texto_up = texto.upper()
-    tam = 150 if capa else 124
+    tam = (118 if inteira else 150) if capa else 124
     while tam > 60:
         f = _fonte(ImageFont, "Anton-Regular.ttf", tam)
         linhas = _quebrar(d, texto_up, f, W - 2 * m - 20)
@@ -159,7 +166,9 @@ def _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub, to
         y0 = max(120, (H - 150 - bloco) // 2) + (62 if rotulo else 0)
         if rotulo:
             d.text((m, y0 - 62), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 30), fill=ACENTO_MANCHETE)
-    if inteira:  # texto colado embaixo
+    if inteira and texto_pos == "topo":
+        y0 = 120 + (62 if rotulo else 0)
+    elif inteira:  # texto colado embaixo
         y0 = H - 170 - (70 if sub else 0) - altura * len(linhas)
         if rotulo:
             d.text((m, y0 - 62), rotulo.upper(), font=_fonte(ImageFont, "InterDisplay-Bold.otf", 30), fill=ACENTO_MANCHETE)
@@ -260,7 +269,7 @@ def desenhar(texto, n, total, rotulo="", foto=None, tema="e", layout="", imagem=
     if layout in ("manchete", "meme"):
         im = (_meme(Image, ImageDraw, ImageFont, texto, n, total, img) if layout == "meme" else
               _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub,
-                        tom or ("claro" if tema in ("c", "a") else "escuro"), contem, selo, inteira))
+                        tom or ("claro" if tema in ("c", "a") else "escuro"), contem, selo, inteira, texto_pos))
         buf = io.BytesIO()
         im.save(buf, "PNG", optimize=True)
         return buf.getvalue()

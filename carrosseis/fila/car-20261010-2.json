@@ -15,7 +15,8 @@
    "foto_inteira": true,
    "texto": "Pneu furou às 23h. *O celular tá com 9%.*",
    "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261010-2-s1.jpg",
-   "imagem_ia": "Night on a dark rural road in Brazil, a man kneeling next to a car with a flat tire, holding a powerful tactical flashlight whose bright beam lights the wheel and the road far ahead, cinematic, vertical framing, empty dark sky at the top, no text"
+   "imagem_ia": "Night on a dark rural road in Brazil, a man kneeling next to a car with a flat tire, holding a powerful tactical flashlight whose bright beam lights the wheel and the road far ahead, cinematic, vertical framing, empty dark sky at the top, no text",
+   "texto_pos": "topo"
   },
   {
    "layout": "manchete",

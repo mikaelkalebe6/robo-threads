@@ -15,7 +15,8 @@
    "foto_inteira": true,
    "texto": "Tá plugado no carro. *E a bateria caindo.*",
    "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261010-3-s1.jpg",
-   "imagem_ia": "Inside a car at dusk on a highway, close-up of the center console with a small dual car charger plugged into the 12V socket, two smartphones charging, one showing a map navigation app, warm light, vertical framing, free space at the top, no text"
+   "imagem_ia": "Inside a car at dusk on a highway, close-up of the center console with a small dual car charger plugged into the 12V socket, two smartphones charging, one showing a map navigation app, warm light, vertical framing, free space at the top, no text",
+   "texto_pos": "topo"
   },
   {
    "layout": "manchete",
