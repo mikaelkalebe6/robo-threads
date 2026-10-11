@@ -891,7 +891,8 @@
    "link": "",
    "texto": "Praia dá muito mais trabalho do que descanso. Areia em tudo, muvuca, vento na cara... Troco fácil por uma cachoeira no meio do mato sem pensar duas vezes.",
    "quando": "2026-10-10T09:07:10.034169-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-10T22:37:08.608812-04:00"
   },
   {
    "id": "18076654343444049",
@@ -913,7 +914,12 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: rodar com o carro na reserva é puro desespero disfarçado de adrenalina.",
    "quando": "2026-10-10T11:07:09.209030-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-10T22:37:08.608812-04:00",
+   "meme_comentado": true,
+   "meme_views": 3733,
+   "formato_link": "comentfoto",
+   "produto": "45754796089"
   },
   {
    "id": "17924890374203799",
@@ -921,7 +927,8 @@
    "link": "",
    "texto": "Eu joguei tanto daquele jogo horrível na infância que tenho vergonha de admitir. Qual o seu guilty pleasure dos anos 90?",
    "quando": "2026-10-10T12:07:10.552905-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-10T22:37:08.608812-04:00"
   },
   {
    "id": "17975559206935962",
@@ -929,7 +936,9 @@
    "link": "",
    "texto": "SEJAM SINCEROS: qual foi o primeiro salário de vocês? \n\nTenho quase certeza de que quem começou ganhando menos de 500 reais tem uma relação muito mais neurótica com dinheiro hoje em dia.",
    "quando": "2026-10-10T14:37:09.661425-04:00",
-   "ia": "Gemini gemini-flash-latest"
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-10T22:37:08.608812-04:00",
+   "viral_sem_produto": true
   },
   {
    "id": "18099792050455079",
@@ -949,7 +958,8 @@
    "link": "",
    "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
    "quando": "2026-10-10T18:07:09.225159-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-10T22:37:08.608812-04:00"
   },
   {
    "id": "18003828527991536",
@@ -3033,6 +3043,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-10T21:07:08.531577-04:00"
+  },
+  "18412180705086483": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-10T22:37:08.608812-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4264,7 +4279,8 @@
  "shopee_usados": {
   "29588922747": "2026-10-09T22:37:10.488190-04:00",
   "58261620022": "2026-10-10T10:07:08.825630-04:00",
-  "19999249755": "2026-10-10T21:07:08.531577-04:00"
+  "19999249755": "2026-10-10T21:07:08.531577-04:00",
+  "45754796089": "2026-10-10T22:37:08.608812-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4274,7 +4290,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-10",
-  "qtd": 0
+  "qtd": 1
  },
  "carrosseis_usados": [
   "car-20261010-1"
