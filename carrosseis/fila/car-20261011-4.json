@@ -15,9 +15,8 @@
    "layout": "manchete",
    "foto_inteira": true,
    "texto_pos": "topo",
-   "imagem_ia": "Interior of a parked hatchback car at night seen from the back seat, soft colorful ambient LED light glowing under the dashboard and seats, city lights blurred outside, empty dark roof area at the top, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "Mesmo carro. *Outra noite.*",
-   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261011-4-s1-1791749969.jpg"
+   "imagem_ia": "Interior of a parked car at night seen from the back seat, strong vivid purple and blue LED ambient light glowing on the floor under the dashboard and under the front seats, the whole cabin washed in colorful light, dark empty roof area at the top, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "Mesmo carro. *Outra noite.*"
   },
   {
    "layout": "manchete",
@@ -32,7 +31,7 @@
    "rotulo": "a solução",
    "imagem": "produto",
    "selo": "com controle",
-   "texto": "Luz LED interna: *a cor no controle.*",
+   "texto": "Luz LED interna: *cor no controle.*",
    "sub": "4 barras pra baixo do painel e dos bancos, liga no acendedor. Sem mexer na fiação."
   },
   {
@@ -43,7 +42,6 @@
  ],
  "texto_post": "Tem gente que troca de carro. Eu troquei a luz.",
  "frase_link": "a luz que mudou meu carro",
- "ia_tentado": true,
  "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261011-4-6acdf759.jpg",
  "previa_hash": "6acdf759"
 }

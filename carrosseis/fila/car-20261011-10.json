@@ -12,9 +12,9 @@
  },
  "slides": [
   {
-   "layout": "produto",
-   "texto": "Seu relógio *ainda é bom.* A pulseira que não.",
-   "selo": "várias cores"
+   "layout": "meme",
+   "imagem": "produto",
+   "texto": "seu relógio ainda é bom. a pulseira que não"
   },
   {
    "layout": "manchete",
@@ -35,7 +35,7 @@
   {
    "layout": "manchete",
    "tom": "claro",
-   "texto": "Escolhe a cor e *o link tá no comentário.*"
+   "texto": "Escolhe a cor. *Link no comentário.*"
   }
  ],
  "texto_post": "Não troquei o relógio. Troquei a pulseira.",
