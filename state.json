@@ -23,7 +23,7 @@
    "09:50"
   ],
   "produtos_feitos": 1,
-  "respostas": 27,
+  "respostas": 31,
   "por_post": {
    "17975559206935962": 13,
    "18179925583431899": 1,
@@ -32,7 +32,7 @@
    "18078986099393308": 2,
    "17894365761611421": 1,
    "18112767806335344": 1,
-   "18129449095879104": 7
+   "18129449095879104": 11
   }
  },
  "posts": [
@@ -888,7 +888,7 @@
    "texto": "Eu joguei tanto daquele jogo horrível na infância que tenho vergonha de admitir. Qual o seu guilty pleasure dos anos 90?",
    "quando": "2026-10-10T12:07:10.552905-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T11:07:08.806024-04:00",
+   "viral_chk": "2026-10-11T11:37:09.203331-04:00",
    "metricas": {
     "views": 570,
     "likes": 1,
@@ -946,7 +946,7 @@
    "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
    "quando": "2026-10-10T18:07:09.225159-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T11:07:08.806024-04:00",
+   "viral_chk": "2026-10-11T11:37:09.203331-04:00",
    "metricas": {
     "views": 71,
     "likes": 2,
@@ -964,7 +964,7 @@
    "texto": "ME CONTA: para a minha mãe, qualquer problema na vida se resolve com um banho quente e chá de camomila. De resfriado a coração partido. Qual é o remédio universal da mãe de vocês?",
    "quando": "2026-10-10T19:07:09.130648-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T11:07:08.806024-04:00",
+   "viral_chk": "2026-10-11T11:37:09.203331-04:00",
    "metricas": {
     "views": 376,
     "likes": 1,
@@ -982,7 +982,7 @@
    "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
    "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T10:37:07.916332-04:00",
+   "viral_chk": "2026-10-11T11:37:09.203331-04:00",
    "metricas": {
     "views": 548,
     "likes": 21,
@@ -1039,7 +1039,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
    "quando": "2026-10-11T08:37:08.861815-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T10:37:07.916332-04:00"
+   "viral_chk": "2026-10-11T11:37:09.203331-04:00"
   },
   {
    "id": "18112767806335344",
@@ -2517,7 +2517,11 @@
   "18432326347197027",
   "17930689377163507",
   "18103498286631021",
-  "18099938714531580"
+  "18099938714531580",
+  "17910412233558752",
+  "18435166090151699",
+  "17948736906306943",
+  "18134099773581683"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2855,30 +2859,14 @@
   "1de4776485": 1,
   "ac360f80bb": 1,
   "b18d7e10b5": 1,
-  "20b7bba0c4": 1
+  "20b7bba0c4": 1,
+  "ca57c42826": 1,
+  "18f35b061d": 1,
+  "1d843c5a59": 1,
+  "3a67992610": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "herança de pai raiz é trauma com ponteiro baixo, paz de espírito vale cada litro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "responsabilidade muda toda a perspectiva mesmo, a gente engole muita coisa pelos filhos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "paz não tem preço mesmo, escolha certeira",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "momento histórico que marcou a trajetória de muita gente",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "contexto bom faz milagre na hora H kkk",
    "p": "concorda",
@@ -3006,6 +2994,26 @@
   },
   {
    "t": "pura realidade, o dinheiro evapora antes da gente conseguir olhar pra ele kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "ibge ia ter que criar uma categoria nova só pro pessoal do instagram kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "muda o cenário mas o sufoco de ver o dinheiro sumir continua igual kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "exato, o pessoal ganha um pouquinho a mais e já quer abraçar financiamento q não cabe no mês kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pelo menos elimina o peso da cobrança embora o processo seja doloroso kkk",
    "p": "concorda",
    "r": 1
   }
@@ -3777,7 +3785,11 @@
    "educacao financeira ajuda",
    "reduzir custo de",
    "verdade mas o",
-   "pura realidade o"
+   "pura realidade o",
+   "ibge ia ter",
+   "muda o cenario",
+   "exato o pessoal",
+   "pelo menos elimina"
   ]
  },
  "shopee_checada": "2026-10-11|1",
