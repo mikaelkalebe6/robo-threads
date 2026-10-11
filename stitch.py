@@ -278,7 +278,8 @@ def processar_fila(tools, pid):
                 if not img:
                     raise RuntimeError("Stitch nao devolveu imagem")
                 jpg, tam = cortar(img)
-                url = carrossel.hospedar(f"ia/{car.get('id', 'car')}-s{i}.jpg", jpg)
+                # nome unico: imagem refeita nunca cai no link antigo (o GitHub recusa sobrescrever e devolvia a velha)
+                url = carrossel.hospedar(f"ia/{car.get('id', 'car')}-s{i}-{int(time.time())}.jpg", jpg)
                 sl["imagem"] = url
                 feitas += 1
                 registrar("OK", car.get("id"), f"slide {i}", url)

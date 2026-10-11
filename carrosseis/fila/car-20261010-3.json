@@ -1,6 +1,6 @@
 {
  "id": "car-20261010-3",
- "aprovado": false,
+ "aprovado": true,
  "criado": "2026-10-10",
  "modelo": "manchete-pera-como-assim (refs. DdolTobIKuQ capa que gera 'pera, como assim'; DeKNxO2EVEn blocos vermelhos sobre foto; DXVUQ01jZe6 alternando claro e escuro)",
  "produto": {
@@ -37,8 +37,8 @@
    "rotulo": "a solução",
    "imagem": "produto",
    "selo": "+4 mil vendidos",
-   "texto": "Carregador veicular *duplo + Tipo-C.*",
-   "sub": "Encaixa na tomada 12V. Motorista e carona carregando juntos. Link no comentário."
+   "texto": "Tomada USB + Tipo-C *de carga rápida.*",
+   "sub": "Instala no painel uma vez, mostra a voltagem da bateria e carrega dois celulares juntos. Link no comentário."
   }
  ],
  "texto_post": "A briga pelo carregador na viagem acaba aqui.",
