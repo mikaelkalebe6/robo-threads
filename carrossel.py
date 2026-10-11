@@ -120,7 +120,7 @@ ACENTO_MANCHETE = (232, 58, 36)  # vermelho-laranja das referencias de 10/10 (ma
 
 
 def _manchete(Image, ImageDraw, ImageFont, texto, n, total, rotulo, img, sub, tom, contem, selo, inteira=False, texto_pos="baixo"):
-    """Estilo "manchete condensada" (referencias do Kalebe de 10/10: letras enormes condensadas em caixa alta,
+    """Estilo "manchete condensada" (referencias de 10/10: letras enormes condensadas em caixa alta,
     rotulo pequeno em cima, *palavra* em marca-texto colorido, foto ou produto embaixo, fundo claro ou escuro)."""
     inteira = inteira and img is not None
     claro = tom == "claro" and not inteira

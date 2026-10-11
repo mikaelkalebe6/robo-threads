@@ -47,7 +47,7 @@ jobs:
           VIRAL_TODOS_POSTS: ${{ vars.VIRAL_TODOS_POSTS }}
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
-          PLANILHA_URL: ${{ vars.PLANILHA_URL }}
+          PLANILHA_URL: ${{ secrets.PLANILHA_URL || vars.PLANILHA_URL }}  # secreto: nao aparece no log publico
           MODO_TESTE: ${{ vars.MODO_TESTE }}
           PAUSADO: ${{ vars.PAUSADO }}
           POSTS_MIN: ${{ vars.POSTS_MIN }}
@@ -55,16 +55,16 @@ jobs:
           HORA_INICIO: ${{ vars.HORA_INICIO }}
           HORA_FIM: ${{ vars.HORA_FIM }}
           CHANCE_FOTO: ${{ vars.CHANCE_FOTO }}
-          PERSONA: ${{ vars.PERSONA }}
+          PERSONA: ${{ secrets.PERSONA || vars.PERSONA }}  # secreto: nao aparece no log publico
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
-          EXEMPLOS_RESPOSTAS: ${{ vars.EXEMPLOS_RESPOSTAS }}
+          EXEMPLOS_RESPOSTAS: ${{ secrets.EXEMPLOS_RESPOSTAS || vars.EXEMPLOS_RESPOSTAS }}  # secreto: nao aparece no log publico
           CHANCE_TENDENCIA: ${{ vars.CHANCE_TENDENCIA }}
           INTERVALO_MINIMO_MIN: ${{ vars.INTERVALO_MINIMO_MIN }}
           RESPOSTAS_POR_RODADA: ${{ vars.RESPOSTAS_POR_RODADA }}
           RESPOSTAS_POR_DIA: ${{ vars.RESPOSTAS_POR_DIA }}
-          APPSHEET_APP: ${{ vars.APPSHEET_APP }}
-          APPSHEET_TABELA: ${{ vars.APPSHEET_TABELA }}
-          PERSONA_RESPOSTA: ${{ vars.PERSONA_RESPOSTA }}
+          APPSHEET_APP: ${{ secrets.APPSHEET_APP || vars.APPSHEET_APP }}  # secreto: nao aparece no log publico
+          APPSHEET_TABELA: ${{ secrets.APPSHEET_TABELA || vars.APPSHEET_TABELA }}  # secreto: nao aparece no log publico
+          PERSONA_RESPOSTA: ${{ secrets.PERSONA_RESPOSTA || vars.PERSONA_RESPOSTA }}  # secreto: nao aparece no log publico
           RESPOSTAS_POR_PESSOA: ${{ vars.RESPOSTAS_POR_PESSOA }}
           RESPOSTAS_POR_POST_DIA: ${{ vars.RESPOSTAS_POR_POST_DIA }}
           RESPOSTAS_MIN_RODADA: ${{ vars.RESPOSTAS_MIN_RODADA }}
@@ -112,8 +112,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           # modelo principal do Gemini fica so para os posts (cota gratis de 20/dia); leitor usa o lite
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL_INSPIRACOES || 'gemini-flash-lite-latest' }}
-          INSPIRACOES_URL: ${{ vars.INSPIRACOES_URL }}
-          APPSHEET_APP: ${{ vars.APPSHEET_APP }}
+          INSPIRACOES_URL: ${{ secrets.INSPIRACOES_URL || vars.INSPIRACOES_URL }}  # secreto: nao aparece no log publico
+          APPSHEET_APP: ${{ secrets.APPSHEET_APP || vars.APPSHEET_APP }}  # secreto: nao aparece no log publico
           FUSO: ${{ vars.FUSO }}
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}  # so para links de PERFIL (posts reais do perfil); trava de 20 perfis por mes
         run: python3 inspiracoes.py
