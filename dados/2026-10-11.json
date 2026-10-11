@@ -1,0 +1,1555 @@
+{
+ "data": "2026-10-11",
+ "gerado_em": "2026-10-11T07:07-04:00",
+ "perfil": {
+  "1_dia": {
+   "views": 24732,
+   "likes": 5,
+   "replies": 7,
+   "reposts": 0,
+   "quotes": 0
+  },
+  "7_dias": {
+   "views": 293354,
+   "likes": 1994,
+   "replies": 2261,
+   "reposts": 13,
+   "quotes": 4
+  },
+  "followers": 123
+ },
+ "publico": {
+  "age": {
+   "18-24": 14,
+   "25-34": 48,
+   "35-44": 32,
+   "45-54": 11,
+   "55-64": 8,
+   "65+": 5
+  },
+  "gender": {
+   "F": 29,
+   "M": 70,
+   "U": 19
+  },
+  "country": {
+   "EG": 1,
+   "TW": 1,
+   "PT": 2,
+   "UZ": 1,
+   "JP": 1,
+   "HN": 1,
+   "MT": 1,
+   "IR": 1,
+   "FR": 1,
+   "BR": 91,
+   "TH": 2,
+   "VN": 1,
+   "NG": 1,
+   "GB": 1,
+   "US": 12
+  },
+  "city": {
+   "Regente Feijó, São Paulo (state)": 1,
+   "London, England": 1,
+   "Rio Manso, Minas Gerais": 1,
+   "São Paulo, São Paulo (state)": 9,
+   "Rio de Janeiro, Rio de Janeiro (state)": 5,
+   "São José dos Campos, São Paulo (state)": 2,
+   "Salir, Faro District": 1,
+   "Altamira, Pará": 1,
+   "Camaçari, Bahia": 1,
+   "Kaohsiung, Kaohsiung": 1,
+   "Porto Alegre, Rio Grande do Sul": 2,
+   "Magé, Rio de Janeiro (state)": 1,
+   "Baltimore, Maryland": 1,
+   "Nantes, Pays de la Loire": 1,
+   "Cláudio, Minas Gerais": 1,
+   "Itaguaí, Rio de Janeiro (state)": 1,
+   "Wake Village, Texas": 1,
+   "Jaraguá do Sul, Santa Catarina": 2,
+   "São Manuel, São Paulo (state)": 1,
+   "Esteio, Rio Grande do Sul": 1,
+   "Foz do Iguaçu, Paraná": 1,
+   "Piraí, Rio de Janeiro (state)": 1,
+   "Ban Nong Hua Raet, Nakhon Ratchasima": 1,
+   "Paim Filho, Rio Grande do Sul": 1,
+   "Salvador, Bahia": 2,
+   "Hannibal, Missouri": 1,
+   "São José, Santa Catarina": 1,
+   "Bauru, São Paulo (state)": 1,
+   "Batatais, São Paulo (state)": 1,
+   "Fortaleza, Ceará": 2,
+   "Montenegro, Rio Grande do Sul": 1,
+   "Biên Hòa, Đồng Nai Province": 1,
+   "Botucatu, São Paulo (state)": 1,
+   "Guapimirim, Rio de Janeiro (state)": 1,
+   "Campo Limpo Paulista, São Paulo (state)": 1,
+   "Ibirité, Minas Gerais": 1,
+   "Capão Bonito, São Paulo (state)": 1,
+   "Essex, Maryland": 1,
+   "Vilhena, Rondônia": 1,
+   "Juiz de Fora, Minas Gerais": 2,
+   "Santa Isabel, São Paulo (state)": 1,
+   "Belo Horizonte, Minas Gerais": 2,
+   "Curitiba, Paraná": 3,
+   "Santo André, São Paulo (state)": 3,
+   "Hortolândia, São Paulo (state)": 1
+  }
+ },
+ "posts": [
+  {
+   "id": "18009796532776328",
+   "quando": "2026-10-11T01:38:11+0000",
+   "texto": "DÚVIDA SINCERA: salário alto num lugar que suga sua alma ou ganhar menos pra trabalhar em paz?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeVfwomiVTN",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 85,
+    "likes": 0,
+    "replies": 5,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18124510639917840",
+   "quando": "2026-10-11T01:07:34+0000",
+   "texto": "Comprei um kit de mini alicates de precisão pra arrumar umas bijuterias e agora acho que consigo consertar qualquer circuito da casa. A tesoura de cozinha finalmente teve paz.",
+   "midia": "IMAGE",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeVcPZSjVTV",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 68,
+    "likes": 0,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18499002196099550",
+   "quando": "2026-10-11T00:33:55+0000",
+   "texto": "Fetiche real depois dos 30: conversar com quem sabe conversar.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeVYajsoGNx",
+   "robo": false,
+   "metricas": {
+    "views": 277,
+    "likes": 13,
+    "replies": 10,
+    "reposts": 1,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18438317413198976",
+   "quando": "2026-10-11T00:07:25+0000",
+   "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeVVX1-kRsI",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 548,
+    "likes": 21,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18003828527991536",
+   "quando": "2026-10-10T23:07:25+0000",
+   "texto": "ME CONTA: para a minha mãe, qualquer problema na vida se resolve com um banho quente e chá de camomila. De resfriado a coração partido. Qual é o remédio universal da mãe de vocês?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeVOgVhj3bX",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 376,
+    "likes": 1,
+    "replies": 12,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18125162968914216",
+   "quando": "2026-10-10T22:08:07+0000",
+   "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeVHuHJFlJP",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 71,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18099792050455079",
+   "quando": "2026-10-10T21:08:21+0000",
+   "texto": "Sempre achei que qualquer alicate servia para mexer com bijuteria até tentar fazer um detalhe menor e quase chorar de raiva.",
+   "midia": "IMAGE",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeVA3hKlOLX",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 54,
+    "likes": 0,
+    "replies": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17975559206935962",
+   "quando": "2026-10-10T18:37:34+0000",
+   "texto": "SEJAM SINCEROS: qual foi o primeiro salário de vocês? \n\nTenho quase certeza de que quem começou ganhando menos de 500 reais tem uma relação muito mais neurótica com dinheiro hoje em dia.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeUvn4_GQyY",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 5793,
+    "likes": 20,
+    "replies": 106,
+    "reposts": 0,
+    "quotes": 3,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17924890374203799",
+   "quando": "2026-10-10T16:08:10+0000",
+   "texto": "Eu joguei tanto daquele jogo horrível na infância que tenho vergonha de admitir. Qual o seu guilty pleasure dos anos 90?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeUehrSFaL2",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 570,
+    "likes": 1,
+    "replies": 7,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18078986099393308",
+   "quando": "2026-10-10T15:08:11+0000",
+   "texto": "VAMOS SER HONESTOS: rodar com o carro na reserva é puro desespero disfarçado de adrenalina.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeUXqULG3pN",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 4158,
+    "likes": 100,
+    "replies": 60,
+    "reposts": 1,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18076654343444049",
+   "quando": "2026-10-10T14:07:56+0000",
+   "texto": "Churrasqueiro bom também perde a carne na faca.",
+   "midia": "CAROUSEL_ALBUM",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeUQxDbkc4W",
+   "robo": true,
+   "ia": "carrossel",
+   "metricas": {
+    "views": 157,
+    "likes": 0,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17931200094409342",
+   "quando": "2026-10-10T13:07:31+0000",
+   "texto": "Praia dá muito mais trabalho do que descanso. Areia em tudo, muvuca, vento na cara... Troco fácil por uma cachoeira no meio do mato sem pensar duas vezes.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeUJ2f3G7k6",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 934,
+    "likes": 26,
+    "replies": 23,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18105356804624226",
+   "quando": "2026-10-10T01:53:20+0000",
+   "texto": "Fui votar nesse app e me chamaram de muretinha 🤡 kkkkkkkkkk",
+   "midia": "CAROUSEL_ALBUM",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeS8tZSoJSp",
+   "robo": false,
+   "metricas": {
+    "views": 371,
+    "likes": 2,
+    "replies": 7,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18179925583431899",
+   "quando": "2026-10-10T01:07:30+0000",
+   "texto": "Quem mais aqui já caiu numa cantada tão tosca que funcionou só pela audácia. A verdade é que às vezes a gente facilita demais.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeS3c8wDeZi",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 469,
+    "likes": 7,
+    "replies": 12,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17904297183598082",
+   "quando": "2026-10-10T00:07:18+0000",
+   "texto": "DÚVIDA SINCERA: no churrasco tem um detalhe que nunca pode faltar, nem que a carne esteja perfeita. Qual é? 🔥",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeSwkJTGVVO",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 2451,
+    "likes": 14,
+    "replies": 61,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18632920237005051",
+   "quando": "2026-10-09T23:38:10+0000",
+   "texto": "DÚVIDA SINCERA: qual foi o jogo de celular que fez vocês passarem raiva a ponto de desinstalar no mesmo dia?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeStOxkiY7G",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 622,
+    "likes": 0,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18009434771778336",
+   "quando": "2026-10-09T22:07:22+0000",
+   "texto": "Opinião impopular: tem robô mandando bom dia com mais carinho que muita gente da família.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeSi1qumtdu",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 519,
+    "likes": 5,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18030985622888288",
+   "quando": "2026-10-09T21:07:58+0000",
+   "texto": "Outro dia vi meu irmão jogando online de fone e lembrei da época em que a gente juntava a galera na sala pra disputar na mesma tela. \n\nSei que os gráficos de hoje parecem cinema, mas vocês preferem o videogame clássico dos anos 2000 ou essa era conectada de agora?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeScCskCZyc",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 255,
+    "likes": 3,
+    "replies": 15,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18118295015072947",
+   "quando": "2026-10-09T20:07:23+0000",
+   "texto": "Tem amizade que funciona no modo avião por meses e aí aparece do nada só com o roteiro completo da última fofoca. É um talento raro.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeSVG3UGg7Z",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 180,
+    "likes": 2,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18015338645750822",
+   "quando": "2026-10-09T19:07:24+0000",
+   "texto": "Tem carro antigo que continua com um desenho muito mais bonito do que os lançamentos de hoje em dia. Parece que antigamente os designers caprichavam mais nos detalhes. Qual modelo clássico você acha que nunca sai de moda?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeSOPhxD4Uo",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 10876,
+    "likes": 194,
+    "replies": 196,
+    "reposts": 3,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18133563994591000",
+   "quando": "2026-10-09T16:37:53+0000",
+   "texto": "VAMOS SER HONESTOS: a festa de casamento nem é a parte mais cara da história toda. \n\nO susto financeiro real vem no primeiro ano morando junto, tentando alinhar dois padrões de vida e descobrindo quanto custa manter uma casa funcionando no dia a dia. \n\nA festa acaba em seis horas, o boleto do condomínio não.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeR9IizFJOm",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 2280,
+    "likes": 45,
+    "replies": 16,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 1
+   }
+  },
+  {
+   "id": "18035663177850463",
+   "quando": "2026-10-09T16:07:38+0000",
+   "texto": "A gente diz que vai marcar alguma coisa e já sabe que nunca vai acontecer. É um acordo silencioso.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeR5q4fIKXl",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 236,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17883591987689452",
+   "quando": "2026-10-09T14:38:05+0000",
+   "texto": "OPINIÃO IMPOPULAR: primeiro encontro num barzinho simples ganha de lavada de restaurante chique. Menos pressão, mais conversa de verdade.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeRvbCCm8jy",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 5799,
+    "likes": 337,
+    "replies": 86,
+    "reposts": 2,
+    "quotes": 0,
+    "shares": 3
+   }
+  },
+  {
+   "id": "18130387291689226",
+   "quando": "2026-10-09T13:37:25+0000",
+   "texto": "DUVIDA SINCERA: Confesso que um ciúminho de vez em quando dá um empurrãozinho no relacionamento. \nVocê acha que um pouquinho de ciúme ainda tem lugar saudável?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeRoeqrG_2g",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 869,
+    "likes": 10,
+    "replies": 25,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18124736575742625",
+   "quando": "2026-10-09T12:38:12+0000",
+   "texto": "VAMOS SER HONESTOS: quem nunca sente que depois de cada tarefa precisa de uma pausa? A vida tá me ensinando que descanso não é luxo, é necessidade. 🌿",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeRhs5ym9f0",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 243,
+    "likes": 4,
+    "replies": 5,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17871358557637154",
+   "quando": "2026-10-09T01:37:57+0000",
+   "texto": "Quem mais aí atingiu a fase da vida adulta onde abrir o pote no congelador e realmente encontrar sorvete vira o ponto alto do dia?\n\nA gente aprende a comemorar vitórias muito específicas.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeQWJHHkQpe",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 467,
+    "likes": 10,
+    "replies": 8,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18157552714458950",
+   "quando": "2026-10-08T23:38:05+0000",
+   "texto": "OPINIAO IMPOPULAR: a pamonha de Goiás é boa sim, mas o pessoal exagera achando que não tem rival no país.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeQIbReDu5u",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 1804,
+    "likes": 17,
+    "replies": 53,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17986227470881809",
+   "quando": "2026-10-08T22:07:31+0000",
+   "texto": "Levar calote de amigo uma vez é aprendizado. Emprestar de novo pra mesma pessoa já é pedir pra ser feita de trouxa.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeP-EBoFBfR",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 585,
+    "likes": 16,
+    "replies": 12,
+    "reposts": 1,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18116932673061251",
+   "quando": "2026-10-08T21:37:37+0000",
+   "texto": "VAMOS CONCORDAR: tem carro que é tão feio que vira charme e a gente acaba apegado igual bicho de estimação",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeP6ouNI5OP",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 1260,
+    "likes": 11,
+    "replies": 12,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17911108497554167",
+   "quando": "2026-10-08T20:37:23+0000",
+   "texto": "SEJAM SINCEROS: quem aqui realmente lê aquele contrato enorme antes de aceitar o aplicativo? Aposto que todo mundo só clica em concordar para passar logo.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DePzvl4m_5m",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 149,
+    "likes": 1,
+    "replies": 4,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18110382311133636",
+   "quando": "2026-10-08T20:08:29+0000",
+   "texto": "Boa tarde gente, não deixe para 2027, já está disponível na minha lojinha 🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+   "midia": "IMAGE",
+   "link": "https://www.threads.com/@lorenafleck_/post/DePwcwpGJxf",
+   "robo": false,
+   "metricas": {
+    "views": 437,
+    "likes": 3,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18111330140174687",
+   "quando": "2026-10-08T16:37:43+0000",
+   "texto": "VAMOS SER HONESTOS: já passei um relatório inteiro pro ChatGPT e ninguém percebeu. 🤫",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DePYUUIFhFX",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 595,
+    "likes": 0,
+    "replies": 5,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18099059360387148",
+   "quando": "2026-10-08T15:37:31+0000",
+   "texto": "Comer prato horrível na casa dos outros só para não fazer desfeita é o teste definitivo de paciência. Ninguém merece elogiar macarronada crua.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DePRbJhEZSm",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 292,
+    "likes": 3,
+    "replies": 10,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18098203103652972",
+   "quando": "2026-10-08T14:07:27+0000",
+   "texto": "DÚVIDA SINCERA: bergamota, mexerica ou tangerina? \nComo chama aí na sua cidade 😄",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DePHHuvG67R",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 131,
+    "likes": 1,
+    "replies": 10,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17990532371862859",
+   "quando": "2026-10-08T13:07:17+0000",
+   "texto": "SEJAM SINCEROS: qual foi o pior emprego que você já teve? \n1️⃣ Telemarketing agressivo \n2️⃣ Garçom em festa infantil",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DePAPI1kRlj",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 265,
+    "likes": 1,
+    "replies": 15,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17978027112134799",
+   "quando": "2026-10-08T12:07:21+0000",
+   "texto": "ME CONTA: Recebi um chapéu de unicórnio de presente de Natal e usei na festa da família, virou o centro das atenções. Qual foi o presente mais sem noção que você já ganhou?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeO5YD8IN6j",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 769,
+    "likes": 3,
+    "replies": 19,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18105144680201716",
+   "quando": "2026-10-08T01:38:10+0000",
+   "texto": "Olho pro meu armário de infância e lembro de ter ganhado bem menos coisa no Natal do que a criançada ganha hoje em dia.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeNxX5CFi2w",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 591,
+    "likes": 2,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17921074737446173",
+   "quando": "2026-10-08T01:07:34+0000",
+   "texto": "Comer fruta fora de época sem olhar o preço no mercado já virou símbolo de status pra mim. O custo de vida subiu tanto que até a goiaba virou artigo de luxo.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeNt3rKFQrP",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 401,
+    "likes": 4,
+    "replies": 9,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18115082014839784",
+   "quando": "2026-10-08T00:07:30+0000",
+   "texto": "DÚVIDA SINCERA: ventilador direto na cara a noite toda ou ar condicionado trancado no dezoito?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeNm_zmmYTT",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 633,
+    "likes": 3,
+    "replies": 29,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17904357669353514",
+   "quando": "2026-10-07T23:07:28+0000",
+   "texto": "DÚVIDA SINCERA: amizade com ex é sinal de maturidade ou apego disfarçado? \n\nPra mim não funciona de jeito nenhum.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeNgIFumJjs",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 1022,
+    "likes": 10,
+    "replies": 42,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18129184651699420",
+   "quando": "2026-10-07T21:37:42+0000",
+   "texto": "VAMOS SER HONESTOS: inventar desculpa mirabolante para não sair de casa dá muito mais trabalho do que simplesmente dizer que não tá a fim. \n\nA verdade poupa a criatividade de todo mundo e ainda economiza energia.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeNV2spFMjW",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 255,
+    "likes": 2,
+    "replies": 5,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18109013291351299",
+   "quando": "2026-10-07T21:07:34+0000",
+   "texto": "Viajar sozinho ou viajar com a turma?\n\nDe um lado a paz de não ter que negociar roteiro nem horário com ninguém. Do outro, a resenha boa de dividir os perrengues. \n\nEu amo meus amigos, mas a liberdade de ir sozinho ganha fácil.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeNSZ_Wm84J",
+   "robo": true,
+   "ia": "Gemini gemini-flash-latest",
+   "metricas": {
+    "views": 656,
+    "likes": 14,
+    "replies": 24,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18024377885876978",
+   "quando": "2026-10-07T20:07:28+0000",
+   "texto": "OPINIÃO IMPOPULAR: o domingo à noite consegue ser bem mais pesado que a segunda de manhã.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeNLhunDzfj",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 953,
+    "likes": 18,
+    "replies": 34,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18160752547502938",
+   "quando": "2026-10-07T19:37:32+0000",
+   "texto": "PESSOAS QUE ainda usam caderno pra anotar gastos merecem respeito, porque eu já teria perdido o controle e comprado outra caneta inútil",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeNIGeuGstx",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 290,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18118205002998533",
+   "quando": "2026-10-07T18:37:26+0000",
+   "texto": "DÚVIDA SINCERA: com mais de trinta anos nas costas, qual foi a primeira vez que você teve que dar o braço a torcer pro seu pai? Aqui demorou, mas aconteceu",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeNBOPGGUW6",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 503,
+    "likes": 2,
+    "replies": 4,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18005229617791165",
+   "quando": "2026-10-07T18:02:04+0000",
+   "texto": "Quero falar com você que odeia bolsonaristas e você que odeia petistas, o grande questionamento é:\n\nMesmo diante da grande divergência existente nos dois polos, ainda é possível sentar, discutir, dialogar e encontrar pontos de CONCORDÂNCIA?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeM9L-pGI8c",
+   "robo": false,
+   "metricas": {
+    "views": 482,
+    "likes": 1,
+    "replies": 12,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18375624967238237",
+   "quando": "2026-10-07T17:37:22+0000",
+   "texto": "DÚVIDA SINCERA: quanto tempo de conversa até marcar o primeiro encontro? \nQuem mais já ficou contando os dias?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeM6WXjmmQG",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 10596,
+    "likes": 68,
+    "replies": 83,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18031353434910534",
+   "quando": "2026-10-07T16:07:18+0000",
+   "texto": "VAMOS CONCORDAR: quem come o recheio do biscoito primeiro já tá perdendo o melhor da vida.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeMwCwCFIri",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 516,
+    "likes": 3,
+    "replies": 10,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18126416557887514",
+   "quando": "2026-10-07T15:38:12+0000",
+   "texto": "VAMOS SER HONESTOS: morar de aluguel no centro ganha de qualquer casa longe de tudo.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeMstkFINND",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 3603,
+    "likes": 43,
+    "replies": 71,
+    "reposts": 1,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17884868841506086",
+   "quando": "2026-10-07T14:38:11+0000",
+   "texto": "VAMOS CONCORDAR: dinheiro que tira a tranquilidade não vale. Melhor um salário menor e acordar sorrindo.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeMl17rmxyf",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 327,
+    "likes": 7,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18028146761692151",
+   "quando": "2026-10-07T13:38:18+0000",
+   "texto": "PESSOAS QUE VIAJAM MUITO: o aeroporto parecia super tranquilo até a mala sumir na esteira. É o tipo de caos que testa a paciência de qualquer um.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeMe-5IG2S-",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 679,
+    "likes": 9,
+    "replies": 12,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18138080410624086",
+   "quando": "2026-10-07T12:38:44+0000",
+   "texto": "DÚVIDA SINCERA: vocês realmente acham que o produto de marca famosa é sempre melhor ou é só marketing que faz a gente pagar o dobro?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeMYLA8kUQG",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 830,
+    "likes": 1,
+    "replies": 16,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17969520279187566",
+   "quando": "2026-10-07T02:07:24+0000",
+   "texto": "DÚVIDA SINCERA: qual jogo vocês ainda jogam escondido da namorada? \nAcho que todo mundo tem um.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeLP7MXGuG7",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 5932,
+    "likes": 15,
+    "replies": 38,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 1
+   }
+  },
+  {
+   "id": "18075881765449513",
+   "quando": "2026-10-07T01:38:26+0000",
+   "texto": "VAMOS CONCORDAR: pizza fria no café da manhã ganha de qualquer almoço.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeLMm0viZE-",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 2061,
+    "likes": 66,
+    "replies": 48,
+    "reposts": 2,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18117333691945990",
+   "quando": "2026-10-07T00:37:35+0000",
+   "texto": "Homem que sabe dançar ganha pelo menos uns oito pontos de cara na paquera.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeLFpOqjh8J",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 7847,
+    "likes": 146,
+    "replies": 159,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18115007600278222",
+   "quando": "2026-10-06T23:37:18+0000",
+   "texto": "Parei de tentar justificar minha falta de vontade de sair de casa e ganhei dez anos de paz mental.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeK-vpbIKNT",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 402,
+    "likes": 3,
+    "replies": 5,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18146079442603271",
+   "quando": "2026-10-06T22:37:23+0000",
+   "texto": "VAMOS SER HONESTOS: já fingi estar no telefone só pra escapar do papo no elevador. 😅",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeK344TGeg5",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 732,
+    "likes": 9,
+    "replies": 25,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18021014444726359",
+   "quando": "2026-10-06T21:37:24+0000",
+   "texto": "O meu mecânico me cobra a alma ou o rim na troca de óleo, não tem meio termo.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeKxBgxlCmP",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 936,
+    "likes": 9,
+    "replies": 27,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18118761089472689",
+   "quando": "2026-10-06T20:37:25+0000",
+   "texto": "SEM MENTIR: fingi que meu cachorro tinha comido o celular pra cancelar o jantar. Vocês já inventaram algo pior?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeKqKRKgUH_",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 671,
+    "likes": 1,
+    "replies": 15,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 1
+   }
+  },
+  {
+   "id": "18375054751212499",
+   "quando": "2026-10-06T19:37:21+0000",
+   "texto": "DÚVIDA SINCERA: vocês também batem no painel do carro pedindo pra ele aguentar mais um pouco quando acende alguma luz do nada?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeKjSSJjxyg",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 588,
+    "likes": 10,
+    "replies": 18,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17989585521024894",
+   "quando": "2026-10-06T19:07:23+0000",
+   "texto": "DÚVIDA SINCERA: Quando lembro da infância, a mamãe sempre servia o arroz primeiro e o feijão por cima, como se fosse um pequeno segredo. Hoje, ao preparar pra mim, fico na dúvida: feijão por cima ou por baixo do arroz?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeKf2zsiQja",
+   "robo": true,
+   "ia": "Groq openai/gpt-oss-120b",
+   "metricas": {
+    "views": 130,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18101068082257287",
+   "quando": "2026-10-06T18:07:20+0000",
+   "texto": "O cara emendou cinco minutos falando mal da ex no primeiro café. Não dá pra tankar tanta energia ruim logo de cara.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeKY_BUG7c_",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 196,
+    "likes": 1,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18074133248740525",
+   "quando": "2026-10-06T17:08:05+0000",
+   "texto": "Tem boleto que parece que a gente paga todo mês de castigo por ter escolhido morar sozinho.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeKSNE3lGAb",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 384,
+    "likes": 7,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18021445505924431",
+   "quando": "2026-10-06T15:37:27+0000",
+   "texto": "VAMOS CONCORDAR: se alguém de fora chega na tua cidade hoje faminto, qual prato típico tu obrigatoriamente manda o infeliz provar primeiro",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeKH1MgG3u3",
+   "robo": true,
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 489,
+    "likes": 4,
+    "replies": 23,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18152505118527863",
+   "quando": "2026-10-06T15:07:19+0000",
+   "texto": "Eu comprei um aparelho de fazer pão que usei exatamente duas vezes na vida antes de virar peça de decoração na pia. Juro que a promessa de acordar com cheiro de pão fresco parecia muito mais romântica do que lavar aquela batedeira gigante depois. Qual foi a pior compra que já me convenceram a fazer?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeKEYfgFgdS",
+   "robo": false,
+   "metricas": {
+    "views": 424,
+    "likes": 3,
+    "replies": 6,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18090795653210068",
+   "quando": "2026-10-06T14:07:35+0000",
+   "texto": "VAMOS SER HONESTOS: vocês lavam o frango antes de cozinhar ou acham que só espalha bactéria pela pia inteira",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeJ9i_MlokH",
+   "robo": false,
+   "metricas": {
+    "views": 411,
+    "likes": 1,
+    "replies": 15,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18113316785517878",
+   "quando": "2026-10-06T13:07:23+0000",
+   "texto": "Eu julgo na hora quem não dá boa tarde para o motorista de aplicativo.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeJ2qJDFiWA",
+   "robo": false,
+   "metricas": {
+    "views": 931,
+    "likes": 18,
+    "replies": 10,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17905695297578832",
+   "quando": "2026-10-06T02:40:20+0000",
+   "texto": "Pronto agora a moda é desvalorizar que empreende como MEI...o nome disso é inveja? Ou não? Justifique.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeIu6HbIL-7",
+   "robo": false,
+   "metricas": {
+    "views": 837,
+    "likes": 18,
+    "replies": 15,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18118643042050925",
+   "quando": "2026-10-06T01:07:44+0000",
+   "texto": "Quem mais tem em casa uma gaveta que é basicamente um cemitério de cabos que ninguém sabe se funcionam, chaves aleatórias e sacola plástica?\n\nToda casa tem esse pequeno museu do caos e a gente só aceita.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeIkTCHEWeK",
+   "robo": false,
+   "metricas": {
+    "views": 617,
+    "likes": 13,
+    "replies": 18,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18085466636306923",
+   "quando": "2026-10-06T00:37:46+0000",
+   "texto": "Tem dia que a gente dorme seis horas e acha que tá ótimo, mas no dia seguinte a conta chega. Ou é o sono em dia ou é cafeína o dia inteiro.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeIg3oSmYZu",
+   "robo": false,
+   "metricas": {
+    "views": 640,
+    "likes": 8,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18126767030510839",
+   "quando": "2026-10-05T22:07:33+0000",
+   "texto": "Entrei no mercado decidida a comprar só um pão e saí com três sacolas cheias, mas sem o pão. \n\nVocês também perdem o foco assim ou só eu?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeIPrZDkeHR",
+   "robo": false,
+   "metricas": {
+    "views": 1236,
+    "likes": 46,
+    "replies": 52,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18089996570239818",
+   "quando": "2026-10-05T19:07:35+0000",
+   "texto": "DÚVIDA SINCERA: a conta do veterinário consegue ser mais cara do que plano de saúde humano e ninguém avisa isso antes de adotar.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeH7Fa-D1sQ",
+   "robo": false,
+   "metricas": {
+    "views": 9237,
+    "likes": 88,
+    "replies": 132,
+    "reposts": 1,
+    "quotes": 1,
+    "shares": 2
+   }
+  },
+  {
+   "id": "18446705149192097",
+   "quando": "2026-10-05T18:07:24+0000",
+   "texto": "SEJAM SINCEROS: eu vivo namorando aquele aparelho novo de última geração que tem a melhor câmera do mundo, mas na prática sigo apagando foto todo dia pra liberar espaço no meu guerreiro que já tá pedindo arrego.\n\nQual seria o celular dos sonhos de vocês hoje e qual é a realidade que tá aí no bolso?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeH0MT4Iyzn",
+   "robo": false,
+   "metricas": {
+    "views": 491,
+    "likes": 3,
+    "replies": 15,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18116788114783020",
+   "quando": "2026-10-05T17:07:25+0000",
+   "texto": "DÚVIDA SINCERA: você prefere um elogio do chefe na reunião de equipe ou um dia de folga surpresa sem precisar justificar nada",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeHtVRCmmoz",
+   "robo": false,
+   "metricas": {
+    "views": 138,
+    "likes": 0,
+    "replies": 7,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18089275931235702",
+   "quando": "2026-10-05T16:07:33+0000",
+   "texto": "DÚVIDA SINCERA: a programação infantil de antigamente era bem mais caótica do que a gente lembra ou é só nostalgia pura? Minha memória diz que era ótimo mas reassistir hoje em dia dá um pouco de medo",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeHme1-G5JJ",
+   "robo": false,
+   "metricas": {
+    "views": 507,
+    "likes": 7,
+    "replies": 11,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18036205694903067",
+   "quando": "2026-10-05T01:07:23+0000",
+   "texto": "SEM MENTIR: o que te faz perder a vontade de trabalhar num lugar? \n\nEu juro que tento ter paciência, mas reunião que podia ser um email e chefe que acha que vida pessoal é detalhe me broxam no primeiro mês.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeF_dx-GJz0",
+   "robo": false,
+   "metricas": {
+    "views": 768,
+    "likes": 2,
+    "replies": 7,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17927475519184610",
+   "quando": "2026-10-05T00:37:16+0000",
+   "texto": "SEJAM SINCEROS: homem que cozinha bem ganha quantos pontos na paquera de 0 a 10",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeF8BODjWz0",
+   "robo": false,
+   "metricas": {
+    "views": 1377,
+    "likes": 16,
+    "replies": 51,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17948454009322563",
+   "quando": "2026-10-04T23:07:22+0000",
+   "texto": "DÚVIDA SINCERA: Um casal de amigos torrou o valor de uma entrada de imóvel numa festa de casamento e começou a vida a dois no vermelho. Vale a pena pagar tão caro por uma única noite ou é pura loucura?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeFxuxqmNNd",
+   "robo": false,
+   "metricas": {
+    "views": 998,
+    "likes": 4,
+    "replies": 21,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18115684799079677",
+   "quando": "2026-10-04T22:07:22+0000",
+   "texto": "ME CONTA: qual foi aquela compra que você pensou muito, deixou pra lá e até hoje se arrepende de não ter feito? Queria entender se a culpa foi o valor ou só indecisão mesmo.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeFq3MlD3ST",
+   "robo": false,
+   "metricas": {
+    "views": 412,
+    "likes": 0,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "17891293701615453",
+   "quando": "2026-10-04T21:07:20+0000",
+   "texto": "SEM MENTIR: uma semana sem internet eu consigo sobreviver, mas um mês sem doce? Não dá, preciso daquele açúcar pra dar aquele gás nas ideias. 🍬 E vocês, o que escolheriam?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeFj_kTHUFi",
+   "robo": false,
+   "metricas": {
+    "views": 235,
+    "likes": 4,
+    "replies": 5,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18234677503320142",
+   "quando": "2026-10-04T19:37:29+0000",
+   "texto": "SEM MENTIR: vocês respondem na hora ou leem pela barra de notificação só pra fingir que ainda não viram?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeFZtcynz0V",
+   "robo": false,
+   "metricas": {
+    "views": 4529,
+    "likes": 81,
+    "replies": 138,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18423724351146165",
+   "quando": "2026-10-04T19:07:23+0000",
+   "texto": "ME CONTA: qual é o assunto que tem 100% de chance de virar barraco no almoço de família de vocês? Na minha é futebol, todo santo domingo alguém sai da mesa bravo.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeFWRD7lCUG",
+   "robo": false,
+   "metricas": {
+    "views": 522,
+    "likes": 1,
+    "replies": 10,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18115420961019155",
+   "quando": "2026-10-04T18:07:23+0000",
+   "texto": "DÚVIDA SINCERA: a vizinha bate na porta pedindo sal e fica duas horas contando a vida dela. Vocês deixariam entrar ou fingiriam que não estão em casa?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeFPZdKGWfO",
+   "robo": false,
+   "metricas": {
+    "views": 633,
+    "likes": 4,
+    "replies": 18,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18117567934950574",
+   "quando": "2026-10-04T16:37:47+0000",
+   "texto": "Quem mais aqui acha que casal não precisa desse mistério todo com senha de celular? Não é sobre fuçar a vida alheia, é só sobre praticidade e não ter nada pra esconder. Tem gente que defende a privacidade como se fosse segredo de estado, eu acho meio esquisito.",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeFFJKuIOb5",
+   "robo": false,
+   "metricas": {
+    "views": 259,
+    "likes": 2,
+    "replies": 6,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18152407384556806",
+   "quando": "2026-10-04T15:07:32+0000",
+   "texto": "SEJAM SINCEROS: para a galera que já passou dos 30, o joelho que começou a estalar primeiro foi o esquerdo ou o direito? \n\nEsquerdo\nDireito",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeE60bAlGSG",
+   "robo": false,
+   "metricas": {
+    "views": 100,
+    "likes": 0,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18105099868970989",
+   "quando": "2026-10-04T14:07:23+0000",
+   "texto": "SEJAM SINCEROS: qual a mania mais estranha que vocês têm e ainda não contam? Eu ainda guardo guardanapos de todos os cafés que visito, tem até uma gaveta cheia de “memórias” de cappuccino. 😂\n\nE aí, tem alguma curiosidade que ninguém sabe?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeEz7zcmykb",
+   "robo": false,
+   "metricas": {
+    "views": 1212,
+    "likes": 7,
+    "replies": 23,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  },
+  {
+   "id": "18080156645367951",
+   "quando": "2026-10-04T12:37:25+0000",
+   "texto": "SEJAM SINCEROS: antes dos 40, qual parada você vai garantir? \nChapada dos Veadeiros ou Lençóis Maranhenses 🌎 \n\nQual dos dois já está na sua lista?",
+   "midia": "TEXT_POST",
+   "link": "https://www.threads.com/@lorenafleck_/post/DeEpoplGy8V",
+   "robo": false,
+   "metricas": {
+    "views": 188,
+    "likes": 2,
+    "replies": 4,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0
+   }
+  }
+ ],
+ "falhas": []
+}
