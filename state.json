@@ -26,11 +26,12 @@
    "09:26"
   ],
   "produtos_feitos": 0,
-  "respostas": 27,
+  "respostas": 28,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
-   "17964872100196416": 6
+   "17964872100196416": 6,
+   "18131002286503625": 1
   }
  },
  "posts": [
@@ -961,7 +962,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T09:37:08.089668-04:00",
+   "viral_chk": "2026-10-12T10:07:09.748979-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -1024,7 +1025,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T09:37:08.089668-04:00",
+   "viral_chk": "2026-10-12T10:07:09.748979-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1084,7 +1085,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T09:37:08.089668-04:00"
+   "viral_chk": "2026-10-12T10:07:09.748979-04:00"
   },
   {
    "id": "18131002286503625",
@@ -1093,7 +1094,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T09:37:08.089668-04:00"
+   "viral_chk": "2026-10-12T10:07:09.748979-04:00"
   }
  ],
  "respondidos": [
@@ -2637,7 +2638,8 @@
   "18007779509992326",
   "18023190953712921",
   "18488295307128464",
-  "18450317872126983"
+  "18450317872126983",
+  "17906824953568526"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2988,15 +2990,11 @@
   "7ec5552b33": 1,
   "18dcd0cbc5": 1,
   "9909a9100e": 1,
-  "e619d3474f": 1
+  "e619d3474f": 1,
+  "d5d1d2eddd": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "silêncio de geladeira nova enquanto tenta subir a ladeira kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "para o dia a dia pesado o automático salva mas o final de semana pede o manual",
    "p": "concorda",
@@ -3141,6 +3139,11 @@
    "t": "ver tocando e fingir que não viu e esporte nacional",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "cheirar amaciante e calcular carne congelada já virou teste de farmácia da vida adulta kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -3678,24 +3681,6 @@
   }
  ],
  "aberturas_post": {
-  "18157552714458950": [
-   "justo demais entao",
-   "ciume de patrimonio",
-   "agora patos de",
-   "a do ceara",
-   "cruzes passar por",
-   "perde totalmente a",
-   "pamonha olimpica ja",
-   "minas e goias",
-   "pois e o",
-   "essa do pequi",
-   "bem vinda prepare",
-   "justo quem tenta",
-   "verdade a fama",
-   "piracicaba entra forte",
-   "pois e coragem",
-   "maravilhosa ela e"
-  ],
   "17871358557637154": [
    "feijao pronto no",
    "perigo iminente de",
@@ -3979,6 +3964,9 @@
    "quando e urgencia",
    "depende muito de",
    "ver tocando e"
+  ],
+  "18131002286503625": [
+   "cheirar amaciante e"
   ]
  },
  "shopee_checada": "2026-10-12|1",
