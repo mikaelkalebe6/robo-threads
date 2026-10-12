@@ -29,14 +29,14 @@
    "12:35"
   ],
   "produtos_feitos": 1,
-  "respostas": 45,
+  "respostas": 51,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
    "17964872100196416": 6,
-   "18131002286503625": 6,
+   "18131002286503625": 8,
    "18094598612441203": 1,
-   "17970535233152991": 11
+   "17970535233152991": 15
   }
  },
  "posts": [
@@ -916,7 +916,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T12:37:08.748031-04:00",
+   "viral_chk": "2026-10-12T13:07:09.456407-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -979,7 +979,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T12:37:08.748031-04:00",
+   "viral_chk": "2026-10-12T13:07:09.456407-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1039,7 +1039,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T12:37:08.748031-04:00"
+   "viral_chk": "2026-10-12T13:07:09.456407-04:00"
   },
   {
    "id": "18131002286503625",
@@ -1048,7 +1048,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T12:37:08.748031-04:00"
+   "viral_chk": "2026-10-12T13:07:09.456407-04:00"
   },
   {
    "id": "18094598612441203",
@@ -1077,7 +1077,7 @@
    "texto": "DÚVIDA SINCERA: Eu sempre puxo a carteira pra rachar no primeiro encontro, mas acho um charme quando a pessoa faz questão de pagar. Como vocês costumam fazer?",
    "quando": "2026-10-12T11:37:09.882940-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T12:07:08.758195-04:00"
+   "viral_chk": "2026-10-12T13:07:09.456407-04:00"
   },
   {
    "id": "17987399961082313",
@@ -2648,7 +2648,13 @@
   "18076896380456575",
   "18283205878291612",
   "18117182302975746",
-  "18421776331158610"
+  "18421776331158610",
+  "18059089868578677",
+  "18151057474557091",
+  "18116606071800110",
+  "18115447787078227",
+  "18114234002464516",
+  "18115375988044659"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3021,40 +3027,16 @@
   "3ba30b20da": 1,
   "6bc5d150d8": 1,
   "366fd5e9e4": 1,
-  "70bd8a2afd": 1
+  "70bd8a2afd": 1,
+  "f6d25edb52": 1,
+  "a42c8e8c80": 1,
+  "9d6f20c319": 1,
+  "b75f92e118": 1,
+  "8c94f24c86": 1,
+  "e127fb3499": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "playlist boa salva qualquer trajeto longo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "separar o carro de uso e o de fim de semana resolve o dilema",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "popular mas continua sendo a pura verdade",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "saúde vem sempre em primeiro lugar, aí realmente não tem discussão",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "para pegar fila todo dia na cidade é um caminho sem volta mesmo kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "estrada longa com curvas pede mesmo essa leitura fina que o sistema não faz sozinho kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "teoria do dedo gordo faz todo sentido, o pavor de atender número desconhecido só cresce kkk",
    "p": "concorda",
@@ -3174,6 +3156,36 @@
    "t": "investimento em produção pesa no orçamento mesmo kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "guerra declarada logo cedo kkkkkk",
+   "p": "concorda",
+   "r": 4
+  },
+  {
+   "t": "a pior parte é ter que esticar o braço igual o tiranossauro rex pra conseguir ler o rótulo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "ler o clima antes evita tanta saia justa né kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "regra clássica e prática pra não ter erro na hora",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "depende de quem estiver pagando o primeiro encontro",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "esse jogo de cintura leve deixa tudo mais natural na hora de decidir",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3992,7 +4004,9 @@
    "com vinte e",
    "fase de transicao",
    "essa parte da",
-   "precisa calcular o"
+   "precisa calcular o",
+   "guerra declarada logo",
+   "a pior parte"
   ],
   "18094598612441203": [
    "quando a compra"
@@ -4008,7 +4022,11 @@
    "atitude justa que",
    "olhar diferente ja",
    "obrigada pelo carinho",
-   "investimento em producao"
+   "investimento em producao",
+   "ler o clima",
+   "regra classica e",
+   "depende de quem",
+   "esse jogo de"
   ]
  },
  "shopee_checada": "2026-10-12|1",
