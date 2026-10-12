@@ -26,38 +26,22 @@
    "09:26",
    "10:11",
    "11:31",
-   "12:35"
+   "12:35",
+   "13:38"
   ],
   "produtos_feitos": 1,
-  "respostas": 56,
+  "respostas": 59,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
    "17964872100196416": 6,
    "18131002286503625": 8,
    "18094598612441203": 1,
-   "17970535233152991": 19,
-   "17987399961082313": 1
+   "17970535233152991": 20,
+   "17987399961082313": 3
   }
  },
  "posts": [
-  {
-   "id": "17884868841506086",
-   "insp": "bf83cca91b",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: dinheiro que tira a tranquilidade não vale. Melhor um salário menor e acordar sorrindo.",
-   "quando": "2026-10-07T10:37:14.496667-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 327,
-    "likes": 7,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-12"
-   }
-  },
   {
    "id": "18126416557887514",
    "insp": "f9f379c8bc",
@@ -917,7 +901,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T13:37:08.761084-04:00",
+   "viral_chk": "2026-10-12T14:07:09.043573-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -980,7 +964,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T13:37:08.761084-04:00",
+   "viral_chk": "2026-10-12T14:07:09.043573-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1040,7 +1024,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T13:37:08.761084-04:00"
+   "viral_chk": "2026-10-12T14:07:09.043573-04:00"
   },
   {
    "id": "18131002286503625",
@@ -1078,7 +1062,11 @@
    "texto": "DÚVIDA SINCERA: Eu sempre puxo a carteira pra rachar no primeiro encontro, mas acho um charme quando a pessoa faz questão de pagar. Como vocês costumam fazer?",
    "quando": "2026-10-12T11:37:09.882940-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T13:07:09.456407-04:00"
+   "viral_chk": "2026-10-12T14:07:09.043573-04:00",
+   "meme_comentado": true,
+   "meme_views": 1228,
+   "formato_link": "coment",
+   "produto": "58250519029"
   },
   {
    "id": "17987399961082313",
@@ -1088,6 +1076,15 @@
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "viral_chk": "2026-10-12T13:37:08.761084-04:00"
+  },
+  {
+   "id": "18023520131925356",
+   "insp": "ca1265befe",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
+   "quando": "2026-10-12T14:07:09.043573-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-12T14:07:09.043573-04:00"
   }
  ],
  "respondidos": [
@@ -2662,7 +2659,10 @@
   "18168154468474660",
   "18125174620681400",
   "18145341259573719",
-  "18030332411855895"
+  "18030332411855895",
+  "18101165936056716",
+  "17965889283198108",
+  "18412016104093954"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2824,7 +2824,8 @@
   "cd9f58423c6a3a34053b8156870d890d",
   "d6f134af9fd15b38f4df563e16860a6e",
   "b4f6bc752f1585e340766a61615f53f1",
-  "6223233793dfef75265a7b4d4b16641b"
+  "6223233793dfef75265a7b4d4b16641b",
+  "85d593e73ec0e5fe1adc51ab20c11783"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2986,7 +2987,8 @@
   "615229a3f1": 1791808651.8310485,
   "ff36dce57b": 1791812301.1103742,
   "1025b0cd16": 1791819454.3798175,
-  "e38b1c2eb7": 1791823039.377196
+  "e38b1c2eb7": 1791823039.377196,
+  "ca1265befe": 1791828457.4636238
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3029,7 +3031,7 @@
   "23198a81a4": 1,
   "f99b7e8326": 1,
   "6704021994": 1,
-  "3664af9c8c": 1,
+  "3664af9c8c": 2,
   "7f303a8cfd": 1,
   "ab98a107da": 1,
   "3ba30b20da": 1,
@@ -3045,25 +3047,12 @@
   "bb58ba6a7e": 1,
   "f899484891": 1,
   "caac807f2a": 1,
-  "2e70fe371a": 1
+  "2e70fe371a": 1,
+  "8d9686f5b1": 1,
+  "d49f735485": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "ver tocando e fingir que não viu e esporte nacional",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "cheirar amaciante e calcular carne congelada já virou teste de farmácia da vida adulta kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "precisa de técnico especializado e bateria nova kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "com vinte e um anos já com espírito de oitenta é o verdadeiro teste de resistência kkk",
    "p": "concorda",
@@ -3198,6 +3187,21 @@
    "t": "pelo menos a sinceridade veio direto sem rodeios",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "sensor que avisa tarde demais só serve pra testar o para-choque",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse é o único barulho que faz o coração errar a batida kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "esse zelo e respeito fazem toda a diferença msm",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3285,6 +3289,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-11T23:07:08.967006-04:00"
+  },
+  "18129437939508952": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-12T14:07:09.043573-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4038,10 +4047,13 @@
    "estrategia de defesa",
    "argumento forte esse",
    "jeito pratico de",
-   "pelo menos a"
+   "pelo menos a",
+   "esse zelo e"
   ],
   "17987399961082313": [
-   "aumentar o som"
+   "aumentar o som",
+   "sensor que avisa",
+   "esse e o"
   ]
  },
  "shopee_checada": "2026-10-12|1",
@@ -4458,7 +4470,8 @@
   "58204067039": "2026-10-11T19:07:07.516757-04:00",
   "23993565028": "2026-10-11T20:07:09.089106-04:00",
   "21898099575": "2026-10-11T23:07:08.967006-04:00",
-  "58257654101": "2026-10-12T10:37:09.051050-04:00"
+  "58257654101": "2026-10-12T10:37:09.051050-04:00",
+  "58250519029": "2026-10-12T14:07:09.043573-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4468,7 +4481,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-12",
-  "qtd": 0
+  "qtd": 1
  },
  "carrosseis_usados": [
   "car-20261010-1",
