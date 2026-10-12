@@ -25,37 +25,21 @@
    "08:27",
    "09:26",
    "10:11",
-   "11:31"
+   "11:31",
+   "12:35"
   ],
   "produtos_feitos": 1,
-  "respostas": 39,
+  "respostas": 45,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
    "17964872100196416": 6,
    "18131002286503625": 6,
    "18094598612441203": 1,
-   "17970535233152991": 5
+   "17970535233152991": 11
   }
  },
  "posts": [
-  {
-   "id": "18028146761692151",
-   "insp": "fb0beb9a45",
-   "link": "",
-   "texto": "PESSOAS QUE VIAJAM MUITO: o aeroporto parecia super tranquilo até a mala sumir na esteira. É o tipo de caos que testa a paciência de qualquer um.",
-   "quando": "2026-10-07T09:37:11.413312-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 679,
-    "likes": 9,
-    "replies": 12,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-12"
-   }
-  },
   {
    "id": "17884868841506086",
    "insp": "bf83cca91b",
@@ -932,7 +916,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T12:07:08.758195-04:00",
+   "viral_chk": "2026-10-12T12:37:08.748031-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -995,7 +979,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T12:07:08.758195-04:00",
+   "viral_chk": "2026-10-12T12:37:08.748031-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1055,7 +1039,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T12:07:08.758195-04:00"
+   "viral_chk": "2026-10-12T12:37:08.748031-04:00"
   },
   {
    "id": "18131002286503625",
@@ -1064,7 +1048,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T12:07:08.758195-04:00"
+   "viral_chk": "2026-10-12T12:37:08.748031-04:00"
   },
   {
    "id": "18094598612441203",
@@ -1094,6 +1078,15 @@
    "quando": "2026-10-12T11:37:09.882940-04:00",
    "ia": "Gemini gemini-flash-latest",
    "viral_chk": "2026-10-12T12:07:08.758195-04:00"
+  },
+  {
+   "id": "17987399961082313",
+   "insp": "e38b1c2eb7",
+   "link": "",
+   "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
+   "quando": "2026-10-12T12:37:08.748031-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "viral_chk": "2026-10-12T12:37:08.748031-04:00"
   }
  ],
  "respondidos": [
@@ -2649,7 +2642,13 @@
   "18154017772568577",
   "18121394683938160",
   "18161727157522883",
-  "18054895925811871"
+  "18054895925811871",
+  "18126234892868153",
+  "18107753524921419",
+  "18076896380456575",
+  "18283205878291612",
+  "18117182302975746",
+  "18421776331158610"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2810,7 +2809,8 @@
   "0b83b2200cab6e3998050fb8bfe61a4b",
   "cd9f58423c6a3a34053b8156870d890d",
   "d6f134af9fd15b38f4df563e16860a6e",
-  "b4f6bc752f1585e340766a61615f53f1"
+  "b4f6bc752f1585e340766a61615f53f1",
+  "6223233793dfef75265a7b4d4b16641b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2971,7 +2971,8 @@
   "654bef73ca": 1791770867.2880807,
   "615229a3f1": 1791808651.8310485,
   "ff36dce57b": 1791812301.1103742,
-  "1025b0cd16": 1791819454.3798175
+  "1025b0cd16": 1791819454.3798175,
+  "e38b1c2eb7": 1791823039.377196
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3014,40 +3015,16 @@
   "23198a81a4": 1,
   "f99b7e8326": 1,
   "6704021994": 1,
-  "3664af9c8c": 1
+  "3664af9c8c": 1,
+  "7f303a8cfd": 1,
+  "ab98a107da": 1,
+  "3ba30b20da": 1,
+  "6bc5d150d8": 1,
+  "366fd5e9e4": 1,
+  "70bd8a2afd": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "na cidade o automático virou questão de sobrevivência mesmo, mas na pista livre a história é outra",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "nessa fila aí a saudade do automático bate forte mesmo kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "trabalhar com isso o dia inteiro muda a regra do jogo mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "up com marcha é tiro curto mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "anos de carteira não tiram o encargo de empurrar alavanca",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "na rotina de segunda a sexta o papo é outro mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "playlist boa salva qualquer trajeto longo mesmo",
    "p": "concorda",
@@ -3165,6 +3142,36 @@
   },
   {
    "t": "estratégia rápida pra não deixar ninguém passar constrangimento kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "economia de tempo e zero drama na mesa",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "dividir tira o peso da cobrança e deixa tudo mais leve",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "atitude justa que deixa todo mundo bem confortável",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "olhar diferente já é meio caminho andado pro climão kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "obrigada pelo carinho, mas é só um costume antigo mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "investimento em produção pesa no orçamento mesmo kkk",
    "p": "concorda",
    "r": 1
   }
@@ -3995,7 +4002,13 @@
    "uma demonstracao de",
    "praticidade pura tira",
    "cada um tem",
-   "estrategia rapida pra"
+   "estrategia rapida pra",
+   "economia de tempo",
+   "dividir tira o",
+   "atitude justa que",
+   "olhar diferente ja",
+   "obrigada pelo carinho",
+   "investimento em producao"
   ]
  },
  "shopee_checada": "2026-10-12|1",
