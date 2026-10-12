@@ -327,8 +327,8 @@ def ler_videos():
                 continue  # botao Sim/Nao do app grava TRUE/FALSE; vazio conta como ativo
             video = url_midia(l.get("video", ""), tabela=aba)
             link = l.get("link", "") or l.get("link_produto", "")
-            if not video or not eh_video(video) or "shopee" not in link.lower():
-                continue
+            if not video or not eh_video(video):
+                continue  # link pode ser da Shopee (de qualquer pessoa), de outro lugar ou vazio (meme): o robo resolve
             itens.append({"id": hashlib.md5((l.get("video", "") + link).encode()).hexdigest()[:10], "video": video,
                           "foto": url_midia(l.get("foto", ""), tabela=aba), "link": link,
                           "descricao": l.get("descricao", "") or l.get("observacao", "")})
@@ -1162,32 +1162,109 @@ def checar_teste_comentario(s, agora):
     salvar_estado(s)
 
 
+def _texto_e_busca_video(v, nome_produto=""):
+    """A IA olha o frame e a descricao do video e devolve (texto do post, termo de busca na Shopee, eh_meme).
+    Sem IA: texto padrao, termo vazio."""
+    img = baixar_imagem(v["foto"]) if v.get("foto") else None
+    prompt = f"""{PERSONA}
+
+Publico real do perfil: {PUBLICO_PRODUTO}.
+Vai sair um video no perfil. {'O frame do video vai junto. ' if img else ''}O que se sabe dele: "{v.get('descricao') or 'sem descricao'}".
+{f'Produto mostrado no video: "{nome_produto[:120]}".' if nome_produto else ''}
+1) Diga se o video e MEME/viral aleatorio (humor, situacao engracada) ou se mostra um PRODUTO em uso.
+2) Escreva o texto do post:
+- se for MEME: uma legenda curta reagindo ao video como gente comum compartilhando algo engracado, sem vender nada;
+- se for PRODUTO: formato achadinho: o perrengue que ele resolve com humor leve, "descobri esse..." contando como quem mostra para um amigo, e "olha como funciona 👀" ou uma pergunta curta.
+Ate 3 linhas, no maximo 2 emojis, sem link, sem preco, sem hashtag, sem marca, sem travessao.
+3) Diga o termo de busca (2 a 4 palavras, sem marca) de um produto da Shopee que esse publico compraria e que combina de forma natural com o video (o proprio produto, se aparecer).
+Responda so em JSON: {{"meme": true ou false, "texto": "o post", "busca": "termo"}}"""
+    try:
+        r = ia(prompt, json_mode=True, imagens=[img] if img else None)
+        m = re.search(r"\{.*\}", r or "", re.S)
+        d = json.loads(m.group(0) if m else r)
+        return limpar(str(d.get("texto") or "")), str(d.get("busca") or "").strip()[:60], bool(d.get("meme"))
+    except Exception as e:
+        log("Video do app: IA nao escreveu o texto:", str(e)[:120])
+        return "", "", False
+
+
+def _produto_parecido(s, agora, termos):
+    """Busca na API do dono o melhor produto para os termos (nota, preco, vendas, lista proibida, sem repetir).
+    Devolve (produto ou None, a_shopee_falhou_em_todas_as_buscas)."""
+    import shopee
+    tentou, falhou = 0, 0
+    nota_min, preco_max, vendas_min = float(cfg("SHOPEE_NOTA_MIN")), float(cfg("SHOPEE_PRECO_MAX")), int(cfg("SHOPEE_VENDAS_MIN"))
+    for termo in [t for t in termos if t]:
+        tentou += 1
+        try:
+            nos = shopee.buscar_produtos(termo, limite=15, ordem=2)
+        except Exception as e:
+            log(f"Video do app: busca '{termo}' falhou:", str(e)[:120])
+            falhou += 1
+            continue
+        for n in nos:
+            x = shopee.normalizar(n)
+            if (x["itemId"] and x["offerLink"] and x["nota"] >= nota_min and 0 < x["preco"] <= preco_max
+                    and x["vendas"] >= vendas_min and not produto_proibido(x["nome"])
+                    and not produto_usado_recente(s, x["itemId"], agora)):
+                return x, False
+    return None, bool(tentou and falhou == tentou)
+
+
+def produto_mesmo_do_video(s, v, agora):
+    """Link da Shopee na linha (de qualquer pessoa): descobre qual e o produto e pega o MESMO pela API do dono.
+    Nunca usa o link da linha. Devolve (produto ou None, termos para buscar parecido, tinha_link)."""
+    link = v.get("link", "")
+    if not re.search(r"shopee|shope\.ee", link, re.I):
+        # link de outra loja (Mercado Livre, Amazon...) conta como "tinha produto": vai pelo parecido na Shopee
+        outro = bool(re.match(r"https?://", link, re.I)) and not re.search(r"threads\.(com|net)|instagram\.com", link, re.I)
+        return None, [], outro
+    try:
+        import shopee
+        if not shopee.configurada():
+            return None, [], True
+        ids = shopee.resolver_link(link)
+    except Exception as e:
+        log("Video do app: erro ao abrir o link da Shopee:", str(e)[:120])
+        return None, [], True
+    if not ids:
+        log("Video do app: nao consegui abrir o link da Shopee da linha (vai pelo parecido).")
+        return None, [], True
+    shop_id, item_id, slug = ids
+    try:
+        n = shopee.produto_por_id(shop_id, item_id)
+    except Exception as e:
+        log("Video do app: API nao achou o produto pelo numero:", str(e)[:120])
+        n = None
+    if not n:
+        return None, [slug], True
+    x = shopee.normalizar(n)
+    if x["offerLink"] and not produto_proibido(x["nome"]) and not produto_usado_recente(s, x["itemId"], agora):
+        return x, [], True
+    return None, [slug or x["nome"][:40]], True
+
+
 def postar_video_app(s, p, h, agora):
-    """Achadinho com video do app (aba videos): video (+ foto ao lado, se tiver) e texto de descoberta, sem link.
-    O link entra depois pela tarefa_link_achadinho. Cada video sai 1 vez. Devolve True se publicou."""
+    """Video do app (aba videos): video (+ frame ao lado, se tiver) com texto da IA, sem link no post.
+    O link (sempre do dono, gerado pela API) entra depois pela tarefa_link_achadinho. Meme sem produto sai como meme
+    (a estrategia 1 pode por o link se viralizar). Cada video sai 1 vez. Devolve True se publicou."""
     usados = s.setdefault("videos_usados", {})
     fila = [v for v in ler_videos() if v["id"] not in usados]
     if not fila:
         return False
     v = fila[0]
-    txt = ""
-    try:
-        r = ia(f"""{PERSONA}
-
-Publico real do perfil: {PUBLICO_PRODUTO}.
-Vai sair um video mostrando este produto em uso: "{v['descricao'] or 'produto da Shopee'}".
-Escreva o texto do post no formato ACHADINHO (descoberta contada por quem usou):
-- primeira linha: o perrengue do dia a dia que ele resolve, com humor leve (ex.: "X da um trabalhao, ne? 😂");
-- depois: "descobri esse..." contando o que ele faz, como quem mostra para um amigo, nunca como anuncio;
-- feche com "olha como funciona 👀" ou uma pergunta curta.
-Ate 3 linhas, no maximo 2 emojis, sem link, sem preco, sem hashtag, sem marca, sem travessao.
-Responda so em JSON: {{"texto": "o post"}}""", json_mode=True)
-        m = re.search(r"\{.*\}", r or "", re.S)
-        txt = limpar(str(json.loads(m.group(0) if m else r).get("texto") or ""))
-    except Exception as e:
-        log("Video do app: IA nao escreveu o texto:", str(e)[:120])
+    # produto SEMPRE pela API do dono: o mesmo do link da linha; se nao der, o parecido; meme sem link, um do tema
+    prod, termos, tinha_link = produto_mesmo_do_video(s, v, agora)
+    modo = "mesmo" if prod else ""
+    txt, busca, eh_meme = _texto_e_busca_video(v, prod["nome"] if prod else "")
+    if not prod:
+        prod, shopee_fora = _produto_parecido(s, agora, termos + [busca])
+        if shopee_fora:
+            log("Video do app: Shopee fora agora; o video espera a proxima vez (sai post de produto normal).")
+            return False
+        modo = ("parecido" if tinha_link else "tema") if prod else ""
     if not txt:
-        txt = "Descobri isso aqui e não sei como vivi sem até hoje 😂 Olha como funciona 👀"
+        txt = "Olha isso 😂" if eh_meme or not prod else "Descobri isso aqui e não sei como vivi sem até hoje 😂 Olha como funciona 👀"
     midias = [v["video"]] + ([v["foto"]] if v.get("foto") else [])
     try:
         pid = publicar_carrossel(midias, txt) if len(midias) > 1 else publicar(txt, foto=v["video"])
@@ -1196,21 +1273,29 @@ Responda so em JSON: {{"texto": "o post"}}""", json_mode=True)
         usados[v["id"]] = "erro " + agora.isoformat()
         salvar_estado(s)
         return False
-    log(f"POSTADO (achadinho em video, video {v['id']}, link depois):", pid)
+    log(f"POSTADO (video do app {v['id']}, produto: {modo or 'nenhum'}):", pid)
     usados[v["id"]] = agora.isoformat()
     p["feitos"].append(h)
-    p["produtos_feitos"] = p.get("produtos_feitos", 0) + 1
-    s.setdefault("posts", []).append({
-        "id": pid, "insp": f"video_{v['id']}", "link": "", "texto": txt[:300], "quando": agora.isoformat(),
-        "ia": _QUEM[0], "estrategia": "produto_video", "formato": "video" if len(midias) == 1 else "videofoto",
-        "formato_link": "respsemfoto", "produto": f"video_{v['id']}", "link_pendente": True,
-        "prod_dados": {"itemId": f"video_{v['id']}", "nome": v["descricao"][:80], "offerLink": v["link"], "imageUrl": "", "campanha": ""}})
+    reg = {"id": pid, "insp": f"video_{v['id']}", "link": "", "texto": txt[:300], "quando": agora.isoformat(),
+           "ia": _QUEM[0], "formato": "video" if len(midias) == 1 else "videofoto"}
+    if prod:
+        p["produtos_feitos"] = p.get("produtos_feitos", 0) + 1
+        reg.update({"estrategia": "produto_video", "formato_link": "respsemfoto", "produto": prod["itemId"],
+                    "link_pendente": True, "modo_produto": modo,
+                    "prod_dados": {**prod, "nome": prod["nome"][:80], "modo": modo}})
+    else:
+        reg.update({"estrategia": "meme"})
+    s.setdefault("posts", []).append(reg)
     salvar_estado(s)
     return True
 
 
 FRASES_LINK_ACHADINHO = ["Isso aqui fez toda a diferença 🥰", "Pra quem perguntou, é esse aqui 👇", "Achei aqui 👇",
                          "O que eu usei foi esse 👇", "Tá aqui pra quem quiser 👇"]
+FRASES_LINK_PARECIDO = ["Olha gente, achei um parecido aqui 👇", "Achei um bem parecido, ó 👇", "Pra quem quer, achei um igualzinho aqui 👇",
+                        "Fui atrás e achei um parecido 👇", "Não achei o mesmo, mas esse aqui é bem parecido 👇"]
+FRASES_LINK_TEMA = ["Falando nisso, olha o que eu achei 👇", "Isso me lembrou desse achado aqui 👇", "Tem tudo a ver com isso aqui 😂👇",
+                    "Quem se identificou vai querer isso 👇"]
 
 
 def tarefa_link_achadinho(s, agora):
@@ -1244,7 +1329,8 @@ def tarefa_link_achadinho(s, agora):
         motivo = f"{views} views" if idade < horas else f"{idade:.0f}h depois"
         log(f"Achadinho: link do post {p['id']} ({motivo}).")
         res = comentar_produto(s, p["id"], prod, "produtofoto", agora, formato="respsemfoto",
-                               frase=random.choice(FRASES_LINK_ACHADINHO), com_foto=False)
+                               frase=random.choice({"parecido": FRASES_LINK_PARECIDO, "tema": FRASES_LINK_TEMA}.get(
+                                   prod.get("modo"), FRASES_LINK_ACHADINHO)), com_foto=False)
         p["link_pendente"] = False
         p["link_em"] = agora.isoformat()
         p["link_views"] = views
