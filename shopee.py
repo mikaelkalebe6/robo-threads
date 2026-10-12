@@ -5,7 +5,7 @@ Conexao com a API de Afiliados da Shopee (Open API, GraphQL). Modulo separado do
 - Nunca grava nem mostra o Secret: ele so entra no calculo da assinatura de cada pedido.
 - Qualquer falha vira excecao com mensagem curta; quem chama decide (o robo nunca para por causa da Shopee).
 """
-import os, json, time, hashlib, urllib.request, urllib.error
+import os, re, json, time, hashlib, urllib.request, urllib.error, urllib.parse
 
 URL = "https://open-api.affiliate.shopee.com.br/graphql"
 APP_ID = os.environ.get("SHOPEE_APP_ID", "").strip()
@@ -122,6 +122,79 @@ def link_afiliado(url, marcadores=None):
     q = """mutation($u:String!,$s:[String]){generateShortLink(input:{originUrl:$u,subIds:$s}){shortLink}}"""
     sub = [sub_id(m) for m in (marcadores or [])][:5]
     return ((consulta(q, {"u": url, "s": sub}).get("generateShortLink") or {}).get("shortLink") or "")
+
+
+_IDS = [re.compile(r"-i\.(\d+)\.(\d+)"), re.compile(r"/product/(\d+)/(\d+)")]
+
+
+def _ids_da_url(url):
+    """(shopId, itemId, palavras do nome) de uma URL de produto da Shopee. Nada achado = None."""
+    import urllib.parse
+    u = urllib.parse.unquote(urllib.parse.unquote(str(url or "")))
+    for rx in _IDS:
+        m = rx.search(u)
+        if m:
+            slug = ""
+            ms = re.search(r"shopee\.com\.br/([^/?#]+)-i\.\d+\.\d+", u)
+            if ms:
+                slug = re.sub(r"[-_]+", " ", ms.group(1)).strip()[:80]
+            return m.group(1), m.group(2), slug
+    return None
+
+
+class _SemRedirecionar(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, *a, **k):
+        return None
+
+
+def resolver_link(url, passos=6):
+    """Abre um link da Shopee (inclusive link curto de afiliado de OUTRA pessoa) so para descobrir qual e o produto.
+    Segue os redirecionamentos um a um, sem baixar a pagina. Devolve (shopId, itemId, palavras do nome) ou None.
+    O link de outra pessoa NUNCA e usado: o robo gera o link do dono pela API a partir dos numeros do produto."""
+    abre = urllib.request.build_opener(_SemRedirecionar)
+    atual = str(url or "").strip()
+    for _ in range(passos):
+        achado = _ids_da_url(atual)
+        if achado:
+            return achado
+        try:
+            req = urllib.request.Request(atual, method="GET", headers={"User-Agent": "Mozilla/5.0"})
+            with abre.open(req, timeout=15) as r:
+                prox = r.headers.get("Location") or ""
+                if not prox:
+                    corpo = r.read(300_000).decode("utf-8", "replace")
+                    m = re.search(r"https?://shopee\.com\.br/[^\"'\s<>]+", corpo)
+                    return _ids_da_url(m.group(0)) if m else None
+        except urllib.error.HTTPError as e:
+            prox = e.headers.get("Location") or ""
+            if not prox:
+                return None
+        except Exception:
+            return None
+        atual = urllib.parse.urljoin(atual, prox)
+    return _ids_da_url(atual)
+
+
+def produto_por_id(shop_id, item_id):
+    """O mesmo produto pela API de afiliados (offerLink ja e o link do dono). Fora do programa = None."""
+    shop_id, item_id = int(shop_id), int(item_id)  # so numeros entram na consulta
+    q = f"""query{{productOfferV2(shopId:{shop_id},itemId:{item_id},limit:1,page:1){{
+      nodes{{itemId productName offerLink imageUrl priceMin priceMax priceDiscountRate sales ratingStar commissionRate shopName}}}}}}"""
+    nos = (consulta(q).get("productOfferV2") or {}).get("nodes") or []
+    return nos[0] if nos else None
+
+
+def normalizar(node):
+    """No da API -> produto no formato do robo."""
+    def num(v, tipo=float):
+        try:
+            return tipo(v or 0)
+        except Exception:
+            return tipo(0)
+    return {"itemId": str(node.get("itemId") or ""), "nome": str(node.get("productName") or ""),
+            "preco": num(node.get("priceMin")), "nota": num(node.get("ratingStar")), "vendas": num(node.get("sales"), int),
+            "comissao": num(node.get("commissionRate")), "imageUrl": str(node.get("imageUrl") or ""),
+            "offerLink": str(node.get("offerLink") or ""), "campanha": ""}
 
 
 def testar_conexao():
