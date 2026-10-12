@@ -33,7 +33,7 @@
    "16:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 73,
+  "respostas": 79,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
@@ -42,7 +42,7 @@
    "18094598612441203": 1,
    "17970535233152991": 20,
    "17987399961082313": 6,
-   "18125513068915632": 11
+   "18125513068915632": 17
   }
  },
  "posts": [
@@ -917,7 +917,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T18:07:11.333846-04:00",
+   "viral_chk": "2026-10-12T18:37:07.650092-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -977,7 +977,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T18:07:11.333846-04:00"
+   "viral_chk": "2026-10-12T18:37:07.650092-04:00"
   },
   {
    "id": "18131002286503625",
@@ -986,7 +986,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T18:07:11.333846-04:00"
+   "viral_chk": "2026-10-12T18:37:07.650092-04:00"
   },
   {
    "id": "18094598612441203",
@@ -1028,7 +1028,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-12T17:37:07.573345-04:00"
+   "viral_chk": "2026-10-12T18:37:07.650092-04:00"
   },
   {
    "id": "18023520131925356",
@@ -1037,7 +1037,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T17:37:07.573345-04:00"
+   "viral_chk": "2026-10-12T18:37:07.650092-04:00"
   },
   {
    "id": "18030130718689115",
@@ -2663,7 +2663,13 @@
   "18129100108712049",
   "18421380268156339",
   "18392990788162816",
-  "18112143836520967"
+  "18112143836520967",
+  "17928378711181840",
+  "18227916076330259",
+  "17921130486449587",
+  "17977587906134569",
+  "18100242986334469",
+  "17931104145166295"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3068,40 +3074,16 @@
   "6e216f266c": 1,
   "5a84e05d8b": 1,
   "83da8667c6": 1,
-  "0adb15d354": 1
+  "0adb15d354": 1,
+  "91bb010f52": 1,
+  "6394118458": 1,
+  "816e279c01": 1,
+  "05b0397f41": 1,
+  "7e225653b4": 1,
+  "5f5b183b2a": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "obrigada pelo carinho, mas é só um costume antigo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "investimento em produção pesa no orçamento mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "guerra declarada logo cedo kkkkkk",
-   "p": "concorda",
-   "r": 4
-  },
-  {
-   "t": "a pior parte é ter que esticar o braço igual o tiranossauro rex pra conseguir ler o rótulo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "ler o clima antes evita tanta saia justa né kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "regra clássica e prática pra não ter erro na hora",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "depende de quem estiver pagando o primeiro encontro",
    "p": "neutra",
@@ -3221,6 +3203,36 @@
    "t": "motor manual bom assim faz falta no trânsito de hoje",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse italiano aí conquistou e deixou saudade em muita gente kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "espaço interno que salvava qualquer viagem em família",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kit original de fábrica assim é raridade difícil de achar hoje em dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse coupe tem passe livre na lista de arrependimento",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse navega na estrada igual tapete kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "classe a era o terror da mecânica mas tinha seu charme kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4081,7 +4093,13 @@
    "esse ai a",
    "essa doi no",
    "quem monta outra",
-   "motor manual bom"
+   "motor manual bom",
+   "esse italiano ai",
+   "espaco interno que",
+   "kit original de",
+   "esse coupe tem",
+   "esse navega na",
+   "classe a era"
   ]
  },
  "shopee_checada": "2026-10-12|1",
