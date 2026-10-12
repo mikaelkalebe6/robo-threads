@@ -33,7 +33,7 @@
    "16:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 62,
+  "respostas": 67,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
@@ -41,7 +41,8 @@
    "18131002286503625": 8,
    "18094598612441203": 1,
    "17970535233152991": 20,
-   "17987399961082313": 6
+   "17987399961082313": 6,
+   "18125513068915632": 5
   }
  },
  "posts": [
@@ -916,7 +917,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T17:07:10.304706-04:00",
+   "viral_chk": "2026-10-12T17:37:07.573345-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -985,7 +986,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T16:37:08.909254-04:00"
+   "viral_chk": "2026-10-12T17:37:07.573345-04:00"
   },
   {
    "id": "18094598612441203",
@@ -1027,7 +1028,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-12T16:37:08.909254-04:00"
+   "viral_chk": "2026-10-12T17:37:07.573345-04:00"
   },
   {
    "id": "18023520131925356",
@@ -1036,7 +1037,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T16:37:08.909254-04:00"
+   "viral_chk": "2026-10-12T17:37:07.573345-04:00"
   },
   {
    "id": "18030130718689115",
@@ -1047,7 +1048,11 @@
    "ia": "Gemini gemini-flash-latest",
    "formato": "videofoto",
    "estrategia": "meme",
-   "viral_chk": "2026-10-12T17:07:10.304706-04:00"
+   "viral_chk": "2026-10-12T17:37:07.573345-04:00",
+   "meme_comentado": true,
+   "meme_views": 1036,
+   "formato_link": "coment",
+   "produto": "58264177301"
   },
   {
    "id": "18368554072244525",
@@ -2646,7 +2651,13 @@
   "18412016104093954",
   "18464273251186145",
   "17902273776669862",
-  "17965679556206405"
+  "17965679556206405",
+  "18102662564561919",
+  "18110142089265956",
+  "17931843558410605",
+  "18016948802743703",
+  "18162489022494054",
+  "18194507101393325"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3040,35 +3051,15 @@
   "d49f735485": 1,
   "1f1e8afefa": 1,
   "ec5261ea78": 1,
-  "d51c720088": 1
+  "d51c720088": 1,
+  "474c93449d": 1,
+  "60530d437f": 1,
+  "f706cfd7c0": 1,
+  "e0974d95cb": 1,
+  "d0bda3d8c2": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "precisa calcular o tempo de volta antes de aceitar o convite kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quando a compra dá certo assim a gente até esquece os boletos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ostentação pura ou pura sobrevivência financeira",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "uma demonstração de carinho que já mostra muito sobre a pessoa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "praticidade pura, tira o peso da conta e cada um segue leve",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "cada um tem seu jeito fofo de mostrar interesse",
    "p": "concorda",
@@ -3193,6 +3184,31 @@
    "t": "batida seca no buraco é o aviso oficial pra abaixar o som e fingir demência kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "Eita, F250 2000, que história! Ainda guarda alguma memória?",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "ver a motinha rodando com outro bateu direto no peito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse carrinho aguenta desaforo e deixa saudades em qualquer um",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Ah, o 500 2013, charme de bolso kkk 😅",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse modelo deixa saudade mesmo em quem só dirigiu uma vez",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3285,6 +3301,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-12T14:07:09.043573-04:00"
+  },
+  "18132081289732218": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-12T17:37:07.573345-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -3735,18 +3756,6 @@
   }
  ],
  "aberturas_post": {
-  "18130387291689226": [
-   "queria ter essa",
-   "pitadinha leve na",
-   "concordo o limite",
-   "perfeita a diferenca",
-   "exato jogo sujo",
-   "relacao abusiva estraga",
-   "respeito demais a",
-   "verdade pura o",
-   "da aquele tempero",
-   "ai ja passou"
-  ],
   "17883591987689452": [
    "verdade barzinho simples",
    "economia e zero",
@@ -4048,6 +4057,13 @@
    "ignorancia seletiva e",
    "o rex vai",
    "batida seca no"
+  ],
+  "18125513068915632": [
+   "eita f250 2000",
+   "ver a motinha",
+   "esse carrinho aguenta",
+   "ah o 500",
+   "esse modelo deixa"
   ]
  },
  "shopee_checada": "2026-10-12|1",
@@ -4465,7 +4481,8 @@
   "23993565028": "2026-10-11T20:07:09.089106-04:00",
   "21898099575": "2026-10-11T23:07:08.967006-04:00",
   "58257654101": "2026-10-12T10:37:09.051050-04:00",
-  "58250519029": "2026-10-12T14:07:09.043573-04:00"
+  "58250519029": "2026-10-12T14:07:09.043573-04:00",
+  "58264177301": "2026-10-12T17:37:07.573345-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4475,7 +4492,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-12",
-  "qtd": 1
+  "qtd": 2
  },
  "carrosseis_usados": [
   "car-20261010-1",
