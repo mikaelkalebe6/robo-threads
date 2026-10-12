@@ -23,35 +23,19 @@
   ],
   "feitos": [
    "08:27",
-   "09:26"
+   "09:26",
+   "10:11"
   ],
-  "produtos_feitos": 0,
-  "respostas": 28,
+  "produtos_feitos": 1,
+  "respostas": 32,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
    "17964872100196416": 6,
-   "18131002286503625": 1
+   "18131002286503625": 5
   }
  },
  "posts": [
-  {
-   "id": "17969520279187566",
-   "insp": "bc64a2ff13",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual jogo vocês ainda jogam escondido da namorada?  \nAcho que todo mundo tem um.",
-   "quando": "2026-10-06T22:07:09.686593-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 5944,
-    "likes": 15,
-    "replies": 38,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-10-12"
-   }
-  },
   {
    "id": "18138080410624086",
    "insp": "e69b61516f",
@@ -962,7 +946,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T10:07:09.748979-04:00",
+   "viral_chk": "2026-10-12T10:37:09.051050-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -1025,7 +1009,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T10:07:09.748979-04:00",
+   "viral_chk": "2026-10-12T10:37:09.051050-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1085,7 +1069,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T10:07:09.748979-04:00"
+   "viral_chk": "2026-10-12T10:37:09.051050-04:00"
   },
   {
    "id": "18131002286503625",
@@ -1094,7 +1078,27 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T10:07:09.748979-04:00"
+   "viral_chk": "2026-10-12T10:37:09.051050-04:00"
+  },
+  {
+   "id": "18094598612441203",
+   "insp": "prod_58257654101",
+   "link": "",
+   "texto": "Ficar na mão sem uma ferramenta básica quando precisa no carro dá uma raiva 😂\nDescobri esse chaveirinho dobrável de inox que quebra um galho surreal em qualquer aperto.\nOlha como ele funciona 👀",
+   "quando": "2026-10-12T10:37:09.051050-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "respsemfoto",
+   "produto": "58257654101",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "58257654101",
+    "nome": "Ferramenta Dobrável Multiuso Aço Inox Portátil para Emergências",
+    "offerLink": "https://s.shopee.com.br/8fT4U5Po0l",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mtxrb0vhm1vueb",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
@@ -2639,7 +2643,11 @@
   "18023190953712921",
   "18488295307128464",
   "18450317872126983",
-  "17906824953568526"
+  "17906824953568526",
+  "18155992204454647",
+  "18180405136429695",
+  "17931562266410872",
+  "18646695496011930"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2991,30 +2999,14 @@
   "18dcd0cbc5": 1,
   "9909a9100e": 1,
   "e619d3474f": 1,
-  "d5d1d2eddd": 1
+  "d5d1d2eddd": 1,
+  "3c0b97a40f": 1,
+  "a41a9c1b5e": 1,
+  "eb8e874c87": 1,
+  "795b685015": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "para o dia a dia pesado o automático salva mas o final de semana pede o manual",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "procurar o que fazer com as mãos virou um dilema real",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "calma que a gente só tá discutindo marcha",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "pesado demais e todo mundo carrega um pedaço",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "nesse horario o automatico realmente vira questão de sobrevivencia",
    "p": "ressalva",
@@ -3144,6 +3136,26 @@
    "t": "cheirar amaciante e calcular carne congelada já virou teste de farmácia da vida adulta kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "precisa de técnico especializado e bateria nova kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "com vinte e um anos já com espírito de oitenta é o verdadeiro teste de resistência kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "fase de transição que a gente só aceita depois dos trinta mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa parte da assinatura de sócios do clube das dores é o pior",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3966,7 +3978,11 @@
    "ver tocando e"
   ],
   "18131002286503625": [
-   "cheirar amaciante e"
+   "cheirar amaciante e",
+   "precisa de tecnico",
+   "com vinte e",
+   "fase de transicao",
+   "essa parte da"
   ]
  },
  "shopee_checada": "2026-10-12|1",
@@ -4382,7 +4398,8 @@
   "58214462678": "2026-10-11T15:37:09.556759-04:00",
   "58204067039": "2026-10-11T19:07:07.516757-04:00",
   "23993565028": "2026-10-11T20:07:09.089106-04:00",
-  "21898099575": "2026-10-11T23:07:08.967006-04:00"
+  "21898099575": "2026-10-11T23:07:08.967006-04:00",
+  "58257654101": "2026-10-12T10:37:09.051050-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4496,5 +4513,8 @@
  "fios_usados": [
   "fio-20261010-1",
   "fio-20261010-2"
- ]
+ ],
+ "videos_usados": {
+  "6ccf4171d8": "erro 2026-10-12T10:37:09.051050-04:00"
+ }
 }
