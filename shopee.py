@@ -147,14 +147,30 @@ class _SemRedirecionar(urllib.request.HTTPRedirectHandler):
         return None
 
 
+motivo_link = ""  # por que o ultimo link nao abriu (vai para o log do robo)
+
+
+def _ids_no_texto(txt):
+    """Procura numeros de produto em qualquer lugar de um texto (pagina ou endereco, ate com %2F e \\/)."""
+    import urllib.parse
+    t = urllib.parse.unquote(urllib.parse.unquote(str(txt or ""))).replace("\\/", "/")
+    for rx in _IDS:
+        m = rx.search(t)
+        if m:
+            return _ids_da_url(m.group(0)) or (m.group(1), m.group(2), "")
+    return None
+
+
 def resolver_link(url, passos=6):
     """Abre um link da Shopee (inclusive link curto de afiliado de OUTRA pessoa) so para descobrir qual e o produto.
-    Segue os redirecionamentos um a um, sem baixar a pagina. Devolve (shopId, itemId, palavras do nome) ou None.
+    Segue os redirecionamentos um a um. Devolve (shopId, itemId, palavras do nome) ou None (motivo em motivo_link).
     O link de outra pessoa NUNCA e usado: o robo gera o link do dono pela API a partir dos numeros do produto."""
+    global motivo_link
+    motivo_link = ""
     abre = urllib.request.build_opener(_SemRedirecionar)
     atual = str(url or "").strip()
     for _ in range(passos):
-        achado = _ids_da_url(atual)
+        achado = _ids_da_url(atual) or _ids_no_texto(atual)  # inclui a pagina de verificacao (?next=.../product/..)
         if achado:
             return achado
         try:
@@ -163,16 +179,23 @@ def resolver_link(url, passos=6):
                 prox = r.headers.get("Location") or ""
                 if not prox:
                     corpo = r.read(300_000).decode("utf-8", "replace")
-                    m = re.search(r"https?://shopee\.com\.br/[^\"'\s<>]+", corpo)
-                    return _ids_da_url(m.group(0)) if m else None
+                    achado = _ids_no_texto(corpo)
+                    if not achado:
+                        motivo_link = f"HTTP {r.status} sem produto na pagina ({urllib.parse.urlsplit(atual).path[:40]})"
+                    return achado
         except urllib.error.HTTPError as e:
             prox = e.headers.get("Location") or ""
             if not prox:
+                motivo_link = f"HTTP {e.code} em {urllib.parse.urlsplit(atual).netloc}{urllib.parse.urlsplit(atual).path[:40]}"
                 return None
-        except Exception:
+        except Exception as e:
+            motivo_link = str(e)[:100]
             return None
         atual = urllib.parse.urljoin(atual, prox)
-    return _ids_da_url(atual)
+    achado = _ids_da_url(atual) or _ids_no_texto(atual)
+    if not achado:
+        motivo_link = f"muitos redirecionamentos ({urllib.parse.urlsplit(atual).path[:40]})"
+    return achado
 
 
 def produto_por_id(shop_id, item_id):
