@@ -30,7 +30,7 @@
    "13:38"
   ],
   "produtos_feitos": 1,
-  "respostas": 59,
+  "respostas": 60,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
@@ -38,7 +38,7 @@
    "18131002286503625": 8,
    "18094598612441203": 1,
    "17970535233152991": 20,
-   "17987399961082313": 3
+   "17987399961082313": 4
   }
  },
  "posts": [
@@ -901,7 +901,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T14:07:09.043573-04:00",
+   "viral_chk": "2026-10-12T14:37:08.296179-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -964,7 +964,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T14:07:09.043573-04:00",
+   "viral_chk": "2026-10-12T14:37:08.296179-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1024,7 +1024,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T14:07:09.043573-04:00"
+   "viral_chk": "2026-10-12T14:37:08.296179-04:00"
   },
   {
    "id": "18131002286503625",
@@ -1033,7 +1033,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T13:37:08.761084-04:00"
+   "viral_chk": "2026-10-12T14:37:08.296179-04:00"
   },
   {
    "id": "18094598612441203",
@@ -1075,7 +1075,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-12T13:37:08.761084-04:00"
+   "viral_chk": "2026-10-12T14:37:08.296179-04:00"
   },
   {
    "id": "18023520131925356",
@@ -2662,7 +2662,8 @@
   "18030332411855895",
   "18101165936056716",
   "17965889283198108",
-  "18412016104093954"
+  "18412016104093954",
+  "18464273251186145"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3049,15 +3050,11 @@
   "caac807f2a": 1,
   "2e70fe371a": 1,
   "8d9686f5b1": 1,
-  "d49f735485": 1
+  "d49f735485": 1,
+  "1f1e8afefa": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "com vinte e um anos já com espírito de oitenta é o verdadeiro teste de resistência kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "fase de transição que a gente só aceita depois dos trinta mesmo",
    "p": "concorda",
@@ -3202,6 +3199,11 @@
    "t": "esse zelo e respeito fazem toda a diferença msm",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "ignorância seletiva é a única manutenção que cabe no orçamento kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4053,7 +4055,8 @@
   "17987399961082313": [
    "aumentar o som",
    "sensor que avisa",
-   "esse e o"
+   "esse e o",
+   "ignorancia seletiva e"
   ]
  },
  "shopee_checada": "2026-10-12|1",
