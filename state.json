@@ -27,10 +27,11 @@
    "10:11",
    "11:31",
    "12:35",
-   "13:38"
+   "13:38",
+   "14:49"
   ],
   "produtos_feitos": 1,
-  "respostas": 60,
+  "respostas": 61,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
@@ -38,27 +39,10 @@
    "18131002286503625": 8,
    "18094598612441203": 1,
    "17970535233152991": 20,
-   "17987399961082313": 4
+   "17987399961082313": 5
   }
  },
  "posts": [
-  {
-   "id": "18126416557887514",
-   "insp": "f9f379c8bc",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: morar de aluguel no centro ganha de qualquer casa longe de tudo.",
-   "quando": "2026-10-07T11:37:09.396020-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 3609,
-    "likes": 43,
-    "replies": 71,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-12"
-   }
-  },
   {
    "id": "18031353434910534",
    "insp": "0edf5745b6",
@@ -964,7 +948,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T14:37:08.296179-04:00",
+   "viral_chk": "2026-10-12T15:07:08.795491-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1024,7 +1008,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T14:37:08.296179-04:00"
+   "viral_chk": "2026-10-12T15:07:08.795491-04:00"
   },
   {
    "id": "18131002286503625",
@@ -1033,7 +1017,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T14:37:08.296179-04:00"
+   "viral_chk": "2026-10-12T15:07:08.795491-04:00"
   },
   {
    "id": "18094598612441203",
@@ -1084,7 +1068,18 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T14:07:09.043573-04:00"
+   "viral_chk": "2026-10-12T15:07:08.795491-04:00"
+  },
+  {
+   "id": "18030130718689115",
+   "insp": "video_6ccf4171d8",
+   "link": "",
+   "texto": "Pra quem não consegue manter nem uma planta viva em casa, descobri esse adubo que faz até o lírio-da-paz florir sem drama. Olha como funciona 👀",
+   "quando": "2026-10-12T15:07:08.795491-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "formato": "videofoto",
+   "estrategia": "meme",
+   "viral_chk": "2026-10-12T15:07:08.795491-04:00"
   }
  ],
  "respondidos": [
@@ -2663,7 +2658,8 @@
   "18101165936056716",
   "17965889283198108",
   "18412016104093954",
-  "18464273251186145"
+  "18464273251186145",
+  "17902273776669862"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3051,15 +3047,11 @@
   "2e70fe371a": 1,
   "8d9686f5b1": 1,
   "d49f735485": 1,
-  "1f1e8afefa": 1
+  "1f1e8afefa": 1,
+  "ec5261ea78": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "fase de transição que a gente só aceita depois dos trinta mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa parte da assinatura de sócios do clube das dores é o pior",
    "p": "concorda",
@@ -3204,6 +3196,11 @@
    "t": "ignorância seletiva é a única manutenção que cabe no orçamento kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "o Rex vai ganhar mais um espaco na cama kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -4056,7 +4053,8 @@
    "aumentar o som",
    "sensor que avisa",
    "esse e o",
-   "ignorancia seletiva e"
+   "ignorancia seletiva e",
+   "o rex vai"
   ]
  },
  "shopee_checada": "2026-10-12|1",
@@ -4590,6 +4588,6 @@
   "fio-20261010-2"
  ],
  "videos_usados": {
-  "6ccf4171d8": "erro 2026-10-12T10:37:09.051050-04:00"
+  "6ccf4171d8": "2026-10-12T15:07:08.795491-04:00"
  }
 }
