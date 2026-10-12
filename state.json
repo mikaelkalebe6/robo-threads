@@ -33,7 +33,7 @@
    "16:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 79,
+  "respostas": 82,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
@@ -42,7 +42,7 @@
    "18094598612441203": 1,
    "17970535233152991": 20,
    "17987399961082313": 6,
-   "18125513068915632": 17
+   "18125513068915632": 20
   }
  },
  "posts": [
@@ -977,7 +977,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T18:37:07.650092-04:00"
+   "viral_chk": "2026-10-12T19:07:08.855043-04:00"
   },
   {
    "id": "18131002286503625",
@@ -986,7 +986,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T18:37:07.650092-04:00"
+   "viral_chk": "2026-10-12T19:07:08.855043-04:00"
   },
   {
    "id": "18094598612441203",
@@ -999,14 +999,15 @@
    "formato": "postfoto",
    "formato_link": "respsemfoto",
    "produto": "58257654101",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "58257654101",
     "nome": "Ferramenta Dobrável Multiuso Aço Inox Portátil para Emergências",
     "offerLink": "https://s.shopee.com.br/8fT4U5Po0l",
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mtxrb0vhm1vueb",
     "campanha": ""
-   }
+   },
+   "apagado": true
   },
   {
    "id": "17970535233152991",
@@ -1028,7 +1029,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-12T18:37:07.650092-04:00"
+   "viral_chk": "2026-10-12T19:07:08.855043-04:00"
   },
   {
    "id": "18023520131925356",
@@ -1037,7 +1038,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T18:37:07.650092-04:00"
+   "viral_chk": "2026-10-12T19:07:08.855043-04:00"
   },
   {
    "id": "18030130718689115",
@@ -1061,7 +1062,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T18:07:11.333846-04:00"
+   "viral_chk": "2026-10-12T19:07:08.855043-04:00"
   },
   {
    "id": "18125513068915632",
@@ -1070,7 +1071,11 @@
    "texto": "Todo mundo tem aquele carro que nunca deveria ter vendido. Qual foi o seu?",
    "quando": "2026-10-12T17:07:10.304706-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T18:07:11.333846-04:00"
+   "viral_chk": "2026-10-12T19:07:08.855043-04:00",
+   "meme_comentado": true,
+   "meme_views": 1676,
+   "formato_link": "coment",
+   "produto": "58262137609"
   }
  ],
  "respondidos": [
@@ -2669,7 +2674,10 @@
   "17921130486449587",
   "17977587906134569",
   "18100242986334469",
-  "17931104145166295"
+  "17931104145166295",
+  "17971097610151754",
+  "17944089180360032",
+  "17904502341576177"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3080,25 +3088,13 @@
   "816e279c01": 1,
   "05b0397f41": 1,
   "7e225653b4": 1,
-  "5f5b183b2a": 1
+  "5f5b183b2a": 1,
+  "c02e1aefdd": 1,
+  "c10bbca951": 1,
+  "1874df8f43": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "depende de quem estiver pagando o primeiro encontro",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "esse jogo de cintura leve deixa tudo mais natural na hora de decidir",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "aumentar o som é a manutenção preventiva que cabe no bolso kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "estratégia de defesa válida pra cortar o papo antes de virar novela kkk",
    "p": "concorda",
@@ -3233,6 +3229,21 @@
    "t": "classe a era o terror da mecânica mas tinha seu charme kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse modelo deixou saudades em quem curtia acelerar na rodovia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "mudar de um assim pro Kwid é um choque térmico terrível",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse aí tanka qualquer buraco e deixa saudades kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3330,6 +3341,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-12T17:37:07.573345-04:00"
+  },
+  "17912146566520537": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-12T19:07:08.855043-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4099,7 +4115,10 @@
    "kit original de",
    "esse coupe tem",
    "esse navega na",
-   "classe a era"
+   "classe a era",
+   "esse modelo deixou",
+   "mudar de um",
+   "esse ai tanka"
   ]
  },
  "shopee_checada": "2026-10-12|1",
@@ -4518,7 +4537,8 @@
   "21898099575": "2026-10-11T23:07:08.967006-04:00",
   "58257654101": "2026-10-12T10:37:09.051050-04:00",
   "58250519029": "2026-10-12T14:07:09.043573-04:00",
-  "58264177301": "2026-10-12T17:37:07.573345-04:00"
+  "58264177301": "2026-10-12T17:37:07.573345-04:00",
+  "58262137609": "2026-10-12T19:07:08.855043-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4528,7 +4548,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-12",
-  "qtd": 2
+  "qtd": 3
  },
  "carrosseis_usados": [
   "car-20261010-1",
