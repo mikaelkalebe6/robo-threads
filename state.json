@@ -27,12 +27,12 @@
    "10:11"
   ],
   "produtos_feitos": 1,
-  "respostas": 32,
+  "respostas": 33,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
    "17964872100196416": 6,
-   "18131002286503625": 5
+   "18131002286503625": 6
   }
  },
  "posts": [
@@ -946,7 +946,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T10:37:09.051050-04:00",
+   "viral_chk": "2026-10-12T11:07:08.685162-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -1009,7 +1009,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T10:37:09.051050-04:00",
+   "viral_chk": "2026-10-12T11:07:08.685162-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1069,7 +1069,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T10:37:09.051050-04:00"
+   "viral_chk": "2026-10-12T11:07:08.685162-04:00"
   },
   {
    "id": "18131002286503625",
@@ -1078,7 +1078,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T10:37:09.051050-04:00"
+   "viral_chk": "2026-10-12T11:07:08.685162-04:00"
   },
   {
    "id": "18094598612441203",
@@ -2647,7 +2647,8 @@
   "18155992204454647",
   "18180405136429695",
   "17931562266410872",
-  "18646695496011930"
+  "18646695496011930",
+  "18053312126805290"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3003,15 +3004,11 @@
   "3c0b97a40f": 1,
   "a41a9c1b5e": 1,
   "eb8e874c87": 1,
-  "795b685015": 1
+  "795b685015": 1,
+  "db407d487e": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "nesse horario o automatico realmente vira questão de sobrevivencia",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "nem com os cavalos da epoca da pra competir mais kkk",
    "p": "concorda",
@@ -3156,6 +3153,11 @@
    "t": "essa parte da assinatura de sócios do clube das dores é o pior",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "precisa calcular o tempo de volta antes de aceitar o convite kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3982,7 +3984,8 @@
    "precisa de tecnico",
    "com vinte e",
    "fase de transicao",
-   "essa parte da"
+   "essa parte da",
+   "precisa calcular o"
   ]
  },
  "shopee_checada": "2026-10-12|1",
