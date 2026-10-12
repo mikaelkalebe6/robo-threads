@@ -859,15 +859,15 @@ Responda so em JSON: {{"objetivo_do_post": "...", "intencao": "...", "emocao": "
 
 FRASES_LINK = ["Aqui o link", "Tá aqui ó", "Link do achado", "Esse aqui", "Pega aqui"]
 FRASES_LINK_PROPRIO = ["Link aqui", "Pra quem pediu o link, é esse", "Link do produto", ""]
-# link em comentario sai no meio da frase: "frase link... fecho", sem foto (decisao do dono, 12/10/2026)
+# link em comentario sai no meio da frase: "frase link fecho", sem reticencias e sem foto (decisao do dono, 12/10/2026)
 FECHOS_LINK = ["depois me conta", "vê se te serve", "dá uma olhada com calma", "salva aí pra não perder",
                "tem gente que nem sabia que existia", "vale a pena dar uma olhada", "me agradece depois"]
 
 
 def texto_link(frase, link):
-    """Monta o comentario com link no formato do perfil: "frase link... fecho" (sem setinha nem dois pontos antes do link)."""
+    """Monta o comentario com link no meio da frase: "frase link fecho" (sem setinha, dois pontos nem reticencias)."""
     frase = (frase or "").strip().rstrip(" :👇👉⬇\ufe0f").strip()
-    return f"{frase} {link}... {random.choice(FECHOS_LINK)}" if frase else f"{link}... {random.choice(FECHOS_LINK)}"
+    return f"{frase} {link} {random.choice(FECHOS_LINK)}" if frase else f"{link} {random.choice(FECHOS_LINK)}"
 # texto com link de afiliado sai sempre com #publi discreto no fim (decisao do dono, 10/10/2026)
 _LINK_AFILIADO = re.compile(r"(shopee\.com|s\.shopee|shope\.ee|amzn\.to|amazon\.com\.br|mercadolivre\.com|meli\.la)", re.I)
 
@@ -1095,7 +1095,7 @@ def frase_produto(nome, campanha=""):
     prompt = f"""{PERSONA_RESPOSTA}
 
 Escreva uma frase curtissima e natural (no maximo 80 caracteres) em portugues sobre o produto "{nome}".
-A frase vai logo antes do link (formato: "frase link... fecho"). Pode ser reacao curta, elogio simples ou poucas palavras.{extra}
+A frase vai logo antes do link (formato: "frase link fecho"). Pode ser reacao curta, elogio simples ou poucas palavras.{extra}
 Regras: no maximo 80 caracteres; sem travessoes; sem links; sem @; tom natural de amiga; sem emoji."""
     try:
         frase = limpar_resposta(ia(prompt, modelos_gemini=[GEMINI_MODEL_RESPOSTA]) or "")
@@ -1110,7 +1110,7 @@ Regras: no maximo 80 caracteres; sem travessoes; sem links; sem @; tom natural d
 
 
 def comentar_produto(s, pid, produto, estrategia, agora=None, formato="coment", frase=None):
-    """Comenta no post: frase curta + link de afiliado com subIds no formato "frase link... fecho", SEM foto.
+    """Comenta no post: frase curta + link de afiliado com subIds no formato "frase link fecho", SEM foto.
     Qualquer falha (Shopee, IA, Meta) so vira log e devolve None: nunca derruba a rodada."""
     agora = agora or dt.datetime.now(TZ)
     try:
