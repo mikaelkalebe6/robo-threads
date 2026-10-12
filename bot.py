@@ -100,7 +100,7 @@ PADRAO = {
     # aba da planilha dos ganchos com os videos que o Kalebe sobe pelo app (tem prioridade no horario de produto com foto)
     "VIDEOS_ABA": "videos",
     # post viral sem produto que combine: chance de ir mesmo assim com um produto bom do dia (Kalebe 11/10: 50/50)
-    "VIRAL_QUALQUER_CHANCE": "0.5",
+    "VIRAL_QUALQUER_CHANCE": "1",
     # palavras proibidas no nome do produto (saude/medicamento e itens fora do publico); vale na hora do uso
     "SHOPEE_PROIBIDOS": "seringa,agulha,insulina,remedio,medicamento,farmacia,legging,calcinha,sutia,lingerie,bijuteria,micanga,hama beads,unha,esmalte,cilios,maquiagem,absorvente",
     # fio sem foto na fila: chance de o robo colocar a foto do produto na parte do link (fio as vezes com foto)
@@ -1484,7 +1484,8 @@ def tarefa_estrategia_meme(s, agora):
             continue
 
     # rodizio: confere primeiro quem foi conferido ha mais tempo (todos os posts da janela tem vez)
-    candidatos = sorted(candidatos, key=lambda p: p.get("viral_chk", ""))[:max_cheque]
+    # video e meme primeiro (alcance maior), depois quem foi conferido ha mais tempo
+    candidatos = sorted(candidatos, key=lambda p: (p.get("estrategia") != "meme", p.get("viral_chk", "")))[:max_cheque]
     if not candidatos:
         return
 
@@ -1508,12 +1509,19 @@ def tarefa_estrategia_meme(s, agora):
 
         if views >= min_views:
             # 1) produto do dia que combina; 2) busca na Shopee pelo assunto; 3) meme: sorteio; outros: sorteio 50/50
-            prod = produto_para_post(s, agora, p.get("texto", "")) or produto_por_tema(s, agora, p.get("texto", ""))
+            # post viral nunca fica sem link (decisao do dono 12/10): produto parecido ou do tema leva frase de "achei um parecido"
+            prod = produto_para_post(s, agora, p.get("texto", ""))
+            frase_viral = None
+            if not prod:
+                prod = produto_por_tema(s, agora, p.get("texto", ""))
+                frase_viral = random.choice(FRASES_LINK_TEMA) if prod else None
             if not prod and p.get("estrategia") == "meme":
                 prod = sortear_produto(prods, s, agora)
+                frase_viral = random.choice(FRASES_LINK_TEMA) if prod else None
             elif not prod:
                 if random.random() < float(cfg("VIRAL_QUALQUER_CHANCE") or 0):
                     prod = sortear_produto(_lista_para_ia(s, agora), s, agora)
+                    frase_viral = random.choice(FRASES_LINK_TEMA) if prod else None
                     if prod:
                         log(f"Estrategia 1: nada combina com o post {pid}; sorteio 50/50 escolheu um produto bom do dia.")
                 if not prod:
@@ -1525,7 +1533,7 @@ def tarefa_estrategia_meme(s, agora):
                 log("Estrategia Meme: nenhum produto novo (todos ja divulgados).")
                 break
             log(f"Estrategia Meme: post {pid} viralizou ({views} views >= {min_views}). Comentando produto {prod.get('itemId')}...")
-            res = comentar_produto(s, pid, prod, "meme" if p.get("estrategia") == "meme" else "viral", agora)
+            res = comentar_produto(s, pid, prod, "meme" if p.get("estrategia") == "meme" else "viral", agora, frase=frase_viral)
             p["meme_comentado"] = True
             p["meme_views"] = views
             p["formato_link"] = "coment"
