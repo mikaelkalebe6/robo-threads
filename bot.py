@@ -81,7 +81,7 @@ PADRAO = {
     "SHOPEE_PALAVRAS": "acessorio carro,kit ferramentas,fone bluetooth,smartwatch,suporte celular carro,churrasco,academia,carteira masculina,relogio masculino,barbeador,camping,pesca",
     "SHOPEE_NOTA_MIN": "4.9", "SHOPEE_PRECO_MAX": "80", "SHOPEE_VENDAS_MIN": "300", "SHOPEE_REPETIR_DIAS": "14",
     "TESTE_COMENTARIO_PRODUTO": "1",
-    "ESTRATEGIA_MEME": "1", "MEME_JANELA_HORAS": "24", "MEME_CHECAGENS_POR_RODADA": "5", "MEME_VIEWS_LINK": "1000", "MEME_LINKS_POR_DIA": "3",
+    "ESTRATEGIA_MEME": "1", "MEME_JANELA_HORAS": "24", "MEME_CHECAGENS_POR_RODADA": "15", "MEME_VIEWS_LINK": "1000", "MEME_LINKS_POR_DIA": "5",
     "ESTRATEGIA_FIO": "1",
     # Estrategia 1 ampliada (briefing 10/10): 1 = qualquer post de engajamento do robo que passar de MEME_VIEWS_LINK views
     # recebe o link de um produto ligado ao tema (a IA escolhe; se nada combinar, nao comenta). 0 = so posts "meme"
@@ -1424,7 +1424,13 @@ def tarefa_link_achadinho(s, agora):
                 dados = threads("GET", f"{p['id']}/insights", metric="views").get("data", [])
                 views = sum(_valor_metrica(m) for m in dados if m.get("name") == "views")
             except Exception as e:
-                log(f"Achadinho: erro ao ler views do post {p['id']}:", str(e)[:120])
+                if "does not exist" in str(e):
+                    p["link_pendente"] = False
+                    p["apagado"] = True
+                    log(f"Achadinho: post {p['id']} nao existe mais (apagado). Link cancelado.")
+                    salvar_estado(s)
+                else:
+                    log(f"Achadinho: erro ao ler views do post {p['id']}:", str(e)[:120])
                 continue
             if views < min_views:
                 continue
@@ -1505,9 +1511,14 @@ def tarefa_estrategia_meme(s, agora):
             dados = threads("GET", f"{pid}/insights", metric="views").get("data", [])
             views = sum(_valor_metrica(m) for m in dados if m.get("name") == "views")
         except Exception as e:
+            if "does not exist" in str(e):
+                p["apagado"] = True
+                p["viral_sem_produto"] = True  # sai do rodizio
             log(f"Estrategia Meme: erro ao ler views do post {pid}:", str(e)[:120])
             continue
 
+        if views < min_views:
+            log(f"Estrategia 1: post {pid} com {views} views (link a partir de {min_views}).")
         if views >= min_views:
             # 1) produto do dia que combina; 2) busca na Shopee pelo assunto; 3) meme: sorteio; outros: sorteio 50/50
             # post viral nunca fica sem link (decisao do dono 12/10): produto parecido ou do tema leva frase de "achei um parecido"
