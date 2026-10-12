@@ -29,7 +29,7 @@
    "21:41"
   ],
   "produtos_feitos": 3,
-  "respostas": 77,
+  "respostas": 83,
   "por_post": {
    "17975559206935962": 20,
    "18179925583431899": 1,
@@ -43,7 +43,7 @@
    "17910962637513171": 9,
    "18129285628827828": 6,
    "17912118573538249": 1,
-   "18145752784569888": 9
+   "18145752784569888": 15
   }
  },
  "posts": [
@@ -2552,7 +2552,13 @@
   "18118751989982926",
   "17975098023138455",
   "18127907170856373",
-  "18128160130883325"
+  "18128160130883325",
+  "17962281867250491",
+  "18072294557764437",
+  "17913222687286005",
+  "18118296883979488",
+  "18157283392506086",
+  "18082229570385040"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2947,40 +2953,16 @@
   "8d9686f5b1": 1,
   "5d75497ecc": 1,
   "a7e1e8572d": 1,
-  "3be42e5bf0": 1
+  "3be42e5bf0": 1,
+  "cefa0617f3": 1,
+  "93a00fec5f": 1,
+  "34c999908a": 1,
+  "41e5b18c4c": 1,
+  "b56c32b708": 1,
+  "53fce2f99c": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "perigo real e oficial de ir parar em outra dimensao kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "estratégia infalível para não ter erro no caminho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "criatividade do algoritmo está em outro nível de entretenimento",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "imagina o desespero de olhar para os quartos vazios e o monte de conta chegando",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "teoria perfeita na planilha mas na pratica o boleto não quer esperar a alta chegar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "teoria linda na teoria mas na prática o caixa some antes da alta chegar",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "cortar custos e segurar as pontas com evento pontual é o que salva mesmo",
    "p": "concorda",
@@ -3100,6 +3082,36 @@
    "t": "praticidade ganha a discussão mas o tédio no trânsito pesado cobra o preço kkk",
    "p": "discorda",
    "r": 1
+  },
+  {
+   "t": "trânsito pesado faz qualquer um repensar as escolhas da vida",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "shopee nem entrega essa nostalgia toda",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "vida fácil demais as vezes tira toda a graca da dirigida",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "silêncio de geladeira nova enquanto tenta subir a ladeira kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "para o dia a dia pesado o automático salva mas o final de semana pede o manual",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "procurar o que fazer com as mãos virou um dilema real",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3912,7 +3924,13 @@
    "modo sport tenta",
    "conforto em viagem",
    "com essa vista",
-   "praticidade ganha a"
+   "praticidade ganha a",
+   "transito pesado faz",
+   "shopee nem entrega",
+   "vida facil demais",
+   "silencio de geladeira",
+   "para o dia",
+   "procurar o que"
   ]
  },
  "shopee_checada": "2026-10-11|1",
