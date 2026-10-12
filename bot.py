@@ -1228,7 +1228,8 @@ def produto_mesmo_do_video(s, v, agora):
         log("Video do app: erro ao abrir o link da Shopee:", str(e)[:120])
         return None, [], True
     if not ids:
-        log("Video do app: nao consegui abrir o link da Shopee da linha (vai pelo parecido).")
+        log("Video do app: nao consegui abrir o link da Shopee da linha (vai pelo parecido):",
+            getattr(shopee, "motivo_link", "") or "-")
         return None, [], True
     shop_id, item_id, slug = ids
     try:
@@ -1244,15 +1245,56 @@ def produto_mesmo_do_video(s, v, agora):
     return None, [slug or x["nome"][:40]], True
 
 
+VIDEO_TENTATIVAS = 3  # recusa da Meta: o video tenta de novo ate 3 vezes antes de sair da fila
+
+
+def _video_erros(valor):
+    """Quantas vezes o video ja falhou. "erro <data>" (formato antigo) conta 1; "erro2 <data>" conta 2."""
+    m = re.match(r"erro(\d*)\s", str(valor or ""))
+    return (int(m.group(1)) if m.group(1) else 1) if m else 0
+
+
+def _video_livre(valor):
+    """Video ainda pode sair: nunca usado ou falhou menos de VIDEO_TENTATIVAS vezes."""
+    return not valor or 0 < _video_erros(valor) < VIDEO_TENTATIVAS
+
+
+def _arquivo_abre(url, tipo):
+    """Testa se o arquivo do app abre por link publico (o mesmo que a Meta vai baixar).
+    Devolve o endereco final (depois de redirecionar) ou "" se nao abrir ou nao for video/imagem."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0", "Range": "bytes=0-1023"})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            mime = (r.headers.get("Content-Type") or "").split(";")[0].strip().lower()
+            final = r.geturl()
+            r.read(1024)
+        if mime.startswith(tipo + "/") or mime in ("application/octet-stream", "binary/octet-stream"):
+            return final or url
+        log(f"Arquivo do app nao e {tipo} (veio {mime or 'sem tipo'}).")
+        return ""
+    except Exception as e:
+        log(f"Arquivo do app ({tipo}) nao abriu:", str(e)[:120])
+        return ""
+
+
 def postar_video_app(s, p, h, agora):
     """Video do app (aba videos): video (+ frame ao lado, se tiver) com texto da IA, sem link no post.
     O link (sempre do dono, gerado pela API) entra depois pela tarefa_link_achadinho. Meme sem produto sai como meme
     (a estrategia 1 pode por o link se viralizar). Cada video sai 1 vez. Devolve True se publicou."""
     usados = s.setdefault("videos_usados", {})
-    fila = [v for v in ler_videos() if v["id"] not in usados]
+    fila = [v for v in ler_videos() if _video_livre(usados.get(v["id"]))]
     if not fila:
         return False
     v = fila[0]
+    # confere o arquivo ANTES de mandar para a Meta: link que nao abre nao queima o video (tenta de novo depois)
+    final = _arquivo_abre(v["video"], "video")
+    if not final:
+        log(f"Video do app {v['id']}: o arquivo nao abre pelo link do app (AppSheet exigindo assinatura?). "
+            "Video fica na fila; sai post de produto com foto.")
+        return False
+    v = {**v, "video": final}
+    if v.get("foto"):
+        v["foto"] = _arquivo_abre(v["foto"], "image") or ""
     # produto SEMPRE pela API do dono: o mesmo do link da linha; se nao der, o parecido; meme sem link, um do tema
     prod, termos, tinha_link = produto_mesmo_do_video(s, v, agora)
     modo = "mesmo" if prod else ""
@@ -1269,8 +1311,9 @@ def postar_video_app(s, p, h, agora):
     try:
         pid = publicar_carrossel(midias, txt) if len(midias) > 1 else publicar(txt, foto=v["video"])
     except Exception as e:
-        log("Video do app: Meta recusou (segue para o post com foto):", str(e)[:200])
-        usados[v["id"]] = "erro " + agora.isoformat()
+        n = _video_erros(usados.get(v["id"])) + 1
+        log(f"Video do app: Meta recusou (tentativa {n} de {VIDEO_TENTATIVAS}; segue para o post com foto):", str(e)[:200])
+        usados[v["id"]] = f"erro{n} " + agora.isoformat()
         salvar_estado(s)
         return False
     log(f"POSTADO (video do app {v['id']}, produto: {modo or 'nenhum'}):", pid)
