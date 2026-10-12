@@ -23,9 +23,9 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 12,
   "por_post": {
-   "18145752784569888": 5,
+   "18145752784569888": 11,
    "17894365761611421": 1
   }
  },
@@ -931,7 +931,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
    "quando": "2026-10-11T08:37:08.861815-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T07:07:07.746286-04:00",
+   "viral_chk": "2026-10-12T07:37:09.628466-04:00",
    "metricas": {
     "views": 346,
     "likes": 7,
@@ -991,7 +991,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T07:07:07.746286-04:00",
+   "viral_chk": "2026-10-12T07:37:09.628466-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -1054,7 +1054,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T07:07:07.746286-04:00",
+   "viral_chk": "2026-10-12T07:37:09.628466-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -2628,7 +2628,13 @@
   "17909670567557271",
   "17913724887281569",
   "18110115662612308",
-  "18626633401020542"
+  "18626633401020542",
+  "18111674797872711",
+  "18117944615003846",
+  "18118622513092294",
+  "18220559977352042",
+  "17996467533013112",
+  "18092461085185867"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2954,40 +2960,16 @@
   "116e9a57c5": 1,
   "916938b22e": 1,
   "f04de1dd2c": 1,
-  "3963bb6d25": 1
+  "3963bb6d25": 1,
+  "14e4a52ceb": 1,
+  "ee155242b6": 1,
+  "d1fab5dd32": 1,
+  "f572d04523": 1,
+  "fc1c2e33ff": 1,
+  "6d2c70cf65": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "quem tem essa disciplina toda merece um prêmio de organização",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "tecnologia ótima mas na hora da pressa o papel ainda ganha no esquecimento kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sensação de vazio exata de quem perdeu tempo e dinheiro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa lógica de metas deve aliviar a pressão mas na prática o caixa sente o golpe",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "tecnologia salva a gente justamente quando a memória falha kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "curva fechada é o teste final pra fixação do painel kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "10k por semana da pra comprar meio quilo de carne e um cafezinho kkkkkkkk",
    "p": "concorda",
@@ -3105,6 +3087,36 @@
   },
   {
    "t": "inventar marcha no computador é apego disfarçado de tecnologia",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "trânsito caótico realmente testa a paciência de qualquer um kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "pior que o instinto de procurar a embreagem continua por anos kkk",
+   "p": "discorda",
+   "r": 1
+  },
+  {
+   "t": "no caos do transito diario realmente a história muda de figura",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "na cidade o automático virou questão de sobrevivência mesmo, mas na pista livre a história é outra",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "nessa fila aí a saudade do automático bate forte mesmo kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "trabalhar com isso o dia inteiro muda a regra do jogo mesmo",
    "p": "ressalva",
    "r": 0
   }
@@ -3923,12 +3935,6 @@
    "curva fechada e"
   ],
   "18145752784569888": [
-   "preguica gourmet que",
-   "cada um se",
-   "justo a preguica",
-   "ronco do motor",
-   "no manual a",
-   "modo sport tenta",
    "conforto em viagem",
    "com essa vista",
    "praticidade ganha a",
@@ -3942,7 +3948,13 @@
    "nesse horario o",
    "nem com os",
    "conforto e otimo",
-   "inventar marcha no"
+   "inventar marcha no",
+   "transito caotico realmente",
+   "pior que o",
+   "no caos do",
+   "na cidade o",
+   "nessa fila ai",
+   "trabalhar com isso"
   ]
  },
  "shopee_checada": "2026-10-12|1",
