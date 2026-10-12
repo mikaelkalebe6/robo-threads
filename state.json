@@ -29,14 +29,15 @@
    "12:35"
   ],
   "produtos_feitos": 1,
-  "respostas": 51,
+  "respostas": 56,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
    "17964872100196416": 6,
    "18131002286503625": 8,
    "18094598612441203": 1,
-   "17970535233152991": 15
+   "17970535233152991": 19,
+   "17987399961082313": 1
   }
  },
  "posts": [
@@ -916,7 +917,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T13:07:09.456407-04:00",
+   "viral_chk": "2026-10-12T13:37:08.761084-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -979,7 +980,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T13:07:09.456407-04:00",
+   "viral_chk": "2026-10-12T13:37:08.761084-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1039,7 +1040,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T13:07:09.456407-04:00"
+   "viral_chk": "2026-10-12T13:37:08.761084-04:00"
   },
   {
    "id": "18131002286503625",
@@ -1048,7 +1049,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T13:07:09.456407-04:00"
+   "viral_chk": "2026-10-12T13:37:08.761084-04:00"
   },
   {
    "id": "18094598612441203",
@@ -1086,7 +1087,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-12T12:37:08.748031-04:00"
+   "viral_chk": "2026-10-12T13:37:08.761084-04:00"
   }
  ],
  "respondidos": [
@@ -2654,7 +2655,14 @@
   "18116606071800110",
   "18115447787078227",
   "18114234002464516",
-  "18115375988044659"
+  "18115375988044659",
+  "17972897517168785",
+  "18126884797879125",
+  "18029215559911060",
+  "18168154468474660",
+  "18125174620681400",
+  "18145341259573719",
+  "18030332411855895"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3014,7 +3022,7 @@
   "3c0b97a40f": 1,
   "a41a9c1b5e": 1,
   "eb8e874c87": 1,
-  "795b685015": 1,
+  "795b685015": 2,
   "db407d487e": 1,
   "5566b3a5f0": 1,
   "bec458e8f2": 1,
@@ -3033,35 +3041,14 @@
   "9d6f20c319": 1,
   "b75f92e118": 1,
   "8c94f24c86": 1,
-  "e127fb3499": 1
+  "e127fb3499": 1,
+  "bb58ba6a7e": 1,
+  "f899484891": 1,
+  "caac807f2a": 1,
+  "2e70fe371a": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "teoria do dedo gordo faz todo sentido, o pavor de atender número desconhecido só cresce kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "urgencia assusta mas pelo menos tem motivo justo kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "horário comercial até vai, mas ligar tarde é pedir pra cair direto na ansiedade kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quando é urgência real a gente até entende, o problema é descobrir isso só depois que o telefone começa a tocar",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "depende muito de quem está do outro lado da linha",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "ver tocando e fingir que não viu e esporte nacional",
    "p": "ressalva",
@@ -3185,6 +3172,31 @@
   {
    "t": "esse jogo de cintura leve deixa tudo mais natural na hora de decidir",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "aumentar o som é a manutenção preventiva que cabe no bolso kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "estratégia de defesa válida pra cortar o papo antes de virar novela kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "argumento forte esse no final kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "jeito prático de resolver isso logo e curtir o rolê",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a sinceridade veio direto sem rodeios",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -3723,10 +3735,6 @@
   }
  ],
  "aberturas_post": {
-  "18124736575742625": [
-   "quanto antes a",
-   "a maturidade traz"
-  ],
   "18130387291689226": [
    "queria ter essa",
    "pitadinha leve na",
@@ -4026,7 +4034,14 @@
    "ler o clima",
    "regra classica e",
    "depende de quem",
-   "esse jogo de"
+   "esse jogo de",
+   "estrategia de defesa",
+   "argumento forte esse",
+   "jeito pratico de",
+   "pelo menos a"
+  ],
+  "17987399961082313": [
+   "aumentar o som"
   ]
  },
  "shopee_checada": "2026-10-12|1",
