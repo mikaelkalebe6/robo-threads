@@ -28,13 +28,14 @@
    "11:31"
   ],
   "produtos_feitos": 1,
-  "respostas": 34,
+  "respostas": 39,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
    "17964872100196416": 6,
    "18131002286503625": 6,
-   "18094598612441203": 1
+   "18094598612441203": 1,
+   "17970535233152991": 5
   }
  },
  "posts": [
@@ -931,7 +932,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T11:37:09.882940-04:00",
+   "viral_chk": "2026-10-12T12:07:08.758195-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -994,7 +995,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T11:37:09.882940-04:00",
+   "viral_chk": "2026-10-12T12:07:08.758195-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1054,7 +1055,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T11:37:09.882940-04:00"
+   "viral_chk": "2026-10-12T12:07:08.758195-04:00"
   },
   {
    "id": "18131002286503625",
@@ -1063,7 +1064,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T11:37:09.882940-04:00"
+   "viral_chk": "2026-10-12T12:07:08.758195-04:00"
   },
   {
    "id": "18094598612441203",
@@ -1092,7 +1093,7 @@
    "texto": "DÚVIDA SINCERA: Eu sempre puxo a carteira pra rachar no primeiro encontro, mas acho um charme quando a pessoa faz questão de pagar. Como vocês costumam fazer?",
    "quando": "2026-10-12T11:37:09.882940-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T11:37:09.882940-04:00"
+   "viral_chk": "2026-10-12T12:07:08.758195-04:00"
   }
  ],
  "respondidos": [
@@ -2643,7 +2644,12 @@
   "17931562266410872",
   "18646695496011930",
   "18053312126805290",
-  "18026056532856186"
+  "18026056532856186",
+  "17959257681251277",
+  "18154017772568577",
+  "18121394683938160",
+  "18161727157522883",
+  "18054895925811871"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3003,35 +3009,15 @@
   "eb8e874c87": 1,
   "795b685015": 1,
   "db407d487e": 1,
-  "5566b3a5f0": 1
+  "5566b3a5f0": 1,
+  "bec458e8f2": 1,
+  "23198a81a4": 1,
+  "f99b7e8326": 1,
+  "6704021994": 1,
+  "3664af9c8c": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "conforto é ótimo até o câmbio arrancar o tédio da viagem kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "inventar marcha no computador é apego disfarçado de tecnologia",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "trânsito caótico realmente testa a paciência de qualquer um kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "pior que o instinto de procurar a embreagem continua por anos kkk",
-   "p": "discorda",
-   "r": 1
-  },
-  {
-   "t": "no caos do transito diario realmente a história muda de figura",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "na cidade o automático virou questão de sobrevivência mesmo, mas na pista livre a história é outra",
    "p": "ressalva",
@@ -3156,6 +3142,31 @@
    "t": "quando a compra dá certo assim a gente até esquece os boletos",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "ostentação pura ou pura sobrevivência financeira",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "uma demonstração de carinho que já mostra muito sobre a pessoa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "praticidade pura, tira o peso da conta e cada um segue leve",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cada um tem seu jeito fofo de mostrar interesse",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia rápida pra não deixar ninguém passar constrangimento kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3693,10 +3704,6 @@
   }
  ],
  "aberturas_post": {
-  "18111330140174687": [
-   "verdade fica com",
-   "atalho util demais"
-  ],
   "18124736575742625": [
    "quanto antes a",
    "a maturidade traz"
@@ -3982,6 +3989,13 @@
   ],
   "18094598612441203": [
    "quando a compra"
+  ],
+  "17970535233152991": [
+   "ostentacao pura ou",
+   "uma demonstracao de",
+   "praticidade pura tira",
+   "cada um tem",
+   "estrategia rapida pra"
   ]
  },
  "shopee_checada": "2026-10-12|1",
