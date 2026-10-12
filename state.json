@@ -24,10 +24,11 @@
    "14:16",
    "15:29",
    "17:04",
-   "18:55"
+   "18:55",
+   "19:45"
   ],
-  "produtos_feitos": 2,
-  "respostas": 63,
+  "produtos_feitos": 3,
+  "respostas": 64,
   "por_post": {
    "17975559206935962": 20,
    "18179925583431899": 1,
@@ -39,27 +40,10 @@
    "18129449095879104": 18,
    "18125942191740363": 5,
    "17910962637513171": 9,
-   "18129285628827828": 4
+   "18129285628827828": 5
   }
  },
  "posts": [
-  {
-   "id": "18146079442603271",
-   "insp": "20c7cdebe0",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: já fingi estar no telefone só pra escapar do papo no elevador. 😅",
-   "quando": "2026-10-06T18:37:09.983750-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 732,
-    "likes": 9,
-    "replies": 25,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-11"
-   }
-  },
   {
    "id": "18115007600278222",
    "insp": "5a57ea2b34",
@@ -921,7 +905,7 @@
    "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
    "quando": "2026-10-10T20:07:09.151839-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T19:37:08.786844-04:00",
+   "viral_chk": "2026-10-11T20:07:09.089106-04:00",
    "metricas": {
     "views": 548,
     "likes": 21,
@@ -960,7 +944,7 @@
    "texto": "DÚVIDA SINCERA: salário alto num lugar que suga sua alma ou ganhar menos pra trabalhar em paz?",
    "quando": "2026-10-10T21:37:09.313934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T19:37:08.786844-04:00",
+   "viral_chk": "2026-10-11T20:07:09.089106-04:00",
    "metricas": {
     "views": 85,
     "likes": 0,
@@ -978,7 +962,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
    "quando": "2026-10-11T08:37:08.861815-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T19:37:08.786844-04:00"
+   "viral_chk": "2026-10-11T20:07:09.089106-04:00"
   },
   {
    "id": "18112767806335344",
@@ -1011,7 +995,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T19:37:08.786844-04:00"
+   "viral_chk": "2026-10-11T20:07:09.089106-04:00"
   },
   {
    "id": "18112326992130330",
@@ -1047,7 +1031,18 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T19:37:08.786844-04:00"
+   "viral_chk": "2026-10-11T20:07:09.089106-04:00"
+  },
+  {
+   "id": "17912118573538249",
+   "insp": "fio_fio-20261010-2",
+   "link": "",
+   "texto": "Todo motorista já passou por isso: o celular voa do painel na primeira lombada.",
+   "quando": "2026-10-11T20:07:09.089106-04:00",
+   "ia": "fio_literal",
+   "estrategia": "fio",
+   "formato": "fio",
+   "produto": "23993565028"
   }
  ],
  "respondidos": [
@@ -2544,7 +2539,8 @@
   "18031562231899806",
   "18095605352406464",
   "18145853995541627",
-  "18118216160061036"
+  "18118216160061036",
+  "17931071667166326"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2924,15 +2920,11 @@
   "1016b2723c": 1,
   "106e226ec5": 1,
   "e7102b50d0": 1,
-  "4ebf569f8e": 1
+  "4ebf569f8e": 1,
+  "5151e6849d": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "essa época pagava pouco mas exigia paciência em dobro kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "pode até ser mas com trinta a conta assusta um pouco mais kkkk",
    "p": "ressalva",
@@ -3077,6 +3069,11 @@
    "t": "essa lógica de metas deve aliviar a pressão mas na prática o caixa sente o golpe",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "tecnologia salva a gente justamente quando a memória falha kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3878,7 +3875,8 @@
    "memoria de elefante",
    "quem tem essa",
    "tecnologia otima mas",
-   "sensacao de vazio"
+   "sensacao de vazio",
+   "tecnologia salva a"
   ]
  },
  "shopee_checada": "2026-10-11|1",
@@ -4382,7 +4380,8 @@
   "18599696115": "2026-10-11T09:07:10.464629-04:00",
   "22393525887": "2026-10-11T12:07:09.276302-04:00",
   "58214462678": "2026-10-11T15:37:09.556759-04:00",
-  "58204067039": "2026-10-11T19:07:07.516757-04:00"
+  "58204067039": "2026-10-11T19:07:07.516757-04:00",
+  "23993565028": "2026-10-11T20:07:09.089106-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4494,6 +4493,7 @@
  "shopee_campanhas_api_data": "2026-10-10",
  "shopee_campanhas": [],
  "fios_usados": [
-  "fio-20261010-1"
+  "fio-20261010-1",
+  "fio-20261010-2"
  ]
 }
