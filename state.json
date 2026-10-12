@@ -29,7 +29,7 @@
    "21:41"
   ],
   "produtos_feitos": 3,
-  "respostas": 66,
+  "respostas": 72,
   "por_post": {
    "17975559206935962": 20,
    "18179925583431899": 1,
@@ -42,7 +42,8 @@
    "18125942191740363": 5,
    "17910962637513171": 9,
    "18129285628827828": 5,
-   "17912118573538249": 1
+   "17912118573538249": 1,
+   "18145752784569888": 6
   }
  },
  "posts": [
@@ -947,7 +948,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
    "quando": "2026-10-11T08:37:08.861815-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T22:07:07.905661-04:00"
+   "viral_chk": "2026-10-11T22:37:08.707044-04:00"
   },
   {
    "id": "18112767806335344",
@@ -980,7 +981,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T22:07:07.905661-04:00"
+   "viral_chk": "2026-10-11T22:37:08.707044-04:00"
   },
   {
    "id": "18112326992130330",
@@ -1016,7 +1017,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T22:07:07.905661-04:00"
+   "viral_chk": "2026-10-11T22:37:08.707044-04:00"
   },
   {
    "id": "17912118573538249",
@@ -1036,7 +1037,7 @@
    "texto": "OPINIÃO IMPOPULAR: carro automático tirou quase toda a graça de dirigir. Trocar marcha faz parte da conexão com o carro.",
    "quando": "2026-10-11T22:07:07.905661-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T22:07:07.905661-04:00"
+   "viral_chk": "2026-10-11T22:37:08.707044-04:00"
   }
  ],
  "respondidos": [
@@ -2536,7 +2537,13 @@
   "18118216160061036",
   "17931071667166326",
   "18113667575325531",
-  "17905082745349703"
+  "17905082745349703",
+  "18113524385113708",
+  "18105651452202406",
+  "18338793706279523",
+  "18095243645655750",
+  "17873243970650048",
+  "18092782823676806"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2921,40 +2928,16 @@
   "4ebf569f8e": 1,
   "5151e6849d": 1,
   "bfed79d4b3": 1,
-  "be837baf3d": 1
+  "be837baf3d": 1,
+  "d77d8066ee": 1,
+  "15dae75f14": 1,
+  "69b2115114": 1,
+  "032a38c2bd": 1,
+  "fb8aff9dc6": 1,
+  "2e5d355b9d": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "trabalhar cedo as vezes traz uma leveza q a gente perde depois",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "poder de compra daquela epoca virou lenda urbana",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse aí deve vir com prestação vitalícia inclusa kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa faixa aí já vinha com o boleto embutido pra assustar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa quantia com toda essa carga de trabalho pesada deixa qualquer um traumatizado",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "valor acima da media para começar, dava para respirar um pouco mais no fim do mês",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "beneficio nessa epoca já ajudava a salvar o mês",
    "p": "concorda",
@@ -3074,6 +3057,36 @@
    "t": "10k por semana da pra comprar meio quilo de carne e um cafezinho kkkkkkkk",
    "p": "concorda",
    "r": 3
+  },
+  {
+   "t": "preguiça gourmet que chama né",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cada um se diverte do jeito que prefere",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "justo, a preguiça de pisar na embreagem no trânsito pesado vence qualquer apego mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "ronco do motor muda tudo mesmo, parece que o carro tem personalidade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "no manual a pessoa vive perigosamente achando que está num rally",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "modo sport tenta disfarçar mas o pé direito continua sentindo falta do pedal da embreagem",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3595,14 +3608,6 @@
   }
  ],
  "aberturas_post": {
-  "18116932673061251": [
-   "justo tem modelo",
-   "integrante oficial do",
-   "aquele modelo quadrado",
-   "o logan quadrado",
-   "pelo menos o",
-   "pior que tem"
-  ],
   "17986227470881809": [
    "sorte de quem",
    "essa regra do",
@@ -3877,6 +3882,14 @@
   ],
   "17912118573538249": [
    "curva fechada e"
+  ],
+  "18145752784569888": [
+   "preguica gourmet que",
+   "cada um se",
+   "justo a preguica",
+   "ronco do motor",
+   "no manual a",
+   "modo sport tenta"
   ]
  },
  "shopee_checada": "2026-10-11|1",
