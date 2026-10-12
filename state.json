@@ -30,7 +30,8 @@
    "13:38",
    "14:49",
    "16:00",
-   "16:58"
+   "16:58",
+   "19:08"
   ],
   "produtos_feitos": 1,
   "respostas": 82,
@@ -46,23 +47,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18118205002998533",
-   "insp": "8b38fc3868",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: com mais de trinta anos nas costas, qual foi a primeira vez que você teve que dar o braço a torcer pro seu pai? Aqui demorou, mas aconteceu",
-   "quando": "2026-10-07T14:37:11.515401-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 503,
-    "likes": 2,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-12"
-   }
-  },
   {
    "id": "18160752547502938",
    "insp": "dd26d54eba",
@@ -977,7 +961,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T19:07:08.855043-04:00"
+   "viral_chk": "2026-10-12T19:37:08.353606-04:00"
   },
   {
    "id": "18131002286503625",
@@ -986,7 +970,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T19:07:08.855043-04:00"
+   "viral_chk": "2026-10-12T19:37:08.353606-04:00"
   },
   {
    "id": "18094598612441203",
@@ -1029,7 +1013,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-12T19:07:08.855043-04:00"
+   "viral_chk": "2026-10-12T19:37:08.353606-04:00"
   },
   {
    "id": "18023520131925356",
@@ -1038,7 +1022,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T19:07:08.855043-04:00"
+   "viral_chk": "2026-10-12T19:37:08.353606-04:00"
   },
   {
    "id": "18030130718689115",
@@ -1062,7 +1046,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T19:07:08.855043-04:00"
+   "viral_chk": "2026-10-12T19:37:08.353606-04:00"
   },
   {
    "id": "18125513068915632",
@@ -1076,6 +1060,15 @@
    "meme_views": 1676,
    "formato_link": "coment",
    "produto": "58262137609"
+  },
+  {
+   "id": "18094079654172410",
+   "insp": "f784c8426a",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
+   "quando": "2026-10-12T19:37:08.353606-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-12T19:37:08.353606-04:00"
   }
  ],
  "respondidos": [
@@ -2842,7 +2835,8 @@
   "6223233793dfef75265a7b4d4b16641b",
   "85d593e73ec0e5fe1adc51ab20c11783",
   "b21d96621605970f759f8e1a7252a7b4",
-  "0fb1343460a7d60f67dab3d00d208813"
+  "0fb1343460a7d60f67dab3d00d208813",
+  "4ae0e33b8d1c5342f01b72573a74caff"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3007,7 +3001,8 @@
   "e38b1c2eb7": 1791823039.377196,
   "ca1265befe": 1791828457.4636238,
   "e55cc2488b": 1791835650.942528,
-  "834ef38ad5": 1791839248.1884155
+  "834ef38ad5": 1791839248.1884155,
+  "f784c8426a": 1791848298.238251
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
