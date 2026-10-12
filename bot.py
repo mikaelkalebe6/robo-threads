@@ -102,7 +102,6 @@ PADRAO = {
     # palavras proibidas no nome do produto (saude/medicamento e itens fora do publico); vale na hora do uso
     "SHOPEE_PROIBIDOS": "seringa,agulha,insulina,remedio,medicamento,farmacia,legging,calcinha,sutia,lingerie,bijuteria,micanga,hama beads,unha,esmalte,cilios,maquiagem,absorvente",
     # fio sem foto na fila: chance de o robo colocar a foto do produto na parte do link (fio as vezes com foto)
-    "CHANCE_FOTO_FIO": "0.33",
     # produto sorteado entre os N melhores do dia; vendas da Shopee (conversionReport) dos ultimos N dias
     "SHOPEE_TOP_SORTEIO": "5", "SHOPEE_VENDAS_DIAS": "7",
     # campanhas da Shopee (10.10, 11.11...) escolhidas pelo Claude em campanhas/campanhas.json: 1 usa, 0 ignora
@@ -856,8 +855,17 @@ Responda so em JSON: {{"objetivo_do_post": "...", "intencao": "...", "emocao": "
     return d
 
 
-FRASES_LINK = ["Aqui o link 👉 {l}", "Link: {l}", "Tá aqui ó: {l}", "Link do achado: {l}", "Esse aqui 👉 {l}", "Pega aqui: {l}"]
-FRASES_LINK_PROPRIO = ["Link aqui 👇 {l}", "Pra quem pediu o link: {l}", "Link do produto: {l}", "{l}"]
+FRASES_LINK = ["Aqui o link", "Tá aqui ó", "Link do achado", "Esse aqui", "Pega aqui"]
+FRASES_LINK_PROPRIO = ["Link aqui", "Pra quem pediu o link, é esse", "Link do produto", ""]
+# link em comentario sai no meio da frase: "frase link... fecho", sem foto (decisao do dono, 12/10/2026)
+FECHOS_LINK = ["depois me conta", "vê se te serve", "dá uma olhada com calma", "salva aí pra não perder",
+               "tem gente que nem sabia que existia", "vale a pena dar uma olhada", "me agradece depois"]
+
+
+def texto_link(frase, link):
+    """Monta o comentario com link no formato do perfil: "frase link... fecho" (sem setinha nem dois pontos antes do link)."""
+    frase = (frase or "").strip().rstrip(" :👇👉⬇\ufe0f").strip()
+    return f"{frase} {link}... {random.choice(FECHOS_LINK)}" if frase else f"{link}... {random.choice(FECHOS_LINK)}"
 # texto com link de afiliado sai sempre com #publi discreto no fim (decisao do dono, 10/10/2026)
 _LINK_AFILIADO = re.compile(r"(shopee\.com|s\.shopee|shope\.ee|amzn\.to|amazon\.com\.br|mercadolivre\.com|meli\.la)", re.I)
 
@@ -1085,7 +1093,7 @@ def frase_produto(nome, campanha=""):
     prompt = f"""{PERSONA_RESPOSTA}
 
 Escreva uma frase curtissima e natural (no maximo 80 caracteres) em portugues sobre o produto "{nome}".
-A frase vai junto com a foto do produto e um link. Pode ser reacao curta, elogio simples ou poucas palavras.{extra}
+A frase vai logo antes do link (formato: "frase link... fecho"). Pode ser reacao curta, elogio simples ou poucas palavras.{extra}
 Regras: no maximo 80 caracteres; sem travessoes; sem links; sem @; tom natural de amiga; sem emoji."""
     try:
         frase = limpar_resposta(ia(prompt, modelos_gemini=[GEMINI_MODEL_RESPOSTA]) or "")
@@ -1099,8 +1107,8 @@ Regras: no maximo 80 caracteres; sem travessoes; sem links; sem @; tom natural d
     return f"{frase} {carinha}" if modo == "ambos" else frase
 
 
-def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfoto", frase=None, com_foto=True):
-    """Comenta no post com foto do produto + frase curta + link de afiliado com subIds.
+def comentar_produto(s, pid, produto, estrategia, agora=None, formato="coment", frase=None):
+    """Comenta no post: frase curta + link de afiliado com subIds no formato "frase link... fecho", SEM foto.
     Qualquer falha (Shopee, IA, Meta) so vira log e devolve None: nunca derruba a rodada."""
     agora = agora or dt.datetime.now(TZ)
     try:
@@ -1116,14 +1124,14 @@ def comentar_produto(s, pid, produto, estrategia, agora=None, formato="comentfot
             log("Comentario de produto sem link. Nada publicado.")
             return None
         frase = limpar_resposta(frase) if frase else frase_produto(produto.get("nome", "produto"), produto.get("campanha", ""))
-        texto = com_publi(f"{frase}\n{link}" if frase else link)
-        cid = publicar(texto, foto=(produto.get("imageUrl") or None) if com_foto else None, responder_a=pid)
+        texto = com_publi(texto_link(frase, link))
+        cid = publicar(texto, responder_a=pid)
         s.setdefault("shopee_usados", {})[str(produto.get("itemId", ""))] = agora.isoformat()
         s.setdefault("minhas_respostas", {})[cid] = {"t": "(link produto)", "c": "", "q": agora.isoformat()}
         log(f"Comentario de produto publicado ({estrategia}): {cid}")
         return cid
     except Exception as e:
-        log(f"Foto recusada ou erro ao comentar produto ({estrategia}):", str(e)[:200])
+        log(f"Erro ao comentar produto ({estrategia}):", str(e)[:200])
         return None
 
 
@@ -1280,7 +1288,7 @@ def postar_video_app(s, p, h, agora):
            "ia": _QUEM[0], "formato": "video" if len(midias) == 1 else "videofoto"}
     if prod:
         p["produtos_feitos"] = p.get("produtos_feitos", 0) + 1
-        reg.update({"estrategia": "produto_video", "formato_link": "respsemfoto", "produto": prod["itemId"],
+        reg.update({"estrategia": "produto_video", "formato_link": "resp", "produto": prod["itemId"],
                     "link_pendente": True, "modo_produto": modo,
                     "prod_dados": {**prod, "nome": prod["nome"][:80], "modo": modo}})
     else:
@@ -1290,12 +1298,12 @@ def postar_video_app(s, p, h, agora):
     return True
 
 
-FRASES_LINK_ACHADINHO = ["Isso aqui fez toda a diferença 🥰", "Pra quem perguntou, é esse aqui 👇", "Achei aqui 👇",
-                         "O que eu usei foi esse 👇", "Tá aqui pra quem quiser 👇"]
-FRASES_LINK_PARECIDO = ["Olha gente, achei um parecido aqui 👇", "Achei um bem parecido, ó 👇", "Pra quem quer, achei um igualzinho aqui 👇",
-                        "Fui atrás e achei um parecido 👇", "Não achei o mesmo, mas esse aqui é bem parecido 👇"]
-FRASES_LINK_TEMA = ["Falando nisso, olha o que eu achei 👇", "Isso me lembrou desse achado aqui 👇", "Tem tudo a ver com isso aqui 😂👇",
-                    "Quem se identificou vai querer isso 👇"]
+FRASES_LINK_ACHADINHO = ["Isso aqui fez toda a diferença 🥰", "Pra quem perguntou, é esse aqui", "Achei aqui",
+                         "O que eu usei foi esse", "Tá aqui pra quem quiser"]
+FRASES_LINK_PARECIDO = ["Olha gente, achei um parecido aqui", "Achei um bem parecido, ó", "Pra quem quer, achei um igualzinho aqui",
+                        "Fui atrás e achei um parecido", "Não achei o mesmo, mas esse aqui é bem parecido"]
+FRASES_LINK_TEMA = ["Falando nisso, olha o que eu achei", "Isso me lembrou desse achado aqui", "Tem tudo a ver com isso aqui 😂",
+                    "Quem se identificou vai querer isso"]
 
 
 def tarefa_link_achadinho(s, agora):
@@ -1328,9 +1336,9 @@ def tarefa_link_achadinho(s, agora):
             continue
         motivo = f"{views} views" if idade < horas else f"{idade:.0f}h depois"
         log(f"Achadinho: link do post {p['id']} ({motivo}).")
-        res = comentar_produto(s, p["id"], prod, "produtofoto", agora, formato="respsemfoto",
+        res = comentar_produto(s, p["id"], prod, "produtofoto", agora, formato="resp",
                                frase=random.choice({"parecido": FRASES_LINK_PARECIDO, "tema": FRASES_LINK_TEMA}.get(
-                                   prod.get("modo"), FRASES_LINK_ACHADINHO)), com_foto=False)
+                                   prod.get("modo"), FRASES_LINK_ACHADINHO)))
         p["link_pendente"] = False
         p["link_em"] = agora.isoformat()
         p["link_views"] = views
@@ -1420,7 +1428,7 @@ def tarefa_estrategia_meme(s, agora):
             res = comentar_produto(s, pid, prod, "meme" if p.get("estrategia") == "meme" else "viral", agora)
             p["meme_comentado"] = True
             p["meme_views"] = views
-            p["formato_link"] = "comentfoto"
+            p["formato_link"] = "coment"
             p["produto"] = prod.get("itemId")
             if res:
                 s["meme_links_dia"]["qtd"] += 1
@@ -1470,20 +1478,14 @@ def publicar_fio(s, agora):
     partes = fio_escolhido.get("partes", [])
     ultimo_id = None
     primeiro_id = None
-    # fio as vezes com foto: se o fio nao pediu foto, sorteia colocar a do produto na parte do link
-    if not any(pt.get("midia") == "produto" for pt in partes) and random.random() < float(cfg("CHANCE_FOTO_FIO")):
-        for pt in partes:
-            if pt.get("link"):
-                pt["midia"] = "produto"
-                break
-
     for idx, parte in enumerate(partes):
         texto = parte.get("texto", "")
         midia = parte.get("midia", "nenhuma")
         tem_link = bool(parte.get("link"))
 
         foto_url = None
-        if midia == "produto" and prod_fio.get("imageUrl"):
+        # parte com link que e resposta (comentario) sai sem foto do produto (decisao do dono, 12/10/2026)
+        if midia == "produto" and prod_fio.get("imageUrl") and not (tem_link and idx > 0):
             foto_url = prod_fio.get("imageUrl")
 
         if tem_link and prod_fio.get("offerLink"):
@@ -1494,7 +1496,7 @@ def publicar_fio(s, agora):
                 link = ""
             if not link:
                 link = prod_fio.get("offerLink")
-            texto = com_publi(f"{texto}\n\n{link}" if texto else link)
+            texto = com_publi(texto_link(texto, link))
 
         if idx > 0:
             time.sleep(random.randint(*PAUSA_RESP))
@@ -1688,7 +1690,7 @@ def postar_carrossel(s, agora):
     s.setdefault("posts", []).append({
         "id": pid, "insp": f"car_{c['id']}", "link": "", "texto": (c["slides"][0].get("texto") or texto)[:300],
         "quando": agora.isoformat(), "ia": "carrossel", "estrategia": "carrossel", "formato": "carrossel",
-        "formato_link": "comentfoto", "produto": prod.get("itemId"), "modelo": c.get("modelo", ""), "visual": visual})
+        "formato_link": "coment", "produto": prod.get("itemId"), "modelo": c.get("modelo", ""), "visual": visual})
     salvar_estado(s)
     if prod.get("offerLink"):
         time.sleep(random.randint(*ATRASO_LINK))
@@ -1746,7 +1748,7 @@ def postar_produto(s, p, h, agora):
         s.setdefault("posts", []).append({
             "id": pid_prod, "insp": f"prod_{prod.get('itemId')}", "link": "", "texto": txt_prod[:300],
             "quando": agora.isoformat(), "ia": _QUEM[0], "estrategia": "produto_foto", "formato": "postfoto",
-            "formato_link": "respsemfoto", "produto": prod.get("itemId"), "link_pendente": True,
+            "formato_link": "resp", "produto": prod.get("itemId"), "link_pendente": True,
             "prod_dados": {k: prod.get(k, "") for k in ("itemId", "nome", "offerLink", "imageUrl", "campanha")}})
         salvar_estado(s)
         return True
@@ -1813,7 +1815,7 @@ def tarefa_postar(s, agora):
 
     if tem_link and not link_no_post:
         time.sleep(random.randint(*ATRASO_LINK))
-        lid = publicar(com_publi(random.choice(FRASES_LINK_PROPRIO).format(l=insp["link"])), responder_a=pid)
+        lid = publicar(com_publi(texto_link(random.choice(FRASES_LINK_PROPRIO), insp["link"])), responder_a=pid)
         s.setdefault("minhas_respostas", {})[lid] = {"t": "(link)", "c": "", "q": agora.isoformat()}
         log("Link colocado no primeiro comentario.")
 
@@ -2295,7 +2297,7 @@ def tarefa_responder(s, agora):
         no_lote.add(chave)
         txt = d["texto"]
         if d.get("mandar_link") and post.get("link"):
-            txt = f"{txt}\n{random.choice(FRASES_LINK).format(l=post['link'])}"
+            txt = f"{txt}\n{texto_link(random.choice(FRASES_LINK), post['link'])}"
         try:
             cid = criar_resposta(txt, c["id"])
         except Exception as e:

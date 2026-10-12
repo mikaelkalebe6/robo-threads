@@ -30,7 +30,6 @@ jobs:
           SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
           MIDIA_TOKEN: ${{ secrets.MIDIA_PAT }}  # token proprio, so Contents no repositorio de imagens (sem ele o carrossel e pulado)
           SHOPEE_LIGADO: ${{ vars.SHOPEE_LIGADO }}
-          CHANCE_FOTO_FIO: ${{ vars.CHANCE_FOTO_FIO }}
           ESTRATEGIA_FIO: ${{ vars.ESTRATEGIA_FIO }}
           ESTRATEGIA_MEME: ${{ vars.ESTRATEGIA_MEME }}
           MEME_CHECAGENS_POR_RODADA: ${{ vars.MEME_CHECAGENS_POR_RODADA }}
