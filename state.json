@@ -29,7 +29,8 @@
    "12:35",
    "13:38",
    "14:49",
-   "16:00"
+   "16:00",
+   "16:58"
   ],
   "produtos_feitos": 1,
   "respostas": 62,
@@ -44,23 +45,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18375624967238237",
-   "insp": "e9173b96df",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: quanto tempo de conversa até marcar o primeiro encontro?  \nQuem mais já ficou contando os dias?",
-   "quando": "2026-10-07T13:37:11.642567-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 10605,
-    "likes": 68,
-    "replies": 83,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-12"
-   }
-  },
   {
    "id": "18118205002998533",
    "insp": "8b38fc3868",
@@ -932,7 +916,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T16:37:08.909254-04:00",
+   "viral_chk": "2026-10-12T17:07:10.304706-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -992,7 +976,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T16:37:08.909254-04:00"
+   "viral_chk": "2026-10-12T17:07:10.304706-04:00"
   },
   {
    "id": "18131002286503625",
@@ -1063,7 +1047,7 @@
    "ia": "Gemini gemini-flash-latest",
    "formato": "videofoto",
    "estrategia": "meme",
-   "viral_chk": "2026-10-12T16:07:09.469852-04:00"
+   "viral_chk": "2026-10-12T17:07:10.304706-04:00"
   },
   {
    "id": "18368554072244525",
@@ -1072,7 +1056,16 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T16:07:09.469852-04:00"
+   "viral_chk": "2026-10-12T17:07:10.304706-04:00"
+  },
+  {
+   "id": "18125513068915632",
+   "insp": "834ef38ad5",
+   "link": "",
+   "texto": "Todo mundo tem aquele carro que nunca deveria ter vendido. Qual foi o seu?",
+   "quando": "2026-10-12T17:07:10.304706-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-12T17:07:10.304706-04:00"
   }
  ],
  "respondidos": [
@@ -2817,7 +2810,8 @@
   "b4f6bc752f1585e340766a61615f53f1",
   "6223233793dfef75265a7b4d4b16641b",
   "85d593e73ec0e5fe1adc51ab20c11783",
-  "b21d96621605970f759f8e1a7252a7b4"
+  "b21d96621605970f759f8e1a7252a7b4",
+  "0fb1343460a7d60f67dab3d00d208813"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2981,7 +2975,8 @@
   "1025b0cd16": 1791819454.3798175,
   "e38b1c2eb7": 1791823039.377196,
   "ca1265befe": 1791828457.4636238,
-  "e55cc2488b": 1791835650.942528
+  "e55cc2488b": 1791835650.942528,
+  "834ef38ad5": 1791839248.1884155
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
