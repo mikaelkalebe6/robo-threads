@@ -1216,7 +1216,9 @@ def produto_mesmo_do_video(s, v, agora):
     Nunca usa o link da linha. Devolve (produto ou None, termos para buscar parecido, tinha_link)."""
     link = v.get("link", "")
     if not re.search(r"shopee|shope\.ee", link, re.I):
-        return None, [], False
+        # link de outra loja (Mercado Livre, Amazon...) conta como "tinha produto": vai pelo parecido na Shopee
+        outro = bool(re.match(r"https?://", link, re.I)) and not re.search(r"threads\.(com|net)|instagram\.com", link, re.I)
+        return None, [], outro
     try:
         import shopee
         if not shopee.configurada():
