@@ -25,7 +25,8 @@
    "15:29",
    "17:04",
    "18:55",
-   "19:45"
+   "19:45",
+   "21:41"
   ],
   "produtos_feitos": 3,
   "respostas": 66,
@@ -45,23 +46,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18115007600278222",
-   "insp": "5a57ea2b34",
-   "link": "",
-   "texto": "Parei de tentar justificar minha falta de vontade de sair de casa e ganhei dez anos de paz mental.",
-   "quando": "2026-10-06T19:37:08.555066-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 402,
-    "likes": 3,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-11"
-   }
-  },
   {
    "id": "18117333691945990",
    "insp": "017f3ae860",
@@ -963,7 +947,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
    "quando": "2026-10-11T08:37:08.861815-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T21:37:08.730525-04:00"
+   "viral_chk": "2026-10-11T22:07:07.905661-04:00"
   },
   {
    "id": "18112767806335344",
@@ -996,7 +980,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T21:37:08.730525-04:00"
+   "viral_chk": "2026-10-11T22:07:07.905661-04:00"
   },
   {
    "id": "18112326992130330",
@@ -1032,7 +1016,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T21:37:08.730525-04:00"
+   "viral_chk": "2026-10-11T22:07:07.905661-04:00"
   },
   {
    "id": "17912118573538249",
@@ -1044,6 +1028,15 @@
    "estrategia": "fio",
    "formato": "fio",
    "produto": "23993565028"
+  },
+  {
+   "id": "18145752784569888",
+   "insp": "654bef73ca",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: carro automático tirou quase toda a graça de dirigir. Trocar marcha faz parte da conexão com o carro.",
+   "quando": "2026-10-11T22:07:07.905661-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-11T22:07:07.905661-04:00"
   }
  ],
  "respondidos": [
@@ -2700,7 +2693,8 @@
   "ed5ad2e3f5a6e43cedd727a2e024e90e",
   "4af0b3e6fd3837af21dc957b6d133987",
   "9988adbd9102adddb26695b2fc37e4a2",
-  "790f469eeb81418de5552d0c8d9c1c56"
+  "790f469eeb81418de5552d0c8d9c1c56",
+  "0b83b2200cab6e3998050fb8bfe61a4b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2857,7 +2851,8 @@
   "eb6c939e24": 1791727694.1486886,
   "d9cd77c4a6": 1791743849.964815,
   "f0670ff0d7": 1791752839.976383,
-  "5ffe3dfd2e": 1791760046.8847692
+  "5ffe3dfd2e": 1791760046.8847692,
+  "654bef73ca": 1791770867.2880807
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
