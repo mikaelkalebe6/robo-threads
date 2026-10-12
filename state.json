@@ -29,7 +29,7 @@
    "21:41"
   ],
   "produtos_feitos": 3,
-  "respostas": 72,
+  "respostas": 77,
   "por_post": {
    "17975559206935962": 20,
    "18179925583431899": 1,
@@ -39,11 +39,11 @@
    "17894365761611421": 1,
    "18112767806335344": 1,
    "18129449095879104": 19,
-   "18125942191740363": 5,
+   "18125942191740363": 6,
    "17910962637513171": 9,
-   "18129285628827828": 5,
+   "18129285628827828": 6,
    "17912118573538249": 1,
-   "18145752784569888": 6
+   "18145752784569888": 9
   }
  },
  "posts": [
@@ -948,7 +948,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
    "quando": "2026-10-11T08:37:08.861815-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T22:37:08.707044-04:00"
+   "viral_chk": "2026-10-11T23:07:08.967006-04:00"
   },
   {
    "id": "18112767806335344",
@@ -981,7 +981,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T22:37:08.707044-04:00"
+   "viral_chk": "2026-10-11T23:07:08.967006-04:00"
   },
   {
    "id": "18112326992130330",
@@ -1017,7 +1017,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T22:37:08.707044-04:00"
+   "viral_chk": "2026-10-11T23:07:08.967006-04:00"
   },
   {
    "id": "17912118573538249",
@@ -1037,7 +1037,11 @@
    "texto": "OPINIÃO IMPOPULAR: carro automático tirou quase toda a graça de dirigir. Trocar marcha faz parte da conexão com o carro.",
    "quando": "2026-10-11T22:07:07.905661-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T22:37:08.707044-04:00"
+   "viral_chk": "2026-10-11T23:07:08.967006-04:00",
+   "meme_comentado": true,
+   "meme_views": 1928,
+   "formato_link": "comentfoto",
+   "produto": "21898099575"
   }
  ],
  "respondidos": [
@@ -2543,7 +2547,12 @@
   "18338793706279523",
   "18095243645655750",
   "17873243970650048",
-  "18092782823676806"
+  "18092782823676806",
+  "18194169193402251",
+  "18118751989982926",
+  "17975098023138455",
+  "18127907170856373",
+  "18128160130883325"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2929,40 +2938,19 @@
   "5151e6849d": 1,
   "bfed79d4b3": 1,
   "be837baf3d": 1,
-  "d77d8066ee": 1,
+  "d77d8066ee": 2,
   "15dae75f14": 1,
   "69b2115114": 1,
   "032a38c2bd": 1,
   "fb8aff9dc6": 1,
-  "2e5d355b9d": 1
+  "2e5d355b9d": 1,
+  "8d9686f5b1": 1,
+  "5d75497ecc": 1,
+  "a7e1e8572d": 1,
+  "3be42e5bf0": 1
  },
  "reservas_checadas": "2026-10-11",
  "ultimas_respostas": [
-  {
-   "t": "beneficio nessa epoca já ajudava a salvar o mês",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cada escolha uma surpresa diferente no caminho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse posto aí pelo menos garante um visual clássico enquanto o motor desliga sozinho kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "argumento impecável, mudou minha vida inteira",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "se o nível do atendimento for esse o waze perde espaço na hora kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "perigo real e oficial de ir parar em outra dimensao kkkkkk",
    "p": "concorda",
@@ -3087,6 +3075,31 @@
    "t": "modo sport tenta disfarçar mas o pé direito continua sentindo falta do pedal da embreagem",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "jeito moderno de burlar a própria memória kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pior q é bem isso, o frentista já fica perdido junto kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "conforto em viagem longa realmente ganha de qualquer apego",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "com essa vista aberta aí o pedal nem faz falta kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "praticidade ganha a discussão mas o tédio no trânsito pesado cobra o preço kkk",
+   "p": "discorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3169,6 +3182,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-11T19:07:07.516757-04:00"
+  },
+  "18084163532699736": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-11T23:07:08.967006-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -3860,7 +3878,8 @@
    "esse posto ai",
    "se o nivel",
    "perigo real e",
-   "estrategia infalivel para"
+   "estrategia infalivel para",
+   "pior q e"
   ],
   "17910962637513171": [
    "imagina o desespero",
@@ -3878,7 +3897,8 @@
    "quem tem essa",
    "tecnologia otima mas",
    "sensacao de vazio",
-   "tecnologia salva a"
+   "tecnologia salva a",
+   "jeito moderno de"
   ],
   "17912118573538249": [
    "curva fechada e"
@@ -3889,7 +3909,10 @@
    "justo a preguica",
    "ronco do motor",
    "no manual a",
-   "modo sport tenta"
+   "modo sport tenta",
+   "conforto em viagem",
+   "com essa vista",
+   "praticidade ganha a"
   ]
  },
  "shopee_checada": "2026-10-11|1",
@@ -4394,7 +4417,8 @@
   "22393525887": "2026-10-11T12:07:09.276302-04:00",
   "58214462678": "2026-10-11T15:37:09.556759-04:00",
   "58204067039": "2026-10-11T19:07:07.516757-04:00",
-  "23993565028": "2026-10-11T20:07:09.089106-04:00"
+  "23993565028": "2026-10-11T20:07:09.089106-04:00",
+  "21898099575": "2026-10-11T23:07:08.967006-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4404,7 +4428,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-11",
-  "qtd": 2
+  "qtd": 3
  },
  "carrosseis_usados": [
   "car-20261010-1",
