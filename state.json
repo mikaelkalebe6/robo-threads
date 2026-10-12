@@ -25,10 +25,11 @@
    "08:27"
   ],
   "produtos_feitos": 0,
-  "respostas": 21,
+  "respostas": 26,
   "por_post": {
    "18145752784569888": 20,
-   "17894365761611421": 1
+   "17894365761611421": 1,
+   "17964872100196416": 5
   }
  },
  "posts": [
@@ -976,7 +977,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T08:37:08.914382-04:00",
+   "viral_chk": "2026-10-12T09:07:08.372226-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -1039,7 +1040,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T08:37:08.914382-04:00",
+   "viral_chk": "2026-10-12T09:07:08.372226-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1099,7 +1100,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T08:37:08.914382-04:00"
+   "viral_chk": "2026-10-12T09:07:08.372226-04:00"
   }
  ],
  "respondidos": [
@@ -2637,7 +2638,12 @@
   "18141375055721893",
   "17982238001907811",
   "17994794739024660",
-  "17978844257918521"
+  "17978844257918521",
+  "18103094348233099",
+  "17988842889080308",
+  "18007779509992326",
+  "18023190953712921",
+  "18488295307128464"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2980,35 +2986,15 @@
   "0e2e59df3e": 1,
   "c671d7ae80": 1,
   "3581b5fb50": 1,
-  "5de8e86af1": 1
+  "5de8e86af1": 1,
+  "ac1540f388": 1,
+  "5bd7d5d908": 1,
+  "7ec5552b33": 1,
+  "18dcd0cbc5": 1,
+  "9909a9100e": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "conforto em viagem longa realmente ganha de qualquer apego",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "com essa vista aberta aí o pedal nem faz falta kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "praticidade ganha a discussão mas o tédio no trânsito pesado cobra o preço kkk",
-   "p": "discorda",
-   "r": 1
-  },
-  {
-   "t": "trânsito pesado faz qualquer um repensar as escolhas da vida",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "shopee nem entrega essa nostalgia toda",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "vida fácil demais as vezes tira toda a graca da dirigida",
    "p": "discorda",
@@ -3133,6 +3119,31 @@
    "t": "estrada longa com curvas pede mesmo essa leitura fina que o sistema não faz sozinho kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "teoria do dedo gordo faz todo sentido, o pavor de atender número desconhecido só cresce kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "urgencia assusta mas pelo menos tem motivo justo kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "horário comercial até vai, mas ligar tarde é pedir pra cair direto na ansiedade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quando é urgência real a gente até entende, o problema é descobrir isso só depois que o telefone começa a tocar",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "depende muito de quem está do outro lado da linha",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3670,12 +3681,6 @@
   }
  ],
  "aberturas_post": {
-  "17986227470881809": [
-   "sorte de quem",
-   "essa regra do",
-   "querendo patrocinar o",
-   "a gente aprende"
-  ],
   "18157552714458950": [
    "justo demais entao",
    "ciume de patrimonio",
@@ -3969,6 +3974,13 @@
    "saude vem sempre",
    "para pegar fila",
    "estrada longa com"
+  ],
+  "17964872100196416": [
+   "teoria do dedo",
+   "urgencia assusta mas",
+   "horario comercial ate",
+   "quando e urgencia",
+   "depende muito de"
   ]
  },
  "shopee_checada": "2026-10-12|1",
