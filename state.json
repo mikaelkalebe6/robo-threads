@@ -23,9 +23,9 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 18,
   "por_post": {
-   "18145752784569888": 11,
+   "18145752784569888": 17,
    "17894365761611421": 1
   }
  },
@@ -931,7 +931,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
    "quando": "2026-10-11T08:37:08.861815-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T07:37:09.628466-04:00",
+   "viral_chk": "2026-10-12T08:07:09.345469-04:00",
    "metricas": {
     "views": 346,
     "likes": 7,
@@ -991,7 +991,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T07:37:09.628466-04:00",
+   "viral_chk": "2026-10-12T08:07:09.345469-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -1054,7 +1054,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T07:37:09.628466-04:00",
+   "viral_chk": "2026-10-12T08:07:09.345469-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -2634,7 +2634,13 @@
   "18118622513092294",
   "18220559977352042",
   "17996467533013112",
-  "18092461085185867"
+  "18092461085185867",
+  "17907194298587046",
+  "18413657197089823",
+  "18116760274951110",
+  "18113524886465630",
+  "18152581357526742",
+  "18141375055721893"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2966,40 +2972,16 @@
   "d1fab5dd32": 1,
   "f572d04523": 1,
   "fc1c2e33ff": 1,
-  "6d2c70cf65": 1
+  "6d2c70cf65": 1,
+  "fcfd58316c": 1,
+  "e9b19ad8f8": 1,
+  "8b27c2e098": 1,
+  "4904db18a8": 1,
+  "1aa40203da": 1,
+  "0e2e59df3e": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "10k por semana da pra comprar meio quilo de carne e um cafezinho kkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "preguiça gourmet que chama né",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cada um se diverte do jeito que prefere",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "justo, a preguiça de pisar na embreagem no trânsito pesado vence qualquer apego mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "ronco do motor muda tudo mesmo, parece que o carro tem personalidade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "no manual a pessoa vive perigosamente achando que está num rally",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "modo sport tenta disfarçar mas o pé direito continua sentindo falta do pedal da embreagem",
    "p": "ressalva",
@@ -3118,6 +3100,36 @@
   {
    "t": "trabalhar com isso o dia inteiro muda a regra do jogo mesmo",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "up com marcha é tiro curto mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "anos de carteira não tiram o encargo de empurrar alavanca",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "na rotina de segunda a sexta o papo é outro mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "playlist boa salva qualquer trajeto longo mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "separar o carro de uso e o de fim de semana resolve o dilema",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "popular mas continua sendo a pura verdade",
+   "p": "discorda",
    "r": 0
   }
  ],
@@ -3935,12 +3947,6 @@
    "curva fechada e"
   ],
   "18145752784569888": [
-   "conforto em viagem",
-   "com essa vista",
-   "praticidade ganha a",
-   "transito pesado faz",
-   "shopee nem entrega",
-   "vida facil demais",
    "silencio de geladeira",
    "para o dia",
    "procurar o que",
@@ -3954,7 +3960,13 @@
    "no caos do",
    "na cidade o",
    "nessa fila ai",
-   "trabalhar com isso"
+   "trabalhar com isso",
+   "up com marcha",
+   "anos de carteira",
+   "na rotina de",
+   "playlist boa salva",
+   "separar o carro",
+   "popular mas continua"
   ]
  },
  "shopee_checada": "2026-10-12|1",
