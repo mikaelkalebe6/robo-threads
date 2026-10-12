@@ -867,6 +867,7 @@ FECHOS_LINK = ["depois me conta", "vê se te serve", "dá uma olhada com calma",
 def texto_link(frase, link):
     """Monta o comentario com link no meio da frase: "frase link fecho" (sem setinha, dois pontos nem reticencias)."""
     frase = (frase or "").strip().rstrip(" :👇👉⬇\ufe0f").strip()
+    link = f"<{link}>"  # TESTE do dono (12/10/2026): link entre < > para ver se some a caixa de previa do Threads
     return f"{frase} {link} {random.choice(FECHOS_LINK)}" if frase else f"{link} {random.choice(FECHOS_LINK)}"
 # texto com link de afiliado sai sempre com #publi discreto no fim (decisao do dono, 10/10/2026)
 _LINK_AFILIADO = re.compile(r"(shopee\.com|s\.shopee|shope\.ee|amzn\.to|amazon\.com\.br|mercadolivre\.com|meli\.la)", re.I)
