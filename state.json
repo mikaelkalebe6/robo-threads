@@ -22,34 +22,18 @@
    "20:07"
   ],
   "feitos": [
-   "08:27"
+   "08:27",
+   "09:26"
   ],
   "produtos_feitos": 0,
-  "respostas": 26,
+  "respostas": 27,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
-   "17964872100196416": 5
+   "17964872100196416": 6
   }
  },
  "posts": [
-  {
-   "id": "18075881765449513",
-   "insp": "40b922d817",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: pizza fria no café da manhã ganha de qualquer almoço.",
-   "quando": "2026-10-06T21:37:10.064026-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 2063,
-    "likes": 66,
-    "replies": 48,
-    "reposts": 2,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-12"
-   }
-  },
   {
    "id": "17969520279187566",
    "insp": "bc64a2ff13",
@@ -977,7 +961,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T09:07:08.372226-04:00",
+   "viral_chk": "2026-10-12T09:37:08.089668-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -1040,7 +1024,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T09:07:08.372226-04:00",
+   "viral_chk": "2026-10-12T09:37:08.089668-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1100,7 +1084,16 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T09:07:08.372226-04:00"
+   "viral_chk": "2026-10-12T09:37:08.089668-04:00"
+  },
+  {
+   "id": "18131002286503625",
+   "insp": "ff36dce57b",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
+   "quando": "2026-10-12T09:37:08.089668-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-12T09:37:08.089668-04:00"
   }
  ],
  "respondidos": [
@@ -2643,7 +2636,8 @@
   "17988842889080308",
   "18007779509992326",
   "18023190953712921",
-  "18488295307128464"
+  "18488295307128464",
+  "18450317872126983"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2802,7 +2796,8 @@
   "9988adbd9102adddb26695b2fc37e4a2",
   "790f469eeb81418de5552d0c8d9c1c56",
   "0b83b2200cab6e3998050fb8bfe61a4b",
-  "cd9f58423c6a3a34053b8156870d890d"
+  "cd9f58423c6a3a34053b8156870d890d",
+  "d6f134af9fd15b38f4df563e16860a6e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2961,7 +2956,8 @@
   "f0670ff0d7": 1791752839.976383,
   "5ffe3dfd2e": 1791760046.8847692,
   "654bef73ca": 1791770867.2880807,
-  "615229a3f1": 1791808651.8310485
+  "615229a3f1": 1791808651.8310485,
+  "ff36dce57b": 1791812301.1103742
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2991,15 +2987,11 @@
   "5bd7d5d908": 1,
   "7ec5552b33": 1,
   "18dcd0cbc5": 1,
-  "9909a9100e": 1
+  "9909a9100e": 1,
+  "e619d3474f": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "vida fácil demais as vezes tira toda a graca da dirigida",
-   "p": "discorda",
-   "r": 0
-  },
   {
    "t": "silêncio de geladeira nova enquanto tenta subir a ladeira kkkkkk",
    "p": "concorda",
@@ -3143,6 +3135,11 @@
   {
    "t": "depende muito de quem está do outro lado da linha",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ver tocando e fingir que não viu e esporte nacional",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -3980,7 +3977,8 @@
    "urgencia assusta mas",
    "horario comercial ate",
    "quando e urgencia",
-   "depende muito de"
+   "depende muito de",
+   "ver tocando e"
   ]
  },
  "shopee_checada": "2026-10-12|1",
