@@ -1202,7 +1202,7 @@ def _produto_parecido(s, agora, termos):
     import shopee
     tentou, falhou = 0, 0
     nota_min, preco_max, vendas_min = float(cfg("SHOPEE_NOTA_MIN")), float(cfg("SHOPEE_PRECO_MAX")), int(cfg("SHOPEE_VENDAS_MIN"))
-    for termo in [t for t in termos if t]:
+    for termo in list(dict.fromkeys(t for t in termos if t)):
         tentou += 1
         try:
             nos = shopee.buscar_produtos(termo, limite=15, ordem=2)
@@ -1216,6 +1216,7 @@ def _produto_parecido(s, agora, termos):
                     and x["vendas"] >= vendas_min and not produto_proibido(x["nome"])
                     and not produto_usado_recente(s, x["itemId"], agora)):
                 return x, False
+        log(f"Video do app: busca '{termo}': {len(nos)} resultado(s), nenhum passou nos filtros (nota, preco, vendas, repetido).")
     return None, bool(tentou and falhou == tentou)
 
 
@@ -1308,11 +1309,23 @@ def postar_video_app(s, p, h, agora):
     modo = "mesmo" if prod else ""
     txt, busca, eh_meme = _texto_e_busca_video(v, prod["nome"] if prod else "")
     if not prod:
-        prod, shopee_fora = _produto_parecido(s, agora, termos + [busca])
+        # termos: nome do link, termo da IA e o "PRODUTO:" da descricao do app
+        m_desc = re.search(r"PRODUTO:\s*([^|]+)", v.get("descricao", ""), re.I)
+        termos_desc = [" ".join(m_desc.group(1).split()[:5])] if m_desc else []
+        prod, shopee_fora = _produto_parecido(s, agora, termos + [busca] + termos_desc)
         if shopee_fora:
             log("Video do app: Shopee fora agora; o video espera a proxima vez (sai post de produto normal).")
             return False
         modo = ("parecido" if tinha_link else "tema") if prod else ""
+        if not prod and not eh_meme:
+            # video de produto sem produto achado: nao sai sem link; tenta de novo depois (na ultima tentativa sai como meme)
+            n = _video_erros(usados.get(v["id"])) + 1
+            if n < VIDEO_TENTATIVAS:
+                usados[v["id"]] = f"erro{n} " + agora.isoformat()
+                salvar_estado(s)
+                log(f"Video do app {v['id']}: video de produto sem produto na Shopee (tentativa {n} de {VIDEO_TENTATIVAS}). "
+                    "Sai post de produto com foto.")
+                return False
     if not txt:
         txt = "Olha isso 😂" if eh_meme or not prod else "Descobri isso aqui e não sei como vivi sem até hoje 😂 Olha como funciona 👀"
     midias = [v["video"]] + ([v["foto"]] if v.get("foto") else [])

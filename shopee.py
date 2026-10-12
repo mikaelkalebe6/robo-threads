@@ -124,7 +124,8 @@ def link_afiliado(url, marcadores=None):
     return ((consulta(q, {"u": url, "s": sub}).get("generateShortLink") or {}).get("shortLink") or "")
 
 
-_IDS = [re.compile(r"-i\.(\d+)\.(\d+)"), re.compile(r"/product/(\d+)/(\d+)")]
+# formatos de endereco de produto: nome-i.LOJA.ITEM, /product/LOJA/ITEM e /opaanlp/LOJA/ITEM (visto em 12/10/2026)
+_IDS = [re.compile(r"-i\.(\d+)\.(\d+)"), re.compile(r"/(?:product|opaanlp)/(\d+)/(\d+)")]
 
 
 def _ids_da_url(url):
