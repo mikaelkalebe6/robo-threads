@@ -21,32 +21,17 @@
    "14:49",
    "20:07"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:27"
+  ],
   "produtos_feitos": 0,
-  "respostas": 18,
+  "respostas": 21,
   "por_post": {
-   "18145752784569888": 17,
+   "18145752784569888": 20,
    "17894365761611421": 1
   }
  },
  "posts": [
-  {
-   "id": "18117333691945990",
-   "insp": "017f3ae860",
-   "link": "",
-   "texto": "Homem que sabe dançar ganha pelo menos uns oito pontos de cara na paquera.",
-   "quando": "2026-10-06T20:37:08.398124-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 7858,
-    "likes": 146,
-    "replies": 159,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-12"
-   }
-  },
   {
    "id": "18075881765449513",
    "insp": "40b922d817",
@@ -991,7 +976,7 @@
    "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
    "quando": "2026-10-11T14:37:08.319928-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T08:07:09.345469-04:00",
+   "viral_chk": "2026-10-12T08:37:08.914382-04:00",
    "metricas": {
     "views": 826,
     "likes": 11,
@@ -1054,7 +1039,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T08:07:09.345469-04:00",
+   "viral_chk": "2026-10-12T08:37:08.914382-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1106,6 +1091,15 @@
     "shares": 1,
     "em": "2026-10-12"
    }
+  },
+  {
+   "id": "17964872100196416",
+   "insp": "615229a3f1",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
+   "quando": "2026-10-12T08:37:08.914382-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-12T08:37:08.914382-04:00"
   }
  ],
  "respondidos": [
@@ -2640,7 +2634,10 @@
   "18116760274951110",
   "18113524886465630",
   "18152581357526742",
-  "18141375055721893"
+  "18141375055721893",
+  "17982238001907811",
+  "17994794739024660",
+  "17978844257918521"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2798,7 +2795,8 @@
   "4af0b3e6fd3837af21dc957b6d133987",
   "9988adbd9102adddb26695b2fc37e4a2",
   "790f469eeb81418de5552d0c8d9c1c56",
-  "0b83b2200cab6e3998050fb8bfe61a4b"
+  "0b83b2200cab6e3998050fb8bfe61a4b",
+  "cd9f58423c6a3a34053b8156870d890d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -2956,7 +2954,8 @@
   "d9cd77c4a6": 1791743849.964815,
   "f0670ff0d7": 1791752839.976383,
   "5ffe3dfd2e": 1791760046.8847692,
-  "654bef73ca": 1791770867.2880807
+  "654bef73ca": 1791770867.2880807,
+  "615229a3f1": 1791808651.8310485
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -2978,25 +2977,13 @@
   "8b27c2e098": 1,
   "4904db18a8": 1,
   "1aa40203da": 1,
-  "0e2e59df3e": 1
+  "0e2e59df3e": 1,
+  "c671d7ae80": 1,
+  "3581b5fb50": 1,
+  "5de8e86af1": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "modo sport tenta disfarçar mas o pé direito continua sentindo falta do pedal da embreagem",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "jeito moderno de burlar a própria memória kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pior q é bem isso, o frentista já fica perdido junto kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "conforto em viagem longa realmente ganha de qualquer apego",
    "p": "concorda",
@@ -3131,6 +3118,21 @@
    "t": "popular mas continua sendo a pura verdade",
    "p": "discorda",
    "r": 0
+  },
+  {
+   "t": "saúde vem sempre em primeiro lugar, aí realmente não tem discussão",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "para pegar fila todo dia na cidade é um caminho sem volta mesmo kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "estrada longa com curvas pede mesmo essa leitura fina que o sistema não faz sozinho kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3947,9 +3949,6 @@
    "curva fechada e"
   ],
   "18145752784569888": [
-   "silencio de geladeira",
-   "para o dia",
-   "procurar o que",
    "calma que a",
    "nesse horario o",
    "nem com os",
@@ -3966,7 +3965,10 @@
    "na rotina de",
    "playlist boa salva",
    "separar o carro",
-   "popular mas continua"
+   "popular mas continua",
+   "saude vem sempre",
+   "para pegar fila",
+   "estrada longa com"
   ]
  },
  "shopee_checada": "2026-10-12|1",
