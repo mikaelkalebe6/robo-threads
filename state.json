@@ -33,7 +33,7 @@
    "16:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 67,
+  "respostas": 73,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
@@ -42,7 +42,7 @@
    "18094598612441203": 1,
    "17970535233152991": 20,
    "17987399961082313": 6,
-   "18125513068915632": 5
+   "18125513068915632": 11
   }
  },
  "posts": [
@@ -917,7 +917,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T17:37:07.573345-04:00",
+   "viral_chk": "2026-10-12T18:07:11.333846-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -977,7 +977,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T17:07:10.304706-04:00"
+   "viral_chk": "2026-10-12T18:07:11.333846-04:00"
   },
   {
    "id": "18131002286503625",
@@ -986,7 +986,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T17:37:07.573345-04:00"
+   "viral_chk": "2026-10-12T18:07:11.333846-04:00"
   },
   {
    "id": "18094598612441203",
@@ -1061,7 +1061,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T17:07:10.304706-04:00"
+   "viral_chk": "2026-10-12T18:07:11.333846-04:00"
   },
   {
    "id": "18125513068915632",
@@ -1070,7 +1070,7 @@
    "texto": "Todo mundo tem aquele carro que nunca deveria ter vendido. Qual foi o seu?",
    "quando": "2026-10-12T17:07:10.304706-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T17:07:10.304706-04:00"
+   "viral_chk": "2026-10-12T18:07:11.333846-04:00"
   }
  ],
  "respondidos": [
@@ -2657,7 +2657,13 @@
   "17931843558410605",
   "18016948802743703",
   "18162489022494054",
-  "18194507101393325"
+  "18194507101393325",
+  "18092988668186236",
+  "18134973973683503",
+  "18129100108712049",
+  "18421380268156339",
+  "18392990788162816",
+  "18112143836520967"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3056,40 +3062,16 @@
   "60530d437f": 1,
   "f706cfd7c0": 1,
   "e0974d95cb": 1,
-  "d0bda3d8c2": 1
+  "d0bda3d8c2": 1,
+  "4cac3e0b59": 1,
+  "4c8123929b": 1,
+  "6e216f266c": 1,
+  "5a84e05d8b": 1,
+  "83da8667c6": 1,
+  "0adb15d354": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "cada um tem seu jeito fofo de mostrar interesse",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "estratégia rápida pra não deixar ninguém passar constrangimento kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "economia de tempo e zero drama na mesa",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "dividir tira o peso da cobrança e deixa tudo mais leve",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "atitude justa que deixa todo mundo bem confortável",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "olhar diferente já é meio caminho andado pro climão kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "obrigada pelo carinho, mas é só um costume antigo mesmo",
    "p": "concorda",
@@ -3207,6 +3189,36 @@
   },
   {
    "t": "esse modelo deixa saudade mesmo em quem só dirigiu uma vez",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse motor e a estabilidade dele realmente deixam saudades na estrada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "primeiro carro nunca sai da memoria mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse aí a gente empurra mas não larga nunca",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa dói no bolso e na infância kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quem monta outra melhor percebe que o apego é com a história da primeira msm",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "motor manual bom assim faz falta no trânsito de hoje",
    "p": "concorda",
    "r": 0
   }
@@ -4063,7 +4075,13 @@
    "ver a motinha",
    "esse carrinho aguenta",
    "ah o 500",
-   "esse modelo deixa"
+   "esse modelo deixa",
+   "esse motor e",
+   "primeiro carro nunca",
+   "esse ai a",
+   "essa doi no",
+   "quem monta outra",
+   "motor manual bom"
   ]
  },
  "shopee_checada": "2026-10-12|1",
