@@ -88,6 +88,8 @@ PADRAO = {
     "VIRAL_TODOS_POSTS": "1",
     # quantos produtos do dia a IA ve para escolher o que combina (post viral e post de produto com foto)
     "SHOPEE_TOP_IA": "12",
+    # busca por tema (video do app e post viral): se nada passar nos filtros normais, tenta estes (nota, vendas, preco)
+    "SHOPEE_TEMA_RELAXADO": "4.5,30,150",
     "PRODUTO_POR_DIA": "3",
     # sorteio da estrategia em cada horario de produto (pesos iguais ate 23/10; nao ajustar sozinho)
     "PESOS_ESTRATEGIA": "carrossel:1,fio:1,produto_foto:1",
@@ -1201,23 +1203,62 @@ def _produto_parecido(s, agora, termos):
     Devolve (produto ou None, a_shopee_falhou_em_todas_as_buscas)."""
     import shopee
     tentou, falhou = 0, 0
-    nota_min, preco_max, vendas_min = float(cfg("SHOPEE_NOTA_MIN")), float(cfg("SHOPEE_PRECO_MAX")), int(cfg("SHOPEE_VENDAS_MIN"))
+    filtros = [(float(cfg("SHOPEE_NOTA_MIN")), int(cfg("SHOPEE_VENDAS_MIN")), float(cfg("SHOPEE_PRECO_MAX")))]
+    try:
+        n_r, v_r, p_r = cfg("SHOPEE_TEMA_RELAXADO").split(",")
+        filtros.append((float(n_r), int(v_r), float(p_r)))
+    except Exception:
+        pass
+    achados = {}
     for termo in list(dict.fromkeys(t for t in termos if t)):
         tentou += 1
         try:
-            nos = shopee.buscar_produtos(termo, limite=15, ordem=2)
+            achados[termo] = [shopee.normalizar(n) for n in shopee.buscar_produtos(termo, limite=20, ordem=2)]
         except Exception as e:
-            log(f"Video do app: busca '{termo}' falhou:", str(e)[:120])
+            log(f"Busca de produto '{termo}' falhou:", str(e)[:120])
             falhou += 1
-            continue
-        for n in nos:
-            x = shopee.normalizar(n)
-            if (x["itemId"] and x["offerLink"] and x["nota"] >= nota_min and 0 < x["preco"] <= preco_max
-                    and x["vendas"] >= vendas_min and not produto_proibido(x["nome"])
-                    and not produto_usado_recente(s, x["itemId"], agora)):
+    # primeiro os filtros normais em todos os termos; so depois os relaxados (produto do tema e melhor que nenhum)
+    for nota_min, vendas_min, preco_max in filtros:
+        for termo, lista in achados.items():
+            bons = [x for x in lista if x["itemId"] and x["offerLink"] and x["nota"] >= nota_min
+                    and 0 < x["preco"] <= preco_max and x["vendas"] >= vendas_min and not produto_proibido(x["nome"])
+                    and not produto_usado_recente(s, x["itemId"], agora)]
+            if bons:
+                x = max(bons, key=lambda y: (y["vendas"], y["nota"]))
+                log(f"Produto do tema '{termo}': {x['nome'][:60]} (nota {x['nota']}, {x['vendas']} vendas, R$ {x['preco']:.0f})")
                 return x, False
-        log(f"Video do app: busca '{termo}': {len(nos)} resultado(s), nenhum passou nos filtros (nota, preco, vendas, repetido).")
+    if achados:
+        log("Busca de produto: nada passou nem nos filtros relaxados:", ", ".join(f"{t} ({len(l)})" for t, l in achados.items()))
     return None, bool(tentou and falhou == tentou)
+
+
+def termos_do_tema(texto):
+    """A IA le o assunto (post ou video) e devolve ate 3 buscas de produto da Shopee, da mais especifica a mais geral.
+    Ex.: lirio-da-paz florindo -> ["adubo lirio da paz", "adubo para plantas", "fertilizante plantas"]. IA fora = []."""
+    prompt = f"""Assunto de um post do Threads (ou de um video): "{texto[:500]}"
+Publico do perfil: {PUBLICO_PRODUTO}.
+Quais produtos da Shopee quem se interessou por esse assunto compraria? Pense no que resolve, complementa ou aparece no assunto.
+Devolva 3 termos de busca (2 a 4 palavras, sem marca), do mais especifico ao mais geral.
+Exemplo: video de lirio-da-paz que floresce com um composto -> ["adubo lirio da paz", "adubo para plantas", "fertilizante plantas"].
+So devolva lista vazia se o assunto for puramente opiniao ou desabafo sem nenhum produto ligado.
+Responda so em JSON: {{"buscas": ["termo 1", "termo 2", "termo 3"]}}"""
+    try:
+        r = ia(prompt, json_mode=True, modelos_gemini=[GEMINI_MODEL_RESPOSTA])
+        m = re.search(r"\{.*\}", r or "", re.S)
+        buscas = json.loads(m.group(0) if m else r).get("buscas") or []
+        return [str(b).strip()[:60] for b in buscas if str(b).strip()][:3]
+    except Exception as e:
+        log("IA nao sugeriu buscas de produto:", str(e)[:120])
+        return []
+
+
+def produto_por_tema(s, agora, texto):
+    """Produto que combina com o assunto, buscado na Shopee (nao so na lista do dia). None se nada servir."""
+    termos = termos_do_tema(texto)
+    if not termos:
+        return None
+    prod, _ = _produto_parecido(s, agora, termos)
+    return prod
 
 
 def produto_mesmo_do_video(s, v, agora):
@@ -1313,6 +1354,8 @@ def postar_video_app(s, p, h, agora):
         m_desc = re.search(r"PRODUTO:\s*([^|]+)", v.get("descricao", ""), re.I)
         termos_desc = [" ".join(m_desc.group(1).split()[:5])] if m_desc else []
         prod, shopee_fora = _produto_parecido(s, agora, termos + [busca] + termos_desc)
+        if not prod and not shopee_fora:
+            prod = produto_por_tema(s, agora, f"{v.get('descricao', '')} | {txt}")
         if shopee_fora:
             log("Video do app: Shopee fora agora; o video espera a proxima vez (sai post de produto normal).")
             return False
@@ -1464,11 +1507,12 @@ def tarefa_estrategia_meme(s, agora):
             continue
 
         if views >= min_views:
-            if p.get("estrategia") == "meme":
+            # 1) produto do dia que combina; 2) busca na Shopee pelo assunto; 3) meme: sorteio; outros: sorteio 50/50
+            prod = produto_para_post(s, agora, p.get("texto", "")) or produto_por_tema(s, agora, p.get("texto", ""))
+            if not prod and p.get("estrategia") == "meme":
                 prod = sortear_produto(prods, s, agora)
-            else:
-                prod = produto_para_post(s, agora, p.get("texto", ""))
-                if not prod and random.random() < float(cfg("VIRAL_QUALQUER_CHANCE") or 0):
+            elif not prod:
+                if random.random() < float(cfg("VIRAL_QUALQUER_CHANCE") or 0):
                     prod = sortear_produto(_lista_para_ia(s, agora), s, agora)
                     if prod:
                         log(f"Estrategia 1: nada combina com o post {pid}; sorteio 50/50 escolheu um produto bom do dia.")
