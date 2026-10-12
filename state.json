@@ -31,7 +31,7 @@
    "14:49"
   ],
   "produtos_feitos": 1,
-  "respostas": 61,
+  "respostas": 62,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
@@ -39,7 +39,7 @@
    "18131002286503625": 8,
    "18094598612441203": 1,
    "17970535233152991": 20,
-   "17987399961082313": 5
+   "17987399961082313": 6
   }
  },
  "posts": [
@@ -948,7 +948,7 @@
    "texto": "DÚVIDA SINCERA: quem mais faz a lista de mercado inteirinha no papel, chega lá e percebe que esqueceu em casa?",
    "quando": "2026-10-11T19:07:07.516757-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T15:07:08.795491-04:00",
+   "viral_chk": "2026-10-12T15:37:08.444668-04:00",
    "metricas": {
     "views": 704,
     "likes": 4,
@@ -1008,7 +1008,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T15:07:08.795491-04:00"
+   "viral_chk": "2026-10-12T15:37:08.444668-04:00"
   },
   {
    "id": "18131002286503625",
@@ -1017,7 +1017,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T15:07:08.795491-04:00"
+   "viral_chk": "2026-10-12T15:37:08.444668-04:00"
   },
   {
    "id": "18094598612441203",
@@ -1059,7 +1059,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-12T14:37:08.296179-04:00"
+   "viral_chk": "2026-10-12T15:37:08.444668-04:00"
   },
   {
    "id": "18023520131925356",
@@ -1068,7 +1068,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T15:07:08.795491-04:00"
+   "viral_chk": "2026-10-12T15:37:08.444668-04:00"
   },
   {
    "id": "18030130718689115",
@@ -2659,7 +2659,8 @@
   "17965889283198108",
   "18412016104093954",
   "18464273251186145",
-  "17902273776669862"
+  "17902273776669862",
+  "17965679556206405"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3048,15 +3049,11 @@
   "8d9686f5b1": 1,
   "d49f735485": 1,
   "1f1e8afefa": 1,
-  "ec5261ea78": 1
+  "ec5261ea78": 1,
+  "d51c720088": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "essa parte da assinatura de sócios do clube das dores é o pior",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "precisa calcular o tempo de volta antes de aceitar o convite kkk",
    "p": "concorda",
@@ -3201,6 +3198,11 @@
    "t": "o Rex vai ganhar mais um espaco na cama kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "batida seca no buraco é o aviso oficial pra abaixar o som e fingir demência kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4054,7 +4056,8 @@
    "sensor que avisa",
    "esse e o",
    "ignorancia seletiva e",
-   "o rex vai"
+   "o rex vai",
+   "batida seca no"
   ]
  },
  "shopee_checada": "2026-10-12|1",
