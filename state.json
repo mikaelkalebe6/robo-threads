@@ -21,7 +21,7 @@
    "13:50"
   ],
   "produtos_feitos": 1,
-  "respostas": 72,
+  "respostas": 78,
   "por_post": {
    "17898060528396441": 12,
    "17940476349379270": 1,
@@ -31,7 +31,8 @@
    "18131002286503625": 1,
    "18145752784569888": 14,
    "18099352877530021": 11,
-   "18030130718689115": 1
+   "18030130718689115": 2,
+   "18206939197374851": 5
   }
  },
  "posts": [
@@ -987,7 +988,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T14:07:10.179200-04:00",
+   "viral_chk": "2026-10-13T14:37:07.606623-04:00",
    "metricas": {
     "views": 399,
     "likes": 1,
@@ -1027,7 +1028,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T14:07:10.179200-04:00",
+   "viral_chk": "2026-10-13T14:37:07.606623-04:00",
    "metricas": {
     "views": 776,
     "likes": 25,
@@ -1105,7 +1106,7 @@
    "texto": "ME CONTA: o maior gasto com filho é fralda ou escola?",
    "quando": "2026-10-12T21:37:08.913114-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T14:07:10.179200-04:00",
+   "viral_chk": "2026-10-13T14:37:07.606623-04:00",
    "metricas": {
     "views": 136,
     "likes": 1,
@@ -1123,7 +1124,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T14:07:10.179200-04:00"
+   "viral_chk": "2026-10-13T14:37:07.606623-04:00"
   },
   {
    "id": "18118951138948718",
@@ -1136,7 +1137,7 @@
    "estrategia": "produto_video",
    "formato_link": "resp",
    "produto": "22798989636",
-   "link_pendente": true,
+   "link_pendente": false,
    "modo_produto": "mesmo",
    "prod_dados": {
     "itemId": "22798989636",
@@ -1149,7 +1150,10 @@
     "offerLink": "https://s.shopee.com.br/W7Okg9ybP",
     "campanha": "",
     "modo": "mesmo"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/W7Okg9ybP",
+   "link_em": "2026-10-13T14:37:07.606623-04:00",
+   "link_views": 707
   },
   {
    "id": "18206939197374851",
@@ -1158,7 +1162,7 @@
    "texto": "OPINIÃO IMPOPULAR: carro próprio hoje é luxo desnecessário, app resolve tudo.",
    "quando": "2026-10-13T14:07:10.179200-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T14:07:10.179200-04:00"
+   "viral_chk": "2026-10-13T14:37:07.606623-04:00"
   }
  ],
  "respondidos": [
@@ -2852,7 +2856,13 @@
   "17961949857231545",
   "18092967536479429",
   "17913259578514741",
-  "18096383333426093"
+  "18096383333426093",
+  "18345671347269337",
+  "18158195686538314",
+  "18419707627155226",
+  "18028728620691403",
+  "18416070418085953",
+  "17917114410265031"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3268,40 +3278,16 @@
   "7b846535a4": 1,
   "251e6495f7": 1,
   "c988098a33": 1,
-  "3acb433892": 1
+  "3acb433892": 1,
+  "c9d4059240": 1,
+  "ffcb36355e": 1,
+  "77afc13fc9": 1,
+  "6299b5167b": 1,
+  "efcf79b4f0": 1,
+  "ab1920944a": 1
  },
  "reservas_checadas": "2026-10-13",
  "ultimas_respostas": [
-  {
-   "t": "Aí, quando chegar aos 70, vai ser só nostalgia do câmbio 😂",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Então, friozinho bom né? kkk, quem nunca curtiu um céu nublado 😅",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esseSidekick tá na lista dos que me dá saudade só de lembrar kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "faz sentido, quem chama carrega a conta das kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "feliz em sentir esse apoio nesse desabafo aí",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkk quem curte frio sabe, 38° não dá né?",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "nostalgia de coisa do avo e sempre a mais pesada",
    "p": "neutra",
@@ -3421,6 +3407,36 @@
    "t": "Poxa, realmente dói vender um carro que ainda tem histórias",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "justo, lá o trânsito tem vida própria kkkk",
+   "p": "ressalva",
+   "r": 2
+  },
+  {
+   "t": "exato, nada de luxo quando o app resolve tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "te mandei o link no privado para garantir",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "entendo, cada cidade tem sua lógica e segurança vem em 1º lugar",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "faz sentido, hobby é outra coisa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Concordo, app pode virar correria estressante kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3533,6 +3549,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-13T07:07:09.287262-04:00"
+  },
+  "18086923124692735": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-13T14:37:07.606623-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -3988,28 +4009,6 @@
   }
  ],
  "aberturas_post": {
-  "17904297183598082": [
-   "verdade sem ela",
-   "esse e a",
-   "pelo menos no",
-   "esse ai carrega",
-   "som bom transforma",
-   "inovou total no",
-   "sem o mestre",
-   "comeca a lista",
-   "trilha sonora boa",
-   "vinagrete fresquinho equilibra",
-   "clima bom faz",
-   "fritas no churrasco",
-   "responsavel oficial por",
-   "acompanhamento obrigatorio pra",
-   "fundamental para dar",
-   "indispensavel para aguentar",
-   "boa companhia e",
-   "sal de parrilha",
-   "acompanhamento classico que",
-   "limao da aquele"
-  ],
   "18179925583431899": [
    "pesado mas pior",
    "parece lenda urbana",
@@ -4297,7 +4296,15 @@
    "concordo dividir pode"
   ],
   "18030130718689115": [
-   "quero tambem mas"
+   "quero tambem mas",
+   "te mandei o"
+  ],
+  "18206939197374851": [
+   "justo la o",
+   "exato nada de",
+   "entendo cada cidade",
+   "faz sentido hobby",
+   "concordo app pode"
   ]
  },
  "shopee_checada": "2026-10-13|1",
@@ -4689,7 +4696,8 @@
   "58264177301": "2026-10-12T17:37:07.573345-04:00",
   "58262137609": "2026-10-12T19:07:08.855043-04:00",
   "49864801044": "2026-10-12T22:07:07.460566-04:00",
-  "20798026236": "2026-10-13T07:07:09.287262-04:00"
+  "20798026236": "2026-10-13T07:07:09.287262-04:00",
+  "22798989636": "2026-10-13T14:37:07.606623-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
