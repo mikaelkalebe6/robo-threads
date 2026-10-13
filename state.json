@@ -19,16 +19,16 @@
    "09:04"
   ],
   "produtos_feitos": 0,
-  "respostas": 59,
+  "respostas": 65,
   "por_post": {
    "17898060528396441": 12,
    "17940476349379270": 1,
-   "18125513068915632": 12,
+   "18125513068915632": 14,
    "18368554072244525": 1,
    "17970535233152991": 11,
    "18131002286503625": 1,
-   "18145752784569888": 11,
-   "18099352877530021": 9,
+   "18145752784569888": 14,
+   "18099352877530021": 10,
    "18030130718689115": 1
   }
  },
@@ -958,7 +958,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T11:37:11.134107-04:00",
+   "viral_chk": "2026-10-13T12:07:09.692248-04:00",
    "metricas": {
     "views": 519,
     "likes": 4,
@@ -976,7 +976,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T11:37:11.134107-04:00",
+   "viral_chk": "2026-10-13T12:07:09.692248-04:00",
    "metricas": {
     "views": 199,
     "likes": 0,
@@ -1018,7 +1018,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T11:37:11.134107-04:00",
+   "viral_chk": "2026-10-13T12:07:09.692248-04:00",
    "metricas": {
     "views": 399,
     "likes": 1,
@@ -1058,7 +1058,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T11:37:11.134107-04:00",
+   "viral_chk": "2026-10-13T12:07:09.692248-04:00",
    "metricas": {
     "views": 776,
     "likes": 25,
@@ -1135,7 +1135,7 @@
    "texto": "ME CONTA: o maior gasto com filho é fralda ou escola?",
    "quando": "2026-10-12T21:37:08.913114-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T11:37:11.134107-04:00",
+   "viral_chk": "2026-10-13T12:07:09.692248-04:00",
    "metricas": {
     "views": 136,
     "likes": 1,
@@ -1153,7 +1153,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T11:37:11.134107-04:00"
+   "viral_chk": "2026-10-13T12:07:09.692248-04:00"
   }
  ],
  "respondidos": [
@@ -2834,7 +2834,13 @@
   "18030561899804031",
   "18137917102652370",
   "18089281607251897",
-  "17965715282983271"
+  "17965715282983271",
+  "18080336240380249",
+  "18129697942779561",
+  "18105640394207724",
+  "17884549356512415",
+  "17995128873023965",
+  "18022784297710841"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3235,40 +3241,16 @@
   "542d7ddb6f": 1,
   "aca450e585": 1,
   "6dae50a749": 1,
-  "415b8bbcb0": 1
+  "415b8bbcb0": 1,
+  "2f11eb7260": 1,
+  "a01f47da73": 1,
+  "9df7b63fe3": 1,
+  "4cfb876cf0": 1,
+  "3e12dc6acd": 1,
+  "8cf9ff4d1f": 1
  },
  "reservas_checadas": "2026-10-13",
  "ultimas_respostas": [
-  {
-   "t": "exato, a pessoa que escolhe o restaurante e checa a conta já mostra o clima",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Verdade, ao convidar já paga e ganha ponto extra kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "doeu ler mas foi direto, obrigado por abrir o jogo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Convidar costuma significar pagar, mas dividir também pode ser sinal de parceria",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Concordo, dividir mostra parceria e ainda celebra a conquista das mulheres 😂",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "kkkkk as garotas tem seus motivos para odiar meu post",
-   "p": "neutra",
-   "r": 2
-  },
   {
    "t": "Quero também, mas aqui não tem link, fica na lista pra próxima 😉",
    "p": "neutra",
@@ -3386,6 +3368,36 @@
   },
   {
    "t": "o March tem um carinho especial né 🥲",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "gosto dessa independência, cada um no seu",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkk então seu carro virou personal trainer de humilhação kkk 😆",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Nossa, parece que o Fiesta ainda tem vida, hein kkk 😂",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo, mas existem carros que nascem pra isso, né",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "banco de veludo deixa saudade não kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "paddle shift já era quase manual, mas a auto traz conforto, né?",
    "p": "neutra",
    "r": 0
   }
@@ -4116,9 +4128,6 @@
    "curva fechada e"
   ],
   "18145752784569888": [
-   "up com marcha",
-   "anos de carteira",
-   "na rotina de",
    "playlist boa salva",
    "separar o carro",
    "popular mas continua",
@@ -4135,7 +4144,10 @@
    "ai quando chegar",
    "feliz em sentir",
    "tu nao vai",
-   "concordo essa falta"
+   "concordo essa falta",
+   "entao seu carro",
+   "justo mas existem",
+   "paddle shift ja"
   ],
   "17964872100196416": [
    "teoria do dedo",
@@ -4190,8 +4202,6 @@
    "batida seca no"
   ],
   "18125513068915632": [
-   "espaco interno que",
-   "kit original de",
    "esse coupe tem",
    "esse navega na",
    "classe a era",
@@ -4209,7 +4219,9 @@
    "essesidekick ta na",
    "nostalgia de coisa",
    "vitara o companheiro",
-   "o march tem"
+   "o march tem",
+   "nossa parece que",
+   "banco de veludo"
   ],
   "18094079654172410": [
    "experiencia propria que",
@@ -4259,7 +4271,8 @@
    "respeito o cavaleiro",
    "regra de cavaleiro",
    "a vida e",
-   "o boleto nao"
+   "o boleto nao",
+   "gosto dessa independencia"
   ],
   "18030130718689115": [
    "quero tambem mas"
