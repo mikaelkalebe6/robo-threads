@@ -22,7 +22,7 @@
    "14:38"
   ],
   "produtos_feitos": 2,
-  "respostas": 90,
+  "respostas": 96,
   "por_post": {
    "17898060528396441": 12,
    "17940476349379270": 1,
@@ -31,10 +31,10 @@
    "17970535233152991": 11,
    "18131002286503625": 1,
    "18145752784569888": 14,
-   "18099352877530021": 11,
+   "18099352877530021": 12,
    "18030130718689115": 2,
-   "18206939197374851": 13,
-   "18128172019868904": 4
+   "18206939197374851": 17,
+   "18128172019868904": 5
   }
  },
  "posts": [
@@ -1013,7 +1013,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T15:37:07.889804-04:00",
+   "viral_chk": "2026-10-13T16:07:10.220857-04:00",
    "metricas": {
     "views": 776,
     "likes": 25,
@@ -1091,7 +1091,7 @@
    "texto": "ME CONTA: o maior gasto com filho é fralda ou escola?",
    "quando": "2026-10-12T21:37:08.913114-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T15:37:07.889804-04:00",
+   "viral_chk": "2026-10-13T16:07:10.220857-04:00",
    "metricas": {
     "views": 136,
     "likes": 1,
@@ -1109,7 +1109,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T15:37:07.889804-04:00"
+   "viral_chk": "2026-10-13T16:07:10.220857-04:00"
   },
   {
    "id": "18118951138948718",
@@ -2876,7 +2876,13 @@
   "17955627699082130",
   "17912114226557300",
   "18599475046067077",
-  "17947053909357993"
+  "17947053909357993",
+  "18343443559287304",
+  "18135754036650152",
+  "18643269715006612",
+  "18024985586922533",
+  "18151099312590863",
+  "17872965066649983"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3309,40 +3315,16 @@
   "29cb9b4903": 1,
   "e1b1765a61": 1,
   "d3667bd560": 1,
-  "b1ec5027d2": 1
+  "b1ec5027d2": 1,
+  "3ce7c4d8a7": 1,
+  "d33fda4050": 1,
+  "b2ddd8022e": 1,
+  "3664af9c8c": 1,
+  "7d7c6b299a": 1,
+  "73644670c4": 1
  },
  "reservas_checadas": "2026-10-13",
  "ultimas_respostas": [
-  {
-   "t": "kkk então seu carro virou personal trainer de humilhação kkk 😆",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Nossa, parece que o Fiesta ainda tem vida, hein kkk 😂",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justo, mas existem carros que nascem pra isso, né",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "banco de veludo deixa saudade não kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "paddle shift já era quase manual, mas a auto traz conforto, né?",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "concordo, dividir pode ser legal, mas às vezes a surpresa do convite também conta",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Poxa, dói perder um Civic, sei bem 😔",
    "p": "neutra",
@@ -3460,6 +3442,36 @@
   },
   {
    "t": "essa hora da noite no pronto socorro sem carro realmente complica bastante",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "e o prato plástico acaba antes da louça começar kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "antigamente podia ser regra mas hoje em dia o boleto assusta todo mundo igual",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "liberdade é ótima até chegar o IPVA e a manutenção",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pelo menos mais alguém que vê a luz no fim do túnel",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem tem nota alta só vive de boa viagem então",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "nessas horas o cenário muda mesmo e o aplicativo deixa a gente na mão",
    "p": "ressalva",
    "r": 0
   }
@@ -4316,7 +4328,8 @@
    "a vida e",
    "o boleto nao",
    "gosto dessa independencia",
-   "concordo dividir pode"
+   "concordo dividir pode",
+   "antigamente podia ser"
   ],
   "18030130718689115": [
    "quero tambem mas",
@@ -4335,13 +4348,18 @@
    "o uno de",
    "essa rotina de",
    "cem quilometros muda",
-   "essa hora da"
+   "essa hora da",
+   "liberdade e otima",
+   "pelo menos mais",
+   "quem tem nota",
+   "nessas horas o"
   ],
   "18128172019868904": [
    "pois e e",
    "a colher e",
    "faca de churrasco",
-   "estrategia perfeita quem"
+   "estrategia perfeita quem",
+   "e o prato"
   ]
  },
  "shopee_checada": "2026-10-13|1",
