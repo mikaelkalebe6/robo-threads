@@ -2447,7 +2447,8 @@ def tarefa_responder(s, agora):
         no_lote.add(chave)
         txt = d["texto"]
         if d.get("mandar_link") and link_do_post(post):
-            txt = com_publi(f"{txt}\n{texto_link(random.choice(FRASES_LINK), link_do_post(post))}")
+            # resposta a quem pediu o link sai SEM #publi (decisao do dono, 13/10/2026)
+            txt = f"{txt}\n{texto_link(random.choice(FRASES_LINK), link_do_post(post))}"
         try:
             cid = criar_resposta(txt, c["id"])
         except Exception as e:
