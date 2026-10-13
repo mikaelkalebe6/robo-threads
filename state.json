@@ -19,7 +19,7 @@
    "09:04"
   ],
   "produtos_feitos": 0,
-  "respostas": 29,
+  "respostas": 35,
   "por_post": {
    "17898060528396441": 8,
    "17940476349379270": 1,
@@ -27,7 +27,8 @@
    "18368554072244525": 1,
    "17970535233152991": 7,
    "18131002286503625": 1,
-   "18145752784569888": 4
+   "18145752784569888": 5,
+   "18099352877530021": 5
   }
  },
  "posts": [
@@ -956,7 +957,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T09:07:21.696011-04:00",
+   "viral_chk": "2026-10-13T09:37:09.857906-04:00",
    "metricas": {
     "views": 519,
     "likes": 4,
@@ -974,7 +975,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T09:07:21.696011-04:00",
+   "viral_chk": "2026-10-13T09:37:09.857906-04:00",
    "metricas": {
     "views": 199,
     "likes": 0,
@@ -1016,7 +1017,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T09:07:21.696011-04:00",
+   "viral_chk": "2026-10-13T09:37:09.857906-04:00",
    "metricas": {
     "views": 399,
     "likes": 1,
@@ -1056,7 +1057,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T09:07:21.696011-04:00",
+   "viral_chk": "2026-10-13T09:37:09.857906-04:00",
    "metricas": {
     "views": 776,
     "likes": 25,
@@ -1133,7 +1134,7 @@
    "texto": "ME CONTA: o maior gasto com filho é fralda ou escola?",
    "quando": "2026-10-12T21:37:08.913114-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T09:07:21.696011-04:00",
+   "viral_chk": "2026-10-13T09:37:09.857906-04:00",
    "metricas": {
     "views": 136,
     "likes": 1,
@@ -1151,7 +1152,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T09:07:21.696011-04:00"
+   "viral_chk": "2026-10-13T09:37:09.857906-04:00"
   }
  ],
  "respondidos": [
@@ -2802,7 +2803,13 @@
   "18092121554470691",
   "18111930296587592",
   "17973474600144685",
-  "18093819818391010"
+  "18093819818391010",
+  "17997686837835311",
+  "18114313211115031",
+  "17986785983882379",
+  "18002333801806713",
+  "18083548007510646",
+  "18033601580891747"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3173,40 +3180,16 @@
   "135d6caf7f": 1,
   "67c02a262b": 1,
   "8de11b63af": 1,
-  "d6e958db4f": 1
+  "d6e958db4f": 1,
+  "42e55b4eae": 1,
+  "ed1fcf8d77": 1,
+  "241564367c": 1,
+  "defe303c44": 1,
+  "a438537b1d": 1,
+  "8bd24af385": 1
  },
  "reservas_checadas": "2026-10-13",
  "ultimas_respostas": [
-  {
-   "t": "quarenta graus no Rio deveria dar direito a férias coletivas kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "salvador no bafão deve ser teste de resistência para qualquer ser humano",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "salva demais a vida a gente merece roupa que veste direito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos ficou em boas mãos e a esperança de trazer de volta continua viva",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ovo cru é salto de fé direto pra infecção intestinal",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse clima leve faz toda diferença mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "nove horas já é o horário oficial de estar de pijama",
    "p": "concorda",
@@ -3326,6 +3309,36 @@
    "t": "30/35 é calor de verdade, né? Sou daquelas que curte o sol! 😎",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "exato, a pessoa que escolhe o restaurante e checa a conta já mostra o clima",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, ao convidar já paga e ganha ponto extra kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "doeu ler mas foi direto, obrigado por abrir o jogo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Convidar costuma significar pagar, mas dividir também pode ser sinal de parceria",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Concordo, dividir mostra parceria e ainda celebra a conquista das mulheres 😂",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkkkk as garotas tem seus motivos para odiar meu post",
+   "p": "neutra",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -3893,9 +3906,6 @@
   }
  ],
  "aberturas_post": {
-  "18009434771778336": [
-   "esse gatinho da"
-  ],
   "18632920237005051": [
    "jogo virou segundo"
   ],
@@ -4060,7 +4070,6 @@
    "curva fechada e"
   ],
   "18145752784569888": [
-   "inventar marcha no",
    "transito caotico realmente",
    "pior que o",
    "no caos do",
@@ -4079,7 +4088,8 @@
    "daqui a pouco",
    "no transito pesado",
    "o proximo passo",
-   "sim para quem"
+   "sim para quem",
+   "as garotas tem"
   ],
   "17964872100196416": [
    "teoria do dedo",
@@ -4191,6 +4201,13 @@
   ],
   "18368554072244525": [
    "ovo cru e"
+  ],
+  "18099352877530021": [
+   "exato a pessoa",
+   "verdade ao convidar",
+   "doeu ler mas",
+   "convidar costuma significar",
+   "concordo dividir mostra"
   ]
  },
  "shopee_checada": "2026-10-13|1",
