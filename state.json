@@ -17,15 +17,15 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 18,
+  "respostas": 23,
   "por_post": {
-   "17898060528396441": 4,
+   "17898060528396441": 6,
    "17940476349379270": 1,
-   "18125513068915632": 4,
+   "18125513068915632": 5,
    "18368554072244525": 1,
-   "17970535233152991": 4,
+   "17970535233152991": 5,
    "18131002286503625": 1,
-   "18145752784569888": 3
+   "18145752784569888": 4
   }
  },
  "posts": [
@@ -910,7 +910,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T08:07:09.261177-04:00",
+   "viral_chk": "2026-10-13T08:37:09.196367-04:00",
    "metricas": {
     "views": 473,
     "likes": 9,
@@ -971,7 +971,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T08:07:09.261177-04:00",
+   "viral_chk": "2026-10-13T08:37:09.196367-04:00",
    "metricas": {
     "views": 519,
     "likes": 4,
@@ -989,7 +989,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T08:07:09.261177-04:00",
+   "viral_chk": "2026-10-13T08:37:09.196367-04:00",
    "metricas": {
     "views": 199,
     "likes": 0,
@@ -1031,7 +1031,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T08:07:09.261177-04:00",
+   "viral_chk": "2026-10-13T08:37:09.196367-04:00",
    "metricas": {
     "views": 399,
     "likes": 1,
@@ -1071,7 +1071,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T08:07:09.261177-04:00",
+   "viral_chk": "2026-10-13T08:37:09.196367-04:00",
    "metricas": {
     "views": 776,
     "likes": 25,
@@ -1148,7 +1148,7 @@
    "texto": "ME CONTA: o maior gasto com filho é fralda ou escola?",
    "quando": "2026-10-12T21:37:08.913114-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T08:07:09.261177-04:00",
+   "viral_chk": "2026-10-13T08:37:09.196367-04:00",
    "metricas": {
     "views": 136,
     "likes": 1,
@@ -2796,7 +2796,13 @@
   "18384969631225725",
   "18411888586091963",
   "17884375014510912",
-  "17952974349277958"
+  "17952974349277958",
+  "18030996569684029",
+  "17956360521255908",
+  "17874904989587442",
+  "18112226966141939",
+  "18124844527918617",
+  "18478029739118976"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3154,35 +3160,15 @@
   "a8c2bc111e": 1,
   "6593d2b49b": 1,
   "861d72fbab": 1,
-  "94661c4584": 1
+  "94661c4584": 1,
+  "36314d78ee": 1,
+  "59597b05aa": 1,
+  "b759385f22": 1,
+  "af897c3109": 1,
+  "c42198ffa4": 1
  },
  "reservas_checadas": "2026-10-13",
  "ultimas_respostas": [
-  {
-   "t": "literalmente um forno a lenha sem tampa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o ar condicionado é tudo mas tem dia q nem ele dá conta",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "justo, calor de leve até vai mas forno ninguém merece",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "a ilusão de que o sinal vai chegar mais rápido olhando pra tela",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "menina já nasce cobrando taxa de salão e look completo kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "sair do banho e já começar a suar de novo deveria ser crime",
    "p": "concorda",
@@ -3307,6 +3293,31 @@
    "t": "Tem sim, às vezes a surpresa de ver o outro pagar é o charme 😂",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "sim, para quem só quer transporte funcional resolve muito kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Entendo, 52 graus parece inferno, sinto sua dor 😔",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Poxa, quem nunca se arrependeu de uma moto que amava?",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ter a paz de casa como prioridade é muito compreensível depois de uma rotina corrida",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "ah pô valadares tá quente demais é provavelmente o teste certo!! quero ver se aguento o suor sem trapalha kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -4041,7 +4052,6 @@
    "curva fechada e"
   ],
   "18145752784569888": [
-   "conforto e otimo",
    "inventar marcha no",
    "transito caotico realmente",
    "pior que o",
@@ -4060,7 +4070,8 @@
    "estrada longa com",
    "daqui a pouco",
    "no transito pesado",
-   "o proximo passo"
+   "o proximo passo",
+   "sim para quem"
   ],
   "17964872100196416": [
    "teoria do dedo",
@@ -4085,7 +4096,6 @@
    "quando a compra"
   ],
   "17970535233152991": [
-   "estrategia rapida pra",
    "economia de tempo",
    "dividir tira o",
    "atitude justa que",
@@ -4104,7 +4114,8 @@
    "esse clima leve",
    "educacao que facilita",
    "adeus carteira e",
-   "tem sim as"
+   "tem sim as",
+   "ter a paz"
   ],
   "17987399961082313": [
    "aumentar o som",
@@ -4115,7 +4126,6 @@
    "batida seca no"
   ],
   "18125513068915632": [
-   "esse modelo deixa",
    "esse motor e",
    "primeiro carro nunca",
    "esse ai a",
@@ -4134,7 +4144,8 @@
    "pelo menos ficou",
    "ar digital impecavel",
    "poxa dois ja",
-   "juuu sei que"
+   "juuu sei que",
+   "poxa quem nunca"
   ],
   "18094079654172410": [
    "experiencia propria que",
@@ -4158,7 +4169,9 @@
    "salvador no bafao",
    "belem no calor",
    "umidade alta transforma",
-   "entendo virar picole"
+   "entendo virar picole",
+   "entendo 52 graus",
+   "ah po valadares"
   ],
   "17901736290374704": [
    "menina ja nasce"
