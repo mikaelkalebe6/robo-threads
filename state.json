@@ -19,16 +19,17 @@
    "09:04"
   ],
   "produtos_feitos": 0,
-  "respostas": 35,
+  "respostas": 41,
   "por_post": {
    "17898060528396441": 8,
    "17940476349379270": 1,
-   "18125513068915632": 7,
+   "18125513068915632": 8,
    "18368554072244525": 1,
-   "17970535233152991": 7,
+   "17970535233152991": 8,
    "18131002286503625": 1,
-   "18145752784569888": 5,
-   "18099352877530021": 5
+   "18145752784569888": 7,
+   "18099352877530021": 6,
+   "18030130718689115": 1
   }
  },
  "posts": [
@@ -957,7 +958,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T09:37:09.857906-04:00",
+   "viral_chk": "2026-10-13T10:07:10.780805-04:00",
    "metricas": {
     "views": 519,
     "likes": 4,
@@ -975,7 +976,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T09:37:09.857906-04:00",
+   "viral_chk": "2026-10-13T10:07:10.780805-04:00",
    "metricas": {
     "views": 199,
     "likes": 0,
@@ -1017,7 +1018,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T09:37:09.857906-04:00",
+   "viral_chk": "2026-10-13T10:07:10.780805-04:00",
    "metricas": {
     "views": 399,
     "likes": 1,
@@ -1057,7 +1058,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T09:37:09.857906-04:00",
+   "viral_chk": "2026-10-13T10:07:10.780805-04:00",
    "metricas": {
     "views": 776,
     "likes": 25,
@@ -1134,7 +1135,7 @@
    "texto": "ME CONTA: o maior gasto com filho é fralda ou escola?",
    "quando": "2026-10-12T21:37:08.913114-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T09:37:09.857906-04:00",
+   "viral_chk": "2026-10-13T10:07:10.780805-04:00",
    "metricas": {
     "views": 136,
     "likes": 1,
@@ -1152,7 +1153,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T09:37:09.857906-04:00"
+   "viral_chk": "2026-10-13T10:07:10.780805-04:00"
   }
  ],
  "respondidos": [
@@ -2809,7 +2810,13 @@
   "17986785983882379",
   "18002333801806713",
   "18083548007510646",
-  "18033601580891747"
+  "18033601580891747",
+  "18112026788466045",
+  "18123768709708736",
+  "18625690942018784",
+  "17881276923626987",
+  "17912961387509093",
+  "18010088477975898"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3186,40 +3193,16 @@
   "241564367c": 1,
   "defe303c44": 1,
   "a438537b1d": 1,
-  "8bd24af385": 1
+  "8bd24af385": 1,
+  "26e20d4864": 1,
+  "f20aa0179b": 1,
+  "47d678e1d9": 1,
+  "47e5f6c860": 1,
+  "55f759a56e": 1,
+  "861439d68f": 1
  },
  "reservas_checadas": "2026-10-13",
  "ultimas_respostas": [
-  {
-   "t": "nove horas já é o horário oficial de estar de pijama",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "daqui a pouco vão exigir certificado de domador de cavalo pra tirar carteira kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "belém no calor deve ser experimento científico de sobrevivência kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "ar digital impecável com essa quilometragem baixa era um tesouro mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "educação que facilita as coisas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "no transito pesado realmente salva a sanidade kkk",
-   "p": "discorda",
-   "r": 1
-  },
   {
    "t": "umidade alta transforma qualquer cidade numa sauna com vapor ligado kkk",
    "p": "concorda",
@@ -3339,6 +3322,36 @@
    "t": "kkkkk as garotas tem seus motivos para odiar meu post",
    "p": "neutra",
    "r": 2
+  },
+  {
+   "t": "Quero também, mas aqui não tem link, fica na lista pra próxima 😉",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "Respeito o cavaleiro, mas dividir pode ser um jeito de mostrar parceria desde o início 🙏🏼",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "Entendo, subir em automático às vezes parece que o carro vai morrer 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkk verdade, o luxo de dirigir manual é justamente não precisar disso",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "O GTI 2017 com 19k ainda tá quase novo, hein? kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Depende do meu ânimo e da minha conta bancária, geralmente gira em torno do meu bom coração e da minha dor kkk",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -3906,9 +3919,6 @@
   }
  ],
  "aberturas_post": {
-  "18632920237005051": [
-   "jogo virou segundo"
-  ],
   "17904297183598082": [
    "verdade sem ela",
    "esse e a",
@@ -4070,8 +4080,6 @@
    "curva fechada e"
   ],
   "18145752784569888": [
-   "transito caotico realmente",
-   "pior que o",
    "no caos do",
    "na cidade o",
    "nessa fila ai",
@@ -4089,7 +4097,9 @@
    "no transito pesado",
    "o proximo passo",
    "sim para quem",
-   "as garotas tem"
+   "as garotas tem",
+   "entendo subir em",
+   "verdade o luxo"
   ],
   "17964872100196416": [
    "teoria do dedo",
@@ -4114,7 +4124,6 @@
    "quando a compra"
   ],
   "17970535233152991": [
-   "atitude justa que",
    "olhar diferente ja",
    "obrigada pelo carinho",
    "investimento em producao",
@@ -4133,7 +4142,8 @@
    "tem sim as",
    "ter a paz",
    "entao quem paga",
-   "infelizmente a verdade"
+   "infelizmente a verdade",
+   "depende do meu"
   ],
   "17987399961082313": [
    "aumentar o som",
@@ -4144,7 +4154,6 @@
    "batida seca no"
   ],
   "18125513068915632": [
-   "esse ai a",
    "essa doi no",
    "quem monta outra",
    "motor manual bom",
@@ -4163,7 +4172,8 @@
    "juuu sei que",
    "poxa quem nunca",
    "ah o civic",
-   "acertou em cheio"
+   "acertou em cheio",
+   "o gti 2017"
   ],
   "18094079654172410": [
    "experiencia propria que",
@@ -4207,7 +4217,11 @@
    "verdade ao convidar",
    "doeu ler mas",
    "convidar costuma significar",
-   "concordo dividir mostra"
+   "concordo dividir mostra",
+   "respeito o cavaleiro"
+  ],
+  "18030130718689115": [
+   "quero tambem mas"
   ]
  },
  "shopee_checada": "2026-10-13|1",
