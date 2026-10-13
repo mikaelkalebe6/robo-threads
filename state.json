@@ -31,10 +31,11 @@
    "14:49",
    "16:00",
    "16:58",
-   "19:08"
+   "19:08",
+   "20:07"
   ],
-  "produtos_feitos": 1,
-  "respostas": 82,
+  "produtos_feitos": 2,
+  "respostas": 85,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
@@ -43,27 +44,11 @@
    "18094598612441203": 1,
    "17970535233152991": 20,
    "17987399961082313": 6,
-   "18125513068915632": 20
+   "18125513068915632": 20,
+   "18094079654172410": 3
   }
  },
  "posts": [
-  {
-   "id": "18160752547502938",
-   "insp": "dd26d54eba",
-   "link": "",
-   "texto": "PESSOAS QUE ainda usam caderno pra anotar gastos merecem respeito, porque eu já teria perdido o controle e comprado outra caneta inútil",
-   "quando": "2026-10-07T15:37:10.653013-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 290,
-    "likes": 2,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-12"
-   }
-  },
   {
    "id": "18024377885876978",
    "insp": "59c16f2082",
@@ -961,7 +946,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T19:37:08.353606-04:00"
+   "viral_chk": "2026-10-12T20:07:08.057559-04:00"
   },
   {
    "id": "18131002286503625",
@@ -970,7 +955,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T19:37:08.353606-04:00"
+   "viral_chk": "2026-10-12T20:07:08.057559-04:00"
   },
   {
    "id": "18094598612441203",
@@ -1013,7 +998,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-12T19:37:08.353606-04:00"
+   "viral_chk": "2026-10-12T20:07:08.057559-04:00"
   },
   {
    "id": "18023520131925356",
@@ -1022,7 +1007,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T19:37:08.353606-04:00"
+   "viral_chk": "2026-10-12T20:07:08.057559-04:00"
   },
   {
    "id": "18030130718689115",
@@ -1046,7 +1031,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T19:37:08.353606-04:00"
+   "viral_chk": "2026-10-12T20:07:08.057559-04:00"
   },
   {
    "id": "18125513068915632",
@@ -1068,7 +1053,33 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T19:37:08.353606-04:00"
+   "viral_chk": "2026-10-12T20:07:08.057559-04:00"
+  },
+  {
+   "id": "17940476349379270",
+   "insp": "video_5d35ef883e",
+   "link": "",
+   "texto": "Cansada de camisa social que fica parecendo um saco no corpo. Descobri esse truque e olha como funciona 👀",
+   "quando": "2026-10-12T20:07:08.057559-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "49864801044",
+   "link_pendente": true,
+   "modo_produto": "mesmo",
+   "prod_dados": {
+    "itemId": "49864801044",
+    "nome": "Bi recomenda produtos!Camisa estilo coreano misturado algodão 23 primavera novo ",
+    "preco": 101.52,
+    "nota": 0.0,
+    "vendas": 0,
+    "comissao": 0.03,
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b0-mr1m1b5888ao32",
+    "offerLink": "https://s.shopee.com.br/7ptyM6L3Qo",
+    "campanha": "",
+    "modo": "mesmo"
+   }
   }
  ],
  "respondidos": [
@@ -2670,7 +2681,10 @@
   "17931104145166295",
   "17971097610151754",
   "17944089180360032",
-  "17904502341576177"
+  "17904502341576177",
+  "18632245372042462",
+  "17957187378256405",
+  "18043926629829246"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3086,25 +3100,13 @@
   "5f5b183b2a": 1,
   "c02e1aefdd": 1,
   "c10bbca951": 1,
-  "1874df8f43": 1
+  "1874df8f43": 1,
+  "526f1eccd3": 1,
+  "d33fda4050": 1,
+  "3cdfbf46e0": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "estratégia de defesa válida pra cortar o papo antes de virar novela kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "argumento forte esse no final kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "jeito prático de resolver isso logo e curtir o rolê",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pelo menos a sinceridade veio direto sem rodeios",
    "p": "ressalva",
@@ -3239,6 +3241,21 @@
    "t": "esse aí tanka qualquer buraco e deixa saudades kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "experiência própria que ataca a ansiedade de todo mundo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pura maldade esse ciclo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "por dias é tortura pura, a gente perde a paz 😭",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -3791,28 +3808,6 @@
   }
  ],
  "aberturas_post": {
-  "17883591987689452": [
-   "verdade barzinho simples",
-   "economia e zero",
-   "forca na peruca",
-   "padrao ouro que",
-   "parque no fim",
-   "economia de energia",
-   "economia de tempo",
-   "papo flui muito",
-   "justo mas no",
-   "cafeteria tambem entra",
-   "tem quem prefira",
-   "zero erro papo",
-   "rodizio de 300",
-   "parece obvio para",
-   "quando o lugar",
-   "teste pratico definitivo",
-   "autenticidade em primeiro",
-   "filtro de resistencia",
-   "papo flui bem",
-   "exato economia de"
-  ],
   "18133563994591000": [
    "poder ate podia",
    "depende do buffet",
@@ -4114,6 +4109,11 @@
    "esse modelo deixou",
    "mudar de um",
    "esse ai tanka"
+  ],
+  "18094079654172410": [
+   "experiencia propria que",
+   "pura maldade esse",
+   "por dias e"
   ]
  },
  "shopee_checada": "2026-10-12|1",
@@ -4649,6 +4649,7 @@
   "fio-20261010-2"
  ],
  "videos_usados": {
-  "6ccf4171d8": "2026-10-12T15:07:08.795491-04:00"
+  "6ccf4171d8": "2026-10-12T15:07:08.795491-04:00",
+  "5d35ef883e": "2026-10-12T20:07:08.057559-04:00"
  }
 }
