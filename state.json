@@ -22,7 +22,7 @@
    "14:38"
   ],
   "produtos_feitos": 2,
-  "respostas": 96,
+  "respostas": 99,
   "por_post": {
    "17898060528396441": 12,
    "17940476349379270": 1,
@@ -33,7 +33,7 @@
    "18145752784569888": 14,
    "18099352877530021": 12,
    "18030130718689115": 2,
-   "18206939197374851": 17,
+   "18206939197374851": 20,
    "18128172019868904": 5
   }
  },
@@ -1013,7 +1013,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T16:07:10.220857-04:00",
+   "viral_chk": "2026-10-13T16:37:09.089143-04:00",
    "metricas": {
     "views": 776,
     "likes": 25,
@@ -1091,7 +1091,7 @@
    "texto": "ME CONTA: o maior gasto com filho é fralda ou escola?",
    "quando": "2026-10-12T21:37:08.913114-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T16:07:10.220857-04:00",
+   "viral_chk": "2026-10-13T16:37:09.089143-04:00",
    "metricas": {
     "views": 136,
     "likes": 1,
@@ -1109,7 +1109,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T16:07:10.220857-04:00"
+   "viral_chk": "2026-10-13T16:37:09.089143-04:00"
   },
   {
    "id": "18118951138948718",
@@ -2882,7 +2882,10 @@
   "18643269715006612",
   "18024985586922533",
   "18151099312590863",
-  "17872965066649983"
+  "17872965066649983",
+  "18393463576163699",
+  "17919934377240544",
+  "18193873987402583"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3321,25 +3324,13 @@
   "b2ddd8022e": 1,
   "3664af9c8c": 1,
   "7d7c6b299a": 1,
-  "73644670c4": 1
+  "73644670c4": 1,
+  "05d1d43a93": 1,
+  "6d46c1c964": 1,
+  "ebf31d8fdd": 1
  },
  "reservas_checadas": "2026-10-13",
  "ultimas_respostas": [
-  {
-   "t": "Poxa, dói perder um Civic, sei bem 😔",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "Uau, 10 carros? kkk, parece que vc coleciona adeus de motor",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "É, o C4 tem aquele charme que deixa saudade 😭",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "C4 VTR tem vibe de 2008, saudade boa 🙏🏼",
    "p": "concorda",
@@ -3474,6 +3465,21 @@
    "t": "nessas horas o cenário muda mesmo e o aplicativo deixa a gente na mão",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "oq?",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "justo, lá no interior a história muda mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pesado hein, calma o coração kkk",
+   "p": "discorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4352,7 +4358,10 @@
    "liberdade e otima",
    "pelo menos mais",
    "quem tem nota",
-   "nessas horas o"
+   "nessas horas o",
+   "oq",
+   "justo la no",
+   "pesado hein calma"
   ],
   "18128172019868904": [
    "pois e e",
