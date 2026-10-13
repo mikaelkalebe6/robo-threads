@@ -37,7 +37,7 @@
    "21:31"
   ],
   "produtos_feitos": 2,
-  "respostas": 95,
+  "respostas": 97,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
@@ -48,7 +48,7 @@
    "17987399961082313": 6,
    "18125513068915632": 20,
    "18094079654172410": 6,
-   "17898060528396441": 6,
+   "17898060528396441": 8,
    "17901736290374704": 1
   }
  },
@@ -916,7 +916,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T22:07:07.460566-04:00"
+   "viral_chk": "2026-10-12T22:37:08.585611-04:00"
   },
   {
    "id": "18131002286503625",
@@ -925,7 +925,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T22:07:07.460566-04:00"
+   "viral_chk": "2026-10-12T22:37:08.585611-04:00"
   },
   {
    "id": "18094598612441203",
@@ -968,7 +968,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-12T22:07:07.460566-04:00"
+   "viral_chk": "2026-10-12T22:37:08.585611-04:00"
   },
   {
    "id": "18023520131925356",
@@ -977,7 +977,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T22:07:07.460566-04:00"
+   "viral_chk": "2026-10-12T22:37:08.585611-04:00"
   },
   {
    "id": "18030130718689115",
@@ -1001,7 +1001,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T22:07:07.460566-04:00"
+   "viral_chk": "2026-10-12T22:37:08.585611-04:00"
   },
   {
    "id": "18125513068915632",
@@ -1023,7 +1023,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T22:07:07.460566-04:00"
+   "viral_chk": "2026-10-12T22:37:08.585611-04:00"
   },
   {
    "id": "17940476349379270",
@@ -1060,7 +1060,7 @@
    "texto": "OPINIÃO IMPOPULAR: quem diz que prefere calor nunca morou num lugar de 38 graus onde você sai do banho mais suada do que quando entrou.",
    "quando": "2026-10-12T21:07:09.188417-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T22:07:07.460566-04:00"
+   "viral_chk": "2026-10-12T22:37:08.585611-04:00"
   },
   {
    "id": "17901736290374704",
@@ -1069,7 +1069,7 @@
    "texto": "ME CONTA: o maior gasto com filho é fralda ou escola?",
    "quando": "2026-10-12T21:37:08.913114-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T22:07:07.460566-04:00"
+   "viral_chk": "2026-10-12T22:37:08.585611-04:00"
   }
  ],
  "respondidos": [
@@ -2685,7 +2685,9 @@
   "18116931212090802",
   "18131136232755358",
   "17866178133690310",
-  "17904829410353577"
+  "17904829410353577",
+  "18016719206748006",
+  "18196009819385824"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3117,20 +3119,12 @@
   "ed1fcf8d77": 1,
   "0f01dba12a": 1,
   "bc11f51536": 1,
-  "1466a1cda4": 1
+  "1466a1cda4": 1,
+  "927cd9528f": 1,
+  "30f7b6211d": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "Ah, o 500 2013, charme de bolso kkk 😅",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse modelo deixa saudade mesmo em quem só dirigiu uma vez",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse motor e a estabilidade dele realmente deixam saudades na estrada",
    "p": "concorda",
@@ -3269,6 +3263,16 @@
   {
    "t": "carioca tem pacto com o sol só pode kkk",
    "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "Manaus sem praia no calor é teste de paciência nível hard kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "entrar no banco gelado é um abraço na alma kkk",
+   "p": "concorda",
    "r": 1
   }
  ],
@@ -4113,7 +4117,9 @@
    "justo calor de",
    "sair do banho",
    "curitiba desafiando as",
-   "carioca tem pacto"
+   "carioca tem pacto",
+   "manaus sem praia",
+   "entrar no banco"
   ],
   "17901736290374704": [
    "menina ja nasce"
