@@ -18,10 +18,11 @@
   "feitos": [
    "09:04",
    "13:04",
-   "13:50"
+   "13:50",
+   "14:38"
   ],
-  "produtos_feitos": 1,
-  "respostas": 78,
+  "produtos_feitos": 2,
+  "respostas": 84,
   "por_post": {
    "17898060528396441": 12,
    "17940476349379270": 1,
@@ -32,27 +33,10 @@
    "18145752784569888": 14,
    "18099352877530021": 11,
    "18030130718689115": 2,
-   "18206939197374851": 5
+   "18206939197374851": 11
   }
  },
  "posts": [
-  {
-   "id": "17921074737446173",
-   "insp": "6d05f48de0",
-   "link": "",
-   "texto": "Comer fruta fora de época sem olhar o preço no mercado já virou símbolo de status pra mim. O custo de vida subiu tanto que até a goiaba virou artigo de luxo.",
-   "quando": "2026-10-07T21:07:09.137287-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 404,
-    "likes": 4,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-13"
-   }
-  },
   {
    "id": "18105144680201716",
    "insp": "ab0f309ba0",
@@ -988,7 +972,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T14:37:07.606623-04:00",
+   "viral_chk": "2026-10-13T15:07:09.692603-04:00",
    "metricas": {
     "views": 399,
     "likes": 1,
@@ -1028,7 +1012,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T14:37:07.606623-04:00",
+   "viral_chk": "2026-10-13T15:07:09.692603-04:00",
    "metricas": {
     "views": 776,
     "likes": 25,
@@ -1106,7 +1090,7 @@
    "texto": "ME CONTA: o maior gasto com filho é fralda ou escola?",
    "quando": "2026-10-12T21:37:08.913114-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T14:37:07.606623-04:00",
+   "viral_chk": "2026-10-13T15:07:09.692603-04:00",
    "metricas": {
     "views": 136,
     "likes": 1,
@@ -1124,7 +1108,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T14:37:07.606623-04:00"
+   "viral_chk": "2026-10-13T15:07:09.692603-04:00"
   },
   {
    "id": "18118951138948718",
@@ -1162,7 +1146,19 @@
    "texto": "OPINIÃO IMPOPULAR: carro próprio hoje é luxo desnecessário, app resolve tudo.",
    "quando": "2026-10-13T14:07:10.179200-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T14:37:07.606623-04:00"
+   "viral_chk": "2026-10-13T15:07:09.692603-04:00"
+  },
+  {
+   "id": "18128172019868904",
+   "insp": "fio_fio-20261010-3",
+   "link": "",
+   "texto": "Churrasco na casa dos outros tem sempre o mesmo problema: ninguém acha uma faca que corte.",
+   "quando": "2026-10-13T15:07:09.692603-04:00",
+   "ia": "fio_literal",
+   "estrategia": "fio",
+   "formato": "fio",
+   "produto": "22894551427",
+   "link_coment": "https://s.shopee.com.br/5LCZzN4jsU"
   }
  ],
  "respondidos": [
@@ -2862,7 +2858,13 @@
   "18419707627155226",
   "18028728620691403",
   "18416070418085953",
-  "17917114410265031"
+  "17917114410265031",
+  "18031882469689916",
+  "18340720588285714",
+  "18118926359062304",
+  "18012716297763427",
+  "18634797133020169",
+  "18123093178730498"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3284,40 +3286,16 @@
   "77afc13fc9": 1,
   "6299b5167b": 1,
   "efcf79b4f0": 1,
-  "ab1920944a": 1
+  "ab1920944a": 1,
+  "8572c6dc6a": 1,
+  "acfb3c7912": 1,
+  "4a4b438586": 1,
+  "d98240b8ff": 1,
+  "1d843c5a59": 1,
+  "128e0b278b": 1
  },
  "reservas_checadas": "2026-10-13",
  "ultimas_respostas": [
-  {
-   "t": "nostalgia de coisa do avo e sempre a mais pesada",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "Entendo, esperar o reembolso sempre dá um frio na barriga",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kk, tu não vai parar de falar de conexão, hein?",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o lado cinza do céu deprime até quem ama chuva",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Vitara, o companheiro que te dá carinho mesmo com os troços elétricos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a vida e um mistério e a conta é só mais uma camada kkk",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "kkttbm, o boleto não espera ninguém",
    "p": "concorda",
@@ -3437,6 +3415,36 @@
    "t": "Concordo, app pode virar correria estressante kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "para quem tem horário certo o trajeto de ônibus funciona muito bem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "praia e trilha realmente pedem roda livre, aí o app fica na mão kkkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "boa sorte na experiência, depois me conta como foi",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, carro dá liberdade, mas o app ainda poupa tempo kkkkk",
+   "p": "ressalva",
+   "r": 2
+  },
+  {
+   "t": "o uno de vinte mil é patrimônio histórico kkkk alugar pra viajar é boa",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "essa rotina de cancelamento e chuva acaba com qualquer economia do aplicativo",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4304,7 +4312,13 @@
    "exato nada de",
    "entendo cada cidade",
    "faz sentido hobby",
-   "concordo app pode"
+   "concordo app pode",
+   "para quem tem",
+   "praia e trilha",
+   "boa sorte na",
+   "verdade carro da",
+   "o uno de",
+   "essa rotina de"
   ]
  },
  "shopee_checada": "2026-10-13|1",
@@ -4697,7 +4711,8 @@
   "58262137609": "2026-10-12T19:07:08.855043-04:00",
   "49864801044": "2026-10-12T22:07:07.460566-04:00",
   "20798026236": "2026-10-13T07:07:09.287262-04:00",
-  "22798989636": "2026-10-13T14:37:07.606623-04:00"
+  "22798989636": "2026-10-13T14:37:07.606623-04:00",
+  "22894551427": "2026-10-13T15:07:09.692603-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4810,7 +4825,8 @@
  "shopee_campanhas": [],
  "fios_usados": [
   "fio-20261010-1",
-  "fio-20261010-2"
+  "fio-20261010-2",
+  "fio-20261010-3"
  ],
  "videos_usados": {
   "6ccf4171d8": "2026-10-12T15:07:08.795491-04:00",
