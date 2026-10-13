@@ -23,7 +23,7 @@
    "16:47"
   ],
   "produtos_feitos": 2,
-  "respostas": 99,
+  "respostas": 100,
   "por_post": {
    "17898060528396441": 12,
    "17940476349379270": 1,
@@ -35,7 +35,8 @@
    "18099352877530021": 12,
    "18030130718689115": 2,
    "18206939197374851": 20,
-   "18128172019868904": 5
+   "18128172019868904": 5,
+   "18033024983895666": 1
   }
  },
  "posts": [
@@ -997,7 +998,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T17:07:07.808050-04:00",
+   "viral_chk": "2026-10-13T17:37:08.407548-04:00",
    "metricas": {
     "views": 776,
     "likes": 25,
@@ -1075,7 +1076,7 @@
    "texto": "ME CONTA: o maior gasto com filho é fralda ou escola?",
    "quando": "2026-10-12T21:37:08.913114-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T17:07:07.808050-04:00",
+   "viral_chk": "2026-10-13T17:37:08.407548-04:00",
    "metricas": {
     "views": 136,
     "likes": 1,
@@ -1093,7 +1094,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T17:07:07.808050-04:00"
+   "viral_chk": "2026-10-13T17:37:08.407548-04:00"
   },
   {
    "id": "18118951138948718",
@@ -1157,7 +1158,7 @@
    "texto": "VAMOS SER HONESTOS: o mecânico fazer aquele barulho com a boca olhando pro motor já é metade do orçamento.",
    "quando": "2026-10-13T17:07:07.808050-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T17:07:07.808050-04:00"
+   "viral_chk": "2026-10-13T17:37:08.407548-04:00"
   }
  ],
  "respondidos": [
@@ -2878,7 +2879,8 @@
   "17872965066649983",
   "18393463576163699",
   "17919934377240544",
-  "18193873987402583"
+  "18193873987402583",
+  "18341633707257786"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3273,7 +3275,7 @@
   "050ab63a3d": 1,
   "d3201a5dea": 1,
   "5110b3ae9d": 1,
-  "a39c96d8a6": 1,
+  "a39c96d8a6": 2,
   "95533460f8": 1,
   "a35f442b9f": 1,
   "aedcf27325": 1,
@@ -3326,11 +3328,6 @@
  },
  "reservas_checadas": "2026-10-13",
  "ultimas_respostas": [
-  {
-   "t": "C4 VTR tem vibe de 2008, saudade boa 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Que saudade! A Supreme era um arraso, né? 😆",
    "p": "concorda",
@@ -3474,6 +3471,11 @@
   {
    "t": "pesado hein, calma o coração kkk",
    "p": "discorda",
+   "r": 1
+  },
+  {
+   "t": "taxa de efeitos especiais inclusa no valor kkk",
+   "p": "concorda",
    "r": 1
   }
  ],
@@ -4052,18 +4054,6 @@
   }
  ],
  "aberturas_post": {
-  "17931200094409342": [
-   "justo manutencao de",
-   "para garantir o",
-   "otimo dia por",
-   "aperol com ar",
-   "divisao oficial de",
-   "paz e sombra",
-   "ate parece plano",
-   "final de tarde",
-   "idade avancada traz",
-   "zero defeitos na"
-  ],
   "18078986099393308": [
    "roleta russa automotiva",
    "precisa mesmo de",
@@ -4364,6 +4354,9 @@
    "faca de churrasco",
    "estrategia perfeita quem",
    "e o prato"
+  ],
+  "18033024983895666": [
+   "taxa de efeitos"
   ]
  },
  "shopee_checada": "2026-10-13|1",
