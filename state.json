@@ -32,10 +32,11 @@
    "16:00",
    "16:58",
    "19:08",
-   "20:07"
+   "20:07",
+   "20:50"
   ],
   "produtos_feitos": 2,
-  "respostas": 86,
+  "respostas": 87,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
@@ -45,27 +46,10 @@
    "17970535233152991": 20,
    "17987399961082313": 6,
    "18125513068915632": 20,
-   "18094079654172410": 4
+   "18094079654172410": 5
   }
  },
  "posts": [
-  {
-   "id": "18024377885876978",
-   "insp": "59c16f2082",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: o domingo à noite consegue ser bem mais pesado que a segunda de manhã.",
-   "quando": "2026-10-07T16:07:10.043927-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 953,
-    "likes": 18,
-    "replies": 34,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-12"
-   }
-  },
   {
    "id": "18109013291351299",
    "insp": "b7ff902af0",
@@ -946,7 +930,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T20:37:07.740793-04:00"
+   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
   },
   {
    "id": "18131002286503625",
@@ -955,7 +939,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T20:37:07.740793-04:00"
+   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
   },
   {
    "id": "18094598612441203",
@@ -998,7 +982,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-12T20:37:07.740793-04:00"
+   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
   },
   {
    "id": "18023520131925356",
@@ -1007,7 +991,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T20:37:07.740793-04:00"
+   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
   },
   {
    "id": "18030130718689115",
@@ -1031,7 +1015,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T20:37:07.740793-04:00"
+   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
   },
   {
    "id": "18125513068915632",
@@ -1053,7 +1037,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T20:37:07.740793-04:00"
+   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
   },
   {
    "id": "17940476349379270",
@@ -1080,6 +1064,15 @@
     "campanha": "",
     "modo": "mesmo"
    }
+  },
+  {
+   "id": "17898060528396441",
+   "insp": "c256239fef",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: quem diz que prefere calor nunca morou num lugar de 38 graus onde você sai do banho mais suada do que quando entrou.",
+   "quando": "2026-10-12T21:07:09.188417-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
   }
  ],
  "respondidos": [
@@ -2685,7 +2678,8 @@
   "18632245372042462",
   "17957187378256405",
   "18043926629829246",
-  "18467553613144000"
+  "18467553613144000",
+  "18114199103601336"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2851,7 +2845,8 @@
   "85d593e73ec0e5fe1adc51ab20c11783",
   "b21d96621605970f759f8e1a7252a7b4",
   "0fb1343460a7d60f67dab3d00d208813",
-  "4ae0e33b8d1c5342f01b72573a74caff"
+  "4ae0e33b8d1c5342f01b72573a74caff",
+  "6092d20a15ba71084230d130647defe0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3017,7 +3012,8 @@
   "ca1265befe": 1791828457.4636238,
   "e55cc2488b": 1791835650.942528,
   "834ef38ad5": 1791839248.1884155,
-  "f784c8426a": 1791848298.238251
+  "f784c8426a": 1791848298.238251,
+  "c256239fef": 1791853676.4890728
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3105,15 +3101,11 @@
   "526f1eccd3": 1,
   "d33fda4050": 1,
   "3cdfbf46e0": 1,
-  "48e5e2869d": 1
+  "48e5e2869d": 1,
+  "a3ea759c1d": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "sensor que avisa tarde demais só serve pra testar o para-choque",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse é o único barulho que faz o coração errar a batida kkkkkk",
    "p": "concorda",
@@ -3257,6 +3249,11 @@
   {
    "t": "pior que paz de espírito também tem seu valor",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "parece que a tela até congela nessa hora",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -4116,7 +4113,8 @@
    "experiencia propria que",
    "pura maldade esse",
    "por dias e",
-   "pior que paz"
+   "pior que paz",
+   "parece que a"
   ]
  },
  "shopee_checada": "2026-10-12|1",
