@@ -19,7 +19,8 @@
    "09:04",
    "13:04",
    "13:50",
-   "14:38"
+   "14:38",
+   "16:47"
   ],
   "produtos_feitos": 2,
   "respostas": 99,
@@ -38,23 +39,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18105144680201716",
-   "insp": "ab0f309ba0",
-   "link": "",
-   "texto": "Olho pro meu armário de infância e lembro de ter ganhado bem menos coisa no Natal do que a criançada ganha hoje em dia.",
-   "quando": "2026-10-07T21:37:08.620250-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 594,
-    "likes": 2,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-13"
-   }
-  },
   {
    "id": "17978027112134799",
    "insp": "927cd87598",
@@ -1013,7 +997,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T16:37:09.089143-04:00",
+   "viral_chk": "2026-10-13T17:07:07.808050-04:00",
    "metricas": {
     "views": 776,
     "likes": 25,
@@ -1091,7 +1075,7 @@
    "texto": "ME CONTA: o maior gasto com filho é fralda ou escola?",
    "quando": "2026-10-12T21:37:08.913114-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T16:37:09.089143-04:00",
+   "viral_chk": "2026-10-13T17:07:07.808050-04:00",
    "metricas": {
     "views": 136,
     "likes": 1,
@@ -1109,7 +1093,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T16:37:09.089143-04:00"
+   "viral_chk": "2026-10-13T17:07:07.808050-04:00"
   },
   {
    "id": "18118951138948718",
@@ -1165,6 +1149,15 @@
    "formato": "fio",
    "produto": "22894551427",
    "link_coment": "https://s.shopee.com.br/5LCZzN4jsU"
+  },
+  {
+   "id": "18033024983895666",
+   "insp": "54cb923235",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: o mecânico fazer aquele barulho com a boca olhando pro motor já é metade do orçamento.",
+   "quando": "2026-10-13T17:07:07.808050-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-13T17:07:07.808050-04:00"
   }
  ],
  "respondidos": [
@@ -3055,7 +3048,8 @@
   "6092d20a15ba71084230d130647defe0",
   "058841fcb120fc1bc08da59289393698",
   "2f9840b8caaec07620945fbb4aca493c",
-  "5fe35321b26a373140fede7fe2635f5e"
+  "5fe35321b26a373140fede7fe2635f5e",
+  "d5c35068662c1dfaccb807ea3570fcac"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3225,7 +3219,8 @@
   "c256239fef": 1791853676.4890728,
   "8bcb7cd8a4": 1791855449.7577894,
   "f505b6ba89": 1791896867.5107985,
-  "1ad1290613": 1791914896.075832
+  "1ad1290613": 1791914896.075832,
+  "54cb923235": 1791925655.3801472
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
