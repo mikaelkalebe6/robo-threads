@@ -33,10 +33,11 @@
    "16:58",
    "19:08",
    "20:07",
-   "20:50"
+   "20:50",
+   "21:31"
   ],
   "produtos_feitos": 2,
-  "respostas": 87,
+  "respostas": 91,
   "por_post": {
    "18145752784569888": 20,
    "17894365761611421": 1,
@@ -46,27 +47,11 @@
    "17970535233152991": 20,
    "17987399961082313": 6,
    "18125513068915632": 20,
-   "18094079654172410": 5
+   "18094079654172410": 6,
+   "17898060528396441": 3
   }
  },
  "posts": [
-  {
-   "id": "18109013291351299",
-   "insp": "b7ff902af0",
-   "link": "",
-   "texto": "Viajar sozinho ou viajar com a turma?\n\nDe um lado a paz de não ter que negociar roteiro nem horário com ninguém. Do outro, a resenha boa de dividir os perrengues. \n\nEu amo meus amigos, mas a liberdade de ir sozinho ganha fácil.",
-   "quando": "2026-10-07T17:07:08.688987-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 660,
-    "likes": 14,
-    "replies": 24,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-12"
-   }
-  },
   {
    "id": "18129184651699420",
    "insp": "bc90ccda37",
@@ -930,7 +915,7 @@
    "texto": "DÚVIDA SINCERA: ligação sem avisar hoje em dia é intimidade ou falta de noção?",
    "quando": "2026-10-12T08:37:08.914382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
+   "viral_chk": "2026-10-12T21:37:08.913114-04:00"
   },
   {
    "id": "18131002286503625",
@@ -939,7 +924,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro sinal de que vocês estavam ficando velhos? \n\nO meu foi começar a achar um absurdo sair de casa depois das dez da noite.",
    "quando": "2026-10-12T09:37:08.089668-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
+   "viral_chk": "2026-10-12T21:37:08.913114-04:00"
   },
   {
    "id": "18094598612441203",
@@ -982,7 +967,7 @@
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo? Eu ainda deixo o rangido da porta passar batido.",
    "quando": "2026-10-12T12:37:08.748031-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
+   "viral_chk": "2026-10-12T21:37:08.913114-04:00"
   },
   {
    "id": "18023520131925356",
@@ -991,7 +976,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
    "quando": "2026-10-12T14:07:09.043573-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
+   "viral_chk": "2026-10-12T21:37:08.913114-04:00"
   },
   {
    "id": "18030130718689115",
@@ -1015,7 +1000,7 @@
    "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
    "quando": "2026-10-12T16:07:09.469852-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
+   "viral_chk": "2026-10-12T21:37:08.913114-04:00"
   },
   {
    "id": "18125513068915632",
@@ -1037,7 +1022,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
    "quando": "2026-10-12T19:37:08.353606-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
+   "viral_chk": "2026-10-12T21:37:08.913114-04:00"
   },
   {
    "id": "17940476349379270",
@@ -1072,7 +1057,16 @@
    "texto": "OPINIÃO IMPOPULAR: quem diz que prefere calor nunca morou num lugar de 38 graus onde você sai do banho mais suada do que quando entrou.",
    "quando": "2026-10-12T21:07:09.188417-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T21:07:09.188417-04:00"
+   "viral_chk": "2026-10-12T21:37:08.913114-04:00"
+  },
+  {
+   "id": "17901736290374704",
+   "insp": "8bcb7cd8a4",
+   "link": "",
+   "texto": "ME CONTA: o maior gasto com filho é fralda ou escola?",
+   "quando": "2026-10-12T21:37:08.913114-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-12T21:37:08.913114-04:00"
   }
  ],
  "respondidos": [
@@ -2679,7 +2673,12 @@
   "17957187378256405",
   "18043926629829246",
   "18467553613144000",
-  "18114199103601336"
+  "18114199103601336",
+  "18284300278289773",
+  "18114209357329398",
+  "18111922613150484",
+  "17992539150022466",
+  "18118323859997956"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -2846,7 +2845,8 @@
   "b21d96621605970f759f8e1a7252a7b4",
   "0fb1343460a7d60f67dab3d00d208813",
   "4ae0e33b8d1c5342f01b72573a74caff",
-  "6092d20a15ba71084230d130647defe0"
+  "6092d20a15ba71084230d130647defe0",
+  "058841fcb120fc1bc08da59289393698"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3013,7 +3013,8 @@
   "e55cc2488b": 1791835650.942528,
   "834ef38ad5": 1791839248.1884155,
   "f784c8426a": 1791848298.238251,
-  "c256239fef": 1791853676.4890728
+  "c256239fef": 1791853676.4890728,
+  "8bcb7cd8a4": 1791855449.7577894
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3051,7 +3052,7 @@
   "eb8e874c87": 1,
   "795b685015": 2,
   "db407d487e": 1,
-  "5566b3a5f0": 1,
+  "5566b3a5f0": 2,
   "bec458e8f2": 1,
   "23198a81a4": 1,
   "f99b7e8326": 1,
@@ -3102,30 +3103,13 @@
   "d33fda4050": 1,
   "3cdfbf46e0": 1,
   "48e5e2869d": 1,
-  "a3ea759c1d": 1
+  "a3ea759c1d": 1,
+  "c14e2e0cf3": 1,
+  "e7102b50d0": 1,
+  "42e55b4eae": 1
  },
  "reservas_checadas": "2026-10-12",
  "ultimas_respostas": [
-  {
-   "t": "esse é o único barulho que faz o coração errar a batida kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse zelo e respeito fazem toda a diferença msm",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ignorância seletiva é a única manutenção que cabe no orçamento kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o Rex vai ganhar mais um espaco na cama kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "batida seca no buraco é o aviso oficial pra abaixar o som e fingir demência kkk",
    "p": "concorda",
@@ -3253,6 +3237,26 @@
   },
   {
    "t": "parece que a tela até congela nessa hora",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "literalmente um forno a lenha sem tampa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o ar condicionado é tudo mas tem dia q nem ele dá conta",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "justo, calor de leve até vai mas forno ninguém merece",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "a ilusão de que o sinal vai chegar mais rápido olhando pra tela",
    "p": "concorda",
    "r": 0
   }
@@ -3807,14 +3811,6 @@
   }
  ],
  "aberturas_post": {
-  "18133563994591000": [
-   "poder ate podia",
-   "depende do buffet",
-   "tem que querer",
-   "estrategia perfeita assim",
-   "sete anos de",
-   "esse e o"
-  ],
   "18015338645750822": [
    "esse desenho divide",
    "verdade esse classico",
@@ -4114,7 +4110,13 @@
    "pura maldade esse",
    "por dias e",
    "pior que paz",
-   "parece que a"
+   "parece que a",
+   "a ilusao de"
+  ],
+  "17898060528396441": [
+   "literalmente um forno",
+   "o ar condicionado",
+   "justo calor de"
   ]
  },
  "shopee_checada": "2026-10-12|1",
