@@ -21,12 +21,13 @@
    "08:02"
   ],
   "produtos_feitos": 0,
-  "respostas": 17,
+  "respostas": 23,
   "por_post": {
    "18179498749440025": 2,
    "18128172019868904": 1,
    "18206939197374851": 6,
-   "18125513068915632": 8
+   "18125513068915632": 13,
+   "18120563288286597": 1
   }
  },
  "posts": [
@@ -1033,7 +1034,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-14T08:07:07.703510-04:00",
+   "viral_chk": "2026-10-14T08:37:08.993610-04:00",
    "metricas": {
     "views": 504,
     "likes": 7,
@@ -1133,7 +1134,7 @@
    "texto": "VAMOS SER HONESTOS: o mecânico fazer aquele barulho com a boca olhando pro motor já é metade do orçamento.",
    "quando": "2026-10-13T17:07:07.808050-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T08:07:07.703510-04:00",
+   "viral_chk": "2026-10-14T08:37:08.993610-04:00",
    "metricas": {
     "views": 401,
     "likes": 3,
@@ -1175,7 +1176,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que divide cada centavo da conta é mais parceiro na vida ou só tem planilha demais na gaveta",
    "quando": "2026-10-13T22:07:07.998908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T08:07:07.703510-04:00",
+   "viral_chk": "2026-10-14T08:37:08.993610-04:00",
    "metricas": {
     "views": 614,
     "likes": 1,
@@ -1193,7 +1194,7 @@
    "texto": "VAMOS SER HONESTOS: o verdadeiro objetivo de ir a casamento é ver se a mesa de frios tem aquela coxinha que só aparece em festa.",
    "quando": "2026-10-14T08:07:07.703510-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T08:07:07.703510-04:00"
+   "viral_chk": "2026-10-14T08:37:08.993610-04:00"
   }
  ],
  "respondidos": [
@@ -2936,7 +2937,13 @@
   "18132381787686306",
   "18074208302762324",
   "18087227867317253",
-  "18124353058917870"
+  "18124353058917870",
+  "18193507450399551",
+  "18637534303047931",
+  "18338425222302987",
+  "18465752389188605",
+  "18640410196040504",
+  "18346252486266354"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3303,40 +3310,16 @@
   "7b846535a4": 1,
   "e91af1af81": 1,
   "689e5ce82a": 1,
-  "4b42374938": 1
+  "4b42374938": 1,
+  "42e55b4eae": 1,
+  "28cd1d4cfe": 1,
+  "f01e53ffc5": 1,
+  "dacbe57646": 1,
+  "4beb6f0ef1": 1,
+  "60a0645e33": 1
  },
  "reservas_checadas": "2026-10-14",
  "ultimas_respostas": [
-  {
-   "t": "essa hora da noite no pronto socorro sem carro realmente complica bastante",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "e o prato plástico acaba antes da louça começar kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "antigamente podia ser regra mas hoje em dia o boleto assusta todo mundo igual",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "liberdade é ótima até chegar o IPVA e a manutenção",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pelo menos mais alguém que vê a luz no fim do túnel",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem tem nota alta só vive de boa viagem então",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "nessas horas o cenário muda mesmo e o aplicativo deixa a gente na mão",
    "p": "ressalva",
@@ -3454,6 +3437,36 @@
   },
   {
    "t": "esse aí marcou época nas ruas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "se o amor da vida estiver na mesa de frios já tem 50 por cento de chance dar certo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quem tem um bom companheiro na garagem não larga nunca",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "chevette antigo tem charme demais, quem teve chora a saudade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse bicho é brabo demais, deixou saudades em muita gente kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "nunca ter vendido é uma paz financeira gigante",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "marcar a pele com o carro que deixou saudade foi uma ótima ideia",
    "p": "concorda",
    "r": 0
   }
@@ -4043,9 +4056,6 @@
   }
  ],
  "aberturas_post": {
-  "18076654343444049": [
-   "boa tarde tudo"
-  ],
   "17924890374203799": [
    "naruto players era",
    "cd do macdonalds",
@@ -4215,11 +4225,6 @@
    "batida seca no"
   ],
   "18125513068915632": [
-   "essesidekick ta na",
-   "nostalgia de coisa",
-   "vitara o companheiro",
-   "o march tem",
-   "nossa parece que",
    "banco de veludo",
    "poxa doi perder",
    "uau 10 carros",
@@ -4234,7 +4239,12 @@
    "manter dois carros",
    "esse motor dava",
    "corsa 97 guerreiro",
-   "esse ai marcou"
+   "esse ai marcou",
+   "quem tem um",
+   "chevette antigo tem",
+   "esse bicho e",
+   "nunca ter vendido",
+   "marcar a pele"
   ],
   "18094079654172410": [
    "experiencia propria que",
@@ -4331,6 +4341,9 @@
   "18179498749440025": [
    "pensar junto e",
    "clareza financeira e"
+  ],
+  "18120563288286597": [
+   "se o amor"
   ]
  },
  "shopee_checada": "2026-10-14|1",
