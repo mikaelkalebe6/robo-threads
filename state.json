@@ -1062,7 +1062,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T22:07:07.998908-04:00"
+   "viral_chk": "2026-10-13T22:37:07.391066-04:00"
   },
   {
    "id": "18118951138948718",
@@ -1126,7 +1126,7 @@
    "texto": "VAMOS SER HONESTOS: o mecânico fazer aquele barulho com a boca olhando pro motor já é metade do orçamento.",
    "quando": "2026-10-13T17:07:07.808050-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T22:07:07.998908-04:00"
+   "viral_chk": "2026-10-13T22:37:07.391066-04:00"
   },
   {
    "id": "18100081160076436",
@@ -1150,7 +1150,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que divide cada centavo da conta é mais parceiro na vida ou só tem planilha demais na gaveta",
    "quando": "2026-10-13T22:07:07.998908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T22:07:07.998908-04:00"
+   "viral_chk": "2026-10-13T22:37:07.391066-04:00"
   }
  ],
  "respondidos": [
@@ -2875,7 +2875,8 @@
   "18341633707257786",
   "18097725038397040",
   "18641039638045782",
-  "18103173416525887"
+  "18103173416525887",
+  "18103677644308163"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
