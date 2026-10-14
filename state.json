@@ -19,12 +19,12 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 11,
   "por_post": {
    "18179498749440025": 2,
    "18128172019868904": 1,
-   "18206939197374851": 2,
-   "18125513068915632": 1
+   "18206939197374851": 4,
+   "18125513068915632": 4
   }
  },
  "posts": [
@@ -1048,7 +1048,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-14T07:07:09.413866-04:00",
+   "viral_chk": "2026-10-14T07:37:07.774031-04:00",
    "metricas": {
     "views": 504,
     "likes": 7,
@@ -1148,7 +1148,7 @@
    "texto": "VAMOS SER HONESTOS: o mecânico fazer aquele barulho com a boca olhando pro motor já é metade do orçamento.",
    "quando": "2026-10-13T17:07:07.808050-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T07:07:09.413866-04:00",
+   "viral_chk": "2026-10-14T07:37:07.774031-04:00",
    "metricas": {
     "views": 401,
     "likes": 3,
@@ -1190,7 +1190,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que divide cada centavo da conta é mais parceiro na vida ou só tem planilha demais na gaveta",
    "quando": "2026-10-13T22:07:07.998908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T07:07:09.413866-04:00",
+   "viral_chk": "2026-10-14T07:37:07.774031-04:00",
    "metricas": {
     "views": 614,
     "likes": 1,
@@ -2931,7 +2931,12 @@
   "18118357606919350",
   "17877557088566638",
   "18413358142081503",
-  "18108187535362232"
+  "18108187535362232",
+  "18114172433025341",
+  "18152468863527033",
+  "17999373836820709",
+  "18106945172210153",
+  "18185779918418621"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3285,35 +3290,15 @@
   "534b341de2": 1,
   "1a13c36ffb": 1,
   "737799f57f": 1,
-  "8ffa789efd": 1
+  "8ffa789efd": 1,
+  "617fa3f463": 1,
+  "fdf141e59d": 1,
+  "134fb5b37e": 1,
+  "532165adcc": 1,
+  "87107978a1": 1
  },
  "reservas_checadas": "2026-10-14",
  "ultimas_respostas": [
-  {
-   "t": "para quem tem horário certo o trajeto de ônibus funciona muito bem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "praia e trilha realmente pedem roda livre, aí o app fica na mão kkkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "boa sorte na experiência, depois me conta como foi",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Verdade, carro dá liberdade, mas o app ainda poupa tempo kkkkk",
-   "p": "ressalva",
-   "r": 2
-  },
-  {
-   "t": "o uno de vinte mil é patrimônio histórico kkkk alugar pra viajar é boa",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "essa rotina de cancelamento e chuva acaba com qualquer economia do aplicativo",
    "p": "ressalva",
@@ -3437,6 +3422,31 @@
   {
    "t": "compra de mês com mercado cheio é o teste supremo do app msm",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "espaço é detalhe quando a saudade do celtinha aperta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse perrengue de motorista cancelar e atrasar testa a paciência de qualquer um mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "imagino o trabalho que deu para o novo dono deixar desse jeito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nessa hora o aplicativo realmente deixa a gente na mão",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "esse modelo tem presença forte por onde passa",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -4197,9 +4207,6 @@
    "batida seca no"
   ],
   "18125513068915632": [
-   "ar digital impecavel",
-   "poxa dois ja",
-   "juuu sei que",
    "poxa quem nunca",
    "ah o civic",
    "acertou em cheio",
@@ -4216,7 +4223,10 @@
    "c4 vtr tem",
    "que saudade a",
    "poxa realmente doi",
-   "essa s10 cabine"
+   "essa s10 cabine",
+   "espaco e detalhe",
+   "imagino o trabalho",
+   "esse modelo tem"
   ],
   "18094079654172410": [
    "experiencia propria que",
@@ -4276,8 +4286,6 @@
    "te mandei o"
   ],
   "18206939197374851": [
-   "entendo cada cidade",
-   "faz sentido hobby",
    "concordo app pode",
    "para quem tem",
    "praia e trilha",
@@ -4295,7 +4303,9 @@
    "justo la no",
    "pesado hein calma",
    "nessas situacoes especificas",
-   "compra de mes"
+   "compra de mes",
+   "esse perrengue de",
+   "nessa hora o"
   ],
   "18128172019868904": [
    "pois e e",
