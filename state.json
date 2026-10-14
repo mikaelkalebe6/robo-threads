@@ -25,11 +25,11 @@
    "12:36"
   ],
   "produtos_feitos": 2,
-  "respostas": 36,
+  "respostas": 37,
   "por_post": {
    "18179498749440025": 2,
    "18128172019868904": 1,
-   "18206939197374851": 8,
+   "18206939197374851": 9,
    "18125513068915632": 14,
    "18120563288286597": 3,
    "18033024983895666": 1,
@@ -1073,7 +1073,7 @@
    "texto": "VAMOS SER HONESTOS: o mecânico fazer aquele barulho com a boca olhando pro motor já é metade do orçamento.",
    "quando": "2026-10-13T17:07:07.808050-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T13:37:08.865218-04:00",
+   "viral_chk": "2026-10-14T14:07:09.942496-04:00",
    "metricas": {
     "views": 401,
     "likes": 3,
@@ -1115,7 +1115,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que divide cada centavo da conta é mais parceiro na vida ou só tem planilha demais na gaveta",
    "quando": "2026-10-13T22:07:07.998908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T13:37:08.865218-04:00",
+   "viral_chk": "2026-10-14T14:07:09.942496-04:00",
    "metricas": {
     "views": 614,
     "likes": 1,
@@ -1133,7 +1133,7 @@
    "texto": "VAMOS SER HONESTOS: o verdadeiro objetivo de ir a casamento é ver se a mesa de frios tem aquela coxinha que só aparece em festa.",
    "quando": "2026-10-14T08:07:07.703510-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T13:37:08.865218-04:00"
+   "viral_chk": "2026-10-14T14:07:09.942496-04:00"
   },
   {
    "id": "17991066036027775",
@@ -1157,7 +1157,7 @@
    "texto": "Meu primeiro carro vivia mais colado com fita isolante do que com solda e mesmo assim eu achava que tava dirigindo uma nave.",
    "quando": "2026-10-14T09:37:08.782552-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T13:37:08.865218-04:00"
+   "viral_chk": "2026-10-14T14:07:09.942496-04:00"
   },
   {
    "id": "18167880400473546",
@@ -1166,7 +1166,7 @@
    "texto": "VAMOS SER HONESTOS: qual cantor ou banda meio duvidosa você escuta escondido no talo do carro quando tá sozinha na estrada",
    "quando": "2026-10-14T11:07:10.583920-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T13:37:08.865218-04:00"
+   "viral_chk": "2026-10-14T14:07:09.942496-04:00"
   },
   {
    "id": "17868867450662088",
@@ -2954,7 +2954,8 @@
   "18143141176609436",
   "17908318107589014",
   "18377034862240636",
-  "18350745037271823"
+  "18350745037271823",
+  "18129744670790307"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3343,15 +3344,11 @@
   "3ddd76e731": 1,
   "0d25dd4295": 1,
   "0428e10b31": 1,
-  "672efbced3": 1
+  "672efbced3": 1,
+  "6035244efa": 1
  },
  "reservas_checadas": "2026-10-14",
  "ultimas_respostas": [
-  {
-   "t": "espaço é detalhe quando a saudade do celtinha aperta",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse perrengue de motorista cancelar e atrasar testa a paciência de qualquer um mesmo",
    "p": "ressalva",
@@ -3494,6 +3491,11 @@
   },
   {
    "t": "playlist própria e volume no talo salvam qualquer trajeto",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "nessas horas a distância e a gravidez pesam muito, aí o carro deixa de ser luxo e vira necessidade real mesmo",
    "p": "ressalva",
    "r": 0
   }
@@ -4309,7 +4311,6 @@
    "te mandei o"
   ],
   "18206939197374851": [
-   "verdade carro da",
    "o uno de",
    "essa rotina de",
    "cem quilometros muda",
@@ -4328,7 +4329,8 @@
    "nessas situacoes extremas",
    "se eu tivesse",
    "dez minutos de",
-   "playlist propria e"
+   "playlist propria e",
+   "nessas horas a"
   ],
   "18128172019868904": [
    "pois e e",
