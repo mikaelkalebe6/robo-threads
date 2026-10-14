@@ -22,10 +22,11 @@
    "08:45",
    "09:26",
    "10:54",
-   "12:36"
+   "12:36",
+   "14:45"
   ],
   "produtos_feitos": 2,
-  "respostas": 37,
+  "respostas": 38,
   "por_post": {
    "18179498749440025": 2,
    "18128172019868904": 1,
@@ -33,28 +34,11 @@
    "18125513068915632": 14,
    "18120563288286597": 3,
    "18033024983895666": 1,
-   "18167880400473546": 5,
+   "18167880400473546": 6,
    "18112520180155933": 2
   }
  },
  "posts": [
-  {
-   "id": "17986227470881809",
-   "insp": "29649aab34",
-   "link": "",
-   "texto": "Levar calote de amigo uma vez é aprendizado. Emprestar de novo pra mesma pessoa já é pedir pra ser feita de trouxa.",
-   "quando": "2026-10-08T18:07:09.718475-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 594,
-    "likes": 16,
-    "replies": 12,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-14"
-   }
-  },
   {
    "id": "18157552714458950",
    "insp": "63b1ece74f",
@@ -1073,7 +1057,7 @@
    "texto": "VAMOS SER HONESTOS: o mecânico fazer aquele barulho com a boca olhando pro motor já é metade do orçamento.",
    "quando": "2026-10-13T17:07:07.808050-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T14:37:09.894094-04:00",
+   "viral_chk": "2026-10-14T15:07:08.306960-04:00",
    "metricas": {
     "views": 401,
     "likes": 3,
@@ -1115,7 +1099,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que divide cada centavo da conta é mais parceiro na vida ou só tem planilha demais na gaveta",
    "quando": "2026-10-13T22:07:07.998908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T14:37:09.894094-04:00",
+   "viral_chk": "2026-10-14T15:07:08.306960-04:00",
    "metricas": {
     "views": 614,
     "likes": 1,
@@ -1133,7 +1117,7 @@
    "texto": "VAMOS SER HONESTOS: o verdadeiro objetivo de ir a casamento é ver se a mesa de frios tem aquela coxinha que só aparece em festa.",
    "quando": "2026-10-14T08:07:07.703510-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T14:37:09.894094-04:00"
+   "viral_chk": "2026-10-14T15:07:08.306960-04:00"
   },
   {
    "id": "17991066036027775",
@@ -1157,7 +1141,7 @@
    "texto": "Meu primeiro carro vivia mais colado com fita isolante do que com solda e mesmo assim eu achava que tava dirigindo uma nave.",
    "quando": "2026-10-14T09:37:08.782552-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T14:37:09.894094-04:00"
+   "viral_chk": "2026-10-14T15:07:08.306960-04:00"
   },
   {
    "id": "18167880400473546",
@@ -1166,7 +1150,7 @@
    "texto": "VAMOS SER HONESTOS: qual cantor ou banda meio duvidosa você escuta escondido no talo do carro quando tá sozinha na estrada",
    "quando": "2026-10-14T11:07:10.583920-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T14:37:09.894094-04:00"
+   "viral_chk": "2026-10-14T15:07:08.306960-04:00"
   },
   {
    "id": "17868867450662088",
@@ -1193,6 +1177,15 @@
     "campanha": "",
     "modo": "tema"
    }
+  },
+  {
+   "id": "18152780005552278",
+   "insp": "53abd8941d",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: inventar dor de barriga no meio do expediente é a única legítima defesa que o trabalhador brasileiro tem contra reunião inútil.",
+   "quando": "2026-10-14T15:07:08.306960-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-14T15:07:08.306960-04:00"
   }
  ],
  "respondidos": [
@@ -2955,7 +2948,8 @@
   "17908318107589014",
   "18377034862240636",
   "18350745037271823",
-  "18129744670790307"
+  "18129744670790307",
+  "17883149031528854"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3130,7 +3124,8 @@
   "5c5f365697bfca543b07409213c1c778",
   "564bb4d5e3e1a2a9314fbbf93112d4b8",
   "a85e2db8a3bb84d15f6af20bb9c2333c",
-  "b9d4ed0e7f48307e64375f26b602e26f"
+  "b9d4ed0e7f48307e64375f26b602e26f",
+  "af396878dc4193e2f6779c4557801bed"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3305,7 +3300,8 @@
   "c192019942": 1791943733.6456878,
   "fb3aa2715c": 1791979648.075333,
   "e849a7e6a9": 1791985050.7143126,
-  "e6b297b654": 1791990458.4722366
+  "e6b297b654": 1791990458.4722366,
+  "53abd8941d": 1792004840.696338
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3345,15 +3341,11 @@
   "0d25dd4295": 1,
   "0428e10b31": 1,
   "672efbced3": 1,
-  "6035244efa": 1
+  "6035244efa": 1,
+  "a877052e4c": 1
  },
  "reservas_checadas": "2026-10-14",
  "ultimas_respostas": [
-  {
-   "t": "esse perrengue de motorista cancelar e atrasar testa a paciência de qualquer um mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "imagino o trabalho que deu para o novo dono deixar desse jeito",
    "p": "concorda",
@@ -3498,6 +3490,11 @@
    "t": "nessas horas a distância e a gravidez pesam muito, aí o carro deixa de ser luxo e vira necessidade real mesmo",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "esse clássico absoluto no volume máximo na estrada exige muita coragem kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -4360,7 +4357,8 @@
    "pesado demais o",
    "mediano mas tem",
    "quem gosta de",
-   "esse som no"
+   "esse som no",
+   "esse classico absoluto"
   ],
   "18112520180155933": [
    "fita isolante prateada",
