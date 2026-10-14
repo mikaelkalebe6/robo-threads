@@ -19,36 +19,20 @@
   ],
   "feitos": [
    "08:02",
-   "08:45"
+   "08:45",
+   "09:26"
   ],
   "produtos_feitos": 1,
-  "respostas": 23,
+  "respostas": 24,
   "por_post": {
    "18179498749440025": 2,
    "18128172019868904": 1,
    "18206939197374851": 6,
-   "18125513068915632": 13,
+   "18125513068915632": 14,
    "18120563288286597": 1
   }
  },
  "posts": [
-  {
-   "id": "18111330140174687",
-   "insp": "d6497bdd55",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: já passei um relatório inteiro pro ChatGPT e ninguém percebeu. 🤫",
-   "quando": "2026-10-08T12:37:10.129828-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 599,
-    "likes": 0,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-14"
-   }
-  },
   {
    "id": "17911108497554167",
    "insp": "607a9f8d64",
@@ -1118,7 +1102,7 @@
    "texto": "VAMOS SER HONESTOS: o mecânico fazer aquele barulho com a boca olhando pro motor já é metade do orçamento.",
    "quando": "2026-10-13T17:07:07.808050-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T09:07:08.365486-04:00",
+   "viral_chk": "2026-10-14T09:37:08.782552-04:00",
    "metricas": {
     "views": 401,
     "likes": 3,
@@ -1160,7 +1144,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que divide cada centavo da conta é mais parceiro na vida ou só tem planilha demais na gaveta",
    "quando": "2026-10-13T22:07:07.998908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T09:07:08.365486-04:00",
+   "viral_chk": "2026-10-14T09:37:08.782552-04:00",
    "metricas": {
     "views": 614,
     "likes": 1,
@@ -1178,7 +1162,7 @@
    "texto": "VAMOS SER HONESTOS: o verdadeiro objetivo de ir a casamento é ver se a mesa de frios tem aquela coxinha que só aparece em festa.",
    "quando": "2026-10-14T08:07:07.703510-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T09:07:08.365486-04:00"
+   "viral_chk": "2026-10-14T09:37:08.782552-04:00"
   },
   {
    "id": "17991066036027775",
@@ -1194,6 +1178,15 @@
    "modelo": "vitrine (ref. DYUzwlokWpa) + manchete claro/escuro (DXVUQ01jZe6)",
    "visual": "an",
    "link_coment": "https://s.shopee.com.br/8pmS9nQoHG"
+  },
+  {
+   "id": "18112520180155933",
+   "insp": "e849a7e6a9",
+   "link": "",
+   "texto": "Meu primeiro carro vivia mais colado com fita isolante do que com solda e mesmo assim eu achava que tava dirigindo uma nave.",
+   "quando": "2026-10-14T09:37:08.782552-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-14T09:37:08.782552-04:00"
   }
  ],
  "respondidos": [
@@ -2942,7 +2935,8 @@
   "18338425222302987",
   "18465752389188605",
   "18640410196040504",
-  "18346252486266354"
+  "18346252486266354",
+  "18480754243117717"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3115,7 +3109,8 @@
   "5fe35321b26a373140fede7fe2635f5e",
   "d5c35068662c1dfaccb807ea3570fcac",
   "5c5f365697bfca543b07409213c1c778",
-  "564bb4d5e3e1a2a9314fbbf93112d4b8"
+  "564bb4d5e3e1a2a9314fbbf93112d4b8",
+  "a85e2db8a3bb84d15f6af20bb9c2333c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3288,7 +3283,8 @@
   "1ad1290613": 1791914896.075832,
   "54cb923235": 1791925655.3801472,
   "c192019942": 1791943733.6456878,
-  "fb3aa2715c": 1791979648.075333
+  "fb3aa2715c": 1791979648.075333,
+  "e849a7e6a9": 1791985050.7143126
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3315,15 +3311,11 @@
   "f01e53ffc5": 1,
   "dacbe57646": 1,
   "4beb6f0ef1": 1,
-  "60a0645e33": 1
+  "60a0645e33": 1,
+  "2021e89f36": 1
  },
  "reservas_checadas": "2026-10-14",
  "ultimas_respostas": [
-  {
-   "t": "nessas horas o cenário muda mesmo e o aplicativo deixa a gente na mão",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "oq?",
    "p": "neutra",
@@ -3466,6 +3458,11 @@
   },
   {
    "t": "marcar a pele com o carro que deixou saudade foi uma ótima ideia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse modelo é famoso por não dar dor de cabeça nunca",
    "p": "concorda",
    "r": 0
   }
@@ -4229,7 +4226,6 @@
    "batida seca no"
   ],
   "18125513068915632": [
-   "banco de veludo",
    "poxa doi perder",
    "uau 10 carros",
    "e o c4",
@@ -4248,7 +4244,8 @@
    "chevette antigo tem",
    "esse bicho e",
    "nunca ter vendido",
-   "marcar a pele"
+   "marcar a pele",
+   "esse modelo e"
   ],
   "18094079654172410": [
    "experiencia propria que",
