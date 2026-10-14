@@ -17,34 +17,19 @@
    "12:36",
    "18:34"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:02"
+  ],
   "produtos_feitos": 0,
-  "respostas": 11,
+  "respostas": 17,
   "por_post": {
    "18179498749440025": 2,
    "18128172019868904": 1,
-   "18206939197374851": 4,
-   "18125513068915632": 4
+   "18206939197374851": 6,
+   "18125513068915632": 8
   }
  },
  "posts": [
-  {
-   "id": "18098203103652972",
-   "insp": "9251fb6a0d",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: bergamota, mexerica ou tangerina?  \nComo chama aí na sua cidade 😄",
-   "quando": "2026-10-08T10:07:12.125895-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 136,
-    "likes": 1,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-14"
-   }
-  },
   {
    "id": "18099059360387148",
    "insp": "9a79b11d92",
@@ -1048,7 +1033,7 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
    "quando": "2026-10-13T09:07:21.696011-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-14T07:37:07.774031-04:00",
+   "viral_chk": "2026-10-14T08:07:07.703510-04:00",
    "metricas": {
     "views": 504,
     "likes": 7,
@@ -1148,7 +1133,7 @@
    "texto": "VAMOS SER HONESTOS: o mecânico fazer aquele barulho com a boca olhando pro motor já é metade do orçamento.",
    "quando": "2026-10-13T17:07:07.808050-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T07:37:07.774031-04:00",
+   "viral_chk": "2026-10-14T08:07:07.703510-04:00",
    "metricas": {
     "views": 401,
     "likes": 3,
@@ -1190,7 +1175,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que divide cada centavo da conta é mais parceiro na vida ou só tem planilha demais na gaveta",
    "quando": "2026-10-13T22:07:07.998908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T07:37:07.774031-04:00",
+   "viral_chk": "2026-10-14T08:07:07.703510-04:00",
    "metricas": {
     "views": 614,
     "likes": 1,
@@ -1200,6 +1185,15 @@
     "shares": 0,
     "em": "2026-10-14"
    }
+  },
+  {
+   "id": "18120563288286597",
+   "insp": "fb3aa2715c",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: o verdadeiro objetivo de ir a casamento é ver se a mesa de frios tem aquela coxinha que só aparece em festa.",
+   "quando": "2026-10-14T08:07:07.703510-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-14T08:07:07.703510-04:00"
   }
  ],
  "respondidos": [
@@ -2936,7 +2930,13 @@
   "18152468863527033",
   "17999373836820709",
   "18106945172210153",
-  "18185779918418621"
+  "18185779918418621",
+  "18626177299008649",
+  "18112692752035505",
+  "18132381787686306",
+  "18074208302762324",
+  "18087227867317253",
+  "18124353058917870"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3108,7 +3108,8 @@
   "2f9840b8caaec07620945fbb4aca493c",
   "5fe35321b26a373140fede7fe2635f5e",
   "d5c35068662c1dfaccb807ea3570fcac",
-  "5c5f365697bfca543b07409213c1c778"
+  "5c5f365697bfca543b07409213c1c778",
+  "564bb4d5e3e1a2a9314fbbf93112d4b8"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3280,7 +3281,8 @@
   "f505b6ba89": 1791896867.5107985,
   "1ad1290613": 1791914896.075832,
   "54cb923235": 1791925655.3801472,
-  "c192019942": 1791943733.6456878
+  "c192019942": 1791943733.6456878,
+  "fb3aa2715c": 1791979648.075333
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3295,40 +3297,16 @@
   "fdf141e59d": 1,
   "134fb5b37e": 1,
   "532165adcc": 1,
-  "87107978a1": 1
+  "87107978a1": 1,
+  "d968b86319": 1,
+  "6597e0532b": 1,
+  "7b846535a4": 1,
+  "e91af1af81": 1,
+  "689e5ce82a": 1,
+  "4b42374938": 1
  },
  "reservas_checadas": "2026-10-14",
  "ultimas_respostas": [
-  {
-   "t": "essa rotina de cancelamento e chuva acaba com qualquer economia do aplicativo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pois é, e se achar corta mal e entorta na primeira linguiça",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "a colher é o coringa do desespero kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "faca de churrasco que parece manteiga de tão cega",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "estratégia perfeita, quem não tem cão caça com o próprio kit kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "cem quilômetros muda tudo mesmo, para visitar a família nessa distância o carro faz falta",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "essa hora da noite no pronto socorro sem carro realmente complica bastante",
    "p": "ressalva",
@@ -3446,6 +3424,36 @@
   },
   {
    "t": "esse modelo tem presença forte por onde passa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nessas situações extremas a prioridade muda e realmente faz falta ter como sair rápido",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "manter dois carros pesa no orçamento mesmo, a meriva deixou saudade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "se eu tivesse dinheiro para isso não estaria defendendo o aplicativo kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "esse motor dava trabalho mas andava muito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "corsa 97 guerreiro demais, quem teve sabe a falta que faz kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse aí marcou época nas ruas",
    "p": "concorda",
    "r": 0
   }
@@ -4207,10 +4215,6 @@
    "batida seca no"
   ],
   "18125513068915632": [
-   "poxa quem nunca",
-   "ah o civic",
-   "acertou em cheio",
-   "o gti 2017",
    "essesidekick ta na",
    "nostalgia de coisa",
    "vitara o companheiro",
@@ -4226,7 +4230,11 @@
    "essa s10 cabine",
    "espaco e detalhe",
    "imagino o trabalho",
-   "esse modelo tem"
+   "esse modelo tem",
+   "manter dois carros",
+   "esse motor dava",
+   "corsa 97 guerreiro",
+   "esse ai marcou"
   ],
   "18094079654172410": [
    "experiencia propria que",
@@ -4286,8 +4294,6 @@
    "te mandei o"
   ],
   "18206939197374851": [
-   "concordo app pode",
-   "para quem tem",
    "praia e trilha",
    "boa sorte na",
    "verdade carro da",
@@ -4305,7 +4311,9 @@
    "nessas situacoes especificas",
    "compra de mes",
    "esse perrengue de",
-   "nessa hora o"
+   "nessa hora o",
+   "nessas situacoes extremas",
+   "se eu tivesse"
   ],
   "18128172019868904": [
    "pois e e",
