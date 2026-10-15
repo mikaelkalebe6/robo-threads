@@ -18,7 +18,8 @@
    "08:28",
    "09:36",
    "12:41",
-   "13:22"
+   "13:22",
+   "18:28"
   ],
   "produtos_feitos": 2,
   "respostas": 3,
@@ -28,23 +29,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18015338645750822",
-   "insp": "6e6b47e4ea",
-   "link": "",
-   "texto": "Tem carro antigo que continua com um desenho muito mais bonito do que os lançamentos de hoje em dia. Parece que antigamente os designers caprichavam mais nos detalhes. Qual modelo clássico você acha que nunca sai de moda?",
-   "quando": "2026-10-09T15:07:09.028477-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 11045,
-    "likes": 194,
-    "replies": 198,
-    "reposts": 3,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-15"
-   }
-  },
   {
    "id": "18118295015072947",
    "insp": "da2a07512c",
@@ -1163,7 +1147,7 @@
    "texto": "ME CONTA: Fui tentar me despedir do boy com um beijo na bochecha todo charmoso e bati a testa com tudo na quina da porta do carro dele. Quase fingi um desmaio ali mesmo só pra não ter que encarar a vergonha. Qual foi o pior mico que você já pagou na frente do crush?",
    "quando": "2026-10-14T20:07:08.781233-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-15T18:07:07.917334-04:00",
+   "viral_chk": "2026-10-15T18:37:09.096254-04:00",
    "metricas": {
     "views": 380,
     "likes": 1,
@@ -1181,7 +1165,7 @@
    "texto": "OPINIÃO IMPOPULAR: barzinho com mesa na calçada ganha de qualquer balada. E o pior é que quem discorda provavelmente só quer passar frio e pagar caro no ingresso.",
    "quando": "2026-10-15T08:37:09.062929-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T18:07:07.917334-04:00"
+   "viral_chk": "2026-10-15T18:37:09.096254-04:00"
   },
   {
    "id": "18185899492414064",
@@ -1205,7 +1189,7 @@
    "texto": "Aquele professor de matemática que me deu uma chance na recuperação não imaginava que eu só usaria o conhecimento para calcular os juros do cartão de crédito hoje. É rir para não chorar.",
    "quando": "2026-10-15T13:07:09.353825-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T18:07:07.917334-04:00"
+   "viral_chk": "2026-10-15T18:37:09.096254-04:00"
   },
   {
    "id": "18106546352260309",
@@ -1218,6 +1202,15 @@
    "formato": "fio",
    "produto": "48514950250",
    "link_coment": "https://s.shopee.com.br/5VW0Bg46XX"
+  },
+  {
+   "id": "17941391202364948",
+   "insp": "2cd94859c5",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: comprar eletrônico recondicionado é pura roleta russa financeira. \n\nVocê economiza uma grana na hora e passa os meses seguintes em pânico esperando a tela apagar do nada. Eu não tenho essa paz de espírito.",
+   "quando": "2026-10-15T18:37:09.096254-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-15T18:37:09.096254-04:00"
   }
  ],
  "respondidos": [
@@ -3170,7 +3163,8 @@
   "8e79518ae03897c8629d7f1a2617f6d3",
   "2d5b61a88cc2d4ab350d4e19f540f760",
   "5b76a82e91e0b4a3a1a69e2c07aafc3e",
-  "db942cfa69c91bf333c00bcca1727f14"
+  "db942cfa69c91bf333c00bcca1727f14",
+  "9031693bde89219761bd98978f1820b0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3350,7 +3344,8 @@
   "89cdd01f02": 1792006647.4343123,
   "68d405bd4e": 1792022846.292982,
   "613abd5c08": 1792067892.1591535,
-  "574b51f445": 1792084092.8612313
+  "574b51f445": 1792084092.8612313,
+  "2cd94859c5": 1792103847.1107104
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
