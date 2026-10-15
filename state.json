@@ -18,9 +18,10 @@
    "08:28"
   ],
   "produtos_feitos": 0,
-  "respostas": 1,
+  "respostas": 2,
   "por_post": {
-   "18022654580930498": 1
+   "18022654580930498": 1,
+   "17883756681652794": 1
   }
  },
  "posts": [
@@ -1076,7 +1077,7 @@
    "texto": "Meu primeiro carro vivia mais colado com fita isolante do que com solda e mesmo assim eu achava que tava dirigindo uma nave.",
    "quando": "2026-10-14T09:37:08.782552-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T08:37:09.062929-04:00",
+   "viral_chk": "2026-10-15T09:07:08.437826-04:00",
    "metricas": {
     "views": 162,
     "likes": 2,
@@ -1094,7 +1095,7 @@
    "texto": "VAMOS SER HONESTOS: qual cantor ou banda meio duvidosa você escuta escondido no talo do carro quando tá sozinha na estrada",
    "quando": "2026-10-14T11:07:10.583920-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T08:37:09.062929-04:00",
+   "viral_chk": "2026-10-15T09:07:08.437826-04:00",
    "metricas": {
     "views": 570,
     "likes": 3,
@@ -1150,7 +1151,7 @@
    "texto": "OPINIÃO IMPOPULAR: inventar dor de barriga no meio do expediente é a única legítima defesa que o trabalhador brasileiro tem contra reunião inútil.",
    "quando": "2026-10-14T15:07:08.306960-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T08:37:09.062929-04:00",
+   "viral_chk": "2026-10-15T09:07:08.437826-04:00",
    "metricas": {
     "views": 549,
     "likes": 6,
@@ -1168,7 +1169,7 @@
    "texto": "DÚVIDA SINCERA: vizinho que inventa de furar parede domingo às 8 da manhã merece ser obrigado a ouvir sertanejo sofrência no talo o resto da semana inteira ou tem castigo pior? 🔊",
    "quando": "2026-10-14T15:37:07.902975-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T08:37:09.062929-04:00",
+   "viral_chk": "2026-10-15T09:07:08.437826-04:00",
    "metricas": {
     "views": 190,
     "likes": 0,
@@ -1210,7 +1211,7 @@
    "texto": "ME CONTA: Fui tentar me despedir do boy com um beijo na bochecha todo charmoso e bati a testa com tudo na quina da porta do carro dele. Quase fingi um desmaio ali mesmo só pra não ter que encarar a vergonha. Qual foi o pior mico que você já pagou na frente do crush?",
    "quando": "2026-10-14T20:07:08.781233-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-15T08:37:09.062929-04:00",
+   "viral_chk": "2026-10-15T09:07:08.437826-04:00",
    "metricas": {
     "views": 380,
     "likes": 1,
@@ -1228,7 +1229,7 @@
    "texto": "OPINIÃO IMPOPULAR: barzinho com mesa na calçada ganha de qualquer balada. E o pior é que quem discorda provavelmente só quer passar frio e pagar caro no ingresso.",
    "quando": "2026-10-15T08:37:09.062929-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T08:37:09.062929-04:00"
+   "viral_chk": "2026-10-15T09:07:08.437826-04:00"
   }
  ],
  "respondidos": [
@@ -2999,7 +3000,8 @@
   "17885542449653254",
   "18060113834544800",
   "18052768460807191",
-  "17933960862404144"
+  "17933960862404144",
+  "17911721838500494"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3362,15 +3364,10 @@
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-10-15",
-  "1d06969815": 1
+  "1d06969815": 2
  },
  "reservas_checadas": "2026-10-15",
  "ultimas_respostas": [
-  {
-   "t": "se eu tivesse dinheiro para isso não estaria defendendo o aplicativo kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "esse motor dava trabalho mas andava muito",
    "p": "concorda",
@@ -3515,6 +3512,11 @@
    "t": "sempre um milagre tecnológico improvisado kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "verdade, o horario limite acaba sendo o único defeito mesmo",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4122,9 +4124,6 @@
   }
  ],
  "aberturas_post": {
-  "18112767806335344": [
-   "esse e o"
-  ],
   "18129449095879104": [
    "com certeza a",
    "dez mil nao",
@@ -4396,6 +4395,9 @@
   ],
   "18022654580930498": [
    "sempre um milagre"
+  ],
+  "17883756681652794": [
+   "verdade o horario"
   ]
  },
  "shopee_checada": "2026-10-15|1",
