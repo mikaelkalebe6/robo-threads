@@ -19,9 +19,10 @@
    "09:36",
    "12:41",
    "13:22",
-   "18:28"
+   "18:28",
+   "19:26"
   ],
-  "produtos_feitos": 2,
+  "produtos_feitos": 3,
   "respostas": 3,
   "por_post": {
    "18022654580930498": 1,
@@ -29,23 +30,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18118295015072947",
-   "insp": "da2a07512c",
-   "link": "",
-   "texto": "Tem amizade que funciona no modo avião por meses e aí aparece do nada só com o roteiro completo da última fofoca. É um talento raro.",
-   "quando": "2026-10-09T16:07:08.843205-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 189,
-    "likes": 2,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-15"
-   }
-  },
   {
    "id": "18030985622888288",
    "insp": "6ab249fcf7",
@@ -1147,7 +1131,7 @@
    "texto": "ME CONTA: Fui tentar me despedir do boy com um beijo na bochecha todo charmoso e bati a testa com tudo na quina da porta do carro dele. Quase fingi um desmaio ali mesmo só pra não ter que encarar a vergonha. Qual foi o pior mico que você já pagou na frente do crush?",
    "quando": "2026-10-14T20:07:08.781233-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-15T19:07:08.833086-04:00",
+   "viral_chk": "2026-10-15T19:37:08.210002-04:00",
    "metricas": {
     "views": 380,
     "likes": 1,
@@ -1165,7 +1149,7 @@
    "texto": "OPINIÃO IMPOPULAR: barzinho com mesa na calçada ganha de qualquer balada. E o pior é que quem discorda provavelmente só quer passar frio e pagar caro no ingresso.",
    "quando": "2026-10-15T08:37:09.062929-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T19:07:08.833086-04:00"
+   "viral_chk": "2026-10-15T19:37:08.210002-04:00"
   },
   {
    "id": "18185899492414064",
@@ -1189,7 +1173,7 @@
    "texto": "Aquele professor de matemática que me deu uma chance na recuperação não imaginava que eu só usaria o conhecimento para calcular os juros do cartão de crédito hoje. É rir para não chorar.",
    "quando": "2026-10-15T13:07:09.353825-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T19:07:08.833086-04:00"
+   "viral_chk": "2026-10-15T19:37:08.210002-04:00"
   },
   {
    "id": "18106546352260309",
@@ -1210,7 +1194,19 @@
    "texto": "OPINIÃO IMPOPULAR: comprar eletrônico recondicionado é pura roleta russa financeira. \n\nVocê economiza uma grana na hora e passa os meses seguintes em pânico esperando a tela apagar do nada. Eu não tenho essa paz de espírito.",
    "quando": "2026-10-15T18:37:09.096254-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-15T19:07:08.833086-04:00"
+   "viral_chk": "2026-10-15T19:37:08.210002-04:00"
+  },
+  {
+   "id": "17946357927346575",
+   "insp": "fio_fio-20261011-2",
+   "link": "",
+   "texto": "Aparelho de barbear jogado na pia é o jeito mais rápido de estragar lâmina.",
+   "quando": "2026-10-15T19:37:08.210002-04:00",
+   "ia": "fio_literal",
+   "estrategia": "fio",
+   "formato": "fio",
+   "produto": "53108597653",
+   "link_coment": "https://s.shopee.com.br/80DLAGq39e"
   }
  ],
  "respondidos": [
@@ -4731,7 +4727,8 @@
   "22493432361": "2026-10-14T18:37:09.414142-04:00",
   "19399031891": "2026-10-15T07:07:09.668636-04:00",
   "58209986445": "2026-10-15T09:37:10.149793-04:00",
-  "48514950250": "2026-10-15T13:37:11.018564-04:00"
+  "48514950250": "2026-10-15T13:37:11.018564-04:00",
+  "53108597653": "2026-10-15T19:37:08.210002-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4850,7 +4847,8 @@
   "fio-20261010-1",
   "fio-20261010-2",
   "fio-20261010-3",
-  "fio-20261011-1"
+  "fio-20261011-1",
+  "fio-20261011-2"
  ],
  "videos_usados": {
   "6ccf4171d8": "2026-10-12T15:07:08.795491-04:00",
