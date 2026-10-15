@@ -17,9 +17,10 @@
   "feitos": [
    "08:28",
    "09:36",
-   "12:41"
+   "12:41",
+   "13:22"
   ],
-  "produtos_feitos": 1,
+  "produtos_feitos": 2,
   "respostas": 3,
   "por_post": {
    "18022654580930498": 1,
@@ -27,23 +28,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18133563994591000",
-   "insp": "c23c34d690",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: a festa de casamento nem é a parte mais cara da história toda. \n\nO susto financeiro real vem no primeiro ano morando junto, tentando alinhar dois padrões de vida e descobrindo quanto custa manter uma casa funcionando no dia a dia. \n\nA festa acaba em seis horas, o boleto do condom",
-   "quando": "2026-10-09T12:37:08.575872-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 2300,
-    "likes": 45,
-    "replies": 16,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-10-15"
-   }
-  },
   {
    "id": "18015338645750822",
    "insp": "6e6b47e4ea",
@@ -1119,7 +1103,7 @@
    "texto": "OPINIÃO IMPOPULAR: inventar dor de barriga no meio do expediente é a única legítima defesa que o trabalhador brasileiro tem contra reunião inútil.",
    "quando": "2026-10-14T15:07:08.306960-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T13:07:09.353825-04:00",
+   "viral_chk": "2026-10-15T13:37:11.018564-04:00",
    "metricas": {
     "views": 549,
     "likes": 6,
@@ -1137,7 +1121,7 @@
    "texto": "DÚVIDA SINCERA: vizinho que inventa de furar parede domingo às 8 da manhã merece ser obrigado a ouvir sertanejo sofrência no talo o resto da semana inteira ou tem castigo pior? 🔊",
    "quando": "2026-10-14T15:37:07.902975-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T13:07:09.353825-04:00",
+   "viral_chk": "2026-10-15T13:37:11.018564-04:00",
    "metricas": {
     "views": 190,
     "likes": 0,
@@ -1179,7 +1163,7 @@
    "texto": "ME CONTA: Fui tentar me despedir do boy com um beijo na bochecha todo charmoso e bati a testa com tudo na quina da porta do carro dele. Quase fingi um desmaio ali mesmo só pra não ter que encarar a vergonha. Qual foi o pior mico que você já pagou na frente do crush?",
    "quando": "2026-10-14T20:07:08.781233-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-15T13:07:09.353825-04:00",
+   "viral_chk": "2026-10-15T13:37:11.018564-04:00",
    "metricas": {
     "views": 380,
     "likes": 1,
@@ -1197,7 +1181,7 @@
    "texto": "OPINIÃO IMPOPULAR: barzinho com mesa na calçada ganha de qualquer balada. E o pior é que quem discorda provavelmente só quer passar frio e pagar caro no ingresso.",
    "quando": "2026-10-15T08:37:09.062929-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T13:07:09.353825-04:00"
+   "viral_chk": "2026-10-15T13:37:11.018564-04:00"
   },
   {
    "id": "18185899492414064",
@@ -1221,7 +1205,19 @@
    "texto": "Aquele professor de matemática que me deu uma chance na recuperação não imaginava que eu só usaria o conhecimento para calcular os juros do cartão de crédito hoje. É rir para não chorar.",
    "quando": "2026-10-15T13:07:09.353825-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T13:07:09.353825-04:00"
+   "viral_chk": "2026-10-15T13:37:11.018564-04:00"
+  },
+  {
+   "id": "18106546352260309",
+   "insp": "fio_fio-20261011-1",
+   "link": "",
+   "texto": "O peixe do ano escapou e a culpa foi da linha que tava no molinete desde 2022.",
+   "quando": "2026-10-15T13:37:11.018564-04:00",
+   "ia": "fio_literal",
+   "estrategia": "fio",
+   "formato": "fio",
+   "produto": "48514950250",
+   "link_coment": "https://s.shopee.com.br/5VW0Bg46XX"
   }
  ],
  "respondidos": [
@@ -4739,7 +4735,8 @@
   "14831203028": "2026-10-14T09:07:08.365486-04:00",
   "22493432361": "2026-10-14T18:37:09.414142-04:00",
   "19399031891": "2026-10-15T07:07:09.668636-04:00",
-  "58209986445": "2026-10-15T09:37:10.149793-04:00"
+  "58209986445": "2026-10-15T09:37:10.149793-04:00",
+  "48514950250": "2026-10-15T13:37:11.018564-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4857,7 +4854,8 @@
  "fios_usados": [
   "fio-20261010-1",
   "fio-20261010-2",
-  "fio-20261010-3"
+  "fio-20261010-3",
+  "fio-20261011-1"
  ],
  "videos_usados": {
   "6ccf4171d8": "2026-10-12T15:07:08.795491-04:00",
