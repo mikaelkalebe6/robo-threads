@@ -14,7 +14,9 @@
    "13:22",
    "19:26"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:28"
+  ],
   "produtos_feitos": 0,
   "respostas": 1,
   "por_post": {
@@ -22,23 +24,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18130387291689226",
-   "insp": "b0cef3aaad",
-   "link": "",
-   "texto": "DUVIDA SINCERA: Confesso que um ciúminho de vez em quando dá um empurrãozinho no relacionamento.  \nVocê acha que um pouquinho de ciúme ainda tem lugar saudável?",
-   "quando": "2026-10-09T09:37:09.183202-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 880,
-    "likes": 11,
-    "replies": 25,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-15"
-   }
-  },
   {
    "id": "17883591987689452",
    "insp": "3f6e169db2",
@@ -1091,7 +1076,7 @@
    "texto": "Meu primeiro carro vivia mais colado com fita isolante do que com solda e mesmo assim eu achava que tava dirigindo uma nave.",
    "quando": "2026-10-14T09:37:08.782552-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T08:07:07.961954-04:00",
+   "viral_chk": "2026-10-15T08:37:09.062929-04:00",
    "metricas": {
     "views": 162,
     "likes": 2,
@@ -1109,7 +1094,7 @@
    "texto": "VAMOS SER HONESTOS: qual cantor ou banda meio duvidosa você escuta escondido no talo do carro quando tá sozinha na estrada",
    "quando": "2026-10-14T11:07:10.583920-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T08:07:07.961954-04:00",
+   "viral_chk": "2026-10-15T08:37:09.062929-04:00",
    "metricas": {
     "views": 570,
     "likes": 3,
@@ -1165,7 +1150,7 @@
    "texto": "OPINIÃO IMPOPULAR: inventar dor de barriga no meio do expediente é a única legítima defesa que o trabalhador brasileiro tem contra reunião inútil.",
    "quando": "2026-10-14T15:07:08.306960-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T08:07:07.961954-04:00",
+   "viral_chk": "2026-10-15T08:37:09.062929-04:00",
    "metricas": {
     "views": 549,
     "likes": 6,
@@ -1183,7 +1168,7 @@
    "texto": "DÚVIDA SINCERA: vizinho que inventa de furar parede domingo às 8 da manhã merece ser obrigado a ouvir sertanejo sofrência no talo o resto da semana inteira ou tem castigo pior? 🔊",
    "quando": "2026-10-14T15:37:07.902975-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T08:07:07.961954-04:00",
+   "viral_chk": "2026-10-15T08:37:09.062929-04:00",
    "metricas": {
     "views": 190,
     "likes": 0,
@@ -1225,7 +1210,7 @@
    "texto": "ME CONTA: Fui tentar me despedir do boy com um beijo na bochecha todo charmoso e bati a testa com tudo na quina da porta do carro dele. Quase fingi um desmaio ali mesmo só pra não ter que encarar a vergonha. Qual foi o pior mico que você já pagou na frente do crush?",
    "quando": "2026-10-14T20:07:08.781233-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-15T08:07:07.961954-04:00",
+   "viral_chk": "2026-10-15T08:37:09.062929-04:00",
    "metricas": {
     "views": 380,
     "likes": 1,
@@ -1235,6 +1220,15 @@
     "shares": 0,
     "em": "2026-10-15"
    }
+  },
+  {
+   "id": "17883756681652794",
+   "insp": "613abd5c08",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: barzinho com mesa na calçada ganha de qualquer balada. E o pior é que quem discorda provavelmente só quer passar frio e pagar caro no ingresso.",
+   "quando": "2026-10-15T08:37:09.062929-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-15T08:37:09.062929-04:00"
   }
  ],
  "respondidos": [
@@ -3183,7 +3177,8 @@
   "b9d4ed0e7f48307e64375f26b602e26f",
   "af396878dc4193e2f6779c4557801bed",
   "8e79518ae03897c8629d7f1a2617f6d3",
-  "2d5b61a88cc2d4ab350d4e19f540f760"
+  "2d5b61a88cc2d4ab350d4e19f540f760",
+  "5b76a82e91e0b4a3a1a69e2c07aafc3e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3361,7 +3356,8 @@
   "e6b297b654": 1791990458.4722366,
   "53abd8941d": 1792004840.696338,
   "89cdd01f02": 1792006647.4343123,
-  "68d405bd4e": 1792022846.292982
+  "68d405bd4e": 1792022846.292982,
+  "613abd5c08": 1792067892.1591535
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
