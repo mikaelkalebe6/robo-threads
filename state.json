@@ -25,7 +25,8 @@
    "12:36",
    "14:45",
    "15:30",
-   "18:34"
+   "18:34",
+   "19:59"
   ],
   "produtos_feitos": 3,
   "respostas": 41,
@@ -42,23 +43,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18124736575742625",
-   "insp": "c8a0ab9dff",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: quem nunca sente que depois de cada tarefa precisa de uma pausa? A vida tá me ensinando que descanso não é luxo, é necessidade. 🌿",
-   "quando": "2026-10-09T08:37:08.900425-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 247,
-    "likes": 4,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-14"
-   }
-  },
   {
    "id": "18130387291689226",
    "insp": "b0cef3aaad",
@@ -1068,7 +1052,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que divide cada centavo da conta é mais parceiro na vida ou só tem planilha demais na gaveta",
    "quando": "2026-10-13T22:07:07.998908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T19:37:08.374048-04:00",
+   "viral_chk": "2026-10-14T20:07:08.781233-04:00",
    "metricas": {
     "views": 614,
     "likes": 1,
@@ -1086,7 +1070,7 @@
    "texto": "VAMOS SER HONESTOS: o verdadeiro objetivo de ir a casamento é ver se a mesa de frios tem aquela coxinha que só aparece em festa.",
    "quando": "2026-10-14T08:07:07.703510-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T19:37:08.374048-04:00"
+   "viral_chk": "2026-10-14T20:07:08.781233-04:00"
   },
   {
    "id": "17991066036027775",
@@ -1110,7 +1094,7 @@
    "texto": "Meu primeiro carro vivia mais colado com fita isolante do que com solda e mesmo assim eu achava que tava dirigindo uma nave.",
    "quando": "2026-10-14T09:37:08.782552-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T19:37:08.374048-04:00"
+   "viral_chk": "2026-10-14T20:07:08.781233-04:00"
   },
   {
    "id": "18167880400473546",
@@ -1119,7 +1103,7 @@
    "texto": "VAMOS SER HONESTOS: qual cantor ou banda meio duvidosa você escuta escondido no talo do carro quando tá sozinha na estrada",
    "quando": "2026-10-14T11:07:10.583920-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T19:37:08.374048-04:00"
+   "viral_chk": "2026-10-14T20:07:08.781233-04:00"
   },
   {
    "id": "17868867450662088",
@@ -1154,7 +1138,7 @@
    "texto": "OPINIÃO IMPOPULAR: inventar dor de barriga no meio do expediente é a única legítima defesa que o trabalhador brasileiro tem contra reunião inútil.",
    "quando": "2026-10-14T15:07:08.306960-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T19:37:08.374048-04:00"
+   "viral_chk": "2026-10-14T20:07:08.781233-04:00"
   },
   {
    "id": "18103586714009979",
@@ -1163,7 +1147,7 @@
    "texto": "DÚVIDA SINCERA: vizinho que inventa de furar parede domingo às 8 da manhã merece ser obrigado a ouvir sertanejo sofrência no talo o resto da semana inteira ou tem castigo pior? 🔊",
    "quando": "2026-10-14T15:37:07.902975-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T19:37:08.374048-04:00"
+   "viral_chk": "2026-10-14T20:07:08.781233-04:00"
   },
   {
    "id": "18022654580930498",
@@ -1179,6 +1163,15 @@
    "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
    "visual": "ec",
    "link_coment": "https://s.shopee.com.br/9V28x1oo8o"
+  },
+  {
+   "id": "18079283594720412",
+   "insp": "68d405bd4e",
+   "link": "",
+   "texto": "ME CONTA: Fui tentar me despedir do boy com um beijo na bochecha todo charmoso e bati a testa com tudo na quina da porta do carro dele. Quase fingi um desmaio ali mesmo só pra não ter que encarar a vergonha. Qual foi o pior mico que você já pagou na frente do crush?",
+   "quando": "2026-10-14T20:07:08.781233-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-14T20:07:08.781233-04:00"
   }
  ],
  "respondidos": [
@@ -3123,7 +3116,8 @@
   "a85e2db8a3bb84d15f6af20bb9c2333c",
   "b9d4ed0e7f48307e64375f26b602e26f",
   "af396878dc4193e2f6779c4557801bed",
-  "8e79518ae03897c8629d7f1a2617f6d3"
+  "8e79518ae03897c8629d7f1a2617f6d3",
+  "2d5b61a88cc2d4ab350d4e19f540f760"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3300,7 +3294,8 @@
   "e849a7e6a9": 1791985050.7143126,
   "e6b297b654": 1791990458.4722366,
   "53abd8941d": 1792004840.696338,
-  "89cdd01f02": 1792006647.4343123
+  "89cdd01f02": 1792006647.4343123,
+  "68d405bd4e": 1792022846.292982
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
