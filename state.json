@@ -16,7 +16,8 @@
   ],
   "feitos": [
    "08:28",
-   "09:36"
+   "09:36",
+   "12:41"
   ],
   "produtos_feitos": 1,
   "respostas": 3,
@@ -26,23 +27,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18035663177850463",
-   "insp": "fbda80f1b4",
-   "link": "",
-   "texto": "A gente diz que vai marcar alguma coisa e já sabe que nunca vai acontecer. É um acordo silencioso.",
-   "quando": "2026-10-09T12:07:11.215179-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 242,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-15"
-   }
-  },
   {
    "id": "18133563994591000",
    "insp": "c23c34d690",
@@ -1135,7 +1119,7 @@
    "texto": "OPINIÃO IMPOPULAR: inventar dor de barriga no meio do expediente é a única legítima defesa que o trabalhador brasileiro tem contra reunião inútil.",
    "quando": "2026-10-14T15:07:08.306960-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T12:37:08.357158-04:00",
+   "viral_chk": "2026-10-15T13:07:09.353825-04:00",
    "metricas": {
     "views": 549,
     "likes": 6,
@@ -1153,7 +1137,7 @@
    "texto": "DÚVIDA SINCERA: vizinho que inventa de furar parede domingo às 8 da manhã merece ser obrigado a ouvir sertanejo sofrência no talo o resto da semana inteira ou tem castigo pior? 🔊",
    "quando": "2026-10-14T15:37:07.902975-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T12:37:08.357158-04:00",
+   "viral_chk": "2026-10-15T13:07:09.353825-04:00",
    "metricas": {
     "views": 190,
     "likes": 0,
@@ -1195,7 +1179,7 @@
    "texto": "ME CONTA: Fui tentar me despedir do boy com um beijo na bochecha todo charmoso e bati a testa com tudo na quina da porta do carro dele. Quase fingi um desmaio ali mesmo só pra não ter que encarar a vergonha. Qual foi o pior mico que você já pagou na frente do crush?",
    "quando": "2026-10-14T20:07:08.781233-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-15T12:37:08.357158-04:00",
+   "viral_chk": "2026-10-15T13:07:09.353825-04:00",
    "metricas": {
     "views": 380,
     "likes": 1,
@@ -1213,7 +1197,7 @@
    "texto": "OPINIÃO IMPOPULAR: barzinho com mesa na calçada ganha de qualquer balada. E o pior é que quem discorda provavelmente só quer passar frio e pagar caro no ingresso.",
    "quando": "2026-10-15T08:37:09.062929-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T12:37:08.357158-04:00"
+   "viral_chk": "2026-10-15T13:07:09.353825-04:00"
   },
   {
    "id": "18185899492414064",
@@ -1229,6 +1213,15 @@
    "modelo": "meme de reacao (refs. DdbtUQQoA9-, DeRyDE-IH2i) + manchete (DXVUQ01jZe6)",
    "visual": "cc",
    "link_coment": "https://s.shopee.com.br/905sM6qi9d"
+  },
+  {
+   "id": "18115033964015030",
+   "insp": "574b51f445",
+   "link": "",
+   "texto": "Aquele professor de matemática que me deu uma chance na recuperação não imaginava que eu só usaria o conhecimento para calcular os juros do cartão de crédito hoje. É rir para não chorar.",
+   "quando": "2026-10-15T13:07:09.353825-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-15T13:07:09.353825-04:00"
   }
  ],
  "respondidos": [
@@ -3180,7 +3173,8 @@
   "af396878dc4193e2f6779c4557801bed",
   "8e79518ae03897c8629d7f1a2617f6d3",
   "2d5b61a88cc2d4ab350d4e19f540f760",
-  "5b76a82e91e0b4a3a1a69e2c07aafc3e"
+  "5b76a82e91e0b4a3a1a69e2c07aafc3e",
+  "db942cfa69c91bf333c00bcca1727f14"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3359,7 +3353,8 @@
   "53abd8941d": 1792004840.696338,
   "89cdd01f02": 1792006647.4343123,
   "68d405bd4e": 1792022846.292982,
-  "613abd5c08": 1792067892.1591535
+  "613abd5c08": 1792067892.1591535,
+  "574b51f445": 1792084092.8612313
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
