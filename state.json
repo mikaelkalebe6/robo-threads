@@ -20,8 +20,10 @@
    "09:42"
   ],
   "produtos_feitos": 0,
-  "respostas": 0,
-  "por_post": {}
+  "respostas": 1,
+  "por_post": {
+   "18137545936729576": 1
+  }
  },
  "posts": [
   {
@@ -1168,7 +1170,7 @@
    "texto": "Aquele professor de matemática que me deu uma chance na recuperação não imaginava que eu só usaria o conhecimento para calcular os juros do cartão de crédito hoje. É rir para não chorar.",
    "quando": "2026-10-15T13:07:09.353825-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T10:07:08.518249-04:00",
+   "viral_chk": "2026-10-16T10:37:09.716797-04:00",
    "metricas": {
     "views": 30,
     "likes": 1,
@@ -1207,7 +1209,7 @@
    "texto": "OPINIÃO IMPOPULAR: comprar eletrônico recondicionado é pura roleta russa financeira. \n\nVocê economiza uma grana na hora e passa os meses seguintes em pânico esperando a tela apagar do nada. Eu não tenho essa paz de espírito.",
    "quando": "2026-10-15T18:37:09.096254-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T10:07:08.518249-04:00",
+   "viral_chk": "2026-10-16T10:37:09.716797-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1246,7 +1248,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T10:07:08.518249-04:00"
+   "viral_chk": "2026-10-16T10:37:09.716797-04:00"
   }
  ],
  "respondidos": [
@@ -3019,7 +3021,8 @@
   "18052768460807191",
   "17933960862404144",
   "17911721838500494",
-  "18126128500862889"
+  "18126128500862889",
+  "17990234673099636"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3387,15 +3390,11 @@
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
-  "_data": "2026-10-16"
+  "_data": "2026-10-16",
+  "e2bce193c5": 1
  },
  "reservas_checadas": "2026-10-16",
  "ultimas_respostas": [
-  {
-   "t": "corsa 97 guerreiro demais, quem teve sabe a falta que faz kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "esse aí marcou época nas ruas",
    "p": "concorda",
@@ -3540,6 +3539,11 @@
    "t": "boteco bom faz falta em qualquer lugar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "vacilo clássico que estraga qualquer rolê kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4157,27 +4161,6 @@
   }
  ],
  "aberturas_post": {
-  "18129449095879104": [
-   "com certeza a",
-   "dez mil nao",
-   "quem dera fosse",
-   "educacao financeira ajuda",
-   "reduzir custo de",
-   "verdade mas o",
-   "pura realidade o",
-   "ibge ia ter",
-   "muda o cenario",
-   "exato o pessoal",
-   "pelo menos elimina",
-   "nem precisa entrar",
-   "com dez mil",
-   "pode ate ser",
-   "mas parece que",
-   "esse ai deve",
-   "argumento impecavel mudou",
-   "criatividade do algoritmo",
-   "10k por semana"
-  ],
   "18125942191740363": [
    "cada escolha uma",
    "esse posto ai",
@@ -4432,6 +4415,9 @@
   "17883756681652794": [
    "verdade o horario",
    "boteco bom faz"
+  ],
+  "18137545936729576": [
+   "vacilo classico que"
   ]
  },
  "shopee_checada": "2026-10-16|1",
