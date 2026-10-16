@@ -22,9 +22,10 @@
    "11:24"
   ],
   "produtos_feitos": 1,
-  "respostas": 6,
+  "respostas": 7,
   "por_post": {
-   "18137545936729576": 6
+   "18137545936729576": 6,
+   "18118448395784719": 1
   }
  },
  "posts": [
@@ -1138,7 +1139,7 @@
    "texto": "Aquele professor de matemática que me deu uma chance na recuperação não imaginava que eu só usaria o conhecimento para calcular os juros do cartão de crédito hoje. É rir para não chorar.",
    "quando": "2026-10-15T13:07:09.353825-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T11:37:09.816018-04:00",
+   "viral_chk": "2026-10-16T12:07:08.569419-04:00",
    "metricas": {
     "views": 30,
     "likes": 1,
@@ -1177,7 +1178,7 @@
    "texto": "OPINIÃO IMPOPULAR: comprar eletrônico recondicionado é pura roleta russa financeira. \n\nVocê economiza uma grana na hora e passa os meses seguintes em pânico esperando a tela apagar do nada. Eu não tenho essa paz de espírito.",
    "quando": "2026-10-15T18:37:09.096254-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T11:37:09.816018-04:00",
+   "viral_chk": "2026-10-16T12:07:08.569419-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1216,7 +1217,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T11:37:09.816018-04:00"
+   "viral_chk": "2026-10-16T12:07:08.569419-04:00"
   },
   {
    "id": "17912283453507452",
@@ -1240,7 +1241,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T11:37:09.816018-04:00"
+   "viral_chk": "2026-10-16T12:07:08.569419-04:00"
   }
  ],
  "respondidos": [
@@ -3019,7 +3020,8 @@
   "18199285912380507",
   "18165745936492674",
   "18585366223069985",
-  "17888575347479532"
+  "17888575347479532",
+  "17912014086545387"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3395,15 +3397,11 @@
   "ab295dc80c": 1,
   "23f6dde8a8": 1,
   "25dd5b8c05": 1,
-  "70949c5684": 1
+  "70949c5684": 1,
+  "b4592ff934": 1
  },
  "reservas_checadas": "2026-10-16",
  "ultimas_respostas": [
-  {
-   "t": "nunca ter vendido é uma paz financeira gigante",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "marcar a pele com o carro que deixou saudade foi uma ótima ideia",
    "p": "concorda",
@@ -3548,6 +3546,11 @@
    "t": "bom, pelo menos não tem o barulho kk",
    "p": "neutra",
    "r": 1
+  },
+  {
+   "t": "economia de tempo e zero paciência pra enrolação",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4170,14 +4173,6 @@
   }
  ],
  "aberturas_post": {
-  "18125942191740363": [
-   "cada escolha uma",
-   "esse posto ai",
-   "se o nivel",
-   "perigo real e",
-   "estrategia infalivel para",
-   "pior q e"
-  ],
   "17910962637513171": [
    "imagina o desespero",
    "teoria perfeita na",
@@ -4432,6 +4427,9 @@
    "pica imagino a",
    "poeira eu sei",
    "bom pelo menos"
+  ],
+  "18118448395784719": [
+   "economia de tempo"
   ]
  },
  "shopee_checada": "2026-10-16|1",
