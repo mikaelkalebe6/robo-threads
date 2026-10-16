@@ -21,7 +21,8 @@
    "10:40",
    "11:24",
    "13:35",
-   "15:14"
+   "15:14",
+   "16:45"
   ],
   "produtos_feitos": 2,
   "respostas": 21,
@@ -32,24 +33,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17931200094409342",
-   "insp": "b6e8893db8",
-   "link": "",
-   "texto": "Praia dá muito mais trabalho do que descanso. Areia em tudo, muvuca, vento na cara... Troco fácil por uma cachoeira no meio do mato sem pensar duas vezes.",
-   "quando": "2026-10-10T09:07:10.034169-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T08:37:08.861815-04:00",
-   "metricas": {
-    "views": 1081,
-    "likes": 29,
-    "replies": 25,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-16"
-   }
-  },
   {
    "id": "18076654343444049",
    "insp": "car_car-20261010-1",
@@ -1147,7 +1130,7 @@
    "texto": "OPINIÃO IMPOPULAR: comprar eletrônico recondicionado é pura roleta russa financeira. \n\nVocê economiza uma grana na hora e passa os meses seguintes em pânico esperando a tela apagar do nada. Eu não tenho essa paz de espírito.",
    "quando": "2026-10-15T18:37:09.096254-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T16:37:10.374323-04:00",
+   "viral_chk": "2026-10-16T17:07:08.135125-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1186,7 +1169,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T16:37:10.374323-04:00"
+   "viral_chk": "2026-10-16T17:07:08.135125-04:00"
   },
   {
    "id": "17912283453507452",
@@ -1210,7 +1193,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T16:37:10.374323-04:00"
+   "viral_chk": "2026-10-16T17:07:08.135125-04:00"
   },
   {
    "id": "18075158522467482",
@@ -1219,7 +1202,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T16:37:10.374323-04:00"
+   "viral_chk": "2026-10-16T17:07:08.135125-04:00"
   },
   {
    "id": "18096698837416891",
@@ -1246,6 +1229,15 @@
     "campanha": "",
     "modo": "mesmo"
    }
+  },
+  {
+   "id": "18114403013039784",
+   "insp": "383fb2ad25",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
+   "quando": "2026-10-16T17:07:08.135125-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-16T17:07:08.135125-04:00"
   }
  ],
  "respondidos": [
@@ -3223,7 +3215,8 @@
   "9031693bde89219761bd98978f1820b0",
   "4f78f8a127da3ccc41745f8004041912",
   "5d0410bbbeaca38b6eeb444b4eff3ca2",
-  "429dd7482671a1461d753dda49d9c32d"
+  "429dd7482671a1461d753dda49d9c32d",
+  "c15d4d63af57bb66cc20cd15d59429e6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3407,7 +3400,8 @@
   "2cd94859c5": 1792103847.1107104,
   "4322eb9d04": 1792159645.6739976,
   "ee7378f2f0": 1792165044.1035805,
-  "30e1771c4d": 1792172245.717424
+  "30e1771c4d": 1792172245.717424,
+  "383fb2ad25": 1792184851.883079
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
