@@ -18,7 +18,8 @@
   ],
   "feitos": [
    "09:42",
-   "10:40"
+   "10:40",
+   "11:24"
   ],
   "produtos_feitos": 1,
   "respostas": 6,
@@ -27,23 +28,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18632920237005051",
-   "insp": "239781c6f2",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual foi o jogo de celular que fez vocês passarem raiva a ponto de desinstalar no mesmo dia?",
-   "quando": "2026-10-09T19:37:08.415563-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 634,
-    "likes": 0,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-16"
-   }
-  },
   {
    "id": "17904297183598082",
    "insp": "42105a2390",
@@ -1154,7 +1138,7 @@
    "texto": "Aquele professor de matemática que me deu uma chance na recuperação não imaginava que eu só usaria o conhecimento para calcular os juros do cartão de crédito hoje. É rir para não chorar.",
    "quando": "2026-10-15T13:07:09.353825-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T11:07:09.333086-04:00",
+   "viral_chk": "2026-10-16T11:37:09.816018-04:00",
    "metricas": {
     "views": 30,
     "likes": 1,
@@ -1193,7 +1177,7 @@
    "texto": "OPINIÃO IMPOPULAR: comprar eletrônico recondicionado é pura roleta russa financeira. \n\nVocê economiza uma grana na hora e passa os meses seguintes em pânico esperando a tela apagar do nada. Eu não tenho essa paz de espírito.",
    "quando": "2026-10-15T18:37:09.096254-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T11:07:09.333086-04:00",
+   "viral_chk": "2026-10-16T11:37:09.816018-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1232,7 +1216,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T11:07:09.333086-04:00"
+   "viral_chk": "2026-10-16T11:37:09.816018-04:00"
   },
   {
    "id": "17912283453507452",
@@ -1248,6 +1232,15 @@
    "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
    "visual": "em",
    "link_coment": "https://s.shopee.com.br/7faUleI3M5"
+  },
+  {
+   "id": "18118448395784719",
+   "insp": "ee7378f2f0",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
+   "quando": "2026-10-16T11:37:09.816018-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "viral_chk": "2026-10-16T11:37:09.816018-04:00"
   }
  ],
  "respondidos": [
@@ -3208,7 +3201,8 @@
   "5b76a82e91e0b4a3a1a69e2c07aafc3e",
   "db942cfa69c91bf333c00bcca1727f14",
   "9031693bde89219761bd98978f1820b0",
-  "4f78f8a127da3ccc41745f8004041912"
+  "4f78f8a127da3ccc41745f8004041912",
+  "5d0410bbbeaca38b6eeb444b4eff3ca2"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3390,7 +3384,8 @@
   "613abd5c08": 1792067892.1591535,
   "574b51f445": 1792084092.8612313,
   "2cd94859c5": 1792103847.1107104,
-  "4322eb9d04": 1792159645.6739976
+  "4322eb9d04": 1792159645.6739976,
+  "ee7378f2f0": 1792165044.1035805
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
