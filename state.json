@@ -23,10 +23,11 @@
    "13:35"
   ],
   "produtos_feitos": 1,
-  "respostas": 9,
+  "respostas": 15,
   "por_post": {
    "18137545936729576": 6,
-   "18118448395784719": 3
+   "18118448395784719": 3,
+   "18075158522467482": 6
   }
  },
  "posts": [
@@ -1162,7 +1163,7 @@
    "texto": "OPINIÃO IMPOPULAR: comprar eletrônico recondicionado é pura roleta russa financeira. \n\nVocê economiza uma grana na hora e passa os meses seguintes em pânico esperando a tela apagar do nada. Eu não tenho essa paz de espírito.",
    "quando": "2026-10-15T18:37:09.096254-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T13:37:08.620927-04:00",
+   "viral_chk": "2026-10-16T14:07:09.179964-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1201,7 +1202,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T13:37:08.620927-04:00"
+   "viral_chk": "2026-10-16T14:07:09.179964-04:00"
   },
   {
    "id": "17912283453507452",
@@ -1225,7 +1226,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T13:37:08.620927-04:00"
+   "viral_chk": "2026-10-16T14:07:09.179964-04:00"
   },
   {
    "id": "18075158522467482",
@@ -1234,7 +1235,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T13:37:08.620927-04:00"
+   "viral_chk": "2026-10-16T14:07:09.179964-04:00"
   }
  ],
  "respondidos": [
@@ -3016,7 +3017,13 @@
   "17888575347479532",
   "17912014086545387",
   "18638224288002293",
-  "18181206451389349"
+  "18181206451389349",
+  "18035821295846626",
+  "17907821802565469",
+  "17951244855277532",
+  "18056385893801415",
+  "18105662333181538",
+  "18095678717238972"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3397,40 +3404,16 @@
   "70949c5684": 1,
   "b4592ff934": 1,
   "533b7c82fb": 1,
-  "d50826ca6b": 1
+  "d50826ca6b": 1,
+  "6d09b3f946": 1,
+  "1e8c4f98e8": 1,
+  "4a33967923": 1,
+  "3d1961c153": 1,
+  "ade93da75f": 1,
+  "c3c586a8b7": 1
  },
  "reservas_checadas": "2026-10-16",
  "ultimas_respostas": [
-  {
-   "t": "combo completo, com direito a pé inchado no dia seguinte",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, sobra mais coxinha pra quem vai com foco nisso",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "dez minutos de trajeto com carro proprio facilitam a rotina de quem mora perto",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "coçar a cabeça é o sinal universal de que o estrago foi grande kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "essa banda no volume máximo na estrada estraga qualquer pose séria kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pesado demais, o som dele na estrada tem outra energia",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "mediano mas tem umas que salvam mesmo kkk",
    "p": "concorda",
@@ -3550,6 +3533,36 @@
    "t": "Exato, então que tal marcarmos aquele café e conversar cara a cara",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "precisa de uma garrafa inteira desse jeito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "café com leite sem açúcar é clássico demais pra começar o dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tô aqui pra ouvir, bora tomar um café e desabafar 🙏🏼",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "Já sinto o cheirinho, bora desabafar com café kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "uau, se vc ainda aguenta essa rotina eu me rendo 🙏🏼",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "fica a vontade, o café já tá passando kk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4172,17 +4185,6 @@
   }
  ],
  "aberturas_post": {
-  "17910962637513171": [
-   "imagina o desespero",
-   "teoria perfeita na",
-   "teoria linda na",
-   "cortar custos e",
-   "ja entra com",
-   "contratar nessa modalidade",
-   "demitir para recontratar",
-   "manutencao e boa",
-   "essa logica de"
-  ],
   "18129285628827828": [
    "memoria de elefante",
    "quem tem essa",
@@ -4431,6 +4433,14 @@
    "economia de tempo",
    "pelo menos economiza",
    "exato entao que"
+  ],
+  "18075158522467482": [
+   "precisa de uma",
+   "cafe com leite",
+   "to aqui pra",
+   "ja sinto o",
+   "uau se vc",
+   "fica a vontade"
   ]
  },
  "shopee_checada": "2026-10-16|1",
