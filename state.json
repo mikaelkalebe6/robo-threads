@@ -16,29 +16,14 @@
    "15:14",
    "18:11"
   ],
-  "feitos": [],
+  "feitos": [
+   "09:42"
+  ],
   "produtos_feitos": 0,
   "respostas": 0,
   "por_post": {}
  },
  "posts": [
-  {
-   "id": "18030985622888288",
-   "insp": "6ab249fcf7",
-   "link": "",
-   "texto": "Outro dia vi meu irmão jogando online de fone e lembrei da época em que a gente juntava a galera na sala pra disputar na mesma tela. \n\nSei que os gráficos de hoje parecem cinema, mas vocês preferem o videogame clássico dos anos 2000 ou essa era conectada de agora?",
-   "quando": "2026-10-09T17:07:09.179049-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 269,
-    "likes": 3,
-    "replies": 15,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-16"
-   }
-  },
   {
    "id": "18009434771778336",
    "insp": "ae0c3922a8",
@@ -1183,7 +1168,7 @@
    "texto": "Aquele professor de matemática que me deu uma chance na recuperação não imaginava que eu só usaria o conhecimento para calcular os juros do cartão de crédito hoje. É rir para não chorar.",
    "quando": "2026-10-15T13:07:09.353825-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T09:37:08.849085-04:00",
+   "viral_chk": "2026-10-16T10:07:08.518249-04:00",
    "metricas": {
     "views": 30,
     "likes": 1,
@@ -1222,7 +1207,7 @@
    "texto": "OPINIÃO IMPOPULAR: comprar eletrônico recondicionado é pura roleta russa financeira. \n\nVocê economiza uma grana na hora e passa os meses seguintes em pânico esperando a tela apagar do nada. Eu não tenho essa paz de espírito.",
    "quando": "2026-10-15T18:37:09.096254-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T09:37:08.849085-04:00",
+   "viral_chk": "2026-10-16T10:07:08.518249-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1253,6 +1238,15 @@
     "shares": 0,
     "em": "2026-10-16"
    }
+  },
+  {
+   "id": "18137545936729576",
+   "insp": "4322eb9d04",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
+   "quando": "2026-10-16T10:07:08.518249-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-16T10:07:08.518249-04:00"
   }
  ],
  "respondidos": [
@@ -3206,7 +3200,8 @@
   "2d5b61a88cc2d4ab350d4e19f540f760",
   "5b76a82e91e0b4a3a1a69e2c07aafc3e",
   "db942cfa69c91bf333c00bcca1727f14",
-  "9031693bde89219761bd98978f1820b0"
+  "9031693bde89219761bd98978f1820b0",
+  "4f78f8a127da3ccc41745f8004041912"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3387,7 +3382,8 @@
   "68d405bd4e": 1792022846.292982,
   "613abd5c08": 1792067892.1591535,
   "574b51f445": 1792084092.8612313,
-  "2cd94859c5": 1792103847.1107104
+  "2cd94859c5": 1792103847.1107104,
+  "4322eb9d04": 1792159645.6739976
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
