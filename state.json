@@ -17,32 +17,16 @@
    "18:11"
   ],
   "feitos": [
-   "09:42"
+   "09:42",
+   "10:40"
   ],
-  "produtos_feitos": 0,
-  "respostas": 1,
+  "produtos_feitos": 1,
+  "respostas": 6,
   "por_post": {
-   "18137545936729576": 1
+   "18137545936729576": 6
   }
  },
  "posts": [
-  {
-   "id": "18009434771778336",
-   "insp": "ae0c3922a8",
-   "link": "",
-   "texto": "Opinião impopular: tem robô mandando bom dia com mais carinho que muita gente da família.",
-   "quando": "2026-10-09T18:07:08.094562-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 531,
-    "likes": 5,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-16"
-   }
-  },
   {
    "id": "18632920237005051",
    "insp": "239781c6f2",
@@ -1170,7 +1154,7 @@
    "texto": "Aquele professor de matemática que me deu uma chance na recuperação não imaginava que eu só usaria o conhecimento para calcular os juros do cartão de crédito hoje. É rir para não chorar.",
    "quando": "2026-10-15T13:07:09.353825-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T10:37:09.716797-04:00",
+   "viral_chk": "2026-10-16T11:07:09.333086-04:00",
    "metricas": {
     "views": 30,
     "likes": 1,
@@ -1209,7 +1193,7 @@
    "texto": "OPINIÃO IMPOPULAR: comprar eletrônico recondicionado é pura roleta russa financeira. \n\nVocê economiza uma grana na hora e passa os meses seguintes em pânico esperando a tela apagar do nada. Eu não tenho essa paz de espírito.",
    "quando": "2026-10-15T18:37:09.096254-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T10:37:09.716797-04:00",
+   "viral_chk": "2026-10-16T11:07:09.333086-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1248,7 +1232,22 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T10:37:09.716797-04:00"
+   "viral_chk": "2026-10-16T11:07:09.333086-04:00"
+  },
+  {
+   "id": "17912283453507452",
+   "insp": "car_car-20261011-4",
+   "link": "",
+   "texto": "Mesmo carro. *Outra noite.*",
+   "quando": "2026-10-16T11:07:09.333086-04:00",
+   "ia": "carrossel",
+   "estrategia": "carrossel",
+   "formato": "carrossel",
+   "formato_link": "coment",
+   "produto": "21897981655",
+   "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
+   "visual": "em",
+   "link_coment": "https://s.shopee.com.br/7faUleI3M5"
   }
  ],
  "respondidos": [
@@ -3022,7 +3021,12 @@
   "17933960862404144",
   "17911721838500494",
   "18126128500862889",
-  "17990234673099636"
+  "17990234673099636",
+  "18119744113946714",
+  "18199285912380507",
+  "18165745936492674",
+  "18585366223069985",
+  "17888575347479532"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3391,35 +3395,15 @@
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-10-16",
-  "e2bce193c5": 1
+  "e2bce193c5": 1,
+  "acfb3c7912": 1,
+  "ab295dc80c": 1,
+  "23f6dde8a8": 1,
+  "25dd5b8c05": 1,
+  "70949c5684": 1
  },
  "reservas_checadas": "2026-10-16",
  "ultimas_respostas": [
-  {
-   "t": "esse aí marcou época nas ruas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "se o amor da vida estiver na mesa de frios já tem 50 por cento de chance dar certo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quem tem um bom companheiro na garagem não larga nunca",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "chevette antigo tem charme demais, quem teve chora a saudade kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse bicho é brabo demais, deixou saudades em muita gente kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "nunca ter vendido é uma paz financeira gigante",
    "p": "neutra",
@@ -3543,6 +3527,31 @@
   {
    "t": "vacilo clássico que estraga qualquer rolê kkk",
    "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkk que jeito de transformar feio em carinho sem culpa",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Legal, já ouvi falar de edícula, mas tem mais alguma palavra curiosa do seu estado?",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "Pica, kkk, imagino a cara dos fora 🤭",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "poeira eu sei, mas o ALAS me ganhou na hora kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "bom, pelo menos não tem o barulho kk",
+   "p": "neutra",
    "r": 1
   }
  ],
@@ -3691,6 +3700,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-15T09:37:10.149793-04:00"
+  },
+  "18126185815881366": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-16T11:07:09.333086-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4417,7 +4431,12 @@
    "boteco bom faz"
   ],
   "18137545936729576": [
-   "vacilo classico que"
+   "vacilo classico que",
+   "que jeito de",
+   "legal ja ouvi",
+   "pica imagino a",
+   "poeira eu sei",
+   "bom pelo menos"
   ]
  },
  "shopee_checada": "2026-10-16|1",
@@ -4714,7 +4733,8 @@
   "19399031891": "2026-10-15T07:07:09.668636-04:00",
   "58209986445": "2026-10-15T09:37:10.149793-04:00",
   "48514950250": "2026-10-15T13:37:11.018564-04:00",
-  "53108597653": "2026-10-15T19:37:08.210002-04:00"
+  "53108597653": "2026-10-15T19:37:08.210002-04:00",
+  "21897981655": "2026-10-16T11:07:09.333086-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4732,7 +4752,8 @@
   "car-20261011-1",
   "car-20261011-10",
   "car-20261011-2",
-  "car-20261011-3"
+  "car-20261011-3",
+  "car-20261011-4"
  ],
  "shopee_campanhas_marca": "60cf778194",
  "shopee_campanhas_api": [
