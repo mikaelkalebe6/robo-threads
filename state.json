@@ -20,9 +20,10 @@
    "09:42",
    "10:40",
    "11:24",
-   "13:35"
+   "13:35",
+   "15:14"
   ],
-  "produtos_feitos": 1,
+  "produtos_feitos": 2,
   "respostas": 20,
   "por_post": {
    "18137545936729576": 6,
@@ -31,23 +32,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18179925583431899",
-   "insp": "a0d83e5ad4",
-   "link": "",
-   "texto": "Quem mais aqui já caiu numa cantada tão tosca que funcionou só pela audácia. A verdade é que às vezes a gente facilita demais.",
-   "quando": "2026-10-09T21:07:08.476025-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 486,
-    "likes": 7,
-    "replies": 13,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-16"
-   }
-  },
   {
    "id": "17931200094409342",
    "insp": "b6e8893db8",
@@ -1163,7 +1147,7 @@
    "texto": "OPINIÃO IMPOPULAR: comprar eletrônico recondicionado é pura roleta russa financeira. \n\nVocê economiza uma grana na hora e passa os meses seguintes em pânico esperando a tela apagar do nada. Eu não tenho essa paz de espírito.",
    "quando": "2026-10-15T18:37:09.096254-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T15:07:09.541439-04:00",
+   "viral_chk": "2026-10-16T15:37:08.806961-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1202,7 +1186,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T15:07:09.541439-04:00"
+   "viral_chk": "2026-10-16T15:37:08.806961-04:00"
   },
   {
    "id": "17912283453507452",
@@ -1226,7 +1210,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T15:07:09.541439-04:00"
+   "viral_chk": "2026-10-16T15:37:08.806961-04:00"
   },
   {
    "id": "18075158522467482",
@@ -1235,7 +1219,33 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T15:07:09.541439-04:00"
+   "viral_chk": "2026-10-16T15:37:08.806961-04:00"
+  },
+  {
+   "id": "18096698837416891",
+   "insp": "video_9e4548e3fc",
+   "link": "",
+   "texto": "Descobri essa dica pra salvar lírio‑da‑paz murchando 😅. Misture canela em pó com água e veja a diferença 👀",
+   "quando": "2026-10-16T15:37:08.806961-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "14448900266",
+   "link_pendente": true,
+   "modo_produto": "mesmo",
+   "prod_dados": {
+    "itemId": "14448900266",
+    "nome": "Canela Po Pura",
+    "preco": 29.25,
+    "nota": 4.9,
+    "vendas": 631,
+    "comissao": 0.03,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr6cn2cyl631bb",
+    "offerLink": "https://s.shopee.com.br/2BFhgi20iS",
+    "campanha": "",
+    "modo": "mesmo"
+   }
   }
  ],
  "respondidos": [
@@ -4880,6 +4890,7 @@
   "6ccf4171d8": "2026-10-12T15:07:08.795491-04:00",
   "5d35ef883e": "2026-10-12T20:07:08.057559-04:00",
   "a581a81249": "2026-10-13T13:07:11.543898-04:00",
-  "d4b1d977f3": "2026-10-14T12:37:08.324607-04:00"
+  "d4b1d977f3": "2026-10-14T12:37:08.324607-04:00",
+  "9e4548e3fc": "2026-10-16T15:37:08.806961-04:00"
  }
 }
