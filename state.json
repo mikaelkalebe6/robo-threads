@@ -25,11 +25,12 @@
    "16:45"
   ],
   "produtos_feitos": 2,
-  "respostas": 21,
+  "respostas": 27,
   "por_post": {
    "18137545936729576": 6,
    "18118448395784719": 4,
-   "18075158522467482": 11
+   "18075158522467482": 11,
+   "18114403013039784": 6
   }
  },
  "posts": [
@@ -1130,7 +1131,7 @@
    "texto": "OPINIÃO IMPOPULAR: comprar eletrônico recondicionado é pura roleta russa financeira. \n\nVocê economiza uma grana na hora e passa os meses seguintes em pânico esperando a tela apagar do nada. Eu não tenho essa paz de espírito.",
    "quando": "2026-10-15T18:37:09.096254-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T17:07:08.135125-04:00",
+   "viral_chk": "2026-10-16T17:37:08.962458-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1169,7 +1170,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T17:07:08.135125-04:00"
+   "viral_chk": "2026-10-16T17:37:08.962458-04:00"
   },
   {
    "id": "17912283453507452",
@@ -1193,7 +1194,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T17:07:08.135125-04:00"
+   "viral_chk": "2026-10-16T17:37:08.962458-04:00"
   },
   {
    "id": "18075158522467482",
@@ -1202,7 +1203,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T17:07:08.135125-04:00"
+   "viral_chk": "2026-10-16T17:37:08.962458-04:00"
   },
   {
    "id": "18096698837416891",
@@ -1237,7 +1238,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T17:07:08.135125-04:00"
+   "viral_chk": "2026-10-16T17:37:08.962458-04:00"
   }
  ],
  "respondidos": [
@@ -3031,7 +3032,13 @@
   "18080487902383645",
   "18073809848758371",
   "18125468635930992",
-  "18169121509482399"
+  "18169121509482399",
+  "17954120979281554",
+  "18452493193127857",
+  "18105159908574907",
+  "18058333802637375",
+  "17952141750337178",
+  "18141054784719406"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3426,40 +3433,16 @@
   "d2b6c12efd": 1,
   "5a84e05d8b": 1,
   "86d0115e0a": 1,
-  "b53d1617b9": 1
+  "b53d1617b9": 1,
+  "19ef8bd366": 1,
+  "d194756c38": 1,
+  "42e55b4eae": 1,
+  "27ff4dabd1": 1,
+  "262347e291": 1,
+  "e9a1854461": 1
  },
  "reservas_checadas": "2026-10-16",
  "ultimas_respostas": [
-  {
-   "t": "nessas horas a distância e a gravidez pesam muito, aí o carro deixa de ser luxo e vira necessidade real mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "esse clássico absoluto no volume máximo na estrada exige muita coragem kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "noite passada de barulho faz o domingo de manhã parecer teste de paciência kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "excelente estrategia, a cerveja ajuda a tolerar o barulho kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "trabalha fora a semana inteira e resolve descontar o descanso no domingo cedo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o escudo virou tobogã kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "sempre um milagre tecnológico improvisado kkk",
    "p": "concorda",
@@ -3579,6 +3562,36 @@
    "t": "bora ver se vc aguenta o ritmo kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "essa foi de cair o queixo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "concordo total, a atração é rápida mas o amor mesmo é a rotina construída",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exato, a química atrai mas a convivência é que prova se dura",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "mas e se o requisito for algo q vc nem sabia que procurava?",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pelo menos poupa o trabalho de quebrar a cara rápido kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pesado mas faz todo sentido",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4201,14 +4214,6 @@
   }
  ],
  "aberturas_post": {
-  "18129285628827828": [
-   "memoria de elefante",
-   "quem tem essa",
-   "tecnologia otima mas",
-   "sensacao de vazio",
-   "tecnologia salva a",
-   "jeito moderno de"
-  ],
   "17912118573538249": [
    "curva fechada e"
   ],
@@ -4463,6 +4468,14 @@
    "passa aqui que",
    "daqui a pouco",
    "entendo as vezes"
+  ],
+  "18114403013039784": [
+   "essa foi de",
+   "concordo total a",
+   "exato a quimica",
+   "mas e se",
+   "pelo menos poupa",
+   "pesado mas faz"
   ]
  },
  "shopee_checada": "2026-10-16|1",
