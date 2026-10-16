@@ -1139,7 +1139,7 @@
    "texto": "Aquele professor de matemática que me deu uma chance na recuperação não imaginava que eu só usaria o conhecimento para calcular os juros do cartão de crédito hoje. É rir para não chorar.",
    "quando": "2026-10-15T13:07:09.353825-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T12:37:08.388514-04:00",
+   "viral_chk": "2026-10-16T13:07:08.934497-04:00",
    "metricas": {
     "views": 30,
     "likes": 1,
@@ -1178,7 +1178,7 @@
    "texto": "OPINIÃO IMPOPULAR: comprar eletrônico recondicionado é pura roleta russa financeira. \n\nVocê economiza uma grana na hora e passa os meses seguintes em pânico esperando a tela apagar do nada. Eu não tenho essa paz de espírito.",
    "quando": "2026-10-15T18:37:09.096254-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T12:37:08.388514-04:00",
+   "viral_chk": "2026-10-16T13:07:08.934497-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1217,7 +1217,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T12:37:08.388514-04:00"
+   "viral_chk": "2026-10-16T13:07:08.934497-04:00"
   },
   {
    "id": "17912283453507452",
@@ -1241,7 +1241,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T12:37:08.388514-04:00"
+   "viral_chk": "2026-10-16T13:07:08.934497-04:00"
   }
  ],
  "respondidos": [
