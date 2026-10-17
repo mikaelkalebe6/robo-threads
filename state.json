@@ -39,18 +39,19 @@
    "18:06"
   ],
   "produtos_feitos": 2,
-  "respostas": 78,
+  "respostas": 83,
   "por_post": {
    "18114403013039784": 3,
    "18216730960347343": 20,
-   "18440556559176732": 8,
+   "18440556559176732": 9,
    "18600522124066906": 1,
    "18430827799148762": 20,
    "18270239065307240": 4,
    "18435667258196022": 6,
-   "18108372566123329": 12,
+   "18108372566123329": 13,
    "18104070287346772": 2,
-   "18015866036747016": 2
+   "18015866036747016": 3,
+   "18025367147866539": 2
   }
  },
  "posts": [
@@ -1071,7 +1072,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T18:07:13.236382-04:00",
+   "viral_chk": "2026-10-17T18:37:06.802156-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1103,7 +1104,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
+   "viral_chk": "2026-10-17T18:37:06.802156-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1127,7 +1128,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
+   "viral_chk": "2026-10-17T18:37:06.802156-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1136,7 +1137,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
+   "viral_chk": "2026-10-17T18:37:06.802156-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1145,7 +1146,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
+   "viral_chk": "2026-10-17T18:37:06.802156-04:00"
   },
   {
    "id": "18108372566123329",
@@ -1154,7 +1155,7 @@
    "texto": "OPINIÃO IMPOPULAR: Churrasco bom de verdade depende muito mais de dominar o carvão do que de gastar uma fortuna na carne. \n\nCarvão aceso errado estraga qualquer corte caro.",
    "quando": "2026-10-17T14:07:08.333504-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
+   "viral_chk": "2026-10-17T18:37:06.802156-04:00"
   },
   {
    "id": "18104070287346772",
@@ -1163,7 +1164,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
+   "viral_chk": "2026-10-17T18:37:06.802156-04:00"
   },
   {
    "id": "18143543053588756",
@@ -1187,7 +1188,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
+   "viral_chk": "2026-10-17T18:37:06.802156-04:00"
   },
   {
    "id": "17961160752217869",
@@ -1196,7 +1197,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
+   "viral_chk": "2026-10-17T18:37:06.802156-04:00"
   },
   {
    "id": "18025367147866539",
@@ -1205,7 +1206,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
+   "viral_chk": "2026-10-17T18:37:06.802156-04:00"
   }
  ],
  "respondidos": [
@@ -3088,7 +3089,12 @@
   "18126758074859317",
   "18027847826884160",
   "18125814149487061",
-  "17998967430042290"
+  "17998967430042290",
+  "17903571213376791",
+  "18103478645572867",
+  "18104276639015172",
+  "18124243156876250",
+  "18071471300765835"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3513,13 +3519,13 @@
   "86acc1953b": 1,
   "d16a617ef0": 1,
   "1db76db4bb": 1,
-  "1d06969815": 1,
+  "1d06969815": 2,
   "b9899e9b3e": 1,
   "3ba30b20da": 1,
   "5a84e05d8b": 1,
   "b513d9cac6": 1,
   "756d338477": 1,
-  "d77d8066ee": 1,
+  "d77d8066ee": 2,
   "6bb08ca179": 1,
   "cc1a76cc86": 2,
   "5d241109b8": 1,
@@ -3559,35 +3565,13 @@
   "24f0167c2c": 1,
   "6b7c0a99e6": 1,
   "9c01f5b8b8": 1,
-  "8f272535d5": 1
+  "8f272535d5": 1,
+  "a0376f9297": 1,
+  "cbfa9c9bd1": 1,
+  "7268782570": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "nem todo o som do mundo salva essa autoestima aí kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justo, paz de espírito também tem seu valor",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "com dez anos a gente tem desculpa para achar graça de qualquer barulho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "silêncio na hora do primeiro papo ajuda a ver quem realmente sabe conversar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse jogo aí rouba horas da vida de qualquer um",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa é a melhor especialidade que existe kkk",
    "p": "concorda",
@@ -3710,6 +3694,31 @@
   },
   {
    "t": "se a trilha sonora for ruim o boi desanima e fica duro kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "uma gelada depois de um dia longo resolve metade das coisas mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesou demais a ponto de precisar de um atalho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "uma hora e meia cozinhando no sol para resolver tudo em dois minutos no YouTube é de acabar com o juízo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "teclado sofria na epoca do pc",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "capa de costela virando alta gastronomia é pra aplaudir de pé kkk",
    "p": "concorda",
    "r": 1
   }
@@ -4359,28 +4368,6 @@
   }
  ],
  "aberturas_post": {
-  "17898060528396441": [
-   "justo calor de",
-   "sair do banho",
-   "curitiba desafiando as",
-   "carioca tem pacto",
-   "manaus sem praia",
-   "entrar no banco",
-   "la o termometro",
-   "quarenta graus no",
-   "salvador no bafao",
-   "belem no calor",
-   "umidade alta transforma",
-   "entendo virar picole",
-   "entendo 52 graus",
-   "ah po valadares",
-   "outono com pitada",
-   "30 35 e",
-   "entao friozinho bom",
-   "quem curte frio",
-   "o lado cinza",
-   "ah o nordeste"
-  ],
   "17901736290374704": [
    "menina ja nasce"
   ],
@@ -4556,7 +4543,8 @@
    "entao voce guarda",
    "esse repertorio ai",
    "no pc era",
-   "musica na cabeca"
+   "musica na cabeca",
+   "teclado sofria na"
   ],
   "18430827799148762": [
    "batata frita e",
@@ -4606,7 +4594,8 @@
    "fumaca errada estraga",
    "sobrecoxa bem feita",
    "obrigada quem ja",
-   "se a trilha"
+   "se a trilha",
+   "capa de costela"
   ],
   "18104070287346772": [
    "pelo menos poupa",
@@ -4614,7 +4603,12 @@
   ],
   "18015866036747016": [
    "pior q e",
-   "parece mentira ate"
+   "parece mentira ate",
+   "uma hora e"
+  ],
+  "18025367147866539": [
+   "uma gelada depois",
+   "pesou demais a"
   ]
  },
  "shopee_checada": "2026-10-17|1",
