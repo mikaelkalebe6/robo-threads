@@ -29,38 +29,21 @@
    "09:39",
    "10:26",
    "11:08",
-   "11:51"
+   "11:51",
+   "13:01"
   ],
   "produtos_feitos": 1,
-  "respostas": 39,
+  "respostas": 45,
   "por_post": {
    "18114403013039784": 3,
    "18216730960347343": 17,
-   "18440556559176732": 6,
+   "18440556559176732": 7,
    "18600522124066906": 1,
-   "18430827799148762": 11,
-   "18270239065307240": 1
+   "18430827799148762": 15,
+   "18270239065307240": 2
   }
  },
  "posts": [
-  {
-   "id": "18438317413198976",
-   "insp": "a5b0a002b5",
-   "link": "",
-   "texto": "Todo ano essa discussão de Halloween versus Dia do Saci, sendo que a gente só quer uma desculpa pra comer doce e ir pra festa temática.",
-   "quando": "2026-10-10T20:07:09.151839-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-11T20:07:09.089106-04:00",
-   "metricas": {
-    "views": 611,
-    "likes": 22,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-17"
-   }
-  },
   {
    "id": "18124510639917840",
    "insp": "prod_19999249755",
@@ -1100,7 +1083,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T12:37:07.375772-04:00",
+   "viral_chk": "2026-10-17T13:07:07.880762-04:00",
    "metricas": {
     "views": 861,
     "likes": 18,
@@ -1156,7 +1139,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T12:37:07.375772-04:00",
+   "viral_chk": "2026-10-17T13:07:07.880762-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1195,7 +1178,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T12:37:07.375772-04:00",
+   "viral_chk": "2026-10-17T13:07:07.880762-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1227,7 +1210,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T12:37:07.375772-04:00"
+   "viral_chk": "2026-10-17T13:07:07.880762-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1251,7 +1234,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T12:37:07.375772-04:00"
+   "viral_chk": "2026-10-17T13:07:07.880762-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1260,7 +1243,16 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T12:37:07.375772-04:00"
+   "viral_chk": "2026-10-17T13:07:07.880762-04:00"
+  },
+  {
+   "id": "18435667258196022",
+   "insp": "5f95698f56",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
+   "quando": "2026-10-17T13:07:07.880762-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-17T13:07:07.880762-04:00"
   }
  ],
  "respondidos": [
@@ -3104,7 +3096,13 @@
   "18202878139334702",
   "18422147758152728",
   "18173109736455516",
-  "18144862408550079"
+  "18144862408550079",
+  "18114268922024720",
+  "18130513150700000",
+  "18140292850610286",
+  "18038315000650670",
+  "18221999557340246",
+  "18128144947847502"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3294,7 +3292,8 @@
   "dcc4169bd37214c213bf063e873363fb",
   "c29415ec5bc084579358d116c762562d",
   "e5e167824dab04369b429cdfee343bc4",
-  "b6dc261e862d3092ff387f56f550ce7c"
+  "b6dc261e862d3092ff387f56f550ce7c",
+  "e1f32366e616d5b7514b5cffcf25261b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3484,7 +3483,8 @@
   "7bb5b555f8": 1792242456.141735,
   "d6e52dbbe4": 1792246042.8907247,
   "dded827567": 1792251452.5580068,
-  "6112a4e17f": 1792253245.2702851
+  "6112a4e17f": 1792253245.2702851,
+  "5f95698f56": 1792256892.5006678
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3526,40 +3526,16 @@
   "d77d8066ee": 1,
   "6bb08ca179": 1,
   "cc1a76cc86": 1,
-  "5d241109b8": 1
+  "5d241109b8": 1,
+  "e44cd503d3": 1,
+  "edaabae584": 1,
+  "52eccec97f": 1,
+  "8ff080f6d0": 1,
+  "a474663913": 1,
+  "f6712df39e": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "poder olhar para o próprio sonho na garagem faz toda a diferença",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pelo menos esse poupa o assoalho do sofrimento diário kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "tirar as molas e chamar de estilo é pedir pra sofrer na primeira lombada kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "até a engenharia alemã sofre com as nossas ruas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "hesoyam salvou mais vidas que muito médico na época",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "proteger o futuro é justo, o problema é quando a poupança vira segredo de Estado",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "esse aí salvou muita missão desesperada kkkk",
    "p": "concorda",
@@ -3679,6 +3655,36 @@
    "t": "saiu totalmente do cardápio mas agora fiquei curiosa com essa escolha",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "ir até o final direto assim exige uma força de vontade olímpica",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "no pc era covardia pura kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "apelou pesado agora, respeito demais essa escolha kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "defesa pesada do torresmo aceita com louvor kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo demais, aquele cheddar de pote é indefensável kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse vem sempre quentinho do jeito certo kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4573,7 +4579,8 @@
    "economia de tempo",
    "esse era lei",
    "entao voce guarda",
-   "esse repertorio ai"
+   "esse repertorio ai",
+   "no pc era"
   ],
   "18430827799148762": [
    "batata frita e",
@@ -4586,10 +4593,15 @@
    "veio para mudar",
    "classico que chega",
    "prioridades em dia",
-   "saiu totalmente do"
+   "saiu totalmente do",
+   "apelou pesado agora",
+   "defesa pesada do",
+   "justo demais aquele",
+   "esse vem sempre"
   ],
   "18270239065307240": [
-   "saudade de perder"
+   "saudade de perder",
+   "ir ate o"
   ]
  },
  "shopee_checada": "2026-10-17|1",
