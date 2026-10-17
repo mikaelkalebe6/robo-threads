@@ -27,11 +27,11 @@
    "20:02"
   ],
   "produtos_feitos": 3,
-  "respostas": 31,
+  "respostas": 32,
   "por_post": {
    "18137545936729576": 6,
    "18118448395784719": 4,
-   "18075158522467482": 11,
+   "18075158522467482": 12,
    "18114403013039784": 8,
    "18600522124066906": 2
   }
@@ -1128,7 +1128,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T21:07:07.965632-04:00"
+   "viral_chk": "2026-10-16T21:37:07.021297-04:00"
   },
   {
    "id": "17912283453507452",
@@ -1152,7 +1152,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T21:07:07.965632-04:00"
+   "viral_chk": "2026-10-16T21:37:07.021297-04:00"
   },
   {
    "id": "18075158522467482",
@@ -1161,7 +1161,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T21:07:07.965632-04:00"
+   "viral_chk": "2026-10-16T21:37:07.021297-04:00"
   },
   {
    "id": "18096698837416891",
@@ -1174,7 +1174,7 @@
    "estrategia": "produto_video",
    "formato_link": "resp",
    "produto": "14448900266",
-   "link_pendente": true,
+   "link_pendente": false,
    "modo_produto": "mesmo",
    "prod_dados": {
     "itemId": "14448900266",
@@ -1187,7 +1187,10 @@
     "offerLink": "https://s.shopee.com.br/2BFhgi20iS",
     "campanha": "",
     "modo": "mesmo"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/2BFhgi20iS",
+   "link_em": "2026-10-16T21:37:07.021297-04:00",
+   "link_views": 531
   },
   {
    "id": "18114403013039784",
@@ -1196,7 +1199,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T21:07:07.965632-04:00"
+   "viral_chk": "2026-10-16T21:37:07.021297-04:00"
   },
   {
    "id": "18083693879364782",
@@ -1217,7 +1220,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T21:07:07.965632-04:00"
+   "viral_chk": "2026-10-16T21:37:07.021297-04:00"
   }
  ],
  "respondidos": [
@@ -3021,7 +3024,8 @@
   "18099512414389142",
   "18127382752855894",
   "18129186809498029",
-  "18344940490265622"
+  "18344940490265622",
+  "18140483885200160"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3428,15 +3432,11 @@
   "747b8303f2": 1,
   "2d508ce57c": 1,
   "7fcaeb92d6": 1,
-  "6e1a1a3afe": 1
+  "6e1a1a3afe": 1,
+  "571c11336c": 1
  },
  "reservas_checadas": "2026-10-16",
  "ultimas_respostas": [
-  {
-   "t": "kkk que jeito de transformar feio em carinho sem culpa",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Legal, já ouvi falar de edícula, mas tem mais alguma palavra curiosa do seu estado?",
    "p": "neutra",
@@ -3579,6 +3579,11 @@
   },
   {
    "t": "ganhar na loteria tá mais fácil do que achar isso hoje em dia kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "silêncio estratégico é uma arte kkkkkk",
    "p": "concorda",
    "r": 2
   }
@@ -3733,6 +3738,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-16T11:07:09.333086-04:00"
+  },
+  "17976011133139621": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-16T21:37:07.021297-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4453,7 +4463,8 @@
    "prepara a garrafa",
    "passa aqui que",
    "daqui a pouco",
-   "entendo as vezes"
+   "entendo as vezes",
+   "silencio estrategico e"
   ],
   "18114403013039784": [
    "essa foi de",
@@ -4766,7 +4777,8 @@
   "48514950250": "2026-10-15T13:37:11.018564-04:00",
   "53108597653": "2026-10-15T19:37:08.210002-04:00",
   "21897981655": "2026-10-16T11:07:09.333086-04:00",
-  "23198658411": "2026-10-16T18:37:09.135500-04:00"
+  "23198658411": "2026-10-16T18:37:09.135500-04:00",
+  "14448900266": "2026-10-16T21:37:07.021297-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
