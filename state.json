@@ -23,7 +23,8 @@
    "13:35",
    "15:14",
    "16:45",
-   "18:11"
+   "18:11",
+   "20:02"
   ],
   "produtos_feitos": 3,
   "respostas": 28,
@@ -35,28 +36,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18078986099393308",
-   "insp": "f8cf963815",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: rodar com o carro na reserva é puro desespero disfarçado de adrenalina.",
-   "quando": "2026-10-10T11:07:09.209030-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-10T22:37:08.608812-04:00",
-   "meme_comentado": true,
-   "meme_views": 3733,
-   "formato_link": "comentfoto",
-   "produto": "45754796089",
-   "metricas": {
-    "views": 4483,
-    "likes": 108,
-    "replies": 67,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-16"
-   }
-  },
   {
    "id": "17924890374203799",
    "insp": "d74ec1b0c0",
@@ -1148,7 +1127,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T19:37:07.395689-04:00"
+   "viral_chk": "2026-10-16T20:07:08.307128-04:00"
   },
   {
    "id": "17912283453507452",
@@ -1172,7 +1151,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T19:37:07.395689-04:00"
+   "viral_chk": "2026-10-16T20:07:08.307128-04:00"
   },
   {
    "id": "18075158522467482",
@@ -1181,7 +1160,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-16T19:37:07.395689-04:00"
+   "viral_chk": "2026-10-16T20:07:08.307128-04:00"
   },
   {
    "id": "18096698837416891",
@@ -1216,7 +1195,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-16T19:37:07.395689-04:00"
+   "viral_chk": "2026-10-16T20:07:08.307128-04:00"
   },
   {
    "id": "18083693879364782",
@@ -1229,6 +1208,15 @@
    "formato": "fio",
    "produto": "23198658411",
    "link_coment": "https://s.shopee.com.br/2LYzLYebmu"
+  },
+  {
+   "id": "18600522124066906",
+   "insp": "13bb414dfc",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
+   "quando": "2026-10-16T20:07:08.307128-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-16T20:07:08.307128-04:00"
   }
  ],
  "respondidos": [
@@ -3214,7 +3202,8 @@
   "4f78f8a127da3ccc41745f8004041912",
   "5d0410bbbeaca38b6eeb444b4eff3ca2",
   "429dd7482671a1461d753dda49d9c32d",
-  "c15d4d63af57bb66cc20cd15d59429e6"
+  "c15d4d63af57bb66cc20cd15d59429e6",
+  "82b0d33e99c401a41e2e56968a027f59"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3399,7 +3388,8 @@
   "4322eb9d04": 1792159645.6739976,
   "ee7378f2f0": 1792165044.1035805,
   "30e1771c4d": 1792172245.717424,
-  "383fb2ad25": 1792184851.883079
+  "383fb2ad25": 1792184851.883079,
+  "13bb414dfc": 1792195647.9195256
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
