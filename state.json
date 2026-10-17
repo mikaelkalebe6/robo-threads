@@ -25,35 +25,17 @@
    "19:54"
   ],
   "feitos": [
-   "08:38"
+   "08:38",
+   "09:39"
   ],
   "produtos_feitos": 0,
-  "respostas": 7,
+  "respostas": 13,
   "por_post": {
    "18114403013039784": 2,
-   "18216730960347343": 5
+   "18216730960347343": 11
   }
  },
  "posts": [
-  {
-   "id": "17975559206935962",
-   "insp": "0b1e634fcd",
-   "link": "",
-   "texto": "SEJAM SINCEROS: qual foi o primeiro salário de vocês? \n\nTenho quase certeza de que quem começou ganhando menos de 500 reais tem uma relação muito mais neurótica com dinheiro hoje em dia.",
-   "quando": "2026-10-10T14:37:09.661425-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-10T22:37:08.608812-04:00",
-   "viral_sem_produto": true,
-   "metricas": {
-    "views": 8317,
-    "likes": 31,
-    "replies": 154,
-    "reposts": 0,
-    "quotes": 5,
-    "shares": 0,
-    "em": "2026-10-17"
-   }
-  },
   {
    "id": "18099792050455079",
    "insp": "prod_19999249755",
@@ -1108,7 +1090,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T09:37:07.442272-04:00",
+   "viral_chk": "2026-10-17T10:07:07.534572-04:00",
    "metricas": {
     "views": 536,
     "likes": 1,
@@ -1150,7 +1132,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T09:37:07.442272-04:00",
+   "viral_chk": "2026-10-17T10:07:07.534572-04:00",
    "metricas": {
     "views": 271,
     "likes": 7,
@@ -1168,7 +1150,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T09:37:07.442272-04:00",
+   "viral_chk": "2026-10-17T10:07:07.534572-04:00",
    "metricas": {
     "views": 861,
     "likes": 18,
@@ -1224,7 +1206,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T09:37:07.442272-04:00",
+   "viral_chk": "2026-10-17T10:07:07.534572-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1263,7 +1245,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T09:37:07.442272-04:00",
+   "viral_chk": "2026-10-17T10:07:07.534572-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1281,7 +1263,16 @@
    "texto": "OPINIÃO IMPOPULAR: Ontem vi um cara sofrendo pra passar de lado numa lombada com o carro raspando e o som no talo. \n\nEle jurava que tava impressionando a rua toda, mas eu só conseguia ter pena do assoalho. Depois dos 25 anos alguém ainda acha isso bonito?",
    "quando": "2026-10-17T09:07:08.601110-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T09:37:07.442272-04:00"
+   "viral_chk": "2026-10-17T10:07:07.534572-04:00"
+  },
+  {
+   "id": "18440556559176732",
+   "insp": "d6e52dbbe4",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
+   "quando": "2026-10-17T10:07:07.534572-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "viral_chk": "2026-10-17T10:07:07.534572-04:00"
   }
  ],
  "respondidos": [
@@ -3093,7 +3084,13 @@
   "18111855224617939",
   "18082432103520815",
   "17905866696656885",
-  "18112271921127830"
+  "18112271921127830",
+  "18122525134729087",
+  "18208721530365203",
+  "18105475363986532",
+  "18015007298971159",
+  "18104597357210370",
+  "18129805462818688"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3280,7 +3277,8 @@
   "429dd7482671a1461d753dda49d9c32d",
   "c15d4d63af57bb66cc20cd15d59429e6",
   "82b0d33e99c401a41e2e56968a027f59",
-  "dcc4169bd37214c213bf063e873363fb"
+  "dcc4169bd37214c213bf063e873363fb",
+  "c29415ec5bc084579358d116c762562d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3467,7 +3465,8 @@
   "30e1771c4d": 1792172245.717424,
   "383fb2ad25": 1792184851.883079,
   "13bb414dfc": 1792195647.9195256,
-  "7bb5b555f8": 1792242456.141735
+  "7bb5b555f8": 1792242456.141735,
+  "d6e52dbbe4": 1792246042.8907247
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3478,40 +3477,16 @@
   "66933e1471": 1,
   "d9731fd336": 1,
   "ea09eb82e1": 1,
-  "efcf79b4f0": 1
+  "efcf79b4f0": 1,
+  "61a7a88ce3": 1,
+  "0050d44500": 1,
+  "f5e5e1006e": 1,
+  "c8979fa708": 1,
+  "b73e596c27": 1,
+  "a6db787552": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "precisa de uma garrafa inteira desse jeito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "café com leite sem açúcar é clássico demais pra começar o dia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tô aqui pra ouvir, bora tomar um café e desabafar 🙏🏼",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "Já sinto o cheirinho, bora desabafar com café kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "uau, se vc ainda aguenta essa rotina eu me rendo 🙏🏼",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "fica a vontade, o café já tá passando kk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "amargo do jeito que o dia pede",
    "p": "neutra",
@@ -3631,6 +3606,36 @@
    "t": "perto disso até conta em banco tem mais de dois kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "prioridades bem duvidosas mas quem sou eu pra julgar kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "inviável mesmo, haja coragem pra ver o carro sofrendo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "poder olhar para o próprio sonho na garagem faz toda a diferença",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pelo menos esse poupa o assoalho do sofrimento diário kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "tirar as molas e chamar de estilo é pedir pra sofrer na primeira lombada kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "até a engenharia alemã sofre com as nossas ruas",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4515,7 +4520,13 @@
    "parece que vc",
    "justo a estetica",
    "ja vai metade",
-   "perto disso ate"
+   "perto disso ate",
+   "prioridades bem duvidosas",
+   "inviavel mesmo haja",
+   "poder olhar para",
+   "pelo menos esse",
+   "tirar as molas",
+   "ate a engenharia"
   ]
  },
  "shopee_checada": "2026-10-17|1",
