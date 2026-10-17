@@ -35,7 +35,8 @@
    "14:39",
    "15:31",
    "16:22",
-   "17:19"
+   "17:19",
+   "18:06"
   ],
   "produtos_feitos": 2,
   "respostas": 78,
@@ -53,24 +54,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18125942191740363",
-   "insp": "d9cd77c4a6",
-   "link": "",
-   "texto": "Waze atualizado na tela ou abaixar o vidro do carro e perguntar pro frentista?",
-   "quando": "2026-10-11T14:37:08.319928-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-12T14:37:08.296179-04:00",
-   "metricas": {
-    "views": 887,
-    "likes": 11,
-    "replies": 17,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-17"
-   }
-  },
   {
    "id": "18112326992130330",
    "insp": "car_car-20261010-2",
@@ -1088,7 +1071,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T17:37:07.445098-04:00",
+   "viral_chk": "2026-10-17T18:07:13.236382-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1120,7 +1103,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T17:37:07.445098-04:00"
+   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1144,7 +1127,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T17:37:07.445098-04:00"
+   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1153,7 +1136,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T17:37:07.445098-04:00"
+   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1162,7 +1145,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T17:37:07.445098-04:00"
+   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
   },
   {
    "id": "18108372566123329",
@@ -1171,7 +1154,7 @@
    "texto": "OPINIÃO IMPOPULAR: Churrasco bom de verdade depende muito mais de dominar o carvão do que de gastar uma fortuna na carne. \n\nCarvão aceso errado estraga qualquer corte caro.",
    "quando": "2026-10-17T14:07:08.333504-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T17:37:07.445098-04:00"
+   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
   },
   {
    "id": "18104070287346772",
@@ -1180,7 +1163,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T17:37:07.445098-04:00"
+   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
   },
   {
    "id": "18143543053588756",
@@ -1204,7 +1187,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T17:37:07.445098-04:00"
+   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
   },
   {
    "id": "17961160752217869",
@@ -1213,7 +1196,16 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T17:37:07.445098-04:00"
+   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
+  },
+  {
+   "id": "18025367147866539",
+   "insp": "2c97391d6e",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
+   "quando": "2026-10-17T18:07:13.236382-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-17T18:07:13.236382-04:00"
   }
  ],
  "respondidos": [
@@ -3291,7 +3283,8 @@
   "dc1db739782eab4678755fd2e5087cfc",
   "048722fac8b8d17719f5ceb831906f36",
   "6c8fe0d762809a90c8dfb6d089ec87d6",
-  "7c98deafe040caa216dceda61d9d157b"
+  "7c98deafe040caa216dceda61d9d157b",
+  "66a16eb701f923c16f9543b6a14bbdf3"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3486,7 +3479,8 @@
   "cbd68162a7": 1792260488.221213,
   "993899e22c": 1792264088.3358436,
   "039df70d88": 1792269448.3002117,
-  "36557e440f": 1792273052.9622602
+  "36557e440f": 1792273052.9622602,
+  "2c97391d6e": 1792274863.0839956
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
