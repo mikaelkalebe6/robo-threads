@@ -33,14 +33,15 @@
    "13:01"
   ],
   "produtos_feitos": 1,
-  "respostas": 45,
+  "respostas": 51,
   "por_post": {
    "18114403013039784": 3,
-   "18216730960347343": 17,
+   "18216730960347343": 20,
    "18440556559176732": 7,
    "18600522124066906": 1,
-   "18430827799148762": 15,
-   "18270239065307240": 2
+   "18430827799148762": 17,
+   "18270239065307240": 2,
+   "18435667258196022": 1
   }
  },
  "posts": [
@@ -1083,7 +1084,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T13:07:07.880762-04:00",
+   "viral_chk": "2026-10-17T13:37:07.393259-04:00",
    "metricas": {
     "views": 861,
     "likes": 18,
@@ -1139,7 +1140,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T13:07:07.880762-04:00",
+   "viral_chk": "2026-10-17T13:37:07.393259-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1178,7 +1179,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T13:07:07.880762-04:00",
+   "viral_chk": "2026-10-17T13:37:07.393259-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1210,7 +1211,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T13:07:07.880762-04:00"
+   "viral_chk": "2026-10-17T13:37:07.393259-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1234,7 +1235,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T13:07:07.880762-04:00"
+   "viral_chk": "2026-10-17T13:37:07.393259-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1243,7 +1244,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T13:07:07.880762-04:00"
+   "viral_chk": "2026-10-17T13:37:07.393259-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1252,7 +1253,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T13:07:07.880762-04:00"
+   "viral_chk": "2026-10-17T13:37:07.393259-04:00"
   }
  ],
  "respondidos": [
@@ -3102,7 +3103,13 @@
   "18140292850610286",
   "18038315000650670",
   "18221999557340246",
-  "18128144947847502"
+  "18128144947847502",
+  "18105223694001149",
+  "18340462345256639",
+  "18219883771337956",
+  "18090311954219202",
+  "17949477597313521",
+  "18568259356075529"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3532,40 +3539,16 @@
   "52eccec97f": 1,
   "8ff080f6d0": 1,
   "a474663913": 1,
-  "f6712df39e": 1
+  "f6712df39e": 1,
+  "a207dddf45": 1,
+  "a2a06f9f05": 1,
+  "1672d8870c": 1,
+  "fcf8949395": 1,
+  "e423772843": 1,
+  "bac125aa36": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "esse aí salvou muita missão desesperada kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "economia de tempo pura, quem tem paciência de procurar hoje em dia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse era lei pra fugir da policia mais fácil kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "então você guarda o poder supremo na memória",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse repertório aí vale ouro na hora do aperto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "rua esburacada é um teste de paciência diário pra qualquer carro kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "trânsito virou competição de quem faz mais barulho por nada",
    "p": "concorda",
@@ -3685,6 +3668,36 @@
    "t": "esse vem sempre quentinho do jeito certo kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "sabe aquela conta que vem em um envelope fechado como se fosse um laudo médico",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "dupla imbatível que não tem erro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "apelou forte com as setinhas mas o pastel ainda leva meu voto",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "nem todo o som do mundo salva essa autoestima aí kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo, paz de espírito também tem seu valor",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "com dez anos a gente tem desculpa para achar graça de qualquer barulho",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4327,28 +4340,6 @@
   }
  ],
  "aberturas_post": {
-  "17970535233152991": [
-   "ler o clima",
-   "regra classica e",
-   "depende de quem",
-   "esse jogo de",
-   "estrategia de defesa",
-   "argumento forte esse",
-   "jeito pratico de",
-   "pelo menos a",
-   "esse zelo e",
-   "esse clima leve",
-   "educacao que facilita",
-   "adeus carteira e",
-   "tem sim as",
-   "ter a paz",
-   "entao quem paga",
-   "infelizmente a verdade",
-   "depende do meu",
-   "faz sentido quem",
-   "entendo esperar o",
-   "respeito melhor garantir"
-  ],
   "17987399961082313": [
    "aumentar o som",
    "sensor que avisa",
@@ -4571,7 +4562,10 @@
    "o caos completo",
    "tem uns q",
    "assoalho do carro",
-   "verdade mas o"
+   "verdade mas o",
+   "nem todo o",
+   "justo paz de",
+   "com dez anos"
   ],
   "18440556559176732": [
    "hesoyam salvou mais",
@@ -4597,11 +4591,16 @@
    "apelou pesado agora",
    "defesa pesada do",
    "justo demais aquele",
-   "esse vem sempre"
+   "esse vem sempre",
+   "dupla imbativel que",
+   "apelou forte com"
   ],
   "18270239065307240": [
    "saudade de perder",
    "ir ate o"
+  ],
+  "18435667258196022": [
+   "sabe aquela conta"
   ]
  },
  "shopee_checada": "2026-10-17|1",
