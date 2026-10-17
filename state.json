@@ -31,40 +31,23 @@
    "11:08",
    "11:51",
    "13:01",
-   "13:55"
+   "13:55",
+   "14:39"
   ],
   "produtos_feitos": 1,
-  "respostas": 57,
+  "respostas": 62,
   "por_post": {
    "18114403013039784": 3,
    "18216730960347343": 20,
    "18440556559176732": 8,
    "18600522124066906": 1,
-   "18430827799148762": 17,
+   "18430827799148762": 18,
    "18270239065307240": 3,
    "18435667258196022": 3,
-   "18108372566123329": 2
+   "18108372566123329": 6
   }
  },
  "posts": [
-  {
-   "id": "18009796532776328",
-   "insp": "7e236666a4",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: salário alto num lugar que suga sua alma ou ganhar menos pra trabalhar em paz?",
-   "quando": "2026-10-10T21:37:09.313934-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T21:37:08.730525-04:00",
-   "metricas": {
-    "views": 165,
-    "likes": 1,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-17"
-   }
-  },
   {
    "id": "17894365761611421",
    "insp": "95c7572ca7",
@@ -1121,7 +1104,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T14:37:07.251603-04:00",
+   "viral_chk": "2026-10-17T15:07:07.946855-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1160,7 +1143,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T14:37:07.251603-04:00",
+   "viral_chk": "2026-10-17T15:07:07.946855-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1192,7 +1175,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T14:37:07.251603-04:00"
+   "viral_chk": "2026-10-17T15:07:07.946855-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1216,7 +1199,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T14:37:07.251603-04:00"
+   "viral_chk": "2026-10-17T15:07:07.946855-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1225,7 +1208,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T14:37:07.251603-04:00"
+   "viral_chk": "2026-10-17T15:07:07.946855-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1234,7 +1217,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T14:37:07.251603-04:00"
+   "viral_chk": "2026-10-17T15:07:07.946855-04:00"
   },
   {
    "id": "18108372566123329",
@@ -1243,7 +1226,16 @@
    "texto": "OPINIÃO IMPOPULAR: Churrasco bom de verdade depende muito mais de dominar o carvão do que de gastar uma fortuna na carne. \n\nCarvão aceso errado estraga qualquer corte caro.",
    "quando": "2026-10-17T14:07:08.333504-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T14:37:07.251603-04:00"
+   "viral_chk": "2026-10-17T15:07:07.946855-04:00"
+  },
+  {
+   "id": "18104070287346772",
+   "insp": "993899e22c",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
+   "quando": "2026-10-17T15:07:07.946855-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-17T15:07:07.946855-04:00"
   }
  ],
  "respondidos": [
@@ -3105,7 +3097,12 @@
   "17912087319557744",
   "18339826942260291",
   "18409076875091309",
-  "17915016144469197"
+  "17915016144469197",
+  "18133056379776158",
+  "17910599151474624",
+  "18096864422221765",
+  "17910726528560587",
+  "18340503013285505"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3297,7 +3294,8 @@
   "e5e167824dab04369b429cdfee343bc4",
   "b6dc261e862d3092ff387f56f550ce7c",
   "e1f32366e616d5b7514b5cffcf25261b",
-  "dc1db739782eab4678755fd2e5087cfc"
+  "dc1db739782eab4678755fd2e5087cfc",
+  "048722fac8b8d17719f5ceb831906f36"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3489,7 +3487,8 @@
   "dded827567": 1792251452.5580068,
   "6112a4e17f": 1792253245.2702851,
   "5f95698f56": 1792256892.5006678,
-  "cbd68162a7": 1792260488.221213
+  "cbd68162a7": 1792260488.221213,
+  "993899e22c": 1792264088.3358436
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3548,35 +3547,15 @@
   "7ca1427d35": 1,
   "dc10fee143": 1,
   "a0164cdc55": 1,
-  "4ef6a14d7e": 1
+  "4ef6a14d7e": 1,
+  "419c096bb1": 1,
+  "6e4200835c": 1,
+  "1fb0a0f45b": 1,
+  "8db46b23b3": 1,
+  "cfdef63f83": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "batata frita é um clássico que nunca falha",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "difícil discordar quando chega sequinho daquele jeito kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "fugiu do cardápio mas respeito a ousadia",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "coragem abrir mão do queijo e bacon assim",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "veio com a terceira via que não tava no cardápio",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "vc tá montando um comitê de defesa do boteco já kkk",
    "p": "concorda",
@@ -3701,6 +3680,31 @@
    "t": "música na cabeça na hora lendo isso kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "verdade, o combo todo tem que funcionar junto pro resultado dar certo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem passa por isso sabe bem como é",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "olhar para isso dá o mesmo pavor de ver a brasa apagando no meio da carne",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "com certeza, quem escolhe errado no mercado já sai perdendo antes de acender o fogo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "inverter a ordem dos fatores não altera o resultado da fritura",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4589,7 +4593,8 @@
    "justo demais aquele",
    "esse vem sempre",
    "dupla imbativel que",
-   "apelou forte com"
+   "apelou forte com",
+   "inverter a ordem"
   ],
   "18270239065307240": [
    "saudade de perder",
@@ -4603,7 +4608,11 @@
   ],
   "18108372566123329": [
    "essa e a",
-   "exato brasa boa"
+   "exato brasa boa",
+   "verdade o combo",
+   "quem passa por",
+   "olhar para isso",
+   "com certeza quem"
   ]
  },
  "shopee_checada": "2026-10-17|1",
