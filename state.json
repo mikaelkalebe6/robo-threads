@@ -27,36 +27,19 @@
   "feitos": [
    "08:38",
    "09:39",
-   "10:26"
+   "10:26",
+   "11:08"
   ],
   "produtos_feitos": 1,
-  "respostas": 22,
+  "respostas": 27,
   "por_post": {
-   "18114403013039784": 2,
-   "18216730960347343": 13,
+   "18114403013039784": 3,
+   "18216730960347343": 17,
    "18440556559176732": 6,
    "18600522124066906": 1
   }
  },
  "posts": [
-  {
-   "id": "18125162968914216",
-   "insp": "eb9c03e299",
-   "link": "",
-   "texto": "PESSOAS QUE...: guardam até hoje o conselho daquele professor que acreditou na gente quando nem a gente acreditava.",
-   "quando": "2026-10-10T18:07:09.225159-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T18:07:08.270380-04:00",
-   "metricas": {
-    "views": 104,
-    "likes": 2,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-17"
-   }
-  },
   {
    "id": "18003828527991536",
    "insp": "a5b40d343a",
@@ -1114,7 +1097,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T11:07:07.851438-04:00",
+   "viral_chk": "2026-10-17T11:37:07.551776-04:00",
    "metricas": {
     "views": 271,
     "likes": 7,
@@ -1132,7 +1115,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T11:07:07.851438-04:00",
+   "viral_chk": "2026-10-17T11:37:07.551776-04:00",
    "metricas": {
     "views": 861,
     "likes": 18,
@@ -1188,7 +1171,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T11:07:07.851438-04:00",
+   "viral_chk": "2026-10-17T11:37:07.551776-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1227,7 +1210,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T11:07:07.851438-04:00",
+   "viral_chk": "2026-10-17T11:37:07.551776-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1245,7 +1228,7 @@
    "texto": "OPINIÃO IMPOPULAR: Ontem vi um cara sofrendo pra passar de lado numa lombada com o carro raspando e o som no talo. \n\nEle jurava que tava impressionando a rua toda, mas eu só conseguia ter pena do assoalho. Depois dos 25 anos alguém ainda acha isso bonito?",
    "quando": "2026-10-17T09:07:08.601110-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T11:07:07.851438-04:00"
+   "viral_chk": "2026-10-17T11:37:07.551776-04:00"
   },
   {
    "id": "18440556559176732",
@@ -1254,7 +1237,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T11:07:07.851438-04:00"
+   "viral_chk": "2026-10-17T11:37:07.551776-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1270,6 +1253,15 @@
    "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
    "visual": "cm",
    "link_coment": "https://s.shopee.com.br/6q1Nm7hMWS"
+  },
+  {
+   "id": "18430827799148762",
+   "insp": "dded827567",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
+   "quando": "2026-10-17T11:37:07.551776-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-17T11:37:07.551776-04:00"
   }
  ],
  "respondidos": [
@@ -3096,7 +3088,12 @@
   "18118748972284054",
   "18117361460087155",
   "17958111150250882",
-  "18107012225253447"
+  "18107012225253447",
+  "17934398685404404",
+  "18132559360738428",
+  "18110322116210841",
+  "18116714339079061",
+  "17906550612586096"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3284,7 +3281,8 @@
   "c15d4d63af57bb66cc20cd15d59429e6",
   "82b0d33e99c401a41e2e56968a027f59",
   "dcc4169bd37214c213bf063e873363fb",
-  "c29415ec5bc084579358d116c762562d"
+  "c29415ec5bc084579358d116c762562d",
+  "e5e167824dab04369b429cdfee343bc4"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3472,7 +3470,8 @@
   "383fb2ad25": 1792184851.883079,
   "13bb414dfc": 1792195647.9195256,
   "7bb5b555f8": 1792242456.141735,
-  "d6e52dbbe4": 1792246042.8907247
+  "d6e52dbbe4": 1792246042.8907247,
+  "dded827567": 1792251452.5580068
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3497,35 +3496,15 @@
   "2bcad456c4": 1,
   "75f4d3cd0a": 1,
   "de9f2fd36c": 1,
-  "7f374ba46c": 1
+  "7f374ba46c": 1,
+  "601fbb1f44": 1,
+  "5272c3e3ba": 1,
+  "b2a1ea3eec": 1,
+  "571befb30b": 1,
+  "86acc1953b": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "mas e se o requisito for algo q vc nem sabia que procurava?",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pelo menos poupa o trabalho de quebrar a cara rápido kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pesado mas faz todo sentido",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "bem direto ao ponto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "depende do dia, as vezes surge do boleto vencido msm",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "acertou o alvo direto",
    "p": "neutra",
@@ -3649,6 +3628,31 @@
   {
    "t": "trânsito virou competição de quem faz mais barulho por nada",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo o meio termo pra não complicar muito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o caos completo e todo mundo tendo que ter paciência kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "tem uns q exageram na dose msm kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "assoalho do carro não tem paz com esse estilo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "verdade mas o assoalho continua sem culpa nenhuma nessa história",
+   "p": "discorda",
    "r": 0
   }
  ],
@@ -4520,7 +4524,8 @@
    "bem direto ao",
    "ganhar na loteria",
    "respeito a franqueza",
-   "duas coisas q"
+   "duas coisas q",
+   "justo o meio"
   ],
   "18600522124066906": [
    "depende do dia",
@@ -4540,7 +4545,11 @@
    "tirar as molas",
    "ate a engenharia",
    "rua esburacada e",
-   "transito virou competicao"
+   "transito virou competicao",
+   "o caos completo",
+   "tem uns q",
+   "assoalho do carro",
+   "verdade mas o"
   ],
   "18440556559176732": [
    "hesoyam salvou mais",
