@@ -32,13 +32,14 @@
    "11:51"
   ],
   "produtos_feitos": 1,
-  "respostas": 33,
+  "respostas": 39,
   "por_post": {
    "18114403013039784": 3,
    "18216730960347343": 17,
    "18440556559176732": 6,
    "18600522124066906": 1,
-   "18430827799148762": 6
+   "18430827799148762": 11,
+   "18270239065307240": 1
   }
  },
  "posts": [
@@ -1099,7 +1100,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T12:07:07.816065-04:00",
+   "viral_chk": "2026-10-17T12:37:07.375772-04:00",
    "metricas": {
     "views": 861,
     "likes": 18,
@@ -1155,7 +1156,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T12:07:07.816065-04:00",
+   "viral_chk": "2026-10-17T12:37:07.375772-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1194,7 +1195,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T12:07:07.816065-04:00",
+   "viral_chk": "2026-10-17T12:37:07.375772-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1226,7 +1227,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T12:07:07.816065-04:00"
+   "viral_chk": "2026-10-17T12:37:07.375772-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1250,7 +1251,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T12:07:07.816065-04:00"
+   "viral_chk": "2026-10-17T12:37:07.375772-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1259,7 +1260,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T12:07:07.816065-04:00"
+   "viral_chk": "2026-10-17T12:37:07.375772-04:00"
   }
  ],
  "respondidos": [
@@ -3097,7 +3098,13 @@
   "17920044933244591",
   "18444765478135280",
   "18199365886390240",
-  "17947826217345642"
+  "17947826217345642",
+  "18119399581932453",
+  "18186045220414340",
+  "18202878139334702",
+  "18422147758152728",
+  "18173109736455516",
+  "18144862408550079"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3513,40 +3520,16 @@
   "1d06969815": 1,
   "b9899e9b3e": 1,
   "3ba30b20da": 1,
-  "5a84e05d8b": 1
+  "5a84e05d8b": 1,
+  "b513d9cac6": 1,
+  "756d338477": 1,
+  "d77d8066ee": 1,
+  "6bb08ca179": 1,
+  "cc1a76cc86": 1,
+  "5d241109b8": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "parece que vc tá fazendo rally urbano kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justo, a estética tem seu valor mas o sofrimento na lombada tira o brilho kk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "já vai metade do salário ali no primeiro buraco kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "perto disso até conta em banco tem mais de dois kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "prioridades bem duvidosas mas quem sou eu pra julgar kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "inviável mesmo, haja coragem pra ver o carro sofrendo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "poder olhar para o próprio sonho na garagem faz toda a diferença",
    "p": "ressalva",
@@ -3666,6 +3649,36 @@
    "t": "vc tá montando um comitê de defesa do boteco já kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "saudade de perder a noção do tempo assim também",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "escolha certeira para qualquer hora",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "veio para mudar as regras do jogo completamente",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "clássico que chega na mesa e some em cinco minutos",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "prioridades em dia kkkkkkkkkkk",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "saiu totalmente do cardápio mas agora fiquei curiosa com essa escolha",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4308,9 +4321,6 @@
   }
  ],
  "aberturas_post": {
-  "18094598612441203": [
-   "quando a compra"
-  ],
   "17970535233152991": [
    "ler o clima",
    "regra classica e",
@@ -4571,7 +4581,15 @@
    "fugiu do cardapio",
    "coragem abrir mao",
    "veio com a",
-   "vc ta montando"
+   "vc ta montando",
+   "escolha certeira para",
+   "veio para mudar",
+   "classico que chega",
+   "prioridades em dia",
+   "saiu totalmente do"
+  ],
+  "18270239065307240": [
+   "saudade de perder"
   ]
  },
  "shopee_checada": "2026-10-17|1",
