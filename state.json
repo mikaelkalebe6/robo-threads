@@ -40,19 +40,20 @@
    "18:51"
   ],
   "produtos_feitos": 2,
-  "respostas": 85,
+  "respostas": 91,
   "por_post": {
    "18114403013039784": 3,
    "18216730960347343": 20,
    "18440556559176732": 9,
    "18600522124066906": 1,
    "18430827799148762": 20,
-   "18270239065307240": 4,
+   "18270239065307240": 5,
    "18435667258196022": 6,
    "18108372566123329": 13,
    "18104070287346772": 3,
    "18015866036747016": 3,
-   "18025367147866539": 3
+   "18025367147866539": 3,
+   "17908292148572118": 5
   }
  },
  "posts": [
@@ -1050,7 +1051,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T19:07:08.733454-04:00",
+   "viral_chk": "2026-10-17T19:37:07.048368-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1082,7 +1083,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T19:07:08.733454-04:00"
+   "viral_chk": "2026-10-17T19:37:07.048368-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1106,7 +1107,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T19:07:08.733454-04:00"
+   "viral_chk": "2026-10-17T19:37:07.048368-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1115,7 +1116,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T19:07:08.733454-04:00"
+   "viral_chk": "2026-10-17T19:37:07.048368-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1124,7 +1125,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T19:07:08.733454-04:00"
+   "viral_chk": "2026-10-17T19:37:07.048368-04:00"
   },
   {
    "id": "18108372566123329",
@@ -1133,7 +1134,7 @@
    "texto": "OPINIÃO IMPOPULAR: Churrasco bom de verdade depende muito mais de dominar o carvão do que de gastar uma fortuna na carne. \n\nCarvão aceso errado estraga qualquer corte caro.",
    "quando": "2026-10-17T14:07:08.333504-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T19:07:08.733454-04:00"
+   "viral_chk": "2026-10-17T19:37:07.048368-04:00"
   },
   {
    "id": "18104070287346772",
@@ -1142,7 +1143,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T19:07:08.733454-04:00"
+   "viral_chk": "2026-10-17T19:37:07.048368-04:00"
   },
   {
    "id": "18143543053588756",
@@ -1166,7 +1167,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T19:07:08.733454-04:00"
+   "viral_chk": "2026-10-17T19:37:07.048368-04:00"
   },
   {
    "id": "17961160752217869",
@@ -1175,7 +1176,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T19:07:08.733454-04:00"
+   "viral_chk": "2026-10-17T19:37:07.048368-04:00"
   },
   {
    "id": "18025367147866539",
@@ -1184,7 +1185,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T19:07:08.733454-04:00"
+   "viral_chk": "2026-10-17T19:37:07.048368-04:00"
   },
   {
    "id": "17908292148572118",
@@ -1193,7 +1194,7 @@
    "texto": "SEJAM SINCEROS: quantas vezes vocês já trocaram o óleo do carro bem depois do prazo?",
    "quando": "2026-10-17T19:07:08.733454-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T19:07:08.733454-04:00"
+   "viral_chk": "2026-10-17T19:37:07.048368-04:00"
   }
  ],
  "respondidos": [
@@ -3083,7 +3084,13 @@
   "18124243156876250",
   "18071471300765835",
   "18115723582818733",
-  "17995008593841386"
+  "17995008593841386",
+  "18126356719921232",
+  "18133131265664908",
+  "17915236017522187",
+  "18148243546483364",
+  "18633357241051561",
+  "18076150001735637"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3553,7 +3560,7 @@
   "a835e8fd70": 1,
   "37bd8c8388": 1,
   "13d5d5cd25": 1,
-  "24f0167c2c": 1,
+  "24f0167c2c": 2,
   "6b7c0a99e6": 1,
   "9c01f5b8b8": 1,
   "8f272535d5": 1,
@@ -3561,40 +3568,15 @@
   "cbfa9c9bd1": 1,
   "7268782570": 1,
   "0c12150087": 1,
-  "7fcaeb92d6": 1
+  "7fcaeb92d6": 1,
+  "2307989de4": 1,
+  "1ea7eda30a": 1,
+  "42ee3a4355": 1,
+  "a5881fc223": 1,
+  "b973a5bfc1": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "vinho bom resolve metade da timidez né",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "música na cabeça na hora lendo isso kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "verdade, o combo todo tem que funcionar junto pro resultado dar certo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem passa por isso sabe bem como é",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "olhar para isso dá o mesmo pavor de ver a brasa apagando no meio da carne",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "com certeza, quem escolhe errado no mercado já sai perdendo antes de acender o fogo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "inverter a ordem dos fatores não altera o resultado da fritura",
    "p": "concorda",
@@ -3712,6 +3694,36 @@
   },
   {
    "t": "quem nunca fez isso que jogue a primeira pedra",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse motor já deve estar pedindo socorro em silêncio",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "isso aí já é quase um carro novo de fábrica",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse nível de disciplina deveria vir com certificado",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "teoricamente é lindo mesmo, na pratica a gente finge que não vê a quilometragem passando",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa margem aí é bem elástica né",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pelo menos o corpo avisa a hora de parar",
    "p": "concorda",
    "r": 0
   }
@@ -4361,9 +4373,6 @@
   }
  ],
  "aberturas_post": {
-  "17901736290374704": [
-   "menina ja nasce"
-  ],
   "17940476349379270": [
    "salva demais a"
   ],
@@ -4565,7 +4574,8 @@
    "saudade de perder",
    "ir ate o",
    "esse jogo ai",
-   "milagre tecnologico porque"
+   "milagre tecnologico porque",
+   "pelo menos o"
   ],
   "18435667258196022": [
    "sabe aquela conta",
@@ -4604,6 +4614,13 @@
    "uma gelada depois",
    "pesou demais a",
    "trabalho dos sonhos"
+  ],
+  "17908292148572118": [
+   "esse motor ja",
+   "isso ai ja",
+   "esse nivel de",
+   "teoricamente e lindo",
+   "essa margem ai"
   ]
  },
  "shopee_checada": "2026-10-17|1",
