@@ -36,16 +36,16 @@
    "15:31"
   ],
   "produtos_feitos": 2,
-  "respostas": 65,
+  "respostas": 70,
   "por_post": {
    "18114403013039784": 3,
    "18216730960347343": 20,
    "18440556559176732": 8,
    "18600522124066906": 1,
-   "18430827799148762": 18,
-   "18270239065307240": 3,
-   "18435667258196022": 4,
-   "18108372566123329": 6,
+   "18430827799148762": 19,
+   "18270239065307240": 4,
+   "18435667258196022": 5,
+   "18108372566123329": 8,
    "18104070287346772": 2
   }
  },
@@ -1088,7 +1088,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T15:37:07.980428-04:00",
+   "viral_chk": "2026-10-17T16:07:08.030062-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1127,7 +1127,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T15:37:07.980428-04:00",
+   "viral_chk": "2026-10-17T16:07:08.030062-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1159,7 +1159,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T15:37:07.980428-04:00"
+   "viral_chk": "2026-10-17T16:07:08.030062-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1183,7 +1183,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T15:37:07.980428-04:00"
+   "viral_chk": "2026-10-17T16:07:08.030062-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1192,7 +1192,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T15:37:07.980428-04:00"
+   "viral_chk": "2026-10-17T16:07:08.030062-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1201,7 +1201,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T15:37:07.980428-04:00"
+   "viral_chk": "2026-10-17T16:07:08.030062-04:00"
   },
   {
    "id": "18108372566123329",
@@ -1210,7 +1210,7 @@
    "texto": "OPINIÃO IMPOPULAR: Churrasco bom de verdade depende muito mais de dominar o carvão do que de gastar uma fortuna na carne. \n\nCarvão aceso errado estraga qualquer corte caro.",
    "quando": "2026-10-17T14:07:08.333504-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T15:37:07.980428-04:00"
+   "viral_chk": "2026-10-17T16:07:08.030062-04:00"
   },
   {
    "id": "18104070287346772",
@@ -1219,7 +1219,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T15:37:07.980428-04:00"
+   "viral_chk": "2026-10-17T16:07:08.030062-04:00"
   },
   {
    "id": "18143543053588756",
@@ -3104,7 +3104,12 @@
   "18340503013285505",
   "17973346200179089",
   "17972592687163691",
-  "18110108234464029"
+  "18110108234464029",
+  "18127288012882964",
+  "18197285581385681",
+  "17954612124266185",
+  "18130222516693559",
+  "17911253934500280"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3531,7 +3536,7 @@
   "756d338477": 1,
   "d77d8066ee": 1,
   "6bb08ca179": 1,
-  "cc1a76cc86": 1,
+  "cc1a76cc86": 2,
   "5d241109b8": 1,
   "e44cd503d3": 1,
   "edaabae584": 1,
@@ -3557,35 +3562,14 @@
   "cfdef63f83": 1,
   "db8a486402": 1,
   "46224a835e": 1,
-  "684278aae2": 1
+  "684278aae2": 1,
+  "5430e44385": 1,
+  "3e346271a0": 1,
+  "29d0e28701": 1,
+  "607fdfc034": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "veio para mudar as regras do jogo completamente",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "clássico que chega na mesa e some em cinco minutos",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "prioridades em dia kkkkkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "saiu totalmente do cardápio mas agora fiquei curiosa com essa escolha",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "ir até o final direto assim exige uma força de vontade olímpica",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "no pc era covardia pura kkkk",
    "p": "concorda",
@@ -3709,6 +3693,31 @@
   {
    "t": "pior que a conta só a pressão de fingir que está gostando da comida kkk",
    "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "milagre tecnológico porque o meu estaria pedindo socorro kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "exato, viver o momento sem roteiro muda tudo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "brasa no ponto e bom tempero salvam qualquer domingo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "escala o time inteiro de uma vez e boa sorte pro goleiro kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "excelente escolha mas o queijo tem que comer correndo antes de esfriar kkk",
+   "p": "ressalva",
    "r": 1
   }
  ],
@@ -4582,18 +4591,21 @@
    "esse vem sempre",
    "dupla imbativel que",
    "apelou forte com",
-   "inverter a ordem"
+   "inverter a ordem",
+   "excelente escolha mas"
   ],
   "18270239065307240": [
    "saudade de perder",
    "ir ate o",
-   "esse jogo ai"
+   "esse jogo ai",
+   "milagre tecnologico porque"
   ],
   "18435667258196022": [
    "sabe aquela conta",
    "silencio na hora",
    "vinho bom resolve",
-   "pior que a"
+   "pior que a",
+   "exato viver o"
   ],
   "18108372566123329": [
    "essa e a",
@@ -4601,7 +4613,9 @@
    "verdade o combo",
    "quem passa por",
    "olhar para isso",
-   "com certeza quem"
+   "com certeza quem",
+   "brasa no ponto",
+   "escala o time"
   ],
   "18104070287346772": [
    "pelo menos poupa",
