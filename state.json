@@ -32,10 +32,11 @@
    "11:51",
    "13:01",
    "13:55",
-   "14:39"
+   "14:39",
+   "15:31"
   ],
-  "produtos_feitos": 1,
-  "respostas": 62,
+  "produtos_feitos": 2,
+  "respostas": 65,
   "por_post": {
    "18114403013039784": 3,
    "18216730960347343": 20,
@@ -43,29 +44,12 @@
    "18600522124066906": 1,
    "18430827799148762": 18,
    "18270239065307240": 3,
-   "18435667258196022": 3,
-   "18108372566123329": 6
+   "18435667258196022": 4,
+   "18108372566123329": 6,
+   "18104070287346772": 2
   }
  },
  "posts": [
-  {
-   "id": "17894365761611421",
-   "insp": "95c7572ca7",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: a gente só passa vergonha tentando impressionar alguém porque insiste em inventar uma personalidade que não tem.",
-   "quando": "2026-10-11T08:37:08.861815-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-12T08:07:09.345469-04:00",
-   "metricas": {
-    "views": 373,
-    "likes": 7,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-17"
-   }
-  },
   {
    "id": "18112767806335344",
    "insp": "fio_fio-20261010-1",
@@ -1104,7 +1088,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T15:07:07.946855-04:00",
+   "viral_chk": "2026-10-17T15:37:07.980428-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1143,7 +1127,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T15:07:07.946855-04:00",
+   "viral_chk": "2026-10-17T15:37:07.980428-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1175,7 +1159,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T15:07:07.946855-04:00"
+   "viral_chk": "2026-10-17T15:37:07.980428-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1199,7 +1183,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T15:07:07.946855-04:00"
+   "viral_chk": "2026-10-17T15:37:07.980428-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1208,7 +1192,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T15:07:07.946855-04:00"
+   "viral_chk": "2026-10-17T15:37:07.980428-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1217,7 +1201,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T15:07:07.946855-04:00"
+   "viral_chk": "2026-10-17T15:37:07.980428-04:00"
   },
   {
    "id": "18108372566123329",
@@ -1226,7 +1210,7 @@
    "texto": "OPINIÃO IMPOPULAR: Churrasco bom de verdade depende muito mais de dominar o carvão do que de gastar uma fortuna na carne. \n\nCarvão aceso errado estraga qualquer corte caro.",
    "quando": "2026-10-17T14:07:08.333504-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T15:07:07.946855-04:00"
+   "viral_chk": "2026-10-17T15:37:07.980428-04:00"
   },
   {
    "id": "18104070287346772",
@@ -1235,7 +1219,22 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T15:07:07.946855-04:00"
+   "viral_chk": "2026-10-17T15:37:07.980428-04:00"
+  },
+  {
+   "id": "18143543053588756",
+   "insp": "car_car-20261011-6",
+   "link": "",
+   "texto": "a nuca depois de 4 horas de pescaria de boné",
+   "quando": "2026-10-17T15:37:07.980428-04:00",
+   "ia": "carrossel",
+   "estrategia": "carrossel",
+   "formato": "carrossel",
+   "formato_link": "coment",
+   "produto": "14065340258",
+   "modelo": "meme de reacao (refs. DdbtUQQoA9-, DeRyDE-IH2i) + manchete (DXVUQ01jZe6)",
+   "visual": "cn",
+   "link_coment": "https://s.shopee.com.br/9fLZ9KoAnp"
   }
  ],
  "respondidos": [
@@ -3102,7 +3101,10 @@
   "17910599151474624",
   "18096864422221765",
   "17910726528560587",
-  "18340503013285505"
+  "18340503013285505",
+  "17973346200179089",
+  "17972592687163691",
+  "18110108234464029"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3552,25 +3554,13 @@
   "6e4200835c": 1,
   "1fb0a0f45b": 1,
   "8db46b23b3": 1,
-  "cfdef63f83": 1
+  "cfdef63f83": 1,
+  "db8a486402": 1,
+  "46224a835e": 1,
+  "684278aae2": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "vc tá montando um comitê de defesa do boteco já kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "saudade de perder a noção do tempo assim também",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "escolha certeira para qualquer hora",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "veio para mudar as regras do jogo completamente",
    "p": "ressalva",
@@ -3705,6 +3695,21 @@
    "t": "inverter a ordem dos fatores não altera o resultado da fritura",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "pelo menos poupa o teatro da ligacao caindo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "medida drástica para um problema antigo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pior que a conta só a pressão de fingir que está gostando da comida kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -3872,6 +3877,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-17T12:07:07.816065-04:00"
+  },
+  "18127916278844185": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-17T15:37:07.980428-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4347,28 +4357,6 @@
   }
  ],
  "aberturas_post": {
-  "18125513068915632": [
-   "poxa doi perder",
-   "uau 10 carros",
-   "e o c4",
-   "c4 vtr tem",
-   "que saudade a",
-   "poxa realmente doi",
-   "essa s10 cabine",
-   "espaco e detalhe",
-   "imagino o trabalho",
-   "esse modelo tem",
-   "manter dois carros",
-   "esse motor dava",
-   "corsa 97 guerreiro",
-   "esse ai marcou",
-   "quem tem um",
-   "chevette antigo tem",
-   "esse bicho e",
-   "nunca ter vendido",
-   "marcar a pele",
-   "esse modelo e"
-  ],
   "18094079654172410": [
    "experiencia propria que",
    "pura maldade esse",
@@ -4604,7 +4592,8 @@
   "18435667258196022": [
    "sabe aquela conta",
    "silencio na hora",
-   "vinho bom resolve"
+   "vinho bom resolve",
+   "pior que a"
   ],
   "18108372566123329": [
    "essa e a",
@@ -4613,6 +4602,10 @@
    "quem passa por",
    "olhar para isso",
    "com certeza quem"
+  ],
+  "18104070287346772": [
+   "pelo menos poupa",
+   "medida drastica para"
   ]
  },
  "shopee_checada": "2026-10-17|1",
@@ -4899,7 +4892,8 @@
   "23198658411": "2026-10-16T18:37:09.135500-04:00",
   "14448900266": "2026-10-16T21:37:07.021297-04:00",
   "18599879164": "2026-10-17T10:37:08.174176-04:00",
-  "22694227037": "2026-10-17T12:07:07.816065-04:00"
+  "22694227037": "2026-10-17T12:07:07.816065-04:00",
+  "14065340258": "2026-10-17T15:37:07.980428-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4919,7 +4913,8 @@
   "car-20261011-2",
   "car-20261011-3",
   "car-20261011-4",
-  "car-20261011-5"
+  "car-20261011-5",
+  "car-20261011-6"
  ],
  "shopee_campanhas_marca": "60cf778194",
  "shopee_campanhas_api": [
