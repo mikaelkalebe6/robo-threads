@@ -24,7 +24,9 @@
    "15:31",
    "19:54"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:38"
+  ],
   "produtos_feitos": 0,
   "respostas": 2,
   "por_post": {
@@ -32,24 +34,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17924890374203799",
-   "insp": "d74ec1b0c0",
-   "link": "",
-   "texto": "Eu joguei tanto daquele jogo horrível na infância que tenho vergonha de admitir. Qual o seu guilty pleasure dos anos 90?",
-   "quando": "2026-10-10T12:07:10.552905-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T12:07:09.276302-04:00",
-   "metricas": {
-    "views": 595,
-    "likes": 1,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-17"
-   }
-  },
   {
    "id": "17975559206935962",
    "insp": "0b1e634fcd",
@@ -1123,7 +1107,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T08:37:07.243749-04:00",
+   "viral_chk": "2026-10-17T09:07:08.601110-04:00",
    "metricas": {
     "views": 536,
     "likes": 1,
@@ -1165,7 +1149,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T08:37:07.243749-04:00",
+   "viral_chk": "2026-10-17T09:07:08.601110-04:00",
    "metricas": {
     "views": 271,
     "likes": 7,
@@ -1183,7 +1167,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T08:37:07.243749-04:00",
+   "viral_chk": "2026-10-17T09:07:08.601110-04:00",
    "metricas": {
     "views": 861,
     "likes": 18,
@@ -1239,7 +1223,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T08:37:07.243749-04:00",
+   "viral_chk": "2026-10-17T09:07:08.601110-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1278,7 +1262,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T08:37:07.243749-04:00",
+   "viral_chk": "2026-10-17T09:07:08.601110-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1288,6 +1272,15 @@
     "shares": 0,
     "em": "2026-10-17"
    }
+  },
+  {
+   "id": "18216730960347343",
+   "insp": "7bb5b555f8",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Ontem vi um cara sofrendo pra passar de lado numa lombada com o carro raspando e o som no talo. \n\nEle jurava que tava impressionando a rua toda, mas eu só conseguia ter pena do assoalho. Depois dos 25 anos alguém ainda acha isso bonito?",
+   "quando": "2026-10-17T09:07:08.601110-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-17T09:07:08.601110-04:00"
   }
  ],
  "respondidos": [
@@ -3280,7 +3273,8 @@
   "5d0410bbbeaca38b6eeb444b4eff3ca2",
   "429dd7482671a1461d753dda49d9c32d",
   "c15d4d63af57bb66cc20cd15d59429e6",
-  "82b0d33e99c401a41e2e56968a027f59"
+  "82b0d33e99c401a41e2e56968a027f59",
+  "dcc4169bd37214c213bf063e873363fb"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3466,7 +3460,8 @@
   "ee7378f2f0": 1792165044.1035805,
   "30e1771c4d": 1792172245.717424,
   "383fb2ad25": 1792184851.883079,
-  "13bb414dfc": 1792195647.9195256
+  "13bb414dfc": 1792195647.9195256,
+  "7bb5b555f8": 1792242456.141735
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
