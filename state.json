@@ -26,37 +26,19 @@
   ],
   "feitos": [
    "08:38",
-   "09:39"
+   "09:39",
+   "10:26"
   ],
-  "produtos_feitos": 0,
-  "respostas": 13,
+  "produtos_feitos": 1,
+  "respostas": 19,
   "por_post": {
    "18114403013039784": 2,
-   "18216730960347343": 11
+   "18216730960347343": 11,
+   "18440556559176732": 5,
+   "18600522124066906": 1
   }
  },
  "posts": [
-  {
-   "id": "18099792050455079",
-   "insp": "prod_19999249755",
-   "link": "",
-   "texto": "Sempre achei que qualquer alicate servia para mexer com bijuteria até tentar fazer um detalhe menor e quase chorar de raiva.",
-   "quando": "2026-10-10T17:07:08.679990-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "comentfoto",
-   "produto": "19999249755",
-   "metricas": {
-    "views": 209,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-17"
-   }
-  },
   {
    "id": "18125162968914216",
    "insp": "eb9c03e299",
@@ -1132,7 +1114,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T10:07:07.534572-04:00",
+   "viral_chk": "2026-10-17T10:37:08.174176-04:00",
    "metricas": {
     "views": 271,
     "likes": 7,
@@ -1150,7 +1132,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T10:07:07.534572-04:00",
+   "viral_chk": "2026-10-17T10:37:08.174176-04:00",
    "metricas": {
     "views": 861,
     "likes": 18,
@@ -1206,7 +1188,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T10:07:07.534572-04:00",
+   "viral_chk": "2026-10-17T10:37:08.174176-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1245,7 +1227,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T10:07:07.534572-04:00",
+   "viral_chk": "2026-10-17T10:37:08.174176-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1263,7 +1245,7 @@
    "texto": "OPINIÃO IMPOPULAR: Ontem vi um cara sofrendo pra passar de lado numa lombada com o carro raspando e o som no talo. \n\nEle jurava que tava impressionando a rua toda, mas eu só conseguia ter pena do assoalho. Depois dos 25 anos alguém ainda acha isso bonito?",
    "quando": "2026-10-17T09:07:08.601110-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T10:07:07.534572-04:00"
+   "viral_chk": "2026-10-17T10:37:08.174176-04:00"
   },
   {
    "id": "18440556559176732",
@@ -1272,7 +1254,22 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T10:07:07.534572-04:00"
+   "viral_chk": "2026-10-17T10:37:08.174176-04:00"
+  },
+  {
+   "id": "18635940157022626",
+   "insp": "car_car-20261011-5",
+   "link": "",
+   "texto": "Show lotado. *Bolso da frente não é cofre.*",
+   "quando": "2026-10-17T10:37:08.174176-04:00",
+   "ia": "carrossel",
+   "estrategia": "carrossel",
+   "formato": "carrossel",
+   "formato_link": "coment",
+   "produto": "18599879164",
+   "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
+   "visual": "cm",
+   "link_coment": "https://s.shopee.com.br/6q1Nm7hMWS"
   }
  ],
  "respondidos": [
@@ -3090,7 +3087,13 @@
   "18105475363986532",
   "18015007298971159",
   "18104597357210370",
-  "18129805462818688"
+  "18129805462818688",
+  "17915883402530319",
+  "18101235986626511",
+  "18020141024728439",
+  "18132285214750258",
+  "18069698723783550",
+  "18118748972284054"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3483,40 +3486,15 @@
   "f5e5e1006e": 1,
   "c8979fa708": 1,
   "b73e596c27": 1,
-  "a6db787552": 1
+  "a6db787552": 1,
+  "678807c3d8": 1,
+  "1711f4225d": 1,
+  "277ab4d266": 2,
+  "32aad6a0ee": 1,
+  "2bcad456c4": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "amargo do jeito que o dia pede",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "prepara a garrafa inteira então",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "passa aqui que a garrafa tá cheia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "daqui a pouco você consegue ouvir os pensamentos do vizinho kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Entendo, às vezes tudo que precisamos é um momento para desabafar",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "bora ver se vc aguenta o ritmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa foi de cair o queixo",
    "p": "ressalva",
@@ -3634,6 +3612,36 @@
   },
   {
    "t": "até a engenharia alemã sofre com as nossas ruas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "hesoyam salvou mais vidas que muito médico na época",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "proteger o futuro é justo, o problema é quando a poupança vira segredo de Estado",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "esse aí salvou muita missão desesperada kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "economia de tempo pura, quem tem paciência de procurar hoje em dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse era lei pra fugir da policia mais fácil kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "então você guarda o poder supremo na memória",
    "p": "concorda",
    "r": 0
   }
@@ -3793,6 +3801,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-16T21:37:07.021297-04:00"
+  },
+  "18077554823560258": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-17T10:37:08.174176-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4268,14 +4281,6 @@
   }
  ],
  "aberturas_post": {
-  "17964872100196416": [
-   "teoria do dedo",
-   "urgencia assusta mas",
-   "horario comercial ate",
-   "quando e urgencia",
-   "depende muito de",
-   "ver tocando e"
-  ],
   "18131002286503625": [
    "cheirar amaciante e",
    "precisa de tecnico",
@@ -4513,7 +4518,8 @@
   ],
   "18600522124066906": [
    "depende do dia",
-   "acertou o alvo"
+   "acertou o alvo",
+   "proteger o futuro"
   ],
   "18216730960347343": [
    "pelo menos alguem",
@@ -4527,6 +4533,13 @@
    "pelo menos esse",
    "tirar as molas",
    "ate a engenharia"
+  ],
+  "18440556559176732": [
+   "hesoyam salvou mais",
+   "esse ai salvou",
+   "economia de tempo",
+   "esse era lei",
+   "entao voce guarda"
   ]
  },
  "shopee_checada": "2026-10-17|1",
@@ -4811,7 +4824,8 @@
   "53108597653": "2026-10-15T19:37:08.210002-04:00",
   "21897981655": "2026-10-16T11:07:09.333086-04:00",
   "23198658411": "2026-10-16T18:37:09.135500-04:00",
-  "14448900266": "2026-10-16T21:37:07.021297-04:00"
+  "14448900266": "2026-10-16T21:37:07.021297-04:00",
+  "18599879164": "2026-10-17T10:37:08.174176-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4830,7 +4844,8 @@
   "car-20261011-10",
   "car-20261011-2",
   "car-20261011-3",
-  "car-20261011-4"
+  "car-20261011-4",
+  "car-20261011-5"
  ],
  "shopee_campanhas_marca": "60cf778194",
  "shopee_campanhas_api": [
