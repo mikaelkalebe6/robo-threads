@@ -30,42 +30,22 @@
    "10:26",
    "11:08",
    "11:51",
-   "13:01"
+   "13:01",
+   "13:55"
   ],
   "produtos_feitos": 1,
-  "respostas": 51,
+  "respostas": 53,
   "por_post": {
    "18114403013039784": 3,
    "18216730960347343": 20,
    "18440556559176732": 7,
    "18600522124066906": 1,
    "18430827799148762": 17,
-   "18270239065307240": 2,
-   "18435667258196022": 1
+   "18270239065307240": 3,
+   "18435667258196022": 2
   }
  },
  "posts": [
-  {
-   "id": "18124510639917840",
-   "insp": "prod_19999249755",
-   "link": "",
-   "texto": "Comprei um kit de mini alicates de precisão pra arrumar umas bijuterias e agora acho que consigo consertar qualquer circuito da casa. A tesoura de cozinha finalmente teve paz.",
-   "quando": "2026-10-10T21:07:08.531577-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "comentfoto",
-   "produto": "19999249755",
-   "metricas": {
-    "views": 267,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-17"
-   }
-  },
   {
    "id": "18009796532776328",
    "insp": "7e236666a4",
@@ -1140,7 +1120,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T13:37:07.393259-04:00",
+   "viral_chk": "2026-10-17T14:07:08.333504-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1179,7 +1159,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T13:37:07.393259-04:00",
+   "viral_chk": "2026-10-17T14:07:08.333504-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1211,7 +1191,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T13:37:07.393259-04:00"
+   "viral_chk": "2026-10-17T14:07:08.333504-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1235,7 +1215,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T13:37:07.393259-04:00"
+   "viral_chk": "2026-10-17T14:07:08.333504-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1244,7 +1224,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T13:37:07.393259-04:00"
+   "viral_chk": "2026-10-17T14:07:08.333504-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1253,7 +1233,16 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T13:37:07.393259-04:00"
+   "viral_chk": "2026-10-17T14:07:08.333504-04:00"
+  },
+  {
+   "id": "18108372566123329",
+   "insp": "cbd68162a7",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Churrasco bom de verdade depende muito mais de dominar o carvão do que de gastar uma fortuna na carne. \n\nCarvão aceso errado estraga qualquer corte caro.",
+   "quando": "2026-10-17T14:07:08.333504-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-17T14:07:08.333504-04:00"
   }
  ],
  "respondidos": [
@@ -3109,7 +3098,9 @@
   "18219883771337956",
   "18090311954219202",
   "17949477597313521",
-  "18568259356075529"
+  "18568259356075529",
+  "18133938979708010",
+  "18128031562866759"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3300,7 +3291,8 @@
   "c29415ec5bc084579358d116c762562d",
   "e5e167824dab04369b429cdfee343bc4",
   "b6dc261e862d3092ff387f56f550ce7c",
-  "e1f32366e616d5b7514b5cffcf25261b"
+  "e1f32366e616d5b7514b5cffcf25261b",
+  "dc1db739782eab4678755fd2e5087cfc"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3491,7 +3483,8 @@
   "d6e52dbbe4": 1792246042.8907247,
   "dded827567": 1792251452.5580068,
   "6112a4e17f": 1792253245.2702851,
-  "5f95698f56": 1792256892.5006678
+  "5f95698f56": 1792256892.5006678,
+  "cbd68162a7": 1792260488.221213
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3545,20 +3538,12 @@
   "1672d8870c": 1,
   "fcf8949395": 1,
   "e423772843": 1,
-  "bac125aa36": 1
+  "bac125aa36": 1,
+  "366fd5e9e4": 1,
+  "7ca1427d35": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "trânsito virou competição de quem faz mais barulho por nada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo o meio termo pra não complicar muito",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "o caos completo e todo mundo tendo que ter paciência kkkk",
    "p": "concorda",
@@ -3696,6 +3681,16 @@
   },
   {
    "t": "com dez anos a gente tem desculpa para achar graça de qualquer barulho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "silêncio na hora do primeiro papo ajuda a ver quem realmente sabe conversar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse jogo aí rouba horas da vida de qualquer um",
    "p": "concorda",
    "r": 0
   }
@@ -4597,10 +4592,12 @@
   ],
   "18270239065307240": [
    "saudade de perder",
-   "ir ate o"
+   "ir ate o",
+   "esse jogo ai"
   ],
   "18435667258196022": [
-   "sabe aquela conta"
+   "sabe aquela conta",
+   "silencio na hora"
   ]
  },
  "shopee_checada": "2026-10-17|1",
