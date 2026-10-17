@@ -26,9 +26,9 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 1,
+  "respostas": 2,
   "por_post": {
-   "18114403013039784": 1
+   "18114403013039784": 2
   }
  },
  "posts": [
@@ -1123,7 +1123,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T08:07:08.155133-04:00",
+   "viral_chk": "2026-10-17T08:37:07.243749-04:00",
    "metricas": {
     "views": 536,
     "likes": 1,
@@ -1165,7 +1165,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T08:07:08.155133-04:00",
+   "viral_chk": "2026-10-17T08:37:07.243749-04:00",
    "metricas": {
     "views": 271,
     "likes": 7,
@@ -1183,7 +1183,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T08:07:08.155133-04:00",
+   "viral_chk": "2026-10-17T08:37:07.243749-04:00",
    "metricas": {
     "views": 861,
     "likes": 18,
@@ -1239,7 +1239,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T08:07:08.155133-04:00",
+   "viral_chk": "2026-10-17T08:37:07.243749-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1278,7 +1278,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T08:07:08.155133-04:00",
+   "viral_chk": "2026-10-17T08:37:07.243749-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -3093,7 +3093,8 @@
   "18129186809498029",
   "18344940490265622",
   "18140483885200160",
-  "17929842597421465"
+  "17929842597421465",
+  "18020975708730115"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3470,15 +3471,11 @@
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-10-17",
-  "283fa7e75e": 1
+  "283fa7e75e": 1,
+  "eb8e874c87": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "Pica, kkk, imagino a cara dos fora 🤭",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "poeira eu sei, mas o ALAS me ganhou na hora kkkkk",
    "p": "concorda",
@@ -3622,6 +3619,11 @@
   {
    "t": "respeito a franqueza, mas tirar o romantismo todo deixa o mundo meio sem graça",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "duas coisas q caminham juntas né",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -4517,7 +4519,8 @@
    "pesado mas faz",
    "bem direto ao",
    "ganhar na loteria",
-   "respeito a franqueza"
+   "respeito a franqueza",
+   "duas coisas q"
   ],
   "18600522124066906": [
    "depende do dia",
