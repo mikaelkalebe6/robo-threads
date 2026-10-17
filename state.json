@@ -28,9 +28,10 @@
    "08:38"
   ],
   "produtos_feitos": 0,
-  "respostas": 2,
+  "respostas": 7,
   "por_post": {
-   "18114403013039784": 2
+   "18114403013039784": 2,
+   "18216730960347343": 5
   }
  },
  "posts": [
@@ -1107,7 +1108,7 @@
    "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
    "quando": "2026-10-16T10:07:08.518249-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T09:07:08.601110-04:00",
+   "viral_chk": "2026-10-17T09:37:07.442272-04:00",
    "metricas": {
     "views": 536,
     "likes": 1,
@@ -1149,7 +1150,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T09:07:08.601110-04:00",
+   "viral_chk": "2026-10-17T09:37:07.442272-04:00",
    "metricas": {
     "views": 271,
     "likes": 7,
@@ -1167,7 +1168,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T09:07:08.601110-04:00",
+   "viral_chk": "2026-10-17T09:37:07.442272-04:00",
    "metricas": {
     "views": 861,
     "likes": 18,
@@ -1223,7 +1224,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T09:07:08.601110-04:00",
+   "viral_chk": "2026-10-17T09:37:07.442272-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1262,7 +1263,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T09:07:08.601110-04:00",
+   "viral_chk": "2026-10-17T09:37:07.442272-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1280,7 +1281,7 @@
    "texto": "OPINIÃO IMPOPULAR: Ontem vi um cara sofrendo pra passar de lado numa lombada com o carro raspando e o som no talo. \n\nEle jurava que tava impressionando a rua toda, mas eu só conseguia ter pena do assoalho. Depois dos 25 anos alguém ainda acha isso bonito?",
    "quando": "2026-10-17T09:07:08.601110-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T09:07:08.601110-04:00"
+   "viral_chk": "2026-10-17T09:37:07.442272-04:00"
   }
  ],
  "respondidos": [
@@ -3087,7 +3088,12 @@
   "18344940490265622",
   "18140483885200160",
   "17929842597421465",
-  "18020975708730115"
+  "18020975708730115",
+  "18126421621922955",
+  "18111855224617939",
+  "18082432103520815",
+  "17905866696656885",
+  "18112271921127830"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3467,35 +3473,15 @@
  "por_pessoa": {
   "_data": "2026-10-17",
   "283fa7e75e": 1,
-  "eb8e874c87": 1
+  "eb8e874c87": 1,
+  "8d52b822b8": 1,
+  "66933e1471": 1,
+  "d9731fd336": 1,
+  "ea09eb82e1": 1,
+  "efcf79b4f0": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "poeira eu sei, mas o ALAS me ganhou na hora kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "bom, pelo menos não tem o barulho kk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "economia de tempo e zero paciência pra enrolação",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos economiza horas de leitura em mensagem gigante",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Exato, então que tal marcarmos aquele café e conversar cara a cara",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "precisa de uma garrafa inteira desse jeito",
    "p": "concorda",
@@ -3620,6 +3606,31 @@
    "t": "duas coisas q caminham juntas né",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "pelo menos alguém lucra nessa história kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "parece que vc tá fazendo rally urbano kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo, a estética tem seu valor mas o sofrimento na lombada tira o brilho kk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "já vai metade do salário ali no primeiro buraco kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "perto disso até conta em banco tem mais de dois kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4252,28 +4263,6 @@
   }
  ],
  "aberturas_post": {
-  "18145752784569888": [
-   "playlist boa salva",
-   "separar o carro",
-   "popular mas continua",
-   "saude vem sempre",
-   "para pegar fila",
-   "estrada longa com",
-   "daqui a pouco",
-   "no transito pesado",
-   "o proximo passo",
-   "sim para quem",
-   "as garotas tem",
-   "entendo subir em",
-   "verdade o luxo",
-   "ai quando chegar",
-   "feliz em sentir",
-   "tu nao vai",
-   "concordo essa falta",
-   "entao seu carro",
-   "justo mas existem",
-   "paddle shift ja"
-  ],
   "17964872100196416": [
    "teoria do dedo",
    "urgencia assusta mas",
@@ -4520,6 +4509,13 @@
   "18600522124066906": [
    "depende do dia",
    "acertou o alvo"
+  ],
+  "18216730960347343": [
+   "pelo menos alguem",
+   "parece que vc",
+   "justo a estetica",
+   "ja vai metade",
+   "perto disso ate"
   ]
  },
  "shopee_checada": "2026-10-17|1",
