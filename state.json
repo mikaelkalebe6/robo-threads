@@ -30,11 +30,11 @@
    "10:26"
   ],
   "produtos_feitos": 1,
-  "respostas": 19,
+  "respostas": 22,
   "por_post": {
    "18114403013039784": 2,
-   "18216730960347343": 11,
-   "18440556559176732": 5,
+   "18216730960347343": 13,
+   "18440556559176732": 6,
    "18600522124066906": 1
   }
  },
@@ -1114,7 +1114,7 @@
    "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
    "quando": "2026-10-16T11:37:09.816018-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T10:37:08.174176-04:00",
+   "viral_chk": "2026-10-17T11:07:07.851438-04:00",
    "metricas": {
     "views": 271,
     "likes": 7,
@@ -1132,7 +1132,7 @@
    "texto": "ME CONTA: quem tá precisando de um café pra desabafar hoje? ☕️",
    "quando": "2026-10-16T13:37:08.620927-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T10:37:08.174176-04:00",
+   "viral_chk": "2026-10-17T11:07:07.851438-04:00",
    "metricas": {
     "views": 861,
     "likes": 18,
@@ -1188,7 +1188,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T10:37:08.174176-04:00",
+   "viral_chk": "2026-10-17T11:07:07.851438-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1227,7 +1227,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T10:37:08.174176-04:00",
+   "viral_chk": "2026-10-17T11:07:07.851438-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1245,7 +1245,7 @@
    "texto": "OPINIÃO IMPOPULAR: Ontem vi um cara sofrendo pra passar de lado numa lombada com o carro raspando e o som no talo. \n\nEle jurava que tava impressionando a rua toda, mas eu só conseguia ter pena do assoalho. Depois dos 25 anos alguém ainda acha isso bonito?",
    "quando": "2026-10-17T09:07:08.601110-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T10:37:08.174176-04:00"
+   "viral_chk": "2026-10-17T11:07:07.851438-04:00"
   },
   {
    "id": "18440556559176732",
@@ -1254,7 +1254,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T10:37:08.174176-04:00"
+   "viral_chk": "2026-10-17T11:07:07.851438-04:00"
   },
   {
    "id": "18635940157022626",
@@ -3093,7 +3093,10 @@
   "18020141024728439",
   "18132285214750258",
   "18069698723783550",
-  "18118748972284054"
+  "18118748972284054",
+  "18117361460087155",
+  "17958111150250882",
+  "18107012225253447"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3491,25 +3494,13 @@
   "1711f4225d": 1,
   "277ab4d266": 2,
   "32aad6a0ee": 1,
-  "2bcad456c4": 1
+  "2bcad456c4": 1,
+  "75f4d3cd0a": 1,
+  "de9f2fd36c": 1,
+  "7f374ba46c": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "essa foi de cair o queixo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "concordo total, a atração é rápida mas o amor mesmo é a rotina construída",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "exato, a química atrai mas a convivência é que prova se dura",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "mas e se o requisito for algo q vc nem sabia que procurava?",
    "p": "ressalva",
@@ -3642,6 +3633,21 @@
   },
   {
    "t": "então você guarda o poder supremo na memória",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse repertório aí vale ouro na hora do aperto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "rua esburacada é um teste de paciência diário pra qualquer carro kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "trânsito virou competição de quem faz mais barulho por nada",
    "p": "concorda",
    "r": 0
   }
@@ -4532,14 +4538,17 @@
    "poder olhar para",
    "pelo menos esse",
    "tirar as molas",
-   "ate a engenharia"
+   "ate a engenharia",
+   "rua esburacada e",
+   "transito virou competicao"
   ],
   "18440556559176732": [
    "hesoyam salvou mais",
    "esse ai salvou",
    "economia de tempo",
    "esse era lei",
-   "entao voce guarda"
+   "entao voce guarda",
+   "esse repertorio ai"
   ]
  },
  "shopee_checada": "2026-10-17|1",
