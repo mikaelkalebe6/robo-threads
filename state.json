@@ -33,43 +33,24 @@
    "13:01",
    "13:55",
    "14:39",
-   "15:31"
+   "15:31",
+   "16:22"
   ],
   "produtos_feitos": 2,
-  "respostas": 70,
+  "respostas": 73,
   "por_post": {
    "18114403013039784": 3,
    "18216730960347343": 20,
    "18440556559176732": 8,
    "18600522124066906": 1,
-   "18430827799148762": 19,
+   "18430827799148762": 20,
    "18270239065307240": 4,
-   "18435667258196022": 5,
-   "18108372566123329": 8,
+   "18435667258196022": 6,
+   "18108372566123329": 9,
    "18104070287346772": 2
   }
  },
  "posts": [
-  {
-   "id": "18112767806335344",
-   "insp": "fio_fio-20261010-1",
-   "link": "",
-   "texto": "O erro que estraga o passeio de cachoeira não é a água gelada. É ir de chinelo.",
-   "quando": "2026-10-11T09:07:10.464629-04:00",
-   "ia": "fio_literal",
-   "estrategia": "fio",
-   "formato": "fio",
-   "produto": "18599696115",
-   "metricas": {
-    "views": 278,
-    "likes": 1,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-17"
-   }
-  },
   {
    "id": "18129449095879104",
    "insp": "eb6c939e24",
@@ -1088,7 +1069,7 @@
    "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
    "quando": "2026-10-16T17:07:08.135125-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T16:07:08.030062-04:00",
+   "viral_chk": "2026-10-17T16:37:07.108556-04:00",
    "metricas": {
     "views": 803,
     "likes": 8,
@@ -1127,7 +1108,7 @@
    "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
    "quando": "2026-10-16T20:07:08.307128-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T16:07:08.030062-04:00",
+   "viral_chk": "2026-10-17T16:37:07.108556-04:00",
    "metricas": {
     "views": 185,
     "likes": 1,
@@ -1159,7 +1140,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T16:07:08.030062-04:00"
+   "viral_chk": "2026-10-17T16:37:07.108556-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1183,7 +1164,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T16:07:08.030062-04:00"
+   "viral_chk": "2026-10-17T16:37:07.108556-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1192,7 +1173,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T16:07:08.030062-04:00"
+   "viral_chk": "2026-10-17T16:37:07.108556-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1201,7 +1182,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T16:07:08.030062-04:00"
+   "viral_chk": "2026-10-17T16:37:07.108556-04:00"
   },
   {
    "id": "18108372566123329",
@@ -1210,7 +1191,7 @@
    "texto": "OPINIÃO IMPOPULAR: Churrasco bom de verdade depende muito mais de dominar o carvão do que de gastar uma fortuna na carne. \n\nCarvão aceso errado estraga qualquer corte caro.",
    "quando": "2026-10-17T14:07:08.333504-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T16:07:08.030062-04:00"
+   "viral_chk": "2026-10-17T16:37:07.108556-04:00"
   },
   {
    "id": "18104070287346772",
@@ -1219,7 +1200,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T16:07:08.030062-04:00"
+   "viral_chk": "2026-10-17T16:37:07.108556-04:00"
   },
   {
    "id": "18143543053588756",
@@ -1235,6 +1216,15 @@
    "modelo": "meme de reacao (refs. DdbtUQQoA9-, DeRyDE-IH2i) + manchete (DXVUQ01jZe6)",
    "visual": "cn",
    "link_coment": "https://s.shopee.com.br/9fLZ9KoAnp"
+  },
+  {
+   "id": "18015866036747016",
+   "insp": "039df70d88",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
+   "quando": "2026-10-17T16:37:07.108556-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "viral_chk": "2026-10-17T16:37:07.108556-04:00"
   }
  ],
  "respondidos": [
@@ -3109,7 +3099,10 @@
   "18197285581385681",
   "17954612124266185",
   "18130222516693559",
-  "17911253934500280"
+  "17911253934500280",
+  "18047783873813486",
+  "18073941173583650",
+  "17918307759459378"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3302,7 +3295,8 @@
   "b6dc261e862d3092ff387f56f550ce7c",
   "e1f32366e616d5b7514b5cffcf25261b",
   "dc1db739782eab4678755fd2e5087cfc",
-  "048722fac8b8d17719f5ceb831906f36"
+  "048722fac8b8d17719f5ceb831906f36",
+  "6c8fe0d762809a90c8dfb6d089ec87d6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3495,7 +3489,8 @@
   "6112a4e17f": 1792253245.2702851,
   "5f95698f56": 1792256892.5006678,
   "cbd68162a7": 1792260488.221213,
-  "993899e22c": 1792264088.3358436
+  "993899e22c": 1792264088.3358436,
+  "039df70d88": 1792269448.3002117
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3566,25 +3561,13 @@
   "5430e44385": 1,
   "3e346271a0": 1,
   "29d0e28701": 1,
-  "607fdfc034": 1
+  "607fdfc034": 1,
+  "2dfa87c7ce": 1,
+  "a835e8fd70": 1,
+  "37bd8c8388": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "no pc era covardia pura kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "apelou pesado agora, respeito demais essa escolha kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "defesa pesada do torresmo aceita com louvor kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "justo demais, aquele cheddar de pote é indefensável kkk",
    "p": "concorda",
@@ -3719,6 +3702,21 @@
    "t": "excelente escolha mas o queijo tem que comer correndo antes de esfriar kkk",
    "p": "ressalva",
    "r": 1
+  },
+  {
+   "t": "lugar barulhento acaba com a paciência de qualquer um",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fumaça errada estraga o sabor de qualquer pedaço",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "escolha certeira, ainda mais se vier com o caldo de cana gelado",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4592,7 +4590,8 @@
    "dupla imbativel que",
    "apelou forte com",
    "inverter a ordem",
-   "excelente escolha mas"
+   "excelente escolha mas",
+   "escolha certeira ainda"
   ],
   "18270239065307240": [
    "saudade de perder",
@@ -4605,7 +4604,8 @@
    "silencio na hora",
    "vinho bom resolve",
    "pior que a",
-   "exato viver o"
+   "exato viver o",
+   "lugar barulhento acaba"
   ],
   "18108372566123329": [
    "essa e a",
@@ -4615,7 +4615,8 @@
    "olhar para isso",
    "com certeza quem",
    "brasa no ponto",
-   "escala o time"
+   "escala o time",
+   "fumaca errada estraga"
   ],
   "18104070287346772": [
    "pelo menos poupa",
