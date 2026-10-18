@@ -30,7 +30,7 @@
    "09:57"
   ],
   "produtos_feitos": 1,
-  "respostas": 23,
+  "respostas": 24,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -38,7 +38,7 @@
    "18430827799148762": 8,
    "18440556559176732": 1,
    "18435667258196022": 4,
-   "18105080027306911": 4
+   "18105080027306911": 5
   }
  },
  "posts": [
@@ -1029,7 +1029,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T10:07:07.303688-04:00",
+   "viral_chk": "2026-10-18T10:37:07.140117-04:00",
    "metricas": {
     "views": 537,
     "likes": 6,
@@ -1047,7 +1047,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T10:07:07.303688-04:00",
+   "viral_chk": "2026-10-18T10:37:07.140117-04:00",
    "metricas": {
     "views": 700,
     "likes": 18,
@@ -1088,7 +1088,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T10:07:07.303688-04:00",
+   "viral_chk": "2026-10-18T10:37:07.140117-04:00",
    "metricas": {
     "views": 477,
     "likes": 6,
@@ -1130,7 +1130,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-18T10:07:07.303688-04:00",
+   "viral_chk": "2026-10-18T10:37:07.140117-04:00",
    "metricas": {
     "views": 756,
     "likes": 5,
@@ -1148,7 +1148,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T10:07:07.303688-04:00",
+   "viral_chk": "2026-10-18T10:37:07.140117-04:00",
    "metricas": {
     "views": 44,
     "likes": 0,
@@ -1166,7 +1166,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T10:07:07.303688-04:00",
+   "viral_chk": "2026-10-18T10:37:07.140117-04:00",
    "metricas": {
     "views": 402,
     "likes": 18,
@@ -1184,7 +1184,7 @@
    "texto": "SEJAM SINCEROS: quantas vezes vocês já trocaram o óleo do carro bem depois do prazo?",
    "quando": "2026-10-17T19:07:08.733454-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T10:07:07.303688-04:00",
+   "viral_chk": "2026-10-18T10:37:07.140117-04:00",
    "metricas": {
     "views": 735,
     "likes": 6,
@@ -1237,7 +1237,7 @@
    "texto": "OPINIÃO IMPOPULAR: Professor que aguenta aluno sem perder a paciência merecia ganhar igual jogador de bola.",
    "quando": "2026-10-17T21:07:06.869585-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T10:07:07.303688-04:00",
+   "viral_chk": "2026-10-18T10:37:07.140117-04:00",
    "metricas": {
     "views": 226,
     "likes": 1,
@@ -1255,7 +1255,7 @@
    "texto": "VAMOS SER HONESTOS: o primeiro encontro de verdade acontece na velocidade e no tom da resposta no chat, antes de ver a pessoa pessoalmente",
    "quando": "2026-10-17T22:07:07.563490-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T10:07:07.303688-04:00",
+   "viral_chk": "2026-10-18T10:37:07.140117-04:00",
    "metricas": {
     "views": 535,
     "likes": 7,
@@ -1273,7 +1273,7 @@
    "texto": "ME CONTA: qual professor já salvou vocês da reprovação no último minuto do segundo tempo? \n\nEu tenho uma dívida eterna com a de história que aceitou um trabalho meu feito às pressas de madrugada.",
    "quando": "2026-10-18T08:37:08.377277-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T10:07:07.303688-04:00"
+   "viral_chk": "2026-10-18T10:37:07.140117-04:00"
   },
   {
    "id": "18105080027306911",
@@ -1282,7 +1282,7 @@
    "texto": "SEM MENTIR: quem mais aqui já encarou mais de doze horas no volante achando que ia ser super tranquilo?\n\nNa metade do caminho a coluna já pede socorro e nem a melhor playlist do mundo salva.",
    "quando": "2026-10-18T09:37:07.306843-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T10:07:07.303688-04:00"
+   "viral_chk": "2026-10-18T10:37:07.140117-04:00"
   },
   {
    "id": "18001232555812340",
@@ -3240,7 +3240,8 @@
   "18063607304536854",
   "18127946854851092",
   "18369382834246749",
-  "18105225149347249"
+  "18105225149347249",
+  "18065107253789637"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3669,15 +3670,11 @@
   "1d06969815": 1,
   "bc0b95c3a1": 1,
   "a6db787552": 1,
-  "24b92b4f68": 1
+  "24b92b4f68": 1,
+  "65fd9e58c1": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "se a pessoa demora muito o assunto já esfriou faz tempo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "almoço bom é o que sobrevive ao papo do chat antes da comida chegar kkk",
    "p": "ressalva",
@@ -3820,6 +3817,11 @@
   },
   {
    "t": "ainda bem que a maioria concorda pq ninguém merece essa pressão",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "com veículo bom o sofrimento pelo menos é mais confortável",
    "p": "concorda",
    "r": 0
   }
@@ -4760,7 +4762,8 @@
    "coragem nivel extremo",
    "carro bom e",
    "essa e a",
-   "haja ferro e"
+   "haja ferro e",
+   "com veiculo bom"
   ]
  },
  "shopee_checada": "2026-10-18|1",
