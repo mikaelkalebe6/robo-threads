@@ -42,11 +42,11 @@
    "20:51"
   ],
   "produtos_feitos": 3,
-  "respostas": 103,
+  "respostas": 105,
   "por_post": {
    "18114403013039784": 3,
    "18216730960347343": 20,
-   "18440556559176732": 11,
+   "18440556559176732": 13,
    "18600522124066906": 1,
    "18430827799148762": 20,
    "18270239065307240": 6,
@@ -1046,7 +1046,12 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T21:07:06.869585-04:00"
+   "viral_chk": "2026-10-17T21:37:08.255141-04:00",
+   "link_coment": "https://s.shopee.com.br/5VWAgmxtg6",
+   "meme_comentado": true,
+   "meme_views": 1013,
+   "formato_link": "coment",
+   "produto": "58255737985"
   },
   {
    "id": "18635940157022626",
@@ -1070,7 +1075,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T21:07:06.869585-04:00"
+   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1079,7 +1084,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T21:07:06.869585-04:00"
+   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1088,7 +1093,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T21:07:06.869585-04:00"
+   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
   },
   {
    "id": "18108372566123329",
@@ -1097,7 +1102,12 @@
    "texto": "OPINIÃO IMPOPULAR: Churrasco bom de verdade depende muito mais de dominar o carvão do que de gastar uma fortuna na carne. \n\nCarvão aceso errado estraga qualquer corte caro.",
    "quando": "2026-10-17T14:07:08.333504-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T21:07:06.869585-04:00"
+   "viral_chk": "2026-10-17T21:37:08.255141-04:00",
+   "link_coment": "https://s.shopee.com.br/5fpat5fjU2",
+   "meme_comentado": true,
+   "meme_views": 1007,
+   "formato_link": "coment",
+   "produto": "58254074073"
   },
   {
    "id": "18104070287346772",
@@ -1106,7 +1116,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T21:07:06.869585-04:00"
+   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
   },
   {
    "id": "18143543053588756",
@@ -1130,7 +1140,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T21:07:06.869585-04:00"
+   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
   },
   {
    "id": "17961160752217869",
@@ -1139,7 +1149,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T21:07:06.869585-04:00"
+   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
   },
   {
    "id": "18025367147866539",
@@ -1148,7 +1158,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T21:07:06.869585-04:00"
+   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
   },
   {
    "id": "17908292148572118",
@@ -1157,7 +1167,7 @@
    "texto": "SEJAM SINCEROS: quantas vezes vocês já trocaram o óleo do carro bem depois do prazo?",
    "quando": "2026-10-17T19:07:08.733454-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T21:07:06.869585-04:00"
+   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
   },
   {
    "id": "17908400601664539",
@@ -1192,7 +1202,7 @@
    "texto": "OPINIÃO IMPOPULAR: Professor que aguenta aluno sem perder a paciência merecia ganhar igual jogador de bola.",
    "quando": "2026-10-17T21:07:06.869585-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T21:07:06.869585-04:00"
+   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
   }
  ],
  "respondidos": [
@@ -3100,7 +3110,9 @@
   "18270766831305965",
   "18126919846756190",
   "18077615498560258",
-  "17967436929192553"
+  "17967436929192553",
+  "18079795967394227",
+  "18218530699361632"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3597,20 +3609,11 @@
   "d0c0e263bf": 1,
   "5e8ce95f9b": 1,
   "d30841a24a": 1,
-  "02cd96eabc": 1
+  "02cd96eabc": 1,
+  "a649575d43": 2
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "pior q é verdade, mas na beira da estrada ganha outro nível de sofrimento kkk",
-   "p": "discorda",
-   "r": 1
-  },
-  {
-   "t": "parece mentira até acontecer com você",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "sobrecoxa bem feita ganha de muita carne cara por aí",
    "p": "concorda",
@@ -3748,6 +3751,16 @@
   },
   {
    "t": "a coragem e a base de todo motor rodando por aí",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "era a prova real de amizade saber de cor",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse aviãozinho salvava qualquer fuga impossível no mapa",
    "p": "concorda",
    "r": 0
   }
@@ -3922,6 +3935,16 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-17T15:37:07.980428-04:00"
+  },
+  "18143888623586695": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-17T21:37:08.255141-04:00"
+  },
+  "18332909494263267": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-17T21:37:08.255141-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4569,7 +4592,9 @@
    "musica na cabeca",
    "teclado sofria na",
    "esse salvou muitas",
-   "esse sol da"
+   "esse sol da",
+   "era a prova",
+   "esse aviaozinho salvava"
   ],
   "18430827799148762": [
    "batata frita e",
@@ -4943,7 +4968,9 @@
   "14448900266": "2026-10-16T21:37:07.021297-04:00",
   "18599879164": "2026-10-17T10:37:08.174176-04:00",
   "22694227037": "2026-10-17T12:07:07.816065-04:00",
-  "14065340258": "2026-10-17T15:37:07.980428-04:00"
+  "14065340258": "2026-10-17T15:37:07.980428-04:00",
+  "58255737985": "2026-10-17T21:37:08.255141-04:00",
+  "58254074073": "2026-10-17T21:37:08.255141-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4953,7 +4980,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-17",
-  "qtd": 1
+  "qtd": 3
  },
  "carrosseis_usados": [
   "car-20261010-1",
