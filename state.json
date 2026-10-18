@@ -32,10 +32,11 @@
    "11:53",
    "13:07",
    "13:57",
-   "14:38"
+   "14:38",
+   "15:50"
   ],
-  "produtos_feitos": 1,
-  "respostas": 61,
+  "produtos_feitos": 2,
+  "respostas": 66,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -47,30 +48,12 @@
    "18092117084659517": 1,
    "18106390660980798": 5,
    "18633135673031281": 2,
-   "17997441141012078": 10,
-   "18193642693392878": 5,
-   "18144021196597425": 1
+   "17997441141012078": 12,
+   "18193642693392878": 6,
+   "18144021196597425": 3
   }
  },
  "posts": [
-  {
-   "id": "18368554072244525",
-   "insp": "e55cc2488b",
-   "link": "",
-   "texto": "ME CONTA: eu já perdi as contas de quantas vezes apostei coisas totalmente idiotas só pela adrenalina, tipo quem chegava primeiro no bar valendo uma coxinha. \n\nQual foi a aposta mais boba que você já fez na vida e levou a sério demais?",
-   "quando": "2026-10-12T16:07:09.469852-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T15:37:07.889804-04:00",
-   "metricas": {
-    "views": 443,
-    "likes": 1,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-18"
-   }
-  },
   {
    "id": "18125513068915632",
    "insp": "834ef38ad5",
@@ -1037,7 +1020,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-18T15:37:07.484654-04:00",
+   "viral_chk": "2026-10-18T16:07:08.152921-04:00",
    "metricas": {
     "views": 756,
     "likes": 5,
@@ -1055,7 +1038,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T15:37:07.484654-04:00",
+   "viral_chk": "2026-10-18T16:07:08.152921-04:00",
    "metricas": {
     "views": 44,
     "likes": 0,
@@ -1073,7 +1056,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T15:37:07.484654-04:00",
+   "viral_chk": "2026-10-18T16:07:08.152921-04:00",
    "metricas": {
     "views": 402,
     "likes": 18,
@@ -1152,7 +1135,7 @@
    "texto": "OPINIÃO IMPOPULAR: Professor que aguenta aluno sem perder a paciência merecia ganhar igual jogador de bola.",
    "quando": "2026-10-17T21:07:06.869585-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T15:37:07.484654-04:00",
+   "viral_chk": "2026-10-18T16:07:08.152921-04:00",
    "metricas": {
     "views": 226,
     "likes": 1,
@@ -1170,7 +1153,7 @@
    "texto": "VAMOS SER HONESTOS: o primeiro encontro de verdade acontece na velocidade e no tom da resposta no chat, antes de ver a pessoa pessoalmente",
    "quando": "2026-10-17T22:07:07.563490-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T15:37:07.484654-04:00",
+   "viral_chk": "2026-10-18T16:07:08.152921-04:00",
    "metricas": {
     "views": 535,
     "likes": 7,
@@ -1188,7 +1171,7 @@
    "texto": "ME CONTA: qual professor já salvou vocês da reprovação no último minuto do segundo tempo? \n\nEu tenho uma dívida eterna com a de história que aceitou um trabalho meu feito às pressas de madrugada.",
    "quando": "2026-10-18T08:37:08.377277-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T15:37:07.484654-04:00"
+   "viral_chk": "2026-10-18T16:07:08.152921-04:00"
   },
   {
    "id": "18105080027306911",
@@ -1197,7 +1180,7 @@
    "texto": "SEM MENTIR: quem mais aqui já encarou mais de doze horas no volante achando que ia ser super tranquilo?\n\nNa metade do caminho a coluna já pede socorro e nem a melhor playlist do mundo salva.",
    "quando": "2026-10-18T09:37:07.306843-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T15:37:07.484654-04:00"
+   "viral_chk": "2026-10-18T16:07:08.152921-04:00"
   },
   {
    "id": "18001232555812340",
@@ -1218,7 +1201,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais depois de adulto percebeu que o folclore brasileiro é basicamente um monte de lenda PCD no meio do mato?\n\nSaci com uma perna só, Curupira com os pés invertidos, Mula sem Cabeça. A inclusão florestal sempre foi forte por aqui.",
    "quando": "2026-10-18T11:07:07.488784-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T15:37:07.484654-04:00"
+   "viral_chk": "2026-10-18T16:07:08.152921-04:00"
   },
   {
    "id": "18633135673031281",
@@ -1227,7 +1210,7 @@
    "texto": "DÚVIDA SINCERA: quem foi mais injustiçado na história da Seleção Brasileira?\n\nAlex ou Djalminha.\n\nPara mim, um deles resolvia o nosso meio-campo hoje com folga.",
    "quando": "2026-10-18T12:07:07.541173-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T15:37:07.484654-04:00"
+   "viral_chk": "2026-10-18T16:07:08.152921-04:00"
   },
   {
    "id": "17997441141012078",
@@ -1236,7 +1219,7 @@
    "texto": "OPINIÃO IMPOPULAR: tentar paquerar na academia às 18h é loucura pura. Eu fico suada, bufando e querendo ir embora, vocês realmente conseguem desenrolar papo nesse horário?",
    "quando": "2026-10-18T13:07:08.453152-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T15:37:07.484654-04:00"
+   "viral_chk": "2026-10-18T16:07:08.152921-04:00"
   },
   {
    "id": "18193642693392878",
@@ -1245,7 +1228,7 @@
    "texto": "DÚVIDA SINCERA: quem mais aqui acostumou tanto com carro automático que se pegar um manual hoje deixa o motor morrer na primeira subida?\n\nNão sei se a gente ficou preguiçosa ou se é só paz de espírito no trânsito.",
    "quando": "2026-10-18T14:07:08.035574-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T15:37:07.484654-04:00"
+   "viral_chk": "2026-10-18T16:07:08.152921-04:00"
   },
   {
    "id": "18144021196597425",
@@ -1254,7 +1237,33 @@
    "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
    "quando": "2026-10-18T15:07:07.813127-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T15:37:07.484654-04:00"
+   "viral_chk": "2026-10-18T16:07:08.152921-04:00"
+  },
+  {
+   "id": "17990749128026638",
+   "insp": "video_79ddb4555a",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: homem que aprende a cuidar do cabelo e não tem vergonha disso já tá muito na frente. Homem bem cuidado é outro nível.",
+   "quando": "2026-10-18T16:07:08.152921-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "25946709329",
+   "link_pendente": true,
+   "modo_produto": "tema",
+   "prod_dados": {
+    "itemId": "25946709329",
+    "nome": "ULTRA HIDRATAÇÃO EFEITO TEIA COM ÓLEOS MARROQUINOS - OURO MARROQUINO - FINA MARI",
+    "preco": 38.9,
+    "nota": 4.9,
+    "vendas": 25112,
+    "comissao": 0.13,
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr1ynaykoao016",
+    "offerLink": "https://s.shopee.com.br/4B0pIGDIM9",
+    "campanha": "",
+    "modo": "tema"
+   }
   }
  ],
  "respondidos": [
@@ -3238,7 +3247,12 @@
   "17995199490106776",
   "18194326570398178",
   "18116600555030678",
-  "18108883721239641"
+  "18108883721239641",
+  "18123283148477195",
+  "18131922376772330",
+  "18428419240196125",
+  "18143199382590386",
+  "18134740834710755"
  ],
  "hashes": [
   "d13fd94abe8d96a2dcb3d4b02c93cb89",
@@ -3670,7 +3684,7 @@
   "9cee15a484": 1,
   "8cc8706b2b": 1,
   "97c0eef218": 1,
-  "1d06969815": 1,
+  "1d06969815": 2,
   "bc0b95c3a1": 1,
   "a6db787552": 1,
   "24b92b4f68": 1,
@@ -3710,35 +3724,14 @@
   "0573ce772d": 1,
   "c682c4cd55": 1,
   "af172c2695": 1,
-  "69d0e48d00": 1
+  "69d0e48d00": 1,
+  "c979539188": 1,
+  "85490b1aa6": 1,
+  "63bd4f76ce": 1,
+  "19e4c4a3c1": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "boa tarde, tudo bem por aí?",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "carro automático com piloto automático é um caminho sem volta na estrada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essas salvam demais a sanidade mental na pista kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa convocação de 2002 ainda dói de lembrar, era muita qualidade junta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "fechava o gol mas no meio campo ia faltar a magia dos dois",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "estudou a fundo a mitologia pra defender o elenco completo",
    "p": "ressalva",
@@ -3861,6 +3854,31 @@
   },
   {
    "t": "sabedoria pura em forma de silêncio",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse é o verdadeiro esporte radical do brasileiro, tentar não perder o controle kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "antecipar tira um peso enorme das costas mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "memoria muscular salva a gente nessas horas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "economia de energia total pra não desmaiar no meio do exercício kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "alguém lúcido nesse horário",
    "p": "concorda",
    "r": 0
   }
@@ -4798,17 +4816,22 @@
    "exagero nivel hard",
    "lugar de foco",
    "exato o unico",
-   "sabedoria pura em"
+   "sabedoria pura em",
+   "economia de energia",
+   "alguem lucido nesse"
   ],
   "18193642693392878": [
    "quem acostuma com",
    "teste de sobrevivencia",
    "dirigir com os",
    "direcao pesada antigamente",
-   "comprar um desse"
+   "comprar um desse",
+   "memoria muscular salva"
   ],
   "18144021196597425": [
-   "justo demais o"
+   "justo demais o",
+   "esse e o",
+   "antecipar tira um"
   ]
  },
  "shopee_checada": "2026-10-18|1",
@@ -5130,6 +5153,7 @@
   "a581a81249": "2026-10-13T13:07:11.543898-04:00",
   "d4b1d977f3": "2026-10-14T12:37:08.324607-04:00",
   "9e4548e3fc": "2026-10-16T15:37:08.806961-04:00",
-  "69a8c4bfde": "2026-10-17T20:07:08.441906-04:00"
+  "69a8c4bfde": "2026-10-17T20:07:08.441906-04:00",
+  "79ddb4555a": "2026-10-18T16:07:08.152921-04:00"
  }
 }
