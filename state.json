@@ -1058,7 +1058,12 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T22:37:07.191440-04:00"
+   "viral_chk": "2026-10-17T23:07:07.434196-04:00",
+   "link_coment": "https://s.shopee.com.br/2qVPVt3mt4",
+   "meme_comentado": true,
+   "meme_views": 1003,
+   "formato_link": "coment",
+   "produto": "58269029568"
   },
   {
    "id": "18270239065307240",
@@ -1067,7 +1072,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T22:37:07.191440-04:00"
+   "viral_chk": "2026-10-17T23:07:07.434196-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1076,7 +1081,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T22:37:07.191440-04:00"
+   "viral_chk": "2026-10-17T23:07:07.434196-04:00"
   },
   {
    "id": "18108372566123329",
@@ -1099,7 +1104,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T22:37:07.191440-04:00"
+   "viral_chk": "2026-10-17T23:07:07.434196-04:00"
   },
   {
    "id": "18143543053588756",
@@ -1123,7 +1128,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T22:37:07.191440-04:00"
+   "viral_chk": "2026-10-17T23:07:07.434196-04:00"
   },
   {
    "id": "17961160752217869",
@@ -1132,7 +1137,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T22:37:07.191440-04:00"
+   "viral_chk": "2026-10-17T23:07:07.434196-04:00"
   },
   {
    "id": "18025367147866539",
@@ -1141,7 +1146,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T22:37:07.191440-04:00"
+   "viral_chk": "2026-10-17T23:07:07.434196-04:00"
   },
   {
    "id": "17908292148572118",
@@ -1150,7 +1155,7 @@
    "texto": "SEJAM SINCEROS: quantas vezes vocês já trocaram o óleo do carro bem depois do prazo?",
    "quando": "2026-10-17T19:07:08.733454-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T22:37:07.191440-04:00"
+   "viral_chk": "2026-10-17T23:07:07.434196-04:00"
   },
   {
    "id": "17908400601664539",
@@ -1185,7 +1190,7 @@
    "texto": "OPINIÃO IMPOPULAR: Professor que aguenta aluno sem perder a paciência merecia ganhar igual jogador de bola.",
    "quando": "2026-10-17T21:07:06.869585-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T22:37:07.191440-04:00"
+   "viral_chk": "2026-10-17T23:07:07.434196-04:00"
   },
   {
    "id": "17987349084070907",
@@ -1194,7 +1199,7 @@
    "texto": "VAMOS SER HONESTOS: o primeiro encontro de verdade acontece na velocidade e no tom da resposta no chat, antes de ver a pessoa pessoalmente",
    "quando": "2026-10-17T22:07:07.563490-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T22:37:07.191440-04:00"
+   "viral_chk": "2026-10-17T23:07:07.434196-04:00"
   }
  ],
  "respondidos": [
@@ -3958,6 +3963,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-17T21:37:08.255141-04:00"
+  },
+  "17955251184291390": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-17T23:07:07.434196-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4980,7 +4990,8 @@
   "22694227037": "2026-10-17T12:07:07.816065-04:00",
   "14065340258": "2026-10-17T15:37:07.980428-04:00",
   "58255737985": "2026-10-17T21:37:08.255141-04:00",
-  "58254074073": "2026-10-17T21:37:08.255141-04:00"
+  "58254074073": "2026-10-17T21:37:08.255141-04:00",
+  "58269029568": "2026-10-17T23:07:07.434196-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4990,7 +5001,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-17",
-  "qtd": 3
+  "qtd": 4
  },
  "carrosseis_usados": [
   "car-20261010-1",
