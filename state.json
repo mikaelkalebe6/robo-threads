@@ -31,16 +31,17 @@
    "10:41"
   ],
   "produtos_feitos": 1,
-  "respostas": 27,
+  "respostas": 30,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
    "18270239065307240": 1,
    "18430827799148762": 8,
    "18440556559176732": 1,
-   "18435667258196022": 4,
-   "18105080027306911": 7,
-   "18092117084659517": 1
+   "18435667258196022": 5,
+   "18105080027306911": 8,
+   "18092117084659517": 1,
+   "18106390660980798": 1
   }
  },
  "posts": [
@@ -1010,7 +1011,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T11:07:07.488784-04:00",
+   "viral_chk": "2026-10-18T11:37:09.028102-04:00",
    "metricas": {
     "views": 537,
     "likes": 6,
@@ -1028,7 +1029,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T11:07:07.488784-04:00",
+   "viral_chk": "2026-10-18T11:37:09.028102-04:00",
    "metricas": {
     "views": 700,
     "likes": 18,
@@ -1069,7 +1070,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T11:07:07.488784-04:00",
+   "viral_chk": "2026-10-18T11:37:09.028102-04:00",
    "metricas": {
     "views": 477,
     "likes": 6,
@@ -1111,7 +1112,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-18T11:07:07.488784-04:00",
+   "viral_chk": "2026-10-18T11:37:09.028102-04:00",
    "metricas": {
     "views": 756,
     "likes": 5,
@@ -1129,7 +1130,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T11:07:07.488784-04:00",
+   "viral_chk": "2026-10-18T11:37:09.028102-04:00",
    "metricas": {
     "views": 44,
     "likes": 0,
@@ -1147,7 +1148,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T11:07:07.488784-04:00",
+   "viral_chk": "2026-10-18T11:37:09.028102-04:00",
    "metricas": {
     "views": 402,
     "likes": 18,
@@ -1165,7 +1166,7 @@
    "texto": "SEJAM SINCEROS: quantas vezes vocês já trocaram o óleo do carro bem depois do prazo?",
    "quando": "2026-10-17T19:07:08.733454-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T11:07:07.488784-04:00",
+   "viral_chk": "2026-10-18T11:37:09.028102-04:00",
    "metricas": {
     "views": 735,
     "likes": 6,
@@ -1174,7 +1175,12 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-10-18"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/9pfBRdLyjy",
+   "meme_comentado": true,
+   "meme_views": 1018,
+   "formato_link": "coment",
+   "produto": "23193620740"
   },
   {
    "id": "17908400601664539",
@@ -1218,7 +1224,7 @@
    "texto": "OPINIÃO IMPOPULAR: Professor que aguenta aluno sem perder a paciência merecia ganhar igual jogador de bola.",
    "quando": "2026-10-17T21:07:06.869585-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T11:07:07.488784-04:00",
+   "viral_chk": "2026-10-18T11:37:09.028102-04:00",
    "metricas": {
     "views": 226,
     "likes": 1,
@@ -1236,7 +1242,7 @@
    "texto": "VAMOS SER HONESTOS: o primeiro encontro de verdade acontece na velocidade e no tom da resposta no chat, antes de ver a pessoa pessoalmente",
    "quando": "2026-10-17T22:07:07.563490-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T11:07:07.488784-04:00",
+   "viral_chk": "2026-10-18T11:37:09.028102-04:00",
    "metricas": {
     "views": 535,
     "likes": 7,
@@ -1254,7 +1260,7 @@
    "texto": "ME CONTA: qual professor já salvou vocês da reprovação no último minuto do segundo tempo? \n\nEu tenho uma dívida eterna com a de história que aceitou um trabalho meu feito às pressas de madrugada.",
    "quando": "2026-10-18T08:37:08.377277-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T11:07:07.488784-04:00"
+   "viral_chk": "2026-10-18T11:37:09.028102-04:00"
   },
   {
    "id": "18105080027306911",
@@ -1263,7 +1269,7 @@
    "texto": "SEM MENTIR: quem mais aqui já encarou mais de doze horas no volante achando que ia ser super tranquilo?\n\nNa metade do caminho a coluna já pede socorro e nem a melhor playlist do mundo salva.",
    "quando": "2026-10-18T09:37:07.306843-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T11:07:07.488784-04:00"
+   "viral_chk": "2026-10-18T11:37:09.028102-04:00"
   },
   {
    "id": "18001232555812340",
@@ -1284,7 +1290,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais depois de adulto percebeu que o folclore brasileiro é basicamente um monte de lenda PCD no meio do mato?\n\nSaci com uma perna só, Curupira com os pés invertidos, Mula sem Cabeça. A inclusão florestal sempre foi forte por aqui.",
    "quando": "2026-10-18T11:07:07.488784-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T11:07:07.488784-04:00"
+   "viral_chk": "2026-10-18T11:37:09.028102-04:00"
   }
  ],
  "respondidos": [
@@ -3234,7 +3240,10 @@
   "18065107253789637",
   "17911316904508651",
   "17958861390014352",
-  "18116114483103094"
+  "18116114483103094",
+  "18650391502021005",
+  "18114077504131120",
+  "18077877428431519"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3669,25 +3678,13 @@
   "65fd9e58c1": 1,
   "2971b0bafb": 1,
   "5669573d71": 1,
-  "c7a830b7ed": 1
+  "c7a830b7ed": 1,
+  "d68b3911da": 1,
+  "34a08c9ccc": 1,
+  "e56539d792": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "guardei o contato aqui pra hora do apuro",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "essa trilogia aí tá gravada pra sempre kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "memória muscular tá em dia ainda",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "tecnologia evoluiu bastante mesmo nesse ponto",
    "p": "ressalva",
@@ -3820,6 +3817,21 @@
   },
   {
    "t": "nem com banco reclinável o corpo sai ileso dessa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesquisa de campo intensa direto da rede da sala",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa faixa ia ter fila de espera maior q o restaurante kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "a biologia sempre vence no final das contas",
    "p": "concorda",
    "r": 0
   }
@@ -4009,6 +4021,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-17T23:07:07.434196-04:00"
+  },
+  "18219702037352996": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-18T11:37:09.028102-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4489,15 +4506,6 @@
   }
  ],
  "aberturas_post": {
-  "18128172019868904": [
-   "pois e e",
-   "a colher e",
-   "faca de churrasco",
-   "estrategia perfeita quem",
-   "e o prato",
-   "prioridades em dia",
-   "parece que somem"
-  ],
   "18033024983895666": [
    "taxa de efeitos",
    "confessa que o",
@@ -4669,7 +4677,8 @@
    "parece que a",
    "um lugar mais",
    "cachorro quente da",
-   "ainda bem que"
+   "ainda bem que",
+   "essa faixa ia"
   ],
   "18108372566123329": [
    "essa e a",
@@ -4741,10 +4750,14 @@
    "haja ferro e",
    "com veiculo bom",
    "adrenalina pura o",
-   "nem com banco"
+   "nem com banco",
+   "a biologia sempre"
   ],
   "18092117084659517": [
    "caderno caprichado e"
+  ],
+  "18106390660980798": [
+   "pesquisa de campo"
   ]
  },
  "shopee_checada": "2026-10-18|1",
@@ -4931,7 +4944,8 @@
   "58255737985": "2026-10-17T21:37:08.255141-04:00",
   "58254074073": "2026-10-17T21:37:08.255141-04:00",
   "58269029568": "2026-10-17T23:07:07.434196-04:00",
-  "19098752815": "2026-10-18T10:07:07.303688-04:00"
+  "19098752815": "2026-10-18T10:07:07.303688-04:00",
+  "23193620740": "2026-10-18T11:37:09.028102-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -4941,7 +4955,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-18",
-  "qtd": 0
+  "qtd": 1
  },
  "carrosseis_usados": [
   "car-20261010-1",
