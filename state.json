@@ -39,47 +39,29 @@
    "18:06",
    "18:51",
    "19:54",
-   "20:51"
+   "20:51",
+   "21:51"
   ],
   "produtos_feitos": 3,
-  "respostas": 105,
+  "respostas": 109,
   "por_post": {
    "18114403013039784": 3,
    "18216730960347343": 20,
-   "18440556559176732": 13,
+   "18440556559176732": 14,
    "18600522124066906": 1,
    "18430827799148762": 20,
-   "18270239065307240": 6,
+   "18270239065307240": 8,
    "18435667258196022": 6,
    "18108372566123329": 13,
    "18104070287346772": 3,
    "18015866036747016": 3,
    "18025367147866539": 3,
    "17908292148572118": 13,
-   "17908400601664539": 1
+   "17908400601664539": 1,
+   "18110795447182003": 1
   }
  },
  "posts": [
-  {
-   "id": "17912118573538249",
-   "insp": "fio_fio-20261010-2",
-   "link": "",
-   "texto": "Todo motorista já passou por isso: o celular voa do painel na primeira lombada.",
-   "quando": "2026-10-11T20:07:09.089106-04:00",
-   "ia": "fio_literal",
-   "estrategia": "fio",
-   "formato": "fio",
-   "produto": "23993565028",
-   "metricas": {
-    "views": 396,
-    "likes": 5,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-17"
-   }
-  },
   {
    "id": "18145752784569888",
    "insp": "654bef73ca",
@@ -1075,7 +1057,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
+   "viral_chk": "2026-10-17T22:07:07.563490-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1084,7 +1066,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
+   "viral_chk": "2026-10-17T22:07:07.563490-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1093,7 +1075,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
+   "viral_chk": "2026-10-17T22:07:07.563490-04:00"
   },
   {
    "id": "18108372566123329",
@@ -1116,7 +1098,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
+   "viral_chk": "2026-10-17T22:07:07.563490-04:00"
   },
   {
    "id": "18143543053588756",
@@ -1140,7 +1122,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
+   "viral_chk": "2026-10-17T22:07:07.563490-04:00"
   },
   {
    "id": "17961160752217869",
@@ -1149,7 +1131,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
+   "viral_chk": "2026-10-17T22:07:07.563490-04:00"
   },
   {
    "id": "18025367147866539",
@@ -1158,7 +1140,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
+   "viral_chk": "2026-10-17T22:07:07.563490-04:00"
   },
   {
    "id": "17908292148572118",
@@ -1167,7 +1149,7 @@
    "texto": "SEJAM SINCEROS: quantas vezes vocês já trocaram o óleo do carro bem depois do prazo?",
    "quando": "2026-10-17T19:07:08.733454-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
+   "viral_chk": "2026-10-17T22:07:07.563490-04:00"
   },
   {
    "id": "17908400601664539",
@@ -1202,7 +1184,16 @@
    "texto": "OPINIÃO IMPOPULAR: Professor que aguenta aluno sem perder a paciência merecia ganhar igual jogador de bola.",
    "quando": "2026-10-17T21:07:06.869585-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T21:37:08.255141-04:00"
+   "viral_chk": "2026-10-17T22:07:07.563490-04:00"
+  },
+  {
+   "id": "17987349084070907",
+   "insp": "6e719f8d0f",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: o primeiro encontro de verdade acontece na velocidade e no tom da resposta no chat, antes de ver a pessoa pessoalmente",
+   "quando": "2026-10-17T22:07:07.563490-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-17T22:07:07.563490-04:00"
   }
  ],
  "respondidos": [
@@ -3112,7 +3103,11 @@
   "18077615498560258",
   "17967436929192553",
   "18079795967394227",
-  "18218530699361632"
+  "18218530699361632",
+  "18338708836273392",
+  "18104978492326193",
+  "17924896572439347",
+  "17991130704105162"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3310,7 +3305,8 @@
   "7c98deafe040caa216dceda61d9d157b",
   "66a16eb701f923c16f9543b6a14bbdf3",
   "7ad56e41b3342f3f4f2050db02757cf2",
-  "3a2c7f7e8334febf5aac515303c802db"
+  "3a2c7f7e8334febf5aac515303c802db",
+  "a67f5c94a08d8f98544ef55705c48342"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3508,7 +3504,8 @@
   "36557e440f": 1792273052.9622602,
   "2c97391d6e": 1792274863.0839956,
   "f4861a96cb": 1792278445.6304848,
-  "b8060c0c5a": 1792285646.3168828
+  "b8060c0c5a": 1792285646.3168828,
+  "6e719f8d0f": 1792289247.3859193
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3610,30 +3607,14 @@
   "5e8ce95f9b": 1,
   "d30841a24a": 1,
   "02cd96eabc": 1,
-  "a649575d43": 2
+  "a649575d43": 2,
+  "df94ea3954": 1,
+  "fefc8f07f0": 1,
+  "a118013d7b": 1,
+  "acdd33a286": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "sobrecoxa bem feita ganha de muita carne cara por aí",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "obrigada, quem já passou raiva com carne dura sabe como é",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "se a trilha sonora for ruim o boi desanima e fica duro kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "uma gelada depois de um dia longo resolve metade das coisas mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pesou demais a ponto de precisar de um atalho",
    "p": "concorda",
@@ -3763,6 +3744,26 @@
    "t": "esse aviãozinho salvava qualquer fuga impossível no mapa",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "imagino mesmo, o dia a dia exige uma paciência que nem sei onde fica guardada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perdeu a hora do almoço mas ganhou o level kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa época era perigosa demais pra sanidade mental kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse comando na hr do aperto salvava qlqr missao kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -4420,9 +4421,6 @@
   }
  ],
  "aberturas_post": {
-  "18368554072244525": [
-   "ovo cru e"
-  ],
   "18099352877530021": [
    "exato a pessoa",
    "verdade ao convidar",
@@ -4594,7 +4592,8 @@
    "esse salvou muitas",
    "esse sol da",
    "era a prova",
-   "esse aviaozinho salvava"
+   "esse aviaozinho salvava",
+   "esse comando na"
   ],
   "18430827799148762": [
    "batata frita e",
@@ -4624,7 +4623,9 @@
    "esse jogo ai",
    "milagre tecnologico porque",
    "pelo menos o",
-   "esse cafe da"
+   "esse cafe da",
+   "perdeu a hora",
+   "essa epoca era"
   ],
   "18435667258196022": [
    "sabe aquela conta",
@@ -4681,6 +4682,9 @@
   ],
   "17908400601664539": [
    "procura em lojinha"
+  ],
+  "18110795447182003": [
+   "imagino mesmo o"
   ]
  },
  "shopee_checada": "2026-10-17|1",
