@@ -39,7 +39,7 @@
    "18:22"
   ],
   "produtos_feitos": 2,
-  "respostas": 81,
+  "respostas": 86,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -54,7 +54,7 @@
    "17997441141012078": 12,
    "18193642693392878": 8,
    "18144021196597425": 5,
-   "18067887914607934": 9,
+   "18067887914607934": 14,
    "18132148777761668": 1
   }
  },
@@ -1062,7 +1062,7 @@
    "texto": "OPINIÃO IMPOPULAR: Professor que aguenta aluno sem perder a paciência merecia ganhar igual jogador de bola.",
    "quando": "2026-10-17T21:07:06.869585-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T18:37:09.498020-04:00",
+   "viral_chk": "2026-10-18T19:07:08.244557-04:00",
    "metricas": {
     "views": 226,
     "likes": 1,
@@ -1080,7 +1080,7 @@
    "texto": "VAMOS SER HONESTOS: o primeiro encontro de verdade acontece na velocidade e no tom da resposta no chat, antes de ver a pessoa pessoalmente",
    "quando": "2026-10-17T22:07:07.563490-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T18:37:09.498020-04:00",
+   "viral_chk": "2026-10-18T19:07:08.244557-04:00",
    "metricas": {
     "views": 535,
     "likes": 7,
@@ -1098,7 +1098,7 @@
    "texto": "ME CONTA: qual professor já salvou vocês da reprovação no último minuto do segundo tempo? \n\nEu tenho uma dívida eterna com a de história que aceitou um trabalho meu feito às pressas de madrugada.",
    "quando": "2026-10-18T08:37:08.377277-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T18:37:09.498020-04:00"
+   "viral_chk": "2026-10-18T19:07:08.244557-04:00"
   },
   {
    "id": "18105080027306911",
@@ -1133,7 +1133,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais depois de adulto percebeu que o folclore brasileiro é basicamente um monte de lenda PCD no meio do mato?\n\nSaci com uma perna só, Curupira com os pés invertidos, Mula sem Cabeça. A inclusão florestal sempre foi forte por aqui.",
    "quando": "2026-10-18T11:07:07.488784-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T18:37:09.498020-04:00"
+   "viral_chk": "2026-10-18T19:07:08.244557-04:00"
   },
   {
    "id": "18633135673031281",
@@ -1142,7 +1142,7 @@
    "texto": "DÚVIDA SINCERA: quem foi mais injustiçado na história da Seleção Brasileira?\n\nAlex ou Djalminha.\n\nPara mim, um deles resolvia o nosso meio-campo hoje com folga.",
    "quando": "2026-10-18T12:07:07.541173-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T18:37:09.498020-04:00"
+   "viral_chk": "2026-10-18T19:07:08.244557-04:00"
   },
   {
    "id": "17997441141012078",
@@ -1179,7 +1179,7 @@
    "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
    "quando": "2026-10-18T15:07:07.813127-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T18:37:09.498020-04:00"
+   "viral_chk": "2026-10-18T19:07:08.244557-04:00"
   },
   {
    "id": "17990749128026638",
@@ -1214,7 +1214,7 @@
    "texto": "VAMOS CONCORDAR: homem que presta atenção nos mínimos detalhes que a gente solta por aí ganha muitos pontos.",
    "quando": "2026-10-18T17:07:07.453971-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T18:37:09.498020-04:00"
+   "viral_chk": "2026-10-18T19:07:08.244557-04:00"
   },
   {
    "id": "18067887914607934",
@@ -1223,7 +1223,12 @@
    "texto": "OPINIÃO IMPOPULAR: jogar videogame depois dos 30 virou minha terapia diária. E você, prefere?\n\n- Maratonar um RPG solo 🎮  \n- Partidas rápidas com os amigos",
    "quando": "2026-10-18T17:37:07.444937-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-18T18:37:09.498020-04:00"
+   "viral_chk": "2026-10-18T19:07:08.244557-04:00",
+   "link_coment": "https://s.shopee.com.br/7pu7rKKYvF",
+   "meme_comentado": true,
+   "meme_views": 1312,
+   "formato_link": "coment",
+   "produto": "58260597282"
   },
   {
    "id": "17978778833919010",
@@ -3236,7 +3241,12 @@
   "18184866478418530",
   "18113929985519672",
   "18060755903797562",
-  "18161733745450882"
+  "18161733745450882",
+  "17910811920309501",
+  "18113241665180624",
+  "18103397075208125",
+  "18105159677255687",
+  "18124694615292505"
  ],
  "hashes": [
   "42c7bff59081e6fcf09011fe0479b404",
@@ -3730,35 +3740,15 @@
   "ba91c16e6f": 1,
   "2bb65515ae": 1,
   "659d063c45": 1,
-  "6b4135863e": 1
+  "6b4135863e": 1,
+  "73abf64150": 1,
+  "5dc217dd4d": 1,
+  "548c11ce3b": 1,
+  "73e877de81": 1,
+  "3b1e514f39": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "quem acostuma com o conforto não quer saber de voltar atrás",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "teste de sobrevivência anual para garantir que ainda sabe passar marcha kkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dirigir com os dois pes e manobrar um V8 antigo desse tamanho já e outro nível de controle",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "exato, o único objetivo ali e terminar e ir pra casa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "direção pesada antigamente era quase um treino de academia disfarçado de trajeto",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "quase quinze horas de uber é prova de resistência pura kkkkk",
    "p": "concorda",
@@ -3881,6 +3871,31 @@
   },
   {
    "t": "resident evil e dmc garantem bons sustos e muita ação pra desligar a cabeça",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tiroteio em grupo é ótimo pra gastar a energia que sobra kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "melhor jeito de focar na história e esquecer o barulho do mundo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "jogo de corrida e tiro certeiro pra destravar a mente em pouco tempo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "campanha solo deixa a gente imersa na história sem depender de horario de ninguém kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "jogatina em turma sempre rende boas risadas e caos",
    "p": "concorda",
    "r": 0
   }
@@ -4095,6 +4110,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-18T18:37:09.498020-04:00"
+  },
+  "17968012281200022": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-18T19:07:08.244557-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4855,7 +4875,12 @@
    "para uma dose",
    "imersao total pra",
    "escolha certa pra",
-   "resident evil e"
+   "resident evil e",
+   "tiroteio em grupo",
+   "melhor jeito de",
+   "jogo de corrida",
+   "campanha solo deixa",
+   "jogatina em turma"
   ],
   "18132148777761668": [
    "verdade ai o"
@@ -5050,7 +5075,8 @@
   "58215032790": "2026-10-18T14:37:07.316029-04:00",
   "20999068051": "2026-10-18T16:37:07.393472-04:00",
   "23793973526": "2026-10-18T18:07:08.425642-04:00",
-  "45112715909": "2026-10-18T18:37:09.498020-04:00"
+  "45112715909": "2026-10-18T18:37:09.498020-04:00",
+  "58260597282": "2026-10-18T19:07:08.244557-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -5060,7 +5086,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-18",
-  "qtd": 4
+  "qtd": 5
  },
  "carrosseis_usados": [
   "car-20261010-1",
