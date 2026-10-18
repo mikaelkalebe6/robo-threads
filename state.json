@@ -31,10 +31,11 @@
    "10:41",
    "11:53",
    "13:07",
-   "13:57"
+   "13:57",
+   "14:38"
   ],
   "produtos_feitos": 1,
-  "respostas": 55,
+  "respostas": 58,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -42,40 +43,15 @@
    "18430827799148762": 8,
    "18440556559176732": 1,
    "18435667258196022": 5,
-   "18105080027306911": 15,
+   "18105080027306911": 17,
    "18092117084659517": 1,
    "18106390660980798": 5,
    "18633135673031281": 2,
    "17997441141012078": 9,
-   "18193642693392878": 3
+   "18193642693392878": 4
   }
  },
  "posts": [
-  {
-   "id": "18030130718689115",
-   "insp": "video_6ccf4171d8",
-   "link": "",
-   "texto": "Pra quem não consegue manter nem uma planta viva em casa, descobri esse adubo que faz até o lírio-da-paz florir sem drama. Olha como funciona 👀",
-   "quando": "2026-10-12T15:07:08.795491-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "formato": "videofoto",
-   "estrategia": "meme",
-   "viral_chk": "2026-10-12T17:37:07.573345-04:00",
-   "meme_comentado": true,
-   "meme_views": 1036,
-   "formato_link": "coment",
-   "produto": "58264177301",
-   "metricas": {
-    "views": 2012,
-    "likes": 10,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 29,
-    "em": "2026-10-18"
-   },
-   "link_coment": "https://s.shopee.com.br/4B0fMDlFYw"
-  },
   {
    "id": "18368554072244525",
    "insp": "e55cc2488b",
@@ -1018,7 +994,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T14:37:07.316029-04:00",
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00",
    "metricas": {
     "views": 477,
     "likes": 6,
@@ -1060,7 +1036,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-18T14:37:07.316029-04:00",
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00",
    "metricas": {
     "views": 756,
     "likes": 5,
@@ -1078,7 +1054,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T14:37:07.316029-04:00",
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00",
    "metricas": {
     "views": 44,
     "likes": 0,
@@ -1096,7 +1072,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T14:37:07.316029-04:00",
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00",
    "metricas": {
     "views": 402,
     "likes": 18,
@@ -1175,7 +1151,7 @@
    "texto": "OPINIÃO IMPOPULAR: Professor que aguenta aluno sem perder a paciência merecia ganhar igual jogador de bola.",
    "quando": "2026-10-17T21:07:06.869585-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T14:37:07.316029-04:00",
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00",
    "metricas": {
     "views": 226,
     "likes": 1,
@@ -1193,7 +1169,7 @@
    "texto": "VAMOS SER HONESTOS: o primeiro encontro de verdade acontece na velocidade e no tom da resposta no chat, antes de ver a pessoa pessoalmente",
    "quando": "2026-10-17T22:07:07.563490-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T14:37:07.316029-04:00",
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00",
    "metricas": {
     "views": 535,
     "likes": 7,
@@ -1211,7 +1187,7 @@
    "texto": "ME CONTA: qual professor já salvou vocês da reprovação no último minuto do segundo tempo? \n\nEu tenho uma dívida eterna com a de história que aceitou um trabalho meu feito às pressas de madrugada.",
    "quando": "2026-10-18T08:37:08.377277-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T14:37:07.316029-04:00"
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00"
   },
   {
    "id": "18105080027306911",
@@ -1220,7 +1196,7 @@
    "texto": "SEM MENTIR: quem mais aqui já encarou mais de doze horas no volante achando que ia ser super tranquilo?\n\nNa metade do caminho a coluna já pede socorro e nem a melhor playlist do mundo salva.",
    "quando": "2026-10-18T09:37:07.306843-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T14:37:07.316029-04:00"
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00"
   },
   {
    "id": "18001232555812340",
@@ -1241,7 +1217,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais depois de adulto percebeu que o folclore brasileiro é basicamente um monte de lenda PCD no meio do mato?\n\nSaci com uma perna só, Curupira com os pés invertidos, Mula sem Cabeça. A inclusão florestal sempre foi forte por aqui.",
    "quando": "2026-10-18T11:07:07.488784-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T14:37:07.316029-04:00"
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00"
   },
   {
    "id": "18633135673031281",
@@ -1250,7 +1226,7 @@
    "texto": "DÚVIDA SINCERA: quem foi mais injustiçado na história da Seleção Brasileira?\n\nAlex ou Djalminha.\n\nPara mim, um deles resolvia o nosso meio-campo hoje com folga.",
    "quando": "2026-10-18T12:07:07.541173-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T14:37:07.316029-04:00"
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00"
   },
   {
    "id": "17997441141012078",
@@ -1259,7 +1235,7 @@
    "texto": "OPINIÃO IMPOPULAR: tentar paquerar na academia às 18h é loucura pura. Eu fico suada, bufando e querendo ir embora, vocês realmente conseguem desenrolar papo nesse horário?",
    "quando": "2026-10-18T13:07:08.453152-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T14:37:07.316029-04:00"
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00"
   },
   {
    "id": "18193642693392878",
@@ -1268,7 +1244,16 @@
    "texto": "DÚVIDA SINCERA: quem mais aqui acostumou tanto com carro automático que se pegar um manual hoje deixa o motor morrer na primeira subida?\n\nNão sei se a gente ficou preguiçosa ou se é só paz de espírito no trânsito.",
    "quando": "2026-10-18T14:07:08.035574-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T14:37:07.316029-04:00"
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00"
+  },
+  {
+   "id": "18144021196597425",
+   "insp": "d5e042b763",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
+   "quando": "2026-10-18T15:07:07.813127-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-18T15:07:07.813127-04:00"
   }
  ],
  "respondidos": [
@@ -3246,10 +3231,12 @@
   "18106798598250050",
   "17893917960435029",
   "18154226125523675",
-  "18346670455248476"
+  "18346670455248476",
+  "18155054368519996",
+  "17918862600456395",
+  "17995199490106776"
  ],
  "hashes": [
-  "f96c60de8157d384f22b5be0a7f72111",
   "d13fd94abe8d96a2dcb3d4b02c93cb89",
   "5770744d7d6d9a0c9b3e25dd82a2b35b",
   "e5e209402fa6c9963be6d71628598d11",
@@ -3448,7 +3435,8 @@
   "cd6df32f55d640f403eff38310ea98a4",
   "08435f5aa10eff727575f615859ab082",
   "c160280a0c25591d424b82b7aaa5c7a2",
-  "6988b57450e38e00eeb4500f7d646f8d"
+  "6988b57450e38e00eeb4500f7d646f8d",
+  "9d193556a403a90bd80be7a3563a281a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3653,7 +3641,8 @@
   "a78254bf8a": 1792336043.8635733,
   "0e810ea820": 1792339650.9835525,
   "e51c00ec33": 1792343251.4851322,
-  "9baa29373a": 1792346849.6100967
+  "9baa29373a": 1792346849.6100967,
+  "d5e042b763": 1792350456.4683714
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3711,25 +3700,13 @@
   "b73f161ca9": 1,
   "ecbaa94989": 1,
   "6e0d749370": 1,
-  "846f3f3b98": 1
+  "846f3f3b98": 1,
+  "49735a2579": 1,
+  "f60600ebdf": 1,
+  "0573ce772d": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "adrenalina pura o caminho todo kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "nem com banco reclinável o corpo sai ileso dessa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesquisa de campo intensa direto da rede da sala",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa faixa ia ter fila de espera maior q o restaurante kkkk",
    "p": "concorda",
@@ -3862,6 +3839,21 @@
   },
   {
    "t": "exato, o único objetivo ali e terminar e ir pra casa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "direção pesada antigamente era quase um treino de academia disfarçado de trajeto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quase quinze horas de uber é prova de resistência pura kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "parada estratégica assim muda tudo mesmo na viagem",
    "p": "concorda",
    "r": 0
   }
@@ -4779,7 +4771,9 @@
    "piloto automatico deveria",
    "vinte horas direto",
    "descansado e com",
-   "moto por esse"
+   "moto por esse",
+   "quase quinze horas",
+   "parada estrategica assim"
   ],
   "18092117084659517": [
    "caderno caprichado e"
@@ -4809,7 +4803,8 @@
   "18193642693392878": [
    "quem acostuma com",
    "teste de sobrevivencia",
-   "dirigir com os"
+   "dirigir com os",
+   "direcao pesada antigamente"
   ]
  },
  "shopee_checada": "2026-10-18|1",
