@@ -30,10 +30,11 @@
    "09:57",
    "10:41",
    "11:53",
-   "13:07"
+   "13:07",
+   "13:57"
   ],
   "produtos_feitos": 1,
-  "respostas": 47,
+  "respostas": 51,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -45,28 +46,10 @@
    "18092117084659517": 1,
    "18106390660980798": 5,
    "18633135673031281": 2,
-   "17997441141012078": 4
+   "17997441141012078": 8
   }
  },
  "posts": [
-  {
-   "id": "18023520131925356",
-   "insp": "ca1265befe",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: quem mais aqui olha a rotina de quem trabalha no comércio ou em escala 6x1 e tem certeza que qualquer salário seria pouco?\n\nTem profissão que a conta do cansaço mental simplesmente não fecha.",
-   "quando": "2026-10-12T14:07:09.043573-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T13:37:08.701866-04:00",
-   "metricas": {
-    "views": 232,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-18"
-   }
-  },
   {
    "id": "18030130718689115",
    "insp": "video_6ccf4171d8",
@@ -1034,7 +1017,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T13:37:09.305424-04:00",
+   "viral_chk": "2026-10-18T14:07:08.035574-04:00",
    "metricas": {
     "views": 477,
     "likes": 6,
@@ -1076,7 +1059,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-18T13:37:09.305424-04:00",
+   "viral_chk": "2026-10-18T14:07:08.035574-04:00",
    "metricas": {
     "views": 756,
     "likes": 5,
@@ -1094,7 +1077,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T13:37:09.305424-04:00",
+   "viral_chk": "2026-10-18T14:07:08.035574-04:00",
    "metricas": {
     "views": 44,
     "likes": 0,
@@ -1112,7 +1095,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T13:37:09.305424-04:00",
+   "viral_chk": "2026-10-18T14:07:08.035574-04:00",
    "metricas": {
     "views": 402,
     "likes": 18,
@@ -1188,7 +1171,7 @@
    "texto": "OPINIÃO IMPOPULAR: Professor que aguenta aluno sem perder a paciência merecia ganhar igual jogador de bola.",
    "quando": "2026-10-17T21:07:06.869585-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T13:37:09.305424-04:00",
+   "viral_chk": "2026-10-18T14:07:08.035574-04:00",
    "metricas": {
     "views": 226,
     "likes": 1,
@@ -1206,7 +1189,7 @@
    "texto": "VAMOS SER HONESTOS: o primeiro encontro de verdade acontece na velocidade e no tom da resposta no chat, antes de ver a pessoa pessoalmente",
    "quando": "2026-10-17T22:07:07.563490-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T13:37:09.305424-04:00",
+   "viral_chk": "2026-10-18T14:07:08.035574-04:00",
    "metricas": {
     "views": 535,
     "likes": 7,
@@ -1224,7 +1207,7 @@
    "texto": "ME CONTA: qual professor já salvou vocês da reprovação no último minuto do segundo tempo? \n\nEu tenho uma dívida eterna com a de história que aceitou um trabalho meu feito às pressas de madrugada.",
    "quando": "2026-10-18T08:37:08.377277-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T13:37:09.305424-04:00"
+   "viral_chk": "2026-10-18T14:07:08.035574-04:00"
   },
   {
    "id": "18105080027306911",
@@ -1233,7 +1216,7 @@
    "texto": "SEM MENTIR: quem mais aqui já encarou mais de doze horas no volante achando que ia ser super tranquilo?\n\nNa metade do caminho a coluna já pede socorro e nem a melhor playlist do mundo salva.",
    "quando": "2026-10-18T09:37:07.306843-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T13:37:09.305424-04:00"
+   "viral_chk": "2026-10-18T14:07:08.035574-04:00"
   },
   {
    "id": "18001232555812340",
@@ -1254,7 +1237,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais depois de adulto percebeu que o folclore brasileiro é basicamente um monte de lenda PCD no meio do mato?\n\nSaci com uma perna só, Curupira com os pés invertidos, Mula sem Cabeça. A inclusão florestal sempre foi forte por aqui.",
    "quando": "2026-10-18T11:07:07.488784-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T13:37:09.305424-04:00"
+   "viral_chk": "2026-10-18T14:07:08.035574-04:00"
   },
   {
    "id": "18633135673031281",
@@ -1263,7 +1246,7 @@
    "texto": "DÚVIDA SINCERA: quem foi mais injustiçado na história da Seleção Brasileira?\n\nAlex ou Djalminha.\n\nPara mim, um deles resolvia o nosso meio-campo hoje com folga.",
    "quando": "2026-10-18T12:07:07.541173-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T13:37:09.305424-04:00"
+   "viral_chk": "2026-10-18T14:07:08.035574-04:00"
   },
   {
    "id": "17997441141012078",
@@ -1272,7 +1255,16 @@
    "texto": "OPINIÃO IMPOPULAR: tentar paquerar na academia às 18h é loucura pura. Eu fico suada, bufando e querendo ir embora, vocês realmente conseguem desenrolar papo nesse horário?",
    "quando": "2026-10-18T13:07:08.453152-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T13:37:09.305424-04:00"
+   "viral_chk": "2026-10-18T14:07:08.035574-04:00"
+  },
+  {
+   "id": "18193642693392878",
+   "insp": "9baa29373a",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: quem mais aqui acostumou tanto com carro automático que se pegar um manual hoje deixa o motor morrer na primeira subida?\n\nNão sei se a gente ficou preguiçosa ou se é só paz de espírito no trânsito.",
+   "quando": "2026-10-18T14:07:08.035574-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-18T14:07:08.035574-04:00"
   }
  ],
  "respondidos": [
@@ -3242,10 +3234,13 @@
   "18091884290200422",
   "18147555997493102",
   "18097182917666177",
-  "17911643694471748"
+  "17911643694471748",
+  "18120174635000635",
+  "18081047906416685",
+  "18096777638407071",
+  "18130205197814048"
  ],
  "hashes": [
-  "8b4d90e6cf568045ddaaa5d9bb4b2582",
   "f96c60de8157d384f22b5be0a7f72111",
   "d13fd94abe8d96a2dcb3d4b02c93cb89",
   "5770744d7d6d9a0c9b3e25dd82a2b35b",
@@ -3444,7 +3439,8 @@
   "f0eadd518b5fce5d462917f80ee65603",
   "cd6df32f55d640f403eff38310ea98a4",
   "08435f5aa10eff727575f615859ab082",
-  "c160280a0c25591d424b82b7aaa5c7a2"
+  "c160280a0c25591d424b82b7aaa5c7a2",
+  "6988b57450e38e00eeb4500f7d646f8d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3648,7 +3644,8 @@
   "92d6999031": 1792330647.7168002,
   "a78254bf8a": 1792336043.8635733,
   "0e810ea820": 1792339650.9835525,
-  "e51c00ec33": 1792343251.4851322
+  "e51c00ec33": 1792343251.4851322,
+  "9baa29373a": 1792346849.6100967
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3699,30 +3696,14 @@
   "66ad2c415a": 1,
   "3bd1c0a363": 1,
   "571c11336c": 1,
-  "39b41ce8b0": 1
+  "39b41ce8b0": 1,
+  "ac3406ed95": 1,
+  "7bc2993945": 1,
+  "56d4ad81d7": 1,
+  "b73f161ca9": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "coragem nível extremo, isso sim é teste de resistencia pra qualquer um 😭",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "carro bom e confortável muda tudo mesmo nessa hora",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa é a regra de ouro para a viagem render bem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "haja ferro e café na veia kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "para quem roda pouco assim o tempo passa voando mesmo",
    "p": "concorda",
@@ -3852,6 +3833,26 @@
    "t": "moto por esse chão todo exige uma coragem invejável kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "mistério total, o único plano é sobreviver aos aparelhos kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "foco total no treino para tentar ir embora logo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exagero nível hard que ninguém merece passar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "lugar de foco e zero paciência para gracinha",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4787,7 +4788,11 @@
    "estrategia defensiva impecavel",
    "sobrevivencia em primeiro",
    "esse foco no",
-   "medida drastica mas"
+   "medida drastica mas",
+   "misterio total o",
+   "foco total no",
+   "exagero nivel hard",
+   "lugar de foco"
   ]
  },
  "shopee_checada": "2026-10-18|1",
