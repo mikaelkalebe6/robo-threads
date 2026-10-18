@@ -24,41 +24,21 @@
    "15:50",
    "20:20"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:32"
+  ],
   "produtos_feitos": 0,
-  "respostas": 15,
+  "respostas": 16,
   "por_post": {
    "17908292148572118": 2,
    "18025367147866539": 1,
    "18270239065307240": 1,
    "18430827799148762": 8,
    "18440556559176732": 1,
-   "18435667258196022": 2
+   "18435667258196022": 3
   }
  },
  "posts": [
-  {
-   "id": "18145752784569888",
-   "insp": "654bef73ca",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: carro automático tirou quase toda a graça de dirigir. Trocar marcha faz parte da conexão com o carro.",
-   "quando": "2026-10-11T22:07:07.905661-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-11T23:07:08.967006-04:00",
-   "meme_comentado": true,
-   "meme_views": 1928,
-   "formato_link": "comentfoto",
-   "produto": "21898099575",
-   "metricas": {
-    "views": 38863,
-    "likes": 540,
-    "replies": 525,
-    "reposts": 2,
-    "quotes": 3,
-    "shares": 1,
-    "em": "2026-10-18"
-   }
-  },
   {
    "id": "17964872100196416",
    "insp": "615229a3f1",
@@ -1082,7 +1062,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T08:07:09.236800-04:00",
+   "viral_chk": "2026-10-18T08:37:08.377277-04:00",
    "metricas": {
     "views": 537,
     "likes": 6,
@@ -1100,7 +1080,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T08:07:09.236800-04:00",
+   "viral_chk": "2026-10-18T08:37:08.377277-04:00",
    "metricas": {
     "views": 700,
     "likes": 18,
@@ -1141,7 +1121,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T08:07:09.236800-04:00",
+   "viral_chk": "2026-10-18T08:37:08.377277-04:00",
    "metricas": {
     "views": 477,
     "likes": 6,
@@ -1183,7 +1163,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-18T08:07:09.236800-04:00",
+   "viral_chk": "2026-10-18T08:37:08.377277-04:00",
    "metricas": {
     "views": 756,
     "likes": 5,
@@ -1201,7 +1181,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T08:07:09.236800-04:00",
+   "viral_chk": "2026-10-18T08:37:08.377277-04:00",
    "metricas": {
     "views": 44,
     "likes": 0,
@@ -1219,7 +1199,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T08:07:09.236800-04:00",
+   "viral_chk": "2026-10-18T08:37:08.377277-04:00",
    "metricas": {
     "views": 402,
     "likes": 18,
@@ -1237,7 +1217,7 @@
    "texto": "SEJAM SINCEROS: quantas vezes vocês já trocaram o óleo do carro bem depois do prazo?",
    "quando": "2026-10-17T19:07:08.733454-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T08:07:09.236800-04:00",
+   "viral_chk": "2026-10-18T08:37:08.377277-04:00",
    "metricas": {
     "views": 735,
     "likes": 6,
@@ -1290,7 +1270,7 @@
    "texto": "OPINIÃO IMPOPULAR: Professor que aguenta aluno sem perder a paciência merecia ganhar igual jogador de bola.",
    "quando": "2026-10-17T21:07:06.869585-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T08:07:09.236800-04:00",
+   "viral_chk": "2026-10-18T08:37:08.377277-04:00",
    "metricas": {
     "views": 226,
     "likes": 1,
@@ -1308,7 +1288,7 @@
    "texto": "VAMOS SER HONESTOS: o primeiro encontro de verdade acontece na velocidade e no tom da resposta no chat, antes de ver a pessoa pessoalmente",
    "quando": "2026-10-17T22:07:07.563490-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T08:07:09.236800-04:00",
+   "viral_chk": "2026-10-18T08:37:08.377277-04:00",
    "metricas": {
     "views": 535,
     "likes": 7,
@@ -1318,6 +1298,15 @@
     "shares": 0,
     "em": "2026-10-18"
    }
+  },
+  {
+   "id": "18092117084659517",
+   "insp": "8ab8e68dd2",
+   "link": "",
+   "texto": "ME CONTA: qual professor já salvou vocês da reprovação no último minuto do segundo tempo? \n\nEu tenho uma dívida eterna com a de história que aceitou um trabalho meu feito às pressas de madrugada.",
+   "quando": "2026-10-18T08:37:08.377277-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-18T08:37:08.377277-04:00"
   }
  ],
  "respondidos": [
@@ -3255,7 +3244,8 @@
   "18197506642390283",
   "17907092454579303",
   "18475182532114830",
-  "17938891926390004"
+  "17938891926390004",
+  "18116697883999884"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3454,7 +3444,8 @@
   "66a16eb701f923c16f9543b6a14bbdf3",
   "7ad56e41b3342f3f4f2050db02757cf2",
   "3a2c7f7e8334febf5aac515303c802db",
-  "a67f5c94a08d8f98544ef55705c48342"
+  "a67f5c94a08d8f98544ef55705c48342",
+  "8d85680a63de2f5351306be3741e35ad"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3653,7 +3644,8 @@
   "2c97391d6e": 1792274863.0839956,
   "f4861a96cb": 1792278445.6304848,
   "b8060c0c5a": 1792285646.3168828,
-  "6e719f8d0f": 1792289247.3859193
+  "6e719f8d0f": 1792289247.3859193,
+  "8ab8e68dd2": 1792327044.3925588
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3672,15 +3664,11 @@
   "411d473217": 1,
   "e90ba8ac8e": 1,
   "c861933903": 1,
-  "fe7ec29c08": 1
+  "fe7ec29c08": 1,
+  "d77d8066ee": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "trabalho pesado na fazenda exige bastante mesmo dos equipamentos",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "a coragem e a base de todo motor rodando por aí",
    "p": "concorda",
@@ -3825,6 +3813,11 @@
    "t": "não tem erro, é bom demais",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "cachorro quente da rua salva qualquer clima tenso kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4696,7 +4689,8 @@
    "exato viver o",
    "lugar barulhento acaba",
    "parece que a",
-   "um lugar mais"
+   "um lugar mais",
+   "cachorro quente da"
   ],
   "18108372566123329": [
    "essa e a",
