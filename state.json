@@ -36,10 +36,11 @@
    "15:50",
    "16:51",
    "17:31",
-   "18:22"
+   "18:22",
+   "19:37"
   ],
   "produtos_feitos": 2,
-  "respostas": 86,
+  "respostas": 92,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -54,33 +55,11 @@
    "17997441141012078": 12,
    "18193642693392878": 8,
    "18144021196597425": 5,
-   "18067887914607934": 14,
+   "18067887914607934": 20,
    "18132148777761668": 1
   }
  },
  "posts": [
-  {
-   "id": "17898060528396441",
-   "insp": "c256239fef",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: quem diz que prefere calor nunca morou num lugar de 38 graus onde você sai do banho mais suada do que quando entrou.",
-   "quando": "2026-10-12T21:07:09.188417-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-13T07:07:09.287262-04:00",
-   "metricas": {
-    "views": 3366,
-    "likes": 130,
-    "replies": 68,
-    "reposts": 5,
-    "quotes": 1,
-    "shares": 0,
-    "em": "2026-10-18"
-   },
-   "meme_comentado": true,
-   "meme_views": 1721,
-   "formato_link": "coment",
-   "produto": "20798026236"
-  },
   {
    "id": "17901736290374704",
    "insp": "8bcb7cd8a4",
@@ -1238,6 +1217,14 @@
    "quando": "2026-10-18T18:37:09.498020-04:00",
    "ia": "Gemini gemini-flash-latest",
    "viral_chk": "2026-10-18T18:37:09.498020-04:00"
+  },
+  {
+   "id": "18345831793283583",
+   "insp": "c77e24d709",
+   "link": "",
+   "texto": "Como vocês conheceram a pessoa que estão hoje em dia porque às vezes fico pensando que nossa história daria uma comédia romântica bem aleatória",
+   "quando": "2026-10-18T19:37:07.999957-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3246,10 +3233,15 @@
   "18113241665180624",
   "18103397075208125",
   "18105159677255687",
-  "18124694615292505"
+  "18124694615292505",
+  "18198128533386118",
+  "18108837104267616",
+  "18146933353533005",
+  "18091987745668781",
+  "18387452233226264",
+  "18114766889587312"
  ],
  "hashes": [
-  "42c7bff59081e6fcf09011fe0479b404",
   "c3c147ba5bffb021d0a17087813fee1a",
   "eac573f7d827387b89f7b18e8dc2ac98",
   "bdc104390d495996f091b8c9a6bd1faa",
@@ -3448,7 +3440,8 @@
   "9d193556a403a90bd80be7a3563a281a",
   "a9e0e11bfdc4889a94635a8e1167d644",
   "827ad6eb8f7070f66d8326c513d2b51f",
-  "356822b744eb47391ae2c0c666ee23db"
+  "356822b744eb47391ae2c0c666ee23db",
+  "4a01239961b01df8659ab700d1eb0632"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3657,7 +3650,8 @@
   "d5e042b763": 1792350456.4683714,
   "55ca636ebf": 1792357683.111423,
   "3394e0a232": 1792359441.2228508,
-  "63b327e43d": 1792363057.593114
+  "63b327e43d": 1792363057.593114,
+  "c77e24d709": 1792366640.4001057
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3745,40 +3739,15 @@
   "5dc217dd4d": 1,
   "548c11ce3b": 1,
   "73e877de81": 1,
-  "3b1e514f39": 1
+  "3b1e514f39": 2,
+  "0f7dcbf073": 1,
+  "41f3c7a1db": 1,
+  "802061c67f": 1,
+  "07699da86d": 1,
+  "85f5c875d7": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "quase quinze horas de uber é prova de resistência pura kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "parada estratégica assim muda tudo mesmo na viagem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo demais, o que é pesado pro mês a gente divide e o resto vai no pix",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "comprar um desse hoje em dia seria um evento caótico kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sabedoria pura em forma de silêncio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse é o verdadeiro esporte radical do brasileiro, tentar não perder o controle kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "antecipar tira um peso enorme das costas mesmo",
    "p": "concorda",
@@ -3896,6 +3865,36 @@
   },
   {
    "t": "jogatina em turma sempre rende boas risadas e caos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "jogar os clássicos de antigamente traz uma nostalgia boa demais que recarrega a energia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "passar horas explorando o mapa sem hora para voltar é bom demais kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "cada um no seu ritmo absorvendo cada detalhe da história",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "boa escolha para desligar a cabeça depois de um dia longo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "placar de respeito para fechar a história com calma",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse mundo aí é um caminho sem volta de tão bom",
    "p": "concorda",
    "r": 0
   }
@@ -4880,7 +4879,13 @@
    "melhor jeito de",
    "jogo de corrida",
    "campanha solo deixa",
-   "jogatina em turma"
+   "jogatina em turma",
+   "jogar os classicos",
+   "passar horas explorando",
+   "cada um no",
+   "boa escolha para",
+   "placar de respeito",
+   "esse mundo ai"
   ],
   "18132148777761668": [
    "verdade ai o"
