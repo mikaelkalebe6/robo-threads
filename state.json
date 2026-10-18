@@ -34,7 +34,8 @@
    "13:57",
    "14:38",
    "15:50",
-   "16:51"
+   "16:51",
+   "17:31"
   ],
   "produtos_feitos": 2,
   "respostas": 70,
@@ -55,24 +56,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18094079654172410",
-   "insp": "f784c8426a",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: quem mais já mandou mensagem pro crush e ficou olhando o celular a cada dois minutos como se fosse mudar sozinho",
-   "quando": "2026-10-12T19:37:08.353606-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-13T19:07:09.614505-04:00",
-   "metricas": {
-    "views": 871,
-    "likes": 27,
-    "replies": 15,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-18"
-   }
-  },
   {
    "id": "17940476349379270",
    "insp": "video_5d35ef883e",
@@ -1017,7 +1000,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T17:07:07.453971-04:00",
+   "viral_chk": "2026-10-18T17:37:07.444937-04:00",
    "metricas": {
     "views": 44,
     "likes": 0,
@@ -1035,7 +1018,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T17:07:07.453971-04:00",
+   "viral_chk": "2026-10-18T17:37:07.444937-04:00",
    "metricas": {
     "views": 402,
     "likes": 18,
@@ -1114,7 +1097,7 @@
    "texto": "OPINIÃO IMPOPULAR: Professor que aguenta aluno sem perder a paciência merecia ganhar igual jogador de bola.",
    "quando": "2026-10-17T21:07:06.869585-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T17:07:07.453971-04:00",
+   "viral_chk": "2026-10-18T17:37:07.444937-04:00",
    "metricas": {
     "views": 226,
     "likes": 1,
@@ -1132,7 +1115,7 @@
    "texto": "VAMOS SER HONESTOS: o primeiro encontro de verdade acontece na velocidade e no tom da resposta no chat, antes de ver a pessoa pessoalmente",
    "quando": "2026-10-17T22:07:07.563490-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T17:07:07.453971-04:00",
+   "viral_chk": "2026-10-18T17:37:07.444937-04:00",
    "metricas": {
     "views": 535,
     "likes": 7,
@@ -1150,7 +1133,7 @@
    "texto": "ME CONTA: qual professor já salvou vocês da reprovação no último minuto do segundo tempo? \n\nEu tenho uma dívida eterna com a de história que aceitou um trabalho meu feito às pressas de madrugada.",
    "quando": "2026-10-18T08:37:08.377277-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T17:07:07.453971-04:00"
+   "viral_chk": "2026-10-18T17:37:07.444937-04:00"
   },
   {
    "id": "18105080027306911",
@@ -1159,7 +1142,7 @@
    "texto": "SEM MENTIR: quem mais aqui já encarou mais de doze horas no volante achando que ia ser super tranquilo?\n\nNa metade do caminho a coluna já pede socorro e nem a melhor playlist do mundo salva.",
    "quando": "2026-10-18T09:37:07.306843-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T17:07:07.453971-04:00"
+   "viral_chk": "2026-10-18T17:37:07.444937-04:00"
   },
   {
    "id": "18001232555812340",
@@ -1180,7 +1163,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais depois de adulto percebeu que o folclore brasileiro é basicamente um monte de lenda PCD no meio do mato?\n\nSaci com uma perna só, Curupira com os pés invertidos, Mula sem Cabeça. A inclusão florestal sempre foi forte por aqui.",
    "quando": "2026-10-18T11:07:07.488784-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T17:07:07.453971-04:00"
+   "viral_chk": "2026-10-18T17:37:07.444937-04:00"
   },
   {
    "id": "18633135673031281",
@@ -1189,7 +1172,7 @@
    "texto": "DÚVIDA SINCERA: quem foi mais injustiçado na história da Seleção Brasileira?\n\nAlex ou Djalminha.\n\nPara mim, um deles resolvia o nosso meio-campo hoje com folga.",
    "quando": "2026-10-18T12:07:07.541173-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T17:07:07.453971-04:00"
+   "viral_chk": "2026-10-18T17:37:07.444937-04:00"
   },
   {
    "id": "17997441141012078",
@@ -1212,7 +1195,7 @@
    "texto": "DÚVIDA SINCERA: quem mais aqui acostumou tanto com carro automático que se pegar um manual hoje deixa o motor morrer na primeira subida?\n\nNão sei se a gente ficou preguiçosa ou se é só paz de espírito no trânsito.",
    "quando": "2026-10-18T14:07:08.035574-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T17:07:07.453971-04:00"
+   "viral_chk": "2026-10-18T17:37:07.444937-04:00"
   },
   {
    "id": "18144021196597425",
@@ -1221,7 +1204,7 @@
    "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
    "quando": "2026-10-18T15:07:07.813127-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T17:07:07.453971-04:00"
+   "viral_chk": "2026-10-18T17:37:07.444937-04:00"
   },
   {
    "id": "17990749128026638",
@@ -1256,7 +1239,16 @@
    "texto": "VAMOS CONCORDAR: homem que presta atenção nos mínimos detalhes que a gente solta por aí ganha muitos pontos.",
    "quando": "2026-10-18T17:07:07.453971-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T17:07:07.453971-04:00"
+   "viral_chk": "2026-10-18T17:37:07.444937-04:00"
+  },
+  {
+   "id": "18067887914607934",
+   "insp": "3394e0a232",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: jogar videogame depois dos 30 virou minha terapia diária. E você, prefere?\n\n- Maratonar um RPG solo 🎮  \n- Partidas rápidas com os amigos",
+   "quando": "2026-10-18T17:37:07.444937-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "viral_chk": "2026-10-18T17:37:07.444937-04:00"
   }
  ],
  "respondidos": [
@@ -3252,7 +3244,6 @@
   "18136688125641807"
  ],
  "hashes": [
-  "5770744d7d6d9a0c9b3e25dd82a2b35b",
   "e5e209402fa6c9963be6d71628598d11",
   "42c7bff59081e6fcf09011fe0479b404",
   "c3c147ba5bffb021d0a17087813fee1a",
@@ -3451,7 +3442,8 @@
   "c160280a0c25591d424b82b7aaa5c7a2",
   "6988b57450e38e00eeb4500f7d646f8d",
   "9d193556a403a90bd80be7a3563a281a",
-  "a9e0e11bfdc4889a94635a8e1167d644"
+  "a9e0e11bfdc4889a94635a8e1167d644",
+  "827ad6eb8f7070f66d8326c513d2b51f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3658,7 +3650,8 @@
   "e51c00ec33": 1792343251.4851322,
   "9baa29373a": 1792346849.6100967,
   "d5e042b763": 1792350456.4683714,
-  "55ca636ebf": 1792357683.111423
+  "55ca636ebf": 1792357683.111423,
+  "3394e0a232": 1792359441.2228508
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
