@@ -32,7 +32,7 @@
    "11:53"
   ],
   "produtos_feitos": 1,
-  "respostas": 34,
+  "respostas": 39,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -40,9 +40,10 @@
    "18430827799148762": 8,
    "18440556559176732": 1,
    "18435667258196022": 5,
-   "18105080027306911": 10,
+   "18105080027306911": 12,
    "18092117084659517": 1,
-   "18106390660980798": 3
+   "18106390660980798": 4,
+   "18633135673031281": 2
   }
  },
  "posts": [
@@ -1008,7 +1009,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T12:07:07.541173-04:00",
+   "viral_chk": "2026-10-18T12:37:07.136408-04:00",
    "metricas": {
     "views": 700,
     "likes": 18,
@@ -1049,7 +1050,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T12:07:07.541173-04:00",
+   "viral_chk": "2026-10-18T12:37:07.136408-04:00",
    "metricas": {
     "views": 477,
     "likes": 6,
@@ -1091,7 +1092,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-18T12:07:07.541173-04:00",
+   "viral_chk": "2026-10-18T12:37:07.136408-04:00",
    "metricas": {
     "views": 756,
     "likes": 5,
@@ -1109,7 +1110,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T12:07:07.541173-04:00",
+   "viral_chk": "2026-10-18T12:37:07.136408-04:00",
    "metricas": {
     "views": 44,
     "likes": 0,
@@ -1127,7 +1128,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T12:07:07.541173-04:00",
+   "viral_chk": "2026-10-18T12:37:07.136408-04:00",
    "metricas": {
     "views": 402,
     "likes": 18,
@@ -1203,7 +1204,7 @@
    "texto": "OPINIÃO IMPOPULAR: Professor que aguenta aluno sem perder a paciência merecia ganhar igual jogador de bola.",
    "quando": "2026-10-17T21:07:06.869585-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T12:07:07.541173-04:00",
+   "viral_chk": "2026-10-18T12:37:07.136408-04:00",
    "metricas": {
     "views": 226,
     "likes": 1,
@@ -1221,7 +1222,7 @@
    "texto": "VAMOS SER HONESTOS: o primeiro encontro de verdade acontece na velocidade e no tom da resposta no chat, antes de ver a pessoa pessoalmente",
    "quando": "2026-10-17T22:07:07.563490-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T12:07:07.541173-04:00",
+   "viral_chk": "2026-10-18T12:37:07.136408-04:00",
    "metricas": {
     "views": 535,
     "likes": 7,
@@ -1239,7 +1240,7 @@
    "texto": "ME CONTA: qual professor já salvou vocês da reprovação no último minuto do segundo tempo? \n\nEu tenho uma dívida eterna com a de história que aceitou um trabalho meu feito às pressas de madrugada.",
    "quando": "2026-10-18T08:37:08.377277-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T12:07:07.541173-04:00"
+   "viral_chk": "2026-10-18T12:37:07.136408-04:00"
   },
   {
    "id": "18105080027306911",
@@ -1248,7 +1249,7 @@
    "texto": "SEM MENTIR: quem mais aqui já encarou mais de doze horas no volante achando que ia ser super tranquilo?\n\nNa metade do caminho a coluna já pede socorro e nem a melhor playlist do mundo salva.",
    "quando": "2026-10-18T09:37:07.306843-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T12:07:07.541173-04:00"
+   "viral_chk": "2026-10-18T12:37:07.136408-04:00"
   },
   {
    "id": "18001232555812340",
@@ -1269,7 +1270,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais depois de adulto percebeu que o folclore brasileiro é basicamente um monte de lenda PCD no meio do mato?\n\nSaci com uma perna só, Curupira com os pés invertidos, Mula sem Cabeça. A inclusão florestal sempre foi forte por aqui.",
    "quando": "2026-10-18T11:07:07.488784-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T12:07:07.541173-04:00"
+   "viral_chk": "2026-10-18T12:37:07.136408-04:00"
   },
   {
    "id": "18633135673031281",
@@ -1278,7 +1279,7 @@
    "texto": "DÚVIDA SINCERA: quem foi mais injustiçado na história da Seleção Brasileira?\n\nAlex ou Djalminha.\n\nPara mim, um deles resolvia o nosso meio-campo hoje com folga.",
    "quando": "2026-10-18T12:07:07.541173-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T12:07:07.541173-04:00"
+   "viral_chk": "2026-10-18T12:37:07.136408-04:00"
   }
  ],
  "respondidos": [
@@ -3235,7 +3236,12 @@
   "18186140137418671",
   "18134127790662135",
   "18385762924231492",
-  "17903585694670007"
+  "17903585694670007",
+  "18475277401142626",
+  "18132991684742980",
+  "17899887804607730",
+  "18084777767686837",
+  "17928874197181182"
  ],
  "hashes": [
   "027a4610c3c2db7918247e272a52a726",
@@ -3678,35 +3684,15 @@
   "04d4f77188": 1,
   "d4a11b306e": 1,
   "226e826c12": 1,
-  "2035a2115a": 1
+  "2035a2115a": 1,
+  "3c9a95b07c": 1,
+  "dc7c33937b": 1,
+  "354b6f9695": 1,
+  "cf28179741": 1,
+  "5a4f6559c6": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "memória muscular continua intacta depois de tantos anos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parece que a gente tá ali só pra ser avaliado no cardápio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "disciplina invejável com o carro",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pastel de queijo quentinho ganha de qualquer outra opção",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa rejeição ao pastel foi um golpe duro no meu coração",
-   "p": "discorda",
-   "r": 0
-  },
   {
    "t": "torresmo joga em outra liga, aí covardia",
    "p": "ressalva",
@@ -3831,6 +3817,31 @@
    "t": "essas salvam demais a sanidade mental na pista kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "essa convocação de 2002 ainda dói de lembrar, era muita qualidade junta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fechava o gol mas no meio campo ia faltar a magia dos dois",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "estudou a fundo a mitologia pra defender o elenco completo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "esse trecho exige demais e o carro faz toda a diferença",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "piloto automático deveria ser considerado patrimônio da humanidade",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4503,11 +4514,6 @@
   }
  ],
  "aberturas_post": {
-  "18033024983895666": [
-   "taxa de efeitos",
-   "confessa que o",
-   "cocar a cabeca"
-  ],
   "18179498749440025": [
    "pensar junto e",
    "clareza financeira e"
@@ -4750,7 +4756,9 @@
    "nem com banco",
    "a biologia sempre",
    "carro automatico com",
-   "essas salvam demais"
+   "essas salvam demais",
+   "esse trecho exige",
+   "piloto automatico deveria"
   ],
   "18092117084659517": [
    "caderno caprichado e"
@@ -4758,7 +4766,12 @@
   "18106390660980798": [
    "pesquisa de campo",
    "faltou aquela ousadia",
-   "boa tarde tudo"
+   "boa tarde tudo",
+   "estudou a fundo"
+  ],
+  "18633135673031281": [
+   "essa convocacao de",
+   "fechava o gol"
   ]
  },
  "shopee_checada": "2026-10-18|1",
