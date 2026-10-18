@@ -41,20 +41,21 @@
    "19:54"
   ],
   "produtos_feitos": 3,
-  "respostas": 97,
+  "respostas": 103,
   "por_post": {
    "18114403013039784": 3,
    "18216730960347343": 20,
-   "18440556559176732": 10,
+   "18440556559176732": 11,
    "18600522124066906": 1,
    "18430827799148762": 20,
-   "18270239065307240": 5,
+   "18270239065307240": 6,
    "18435667258196022": 6,
    "18108372566123329": 13,
    "18104070287346772": 3,
    "18015866036747016": 3,
    "18025367147866539": 3,
-   "17908292148572118": 10
+   "17908292148572118": 13,
+   "17908400601664539": 1
   }
  },
  "posts": [
@@ -1062,7 +1063,7 @@
    "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
    "quando": "2026-10-17T10:07:07.534572-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T20:07:08.441906-04:00"
+   "viral_chk": "2026-10-17T20:37:06.830293-04:00"
   },
   {
    "id": "18635940157022626",
@@ -1086,7 +1087,7 @@
    "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
    "quando": "2026-10-17T11:37:07.551776-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T20:07:08.441906-04:00"
+   "viral_chk": "2026-10-17T20:37:06.830293-04:00"
   },
   {
    "id": "18270239065307240",
@@ -1095,7 +1096,7 @@
    "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
    "quando": "2026-10-17T12:07:07.816065-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T20:07:08.441906-04:00"
+   "viral_chk": "2026-10-17T20:37:06.830293-04:00"
   },
   {
    "id": "18435667258196022",
@@ -1104,7 +1105,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro parece mais entrevista de emprego com sobremesa do que papo leve.",
    "quando": "2026-10-17T13:07:07.880762-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T20:07:08.441906-04:00"
+   "viral_chk": "2026-10-17T20:37:06.830293-04:00"
   },
   {
    "id": "18108372566123329",
@@ -1113,7 +1114,7 @@
    "texto": "OPINIÃO IMPOPULAR: Churrasco bom de verdade depende muito mais de dominar o carvão do que de gastar uma fortuna na carne. \n\nCarvão aceso errado estraga qualquer corte caro.",
    "quando": "2026-10-17T14:07:08.333504-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T20:07:08.441906-04:00"
+   "viral_chk": "2026-10-17T20:37:06.830293-04:00"
   },
   {
    "id": "18104070287346772",
@@ -1122,7 +1123,7 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
    "quando": "2026-10-17T15:07:07.946855-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T20:07:08.441906-04:00"
+   "viral_chk": "2026-10-17T20:37:06.830293-04:00"
   },
   {
    "id": "18143543053588756",
@@ -1146,7 +1147,7 @@
    "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
    "quando": "2026-10-17T16:37:07.108556-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T20:07:08.441906-04:00"
+   "viral_chk": "2026-10-17T20:37:06.830293-04:00"
   },
   {
    "id": "17961160752217869",
@@ -1155,7 +1156,7 @@
    "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
    "quando": "2026-10-17T17:37:07.445098-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T20:07:08.441906-04:00"
+   "viral_chk": "2026-10-17T20:37:06.830293-04:00"
   },
   {
    "id": "18025367147866539",
@@ -1164,7 +1165,7 @@
    "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
    "quando": "2026-10-17T18:07:13.236382-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T20:07:08.441906-04:00"
+   "viral_chk": "2026-10-17T20:37:06.830293-04:00"
   },
   {
    "id": "17908292148572118",
@@ -1173,7 +1174,7 @@
    "texto": "SEJAM SINCEROS: quantas vezes vocês já trocaram o óleo do carro bem depois do prazo?",
    "quando": "2026-10-17T19:07:08.733454-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T20:07:08.441906-04:00"
+   "viral_chk": "2026-10-17T20:37:06.830293-04:00"
   },
   {
    "id": "17908400601664539",
@@ -3101,7 +3102,13 @@
   "18108850364224921",
   "17961699213252140",
   "17919015966454016",
-  "18148585006520916"
+  "18148585006520916",
+  "18035125832890994",
+  "18107923859209839",
+  "18270766831305965",
+  "18126919846756190",
+  "18077615498560258",
+  "17967436929192553"
  ],
  "hashes": [
   "64c01cf55c0ee3637b90fc4f543e751e",
@@ -3590,40 +3597,16 @@
   "2f8d00562d": 1,
   "56d3ce5e2d": 1,
   "7193e61a99": 1,
-  "8ed5697ff0": 1
+  "8ed5697ff0": 1,
+  "5566b3a5f0": 1,
+  "13c8a35701": 1,
+  "d0c0e263bf": 1,
+  "5e8ce95f9b": 1,
+  "d30841a24a": 1,
+  "02cd96eabc": 1
  },
  "reservas_checadas": "2026-10-17",
  "ultimas_respostas": [
-  {
-   "t": "brasa no ponto e bom tempero salvam qualquer domingo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "escala o time inteiro de uma vez e boa sorte pro goleiro kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "excelente escolha mas o queijo tem que comer correndo antes de esfriar kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "lugar barulhento acaba com a paciência de qualquer um",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "fumaça errada estraga o sabor de qualquer pedaço",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "escolha certeira, ainda mais se vier com o caldo de cana gelado",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pior q é verdade, mas na beira da estrada ganha outro nível de sofrimento kkk",
    "p": "discorda",
@@ -3743,6 +3726,36 @@
    "t": "esse salvou muitas vidas no momento de aperto kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "procura em lojinha de acessório que acha fácil, salva demais mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse café da manhã veio bem na hora de fingir que acordou cedo kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "manutenção em dia assim dá até gosto de ver",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse sol da Flórida e a trilha sonora não saem da cabeça",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "trabalho pesado na fazenda exige bastante mesmo dos equipamentos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a coragem e a base de todo motor rodando por aí",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4390,9 +4403,6 @@
   }
  ],
  "aberturas_post": {
-  "17940476349379270": [
-   "salva demais a"
-  ],
   "18368554072244525": [
    "ovo cru e"
   ],
@@ -4564,7 +4574,8 @@
    "no pc era",
    "musica na cabeca",
    "teclado sofria na",
-   "esse salvou muitas"
+   "esse salvou muitas",
+   "esse sol da"
   ],
   "18430827799148762": [
    "batata frita e",
@@ -4593,7 +4604,8 @@
    "ir ate o",
    "esse jogo ai",
    "milagre tecnologico porque",
-   "pelo menos o"
+   "pelo menos o",
+   "esse cafe da"
   ],
   "18435667258196022": [
    "sabe aquela conta",
@@ -4643,7 +4655,13 @@
    "sete ja ta",
    "disciplina de respeito",
    "duas semanas a",
-   "quinze mil quilometros"
+   "quinze mil quilometros",
+   "manutencao em dia",
+   "trabalho pesado na",
+   "a coragem e"
+  ],
+  "17908400601664539": [
+   "procura em lojinha"
   ]
  },
  "shopee_checada": "2026-10-17|1",
