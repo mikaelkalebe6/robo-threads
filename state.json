@@ -38,10 +38,11 @@
    "17:31",
    "18:22",
    "19:37",
-   "20:20"
+   "20:20",
+   "21:00"
   ],
   "produtos_feitos": 3,
-  "respostas": 92,
+  "respostas": 94,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -49,36 +50,18 @@
    "18430827799148762": 8,
    "18440556559176732": 1,
    "18435667258196022": 5,
-   "18105080027306911": 18,
+   "18105080027306911": 19,
    "18092117084659517": 1,
    "18106390660980798": 5,
    "18633135673031281": 2,
    "17997441141012078": 12,
    "18193642693392878": 8,
-   "18144021196597425": 5,
+   "18144021196597425": 6,
    "18067887914607934": 20,
    "18132148777761668": 1
   }
  },
  "posts": [
-  {
-   "id": "18099352877530021",
-   "insp": "f505b6ba89",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é sinal de igualdade ou red flag?",
-   "quando": "2026-10-13T09:07:21.696011-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-14T09:07:08.365486-04:00",
-   "metricas": {
-    "views": 539,
-    "likes": 7,
-    "replies": 35,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-18"
-   }
-  },
   {
    "id": "18118951138948718",
    "insp": "video_a581a81249",
@@ -1223,6 +1206,14 @@
    "modelo": "foto real + manchete em split (refs. Dbn8OpJkZpB foto real com título; DYUzwlokWpa vitrine)",
    "visual": "cn",
    "link_coment": "https://s.shopee.com.br/9zyTfR7QXm"
+  },
+  {
+   "id": "18384730186242595",
+   "insp": "d7e44e025a",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: falar a verdade pura e crua já fez alguém aqui perder um amigo de longa data ou só eu que assusto as pessoas?",
+   "quando": "2026-10-18T21:07:08.599848-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3237,10 +3228,11 @@
   "18146933353533005",
   "18091987745668781",
   "18387452233226264",
-  "18114766889587312"
+  "18114766889587312",
+  "18126364462856607",
+  "17908292697577358"
  ],
  "hashes": [
-  "c3c147ba5bffb021d0a17087813fee1a",
   "eac573f7d827387b89f7b18e8dc2ac98",
   "bdc104390d495996f091b8c9a6bd1faa",
   "5d5134adf4448bd5764bdf4599145927",
@@ -3439,7 +3431,8 @@
   "a9e0e11bfdc4889a94635a8e1167d644",
   "827ad6eb8f7070f66d8326c513d2b51f",
   "356822b744eb47391ae2c0c666ee23db",
-  "4a01239961b01df8659ab700d1eb0632"
+  "4a01239961b01df8659ab700d1eb0632",
+  "d29bfa669a67701432f1ea2211fa3dab"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3649,7 +3642,8 @@
   "55ca636ebf": 1792357683.111423,
   "3394e0a232": 1792359441.2228508,
   "63b327e43d": 1792363057.593114,
-  "c77e24d709": 1792366640.4001057
+  "c77e24d709": 1792366640.4001057,
+  "d7e44e025a": 1792372085.3802283
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3742,20 +3736,12 @@
   "41f3c7a1db": 1,
   "802061c67f": 1,
   "07699da86d": 1,
-  "85f5c875d7": 1
+  "85f5c875d7": 1,
+  "d917c68d01": 1,
+  "7987542173": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "antecipar tira um peso enorme das costas mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "memoria muscular salva a gente nessas horas",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "economia de energia total pra não desmaiar no meio do exercício kkk",
    "p": "concorda",
@@ -3893,6 +3879,16 @@
   },
   {
    "t": "esse mundo aí é um caminho sem volta de tão bom",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia de quem joga xadrez com o banco",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "banco ruim consegue acabar com a viagem bem mais rápido do que a distância",
    "p": "concorda",
    "r": 0
   }
@@ -4821,7 +4817,8 @@
    "moto por esse",
    "quase quinze horas",
    "parada estrategica assim",
-   "van so se"
+   "van so se",
+   "banco ruim consegue"
   ],
   "18092117084659517": [
    "caderno caprichado e"
@@ -4866,7 +4863,8 @@
    "esse e o",
    "antecipar tira um",
    "organizacao no whatsapp",
-   "limite bom para"
+   "limite bom para",
+   "estrategia de quem"
   ],
   "18067887914607934": [
    "tem que ter",
