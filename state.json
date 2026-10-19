@@ -1014,7 +1014,7 @@
    "texto": "VAMOS CONCORDAR: homem que presta atenção nos mínimos detalhes que a gente solta por aí ganha muitos pontos.",
    "quando": "2026-10-18T17:07:07.453971-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-19T16:07:08.186130-04:00",
+   "viral_chk": "2026-10-19T16:37:08.056698-04:00",
    "metricas": {
     "views": 118,
     "likes": 0,
@@ -1055,7 +1055,7 @@
    "texto": "ME CONTA: Cheguei no restaurante ontem e abriu uma vaga perfeita bem na porta, no meio do caos. Estacionei de primeira e entrei me sentindo a pessoa mais sortuda desse planeta. Vocês também acham que achar vaga boa melhora 100% o rolê?",
    "quando": "2026-10-18T18:37:09.498020-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T16:07:08.186130-04:00",
+   "viral_chk": "2026-10-19T16:37:08.056698-04:00",
    "metricas": {
     "views": 214,
     "likes": 4,
@@ -1082,7 +1082,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T16:07:08.186130-04:00"
+   "viral_chk": "2026-10-19T16:37:08.056698-04:00"
   },
   {
    "id": "18136499830744152",
@@ -1124,7 +1124,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T16:07:08.186130-04:00"
+   "viral_chk": "2026-10-19T16:37:08.056698-04:00"
   },
   {
    "id": "18101720819560610",
@@ -1142,7 +1142,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T16:07:08.186130-04:00"
+   "viral_chk": "2026-10-19T16:37:08.056698-04:00"
   },
   {
    "id": "18104599913363054",
@@ -1151,7 +1151,7 @@
    "texto": "OPINIÃO IMPOPULAR: marcar call pra falar algo que se resolve em duas linhas de mensagem é sacanagem. \n\nMetade do cansaço da semana vem de fingir que tá prestando atenção em reunião inútil.",
    "quando": "2026-10-19T08:37:08.304730-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T16:07:08.186130-04:00"
+   "viral_chk": "2026-10-19T16:37:08.056698-04:00"
   },
   {
    "id": "18119761514287385",
@@ -1160,7 +1160,12 @@
    "texto": "OPINIÃO IMPOPULAR: A pior parte de ser adulto? Não ter mais férias de julho. Isso ou aquilo: férias de julho ou maratona de séries?",
    "quando": "2026-10-19T09:07:09.584273-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-19T16:07:08.186130-04:00"
+   "viral_chk": "2026-10-19T16:37:08.056698-04:00",
+   "link_coment": "https://s.shopee.com.br/4B0qI45CVO",
+   "meme_comentado": true,
+   "meme_views": 1003,
+   "formato_link": "coment",
+   "produto": "20298142088"
   },
   {
    "id": "18037493759655949",
@@ -4224,6 +4229,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-19T15:07:08.541989-04:00"
+  },
+  "18104242349324962": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-19T16:37:08.056698-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -5152,7 +5162,8 @@
   "58255515632": "2026-10-18T20:37:06.968659-04:00",
   "25946709329": "2026-10-19T10:07:09.572610-04:00",
   "22897453366": "2026-10-19T12:37:10.969998-04:00",
-  "58251425003": "2026-10-19T15:07:08.541989-04:00"
+  "58251425003": "2026-10-19T15:07:08.541989-04:00",
+  "20298142088": "2026-10-19T16:37:08.056698-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -5162,7 +5173,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-19",
-  "qtd": 1
+  "qtd": 2
  },
  "carrosseis_usados": [
   "car-20261010-1",
