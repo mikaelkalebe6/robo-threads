@@ -43,7 +43,7 @@
    "21:40"
   ],
   "produtos_feitos": 3,
-  "respostas": 108,
+  "respostas": 109,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -60,7 +60,7 @@
    "18144021196597425": 7,
    "18067887914607934": 20,
    "18132148777761668": 1,
-   "18384730186242595": 10,
+   "18384730186242595": 11,
    "17978778833919010": 1
   }
  },
@@ -3218,7 +3218,8 @@
   "18016482266951888",
   "18126465646802294",
   "18106396700251053",
-  "18113261465135271"
+  "18113261465135271",
+  "17946504063351287"
  ],
  "hashes": [
   "bdc104390d495996f091b8c9a6bd1faa",
@@ -3738,15 +3739,11 @@
   "cb350cadb0": 1,
   "8d3cba6591": 1,
   "faf2ebc83d": 1,
-  "a967292c8e": 1
+  "a967292c8e": 1,
+  "9f675e199f": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "imersão total pra esquecer os boletos por um instante",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "escolha certa pra mergulhar de cabeça e desligar a mente",
    "p": "concorda",
@@ -3889,6 +3886,11 @@
   },
   {
    "t": "o problema é que o pacote completo assusta quem prefere o conto de fadas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "chega uma hora que a paciência acaba msm e fica quem aguenta a barra",
    "p": "concorda",
    "r": 0
   }
@@ -4898,7 +4900,8 @@
    "se for pra",
    "duro ver que",
    "pesado demais tem",
-   "o problema e"
+   "o problema e",
+   "chega uma hora"
   ],
   "17978778833919010": [
    "com certeza manobra"
