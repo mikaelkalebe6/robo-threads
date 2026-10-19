@@ -23,40 +23,19 @@
    "14:40",
    "19:44"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:10"
+  ],
   "produtos_feitos": 0,
-  "respostas": 17,
+  "respostas": 19,
   "por_post": {
    "18101720819560610": 2,
    "18384730186242595": 3,
-   "18067887914607934": 11,
+   "18067887914607934": 13,
    "18144021196597425": 1
   }
  },
  "posts": [
-  {
-   "id": "18206939197374851",
-   "insp": "1ad1290613",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: carro próprio hoje é luxo desnecessário, app resolve tudo.",
-   "quando": "2026-10-13T14:07:10.179200-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-13T15:37:07.889804-04:00",
-   "link_coment": "https://s.shopee.com.br/1VzvXoDSMR",
-   "meme_comentado": true,
-   "meme_views": 1536,
-   "formato_link": "coment",
-   "produto": "58208889792",
-   "metricas": {
-    "views": 3952,
-    "likes": 28,
-    "replies": 90,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-19"
-   }
-  },
   {
    "id": "18128172019868904",
    "insp": "fio_fio-20261010-3",
@@ -977,7 +956,7 @@
    "texto": "ME CONTA: qual professor já salvou vocês da reprovação no último minuto do segundo tempo? \n\nEu tenho uma dívida eterna com a de história que aceitou um trabalho meu feito às pressas de madrugada.",
    "quando": "2026-10-18T08:37:08.377277-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T08:07:08.614456-04:00",
+   "viral_chk": "2026-10-19T08:37:08.304730-04:00",
    "metricas": {
     "views": 199,
     "likes": 0,
@@ -1039,7 +1018,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais depois de adulto percebeu que o folclore brasileiro é basicamente um monte de lenda PCD no meio do mato?\n\nSaci com uma perna só, Curupira com os pés invertidos, Mula sem Cabeça. A inclusão florestal sempre foi forte por aqui.",
    "quando": "2026-10-18T11:07:07.488784-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T08:07:08.614456-04:00",
+   "viral_chk": "2026-10-19T08:37:08.304730-04:00",
    "metricas": {
     "views": 632,
     "likes": 9,
@@ -1057,7 +1036,7 @@
    "texto": "DÚVIDA SINCERA: quem foi mais injustiçado na história da Seleção Brasileira?\n\nAlex ou Djalminha.\n\nPara mim, um deles resolvia o nosso meio-campo hoje com folga.",
    "quando": "2026-10-18T12:07:07.541173-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T08:07:08.614456-04:00",
+   "viral_chk": "2026-10-19T08:37:08.304730-04:00",
    "metricas": {
     "views": 192,
     "likes": 0,
@@ -1121,7 +1100,7 @@
    "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
    "quando": "2026-10-18T15:07:07.813127-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T08:07:08.614456-04:00",
+   "viral_chk": "2026-10-19T08:37:08.304730-04:00",
    "metricas": {
     "views": 711,
     "likes": 5,
@@ -1174,7 +1153,7 @@
    "texto": "VAMOS CONCORDAR: homem que presta atenção nos mínimos detalhes que a gente solta por aí ganha muitos pontos.",
    "quando": "2026-10-18T17:07:07.453971-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-19T08:07:08.614456-04:00",
+   "viral_chk": "2026-10-19T08:37:08.304730-04:00",
    "metricas": {
     "views": 118,
     "likes": 0,
@@ -1215,7 +1194,7 @@
    "texto": "ME CONTA: Cheguei no restaurante ontem e abriu uma vaga perfeita bem na porta, no meio do caos. Estacionei de primeira e entrei me sentindo a pessoa mais sortuda desse planeta. Vocês também acham que achar vaga boa melhora 100% o rolê?",
    "quando": "2026-10-18T18:37:09.498020-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T08:07:08.614456-04:00",
+   "viral_chk": "2026-10-19T08:37:08.304730-04:00",
    "metricas": {
     "views": 214,
     "likes": 4,
@@ -1242,7 +1221,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T08:07:08.614456-04:00"
+   "viral_chk": "2026-10-19T08:37:08.304730-04:00"
   },
   {
    "id": "18136499830744152",
@@ -1284,7 +1263,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T08:07:08.614456-04:00"
+   "viral_chk": "2026-10-19T08:37:08.304730-04:00"
   },
   {
    "id": "18101720819560610",
@@ -1302,7 +1281,16 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T08:07:08.614456-04:00"
+   "viral_chk": "2026-10-19T08:37:08.304730-04:00"
+  },
+  {
+   "id": "18104599913363054",
+   "insp": "a998017f2f",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: marcar call pra falar algo que se resolve em duas linhas de mensagem é sacanagem. \n\nMetade do cansaço da semana vem de fingir que tá prestando atenção em reunião inútil.",
+   "quando": "2026-10-19T08:37:08.304730-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-19T08:37:08.304730-04:00"
   }
  ],
  "respondidos": [
@@ -3353,10 +3341,11 @@
   "18105549269573014",
   "18439677223183370",
   "18056641142800689",
-  "18118913812768156"
+  "18118913812768156",
+  "17873518482638906",
+  "18108880121212816"
  ],
  "hashes": [
-  "bdc104390d495996f091b8c9a6bd1faa",
   "5d5134adf4448bd5764bdf4599145927",
   "08048c685a58dd140dfb05d63b1010b6",
   "7f49e2d7c183532e4aa2003684a9d79c",
@@ -3555,7 +3544,8 @@
   "356822b744eb47391ae2c0c666ee23db",
   "4a01239961b01df8659ab700d1eb0632",
   "d29bfa669a67701432f1ea2211fa3dab",
-  "604b0ac5e3c9df7f19294fc9880345c8"
+  "604b0ac5e3c9df7f19294fc9880345c8",
+  "2169f8993f3d42c52902dd5e4c1c2c11"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3767,7 +3757,8 @@
   "63b327e43d": 1792363057.593114,
   "c77e24d709": 1792366640.4001057,
   "d7e44e025a": 1792372085.3802283,
-  "54dc948734": 1792375654.3754094
+  "54dc948734": 1792375654.3754094,
+  "a998017f2f": 1792413453.4373097
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3788,20 +3779,12 @@
   "03f7d8c525": 1,
   "9c780e2fcf": 1,
   "96f0079dc4": 1,
-  "0e157f742f": 1
+  "0e157f742f": 1,
+  "ef79d66ec2": 1,
+  "a1a5ed856c": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos aqui a gente faz barulho junto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "povo tem alergia a verdade kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "dar opções antes de lançar o veredito é pura sobrevivência social kkkk",
    "p": "concorda",
@@ -3939,6 +3922,16 @@
   },
   {
    "t": "jeito ideal de desligar a mente e curtir a história no propio ritmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "melhor jeito de zerar o cansaço do dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o saldo da conta bancaria e o humor do dia decidem tudo",
    "p": "concorda",
    "r": 0
   }
@@ -4916,8 +4909,6 @@
    "separar o que"
   ],
   "18067887914607934": [
-   "jogo de corrida",
-   "campanha solo deixa",
    "jogatina em turma",
    "jogar os classicos",
    "passar horas explorando",
@@ -4935,7 +4926,9 @@
    "com certeza bem",
    "decisao dificil demais",
    "viajar pela grecia",
-   "jeito ideal de"
+   "jeito ideal de",
+   "melhor jeito de",
+   "o saldo da"
   ],
   "18132148777761668": [
    "verdade ai o"
