@@ -1,0 +1,42 @@
+{
+ "id": "car-20261018-6",
+ "aprovado": true,
+ "criado": "2026-10-18",
+ "modelo": "foto real em split (ref. Dbn8OpJkZpB) + manchete claro/escuro (DXVUQ01jZe6)",
+ "produto": {
+  "itemId": "23592798319",
+  "nome": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-ms990bs5pmo485",
+  "offerLink": "https://s.shopee.com.br/9pey7PMeN9"
+ },
+ "slides": [
+  {
+   "layout": "split",
+   "imagem_ia": "Messy open wardrobe in a Brazilian bedroom with blankets and a thick duvet falling from the top shelf, a woman in her 30s reaching up surprised, warm soft light, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "Abri o guarda-roupa e *o edredom pulou em mim.*"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "Cobertor de inverno ocupando *o armário inteiro.*",
+   "sub": "E pegando cheiro de guardado até o próximo frio."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "visor transparente",
+   "texto": "Organizador com *visor*: você vê o que tem dentro.",
+   "sub": "Guarda edredom, cobertor e casaco, protege da poeira e empilha no alto do armário."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Armário respirando de novo. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Todo mundo tem aquela prateleira que ninguém tem coragem de abrir.",
+ "frase_link": "o organizador de cobertor que eu indico"
+}

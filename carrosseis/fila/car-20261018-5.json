@@ -1,0 +1,43 @@
+{
+ "id": "car-20261018-5",
+ "aprovado": true,
+ "criado": "2026-10-18",
+ "modelo": "vitrine na capa (layout produto, teste; ref. DYUzwlokWpa objeto com pílula vermelha) + manchete",
+ "produto": {
+  "itemId": "22094428849",
+  "nome": "Luvas Motocicleta Unissex Tamanho Unico Ciclismo Pesca Proteção Solar",
+  "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ho-mekgbsyqwtmr55",
+  "offerLink": "https://s.shopee.com.br/5LCkUTyX15"
+ },
+ "slides": [
+  {
+   "layout": "produto",
+   "rotulo": "meninos de moto",
+   "imagem": "produto",
+   "texto": "Mão de motoqueiro no verão: *torrada e suada.*"
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "o problema",
+   "texto": "Sol de meio-dia *torrando as costas da mão.*",
+   "sub": "E luva de couro no calor ninguém aguenta."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "proteção UV",
+   "texto": "Luva fina com *proteção solar.*",
+   "sub": "Tecido leve e dois dedos abertos pra mexer no celular. Serve pra moto, bike e pesca."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "texto": "Tamanho único, unissex. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Quem roda de moto no sol sabe a marca que fica na mão.",
+ "frase_link": "meninos, a luva fina com proteção solar"
+}

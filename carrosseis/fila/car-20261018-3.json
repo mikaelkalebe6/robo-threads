@@ -1,0 +1,43 @@
+{
+ "id": "car-20261018-3",
+ "aprovado": true,
+ "criado": "2026-10-18",
+ "modelo": "foto inteira com degradê (layout fundo, teste; refs. Dbn8OpJkZpB e DavW9wmkSOE rotina com foto real)",
+ "produto": {
+  "itemId": "58251425003",
+  "nome": "Suporte de peito ajustável para telefones celulares e câmeras GoPro para peito de motocicleta e bicicleta Envio rápido",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhtbser5knb685",
+  "offerLink": "https://s.shopee.com.br/AKbEiKP99n"
+ },
+ "slides": [
+  {
+   "layout": "fundo",
+   "texto_pos": "topo",
+   "imagem_ia": "Point of view shot from the chest of a man riding a trail motorcycle on a red dirt road in rural Brazil, handlebars and gloved hands visible, sunny day, wide empty blue sky at the top, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "Meninos, a melhor trilha *ninguém viu.*"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "Celular no bolso, *mão no guidão.*",
+   "sub": "O peixe grande, a trilha, o pôr do sol. Fica tudo só na memória."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "celular ou câmera",
+   "texto": "Suporte de peito: *filma do seu ponto de vista.*",
+   "sub": "Prende o celular ou a câmera no peito e deixa as duas mãos livres."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Trilha, bike, pesca e moto. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Quem anda de moto ou de bike já perdeu muito vídeo bom por não ter mão sobrando.",
+ "frase_link": "meninos, o suporte de peito pra filmar com as mãos livres"
+}

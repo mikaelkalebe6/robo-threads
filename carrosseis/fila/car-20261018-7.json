@@ -1,0 +1,44 @@
+{
+ "id": "car-20261018-7",
+ "aprovado": true,
+ "criado": "2026-10-18",
+ "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro)",
+ "produto": {
+  "itemId": "22094787163",
+  "nome": "Capa Recarregável para Telefone - À Prova D'água Bolsa Protetora Bateria Integrada Tela Sensível",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhvmuuzp23nmbd",
+  "offerLink": "https://s.shopee.com.br/4fwrxubzMU"
+ },
+ "slides": [
+  {
+   "layout": "manchete",
+   "foto_inteira": true,
+   "texto_pos": "topo",
+   "imagem_ia": "Delivery motorcycle rider in a yellow rain jacket stopped in heavy rain on a Brazilian street at dusk, looking worried at his wet smartphone, rain drops in the air, empty dark space at the top of the frame, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "Chuva forte e *o celular é seu ganha-pão.*"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "Um pingo na tela e o app *para de responder.*",
+   "sub": "Saquinho plástico protege, mas não deixa nem atender."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "tela funciona",
+   "texto": "Capa à prova d'água *com tela sensível ao toque.*",
+   "sub": "Aceita corrida, atende e usa o GPS com o celular dentro dela."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Moto, pesca, praia e chuva. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Meninos que trabalham de moto: dia de chuva não precisa ser dia de celular estragado.",
+ "frase_link": "meninos, a capa à prova d'água que deixa usar a tela"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "car-20261018-1",
+ "aprovado": true,
+ "criado": "2026-10-18",
+ "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
+ "produto": {
+  "itemId": "58267259992",
+  "nome": "Lâmpada LED Recarregável 80W para Camping e Pesca USB 3 Modos 6-8H com Gancho Portátil",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-msw6d8dl81s70b",
+  "offerLink": "https://s.shopee.com.br/8pmb3xqvBk"
+ },
+ "slides": [
+  {
+   "layout": "manchete",
+   "foto_inteira": true,
+   "texto_pos": "topo",
+   "imagem_ia": "Brazilian home kitchen at night during a power outage, a woman in her 30s lighting the stove with her phone flashlight, dark room with dramatic shadows, empty dark space at the top of the frame, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "A luz acabou *bem na hora do jantar.*"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "Lanterna do celular *na boca* pra mexer a panela.",
+   "sub": "E a bateria do celular indo embora junto com a paciência."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a virada",
+   "imagem": "produto",
+   "selo": "6 a 8 h de luz",
+   "texto": "Lâmpada LED *recarregável* com gancho.",
+   "sub": "Carrega no USB, pendura em qualquer lugar e clareia o cômodo. Tem 3 modos de luz."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Apagão, camping e pescaria. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Quem já jantou no escuro esperando a energia voltar vai entender.",
+ "frase_link": "a lâmpada recarregável que eu indico pra apagão"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "car-20261018-4",
+ "aprovado": true,
+ "criado": "2026-10-18",
+ "modelo": "meme de reação (refs. DdbtUQQoA9- e DeRyDE-IH2i) + manchete claro/escuro",
+ "produto": {
+  "itemId": "23197759025",
+  "nome": "Escova De Limpeza Ajustável Janela Banheiro e Cozinha Ferramenta 9 EM 1 Recarregável",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdnnrqywav9t35",
+  "offerLink": "https://s.shopee.com.br/6fhwLaPuF7"
+ },
+ "slides": [
+  {
+   "layout": "meme",
+   "imagem_ia": "Woman in her 30s kneeling on a bathroom floor scrubbing tile grout with an old toothbrush, tired and annoyed facial expression, bright white bathroom, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "eu às 22h esfregando rejunte com escova de dente"
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "rotulo": "o problema",
+   "texto": "Rejunte, box e canto do piso: *uma hora de joelho.*",
+   "sub": "E a lombar reclamando no dia seguinte."
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "a virada",
+   "imagem": "produto",
+   "selo": "9 em 1",
+   "texto": "Escova elétrica com *cabo extensor.*",
+   "sub": "Ela gira sozinha, tem ponta pra cada sujeira e alcança o chão sem ajoelhar."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Faxina de sábado *em pé.* Link no comentário."
+  }
+ ],
+ "texto_post": "Quem limpa rejunte de joelho sabe exatamente do que eu tô falando.",
+ "frase_link": "a escova elétrica que eu indico pra faxina"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "car-20261018-2",
+ "aprovado": true,
+ "criado": "2026-10-18",
+ "modelo": "foto real + manchete em split (refs. Dbn8OpJkZpB foto real com título; DYUzwlokWpa vitrine)",
+ "produto": {
+  "itemId": "58255515632",
+  "nome": "Banqueta Banco Retrátil Banquinho Portátil Pesca Com Alça Telescópica Camping Caminhada piquenique",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mrgdfwmb1res9e",
+  "offerLink": "https://s.shopee.com.br/9zyTfR7QXm"
+ },
+ "slides": [
+  {
+   "layout": "split",
+   "imagem_ia": "Man in his 40s fishing at a Brazilian riverbank in the late afternoon, standing with one hand on his lower back looking tired, fishing rod on a holder, warm golden light, vertical framing, photorealistic, no text, no logos, no brand names",
+   "texto": "Meninos, pescaria em pé *acaba com a lombar.*"
+  },
+  {
+   "layout": "manchete",
+   "tom": "escuro",
+   "rotulo": "o problema",
+   "texto": "Sentar no isopor, na pedra, *no chão molhado.*",
+   "sub": "E no dia seguinte a coluna cobra cada minuto."
+  },
+  {
+   "layout": "produto",
+   "rotulo": "a solução",
+   "imagem": "produto",
+   "selo": "nota 4,9",
+   "texto": "Banqueta *retrátil*: fechada fica baixinha, aberta vira banco."
+  },
+  {
+   "layout": "manchete",
+   "tom": "claro",
+   "texto": "Pesca, fila, churrasco e arquibancada. *Link no comentário.*"
+  }
+ ],
+ "texto_post": "Pescador que fica em pé o dia todo sabe o preço que a coluna cobra.",
+ "frase_link": "meninos, a banqueta retrátil pra pescaria"
+}
