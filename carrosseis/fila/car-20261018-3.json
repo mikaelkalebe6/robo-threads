@@ -14,7 +14,8 @@
    "layout": "fundo",
    "texto_pos": "topo",
    "imagem_ia": "Point of view shot from the chest of a man riding a trail motorcycle on a red dirt road in rural Brazil, handlebars and gloved hands visible, sunny day, wide empty blue sky at the top, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "Meninos, a melhor trilha *ninguém viu.*"
+   "texto": "Meninos, a melhor trilha *ninguém viu.*",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261018-3-s1-1792368181.jpg"
   },
   {
    "layout": "manchete",
@@ -39,5 +40,8 @@
   }
  ],
  "texto_post": "Quem anda de moto ou de bike já perdeu muito vídeo bom por não ter mão sobrando.",
- "frase_link": "meninos, o suporte de peito pra filmar com as mãos livres"
+ "frase_link": "meninos, o suporte de peito pra filmar com as mãos livres",
+ "ia_tentado": true,
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261018-3-c0e08381.jpg",
+ "previa_hash": "c0e08381"
 }

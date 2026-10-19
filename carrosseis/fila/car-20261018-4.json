@@ -13,7 +13,8 @@
   {
    "layout": "meme",
    "imagem_ia": "Woman in her 30s kneeling on a bathroom floor scrubbing tile grout with an old toothbrush, tired and annoyed facial expression, bright white bathroom, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "eu às 22h esfregando rejunte com escova de dente"
+   "texto": "eu às 22h esfregando rejunte com escova de dente",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261018-4-s1-1792368234.jpg"
   },
   {
    "layout": "manchete",
@@ -38,5 +39,8 @@
   }
  ],
  "texto_post": "Quem limpa rejunte de joelho sabe exatamente do que eu tô falando.",
- "frase_link": "a escova elétrica que eu indico pra faxina"
+ "frase_link": "a escova elétrica que eu indico pra faxina",
+ "ia_tentado": true,
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261018-4-bdfeb658.jpg",
+ "previa_hash": "bdfeb658"
 }

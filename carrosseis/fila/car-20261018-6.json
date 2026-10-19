@@ -13,7 +13,8 @@
   {
    "layout": "split",
    "imagem_ia": "Messy open wardrobe in a Brazilian bedroom with blankets and a thick duvet falling from the top shelf, a woman in her 30s reaching up surprised, warm soft light, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "Abri o guarda-roupa e *o edredom pulou em mim.*"
+   "texto": "Abri o guarda-roupa e *o edredom pulou em mim.*",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261018-6-s1-1792368277.jpg"
   },
   {
    "layout": "manchete",
@@ -38,5 +39,8 @@
   }
  ],
  "texto_post": "Todo mundo tem aquela prateleira que ninguém tem coragem de abrir.",
- "frase_link": "o organizador de cobertor que eu indico"
+ "frase_link": "o organizador de cobertor que eu indico",
+ "ia_tentado": true,
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261018-6-705cea8b.jpg",
+ "previa_hash": "705cea8b"
 }

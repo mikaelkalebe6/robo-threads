@@ -15,7 +15,8 @@
    "foto_inteira": true,
    "texto_pos": "topo",
    "imagem_ia": "Delivery motorcycle rider in a yellow rain jacket stopped in heavy rain on a Brazilian street at dusk, looking worried at his wet smartphone, rain drops in the air, empty dark space at the top of the frame, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "Chuva forte e *o celular é seu ganha-pão.*"
+   "texto": "Chuva forte e *o celular é seu ganha-pão.*",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261018-7-s1-1792368331.jpg"
   },
   {
    "layout": "manchete",
@@ -40,5 +41,8 @@
   }
  ],
  "texto_post": "Meninos que trabalham de moto: dia de chuva não precisa ser dia de celular estragado.",
- "frase_link": "meninos, a capa à prova d'água que deixa usar a tela"
+ "frase_link": "meninos, a capa à prova d'água que deixa usar a tela",
+ "ia_tentado": true,
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261018-7-d0cd3b4e.jpg",
+ "previa_hash": "d0cd3b4e"
 }

@@ -13,7 +13,8 @@
   {
    "layout": "split",
    "imagem_ia": "Man in his 40s fishing at a Brazilian riverbank in the late afternoon, standing with one hand on his lower back looking tired, fishing rod on a holder, warm golden light, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "Meninos, pescaria em pé *acaba com a lombar.*"
+   "texto": "Meninos, pescaria em pé *acaba com a lombar.*",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261018-2-s1-1792368127.jpg"
   },
   {
    "layout": "manchete",
@@ -36,5 +37,8 @@
   }
  ],
  "texto_post": "Pescador que fica em pé o dia todo sabe o preço que a coluna cobra.",
- "frase_link": "meninos, a banqueta retrátil pra pescaria"
+ "frase_link": "meninos, a banqueta retrátil pra pescaria",
+ "ia_tentado": true,
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261018-2-b5830bd1.jpg",
+ "previa_hash": "b5830bd1"
 }

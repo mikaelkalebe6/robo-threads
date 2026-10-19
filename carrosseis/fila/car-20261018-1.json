@@ -15,7 +15,8 @@
    "foto_inteira": true,
    "texto_pos": "topo",
    "imagem_ia": "Brazilian home kitchen at night during a power outage, a woman in her 30s lighting the stove with her phone flashlight, dark room with dramatic shadows, empty dark space at the top of the frame, vertical framing, photorealistic, no text, no logos, no brand names",
-   "texto": "A luz acabou *bem na hora do jantar.*"
+   "texto": "A luz acabou *bem na hora do jantar.*",
+   "imagem": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/ia/car-20261018-1-s1-1792368078.jpg"
   },
   {
    "layout": "manchete",
@@ -40,5 +41,8 @@
   }
  ],
  "texto_post": "Quem já jantou no escuro esperando a energia voltar vai entender.",
- "frase_link": "a lâmpada recarregável que eu indico pra apagão"
+ "frase_link": "a lâmpada recarregável que eu indico pra apagão",
+ "ia_tentado": true,
+ "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261018-1-a6f6dfa5.jpg",
+ "previa_hash": "a6f6dfa5"
 }
