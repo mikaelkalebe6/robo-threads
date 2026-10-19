@@ -1,0 +1,32 @@
+{
+ "id": "fio-20261018-1",
+ "aprovado": true,
+ "criado": "2026-10-18",
+ "partes": [
+  {
+   "texto": "Todo mundo teve um rádio de pilha em cima da geladeira tocando jogo de futebol no domingo.",
+   "midia": "nenhuma",
+   "link": false
+  },
+  {
+   "texto": "Achei um com a cara daquele, só que com bluetooth, bateria que carrega no USB e uma lanterna do lado.",
+   "midia": "produto",
+   "link": false
+  },
+  {
+   "texto": "Pega rádio FM de verdade e toca a playlist do celular. Fica lindo na bancada da cozinha ou na varanda.",
+   "midia": "nenhuma",
+   "link": true
+  },
+  {
+   "texto": "Qual era a rádio que tocava na casa de vocês?",
+   "midia": "nenhuma",
+   "link": false
+  }
+ ],
+ "produto": {
+  "itemId": "49610876725",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mogu34styw3n6e",
+  "offerLink": "https://s.shopee.com.br/Lnsnx19Ah"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "fio-20261018-3",
+ "aprovado": true,
+ "criado": "2026-10-18",
+ "partes": [
+  {
+   "texto": "Meninos, quem pesca em rio de pedra sabe: o pé escorrega bem na hora que o peixe puxa.",
+   "midia": "nenhuma",
+   "link": false
+  },
+  {
+   "texto": "De chinelo a pedra corta. De tênis vocês voltam com o pé encharcado e pesando um quilo.",
+   "midia": "nenhuma",
+   "link": false
+  },
+  {
+   "texto": "Essa sapatilha de neoprene veste igual meia e tem sola antiderrapante pra pedra molhada. Serve pra cachoeira e praia também.",
+   "midia": "produto",
+   "link": true
+  },
+  {
+   "texto": "Qual foi o maior tombo de vocês numa pedra de rio?",
+   "midia": "nenhuma",
+   "link": false
+  }
+ ],
+ "produto": {
+  "itemId": "58208944738",
+  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mtz77x28chkzfc",
+  "offerLink": "https://s.shopee.com.br/8pmeFnuVwc"
+ }
+}
