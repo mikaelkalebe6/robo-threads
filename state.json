@@ -36,7 +36,7 @@
    "16:46"
   ],
   "produtos_feitos": 2,
-  "respostas": 63,
+  "respostas": 66,
   "por_post": {
    "18101720819560610": 3,
    "18384730186242595": 8,
@@ -50,7 +50,8 @@
    "17990749128026638": 1,
    "18284931982288268": 1,
    "18026275952872648": 2,
-   "18020487191940773": 1
+   "18020487191940773": 1,
+   "18490025323129946": 3
   }
  },
  "posts": [
@@ -3325,7 +3326,10 @@
   "18083220794339308",
   "18129131557827554",
   "18121978586476797",
-  "18025924721873284"
+  "18025924721873284",
+  "17962013654999603",
+  "18046382888819737",
+  "18152623807548374"
  ],
  "hashes": [
   "dfdceb2993810498d2dd1b6130a5c281",
@@ -3813,25 +3817,13 @@
   "1d06969815": 1,
   "96071fc025": 1,
   "478f4d88dd": 1,
-  "148a4a6084": 1
+  "148a4a6084": 1,
+  "596e15dfe1": 1,
+  "5cadf19b48": 1,
+  "9ddabab379": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "já vou com a passagem de volta garantida kkkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "filtro de qualidade que poupa um tempo precioso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Poxa, dói mesmo, né? 😭",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "depende se a sua taxa de exportação for alta",
    "p": "concorda",
@@ -3964,6 +3956,21 @@
   },
   {
    "t": "melhor um ou outro de verdade do que andar pisando em ovo o tempo todo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paz de espírito pura kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "equipe do prato seguro",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "essa opção aí foge de qualquer cardápio mas é difícil recusar",
    "p": "concorda",
    "r": 0
   }
@@ -4693,28 +4700,6 @@
   }
  ],
  "aberturas_post": {
-  "18430827799148762": [
-   "classico que chega",
-   "prioridades em dia",
-   "saiu totalmente do",
-   "apelou pesado agora",
-   "defesa pesada do",
-   "justo demais aquele",
-   "esse vem sempre",
-   "dupla imbativel que",
-   "apelou forte com",
-   "inverter a ordem",
-   "excelente escolha mas",
-   "escolha certeira ainda",
-   "escolha classica que",
-   "pastel de queijo",
-   "essa rejeicao ao",
-   "torresmo joga em",
-   "polenta frita entra",
-   "nao tem concorrencia",
-   "quem resiste a",
-   "nao tem erro"
-  ],
   "18270239065307240": [
    "saudade de perder",
    "ir ate o",
@@ -4971,6 +4956,11 @@
   ],
   "18020487191940773": [
    "fantasia e a"
+  ],
+  "18490025323129946": [
+   "paz de espirito",
+   "equipe do prato",
+   "essa opcao ai"
   ]
  },
  "shopee_checada": "2026-10-19|1",
