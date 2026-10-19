@@ -43,7 +43,7 @@
    "21:40"
   ],
   "produtos_feitos": 3,
-  "respostas": 102,
+  "respostas": 107,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -51,16 +51,17 @@
    "18430827799148762": 8,
    "18440556559176732": 1,
    "18435667258196022": 5,
-   "18105080027306911": 19,
+   "18105080027306911": 20,
    "18092117084659517": 1,
    "18106390660980798": 5,
    "18633135673031281": 2,
    "17997441141012078": 12,
    "18193642693392878": 9,
-   "18144021196597425": 6,
+   "18144021196597425": 7,
    "18067887914607934": 20,
    "18132148777761668": 1,
-   "18384730186242595": 7
+   "18384730186242595": 9,
+   "17978778833919010": 1
   }
  },
  "posts": [
@@ -3211,7 +3212,12 @@
   "18110391352897777",
   "18109976411615331",
   "17909572575577809",
-  "18656136829033270"
+  "18656136829033270",
+  "18163296781493721",
+  "17963845854213574",
+  "18016482266951888",
+  "18126465646802294",
+  "18106396700251053"
  ],
  "hashes": [
   "bdc104390d495996f091b8c9a6bd1faa",
@@ -3726,35 +3732,14 @@
   "eaf7bcdfc4": 1,
   "69fc7731c6": 1,
   "a9959b0216": 1,
-  "1f1e8afefa": 1
+  "1f1e8afefa": 2,
+  "5745992601": 1,
+  "cb350cadb0": 1,
+  "8d3cba6591": 1,
+  "faf2ebc83d": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "exato, o humor do dia manda em tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nada melhor pra espairecer depois de um dia cheio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "amizade verdadeira é aquela que sobrevive à rankeada kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse mundo grande aí prende a atenção de qualquer um por horas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "limite bom para o sono continuar tranquilo",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "para uma dose rápida de adrenalina e ótimo",
    "p": "concorda",
@@ -3877,6 +3862,31 @@
   },
   {
    "t": "uns minutinhos e a memória muscular já lembra de tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "com certeza, manobra certeira muda o astral da saida inteira",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "supermercado realmente não costuma ter desconto que valha a pena no pix",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "duro ver que era só cenário montado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesado demais, tem gente que não sabe lidar com a realidade",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "quinze horas seguidas no volante pede medalha no final",
    "p": "concorda",
    "r": 0
   }
@@ -4581,9 +4591,6 @@
   }
  ],
  "aberturas_post": {
-  "18022654580930498": [
-   "sempre um milagre"
-  ],
   "17883756681652794": [
    "verdade o horario",
    "boteco bom faz"
@@ -4803,7 +4810,8 @@
    "quase quinze horas",
    "parada estrategica assim",
    "van so se",
-   "banco ruim consegue"
+   "banco ruim consegue",
+   "quinze horas seguidas"
   ],
   "18092117084659517": [
    "caderno caprichado e"
@@ -4850,7 +4858,8 @@
    "antecipar tira um",
    "organizacao no whatsapp",
    "limite bom para",
-   "estrategia de quem"
+   "estrategia de quem",
+   "supermercado realmente nao"
   ],
   "18067887914607934": [
    "tem que ter",
@@ -4884,7 +4893,12 @@
    "povo tem alergia",
    "dar opcoes antes",
    "pois e no",
-   "se for pra"
+   "se for pra",
+   "duro ver que",
+   "pesado demais tem"
+  ],
+  "17978778833919010": [
+   "com certeza manobra"
   ]
  },
  "shopee_checada": "2026-10-18|1",
