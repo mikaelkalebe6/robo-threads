@@ -25,11 +25,12 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 12,
   "por_post": {
    "18101720819560610": 2,
    "18384730186242595": 1,
-   "18067887914607934": 3
+   "18067887914607934": 8,
+   "18144021196597425": 1
   }
  },
  "posts": [
@@ -976,7 +977,7 @@
    "texto": "ME CONTA: qual professor já salvou vocês da reprovação no último minuto do segundo tempo? \n\nEu tenho uma dívida eterna com a de história que aceitou um trabalho meu feito às pressas de madrugada.",
    "quando": "2026-10-18T08:37:08.377277-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T07:07:09.628029-04:00",
+   "viral_chk": "2026-10-19T07:37:08.701182-04:00",
    "metricas": {
     "views": 199,
     "likes": 0,
@@ -1038,7 +1039,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais depois de adulto percebeu que o folclore brasileiro é basicamente um monte de lenda PCD no meio do mato?\n\nSaci com uma perna só, Curupira com os pés invertidos, Mula sem Cabeça. A inclusão florestal sempre foi forte por aqui.",
    "quando": "2026-10-18T11:07:07.488784-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T07:07:09.628029-04:00",
+   "viral_chk": "2026-10-19T07:37:08.701182-04:00",
    "metricas": {
     "views": 632,
     "likes": 9,
@@ -1056,7 +1057,7 @@
    "texto": "DÚVIDA SINCERA: quem foi mais injustiçado na história da Seleção Brasileira?\n\nAlex ou Djalminha.\n\nPara mim, um deles resolvia o nosso meio-campo hoje com folga.",
    "quando": "2026-10-18T12:07:07.541173-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T07:07:09.628029-04:00",
+   "viral_chk": "2026-10-19T07:37:08.701182-04:00",
    "metricas": {
     "views": 192,
     "likes": 0,
@@ -1120,7 +1121,7 @@
    "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
    "quando": "2026-10-18T15:07:07.813127-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T07:07:09.628029-04:00",
+   "viral_chk": "2026-10-19T07:37:08.701182-04:00",
    "metricas": {
     "views": 711,
     "likes": 5,
@@ -1173,7 +1174,7 @@
    "texto": "VAMOS CONCORDAR: homem que presta atenção nos mínimos detalhes que a gente solta por aí ganha muitos pontos.",
    "quando": "2026-10-18T17:07:07.453971-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-19T07:07:09.628029-04:00",
+   "viral_chk": "2026-10-19T07:37:08.701182-04:00",
    "metricas": {
     "views": 118,
     "likes": 0,
@@ -1214,7 +1215,7 @@
    "texto": "ME CONTA: Cheguei no restaurante ontem e abriu uma vaga perfeita bem na porta, no meio do caos. Estacionei de primeira e entrei me sentindo a pessoa mais sortuda desse planeta. Vocês também acham que achar vaga boa melhora 100% o rolê?",
    "quando": "2026-10-18T18:37:09.498020-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T07:07:09.628029-04:00",
+   "viral_chk": "2026-10-19T07:37:08.701182-04:00",
    "metricas": {
     "views": 214,
     "likes": 4,
@@ -1241,7 +1242,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T07:07:09.628029-04:00"
+   "viral_chk": "2026-10-19T07:37:08.701182-04:00"
   },
   {
    "id": "18136499830744152",
@@ -1283,7 +1284,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T07:07:09.628029-04:00"
+   "viral_chk": "2026-10-19T07:37:08.701182-04:00"
   },
   {
    "id": "18101720819560610",
@@ -1301,7 +1302,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T07:07:09.628029-04:00"
+   "viral_chk": "2026-10-19T07:37:08.701182-04:00"
   }
  ],
  "respondidos": [
@@ -3340,7 +3341,13 @@
   "18124863097692458",
   "17906825334665019",
   "18059826878554998",
-  "17907788487561524"
+  "17907788487561524",
+  "18343798342287752",
+  "17885000478512334",
+  "18088966631274105",
+  "18132010085504319",
+  "18050654141817173",
+  "18035421821667504"
  ],
  "hashes": [
   "bdc104390d495996f091b8c9a6bd1faa",
@@ -3764,40 +3771,16 @@
   "b9899e9b3e": 1,
   "4cabfd5df2": 1,
   "bac125aa36": 1,
-  "6026a28687": 1
+  "6026a28687": 1,
+  "283fa7e75e": 1,
+  "607fdfc034": 1,
+  "385afd1a7c": 1,
+  "c7ffff03ee": 1,
+  "4f06c590ec": 1,
+  "3f344cb1e7": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "jogatina em turma sempre rende boas risadas e caos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "jogar os clássicos de antigamente traz uma nostalgia boa demais que recarrega a energia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "passar horas explorando o mapa sem hora para voltar é bom demais kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "cada um no seu ritmo absorvendo cada detalhe da história",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "boa escolha para desligar a cabeça depois de um dia longo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "placar de respeito para fechar a história com calma",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse mundo aí é um caminho sem volta de tão bom",
    "p": "concorda",
@@ -3915,6 +3898,36 @@
   },
   {
    "t": "investimento alto que rende boas horas de paz compensa demais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "separar o que e essencial do que da pra diluir no cartao faz todo sentido",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "imersao total sem pressa para avancar na história",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "combinação perfeita para não enjoar nunca de jogar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse clássico consome todas as horas livres que a gente tem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "propaganda invasiva estraga qualquer diversão no celular",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "com certeza, bem melhor ocupar a cabeça com uma boa história",
    "p": "concorda",
    "r": 0
   }
@@ -4888,14 +4901,10 @@
    "organizacao no whatsapp",
    "limite bom para",
    "estrategia de quem",
-   "supermercado realmente nao"
+   "supermercado realmente nao",
+   "separar o que"
   ],
   "18067887914607934": [
-   "amizade verdadeira e",
-   "esse mundo grande",
-   "para uma dose",
-   "imersao total pra",
-   "escolha certa pra",
    "resident evil e",
    "tiroteio em grupo",
    "melhor jeito de",
@@ -4910,7 +4919,12 @@
    "esse mundo ai",
    "flexibilidade e tudo",
    "coordenar a agenda",
-   "investimento alto que"
+   "investimento alto que",
+   "imersao total sem",
+   "combinacao perfeita para",
+   "esse classico consome",
+   "propaganda invasiva estraga",
+   "com certeza bem"
   ],
   "18132148777761668": [
    "verdade ai o"
