@@ -33,7 +33,8 @@
    "13:45",
    "14:40",
    "15:21",
-   "16:46"
+   "16:46",
+   "17:39"
   ],
   "produtos_feitos": 2,
   "respostas": 66,
@@ -55,24 +56,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18152780005552278",
-   "insp": "53abd8941d",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: inventar dor de barriga no meio do expediente é a única legítima defesa que o trabalhador brasileiro tem contra reunião inútil.",
-   "quando": "2026-10-14T15:07:08.306960-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T14:37:08.682308-04:00",
-   "metricas": {
-    "views": 574,
-    "likes": 6,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-19"
-   }
-  },
   {
    "id": "18103586714009979",
    "insp": "89cdd01f02",
@@ -1229,6 +1212,14 @@
    "texto": "OPINIÃO IMPOPULAR: Pedir sempre o mesmo prato demonstra falta de coragem gastronômica. Você é: 1️⃣ Sempre o mesmo 2️⃣ Sempre arrisca algo novo?",
    "quando": "2026-10-19T17:07:09.871507-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "17961312879212472",
+   "insp": "2f5da7a997",
+   "link": "",
+   "texto": "SEJAM SINCEROS: com quantos anos uma criança deveria ganhar o primeiro celular?\n\nPra mim, qualquer idade antes dos 12 anos é loucura dos pais.",
+   "quando": "2026-10-19T18:07:07.632170-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -3332,7 +3323,6 @@
   "18152623807548374"
  ],
  "hashes": [
-  "dfdceb2993810498d2dd1b6130a5c281",
   "c2c94c00d996d30f29aa7b62e8d8dfae",
   "e92a4c585e2ef4db6a0a4447a4df25ab",
   "68175986c1a1dd5a8c8da5431230c148",
@@ -3531,7 +3521,8 @@
   "e653fb3d3a6e1c4381d9941e65c22b73",
   "d7375e12b9e3607584ff0e192408ea89",
   "11c03054aa5a4cd727228b69ec57f7fe",
-  "f07df4e685431be9f4b7bd1cd35891a7"
+  "f07df4e685431be9f4b7bd1cd35891a7",
+  "ea0e2ac32c31c7a29f490f48d3a1ce58"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3751,7 +3742,8 @@
   "112111ad3e": 1792429639.2747066,
   "d4f6b1be43": 1792433248.0910127,
   "5a11d3ea8d": 1792438695.5831506,
-  "7d5fd436ee": 1792444041.6296065
+  "7d5fd436ee": 1792444041.6296065,
+  "2f5da7a997": 1792447659.8616993
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
