@@ -28,42 +28,25 @@
    "08:54",
    "09:36",
    "10:24",
-   "11:42"
+   "11:42",
+   "12:40"
   ],
   "produtos_feitos": 1,
-  "respostas": 51,
+  "respostas": 53,
   "por_post": {
    "18101720819560610": 3,
-   "18384730186242595": 4,
+   "18384730186242595": 5,
    "18067887914607934": 20,
    "18144021196597425": 2,
    "18119761514287385": 1,
    "18104599913363054": 1,
    "18132148777761668": 2,
-   "18050933324606981": 16,
+   "18050933324606981": 17,
    "17997441141012078": 1,
    "17990749128026638": 1
   }
  },
  "posts": [
-  {
-   "id": "18120563288286597",
-   "insp": "fb3aa2715c",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: o verdadeiro objetivo de ir a casamento é ver se a mesa de frios tem aquela coxinha que só aparece em festa.",
-   "quando": "2026-10-14T08:07:07.703510-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T07:37:08.916756-04:00",
-   "metricas": {
-    "views": 351,
-    "likes": 2,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-19"
-   }
-  },
   {
    "id": "17991066036027775",
    "insp": "car_car-20261011-10",
@@ -1029,7 +1012,7 @@
    "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
    "quando": "2026-10-18T15:07:07.813127-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T12:37:10.969998-04:00",
+   "viral_chk": "2026-10-19T13:07:08.272228-04:00",
    "metricas": {
     "views": 711,
     "likes": 5,
@@ -1085,7 +1068,7 @@
    "texto": "VAMOS CONCORDAR: homem que presta atenção nos mínimos detalhes que a gente solta por aí ganha muitos pontos.",
    "quando": "2026-10-18T17:07:07.453971-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-19T12:37:10.969998-04:00",
+   "viral_chk": "2026-10-19T13:07:08.272228-04:00",
    "metricas": {
     "views": 118,
     "likes": 0,
@@ -1126,7 +1109,7 @@
    "texto": "ME CONTA: Cheguei no restaurante ontem e abriu uma vaga perfeita bem na porta, no meio do caos. Estacionei de primeira e entrei me sentindo a pessoa mais sortuda desse planeta. Vocês também acham que achar vaga boa melhora 100% o rolê?",
    "quando": "2026-10-18T18:37:09.498020-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T12:37:10.969998-04:00",
+   "viral_chk": "2026-10-19T13:07:08.272228-04:00",
    "metricas": {
     "views": 214,
     "likes": 4,
@@ -1153,7 +1136,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T12:37:10.969998-04:00"
+   "viral_chk": "2026-10-19T13:07:08.272228-04:00"
   },
   {
    "id": "18136499830744152",
@@ -1195,7 +1178,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T12:37:10.969998-04:00"
+   "viral_chk": "2026-10-19T13:07:08.272228-04:00"
   },
   {
    "id": "18101720819560610",
@@ -1213,7 +1196,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T12:37:10.969998-04:00"
+   "viral_chk": "2026-10-19T13:07:08.272228-04:00"
   },
   {
    "id": "18104599913363054",
@@ -1222,7 +1205,7 @@
    "texto": "OPINIÃO IMPOPULAR: marcar call pra falar algo que se resolve em duas linhas de mensagem é sacanagem. \n\nMetade do cansaço da semana vem de fingir que tá prestando atenção em reunião inútil.",
    "quando": "2026-10-19T08:37:08.304730-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T12:37:10.969998-04:00"
+   "viral_chk": "2026-10-19T13:07:08.272228-04:00"
   },
   {
    "id": "18119761514287385",
@@ -1231,7 +1214,7 @@
    "texto": "OPINIÃO IMPOPULAR: A pior parte de ser adulto? Não ter mais férias de julho. Isso ou aquilo: férias de julho ou maratona de séries?",
    "quando": "2026-10-19T09:07:09.584273-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-19T12:37:10.969998-04:00"
+   "viral_chk": "2026-10-19T13:07:08.272228-04:00"
   },
   {
    "id": "18037493759655949",
@@ -1280,7 +1263,16 @@
    "texto": "DÚVIDA SINCERA: No Nordeste feriado sem forró não conta. E aí, qual é o programa obrigatório de feriado na sua cidade? 🎉",
    "quando": "2026-10-19T12:07:08.444592-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-19T12:37:10.969998-04:00"
+   "viral_chk": "2026-10-19T13:07:08.272228-04:00"
+  },
+  {
+   "id": "18044381618821643",
+   "insp": "112111ad3e",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: a gente tem frescura demais com bicho em casa. Tem um bicho morando na minha cozinha há semanas e agora virou questão de orgulho ver quem aguenta mais.",
+   "quando": "2026-10-19T13:07:08.272228-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-19T13:07:08.272228-04:00"
   }
  ],
  "respondidos": [
@@ -3365,10 +3357,11 @@
   "18141370483716093",
   "17970738423191052",
   "18092239805201752",
-  "17897825490672633"
+  "17897825490672633",
+  "18431537293146119",
+  "18092228774207192"
  ],
  "hashes": [
-  "43d2c7cc6673bea2161ea5c88644755a",
   "d242b3e3272b12d70ace5da3dc0f2e68",
   "869ad1dcefe45943f3e9ef7459637dae",
   "cb12a61f62ce5ead4676cd9ef003a67a",
@@ -3567,7 +3560,8 @@
   "2169f8993f3d42c52902dd5e4c1c2c11",
   "d3f88777b56fc8f1281304d7b45e4928",
   "5610841c3783dc62dfe9fa683279d000",
-  "a84887f2951cfea875d7a94b776510d5"
+  "a84887f2951cfea875d7a94b776510d5",
+  "e653fb3d3a6e1c4381d9941e65c22b73"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3783,7 +3777,8 @@
   "a998017f2f": 1792413453.4373097,
   "3d5b6c562f": 1792415245.5738044,
   "1918758b46": 1792420653.077342,
-  "5d187cad11": 1792426040.4519188
+  "5d187cad11": 1792426040.4519188,
+  "112111ad3e": 1792429639.2747066
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3837,20 +3832,12 @@
   "171de528bc": 1,
   "a08ec57e87": 1,
   "e1a8f9b18d": 1,
-  "930f9f2322": 1
+  "930f9f2322": 1,
+  "e0839b8419": 1,
+  "36e55870ba": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "pior que a reuniao só o e-mail depois resumindo o que dava para ter evitado",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "até a cor do esmalte entra na lista de pontos",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "garantir o desconto no pix faz valer a pena",
    "p": "concorda",
@@ -3988,6 +3975,16 @@
   },
   {
    "t": "parece que não mas tem gente que acha perda de tempo kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "verdade, o tom muda tudo para não virar só grosseria disfarçada de sinceridade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem procura acha, só falta saber onde vc tá escondido kkk",
    "p": "ressalva",
    "r": 1
   }
@@ -4977,7 +4974,8 @@
    "justo na ferida",
    "economia de energia",
    "filtra naturalmente quem",
-   "poxa doi mesmo"
+   "poxa doi mesmo",
+   "verdade o tom"
   ],
   "17978778833919010": [
    "com certeza manobra"
@@ -5009,7 +5007,8 @@
    "entendo a procura",
    "distancia e so",
    "chegou entregando curriculo",
-   "com um bom"
+   "com um bom",
+   "quem procura acha"
   ],
   "17990749128026638": [
    "filtro de qualidade"
