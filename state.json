@@ -30,7 +30,7 @@
    "10:24"
   ],
   "produtos_feitos": 1,
-  "respostas": 28,
+  "respostas": 34,
   "por_post": {
    "18101720819560610": 3,
    "18384730186242595": 3,
@@ -38,7 +38,9 @@
    "18144021196597425": 2,
    "18119761514287385": 1,
    "18104599913363054": 1,
-   "18132148777761668": 1
+   "18132148777761668": 1,
+   "18050933324606981": 5,
+   "17997441141012078": 1
   }
  },
  "posts": [
@@ -979,7 +981,7 @@
    "texto": "DÚVIDA SINCERA: quem foi mais injustiçado na história da Seleção Brasileira?\n\nAlex ou Djalminha.\n\nPara mim, um deles resolvia o nosso meio-campo hoje com folga.",
    "quando": "2026-10-18T12:07:07.541173-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T10:37:09.695553-04:00",
+   "viral_chk": "2026-10-19T11:07:08.045225-04:00",
    "metricas": {
     "views": 192,
     "likes": 0,
@@ -1043,7 +1045,7 @@
    "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
    "quando": "2026-10-18T15:07:07.813127-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T10:37:09.695553-04:00",
+   "viral_chk": "2026-10-19T11:07:08.045225-04:00",
    "metricas": {
     "views": 711,
     "likes": 5,
@@ -1099,7 +1101,7 @@
    "texto": "VAMOS CONCORDAR: homem que presta atenção nos mínimos detalhes que a gente solta por aí ganha muitos pontos.",
    "quando": "2026-10-18T17:07:07.453971-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-19T10:37:09.695553-04:00",
+   "viral_chk": "2026-10-19T11:07:08.045225-04:00",
    "metricas": {
     "views": 118,
     "likes": 0,
@@ -1140,7 +1142,7 @@
    "texto": "ME CONTA: Cheguei no restaurante ontem e abriu uma vaga perfeita bem na porta, no meio do caos. Estacionei de primeira e entrei me sentindo a pessoa mais sortuda desse planeta. Vocês também acham que achar vaga boa melhora 100% o rolê?",
    "quando": "2026-10-18T18:37:09.498020-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T10:37:09.695553-04:00",
+   "viral_chk": "2026-10-19T11:07:08.045225-04:00",
    "metricas": {
     "views": 214,
     "likes": 4,
@@ -1167,7 +1169,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T10:37:09.695553-04:00"
+   "viral_chk": "2026-10-19T11:07:08.045225-04:00"
   },
   {
    "id": "18136499830744152",
@@ -1209,7 +1211,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T10:37:09.695553-04:00"
+   "viral_chk": "2026-10-19T11:07:08.045225-04:00"
   },
   {
    "id": "18101720819560610",
@@ -1227,7 +1229,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T10:37:09.695553-04:00"
+   "viral_chk": "2026-10-19T11:07:08.045225-04:00"
   },
   {
    "id": "18104599913363054",
@@ -1236,7 +1238,7 @@
    "texto": "OPINIÃO IMPOPULAR: marcar call pra falar algo que se resolve em duas linhas de mensagem é sacanagem. \n\nMetade do cansaço da semana vem de fingir que tá prestando atenção em reunião inútil.",
    "quando": "2026-10-19T08:37:08.304730-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T10:37:09.695553-04:00"
+   "viral_chk": "2026-10-19T11:07:08.045225-04:00"
   },
   {
    "id": "18119761514287385",
@@ -1245,7 +1247,7 @@
    "texto": "OPINIÃO IMPOPULAR: A pior parte de ser adulto? Não ter mais férias de julho. Isso ou aquilo: férias de julho ou maratona de séries?",
    "quando": "2026-10-19T09:07:09.584273-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-19T10:37:09.695553-04:00"
+   "viral_chk": "2026-10-19T11:07:08.045225-04:00"
   },
   {
    "id": "18037493759655949",
@@ -1280,7 +1282,7 @@
    "texto": "Quero um namorado asiático, mas será que tô pedindo demais? 🤔  \nJá decidi, vou procurar.",
    "quando": "2026-10-19T10:37:09.695553-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-19T10:37:09.695553-04:00"
+   "viral_chk": "2026-10-19T11:07:08.045225-04:00"
   }
  ],
  "respondidos": [
@@ -3342,7 +3344,13 @@
   "18640285891063130",
   "18160355686507495",
   "17959555653252031",
-  "18155791372521321"
+  "18155791372521321",
+  "17889678576468853",
+  "18111222956178897",
+  "18337939042277848",
+  "18640670668050000",
+  "18126448951879660",
+  "18074281475596883"
  ],
  "hashes": [
   "7f49e2d7c183532e4aa2003684a9d79c",
@@ -3791,40 +3799,16 @@
   "22df4700ab": 1,
   "e9d397352e": 1,
   "44fd45a5ca": 1,
-  "5d88a9b09f": 1
+  "5d88a9b09f": 1,
+  "d0f32041e5": 1,
+  "1bae78eccb": 1,
+  "87cef46d4b": 1,
+  "09d8c9812f": 1,
+  "366fd5e9e4": 1,
+  "1d279a45ef": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "o problema é que o pacote completo assusta quem prefere o conto de fadas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "chega uma hora que a paciência acaba msm e fica quem aguenta a barra",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "três dias é exatamente o prazo de validade da saudade kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justo na ferida, geralmente quem avisa que vai falar na verdade espera que os outros tenham filtro",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "flexibilidade é tudo para garantir a jogatina sem estresse",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parece que a gente sente falta é de quem a gente era naquela época",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "coordenar a agenda de todo mundo virou missão quase impossível depois dessa idade",
    "p": "concorda",
@@ -3944,6 +3928,36 @@
    "t": "companhia boa na jogatina muda tudo no final do dia",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "indo direto ao ponto sem perder tempo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "horário estratégico para treinar em paz kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "cruzes, então o desafio vai ser achar um que goste de abraço",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "tecnicamente verdade mas não era bem esse lado do mapa que eu tava pensando",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "ainda bem que tamanho não é documento kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "já vou com a passagem de volta garantida kkkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4656,20 +4670,6 @@
   }
  ],
  "aberturas_post": {
-  "18075158522467482": [
-   "precisa de uma",
-   "cafe com leite",
-   "to aqui pra",
-   "ja sinto o",
-   "uau se vc",
-   "fica a vontade",
-   "amargo do jeito",
-   "prepara a garrafa",
-   "passa aqui que",
-   "daqui a pouco",
-   "entendo as vezes",
-   "silencio estrategico e"
-  ],
   "18114403013039784": [
    "essa foi de",
    "concordo total a",
@@ -4886,7 +4886,8 @@
    "exato o unico",
    "sabedoria pura em",
    "economia de energia",
-   "alguem lucido nesse"
+   "alguem lucido nesse",
+   "horario estrategico para"
   ],
   "18193642693392878": [
    "quem acostuma com",
@@ -4965,6 +4966,13 @@
   ],
   "18104599913363054": [
    "pior que a"
+  ],
+  "18050933324606981": [
+   "indo direto ao",
+   "cruzes entao o",
+   "tecnicamente verdade mas",
+   "ainda bem que",
+   "ja vou com"
   ]
  },
  "shopee_checada": "2026-10-19|1",
