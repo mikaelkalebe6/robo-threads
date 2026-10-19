@@ -34,10 +34,11 @@
    "14:40",
    "15:21",
    "16:46",
-   "17:39"
+   "17:39",
+   "18:30"
   ],
   "produtos_feitos": 2,
-  "respostas": 66,
+  "respostas": 71,
   "por_post": {
    "18101720819560610": 3,
    "18384730186242595": 8,
@@ -52,28 +53,11 @@
    "18284931982288268": 1,
    "18026275952872648": 2,
    "18020487191940773": 1,
-   "18490025323129946": 3
+   "18490025323129946": 3,
+   "17961312879212472": 5
   }
  },
  "posts": [
-  {
-   "id": "18103586714009979",
-   "insp": "89cdd01f02",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: vizinho que inventa de furar parede domingo às 8 da manhã merece ser obrigado a ouvir sertanejo sofrência no talo o resto da semana inteira ou tem castigo pior? 🔊",
-   "quando": "2026-10-14T15:37:07.902975-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-15T15:07:09.556802-04:00",
-   "metricas": {
-    "views": 215,
-    "likes": 0,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-19"
-   }
-  },
   {
    "id": "18022654580930498",
    "insp": "car_car-20261011-2",
@@ -1220,6 +1204,14 @@
    "texto": "SEJAM SINCEROS: com quantos anos uma criança deveria ganhar o primeiro celular?\n\nPra mim, qualquer idade antes dos 12 anos é loucura dos pais.",
    "quando": "2026-10-19T18:07:07.632170-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18002807181007550",
+   "insp": "17f68f2d68",
+   "link": "",
+   "texto": "ME CONTA: qual é aquela comida típica da sua terra que o resto do país simplesmente ignora mas merecia o mundo?",
+   "quando": "2026-10-19T18:37:09.044235-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3320,10 +3312,14 @@
   "18025924721873284",
   "17962013654999603",
   "18046382888819737",
-  "18152623807548374"
+  "18152623807548374",
+  "17991574701063928",
+  "18006410762791067",
+  "17951282073325308",
+  "18478591666118301",
+  "18179031355448329"
  ],
  "hashes": [
-  "c2c94c00d996d30f29aa7b62e8d8dfae",
   "e92a4c585e2ef4db6a0a4447a4df25ab",
   "68175986c1a1dd5a8c8da5431230c148",
   "fdae5502c42707848860950824762a62",
@@ -3522,7 +3518,8 @@
   "d7375e12b9e3607584ff0e192408ea89",
   "11c03054aa5a4cd727228b69ec57f7fe",
   "f07df4e685431be9f4b7bd1cd35891a7",
-  "ea0e2ac32c31c7a29f490f48d3a1ce58"
+  "ea0e2ac32c31c7a29f490f48d3a1ce58",
+  "d0cb3e22819e3d0b2553b698de256b87"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3743,7 +3740,8 @@
   "d4f6b1be43": 1792433248.0910127,
   "5a11d3ea8d": 1792438695.5831506,
   "7d5fd436ee": 1792444041.6296065,
-  "2f5da7a997": 1792447659.8616993
+  "2f5da7a997": 1792447659.8616993,
+  "17f68f2d68": 1792449450.006739
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3791,7 +3789,7 @@
   "d09c26e6b2": 1,
   "445273f7b6": 1,
   "3bef30429c": 1,
-  "1f1e8afefa": 1,
+  "1f1e8afefa": 2,
   "cfa8629700": 1,
   "4ec3db4c94": 1,
   "171de528bc": 1,
@@ -3812,35 +3810,14 @@
   "148a4a6084": 1,
   "596e15dfe1": 1,
   "5cadf19b48": 1,
-  "9ddabab379": 1
+  "9ddabab379": 1,
+  "26c557fabd": 1,
+  "3003b8e107": 1,
+  "cdb8f4e3f0": 1,
+  "3bb2c07a33": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "depende se a sua taxa de exportação for alta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "já tá valendo a pena cruzar o estado pra conferir isso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem me dera se a vida real fosse um dorama de doze episódios",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "chamado dado com sucesso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "mercado aquecido e com alta procura kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "existem aos montes mas o difícil é o filtro passar alguém inteiro",
    "p": "ressalva",
@@ -3963,6 +3940,31 @@
   },
   {
    "t": "essa opção aí foge de qualquer cardápio mas é difícil recusar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "herdar o celular da mãe era o rito de passagem oficial",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, a rotina de hoje em dia complica bastante essa escolha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "caramba, adolescente já formado praticamente, os pais tiveram paz por muito tempo kkk",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "daqui a pouco vão pedir comprovante de residência e carteira de trabalho kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pelo menos nessa faixa a cabeça já funciona um pouco melhor pra lidar com a internet",
    "p": "concorda",
    "r": 0
   }
@@ -4692,17 +4694,6 @@
   }
  ],
  "aberturas_post": {
-  "18270239065307240": [
-   "saudade de perder",
-   "ir ate o",
-   "esse jogo ai",
-   "milagre tecnologico porque",
-   "pelo menos o",
-   "esse cafe da",
-   "perdeu a hora",
-   "essa epoca era",
-   "dois dias direto"
-  ],
   "18435667258196022": [
    "sabe aquela conta",
    "silencio na hora",
@@ -4953,6 +4944,13 @@
    "paz de espirito",
    "equipe do prato",
    "essa opcao ai"
+  ],
+  "17961312879212472": [
+   "herdar o celular",
+   "verdade a rotina",
+   "caramba adolescente ja",
+   "daqui a pouco",
+   "pelo menos nessa"
   ]
  },
  "shopee_checada": "2026-10-19|1",
