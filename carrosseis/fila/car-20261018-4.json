@@ -1,6 +1,6 @@
 {
  "id": "car-20261018-4",
- "aprovado": true,
+ "aprovado": false,
  "criado": "2026-10-18",
  "modelo": "meme de reação (refs. DdbtUQQoA9- e DeRyDE-IH2i) + manchete claro/escuro",
  "produto": {
@@ -42,5 +42,6 @@
  "frase_link": "a escova elétrica que eu indico pra faxina",
  "ia_tentado": true,
  "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261018-4-bdfeb658.jpg",
- "previa_hash": "bdfeb658"
+ "previa_hash": "bdfeb658",
+ "segurado": "decisao do Kalebe 18/10: segurado ate a reuniao; na semana de 19 a 25/10 so sai 1 carrossel de cada layout novo"
 }

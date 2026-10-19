@@ -1,6 +1,6 @@
 {
  "id": "car-20261018-6",
- "aprovado": true,
+ "aprovado": false,
  "criado": "2026-10-18",
  "modelo": "foto real em split (ref. Dbn8OpJkZpB) + manchete claro/escuro (DXVUQ01jZe6)",
  "produto": {
@@ -42,5 +42,6 @@
  "frase_link": "o organizador de cobertor que eu indico",
  "ia_tentado": true,
  "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261018-6-705cea8b.jpg",
- "previa_hash": "705cea8b"
+ "previa_hash": "705cea8b",
+ "segurado": "decisao do Kalebe 18/10: segurado ate a reuniao; na semana de 19 a 25/10 so sai 1 carrossel de cada layout novo"
 }

@@ -1,6 +1,6 @@
 {
  "id": "car-20261011-9",
- "aprovado": true,
+ "aprovado": false,
  "revisao": "aprovado 11/10 (previa real revisada pelo Claude)",
  "criado": "2026-10-11",
  "modelo": "meme de reacao com foto real do produto (refs. DdbtUQQoA9-) + manchete (DXVUQ01jZe6)",
@@ -41,5 +41,6 @@
  "texto_post": "Tem tênis que vai em tudo. Esse é um.",
  "frase_link": "o tênis branco daqui",
  "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261011-9-27833e5a.jpg",
- "previa_hash": "27833e5a"
+ "previa_hash": "27833e5a",
+ "segurado": "decisao do Kalebe 18/10: segurado ate a reuniao; na semana de 19 a 25/10 so sai 1 carrossel de cada layout novo"
 }

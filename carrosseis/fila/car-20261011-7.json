@@ -1,6 +1,6 @@
 {
  "id": "car-20261011-7",
- "aprovado": true,
+ "aprovado": false,
  "revisao": "aprovado 11/10 (previa real revisada pelo Claude)",
  "criado": "2026-10-11",
  "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
@@ -45,5 +45,6 @@
  "frase_link": "a balaclava que eu indico",
  "ia_tentado": true,
  "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261011-7-67d04e49.jpg",
- "previa_hash": "67d04e49"
+ "previa_hash": "67d04e49",
+ "segurado": "decisao do Kalebe 18/10: segurado ate a reuniao; na semana de 19 a 25/10 so sai 1 carrossel de cada layout novo"
 }

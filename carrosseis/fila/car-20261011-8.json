@@ -1,6 +1,6 @@
 {
  "id": "car-20261011-8",
- "aprovado": true,
+ "aprovado": false,
  "revisao": "aprovado 11/10 (previa real revisada pelo Claude)",
  "criado": "2026-10-11",
  "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
@@ -45,5 +45,6 @@
  "frase_link": "a lanterna que mostra o escorpião",
  "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261011-8-8ed1dca9.jpg",
  "previa_hash": "8ed1dca9",
- "ia_tentado": true
+ "ia_tentado": true,
+ "segurado": "decisao do Kalebe 18/10: segurado ate a reuniao; na semana de 19 a 25/10 so sai 1 carrossel de cada layout novo"
 }

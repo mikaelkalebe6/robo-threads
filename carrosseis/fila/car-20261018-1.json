@@ -1,6 +1,6 @@
 {
  "id": "car-20261018-1",
- "aprovado": true,
+ "aprovado": false,
  "criado": "2026-10-18",
  "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
  "produto": {
@@ -44,5 +44,6 @@
  "frase_link": "a lâmpada recarregável que eu indico pra apagão",
  "ia_tentado": true,
  "previa": "https://raw.githubusercontent.com/mikaelkalebe6/robo-midia/main/previa/car-20261018-1-a6f6dfa5.jpg",
- "previa_hash": "a6f6dfa5"
+ "previa_hash": "a6f6dfa5",
+ "segurado": "decisao do Kalebe 18/10: segurado ate a reuniao; na semana de 19 a 25/10 so sai 1 carrossel de cada layout novo"
 }
