@@ -43,7 +43,7 @@
    "21:40"
   ],
   "produtos_feitos": 3,
-  "respostas": 107,
+  "respostas": 108,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -60,7 +60,7 @@
    "18144021196597425": 7,
    "18067887914607934": 20,
    "18132148777761668": 1,
-   "18384730186242595": 9,
+   "18384730186242595": 10,
    "17978778833919010": 1
   }
  },
@@ -3217,7 +3217,8 @@
   "17963845854213574",
   "18016482266951888",
   "18126465646802294",
-  "18106396700251053"
+  "18106396700251053",
+  "18113261465135271"
  ],
  "hashes": [
   "bdc104390d495996f091b8c9a6bd1faa",
@@ -3736,15 +3737,11 @@
   "5745992601": 1,
   "cb350cadb0": 1,
   "8d3cba6591": 1,
-  "faf2ebc83d": 1
+  "faf2ebc83d": 1,
+  "a967292c8e": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "para uma dose rápida de adrenalina e ótimo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "imersão total pra esquecer os boletos por um instante",
    "p": "concorda",
@@ -3887,6 +3884,11 @@
   },
   {
    "t": "quinze horas seguidas no volante pede medalha no final",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o problema é que o pacote completo assusta quem prefere o conto de fadas",
    "p": "concorda",
    "r": 0
   }
@@ -4895,7 +4897,8 @@
    "pois e no",
    "se for pra",
    "duro ver que",
-   "pesado demais tem"
+   "pesado demais tem",
+   "o problema e"
   ],
   "17978778833919010": [
    "com certeza manobra"
