@@ -38,7 +38,7 @@
    "18:30"
   ],
   "produtos_feitos": 2,
-  "respostas": 77,
+  "respostas": 80,
   "por_post": {
    "18101720819560610": 3,
    "18384730186242595": 8,
@@ -54,8 +54,8 @@
    "18026275952872648": 2,
    "18020487191940773": 1,
    "18490025323129946": 3,
-   "17961312879212472": 5,
-   "18002807181007550": 6
+   "17961312879212472": 6,
+   "18002807181007550": 8
   }
  },
  "posts": [
@@ -3324,7 +3324,10 @@
   "18118262434779798",
   "18087416816309134",
   "18128911045854160",
-  "18133100596827263"
+  "18133100596827263",
+  "18144739378582178",
+  "18078484976435242",
+  "17951703435319219"
  ],
  "hashes": [
   "e92a4c585e2ef4db6a0a4447a4df25ab",
@@ -3827,25 +3830,13 @@
   "39d7c3fa90": 1,
   "24f0167c2c": 1,
   "b47c3804e0": 1,
-  "2ffab5ca97": 1
+  "2ffab5ca97": 1,
+  "b3311cceb1": 1,
+  "c861933903": 1,
+  "3ba30b20da": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "chegou entregando currículo ou só fiscalizando o estoque",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "com um bom GPS e muita paciência para achar o modelo certo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "esse entrou na minha lista agora",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "parece que não mas tem gente que acha perda de tempo kkk",
    "p": "ressalva",
@@ -3978,6 +3969,21 @@
   },
   {
    "t": "essa mistura parece boa demais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quase na adolescência já dá para negociar melhor os limites",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "duas culinárias totalmente diferentes e difíceis de recusar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "bolo salgado decorado assim merecia feriado nacional",
    "p": "concorda",
    "r": 0
   }
@@ -4950,7 +4956,8 @@
    "verdade a rotina",
    "caramba adolescente ja",
    "daqui a pouco",
-   "pelo menos nessa"
+   "pelo menos nessa",
+   "quase na adolescencia"
   ],
   "18002807181007550": [
    "parece um prato",
@@ -4958,7 +4965,9 @@
    "dupla que resolve",
    "esse e patrimonio",
    "oq e isso",
-   "essa mistura parece"
+   "essa mistura parece",
+   "duas culinarias totalmente",
+   "bolo salgado decorado"
   ]
  },
  "shopee_checada": "2026-10-19|1",
