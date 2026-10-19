@@ -24,39 +24,19 @@
    "19:44"
   ],
   "feitos": [
-   "08:10"
+   "08:10",
+   "08:54"
   ],
   "produtos_feitos": 0,
-  "respostas": 19,
+  "respostas": 20,
   "por_post": {
-   "18101720819560610": 2,
+   "18101720819560610": 3,
    "18384730186242595": 3,
    "18067887914607934": 13,
    "18144021196597425": 1
   }
  },
  "posts": [
-  {
-   "id": "18128172019868904",
-   "insp": "fio_fio-20261010-3",
-   "link": "",
-   "texto": "Churrasco na casa dos outros tem sempre o mesmo problema: ninguém acha uma faca que corte.",
-   "quando": "2026-10-13T15:07:09.692603-04:00",
-   "ia": "fio_literal",
-   "estrategia": "fio",
-   "formato": "fio",
-   "produto": "22894551427",
-   "link_coment": "https://s.shopee.com.br/5LCZzN4jsU",
-   "metricas": {
-    "views": 411,
-    "likes": 8,
-    "replies": 22,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-19"
-   }
-  },
   {
    "id": "18033024983895666",
    "insp": "54cb923235",
@@ -1018,7 +998,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais depois de adulto percebeu que o folclore brasileiro é basicamente um monte de lenda PCD no meio do mato?\n\nSaci com uma perna só, Curupira com os pés invertidos, Mula sem Cabeça. A inclusão florestal sempre foi forte por aqui.",
    "quando": "2026-10-18T11:07:07.488784-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T08:37:08.304730-04:00",
+   "viral_chk": "2026-10-19T09:07:09.584273-04:00",
    "metricas": {
     "views": 632,
     "likes": 9,
@@ -1036,7 +1016,7 @@
    "texto": "DÚVIDA SINCERA: quem foi mais injustiçado na história da Seleção Brasileira?\n\nAlex ou Djalminha.\n\nPara mim, um deles resolvia o nosso meio-campo hoje com folga.",
    "quando": "2026-10-18T12:07:07.541173-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T08:37:08.304730-04:00",
+   "viral_chk": "2026-10-19T09:07:09.584273-04:00",
    "metricas": {
     "views": 192,
     "likes": 0,
@@ -1100,7 +1080,7 @@
    "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
    "quando": "2026-10-18T15:07:07.813127-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T08:37:08.304730-04:00",
+   "viral_chk": "2026-10-19T09:07:09.584273-04:00",
    "metricas": {
     "views": 711,
     "likes": 5,
@@ -1153,7 +1133,7 @@
    "texto": "VAMOS CONCORDAR: homem que presta atenção nos mínimos detalhes que a gente solta por aí ganha muitos pontos.",
    "quando": "2026-10-18T17:07:07.453971-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-19T08:37:08.304730-04:00",
+   "viral_chk": "2026-10-19T09:07:09.584273-04:00",
    "metricas": {
     "views": 118,
     "likes": 0,
@@ -1194,7 +1174,7 @@
    "texto": "ME CONTA: Cheguei no restaurante ontem e abriu uma vaga perfeita bem na porta, no meio do caos. Estacionei de primeira e entrei me sentindo a pessoa mais sortuda desse planeta. Vocês também acham que achar vaga boa melhora 100% o rolê?",
    "quando": "2026-10-18T18:37:09.498020-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T08:37:08.304730-04:00",
+   "viral_chk": "2026-10-19T09:07:09.584273-04:00",
    "metricas": {
     "views": 214,
     "likes": 4,
@@ -1221,7 +1201,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T08:37:08.304730-04:00"
+   "viral_chk": "2026-10-19T09:07:09.584273-04:00"
   },
   {
    "id": "18136499830744152",
@@ -1263,7 +1243,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T08:37:08.304730-04:00"
+   "viral_chk": "2026-10-19T09:07:09.584273-04:00"
   },
   {
    "id": "18101720819560610",
@@ -1281,7 +1261,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T08:37:08.304730-04:00"
+   "viral_chk": "2026-10-19T09:07:09.584273-04:00"
   },
   {
    "id": "18104599913363054",
@@ -1290,7 +1270,16 @@
    "texto": "OPINIÃO IMPOPULAR: marcar call pra falar algo que se resolve em duas linhas de mensagem é sacanagem. \n\nMetade do cansaço da semana vem de fingir que tá prestando atenção em reunião inútil.",
    "quando": "2026-10-19T08:37:08.304730-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T08:37:08.304730-04:00"
+   "viral_chk": "2026-10-19T09:07:09.584273-04:00"
+  },
+  {
+   "id": "18119761514287385",
+   "insp": "3d5b6c562f",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: A pior parte de ser adulto? Não ter mais férias de julho. Isso ou aquilo: férias de julho ou maratona de séries?",
+   "quando": "2026-10-19T09:07:09.584273-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "viral_chk": "2026-10-19T09:07:09.584273-04:00"
   }
  ],
  "respondidos": [
@@ -3343,10 +3332,10 @@
   "18056641142800689",
   "18118913812768156",
   "17873518482638906",
-  "18108880121212816"
+  "18108880121212816",
+  "17937010008388976"
  ],
  "hashes": [
-  "5d5134adf4448bd5764bdf4599145927",
   "08048c685a58dd140dfb05d63b1010b6",
   "7f49e2d7c183532e4aa2003684a9d79c",
   "43d2c7cc6673bea2161ea5c88644755a",
@@ -3545,7 +3534,8 @@
   "4a01239961b01df8659ab700d1eb0632",
   "d29bfa669a67701432f1ea2211fa3dab",
   "604b0ac5e3c9df7f19294fc9880345c8",
-  "2169f8993f3d42c52902dd5e4c1c2c11"
+  "2169f8993f3d42c52902dd5e4c1c2c11",
+  "d3f88777b56fc8f1281304d7b45e4928"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3758,7 +3748,8 @@
   "c77e24d709": 1792366640.4001057,
   "d7e44e025a": 1792372085.3802283,
   "54dc948734": 1792375654.3754094,
-  "a998017f2f": 1792413453.4373097
+  "a998017f2f": 1792413453.4373097,
+  "3d5b6c562f": 1792415245.5738044
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3781,15 +3772,11 @@
   "96f0079dc4": 1,
   "0e157f742f": 1,
   "ef79d66ec2": 1,
-  "a1a5ed856c": 1
+  "a1a5ed856c": 1,
+  "eb8e874c87": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "dar opções antes de lançar o veredito é pura sobrevivência social kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "pois é, no fim cada um lida do jeito que dá",
    "p": "concorda",
@@ -3932,6 +3919,11 @@
   },
   {
    "t": "o saldo da conta bancaria e o humor do dia decidem tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pura realidade, o choque de voltar é imediato",
    "p": "concorda",
    "r": 0
   }
@@ -4954,7 +4946,8 @@
   ],
   "18101720819560610": [
    "tres dias e",
-   "parece que a"
+   "parece que a",
+   "pura realidade o"
   ]
  },
  "shopee_checada": "2026-10-19|1",
