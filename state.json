@@ -38,7 +38,7 @@
    "18:30"
   ],
   "produtos_feitos": 2,
-  "respostas": 71,
+  "respostas": 77,
   "por_post": {
    "18101720819560610": 3,
    "18384730186242595": 8,
@@ -54,7 +54,8 @@
    "18026275952872648": 2,
    "18020487191940773": 1,
    "18490025323129946": 3,
-   "17961312879212472": 5
+   "17961312879212472": 5,
+   "18002807181007550": 6
   }
  },
  "posts": [
@@ -3317,7 +3318,13 @@
   "18006410762791067",
   "17951282073325308",
   "18478591666118301",
-  "18179031355448329"
+  "18179031355448329",
+  "18033779345856885",
+  "18057786536573386",
+  "18118262434779798",
+  "18087416816309134",
+  "18128911045854160",
+  "18133100596827263"
  ],
  "hashes": [
   "e92a4c585e2ef4db6a0a4447a4df25ab",
@@ -3814,40 +3821,16 @@
   "26c557fabd": 1,
   "3003b8e107": 1,
   "cdb8f4e3f0": 1,
-  "3bb2c07a33": 1
+  "3bb2c07a33": 1,
+  "029fc66761": 1,
+  "6bb08ca179": 1,
+  "39d7c3fa90": 1,
+  "24f0167c2c": 1,
+  "b47c3804e0": 1,
+  "2ffab5ca97": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "existem aos montes mas o difícil é o filtro passar alguém inteiro",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "É, a gente fala muito mesmo 😏 kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Entendo, a procura parece missão impossível kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "distância é só um detalhe pra quem tem GPS e boa vontade",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "horário alternativo acaba garantindo um sossego bom para focar no jogo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, a realidade costuma ser bem menos romântica",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "chegou entregando currículo ou só fiscalizando o estoque",
    "p": "concorda",
@@ -3965,6 +3948,36 @@
   },
   {
    "t": "pelo menos nessa faixa a cabeça já funciona um pouco melhor pra lidar com a internet",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece um prato que exige horas de dedicação mas que vale cada garfada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "isso aí alimenta um batalhão inteiro kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "dupla que resolve qualquer almoço de domingo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse é patrimônio nacional mas achei que vinha algo bem exótico kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "kkkkk oq é isso socorro",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "essa mistura parece boa demais",
    "p": "concorda",
    "r": 0
   }
@@ -4694,19 +4707,6 @@
   }
  ],
  "aberturas_post": {
-  "18435667258196022": [
-   "sabe aquela conta",
-   "silencio na hora",
-   "vinho bom resolve",
-   "pior que a",
-   "exato viver o",
-   "lugar barulhento acaba",
-   "parece que a",
-   "um lugar mais",
-   "cachorro quente da",
-   "ainda bem que",
-   "essa faixa ia"
-  ],
   "18108372566123329": [
    "essa e a",
    "exato brasa boa",
@@ -4951,6 +4951,14 @@
    "caramba adolescente ja",
    "daqui a pouco",
    "pelo menos nessa"
+  ],
+  "18002807181007550": [
+   "parece um prato",
+   "isso ai alimenta",
+   "dupla que resolve",
+   "esse e patrimonio",
+   "oq e isso",
+   "essa mistura parece"
   ]
  },
  "shopee_checada": "2026-10-19|1",
