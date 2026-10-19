@@ -33,18 +33,19 @@
    "13:45"
   ],
   "produtos_feitos": 1,
-  "respostas": 53,
+  "respostas": 56,
   "por_post": {
    "18101720819560610": 3,
-   "18384730186242595": 5,
+   "18384730186242595": 6,
    "18067887914607934": 20,
    "18144021196597425": 2,
    "18119761514287385": 1,
    "18104599913363054": 1,
    "18132148777761668": 2,
-   "18050933324606981": 17,
+   "18050933324606981": 18,
    "17997441141012078": 1,
-   "17990749128026638": 1
+   "17990749128026638": 1,
+   "18284931982288268": 1
   }
  },
  "posts": [
@@ -989,7 +990,7 @@
    "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
    "quando": "2026-10-18T15:07:07.813127-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T14:07:08.972017-04:00",
+   "viral_chk": "2026-10-19T14:37:09.181835-04:00",
    "metricas": {
     "views": 711,
     "likes": 5,
@@ -1045,7 +1046,7 @@
    "texto": "VAMOS CONCORDAR: homem que presta atenção nos mínimos detalhes que a gente solta por aí ganha muitos pontos.",
    "quando": "2026-10-18T17:07:07.453971-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-19T14:07:08.972017-04:00",
+   "viral_chk": "2026-10-19T14:37:09.181835-04:00",
    "metricas": {
     "views": 118,
     "likes": 0,
@@ -1086,7 +1087,7 @@
    "texto": "ME CONTA: Cheguei no restaurante ontem e abriu uma vaga perfeita bem na porta, no meio do caos. Estacionei de primeira e entrei me sentindo a pessoa mais sortuda desse planeta. Vocês também acham que achar vaga boa melhora 100% o rolê?",
    "quando": "2026-10-18T18:37:09.498020-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T14:07:08.972017-04:00",
+   "viral_chk": "2026-10-19T14:37:09.181835-04:00",
    "metricas": {
     "views": 214,
     "likes": 4,
@@ -1113,7 +1114,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T14:07:08.972017-04:00"
+   "viral_chk": "2026-10-19T14:37:09.181835-04:00"
   },
   {
    "id": "18136499830744152",
@@ -1155,7 +1156,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T14:07:08.972017-04:00"
+   "viral_chk": "2026-10-19T14:37:09.181835-04:00"
   },
   {
    "id": "18101720819560610",
@@ -1173,7 +1174,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T14:07:08.972017-04:00"
+   "viral_chk": "2026-10-19T14:37:09.181835-04:00"
   },
   {
    "id": "18104599913363054",
@@ -1182,7 +1183,7 @@
    "texto": "OPINIÃO IMPOPULAR: marcar call pra falar algo que se resolve em duas linhas de mensagem é sacanagem. \n\nMetade do cansaço da semana vem de fingir que tá prestando atenção em reunião inútil.",
    "quando": "2026-10-19T08:37:08.304730-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T14:07:08.972017-04:00"
+   "viral_chk": "2026-10-19T14:37:09.181835-04:00"
   },
   {
    "id": "18119761514287385",
@@ -1191,7 +1192,7 @@
    "texto": "OPINIÃO IMPOPULAR: A pior parte de ser adulto? Não ter mais férias de julho. Isso ou aquilo: férias de julho ou maratona de séries?",
    "quando": "2026-10-19T09:07:09.584273-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-19T14:07:08.972017-04:00"
+   "viral_chk": "2026-10-19T14:37:09.181835-04:00"
   },
   {
    "id": "18037493759655949",
@@ -1240,7 +1241,7 @@
    "texto": "DÚVIDA SINCERA: No Nordeste feriado sem forró não conta. E aí, qual é o programa obrigatório de feriado na sua cidade? 🎉",
    "quando": "2026-10-19T12:07:08.444592-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-19T14:07:08.972017-04:00"
+   "viral_chk": "2026-10-19T14:37:09.181835-04:00"
   },
   {
    "id": "18044381618821643",
@@ -1249,7 +1250,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente tem frescura demais com bicho em casa. Tem um bicho morando na minha cozinha há semanas e agora virou questão de orgulho ver quem aguenta mais.",
    "quando": "2026-10-19T13:07:08.272228-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-19T14:07:08.972017-04:00"
+   "viral_chk": "2026-10-19T14:37:09.181835-04:00"
   },
   {
    "id": "18284931982288268",
@@ -1258,7 +1259,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém abre o extrato do banco só por hábito e já fecha a aba correndo antes de processar o choque? A gente finge que a fatura não existe mas ela continua crescendo.",
    "quando": "2026-10-19T14:07:08.972017-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-19T14:07:08.972017-04:00"
+   "viral_chk": "2026-10-19T14:37:09.181835-04:00"
   }
  ],
  "respondidos": [
@@ -3345,7 +3346,11 @@
   "18092239805201752",
   "17897825490672633",
   "18431537293146119",
-  "18092228774207192"
+  "18092228774207192",
+  "17953131615270665",
+  "17879664135631165",
+  "18134061472595455",
+  "17951875614273647"
  ],
  "hashes": [
   "869ad1dcefe45943f3e9ef7459637dae",
@@ -3821,25 +3826,13 @@
   "e1a8f9b18d": 1,
   "930f9f2322": 1,
   "e0839b8419": 1,
-  "36e55870ba": 1
+  "36e55870ba": 1,
+  "5a4f6559c6": 1,
+  "e7102b50d0": 1,
+  "548c11ce3b": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "garantir o desconto no pix faz valer a pena",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pega o melhor de cada mundo para equilibrar a rotina",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "variar o estilo conforme o dia é a melhor parte kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "grupo fechado para jogar junto faz qualquer noite pesada valer a pena",
    "p": "concorda",
@@ -3973,6 +3966,21 @@
   {
    "t": "quem procura acha, só falta saber onde vc tá escondido kkk",
    "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "essa fatura de outubro veio para testar nossa paciência",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "solidão no topo tem dessas, né",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "tbm tá na pista? kkk",
+   "p": "concorda",
    "r": 1
   }
  ],
@@ -4691,11 +4699,6 @@
   }
  ],
  "aberturas_post": {
-  "18600522124066906": [
-   "depende do dia",
-   "acertou o alvo",
-   "proteger o futuro"
-  ],
   "18216730960347343": [
    "pelo menos alguem",
    "parece que vc",
@@ -4962,7 +4965,8 @@
    "economia de energia",
    "filtra naturalmente quem",
    "poxa doi mesmo",
-   "verdade o tom"
+   "verdade o tom",
+   "solidao no topo"
   ],
   "17978778833919010": [
    "com certeza manobra"
@@ -4995,10 +4999,14 @@
    "distancia e so",
    "chegou entregando curriculo",
    "com um bom",
-   "quem procura acha"
+   "quem procura acha",
+   "tbm ta na"
   ],
   "17990749128026638": [
    "filtro de qualidade"
+  ],
+  "18284931982288268": [
+   "essa fatura de"
   ]
  },
  "shopee_checada": "2026-10-19|1",
