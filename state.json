@@ -29,11 +29,11 @@
    "09:36"
   ],
   "produtos_feitos": 1,
-  "respostas": 26,
+  "respostas": 27,
   "por_post": {
    "18101720819560610": 3,
    "18384730186242595": 3,
-   "18067887914607934": 15,
+   "18067887914607934": 16,
    "18144021196597425": 2,
    "18119761514287385": 1,
    "18104599913363054": 1,
@@ -984,7 +984,7 @@
    "texto": "VAMOS SER HONESTOS: quem mais depois de adulto percebeu que o folclore brasileiro é basicamente um monte de lenda PCD no meio do mato?\n\nSaci com uma perna só, Curupira com os pés invertidos, Mula sem Cabeça. A inclusão florestal sempre foi forte por aqui.",
    "quando": "2026-10-18T11:07:07.488784-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T09:37:07.571353-04:00",
+   "viral_chk": "2026-10-19T10:07:09.572610-04:00",
    "metricas": {
     "views": 632,
     "likes": 9,
@@ -1002,7 +1002,7 @@
    "texto": "DÚVIDA SINCERA: quem foi mais injustiçado na história da Seleção Brasileira?\n\nAlex ou Djalminha.\n\nPara mim, um deles resolvia o nosso meio-campo hoje com folga.",
    "quando": "2026-10-18T12:07:07.541173-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T09:37:07.571353-04:00",
+   "viral_chk": "2026-10-19T10:07:09.572610-04:00",
    "metricas": {
     "views": 192,
     "likes": 0,
@@ -1066,7 +1066,7 @@
    "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
    "quando": "2026-10-18T15:07:07.813127-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T09:37:07.571353-04:00",
+   "viral_chk": "2026-10-19T10:07:09.572610-04:00",
    "metricas": {
     "views": 711,
     "likes": 5,
@@ -1088,7 +1088,7 @@
    "estrategia": "produto_video",
    "formato_link": "resp",
    "produto": "25946709329",
-   "link_pendente": true,
+   "link_pendente": false,
    "modo_produto": "tema",
    "prod_dados": {
     "itemId": "25946709329",
@@ -1110,7 +1110,10 @@
     "quotes": 0,
     "shares": 2,
     "em": "2026-10-19"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/4B0pIGDIM9",
+   "link_em": "2026-10-19T10:07:09.572610-04:00",
+   "link_views": 0
   },
   {
    "id": "18132148777761668",
@@ -1119,7 +1122,7 @@
    "texto": "VAMOS CONCORDAR: homem que presta atenção nos mínimos detalhes que a gente solta por aí ganha muitos pontos.",
    "quando": "2026-10-18T17:07:07.453971-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-19T09:37:07.571353-04:00",
+   "viral_chk": "2026-10-19T10:07:09.572610-04:00",
    "metricas": {
     "views": 118,
     "likes": 0,
@@ -1160,7 +1163,7 @@
    "texto": "ME CONTA: Cheguei no restaurante ontem e abriu uma vaga perfeita bem na porta, no meio do caos. Estacionei de primeira e entrei me sentindo a pessoa mais sortuda desse planeta. Vocês também acham que achar vaga boa melhora 100% o rolê?",
    "quando": "2026-10-18T18:37:09.498020-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T09:37:07.571353-04:00",
+   "viral_chk": "2026-10-19T10:07:09.572610-04:00",
    "metricas": {
     "views": 214,
     "likes": 4,
@@ -1187,7 +1190,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T09:37:07.571353-04:00"
+   "viral_chk": "2026-10-19T10:07:09.572610-04:00"
   },
   {
    "id": "18136499830744152",
@@ -1229,7 +1232,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T09:37:07.571353-04:00"
+   "viral_chk": "2026-10-19T10:07:09.572610-04:00"
   },
   {
    "id": "18101720819560610",
@@ -1247,7 +1250,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T09:37:07.571353-04:00"
+   "viral_chk": "2026-10-19T10:07:09.572610-04:00"
   },
   {
    "id": "18104599913363054",
@@ -1256,7 +1259,7 @@
    "texto": "OPINIÃO IMPOPULAR: marcar call pra falar algo que se resolve em duas linhas de mensagem é sacanagem. \n\nMetade do cansaço da semana vem de fingir que tá prestando atenção em reunião inútil.",
    "quando": "2026-10-19T08:37:08.304730-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T09:37:07.571353-04:00"
+   "viral_chk": "2026-10-19T10:07:09.572610-04:00"
   },
   {
    "id": "18119761514287385",
@@ -1265,7 +1268,7 @@
    "texto": "OPINIÃO IMPOPULAR: A pior parte de ser adulto? Não ter mais férias de julho. Isso ou aquilo: férias de julho ou maratona de séries?",
    "quando": "2026-10-19T09:07:09.584273-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-19T09:37:07.571353-04:00"
+   "viral_chk": "2026-10-19T10:07:09.572610-04:00"
   },
   {
    "id": "18037493759655949",
@@ -3351,7 +3354,8 @@
   "18389443234228592",
   "17872079343643647",
   "18640285891063130",
-  "18160355686507495"
+  "18160355686507495",
+  "17959555653252031"
  ],
  "hashes": [
   "08048c685a58dd140dfb05d63b1010b6",
@@ -3797,15 +3801,11 @@
   "1e98849a99": 1,
   "77a358d47d": 1,
   "22df4700ab": 1,
-  "e9d397352e": 1
+  "e9d397352e": 1,
+  "44fd45a5ca": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "pesado demais, tem gente que não sabe lidar com a realidade",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "quinze horas seguidas no volante pede medalha no final",
    "p": "concorda",
@@ -3950,6 +3950,11 @@
    "t": "variar o estilo conforme o dia é a melhor parte kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "grupo fechado para jogar junto faz qualquer noite pesada valer a pena",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4172,6 +4177,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-18T20:37:06.968659-04:00"
+  },
+  "18116441843605924": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-19T10:07:09.572610-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4912,7 +4922,6 @@
    "garantir o desconto"
   ],
   "18067887914607934": [
-   "passar horas explorando",
    "cada um no",
    "boa escolha para",
    "placar de respeito",
@@ -4931,7 +4940,8 @@
    "melhor jeito de",
    "o saldo da",
    "pega o melhor",
-   "variar o estilo"
+   "variar o estilo",
+   "grupo fechado para"
   ],
   "18132148777761668": [
    "verdade ai o",
@@ -5129,7 +5139,8 @@
   "23793973526": "2026-10-18T18:07:08.425642-04:00",
   "45112715909": "2026-10-18T18:37:09.498020-04:00",
   "58260597282": "2026-10-18T19:07:08.244557-04:00",
-  "58255515632": "2026-10-18T20:37:06.968659-04:00"
+  "58255515632": "2026-10-18T20:37:06.968659-04:00",
+  "25946709329": "2026-10-19T10:07:09.572610-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
