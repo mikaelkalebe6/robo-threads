@@ -39,10 +39,11 @@
    "18:22",
    "19:37",
    "20:20",
-   "21:00"
+   "21:00",
+   "21:40"
   ],
   "produtos_feitos": 3,
-  "respostas": 97,
+  "respostas": 102,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -55,52 +56,14 @@
    "18106390660980798": 5,
    "18633135673031281": 2,
    "17997441141012078": 12,
-   "18193642693392878": 8,
+   "18193642693392878": 9,
    "18144021196597425": 6,
    "18067887914607934": 20,
    "18132148777761668": 1,
-   "18384730186242595": 3
+   "18384730186242595": 7
   }
  },
  "posts": [
-  {
-   "id": "18118951138948718",
-   "insp": "video_a581a81249",
-   "link": "",
-   "texto": "Descobri esse truque pra dar luzes douradas nos fios brancos, acabou o look de vovó! Olha como funciona 👀",
-   "quando": "2026-10-13T13:07:11.543898-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "22798989636",
-   "link_pendente": false,
-   "modo_produto": "mesmo",
-   "prod_dados": {
-    "itemId": "22798989636",
-    "nome": "Nouê Tonalizante Capilar Camuflage Medium 140 ml Sem Amônia Para Cabelos de Base",
-    "preco": 138.18,
-    "nota": 4.8,
-    "vendas": 2179,
-    "comissao": 0.17,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcxmau2ww04a2",
-    "offerLink": "https://s.shopee.com.br/W7Okg9ybP",
-    "campanha": "",
-    "modo": "mesmo"
-   },
-   "link_coment": "https://s.shopee.com.br/W7Okg9ybP",
-   "link_em": "2026-10-13T14:37:07.606623-04:00",
-   "link_views": 707,
-   "metricas": {
-    "views": 2302,
-    "likes": 14,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 7,
-    "em": "2026-10-18"
-   }
-  },
   {
    "id": "18206939197374851",
    "insp": "1ad1290613",
@@ -1215,6 +1178,14 @@
    "texto": "DÚVIDA SINCERA: falar a verdade pura e crua já fez alguém aqui perder um amigo de longa data ou só eu que assusto as pessoas?",
    "quando": "2026-10-18T21:07:08.599848-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18101720819560610",
+   "insp": "54dc948734",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: quem muda de cidade quase nunca sente falta do lugar em si, sente falta da época em que a vida era mais simples. Tanto que quando você volta pra visitar, dá três dias e já bate o desespero pra ir embora.",
+   "quando": "2026-10-18T22:07:08.224959-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -3234,10 +3205,15 @@
   "17908292697577358",
   "17965286952197933",
   "17942650080361725",
-  "17911639698475384"
+  "17911639698475384",
+  "18141966469573802",
+  "17928616209182140",
+  "18110391352897777",
+  "18109976411615331",
+  "17909572575577809",
+  "18656136829033270"
  ],
  "hashes": [
-  "eac573f7d827387b89f7b18e8dc2ac98",
   "bdc104390d495996f091b8c9a6bd1faa",
   "5d5134adf4448bd5764bdf4599145927",
   "08048c685a58dd140dfb05d63b1010b6",
@@ -3436,7 +3412,8 @@
   "827ad6eb8f7070f66d8326c513d2b51f",
   "356822b744eb47391ae2c0c666ee23db",
   "4a01239961b01df8659ab700d1eb0632",
-  "d29bfa669a67701432f1ea2211fa3dab"
+  "d29bfa669a67701432f1ea2211fa3dab",
+  "604b0ac5e3c9df7f19294fc9880345c8"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3647,7 +3624,8 @@
   "3394e0a232": 1792359441.2228508,
   "63b327e43d": 1792363057.593114,
   "c77e24d709": 1792366640.4001057,
-  "d7e44e025a": 1792372085.3802283
+  "d7e44e025a": 1792372085.3802283,
+  "54dc948734": 1792375654.3754094
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3742,37 +3720,16 @@
   "07699da86d": 1,
   "85f5c875d7": 1,
   "d917c68d01": 1,
-  "7987542173": 1,
+  "7987542173": 2,
   "d2c11ea49d": 1,
-  "fdfe74a037": 1
+  "fdfe74a037": 1,
+  "eaf7bcdfc4": 1,
+  "69fc7731c6": 1,
+  "a9959b0216": 1,
+  "1f1e8afefa": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "caminho sem volta mesmo, paz de espírito define",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "organização no whatsapp e dinheiro rendendo é a dupla dinâmica perfeita",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "van só se for com parada a cada duas horas pra esticar a perna kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "tem que ter espaco de sobra para guardar tanta aventura",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, aí o tiro sai pela culatra kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "exato, o humor do dia manda em tudo",
    "p": "concorda",
@@ -3895,6 +3852,31 @@
   },
   {
    "t": "pelo menos aqui a gente faz barulho junto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "povo tem alergia a verdade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "dar opções antes de lançar o veredito é pura sobrevivência social kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pois é, no fim cada um lida do jeito que dá",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "se for pra ter amizade baseada em mentira é melhor andar sozinha msm kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "uns minutinhos e a memória muscular já lembra de tudo",
    "p": "concorda",
    "r": 0
   }
@@ -4859,7 +4841,8 @@
    "comprar um desse",
    "memoria muscular salva",
    "a pratica volta",
-   "caminho sem volta"
+   "caminho sem volta",
+   "uns minutinhos e"
   ],
   "18144021196597425": [
    "justo demais o",
@@ -4897,7 +4880,11 @@
   "18384730186242595": [
    "filtro natural pesado",
    "mentir da um",
-   "pelo menos aqui"
+   "pelo menos aqui",
+   "povo tem alergia",
+   "dar opcoes antes",
+   "pois e no",
+   "se for pra"
   ]
  },
  "shopee_checada": "2026-10-18|1",
