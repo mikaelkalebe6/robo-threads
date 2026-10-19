@@ -42,7 +42,7 @@
    "21:00"
   ],
   "produtos_feitos": 3,
-  "respostas": 94,
+  "respostas": 97,
   "por_post": {
    "17908292148572118": 4,
    "18025367147866539": 1,
@@ -58,7 +58,8 @@
    "18193642693392878": 8,
    "18144021196597425": 6,
    "18067887914607934": 20,
-   "18132148777761668": 1
+   "18132148777761668": 1,
+   "18384730186242595": 3
   }
  },
  "posts": [
@@ -3230,7 +3231,10 @@
   "18387452233226264",
   "18114766889587312",
   "18126364462856607",
-  "17908292697577358"
+  "17908292697577358",
+  "17965286952197933",
+  "17942650080361725",
+  "17911639698475384"
  ],
  "hashes": [
   "eac573f7d827387b89f7b18e8dc2ac98",
@@ -3728,7 +3732,7 @@
   "659d063c45": 1,
   "6b4135863e": 1,
   "73abf64150": 1,
-  "5dc217dd4d": 1,
+  "5dc217dd4d": 2,
   "548c11ce3b": 1,
   "73e877de81": 1,
   "3b1e514f39": 2,
@@ -3738,25 +3742,12 @@
   "07699da86d": 1,
   "85f5c875d7": 1,
   "d917c68d01": 1,
-  "7987542173": 1
+  "7987542173": 1,
+  "d2c11ea49d": 1,
+  "fdfe74a037": 1
  },
  "reservas_checadas": "2026-10-18",
  "ultimas_respostas": [
-  {
-   "t": "economia de energia total pra não desmaiar no meio do exercício kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "alguém lúcido nesse horário",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a prática volta rapidinho quando a gente precisa",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "caminho sem volta mesmo, paz de espírito define",
    "p": "concorda",
@@ -3889,6 +3880,21 @@
   },
   {
    "t": "banco ruim consegue acabar com a viagem bem mais rápido do que a distância",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "filtro natural pesado mas necessário kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "mentir dá um trabalho danado, prefiro ficar sem amigo kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "pelo menos aqui a gente faz barulho junto",
    "p": "concorda",
    "r": 0
   }
@@ -4593,9 +4599,6 @@
   }
  ],
  "aberturas_post": {
-  "18079283594720412": [
-   "o escudo virou"
-  ],
   "18022654580930498": [
    "sempre um milagre"
   ],
@@ -4890,6 +4893,11 @@
   ],
   "18132148777761668": [
    "verdade ai o"
+  ],
+  "18384730186242595": [
+   "filtro natural pesado",
+   "mentir da um",
+   "pelo menos aqui"
   ]
  },
  "shopee_checada": "2026-10-18|1",
