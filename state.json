@@ -27,42 +27,25 @@
    "08:10",
    "08:54",
    "09:36",
-   "10:24"
+   "10:24",
+   "11:42"
   ],
   "produtos_feitos": 1,
-  "respostas": 40,
+  "respostas": 46,
   "por_post": {
    "18101720819560610": 3,
    "18384730186242595": 4,
-   "18067887914607934": 17,
+   "18067887914607934": 18,
    "18144021196597425": 2,
    "18119761514287385": 1,
    "18104599913363054": 1,
    "18132148777761668": 1,
-   "18050933324606981": 9,
+   "18050933324606981": 14,
    "17997441141012078": 1,
    "17990749128026638": 1
   }
  },
  "posts": [
-  {
-   "id": "18179498749440025",
-   "insp": "c192019942",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: casal que divide cada centavo da conta é mais parceiro na vida ou só tem planilha demais na gaveta",
-   "quando": "2026-10-13T22:07:07.998908-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-14T21:37:08.326705-04:00",
-   "metricas": {
-    "views": 798,
-    "likes": 2,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-19"
-   }
-  },
   {
    "id": "18120563288286597",
    "insp": "fb3aa2715c",
@@ -1046,7 +1029,7 @@
    "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
    "quando": "2026-10-18T15:07:07.813127-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T11:37:08.648484-04:00",
+   "viral_chk": "2026-10-19T12:07:08.444592-04:00",
    "metricas": {
     "views": 711,
     "likes": 5,
@@ -1102,7 +1085,7 @@
    "texto": "VAMOS CONCORDAR: homem que presta atenção nos mínimos detalhes que a gente solta por aí ganha muitos pontos.",
    "quando": "2026-10-18T17:07:07.453971-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-19T11:37:08.648484-04:00",
+   "viral_chk": "2026-10-19T12:07:08.444592-04:00",
    "metricas": {
     "views": 118,
     "likes": 0,
@@ -1143,7 +1126,7 @@
    "texto": "ME CONTA: Cheguei no restaurante ontem e abriu uma vaga perfeita bem na porta, no meio do caos. Estacionei de primeira e entrei me sentindo a pessoa mais sortuda desse planeta. Vocês também acham que achar vaga boa melhora 100% o rolê?",
    "quando": "2026-10-18T18:37:09.498020-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T11:37:08.648484-04:00",
+   "viral_chk": "2026-10-19T12:07:08.444592-04:00",
    "metricas": {
     "views": 214,
     "likes": 4,
@@ -1170,7 +1153,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T11:37:08.648484-04:00"
+   "viral_chk": "2026-10-19T12:07:08.444592-04:00"
   },
   {
    "id": "18136499830744152",
@@ -1212,7 +1195,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T11:37:08.648484-04:00"
+   "viral_chk": "2026-10-19T12:07:08.444592-04:00"
   },
   {
    "id": "18101720819560610",
@@ -1230,7 +1213,7 @@
     "shares": 0,
     "em": "2026-10-19"
    },
-   "viral_chk": "2026-10-19T11:37:08.648484-04:00"
+   "viral_chk": "2026-10-19T12:07:08.444592-04:00"
   },
   {
    "id": "18104599913363054",
@@ -1239,7 +1222,7 @@
    "texto": "OPINIÃO IMPOPULAR: marcar call pra falar algo que se resolve em duas linhas de mensagem é sacanagem. \n\nMetade do cansaço da semana vem de fingir que tá prestando atenção em reunião inútil.",
    "quando": "2026-10-19T08:37:08.304730-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T11:37:08.648484-04:00"
+   "viral_chk": "2026-10-19T12:07:08.444592-04:00"
   },
   {
    "id": "18119761514287385",
@@ -1248,7 +1231,7 @@
    "texto": "OPINIÃO IMPOPULAR: A pior parte de ser adulto? Não ter mais férias de julho. Isso ou aquilo: férias de julho ou maratona de séries?",
    "quando": "2026-10-19T09:07:09.584273-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-19T11:37:08.648484-04:00"
+   "viral_chk": "2026-10-19T12:07:08.444592-04:00"
   },
   {
    "id": "18037493759655949",
@@ -1283,7 +1266,16 @@
    "texto": "Quero um namorado asiático, mas será que tô pedindo demais? 🤔  \nJá decidi, vou procurar.",
    "quando": "2026-10-19T10:37:09.695553-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-19T11:37:08.648484-04:00"
+   "viral_chk": "2026-10-19T12:07:08.444592-04:00"
+  },
+  {
+   "id": "17993668416107637",
+   "insp": "5d187cad11",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: No Nordeste feriado sem forró não conta. E aí, qual é o programa obrigatório de feriado na sua cidade? 🎉",
+   "quando": "2026-10-19T12:07:08.444592-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "viral_chk": "2026-10-19T12:07:08.444592-04:00"
   }
  ],
  "respondidos": [
@@ -3357,10 +3349,15 @@
   "17983608864095429",
   "17950908699341974",
   "17994234744020486",
-  "18109471993920235"
+  "18109471993920235",
+  "17976026594935492",
+  "17911584315474675",
+  "17914144305280633",
+  "18094442549254254",
+  "18085130723326964",
+  "17962148082214232"
  ],
  "hashes": [
-  "7f49e2d7c183532e4aa2003684a9d79c",
   "43d2c7cc6673bea2161ea5c88644755a",
   "d242b3e3272b12d70ace5da3dc0f2e68",
   "869ad1dcefe45943f3e9ef7459637dae",
@@ -3559,7 +3556,8 @@
   "604b0ac5e3c9df7f19294fc9880345c8",
   "2169f8993f3d42c52902dd5e4c1c2c11",
   "d3f88777b56fc8f1281304d7b45e4928",
-  "5610841c3783dc62dfe9fa683279d000"
+  "5610841c3783dc62dfe9fa683279d000",
+  "a84887f2951cfea875d7a94b776510d5"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3774,7 +3772,8 @@
   "54dc948734": 1792375654.3754094,
   "a998017f2f": 1792413453.4373097,
   "3d5b6c562f": 1792415245.5738044,
-  "1918758b46": 1792420653.077342
+  "1918758b46": 1792420653.077342,
+  "5d187cad11": 1792426040.4519188
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3817,40 +3816,16 @@
   "b61e5f7129": 1,
   "6df45282d1": 1,
   "10d7b16227": 1,
-  "280792b6e0": 1
+  "280792b6e0": 1,
+  "dc92b04f6c": 1,
+  "d09c26e6b2": 1,
+  "445273f7b6": 1,
+  "3bef30429c": 1,
+  "1f1e8afefa": 1,
+  "cfa8629700": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "propaganda invasiva estraga qualquer diversão no celular",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "com certeza, bem melhor ocupar a cabeça com uma boa história",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "economia de energia que chama né",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "filtra naturalmente quem realmente quer estar perto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "decisão difícil demais para escolher um só",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "viajar pela Grecia antiga sem pressa de voltar ocupa bem a cabeça",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "jeito ideal de desligar a mente e curtir a história no propio ritmo",
    "p": "concorda",
@@ -3968,6 +3943,36 @@
   },
   {
    "t": "chamado dado com sucesso",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "mercado aquecido e com alta procura kkkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "existem aos montes mas o difícil é o filtro passar alguém inteiro",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "É, a gente fala muito mesmo 😏 kkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Entendo, a procura parece missão impossível kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "distância é só um detalhe pra quem tem GPS e boa vontade",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "horário alternativo acaba garantindo um sossego bom para focar no jogo",
    "p": "concorda",
    "r": 0
   }
@@ -4911,7 +4916,6 @@
    "garantir o desconto"
   ],
   "18067887914607934": [
-   "boa escolha para",
    "placar de respeito",
    "esse mundo ai",
    "flexibilidade e tudo",
@@ -4930,7 +4934,8 @@
    "pega o melhor",
    "variar o estilo",
    "grupo fechado para",
-   "companhia boa na"
+   "companhia boa na",
+   "horario alternativo acaba"
   ],
   "18132148777761668": [
    "verdade ai o",
@@ -4976,7 +4981,12 @@
    "depende se a",
    "ja ta valendo",
    "quem me dera",
-   "chamado dado com"
+   "chamado dado com",
+   "mercado aquecido e",
+   "existem aos montes",
+   "e a gente",
+   "entendo a procura",
+   "distancia e so"
   ],
   "17990749128026638": [
    "filtro de qualidade"
