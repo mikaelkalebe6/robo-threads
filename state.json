@@ -22,13 +22,13 @@
    "09:27"
   ],
   "produtos_feitos": 1,
-  "respostas": 17,
+  "respostas": 19,
   "por_post": {
    "18132535141688846": 1,
    "18050933324606981": 9,
    "18002807181007550": 3,
-   "18113824634031941": 1,
-   "17898254706673038": 3
+   "18113824634031941": 2,
+   "17898254706673038": 4
   }
  },
  "posts": [
@@ -3440,7 +3440,9 @@
   "17913644472472338",
   "18166939480489397",
   "18133082248826288",
-  "17995897155089256"
+  "17995897155089256",
+  "18108783218221346",
+  "18036712031893841"
  ],
  "hashes": [
   "c54ab0083007bb588c99ef314a6e1c02",
@@ -3887,20 +3889,12 @@
   "0fc4deab60": 1,
   "4be3e56906": 1,
   "596e15dfe1": 1,
-  "69704e2689": 1
+  "69704e2689": 1,
+  "1f1e8afefa": 1,
+  "d77d8066ee": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "agora fiquei curiosa pra saber o que vai dentro desse bilacão",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "frango na panela com molho caprichado é o verdadeiro dono da refeição",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "moqueca servida assim com panela de barro é covardia",
    "p": "concorda",
@@ -4040,6 +4034,16 @@
    "t": "pelo menos a sinceridade veio antes do fogo kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "faz todo sentido, deixar a serie para quando já tem assunto de sobra",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "mas aí perdeu a graça da briga kkkkkk",
+   "p": "discorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5041,12 +5045,14 @@
    "essa do feltro"
   ],
   "18113824634031941": [
-   "esse programa e"
+   "esse programa e",
+   "faz todo sentido"
   ],
   "17898254706673038": [
    "cebola na farofa",
    "esse ai briga",
-   "pelo menos a"
+   "pelo menos a",
+   "mas ai perdeu"
   ]
  },
  "shopee_checada": "2026-10-20|1",
