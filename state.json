@@ -23,13 +23,14 @@
    "16:01"
   ],
   "produtos_feitos": 1,
-  "respostas": 22,
+  "respostas": 28,
   "por_post": {
    "18132535141688846": 1,
    "18050933324606981": 9,
    "18002807181007550": 5,
    "18113824634031941": 2,
-   "17898254706673038": 5
+   "17898254706673038": 5,
+   "18336797236279117": 6
   }
  },
  "posts": [
@@ -3437,7 +3438,13 @@
   "18102446471058943",
   "17953336185276161",
   "18105509858361012",
-  "18119400265999567"
+  "18119400265999567",
+  "18128241973745616",
+  "17920989309499967",
+  "18077275121759138",
+  "18127352899842582",
+  "18433448503199264",
+  "18103020674282464"
  ],
  "hashes": [
   "32fe579b7c430b96c478fd4950d6be0c",
@@ -3886,44 +3893,19 @@
   "4be3e56906": 1,
   "596e15dfe1": 1,
   "69704e2689": 1,
-  "1f1e8afefa": 1,
+  "1f1e8afefa": 2,
   "d77d8066ee": 1,
   "9c5526320e": 1,
   "15790c9bcb": 1,
-  "4c65e63cb7": 1
+  "4c65e63cb7": 1,
+  "3876762a8f": 1,
+  "ca99931f63": 1,
+  "d100a31331": 1,
+  "82a5996bf2": 1,
+  "65fd9e58c1": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "essa parte parece teste de paciência toda vez q a gente sai de casa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "um lanche desses resolve o apetite da semana inteira",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "desespero de recém habilitado perto de cabine de pedágio deveria valer como prova prática kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "calota riscada é só o carro deixando sua marca registrada no mundo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "essa do feltro é boa mesmo, salva demais contra barulho chato",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "moto fazendo barulho alto no neutro e engatando de uma vez é teste cardíaco gratuito kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "o gps faz a gente de trouxa com muita classe",
    "p": "concorda",
@@ -4043,6 +4025,36 @@
    "t": "esse aí causa debate acalorado em qualquer mesa de almoço",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "comprar seminovo escolhido com calma evita dor de cabeça e aquela perda enorme de valor logo na saída da loja",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a paz de espírito de saber o histórico compensa um pouco o boleto",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "coragem e conta bancária forte pra bancar essa escolha",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "justo, acho que acabou virando as duas coisas ao mesmo tempo",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "liberdade tem seu preço né",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "jeito mais fácil de vencer o sistema kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -4795,26 +4807,6 @@
   }
  ],
  "aberturas_post": {
-  "17908292148572118": [
-   "esse motor ja",
-   "isso ai ja",
-   "esse nivel de",
-   "teoricamente e lindo",
-   "essa margem ai",
-   "tres trocas em",
-   "sete ja ta",
-   "disciplina de respeito",
-   "duas semanas a",
-   "quinze mil quilometros",
-   "manutencao em dia",
-   "trabalho pesado na",
-   "a coragem e",
-   "guardei o contato",
-   "tecnologia evoluiu bastante",
-   "disciplina invejavel com",
-   "quem dera todo",
-   "para quem roda"
-  ],
   "17908400601664539": [
    "procura em lojinha"
   ],
@@ -5053,6 +5045,14 @@
    "pelo menos a",
    "mas ai perdeu",
    "quem me dera"
+  ],
+  "18336797236279117": [
+   "comprar seminovo escolhido",
+   "pelo menos a",
+   "coragem e conta",
+   "justo acho que",
+   "liberdade tem seu",
+   "jeito mais facil"
   ]
  },
  "shopee_checada": "2026-10-20|1",
