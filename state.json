@@ -37,10 +37,11 @@
    "17:39",
    "18:30",
    "19:44",
-   "20:49"
+   "20:49",
+   "21:50"
   ],
   "produtos_feitos": 3,
-  "respostas": 91,
+  "respostas": 93,
   "por_post": {
    "18101720819560610": 3,
    "18384730186242595": 8,
@@ -58,28 +59,10 @@
    "18490025323129946": 3,
    "17961312879212472": 7,
    "18002807181007550": 17,
-   "18132535141688846": 1
+   "18132535141688846": 3
   }
  },
  "posts": [
-  {
-   "id": "17883756681652794",
-   "insp": "613abd5c08",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: barzinho com mesa na calçada ganha de qualquer balada. E o pior é que quem discorda provavelmente só quer passar frio e pagar caro no ingresso.",
-   "quando": "2026-10-15T08:37:09.062929-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T08:37:09.025463-04:00",
-   "metricas": {
-    "views": 158,
-    "likes": 6,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-19"
-   }
-  },
   {
    "id": "18185899492414064",
    "insp": "car_car-20261011-3",
@@ -1196,6 +1179,14 @@
    "link": "",
    "texto": "ME CONTA: qual foi o maior mico que vocês já pagaram dirigindo?",
    "quando": "2026-10-19T21:07:08.162328-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17964431688237038",
+   "insp": "88bd5be843",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: isolante térmico ou fita crepe para segurar peça solta no painel?",
+   "quando": "2026-10-19T22:07:09.170010-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3322,10 +3313,11 @@
   "18048081566816421",
   "18249882856313002",
   "18180177070431269",
-  "18109553318264405"
+  "18109553318264405",
+  "18120014122766016",
+  "18073521635760849"
  ],
  "hashes": [
-  "68175986c1a1dd5a8c8da5431230c148",
   "fdae5502c42707848860950824762a62",
   "6dd8006c99f41580346bc68e9733f159",
   "c54ab0083007bb588c99ef314a6e1c02",
@@ -3524,7 +3516,8 @@
   "f07df4e685431be9f4b7bd1cd35891a7",
   "ea0e2ac32c31c7a29f490f48d3a1ce58",
   "d0cb3e22819e3d0b2553b698de256b87",
-  "7f6c9487ea869d67e49e293d9b9af49c"
+  "7f6c9487ea869d67e49e293d9b9af49c",
+  "ab343a7ccda1391102ecb6b19f0907ff"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3747,7 +3740,8 @@
   "7d5fd436ee": 1792444041.6296065,
   "2f5da7a997": 1792447659.8616993,
   "17f68f2d68": 1792449450.006739,
-  "bf80c2c0a0": 1792458487.7854679
+  "bf80c2c0a0": 1792458487.7854679,
+  "88bd5be843": 1792462047.7504954
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3764,7 +3758,7 @@
   "c7ffff03ee": 1,
   "4f06c590ec": 1,
   "3f344cb1e7": 1,
-  "8d94bac60a": 1,
+  "8d94bac60a": 2,
   "03f7d8c525": 1,
   "9c780e2fcf": 1,
   "96f0079dc4": 1,
@@ -3839,20 +3833,11 @@
   "d278ce414b": 2,
   "91d70e18a7": 1,
   "93444db319": 1,
-  "e1036e2cb2": 1
+  "e1036e2cb2": 1,
+  "eb5c1dca9a": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "teoria linda mas na pratica a paciência da maioria acaba bem antes disso",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "melhor um ou outro de verdade do que andar pisando em ovo o tempo todo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "paz de espírito pura kkk",
    "p": "concorda",
@@ -3991,6 +3976,16 @@
   {
    "t": "um lanche desses resolve o apetite da semana inteira",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "desespero de recém habilitado perto de cabine de pedágio deveria valer como prova prática kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "calota riscada é só o carro deixando sua marca registrada no mundo",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -4976,7 +4971,9 @@
    "um lanche desses"
   ],
   "18132535141688846": [
-   "essa parte parece"
+   "essa parte parece",
+   "desespero de recem",
+   "calota riscada e"
   ]
  },
  "shopee_checada": "2026-10-19|1",
