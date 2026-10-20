@@ -36,10 +36,11 @@
    "16:46",
    "17:39",
    "18:30",
-   "19:44"
+   "19:44",
+   "20:49"
   ],
   "produtos_feitos": 3,
-  "respostas": 86,
+  "respostas": 89,
   "por_post": {
    "18101720819560610": 3,
    "18384730186242595": 8,
@@ -56,28 +57,10 @@
    "18020487191940773": 1,
    "18490025323129946": 3,
    "17961312879212472": 7,
-   "18002807181007550": 13
+   "18002807181007550": 16
   }
  },
  "posts": [
-  {
-   "id": "18079283594720412",
-   "insp": "68d405bd4e",
-   "link": "",
-   "texto": "ME CONTA: Fui tentar me despedir do boy com um beijo na bochecha todo charmoso e bati a testa com tudo na quina da porta do carro dele. Quase fingi um desmaio ali mesmo só pra não ter que encarar a vergonha. Qual foi o pior mico que você já pagou na frente do crush?",
-   "quando": "2026-10-14T20:07:08.781233-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-15T20:07:07.813569-04:00",
-   "metricas": {
-    "views": 421,
-    "likes": 1,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-19"
-   }
-  },
   {
    "id": "17883756681652794",
    "insp": "613abd5c08",
@@ -1205,6 +1188,14 @@
    "modelo": "vitrine na capa (layout produto, teste; ref. DYUzwlokWpa objeto com pílula vermelha) + manchete",
    "visual": "vm",
    "link_coment": "https://s.shopee.com.br/5LCkUTyX15"
+  },
+  {
+   "id": "18132535141688846",
+   "insp": "bf80c2c0a0",
+   "link": "",
+   "texto": "ME CONTA: qual foi o maior mico que vocês já pagaram dirigindo?",
+   "quando": "2026-10-19T21:07:08.162328-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3325,10 +3316,12 @@
   "17939243709123164",
   "18356906344217341",
   "18118466504090015",
-  "18109372213927041"
+  "18109372213927041",
+  "18092865053446416",
+  "18048081566816421",
+  "18249882856313002"
  ],
  "hashes": [
-  "e92a4c585e2ef4db6a0a4447a4df25ab",
   "68175986c1a1dd5a8c8da5431230c148",
   "fdae5502c42707848860950824762a62",
   "6dd8006c99f41580346bc68e9733f159",
@@ -3527,7 +3520,8 @@
   "11c03054aa5a4cd727228b69ec57f7fe",
   "f07df4e685431be9f4b7bd1cd35891a7",
   "ea0e2ac32c31c7a29f490f48d3a1ce58",
-  "d0cb3e22819e3d0b2553b698de256b87"
+  "d0cb3e22819e3d0b2553b698de256b87",
+  "7f6c9487ea869d67e49e293d9b9af49c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3749,7 +3743,8 @@
   "5a11d3ea8d": 1792438695.5831506,
   "7d5fd436ee": 1792444041.6296065,
   "2f5da7a997": 1792447659.8616993,
-  "17f68f2d68": 1792449450.006739
+  "17f68f2d68": 1792449450.006739,
+  "bf80c2c0a0": 1792458487.7854679
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3837,25 +3832,12 @@
   "fd0cbea01e": 1,
   "a4bd4afd35": 1,
   "eadab78a5f": 1,
-  "96a0035c7e": 1
+  "96a0035c7e": 1,
+  "d278ce414b": 2,
+  "91d70e18a7": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "de olho no estoque ou só conferindo a vitrine 👀",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "liberdade já vem com brinde de pastel e caldo de cana kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "já querendo resolver a logística da trilha antes de começar",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essas são as únicas que não ocupam espaço na memória do celular",
    "p": "concorda",
@@ -3988,6 +3970,21 @@
   },
   {
    "t": "frango na panela com molho caprichado é o verdadeiro dono da refeição",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "moqueca servida assim com panela de barro é covardia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa dupla com pirão bem feito resolve qualquer dia ruim",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dupla de respeito que tem lugar garantido em qualquer mesa",
    "p": "concorda",
    "r": 0
   }
@@ -4982,7 +4979,10 @@
    "essa combinacao ai",
    "essa e daquelas",
    "agora fiquei curiosa",
-   "frango na panela"
+   "frango na panela",
+   "moqueca servida assim",
+   "essa dupla com",
+   "dupla de respeito"
   ]
  },
  "shopee_checada": "2026-10-19|1",
