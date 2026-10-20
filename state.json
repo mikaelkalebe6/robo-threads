@@ -20,11 +20,12 @@
    "08:03"
   ],
   "produtos_feitos": 0,
-  "respostas": 11,
+  "respostas": 13,
   "por_post": {
    "18132535141688846": 1,
-   "18050933324606981": 8,
-   "18002807181007550": 2
+   "18050933324606981": 9,
+   "18002807181007550": 2,
+   "18113824634031941": 1
   }
  },
  "posts": [
@@ -968,7 +969,7 @@
    "texto": "OPINIÃO IMPOPULAR: marcar call pra falar algo que se resolve em duas linhas de mensagem é sacanagem. \n\nMetade do cansaço da semana vem de fingir que tá prestando atenção em reunião inútil.",
    "quando": "2026-10-19T08:37:08.304730-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-20T08:07:08.244097-04:00",
+   "viral_chk": "2026-10-20T08:37:08.100875-04:00",
    "metricas": {
     "views": 450,
     "likes": 2,
@@ -1070,7 +1071,7 @@
    "texto": "DÚVIDA SINCERA: No Nordeste feriado sem forró não conta. E aí, qual é o programa obrigatório de feriado na sua cidade? 🎉",
    "quando": "2026-10-19T12:07:08.444592-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-20T08:07:08.244097-04:00",
+   "viral_chk": "2026-10-20T08:37:08.100875-04:00",
    "metricas": {
     "views": 461,
     "likes": 1,
@@ -1088,7 +1089,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente tem frescura demais com bicho em casa. Tem um bicho morando na minha cozinha há semanas e agora virou questão de orgulho ver quem aguenta mais.",
    "quando": "2026-10-19T13:07:08.272228-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T08:07:08.244097-04:00",
+   "viral_chk": "2026-10-20T08:37:08.100875-04:00",
    "metricas": {
     "views": 840,
     "likes": 1,
@@ -1106,7 +1107,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém abre o extrato do banco só por hábito e já fecha a aba correndo antes de processar o choque? A gente finge que a fatura não existe mas ela continua crescendo.",
    "quando": "2026-10-19T14:07:08.972017-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T08:07:08.244097-04:00",
+   "viral_chk": "2026-10-20T08:37:08.100875-04:00",
    "metricas": {
     "views": 393,
     "likes": 3,
@@ -1148,7 +1149,7 @@
    "texto": "OPINIÃO IMPOPULAR: Halloween no Brasil é só desculpa para usar fantasia em festa e o resto é detalhe. \n\nFesta com fantasia ou bar normal no fim de semana?",
    "quando": "2026-10-19T15:37:08.040036-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T08:07:08.244097-04:00",
+   "viral_chk": "2026-10-20T08:37:08.100875-04:00",
    "metricas": {
     "views": 265,
     "likes": 1,
@@ -1175,7 +1176,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T08:07:08.244097-04:00"
+   "viral_chk": "2026-10-20T08:37:08.100875-04:00"
   },
   {
    "id": "17961312879212472",
@@ -1193,7 +1194,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T08:07:08.244097-04:00"
+   "viral_chk": "2026-10-20T08:37:08.100875-04:00"
   },
   {
    "id": "18002807181007550",
@@ -1258,7 +1259,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T08:07:08.244097-04:00"
+   "viral_chk": "2026-10-20T08:37:08.100875-04:00"
   },
   {
    "id": "17964431688237038",
@@ -1276,7 +1277,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T08:07:08.244097-04:00"
+   "viral_chk": "2026-10-20T08:37:08.100875-04:00"
   },
   {
    "id": "18113824634031941",
@@ -1285,7 +1286,7 @@
    "texto": "OPINIÃO IMPOPULAR: Encontro bom é quando a gente esquece de olhar o relógio.  \nVocê prefere:  \n🟡 Bate‑papo que faz o tempo desaparecer  \n⚪️ Maratona de série sem pausa",
    "quando": "2026-10-20T08:07:08.244097-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-20T08:07:08.244097-04:00"
+   "viral_chk": "2026-10-20T08:37:08.100875-04:00"
   }
  ],
  "respondidos": [
@@ -3429,7 +3430,9 @@
   "18117453128280591",
   "18095647352457011",
   "18357094711174638",
-  "18023749763718271"
+  "18023749763718271",
+  "17908888377585688",
+  "17991501623863401"
  ],
  "hashes": [
   "6dd8006c99f41580346bc68e9733f159",
@@ -3869,20 +3872,12 @@
   "ed3857fa72": 1,
   "0cb93b55e3": 1,
   "0db092678d": 1,
-  "831b2ba695": 1
+  "831b2ba695": 1,
+  "6785fede53": 1,
+  "5253837530": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "duas culinárias totalmente diferentes e difíceis de recusar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "bolo salgado decorado assim merecia feriado nacional",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse aí é patrimônio nacional que o resto do país precisa descobrir logo",
    "p": "concorda",
@@ -4022,6 +4017,16 @@
    "t": "pelo menos a caçada vai render boas histórias kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse programa é imbatível para desligar do mundo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tomara que a fila ande rápido então",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4769,11 +4774,6 @@
   }
  ],
  "aberturas_post": {
-  "18015866036747016": [
-   "pior q e",
-   "parece mentira ate",
-   "uma hora e"
-  ],
   "18025367147866539": [
    "uma gelada depois",
    "pesou demais a",
@@ -4948,7 +4948,6 @@
    "pior que a"
   ],
   "18050933324606981": [
-   "chamado dado com",
    "mercado aquecido e",
    "existem aos montes",
    "e a gente",
@@ -4967,7 +4966,8 @@
    "trabalho bom e",
    "temos bastante variedade",
    "ja manda o",
-   "pelo menos a"
+   "pelo menos a",
+   "tomara que a"
   ],
   "17990749128026638": [
    "filtro de qualidade"
@@ -5028,6 +5028,9 @@
   ],
   "17964431688237038": [
    "essa do feltro"
+  ],
+  "18113824634031941": [
+   "esse programa e"
   ]
  },
  "shopee_checada": "2026-10-20|1",
