@@ -18,10 +18,10 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 5,
+  "respostas": 11,
   "por_post": {
    "18132535141688846": 1,
-   "18050933324606981": 2,
+   "18050933324606981": 8,
    "18002807181007550": 2
   }
  },
@@ -990,7 +990,7 @@
    "texto": "OPINIÃO IMPOPULAR: marcar call pra falar algo que se resolve em duas linhas de mensagem é sacanagem. \n\nMetade do cansaço da semana vem de fingir que tá prestando atenção em reunião inútil.",
    "quando": "2026-10-19T08:37:08.304730-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-20T07:07:09.630325-04:00",
+   "viral_chk": "2026-10-20T07:37:07.592071-04:00",
    "metricas": {
     "views": 450,
     "likes": 2,
@@ -1092,7 +1092,7 @@
    "texto": "DÚVIDA SINCERA: No Nordeste feriado sem forró não conta. E aí, qual é o programa obrigatório de feriado na sua cidade? 🎉",
    "quando": "2026-10-19T12:07:08.444592-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-20T07:07:09.630325-04:00",
+   "viral_chk": "2026-10-20T07:37:07.592071-04:00",
    "metricas": {
     "views": 461,
     "likes": 1,
@@ -1110,7 +1110,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente tem frescura demais com bicho em casa. Tem um bicho morando na minha cozinha há semanas e agora virou questão de orgulho ver quem aguenta mais.",
    "quando": "2026-10-19T13:07:08.272228-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T07:07:09.630325-04:00",
+   "viral_chk": "2026-10-20T07:37:07.592071-04:00",
    "metricas": {
     "views": 840,
     "likes": 1,
@@ -1128,7 +1128,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém abre o extrato do banco só por hábito e já fecha a aba correndo antes de processar o choque? A gente finge que a fatura não existe mas ela continua crescendo.",
    "quando": "2026-10-19T14:07:08.972017-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T07:07:09.630325-04:00",
+   "viral_chk": "2026-10-20T07:37:07.592071-04:00",
    "metricas": {
     "views": 393,
     "likes": 3,
@@ -1170,7 +1170,7 @@
    "texto": "OPINIÃO IMPOPULAR: Halloween no Brasil é só desculpa para usar fantasia em festa e o resto é detalhe. \n\nFesta com fantasia ou bar normal no fim de semana?",
    "quando": "2026-10-19T15:37:08.040036-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T07:07:09.630325-04:00",
+   "viral_chk": "2026-10-20T07:37:07.592071-04:00",
    "metricas": {
     "views": 265,
     "likes": 1,
@@ -1197,7 +1197,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T07:07:09.630325-04:00"
+   "viral_chk": "2026-10-20T07:37:07.592071-04:00"
   },
   {
    "id": "17961312879212472",
@@ -1215,7 +1215,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T07:07:09.630325-04:00"
+   "viral_chk": "2026-10-20T07:37:07.592071-04:00"
   },
   {
    "id": "18002807181007550",
@@ -1280,7 +1280,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T07:07:09.630325-04:00"
+   "viral_chk": "2026-10-20T07:37:07.592071-04:00"
   },
   {
    "id": "17964431688237038",
@@ -1298,7 +1298,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T07:07:09.630325-04:00"
+   "viral_chk": "2026-10-20T07:37:07.592071-04:00"
   }
  ],
  "respondidos": [
@@ -3436,7 +3436,13 @@
   "17916507804529979",
   "17914253103497440",
   "18082013237383766",
-  "17962054418998250"
+  "17962054418998250",
+  "18629442043042476",
+  "17909619714484151",
+  "18117453128280591",
+  "18095647352457011",
+  "18357094711174638",
+  "18023749763718271"
  ],
  "hashes": [
   "fdae5502c42707848860950824762a62",
@@ -3867,43 +3873,18 @@
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-10-20",
-  "5a4f6559c6": 1,
+  "5a4f6559c6": 2,
   "b9d23bb7a8": 2,
   "e965d5024b": 1,
-  "27aeb30637": 1
+  "27aeb30637": 1,
+  "26e252ea80": 1,
+  "ed3857fa72": 1,
+  "0cb93b55e3": 1,
+  "0db092678d": 1,
+  "831b2ba695": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "isso aí alimenta um batalhão inteiro kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "dupla que resolve qualquer almoço de domingo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse é patrimônio nacional mas achei que vinha algo bem exótico kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "kkkkk oq é isso socorro",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "essa mistura parece boa demais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quase na adolescência já dá para negociar melhor os limites",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "duas culinárias totalmente diferentes e difíceis de recusar",
    "p": "concorda",
@@ -4023,6 +4004,36 @@
    "t": "duas pedidas de respeito que garantem a refeição de qualquer dia",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "tanto faz, o importante é ter paciência e bom humor",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "quem disse que a gente bate bem da cabeça",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "trabalho bom é o que vem com brinde kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "temos bastante variedade por aqui mesmo kkkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "já manda o contato para análise",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a caçada vai render boas histórias kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4949,12 +4960,6 @@
    "pior que a"
   ],
   "18050933324606981": [
-   "tecnicamente verdade mas",
-   "ainda bem que",
-   "ja vou com",
-   "depende se a",
-   "ja ta valendo",
-   "quem me dera",
    "chamado dado com",
    "mercado aquecido e",
    "existem aos montes",
@@ -4968,7 +4973,13 @@
    "de olho no",
    "liberdade ja vem",
    "a segunda opcao",
-   "veio buscar emprego"
+   "veio buscar emprego",
+   "tanto faz o",
+   "quem disse que",
+   "trabalho bom e",
+   "temos bastante variedade",
+   "ja manda o",
+   "pelo menos a"
   ],
   "17990749128026638": [
    "filtro de qualidade"
