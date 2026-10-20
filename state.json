@@ -23,13 +23,13 @@
    "16:01"
   ],
   "produtos_feitos": 1,
-  "respostas": 30,
+  "respostas": 31,
   "por_post": {
    "18132535141688846": 1,
    "18050933324606981": 9,
    "18002807181007550": 7,
    "18113824634031941": 2,
-   "17898254706673038": 5,
+   "17898254706673038": 6,
    "18336797236279117": 6
   }
  },
@@ -3446,7 +3446,8 @@
   "18433448503199264",
   "18103020674282464",
   "18108113399616730",
-  "18358343293217373"
+  "18358343293217373",
+  "18019591235950396"
  ],
  "hashes": [
   "32fe579b7c430b96c478fd4950d6be0c",
@@ -3906,15 +3907,11 @@
   "82a5996bf2": 1,
   "65fd9e58c1": 1,
   "c8daa78e93": 1,
-  "3e111facf1": 1
+  "3e111facf1": 1,
+  "e94176e974": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "procurar a embreagem invisível é o clássico teste para ver se a alma continua no corpo kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "kkkkkkk a segunda opção já vem com o pacote de caos completo",
    "p": "ressalva",
@@ -4058,6 +4055,11 @@
   {
    "t": "essa combinação doce com creme é patrimônio afetivo que pouca gente conhece",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tem que ter espaço pra todo mundo na grelha",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -5048,7 +5050,8 @@
    "esse ai briga",
    "pelo menos a",
    "mas ai perdeu",
-   "quem me dera"
+   "quem me dera",
+   "tem que ter"
   ],
   "18336797236279117": [
    "comprar seminovo escolhido",
