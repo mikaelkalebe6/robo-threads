@@ -17,36 +17,19 @@
    "21:04"
   ],
   "feitos": [
-   "08:03"
+   "08:03",
+   "08:46"
   ],
-  "produtos_feitos": 0,
-  "respostas": 13,
+  "produtos_feitos": 1,
+  "respostas": 14,
   "por_post": {
    "18132535141688846": 1,
    "18050933324606981": 9,
-   "18002807181007550": 2,
+   "18002807181007550": 3,
    "18113824634031941": 1
   }
  },
  "posts": [
-  {
-   "id": "18115033964015030",
-   "insp": "574b51f445",
-   "link": "",
-   "texto": "Aquele professor de matemática que me deu uma chance na recuperação não imaginava que eu só usaria o conhecimento para calcular os juros do cartão de crédito hoje. É rir para não chorar.",
-   "quando": "2026-10-15T13:07:09.353825-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-16T13:07:08.934497-04:00",
-   "metricas": {
-    "views": 64,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-20"
-   }
-  },
   {
    "id": "18106546352260309",
    "insp": "fio_fio-20261011-1",
@@ -1071,7 +1054,7 @@
    "texto": "DÚVIDA SINCERA: No Nordeste feriado sem forró não conta. E aí, qual é o programa obrigatório de feriado na sua cidade? 🎉",
    "quando": "2026-10-19T12:07:08.444592-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-20T08:37:08.100875-04:00",
+   "viral_chk": "2026-10-20T09:07:08.281985-04:00",
    "metricas": {
     "views": 461,
     "likes": 1,
@@ -1089,7 +1072,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente tem frescura demais com bicho em casa. Tem um bicho morando na minha cozinha há semanas e agora virou questão de orgulho ver quem aguenta mais.",
    "quando": "2026-10-19T13:07:08.272228-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T08:37:08.100875-04:00",
+   "viral_chk": "2026-10-20T09:07:08.281985-04:00",
    "metricas": {
     "views": 840,
     "likes": 1,
@@ -1107,7 +1090,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém abre o extrato do banco só por hábito e já fecha a aba correndo antes de processar o choque? A gente finge que a fatura não existe mas ela continua crescendo.",
    "quando": "2026-10-19T14:07:08.972017-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T08:37:08.100875-04:00",
+   "viral_chk": "2026-10-20T09:07:08.281985-04:00",
    "metricas": {
     "views": 393,
     "likes": 3,
@@ -1149,7 +1132,7 @@
    "texto": "OPINIÃO IMPOPULAR: Halloween no Brasil é só desculpa para usar fantasia em festa e o resto é detalhe. \n\nFesta com fantasia ou bar normal no fim de semana?",
    "quando": "2026-10-19T15:37:08.040036-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T08:37:08.100875-04:00",
+   "viral_chk": "2026-10-20T09:07:08.281985-04:00",
    "metricas": {
     "views": 265,
     "likes": 1,
@@ -1176,7 +1159,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T08:37:08.100875-04:00"
+   "viral_chk": "2026-10-20T09:07:08.281985-04:00"
   },
   {
    "id": "17961312879212472",
@@ -1194,7 +1177,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T08:37:08.100875-04:00"
+   "viral_chk": "2026-10-20T09:07:08.281985-04:00"
   },
   {
    "id": "18002807181007550",
@@ -1259,7 +1242,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T08:37:08.100875-04:00"
+   "viral_chk": "2026-10-20T09:07:08.281985-04:00"
   },
   {
    "id": "17964431688237038",
@@ -1277,7 +1260,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T08:37:08.100875-04:00"
+   "viral_chk": "2026-10-20T09:07:08.281985-04:00"
   },
   {
    "id": "18113824634031941",
@@ -1286,7 +1269,33 @@
    "texto": "OPINIÃO IMPOPULAR: Encontro bom é quando a gente esquece de olhar o relógio.  \nVocê prefere:  \n🟡 Bate‑papo que faz o tempo desaparecer  \n⚪️ Maratona de série sem pausa",
    "quando": "2026-10-20T08:07:08.244097-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-20T08:37:08.100875-04:00"
+   "viral_chk": "2026-10-20T09:07:08.281985-04:00"
+  },
+  {
+   "id": "17965002132220251",
+   "insp": "video_56d0dfd231",
+   "link": "",
+   "texto": "Cansada de ver o cabelo grisalho perder o brilho e ficar opaco. Descobri esse produto para dar um efeito de luzes douradas nos fios que resolve muito. Olha como funciona 👀",
+   "quando": "2026-10-20T09:07:08.281985-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "22794532849",
+   "link_pendente": true,
+   "modo_produto": "mesmo",
+   "prod_dados": {
+    "itemId": "22794532849",
+    "nome": "Nouê Coloração Glow 60g Camuflagem De Brancos E Luminosidade Bases 3 a 10 Profis",
+    "preco": 125.05,
+    "nota": 4.8,
+    "vendas": 64,
+    "comissao": 0.17,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfsa9fqicflz6e",
+    "offerLink": "https://s.shopee.com.br/4fx8c5DmVY",
+    "campanha": "",
+    "modo": "mesmo"
+   }
   }
  ],
  "respondidos": [
@@ -3432,7 +3441,8 @@
   "18357094711174638",
   "18023749763718271",
   "17908888377585688",
-  "17991501623863401"
+  "17991501623863401",
+  "17913644472472338"
  ],
  "hashes": [
   "6dd8006c99f41580346bc68e9733f159",
@@ -3874,15 +3884,11 @@
   "0db092678d": 1,
   "831b2ba695": 1,
   "6785fede53": 1,
-  "5253837530": 1
+  "5253837530": 1,
+  "0fc4deab60": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "esse aí é patrimônio nacional que o resto do país precisa descobrir logo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "whatsapp acaba sendo o meio termo mais seguro pra resolver a logica da rotina",
    "p": "concorda",
@@ -4025,6 +4031,11 @@
   },
   {
    "t": "tomara que a fila ande rápido então",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "base de qualquer almoço de respeito em qualquer lugar do país",
    "p": "concorda",
    "r": 0
   }
@@ -4997,7 +5008,6 @@
    "whatsapp acaba sendo"
   ],
   "18002807181007550": [
-   "parece um prato",
    "isso ai alimenta",
    "dupla que resolve",
    "esse e patrimonio",
@@ -5016,7 +5026,8 @@
    "um lanche desses",
    "comida com identidade",
    "canjiquinha bem feita",
-   "duas pedidas de"
+   "duas pedidas de",
+   "base de qualquer"
   ],
   "18132535141688846": [
    "essa parte parece",
@@ -5354,6 +5365,7 @@
   "9e4548e3fc": "2026-10-16T15:37:08.806961-04:00",
   "69a8c4bfde": "2026-10-17T20:07:08.441906-04:00",
   "79ddb4555a": "2026-10-18T16:07:08.152921-04:00",
-  "5e65e31744": "2026-10-19T09:37:07.571353-04:00"
+  "5e65e31744": "2026-10-19T09:37:07.571353-04:00",
+  "56d0dfd231": "2026-10-20T09:07:08.281985-04:00"
  }
 }
