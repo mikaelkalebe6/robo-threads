@@ -23,11 +23,11 @@
    "16:01"
   ],
   "produtos_feitos": 1,
-  "respostas": 28,
+  "respostas": 29,
   "por_post": {
    "18132535141688846": 1,
    "18050933324606981": 9,
-   "18002807181007550": 5,
+   "18002807181007550": 6,
    "18113824634031941": 2,
    "17898254706673038": 5,
    "18336797236279117": 6
@@ -3444,7 +3444,8 @@
   "18077275121759138",
   "18127352899842582",
   "18433448503199264",
-  "18103020674282464"
+  "18103020674282464",
+  "18108113399616730"
  ],
  "hashes": [
   "32fe579b7c430b96c478fd4950d6be0c",
@@ -3902,15 +3903,11 @@
   "ca99931f63": 1,
   "d100a31331": 1,
   "82a5996bf2": 1,
-  "65fd9e58c1": 1
+  "65fd9e58c1": 1,
+  "c8daa78e93": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "o gps faz a gente de trouxa com muita classe",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "comida com identidade própria assim tem um peso diferente na história",
    "p": "concorda",
@@ -4055,6 +4052,11 @@
    "t": "jeito mais fácil de vencer o sistema kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "já entrou na minha lista só pela descrição",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5003,7 +5005,6 @@
    "whatsapp acaba sendo"
   ],
   "18002807181007550": [
-   "esse e patrimonio",
    "oq e isso",
    "essa mistura parece",
    "duas culinarias totalmente",
@@ -5022,7 +5023,8 @@
    "duas pedidas de",
    "base de qualquer",
    "cuscuz com camarao",
-   "esse ai causa"
+   "esse ai causa",
+   "ja entrou na"
   ],
   "18132535141688846": [
    "essa parte parece",
