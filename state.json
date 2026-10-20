@@ -22,13 +22,13 @@
    "09:27"
   ],
   "produtos_feitos": 1,
-  "respostas": 15,
+  "respostas": 16,
   "por_post": {
    "18132535141688846": 1,
    "18050933324606981": 9,
    "18002807181007550": 3,
    "18113824634031941": 1,
-   "17898254706673038": 1
+   "17898254706673038": 2
   }
  },
  "posts": [
@@ -1035,7 +1035,7 @@
    "texto": "DÚVIDA SINCERA: No Nordeste feriado sem forró não conta. E aí, qual é o programa obrigatório de feriado na sua cidade? 🎉",
    "quando": "2026-10-19T12:07:08.444592-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-20T10:07:08.875483-04:00",
+   "viral_chk": "2026-10-20T10:37:08.620860-04:00",
    "metricas": {
     "views": 461,
     "likes": 1,
@@ -1053,7 +1053,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente tem frescura demais com bicho em casa. Tem um bicho morando na minha cozinha há semanas e agora virou questão de orgulho ver quem aguenta mais.",
    "quando": "2026-10-19T13:07:08.272228-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T10:07:08.875483-04:00",
+   "viral_chk": "2026-10-20T10:37:08.620860-04:00",
    "metricas": {
     "views": 840,
     "likes": 1,
@@ -1071,7 +1071,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém abre o extrato do banco só por hábito e já fecha a aba correndo antes de processar o choque? A gente finge que a fatura não existe mas ela continua crescendo.",
    "quando": "2026-10-19T14:07:08.972017-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T10:07:08.875483-04:00",
+   "viral_chk": "2026-10-20T10:37:08.620860-04:00",
    "metricas": {
     "views": 393,
     "likes": 3,
@@ -1113,7 +1113,7 @@
    "texto": "OPINIÃO IMPOPULAR: Halloween no Brasil é só desculpa para usar fantasia em festa e o resto é detalhe. \n\nFesta com fantasia ou bar normal no fim de semana?",
    "quando": "2026-10-19T15:37:08.040036-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T10:07:08.875483-04:00",
+   "viral_chk": "2026-10-20T10:37:08.620860-04:00",
    "metricas": {
     "views": 265,
     "likes": 1,
@@ -1140,7 +1140,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T10:07:08.875483-04:00"
+   "viral_chk": "2026-10-20T10:37:08.620860-04:00"
   },
   {
    "id": "17961312879212472",
@@ -1158,7 +1158,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T10:07:08.875483-04:00"
+   "viral_chk": "2026-10-20T10:37:08.620860-04:00"
   },
   {
    "id": "18002807181007550",
@@ -1223,7 +1223,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T10:07:08.875483-04:00"
+   "viral_chk": "2026-10-20T10:37:08.620860-04:00"
   },
   {
    "id": "17964431688237038",
@@ -1241,7 +1241,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T10:07:08.875483-04:00"
+   "viral_chk": "2026-10-20T10:37:08.620860-04:00"
   },
   {
    "id": "18113824634031941",
@@ -1250,7 +1250,7 @@
    "texto": "OPINIÃO IMPOPULAR: Encontro bom é quando a gente esquece de olhar o relógio.  \nVocê prefere:  \n🟡 Bate‑papo que faz o tempo desaparecer  \n⚪️ Maratona de série sem pausa",
    "quando": "2026-10-20T08:07:08.244097-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-20T10:07:08.875483-04:00"
+   "viral_chk": "2026-10-20T10:37:08.620860-04:00"
   },
   {
    "id": "17965002132220251",
@@ -1285,7 +1285,7 @@
    "texto": "OPINIÃO IMPOPULAR: churrasco bom mesmo é aquele que tem pão de alho caprichado, a carne é só detalhe. 🥩",
    "quando": "2026-10-20T09:37:09.095840-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T10:07:08.875483-04:00"
+   "viral_chk": "2026-10-20T10:37:08.620860-04:00"
   }
  ],
  "respondidos": [
@@ -3433,7 +3433,8 @@
   "17908888377585688",
   "17991501623863401",
   "17913644472472338",
-  "18166939480489397"
+  "18166939480489397",
+  "18133082248826288"
  ],
  "hashes": [
   "c54ab0083007bb588c99ef314a6e1c02",
@@ -3878,15 +3879,11 @@
   "6785fede53": 1,
   "5253837530": 1,
   "0fc4deab60": 1,
-  "4be3e56906": 1
+  "4be3e56906": 1,
+  "596e15dfe1": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "essa combinação aí tem cara de comida que abraça a gente por dentro",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa é daquelas comidas que deviam ser obrigatórias em todo canto",
    "p": "concorda",
@@ -4031,6 +4028,11 @@
    "t": "Cebola na farofa do pão? Agora ficou oficial kkkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse aí briga feio com o pão de alho pelo primeiro lugar",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5030,7 +5032,8 @@
    "esse programa e"
   ],
   "17898254706673038": [
-   "cebola na farofa"
+   "cebola na farofa",
+   "esse ai briga"
   ]
  },
  "shopee_checada": "2026-10-20|1",
