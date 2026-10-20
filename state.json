@@ -20,41 +20,21 @@
    "08:03",
    "08:46",
    "09:27",
-   "16:01"
+   "16:01",
+   "18:56"
   ],
-  "produtos_feitos": 1,
-  "respostas": 31,
+  "produtos_feitos": 2,
+  "respostas": 33,
   "por_post": {
    "18132535141688846": 1,
    "18050933324606981": 9,
    "18002807181007550": 7,
    "18113824634031941": 2,
    "17898254706673038": 6,
-   "18336797236279117": 6
+   "18336797236279117": 8
   }
  },
  "posts": [
-  {
-   "id": "17946357927346575",
-   "insp": "fio_fio-20261011-2",
-   "link": "",
-   "texto": "Aparelho de barbear jogado na pia é o jeito mais rápido de estragar lâmina.",
-   "quando": "2026-10-15T19:37:08.210002-04:00",
-   "ia": "fio_literal",
-   "estrategia": "fio",
-   "formato": "fio",
-   "produto": "53108597653",
-   "link_coment": "https://s.shopee.com.br/80DLAGq39e",
-   "metricas": {
-    "views": 105,
-    "likes": 0,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-20"
-   }
-  },
   {
    "id": "18137545936729576",
    "insp": "4322eb9d04",
@@ -1283,6 +1263,32 @@
    "texto": "OPINIÃO IMPOPULAR: O cheiro de carro novo pode até ser incrível, mas você paga por ele por cinco anos. Vale a pena esse sacrifício ou é só status?",
    "quando": "2026-10-20T16:07:09.357950-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18120269116954821",
+   "insp": "video_c63d59bcd1",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: a gente inventa qualquer desculpa só para usar um sapato bonito no mercado de tênis e moletom 👠✨",
+   "quando": "2026-10-20T19:07:07.586774-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "22993669426",
+   "link_pendente": true,
+   "modo_produto": "tema",
+   "prod_dados": {
+    "itemId": "22993669426",
+    "nome": "Sapato Feminino Scarpin Bico Fino Verniz Bellamore Salto Taça 9,5 Madame Preto,V",
+    "preco": 69.9,
+    "nota": 4.9,
+    "vendas": 868,
+    "comissao": 0.11,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgphik5dqj2fcc",
+    "offerLink": "https://s.shopee.com.br/9pfFQpz0iW",
+    "campanha": "",
+    "modo": "tema"
+   }
   }
  ],
  "respondidos": [
@@ -3447,7 +3453,9 @@
   "18103020674282464",
   "18108113399616730",
   "18358343293217373",
-  "18019591235950396"
+  "18019591235950396",
+  "18501204676097980",
+  "17869119144661181"
  ],
  "hashes": [
   "32fe579b7c430b96c478fd4950d6be0c",
@@ -3908,20 +3916,12 @@
   "65fd9e58c1": 1,
   "c8daa78e93": 1,
   "3e111facf1": 1,
-  "e94176e974": 1
+  "e94176e974": 1,
+  "1fdd94a055": 1,
+  "72911d63cb": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "kkkkkkk a segunda opção já vem com o pacote de caos completo",
-   "p": "ressalva",
-   "r": 2
-  },
-  {
-   "t": "canjiquinha bem feita com bastante tempero ganha de muito prato chique",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "veio buscar emprego e conseguiu foi vaga de dependente kkkkk",
    "p": "concorda",
@@ -4059,6 +4059,16 @@
   },
   {
    "t": "tem que ter espaço pra todo mundo na grelha",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "para quem usa muito o carro no dia a dia a conta acaba sendo bem diferente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "organização financeira faz milagre mesmo pra quem quer realizar esse sonho",
    "p": "ressalva",
    "r": 0
   }
@@ -5059,7 +5069,9 @@
    "coragem e conta",
    "justo acho que",
    "liberdade tem seu",
-   "jeito mais facil"
+   "jeito mais facil",
+   "para quem usa",
+   "organizacao financeira faz"
   ]
  },
  "shopee_checada": "2026-10-20|1",
@@ -5385,6 +5397,7 @@
   "69a8c4bfde": "2026-10-17T20:07:08.441906-04:00",
   "79ddb4555a": "2026-10-18T16:07:08.152921-04:00",
   "5e65e31744": "2026-10-19T09:37:07.571353-04:00",
-  "56d0dfd231": "2026-10-20T09:07:08.281985-04:00"
+  "56d0dfd231": "2026-10-20T09:07:08.281985-04:00",
+  "c63d59bcd1": "2026-10-20T19:07:07.586774-04:00"
  }
 }
