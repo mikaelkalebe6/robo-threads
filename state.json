@@ -35,10 +35,11 @@
    "15:21",
    "16:46",
    "17:39",
-   "18:30"
+   "18:30",
+   "19:44"
   ],
-  "produtos_feitos": 2,
-  "respostas": 80,
+  "produtos_feitos": 3,
+  "respostas": 81,
   "por_post": {
    "18101720819560610": 3,
    "18384730186242595": 8,
@@ -55,34 +56,10 @@
    "18020487191940773": 1,
    "18490025323129946": 3,
    "17961312879212472": 6,
-   "18002807181007550": 8
+   "18002807181007550": 9
   }
  },
  "posts": [
-  {
-   "id": "18022654580930498",
-   "insp": "car_car-20261011-2",
-   "link": "",
-   "texto": "segurar a lanterna na boca pra mexer no motor nunca foi plano",
-   "quando": "2026-10-14T18:37:09.414142-04:00",
-   "ia": "carrossel",
-   "estrategia": "carrossel",
-   "formato": "carrossel",
-   "formato_link": "coment",
-   "produto": "22493432361",
-   "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
-   "visual": "ec",
-   "link_coment": "https://s.shopee.com.br/9V28x1oo8o",
-   "metricas": {
-    "views": 109,
-    "likes": 0,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-19"
-   }
-  },
   {
    "id": "18079283594720412",
    "insp": "68d405bd4e",
@@ -1213,6 +1190,21 @@
    "texto": "ME CONTA: qual é aquela comida típica da sua terra que o resto do país simplesmente ignora mas merecia o mundo?",
    "quando": "2026-10-19T18:37:09.044235-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18105158870007125",
+   "insp": "car_car-20261018-5",
+   "link": "",
+   "texto": "Mão de motoqueiro no verão: *torrada e suada.*",
+   "quando": "2026-10-19T20:07:07.981408-04:00",
+   "ia": "carrossel",
+   "estrategia": "carrossel",
+   "formato": "carrossel",
+   "formato_link": "coment",
+   "produto": "22094428849",
+   "modelo": "vitrine na capa (layout produto, teste; ref. DYUzwlokWpa objeto com pílula vermelha) + manchete",
+   "visual": "vm",
+   "link_coment": "https://s.shopee.com.br/5LCkUTyX15"
   }
  ],
  "respondidos": [
@@ -3327,7 +3319,8 @@
   "18133100596827263",
   "18144739378582178",
   "18078484976435242",
-  "17951703435319219"
+  "17951703435319219",
+  "17958049302017055"
  ],
  "hashes": [
   "e92a4c585e2ef4db6a0a4447a4df25ab",
@@ -3833,15 +3826,11 @@
   "2ffab5ca97": 1,
   "b3311cceb1": 1,
   "c861933903": 1,
-  "3ba30b20da": 1
+  "3ba30b20da": 1,
+  "36a609374d": 1
  },
  "reservas_checadas": "2026-10-19",
  "ultimas_respostas": [
-  {
-   "t": "parece que não mas tem gente que acha perda de tempo kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "verdade, o tom muda tudo para não virar só grosseria disfarçada de sinceridade",
    "p": "concorda",
@@ -3984,6 +3973,11 @@
   },
   {
    "t": "bolo salgado decorado assim merecia feriado nacional",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse aí é patrimônio nacional que o resto do país precisa descobrir logo",
    "p": "concorda",
    "r": 0
   }
@@ -4228,6 +4222,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-19T16:37:08.056698-04:00"
+  },
+  "17938426434123140": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-19T20:07:07.981408-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4967,7 +4966,8 @@
    "oq e isso",
    "essa mistura parece",
    "duas culinarias totalmente",
-   "bolo salgado decorado"
+   "bolo salgado decorado",
+   "esse ai e"
   ]
  },
  "shopee_checada": "2026-10-19|1",
@@ -5135,7 +5135,8 @@
   "25946709329": "2026-10-19T10:07:09.572610-04:00",
   "22897453366": "2026-10-19T12:37:10.969998-04:00",
   "58251425003": "2026-10-19T15:07:08.541989-04:00",
-  "20298142088": "2026-10-19T16:37:08.056698-04:00"
+  "20298142088": "2026-10-19T16:37:08.056698-04:00",
+  "22094428849": "2026-10-19T20:07:07.981408-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -5158,7 +5159,8 @@
   "car-20261011-5",
   "car-20261011-6",
   "car-20261018-2",
-  "car-20261018-3"
+  "car-20261018-3",
+  "car-20261018-5"
  ],
  "shopee_campanhas_marca": "380409f5d1",
  "shopee_campanhas_api": [
