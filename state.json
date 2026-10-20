@@ -23,11 +23,11 @@
    "16:01"
   ],
   "produtos_feitos": 1,
-  "respostas": 29,
+  "respostas": 30,
   "por_post": {
    "18132535141688846": 1,
    "18050933324606981": 9,
-   "18002807181007550": 6,
+   "18002807181007550": 7,
    "18113824634031941": 2,
    "17898254706673038": 5,
    "18336797236279117": 6
@@ -3445,7 +3445,8 @@
   "18127352899842582",
   "18433448503199264",
   "18103020674282464",
-  "18108113399616730"
+  "18108113399616730",
+  "18358343293217373"
  ],
  "hashes": [
   "32fe579b7c430b96c478fd4950d6be0c",
@@ -3904,15 +3905,11 @@
   "d100a31331": 1,
   "82a5996bf2": 1,
   "65fd9e58c1": 1,
-  "c8daa78e93": 1
+  "c8daa78e93": 1,
+  "3e111facf1": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "comida com identidade própria assim tem um peso diferente na história",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "procurar a embreagem invisível é o clássico teste para ver se a alma continua no corpo kkkkk",
    "p": "concorda",
@@ -4055,6 +4052,11 @@
   },
   {
    "t": "já entrou na minha lista só pela descrição",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa combinação doce com creme é patrimônio afetivo que pouca gente conhece",
    "p": "concorda",
    "r": 0
   }
@@ -5005,7 +5007,6 @@
    "whatsapp acaba sendo"
   ],
   "18002807181007550": [
-   "oq e isso",
    "essa mistura parece",
    "duas culinarias totalmente",
    "bolo salgado decorado",
@@ -5024,7 +5025,8 @@
    "base de qualquer",
    "cuscuz com camarao",
    "esse ai causa",
-   "ja entrou na"
+   "ja entrou na",
+   "essa combinacao doce"
   ],
   "18132535141688846": [
    "essa parte parece",
