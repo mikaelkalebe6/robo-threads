@@ -22,13 +22,13 @@
    "09:27"
   ],
   "produtos_feitos": 1,
-  "respostas": 19,
+  "respostas": 20,
   "por_post": {
    "18132535141688846": 1,
    "18050933324606981": 9,
    "18002807181007550": 3,
    "18113824634031941": 2,
-   "17898254706673038": 4
+   "17898254706673038": 5
   }
  },
  "posts": [
@@ -3442,7 +3442,8 @@
   "18133082248826288",
   "17995897155089256",
   "18108783218221346",
-  "18036712031893841"
+  "18036712031893841",
+  "18102446471058943"
  ],
  "hashes": [
   "c54ab0083007bb588c99ef314a6e1c02",
@@ -3891,15 +3892,11 @@
   "596e15dfe1": 1,
   "69704e2689": 1,
   "1f1e8afefa": 1,
-  "d77d8066ee": 1
+  "d77d8066ee": 1,
+  "9c5526320e": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "moqueca servida assim com panela de barro é covardia",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa dupla com pirão bem feito resolve qualquer dia ruim",
    "p": "concorda",
@@ -4044,6 +4041,11 @@
    "t": "mas aí perdeu a graça da briga kkkkkk",
    "p": "discorda",
    "r": 2
+  },
+  {
+   "t": "quem me dera se existisse rodízio disso kkk",
+   "p": "discorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5052,7 +5054,8 @@
    "cebola na farofa",
    "esse ai briga",
    "pelo menos a",
-   "mas ai perdeu"
+   "mas ai perdeu",
+   "quem me dera"
   ]
  },
  "shopee_checada": "2026-10-20|1",
