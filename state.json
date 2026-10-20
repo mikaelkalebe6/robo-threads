@@ -22,11 +22,11 @@
    "09:27"
   ],
   "produtos_feitos": 1,
-  "respostas": 21,
+  "respostas": 22,
   "por_post": {
    "18132535141688846": 1,
    "18050933324606981": 9,
-   "18002807181007550": 4,
+   "18002807181007550": 5,
    "18113824634031941": 2,
    "17898254706673038": 5
   }
@@ -3445,7 +3445,8 @@
   "18036712031893841",
   "18102446471058943",
   "17953336185276161",
-  "18105509858361012"
+  "18105509858361012",
+  "18119400265999567"
  ],
  "hashes": [
   "c54ab0083007bb588c99ef314a6e1c02",
@@ -3896,15 +3897,11 @@
   "1f1e8afefa": 1,
   "d77d8066ee": 1,
   "9c5526320e": 1,
-  "15790c9bcb": 1
+  "15790c9bcb": 1,
+  "4c65e63cb7": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "dupla de respeito que tem lugar garantido em qualquer mesa",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa parte parece teste de paciência toda vez q a gente sai de casa",
    "p": "concorda",
@@ -4047,6 +4044,11 @@
   },
   {
    "t": "cuscuz com camarão? agora tá anotado, parece incrível 😋",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse aí causa debate acalorado em qualquer mesa de almoço",
    "p": "concorda",
    "r": 0
   }
@@ -5017,7 +5019,6 @@
    "whatsapp acaba sendo"
   ],
   "18002807181007550": [
-   "dupla que resolve",
    "esse e patrimonio",
    "oq e isso",
    "essa mistura parece",
@@ -5036,7 +5037,8 @@
    "canjiquinha bem feita",
    "duas pedidas de",
    "base de qualquer",
-   "cuscuz com camarao"
+   "cuscuz com camarao",
+   "esse ai causa"
   ],
   "18132535141688846": [
    "essa parte parece",
