@@ -16,7 +16,9 @@
    "18:56",
    "21:04"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:03"
+  ],
   "produtos_feitos": 0,
   "respostas": 11,
   "por_post": {
@@ -26,30 +28,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18185899492414064",
-   "insp": "car_car-20261011-3",
-   "link": "",
-   "texto": "a caixa de fósforo acabando bem na hora do café",
-   "quando": "2026-10-15T09:37:10.149793-04:00",
-   "ia": "carrossel",
-   "estrategia": "carrossel",
-   "formato": "carrossel",
-   "formato_link": "coment",
-   "produto": "58209986445",
-   "modelo": "meme de reacao (refs. DdbtUQQoA9-, DeRyDE-IH2i) + manchete (DXVUQ01jZe6)",
-   "visual": "cc",
-   "link_coment": "https://s.shopee.com.br/905sM6qi9d",
-   "metricas": {
-    "views": 168,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-20"
-   }
-  },
   {
    "id": "18115033964015030",
    "insp": "574b51f445",
@@ -990,7 +968,7 @@
    "texto": "OPINIÃO IMPOPULAR: marcar call pra falar algo que se resolve em duas linhas de mensagem é sacanagem. \n\nMetade do cansaço da semana vem de fingir que tá prestando atenção em reunião inútil.",
    "quando": "2026-10-19T08:37:08.304730-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-20T07:37:07.592071-04:00",
+   "viral_chk": "2026-10-20T08:07:08.244097-04:00",
    "metricas": {
     "views": 450,
     "likes": 2,
@@ -1092,7 +1070,7 @@
    "texto": "DÚVIDA SINCERA: No Nordeste feriado sem forró não conta. E aí, qual é o programa obrigatório de feriado na sua cidade? 🎉",
    "quando": "2026-10-19T12:07:08.444592-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-20T07:37:07.592071-04:00",
+   "viral_chk": "2026-10-20T08:07:08.244097-04:00",
    "metricas": {
     "views": 461,
     "likes": 1,
@@ -1110,7 +1088,7 @@
    "texto": "OPINIÃO IMPOPULAR: a gente tem frescura demais com bicho em casa. Tem um bicho morando na minha cozinha há semanas e agora virou questão de orgulho ver quem aguenta mais.",
    "quando": "2026-10-19T13:07:08.272228-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T07:37:07.592071-04:00",
+   "viral_chk": "2026-10-20T08:07:08.244097-04:00",
    "metricas": {
     "views": 840,
     "likes": 1,
@@ -1128,7 +1106,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém abre o extrato do banco só por hábito e já fecha a aba correndo antes de processar o choque? A gente finge que a fatura não existe mas ela continua crescendo.",
    "quando": "2026-10-19T14:07:08.972017-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T07:37:07.592071-04:00",
+   "viral_chk": "2026-10-20T08:07:08.244097-04:00",
    "metricas": {
     "views": 393,
     "likes": 3,
@@ -1170,7 +1148,7 @@
    "texto": "OPINIÃO IMPOPULAR: Halloween no Brasil é só desculpa para usar fantasia em festa e o resto é detalhe. \n\nFesta com fantasia ou bar normal no fim de semana?",
    "quando": "2026-10-19T15:37:08.040036-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T07:37:07.592071-04:00",
+   "viral_chk": "2026-10-20T08:07:08.244097-04:00",
    "metricas": {
     "views": 265,
     "likes": 1,
@@ -1197,7 +1175,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T07:37:07.592071-04:00"
+   "viral_chk": "2026-10-20T08:07:08.244097-04:00"
   },
   {
    "id": "17961312879212472",
@@ -1215,7 +1193,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T07:37:07.592071-04:00"
+   "viral_chk": "2026-10-20T08:07:08.244097-04:00"
   },
   {
    "id": "18002807181007550",
@@ -1280,7 +1258,7 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T07:37:07.592071-04:00"
+   "viral_chk": "2026-10-20T08:07:08.244097-04:00"
   },
   {
    "id": "17964431688237038",
@@ -1298,7 +1276,16 @@
     "shares": 0,
     "em": "2026-10-20"
    },
-   "viral_chk": "2026-10-20T07:37:07.592071-04:00"
+   "viral_chk": "2026-10-20T08:07:08.244097-04:00"
+  },
+  {
+   "id": "18113824634031941",
+   "insp": "ef980ef49f",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Encontro bom é quando a gente esquece de olhar o relógio.  \nVocê prefere:  \n🟡 Bate‑papo que faz o tempo desaparecer  \n⚪️ Maratona de série sem pausa",
+   "quando": "2026-10-20T08:07:08.244097-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "viral_chk": "2026-10-20T08:07:08.244097-04:00"
   }
  ],
  "respondidos": [
@@ -3445,7 +3432,6 @@
   "18023749763718271"
  ],
  "hashes": [
-  "fdae5502c42707848860950824762a62",
   "6dd8006c99f41580346bc68e9733f159",
   "c54ab0083007bb588c99ef314a6e1c02",
   "32fe579b7c430b96c478fd4950d6be0c",
@@ -3644,7 +3630,8 @@
   "ea0e2ac32c31c7a29f490f48d3a1ce58",
   "d0cb3e22819e3d0b2553b698de256b87",
   "7f6c9487ea869d67e49e293d9b9af49c",
-  "ab343a7ccda1391102ecb6b19f0907ff"
+  "ab343a7ccda1391102ecb6b19f0907ff",
+  "05259b7063a5b9394d2731e1a987db04"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3868,7 +3855,8 @@
   "2f5da7a997": 1792447659.8616993,
   "17f68f2d68": 1792449450.006739,
   "bf80c2c0a0": 1792458487.7854679,
-  "88bd5be843": 1792462047.7504954
+  "88bd5be843": 1792462047.7504954,
+  "ef980ef49f": 1792498040.299683
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
