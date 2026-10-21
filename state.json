@@ -22,9 +22,10 @@
    "09:27",
    "16:01",
    "18:56",
-   "19:54"
+   "19:54",
+   "21:04"
   ],
-  "produtos_feitos": 2,
+  "produtos_feitos": 3,
   "respostas": 33,
   "por_post": {
    "18132535141688846": 1,
@@ -36,30 +37,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17912283453507452",
-   "insp": "car_car-20261011-4",
-   "link": "",
-   "texto": "Mesmo carro. *Outra noite.*",
-   "quando": "2026-10-16T11:07:09.333086-04:00",
-   "ia": "carrossel",
-   "estrategia": "carrossel",
-   "formato": "carrossel",
-   "formato_link": "coment",
-   "produto": "21897981655",
-   "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
-   "visual": "em",
-   "link_coment": "https://s.shopee.com.br/7faUleI3M5",
-   "metricas": {
-    "views": 177,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-20"
-   }
-  },
   {
    "id": "18118448395784719",
    "insp": "ee7378f2f0",
@@ -1280,6 +1257,32 @@
    "texto": "VAMOS SER HONESTOS: consertar qualquer besteira em casa sem chamar ninguém dá mais orgulho do que muito diploma. \n\nA gente passa o resto do dia andando pela sala fingindo costume só para alguém notar e elogiar.",
    "quando": "2026-10-20T20:07:09.780315-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "17954803569035348",
+   "insp": "video_d0af80e2f4",
+   "link": "",
+   "texto": "Pra quem tem parede sem graça com cara de abandono, descobri esse painel de madeira pra pendurar planta e resolver o problema. Olha como funciona 👀",
+   "quando": "2026-10-20T21:07:09.708148-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "16519154009",
+   "link_pendente": true,
+   "modo_produto": "mesmo",
+   "prod_dados": {
+    "itemId": "16519154009",
+    "nome": "painel vertical de madeira maciça de lei para jardim, floreira com 3 cachepôs,ca",
+    "preco": 78.44,
+    "nota": 4.6,
+    "vendas": 10,
+    "comissao": 0.13,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrf0f13np0ysef",
+    "offerLink": "https://s.shopee.com.br/9068ZUYtla",
+    "campanha": "",
+    "modo": "mesmo"
+   }
   }
  ],
  "respondidos": [
@@ -5392,6 +5395,7 @@
   "79ddb4555a": "2026-10-18T16:07:08.152921-04:00",
   "5e65e31744": "2026-10-19T09:37:07.571353-04:00",
   "56d0dfd231": "2026-10-20T09:07:08.281985-04:00",
-  "c63d59bcd1": "2026-10-20T19:07:07.586774-04:00"
+  "c63d59bcd1": "2026-10-20T19:07:07.586774-04:00",
+  "d0af80e2f4": "2026-10-20T21:07:09.708148-04:00"
  }
 }
