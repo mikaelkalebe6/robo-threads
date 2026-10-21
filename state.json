@@ -30,14 +30,15 @@
    "12:11"
   ],
   "produtos_feitos": 1,
-  "respostas": 34,
+  "respostas": 40,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 2,
    "17890502484684901": 7,
    "17898254706673038": 1,
    "17951473839312879": 18,
-   "18031016114857476": 5
+   "18031016114857476": 5,
+   "18118666177972325": 6
   }
  },
  "posts": [
@@ -1153,7 +1154,7 @@
    "estrategia": "produto_video",
    "formato_link": "resp",
    "produto": "22993669426",
-   "link_pendente": true,
+   "link_pendente": false,
    "modo_produto": "tema",
    "prod_dados": {
     "itemId": "22993669426",
@@ -1175,7 +1176,10 @@
     "quotes": 0,
     "shares": 1,
     "em": "2026-10-21"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/9pfFQpz0iW",
+   "link_em": "2026-10-21T13:07:09.415738-04:00",
+   "link_views": 0
   },
   {
    "id": "18119575696958300",
@@ -3515,7 +3519,13 @@
   "17954856438272591",
   "18118683073971284",
   "18474158881137285",
-  "18112210985135644"
+  "18112210985135644",
+  "18118465643284732",
+  "18091973084693948",
+  "18124996774713362",
+  "18087334439294609",
+  "18114700288841790",
+  "18644439121018974"
  ],
  "hashes": [
   "f0ba4c948a297ca4e9ee02d5b8a7c3bb",
@@ -3985,40 +3995,16 @@
   "7d50492e5d": 1,
   "a8d146dd6c": 1,
   "31c6b43995": 1,
-  "b71c265c29": 1
+  "b71c265c29": 1,
+  "21bd4d699d": 1,
+  "c5b810f792": 1,
+  "5979617f0f": 1,
+  "9578b29dfc": 1,
+  "8a4620ac27": 1,
+  "121b9d00e2": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "prevenção é tudo, pelo menos o táxi de volta tá garantido kkkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "evita qualquer mal-entendido e cada um segue seu caminho em paz",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pão de alho bom ganha o churrasco inteiro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "mudou de figura quando virou questão de principio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "lugar tranquilo e barato é ótimo pra focar só na conversa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, a vontade existe mas o caminho ficou bem mais complicado mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "sistema tá difícil pra todo mundo ultimamente 😭",
    "p": "neutra",
@@ -4136,6 +4122,36 @@
   },
   {
    "t": "esse clássico nunca perde a graca kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "que saudade boa e dolorida ao mesmo tempo, dá vontade de abraçar forte",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "pais achando que luz de lâmpada muda a cor da pele da gente kkkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "preciso saber imediatamente a origem desse título kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pai raiz demais colocando apelido baseado em escalação de time kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "tchu é ótimo kkkkk veio de onde essa genialidade?",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "família não tem limites na hora de batizar as pessoas kkk",
    "p": "concorda",
    "r": 1
   }
@@ -4415,6 +4431,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-21T11:07:09.391806-04:00"
+  },
+  "17914988511541321": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-21T13:07:09.415738-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4910,9 +4931,6 @@
   }
  ],
  "aberturas_post": {
-  "18092117084659517": [
-   "caderno caprichado e"
-  ],
   "18106390660980798": [
    "pesquisa de campo",
    "faltou aquela ousadia",
@@ -5169,6 +5187,14 @@
    "nostalgia pura da",
    "excelente pra esquecer",
    "esse classico nunca"
+  ],
+  "18118666177972325": [
+   "que saudade boa",
+   "pais achando que",
+   "preciso saber imediatamente",
+   "pai raiz demais",
+   "tchu e otimo",
+   "familia nao tem"
   ]
  },
  "shopee_checada": "2026-10-21|1",
@@ -5358,7 +5384,8 @@
   "20999580796": "2026-10-20T11:07:10.963888-04:00",
   "22794532849": "2026-10-21T07:07:11.384114-04:00",
   "58205929037": "2026-10-21T07:07:11.384114-04:00",
-  "58208944738": "2026-10-21T11:07:09.391806-04:00"
+  "58208944738": "2026-10-21T11:07:09.391806-04:00",
+  "22993669426": "2026-10-21T13:07:09.415738-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
