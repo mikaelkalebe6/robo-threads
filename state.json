@@ -23,55 +23,19 @@
    "19:47"
   ],
   "feitos": [
-   "08:07"
+   "08:07",
+   "09:01"
   ],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 9,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 1,
-   "17890502484684901": 4
+   "17890502484684901": 6,
+   "17898254706673038": 1
   }
  },
  "posts": [
-  {
-   "id": "18096698837416891",
-   "insp": "video_9e4548e3fc",
-   "link": "",
-   "texto": "Descobri essa dica pra salvar lírio‑da‑paz murchando 😅. Misture canela em pó com água e veja a diferença 👀",
-   "quando": "2026-10-16T15:37:08.806961-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "14448900266",
-   "link_pendente": false,
-   "modo_produto": "mesmo",
-   "prod_dados": {
-    "itemId": "14448900266",
-    "nome": "Canela Po Pura",
-    "preco": 29.25,
-    "nota": 4.9,
-    "vendas": 631,
-    "comissao": 0.03,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr6cn2cyl631bb",
-    "offerLink": "https://s.shopee.com.br/2BFhgi20iS",
-    "campanha": "",
-    "modo": "mesmo"
-   },
-   "link_coment": "https://s.shopee.com.br/2BFhgi20iS",
-   "link_em": "2026-10-16T21:37:07.021297-04:00",
-   "link_views": 531,
-   "metricas": {
-    "views": 954,
-    "likes": 6,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 20,
-    "em": "2026-10-21"
-   }
-  },
   {
    "id": "18114403013039784",
    "insp": "383fb2ad25",
@@ -1228,7 +1192,7 @@
     "shares": 0,
     "em": "2026-10-21"
    },
-   "viral_chk": "2026-10-21T08:37:08.682296-04:00"
+   "viral_chk": "2026-10-21T09:07:09.233730-04:00"
   },
   {
    "id": "18120269116954821",
@@ -1281,7 +1245,7 @@
     "shares": 0,
     "em": "2026-10-21"
    },
-   "viral_chk": "2026-10-21T08:37:08.682296-04:00"
+   "viral_chk": "2026-10-21T09:07:09.233730-04:00"
   },
   {
    "id": "17954803569035348",
@@ -1334,7 +1298,7 @@
     "shares": 0,
     "em": "2026-10-21"
    },
-   "viral_chk": "2026-10-21T08:37:08.682296-04:00"
+   "viral_chk": "2026-10-21T09:07:09.233730-04:00"
   },
   {
    "id": "17890502484684901",
@@ -1343,7 +1307,16 @@
    "texto": "DÚVIDA SINCERA: pagar a conta toda no primeiro encontro é gentileza de verdade ou pura pressão disfarçada?\n\nPara mim, cada um paga o seu e ninguém vai embora achando que deve nada.",
    "quando": "2026-10-21T08:07:09.399443-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-21T08:37:08.682296-04:00"
+   "viral_chk": "2026-10-21T09:07:09.233730-04:00"
+  },
+  {
+   "id": "17951473839312879",
+   "insp": "0b861e4943",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: ainda tem homem solteiro querendo relacionamento de verdade ou virou padrão aquele papo de \"vamos deixando rolar\" sem prazo pra acabar?\n\nA sensação é que ninguém mais tem coragem de assumir nada.",
+   "quando": "2026-10-21T09:07:09.233730-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-21T09:07:09.233730-04:00"
   }
  ],
  "respondidos": [
@@ -3519,10 +3492,12 @@
   "18125039386911082",
   "17974340028153635",
   "17957642532255862",
-  "17941727358376519"
+  "17941727358376519",
+  "18178022446444309",
+  "18106910384256149",
+  "17976299793141439"
  ],
  "hashes": [
-  "d7c8c4c1090b62ee518b48217f025222",
   "f72e7cd9b1826e3c657f5d145159b534",
   "7a85ccf5af93f0555cf3eb5e6f382905",
   "f0ba4c948a297ca4e9ee02d5b8a7c3bb",
@@ -3721,7 +3696,8 @@
   "d89e790f7df0c6f25ef531197e56c958",
   "7c12c48fdc237178e35e12251e55bdd8",
   "61a058eb0279d5071b2282c430d99755",
-  "45e02c1fd6f878de70fc74fba99f088b"
+  "45e02c1fd6f878de70fc74fba99f088b",
+  "8fb89a881ceaf52dc346a066920e613e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3951,7 +3927,8 @@
   "693cca0994": 1792526849.6093185,
   "179d442b7d": 1792541279.5371044,
   "f9bb6059fa": 1792548447.969154,
-  "bfb39abc85": 1792584447.8136292
+  "bfb39abc85": 1792584447.8136292,
+  "0b861e4943": 1792588055.3040116
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3961,25 +3938,12 @@
   "b701eaf581": 1,
   "e679918c9e": 1,
   "7a078c8ccd": 1,
-  "d914807697": 1
+  "d914807697": 1,
+  "366fd5e9e4": 2,
+  "01af5a7598": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos a caçada vai render boas histórias kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse programa é imbatível para desligar do mundo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tomara que a fila ande rápido então",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "base de qualquer almoço de respeito em qualquer lugar do país",
    "p": "concorda",
@@ -4112,6 +4076,21 @@
   },
   {
    "t": "evita qualquer mal-entendido e cada um segue seu caminho em paz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pão de alho bom ganha o churrasco inteiro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "mudou de figura quando virou questão de principio",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "lugar tranquilo e barato é ótimo pra focar só na conversa",
    "p": "concorda",
    "r": 0
   }
@@ -5114,7 +5093,8 @@
    "mas ai perdeu",
    "quem me dera",
    "tem que ter",
-   "defesa firme da"
+   "defesa firme da",
+   "pao de alho"
   ],
   "18336797236279117": [
    "comprar seminovo escolhido",
@@ -5134,7 +5114,9 @@
    "exato olhar como",
    "investimento alto antes",
    "prevencao e tudo",
-   "evita qualquer mal"
+   "evita qualquer mal",
+   "mudou de figura",
+   "lugar tranquilo e"
   ]
  },
  "shopee_checada": "2026-10-21|1",
