@@ -25,40 +25,20 @@
   "feitos": [
    "08:07",
    "09:01",
-   "10:08"
+   "10:08",
+   "11:10"
   ],
   "produtos_feitos": 1,
-  "respostas": 26,
+  "respostas": 27,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 1,
    "17890502484684901": 7,
    "17898254706673038": 1,
-   "17951473839312879": 16
+   "17951473839312879": 17
   }
  },
  "posts": [
-  {
-   "id": "18083693879364782",
-   "insp": "fio_fio-20261011-3",
-   "link": "",
-   "texto": "Carteira estufada no bolso de trás incomoda pra sentar e ainda mostra pra todo mundo onde tá o dinheiro.",
-   "quando": "2026-10-16T18:37:09.135500-04:00",
-   "ia": "fio_literal",
-   "estrategia": "fio",
-   "formato": "fio",
-   "produto": "23198658411",
-   "link_coment": "https://s.shopee.com.br/2LYzLYebmu",
-   "metricas": {
-    "views": 85,
-    "likes": 0,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-21"
-   }
-  },
   {
    "id": "18600522124066906",
    "insp": "13bb414dfc",
@@ -1332,6 +1312,14 @@
     "campanha": "",
     "modo": "parecido"
    }
+  },
+  {
+   "id": "18031016114857476",
+   "insp": "211ca1e405",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: a gente abre aquele joguinho leve fingindo que vai treinar o raciocínio, mas só quer mesmo desligar o cérebro por dez minutos. Qual o seu jogo oficial de esvaziar a mente?",
+   "quando": "2026-10-21T11:37:09.829600-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3527,10 +3515,10 @@
   "17880265113630099",
   "18147628765568516",
   "18024688412868802",
-  "18109770410523135"
+  "18109770410523135",
+  "18138458335636402"
  ],
  "hashes": [
-  "f72e7cd9b1826e3c657f5d145159b534",
   "7a85ccf5af93f0555cf3eb5e6f382905",
   "f0ba4c948a297ca4e9ee02d5b8a7c3bb",
   "e3834208b026d9dfee9afacf2cb1cef7",
@@ -3729,7 +3717,8 @@
   "7c12c48fdc237178e35e12251e55bdd8",
   "61a058eb0279d5071b2282c430d99755",
   "45e02c1fd6f878de70fc74fba99f088b",
-  "8fb89a881ceaf52dc346a066920e613e"
+  "8fb89a881ceaf52dc346a066920e613e",
+  "b57a30987841df02b0add1c5e8c72e9a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3960,7 +3949,8 @@
   "179d442b7d": 1792541279.5371044,
   "f9bb6059fa": 1792548447.969154,
   "bfb39abc85": 1792584447.8136292,
-  "0b861e4943": 1792588055.3040116
+  "0b861e4943": 1792588055.3040116,
+  "211ca1e405": 1792597051.3653948
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3987,15 +3977,11 @@
   "c5e378e189": 1,
   "c128485506": 1,
   "1ed1d5993b": 1,
-  "c768b3b770": 1
+  "c768b3b770": 1,
+  "255fe7eded": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "tem que ter espaço pra todo mundo na grelha",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "para quem usa muito o carro no dia a dia a conta acaba sendo bem diferente",
    "p": "concorda",
@@ -4138,6 +4124,11 @@
   },
   {
    "t": "pelo menos poupa o desgaste de tentar algo que não vai a lugar nenhum",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a preguiça de ter que explicar o básico tá gigante",
    "p": "concorda",
    "r": 0
   }
@@ -5182,7 +5173,8 @@
    "o cansaco ta",
    "separar homem de",
    "justo demais paz",
-   "pelo menos poupa"
+   "pelo menos poupa",
+   "a preguica de"
   ]
  },
  "shopee_checada": "2026-10-21|1",
