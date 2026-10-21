@@ -35,7 +35,7 @@
    "17:37"
   ],
   "produtos_feitos": 2,
-  "respostas": 71,
+  "respostas": 77,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
@@ -46,7 +46,8 @@
    "18118666177972325": 12,
    "18119586661952960": 10,
    "17964565467250557": 1,
-   "18118787687077318": 6
+   "18118787687077318": 11,
+   "18377981101209166": 1
   }
  },
  "posts": [
@@ -3514,7 +3515,13 @@
   "18099012680104719",
   "18109351562221670",
   "17972516763177754",
-  "18114276428521236"
+  "18114276428521236",
+  "18078879419416596",
+  "17877389517635808",
+  "17951743251319560",
+  "18100969358561406",
+  "17998021596255068",
+  "18130662004696187"
  ],
  "hashes": [
   "36cc8410dc97dc2d55e306cba72f8ffd",
@@ -4025,40 +4032,16 @@
   "98aa8d168a": 1,
   "2ae4b78da5": 1,
   "b35859f239": 1,
-  "48455f8b21": 1
+  "48455f8b21": 1,
+  "7c305a70da": 1,
+  "bd345a06ef": 1,
+  "4d53a10b00": 1,
+  "1a3176d50e": 1,
+  "7d7204abfb": 1,
+  "4cc4809849": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "crueldade de família na infancia deveria ser crime inafiançável",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "socorro kkkkkkkkkkkkkkkkkkkkkk criatividade zero e cem ao mesmo tempo",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "o tipo de logica familiar que desafia qualquer geneticanos kkkkkkkkkkkkkmmkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "preciso saber a história por trás desse apelido kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "economia drástica de peças kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse constrói um mundinho tão bonitinho que a gente esquece dos boletos",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse choque aí deixou sequelas em muita gente kkkk",
    "p": "concorda",
@@ -4178,6 +4161,36 @@
    "t": "o amor pela materia comecou cedo então",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "depende se a orelha tem botão reset kkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "passar o lado bom adiante é a melhor herança que um professor pode deixar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, o termo médio simplesmente some da cabeça da gente com o tempo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nossa que covardia absurda, o trauma de infancia deixa marca pra sempre",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "separar a pessoa da matéria é um ótimo jeito de seguir em paz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o famoso virar o jogo com juros e correção kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4960,17 +4973,6 @@
   }
  ],
  "aberturas_post": {
-  "18193642693392878": [
-   "quem acostuma com",
-   "teste de sobrevivencia",
-   "dirigir com os",
-   "direcao pesada antigamente",
-   "comprar um desse",
-   "memoria muscular salva",
-   "a pratica volta",
-   "caminho sem volta",
-   "uns minutinhos e"
-  ],
   "18144021196597425": [
    "justo demais o",
    "esse e o",
@@ -5234,7 +5236,15 @@
    "professor que transforma",
    "biologia opcional mas",
    "essa materia muita",
-   "o amor pela"
+   "o amor pela",
+   "passar o lado",
+   "verdade o termo",
+   "nossa que covardia",
+   "separar a pessoa",
+   "o famoso virar"
+  ],
+  "18377981101209166": [
+   "depende se a"
   ]
  },
  "shopee_checada": "2026-10-21|1",
