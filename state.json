@@ -30,46 +30,24 @@
    "12:11",
    "13:45",
    "14:47",
-   "15:31"
+   "15:31",
+   "16:42"
   ],
   "produtos_feitos": 2,
-  "respostas": 64,
+  "respostas": 65,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
    "17890502484684901": 7,
    "17898254706673038": 1,
    "17951473839312879": 19,
-   "18031016114857476": 10,
+   "18031016114857476": 11,
    "18118666177972325": 12,
    "18119586661952960": 10,
    "17964565467250557": 1
   }
  },
  "posts": [
-  {
-   "id": "18430827799148762",
-   "insp": "dded827567",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: se vocês só pudessem escolher uma comida de boteco pro resto da vida.\n\nBatata frita com queijo e bacon ou uma porção de pastelzinho frito na hora?\n\nPra mim o pastel ganha fácil.",
-   "quando": "2026-10-17T11:37:07.551776-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T23:07:07.434196-04:00",
-   "link_coment": "https://s.shopee.com.br/2qVPVt3mt4",
-   "meme_comentado": true,
-   "meme_views": 1003,
-   "formato_link": "coment",
-   "produto": "58269029568",
-   "metricas": {
-    "views": 1110,
-    "likes": 19,
-    "replies": 71,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-21"
-   }
-  },
   {
    "id": "18270239065307240",
    "insp": "6112a4e17f",
@@ -1296,6 +1274,14 @@
     "campanha": "",
     "modo": "mesmo"
    }
+  },
+  {
+   "id": "18118787687077318",
+   "insp": "546540780d",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual professor vocês lembram até hoje, por bem ou por mal? Tenho um que me traumatizou com matemática e outro que virou meu ídolo na faculdade. Quem marcou a época de vocês?",
+   "quando": "2026-10-21T17:07:10.321259-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3529,10 +3515,10 @@
   "17957154441266917",
   "18072210878765495",
   "17963712099217517",
-  "18116138618009215"
+  "18116138618009215",
+  "18038232314651094"
  ],
  "hashes": [
-  "6b199a9bb8427eedb548d0ce332a7e0d",
   "0c4e570eaaf3df81ea0a6f30a430ee2c",
   "36cc8410dc97dc2d55e306cba72f8ffd",
   "99590e42df7bc3952dcc0f24db38b86a",
@@ -3731,7 +3717,8 @@
   "b57a30987841df02b0add1c5e8c72e9a",
   "5e814a9401487303f28af1132fb36fa1",
   "378776797bd2e3e295271ac7459b3eec",
-  "f4cf7684976b4d2ad53156eb3ac3db1a"
+  "f4cf7684976b4d2ad53156eb3ac3db1a",
+  "5083592bc58c80489431dc8e68016f00"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3966,7 +3953,8 @@
   "211ca1e405": 1792597051.3653948,
   "05099d6606": 1792600645.28981,
   "3b58803009": 1792606043.924864,
-  "07943be66b": 1792609666.9940557
+  "07943be66b": 1792609666.9940557,
+  "546540780d": 1792616895.2913206
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4031,15 +4019,11 @@
   "4ee4961a84": 1,
   "4f06c590ec": 1,
   "6da2b84cf1": 1,
-  "deab55f4c4": 1
+  "deab55f4c4": 1,
+  "71efb7c2af": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "que saudade boa e dolorida ao mesmo tempo, dá vontade de abraçar forte",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "pais achando que luz de lâmpada muda a cor da pele da gente kkkk",
    "p": "concorda",
@@ -4184,6 +4168,11 @@
    "t": "essa prende a atenção num nível perigoso",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "fase 42 já é nível especialista em desligar o cérebro kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5217,7 +5206,8 @@
    "esse constroi um",
    "relaxar fugindo de",
    "o kit sobrevivencia",
-   "viajem no tempo"
+   "viajem no tempo",
+   "fase 42 ja"
   ],
   "18118666177972325": [
    "que saudade boa",
