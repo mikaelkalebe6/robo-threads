@@ -27,44 +27,22 @@
    "09:01",
    "10:08",
    "11:10",
-   "12:11"
+   "12:11",
+   "13:45"
   ],
   "produtos_feitos": 1,
-  "respostas": 46,
+  "respostas": 47,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 2,
    "17890502484684901": 7,
    "17898254706673038": 1,
    "17951473839312879": 18,
-   "18031016114857476": 6,
+   "18031016114857476": 7,
    "18118666177972325": 11
   }
  },
  "posts": [
-  {
-   "id": "18216730960347343",
-   "insp": "7bb5b555f8",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Ontem vi um cara sofrendo pra passar de lado numa lombada com o carro raspando e o som no talo. \n\nEle jurava que tava impressionando a rua toda, mas eu só conseguia ter pena do assoalho. Depois dos 25 anos alguém ainda acha isso bonito?",
-   "quando": "2026-10-17T09:07:08.601110-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T12:07:07.816065-04:00",
-   "link_coment": "https://s.shopee.com.br/50Zu5rVD10",
-   "meme_comentado": true,
-   "meme_views": 1032,
-   "formato_link": "coment",
-   "produto": "22694227037",
-   "metricas": {
-    "views": 1578,
-    "likes": 24,
-    "replies": 59,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-21"
-   }
-  },
   {
    "id": "18440556559176732",
    "insp": "d6e52dbbe4",
@@ -1315,6 +1293,14 @@
    "link": "",
    "texto": "ME CONTA: qual é o apelido mais sem sentido que alguém inventou na sua família?",
    "quando": "2026-10-21T12:37:09.862974-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18119586661952960",
+   "insp": "3b58803009",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual série você assistiria de novo só pra sentir aquele choque da primeira vez?",
+   "quando": "2026-10-21T14:07:08.462874-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3531,10 +3517,10 @@
   "18349823047253195",
   "18458241082193194",
   "18628381480058722",
-  "17979144269923084"
+  "17979144269923084",
+  "17971954137168348"
  ],
  "hashes": [
-  "f0ba4c948a297ca4e9ee02d5b8a7c3bb",
   "e3834208b026d9dfee9afacf2cb1cef7",
   "6b199a9bb8427eedb548d0ce332a7e0d",
   "0c4e570eaaf3df81ea0a6f30a430ee2c",
@@ -3733,7 +3719,8 @@
   "45e02c1fd6f878de70fc74fba99f088b",
   "8fb89a881ceaf52dc346a066920e613e",
   "b57a30987841df02b0add1c5e8c72e9a",
-  "5e814a9401487303f28af1132fb36fa1"
+  "5e814a9401487303f28af1132fb36fa1",
+  "378776797bd2e3e295271ac7459b3eec"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3966,7 +3953,8 @@
   "bfb39abc85": 1792584447.8136292,
   "0b861e4943": 1792588055.3040116,
   "211ca1e405": 1792597051.3653948,
-  "05099d6606": 1792600645.28981
+  "05099d6606": 1792600645.28981,
+  "3b58803009": 1792606043.924864
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4013,15 +4001,11 @@
   "31d410bf74": 1,
   "868ab0e359": 1,
   "72cfb937d7": 1,
-  "c02b14bf50": 1
+  "c02b14bf50": 1,
+  "5a08b85437": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "Kkkkk, então a conta vira passagem de saída, né?",
-   "p": "neutra",
-   "r": 2
-  },
   {
    "t": "isso faz sentido, o bolso apertado mata a paciência pra qualquer coisa",
    "p": "concorda",
@@ -4166,6 +4150,11 @@
    "t": "economia drástica de peças kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "esse constrói um mundinho tão bonitinho que a gente esquece dos boletos",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5199,7 +5188,8 @@
    "nostalgia pura da",
    "excelente pra esquecer",
    "esse classico nunca",
-   "a pior parte"
+   "a pior parte",
+   "esse constroi um"
   ],
   "18118666177972325": [
    "que saudade boa",
