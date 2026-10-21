@@ -31,10 +31,11 @@
    "13:45",
    "14:47",
    "15:31",
-   "16:42"
+   "16:42",
+   "17:37"
   ],
   "produtos_feitos": 2,
-  "respostas": 65,
+  "respostas": 71,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
@@ -44,28 +45,11 @@
    "18031016114857476": 11,
    "18118666177972325": 12,
    "18119586661952960": 10,
-   "17964565467250557": 1
+   "17964565467250557": 1,
+   "18118787687077318": 6
   }
  },
  "posts": [
-  {
-   "id": "18270239065307240",
-   "insp": "6112a4e17f",
-   "link": "",
-   "texto": "SEM MENTIR: quantas horas direto vocês já passaram jogando até perceber que o dia clareou?\n\nOuvir passarinho cantando lá fora enquanto a gente ainda tá na tela dá um desespero surreal.",
-   "quando": "2026-10-17T12:07:07.816065-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T12:07:07.541173-04:00",
-   "metricas": {
-    "views": 584,
-    "likes": 6,
-    "replies": 23,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-21"
-   }
-  },
   {
    "id": "18435667258196022",
    "insp": "5f95698f56",
@@ -1281,6 +1265,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: qual professor vocês lembram até hoje, por bem ou por mal? Tenho um que me traumatizou com matemática e outro que virou meu ídolo na faculdade. Quem marcou a época de vocês?",
    "quando": "2026-10-21T17:07:10.321259-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18377981101209166",
+   "insp": "041d158196",
+   "link": "",
+   "texto": "A ciência podia falar o que quisesse, mas assoprar o cartucho resolvia qualquer travou do videogame. No fim das contas a gente confiava mais no nosso sopro do que em qualquer manual.",
+   "quando": "2026-10-21T17:37:07.509426-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3516,10 +3508,15 @@
   "18072210878765495",
   "17963712099217517",
   "18116138618009215",
-  "18038232314651094"
+  "18038232314651094",
+  "18100377173415903",
+  "18099060485561091",
+  "18099012680104719",
+  "18109351562221670",
+  "17972516763177754",
+  "18114276428521236"
  ],
  "hashes": [
-  "0c4e570eaaf3df81ea0a6f30a430ee2c",
   "36cc8410dc97dc2d55e306cba72f8ffd",
   "99590e42df7bc3952dcc0f24db38b86a",
   "a19e8ae53b25ff10f46e02fb14505594",
@@ -3718,7 +3715,8 @@
   "5e814a9401487303f28af1132fb36fa1",
   "378776797bd2e3e295271ac7459b3eec",
   "f4cf7684976b4d2ad53156eb3ac3db1a",
-  "5083592bc58c80489431dc8e68016f00"
+  "5083592bc58c80489431dc8e68016f00",
+  "25dcd2dec649d8a673ac8e042706ea54"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3954,7 +3952,8 @@
   "05099d6606": 1792600645.28981,
   "3b58803009": 1792606043.924864,
   "07943be66b": 1792609666.9940557,
-  "546540780d": 1792616895.2913206
+  "546540780d": 1792616895.2913206,
+  "041d158196": 1792618645.1492493
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4020,40 +4019,16 @@
   "4f06c590ec": 1,
   "6da2b84cf1": 1,
   "deab55f4c4": 1,
-  "71efb7c2af": 1
+  "71efb7c2af": 1,
+  "4bb60033f8": 1,
+  "b9d495fcbb": 1,
+  "98aa8d168a": 1,
+  "2ae4b78da5": 1,
+  "b35859f239": 1,
+  "48455f8b21": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "pais achando que luz de lâmpada muda a cor da pele da gente kkkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "preciso saber imediatamente a origem desse título kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pai raiz demais colocando apelido baseado em escalação de time kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "tchu é ótimo kkkkk veio de onde essa genialidade?",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "família não tem limites na hora de batizar as pessoas kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "a pior parte de tentar relaxar é cair num enigma que exige mais raciocínio que o trabalho",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "crueldade de família na infancia deveria ser crime inafiançável",
    "p": "neutra",
@@ -4173,6 +4148,36 @@
    "t": "fase 42 já é nível especialista em desligar o cérebro kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "primeira infância marcada por ranço é terrível, mas ainda bem que a Lídia salvou o final da escola",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "professores assim salvam a vida da gente na escola",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "professor que transforma exatas em algo interessante deixa marca para a vida toda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "biologia opcional mas cultura musical em dia kkkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkkkkkkkkkkkmmmkkkkkkk essa matéria muita gente reprovava",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "o amor pela materia comecou cedo então",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4955,21 +4960,6 @@
   }
  ],
  "aberturas_post": {
-  "17997441141012078": [
-   "estrategia defensiva impecavel",
-   "sobrevivencia em primeiro",
-   "esse foco no",
-   "medida drastica mas",
-   "misterio total o",
-   "foco total no",
-   "exagero nivel hard",
-   "lugar de foco",
-   "exato o unico",
-   "sabedoria pura em",
-   "economia de energia",
-   "alguem lucido nesse",
-   "horario estrategico para"
-  ],
   "18193642693392878": [
    "quem acostuma com",
    "teste de sobrevivencia",
@@ -5237,6 +5227,14 @@
   ],
   "17964565467250557": [
    "dez reais hoje"
+  ],
+  "18118787687077318": [
+   "primeira infancia marcada",
+   "professores assim salvam",
+   "professor que transforma",
+   "biologia opcional mas",
+   "essa materia muita",
+   "o amor pela"
   ]
  },
  "shopee_checada": "2026-10-21|1",
