@@ -28,45 +28,23 @@
    "10:08",
    "11:10",
    "12:11",
-   "13:45"
+   "13:45",
+   "14:47"
   ],
   "produtos_feitos": 1,
-  "respostas": 51,
+  "respostas": 57,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
    "17890502484684901": 7,
    "17898254706673038": 1,
    "17951473839312879": 18,
-   "18031016114857476": 7,
+   "18031016114857476": 8,
    "18118666177972325": 11,
-   "18119586661952960": 3
+   "18119586661952960": 8
   }
  },
  "posts": [
-  {
-   "id": "18440556559176732",
-   "insp": "d6e52dbbe4",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Cadê os caras que ainda decoram o código do GTA de cabeça?  \nEssa habilidade virou lenda urbana.  \nÉ hora de trazer isso de volta.",
-   "quando": "2026-10-17T10:07:07.534572-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T21:37:08.255141-04:00",
-   "link_coment": "https://s.shopee.com.br/5VWAgmxtg6",
-   "meme_comentado": true,
-   "meme_views": 1013,
-   "formato_link": "coment",
-   "produto": "58255737985",
-   "metricas": {
-    "views": 1430,
-    "likes": 13,
-    "replies": 43,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-21"
-   }
-  },
   {
    "id": "18635940157022626",
    "insp": "car_car-20261011-5",
@@ -1303,6 +1281,14 @@
    "texto": "DÚVIDA SINCERA: qual série você assistiria de novo só pra sentir aquele choque da primeira vez?",
    "quando": "2026-10-21T14:07:08.462874-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17964565467250557",
+   "insp": "07943be66b",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: a juventude acaba oficialmente no dia em que você começa a olhar o consumo por litro antes de reparar na cor do carro. Beleza nenhuma compensa a humilhação no posto de gasolina.",
+   "quando": "2026-10-21T15:07:08.985917-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -3523,10 +3509,15 @@
   "18078890963418460",
   "18020434466942146",
   "18153506437543904",
-  "17907643224604176"
+  "17907643224604176",
+  "17995314732028332",
+  "17864133960694114",
+  "17953470312311877",
+  "18093981458183394",
+  "17973448572024484",
+  "18133020907748548"
  ],
  "hashes": [
-  "e3834208b026d9dfee9afacf2cb1cef7",
   "6b199a9bb8427eedb548d0ce332a7e0d",
   "0c4e570eaaf3df81ea0a6f30a430ee2c",
   "36cc8410dc97dc2d55e306cba72f8ffd",
@@ -3725,7 +3716,8 @@
   "8fb89a881ceaf52dc346a066920e613e",
   "b57a30987841df02b0add1c5e8c72e9a",
   "5e814a9401487303f28af1132fb36fa1",
-  "378776797bd2e3e295271ac7459b3eec"
+  "378776797bd2e3e295271ac7459b3eec",
+  "f4cf7684976b4d2ad53156eb3ac3db1a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3959,7 +3951,8 @@
   "0b861e4943": 1792588055.3040116,
   "211ca1e405": 1792597051.3653948,
   "05099d6606": 1792600645.28981,
-  "3b58803009": 1792606043.924864
+  "3b58803009": 1792606043.924864,
+  "07943be66b": 1792609666.9940557
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4011,40 +4004,16 @@
   "6942b353ef": 1,
   "225389f09b": 1,
   "5ba131d82b": 1,
-  "02cd96eabc": 1
+  "02cd96eabc": 1,
+  "beec11face": 1,
+  "92b0305a2e": 1,
+  "d659de0c99": 1,
+  "4ea43c29da": 1,
+  "684278aae2": 1,
+  "00360464d5": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "parece que virou regra geral complicar o que deveria ser simples",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o cansaço tá vencendo a vontade de tentar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "separar homem de menino resume bem o tamanho do desafio de hoje em dia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo demais, paz de espírito hoje em dia é artigo de luxo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos poupa o desgaste de tentar algo que não vai a lugar nenhum",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a preguiça de ter que explicar o básico tá gigante",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "xadrez é ótimo para fritar o cérebro em vez de desligar kkk",
    "p": "ressalva",
@@ -4162,6 +4131,36 @@
   },
   {
    "t": "esse aí destruiu o cérebro de todo mundo na primeira temporada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa é impossível de esquecer mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa traumatizou tanta gente q virou marco histórico kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa aí destrói qualquer linha de raciocínio na primeira temporada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa entrega toda maluca de poder estraga qualquer pessoa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse aí mexe com a cabeça de um jeito único",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "relaxar fugindo de dinossauro gigante é uma definição bem criativa de paz",
    "p": "concorda",
    "r": 0
   }
@@ -5192,7 +5191,8 @@
    "excelente pra esquecer",
    "esse classico nunca",
    "a pior parte",
-   "esse constroi um"
+   "esse constroi um",
+   "relaxar fugindo de"
   ],
   "18118666177972325": [
    "que saudade boa",
@@ -5210,7 +5210,12 @@
   "18119586661952960": [
    "esse choque ai",
    "essa serie mexe",
-   "esse ai destruiu"
+   "esse ai destruiu",
+   "essa e impossivel",
+   "essa traumatizou tanta",
+   "essa ai destroi",
+   "essa entrega toda",
+   "esse ai mexe"
   ]
  },
  "shopee_checada": "2026-10-21|1",
