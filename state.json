@@ -27,13 +27,13 @@
    "09:01"
   ],
   "produtos_feitos": 0,
-  "respostas": 14,
+  "respostas": 20,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 1,
-   "17890502484684901": 6,
+   "17890502484684901": 7,
    "17898254706673038": 1,
-   "17951473839312879": 5
+   "17951473839312879": 10
   }
  },
  "posts": [
@@ -1193,7 +1193,7 @@
     "shares": 0,
     "em": "2026-10-21"
    },
-   "viral_chk": "2026-10-21T09:37:10.438611-04:00"
+   "viral_chk": "2026-10-21T10:07:08.710378-04:00"
   },
   {
    "id": "18120269116954821",
@@ -1246,7 +1246,7 @@
     "shares": 0,
     "em": "2026-10-21"
    },
-   "viral_chk": "2026-10-21T09:37:10.438611-04:00"
+   "viral_chk": "2026-10-21T10:07:08.710378-04:00"
   },
   {
    "id": "17954803569035348",
@@ -1299,7 +1299,7 @@
     "shares": 0,
     "em": "2026-10-21"
    },
-   "viral_chk": "2026-10-21T09:37:10.438611-04:00"
+   "viral_chk": "2026-10-21T10:07:08.710378-04:00"
   },
   {
    "id": "17890502484684901",
@@ -1308,7 +1308,7 @@
    "texto": "DÚVIDA SINCERA: pagar a conta toda no primeiro encontro é gentileza de verdade ou pura pressão disfarçada?\n\nPara mim, cada um paga o seu e ninguém vai embora achando que deve nada.",
    "quando": "2026-10-21T08:07:09.399443-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-21T09:37:10.438611-04:00"
+   "viral_chk": "2026-10-21T10:07:08.710378-04:00"
   },
   {
    "id": "17951473839312879",
@@ -1317,7 +1317,7 @@
    "texto": "DÚVIDA SINCERA: ainda tem homem solteiro querendo relacionamento de verdade ou virou padrão aquele papo de \"vamos deixando rolar\" sem prazo pra acabar?\n\nA sensação é que ninguém mais tem coragem de assumir nada.",
    "quando": "2026-10-21T09:07:09.233730-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-21T09:37:10.438611-04:00"
+   "viral_chk": "2026-10-21T10:07:08.710378-04:00"
   }
  ],
  "respondidos": [
@@ -3501,7 +3501,13 @@
   "17942406396101452",
   "18199650355377338",
   "18113794673277618",
-  "17975167071144837"
+  "17975167071144837",
+  "18124580839902172",
+  "18107703074353145",
+  "18644004277025603",
+  "18031145123886896",
+  "18156243037519990",
+  "18074147012738076"
  ],
  "hashes": [
   "f72e7cd9b1826e3c657f5d145159b534",
@@ -3948,43 +3954,18 @@
   "366fd5e9e4": 2,
   "01af5a7598": 1,
   "00c0025fcf": 1,
-  "1f1e8afefa": 1,
+  "1f1e8afefa": 2,
   "f57152312f": 1,
   "bcbe07144b": 1,
-  "e0239f80fc": 1
+  "e0239f80fc": 1,
+  "cf1920f473": 1,
+  "f92b3e9c37": 1,
+  "ed01502843": 1,
+  "337832096a": 1,
+  "c6d6ff83bc": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "mas aí perdeu a graça da briga kkkkkk",
-   "p": "discorda",
-   "r": 2
-  },
-  {
-   "t": "quem me dera se existisse rodízio disso kkk",
-   "p": "discorda",
-   "r": 1
-  },
-  {
-   "t": "cuscuz com camarão? agora tá anotado, parece incrível 😋",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse aí causa debate acalorado em qualquer mesa de almoço",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "comprar seminovo escolhido com calma evita dor de cabeça e aquela perda enorme de valor logo na saída da loja",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos a paz de espírito de saber o histórico compensa um pouco o boleto",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "coragem e conta bancária forte pra bancar essa escolha",
    "p": "ressalva",
@@ -4103,6 +4084,36 @@
   {
    "t": "artigo novo no código civil que eu não tô sabendo",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Poxa, dói de verdade, tô aqui pra ouvir 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Ainda tem, sim! Boa sorte na busca 😉",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Kkkkk, então a conta vira passagem de saída, né?",
+   "p": "neutra",
+   "r": 2
+  },
+  {
+   "t": "isso faz sentido, o bolso apertado mata a paciência pra qualquer coisa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkk essa sinceridade um tanto quanto cruel",
+   "p": "neutra",
+   "r": 2
+  },
+  {
+   "t": "tem, mas tem quem respeita, viu",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -5122,14 +5133,20 @@
    "prevencao e tudo",
    "evita qualquer mal",
    "mudou de figura",
-   "lugar tranquilo e"
+   "lugar tranquilo e",
+   "entao a conta"
   ],
   "17951473839312879": [
    "verdade a vontade",
    "sistema ta dificil",
    "peso na balanca",
    "quando as ideias",
-   "artigo novo no"
+   "artigo novo no",
+   "poxa doi de",
+   "ainda tem sim",
+   "isso faz sentido",
+   "essa sinceridade um",
+   "tem mas tem"
   ]
  },
  "shopee_checada": "2026-10-21|1",
