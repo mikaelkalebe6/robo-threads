@@ -21,7 +21,8 @@
    "08:46",
    "09:27",
    "16:01",
-   "18:56"
+   "18:56",
+   "19:54"
   ],
   "produtos_feitos": 2,
   "respostas": 33,
@@ -35,24 +36,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18137545936729576",
-   "insp": "4322eb9d04",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual palavra da sua cidade todo mundo de fora olha com a cara mais confusa do mundo?",
-   "quando": "2026-10-16T10:07:08.518249-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T10:07:07.534572-04:00",
-   "metricas": {
-    "views": 572,
-    "likes": 1,
-    "replies": 16,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-20"
-   }
-  },
   {
    "id": "17912283453507452",
    "insp": "car_car-20261011-4",
@@ -1289,6 +1272,14 @@
     "campanha": "",
     "modo": "tema"
    }
+  },
+  {
+   "id": "18119575696958300",
+   "insp": "179d442b7d",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: consertar qualquer besteira em casa sem chamar ninguém dá mais orgulho do que muito diploma. \n\nA gente passa o resto do dia andando pela sala fingindo costume só para alguém notar e elogiar.",
+   "quando": "2026-10-20T20:07:09.780315-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -3455,10 +3446,10 @@
   "18358343293217373",
   "18019591235950396",
   "18501204676097980",
-  "17869119144661181"
+  "17869119144661181",
+  "18105916634366407"
  ],
  "hashes": [
-  "32fe579b7c430b96c478fd4950d6be0c",
   "b17ffc999b5ba35ec3c521d3e6d69220",
   "d2c1b21cca6762f2babda2b2413e0447",
   "d7c8c4c1090b62ee518b48217f025222",
@@ -3657,7 +3648,8 @@
   "ab343a7ccda1391102ecb6b19f0907ff",
   "05259b7063a5b9394d2731e1a987db04",
   "57c5891e03dbcd524ddadc2d1e65d5d2",
-  "d89e790f7df0c6f25ef531197e56c958"
+  "d89e790f7df0c6f25ef531197e56c958",
+  "7c12c48fdc237178e35e12251e55bdd8"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3884,7 +3876,8 @@
   "88bd5be843": 1792462047.7504954,
   "ef980ef49f": 1792498040.299683,
   "87c4f84770": 1792503448.3913825,
-  "693cca0994": 1792526849.6093185
+  "693cca0994": 1792526849.6093185,
+  "179d442b7d": 1792541279.5371044
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
