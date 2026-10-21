@@ -26,38 +26,21 @@
    "08:07",
    "09:01",
    "10:08",
-   "11:10"
+   "11:10",
+   "12:11"
   ],
   "produtos_feitos": 1,
-  "respostas": 33,
+  "respostas": 34,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 2,
    "17890502484684901": 7,
    "17898254706673038": 1,
    "17951473839312879": 18,
-   "18031016114857476": 4
+   "18031016114857476": 5
   }
  },
  "posts": [
-  {
-   "id": "18600522124066906",
-   "insp": "13bb414dfc",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: casal que não sabe exatamente quanto o outro ganha não tem um relacionamento, tem uma sociedade com medo de auditoria.",
-   "quando": "2026-10-16T20:07:08.307128-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T19:37:07.048368-04:00",
-   "metricas": {
-    "views": 245,
-    "likes": 1,
-    "replies": 8,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-21"
-   }
-  },
   {
    "id": "18216730960347343",
    "insp": "7bb5b555f8",
@@ -1320,6 +1303,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: a gente abre aquele joguinho leve fingindo que vai treinar o raciocínio, mas só quer mesmo desligar o cérebro por dez minutos. Qual o seu jogo oficial de esvaziar a mente?",
    "quando": "2026-10-21T11:37:09.829600-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18118666177972325",
+   "insp": "05099d6606",
+   "link": "",
+   "texto": "ME CONTA: qual é o apelido mais sem sentido que alguém inventou na sua família?",
+   "quando": "2026-10-21T12:37:09.862974-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3523,10 +3514,10 @@
   "18188628787414826",
   "17954856438272591",
   "18118683073971284",
-  "18474158881137285"
+  "18474158881137285",
+  "18112210985135644"
  ],
  "hashes": [
-  "7a85ccf5af93f0555cf3eb5e6f382905",
   "f0ba4c948a297ca4e9ee02d5b8a7c3bb",
   "e3834208b026d9dfee9afacf2cb1cef7",
   "6b199a9bb8427eedb548d0ce332a7e0d",
@@ -3725,7 +3716,8 @@
   "61a058eb0279d5071b2282c430d99755",
   "45e02c1fd6f878de70fc74fba99f088b",
   "8fb89a881ceaf52dc346a066920e613e",
-  "b57a30987841df02b0add1c5e8c72e9a"
+  "b57a30987841df02b0add1c5e8c72e9a",
+  "5e814a9401487303f28af1132fb36fa1"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3957,7 +3949,8 @@
   "f9bb6059fa": 1792548447.969154,
   "bfb39abc85": 1792584447.8136292,
   "0b861e4943": 1792588055.3040116,
-  "211ca1e405": 1792597051.3653948
+  "211ca1e405": 1792597051.3653948,
+  "05099d6606": 1792600645.28981
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3991,15 +3984,11 @@
   "a6db787552": 1,
   "7d50492e5d": 1,
   "a8d146dd6c": 1,
-  "31c6b43995": 1
+  "31c6b43995": 1,
+  "b71c265c29": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "investimento alto antes mesmo de sentar na mesa kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "prevenção é tudo, pelo menos o táxi de volta tá garantido kkkk",
    "p": "neutra",
@@ -4144,6 +4133,11 @@
    "t": "faz sentido, quem quer tudo não foca em construir nada mesmo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse clássico nunca perde a graca kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5173,7 +5167,8 @@
    "xadrez e otimo",
    "esse nome e",
    "nostalgia pura da",
-   "excelente pra esquecer"
+   "excelente pra esquecer",
+   "esse classico nunca"
   ]
  },
  "shopee_checada": "2026-10-21|1",
