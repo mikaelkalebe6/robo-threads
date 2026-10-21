@@ -30,15 +30,15 @@
    "12:11"
   ],
   "produtos_feitos": 1,
-  "respostas": 40,
+  "respostas": 46,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 2,
    "17890502484684901": 7,
    "17898254706673038": 1,
    "17951473839312879": 18,
-   "18031016114857476": 5,
-   "18118666177972325": 6
+   "18031016114857476": 6,
+   "18118666177972325": 11
   }
  },
  "posts": [
@@ -3525,7 +3525,13 @@
   "18124996774713362",
   "18087334439294609",
   "18114700288841790",
-  "18644439121018974"
+  "18644439121018974",
+  "18641252599057493",
+  "17975594898158364",
+  "18349823047253195",
+  "18458241082193194",
+  "18628381480058722",
+  "17979144269923084"
  ],
  "hashes": [
   "f0ba4c948a297ca4e9ee02d5b8a7c3bb",
@@ -4001,40 +4007,16 @@
   "5979617f0f": 1,
   "9578b29dfc": 1,
   "8a4620ac27": 1,
-  "121b9d00e2": 1
+  "121b9d00e2": 1,
+  "1eb4ad9c86": 1,
+  "18ff0b4cbb": 1,
+  "31d410bf74": 1,
+  "868ab0e359": 1,
+  "72cfb937d7": 1,
+  "c02b14bf50": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "sistema tá difícil pra todo mundo ultimamente 😭",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "peso na balança que pouca gente tá disposta a equilibrar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quando as ideias batem logo no inicio, pelo menos poupa um tempao precioso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "artigo novo no código civil que eu não tô sabendo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Poxa, dói de verdade, tô aqui pra ouvir 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Ainda tem, sim! Boa sorte na busca 😉",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Kkkkk, então a conta vira passagem de saída, né?",
    "p": "neutra",
@@ -4154,6 +4136,36 @@
    "t": "família não tem limites na hora de batizar as pessoas kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "a pior parte de tentar relaxar é cair num enigma que exige mais raciocínio que o trabalho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "crueldade de família na infancia deveria ser crime inafiançável",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "socorro kkkkkkkkkkkkkkkkkkkkkk criatividade zero e cem ao mesmo tempo",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "o tipo de logica familiar que desafia qualquer geneticanos kkkkkkkkkkkkkmmkkkkkkk",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "preciso saber a história por trás desse apelido kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "economia drástica de peças kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5186,7 +5198,8 @@
    "esse nome e",
    "nostalgia pura da",
    "excelente pra esquecer",
-   "esse classico nunca"
+   "esse classico nunca",
+   "a pior parte"
   ],
   "18118666177972325": [
    "que saudade boa",
@@ -5194,7 +5207,12 @@
    "preciso saber imediatamente",
    "pai raiz demais",
    "tchu e otimo",
-   "familia nao tem"
+   "familia nao tem",
+   "crueldade de familia",
+   "socorro criatividade zero",
+   "o tipo de",
+   "preciso saber a",
+   "economia drastica de"
   ]
  },
  "shopee_checada": "2026-10-21|1",
