@@ -35,7 +35,7 @@
    "17:37"
   ],
   "produtos_feitos": 2,
-  "respostas": 77,
+  "respostas": 82,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
@@ -44,11 +44,12 @@
    "17951473839312879": 19,
    "18031016114857476": 11,
    "18118666177972325": 12,
-   "18119586661952960": 10,
+   "18119586661952960": 13,
    "17964565467250557": 1,
-   "18118787687077318": 11,
+   "18118787687077318": 13,
    "18377981101209166": 1
-  }
+  },
+  "escondidos": 1
  },
  "posts": [
   {
@@ -3521,7 +3522,13 @@
   "17951743251319560",
   "18100969358561406",
   "17998021596255068",
-  "18130662004696187"
+  "18130662004696187",
+  "18635440177029884",
+  "18361211500216372",
+  "18128362037488843",
+  "18349347802267078",
+  "18636686581054848",
+  "18105997949193623"
  ],
  "hashes": [
   "36cc8410dc97dc2d55e306cba72f8ffd",
@@ -4038,35 +4045,15 @@
   "4d53a10b00": 1,
   "1a3176d50e": 1,
   "7d7204abfb": 1,
-  "4cc4809849": 1
+  "4cc4809849": 1,
+  "ab0585d784": 1,
+  "b2ffd21c4d": 1,
+  "eb67b0cae0": 1,
+  "2335594315": 1,
+  "e1193fcce9": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "esse choque aí deixou sequelas em muita gente kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa série mexe com a cabeça de um jeito único",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parcela cabível e zero dor de cabeça muda tudo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse aí destruiu o cérebro de todo mundo na primeira temporada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa é impossível de esquecer mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa traumatizou tanta gente q virou marco histórico kkkk",
    "p": "concorda",
@@ -4191,6 +4178,31 @@
    "t": "o famoso virar o jogo com juros e correção kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "essa aí deixa a gente com a mente meio travada dias depois",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "covardia enorme fazer isso com uma criança de nove anos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa aí embaralhou a cabeça de todo mundo na epoca",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse tipo de aula muda a perspectiva da gente sobre o que é aprender de verdade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa levou a sério o sonho de adolescente rica nos anos 2000",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5225,7 +5237,10 @@
    "essa entrega toda",
    "esse ai mexe",
    "essa transformacao aos",
-   "essa prende a"
+   "essa prende a",
+   "essa ai deixa",
+   "essa ai embaralhou",
+   "essa levou a"
   ],
   "17964565467250557": [
    "dez reais hoje"
@@ -5241,7 +5256,9 @@
    "verdade o termo",
    "nossa que covardia",
    "separar a pessoa",
-   "o famoso virar"
+   "o famoso virar",
+   "covardia enorme fazer",
+   "esse tipo de"
   ],
   "18377981101209166": [
    "depende se a"
