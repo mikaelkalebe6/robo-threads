@@ -29,13 +29,14 @@
    "11:10"
   ],
   "produtos_feitos": 1,
-  "respostas": 27,
+  "respostas": 33,
   "por_post": {
    "17911189386311628": 1,
-   "18336797236279117": 1,
+   "18336797236279117": 2,
    "17890502484684901": 7,
    "17898254706673038": 1,
-   "17951473839312879": 17
+   "17951473839312879": 18,
+   "18031016114857476": 4
   }
  },
  "posts": [
@@ -3516,7 +3517,13 @@
   "18147628765568516",
   "18024688412868802",
   "18109770410523135",
-  "18138458335636402"
+  "18138458335636402",
+  "18345450103282958",
+  "18123845314911520",
+  "18188628787414826",
+  "17954856438272591",
+  "18118683073971284",
+  "18474158881137285"
  ],
  "hashes": [
   "7a85ccf5af93f0555cf3eb5e6f382905",
@@ -3978,40 +3985,16 @@
   "c128485506": 1,
   "1ed1d5993b": 1,
   "c768b3b770": 1,
-  "255fe7eded": 1
+  "255fe7eded": 1,
+  "631e80f7fd": 1,
+  "c8759ee4ac": 1,
+  "a6db787552": 1,
+  "7d50492e5d": 1,
+  "a8d146dd6c": 1,
+  "31c6b43995": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "para quem usa muito o carro no dia a dia a conta acaba sendo bem diferente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "organização financeira faz milagre mesmo pra quem quer realizar esse sonho",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "defesa firme da carne mas o pão de alho ainda rouba a cena",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "pura verdade, só percebe quem assiste",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "estratégia perfeita pra fazer o dinheiro render e ainda garantir a marra kkkkkk",
-   "p": "concorda",
-   "r": 4
-  },
-  {
-   "t": "exato, olhar como a pessoa trata os outros diz muito mais do que quem passa o cartão",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "investimento alto antes mesmo de sentar na mesa kkk",
    "p": "ressalva",
@@ -4129,6 +4112,36 @@
   },
   {
    "t": "a preguiça de ter que explicar o básico tá gigante",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "xadrez é ótimo para fritar o cérebro em vez de desligar kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "esse nome é bom demais kkkkkkkkk",
+   "p": "concorda",
+   "r": 4
+  },
+  {
+   "t": "manutenção preventiva bem feita acaba saindo mais barata que parcela infinita de zero km",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nostalgia pura, dá pra passar horas sem ver o tempo voar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "excelente pra esquecer do resto do mundo por uns instantes",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "faz sentido, quem quer tudo não foca em construir nada mesmo",
    "p": "concorda",
    "r": 0
   }
@@ -4903,28 +4916,6 @@
   }
  ],
  "aberturas_post": {
-  "18105080027306911": [
-   "coragem nivel extremo",
-   "carro bom e",
-   "essa e a",
-   "haja ferro e",
-   "com veiculo bom",
-   "adrenalina pura o",
-   "nem com banco",
-   "a biologia sempre",
-   "carro automatico com",
-   "essas salvam demais",
-   "esse trecho exige",
-   "piloto automatico deveria",
-   "vinte horas direto",
-   "descansado e com",
-   "moto por esse",
-   "quase quinze horas",
-   "parada estrategica assim",
-   "van so se",
-   "banco ruim consegue",
-   "quinze horas seguidas"
-  ],
   "18092117084659517": [
    "caderno caprichado e"
   ],
@@ -5143,7 +5134,8 @@
    "jeito mais facil",
    "para quem usa",
    "organizacao financeira faz",
-   "estrategia perfeita pra"
+   "estrategia perfeita pra",
+   "manutencao preventiva bem"
   ],
   "17911189386311628": [
    "pura verdade so"
@@ -5174,7 +5166,14 @@
    "separar homem de",
    "justo demais paz",
    "pelo menos poupa",
-   "a preguica de"
+   "a preguica de",
+   "faz sentido quem"
+  ],
+  "18031016114857476": [
+   "xadrez e otimo",
+   "esse nome e",
+   "nostalgia pura da",
+   "excelente pra esquecer"
   ]
  },
  "shopee_checada": "2026-10-21|1",
