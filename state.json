@@ -29,46 +29,24 @@
    "11:10",
    "12:11",
    "13:45",
-   "14:47"
+   "14:47",
+   "15:31"
   ],
-  "produtos_feitos": 1,
-  "respostas": 57,
+  "produtos_feitos": 2,
+  "respostas": 61,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
    "17890502484684901": 7,
    "17898254706673038": 1,
    "17951473839312879": 18,
-   "18031016114857476": 8,
-   "18118666177972325": 11,
-   "18119586661952960": 8
+   "18031016114857476": 9,
+   "18118666177972325": 12,
+   "18119586661952960": 9,
+   "17964565467250557": 1
   }
  },
  "posts": [
-  {
-   "id": "18635940157022626",
-   "insp": "car_car-20261011-5",
-   "link": "",
-   "texto": "Show lotado. *Bolso da frente não é cofre.*",
-   "quando": "2026-10-17T10:37:08.174176-04:00",
-   "ia": "carrossel",
-   "estrategia": "carrossel",
-   "formato": "carrossel",
-   "formato_link": "coment",
-   "produto": "18599879164",
-   "modelo": "manchete-cinema (refs. Dcwxi1sFZ0b capa de cinema; DXVUQ01jZe6 claro/escuro; DbodAhRjx3Z marca-texto)",
-   "visual": "cm",
-   "link_coment": "https://s.shopee.com.br/6q1Nm7hMWS",
-   "metricas": {
-    "views": 204,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-21"
-   }
-  },
   {
    "id": "18430827799148762",
    "insp": "dded827567",
@@ -1167,7 +1145,7 @@
    "estrategia": "produto_video",
    "formato_link": "resp",
    "produto": "16519154009",
-   "link_pendente": true,
+   "link_pendente": false,
    "modo_produto": "mesmo",
    "prod_dados": {
     "itemId": "16519154009",
@@ -1189,7 +1167,10 @@
     "quotes": 0,
     "shares": 2,
     "em": "2026-10-21"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/9068ZUYtla",
+   "link_em": "2026-10-21T15:37:08.793619-04:00",
+   "link_views": 0
   },
   {
    "id": "17911189386311628",
@@ -1289,6 +1270,32 @@
    "texto": "VAMOS SER HONESTOS: a juventude acaba oficialmente no dia em que você começa a olhar o consumo por litro antes de reparar na cor do carro. Beleza nenhuma compensa a humilhação no posto de gasolina.",
    "quando": "2026-10-21T15:07:08.985917-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18110725331181104",
+   "insp": "video_a437b4bec2",
+   "link": "",
+   "texto": "descobri esse brinco azul e dourado e agora só quero usar ele em jantar importante, olha como funciona 👀",
+   "quando": "2026-10-21T15:37:08.793619-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "27534187957",
+   "link_pendente": true,
+   "modo_produto": "mesmo",
+   "prod_dados": {
+    "itemId": "27534187957",
+    "nome": "Brincos novo estilo brincos de cristal azul requintados brincos elegantes",
+    "preco": 21.95,
+    "nota": 4.7,
+    "vendas": 0,
+    "comissao": 0.15,
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reob-m8m0z4zdwvk0b3",
+    "offerLink": "https://s.shopee.com.br/9pfGnFf5Gu",
+    "campanha": "",
+    "modo": "mesmo"
+   }
   }
  ],
  "respondidos": [
@@ -3515,7 +3522,11 @@
   "17953470312311877",
   "18093981458183394",
   "17973448572024484",
-  "18133020907748548"
+  "18133020907748548",
+  "18115425653017488",
+  "18135092974734069",
+  "18147297250560123",
+  "17957154441266917"
  ],
  "hashes": [
   "6b199a9bb8427eedb548d0ce332a7e0d",
@@ -4010,30 +4021,14 @@
   "d659de0c99": 1,
   "4ea43c29da": 1,
   "684278aae2": 1,
-  "00360464d5": 1
+  "00360464d5": 1,
+  "fb97b84a93": 1,
+  "aec5e55502": 1,
+  "bd9c735297": 1,
+  "4ee4961a84": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "xadrez é ótimo para fritar o cérebro em vez de desligar kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "esse nome é bom demais kkkkkkkkk",
-   "p": "concorda",
-   "r": 4
-  },
-  {
-   "t": "manutenção preventiva bem feita acaba saindo mais barata que parcela infinita de zero km",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nostalgia pura, dá pra passar horas sem ver o tempo voar",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "excelente pra esquecer do resto do mundo por uns instantes",
    "p": "concorda",
@@ -4163,6 +4158,26 @@
    "t": "relaxar fugindo de dinossauro gigante é uma definição bem criativa de paz",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "dez reais hoje em dia só serve para comprar uma garrafinha de água no posto kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "essa transformação aos poucos é um negócio impressionante de ver",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o kit sobrevivência mental completo kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "economia de letras extrema na arvore genealogica kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4445,6 +4460,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-21T13:07:09.415738-04:00"
+  },
+  "18185643613426776": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-21T15:37:08.793619-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -4940,10 +4960,6 @@
   }
  ],
  "aberturas_post": {
-  "18633135673031281": [
-   "essa convocacao de",
-   "fechava o gol"
-  ],
   "17997441141012078": [
    "estrategia defensiva impecavel",
    "sobrevivencia em primeiro",
@@ -5192,7 +5208,8 @@
    "esse classico nunca",
    "a pior parte",
    "esse constroi um",
-   "relaxar fugindo de"
+   "relaxar fugindo de",
+   "o kit sobrevivencia"
   ],
   "18118666177972325": [
    "que saudade boa",
@@ -5205,7 +5222,8 @@
    "socorro criatividade zero",
    "o tipo de",
    "preciso saber a",
-   "economia drastica de"
+   "economia drastica de",
+   "economia de letras"
   ],
   "18119586661952960": [
    "esse choque ai",
@@ -5215,7 +5233,11 @@
    "essa traumatizou tanta",
    "essa ai destroi",
    "essa entrega toda",
-   "esse ai mexe"
+   "esse ai mexe",
+   "essa transformacao aos"
+  ],
+  "17964565467250557": [
+   "dez reais hoje"
   ]
  },
  "shopee_checada": "2026-10-21|1",
@@ -5406,7 +5428,8 @@
   "22794532849": "2026-10-21T07:07:11.384114-04:00",
   "58205929037": "2026-10-21T07:07:11.384114-04:00",
   "58208944738": "2026-10-21T11:07:09.391806-04:00",
-  "22993669426": "2026-10-21T13:07:09.415738-04:00"
+  "22993669426": "2026-10-21T13:07:09.415738-04:00",
+  "16519154009": "2026-10-21T15:37:08.793619-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -5548,6 +5571,7 @@
   "56d0dfd231": "2026-10-20T09:07:08.281985-04:00",
   "c63d59bcd1": "2026-10-20T19:07:07.586774-04:00",
   "d0af80e2f4": "2026-10-20T21:07:09.708148-04:00",
-  "c14cbec078": "2026-10-21T10:37:08.667537-04:00"
+  "c14cbec078": "2026-10-21T10:37:08.667537-04:00",
+  "a437b4bec2": "2026-10-21T15:37:08.793619-04:00"
  }
 }
