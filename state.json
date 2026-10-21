@@ -33,14 +33,14 @@
    "15:31"
   ],
   "produtos_feitos": 2,
-  "respostas": 61,
+  "respostas": 63,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
    "17890502484684901": 7,
    "17898254706673038": 1,
-   "17951473839312879": 18,
-   "18031016114857476": 9,
+   "17951473839312879": 19,
+   "18031016114857476": 10,
    "18118666177972325": 12,
    "18119586661952960": 9,
    "17964565467250557": 1
@@ -3526,7 +3526,9 @@
   "18115425653017488",
   "18135092974734069",
   "18147297250560123",
-  "17957154441266917"
+  "17957154441266917",
+  "18072210878765495",
+  "17963712099217517"
  ],
  "hashes": [
   "6b199a9bb8427eedb548d0ce332a7e0d",
@@ -4025,20 +4027,12 @@
   "fb97b84a93": 1,
   "aec5e55502": 1,
   "bd9c735297": 1,
-  "4ee4961a84": 1
+  "4ee4961a84": 1,
+  "4f06c590ec": 1,
+  "6da2b84cf1": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "excelente pra esquecer do resto do mundo por uns instantes",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "faz sentido, quem quer tudo não foca em construir nada mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse clássico nunca perde a graca kkk",
    "p": "concorda",
@@ -4178,6 +4172,16 @@
    "t": "economia de letras extrema na arvore genealogica kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "viajem no tempo perfeita para desligar de tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesado mas o cansaço é real e todo mundo tá sem paciência pra o básico",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5198,7 +5202,8 @@
    "justo demais paz",
    "pelo menos poupa",
    "a preguica de",
-   "faz sentido quem"
+   "faz sentido quem",
+   "pesado mas o"
   ],
   "18031016114857476": [
    "xadrez e otimo",
@@ -5209,7 +5214,8 @@
    "a pior parte",
    "esse constroi um",
    "relaxar fugindo de",
-   "o kit sobrevivencia"
+   "o kit sobrevivencia",
+   "viajem no tempo"
   ],
   "18118666177972325": [
    "que saudade boa",
