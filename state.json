@@ -31,15 +31,16 @@
    "13:45"
   ],
   "produtos_feitos": 1,
-  "respostas": 47,
+  "respostas": 51,
   "por_post": {
    "17911189386311628": 1,
-   "18336797236279117": 2,
+   "18336797236279117": 3,
    "17890502484684901": 7,
    "17898254706673038": 1,
    "17951473839312879": 18,
    "18031016114857476": 7,
-   "18118666177972325": 11
+   "18118666177972325": 11,
+   "18119586661952960": 3
   }
  },
  "posts": [
@@ -3518,7 +3519,11 @@
   "18458241082193194",
   "18628381480058722",
   "17979144269923084",
-  "17971954137168348"
+  "17971954137168348",
+  "18078890963418460",
+  "18020434466942146",
+  "18153506437543904",
+  "17907643224604176"
  ],
  "hashes": [
   "e3834208b026d9dfee9afacf2cb1cef7",
@@ -4002,30 +4007,14 @@
   "868ab0e359": 1,
   "72cfb937d7": 1,
   "c02b14bf50": 1,
-  "5a08b85437": 1
+  "5a08b85437": 1,
+  "6942b353ef": 1,
+  "225389f09b": 1,
+  "5ba131d82b": 1,
+  "02cd96eabc": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "isso faz sentido, o bolso apertado mata a paciência pra qualquer coisa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkk essa sinceridade um tanto quanto cruel",
-   "p": "neutra",
-   "r": 2
-  },
-  {
-   "t": "tem, mas tem quem respeita, viu",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "cruzar a fronteira virou requisito básico de sobrevivência afetiva por aí",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "parece que virou regra geral complicar o que deveria ser simples",
    "p": "concorda",
@@ -4153,6 +4142,26 @@
   },
   {
    "t": "esse constrói um mundinho tão bonitinho que a gente esquece dos boletos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse choque aí deixou sequelas em muita gente kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa série mexe com a cabeça de um jeito único",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parcela cabível e zero dor de cabeça muda tudo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse aí destruiu o cérebro de todo mundo na primeira temporada",
    "p": "concorda",
    "r": 0
   }
@@ -4932,13 +4941,6 @@
   }
  ],
  "aberturas_post": {
-  "18106390660980798": [
-   "pesquisa de campo",
-   "faltou aquela ousadia",
-   "boa tarde tudo",
-   "estudou a fundo",
-   "pelo menos passou"
-  ],
   "18633135673031281": [
    "essa convocacao de",
    "fechava o gol"
@@ -5148,7 +5150,8 @@
    "para quem usa",
    "organizacao financeira faz",
    "estrategia perfeita pra",
-   "manutencao preventiva bem"
+   "manutencao preventiva bem",
+   "parcela cabivel e"
   ],
   "17911189386311628": [
    "pura verdade so"
@@ -5203,6 +5206,11 @@
    "o tipo de",
    "preciso saber a",
    "economia drastica de"
+  ],
+  "18119586661952960": [
+   "esse choque ai",
+   "essa serie mexe",
+   "esse ai destruiu"
   ]
  },
  "shopee_checada": "2026-10-21|1",
