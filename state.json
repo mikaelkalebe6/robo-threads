@@ -36,7 +36,7 @@
    "18:50"
   ],
   "produtos_feitos": 2,
-  "respostas": 88,
+  "respostas": 93,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
@@ -45,9 +45,9 @@
    "17951473839312879": 19,
    "18031016114857476": 12,
    "18118666177972325": 12,
-   "18119586661952960": 15,
+   "18119586661952960": 17,
    "17964565467250557": 1,
-   "18118787687077318": 16,
+   "18118787687077318": 19,
    "18377981101209166": 1
   },
   "escondidos": 1
@@ -3525,7 +3525,13 @@
   "18413316718082263",
   "17964989319211829",
   "18063546242795188",
-  "18491920828105317"
+  "18491920828105317",
+  "18122485181474711",
+  "17965274934251601",
+  "18153424270532563",
+  "18181507162437016",
+  "18114000307866281",
+  "18118034966044368"
  ],
  "hashes": [
   "99590e42df7bc3952dcc0f24db38b86a",
@@ -4053,35 +4059,15 @@
   "710f669b62": 2,
   "03f7d8c525": 1,
   "bd3e8390d6": 1,
-  "799da4f3d5": 1
+  "799da4f3d5": 1,
+  "acd83a8e17": 1,
+  "e6c5e51e41": 1,
+  "7fab00b2b7": 1,
+  "2b70661bb0": 1,
+  "921961aefc": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "essa transformação aos poucos é um negócio impressionante de ver",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o kit sobrevivência mental completo kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "economia de letras extrema na arvore genealogica kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "viajem no tempo perfeita para desligar de tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesado mas o cansaço é real e todo mundo tá sem paciência pra o básico",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa prende a atenção num nível perigoso",
    "p": "concorda",
@@ -4204,6 +4190,31 @@
   },
   {
    "t": "anos 90 eram uma verdadeira terra sem lei nas escolas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa é pesada do começo ao fim",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o destino agindo certinho na carreira da pessoa kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "essa aí faz a cabeça dar um nó perfeito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a sinceridade dele foi impressionante kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "inaceitável passar por uma situação dessas na escola",
    "p": "concorda",
    "r": 0
   }
@@ -5246,7 +5257,9 @@
    "essa ai embaralhou",
    "essa levou a",
    "essa reviravolta mexe",
-   "essa entrega reviravolta"
+   "essa entrega reviravolta",
+   "essa e pesada",
+   "essa ai faz"
   ],
   "17964565467250557": [
    "dez reais hoje"
@@ -5267,7 +5280,10 @@
    "esse tipo de",
    "parece que o",
    "afinidade com o",
-   "anos 90 eram"
+   "anos 90 eram",
+   "o destino agindo",
+   "pelo menos a",
+   "inaceitavel passar por"
   ],
   "18377981101209166": [
    "depende se a"
