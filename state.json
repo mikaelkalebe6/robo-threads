@@ -33,7 +33,7 @@
    "15:31"
   ],
   "produtos_feitos": 2,
-  "respostas": 63,
+  "respostas": 64,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
@@ -42,7 +42,7 @@
    "17951473839312879": 19,
    "18031016114857476": 10,
    "18118666177972325": 12,
-   "18119586661952960": 9,
+   "18119586661952960": 10,
    "17964565467250557": 1
   }
  },
@@ -3528,7 +3528,8 @@
   "18147297250560123",
   "17957154441266917",
   "18072210878765495",
-  "17963712099217517"
+  "17963712099217517",
+  "18116138618009215"
  ],
  "hashes": [
   "6b199a9bb8427eedb548d0ce332a7e0d",
@@ -4029,15 +4030,11 @@
   "bd9c735297": 1,
   "4ee4961a84": 1,
   "4f06c590ec": 1,
-  "6da2b84cf1": 1
+  "6da2b84cf1": 1,
+  "deab55f4c4": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "esse clássico nunca perde a graca kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "que saudade boa e dolorida ao mesmo tempo, dá vontade de abraçar forte",
    "p": "neutra",
@@ -4180,6 +4177,11 @@
   },
   {
    "t": "pesado mas o cansaço é real e todo mundo tá sem paciência pra o básico",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa prende a atenção num nível perigoso",
    "p": "concorda",
    "r": 0
   }
@@ -5240,7 +5242,8 @@
    "essa ai destroi",
    "essa entrega toda",
    "esse ai mexe",
-   "essa transformacao aos"
+   "essa transformacao aos",
+   "essa prende a"
   ],
   "17964565467250557": [
    "dez reais hoje"
