@@ -24,37 +24,20 @@
   ],
   "feitos": [
    "08:07",
-   "09:01"
+   "09:01",
+   "10:08"
   ],
-  "produtos_feitos": 0,
-  "respostas": 20,
+  "produtos_feitos": 1,
+  "respostas": 24,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 1,
    "17890502484684901": 7,
    "17898254706673038": 1,
-   "17951473839312879": 10
+   "17951473839312879": 14
   }
  },
  "posts": [
-  {
-   "id": "18114403013039784",
-   "insp": "383fb2ad25",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: amor à primeira vista existe mesmo ou é só atração física com um pouco de sorte?",
-   "quando": "2026-10-16T17:07:08.135125-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-17T17:07:07.909197-04:00",
-   "metricas": {
-    "views": 893,
-    "likes": 8,
-    "replies": 26,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-21"
-   }
-  },
   {
    "id": "18083693879364782",
    "insp": "fio_fio-20261011-3",
@@ -1193,7 +1176,7 @@
     "shares": 0,
     "em": "2026-10-21"
    },
-   "viral_chk": "2026-10-21T10:07:08.710378-04:00"
+   "viral_chk": "2026-10-21T10:37:08.667537-04:00"
   },
   {
    "id": "18120269116954821",
@@ -1246,7 +1229,7 @@
     "shares": 0,
     "em": "2026-10-21"
    },
-   "viral_chk": "2026-10-21T10:07:08.710378-04:00"
+   "viral_chk": "2026-10-21T10:37:08.667537-04:00"
   },
   {
    "id": "17954803569035348",
@@ -1299,7 +1282,7 @@
     "shares": 0,
     "em": "2026-10-21"
    },
-   "viral_chk": "2026-10-21T10:07:08.710378-04:00"
+   "viral_chk": "2026-10-21T10:37:08.667537-04:00"
   },
   {
    "id": "17890502484684901",
@@ -1308,7 +1291,7 @@
    "texto": "DÚVIDA SINCERA: pagar a conta toda no primeiro encontro é gentileza de verdade ou pura pressão disfarçada?\n\nPara mim, cada um paga o seu e ninguém vai embora achando que deve nada.",
    "quando": "2026-10-21T08:07:09.399443-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-21T10:07:08.710378-04:00"
+   "viral_chk": "2026-10-21T10:37:08.667537-04:00"
   },
   {
    "id": "17951473839312879",
@@ -1317,7 +1300,33 @@
    "texto": "DÚVIDA SINCERA: ainda tem homem solteiro querendo relacionamento de verdade ou virou padrão aquele papo de \"vamos deixando rolar\" sem prazo pra acabar?\n\nA sensação é que ninguém mais tem coragem de assumir nada.",
    "quando": "2026-10-21T09:07:09.233730-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-21T10:07:08.710378-04:00"
+   "viral_chk": "2026-10-21T10:37:08.667537-04:00"
+  },
+  {
+   "id": "17913145584517227",
+   "insp": "video_c14cbec078",
+   "link": "",
+   "texto": "Cansada de cutícula ressecada que fica prendendo na roupa. Descobri essa caneta que hidrata sem lambança. Olha como funciona 👀",
+   "quando": "2026-10-21T10:37:08.667537-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "19399190201",
+   "link_pendente": true,
+   "modo_produto": "parecido",
+   "prod_dados": {
+    "itemId": "19399190201",
+    "nome": "Kit 03 Canetas Óleo Revitalizador De Cutículas Aroma Hidratante Oleoso",
+    "preco": 12.9,
+    "nota": 4.9,
+    "vendas": 2530,
+    "comissao": 0.03,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-ms479l5jiolh9d",
+    "offerLink": "https://s.shopee.com.br/qkRk8ZsSE",
+    "campanha": "",
+    "modo": "parecido"
+   }
   }
  ],
  "respondidos": [
@@ -3507,7 +3516,11 @@
   "18644004277025603",
   "18031145123886896",
   "18156243037519990",
-  "18074147012738076"
+  "18074147012738076",
+  "17908354170569902",
+  "18129525898854377",
+  "17880265113630099",
+  "18147628765568516"
  ],
  "hashes": [
   "f72e7cd9b1826e3c657f5d145159b534",
@@ -3962,30 +3975,14 @@
   "f92b3e9c37": 1,
   "ed01502843": 1,
   "337832096a": 1,
-  "c6d6ff83bc": 1
+  "c6d6ff83bc": 1,
+  "46f2677654": 1,
+  "c5e378e189": 1,
+  "c128485506": 1,
+  "1ed1d5993b": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "coragem e conta bancária forte pra bancar essa escolha",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "justo, acho que acabou virando as duas coisas ao mesmo tempo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "liberdade tem seu preço né",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "jeito mais fácil de vencer o sistema kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "já entrou na minha lista só pela descrição",
    "p": "concorda",
@@ -4114,6 +4111,26 @@
   {
    "t": "tem, mas tem quem respeita, viu",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "cruzar a fronteira virou requisito básico de sobrevivência afetiva por aí",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece que virou regra geral complicar o que deveria ser simples",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o cansaço tá vencendo a vontade de tentar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "separar homem de menino resume bem o tamanho do desafio de hoje em dia",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -5146,7 +5163,11 @@
    "ainda tem sim",
    "isso faz sentido",
    "essa sinceridade um",
-   "tem mas tem"
+   "tem mas tem",
+   "cruzar a fronteira",
+   "parece que virou",
+   "o cansaco ta",
+   "separar homem de"
   ]
  },
  "shopee_checada": "2026-10-21|1",
@@ -5476,6 +5497,7 @@
   "5e65e31744": "2026-10-19T09:37:07.571353-04:00",
   "56d0dfd231": "2026-10-20T09:07:08.281985-04:00",
   "c63d59bcd1": "2026-10-20T19:07:07.586774-04:00",
-  "d0af80e2f4": "2026-10-20T21:07:09.708148-04:00"
+  "d0af80e2f4": "2026-10-20T21:07:09.708148-04:00",
+  "c14cbec078": "2026-10-21T10:37:08.667537-04:00"
  }
 }
