@@ -23,38 +23,21 @@
    "16:01",
    "18:56",
    "19:54",
-   "21:04"
+   "21:04",
+   "21:57"
   ],
   "produtos_feitos": 3,
-  "respostas": 33,
+  "respostas": 34,
   "por_post": {
    "18132535141688846": 1,
    "18050933324606981": 9,
    "18002807181007550": 7,
    "18113824634031941": 2,
-   "17898254706673038": 6,
+   "17898254706673038": 7,
    "18336797236279117": 8
   }
  },
  "posts": [
-  {
-   "id": "18118448395784719",
-   "insp": "ee7378f2f0",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Acabei de perceber que quem fica só no papo de WhatsApp nunca sai do lugar. Às vezes, é melhor marcar um café e ver no olho.",
-   "quando": "2026-10-16T11:37:09.816018-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-17T11:37:07.551776-04:00",
-   "metricas": {
-    "views": 304,
-    "likes": 7,
-    "replies": 12,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-20"
-   }
-  },
   {
    "id": "18075158522467482",
    "insp": "30e1771c4d",
@@ -1283,6 +1266,14 @@
     "campanha": "",
     "modo": "mesmo"
    }
+  },
+  {
+   "id": "17911189386311628",
+   "insp": "f9bb6059fa",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: tem jogo de várzea no domingo de manhã que entrega muito mais futebol e emoção do que metade da Série A. Quem acha que é só canelada nunca pisou num terrão.",
+   "quando": "2026-10-20T22:07:08.022732-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -3451,10 +3442,10 @@
   "18501204676097980",
   "17869119144661181",
   "18105916634366407",
-  "18114352187130242"
+  "18114352187130242",
+  "17874205908636754"
  ],
  "hashes": [
-  "b17ffc999b5ba35ec3c521d3e6d69220",
   "d2c1b21cca6762f2babda2b2413e0447",
   "d7c8c4c1090b62ee518b48217f025222",
   "f72e7cd9b1826e3c657f5d145159b534",
@@ -3653,7 +3644,8 @@
   "05259b7063a5b9394d2731e1a987db04",
   "57c5891e03dbcd524ddadc2d1e65d5d2",
   "d89e790f7df0c6f25ef531197e56c958",
-  "7c12c48fdc237178e35e12251e55bdd8"
+  "7c12c48fdc237178e35e12251e55bdd8",
+  "61a058eb0279d5071b2282c430d99755"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3881,7 +3873,8 @@
   "ef980ef49f": 1792498040.299683,
   "87c4f84770": 1792503448.3913825,
   "693cca0994": 1792526849.6093185,
-  "179d442b7d": 1792541279.5371044
+  "179d442b7d": 1792541279.5371044,
+  "f9bb6059fa": 1792548447.969154
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -3915,15 +3908,11 @@
   "3e111facf1": 1,
   "e94176e974": 1,
   "1fdd94a055": 1,
-  "72911d63cb": 1
+  "72911d63cb": 1,
+  "69522376fd": 1
  },
  "reservas_checadas": "2026-10-20",
  "ultimas_respostas": [
-  {
-   "t": "veio buscar emprego e conseguiu foi vaga de dependente kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "duas pedidas de respeito que garantem a refeição de qualquer dia",
    "p": "concorda",
@@ -4067,6 +4056,11 @@
   {
    "t": "organização financeira faz milagre mesmo pra quem quer realizar esse sonho",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "defesa firme da carne mas o pão de alho ainda rouba a cena",
+   "p": "discorda",
    "r": 0
   }
  ],
@@ -5058,7 +5052,8 @@
    "pelo menos a",
    "mas ai perdeu",
    "quem me dera",
-   "tem que ter"
+   "tem que ter",
+   "defesa firme da"
   ],
   "18336797236279117": [
    "comprar seminovo escolhido",
