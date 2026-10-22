@@ -23,14 +23,14 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 18,
   "por_post": {
    "18024018605928455": 1,
-   "18343944772287252": 2,
+   "18343944772287252": 4,
    "18110886974268536": 1,
-   "18118787687077318": 2,
+   "18118787687077318": 4,
    "17964565467250557": 1,
-   "18119586661952960": 2,
+   "18119586661952960": 4,
    "18031016114857476": 2,
    "17890502484684901": 1
   }
@@ -3680,7 +3680,13 @@
   "18147099130583570",
   "18336995362262089",
   "18114851360143171",
-  "17911053945559584"
+  "17911053945559584",
+  "18133819675678011",
+  "18131198614699687",
+  "18133898044593955",
+  "18219603043350607",
+  "18215388349361540",
+  "18489859783110388"
  ],
  "hashes": [
   "b091b42cea5fe130a23ab1921ad9ad3e",
@@ -4131,46 +4137,21 @@
   "844b72bbb5": 1,
   "1f1e8afefa": 2,
   "943a3d362c": 1,
-  "fee3465c23": 1,
+  "fee3465c23": 2,
   "308840a4e6": 1,
   "5a4f6559c6": 1,
   "3a901fb5e7": 1,
   "e8a37a9518": 1,
   "fba4604685": 1,
-  "a767935dae": 1
+  "a767935dae": 1,
+  "6a68ec498c": 1,
+  "044f5b7f90": 1,
+  "87b5f71729": 1,
+  "41e5b18c4c": 1,
+  "06e1cbfbf6": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "pesado demais para uma questão de mercado kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o poder da palavra destruindo a larica em segundos kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "agenda aberta para novos horários de limpeza automotiva kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "uma hora de trégua vale qualquer investimento",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa gelada aí no fim do calor é a recompensa oficial pra esquecer os boletos de segunda kkk",
-   "p": "discorda",
-   "r": 1
-  },
-  {
-   "t": "justo, no fim a gente come o que tiver no pacote mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "definição perfeita que encerra qualquer debate kkk",
    "p": "concorda",
@@ -4290,6 +4271,36 @@
    "t": "esvaziar a mente de raiva só se for kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "perda de tempo mas a gente adora um debate inútil kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "professora assim deixa saudade e muda a nossa relação com os livros para sempre 💜",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa série precisa de um manual de instruções para não bugar a mente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "argumento irrefutavel para encerrar o debate",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "professor com apelido infalível marcou época em toda escola kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa história é daquelas que apertam o peito do início ao fim",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5309,8 +5320,6 @@
    "economia de letras"
   ],
   "18119586661952960": [
-   "esse ai destruiu",
-   "essa e impossivel",
    "essa traumatizou tanta",
    "essa ai destroi",
    "essa entrega toda",
@@ -5328,7 +5337,9 @@
    "essa confunde a",
    "essa primeira temporada",
    "esse elenco carrega",
-   "pesado demais mas"
+   "pesado demais mas",
+   "essa serie precisa",
+   "essa historia e"
   ],
   "17964565467250557": [
    "dez reais hoje",
@@ -5336,8 +5347,6 @@
    "dinheiro some antes"
   ],
   "18118787687077318": [
-   "professor que transforma",
-   "biologia opcional mas",
    "essa materia muita",
    "o amor pela",
    "passar o lado",
@@ -5355,7 +5364,9 @@
    "inaceitavel passar por",
    "o combo professor",
    "virar lenda depois",
-   "que situacao revoltante"
+   "que situacao revoltante",
+   "professora assim deixa",
+   "professor com apelido"
   ],
   "18377981101209166": [
    "depende se a"
@@ -5383,7 +5394,9 @@
    "essa disputa rende",
    "separando por categorias",
    "defesa apaixonada do",
-   "divisao cientifica do"
+   "divisao cientifica do",
+   "perda de tempo",
+   "argumento irrefutavel para"
   ],
   "18024018605928455": [
    "agenda aberta para",
