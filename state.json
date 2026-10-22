@@ -29,10 +29,11 @@
    "12:58",
    "13:50",
    "14:45",
-   "15:32"
+   "15:32",
+   "16:24"
   ],
   "produtos_feitos": 2,
-  "respostas": 80,
+  "respostas": 82,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 13,
@@ -46,36 +47,13 @@
    "18109950803579099": 1,
    "17908296711591608": 1,
    "18110725331181104": 1,
-   "17992594266048436": 1,
+   "17992594266048436": 2,
    "18179603278449081": 20,
    "17873769906602294": 6,
-   "18129375533505510": 1
+   "18129375533505510": 2
   }
  },
  "posts": [
-  {
-   "id": "18105080027306911",
-   "insp": "92d6999031",
-   "link": "",
-   "texto": "SEM MENTIR: quem mais aqui já encarou mais de doze horas no volante achando que ia ser super tranquilo?\n\nNa metade do caminho a coluna já pede socorro e nem a melhor playlist do mundo salva.",
-   "quando": "2026-10-18T09:37:07.306843-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T18:37:09.498020-04:00",
-   "link_coment": "https://s.shopee.com.br/BUghCyymR",
-   "meme_comentado": true,
-   "meme_views": 1029,
-   "formato_link": "coment",
-   "produto": "45112715909",
-   "metricas": {
-    "views": 1793,
-    "likes": 26,
-    "replies": 54,
-    "reposts": 0,
-    "quotes": 1,
-    "shares": 0,
-    "em": "2026-10-22"
-   }
-  },
   {
    "id": "18001232555812340",
    "insp": "fio_fio-20261011-4",
@@ -1324,6 +1302,14 @@
    "link": "",
    "texto": "Fui dar aquela aparada básica no cabelo e quase caí dura com a conta. Quanto vocês estão pagando por um corte simples ultimamente?",
    "quando": "2026-10-22T15:37:09.207173-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18078457244719478",
+   "insp": "2b3a6a81d7",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: vocês acham normal dividir a mesma cuia de chimarrão com alguém que acabaram de conhecer na rua ou é muita intimidade pro primeiro papo",
+   "quando": "2026-10-22T16:37:08.764648-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3700,10 +3686,11 @@
   "17941847853374828",
   "18128118877894772",
   "18116805974086614",
-  "18006330722792744"
+  "18006330722792744",
+  "18101192135531592",
+  "18108563999204200"
  ],
  "hashes": [
-  "3fd85ccaf69d5eb90b85a56ed7c28476",
   "4a8b93b5e8eae01b5f7d81900cf5b85a",
   "c1963d62dfb50c95350db59ca76cc497",
   "4d67ff5e82659811220849a019cbe302",
@@ -3902,7 +3889,8 @@
   "1a635db3c4f2f08fed5d14ad78354335",
   "5ff86e9bc04a0b7bfd087949065a1e70",
   "36abb9ecf90e4dacdbf15206fbe5bd68",
-  "6697a4086d13ea440c8da8d61d0ba156"
+  "6697a4086d13ea440c8da8d61d0ba156",
+  "7d913b6cc9fd5f9e989a4827aae78325"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4148,7 +4136,8 @@
   "55ef5ab4ee": 1792683447.603377,
   "bcd56c55f6": 1792688850.6268787,
   "fa26296fcf": 1792692452.4035587,
-  "603114869d": 1792697842.438406
+  "603114869d": 1792697842.438406,
+  "2b3a6a81d7": 1792701496.5239007
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4221,26 +4210,17 @@
   "f26d549578": 1,
   "4997d85460": 1,
   "8953a36423": 1,
-  "eb8e874c87": 1,
+  "eb8e874c87": 2,
   "d48baef5b1": 1,
   "bce83166b0": 1,
   "b0898cc8cc": 1,
   "a4eaf3c0dd": 1,
   "6b114a9678": 1,
-  "366fd5e9e4": 1
+  "366fd5e9e4": 1,
+  "ba2ee04d5a": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "kkk então tem 10 anos de garantia pra terminar, né?",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Sete anos na estante? Esse livro já virou parte da mobília",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "garantir antes que esgote faz todo sentido para não ficar sem a continuacao",
    "p": "concorda",
@@ -4380,6 +4360,16 @@
    "t": "exagero total pra tentar adivinhar o comportamento de alguém",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "lugar simples cobrando isso assusta mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "esse pelo menos cobra o preço em sachê kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5439,7 +5429,8 @@
    "obrigada adorei o"
   ],
   "17992594266048436": [
-   "ninguem recusa um"
+   "ninguem recusa um",
+   "esse pelo menos"
   ],
   "18179603278449081": [
    "entao tem 10",
@@ -5472,7 +5463,8 @@
    "exagero total pra"
   ],
   "18129375533505510": [
-   "esse valor ai"
+   "esse valor ai",
+   "lugar simples cobrando"
   ]
  },
  "shopee_checada": "2026-10-22|1",
