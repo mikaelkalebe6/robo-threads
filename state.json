@@ -23,14 +23,16 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 12,
   "por_post": {
    "18024018605928455": 1,
-   "18343944772287252": 1,
+   "18343944772287252": 2,
    "18110886974268536": 1,
-   "18118787687077318": 1,
+   "18118787687077318": 2,
    "17964565467250557": 1,
-   "18119586661952960": 1
+   "18119586661952960": 2,
+   "18031016114857476": 2,
+   "17890502484684901": 1
   }
  },
  "posts": [
@@ -3672,7 +3674,13 @@
   "18128517484895398",
   "18151928545499688",
   "18506184661103777",
-  "18220410223346166"
+  "18220410223346166",
+  "18384127375224327",
+  "18014110412968681",
+  "18147099130583570",
+  "18336995362262089",
+  "18114851360143171",
+  "17911053945559584"
  ],
  "hashes": [
   "b091b42cea5fe130a23ab1921ad9ad3e",
@@ -4123,40 +4131,16 @@
   "844b72bbb5": 1,
   "1f1e8afefa": 2,
   "943a3d362c": 1,
-  "fee3465c23": 1
+  "fee3465c23": 1,
+  "308840a4e6": 1,
+  "5a4f6559c6": 1,
+  "3a901fb5e7": 1,
+  "e8a37a9518": 1,
+  "fba4604685": 1,
+  "a767935dae": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "essa primeira temporada foi um soco no estômago de quem não conhecia os livros",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "paz e tranquilidade compensam qualquer FOMO de feriadão kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse clássico da internet é impossível de esquecer kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "criou uma regra oficial para o corredor do mercado",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "eterno jovem até chegar a primeira conta de combustível kkkkkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "costume de infância é difícil de mudar mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pesado demais para uma questão de mercado kkk",
    "p": "concorda",
@@ -4276,6 +4260,36 @@
    "t": "esse elenco carrega o peso dessa tensão do início ao fim",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse é tiro certo para esquecer que o mundo real existe",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse argumento do jantar gratuito muda totalmente o peso da conta",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "divisão científica do corredor do mercado kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "que situação revoltante e covarde",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "pesado demais mas marcou a vida de todo mundo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esvaziar a mente de raiva só se for kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5238,7 +5252,8 @@
    "mudou de figura",
    "lugar tranquilo e",
    "entao a conta",
-   "esse termometro ai"
+   "esse termometro ai",
+   "esse argumento do"
   ],
   "17951473839312879": [
    "verdade a vontade",
@@ -5275,7 +5290,9 @@
    "viajem no tempo",
    "fase 42 ja",
    "passear a cavalo",
-   "matematica fingindo descanso"
+   "matematica fingindo descanso",
+   "esse e tiro",
+   "esvaziar a mente"
   ],
   "18118666177972325": [
    "que saudade boa",
@@ -5292,7 +5309,6 @@
    "economia de letras"
   ],
   "18119586661952960": [
-   "essa serie mexe",
    "esse ai destruiu",
    "essa e impossivel",
    "essa traumatizou tanta",
@@ -5311,7 +5327,8 @@
    "maratona pesada reunida",
    "essa confunde a",
    "essa primeira temporada",
-   "esse elenco carrega"
+   "esse elenco carrega",
+   "pesado demais mas"
   ],
   "17964565467250557": [
    "dez reais hoje",
@@ -5319,7 +5336,6 @@
    "dinheiro some antes"
   ],
   "18118787687077318": [
-   "professores assim salvam",
    "professor que transforma",
    "biologia opcional mas",
    "essa materia muita",
@@ -5338,7 +5354,8 @@
    "pelo menos a",
    "inaceitavel passar por",
    "o combo professor",
-   "virar lenda depois"
+   "virar lenda depois",
+   "que situacao revoltante"
   ],
   "18377981101209166": [
    "depende se a"
@@ -5365,7 +5382,8 @@
    "dormir para que",
    "essa disputa rende",
    "separando por categorias",
-   "defesa apaixonada do"
+   "defesa apaixonada do",
+   "divisao cientifica do"
   ],
   "18024018605928455": [
    "agenda aberta para",
