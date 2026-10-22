@@ -39,21 +39,21 @@
    "21:20"
   ],
   "produtos_feitos": 3,
-  "respostas": 120,
+  "respostas": 122,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
    "17890502484684901": 8,
    "17898254706673038": 1,
    "17951473839312879": 20,
-   "18031016114857476": 12,
+   "18031016114857476": 13,
    "18118666177972325": 12,
    "18119586661952960": 20,
    "17964565467250557": 2,
    "18118787687077318": 20,
    "18377981101209166": 1,
    "18110886974268536": 2,
-   "18343944772287252": 15,
+   "18343944772287252": 16,
    "18024018605928455": 3
   },
   "escondidos": 1
@@ -3545,7 +3545,9 @@
   "18484495198128809",
   "17904726264666368",
   "18233024401333953",
-  "18110938799171135"
+  "18110938799171135",
+  "18644719330017406",
+  "17926000152202095"
  ],
  "hashes": [
   "b091b42cea5fe130a23ab1921ad9ad3e",
@@ -4105,20 +4107,12 @@
   "3bfaadbf36": 1,
   "e9d04c529c": 1,
   "09d8c9812f": 1,
-  "e1a0ae9dd3": 1
+  "e1a0ae9dd3": 1,
+  "a92183cb3b": 1,
+  "ab88cde371": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "essa aí faz a cabeça dar um nó perfeito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos a sinceridade dele foi impressionante kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "inaceitável passar por uma situação dessas na escola",
    "p": "concorda",
@@ -4258,6 +4252,16 @@
    "t": "essa disputa rende mais que novela das nove",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "matemática fingindo descanso é genial kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "separando por categorias pra paz reinar na cozinha kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5236,7 +5240,8 @@
    "o kit sobrevivencia",
    "viajem no tempo",
    "fase 42 ja",
-   "passear a cavalo"
+   "passear a cavalo",
+   "matematica fingindo descanso"
   ],
   "18118666177972325": [
    "que saudade boa",
@@ -5322,7 +5327,8 @@
    "economia de tempo",
    "paz mundial dependendo",
    "dormir para que",
-   "essa disputa rende"
+   "essa disputa rende",
+   "separando por categorias"
   ],
   "18024018605928455": [
    "agenda aberta para",
