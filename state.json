@@ -29,12 +29,12 @@
    "12:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 50,
+  "respostas": 55,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 12,
    "18110886974268536": 1,
-   "18118787687077318": 12,
+   "18118787687077318": 13,
    "17964565467250557": 1,
    "18119586661952960": 15,
    "18031016114857476": 2,
@@ -43,7 +43,8 @@
    "18109950803579099": 1,
    "17908296711591608": 1,
    "18110725331181104": 1,
-   "17992594266048436": 1
+   "17992594266048436": 1,
+   "18179603278449081": 4
   }
  },
  "posts": [
@@ -3675,7 +3676,13 @@
   "18123590488937314",
   "18127095530490802",
   "18118157476799071",
-  "18013283072973975"
+  "18013283072973975",
+  "18102373823638413",
+  "17989572771062308",
+  "18130402453774616",
+  "18640455721011991",
+  "18129931396835814",
+  "18033718337684103"
  ],
  "hashes": [
   "01b2a84c8e0b5e54e4bc80201dcb24eb",
@@ -4171,35 +4178,15 @@
   "f4989988a7": 1,
   "63a5fcbfd7": 1,
   "6571efa1ed": 2,
-  "b71c265c29": 1
+  "b71c265c29": 1,
+  "ddd8f62b85": 1,
+  "6af5542c01": 1,
+  "97f78ca009": 1,
+  "2b7c4dc5d8": 1,
+  "d4a2bffa94": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "Fernando deixou marca forte, adoro professor que solta verdades 😄",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Também senti o coração disparar a cada episódio, vale a maratona de novo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "regra validada, mas recheio atrapalha a discussão sobre sabor em si",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "ele realmente teve a coragem de encerrar a conversa com essa lógica",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "esse soco no estômago foi inesquecivel",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "verdade, o pessoal cria tempestade em copo d'água à toa",
    "p": "concorda",
@@ -4324,6 +4311,31 @@
    "t": "ninguém recusa um ar-condicionado funcionando bem no calor kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "kkk então tem 10 anos de garantia pra terminar, né?",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Sete anos na estante? Esse livro já virou parte da mobília",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "garantir antes que esgote faz todo sentido para não ficar sem a continuacao",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o tamanho do monte cristo deve ter te intimidado bastante kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Que bom que o prof de literatura ainda te inspira nem todo mundo tem essa conexão 🙂",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5136,9 +5148,6 @@
   }
  ],
  "aberturas_post": {
-  "18104599913363054": [
-   "pior que a"
-  ],
   "18050933324606981": [
    "mercado aquecido e",
    "existem aos montes",
@@ -5343,7 +5352,6 @@
    "dinheiro some antes"
   ],
   "18118787687077318": [
-   "esse tipo de",
    "parece que o",
    "afinidade com o",
    "anos 90 eram",
@@ -5362,7 +5370,8 @@
    "verdade tem professor",
    "pessimo hein e",
    "passar por isso",
-   "professor bom de"
+   "professor bom de",
+   "que bom que"
   ],
   "18377981101209166": [
    "depende se a"
@@ -5411,6 +5420,12 @@
   ],
   "17992594266048436": [
    "ninguem recusa um"
+  ],
+  "18179603278449081": [
+   "entao tem 10",
+   "sete anos na",
+   "garantir antes que",
+   "o tamanho do"
   ]
  },
  "shopee_checada": "2026-10-22|1",
