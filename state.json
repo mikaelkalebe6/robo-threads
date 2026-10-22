@@ -25,7 +25,8 @@
    "08:26",
    "09:09",
    "10:32",
-   "11:36"
+   "11:36",
+   "12:58"
   ],
   "produtos_feitos": 1,
   "respostas": 50,
@@ -46,44 +47,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17908400601664539",
-   "insp": "video_69a8c4bfde",
-   "link": "",
-   "texto": "Cansada de cabelo caindo no rosto toda vez que foco em alguma coisa. Descobri esse arquinho com presilhas e salvou meu dia. Olha como funciona 👀",
-   "quando": "2026-10-17T20:07:08.441906-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "58215032790",
-   "link_pendente": false,
-   "modo_produto": "mesmo",
-   "prod_dados": {
-    "itemId": "58215032790",
-    "nome": "Kit 1 a 2 unidades Tiara / Arco / Arquinho de Cabelo com Piranhas / Presilha - P",
-    "preco": 12.99,
-    "nota": 4.9,
-    "vendas": 1154,
-    "comissao": 0.18,
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259j-mr5ajzuepds432",
-    "offerLink": "https://s.shopee.com.br/6fi8wPVgi6",
-    "campanha": "",
-    "modo": "mesmo"
-   },
-   "metricas": {
-    "views": 448,
-    "likes": 1,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-22"
-   },
-   "link_coment": "https://s.shopee.com.br/6fi8wPVgi6",
-   "link_em": "2026-10-18T14:37:07.316029-04:00",
-   "link_views": 0
-  },
   {
    "id": "18110795447182003",
    "insp": "b8060c0c5a",
@@ -1360,6 +1323,14 @@
    "texto": "OPINIÃO IMPOPULAR: homem que resolve um pepino prático em casa sem fazer drama ganha um charme inexplicável.",
    "quando": "2026-10-22T11:37:10.113020-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18179603278449081",
+   "insp": "bcd56c55f6",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: quem compra livro e deixa um ano na estante sem abrir?",
+   "quando": "2026-10-22T13:07:08.270400-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -3707,7 +3678,6 @@
   "18013283072973975"
  ],
  "hashes": [
-  "e36dec1aaa40bbd4d0eae84d297e7c76",
   "01b2a84c8e0b5e54e4bc80201dcb24eb",
   "5651b71a0d38a883350d04fbd562b94c",
   "3fd85ccaf69d5eb90b85a56ed7c28476",
@@ -3906,7 +3876,8 @@
   "fc7d4bffce448687d5fbd1260d3e2b7a",
   "6032ac64ab7cd8b2b1074969b60cf2ae",
   "b02b1b9d93e18feac2e7862d37686c3c",
-  "1a635db3c4f2f08fed5d14ad78354335"
+  "1a635db3c4f2f08fed5d14ad78354335",
+  "5ff86e9bc04a0b7bfd087949065a1e70"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4149,7 +4120,8 @@
   "d25c82e639": 1792633048.3753517,
   "8f2f1c9592": 1792672653.2844026,
   "5dc520f8de": 1792676300.047862,
-  "55ef5ab4ee": 1792683447.603377
+  "55ef5ab4ee": 1792683447.603377,
+  "bcd56c55f6": 1792688850.6268787
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
