@@ -25,14 +25,14 @@
    "08:26"
   ],
   "produtos_feitos": 0,
-  "respostas": 24,
+  "respostas": 30,
   "por_post": {
    "18024018605928455": 1,
-   "18343944772287252": 6,
+   "18343944772287252": 8,
    "18110886974268536": 1,
-   "18118787687077318": 6,
+   "18118787687077318": 8,
    "17964565467250557": 1,
-   "18119586661952960": 5,
+   "18119586661952960": 7,
    "18031016114857476": 2,
    "17890502484684901": 1,
    "17951473839312879": 1
@@ -3685,7 +3685,13 @@
   "18129292303833423",
   "18207862111364711",
   "18107983381945344",
-  "18470176783185102"
+  "18470176783185102",
+  "17996383371029602",
+  "18133635286668604",
+  "18143214067594750",
+  "18034615535851667",
+  "17872277142641873",
+  "18121301164949430"
  ],
  "hashes": [
   "703d75806efb2fa09b8e54812fd5cc4a",
@@ -4154,40 +4160,16 @@
   "53d0c8b73a": 1,
   "1b1fc9f7dd": 1,
   "c84732b903": 1,
-  "fd9c2a762e": 1
+  "fd9c2a762e": 1,
+  "bead6125e9": 1,
+  "45957d3ead": 1,
+  "92ec1f6866": 1,
+  "76cbe0221c": 1,
+  "0f78740552": 1,
+  "fc3c857efc": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "paz mundial dependendo do nome escrito no pacote kkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dormir para que se a madrugada serve para pensar nessas coisas",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "esse termômetro aí muda tudo mesmo, dá pra ver na hora quem tá leve e quem tá tenso",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "essa disputa rende mais que novela das nove",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "matemática fingindo descanso é genial kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "separando por categorias pra paz reinar na cozinha kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "vc quer tirar o único refúgio seguro da pessoa",
    "p": "concorda",
@@ -4307,6 +4289,36 @@
    "t": "ele realmente teve a coragem de encerrar a conversa com essa lógica",
    "p": "concorda",
    "r": 3
+  },
+  {
+   "t": "esse soco no estômago foi inesquecivel",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, o pessoal cria tempestade em copo d'água à toa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "lista gigante e cheia de boas lembranças, tia bina ganhou meu coração",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Greys Anatomy sempre dá aquele choque, né? Já anotei na lista kkk 😂",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "mudou tudo e agora o universo está em paz",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "paixão platônica por professora de teoria literária é muito cinema",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5326,8 +5338,6 @@
    "economia de letras"
   ],
   "18119586661952960": [
-   "essa ai destroi",
-   "essa entrega toda",
    "esse ai mexe",
    "essa transformacao aos",
    "essa prende a",
@@ -5345,7 +5355,9 @@
    "pesado demais mas",
    "essa serie precisa",
    "essa historia e",
-   "tambem senti o"
+   "tambem senti o",
+   "esse soco no",
+   "greys anatomy sempre"
   ],
   "17964565467250557": [
    "dez reais hoje",
@@ -5353,8 +5365,6 @@
    "dinheiro some antes"
   ],
   "18118787687077318": [
-   "passar o lado",
-   "verdade o termo",
    "nossa que covardia",
    "separar a pessoa",
    "o famoso virar",
@@ -5372,7 +5382,9 @@
    "professora assim deixa",
    "professor com apelido",
    "fernando deixou marca",
-   "ele realmente teve"
+   "ele realmente teve",
+   "lista gigante e",
+   "paixao platonica por"
   ],
   "18377981101209166": [
    "depende se a"
@@ -5383,8 +5395,6 @@
    "literalmente um teste"
   ],
   "18343944772287252": [
-   "costume de infancia",
-   "pesado demais para",
    "o poder da",
    "justo no fim",
    "definicao perfeita que",
@@ -5402,7 +5412,9 @@
    "perda de tempo",
    "argumento irrefutavel para",
    "e o trem",
-   "regra validada mas"
+   "regra validada mas",
+   "verdade o pessoal",
+   "mudou tudo e"
   ],
   "18024018605928455": [
    "agenda aberta para",
