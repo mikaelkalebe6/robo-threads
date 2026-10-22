@@ -31,9 +31,10 @@
    "14:45",
    "15:32",
    "16:24",
-   "17:38"
+   "17:38",
+   "19:26"
   ],
-  "produtos_feitos": 2,
+  "produtos_feitos": 3,
   "respostas": 93,
   "por_post": {
    "18024018605928455": 1,
@@ -56,24 +57,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18106390660980798",
-   "insp": "a78254bf8a",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: quem mais depois de adulto percebeu que o folclore brasileiro é basicamente um monte de lenda PCD no meio do mato?\n\nSaci com uma perna só, Curupira com os pés invertidos, Mula sem Cabeça. A inclusão florestal sempre foi forte por aqui.",
-   "quando": "2026-10-18T11:07:07.488784-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T10:37:09.695553-04:00",
-   "metricas": {
-    "views": 693,
-    "likes": 9,
-    "replies": 47,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-22"
-   }
-  },
   {
    "id": "18633135673031281",
    "insp": "0e810ea820",
@@ -1300,6 +1283,32 @@
    "texto": "ACADEMIA ÀS 6 DA MANHÃ: ir treinar cedo é puro hábito de quem não tem boletos emocionais para pagar.",
    "quando": "2026-10-22T18:07:09.231249-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17954100792322263",
+   "insp": "video_26dbbef926",
+   "link": "",
+   "texto": "Descobri esse rodo que alcança qualquer canto e resolve a faxina mais rápido. Olha como funciona 👀",
+   "quando": "2026-10-22T19:37:09.605936-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "22898792169",
+   "link_pendente": true,
+   "modo_produto": "tema",
+   "prod_dados": {
+    "itemId": "22898792169",
+    "nome": "Rodinho De Pia Cozinha Rodo Mini Mop Magico Limpa E Seca -Retrátil E Pendurável",
+    "preco": 12.85,
+    "nota": 4.6,
+    "vendas": 8031,
+    "comissao": 0.03,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md3m2jqkl7up3a",
+    "offerLink": "https://s.shopee.com.br/6fiGsrUZFP",
+    "campanha": "",
+    "modo": "tema"
+   }
   }
  ],
  "respondidos": [
@@ -5814,6 +5823,7 @@
   "a437b4bec2": "2026-10-21T15:37:08.793619-04:00",
   "5bb5b8dd07": "2026-10-21T20:07:07.832422-04:00",
   "09741a7f2b": "2026-10-22T10:37:09.930902-04:00",
-  "e2e0719234": "2026-10-22T15:07:08.290033-04:00"
+  "e2e0719234": "2026-10-22T15:07:08.290033-04:00",
+  "26dbbef926": "2026-10-22T19:37:09.605936-04:00"
  }
 }
