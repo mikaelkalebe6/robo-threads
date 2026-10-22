@@ -33,49 +33,28 @@
    "15:31",
    "16:42",
    "17:37",
-   "18:50"
+   "18:50",
+   "19:47"
   ],
-  "produtos_feitos": 2,
-  "respostas": 93,
+  "produtos_feitos": 3,
+  "respostas": 98,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
    "17890502484684901": 7,
    "17898254706673038": 1,
-   "17951473839312879": 19,
+   "17951473839312879": 20,
    "18031016114857476": 12,
    "18118666177972325": 12,
-   "18119586661952960": 17,
+   "18119586661952960": 19,
    "17964565467250557": 1,
-   "18118787687077318": 19,
-   "18377981101209166": 1
+   "18118787687077318": 20,
+   "18377981101209166": 1,
+   "18110886974268536": 1
   },
   "escondidos": 1
  },
  "posts": [
-  {
-   "id": "18108372566123329",
-   "insp": "cbd68162a7",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Churrasco bom de verdade depende muito mais de dominar o carvão do que de gastar uma fortuna na carne. \n\nCarvão aceso errado estraga qualquer corte caro.",
-   "quando": "2026-10-17T14:07:08.333504-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-17T21:37:08.255141-04:00",
-   "link_coment": "https://s.shopee.com.br/5fpat5fjU2",
-   "meme_comentado": true,
-   "meme_views": 1007,
-   "formato_link": "coment",
-   "produto": "58254074073",
-   "metricas": {
-    "views": 1199,
-    "likes": 32,
-    "replies": 31,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-21"
-   }
-  },
   {
    "id": "18104070287346772",
    "insp": "993899e22c",
@@ -1267,6 +1246,32 @@
    "texto": "OPINIÃO IMPOPULAR: feriadão prolongado é só um teste pra ver quem não tem o que fazer em casa e inventa de pegar estrada pra passar raiva no trânsito.",
    "quando": "2026-10-21T19:07:07.698580-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18129767968883192",
+   "insp": "video_5bb5b8dd07",
+   "link": "",
+   "texto": "Descobri esse jeito de fazer doce em casa e salvar a larica da madrugada. Olha como funciona 👀",
+   "quando": "2026-10-21T20:07:07.832422-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "22593650256",
+   "link_pendente": true,
+   "modo_produto": "tema",
+   "prod_dados": {
+    "itemId": "22593650256",
+    "nome": "Frigideira Ovo Antiaderente Pequena C/tampa Vidro 12 Cm",
+    "preco": 29.99,
+    "nota": 4.8,
+    "vendas": 355,
+    "comissao": 0.03,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m54dujlz17r96d",
+    "offerLink": "https://s.shopee.com.br/4LKKXgfmjg",
+    "campanha": "",
+    "modo": "tema"
+   }
   }
  ],
  "respondidos": [
@@ -3531,7 +3536,13 @@
   "18153424270532563",
   "18181507162437016",
   "18114000307866281",
-  "18118034966044368"
+  "18118034966044368",
+  "18088728806702719",
+  "18636889753026880",
+  "18114006350109957",
+  "18182142844428917",
+  "18019335524944003",
+  "17953019703335488"
  ],
  "hashes": [
   "99590e42df7bc3952dcc0f24db38b86a",
@@ -3977,7 +3988,7 @@
  "por_pessoa": {
   "_data": "2026-10-21",
   "86f431288d": 1,
-  "5a4f6559c6": 1,
+  "5a4f6559c6": 2,
   "b701eaf581": 1,
   "e679918c9e": 1,
   "7a078c8ccd": 1,
@@ -4064,35 +4075,14 @@
   "e6c5e51e41": 1,
   "7fab00b2b7": 1,
   "2b70661bb0": 1,
-  "921961aefc": 1
+  "921961aefc": 1,
+  "77721fe98c": 1,
+  "fc6160a732": 1,
+  "a3490dc269": 1,
+  "b86ee0a253": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "essa prende a atenção num nível perigoso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "fase 42 já é nível especialista em desligar o cérebro kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "primeira infância marcada por ranço é terrível, mas ainda bem que a Lídia salvou o final da escola",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "professores assim salvam a vida da gente na escola",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "professor que transforma exatas em algo interessante deixa marca para a vida toda",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "biologia opcional mas cultura musical em dia kkkkk",
    "p": "concorda",
@@ -4215,6 +4205,31 @@
   },
   {
    "t": "inaceitável passar por uma situação dessas na escola",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia perfeita, só esqueceu que a praia inteira teve a mesma ideia kkkk",
+   "p": "concorda",
+   "r": 4
+  },
+  {
+   "t": "maratona pesada reunida em uma lista só",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa confunde a mente de um jeito que a gente demora dias pra digerir",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o combo professor excelente mas antipático clássico de exatas kkkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "triste realidade mas parece que virou regra geral hoje em dia",
    "p": "concorda",
    "r": 0
   }
@@ -4999,17 +5014,6 @@
   }
  ],
  "aberturas_post": {
-  "18144021196597425": [
-   "justo demais o",
-   "esse e o",
-   "antecipar tira um",
-   "organizacao no whatsapp",
-   "limite bom para",
-   "estrategia de quem",
-   "supermercado realmente nao",
-   "separar o que",
-   "garantir o desconto"
-  ],
   "18067887914607934": [
    "flexibilidade e tudo",
    "coordenar a agenda",
@@ -5212,7 +5216,8 @@
    "pelo menos poupa",
    "a preguica de",
    "faz sentido quem",
-   "pesado mas o"
+   "pesado mas o",
+   "triste realidade mas"
   ],
   "18031016114857476": [
    "xadrez e otimo",
@@ -5259,7 +5264,9 @@
    "essa reviravolta mexe",
    "essa entrega reviravolta",
    "essa e pesada",
-   "essa ai faz"
+   "essa ai faz",
+   "maratona pesada reunida",
+   "essa confunde a"
   ],
   "17964565467250557": [
    "dez reais hoje"
@@ -5283,10 +5290,14 @@
    "anos 90 eram",
    "o destino agindo",
    "pelo menos a",
-   "inaceitavel passar por"
+   "inaceitavel passar por",
+   "o combo professor"
   ],
   "18377981101209166": [
    "depende se a"
+  ],
+  "18110886974268536": [
+   "estrategia perfeita so"
   ]
  },
  "shopee_checada": "2026-10-21|1",
@@ -5621,6 +5632,7 @@
   "c63d59bcd1": "2026-10-20T19:07:07.586774-04:00",
   "d0af80e2f4": "2026-10-20T21:07:09.708148-04:00",
   "c14cbec078": "2026-10-21T10:37:08.667537-04:00",
-  "a437b4bec2": "2026-10-21T15:37:08.793619-04:00"
+  "a437b4bec2": "2026-10-21T15:37:08.793619-04:00",
+  "5bb5b8dd07": "2026-10-21T20:07:07.832422-04:00"
  }
 }
