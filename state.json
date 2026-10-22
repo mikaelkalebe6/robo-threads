@@ -26,14 +26,14 @@
    "09:09"
   ],
   "produtos_feitos": 0,
-  "respostas": 36,
+  "respostas": 41,
   "por_post": {
    "18024018605928455": 1,
-   "18343944772287252": 10,
+   "18343944772287252": 12,
    "18110886974268536": 1,
-   "18118787687077318": 10,
+   "18118787687077318": 11,
    "17964565467250557": 1,
-   "18119586661952960": 9,
+   "18119586661952960": 11,
    "18031016114857476": 2,
    "17890502484684901": 1,
    "17951473839312879": 1
@@ -3691,7 +3691,12 @@
   "18210725269324092",
   "18393705466162928",
   "18198548620390958",
-  "18635908243033287"
+  "18635908243033287",
+  "17937450294399164",
+  "18132664003796091",
+  "18070103540509626",
+  "18098237558423093",
+  "18130174720876071"
  ],
  "hashes": [
   "da316a38e4628247a7aa4df308aa62b5",
@@ -4172,35 +4177,15 @@
   "b776668127": 1,
   "07f657cd97": 1,
   "b0d482e586": 1,
-  "617fa3f463": 1
+  "617fa3f463": 1,
+  "b5b18250fe": 1,
+  "36a6b6c2b7": 1,
+  "198c80a3a7": 1,
+  "4e522ebd5e": 1,
+  "a1f5e37b10": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "esse é tiro certo para esquecer que o mundo real existe",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse argumento do jantar gratuito muda totalmente o peso da conta",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "divisão científica do corredor do mercado kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "que situação revoltante e covarde",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "pesado demais mas marcou a vida de todo mundo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esvaziar a mente de raiva só se for kkkkkk",
    "p": "concorda",
@@ -4325,6 +4310,31 @@
    "t": "Péssimo, hein? E o Trogo, tem aula de feitiços? kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "aquele mistério inicial prende a atenção de um jeito difícil de explicar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa diplomacia na hora do lanche resolve qualquer impasse",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "passar por isso gostando da matéria é castigo em dobro",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "dupla de peso que marcou época na televisão",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesado demais para uma questão de mercado",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5349,8 +5359,6 @@
    "economia de letras"
   ],
   "18119586661952960": [
-   "essa prende a",
-   "essa ai deixa",
    "essa ai embaralhou",
    "essa levou a",
    "essa reviravolta mexe",
@@ -5368,7 +5376,9 @@
    "esse soco no",
    "greys anatomy sempre",
    "prison break tem",
-   "o comeco do"
+   "o comeco do",
+   "aquele misterio inicial",
+   "dupla de peso"
   ],
   "17964565467250557": [
    "dez reais hoje",
@@ -5376,7 +5386,6 @@
    "dinheiro some antes"
   ],
   "18118787687077318": [
-   "o famoso virar",
    "covardia enorme fazer",
    "esse tipo de",
    "parece que o",
@@ -5395,7 +5404,8 @@
    "lista gigante e",
    "paixao platonica por",
    "verdade tem professor",
-   "pessimo hein e"
+   "pessimo hein e",
+   "passar por isso"
   ],
   "18377981101209166": [
    "depende se a"
@@ -5406,8 +5416,6 @@
    "literalmente um teste"
   ],
   "18343944772287252": [
-   "definicao perfeita que",
-   "criou uma categoria",
    "colocando a marra",
    "mauricio e forte",
    "pelo menos desabafar",
@@ -5425,7 +5433,9 @@
    "verdade o pessoal",
    "mudou tudo e",
    "teste legal mas",
-   "exato a discussao"
+   "exato a discussao",
+   "essa diplomacia na",
+   "pesado demais para"
   ],
   "18024018605928455": [
    "agenda aberta para",
