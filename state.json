@@ -34,7 +34,7 @@
    "17:38"
   ],
   "produtos_feitos": 2,
-  "respostas": 90,
+  "respostas": 92,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 13,
@@ -51,7 +51,7 @@
    "17992594266048436": 2,
    "18179603278449081": 20,
    "17873769906602294": 7,
-   "18129375533505510": 4,
+   "18129375533505510": 6,
    "18078457244719478": 5
   }
  },
@@ -3685,7 +3685,9 @@
   "18131492797687857",
   "17970970569173779",
   "18398334139167320",
-  "17889110919477287"
+  "17889110919477287",
+  "18119222771066720",
+  "18130458031696156"
  ],
  "hashes": [
   "c1963d62dfb50c95350db59ca76cc497",
@@ -4223,20 +4225,12 @@
   "1948d48d94": 1,
   "a08cae6789": 1,
   "d8c05053ee": 1,
-  "30522ed2cd": 1
+  "30522ed2cd": 1,
+  "047195bed5": 1,
+  "f27bbbce0f": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "esse um dia costuma demorar bastante para chegar kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quando a pessoa escolhe o prato mais caro do cardápio logo no primeiro encontro",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "para garantir a comida mais cara da noite sem nenhuma culpa",
    "p": "concorda",
@@ -4376,6 +4370,16 @@
    "t": "economia preventiva antes de arriscar o orçamento do mês kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "preço bom de verdade pra dias de hoje",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "autonomia financeira e capilar em uma pessoa só",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5470,7 +5474,9 @@
    "esse valor ai",
    "lugar simples cobrando",
    "preco de outro",
-   "cobram o valor"
+   "cobram o valor",
+   "preco bom de",
+   "autonomia financeira e"
   ],
   "18078457244719478": [
    "depois da pandemia",
