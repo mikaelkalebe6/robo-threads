@@ -39,7 +39,7 @@
    "21:20"
   ],
   "produtos_feitos": 3,
-  "respostas": 106,
+  "respostas": 112,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
@@ -53,7 +53,8 @@
    "18118787687077318": 20,
    "18377981101209166": 1,
    "18110886974268536": 2,
-   "18343944772287252": 5
+   "18343944772287252": 8,
+   "18024018605928455": 3
   },
   "escondidos": 1
  },
@@ -3530,7 +3531,13 @@
   "17968228163973857",
   "18482903026118473",
   "17866635585679065",
-  "18069836267509736"
+  "18069836267509736",
+  "18119943907974950",
+  "18106510481209548",
+  "18058536158594305",
+  "17992109765862903",
+  "17994116115020834",
+  "18117702652973294"
  ],
  "hashes": [
   "b091b42cea5fe130a23ab1921ad9ad3e",
@@ -4077,40 +4084,16 @@
   "1d06969815": 1,
   "88e14a9ec3": 1,
   "5d79e14c0d": 1,
-  "ec9ba32677": 1
+  "ec9ba32677": 1,
+  "0d4c137d81": 1,
+  "e9c79426f7": 1,
+  "e7102b50d0": 1,
+  "4a379c6b22": 1,
+  "8e091bd6c1": 1,
+  "7775d47355": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "o famoso virar o jogo com juros e correção kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa aí deixa a gente com a mente meio travada dias depois",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "covardia enorme fazer isso com uma criança de nove anos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa aí embaralhou a cabeça de todo mundo na epoca",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse tipo de aula muda a perspectiva da gente sobre o que é aprender de verdade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa levou a sério o sonho de adolescente rica nos anos 2000",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "passear a cavalo ouvindo o som do mato é bom demais pra desacelerar kkkk",
    "p": "concorda",
@@ -4228,6 +4211,36 @@
   },
   {
    "t": "o poder da palavra destruindo a larica em segundos kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "agenda aberta para novos horários de limpeza automotiva kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "uma hora de trégua vale qualquer investimento",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa gelada aí no fim do calor é a recompensa oficial pra esquecer os boletos de segunda kkk",
+   "p": "discorda",
+   "r": 1
+  },
+  {
+   "t": "justo, no fim a gente come o que tiver no pacote mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "definição perfeita que encerra qualquer debate kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "criou uma categoria nova no mercado kkk",
    "p": "concorda",
    "r": 1
   }
@@ -5017,11 +5030,6 @@
   }
  ],
  "aberturas_post": {
-  "18132148777761668": [
-   "verdade ai o",
-   "ate a cor",
-   "justo a realidade"
-  ],
   "18384730186242595": [
    "filtro natural pesado",
    "mentir da um",
@@ -5288,7 +5296,15 @@
    "criou uma regra",
    "costume de infancia",
    "pesado demais para",
-   "o poder da"
+   "o poder da",
+   "justo no fim",
+   "definicao perfeita que",
+   "criou uma categoria"
+  ],
+  "18024018605928455": [
+   "agenda aberta para",
+   "uma hora de",
+   "essa gelada ai"
   ]
  },
  "shopee_checada": "2026-10-21|1",
