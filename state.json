@@ -33,7 +33,7 @@
    "16:24"
   ],
   "produtos_feitos": 2,
-  "respostas": 82,
+  "respostas": 84,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 13,
@@ -50,7 +50,8 @@
    "17992594266048436": 2,
    "18179603278449081": 20,
    "17873769906602294": 6,
-   "18129375533505510": 2
+   "18129375533505510": 2,
+   "18078457244719478": 2
   }
  },
  "posts": [
@@ -3688,7 +3689,9 @@
   "18116805974086614",
   "18006330722792744",
   "18101192135531592",
-  "18108563999204200"
+  "18108563999204200",
+  "18222211777345930",
+  "18147006211568064"
  ],
  "hashes": [
   "4a8b93b5e8eae01b5f7d81900cf5b85a",
@@ -4217,20 +4220,12 @@
   "a4eaf3c0dd": 1,
   "6b114a9678": 1,
   "366fd5e9e4": 1,
-  "ba2ee04d5a": 1
+  "ba2ee04d5a": 1,
+  "33d275a6d2": 1,
+  "d4975deb3b": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "garantir antes que esgote faz todo sentido para não ficar sem a continuacao",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o tamanho do monte cristo deve ter te intimidado bastante kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Que bom que o prof de literatura ainda te inspira nem todo mundo tem essa conexão 🙂",
    "p": "concorda",
@@ -4370,6 +4365,16 @@
    "t": "esse pelo menos cobra o preço em sachê kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "depois da pandemia o filtro social ficou bem mais rigoroso mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, o compartilhamento vai muito além da amizade kkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5182,9 +5187,6 @@
   }
  ],
  "aberturas_post": {
-  "18284931982288268": [
-   "essa fatura de"
-  ],
   "18026275952872648": [
    "ja querendo resolver",
    "essas sao as"
@@ -5465,6 +5467,10 @@
   "18129375533505510": [
    "esse valor ai",
    "lugar simples cobrando"
+  ],
+  "18078457244719478": [
+   "depois da pandemia",
+   "verdade o compartilhamento"
   ]
  },
  "shopee_checada": "2026-10-22|1",
