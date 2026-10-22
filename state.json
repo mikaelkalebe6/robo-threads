@@ -35,10 +35,11 @@
    "17:37",
    "18:50",
    "19:47",
-   "20:38"
+   "20:38",
+   "21:20"
   ],
   "produtos_feitos": 3,
-  "respostas": 100,
+  "respostas": 106,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
@@ -48,38 +49,15 @@
    "18031016114857476": 12,
    "18118666177972325": 12,
    "18119586661952960": 20,
-   "17964565467250557": 1,
+   "17964565467250557": 2,
    "18118787687077318": 20,
    "18377981101209166": 1,
-   "18110886974268536": 2
+   "18110886974268536": 2,
+   "18343944772287252": 5
   },
   "escondidos": 1
  },
  "posts": [
-  {
-   "id": "18143543053588756",
-   "insp": "car_car-20261011-6",
-   "link": "",
-   "texto": "a nuca depois de 4 horas de pescaria de boné",
-   "quando": "2026-10-17T15:37:07.980428-04:00",
-   "ia": "carrossel",
-   "estrategia": "carrossel",
-   "formato": "carrossel",
-   "formato_link": "coment",
-   "produto": "14065340258",
-   "modelo": "meme de reacao (refs. DdbtUQQoA9-, DeRyDE-IH2i) + manchete (DXVUQ01jZe6)",
-   "visual": "cn",
-   "link_coment": "https://s.shopee.com.br/9fLZ9KoAnp",
-   "metricas": {
-    "views": 215,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-21"
-   }
-  },
   {
    "id": "18015866036747016",
    "insp": "039df70d88",
@@ -1241,7 +1219,7 @@
    "estrategia": "produto_video",
    "formato_link": "resp",
    "produto": "22593650256",
-   "link_pendente": true,
+   "link_pendente": false,
    "modo_produto": "tema",
    "prod_dados": {
     "itemId": "22593650256",
@@ -1254,7 +1232,10 @@
     "offerLink": "https://s.shopee.com.br/4LKKXgfmjg",
     "campanha": "",
     "modo": "tema"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/4LKKXgfmjg",
+   "link_em": "2026-10-21T21:37:08.725499-04:00",
+   "link_views": 698
   },
   {
    "id": "18343944772287252",
@@ -1262,6 +1243,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: chamar de bolacha ou de biscoito muda alguma coisa no sabor? Juro que nunca entendi essa discussão.",
    "quando": "2026-10-21T21:07:07.357239-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18024018605928455",
+   "insp": "d25c82e639",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: homem lavando o carro sábado de manhã não é capricho, é puro desespero pra ficar longe da rotina de casa",
+   "quando": "2026-10-21T21:37:08.725499-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3535,10 +3524,15 @@
   "18019335524944003",
   "17953019703335488",
   "17891475048653925",
-  "17891345715456523"
+  "17891345715456523",
+  "18107588801215015",
+  "18169403824426095",
+  "17968228163973857",
+  "18482903026118473",
+  "17866635585679065",
+  "18069836267509736"
  ],
  "hashes": [
-  "a19e8ae53b25ff10f46e02fb14505594",
   "b091b42cea5fe130a23ab1921ad9ad3e",
   "703d75806efb2fa09b8e54812fd5cc4a",
   "da316a38e4628247a7aa4df308aa62b5",
@@ -3737,7 +3731,8 @@
   "5083592bc58c80489431dc8e68016f00",
   "25dcd2dec649d8a673ac8e042706ea54",
   "5a3ba42d1895ec0be5bba09fed412b4c",
-  "1fc4cb5f6c0d725a922b95348f051d0c"
+  "1fc4cb5f6c0d725a922b95348f051d0c",
+  "fc7d4bffce448687d5fbd1260d3e2b7a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3976,7 +3971,8 @@
   "546540780d": 1792616895.2913206,
   "041d158196": 1792618645.1492493,
   "3b094b119a": 1792624041.2676432,
-  "304d0a9ace": 1792631296.153229
+  "304d0a9ace": 1792631296.153229,
+  "d25c82e639": 1792633048.3753517
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4075,40 +4071,16 @@
   "a3490dc269": 1,
   "b86ee0a253": 1,
   "7f1dedd6be": 1,
-  "d77d8066ee": 1
+  "d77d8066ee": 1,
+  "6520276683": 1,
+  "060cbc527d": 1,
+  "1d06969815": 1,
+  "88e14a9ec3": 1,
+  "5d79e14c0d": 1,
+  "ec9ba32677": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "o amor pela materia comecou cedo então",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "depende se a orelha tem botão reset kkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "passar o lado bom adiante é a melhor herança que um professor pode deixar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, o termo médio simplesmente some da cabeça da gente com o tempo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nossa que covardia absurda, o trauma de infancia deixa marca pra sempre",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "separar a pessoa da matéria é um ótimo jeito de seguir em paz",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "o famoso virar o jogo com juros e correção kkkk",
    "p": "concorda",
@@ -4226,6 +4198,36 @@
   },
   {
    "t": "paz e tranquilidade compensam qualquer FOMO de feriadão kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse clássico da internet é impossível de esquecer kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "criou uma regra oficial para o corredor do mercado",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "eterno jovem até chegar a primeira conta de combustível kkkkkkkkkkk",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "costume de infância é difícil de mudar mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesado demais para uma questão de mercado kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o poder da palavra destruindo a larica em segundos kkk",
    "p": "concorda",
    "r": 1
   }
@@ -4515,6 +4517,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-21T15:37:08.793619-04:00"
+  },
+  "18065651732512119": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-21T21:37:08.725499-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -5010,28 +5017,6 @@
   }
  ],
  "aberturas_post": {
-  "18067887914607934": [
-   "flexibilidade e tudo",
-   "coordenar a agenda",
-   "investimento alto que",
-   "imersao total sem",
-   "combinacao perfeita para",
-   "esse classico consome",
-   "propaganda invasiva estraga",
-   "com certeza bem",
-   "decisao dificil demais",
-   "viajar pela grecia",
-   "jeito ideal de",
-   "melhor jeito de",
-   "o saldo da",
-   "pega o melhor",
-   "variar o estilo",
-   "grupo fechado para",
-   "companhia boa na",
-   "horario alternativo acaba",
-   "esse entrou na",
-   "parece que nao"
-  ],
   "18132148777761668": [
    "verdade ai o",
    "ate a cor",
@@ -5266,7 +5251,8 @@
    "essa primeira temporada"
   ],
   "17964565467250557": [
-   "dez reais hoje"
+   "dez reais hoje",
+   "eterno jovem ate"
   ],
   "18118787687077318": [
    "primeira infancia marcada",
@@ -5296,6 +5282,13 @@
   "18110886974268536": [
    "estrategia perfeita so",
    "paz e tranquilidade"
+  ],
+  "18343944772287252": [
+   "esse classico da",
+   "criou uma regra",
+   "costume de infancia",
+   "pesado demais para",
+   "o poder da"
   ]
  },
  "shopee_checada": "2026-10-21|1",
@@ -5487,7 +5480,8 @@
   "58205929037": "2026-10-21T07:07:11.384114-04:00",
   "58208944738": "2026-10-21T11:07:09.391806-04:00",
   "22993669426": "2026-10-21T13:07:09.415738-04:00",
-  "16519154009": "2026-10-21T15:37:08.793619-04:00"
+  "16519154009": "2026-10-21T15:37:08.793619-04:00",
+  "22593650256": "2026-10-21T21:37:08.725499-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
