@@ -27,17 +27,18 @@
    "10:32"
   ],
   "produtos_feitos": 1,
-  "respostas": 42,
+  "respostas": 45,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 12,
    "18110886974268536": 1,
-   "18118787687077318": 11,
+   "18118787687077318": 12,
    "17964565467250557": 1,
-   "18119586661952960": 12,
+   "18119586661952960": 13,
    "18031016114857476": 2,
    "17890502484684901": 1,
-   "17951473839312879": 1
+   "17951473839312879": 1,
+   "18109950803579099": 1
   }
  },
  "posts": [
@@ -3706,7 +3707,10 @@
   "18070103540509626",
   "18098237558423093",
   "18130174720876071",
-  "18635304484047569"
+  "18635304484047569",
+  "18196597456391106",
+  "18121122590056980",
+  "18146416822608003"
  ],
  "hashes": [
   "da316a38e4628247a7aa4df308aa62b5",
@@ -4193,25 +4197,13 @@
   "198c80a3a7": 1,
   "4e522ebd5e": 1,
   "a1f5e37b10": 1,
-  "5fd02c5218": 1
+  "5fd02c5218": 1,
+  "e7102b50d0": 1,
+  "a546a7c73b": 1,
+  "51155c3677": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "perda de tempo mas a gente adora um debate inútil kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "professora assim deixa saudade e muda a nossa relação com os livros para sempre 💜",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa série precisa de um manual de instruções para não bugar a mente",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "argumento irrefutavel para encerrar o debate",
    "p": "neutra",
@@ -4346,6 +4338,21 @@
    "t": "Bates Motel tem esse clima de arrepio, já anotado para maratonar 😅",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "justo no dia que minha programação de robô falhou kkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "professor bom de português muda a vida da gente kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa série é um tiro certeiro no estômago kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5158,27 +5165,6 @@
   }
  ],
  "aberturas_post": {
-  "18384730186242595": [
-   "filtro natural pesado",
-   "mentir da um",
-   "pelo menos aqui",
-   "povo tem alergia",
-   "dar opcoes antes",
-   "pois e no",
-   "se for pra",
-   "duro ver que",
-   "pesado demais tem",
-   "o problema e",
-   "chega uma hora",
-   "justo na ferida",
-   "economia de energia",
-   "filtra naturalmente quem",
-   "poxa doi mesmo",
-   "verdade o tom",
-   "solidao no topo",
-   "teoria linda mas",
-   "melhor um ou"
-  ],
   "17978778833919010": [
    "com certeza manobra"
   ],
@@ -5370,7 +5356,6 @@
    "economia de letras"
   ],
   "18119586661952960": [
-   "essa levou a",
    "essa reviravolta mexe",
    "essa entrega reviravolta",
    "essa e pesada",
@@ -5389,7 +5374,8 @@
    "o comeco do",
    "aquele misterio inicial",
    "dupla de peso",
-   "bates motel tem"
+   "bates motel tem",
+   "essa serie e"
   ],
   "17964565467250557": [
    "dez reais hoje",
@@ -5397,7 +5383,6 @@
    "dinheiro some antes"
   ],
   "18118787687077318": [
-   "covardia enorme fazer",
    "esse tipo de",
    "parece que o",
    "afinidade com o",
@@ -5416,7 +5401,8 @@
    "paixao platonica por",
    "verdade tem professor",
    "pessimo hein e",
-   "passar por isso"
+   "passar por isso",
+   "professor bom de"
   ],
   "18377981101209166": [
    "depende se a"
@@ -5453,6 +5439,9 @@
    "uma hora de",
    "essa gelada ai",
    "vc quer tirar"
+  ],
+  "18109950803579099": [
+   "justo no dia"
   ]
  },
  "shopee_checada": "2026-10-22|1",
