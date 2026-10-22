@@ -34,7 +34,7 @@
    "17:38"
   ],
   "produtos_feitos": 2,
-  "respostas": 92,
+  "respostas": 93,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 13,
@@ -51,7 +51,7 @@
    "17992594266048436": 2,
    "18179603278449081": 20,
    "17873769906602294": 7,
-   "18129375533505510": 6,
+   "18129375533505510": 7,
    "18078457244719478": 5
   }
  },
@@ -3687,7 +3687,8 @@
   "18398334139167320",
   "17889110919477287",
   "18119222771066720",
-  "18130458031696156"
+  "18130458031696156",
+  "18129057262871933"
  ],
  "hashes": [
   "c1963d62dfb50c95350db59ca76cc497",
@@ -4227,15 +4228,11 @@
   "d8c05053ee": 1,
   "30522ed2cd": 1,
   "047195bed5": 1,
-  "f27bbbce0f": 1
+  "f27bbbce0f": 1,
+  "7272e19040": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "para garantir a comida mais cara da noite sem nenhuma culpa",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "chocou um total de zero pessoas",
    "p": "neutra",
@@ -4378,6 +4375,11 @@
   },
   {
    "t": "autonomia financeira e capilar em uma pessoa só",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse valor já virou padrão em quase todo lugar",
    "p": "concorda",
    "r": 0
   }
@@ -5476,7 +5478,8 @@
    "preco de outro",
    "cobram o valor",
    "preco bom de",
-   "autonomia financeira e"
+   "autonomia financeira e",
+   "esse valor ja"
   ],
   "18078457244719478": [
    "depois da pandemia",
