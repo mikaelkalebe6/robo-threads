@@ -30,7 +30,7 @@
    "13:50"
   ],
   "produtos_feitos": 1,
-  "respostas": 61,
+  "respostas": 67,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 12,
@@ -45,7 +45,8 @@
    "17908296711591608": 1,
    "18110725331181104": 1,
    "17992594266048436": 1,
-   "18179603278449081": 10
+   "18179603278449081": 13,
+   "17873769906602294": 3
   }
  },
  "posts": [
@@ -3679,7 +3680,13 @@
   "18636561481062974",
   "18144857881574765",
   "17947044582075956",
-  "18105848801262237"
+  "18105848801262237",
+  "18355963579175845",
+  "18034525205670018",
+  "18038556833661489",
+  "18017989877955895",
+  "17967456753206192",
+  "18077790830766490"
  ],
  "hashes": [
   "5651b71a0d38a883350d04fbd562b94c",
@@ -4187,40 +4194,16 @@
   "aac596aab9": 1,
   "e3e72a0d47": 1,
   "41af533ea0": 1,
-  "3c32746223": 1
+  "3c32746223": 1,
+  "58381a1039": 1,
+  "00c0025fcf": 1,
+  "5a84e05d8b": 1,
+  "db8b71997d": 1,
+  "eea3ca92b0": 1,
+  "894be2797f": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "Teste legal, mas o sabor continua o mesmo, só muda a confusão kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Verdade, tem professor que deixa marca pra sempre kkk 🙏🏼",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o começo do TWD sempre acerta em cheio, né",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "exato, a discussão é séria e afeta a alma",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Péssimo, hein? E o Trogo, tem aula de feitiços? kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "aquele mistério inicial prende a atenção de um jeito difícil de explicar",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa diplomacia na hora do lanche resolve qualquer impasse",
    "p": "concorda",
@@ -4340,6 +4323,36 @@
    "t": "esse um dia costuma demorar bastante para chegar kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "quando a pessoa escolhe o prato mais caro do cardápio logo no primeiro encontro",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "para garantir a comida mais cara da noite sem nenhuma culpa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "chocou um total de zero pessoas",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a biblioteca pessoal fica bonita kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "cada livro espera o momento certo da gente mesmo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "hábito de acumular leitura no meio de tanta correria é super normal",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5152,28 +5165,6 @@
   }
  ],
  "aberturas_post": {
-  "18050933324606981": [
-   "mercado aquecido e",
-   "existem aos montes",
-   "e a gente",
-   "entendo a procura",
-   "distancia e so",
-   "chegou entregando curriculo",
-   "com um bom",
-   "quem procura acha",
-   "tbm ta na",
-   "de olho no",
-   "liberdade ja vem",
-   "a segunda opcao",
-   "veio buscar emprego",
-   "tanto faz o",
-   "quem disse que",
-   "trabalho bom e",
-   "temos bastante variedade",
-   "ja manda o",
-   "pelo menos a",
-   "tomara que a"
-  ],
   "17990749128026638": [
    "filtro de qualidade"
   ],
@@ -5435,7 +5426,15 @@
    "quinze anos esperando",
    "esse ai ja",
    "o clube do",
-   "esse um dia"
+   "esse um dia",
+   "pelo menos a",
+   "cada livro espera",
+   "habito de acumular"
+  ],
+  "17873769906602294": [
+   "quando a pessoa",
+   "para garantir a",
+   "chocou um total"
   ]
  },
  "shopee_checada": "2026-10-22|1",
