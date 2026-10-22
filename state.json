@@ -37,7 +37,7 @@
    "19:47"
   ],
   "produtos_feitos": 3,
-  "respostas": 98,
+  "respostas": 99,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
@@ -46,7 +46,7 @@
    "17951473839312879": 20,
    "18031016114857476": 12,
    "18118666177972325": 12,
-   "18119586661952960": 19,
+   "18119586661952960": 20,
    "17964565467250557": 1,
    "18118787687077318": 20,
    "18377981101209166": 1,
@@ -3542,7 +3542,8 @@
   "18114006350109957",
   "18182142844428917",
   "18019335524944003",
-  "17953019703335488"
+  "17953019703335488",
+  "17891475048653925"
  ],
  "hashes": [
   "99590e42df7bc3952dcc0f24db38b86a",
@@ -4079,15 +4080,11 @@
   "77721fe98c": 1,
   "fc6160a732": 1,
   "a3490dc269": 1,
-  "b86ee0a253": 1
+  "b86ee0a253": 1,
+  "7f1dedd6be": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "biologia opcional mas cultura musical em dia kkkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "kkkkkkkkkkkkmmmkkkkkkk essa matéria muita gente reprovava",
    "p": "concorda",
@@ -4230,6 +4227,11 @@
   },
   {
    "t": "triste realidade mas parece que virou regra geral hoje em dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa primeira temporada foi um soco no estômago de quem não conhecia os livros",
    "p": "concorda",
    "r": 0
   }
@@ -5266,7 +5268,8 @@
    "essa e pesada",
    "essa ai faz",
    "maratona pesada reunida",
-   "essa confunde a"
+   "essa confunde a",
+   "essa primeira temporada"
   ],
   "17964565467250557": [
    "dez reais hoje"
