@@ -34,10 +34,11 @@
    "16:42",
    "17:37",
    "18:50",
-   "19:47"
+   "19:47",
+   "20:38"
   ],
   "produtos_feitos": 3,
-  "respostas": 99,
+  "respostas": 100,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
@@ -50,29 +51,11 @@
    "17964565467250557": 1,
    "18118787687077318": 20,
    "18377981101209166": 1,
-   "18110886974268536": 1
+   "18110886974268536": 2
   },
   "escondidos": 1
  },
  "posts": [
-  {
-   "id": "18104070287346772",
-   "insp": "993899e22c",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: todo mundo já fingiu que a ligação caiu só para não continuar ouvindo papo furado.",
-   "quando": "2026-10-17T15:07:07.946855-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T15:07:07.813127-04:00",
-   "metricas": {
-    "views": 525,
-    "likes": 6,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-21"
-   }
-  },
   {
    "id": "18143543053588756",
    "insp": "car_car-20261011-6",
@@ -1272,6 +1255,14 @@
     "campanha": "",
     "modo": "tema"
    }
+  },
+  {
+   "id": "18343944772287252",
+   "insp": "304d0a9ace",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: chamar de bolacha ou de biscoito muda alguma coisa no sabor? Juro que nunca entendi essa discussão.",
+   "quando": "2026-10-21T21:07:07.357239-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3543,10 +3534,10 @@
   "18182142844428917",
   "18019335524944003",
   "17953019703335488",
-  "17891475048653925"
+  "17891475048653925",
+  "17891345715456523"
  ],
  "hashes": [
-  "99590e42df7bc3952dcc0f24db38b86a",
   "a19e8ae53b25ff10f46e02fb14505594",
   "b091b42cea5fe130a23ab1921ad9ad3e",
   "703d75806efb2fa09b8e54812fd5cc4a",
@@ -3745,7 +3736,8 @@
   "f4cf7684976b4d2ad53156eb3ac3db1a",
   "5083592bc58c80489431dc8e68016f00",
   "25dcd2dec649d8a673ac8e042706ea54",
-  "5a3ba42d1895ec0be5bba09fed412b4c"
+  "5a3ba42d1895ec0be5bba09fed412b4c",
+  "1fc4cb5f6c0d725a922b95348f051d0c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -3983,7 +3975,8 @@
   "07943be66b": 1792609666.9940557,
   "546540780d": 1792616895.2913206,
   "041d158196": 1792618645.1492493,
-  "3b094b119a": 1792624041.2676432
+  "3b094b119a": 1792624041.2676432,
+  "304d0a9ace": 1792631296.153229
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4081,15 +4074,11 @@
   "fc6160a732": 1,
   "a3490dc269": 1,
   "b86ee0a253": 1,
-  "7f1dedd6be": 1
+  "7f1dedd6be": 1,
+  "d77d8066ee": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "kkkkkkkkkkkkmmmkkkkkkk essa matéria muita gente reprovava",
-   "p": "concorda",
-   "r": 3
-  },
   {
    "t": "o amor pela materia comecou cedo então",
    "p": "concorda",
@@ -4234,6 +4223,11 @@
    "t": "essa primeira temporada foi um soco no estômago de quem não conhecia os livros",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "paz e tranquilidade compensam qualquer FOMO de feriadão kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5300,7 +5294,8 @@
    "depende se a"
   ],
   "18110886974268536": [
-   "estrategia perfeita so"
+   "estrategia perfeita so",
+   "paz e tranquilidade"
   ]
  },
  "shopee_checada": "2026-10-21|1",
