@@ -28,7 +28,7 @@
    "11:36"
   ],
   "produtos_feitos": 1,
-  "respostas": 47,
+  "respostas": 49,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 12,
@@ -39,7 +39,9 @@
    "18031016114857476": 2,
    "17890502484684901": 1,
    "17951473839312879": 1,
-   "18109950803579099": 1
+   "18109950803579099": 1,
+   "17908296711591608": 1,
+   "18110725331181104": 1
   }
  },
  "posts": [
@@ -3698,7 +3700,9 @@
   "18121122590056980",
   "18146416822608003",
   "18143769130582405",
-  "18123590488937314"
+  "18123590488937314",
+  "18127095530490802",
+  "18118157476799071"
  ],
  "hashes": [
   "e36dec1aaa40bbd4d0eae84d297e7c76",
@@ -4191,20 +4195,11 @@
   "a546a7c73b": 1,
   "51155c3677": 1,
   "f4989988a7": 1,
-  "63a5fcbfd7": 1
+  "63a5fcbfd7": 1,
+  "6571efa1ed": 2
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "essa história é daquelas que apertam o peito do início ao fim",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "boa, pelo menos vc sabe o que procura e ainda tem paciência pra esperar",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "kkkkkkk e o trem sobe com cheiro de café",
    "p": "neutra",
@@ -4344,6 +4339,16 @@
    "t": "esse final de temporada deixa a gente sem saber o que fazer com a vida",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "saber o caminho das pedras faz toda diferença mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Obrigada, adorei o elogio! 😍",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5156,14 +5161,6 @@
   }
  ],
  "aberturas_post": {
-  "17978778833919010": [
-   "com certeza manobra"
-  ],
-  "18101720819560610": [
-   "tres dias e",
-   "parece que a",
-   "pura realidade o"
-  ],
   "18119761514287385": [
    "nem lembrava mais"
   ],
@@ -5433,6 +5430,12 @@
   ],
   "18109950803579099": [
    "justo no dia"
+  ],
+  "17908296711591608": [
+   "saber o caminho"
+  ],
+  "18110725331181104": [
+   "obrigada adorei o"
   ]
  },
  "shopee_checada": "2026-10-22|1",
