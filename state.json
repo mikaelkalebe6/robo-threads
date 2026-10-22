@@ -28,7 +28,7 @@
    "11:36"
   ],
   "produtos_feitos": 1,
-  "respostas": 49,
+  "respostas": 50,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 12,
@@ -41,7 +41,8 @@
    "17951473839312879": 1,
    "18109950803579099": 1,
    "17908296711591608": 1,
-   "18110725331181104": 1
+   "18110725331181104": 1,
+   "17992594266048436": 1
   }
  },
  "posts": [
@@ -3702,7 +3703,8 @@
   "18143769130582405",
   "18123590488937314",
   "18127095530490802",
-  "18118157476799071"
+  "18118157476799071",
+  "18013283072973975"
  ],
  "hashes": [
   "e36dec1aaa40bbd4d0eae84d297e7c76",
@@ -4196,15 +4198,11 @@
   "51155c3677": 1,
   "f4989988a7": 1,
   "63a5fcbfd7": 1,
-  "6571efa1ed": 2
+  "6571efa1ed": 2,
+  "b71c265c29": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "kkkkkkk e o trem sobe com cheiro de café",
-   "p": "neutra",
-   "r": 2
-  },
   {
    "t": "Fernando deixou marca forte, adoro professor que solta verdades 😄",
    "p": "concorda",
@@ -4347,6 +4345,11 @@
   },
   {
    "t": "Obrigada, adorei o elogio! 😍",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "ninguém recusa um ar-condicionado funcionando bem no calor kkk",
    "p": "concorda",
    "r": 1
   }
@@ -5161,9 +5164,6 @@
   }
  ],
  "aberturas_post": {
-  "18119761514287385": [
-   "nem lembrava mais"
-  ],
   "18104599913363054": [
    "pior que a"
   ],
@@ -5436,6 +5436,9 @@
   ],
   "18110725331181104": [
    "obrigada adorei o"
+  ],
+  "17992594266048436": [
+   "ninguem recusa um"
   ]
  },
  "shopee_checada": "2026-10-22|1",
