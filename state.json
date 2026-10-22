@@ -24,17 +24,18 @@
   "feitos": [
    "08:26",
    "09:09",
-   "10:32"
+   "10:32",
+   "11:36"
   ],
   "produtos_feitos": 1,
-  "respostas": 45,
+  "respostas": 47,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 12,
    "18110886974268536": 1,
    "18118787687077318": 12,
    "17964565467250557": 1,
-   "18119586661952960": 13,
+   "18119586661952960": 15,
    "18031016114857476": 2,
    "17890502484684901": 1,
    "17951473839312879": 1,
@@ -42,29 +43,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17908292148572118",
-   "insp": "f4861a96cb",
-   "link": "",
-   "texto": "SEJAM SINCEROS: quantas vezes vocês já trocaram o óleo do carro bem depois do prazo?",
-   "quando": "2026-10-17T19:07:08.733454-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T11:37:09.028102-04:00",
-   "metricas": {
-    "views": 1265,
-    "likes": 6,
-    "replies": 49,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-22"
-   },
-   "link_coment": "https://s.shopee.com.br/9pfBRdLyjy",
-   "meme_comentado": true,
-   "meme_views": 1018,
-   "formato_link": "coment",
-   "produto": "23193620740"
-  },
   {
    "id": "17908400601664539",
    "insp": "video_69a8c4bfde",
@@ -1371,6 +1349,14 @@
     "campanha": "",
     "modo": "tema"
    }
+  },
+  {
+   "id": "17908296711591608",
+   "insp": "55ef5ab4ee",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: homem que resolve um pepino prático em casa sem fazer drama ganha um charme inexplicável.",
+   "quando": "2026-10-22T11:37:10.113020-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3710,10 +3696,11 @@
   "18635304484047569",
   "18196597456391106",
   "18121122590056980",
-  "18146416822608003"
+  "18146416822608003",
+  "18143769130582405",
+  "18123590488937314"
  ],
  "hashes": [
-  "da316a38e4628247a7aa4df308aa62b5",
   "e36dec1aaa40bbd4d0eae84d297e7c76",
   "01b2a84c8e0b5e54e4bc80201dcb24eb",
   "5651b71a0d38a883350d04fbd562b94c",
@@ -3912,7 +3899,8 @@
   "1fc4cb5f6c0d725a922b95348f051d0c",
   "fc7d4bffce448687d5fbd1260d3e2b7a",
   "6032ac64ab7cd8b2b1074969b60cf2ae",
-  "b02b1b9d93e18feac2e7862d37686c3c"
+  "b02b1b9d93e18feac2e7862d37686c3c",
+  "1a635db3c4f2f08fed5d14ad78354335"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4154,7 +4142,8 @@
   "304d0a9ace": 1792631296.153229,
   "d25c82e639": 1792633048.3753517,
   "8f2f1c9592": 1792672653.2844026,
-  "5dc520f8de": 1792676300.047862
+  "5dc520f8de": 1792676300.047862,
+  "55ef5ab4ee": 1792683447.603377
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4200,20 +4189,12 @@
   "5fd02c5218": 1,
   "e7102b50d0": 1,
   "a546a7c73b": 1,
-  "51155c3677": 1
+  "51155c3677": 1,
+  "f4989988a7": 1,
+  "63a5fcbfd7": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "argumento irrefutavel para encerrar o debate",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "professor com apelido infalível marcou época em toda escola kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa história é daquelas que apertam o peito do início ao fim",
    "p": "neutra",
@@ -4353,6 +4334,16 @@
    "t": "essa série é um tiro certeiro no estômago kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "Adorei a escolha, reviver \"This Is Us\" dá um aperto no coração",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse final de temporada deixa a gente sem saber o que fazer com a vida",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5356,8 +5347,6 @@
    "economia de letras"
   ],
   "18119586661952960": [
-   "essa reviravolta mexe",
-   "essa entrega reviravolta",
    "essa e pesada",
    "essa ai faz",
    "maratona pesada reunida",
@@ -5375,7 +5364,9 @@
    "aquele misterio inicial",
    "dupla de peso",
    "bates motel tem",
-   "essa serie e"
+   "essa serie e",
+   "adorei a escolha",
+   "esse final de"
   ],
   "17964565467250557": [
    "dez reais hoje",
