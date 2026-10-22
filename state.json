@@ -23,41 +23,24 @@
   ],
   "feitos": [
    "08:26",
-   "09:09"
+   "09:09",
+   "10:32"
   ],
-  "produtos_feitos": 0,
-  "respostas": 41,
+  "produtos_feitos": 1,
+  "respostas": 42,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 12,
    "18110886974268536": 1,
    "18118787687077318": 11,
    "17964565467250557": 1,
-   "18119586661952960": 11,
+   "18119586661952960": 12,
    "18031016114857476": 2,
    "17890502484684901": 1,
    "17951473839312879": 1
   }
  },
  "posts": [
-  {
-   "id": "18025367147866539",
-   "insp": "2c97391d6e",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: ontem saí do trabalho exausta e resolvi parar num barzinho de esquina em vez de ir direto pra casa. Duas cervejas geladas e uma porção de batata depois, metade dos meus problemas já pareciam piada. Vocês também usam mesa de bar pra resetar a mente depois do expediente?",
-   "quando": "2026-10-17T18:07:13.236382-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T18:07:08.425642-04:00",
-   "metricas": {
-    "views": 486,
-    "likes": 20,
-    "replies": 13,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-22"
-   }
-  },
   {
    "id": "17908292148572118",
    "insp": "f4861a96cb",
@@ -1361,6 +1344,32 @@
    "texto": "OPINIÃO IMPOPULAR: Dinheiro compra conforto, mas não garante sorrisos verdadeiros. Se depender só de grana, a vida perde cor.",
    "quando": "2026-10-22T09:37:09.558931-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18109950803579099",
+   "insp": "video_09741a7f2b",
+   "link": "",
+   "texto": "Descobri esse negócio para fazer francesinha sem borrar tudo e salvar meu tempo em casa. Olha como funciona 👀",
+   "quando": "2026-10-22T10:37:09.930902-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "22098563874",
+   "link_pendente": true,
+   "modo_produto": "tema",
+   "prod_dados": {
+    "itemId": "22098563874",
+    "nome": "Kit 15 Pincéis + 10 Boleadores Em 5 Pincéis Manicure Desenho",
+    "preco": 11.38,
+    "nota": 4.9,
+    "vendas": 5098,
+    "comissao": 0.07,
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauw-ma8xiie8ismffa",
+    "offerLink": "https://s.shopee.com.br/5VWItdr4zA",
+    "campanha": "",
+    "modo": "tema"
+   }
   }
  ],
  "respondidos": [
@@ -3696,7 +3705,8 @@
   "18132664003796091",
   "18070103540509626",
   "18098237558423093",
-  "18130174720876071"
+  "18130174720876071",
+  "18635304484047569"
  ],
  "hashes": [
   "da316a38e4628247a7aa4df308aa62b5",
@@ -4182,15 +4192,11 @@
   "36a6b6c2b7": 1,
   "198c80a3a7": 1,
   "4e522ebd5e": 1,
-  "a1f5e37b10": 1
+  "a1f5e37b10": 1,
+  "5fd02c5218": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "esvaziar a mente de raiva só se for kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "perda de tempo mas a gente adora um debate inútil kkk",
    "p": "concorda",
@@ -4335,6 +4341,11 @@
    "t": "pesado demais para uma questão de mercado",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "Bates Motel tem esse clima de arrepio, já anotado para maratonar 😅",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5359,7 +5370,6 @@
    "economia de letras"
   ],
   "18119586661952960": [
-   "essa ai embaralhou",
    "essa levou a",
    "essa reviravolta mexe",
    "essa entrega reviravolta",
@@ -5378,7 +5388,8 @@
    "prison break tem",
    "o comeco do",
    "aquele misterio inicial",
-   "dupla de peso"
+   "dupla de peso",
+   "bates motel tem"
   ],
   "17964565467250557": [
    "dez reais hoje",
@@ -5767,6 +5778,7 @@
   "d0af80e2f4": "2026-10-20T21:07:09.708148-04:00",
   "c14cbec078": "2026-10-21T10:37:08.667537-04:00",
   "a437b4bec2": "2026-10-21T15:37:08.793619-04:00",
-  "5bb5b8dd07": "2026-10-21T20:07:07.832422-04:00"
+  "5bb5b8dd07": "2026-10-21T20:07:07.832422-04:00",
+  "09741a7f2b": "2026-10-22T10:37:09.930902-04:00"
  }
 }
