@@ -21,39 +21,24 @@
    "14:45",
    "19:26"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:26"
+  ],
   "produtos_feitos": 0,
-  "respostas": 18,
+  "respostas": 24,
   "por_post": {
    "18024018605928455": 1,
-   "18343944772287252": 4,
+   "18343944772287252": 6,
    "18110886974268536": 1,
-   "18118787687077318": 4,
+   "18118787687077318": 6,
    "17964565467250557": 1,
-   "18119586661952960": 4,
+   "18119586661952960": 5,
    "18031016114857476": 2,
-   "17890502484684901": 1
+   "17890502484684901": 1,
+   "17951473839312879": 1
   }
  },
  "posts": [
-  {
-   "id": "18015866036747016",
-   "insp": "039df70d88",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: ficar na beira da estrada esperando o guincho é a verdadeira aula de paciência. 🚗",
-   "quando": "2026-10-17T16:37:07.108556-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-18T16:07:08.152921-04:00",
-   "metricas": {
-    "views": 831,
-    "likes": 5,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-22"
-   }
-  },
   {
    "id": "17961160752217869",
    "insp": "36557e440f",
@@ -1374,6 +1359,14 @@
     "shares": 0,
     "em": "2026-10-22"
    }
+  },
+  {
+   "id": "18027586595699479",
+   "insp": "8f2f1c9592",
+   "link": "",
+   "texto": "ME CONTA: na pelada de fim de semana, você é o que corre sem parar ou o que fica na banheira só reclamando?\n\nEu canso só de olhar o desespero de quem tenta marcar.",
+   "quando": "2026-10-22T08:37:08.098848-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -3686,10 +3679,15 @@
   "18133898044593955",
   "18219603043350607",
   "18215388349361540",
-  "18489859783110388"
+  "18489859783110388",
+  "18221101495343804",
+  "18177516634445131",
+  "18129292303833423",
+  "18207862111364711",
+  "18107983381945344",
+  "18470176783185102"
  ],
  "hashes": [
-  "b091b42cea5fe130a23ab1921ad9ad3e",
   "703d75806efb2fa09b8e54812fd5cc4a",
   "da316a38e4628247a7aa4df308aa62b5",
   "e36dec1aaa40bbd4d0eae84d297e7c76",
@@ -3888,7 +3886,8 @@
   "25dcd2dec649d8a673ac8e042706ea54",
   "5a3ba42d1895ec0be5bba09fed412b4c",
   "1fc4cb5f6c0d725a922b95348f051d0c",
-  "fc7d4bffce448687d5fbd1260d3e2b7a"
+  "fc7d4bffce448687d5fbd1260d3e2b7a",
+  "6032ac64ab7cd8b2b1074969b60cf2ae"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4128,7 +4127,8 @@
   "041d158196": 1792618645.1492493,
   "3b094b119a": 1792624041.2676432,
   "304d0a9ace": 1792631296.153229,
-  "d25c82e639": 1792633048.3753517
+  "d25c82e639": 1792633048.3753517,
+  "8f2f1c9592": 1792672653.2844026
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4148,40 +4148,16 @@
   "044f5b7f90": 1,
   "87b5f71729": 1,
   "41e5b18c4c": 1,
-  "06e1cbfbf6": 1
+  "06e1cbfbf6": 1,
+  "1e9e4e0129": 1,
+  "d6877b8bbd": 1,
+  "53d0c8b73a": 1,
+  "1b1fc9f7dd": 1,
+  "c84732b903": 1,
+  "fd9c2a762e": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "definição perfeita que encerra qualquer debate kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "criou uma categoria nova no mercado kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "colocando a marra toda na disputa mais acirrada da internet",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "mauricio é forte demais kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pelo menos desabafar alivia um pouco o caos do dia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "economia de tempo e saliva",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "paz mundial dependendo do nome escrito no pacote kkk",
    "p": "concorda",
@@ -4301,6 +4277,36 @@
    "t": "essa história é daquelas que apertam o peito do início ao fim",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "boa, pelo menos vc sabe o que procura e ainda tem paciência pra esperar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkk e o trem sobe com cheiro de café",
+   "p": "neutra",
+   "r": 2
+  },
+  {
+   "t": "Fernando deixou marca forte, adoro professor que solta verdades 😄",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Também senti o coração disparar a cada episódio, vale a maratona de novo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "regra validada, mas recheio atrapalha a discussão sobre sabor em si",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "ele realmente teve a coragem de encerrar a conversa com essa lógica",
+   "p": "concorda",
+   "r": 3
   }
  ],
  "minhas_respostas": {
@@ -5267,7 +5273,6 @@
    "esse argumento do"
   ],
   "17951473839312879": [
-   "verdade a vontade",
    "sistema ta dificil",
    "peso na balanca",
    "quando as ideias",
@@ -5286,7 +5291,8 @@
    "a preguica de",
    "faz sentido quem",
    "pesado mas o",
-   "triste realidade mas"
+   "triste realidade mas",
+   "boa pelo menos"
   ],
   "18031016114857476": [
    "xadrez e otimo",
@@ -5320,7 +5326,6 @@
    "economia de letras"
   ],
   "18119586661952960": [
-   "essa traumatizou tanta",
    "essa ai destroi",
    "essa entrega toda",
    "esse ai mexe",
@@ -5339,7 +5344,8 @@
    "esse elenco carrega",
    "pesado demais mas",
    "essa serie precisa",
-   "essa historia e"
+   "essa historia e",
+   "tambem senti o"
   ],
   "17964565467250557": [
    "dez reais hoje",
@@ -5347,8 +5353,6 @@
    "dinheiro some antes"
   ],
   "18118787687077318": [
-   "essa materia muita",
-   "o amor pela",
    "passar o lado",
    "verdade o termo",
    "nossa que covardia",
@@ -5366,7 +5370,9 @@
    "virar lenda depois",
    "que situacao revoltante",
    "professora assim deixa",
-   "professor com apelido"
+   "professor com apelido",
+   "fernando deixou marca",
+   "ele realmente teve"
   ],
   "18377981101209166": [
    "depende se a"
@@ -5377,8 +5383,6 @@
    "literalmente um teste"
   ],
   "18343944772287252": [
-   "esse classico da",
-   "criou uma regra",
    "costume de infancia",
    "pesado demais para",
    "o poder da",
@@ -5396,7 +5400,9 @@
    "defesa apaixonada do",
    "divisao cientifica do",
    "perda de tempo",
-   "argumento irrefutavel para"
+   "argumento irrefutavel para",
+   "e o trem",
+   "regra validada mas"
   ],
   "18024018605928455": [
    "agenda aberta para",
