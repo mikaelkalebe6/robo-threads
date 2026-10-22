@@ -32,7 +32,7 @@
    "15:32"
   ],
   "produtos_feitos": 2,
-  "respostas": 78,
+  "respostas": 80,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 13,
@@ -48,7 +48,8 @@
    "18110725331181104": 1,
    "17992594266048436": 1,
    "18179603278449081": 20,
-   "17873769906602294": 5
+   "17873769906602294": 6,
+   "18129375533505510": 1
   }
  },
  "posts": [
@@ -3697,7 +3698,9 @@
   "18034202846888736",
   "18141043717615836",
   "17941847853374828",
-  "18128118877894772"
+  "18128118877894772",
+  "18116805974086614",
+  "18006330722792744"
  ],
  "hashes": [
   "3fd85ccaf69d5eb90b85a56ed7c28476",
@@ -4222,20 +4225,12 @@
   "d48baef5b1": 1,
   "bce83166b0": 1,
   "b0898cc8cc": 1,
-  "a4eaf3c0dd": 1
+  "a4eaf3c0dd": 1,
+  "6b114a9678": 1,
+  "366fd5e9e4": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "Obrigada, adorei o elogio! 😍",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "ninguém recusa um ar-condicionado funcionando bem no calor kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "kkk então tem 10 anos de garantia pra terminar, né?",
    "p": "concorda",
@@ -4373,6 +4368,16 @@
   },
   {
    "t": "ataca o estoque de uma vez só quando as férias chegam",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse valor aí tá parecendo viagem no tempo de dez anos atrás",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exagero total pra tentar adivinhar o comportamento de alguém",
    "p": "concorda",
    "r": 0
   }
@@ -5187,9 +5192,6 @@
   }
  ],
  "aberturas_post": {
-  "17990749128026638": [
-   "filtro de qualidade"
-  ],
   "18284931982288268": [
    "essa fatura de"
   ],
@@ -5466,7 +5468,11 @@
    "para garantir a",
    "chocou um total",
    "estrategia inteligente para",
-   "justo na hora"
+   "justo na hora",
+   "exagero total pra"
+  ],
+  "18129375533505510": [
+   "esse valor ai"
   ]
  },
  "shopee_checada": "2026-10-22|1",
