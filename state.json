@@ -28,10 +28,11 @@
    "11:36",
    "12:58",
    "13:50",
-   "14:45"
+   "14:45",
+   "15:32"
   ],
   "produtos_feitos": 2,
-  "respostas": 73,
+  "respostas": 78,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 13,
@@ -46,29 +47,11 @@
    "17908296711591608": 1,
    "18110725331181104": 1,
    "17992594266048436": 1,
-   "18179603278449081": 15,
+   "18179603278449081": 20,
    "17873769906602294": 5
   }
  },
  "posts": [
-  {
-   "id": "18092117084659517",
-   "insp": "8ab8e68dd2",
-   "link": "",
-   "texto": "ME CONTA: qual professor já salvou vocês da reprovação no último minuto do segundo tempo? \n\nEu tenho uma dívida eterna com a de história que aceitou um trabalho meu feito às pressas de madrugada.",
-   "quando": "2026-10-18T08:37:08.377277-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T08:37:08.304730-04:00",
-   "metricas": {
-    "views": 245,
-    "likes": 0,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-22"
-   }
-  },
   {
    "id": "18105080027306911",
    "insp": "92d6999031",
@@ -1333,6 +1316,14 @@
     "campanha": "",
     "modo": "tema"
    }
+  },
+  {
+   "id": "18129375533505510",
+   "insp": "603114869d",
+   "link": "",
+   "texto": "Fui dar aquela aparada básica no cabelo e quase caí dura com a conta. Quanto vocês estão pagando por um corte simples ultimamente?",
+   "quando": "2026-10-22T15:37:09.207173-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3701,10 +3692,14 @@
   "18133604008825771",
   "18078523508406008",
   "17882872998628485",
-  "18129980425696717"
+  "18129980425696717",
+  "18641381377033104",
+  "18034202846888736",
+  "18141043717615836",
+  "17941847853374828",
+  "18128118877894772"
  ],
  "hashes": [
-  "5651b71a0d38a883350d04fbd562b94c",
   "3fd85ccaf69d5eb90b85a56ed7c28476",
   "4a8b93b5e8eae01b5f7d81900cf5b85a",
   "c1963d62dfb50c95350db59ca76cc497",
@@ -3903,7 +3898,8 @@
   "b02b1b9d93e18feac2e7862d37686c3c",
   "1a635db3c4f2f08fed5d14ad78354335",
   "5ff86e9bc04a0b7bfd087949065a1e70",
-  "36abb9ecf90e4dacdbf15206fbe5bd68"
+  "36abb9ecf90e4dacdbf15206fbe5bd68",
+  "6697a4086d13ea440c8da8d61d0ba156"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4148,7 +4144,8 @@
   "5dc520f8de": 1792676300.047862,
   "55ef5ab4ee": 1792683447.603377,
   "bcd56c55f6": 1792688850.6268787,
-  "fa26296fcf": 1792692452.4035587
+  "fa26296fcf": 1792692452.4035587,
+  "603114869d": 1792697842.438406
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4220,35 +4217,15 @@
   "c682c4cd55": 1,
   "f26d549578": 1,
   "4997d85460": 1,
-  "8953a36423": 1
+  "8953a36423": 1,
+  "eb8e874c87": 1,
+  "d48baef5b1": 1,
+  "bce83166b0": 1,
+  "b0898cc8cc": 1,
+  "a4eaf3c0dd": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "professor bom de português muda a vida da gente kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa série é um tiro certeiro no estômago kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Adorei a escolha, reviver \"This Is Us\" dá um aperto no coração",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse final de temporada deixa a gente sem saber o que fazer com a vida",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "saber o caminho das pedras faz toda diferença mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Obrigada, adorei o elogio! 😍",
    "p": "concorda",
@@ -4371,6 +4348,31 @@
   },
   {
    "t": "eles acabam virando moradores silenciosos da casa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estamos todas no mesmo time da decoração literária",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cinco anos de paciência esperando a vez dele chegar na estante",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "medida drástica para conter o vício mas faz todo sentido",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "herança literária que atravessou gerações no plástico original",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ataca o estoque de uma vez só quando as férias chegam",
    "p": "concorda",
    "r": 0
   }
@@ -5452,7 +5454,12 @@
    "cada livro espera",
    "habito de acumular",
    "integrante oficial da",
-   "eles acabam virando"
+   "eles acabam virando",
+   "estamos todas no",
+   "cinco anos de",
+   "medida drastica para",
+   "heranca literaria que",
+   "ataca o estoque"
   ],
   "17873769906602294": [
    "quando a pessoa",
