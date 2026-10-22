@@ -27,16 +27,17 @@
    "10:32",
    "11:36",
    "12:58",
-   "13:50"
+   "13:50",
+   "14:45"
   ],
-  "produtos_feitos": 1,
-  "respostas": 67,
+  "produtos_feitos": 2,
+  "respostas": 73,
   "por_post": {
    "18024018605928455": 1,
-   "18343944772287252": 12,
+   "18343944772287252": 13,
    "18110886974268536": 1,
    "18118787687077318": 13,
-   "17964565467250557": 1,
+   "17964565467250557": 2,
    "18119586661952960": 15,
    "18031016114857476": 2,
    "17890502484684901": 1,
@@ -45,29 +46,11 @@
    "17908296711591608": 1,
    "18110725331181104": 1,
    "17992594266048436": 1,
-   "18179603278449081": 13,
-   "17873769906602294": 3
+   "18179603278449081": 15,
+   "17873769906602294": 5
   }
  },
  "posts": [
-  {
-   "id": "17987349084070907",
-   "insp": "6e719f8d0f",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: o primeiro encontro de verdade acontece na velocidade e no tom da resposta no chat, antes de ver a pessoa pessoalmente",
-   "quando": "2026-10-17T22:07:07.563490-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-18T19:07:08.244557-04:00",
-   "metricas": {
-    "views": 678,
-    "likes": 8,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-22"
-   }
-  },
   {
    "id": "18092117084659517",
    "insp": "8ab8e68dd2",
@@ -1324,6 +1307,32 @@
    "texto": "VAMOS SER HONESTOS: sair para jantar e a pessoa escolher o prato mais caro do cardápio justo no primeiro encontro é um teste que ninguém merece passar.",
    "quando": "2026-10-22T14:07:10.892744-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17932033053419563",
+   "insp": "video_e2e0719234",
+   "link": "",
+   "texto": "Descobri esse jogo de pratos que monta um hambúrguer quando empilha. Olha como funciona 👀",
+   "quando": "2026-10-22T15:07:08.290033-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "40961639598",
+   "link_pendente": true,
+   "modo_produto": "tema",
+   "prod_dados": {
+    "itemId": "40961639598",
+    "nome": "Kit Jogo Pano De Prato Cozinha Copa Cheff Algodão Sortidos",
+    "preco": 27.9,
+    "nota": 4.9,
+    "vendas": 6504,
+    "comissao": 0.09,
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy6-md26kp08n22odb",
+    "offerLink": "https://s.shopee.com.br/80DeAipTaX",
+    "campanha": "",
+    "modo": "tema"
+   }
   }
  ],
  "respondidos": [
@@ -3686,7 +3695,13 @@
   "18038556833661489",
   "18017989877955895",
   "17967456753206192",
-  "18077790830766490"
+  "18077790830766490",
+  "18105473396209846",
+  "17974710695943164",
+  "18133604008825771",
+  "18078523508406008",
+  "17882872998628485",
+  "18129980425696717"
  ],
  "hashes": [
   "5651b71a0d38a883350d04fbd562b94c",
@@ -4144,7 +4159,7 @@
   "943a3d362c": 1,
   "fee3465c23": 2,
   "308840a4e6": 1,
-  "5a4f6559c6": 1,
+  "5a4f6559c6": 2,
   "3a901fb5e7": 1,
   "e8a37a9518": 1,
   "fba4604685": 1,
@@ -4200,40 +4215,15 @@
   "5a84e05d8b": 1,
   "db8b71997d": 1,
   "eea3ca92b0": 1,
-  "894be2797f": 1
+  "894be2797f": 1,
+  "0c6ec06a89": 1,
+  "c682c4cd55": 1,
+  "f26d549578": 1,
+  "4997d85460": 1,
+  "8953a36423": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "essa diplomacia na hora do lanche resolve qualquer impasse",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "passar por isso gostando da matéria é castigo em dobro",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "dupla de peso que marcou época na televisão",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesado demais para uma questão de mercado",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "Bates Motel tem esse clima de arrepio, já anotado para maratonar 😅",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justo no dia que minha programação de robô falhou kkk",
-   "p": "neutra",
-   "r": 1
-  },
   {
    "t": "professor bom de português muda a vida da gente kkk",
    "p": "concorda",
@@ -4351,6 +4341,36 @@
   },
   {
    "t": "hábito de acumular leitura no meio de tanta correria é super normal",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "gasolina premium é boleto gourmet disfarçado de paixão automotiva kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "estratégia inteligente para resolver o problema sem climão",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo na hora que a gente mais precisa entender o que vai comer kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse tem que ter categoria própria no mercado kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "integrante oficial da nossa confissão pública",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "eles acabam virando moradores silenciosos da casa",
    "p": "concorda",
    "r": 0
   }
@@ -5344,7 +5364,8 @@
   "17964565467250557": [
    "dez reais hoje",
    "eterno jovem ate",
-   "dinheiro some antes"
+   "dinheiro some antes",
+   "gasolina premium e"
   ],
   "18118787687077318": [
    "parece que o",
@@ -5377,7 +5398,6 @@
    "literalmente um teste"
   ],
   "18343944772287252": [
-   "colocando a marra",
    "mauricio e forte",
    "pelo menos desabafar",
    "economia de tempo",
@@ -5396,7 +5416,8 @@
    "teste legal mas",
    "exato a discussao",
    "essa diplomacia na",
-   "pesado demais para"
+   "pesado demais para",
+   "esse tem que"
   ],
   "18024018605928455": [
    "agenda aberta para",
@@ -5429,12 +5450,16 @@
    "esse um dia",
    "pelo menos a",
    "cada livro espera",
-   "habito de acumular"
+   "habito de acumular",
+   "integrante oficial da",
+   "eles acabam virando"
   ],
   "17873769906602294": [
    "quando a pessoa",
    "para garantir a",
-   "chocou um total"
+   "chocou um total",
+   "estrategia inteligente para",
+   "justo na hora"
   ]
  },
  "shopee_checada": "2026-10-22|1",
@@ -5761,6 +5786,7 @@
   "c14cbec078": "2026-10-21T10:37:08.667537-04:00",
   "a437b4bec2": "2026-10-21T15:37:08.793619-04:00",
   "5bb5b8dd07": "2026-10-21T20:07:07.832422-04:00",
-  "09741a7f2b": "2026-10-22T10:37:09.930902-04:00"
+  "09741a7f2b": "2026-10-22T10:37:09.930902-04:00",
+  "e2e0719234": "2026-10-22T15:07:08.290033-04:00"
  }
 }
