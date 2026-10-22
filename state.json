@@ -22,41 +22,24 @@
    "19:26"
   ],
   "feitos": [
-   "08:26"
+   "08:26",
+   "09:09"
   ],
   "produtos_feitos": 0,
-  "respostas": 30,
+  "respostas": 36,
   "por_post": {
    "18024018605928455": 1,
-   "18343944772287252": 8,
+   "18343944772287252": 10,
    "18110886974268536": 1,
-   "18118787687077318": 8,
+   "18118787687077318": 10,
    "17964565467250557": 1,
-   "18119586661952960": 7,
+   "18119586661952960": 9,
    "18031016114857476": 2,
    "17890502484684901": 1,
    "17951473839312879": 1
   }
  },
  "posts": [
-  {
-   "id": "17961160752217869",
-   "insp": "36557e440f",
-   "link": "",
-   "texto": "A gente cancelou os planos de sábado só pra passar a noite dividindo a tela do videogame no sofá. Tem programa de casal melhor que esse?",
-   "quando": "2026-10-17T17:37:07.445098-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T17:37:07.444937-04:00",
-   "metricas": {
-    "views": 96,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-22"
-   }
-  },
   {
    "id": "18025367147866539",
    "insp": "2c97391d6e",
@@ -1207,7 +1190,7 @@
    "estrategia": "produto_video",
    "formato_link": "resp",
    "produto": "27534187957",
-   "link_pendente": true,
+   "link_pendente": false,
    "modo_produto": "mesmo",
    "prod_dados": {
     "itemId": "27534187957",
@@ -1229,7 +1212,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-10-22"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/9pfGnFf5Gu",
+   "link_em": "2026-10-22T09:37:09.558931-04:00",
+   "link_views": 0
   },
   {
    "id": "18118787687077318",
@@ -1367,6 +1353,14 @@
    "texto": "ME CONTA: na pelada de fim de semana, você é o que corre sem parar ou o que fica na banheira só reclamando?\n\nEu canso só de olhar o desespero de quem tenta marcar.",
    "quando": "2026-10-22T08:37:08.098848-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "17992594266048436",
+   "insp": "5dc520f8de",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Dinheiro compra conforto, mas não garante sorrisos verdadeiros. Se depender só de grana, a vida perde cor.",
+   "quando": "2026-10-22T09:37:09.558931-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -3691,10 +3685,15 @@
   "18143214067594750",
   "18034615535851667",
   "17872277142641873",
-  "18121301164949430"
+  "18121301164949430",
+  "17994568458053262",
+  "18130455139877295",
+  "18210725269324092",
+  "18393705466162928",
+  "18198548620390958",
+  "18635908243033287"
  ],
  "hashes": [
-  "703d75806efb2fa09b8e54812fd5cc4a",
   "da316a38e4628247a7aa4df308aa62b5",
   "e36dec1aaa40bbd4d0eae84d297e7c76",
   "01b2a84c8e0b5e54e4bc80201dcb24eb",
@@ -3893,7 +3892,8 @@
   "5a3ba42d1895ec0be5bba09fed412b4c",
   "1fc4cb5f6c0d725a922b95348f051d0c",
   "fc7d4bffce448687d5fbd1260d3e2b7a",
-  "6032ac64ab7cd8b2b1074969b60cf2ae"
+  "6032ac64ab7cd8b2b1074969b60cf2ae",
+  "b02b1b9d93e18feac2e7862d37686c3c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4134,7 +4134,8 @@
   "3b094b119a": 1792624041.2676432,
   "304d0a9ace": 1792631296.153229,
   "d25c82e639": 1792633048.3753517,
-  "8f2f1c9592": 1792672653.2844026
+  "8f2f1c9592": 1792672653.2844026,
+  "5dc520f8de": 1792676300.047862
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4159,47 +4160,22 @@
   "d6877b8bbd": 1,
   "53d0c8b73a": 1,
   "1b1fc9f7dd": 1,
-  "c84732b903": 1,
+  "c84732b903": 2,
   "fd9c2a762e": 1,
   "bead6125e9": 1,
   "45957d3ead": 1,
   "92ec1f6866": 1,
   "76cbe0221c": 1,
   "0f78740552": 1,
-  "fc3c857efc": 1
+  "fc3c857efc": 1,
+  "77b17ded6d": 1,
+  "b776668127": 1,
+  "07f657cd97": 1,
+  "b0d482e586": 1,
+  "617fa3f463": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "vc quer tirar o único refúgio seguro da pessoa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "defesa apaixonada do termo que já virou questão de honra kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "literalmente um teste de paciência que ninguém pediu",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "virar lenda depois de um tombo desse porte é para poucos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dinheiro some antes do ponteiro sair do lugar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse elenco carrega o peso dessa tensão do início ao fim",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse é tiro certo para esquecer que o mundo real existe",
    "p": "concorda",
@@ -4319,6 +4295,36 @@
    "t": "paixão platônica por professora de teoria literária é muito cinema",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "Prison Break tem aquele pico de adrenalina que faz o coração disparar kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Teste legal, mas o sabor continua o mesmo, só muda a confusão kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Verdade, tem professor que deixa marca pra sempre kkk 🙏🏼",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o começo do TWD sempre acerta em cheio, né",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exato, a discussão é séria e afeta a alma",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Péssimo, hein? E o Trogo, tem aula de feitiços? kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4626,6 +4632,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-22T07:07:08.165865-04:00"
+  },
+  "18116650259005976": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-22T09:37:09.558931-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -5338,8 +5349,6 @@
    "economia de letras"
   ],
   "18119586661952960": [
-   "esse ai mexe",
-   "essa transformacao aos",
    "essa prende a",
    "essa ai deixa",
    "essa ai embaralhou",
@@ -5357,7 +5366,9 @@
    "essa historia e",
    "tambem senti o",
    "esse soco no",
-   "greys anatomy sempre"
+   "greys anatomy sempre",
+   "prison break tem",
+   "o comeco do"
   ],
   "17964565467250557": [
    "dez reais hoje",
@@ -5365,8 +5376,6 @@
    "dinheiro some antes"
   ],
   "18118787687077318": [
-   "nossa que covardia",
-   "separar a pessoa",
    "o famoso virar",
    "covardia enorme fazer",
    "esse tipo de",
@@ -5384,7 +5393,9 @@
    "fernando deixou marca",
    "ele realmente teve",
    "lista gigante e",
-   "paixao platonica por"
+   "paixao platonica por",
+   "verdade tem professor",
+   "pessimo hein e"
   ],
   "18377981101209166": [
    "depende se a"
@@ -5395,8 +5406,6 @@
    "literalmente um teste"
   ],
   "18343944772287252": [
-   "o poder da",
-   "justo no fim",
    "definicao perfeita que",
    "criou uma categoria",
    "colocando a marra",
@@ -5414,7 +5423,9 @@
    "e o trem",
    "regra validada mas",
    "verdade o pessoal",
-   "mudou tudo e"
+   "mudou tudo e",
+   "teste legal mas",
+   "exato a discussao"
   ],
   "18024018605928455": [
    "agenda aberta para",
@@ -5601,7 +5612,8 @@
   "22593650256": "2026-10-21T21:37:08.725499-04:00",
   "19399190201": "2026-10-22T07:07:08.165865-04:00",
   "22498397212": "2026-10-22T07:07:08.165865-04:00",
-  "58256416609": "2026-10-22T07:07:08.165865-04:00"
+  "58256416609": "2026-10-22T07:07:08.165865-04:00",
+  "27534187957": "2026-10-22T09:37:09.558931-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
