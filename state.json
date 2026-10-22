@@ -39,11 +39,11 @@
    "21:20"
   ],
   "produtos_feitos": 3,
-  "respostas": 118,
+  "respostas": 120,
   "por_post": {
    "17911189386311628": 1,
    "18336797236279117": 3,
-   "17890502484684901": 7,
+   "17890502484684901": 8,
    "17898254706673038": 1,
    "17951473839312879": 20,
    "18031016114857476": 12,
@@ -53,7 +53,7 @@
    "18118787687077318": 20,
    "18377981101209166": 1,
    "18110886974268536": 2,
-   "18343944772287252": 14,
+   "18343944772287252": 15,
    "18024018605928455": 3
   },
   "escondidos": 1
@@ -3543,7 +3543,9 @@
   "17917011330265263",
   "18638281063034656",
   "18484495198128809",
-  "17904726264666368"
+  "17904726264666368",
+  "18233024401333953",
+  "18110938799171135"
  ],
  "hashes": [
   "b091b42cea5fe130a23ab1921ad9ad3e",
@@ -4020,7 +4022,7 @@
   "7d50492e5d": 1,
   "a8d146dd6c": 1,
   "31c6b43995": 1,
-  "b71c265c29": 1,
+  "b71c265c29": 2,
   "21bd4d699d": 1,
   "c5b810f792": 1,
   "5979617f0f": 1,
@@ -4102,20 +4104,11 @@
   "dec42ea955": 1,
   "3bfaadbf36": 1,
   "e9d04c529c": 1,
-  "09d8c9812f": 1
+  "09d8c9812f": 1,
+  "e1a0ae9dd3": 1
  },
  "reservas_checadas": "2026-10-21",
  "ultimas_respostas": [
-  {
-   "t": "essa é pesada do começo ao fim",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o destino agindo certinho na carreira da pessoa kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "essa aí faz a cabeça dar um nó perfeito",
    "p": "concorda",
@@ -4254,6 +4247,16 @@
   {
    "t": "dormir para que se a madrugada serve para pensar nessas coisas",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "esse termômetro aí muda tudo mesmo, dá pra ver na hora quem tá leve e quem tá tenso",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "essa disputa rende mais que novela das nove",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -5196,7 +5199,8 @@
    "evita qualquer mal",
    "mudou de figura",
    "lugar tranquilo e",
-   "entao a conta"
+   "entao a conta",
+   "esse termometro ai"
   ],
   "17951473839312879": [
    "verdade a vontade",
@@ -5317,7 +5321,8 @@
    "pelo menos desabafar",
    "economia de tempo",
    "paz mundial dependendo",
-   "dormir para que"
+   "dormir para que",
+   "essa disputa rende"
   ],
   "18024018605928455": [
    "agenda aberta para",
