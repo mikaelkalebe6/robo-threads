@@ -33,10 +33,11 @@
    "16:24",
    "17:38",
    "19:26",
-   "20:24"
+   "20:24",
+   "21:18"
   ],
   "produtos_feitos": 3,
-  "respostas": 93,
+  "respostas": 94,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 13,
@@ -54,33 +55,11 @@
    "18179603278449081": 20,
    "17873769906602294": 7,
    "18129375533505510": 7,
-   "18078457244719478": 5
+   "18078457244719478": 5,
+   "18334374889261347": 1
   }
  },
  "posts": [
-  {
-   "id": "17997441141012078",
-   "insp": "e51c00ec33",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: tentar paquerar na academia às 18h é loucura pura. Eu fico suada, bufando e querendo ir embora, vocês realmente conseguem desenrolar papo nesse horário?",
-   "quando": "2026-10-18T13:07:08.453152-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T16:37:07.393472-04:00",
-   "link_coment": "https://s.shopee.com.br/80DXtKa8Mr",
-   "meme_comentado": true,
-   "meme_views": 1077,
-   "formato_link": "coment",
-   "produto": "20999068051",
-   "metricas": {
-    "views": 1537,
-    "likes": 14,
-    "replies": 30,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-22"
-   }
-  },
   {
    "id": "18193642693392878",
    "insp": "9baa29373a",
@@ -1299,6 +1278,14 @@
    "link": "",
    "texto": "VAMOS CONCORDAR: qual foi a fantasia mais improvisada que vocês já salvaram em cima da hora para ir em festa de Halloween",
    "quando": "2026-10-22T20:37:08.073394-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18357290920169506",
+   "insp": "4af53e8178",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: mandar áudio de três minutos logo no início da paquera é teste de paciência, não de compatibilidade",
+   "quando": "2026-10-22T21:37:08.640422-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3688,10 +3675,10 @@
   "17889110919477287",
   "18119222771066720",
   "18130458031696156",
-  "18129057262871933"
+  "18129057262871933",
+  "18075254879774665"
  ],
  "hashes": [
-  "4d67ff5e82659811220849a019cbe302",
   "c699eb403b6f63f53fad273c0d532081",
   "5e1b2621b6e16d1ff018d7fde8a6b029",
   "15967efbb3d1a778425452824c065491",
@@ -3890,7 +3877,8 @@
   "6697a4086d13ea440c8da8d61d0ba156",
   "7d913b6cc9fd5f9e989a4827aae78325",
   "19d44b187cbe37307915cf6c4ef1fe92",
-  "3e5f8988dbb66a54ee90dc948e297c4e"
+  "3e5f8988dbb66a54ee90dc948e297c4e",
+  "d974036e71a32a7127cb7bd11211be00"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4139,7 +4127,8 @@
   "603114869d": 1792697842.438406,
   "2b3a6a81d7": 1792701496.5239007,
   "da8ab25023": 1792706895.8525548,
-  "feb6e197f0": 1792715844.1856916
+  "feb6e197f0": 1792715844.1856916,
+  "4af53e8178": 1792719494.7289777
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4230,15 +4219,11 @@
   "30522ed2cd": 1,
   "047195bed5": 1,
   "f27bbbce0f": 1,
-  "7272e19040": 1
+  "7272e19040": 1,
+  "57d3b84a93": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "chocou um total de zero pessoas",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "pelo menos a biblioteca pessoal fica bonita kkk",
    "p": "concorda",
@@ -4383,6 +4368,11 @@
    "t": "esse valor já virou padrão em quase todo lugar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "fantasia barata e assustadora na medida certa kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5195,10 +5185,6 @@
   }
  ],
  "aberturas_post": {
-  "18026275952872648": [
-   "ja querendo resolver",
-   "essas sao as"
-  ],
   "18020487191940773": [
    "fantasia e a"
   ],
@@ -5488,6 +5474,9 @@
    "o coracao vem",
    "cada um com",
    "culturalmente o nivel"
+  ],
+  "18334374889261347": [
+   "fantasia barata e"
   ]
  },
  "shopee_checada": "2026-10-22|1",
