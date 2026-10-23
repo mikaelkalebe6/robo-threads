@@ -28,7 +28,7 @@
    "12:09"
   ],
   "produtos_feitos": 1,
-  "respostas": 21,
+  "respostas": 23,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
@@ -36,7 +36,8 @@
    "18179603278449081": 9,
    "18065985020518186": 6,
    "18133177114765373": 2,
-   "17873769906602294": 1
+   "17873769906602294": 1,
+   "17988790524079823": 2
   }
  },
  "posts": [
@@ -1144,7 +1145,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
+   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
   },
   {
    "id": "17932033053419563",
@@ -1200,7 +1201,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
+   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1218,7 +1219,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
+   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1236,7 +1237,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
+   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1289,7 +1290,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
+   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1307,7 +1308,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
+   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
   },
   {
    "id": "18065985020518186",
@@ -1316,7 +1317,7 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
+   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
   },
   {
    "id": "18133177114765373",
@@ -1325,7 +1326,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
    "quando": "2026-10-23T09:37:09.886310-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
+   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
   },
   {
    "id": "18121292618081991",
@@ -1360,7 +1361,7 @@
    "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
    "quando": "2026-10-23T12:37:08.808842-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
+   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
   }
  ],
  "respondidos": [
@@ -3775,7 +3776,9 @@
   "18219769684348588",
   "18105903554200390",
   "18013832501976072",
-  "18096317393415079"
+  "18096317393415079",
+  "18075284087767319",
+  "17881233582543907"
  ],
  "hashes": [
   "a26a0aca7ce81d8afee83190b02ab2f7",
@@ -4253,20 +4256,12 @@
   "af897c3109": 1,
   "1d06969815": 1,
   "01af5a7598": 2,
-  "d98240b8ff": 1
+  "d98240b8ff": 1,
+  "d31bb76152": 1,
+  "509b287f93": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "economia preventiva antes de arriscar o orçamento do mês kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "preço bom de verdade pra dias de hoje",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "autonomia financeira e capilar em uma pessoa só",
    "p": "concorda",
@@ -4406,6 +4401,16 @@
    "t": "quem tem medo de viver perigo não sabe o que perde kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "estratégia perfeita pra conhecer o cardápio inteiro de uma vez só",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, dividir o salgado soma amor mesmo kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5238,28 +5243,6 @@
   }
  ],
  "aberturas_post": {
-  "18002807181007550": [
-   "essa mistura parece",
-   "duas culinarias totalmente",
-   "bolo salgado decorado",
-   "esse ai e",
-   "essa combinacao ai",
-   "essa e daquelas",
-   "agora fiquei curiosa",
-   "frango na panela",
-   "moqueca servida assim",
-   "essa dupla com",
-   "dupla de respeito",
-   "um lanche desses",
-   "comida com identidade",
-   "canjiquinha bem feita",
-   "duas pedidas de",
-   "base de qualquer",
-   "cuscuz com camarao",
-   "esse ai causa",
-   "ja entrou na",
-   "essa combinacao doce"
-  ],
   "18132535141688846": [
    "essa parte parece",
    "desespero de recem",
@@ -5535,6 +5518,10 @@
   "18133177114765373": [
    "nivel hardcore de",
    "solucao definitiva para"
+  ],
+  "17988790524079823": [
+   "estrategia perfeita pra",
+   "verdade dividir o"
   ]
  },
  "shopee_checada": "2026-10-23|1",
