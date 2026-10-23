@@ -27,13 +27,13 @@
    "10:44"
   ],
   "produtos_feitos": 1,
-  "respostas": 18,
+  "respostas": 20,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
    "18129375533505510": 1,
    "18179603278449081": 9,
-   "18065985020518186": 3,
+   "18065985020518186": 5,
    "18133177114765373": 2,
    "17873769906602294": 1
   }
@@ -1161,7 +1161,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T11:37:08.123457-04:00"
+   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
   },
   {
    "id": "17932033053419563",
@@ -1217,7 +1217,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T11:37:08.123457-04:00"
+   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1235,7 +1235,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T11:37:08.123457-04:00"
+   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1253,7 +1253,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T11:37:08.123457-04:00"
+   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1306,7 +1306,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T11:37:08.123457-04:00"
+   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1324,7 +1324,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T11:37:08.123457-04:00"
+   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
   },
   {
    "id": "18065985020518186",
@@ -1333,7 +1333,7 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-23T11:37:08.123457-04:00"
+   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
   },
   {
    "id": "18133177114765373",
@@ -1342,7 +1342,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
    "quando": "2026-10-23T09:37:09.886310-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T11:37:08.123457-04:00"
+   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
   },
   {
    "id": "18121292618081991",
@@ -3780,7 +3780,9 @@
   "18220864171356613",
   "18132679652508094",
   "17943561609091025",
-  "18219769684348588"
+  "18219769684348588",
+  "18105903554200390",
+  "18013832501976072"
  ],
  "hashes": [
   "15967efbb3d1a778425452824c065491",
@@ -4255,20 +4257,11 @@
   "571c11336c": 1,
   "16c6cbdc41": 1,
   "af897c3109": 1,
-  "1d06969815": 1
+  "1d06969815": 1,
+  "01af5a7598": 2
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "culturalmente o nível de intimidade lá funciona em outra velocidade kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "preço de outro século esse aí",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "cobram o valor cheio de qualquer jeito mesmo",
    "p": "concorda",
@@ -4406,6 +4399,16 @@
   },
   {
    "t": "solução definitiva para evitar a enrolação",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "procurando o erro exato na linha do tempo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos já deixa o alerta de presença ativado",
    "p": "concorda",
    "r": 0
   }
@@ -5529,7 +5532,9 @@
   "18065985020518186": [
    "com certeza ai",
    "esse e o",
-   "justica seja feita"
+   "justica seja feita",
+   "procurando o erro",
+   "pelo menos ja"
   ],
   "18133177114765373": [
    "nivel hardcore de",
