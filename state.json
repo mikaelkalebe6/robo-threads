@@ -30,7 +30,7 @@
    "13:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 25,
+  "respostas": 31,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
@@ -40,7 +40,8 @@
    "18133177114765373": 2,
    "17873769906602294": 2,
    "17988790524079823": 2,
-   "18164686105517451": 1
+   "18164686105517451": 2,
+   "18100857716402310": 5
   }
  },
  "posts": [
@@ -1163,7 +1164,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T14:07:09.112396-04:00"
+   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1181,7 +1182,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T14:07:09.112396-04:00"
+   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1199,7 +1200,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T14:07:09.112396-04:00"
+   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1255,7 +1256,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T14:07:09.112396-04:00"
+   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1273,7 +1274,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T14:07:09.112396-04:00"
+   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
   },
   {
    "id": "18065985020518186",
@@ -1282,7 +1283,7 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-23T14:07:09.112396-04:00"
+   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
   },
   {
    "id": "18133177114765373",
@@ -1291,7 +1292,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
    "quando": "2026-10-23T09:37:09.886310-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T14:07:09.112396-04:00"
+   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
   },
   {
    "id": "18121292618081991",
@@ -1326,7 +1327,7 @@
    "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
    "quando": "2026-10-23T12:37:08.808842-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T14:07:09.112396-04:00"
+   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
   },
   {
    "id": "18164686105517451",
@@ -1335,7 +1336,7 @@
    "texto": "ME CONTA: qual mania bizarra você só descobriu que não era normal quando alguém de fora apontou?",
    "quando": "2026-10-23T13:37:07.945088-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T14:07:09.112396-04:00"
+   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
   },
   {
    "id": "18100857716402310",
@@ -1344,7 +1345,7 @@
    "texto": "DÚVIDA SINCERA: o que faz alguém perder o interesse na primeira conversa de app?",
    "quando": "2026-10-23T14:07:09.112396-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T14:07:09.112396-04:00"
+   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
   }
  ],
  "respondidos": [
@@ -3763,7 +3764,13 @@
   "18075284087767319",
   "17881233582543907",
   "18118111744805285",
-  "17971005390168517"
+  "17971005390168517",
+  "18131120308829550",
+  "18117678563017632",
+  "18019647968740968",
+  "18637251553013665",
+  "18140396047646177",
+  "18103878761369187"
  ],
  "hashes": [
   "b2633c9210e1db50cf889c51c8b9de7a",
@@ -4244,43 +4251,18 @@
   "1d06969815": 1,
   "01af5a7598": 2,
   "d98240b8ff": 1,
-  "d31bb76152": 1,
+  "d31bb76152": 2,
   "509b287f93": 1,
   "65b55ff947": 1,
-  "601fbb1f44": 1
+  "601fbb1f44": 1,
+  "833f2fb331": 1,
+  "280792b6e0": 1,
+  "3aeb7ecc82": 1,
+  "a0b64f5a48": 1,
+  "8d94bac60a": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "fantasia barata e assustadora na medida certa kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "maquiagem boa é meio caminho andado pra salvar qualquer look de última hora",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "vídeo já é invasão de domicílio kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "o arbusto com apelido definitivo é o melhor troféu de festa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "teoria linda na prática o boleto chora",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "em qualquer area da vida vira um podcast indesejado kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "o beijo adianta todas as etapas da intimidade kkkkk",
    "p": "concorda",
@@ -4400,6 +4382,36 @@
    "t": "Kkkkkkkkkkkkkkkkkkkkkkkkkk",
    "p": "concorda",
    "r": 3
+  },
+  {
+   "t": "já começa cortando o intermediário kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa encenação toda cansa mesmo e afasta todo mundo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a pressao social consegue ditar cada detalhe do guarda roupa kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "prefiro ficar por aqui mesmo",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "demora muito cria um clima de entrevista que broxa na hora",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "falta de assunto acaba com qualquer tentativa de papo kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5237,9 +5249,6 @@
   }
  ],
  "aberturas_post": {
-  "17964431688237038": [
-   "essa do feltro"
-  ],
   "18113824634031941": [
    "esse programa e",
    "faz todo sentido"
@@ -5510,7 +5519,15 @@
    "verdade dividir o"
   ],
   "18164686105517451": [
-   "mistura classica que"
+   "mistura classica que",
+   "a pressao social"
+  ],
+  "18100857716402310": [
+   "ja comeca cortando",
+   "essa encenacao toda",
+   "prefiro ficar por",
+   "demora muito cria",
+   "falta de assunto"
   ]
  },
  "shopee_checada": "2026-10-23|1",
