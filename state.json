@@ -24,39 +24,22 @@
   "feitos": [
    "08:18",
    "09:18",
-   "10:44"
+   "10:44",
+   "12:09"
   ],
   "produtos_feitos": 1,
-  "respostas": 20,
+  "respostas": 21,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
    "18129375533505510": 1,
    "18179603278449081": 9,
-   "18065985020518186": 5,
+   "18065985020518186": 6,
    "18133177114765373": 2,
    "17873769906602294": 1
   }
  },
  "posts": [
-  {
-   "id": "18132148777761668",
-   "insp": "55ca636ebf",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: homem que presta atenção nos mínimos detalhes que a gente solta por aí ganha muitos pontos.",
-   "quando": "2026-10-18T17:07:07.453971-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-19T16:37:08.056698-04:00",
-   "metricas": {
-    "views": 238,
-    "likes": 1,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-23"
-   }
-  },
   {
    "id": "18067887914607934",
    "insp": "3394e0a232",
@@ -1161,7 +1144,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
+   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
   },
   {
    "id": "17932033053419563",
@@ -1217,7 +1200,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
+   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1235,7 +1218,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
+   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1253,7 +1236,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
+   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1306,7 +1289,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
+   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1324,7 +1307,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
+   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
   },
   {
    "id": "18065985020518186",
@@ -1333,7 +1316,7 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
+   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
   },
   {
    "id": "18133177114765373",
@@ -1342,7 +1325,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
    "quando": "2026-10-23T09:37:09.886310-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T12:07:08.018660-04:00"
+   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
   },
   {
    "id": "18121292618081991",
@@ -1369,6 +1352,15 @@
     "campanha": "",
     "modo": "mesmo"
    }
+  },
+  {
+   "id": "17988790524079823",
+   "insp": "e7eeb217a4",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
+   "quando": "2026-10-23T12:37:08.808842-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-23T12:37:08.808842-04:00"
   }
  ],
  "respondidos": [
@@ -3782,10 +3774,10 @@
   "17943561609091025",
   "18219769684348588",
   "18105903554200390",
-  "18013832501976072"
+  "18013832501976072",
+  "18096317393415079"
  ],
  "hashes": [
-  "15967efbb3d1a778425452824c065491",
   "a26a0aca7ce81d8afee83190b02ab2f7",
   "3bf2efb3b474b9e75ef236a60169b084",
   "b2633c9210e1db50cf889c51c8b9de7a",
@@ -3984,7 +3976,8 @@
   "3e5f8988dbb66a54ee90dc948e297c4e",
   "d974036e71a32a7127cb7bd11211be00",
   "efbb500e717e2b5312c97af8237f7d2b",
-  "a749827120fc3d442b4730afe2ff8955"
+  "a749827120fc3d442b4730afe2ff8955",
+  "240b4e6bcd3d04f0772a7f1f54ccd4c3"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4236,7 +4229,8 @@
   "feb6e197f0": 1792715844.1856916,
   "4af53e8178": 1792719494.7289777,
   "35da8217ed": 1792759082.5340042,
-  "4564f47ffe": 1792762703.9526036
+  "4564f47ffe": 1792762703.9526036,
+  "e7eeb217a4": 1792773493.8628683
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4258,15 +4252,11 @@
   "16c6cbdc41": 1,
   "af897c3109": 1,
   "1d06969815": 1,
-  "01af5a7598": 2
+  "01af5a7598": 2,
+  "d98240b8ff": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "cobram o valor cheio de qualquer jeito mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "economia preventiva antes de arriscar o orçamento do mês kkkkk",
    "p": "concorda",
@@ -4411,6 +4401,11 @@
    "t": "pelo menos já deixa o alerta de presença ativado",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "quem tem medo de viver perigo não sabe o que perde kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5534,7 +5529,8 @@
    "esse e o",
    "justica seja feita",
    "procurando o erro",
-   "pelo menos ja"
+   "pelo menos ja",
+   "quem tem medo"
   ],
   "18133177114765373": [
    "nivel hardcore de",
