@@ -1183,7 +1183,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T16:07:08.952749-04:00"
+   "viral_chk": "2026-10-23T16:37:09.185518-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1239,7 +1239,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T16:07:08.952749-04:00"
+   "viral_chk": "2026-10-23T16:37:09.185518-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1257,7 +1257,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T16:07:08.952749-04:00"
+   "viral_chk": "2026-10-23T16:37:09.185518-04:00"
   },
   {
    "id": "18065985020518186",
@@ -1266,7 +1266,7 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-23T16:07:08.952749-04:00"
+   "viral_chk": "2026-10-23T16:37:09.185518-04:00"
   },
   {
    "id": "18133177114765373",
@@ -1275,7 +1275,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
    "quando": "2026-10-23T09:37:09.886310-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T16:07:08.952749-04:00"
+   "viral_chk": "2026-10-23T16:37:09.185518-04:00"
   },
   {
    "id": "18121292618081991",
@@ -1310,7 +1310,7 @@
    "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
    "quando": "2026-10-23T12:37:08.808842-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T16:07:08.952749-04:00"
+   "viral_chk": "2026-10-23T16:37:09.185518-04:00"
   },
   {
    "id": "18164686105517451",
@@ -1319,7 +1319,12 @@
    "texto": "ME CONTA: qual mania bizarra você só descobriu que não era normal quando alguém de fora apontou?",
    "quando": "2026-10-23T13:37:07.945088-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T16:07:08.952749-04:00"
+   "viral_chk": "2026-10-23T16:37:09.185518-04:00",
+   "link_coment": "https://s.shopee.com.br/3VlFsRYXvj",
+   "meme_comentado": true,
+   "meme_views": 1065,
+   "formato_link": "coment",
+   "produto": "19698299472"
   },
   {
    "id": "18100857716402310",
@@ -4761,6 +4766,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-23T14:07:09.112396-04:00"
+  },
+  "18116829134019711": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-23T16:37:09.185518-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -5735,7 +5745,8 @@
   "22098563874": "2026-10-23T07:07:08.890879-04:00",
   "23998767632": "2026-10-23T07:07:08.890879-04:00",
   "40961639598": "2026-10-23T09:07:08.320907-04:00",
-  "22898792169": "2026-10-23T14:07:09.112396-04:00"
+  "22898792169": "2026-10-23T14:07:09.112396-04:00",
+  "19698299472": "2026-10-23T16:37:09.185518-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -5745,7 +5756,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-23",
-  "qtd": 1
+  "qtd": 2
  },
  "carrosseis_usados": [
   "car-20261010-1",
