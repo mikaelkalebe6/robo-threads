@@ -32,13 +32,13 @@
    "16:55"
   ],
   "produtos_feitos": 2,
-  "respostas": 36,
+  "respostas": 37,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
    "18129375533505510": 1,
    "18179603278449081": 9,
-   "18065985020518186": 7,
+   "18065985020518186": 8,
    "18133177114765373": 2,
    "17873769906602294": 2,
    "17988790524079823": 2,
@@ -3774,7 +3774,8 @@
   "18120916816821842",
   "17951899509290760",
   "18441051298177454",
-  "18119768081072439"
+  "18119768081072439",
+  "18491107120105558"
  ],
  "hashes": [
   "931a09b1f0d6432e16ed309f23560bf7",
@@ -4267,15 +4268,11 @@
   "8d94bac60a": 1,
   "07f657cd97": 1,
   "22eaea4623": 1,
-  "5461eaf855": 1
+  "5461eaf855": 1,
+  "2b8a8c5fb6": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "respeito demais essa sinceridade com o destino dos livros",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "passou de item de leitura pra peça de decoração histórica",
    "p": "concorda",
@@ -4420,6 +4417,11 @@
    "t": "o silêncio do outro lado é desanimador",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "estratégia de defesa avançada para despistar os investigadores kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5522,7 +5524,8 @@
    "procurando o erro",
    "pelo menos ja",
    "quem tem medo",
-   "coragem pura em"
+   "coragem pura em",
+   "estrategia de defesa"
   ],
   "18133177114765373": [
    "nivel hardcore de",
