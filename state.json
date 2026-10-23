@@ -30,18 +30,18 @@
    "13:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 31,
+  "respostas": 36,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
    "18129375533505510": 1,
    "18179603278449081": 9,
-   "18065985020518186": 6,
+   "18065985020518186": 7,
    "18133177114765373": 2,
    "17873769906602294": 2,
    "17988790524079823": 2,
    "18164686105517451": 2,
-   "18100857716402310": 5
+   "18100857716402310": 9
   }
  },
  "posts": [
@@ -1164,7 +1164,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
+   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1182,7 +1182,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
+   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1200,7 +1200,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
+   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1256,7 +1256,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
+   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1274,7 +1274,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
+   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
   },
   {
    "id": "18065985020518186",
@@ -1283,7 +1283,7 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
+   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
   },
   {
    "id": "18133177114765373",
@@ -1292,7 +1292,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
    "quando": "2026-10-23T09:37:09.886310-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
+   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
   },
   {
    "id": "18121292618081991",
@@ -1327,7 +1327,7 @@
    "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
    "quando": "2026-10-23T12:37:08.808842-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
+   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
   },
   {
    "id": "18164686105517451",
@@ -1336,7 +1336,7 @@
    "texto": "ME CONTA: qual mania bizarra você só descobriu que não era normal quando alguém de fora apontou?",
    "quando": "2026-10-23T13:37:07.945088-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
+   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
   },
   {
    "id": "18100857716402310",
@@ -1345,7 +1345,7 @@
    "texto": "DÚVIDA SINCERA: o que faz alguém perder o interesse na primeira conversa de app?",
    "quando": "2026-10-23T14:07:09.112396-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T14:37:09.029870-04:00"
+   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
   }
  ],
  "respondidos": [
@@ -3770,7 +3770,12 @@
   "18019647968740968",
   "18637251553013665",
   "18140396047646177",
-  "18103878761369187"
+  "18103878761369187",
+  "18169487518411547",
+  "18120916816821842",
+  "17951899509290760",
+  "18441051298177454",
+  "18119768081072439"
  ],
  "hashes": [
   "b2633c9210e1db50cf889c51c8b9de7a",
@@ -4233,7 +4238,7 @@
  "por_pessoa": {
   "_data": "2026-10-23",
   "1f1e8afefa": 2,
-  "5a4f6559c6": 1,
+  "5a4f6559c6": 2,
   "cf51e9c33f": 1,
   "a60b586c5e": 1,
   "63633d988c": 1,
@@ -4248,7 +4253,7 @@
   "571c11336c": 1,
   "16c6cbdc41": 1,
   "af897c3109": 1,
-  "1d06969815": 1,
+  "1d06969815": 2,
   "01af5a7598": 2,
   "d98240b8ff": 1,
   "d31bb76152": 2,
@@ -4259,35 +4264,13 @@
   "280792b6e0": 1,
   "3aeb7ecc82": 1,
   "a0b64f5a48": 1,
-  "8d94bac60a": 1
+  "8d94bac60a": 1,
+  "07f657cd97": 1,
+  "22eaea4623": 1,
+  "5461eaf855": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "o beijo adianta todas as etapas da intimidade kkkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "ia estragar a surpresa do susto com o estrago na conta kkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "culpa coletiva que todo leitor carrega com orgulho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perdão pelo susto na estante",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "integrante oficial do clube de leitura decorativo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "respeito demais essa sinceridade com o destino dos livros",
    "p": "concorda",
@@ -4412,6 +4395,31 @@
    "t": "falta de assunto acaba com qualquer tentativa de papo kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse cronômetro invisível gera uma ansiedade desnecessária kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "robozinho programado espanta qualquer um kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "coragem pura em formato de investigação digital",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cobrança antes do primeiro café é recorde de velocidade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o silêncio do outro lado é desanimador",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5508,7 +5516,8 @@
    "justica seja feita",
    "procurando o erro",
    "pelo menos ja",
-   "quem tem medo"
+   "quem tem medo",
+   "coragem pura em"
   ],
   "18133177114765373": [
    "nivel hardcore de",
@@ -5527,7 +5536,11 @@
    "essa encenacao toda",
    "prefiro ficar por",
    "demora muito cria",
-   "falta de assunto"
+   "falta de assunto",
+   "esse cronometro invisivel",
+   "robozinho programado espanta",
+   "cobranca antes do",
+   "o silencio do"
   ]
  },
  "shopee_checada": "2026-10-23|1",
