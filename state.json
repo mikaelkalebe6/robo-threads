@@ -27,9 +27,10 @@
    "10:44",
    "12:09",
    "13:10",
-   "13:58"
+   "13:58",
+   "15:33"
   ],
-  "produtos_feitos": 1,
+  "produtos_feitos": 2,
   "respostas": 36,
   "por_post": {
    "18357290920169506": 1,
@@ -45,24 +46,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18345831793283583",
-   "insp": "c77e24d709",
-   "link": "",
-   "texto": "Como vocês conheceram a pessoa que estão hoje em dia porque às vezes fico pensando que nossa história daria uma comédia romântica bem aleatória",
-   "quando": "2026-10-18T19:37:07.999957-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 282,
-    "likes": 2,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-23"
-   },
-   "viral_chk": "2026-10-19T16:37:08.056698-04:00"
-  },
   {
    "id": "18136499830744152",
    "insp": "car_car-20261018-2",
@@ -1164,7 +1147,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
+   "viral_chk": "2026-10-23T15:37:08.645351-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1182,7 +1165,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
+   "viral_chk": "2026-10-23T15:37:08.645351-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1200,7 +1183,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
+   "viral_chk": "2026-10-23T15:37:08.645351-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1256,7 +1239,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
+   "viral_chk": "2026-10-23T15:37:08.645351-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1274,7 +1257,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
+   "viral_chk": "2026-10-23T15:37:08.645351-04:00"
   },
   {
    "id": "18065985020518186",
@@ -1283,7 +1266,7 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
+   "viral_chk": "2026-10-23T15:37:08.645351-04:00"
   },
   {
    "id": "18133177114765373",
@@ -1292,7 +1275,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
    "quando": "2026-10-23T09:37:09.886310-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
+   "viral_chk": "2026-10-23T15:37:08.645351-04:00"
   },
   {
    "id": "18121292618081991",
@@ -1327,7 +1310,7 @@
    "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
    "quando": "2026-10-23T12:37:08.808842-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
+   "viral_chk": "2026-10-23T15:37:08.645351-04:00"
   },
   {
    "id": "18164686105517451",
@@ -1336,7 +1319,7 @@
    "texto": "ME CONTA: qual mania bizarra você só descobriu que não era normal quando alguém de fora apontou?",
    "quando": "2026-10-23T13:37:07.945088-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
+   "viral_chk": "2026-10-23T15:37:08.645351-04:00"
   },
   {
    "id": "18100857716402310",
@@ -1345,7 +1328,33 @@
    "texto": "DÚVIDA SINCERA: o que faz alguém perder o interesse na primeira conversa de app?",
    "quando": "2026-10-23T14:07:09.112396-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T15:07:09.168096-04:00"
+   "viral_chk": "2026-10-23T15:37:08.645351-04:00"
+  },
+  {
+   "id": "17908008756575278",
+   "insp": "video_bd38e6c3d6",
+   "link": "",
+   "texto": "Descobri esse negócio em folha para limpar o chão e salva muito o tempo na faxina. Olha como funciona 👀",
+   "quando": "2026-10-23T15:37:08.645351-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "26838479652",
+   "link_pendente": true,
+   "modo_produto": "mesmo",
+   "prod_dados": {
+    "itemId": "26838479652",
+    "nome": "Folhas De Limpeza De Banheiro , 30/120 Peças , Comprimidos Chão , Higiene Domést",
+    "preco": 16.0,
+    "nota": 4.7,
+    "vendas": 1309,
+    "comissao": 0.16,
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxl-mbyrf16ht0f90f",
+    "offerLink": "https://s.shopee.com.br/6fiIDDE5Nn",
+    "campanha": "",
+    "modo": "mesmo"
+   }
   }
  ],
  "respondidos": [
@@ -5874,6 +5883,7 @@
   "09741a7f2b": "2026-10-22T10:37:09.930902-04:00",
   "e2e0719234": "2026-10-22T15:07:08.290033-04:00",
   "26dbbef926": "2026-10-22T19:37:09.605936-04:00",
-  "79ff553bff": "2026-10-23T11:07:09.271456-04:00"
+  "79ff553bff": "2026-10-23T11:07:09.271456-04:00",
+  "bd38e6c3d6": "2026-10-23T15:37:08.645351-04:00"
  }
 }
