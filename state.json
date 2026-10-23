@@ -37,7 +37,7 @@
    "21:18"
   ],
   "produtos_feitos": 3,
-  "respostas": 97,
+  "respostas": 98,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 13,
@@ -53,7 +53,7 @@
    "18110725331181104": 1,
    "17992594266048436": 2,
    "18179603278449081": 20,
-   "17873769906602294": 7,
+   "17873769906602294": 8,
    "18129375533505510": 7,
    "18078457244719478": 5,
    "18334374889261347": 3,
@@ -3680,7 +3680,8 @@
   "18075254879774665",
   "18378142261240043",
   "18100505927417256",
-  "18106079603200024"
+  "18106079603200024",
+  "18099400700085978"
  ],
  "hashes": [
   "c699eb403b6f63f53fad273c0d532081",
@@ -4227,15 +4228,11 @@
   "57d3b84a93": 1,
   "e980f2faaf": 1,
   "b35859f239": 1,
-  "d31bb76152": 1
+  "d31bb76152": 1,
+  "cac71c2f9b": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "gasolina premium é boleto gourmet disfarçado de paixão automotiva kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "estratégia inteligente para resolver o problema sem climão",
    "p": "concorda",
@@ -4379,6 +4376,11 @@
   {
    "t": "o arbusto com apelido definitivo é o melhor troféu de festa",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "teoria linda na prática o boleto chora",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -5461,7 +5463,8 @@
    "estrategia inteligente para",
    "justo na hora",
    "exagero total pra",
-   "economia preventiva antes"
+   "economia preventiva antes",
+   "teoria linda na"
   ],
   "18129375533505510": [
    "esse valor ai",
