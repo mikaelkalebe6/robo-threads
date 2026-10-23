@@ -23,59 +23,22 @@
   ],
   "feitos": [
    "08:18",
-   "09:18"
+   "09:18",
+   "10:44"
   ],
-  "produtos_feitos": 0,
-  "respostas": 17,
+  "produtos_feitos": 1,
+  "respostas": 18,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
    "18129375533505510": 1,
    "18179603278449081": 9,
    "18065985020518186": 3,
-   "18133177114765373": 1,
+   "18133177114765373": 2,
    "17873769906602294": 1
   }
  },
  "posts": [
-  {
-   "id": "17990749128026638",
-   "insp": "video_79ddb4555a",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: homem que aprende a cuidar do cabelo e não tem vergonha disso já tá muito na frente. Homem bem cuidado é outro nível.",
-   "quando": "2026-10-18T16:07:08.152921-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "25946709329",
-   "link_pendente": false,
-   "modo_produto": "tema",
-   "prod_dados": {
-    "itemId": "25946709329",
-    "nome": "ULTRA HIDRATAÇÃO EFEITO TEIA COM ÓLEOS MARROQUINOS - OURO MARROQUINO - FINA MARI",
-    "preco": 38.9,
-    "nota": 4.9,
-    "vendas": 25112,
-    "comissao": 0.13,
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr1ynaykoao016",
-    "offerLink": "https://s.shopee.com.br/4B0pIGDIM9",
-    "campanha": "",
-    "modo": "tema"
-   },
-   "metricas": {
-    "views": 637,
-    "likes": 2,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 2,
-    "em": "2026-10-23"
-   },
-   "link_coment": "https://s.shopee.com.br/4B0pIGDIM9",
-   "link_em": "2026-10-19T10:07:09.572610-04:00",
-   "link_views": 0
-  },
   {
    "id": "18132148777761668",
    "insp": "55ca636ebf",
@@ -1157,7 +1120,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
+   "viral_chk": "2026-10-23T11:07:09.271456-04:00"
   },
   {
    "id": "18179603278449081",
@@ -1198,7 +1161,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
+   "viral_chk": "2026-10-23T11:07:09.271456-04:00"
   },
   {
    "id": "17932033053419563",
@@ -1254,7 +1217,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
+   "viral_chk": "2026-10-23T11:07:09.271456-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1272,7 +1235,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
+   "viral_chk": "2026-10-23T11:07:09.271456-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1290,7 +1253,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
+   "viral_chk": "2026-10-23T11:07:09.271456-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1343,7 +1306,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
+   "viral_chk": "2026-10-23T11:07:09.271456-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1361,7 +1324,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
+   "viral_chk": "2026-10-23T11:07:09.271456-04:00"
   },
   {
    "id": "18065985020518186",
@@ -1370,7 +1333,7 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
+   "viral_chk": "2026-10-23T11:07:09.271456-04:00"
   },
   {
    "id": "18133177114765373",
@@ -1379,7 +1342,33 @@
    "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
    "quando": "2026-10-23T09:37:09.886310-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
+   "viral_chk": "2026-10-23T11:07:09.271456-04:00"
+  },
+  {
+   "id": "18121292618081991",
+   "insp": "video_79ff553bff",
+   "link": "",
+   "texto": "Cansada de carregar aquela farmácia inteira na bolsa e perder os remédios na bagunça. Descobri esse organizador portátil e achei genial pra viagem 👀",
+   "quando": "2026-10-23T11:07:09.271456-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "49115507870",
+   "link_pendente": true,
+   "modo_produto": "mesmo",
+   "prod_dados": {
+    "itemId": "49115507870",
+    "nome": "Organizador Portátil Para Fichário De Comprimidos , Reutilizável Viagem Com 14 B",
+    "preco": 48.31,
+    "nota": 5.0,
+    "vendas": 3,
+    "comissao": 0.03,
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825al-mrhgv0heanly24",
+    "offerLink": "https://s.shopee.com.br/BUoAj5f5I",
+    "campanha": "",
+    "modo": "mesmo"
+   }
   }
  ],
  "respondidos": [
@@ -3790,7 +3779,8 @@
   "18077613107722428",
   "18220864171356613",
   "18132679652508094",
-  "17943561609091025"
+  "17943561609091025",
+  "18219769684348588"
  ],
  "hashes": [
   "15967efbb3d1a778425452824c065491",
@@ -4264,15 +4254,11 @@
   "596e15dfe1": 1,
   "571c11336c": 1,
   "16c6cbdc41": 1,
-  "af897c3109": 1
+  "af897c3109": 1,
+  "1d06969815": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "cada um com a sua cuia e zero dor de cabeça",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "culturalmente o nível de intimidade lá funciona em outra velocidade kkk",
    "p": "concorda",
@@ -4415,6 +4401,11 @@
   },
   {
    "t": "nesse caso o problema está resolvido na raiz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "solução definitiva para evitar a enrolação",
    "p": "concorda",
    "r": 0
   }
@@ -5541,7 +5532,8 @@
    "justica seja feita"
   ],
   "18133177114765373": [
-   "nivel hardcore de"
+   "nivel hardcore de",
+   "solucao definitiva para"
   ]
  },
  "shopee_checada": "2026-10-23|1",
@@ -5873,6 +5865,7 @@
   "5bb5b8dd07": "2026-10-21T20:07:07.832422-04:00",
   "09741a7f2b": "2026-10-22T10:37:09.930902-04:00",
   "e2e0719234": "2026-10-22T15:07:08.290033-04:00",
-  "26dbbef926": "2026-10-22T19:37:09.605936-04:00"
+  "26dbbef926": "2026-10-22T19:37:09.605936-04:00",
+  "79ff553bff": "2026-10-23T11:07:09.271456-04:00"
  }
 }
