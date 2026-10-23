@@ -37,7 +37,7 @@
    "21:18"
   ],
   "produtos_feitos": 3,
-  "respostas": 94,
+  "respostas": 95,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 13,
@@ -56,7 +56,7 @@
    "17873769906602294": 7,
    "18129375533505510": 7,
    "18078457244719478": 5,
-   "18334374889261347": 1
+   "18334374889261347": 2
   }
  },
  "posts": [
@@ -3676,7 +3676,8 @@
   "18119222771066720",
   "18130458031696156",
   "18129057262871933",
-  "18075254879774665"
+  "18075254879774665",
+  "18378142261240043"
  ],
  "hashes": [
   "c699eb403b6f63f53fad273c0d532081",
@@ -4220,15 +4221,11 @@
   "047195bed5": 1,
   "f27bbbce0f": 1,
   "7272e19040": 1,
-  "57d3b84a93": 1
+  "57d3b84a93": 1,
+  "e980f2faaf": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos a biblioteca pessoal fica bonita kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "cada livro espera o momento certo da gente mesmo kkk",
    "p": "concorda",
@@ -4373,6 +4370,11 @@
    "t": "fantasia barata e assustadora na medida certa kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "maquiagem boa é meio caminho andado pra salvar qualquer look de última hora",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5476,7 +5478,8 @@
    "culturalmente o nivel"
   ],
   "18334374889261347": [
-   "fantasia barata e"
+   "fantasia barata e",
+   "maquiagem boa e"
   ]
  },
  "shopee_checada": "2026-10-22|1",
