@@ -32,7 +32,8 @@
    "15:32",
    "16:24",
    "17:38",
-   "19:26"
+   "19:26",
+   "20:24"
   ],
   "produtos_feitos": 3,
   "respostas": 93,
@@ -57,24 +58,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18633135673031281",
-   "insp": "0e810ea820",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: quem foi mais injustiçado na história da Seleção Brasileira?\n\nAlex ou Djalminha.\n\nPara mim, um deles resolvia o nosso meio-campo hoje com folga.",
-   "quando": "2026-10-18T12:07:07.541173-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T11:37:08.648484-04:00",
-   "metricas": {
-    "views": 244,
-    "likes": 0,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-22"
-   }
-  },
   {
    "id": "17997441141012078",
    "insp": "e51c00ec33",
@@ -1309,6 +1292,14 @@
     "campanha": "",
     "modo": "tema"
    }
+  },
+  {
+   "id": "18334374889261347",
+   "insp": "feb6e197f0",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: qual foi a fantasia mais improvisada que vocês já salvaram em cima da hora para ir em festa de Halloween",
+   "quando": "2026-10-22T20:37:08.073394-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3700,7 +3691,6 @@
   "18129057262871933"
  ],
  "hashes": [
-  "c1963d62dfb50c95350db59ca76cc497",
   "4d67ff5e82659811220849a019cbe302",
   "c699eb403b6f63f53fad273c0d532081",
   "5e1b2621b6e16d1ff018d7fde8a6b029",
@@ -3899,7 +3889,8 @@
   "36abb9ecf90e4dacdbf15206fbe5bd68",
   "6697a4086d13ea440c8da8d61d0ba156",
   "7d913b6cc9fd5f9e989a4827aae78325",
-  "19d44b187cbe37307915cf6c4ef1fe92"
+  "19d44b187cbe37307915cf6c4ef1fe92",
+  "3e5f8988dbb66a54ee90dc948e297c4e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4147,7 +4138,8 @@
   "fa26296fcf": 1792692452.4035587,
   "603114869d": 1792697842.438406,
   "2b3a6a81d7": 1792701496.5239007,
-  "da8ab25023": 1792706895.8525548
+  "da8ab25023": 1792706895.8525548,
+  "feb6e197f0": 1792715844.1856916
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
