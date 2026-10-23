@@ -28,7 +28,8 @@
    "12:09",
    "13:10",
    "13:58",
-   "15:33"
+   "15:33",
+   "16:55"
   ],
   "produtos_feitos": 2,
   "respostas": 36,
@@ -46,30 +47,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18136499830744152",
-   "insp": "car_car-20261018-2",
-   "link": "",
-   "texto": "Meninos, pescaria em pé *acaba com a lombar.*",
-   "quando": "2026-10-18T20:37:06.968659-04:00",
-   "ia": "carrossel",
-   "estrategia": "carrossel",
-   "formato": "carrossel",
-   "formato_link": "coment",
-   "produto": "58255515632",
-   "modelo": "foto real + manchete em split (refs. Dbn8OpJkZpB foto real com título; DYUzwlokWpa vitrine)",
-   "visual": "cn",
-   "link_coment": "https://s.shopee.com.br/9zyTfR7QXm",
-   "metricas": {
-    "views": 301,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-23"
-   }
-  },
   {
    "id": "18384730186242595",
    "insp": "d7e44e025a",
@@ -1360,6 +1337,14 @@
     "campanha": "",
     "modo": "mesmo"
    }
+  },
+  {
+   "id": "17962389900213872",
+   "insp": "876494bf5b",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: passar anos estudando pra estabilidade ou arriscar tudo num negócio próprio que pode dar bom ou fechar em seis meses. Quem já escolheu um dos dois se arrepende?",
+   "quando": "2026-10-23T17:07:08.014630-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3792,7 +3777,6 @@
   "18119768081072439"
  ],
  "hashes": [
-  "b2633c9210e1db50cf889c51c8b9de7a",
   "931a09b1f0d6432e16ed309f23560bf7",
   "4ad75506bd6a1935940e270d8e60914f",
   "0fc9f9abec4227b4063a0dd73d0f37ba",
@@ -3991,7 +3975,8 @@
   "a749827120fc3d442b4730afe2ff8955",
   "240b4e6bcd3d04f0772a7f1f54ccd4c3",
   "d395b1f3a150de5742131def8e7c5732",
-  "b92902465bfb221a0b3e4b676c88c2d9"
+  "b92902465bfb221a0b3e4b676c88c2d9",
+  "075afe4804339a44ddba9f501c8883c0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4246,7 +4231,8 @@
   "4564f47ffe": 1792762703.9526036,
   "e7eeb217a4": 1792773493.8628683,
   "bd449a65bb": 1792777050.5337672,
-  "c201aa73c5": 1792778846.8173857
+  "c201aa73c5": 1792778846.8173857,
+  "876494bf5b": 1792789682.5346763
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
