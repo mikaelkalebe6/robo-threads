@@ -33,7 +33,7 @@
    "17:51"
   ],
   "produtos_feitos": 2,
-  "respostas": 39,
+  "respostas": 41,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
@@ -45,7 +45,8 @@
    "17988790524079823": 2,
    "18164686105517451": 3,
    "18100857716402310": 9,
-   "17962389900213872": 1
+   "17962389900213872": 1,
+   "18093983168653453": 2
   }
  },
  "posts": [
@@ -3769,7 +3770,9 @@
   "18119768081072439",
   "18491107120105558",
   "18123401081478274",
-  "17914496232286772"
+  "17914496232286772",
+  "18159452278508296",
+  "18089623169680296"
  ],
  "hashes": [
   "4ad75506bd6a1935940e270d8e60914f",
@@ -4265,21 +4268,12 @@
   "22eaea4623": 1,
   "5461eaf855": 1,
   "2b8a8c5fb6": 1,
-  "2634ebde31": 1,
-  "505647cd28": 1
+  "2634ebde31": 2,
+  "505647cd28": 1,
+  "ff8a30384c": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "mais um integrante oficial do clube de leitura decorativo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "medo real de começar e ficar presa na espera do próximo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "versão de luxo para enfeitar e versão de guerra para manusear kkk",
    "p": "concorda",
@@ -4418,6 +4412,16 @@
   {
    "t": "cada descoberta dessas faz a gente questionar a infância inteira",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perdeu o acesso ao grupo mas ganhou uma história iconica kkkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "método infalível para evitar o caos em família",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -5261,16 +5265,6 @@
   }
  ],
  "aberturas_post": {
-  "17898254706673038": [
-   "cebola na farofa",
-   "esse ai briga",
-   "pelo menos a",
-   "mas ai perdeu",
-   "quem me dera",
-   "tem que ter",
-   "defesa firme da",
-   "pao de alho"
-  ],
   "18336797236279117": [
    "comprar seminovo escolhido",
    "pelo menos a",
@@ -5546,6 +5540,10 @@
   ],
   "17962389900213872": [
    "a paz de"
+  ],
+  "18093983168653453": [
+   "perdeu o acesso",
+   "metodo infalivel para"
   ]
  },
  "shopee_checada": "2026-10-23|1",
