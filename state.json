@@ -25,7 +25,8 @@
    "08:18",
    "09:18",
    "10:44",
-   "12:09"
+   "12:09",
+   "13:10"
   ],
   "produtos_feitos": 1,
   "respostas": 23,
@@ -41,29 +42,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18067887914607934",
-   "insp": "3394e0a232",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: jogar videogame depois dos 30 virou minha terapia diária. E você, prefere?\n\n- Maratonar um RPG solo 🎮  \n- Partidas rápidas com os amigos",
-   "quando": "2026-10-18T17:37:07.444937-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-18T19:07:08.244557-04:00",
-   "link_coment": "https://s.shopee.com.br/7pu7rKKYvF",
-   "meme_comentado": true,
-   "meme_views": 1312,
-   "formato_link": "coment",
-   "produto": "58260597282",
-   "metricas": {
-    "views": 4316,
-    "likes": 183,
-    "replies": 117,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-23"
-   }
-  },
   {
    "id": "17978778833919010",
    "insp": "63b327e43d",
@@ -1145,7 +1123,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
+   "viral_chk": "2026-10-23T13:37:07.945088-04:00"
   },
   {
    "id": "17932033053419563",
@@ -1201,7 +1179,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
+   "viral_chk": "2026-10-23T13:37:07.945088-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1219,7 +1197,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
+   "viral_chk": "2026-10-23T13:37:07.945088-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1237,7 +1215,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
+   "viral_chk": "2026-10-23T13:37:07.945088-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1290,7 +1268,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
+   "viral_chk": "2026-10-23T13:37:07.945088-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1308,7 +1286,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
+   "viral_chk": "2026-10-23T13:37:07.945088-04:00"
   },
   {
    "id": "18065985020518186",
@@ -1317,7 +1295,7 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
+   "viral_chk": "2026-10-23T13:37:07.945088-04:00"
   },
   {
    "id": "18133177114765373",
@@ -1326,7 +1304,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
    "quando": "2026-10-23T09:37:09.886310-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
+   "viral_chk": "2026-10-23T13:37:07.945088-04:00"
   },
   {
    "id": "18121292618081991",
@@ -1361,7 +1339,16 @@
    "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
    "quando": "2026-10-23T12:37:08.808842-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T13:07:51.518314-04:00"
+   "viral_chk": "2026-10-23T13:37:07.945088-04:00"
+  },
+  {
+   "id": "18164686105517451",
+   "insp": "bd449a65bb",
+   "link": "",
+   "texto": "ME CONTA: qual mania bizarra você só descobriu que não era normal quando alguém de fora apontou?",
+   "quando": "2026-10-23T13:37:07.945088-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-23T13:37:07.945088-04:00"
   }
  ],
  "respondidos": [
@@ -3781,7 +3768,6 @@
   "17881233582543907"
  ],
  "hashes": [
-  "a26a0aca7ce81d8afee83190b02ab2f7",
   "3bf2efb3b474b9e75ef236a60169b084",
   "b2633c9210e1db50cf889c51c8b9de7a",
   "931a09b1f0d6432e16ed309f23560bf7",
@@ -3980,7 +3966,8 @@
   "d974036e71a32a7127cb7bd11211be00",
   "efbb500e717e2b5312c97af8237f7d2b",
   "a749827120fc3d442b4730afe2ff8955",
-  "240b4e6bcd3d04f0772a7f1f54ccd4c3"
+  "240b4e6bcd3d04f0772a7f1f54ccd4c3",
+  "d395b1f3a150de5742131def8e7c5732"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4233,7 +4220,8 @@
   "4af53e8178": 1792719494.7289777,
   "35da8217ed": 1792759082.5340042,
   "4564f47ffe": 1792762703.9526036,
-  "e7eeb217a4": 1792773493.8628683
+  "e7eeb217a4": 1792773493.8628683,
+  "bd449a65bb": 1792777050.5337672
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
