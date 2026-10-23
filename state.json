@@ -26,13 +26,14 @@
    "09:18"
   ],
   "produtos_feitos": 0,
-  "respostas": 14,
+  "respostas": 16,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
    "18129375533505510": 1,
    "18179603278449081": 9,
-   "18065985020518186": 2
+   "18065985020518186": 3,
+   "18133177114765373": 1
   }
  },
  "posts": [
@@ -1155,7 +1156,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
+   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
   },
   {
    "id": "18179603278449081",
@@ -1196,7 +1197,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
+   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
   },
   {
    "id": "17932033053419563",
@@ -1252,7 +1253,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
+   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1270,7 +1271,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
+   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1288,7 +1289,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
+   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1341,7 +1342,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
+   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1359,7 +1360,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
+   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
   },
   {
    "id": "18065985020518186",
@@ -1368,7 +1369,7 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
+   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
   },
   {
    "id": "18133177114765373",
@@ -1377,7 +1378,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
    "quando": "2026-10-23T09:37:09.886310-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
+   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
   }
  ],
  "respondidos": [
@@ -3785,7 +3786,9 @@
   "17985378639089401",
   "17879096577632415",
   "18079516856393274",
-  "18077613107722428"
+  "18077613107722428",
+  "18220864171356613",
+  "18132679652508094"
  ],
  "hashes": [
   "15967efbb3d1a778425452824c065491",
@@ -4256,20 +4259,12 @@
   "f079556595": 1,
   "11fb51c24e": 1,
   "b71c265c29": 1,
-  "596e15dfe1": 1
+  "596e15dfe1": 1,
+  "571c11336c": 1,
+  "16c6cbdc41": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "depois da pandemia o filtro social ficou bem mais rigoroso mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, o compartilhamento vai muito além da amizade kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "o coração vem com garantia ou é na base da troca kkk",
    "p": "neutra",
@@ -4409,6 +4404,16 @@
    "t": "esse é o patrimônio histórico que a gente tenta apagar com sucesso kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "nível hardcore de sobrevivência social kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justiça seja feita para os dois lados kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5241,15 +5246,6 @@
   }
  ],
  "aberturas_post": {
-  "17961312879212472": [
-   "herdar o celular",
-   "verdade a rotina",
-   "caramba adolescente ja",
-   "daqui a pouco",
-   "pelo menos nessa",
-   "quase na adolescencia",
-   "whatsapp acaba sendo"
-  ],
   "18002807181007550": [
    "essa mistura parece",
    "duas culinarias totalmente",
@@ -5537,7 +5533,11 @@
   ],
   "18065985020518186": [
    "com certeza ai",
-   "esse e o"
+   "esse e o",
+   "justica seja feita"
+  ],
+  "18133177114765373": [
+   "nivel hardcore de"
   ]
  },
  "shopee_checada": "2026-10-23|1",
