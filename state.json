@@ -21,7 +21,9 @@
    "15:33",
    "20:30"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:18"
+  ],
   "produtos_feitos": 0,
   "respostas": 12,
   "por_post": {
@@ -32,29 +34,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18193642693392878",
-   "insp": "9baa29373a",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: quem mais aqui acostumou tanto com carro automático que se pegar um manual hoje deixa o motor morrer na primeira subida?\n\nNão sei se a gente ficou preguiçosa ou se é só paz de espírito no trânsito.",
-   "quando": "2026-10-18T14:07:08.035574-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-18T18:07:08.425642-04:00",
-   "link_coment": "https://s.shopee.com.br/AAI2ZUZpFz",
-   "meme_comentado": true,
-   "meme_views": 1015,
-   "formato_link": "coment",
-   "produto": "23793973526",
-   "metricas": {
-    "views": 1383,
-    "likes": 10,
-    "replies": 23,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-23"
-   }
-  },
   {
    "id": "18144021196597425",
    "insp": "d5e042b763",
@@ -1136,7 +1115,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T08:07:08.537447-04:00"
+   "viral_chk": "2026-10-23T08:37:08.812722-04:00"
   },
   {
    "id": "18109950803579099",
@@ -1192,7 +1171,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T08:07:08.537447-04:00"
+   "viral_chk": "2026-10-23T08:37:08.812722-04:00"
   },
   {
    "id": "18179603278449081",
@@ -1233,7 +1212,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T08:07:08.537447-04:00"
+   "viral_chk": "2026-10-23T08:37:08.812722-04:00"
   },
   {
    "id": "17932033053419563",
@@ -1286,7 +1265,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T08:07:08.537447-04:00"
+   "viral_chk": "2026-10-23T08:37:08.812722-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1304,7 +1283,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T08:07:08.537447-04:00"
+   "viral_chk": "2026-10-23T08:37:08.812722-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1322,7 +1301,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T08:07:08.537447-04:00"
+   "viral_chk": "2026-10-23T08:37:08.812722-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1375,7 +1354,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T08:07:08.537447-04:00"
+   "viral_chk": "2026-10-23T08:37:08.812722-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1393,7 +1372,16 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T08:07:08.537447-04:00"
+   "viral_chk": "2026-10-23T08:37:08.812722-04:00"
+  },
+  {
+   "id": "18065985020518186",
+   "insp": "35da8217ed",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
+   "quando": "2026-10-23T08:37:08.812722-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "viral_chk": "2026-10-23T08:37:08.812722-04:00"
   }
  ],
  "respondidos": [
@@ -3802,7 +3790,6 @@
   "17879096577632415"
  ],
  "hashes": [
-  "c699eb403b6f63f53fad273c0d532081",
   "5e1b2621b6e16d1ff018d7fde8a6b029",
   "15967efbb3d1a778425452824c065491",
   "a26a0aca7ce81d8afee83190b02ab2f7",
@@ -4001,7 +3988,8 @@
   "7d913b6cc9fd5f9e989a4827aae78325",
   "19d44b187cbe37307915cf6c4ef1fe92",
   "3e5f8988dbb66a54ee90dc948e297c4e",
-  "d974036e71a32a7127cb7bd11211be00"
+  "d974036e71a32a7127cb7bd11211be00",
+  "efbb500e717e2b5312c97af8237f7d2b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4251,7 +4239,8 @@
   "2b3a6a81d7": 1792701496.5239007,
   "da8ab25023": 1792706895.8525548,
   "feb6e197f0": 1792715844.1856916,
-  "4af53e8178": 1792719494.7289777
+  "4af53e8178": 1792719494.7289777,
+  "35da8217ed": 1792759082.5340042
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
