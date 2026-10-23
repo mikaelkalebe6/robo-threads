@@ -22,37 +22,20 @@
    "20:30"
   ],
   "feitos": [
-   "08:18"
+   "08:18",
+   "09:18"
   ],
   "produtos_feitos": 0,
-  "respostas": 13,
+  "respostas": 14,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
    "18129375533505510": 1,
    "18179603278449081": 9,
-   "18065985020518186": 1
+   "18065985020518186": 2
   }
  },
  "posts": [
-  {
-   "id": "18144021196597425",
-   "insp": "d5e042b763",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: vocês ainda fazem questão de pagar tudo à vista ou parcelam qualquer besteira em 10x sem juros?\n\nSe não tem desconto de verdade no pix, eu jogo pro crédito e deixo o dinheiro rendendo.",
-   "quando": "2026-10-18T15:07:07.813127-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-19T14:37:09.181835-04:00",
-   "metricas": {
-    "views": 980,
-    "likes": 5,
-    "replies": 24,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-23"
-   }
-  },
   {
    "id": "17990749128026638",
    "insp": "video_79ddb4555a",
@@ -1172,7 +1155,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:07:08.320907-04:00"
+   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
   },
   {
    "id": "18179603278449081",
@@ -1213,7 +1196,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:07:08.320907-04:00"
+   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
   },
   {
    "id": "17932033053419563",
@@ -1269,7 +1252,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:07:08.320907-04:00"
+   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1287,7 +1270,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:07:08.320907-04:00"
+   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1305,7 +1288,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:07:08.320907-04:00"
+   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1358,7 +1341,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:07:08.320907-04:00"
+   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1376,7 +1359,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T09:07:08.320907-04:00"
+   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
   },
   {
    "id": "18065985020518186",
@@ -1385,7 +1368,16 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-23T09:07:08.320907-04:00"
+   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
+  },
+  {
+   "id": "18133177114765373",
+   "insp": "4564f47ffe",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
+   "quando": "2026-10-23T09:37:09.886310-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-23T09:37:09.886310-04:00"
   }
  ],
  "respondidos": [
@@ -3792,10 +3784,10 @@
   "18120723944287133",
   "17985378639089401",
   "17879096577632415",
-  "18079516856393274"
+  "18079516856393274",
+  "18077613107722428"
  ],
  "hashes": [
-  "5e1b2621b6e16d1ff018d7fde8a6b029",
   "15967efbb3d1a778425452824c065491",
   "a26a0aca7ce81d8afee83190b02ab2f7",
   "3bf2efb3b474b9e75ef236a60169b084",
@@ -3994,7 +3986,8 @@
   "19d44b187cbe37307915cf6c4ef1fe92",
   "3e5f8988dbb66a54ee90dc948e297c4e",
   "d974036e71a32a7127cb7bd11211be00",
-  "efbb500e717e2b5312c97af8237f7d2b"
+  "efbb500e717e2b5312c97af8237f7d2b",
+  "a749827120fc3d442b4730afe2ff8955"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4245,7 +4238,8 @@
   "da8ab25023": 1792706895.8525548,
   "feb6e197f0": 1792715844.1856916,
   "4af53e8178": 1792719494.7289777,
-  "35da8217ed": 1792759082.5340042
+  "35da8217ed": 1792759082.5340042,
+  "4564f47ffe": 1792762703.9526036
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4261,15 +4255,11 @@
   "a1f9d0da03": 1,
   "f079556595": 1,
   "11fb51c24e": 1,
-  "b71c265c29": 1
+  "b71c265c29": 1,
+  "596e15dfe1": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "esse pelo menos cobra o preço em sachê kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "depois da pandemia o filtro social ficou bem mais rigoroso mesmo",
    "p": "concorda",
@@ -4414,6 +4404,11 @@
    "t": "com certeza, aí a surpresa pelo menos vem sem filtro de internet",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse é o patrimônio histórico que a gente tenta apagar com sucesso kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5541,7 +5536,8 @@
    "em qualquer area"
   ],
   "18065985020518186": [
-   "com certeza ai"
+   "com certeza ai",
+   "esse e o"
   ]
  },
  "shopee_checada": "2026-10-23|1",
