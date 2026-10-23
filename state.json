@@ -26,14 +26,15 @@
    "09:18"
   ],
   "produtos_feitos": 0,
-  "respostas": 16,
+  "respostas": 17,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
    "18129375533505510": 1,
    "18179603278449081": 9,
    "18065985020518186": 3,
-   "18133177114765373": 1
+   "18133177114765373": 1,
+   "17873769906602294": 1
   }
  },
  "posts": [
@@ -1156,7 +1157,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
+   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
   },
   {
    "id": "18179603278449081",
@@ -1197,7 +1198,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
+   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
   },
   {
    "id": "17932033053419563",
@@ -1253,7 +1254,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
+   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1271,7 +1272,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
+   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1289,7 +1290,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
+   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1342,7 +1343,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
+   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1360,7 +1361,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
+   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
   },
   {
    "id": "18065985020518186",
@@ -1369,7 +1370,7 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
+   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
   },
   {
    "id": "18133177114765373",
@@ -1378,7 +1379,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
    "quando": "2026-10-23T09:37:09.886310-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-23T10:07:09.778962-04:00"
+   "viral_chk": "2026-10-23T10:37:09.499869-04:00"
   }
  ],
  "respondidos": [
@@ -3788,7 +3789,8 @@
   "18079516856393274",
   "18077613107722428",
   "18220864171356613",
-  "18132679652508094"
+  "18132679652508094",
+  "17943561609091025"
  ],
  "hashes": [
   "15967efbb3d1a778425452824c065491",
@@ -4261,15 +4263,11 @@
   "b71c265c29": 1,
   "596e15dfe1": 1,
   "571c11336c": 1,
-  "16c6cbdc41": 1
+  "16c6cbdc41": 1,
+  "af897c3109": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "o coração vem com garantia ou é na base da troca kkk",
-   "p": "neutra",
-   "r": 1
-  },
   {
    "t": "cada um com a sua cuia e zero dor de cabeça",
    "p": "concorda",
@@ -4414,6 +4412,11 @@
    "t": "justiça seja feita para os dois lados kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "nesse caso o problema está resolvido na raiz",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5502,7 +5505,8 @@
    "justo na hora",
    "exagero total pra",
    "economia preventiva antes",
-   "teoria linda na"
+   "teoria linda na",
+   "nesse caso o"
   ],
   "18129375533505510": [
    "esse valor ai",
