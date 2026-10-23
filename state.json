@@ -23,12 +23,12 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 12,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
    "18129375533505510": 1,
-   "18179603278449081": 3
+   "18179603278449081": 9
   }
  },
  "posts": [
@@ -1118,7 +1118,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T07:07:08.890879-04:00"
+   "viral_chk": "2026-10-23T07:37:09.005877-04:00"
   },
   {
    "id": "17992594266048436",
@@ -1136,7 +1136,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T07:07:08.890879-04:00"
+   "viral_chk": "2026-10-23T07:37:09.005877-04:00"
   },
   {
    "id": "18109950803579099",
@@ -1192,7 +1192,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T07:07:08.890879-04:00"
+   "viral_chk": "2026-10-23T07:37:09.005877-04:00"
   },
   {
    "id": "18179603278449081",
@@ -1233,7 +1233,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T07:07:08.890879-04:00"
+   "viral_chk": "2026-10-23T07:37:09.005877-04:00"
   },
   {
    "id": "17932033053419563",
@@ -1286,7 +1286,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T07:07:08.890879-04:00"
+   "viral_chk": "2026-10-23T07:37:09.005877-04:00"
   },
   {
    "id": "18078457244719478",
@@ -1304,7 +1304,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T07:07:08.890879-04:00"
+   "viral_chk": "2026-10-23T07:37:09.005877-04:00"
   },
   {
    "id": "18152595001596456",
@@ -1322,7 +1322,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T07:07:08.890879-04:00"
+   "viral_chk": "2026-10-23T07:37:09.005877-04:00"
   },
   {
    "id": "17954100792322263",
@@ -1375,7 +1375,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T07:07:08.890879-04:00"
+   "viral_chk": "2026-10-23T07:37:09.005877-04:00"
   },
   {
    "id": "18357290920169506",
@@ -1393,7 +1393,7 @@
     "shares": 0,
     "em": "2026-10-23"
    },
-   "viral_chk": "2026-10-23T07:07:08.890879-04:00"
+   "viral_chk": "2026-10-23T07:37:09.005877-04:00"
   }
  ],
  "respondidos": [
@@ -3793,7 +3793,13 @@
   "18237078988320490",
   "17983134432087834",
   "17914072833553709",
-  "18137277634648512"
+  "18137277634648512",
+  "18111701003633025",
+  "18158851999556652",
+  "18116654909281475",
+  "18120723944287133",
+  "17985378639089401",
+  "17879096577632415"
  ],
  "hashes": [
   "c699eb403b6f63f53fad273c0d532081",
@@ -4254,40 +4260,16 @@
   "5a4f6559c6": 1,
   "cf51e9c33f": 1,
   "a60b586c5e": 1,
-  "63633d988c": 1
+  "63633d988c": 1,
+  "eb96a2e340": 1,
+  "f5e403a4d2": 1,
+  "d1a005809e": 1,
+  "a1f9d0da03": 1,
+  "f079556595": 1,
+  "11fb51c24e": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "cinco anos de paciência esperando a vez dele chegar na estante",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "medida drástica para conter o vício mas faz todo sentido",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "herança literária que atravessou gerações no plástico original",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ataca o estoque de uma vez só quando as férias chegam",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse valor aí tá parecendo viagem no tempo de dez anos atrás",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "exagero total pra tentar adivinhar o comportamento de alguém",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "lugar simples cobrando isso assusta mesmo",
    "p": "ressalva",
@@ -4405,6 +4387,36 @@
   },
   {
    "t": "integrante oficial do clube de leitura decorativo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "respeito demais essa sinceridade com o destino dos livros",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "passou de item de leitura pra peça de decoração histórica",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia de manter a decoração intelectual sempre em dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "mais um integrante oficial do clube de leitura decorativo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "medo real de começar e ficar presa na espera do próximo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "versão de luxo para enfeitar e versão de guerra para manusear kkk",
    "p": "concorda",
    "r": 1
   }
@@ -5475,12 +5487,6 @@
    "esse pelo menos"
   ],
   "18179603278449081": [
-   "o tamanho do",
-   "colecionar capa bonita",
-   "prestando continencia para",
-   "quinze anos esperando",
-   "esse ai ja",
-   "o clube do",
    "esse um dia",
    "pelo menos a",
    "cada livro espera",
@@ -5494,7 +5500,13 @@
    "ataca o estoque",
    "culpa coletiva que",
    "perdao pelo susto",
-   "integrante oficial do"
+   "integrante oficial do",
+   "respeito demais essa",
+   "passou de item",
+   "estrategia de manter",
+   "mais um integrante",
+   "medo real de",
+   "versao de luxo"
   ],
   "17873769906602294": [
    "quando a pessoa",
