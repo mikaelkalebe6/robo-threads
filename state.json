@@ -37,7 +37,7 @@
    "21:18"
   ],
   "produtos_feitos": 3,
-  "respostas": 96,
+  "respostas": 97,
   "por_post": {
    "18024018605928455": 1,
    "18343944772287252": 13,
@@ -56,7 +56,7 @@
    "17873769906602294": 7,
    "18129375533505510": 7,
    "18078457244719478": 5,
-   "18334374889261347": 2,
+   "18334374889261347": 3,
    "18357290920169506": 1
   }
  },
@@ -3679,7 +3679,8 @@
   "18129057262871933",
   "18075254879774665",
   "18378142261240043",
-  "18100505927417256"
+  "18100505927417256",
+  "18106079603200024"
  ],
  "hashes": [
   "c699eb403b6f63f53fad273c0d532081",
@@ -4225,15 +4226,11 @@
   "7272e19040": 1,
   "57d3b84a93": 1,
   "e980f2faaf": 1,
-  "b35859f239": 1
+  "b35859f239": 1,
+  "d31bb76152": 1
  },
  "reservas_checadas": "2026-10-22",
  "ultimas_respostas": [
-  {
-   "t": "hábito de acumular leitura no meio de tanta correria é super normal",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "gasolina premium é boleto gourmet disfarçado de paixão automotiva kkkk",
    "p": "concorda",
@@ -4378,6 +4375,11 @@
    "t": "vídeo já é invasão de domicílio kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "o arbusto com apelido definitivo é o melhor troféu de festa",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5479,7 +5481,8 @@
   ],
   "18334374889261347": [
    "fantasia barata e",
-   "maquiagem boa e"
+   "maquiagem boa e",
+   "o arbusto com"
   ],
   "18357290920169506": [
    "video ja e"
