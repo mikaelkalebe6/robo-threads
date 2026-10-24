@@ -27,11 +27,11 @@
    "14:49"
   ],
   "produtos_feitos": 2,
-  "respostas": 40,
+  "respostas": 42,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
-   "17936082702401534": 16,
+   "17936082702401534": 17,
    "17962389900213872": 1,
    "18100857716402310": 2,
    "18164686105517451": 1,
@@ -39,7 +39,8 @@
    "18065985020518186": 1,
    "18070093358773661": 2,
    "18357940078223066": 9,
-   "17962475325229174": 5
+   "17962475325229174": 5,
+   "18018918797741015": 1
   }
  },
  "posts": [
@@ -3896,7 +3897,9 @@
   "18125576894474441",
   "18014608967969507",
   "18090605300676840",
-  "17951142822317227"
+  "17951142822317227",
+  "17884428222523080",
+  "18119939242765016"
  ],
  "hashes": [
   "a4fc875f3921358e3ce35f496f8291d6",
@@ -4404,20 +4407,12 @@
   "807c19fc07": 1,
   "508919be52": 1,
   "8ed3c5b395": 1,
-  "5a4f6559c6": 1
+  "5a4f6559c6": 1,
+  "9db0b806e5": 1,
+  "b6369b5bc5": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "referência clássica que entrega toda a inspiração do filme",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "passou da hora de rever para tirar a prova kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "marquinhos tem seus fieis defensores em qualquer epoca",
    "p": "concorda",
@@ -4557,6 +4552,16 @@
    "t": "essa diferença de valor da um pouco de vertigem kkkkk",
    "p": "ressalva",
    "r": 2
+  },
+  {
+   "t": "salva demais a paciência na cozinha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pura nostalgia misturada com carinho mesmo kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5434,28 +5439,6 @@
   }
  ],
  "aberturas_post": {
-  "18119586661952960": [
-   "essa e pesada",
-   "essa ai faz",
-   "maratona pesada reunida",
-   "essa confunde a",
-   "essa primeira temporada",
-   "esse elenco carrega",
-   "pesado demais mas",
-   "essa serie precisa",
-   "essa historia e",
-   "tambem senti o",
-   "esse soco no",
-   "greys anatomy sempre",
-   "prison break tem",
-   "o comeco do",
-   "aquele misterio inicial",
-   "dupla de peso",
-   "bates motel tem",
-   "essa serie e",
-   "adorei a escolha",
-   "esse final de"
-  ],
   "17964565467250557": [
    "dez reais hoje",
    "eterno jovem ate",
@@ -5641,7 +5624,6 @@
    "metodo infalivel para"
   ],
   "17936082702401534": [
-   "infancia raiz marcou",
    "o unico argumento",
    "quem tem esse",
    "marquinhos ja vem",
@@ -5660,7 +5642,8 @@
    "esse som ja",
    "esse bordao iconico",
    "infancia protegida com",
-   "pegou no pulo"
+   "pegou no pulo",
+   "pura nostalgia misturada"
   ],
   "18086406461707156": [
    "esse fusca solitario",
@@ -5693,6 +5676,9 @@
    "zerado no placar",
    "nada supera a",
    "pesado carregar esse"
+  ],
+  "18018918797741015": [
+   "salva demais a"
   ]
  },
  "shopee_checada": "2026-10-24|1",
