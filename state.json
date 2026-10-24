@@ -37,7 +37,7 @@
    "22:00"
   ],
   "produtos_feitos": 3,
-  "respostas": 59,
+  "respostas": 65,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
@@ -51,8 +51,9 @@
    "18100857716402310": 9,
    "17962389900213872": 1,
    "18093983168653453": 2,
-   "17936082702401534": 16,
-   "18086406461707156": 2
+   "17936082702401534": 20,
+   "18086406461707156": 3,
+   "18145537618587912": 1
   }
  },
  "posts": [
@@ -3754,7 +3755,13 @@
   "18079686878391296",
   "18128558375488656",
   "18186224533422016",
-  "18169175143488444"
+  "18169175143488444",
+  "17914393191544738",
+  "17864461302693368",
+  "18169182916485134",
+  "18136537753645068",
+  "18229985227328395",
+  "18181021099437675"
  ],
  "hashes": [
   "d88ece3c1749023b4d679fa9386bb59e",
@@ -4266,47 +4273,22 @@
   "aa8cb9b0fc": 1,
   "df94ea3954": 1,
   "c128485506": 1,
-  "bf6d94e9cf": 1,
+  "bf6d94e9cf": 2,
   "bd9c735297": 1,
   "417b49e6ba": 1,
   "29ed2d5ee5": 1,
   "ed897374d9": 1,
   "1ee4dec351": 1,
   "b3ae8b291e": 1,
-  "e1fc991990": 1
+  "e1fc991990": 1,
+  "f32858d600": 1,
+  "1eb4ad9c86": 1,
+  "8499e299f7": 1,
+  "017723e1f5": 1,
+  "2cad2dae4a": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "demora muito cria um clima de entrevista que broxa na hora",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "falta de assunto acaba com qualquer tentativa de papo kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse cronômetro invisível gera uma ansiedade desnecessária kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "robozinho programado espanta qualquer um kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "coragem pura em formato de investigação digital",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cobrança antes do primeiro café é recorde de velocidade kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "o silêncio do outro lado é desanimador",
    "p": "neutra",
@@ -4426,6 +4408,36 @@
    "t": "profundidade dramática que ninguém esperava de um desenho sobre carros",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse trânsito aí foi feito para testar a paciência de todo mundo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "então você é a mente criativa por trás dos melhores apelidos kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "infancia raiz marcou geracoes kkkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkkkkkkkkkkkmmmkkkkkkk o único argumento que encerra qualquer debate",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "quem tem esse nível de certeza não aceita menos que a taça piston mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "marquinhos já vem com adesivo de fábrica kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5273,17 +5285,6 @@
   }
  ],
  "aberturas_post": {
-  "17890502484684901": [
-   "exato olhar como",
-   "investimento alto antes",
-   "prevencao e tudo",
-   "evita qualquer mal",
-   "mudou de figura",
-   "lugar tranquilo e",
-   "entao a conta",
-   "esse termometro ai",
-   "esse argumento do"
-  ],
   "17951473839312879": [
    "sistema ta dificil",
    "peso na balanca",
@@ -5553,11 +5554,19 @@
    "essa cena quebra",
    "argumento direto ao",
    "essa historia de",
-   "profundidade dramatica que"
+   "profundidade dramatica que",
+   "infancia raiz marcou",
+   "o unico argumento",
+   "quem tem esse",
+   "marquinhos ja vem"
   ],
   "18086406461707156": [
    "esse fusca solitario",
-   "qual e o"
+   "qual e o",
+   "entao voce e"
+  ],
+  "18145537618587912": [
+   "esse transito ai"
   ]
  },
  "shopee_checada": "2026-10-23|1",
