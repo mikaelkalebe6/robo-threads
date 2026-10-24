@@ -24,11 +24,11 @@
    "11:20"
   ],
   "produtos_feitos": 1,
-  "respostas": 24,
+  "respostas": 25,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
-   "17936082702401534": 14,
+   "17936082702401534": 15,
    "17962389900213872": 1,
    "18100857716402310": 2,
    "18164686105517451": 1,
@@ -1134,7 +1134,7 @@
    "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
    "quando": "2026-10-23T12:37:08.808842-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T12:07:08.673504-04:00",
+   "viral_chk": "2026-10-24T12:37:07.306484-04:00",
    "metricas": {
     "views": 347,
     "likes": 8,
@@ -1175,7 +1175,7 @@
    "texto": "DÚVIDA SINCERA: o que faz alguém perder o interesse na primeira conversa de app?",
    "quando": "2026-10-23T14:07:09.112396-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T12:07:08.673504-04:00",
+   "viral_chk": "2026-10-24T12:37:07.306484-04:00",
    "metricas": {
     "views": 934,
     "likes": 7,
@@ -1240,7 +1240,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T12:07:08.673504-04:00"
+   "viral_chk": "2026-10-24T12:37:07.306484-04:00"
   },
   {
    "id": "18093983168653453",
@@ -1258,7 +1258,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T12:07:08.673504-04:00"
+   "viral_chk": "2026-10-24T12:37:07.306484-04:00"
   },
   {
    "id": "17936082702401534",
@@ -1337,7 +1337,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T12:07:08.673504-04:00"
+   "viral_chk": "2026-10-24T12:37:07.306484-04:00"
   },
   {
    "id": "18145537618587912",
@@ -1355,7 +1355,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T12:07:08.673504-04:00"
+   "viral_chk": "2026-10-24T12:37:07.306484-04:00"
   },
   {
    "id": "17955172134277759",
@@ -1364,7 +1364,7 @@
    "texto": "Gastei uma grana numa viagem elaborada e no fim meu namorado só lembra do dia que a gente ficou preso na chuva pescando sem sinal no celular. Experiência simples ganha de luxo todo dia",
    "quando": "2026-10-24T08:37:07.797981-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T12:07:08.673504-04:00"
+   "viral_chk": "2026-10-24T12:37:07.306484-04:00"
   },
   {
    "id": "17989226381872651",
@@ -1402,7 +1402,7 @@
    "texto": "PESSOAS QUE...: ainda guardam a caixinha e a mídia física do primeiro videogame deviam ganhar um certificado de apego emocional. Eu prefiro desapegar do que juntar poeira na estante.",
    "quando": "2026-10-24T11:37:08.777095-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T12:07:08.673504-04:00"
+   "viral_chk": "2026-10-24T12:37:07.306484-04:00"
   }
  ],
  "respondidos": [
@@ -3887,7 +3887,8 @@
   "18492539422129760",
   "17911977465556432",
   "18118238716989195",
-  "18171171556471567"
+  "18171171556471567",
+  "18203502058390886"
  ],
  "hashes": [
   "2edce8b75b92113d3a6c054b3392b162",
@@ -4377,15 +4378,11 @@
   "e88a9c136f": 1,
   "b2ae2aab3c": 1,
   "8d1907fee6": 1,
-  "3b60f55f71": 1
+  "3b60f55f71": 1,
+  "746b68fd25": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "esse trânsito aí foi feito para testar a paciência de todo mundo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "então você é a mente criativa por trás dos melhores apelidos kkkk",
    "p": "concorda",
@@ -4530,6 +4527,11 @@
    "t": "essa big box era um pedaço de ouro na estante msm kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "infância protegida com sucesso por esse quarteto maravilhoso",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5640,7 +5642,6 @@
    "metodo infalivel para"
   ],
   "17936082702401534": [
-   "essa historia de",
    "profundidade dramatica que",
    "infancia raiz marcou",
    "o unico argumento",
@@ -5659,7 +5660,8 @@
    "sete titulos seguidos",
    "esse bordao ja",
    "esse som ja",
-   "esse bordao iconico"
+   "esse bordao iconico",
+   "infancia protegida com"
   ],
   "18086406461707156": [
    "esse fusca solitario",
