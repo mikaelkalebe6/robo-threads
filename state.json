@@ -23,10 +23,11 @@
    "10:10",
    "11:20",
    "12:38",
-   "13:44"
+   "13:44",
+   "14:49"
   ],
-  "produtos_feitos": 1,
-  "respostas": 38,
+  "produtos_feitos": 2,
+  "respostas": 40,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
@@ -37,29 +38,11 @@
    "17988790524079823": 1,
    "18065985020518186": 1,
    "18070093358773661": 2,
-   "18357940078223066": 8,
-   "17962475325229174": 4
+   "18357940078223066": 9,
+   "17962475325229174": 5
   }
  },
  "posts": [
-  {
-   "id": "18020487191940773",
-   "insp": "5a11d3ea8d",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Halloween no Brasil é só desculpa para usar fantasia em festa e o resto é detalhe. \n\nFesta com fantasia ou bar normal no fim de semana?",
-   "quando": "2026-10-19T15:37:08.040036-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T11:07:10.963888-04:00",
-   "metricas": {
-    "views": 316,
-    "likes": 1,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-24"
-   }
-  },
   {
    "id": "18490025323129946",
    "insp": "7d5fd436ee",
@@ -1387,6 +1370,32 @@
    "texto": "DÚVIDA SINCERA: a paixão de adolescente que revirava o estômago ou o amor de adulto que traz paz? Qual realmente marcou mais a sua vida",
    "quando": "2026-10-24T14:07:08.350443-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18018918797741015",
+   "insp": "video_f47f94d0c1",
+   "link": "",
+   "texto": "Cansada de enfiar a mão na sujeira da pia para desentupir o ralo. Descobri esse negocinho e salvou minha paciência na cozinha. Olha como funciona 👀",
+   "quando": "2026-10-24T15:07:08.195561-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "23494286604",
+   "link_pendente": true,
+   "modo_produto": "parecido",
+   "prod_dados": {
+    "itemId": "23494286604",
+    "nome": "Kit 1/2/3 Ralos Inox 9cm Protetor de Pia Filtro Cozinha Cuba Aço Inoxidável",
+    "preco": 10.64,
+    "nota": 5.0,
+    "vendas": 315,
+    "comissao": 0.03,
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261k-mkmsdz71kao255",
+    "offerLink": "https://s.shopee.com.br/1BPprABiz",
+    "campanha": "",
+    "modo": "parecido"
+   }
   }
  ],
  "respondidos": [
@@ -3885,7 +3894,9 @@
   "18116044609839658",
   "18022883981937740",
   "18125576894474441",
-  "18014608967969507"
+  "18014608967969507",
+  "18090605300676840",
+  "17951142822317227"
  ],
  "hashes": [
   "a4fc875f3921358e3ce35f496f8291d6",
@@ -4391,20 +4402,12 @@
   "ae28140d1a": 1,
   "922f5ac6bd": 1,
   "807c19fc07": 1,
-  "508919be52": 1
+  "508919be52": 1,
+  "8ed3c5b395": 1,
+  "5a4f6559c6": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "esse nome de batismo intimista pega muito bem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "atalho péssimo para matar qualquer assunto logo no começo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "referência clássica que entrega toda a inspiração do filme",
    "p": "concorda",
@@ -4544,6 +4547,16 @@
    "t": "pagar a prestação com o dinheiro da gasolina seria o sonho de todo motorista kkk",
    "p": "ressalva",
    "r": 1
+  },
+  {
+   "t": "pesado carregar esse peso todo o tempo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "essa diferença de valor da um pouco de vertigem kkkkk",
+   "p": "ressalva",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5671,13 +5684,15 @@
    "quem avisa amigo",
    "com certeza o",
    "economia que acaba",
-   "pagar a prestacao"
+   "pagar a prestacao",
+   "essa diferenca de"
   ],
   "17962475325229174": [
    "pesado mas dificil",
    "paz de espirito",
    "zerado no placar",
-   "nada supera a"
+   "nada supera a",
+   "pesado carregar esse"
   ]
  },
  "shopee_checada": "2026-10-24|1",
@@ -6021,6 +6036,7 @@
   "79ff553bff": "2026-10-23T11:07:09.271456-04:00",
   "bd38e6c3d6": "2026-10-23T15:37:08.645351-04:00",
   "a4f46f9560": "2026-10-23T20:37:07.815170-04:00",
-  "c1d72b0d73": "2026-10-24T10:37:08.456722-04:00"
+  "c1d72b0d73": "2026-10-24T10:37:08.456722-04:00",
+  "f47f94d0c1": "2026-10-24T15:07:08.195561-04:00"
  }
 }
