@@ -1440,11 +1440,64 @@ FRASES_LINK_TEMA = ["Falando nisso, olha o que eu achei", "Isso me lembrou desse
                     "Quem se identificou vai querer isso"]
 
 
+PEDIDO_INTENCOES = ("desejo", "interesse", "pedido_link", "compra", "quero")
+
+
+def achadinho_liberavel(post):
+    """Achadinho com link guardado (ainda nao publicado) que pode sair na hora se alguem pedir."""
+    return bool(post.get("link_pendente") and (post.get("prod_dados") or {}).get("offerLink"))
+
+
+def liberar_link_achadinho(s, post, agora, motivo="pedido"):
+    """Gera o link de afiliado do achadinho para mandar a quem pediu. Grava no registro do post
+    (link_coment) e encerra a espera das views. Falha: devolve "" e nada muda."""
+    prod = post.get("prod_dados") or {}
+    oferta = prod.get("offerLink", "")
+    link = ""
+    try:
+        import shopee
+        link = shopee.link_afiliado(oferta, marcadores("produtofoto", "resp", agora, post["id"]))
+    except Exception as e:
+        log("Shopee: link curto falhou, usando o link da oferta:", str(e)[:150])
+    link = link or oferta
+    if not link:
+        return ""
+    post["link_coment"] = link
+    guardar_link_post(s, post["id"], link)
+    post["link_pendente"] = False
+    post["link_em"] = agora.isoformat()
+    post["link_motivo"] = motivo
+    s.setdefault("shopee_usados", {})[str(prod.get("itemId", ""))] = agora.isoformat()
+    log(f"Achadinho: link do post {post['id']} liberado antes da hora ({motivo}).")
+    return link
+
+
+def _pedidos_no_log(ids):
+    """Posts (dentre ids) em que alguem pediu o link ou mostrou vontade de comprar, segundo o diario das respostas."""
+    achados = set()
+    if not ids:
+        return achados
+    try:
+        with open(LOG_RESPOSTAS, encoding="utf-8") as f:
+            linhas = f.readlines()[-600:]
+    except Exception:
+        return achados
+    for l in linhas:
+        try:
+            r = json.loads(l)
+        except Exception:
+            continue
+        if str(r.get("post")) in ids and (r.get("mandar_link") or (r.get("intencao") or "").lower() in PEDIDO_INTENCOES):
+            achados.add(str(r.get("post")))
+    return achados
+
+
 def tarefa_link_achadinho(s, agora):
     """Post de produto achadinho: poe o link numa resposta propria quando passar de ACHADINHO_VIEWS_LINK views
     ou depois de ACHADINHO_LINK_HORAS horas. Frase curta + link + #publi, sem foto. Nunca derruba a rodada."""
     min_views = int(cfg("ACHADINHO_VIEWS_LINK"))
     horas = float(cfg("ACHADINHO_LINK_HORAS"))
+    pedidos = _pedidos_no_log({str(p.get("id")) for p in s.get("posts", []) if p.get("link_pendente")})
     for p in s.get("posts", []):
         if not p.get("link_pendente") or str(p.get("id", "")).startswith("teste_"):
             continue
@@ -1453,7 +1506,8 @@ def tarefa_link_achadinho(s, agora):
         except Exception:
             idade = 99
         views = 0
-        if idade < horas:
+        pediram = str(p.get("id")) in pedidos  # alguem pediu o link: sai agora, sem esperar views
+        if idade < horas and not pediram:
             try:
                 dados = threads("GET", f"{p['id']}/insights", metric="views").get("data", [])
                 views = sum(_valor_metrica(m) for m in dados if m.get("name") == "views")
@@ -1474,7 +1528,7 @@ def tarefa_link_achadinho(s, agora):
             log(f"Achadinho: post {p['id']} sem dados do produto. Link cancelado.")
             salvar_estado(s)
             continue
-        motivo = f"{views} views" if idade < horas else f"{idade:.0f}h depois"
+        motivo = "pedido nos comentarios" if pediram else (f"{views} views" if idade < horas else f"{idade:.0f}h depois")
         log(f"Achadinho: link do post {p['id']} ({motivo}).")
         res = comentar_produto(s, p["id"], prod, "produtofoto", agora, formato="resp",
                                frase=random.choice({"parecido": FRASES_LINK_PARECIDO, "tema": FRASES_LINK_TEMA}.get(
@@ -2419,7 +2473,8 @@ def tarefa_responder(s, agora):
         perdida = bool(tipo) and tipo not in ("TEXT_POST", "TEXT") and not imagem
         contexto = minhas.get(c.get("_alvo", "")) if c.get("_alvo") != str(post["id"]) else None
         try:
-            d = gerar_resposta(post.get("texto", ""), c.get("text", ""), bool(link_do_post(post)), s,
+            d = gerar_resposta(post.get("texto", ""), c.get("text", ""),
+                               bool(link_do_post(post)) or achadinho_liberavel(post), s,
                                imagem=imagem, imagem_perdida=perdida, contexto=contexto, post_id=post["id"])
             return {"post": post, "c": c, "d": d, "imagem": imagem, "perdida": perdida, "contexto": contexto}
         except Exception as e:
@@ -2446,7 +2501,7 @@ def tarefa_responder(s, agora):
         reg = {"quando": agora.isoformat(timespec="minutes"), "post": post["id"], "comentario": (c.get("text") or "")[:300],
                "imagem": "vista" if r["imagem"] else ("nao_vista" if r["perdida"] else "nao"), "treplica": bool(r["contexto"]),
                "intencao": d.get("intencao"), "emocao": d.get("emocao"), "energia": d.get("energia"),
-               "risada": d.get("risada"), "postura": d.get("postura")}
+               "risada": d.get("risada"), "postura": d.get("postura"), "mandar_link": bool(d.get("mandar_link"))}
         if not d.get("responder") or not d.get("texto"):
             escondido = esconder_se_spam(c, d, p)
             log(f"{'Escondi spam' if escondido else 'Ignorado comentario'} de {quem} ({d.get('intencao') or '-'})")
@@ -2454,6 +2509,8 @@ def tarefa_responder(s, agora):
             continue
         no_lote.add(chave)
         txt = d["texto"]
+        if d.get("mandar_link") and not link_do_post(post) and achadinho_liberavel(post):
+            liberar_link_achadinho(s, post, agora)  # achadinho: quem pede o link recebe na hora (24/10/2026)
         if d.get("mandar_link") and link_do_post(post):
             # resposta a quem pediu o link sai SEM #publi (decisao do dono, 13/10/2026)
             txt = f"{txt}\n{texto_link(random.choice(FRASES_LINK), link_do_post(post))}"
