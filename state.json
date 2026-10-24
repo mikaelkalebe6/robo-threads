@@ -24,7 +24,7 @@
    "11:20"
   ],
   "produtos_feitos": 1,
-  "respostas": 22,
+  "respostas": 24,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
@@ -33,7 +33,8 @@
    "18100857716402310": 2,
    "18164686105517451": 1,
    "17988790524079823": 1,
-   "18065985020518186": 1
+   "18065985020518186": 1,
+   "18070093358773661": 2
   }
  },
  "posts": [
@@ -1133,7 +1134,7 @@
    "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
    "quando": "2026-10-23T12:37:08.808842-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T11:37:08.777095-04:00",
+   "viral_chk": "2026-10-24T12:07:08.673504-04:00",
    "metricas": {
     "views": 347,
     "likes": 8,
@@ -1174,7 +1175,7 @@
    "texto": "DÚVIDA SINCERA: o que faz alguém perder o interesse na primeira conversa de app?",
    "quando": "2026-10-23T14:07:09.112396-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T11:37:08.777095-04:00",
+   "viral_chk": "2026-10-24T12:07:08.673504-04:00",
    "metricas": {
     "views": 934,
     "likes": 7,
@@ -1239,7 +1240,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T11:37:08.777095-04:00"
+   "viral_chk": "2026-10-24T12:07:08.673504-04:00"
   },
   {
    "id": "18093983168653453",
@@ -1257,7 +1258,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T11:37:08.777095-04:00"
+   "viral_chk": "2026-10-24T12:07:08.673504-04:00"
   },
   {
    "id": "17936082702401534",
@@ -1336,7 +1337,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T11:37:08.777095-04:00"
+   "viral_chk": "2026-10-24T12:07:08.673504-04:00"
   },
   {
    "id": "18145537618587912",
@@ -1354,7 +1355,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T11:37:08.777095-04:00"
+   "viral_chk": "2026-10-24T12:07:08.673504-04:00"
   },
   {
    "id": "17955172134277759",
@@ -1363,7 +1364,7 @@
    "texto": "Gastei uma grana numa viagem elaborada e no fim meu namorado só lembra do dia que a gente ficou preso na chuva pescando sem sinal no celular. Experiência simples ganha de luxo todo dia",
    "quando": "2026-10-24T08:37:07.797981-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T11:37:08.777095-04:00"
+   "viral_chk": "2026-10-24T12:07:08.673504-04:00"
   },
   {
    "id": "17989226381872651",
@@ -1376,7 +1377,7 @@
    "estrategia": "produto_video",
    "formato_link": "resp",
    "produto": "41979297366",
-   "link_pendente": true,
+   "link_pendente": false,
    "modo_produto": "tema",
    "prod_dados": {
     "itemId": "41979297366",
@@ -1389,7 +1390,10 @@
     "offerLink": "https://s.shopee.com.br/2qVauVKBCe",
     "campanha": "",
     "modo": "tema"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/2qVauVKBCe",
+   "link_em": "2026-10-24T12:07:08.673504-04:00",
+   "link_views": 857
   },
   {
    "id": "18070093358773661",
@@ -1398,7 +1402,7 @@
    "texto": "PESSOAS QUE...: ainda guardam a caixinha e a mídia física do primeiro videogame deviam ganhar um certificado de apego emocional. Eu prefiro desapegar do que juntar poeira na estante.",
    "quando": "2026-10-24T11:37:08.777095-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T11:37:08.777095-04:00"
+   "viral_chk": "2026-10-24T12:07:08.673504-04:00"
   }
  ],
  "respondidos": [
@@ -3881,7 +3885,9 @@
   "17986888482111410",
   "17994765903028937",
   "18492539422129760",
-  "17911977465556432"
+  "17911977465556432",
+  "18118238716989195",
+  "18171171556471567"
  ],
  "hashes": [
   "2edce8b75b92113d3a6c054b3392b162",
@@ -4369,20 +4375,12 @@
   "7d86b8a707": 1,
   "e91d8c9298": 1,
   "e88a9c136f": 1,
-  "b2ae2aab3c": 1
+  "b2ae2aab3c": 1,
+  "8d1907fee6": 1,
+  "3b60f55f71": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "qual é o clássico da sua região?",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "profundidade dramática que ninguém esperava de um desenho sobre carros",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse trânsito aí foi feito para testar a paciência de todo mundo",
    "p": "concorda",
@@ -4522,6 +4520,16 @@
    "t": "esse bordao iconico já entrega toda a velocidade da pista",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "É tipo coleção, né? Mas eu sou mais desapego kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa big box era um pedaço de ouro na estante msm kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -4879,6 +4887,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-24T10:07:08.654095-04:00"
+  },
+  "18125674366919531": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-24T12:07:08.673504-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -5389,28 +5402,6 @@
   }
  ],
  "aberturas_post": {
-  "17951473839312879": [
-   "sistema ta dificil",
-   "peso na balanca",
-   "quando as ideias",
-   "artigo novo no",
-   "poxa doi de",
-   "ainda tem sim",
-   "isso faz sentido",
-   "essa sinceridade um",
-   "tem mas tem",
-   "cruzar a fronteira",
-   "parece que virou",
-   "o cansaco ta",
-   "separar homem de",
-   "justo demais paz",
-   "pelo menos poupa",
-   "a preguica de",
-   "faz sentido quem",
-   "pesado mas o",
-   "triste realidade mas",
-   "boa pelo menos"
-  ],
   "18031016114857476": [
    "xadrez e otimo",
    "esse nome e",
@@ -5679,6 +5670,10 @@
   "18145537618587912": [
    "esse transito ai",
    "sigla misteriosa que"
+  ],
+  "18070093358773661": [
+   "e tipo colecao",
+   "essa big box"
   ]
  },
  "shopee_checada": "2026-10-24|1",
@@ -5869,7 +5864,8 @@
   "22497157097": "2026-10-23T22:07:07.470859-04:00",
   "49115507870": "2026-10-24T07:07:11.005998-04:00",
   "58260267697": "2026-10-24T07:07:11.005998-04:00",
-  "26838479652": "2026-10-24T10:07:08.654095-04:00"
+  "26838479652": "2026-10-24T10:07:08.654095-04:00",
+  "41979297366": "2026-10-24T12:07:08.673504-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
