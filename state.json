@@ -30,7 +30,8 @@
    "13:58",
    "15:33",
    "16:55",
-   "17:51"
+   "17:51",
+   "19:39"
   ],
   "produtos_feitos": 2,
   "respostas": 41,
@@ -50,24 +51,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18101720819560610",
-   "insp": "54dc948734",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: quem muda de cidade quase nunca sente falta do lugar em si, sente falta da época em que a vida era mais simples. Tanto que quando você volta pra visitar, dá três dias e já bate o desespero pra ir embora.",
-   "quando": "2026-10-18T22:07:08.224959-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 779,
-    "likes": 16,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 1,
-    "shares": 1,
-    "em": "2026-10-23"
-   },
-   "viral_chk": "2026-10-19T16:37:08.056698-04:00"
-  },
   {
    "id": "18104599913363054",
    "insp": "a998017f2f",
@@ -1337,6 +1320,14 @@
    "link": "",
    "texto": "SEM MENTIR: qual foi a maior gafe que você já mandou no grupo da família por engano",
    "quando": "2026-10-23T18:07:09.008856-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17936082702401534",
+   "insp": "e1ce0fd268",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a pira com o Relâmpago McQueen é nostalgia ou vocês realmente acham que o carro é tudo isso?",
+   "quando": "2026-10-23T20:07:07.385722-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3775,7 +3766,6 @@
   "18089623169680296"
  ],
  "hashes": [
-  "4ad75506bd6a1935940e270d8e60914f",
   "0fc9f9abec4227b4063a0dd73d0f37ba",
   "d641cc0119ba1a9cf6d810aa78c0bc83",
   "d88ece3c1749023b4d679fa9386bb59e",
@@ -3974,7 +3964,8 @@
   "d395b1f3a150de5742131def8e7c5732",
   "b92902465bfb221a0b3e4b676c88c2d9",
   "075afe4804339a44ddba9f501c8883c0",
-  "ebe4ef7fa5166c5d751f861aa7113f78"
+  "ebe4ef7fa5166c5d751f861aa7113f78",
+  "1017d7c0b176debacf7b733fc89bf563"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4231,7 +4222,8 @@
   "bd449a65bb": 1792777050.5337672,
   "c201aa73c5": 1792778846.8173857,
   "876494bf5b": 1792789682.5346763,
-  "e1d097044c": 1792793252.6973994
+  "e1d097044c": 1792793252.6973994,
+  "e1ce0fd268": 1792800450.0255358
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
