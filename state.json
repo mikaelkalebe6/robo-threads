@@ -29,7 +29,7 @@
    "16:59"
   ],
   "produtos_feitos": 2,
-  "respostas": 47,
+  "respostas": 52,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
@@ -43,7 +43,8 @@
    "18357940078223066": 9,
    "17962475325229174": 5,
    "18018918797741015": 1,
-   "18411469255089348": 5
+   "18411469255089348": 5,
+   "18137736760629371": 5
   }
  },
  "posts": [
@@ -3891,7 +3892,13 @@
   "18084402083336898",
   "18442817350181058",
   "18120790867963882",
-  "18357610222168430"
+  "18357610222168430",
+  "18173840059475454",
+  "18061363640547085",
+  "18151278922558499",
+  "18108462578577851",
+  "18133717426749577",
+  "18047177474818741"
  ],
  "hashes": [
   "ddc3821637b8b43f6974b7565c1818db",
@@ -4408,35 +4415,15 @@
   "ed3ed30ad3": 1,
   "140661fe4f": 1,
   "02235ef4b2": 1,
-  "988b5b5c66": 1
+  "988b5b5c66": 1,
+  "01af5a7598": 1,
+  "9fdb79dfb8": 1,
+  "6dc5c60c69": 1,
+  "2307989de4": 1,
+  "7adafbfcb6": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "essa lealdade toda realmente muda a perspectiva de quem assiste",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sete títulos seguidos é currículo de respeito kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse bordão já vem com som na cabeça kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse som já vem com a voz dele na cabeça kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse bordao iconico já entrega toda a velocidade da pista",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "É tipo coleção, né? Mas eu sou mais desapego kkk",
    "p": "concorda",
@@ -4559,6 +4546,31 @@
   },
   {
    "t": "era a definição exata de apelação nos fliperamas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "como consegue esse milagre",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "quem pode pode né, luxo necessário kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "investimento pesado na saúde sai mais caro q qualquer delivery kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "ver os vídeos e fazer em casa é o combo perfeito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "queria ter essa disciplina para poupar o salário",
    "p": "concorda",
    "r": 0
   }
@@ -5443,28 +5455,6 @@
   }
  ],
  "aberturas_post": {
-  "18118787687077318": [
-   "parece que o",
-   "afinidade com o",
-   "anos 90 eram",
-   "o destino agindo",
-   "pelo menos a",
-   "inaceitavel passar por",
-   "o combo professor",
-   "virar lenda depois",
-   "que situacao revoltante",
-   "professora assim deixa",
-   "professor com apelido",
-   "fernando deixou marca",
-   "ele realmente teve",
-   "lista gigante e",
-   "paixao platonica por",
-   "verdade tem professor",
-   "pessimo hein e",
-   "passar por isso",
-   "professor bom de",
-   "que bom que"
-  ],
   "18377981101209166": [
    "depende se a"
   ],
@@ -5684,6 +5674,13 @@
    "ser a cacula",
    "exclusividade garantida na",
    "era a definicao"
+  ],
+  "18137736760629371": [
+   "como consegue esse",
+   "quem pode pode",
+   "investimento pesado na",
+   "ver os videos",
+   "queria ter essa"
   ]
  },
  "shopee_checada": "2026-10-24|1",
