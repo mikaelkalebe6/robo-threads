@@ -35,7 +35,7 @@
    "20:30"
   ],
   "produtos_feitos": 3,
-  "respostas": 47,
+  "respostas": 53,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
@@ -49,7 +49,7 @@
    "18100857716402310": 9,
    "17962389900213872": 1,
    "18093983168653453": 2,
-   "17936082702401534": 6
+   "17936082702401534": 12
   }
  },
  "posts": [
@@ -3780,7 +3780,13 @@
   "18124652419718450",
   "18110926133615365",
   "17951368797317211",
-  "18078493970427549"
+  "18078493970427549",
+  "18114964433522106",
+  "18130151329857916",
+  "18079180307399367",
+  "18072350261760530",
+  "18087965186686579",
+  "18126679916306077"
  ],
  "hashes": [
   "0fc9f9abec4227b4063a0dd73d0f37ba",
@@ -4285,40 +4291,16 @@
   "77eb028d67": 1,
   "58895ac245": 1,
   "6c190fbd11": 1,
-  "6375450109": 1
+  "6375450109": 1,
+  "8fef3b1f02": 1,
+  "aa8cb9b0fc": 1,
+  "df94ea3954": 1,
+  "c128485506": 1,
+  "bf6d94e9cf": 1,
+  "bd9c735297": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "solução definitiva para evitar a enrolação",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "procurando o erro exato na linha do tempo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos já deixa o alerta de presença ativado",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem tem medo de viver perigo não sabe o que perde kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "estratégia perfeita pra conhecer o cardápio inteiro de uma vez só",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Verdade, dividir o salgado soma amor mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "mistura clássica que o mundo insiste em achar esquisita kkkk",
    "p": "concorda",
@@ -4438,6 +4420,36 @@
    "t": "ele tem um valor sentimental gigante pra muita gente mesmo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "paz e amor nas pistas faz toda a diferença kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "precisa de uma formação específica para valorizar tanto assim",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Ah eu também já me apaixonei por um carrinho kkkkkkkmmmkkkk",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "argumento irrefutável, katchow eterno",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o Mate ganha o carisma de todo mundo sem esforço",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, o McQueen tem aquele charme mágico que deixa a gente sonhando kkkk 🚗",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5553,7 +5565,13 @@
    "defendendo a taca",
    "pesado demais declarar",
    "argumento irrefutavel sete",
-   "ele tem um"
+   "ele tem um",
+   "paz e amor",
+   "precisa de uma",
+   "ah eu tambem",
+   "argumento irrefutavel katchow",
+   "o mate ganha",
+   "verdade o mcqueen"
   ]
  },
  "shopee_checada": "2026-10-23|1",
