@@ -22,10 +22,11 @@
    "08:25",
    "10:10",
    "11:20",
-   "12:38"
+   "12:38",
+   "13:44"
   ],
   "produtos_feitos": 1,
-  "respostas": 31,
+  "respostas": 33,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
@@ -36,34 +37,10 @@
    "17988790524079823": 1,
    "18065985020518186": 1,
    "18070093358773661": 2,
-   "18357940078223066": 5
+   "18357940078223066": 7
   }
  },
  "posts": [
-  {
-   "id": "18026275952872648",
-   "insp": "car_car-20261018-3",
-   "link": "",
-   "texto": "Meninos, a melhor trilha *ninguém viu.*",
-   "quando": "2026-10-19T15:07:08.541989-04:00",
-   "ia": "carrossel",
-   "estrategia": "carrossel",
-   "formato": "carrossel",
-   "formato_link": "coment",
-   "produto": "58251425003",
-   "modelo": "foto inteira com degradê (layout fundo, teste; refs. Dbn8OpJkZpB e DavW9wmkSOE rotina com foto real)",
-   "visual": "ac",
-   "link_coment": "https://s.shopee.com.br/AKbEiKP99n",
-   "metricas": {
-    "views": 316,
-    "likes": 0,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-24"
-   }
-  },
   {
    "id": "18020487191940773",
    "insp": "5a11d3ea8d",
@@ -1401,6 +1378,14 @@
    "quando": "2026-10-24T13:07:08.818984-04:00",
    "ia": "Groq openai/gpt-oss-120b",
    "viral_chk": "2026-10-24T13:07:08.818984-04:00"
+  },
+  {
+   "id": "17962475325229174",
+   "insp": "8126542588",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a paixão de adolescente que revirava o estômago ou o amor de adulto que traz paz? Qual realmente marcou mais a sua vida",
+   "quando": "2026-10-24T14:07:08.350443-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3892,10 +3877,11 @@
   "18148185148555395",
   "17992405673857201",
   "18128694551490188",
-  "17974135905179217"
+  "17974135905179217",
+  "18126394909836302",
+  "18126573026301365"
  ],
  "hashes": [
-  "e981961ab12125d16d698ed03ea714d8",
   "a4fc875f3921358e3ce35f496f8291d6",
   "e994786418473778de5f52da380bc7e8",
   "ddc3821637b8b43f6974b7565c1818db",
@@ -4094,7 +4080,8 @@
   "6b25c16140b060144d390873164bd5c8",
   "1a1f20df0f8051e714f32fd0da8e01f8",
   "b6d2483d34d9291952537358bc513cbe",
-  "123b2c3d3bc2062d4007da054e7689f5"
+  "123b2c3d3bc2062d4007da054e7689f5",
+  "ff4783a38d132ee488ec926ac8d6c4f5"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4357,7 +4344,8 @@
   "1a4df9fa8d": 1792807648.3731372,
   "5efa674a14": 1792845486.7009747,
   "fb4677367c": 1792856249.0528126,
-  "31631bee08": 1792861687.3606534
+  "31631bee08": 1792861687.3606534,
+  "8126542588": 1792865252.5994968
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4390,20 +4378,12 @@
   "796a8b7669": 1,
   "e18317f296": 1,
   "be267dfac7": 1,
-  "01848cc2dc": 1
+  "01848cc2dc": 1,
+  "d9db0f1cb2": 1,
+  "fb8aff9dc6": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "mudou de categoria completamente kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "a crocs com luzinha é o verdadeiro diferencial da idade",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "aprender o caminho dos outros antes de andar com as proprias pernas faz todo sentido",
    "p": "concorda",
@@ -4543,6 +4523,16 @@
    "t": "pegou no pulo quem inventa causo na internet",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "com certeza, o modelo muda completamente o rumo da escolha",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "economia que acaba na primeira visita na oficina kkkkkk",
+   "p": "ressalva",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5681,7 +5671,9 @@
    "esse detalhe do",
    "esse sossego da",
    "para gerar assunto",
-   "quem avisa amigo"
+   "quem avisa amigo",
+   "com certeza o",
+   "economia que acaba"
   ]
  },
  "shopee_checada": "2026-10-24|1",
