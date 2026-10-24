@@ -29,11 +29,11 @@
    "16:59"
   ],
   "produtos_feitos": 2,
-  "respostas": 52,
+  "respostas": 58,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
-   "17936082702401534": 17,
+   "17936082702401534": 18,
    "17962389900213872": 1,
    "18100857716402310": 2,
    "18164686105517451": 1,
@@ -43,8 +43,8 @@
    "18357940078223066": 9,
    "17962475325229174": 5,
    "18018918797741015": 1,
-   "18411469255089348": 5,
-   "18137736760629371": 5
+   "18411469255089348": 6,
+   "18137736760629371": 9
   }
  },
  "posts": [
@@ -3898,7 +3898,13 @@
   "18151278922558499",
   "18108462578577851",
   "18133717426749577",
-  "18047177474818741"
+  "18047177474818741",
+  "18122027678066153",
+  "18140478757622099",
+  "18401560390203540",
+  "18126293605959007",
+  "18173503807457415",
+  "18417625405086627"
  ],
  "hashes": [
   "ddc3821637b8b43f6974b7565c1818db",
@@ -4408,7 +4414,7 @@
   "807c19fc07": 1,
   "508919be52": 1,
   "8ed3c5b395": 1,
-  "5a4f6559c6": 1,
+  "5a4f6559c6": 2,
   "9db0b806e5": 1,
   "b6369b5bc5": 1,
   "8e3065f6ab": 1,
@@ -4420,40 +4426,15 @@
   "9fdb79dfb8": 1,
   "6dc5c60c69": 1,
   "2307989de4": 1,
-  "7adafbfcb6": 1
+  "7adafbfcb6": 1,
+  "b36a984a18": 1,
+  "77eb028d67": 1,
+  "7525080230": 1,
+  "f064d0819e": 1,
+  "f886805dd7": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "É tipo coleção, né? Mas eu sou mais desapego kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa big box era um pedaço de ouro na estante msm kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "infância protegida com sucesso por esse quarteto maravilhoso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parcelamento criativo que desafia a matemática kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse detalhe do imposto alivia bem o bolso msm",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse sossego da garantia conta muito mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "para gerar assunto uai, a gente gosta de ver o circo pegar fogo",
    "p": "neutra",
@@ -4571,6 +4552,36 @@
   },
   {
    "t": "queria ter essa disciplina para poupar o salário",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "propriedades organizadas mas o estômago continua mandando em tudo kkkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "corrida de carro agora entra na categoria de amizade balançando kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "quase o valor de um aluguel indo só em comida",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a dieta é a única coisa que consegue segurar essa conta kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "investimento alto na comodidade kkkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "miniatura no escritório mostra compromisso real com a causa",
    "p": "concorda",
    "r": 0
   }
@@ -5612,7 +5623,6 @@
    "metodo infalivel para"
   ],
   "17936082702401534": [
-   "o unico argumento",
    "quem tem esse",
    "marquinhos ja vem",
    "a crocs com",
@@ -5631,7 +5641,8 @@
    "esse bordao iconico",
    "infancia protegida com",
    "pegou no pulo",
-   "pura nostalgia misturada"
+   "pura nostalgia misturada",
+   "miniatura no escritorio"
   ],
   "18086406461707156": [
    "esse fusca solitario",
@@ -5673,14 +5684,19 @@
    "esse nome trazia",
    "ser a cacula",
    "exclusividade garantida na",
-   "era a definicao"
+   "era a definicao",
+   "corrida de carro"
   ],
   "18137736760629371": [
    "como consegue esse",
    "quem pode pode",
    "investimento pesado na",
    "ver os videos",
-   "queria ter essa"
+   "queria ter essa",
+   "propriedades organizadas mas",
+   "quase o valor",
+   "a dieta e",
+   "investimento alto na"
   ]
  },
  "shopee_checada": "2026-10-24|1",
