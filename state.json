@@ -25,17 +25,18 @@
    "12:38"
   ],
   "produtos_feitos": 1,
-  "respostas": 25,
+  "respostas": 31,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
-   "17936082702401534": 15,
+   "17936082702401534": 16,
    "17962389900213872": 1,
    "18100857716402310": 2,
    "18164686105517451": 1,
    "17988790524079823": 1,
    "18065985020518186": 1,
-   "18070093358773661": 2
+   "18070093358773661": 2,
+   "18357940078223066": 5
   }
  },
  "posts": [
@@ -1158,7 +1159,7 @@
    "texto": "DÚVIDA SINCERA: o que faz alguém perder o interesse na primeira conversa de app?",
    "quando": "2026-10-23T14:07:09.112396-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T13:07:08.818984-04:00",
+   "viral_chk": "2026-10-24T13:37:09.113516-04:00",
    "metricas": {
     "views": 934,
     "likes": 7,
@@ -1167,7 +1168,12 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-10-24"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/7VHQfPEqBR",
+   "meme_comentado": true,
+   "meme_views": 1001,
+   "formato_link": "coment",
+   "produto": "44802190100"
   },
   {
    "id": "17908008756575278",
@@ -3880,7 +3886,13 @@
   "17911977465556432",
   "18118238716989195",
   "18171171556471567",
-  "18203502058390886"
+  "18203502058390886",
+  "18099921230561807",
+  "17964645033208138",
+  "18148185148555395",
+  "17992405673857201",
+  "18128694551490188",
+  "17974135905179217"
  ],
  "hashes": [
   "e981961ab12125d16d698ed03ea714d8",
@@ -4372,40 +4384,16 @@
   "b2ae2aab3c": 1,
   "8d1907fee6": 1,
   "3b60f55f71": 1,
-  "746b68fd25": 1
+  "746b68fd25": 1,
+  "1d06969815": 1,
+  "24f0167c2c": 1,
+  "796a8b7669": 1,
+  "e18317f296": 1,
+  "be267dfac7": 1,
+  "01848cc2dc": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "então você é a mente criativa por trás dos melhores apelidos kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "infancia raiz marcou geracoes kkkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "kkkkkkkkkkkkmmmkkkkkkk o único argumento que encerra qualquer debate",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "quem tem esse nível de certeza não aceita menos que a taça piston mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "marquinhos já vem com adesivo de fábrica kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "sigla misteriosa que rende boas teorias kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "mudou de categoria completamente kkkkkk",
    "p": "concorda",
@@ -4524,6 +4512,36 @@
   {
    "t": "infância protegida com sucesso por esse quarteto maravilhoso",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parcelamento criativo que desafia a matemática kkkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "esse detalhe do imposto alivia bem o bolso msm",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse sossego da garantia conta muito mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "para gerar assunto uai, a gente gosta de ver o circo pegar fogo",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "quem avisa amigo é mas o cheirinho de novo compensa o susto",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pegou no pulo quem inventa causo na internet",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -4887,6 +4905,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-24T12:07:08.673504-04:00"
+  },
+  "17955102678272971": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-24T13:37:09.113516-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -5397,23 +5420,6 @@
   }
  ],
  "aberturas_post": {
-  "18031016114857476": [
-   "xadrez e otimo",
-   "esse nome e",
-   "nostalgia pura da",
-   "excelente pra esquecer",
-   "esse classico nunca",
-   "a pior parte",
-   "esse constroi um",
-   "relaxar fugindo de",
-   "o kit sobrevivencia",
-   "viajem no tempo",
-   "fase 42 ja",
-   "passear a cavalo",
-   "matematica fingindo descanso",
-   "esse e tiro",
-   "esvaziar a mente"
-  ],
   "18118666177972325": [
    "que saudade boa",
    "pais achando que",
@@ -5635,7 +5641,6 @@
    "metodo infalivel para"
   ],
   "17936082702401534": [
-   "profundidade dramatica que",
    "infancia raiz marcou",
    "o unico argumento",
    "quem tem esse",
@@ -5654,7 +5659,8 @@
    "esse bordao ja",
    "esse som ja",
    "esse bordao iconico",
-   "infancia protegida com"
+   "infancia protegida com",
+   "pegou no pulo"
   ],
   "18086406461707156": [
    "esse fusca solitario",
@@ -5669,6 +5675,13 @@
   "18070093358773661": [
    "e tipo colecao",
    "essa big box"
+  ],
+  "18357940078223066": [
+   "parcelamento criativo que",
+   "esse detalhe do",
+   "esse sossego da",
+   "para gerar assunto",
+   "quem avisa amigo"
   ]
  },
  "shopee_checada": "2026-10-24|1",
@@ -5860,7 +5873,8 @@
   "49115507870": "2026-10-24T07:07:11.005998-04:00",
   "58260267697": "2026-10-24T07:07:11.005998-04:00",
   "26838479652": "2026-10-24T10:07:08.654095-04:00",
-  "41979297366": "2026-10-24T12:07:08.673504-04:00"
+  "41979297366": "2026-10-24T12:07:08.673504-04:00",
+  "44802190100": "2026-10-24T13:37:09.113516-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -5870,7 +5884,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-24",
-  "qtd": 1
+  "qtd": 2
  },
  "carrosseis_usados": [
   "car-20261010-1",
