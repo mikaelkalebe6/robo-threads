@@ -26,7 +26,7 @@
    "13:44"
   ],
   "produtos_feitos": 1,
-  "respostas": 33,
+  "respostas": 38,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
@@ -37,7 +37,8 @@
    "17988790524079823": 1,
    "18065985020518186": 1,
    "18070093358773661": 2,
-   "18357940078223066": 7
+   "18357940078223066": 8,
+   "17962475325229174": 4
   }
  },
  "posts": [
@@ -3879,7 +3880,12 @@
   "18128694551490188",
   "17974135905179217",
   "18126394909836302",
-  "18126573026301365"
+  "18126573026301365",
+  "17965826055196272",
+  "18116044609839658",
+  "18022883981937740",
+  "18125576894474441",
+  "18014608967969507"
  ],
  "hashes": [
   "a4fc875f3921358e3ce35f496f8291d6",
@@ -4380,35 +4386,15 @@
   "be267dfac7": 1,
   "01848cc2dc": 1,
   "d9db0f1cb2": 1,
-  "fb8aff9dc6": 1
+  "fb8aff9dc6": 1,
+  "f15807b8c5": 1,
+  "ae28140d1a": 1,
+  "922f5ac6bd": 1,
+  "807c19fc07": 1,
+  "508919be52": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "aprender o caminho dos outros antes de andar com as proprias pernas faz todo sentido",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "bateu o olho e já julgou tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "boa parte da conversa interna sai alta sem a gente perceber kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "investimento pesado na felicidade alheia kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "daqui a pouco precisa contratar um detetive particular antes do primeiro encontro rs",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "esse nome de batismo intimista pega muito bem",
    "p": "concorda",
@@ -4533,6 +4519,31 @@
    "t": "economia que acaba na primeira visita na oficina kkkkkk",
    "p": "ressalva",
    "r": 2
+  },
+  {
+   "t": "pesado mas difícil discordar de tanta sinceridade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paz de espírito é tudo mesmo daqui pra frente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "zerado no placar então, seguindo firme na paz",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "nada supera a calmaria de um amor maduro msm",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pagar a prestação com o dinheiro da gasolina seria o sonho de todo motorista kkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5410,20 +5421,6 @@
   }
  ],
  "aberturas_post": {
-  "18118666177972325": [
-   "que saudade boa",
-   "pais achando que",
-   "preciso saber imediatamente",
-   "pai raiz demais",
-   "tchu e otimo",
-   "familia nao tem",
-   "crueldade de familia",
-   "socorro criatividade zero",
-   "o tipo de",
-   "preciso saber a",
-   "economia drastica de",
-   "economia de letras"
-  ],
   "18119586661952960": [
    "essa e pesada",
    "essa ai faz",
@@ -5673,7 +5670,14 @@
    "para gerar assunto",
    "quem avisa amigo",
    "com certeza o",
-   "economia que acaba"
+   "economia que acaba",
+   "pagar a prestacao"
+  ],
+  "17962475325229174": [
+   "pesado mas dificil",
+   "paz de espirito",
+   "zerado no placar",
+   "nada supera a"
   ]
  },
  "shopee_checada": "2026-10-24|1",
