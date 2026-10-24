@@ -32,10 +32,11 @@
    "16:55",
    "17:51",
    "19:39",
-   "20:30"
+   "20:30",
+   "21:16"
   ],
   "produtos_feitos": 3,
-  "respostas": 53,
+  "respostas": 56,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
@@ -49,33 +50,10 @@
    "18100857716402310": 9,
    "17962389900213872": 1,
    "18093983168653453": 2,
-   "17936082702401534": 12
+   "17936082702401534": 15
   }
  },
  "posts": [
-  {
-   "id": "18119761514287385",
-   "insp": "3d5b6c562f",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: A pior parte de ser adulto? Não ter mais férias de julho. Isso ou aquilo: férias de julho ou maratona de séries?",
-   "quando": "2026-10-19T09:07:09.584273-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-19T16:37:08.056698-04:00",
-   "link_coment": "https://s.shopee.com.br/4B0qI45CVO",
-   "meme_comentado": true,
-   "meme_views": 1003,
-   "formato_link": "coment",
-   "produto": "20298142088",
-   "metricas": {
-    "views": 1080,
-    "likes": 4,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-23"
-   }
-  },
   {
    "id": "18037493759655949",
    "insp": "video_5e65e31744",
@@ -1339,6 +1317,14 @@
     "campanha": "",
     "modo": "mesmo"
    }
+  },
+  {
+   "id": "18086406461707156",
+   "insp": "ba30bb89b0",
+   "link": "",
+   "texto": "ME CONTA: na cidade de vocês todo carro caindo aos pedaços também tem apelido famoso ou é só na minha região?",
+   "quando": "2026-10-23T21:37:07.114778-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3786,10 +3772,13 @@
   "18079180307399367",
   "18072350261760530",
   "18087965186686579",
-  "18126679916306077"
+  "18126679916306077",
+  "17956805235317729",
+  "18027810239879462",
+  "17915273979538697",
+  "18079686878391296"
  ],
  "hashes": [
-  "0fc9f9abec4227b4063a0dd73d0f37ba",
   "d641cc0119ba1a9cf6d810aa78c0bc83",
   "d88ece3c1749023b4d679fa9386bb59e",
   "f06cfd8bd6daeb806fe1417fcd35845f",
@@ -3988,7 +3977,8 @@
   "b92902465bfb221a0b3e4b676c88c2d9",
   "075afe4804339a44ddba9f501c8883c0",
   "ebe4ef7fa5166c5d751f861aa7113f78",
-  "1017d7c0b176debacf7b733fc89bf563"
+  "1017d7c0b176debacf7b733fc89bf563",
+  "1b20e5eb93ecf5bd0e1e2c030aeab9b7"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4246,7 +4236,8 @@
   "c201aa73c5": 1792778846.8173857,
   "876494bf5b": 1792789682.5346763,
   "e1d097044c": 1792793252.6973994,
-  "e1ce0fd268": 1792800450.0255358
+  "e1ce0fd268": 1792800450.0255358,
+  "ba30bb89b0": 1792805884.0814035
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4297,25 +4288,13 @@
   "df94ea3954": 1,
   "c128485506": 1,
   "bf6d94e9cf": 1,
-  "bd9c735297": 1
+  "bd9c735297": 1,
+  "417b49e6ba": 1,
+  "29ed2d5ee5": 1,
+  "ed897374d9": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "mistura clássica que o mundo insiste em achar esquisita kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Kkkkkkkkkkkkkkkkkkkkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "já começa cortando o intermediário kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa encenação toda cansa mesmo e afasta todo mundo",
    "p": "concorda",
@@ -4450,6 +4429,21 @@
    "t": "Verdade, o McQueen tem aquele charme mágico que deixa a gente sonhando kkkk 🚗",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "essa cena quebra o coração de qualquer um mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "argumento direto ao ponto e difícil de contestar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa história de bastidor muda totalmente a perspectiva da homenagem",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5571,7 +5565,10 @@
    "ah eu tambem",
    "argumento irrefutavel katchow",
    "o mate ganha",
-   "verdade o mcqueen"
+   "verdade o mcqueen",
+   "essa cena quebra",
+   "argumento direto ao",
+   "essa historia de"
   ]
  },
  "shopee_checada": "2026-10-23|1",
