@@ -28,7 +28,7 @@
    "15:43"
   ],
   "produtos_feitos": 2,
-  "respostas": 42,
+  "respostas": 47,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
@@ -41,7 +41,8 @@
    "18070093358773661": 2,
    "18357940078223066": 9,
    "17962475325229174": 5,
-   "18018918797741015": 1
+   "18018918797741015": 1,
+   "18411469255089348": 5
   }
  },
  "posts": [
@@ -1366,7 +1367,7 @@
    "estrategia": "produto_video",
    "formato_link": "resp",
    "produto": "23494286604",
-   "link_pendente": true,
+   "link_pendente": false,
    "modo_produto": "parecido",
    "prod_dados": {
     "itemId": "23494286604",
@@ -1379,7 +1380,10 @@
     "offerLink": "https://s.shopee.com.br/1BPprABiz",
     "campanha": "",
     "modo": "parecido"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/1BPprABiz",
+   "link_em": "2026-10-24T16:37:07.570580-04:00",
+   "link_views": 0
   },
   {
    "id": "18411469255089348",
@@ -3890,7 +3894,13 @@
   "18090605300676840",
   "17951142822317227",
   "17884428222523080",
-  "18119939242765016"
+  "18119939242765016",
+  "18342369559278965",
+  "18128969935864774",
+  "18084402083336898",
+  "18442817350181058",
+  "18120790867963882",
+  "18357610222168430"
  ],
  "hashes": [
   "e994786418473778de5f52da380bc7e8",
@@ -4401,35 +4411,15 @@
   "8ed3c5b395": 1,
   "5a4f6559c6": 1,
   "9db0b806e5": 1,
-  "b6369b5bc5": 1
+  "b6369b5bc5": 1,
+  "8e3065f6ab": 1,
+  "ed3ed30ad3": 1,
+  "140661fe4f": 1,
+  "02235ef4b2": 1,
+  "988b5b5c66": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "marquinhos tem seus fieis defensores em qualquer epoca",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "impossivel não render a simpatia desse carro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse grito de guerra entrega demais a paixão pelo carro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "argumento forte demais para refutar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "subindo o nível das pistas com muita imponência uai",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa lealdade toda realmente muda a perspectiva de quem assiste",
    "p": "concorda",
@@ -4554,6 +4544,31 @@
    "t": "pura nostalgia misturada com carinho mesmo kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "amizade verdadeira é isso, abrir mão do encanador principal por amor à paz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse nome trazia tensão imediata para qualquer fliperama",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ser a caçula nos videogames exigia muita paciência e resiliência",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exclusividade garantida na marra",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "era a definição exata de apelação nos fliperamas",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4921,6 +4936,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-24T13:37:09.113516-04:00"
+  },
+  "18148754410560007": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-24T16:37:07.570580-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -5431,12 +5451,6 @@
   }
  ],
  "aberturas_post": {
-  "17964565467250557": [
-   "dez reais hoje",
-   "eterno jovem ate",
-   "dinheiro some antes",
-   "gasolina premium e"
-  ],
   "18118787687077318": [
    "parece que o",
    "afinidade com o",
@@ -5671,6 +5685,13 @@
   ],
   "18018918797741015": [
    "salva demais a"
+  ],
+  "18411469255089348": [
+   "amizade verdadeira e",
+   "esse nome trazia",
+   "ser a cacula",
+   "exclusividade garantida na",
+   "era a definicao"
   ]
  },
  "shopee_checada": "2026-10-24|1",
@@ -5863,7 +5884,8 @@
   "58260267697": "2026-10-24T07:07:11.005998-04:00",
   "26838479652": "2026-10-24T10:07:08.654095-04:00",
   "41979297366": "2026-10-24T12:07:08.673504-04:00",
-  "44802190100": "2026-10-24T13:37:09.113516-04:00"
+  "44802190100": "2026-10-24T13:37:09.113516-04:00",
+  "23494286604": "2026-10-24T16:37:07.570580-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
