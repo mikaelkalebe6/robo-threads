@@ -20,14 +20,16 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 12,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
-   "17936082702401534": 1,
+   "17936082702401534": 4,
    "17962389900213872": 1,
-   "18100857716402310": 1,
-   "18164686105517451": 1
+   "18100857716402310": 2,
+   "18164686105517451": 1,
+   "17988790524079823": 1,
+   "18065985020518186": 1
   }
  },
  "posts": [
@@ -1112,7 +1114,7 @@
    "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
    "quando": "2026-10-23T08:37:08.812722-04:00",
    "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-24T07:07:11.005998-04:00",
+   "viral_chk": "2026-10-24T07:37:08.775338-04:00",
    "metricas": {
     "views": 814,
     "likes": 26,
@@ -1130,7 +1132,7 @@
    "texto": "DÚVIDA SINCERA: mais alguém foge pro banheiro da festa só pra ter cinco minutos de silêncio olhando o celular?",
    "quando": "2026-10-23T09:37:09.886310-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T07:07:11.005998-04:00",
+   "viral_chk": "2026-10-24T07:37:08.775338-04:00",
    "metricas": {
     "views": 93,
     "likes": 4,
@@ -1186,7 +1188,7 @@
    "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
    "quando": "2026-10-23T12:37:08.808842-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T07:07:11.005998-04:00",
+   "viral_chk": "2026-10-24T07:37:08.775338-04:00",
    "metricas": {
     "views": 347,
     "likes": 8,
@@ -1227,7 +1229,7 @@
    "texto": "DÚVIDA SINCERA: o que faz alguém perder o interesse na primeira conversa de app?",
    "quando": "2026-10-23T14:07:09.112396-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T07:07:11.005998-04:00",
+   "viral_chk": "2026-10-24T07:37:08.775338-04:00",
    "metricas": {
     "views": 934,
     "likes": 7,
@@ -1289,7 +1291,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T07:07:11.005998-04:00"
+   "viral_chk": "2026-10-24T07:37:08.775338-04:00"
   },
   {
    "id": "18093983168653453",
@@ -1307,7 +1309,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T07:07:11.005998-04:00"
+   "viral_chk": "2026-10-24T07:37:08.775338-04:00"
   },
   {
    "id": "17936082702401534",
@@ -1386,7 +1388,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T07:07:11.005998-04:00"
+   "viral_chk": "2026-10-24T07:37:08.775338-04:00"
   },
   {
    "id": "18145537618587912",
@@ -1404,7 +1406,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T07:07:11.005998-04:00"
+   "viral_chk": "2026-10-24T07:37:08.775338-04:00"
   }
  ],
  "respondidos": [
@@ -3871,7 +3873,13 @@
   "18129029719641231",
   "18099987761535769",
   "18481574215114772",
-  "18475384552138085"
+  "18475384552138085",
+  "17948743401347329",
+  "18360099772217004",
+  "17992759530098904",
+  "18083812322709183",
+  "17889169524477528",
+  "18138148777648684"
  ],
  "hashes": [
   "d88ece3c1749023b4d679fa9386bb59e",
@@ -4341,42 +4349,16 @@
   "cdaacb9a40": 1,
   "eedc98fbe0": 1,
   "49735a2579": 1,
-  "1f1e8afefa": 1,
-  "aa62b9fc89": 1,
-  "aa49188347": 1
+  "1f1e8afefa": 2,
+  "aa62b9fc89": 2,
+  "aa49188347": 1,
+  "2fe46d92f0": 1,
+  "f4d84f478c": 1,
+  "b759385f22": 1,
+  "b73e596c27": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "tem fã clube oficial para sustentar essa fama",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "filme que marcou gerações e continua entregando tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "defendendo a taça com unhas e dentes kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pesado demais declarar o óbito espiritual por causa do relâmpago kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "argumento irrefutável, sete tatus brilhantes na estante",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ele tem um valor sentimental gigante pra muita gente mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "paz e amor nas pistas faz toda a diferença kkk",
    "p": "concorda",
@@ -4494,6 +4476,36 @@
   },
   {
    "t": "boa parte da conversa interna sai alta sem a gente perceber kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "investimento pesado na felicidade alheia kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "daqui a pouco precisa contratar um detetive particular antes do primeiro encontro rs",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse nome de batismo intimista pega muito bem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "atalho péssimo para matar qualquer assunto logo no começo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "referência clássica que entrega toda a inspiração do filme",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "passou da hora de rever para tirar a prova kkk",
    "p": "concorda",
    "r": 1
   }
@@ -5578,7 +5590,8 @@
    "pelo menos ja",
    "quem tem medo",
    "coragem pura em",
-   "estrategia de defesa"
+   "estrategia de defesa",
+   "daqui a pouco"
   ],
   "18133177114765373": [
    "nivel hardcore de",
@@ -5586,7 +5599,8 @@
   ],
   "17988790524079823": [
    "estrategia perfeita pra",
-   "verdade dividir o"
+   "verdade dividir o",
+   "investimento pesado na"
   ],
   "18164686105517451": [
    "mistura classica que",
@@ -5604,7 +5618,8 @@
    "robozinho programado espanta",
    "cobranca antes do",
    "o silencio do",
-   "bateu o olho"
+   "bateu o olho",
+   "atalho pessimo para"
   ],
   "17962389900213872": [
    "a paz de",
@@ -5615,9 +5630,6 @@
    "metodo infalivel para"
   ],
   "17936082702401534": [
-   "filme que marcou",
-   "defendendo a taca",
-   "pesado demais declarar",
    "argumento irrefutavel sete",
    "ele tem um",
    "paz e amor",
@@ -5634,7 +5646,10 @@
    "o unico argumento",
    "quem tem esse",
    "marquinhos ja vem",
-   "a crocs com"
+   "a crocs com",
+   "esse nome de",
+   "referencia classica que",
+   "passou da hora"
   ],
   "18086406461707156": [
    "esse fusca solitario",
