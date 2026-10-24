@@ -20,7 +20,8 @@
   ],
   "feitos": [
    "08:25",
-   "10:10"
+   "10:10",
+   "11:20"
   ],
   "produtos_feitos": 1,
   "respostas": 22,
@@ -36,24 +37,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18044381618821643",
-   "insp": "112111ad3e",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: a gente tem frescura demais com bicho em casa. Tem um bicho morando na minha cozinha há semanas e agora virou questão de orgulho ver quem aguenta mais.",
-   "quando": "2026-10-19T13:07:08.272228-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-20T11:07:10.963888-04:00",
-   "metricas": {
-    "views": 883,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-24"
-   }
-  },
   {
    "id": "18284931982288268",
    "insp": "d4f6b1be43",
@@ -1150,7 +1133,7 @@
    "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
    "quando": "2026-10-23T12:37:08.808842-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T11:07:07.653778-04:00",
+   "viral_chk": "2026-10-24T11:37:08.777095-04:00",
    "metricas": {
     "views": 347,
     "likes": 8,
@@ -1191,7 +1174,7 @@
    "texto": "DÚVIDA SINCERA: o que faz alguém perder o interesse na primeira conversa de app?",
    "quando": "2026-10-23T14:07:09.112396-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T11:07:07.653778-04:00",
+   "viral_chk": "2026-10-24T11:37:08.777095-04:00",
    "metricas": {
     "views": 934,
     "likes": 7,
@@ -1256,7 +1239,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T11:07:07.653778-04:00"
+   "viral_chk": "2026-10-24T11:37:08.777095-04:00"
   },
   {
    "id": "18093983168653453",
@@ -1274,7 +1257,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T11:07:07.653778-04:00"
+   "viral_chk": "2026-10-24T11:37:08.777095-04:00"
   },
   {
    "id": "17936082702401534",
@@ -1353,7 +1336,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T11:07:07.653778-04:00"
+   "viral_chk": "2026-10-24T11:37:08.777095-04:00"
   },
   {
    "id": "18145537618587912",
@@ -1371,7 +1354,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T11:07:07.653778-04:00"
+   "viral_chk": "2026-10-24T11:37:08.777095-04:00"
   },
   {
    "id": "17955172134277759",
@@ -1380,7 +1363,7 @@
    "texto": "Gastei uma grana numa viagem elaborada e no fim meu namorado só lembra do dia que a gente ficou preso na chuva pescando sem sinal no celular. Experiência simples ganha de luxo todo dia",
    "quando": "2026-10-24T08:37:07.797981-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T11:07:07.653778-04:00"
+   "viral_chk": "2026-10-24T11:37:08.777095-04:00"
   },
   {
    "id": "17989226381872651",
@@ -1407,6 +1390,15 @@
     "campanha": "",
     "modo": "tema"
    }
+  },
+  {
+   "id": "18070093358773661",
+   "insp": "fb4677367c",
+   "link": "",
+   "texto": "PESSOAS QUE...: ainda guardam a caixinha e a mídia física do primeiro videogame deviam ganhar um certificado de apego emocional. Eu prefiro desapegar do que juntar poeira na estante.",
+   "quando": "2026-10-24T11:37:08.777095-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-24T11:37:08.777095-04:00"
   }
  ],
  "respondidos": [
@@ -3892,7 +3884,6 @@
   "17911977465556432"
  ],
  "hashes": [
-  "f06cfd8bd6daeb806fe1417fcd35845f",
   "2edce8b75b92113d3a6c054b3392b162",
   "e981961ab12125d16d698ed03ea714d8",
   "a4fc875f3921358e3ce35f496f8291d6",
@@ -4091,7 +4082,8 @@
   "1017d7c0b176debacf7b733fc89bf563",
   "1b20e5eb93ecf5bd0e1e2c030aeab9b7",
   "6b25c16140b060144d390873164bd5c8",
-  "1a1f20df0f8051e714f32fd0da8e01f8"
+  "1a1f20df0f8051e714f32fd0da8e01f8",
+  "b6d2483d34d9291952537358bc513cbe"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4352,7 +4344,8 @@
   "e1ce0fd268": 1792800450.0255358,
   "ba30bb89b0": 1792805884.0814035,
   "1a4df9fa8d": 1792807648.3731372,
-  "5efa674a14": 1792845486.7009747
+  "5efa674a14": 1792845486.7009747,
+  "fb4677367c": 1792856249.0528126
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
