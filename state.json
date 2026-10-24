@@ -25,7 +25,8 @@
    "12:38",
    "13:44",
    "14:49",
-   "15:43"
+   "15:43",
+   "16:59"
   ],
   "produtos_feitos": 2,
   "respostas": 47,
@@ -46,24 +47,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17961312879212472",
-   "insp": "2f5da7a997",
-   "link": "",
-   "texto": "SEJAM SINCEROS: com quantos anos uma criança deveria ganhar o primeiro celular?\n\nPra mim, qualquer idade antes dos 12 anos é loucura dos pais.",
-   "quando": "2026-10-19T18:07:07.632170-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 967,
-    "likes": 8,
-    "replies": 17,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-24"
-   },
-   "viral_chk": "2026-10-20T11:07:10.963888-04:00"
-  },
   {
    "id": "18002807181007550",
    "insp": "17f68f2d68",
@@ -1392,6 +1375,14 @@
    "texto": "DÚVIDA SINCERA: qual personagem de jogo era motivo de briga feia se alguém escolhesse antes de você? Pra mim a amizade balançava na hora.",
    "quando": "2026-10-24T16:07:07.165741-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18137736760629371",
+   "insp": "a1c2ae306e",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: quanto do salário de vocês vai embora só com comida por aplicativo no fim do mês?",
+   "quando": "2026-10-24T17:07:08.809660-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3903,7 +3894,6 @@
   "18357610222168430"
  ],
  "hashes": [
-  "e994786418473778de5f52da380bc7e8",
   "ddc3821637b8b43f6974b7565c1818db",
   "51d047d8e532aa14973f2a2d58d057f9",
   "f3b44bc7b4b91707ffc69155720af6ab",
@@ -4102,7 +4092,8 @@
   "b6d2483d34d9291952537358bc513cbe",
   "123b2c3d3bc2062d4007da054e7689f5",
   "ff4783a38d132ee488ec926ac8d6c4f5",
-  "0e9e007245a7a412f564b4f70c9f4628"
+  "0e9e007245a7a412f564b4f70c9f4628",
+  "a05e29d090036acd3592416e65835f6b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4367,7 +4358,8 @@
   "fb4677367c": 1792856249.0528126,
   "31631bee08": 1792861687.3606534,
   "8126542588": 1792865252.5994968,
-  "23052490c4": 1792872469.8408012
+  "23052490c4": 1792872469.8408012,
+  "a1c2ae306e": 1792876083.525706
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
