@@ -19,14 +19,15 @@
    "19:48"
   ],
   "feitos": [
-   "08:25"
+   "08:25",
+   "10:10"
   ],
-  "produtos_feitos": 0,
-  "respostas": 21,
+  "produtos_feitos": 1,
+  "respostas": 22,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
-   "17936082702401534": 13,
+   "17936082702401534": 14,
    "17962389900213872": 1,
    "18100857716402310": 2,
    "18164686105517451": 1,
@@ -35,24 +36,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17993668416107637",
-   "insp": "5d187cad11",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: No Nordeste feriado sem forró não conta. E aí, qual é o programa obrigatório de feriado na sua cidade? 🎉",
-   "quando": "2026-10-19T12:07:08.444592-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-20T11:07:10.963888-04:00",
-   "metricas": {
-    "views": 491,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-24"
-   }
-  },
   {
    "id": "18044381618821643",
    "insp": "112111ad3e",
@@ -1167,7 +1150,7 @@
    "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
    "quando": "2026-10-23T12:37:08.808842-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T10:07:08.654095-04:00",
+   "viral_chk": "2026-10-24T10:37:08.456722-04:00",
    "metricas": {
     "views": 347,
     "likes": 8,
@@ -1208,7 +1191,7 @@
    "texto": "DÚVIDA SINCERA: o que faz alguém perder o interesse na primeira conversa de app?",
    "quando": "2026-10-23T14:07:09.112396-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T10:07:08.654095-04:00",
+   "viral_chk": "2026-10-24T10:37:08.456722-04:00",
    "metricas": {
     "views": 934,
     "likes": 7,
@@ -1273,7 +1256,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T10:07:08.654095-04:00"
+   "viral_chk": "2026-10-24T10:37:08.456722-04:00"
   },
   {
    "id": "18093983168653453",
@@ -1291,7 +1274,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T10:07:08.654095-04:00"
+   "viral_chk": "2026-10-24T10:37:08.456722-04:00"
   },
   {
    "id": "17936082702401534",
@@ -1370,7 +1353,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T10:07:08.654095-04:00"
+   "viral_chk": "2026-10-24T10:37:08.456722-04:00"
   },
   {
    "id": "18145537618587912",
@@ -1388,7 +1371,7 @@
     "shares": 0,
     "em": "2026-10-24"
    },
-   "viral_chk": "2026-10-24T10:07:08.654095-04:00"
+   "viral_chk": "2026-10-24T10:37:08.456722-04:00"
   },
   {
    "id": "17955172134277759",
@@ -1397,7 +1380,33 @@
    "texto": "Gastei uma grana numa viagem elaborada e no fim meu namorado só lembra do dia que a gente ficou preso na chuva pescando sem sinal no celular. Experiência simples ganha de luxo todo dia",
    "quando": "2026-10-24T08:37:07.797981-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T10:07:08.654095-04:00"
+   "viral_chk": "2026-10-24T10:37:08.456722-04:00"
+  },
+  {
+   "id": "17989226381872651",
+   "insp": "video_c1d72b0d73",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: eu passo a vida brigando com laço torto pra ver um vídeo desse e parecer a coisa mais simples do mundo. Com certeza na minha mão vai virar um nó cego.",
+   "quando": "2026-10-24T10:37:08.456722-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "41979297366",
+   "link_pendente": true,
+   "modo_produto": "tema",
+   "prod_dados": {
+    "itemId": "41979297366",
+    "nome": "Roupão Infantil Benévola Microfibra Plush Quentinho Macio Aveludado Fleece Menin",
+    "preco": 54.9,
+    "nota": 4.9,
+    "vendas": 557,
+    "comissao": 0.19,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mt88cengvd36e4",
+    "offerLink": "https://s.shopee.com.br/2qVauVKBCe",
+    "campanha": "",
+    "modo": "tema"
+   }
   }
  ],
  "respondidos": [
@@ -3879,7 +3888,8 @@
   "17995938465030371",
   "17986888482111410",
   "17994765903028937",
-  "18492539422129760"
+  "18492539422129760",
+  "17911977465556432"
  ],
  "hashes": [
   "f06cfd8bd6daeb806fe1417fcd35845f",
@@ -4365,15 +4375,11 @@
   "ade93da75f": 1,
   "7d86b8a707": 1,
   "e91d8c9298": 1,
-  "e88a9c136f": 1
+  "e88a9c136f": 1,
+  "b2ae2aab3c": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "esse fusca solitário resistindo bravamente no meio dos carros novos",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "qual é o clássico da sua região?",
    "p": "concorda",
@@ -4518,6 +4524,11 @@
    "t": "esse som já vem com a voz dele na cabeça kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse bordao iconico já entrega toda a velocidade da pista",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5645,7 +5656,6 @@
    "metodo infalivel para"
   ],
   "17936082702401534": [
-   "argumento direto ao",
    "essa historia de",
    "profundidade dramatica que",
    "infancia raiz marcou",
@@ -5664,7 +5674,8 @@
    "essa lealdade toda",
    "sete titulos seguidos",
    "esse bordao ja",
-   "esse som ja"
+   "esse som ja",
+   "esse bordao iconico"
   ],
   "18086406461707156": [
    "esse fusca solitario",
@@ -6015,6 +6026,7 @@
   "26dbbef926": "2026-10-22T19:37:09.605936-04:00",
   "79ff553bff": "2026-10-23T11:07:09.271456-04:00",
   "bd38e6c3d6": "2026-10-23T15:37:08.645351-04:00",
-  "a4f46f9560": "2026-10-23T20:37:07.815170-04:00"
+  "a4f46f9560": "2026-10-23T20:37:07.815170-04:00",
+  "c1d72b0d73": "2026-10-24T10:37:08.456722-04:00"
  }
 }
