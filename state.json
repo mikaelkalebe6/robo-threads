@@ -31,10 +31,11 @@
    "15:33",
    "16:55",
    "17:51",
-   "19:39"
+   "19:39",
+   "20:30"
   ],
-  "produtos_feitos": 2,
-  "respostas": 41,
+  "produtos_feitos": 3,
+  "respostas": 47,
   "por_post": {
    "18357290920169506": 1,
    "18078457244719478": 1,
@@ -47,28 +48,11 @@
    "18164686105517451": 3,
    "18100857716402310": 9,
    "17962389900213872": 1,
-   "18093983168653453": 2
+   "18093983168653453": 2,
+   "17936082702401534": 6
   }
  },
  "posts": [
-  {
-   "id": "18104599913363054",
-   "insp": "a998017f2f",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: marcar call pra falar algo que se resolve em duas linhas de mensagem é sacanagem. \n\nMetade do cansaço da semana vem de fingir que tá prestando atenção em reunião inútil.",
-   "quando": "2026-10-19T08:37:08.304730-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-20T08:37:08.100875-04:00",
-   "metricas": {
-    "views": 465,
-    "likes": 2,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-23"
-   }
-  },
   {
    "id": "18119761514287385",
    "insp": "3d5b6c562f",
@@ -1329,6 +1313,32 @@
    "texto": "DÚVIDA SINCERA: a pira com o Relâmpago McQueen é nostalgia ou vocês realmente acham que o carro é tudo isso?",
    "quando": "2026-10-23T20:07:07.385722-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17949278235345295",
+   "insp": "video_a4f46f9560",
+   "link": "",
+   "texto": "Descobri esse protetor para os dedos que salva na hora de mexer com coisa chata. Olha como funciona 👀",
+   "quando": "2026-10-23T20:37:07.815170-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "22497157097",
+   "link_pendente": true,
+   "modo_produto": "mesmo",
+   "prod_dados": {
+    "itemId": "22497157097",
+    "nome": "Dedeira de Latéx Descartável Pacote com 50 unidades",
+    "preco": 25.99,
+    "nota": 4.9,
+    "vendas": 7,
+    "comissao": 0.03,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lofxktc51y219b",
+    "offerLink": "https://s.shopee.com.br/80Dg8GTvvs",
+    "campanha": "",
+    "modo": "mesmo"
+   }
   }
  ],
  "respondidos": [
@@ -3763,7 +3773,14 @@
   "18123401081478274",
   "17914496232286772",
   "18159452278508296",
-  "18089623169680296"
+  "18089623169680296",
+  "18106598306178555",
+  "18132006007739815",
+  "18173938972459120",
+  "18124652419718450",
+  "18110926133615365",
+  "17951368797317211",
+  "18078493970427549"
  ],
  "hashes": [
   "0fc9f9abec4227b4063a0dd73d0f37ba",
@@ -4262,40 +4279,16 @@
   "2b8a8c5fb6": 1,
   "2634ebde31": 2,
   "505647cd28": 1,
-  "ff8a30384c": 1
+  "ff8a30384c": 1,
+  "3c6862766f": 1,
+  "d0f9f74db6": 1,
+  "77eb028d67": 1,
+  "58895ac245": 1,
+  "6c190fbd11": 1,
+  "6375450109": 1
  },
  "reservas_checadas": "2026-10-23",
  "ultimas_respostas": [
-  {
-   "t": "versão de luxo para enfeitar e versão de guerra para manusear kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "com certeza, aí a surpresa pelo menos vem sem filtro de internet",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse é o patrimônio histórico que a gente tenta apagar com sucesso kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "nível hardcore de sobrevivência social kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justiça seja feita para os dois lados kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "nesse caso o problema está resolvido na raiz",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "solução definitiva para evitar a enrolação",
    "p": "concorda",
@@ -4414,6 +4407,36 @@
   {
    "t": "método infalível para evitar o caos em família",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "tem fã clube oficial para sustentar essa fama",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "filme que marcou gerações e continua entregando tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "defendendo a taça com unhas e dentes kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pesado demais declarar o óbito espiritual por causa do relâmpago kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "argumento irrefutável, sete tatus brilhantes na estante",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ele tem um valor sentimental gigante pra muita gente mesmo",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -5257,19 +5280,6 @@
   }
  ],
  "aberturas_post": {
-  "18336797236279117": [
-   "comprar seminovo escolhido",
-   "pelo menos a",
-   "coragem e conta",
-   "justo acho que",
-   "liberdade tem seu",
-   "jeito mais facil",
-   "para quem usa",
-   "organizacao financeira faz",
-   "estrategia perfeita pra",
-   "manutencao preventiva bem",
-   "parcela cabivel e"
-  ],
   "17911189386311628": [
    "pura verdade so"
   ],
@@ -5536,6 +5546,14 @@
   "18093983168653453": [
    "perdeu o acesso",
    "metodo infalivel para"
+  ],
+  "17936082702401534": [
+   "tem fa clube",
+   "filme que marcou",
+   "defendendo a taca",
+   "pesado demais declarar",
+   "argumento irrefutavel sete",
+   "ele tem um"
   ]
  },
  "shopee_checada": "2026-10-23|1",
@@ -5871,6 +5889,7 @@
   "e2e0719234": "2026-10-22T15:07:08.290033-04:00",
   "26dbbef926": "2026-10-22T19:37:09.605936-04:00",
   "79ff553bff": "2026-10-23T11:07:09.271456-04:00",
-  "bd38e6c3d6": "2026-10-23T15:37:08.645351-04:00"
+  "bd38e6c3d6": "2026-10-23T15:37:08.645351-04:00",
+  "a4f46f9560": "2026-10-23T20:37:07.815170-04:00"
  }
 }
