@@ -24,7 +24,8 @@
    "11:20",
    "12:38",
    "13:44",
-   "14:49"
+   "14:49",
+   "15:43"
   ],
   "produtos_feitos": 2,
   "respostas": 42,
@@ -44,24 +45,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18490025323129946",
-   "insp": "7d5fd436ee",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Pedir sempre o mesmo prato demonstra falta de coragem gastronômica. Você é: 1️⃣ Sempre o mesmo 2️⃣ Sempre arrisca algo novo?",
-   "quando": "2026-10-19T17:07:09.871507-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 380,
-    "likes": 0,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-24"
-   },
-   "viral_chk": "2026-10-20T11:07:10.963888-04:00"
-  },
   {
    "id": "17961312879212472",
    "insp": "2f5da7a997",
@@ -1397,6 +1380,14 @@
     "campanha": "",
     "modo": "parecido"
    }
+  },
+  {
+   "id": "18411469255089348",
+   "insp": "23052490c4",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual personagem de jogo era motivo de briga feia se alguém escolhesse antes de você? Pra mim a amizade balançava na hora.",
+   "quando": "2026-10-24T16:07:07.165741-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -3902,7 +3893,6 @@
   "18119939242765016"
  ],
  "hashes": [
-  "a4fc875f3921358e3ce35f496f8291d6",
   "e994786418473778de5f52da380bc7e8",
   "ddc3821637b8b43f6974b7565c1818db",
   "51d047d8e532aa14973f2a2d58d057f9",
@@ -4101,7 +4091,8 @@
   "1a1f20df0f8051e714f32fd0da8e01f8",
   "b6d2483d34d9291952537358bc513cbe",
   "123b2c3d3bc2062d4007da054e7689f5",
-  "ff4783a38d132ee488ec926ac8d6c4f5"
+  "ff4783a38d132ee488ec926ac8d6c4f5",
+  "0e9e007245a7a412f564b4f70c9f4628"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4365,7 +4356,8 @@
   "5efa674a14": 1792845486.7009747,
   "fb4677367c": 1792856249.0528126,
   "31631bee08": 1792861687.3606534,
-  "8126542588": 1792865252.5994968
+  "8126542588": 1792865252.5994968,
+  "23052490c4": 1792872469.8408012
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
