@@ -31,7 +31,7 @@
    "21:08"
   ],
   "produtos_feitos": 3,
-  "respostas": 59,
+  "respostas": 60,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
@@ -46,7 +46,8 @@
    "17962475325229174": 5,
    "18018918797741015": 1,
    "18411469255089348": 6,
-   "18137736760629371": 10
+   "18137736760629371": 10,
+   "18117071021029585": 1
   }
  },
  "posts": [
@@ -3894,7 +3895,8 @@
   "18126293605959007",
   "18173503807457415",
   "18417625405086627",
-  "18414611089083383"
+  "18414611089083383",
+  "18194955808404059"
  ],
  "hashes": [
   "51d047d8e532aa14973f2a2d58d057f9",
@@ -4423,15 +4425,11 @@
   "7525080230": 1,
   "f064d0819e": 1,
   "f886805dd7": 1,
-  "ecee09b7cb": 1
+  "ecee09b7cb": 1,
+  "23e31d90a2": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "quem avisa amigo é mas o cheirinho de novo compensa o susto",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "pegou no pulo quem inventa causo na internet",
    "p": "neutra",
@@ -4575,6 +4573,11 @@
   {
    "t": "quase zero, um monge da economia",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "precisou de muita energia para aguentar esse dia",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -5458,9 +5461,6 @@
   }
  ],
  "aberturas_post": {
-  "18377981101209166": [
-   "depende se a"
-  ],
   "18110886974268536": [
    "estrategia perfeita so",
    "paz e tranquilidade",
@@ -5690,6 +5690,9 @@
    "a dieta e",
    "investimento alto na",
    "quase zero um"
+  ],
+  "18117071021029585": [
+   "precisou de muita"
   ]
  },
  "shopee_checada": "2026-10-24|1",
