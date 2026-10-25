@@ -23,13 +23,13 @@
    "15:41"
   ],
   "produtos_feitos": 1,
-  "respostas": 17,
+  "respostas": 18,
   "por_post": {
    "18137736760629371": 1,
    "18411469255089348": 1,
    "17962475325229174": 1,
    "17989226381872651": 1,
-   "18212638690322633": 8,
+   "18212638690322633": 9,
    "18638459773049565": 2,
    "18133394125751407": 3
   }
@@ -3961,7 +3961,8 @@
   "18077811572441646",
   "18149211052565388",
   "18125114602949265",
-  "18361356070220996"
+  "18361356070220996",
+  "17906909133571382"
  ],
  "hashes": [
   "31ff36337e441b9af0d5f20df8e227ea",
@@ -4453,15 +4454,11 @@
   "9dfd4909d0": 1,
   "7038564887": 1,
   "f781d58505": 1,
-  "5a4f6559c6": 1
+  "5a4f6559c6": 1,
+  "26e8fc6bb7": 1
  },
  "reservas_checadas": "2026-10-25",
  "ultimas_respostas": [
-  {
-   "t": "investimento pesado na saúde sai mais caro q qualquer delivery kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "ver os vídeos e fazer em casa é o combo perfeito",
    "p": "concorda",
@@ -4606,6 +4603,11 @@
    "t": "a pressao do zero km faz estrago na cabeça de qualquer um kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "buque financeiro multifuncional kkkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5721,7 +5723,8 @@
    "diplomacia financeira no",
    "a sinceridade veio",
    "estrategia de sobrevivencia",
-   "flores duram uns"
+   "flores duram uns",
+   "buque financeiro multifuncional"
   ],
   "18638459773049565": [
    "historia boa e",
