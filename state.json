@@ -22,13 +22,14 @@
    "13:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 12,
+  "respostas": 14,
   "por_post": {
    "18137736760629371": 1,
    "18411469255089348": 1,
    "17962475325229174": 1,
    "17989226381872651": 1,
-   "18212638690322633": 8
+   "18212638690322633": 8,
+   "18638459773049565": 2
   }
  },
  "posts": [
@@ -3983,7 +3984,9 @@
   "18117812897280019",
   "18121964975072588",
   "18033784940852678",
-  "17943001905365400"
+  "17943001905365400",
+  "18120085810755183",
+  "18077811572441646"
  ],
  "hashes": [
   "aece3aafa1dd599e3af52ead674b2974",
@@ -4469,20 +4472,12 @@
   "62684a64a5": 1,
   "c34c12a50e": 1,
   "64ffa46a67": 1,
-  "e07c465b12": 1
+  "e07c465b12": 1,
+  "5d3d7f7e27": 1,
+  "9dfd4909d0": 1
  },
  "reservas_checadas": "2026-10-25",
  "ultimas_respostas": [
-  {
-   "t": "ser a caçula nos videogames exigia muita paciência e resiliência",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "exclusividade garantida na marra",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "era a definição exata de apelação nos fliperamas",
    "p": "concorda",
@@ -4620,6 +4615,16 @@
   },
   {
    "t": "flores duram uns dias e o boleto chega todo mês",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "história boa e papo em dia salvam qualquer final de semana",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "papo bom e conversa sem pressa fazem toda a diferença",
    "p": "concorda",
    "r": 0
   }
@@ -5524,12 +5529,6 @@
   }
  ],
  "aberturas_post": {
-  "18024018605928455": [
-   "agenda aberta para",
-   "uma hora de",
-   "essa gelada ai",
-   "vc quer tirar"
-  ],
   "18109950803579099": [
    "justo no dia"
   ],
@@ -5747,6 +5746,10 @@
    "a sinceridade veio",
    "estrategia de sobrevivencia",
    "flores duram uns"
+  ],
+  "18638459773049565": [
+   "historia boa e",
+   "papo bom e"
   ]
  },
  "shopee_checada": "2026-10-25|1",
