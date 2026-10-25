@@ -21,13 +21,13 @@
    "11:37"
   ],
   "produtos_feitos": 1,
-  "respostas": 10,
+  "respostas": 12,
   "por_post": {
    "18137736760629371": 1,
    "18411469255089348": 1,
    "17962475325229174": 1,
    "17989226381872651": 1,
-   "18212638690322633": 6
+   "18212638690322633": 8
   }
  },
  "posts": [
@@ -3987,7 +3987,9 @@
   "18634519273018098",
   "18349594711267372",
   "18117812897280019",
-  "18121964975072588"
+  "18121964975072588",
+  "18033784940852678",
+  "17943001905365400"
  ],
  "hashes": [
   "f3b44bc7b4b91707ffc69155720af6ab",
@@ -4470,20 +4472,12 @@
   "0af1701b18": 1,
   "ee846058f5": 1,
   "62684a64a5": 1,
-  "c34c12a50e": 1
+  "c34c12a50e": 1,
+  "64ffa46a67": 1,
+  "e07c465b12": 1
  },
  "reservas_checadas": "2026-10-25",
  "ultimas_respostas": [
-  {
-   "t": "amizade verdadeira é isso, abrir mão do encanador principal por amor à paz",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse nome trazia tensão imediata para qualquer fliperama",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "ser a caçula nos videogames exigia muita paciência e resiliência",
    "p": "concorda",
@@ -4623,6 +4617,16 @@
    "t": "a sinceridade veio forte por aqui kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "estratégia de sobrevivência que chama",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "flores duram uns dias e o boleto chega todo mês",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5740,7 +5744,9 @@
    "quem sou eu",
    "o combo da",
    "diplomacia financeira no",
-   "a sinceridade veio"
+   "a sinceridade veio",
+   "estrategia de sobrevivencia",
+   "flores duram uns"
   ]
  },
  "shopee_checada": "2026-10-25|1",
