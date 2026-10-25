@@ -26,9 +26,10 @@
    "13:44",
    "14:49",
    "15:43",
-   "16:59"
+   "16:59",
+   "19:48"
   ],
-  "produtos_feitos": 2,
+  "produtos_feitos": 3,
   "respostas": 59,
   "por_post": {
    "18145537618587912": 1,
@@ -48,29 +49,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18002807181007550",
-   "insp": "17f68f2d68",
-   "link": "",
-   "texto": "ME CONTA: qual é aquela comida típica da sua terra que o resto do país simplesmente ignora mas merecia o mundo?",
-   "quando": "2026-10-19T18:37:09.044235-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 6053,
-    "likes": 20,
-    "replies": 162,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-10-24"
-   },
-   "viral_chk": "2026-10-20T07:07:09.630325-04:00",
-   "link_coment": "https://s.shopee.com.br/8V9r2w1rwI",
-   "meme_comentado": true,
-   "meme_views": 3966,
-   "formato_link": "coment",
-   "produto": "23199020709"
-  },
   {
    "id": "18105158870007125",
    "insp": "car_car-20261018-5",
@@ -1384,6 +1362,32 @@
    "texto": "DÚVIDA SINCERA: quanto do salário de vocês vai embora só com comida por aplicativo no fim do mês?",
    "quando": "2026-10-24T17:07:08.809660-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18108647939154569",
+   "insp": "video_0bb691a2c0",
+   "link": "",
+   "texto": "Descobri esse removedor de calos e confesso que salva muito nos dias de correria. Olha como funciona 👀",
+   "quando": "2026-10-24T20:07:09.829087-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "53115718588",
+   "link_pendente": true,
+   "modo_produto": "mesmo",
+   "prod_dados": {
+    "itemId": "53115718588",
+    "nome": "Removedor De Calos , Arquivo De Pedicure 2 Em 1 Substituível , Ferramenta De Cui",
+    "preco": 19.04,
+    "nota": 4.7,
+    "vendas": 509,
+    "comissao": 0.07,
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-msr9c4fba6tlf5",
+    "offerLink": "https://s.shopee.com.br/3VlIKpNnwJ",
+    "campanha": "",
+    "modo": "mesmo"
+   }
   }
  ],
  "respondidos": [
@@ -6045,6 +6049,7 @@
   "bd38e6c3d6": "2026-10-23T15:37:08.645351-04:00",
   "a4f46f9560": "2026-10-23T20:37:07.815170-04:00",
   "c1d72b0d73": "2026-10-24T10:37:08.456722-04:00",
-  "f47f94d0c1": "2026-10-24T15:07:08.195561-04:00"
+  "f47f94d0c1": "2026-10-24T15:07:08.195561-04:00",
+  "0bb691a2c0": "2026-10-24T20:07:09.829087-04:00"
  }
 }
