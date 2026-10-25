@@ -18,7 +18,8 @@
   ],
   "feitos": [
    "10:23",
-   "11:37"
+   "11:37",
+   "13:58"
   ],
   "produtos_feitos": 1,
   "respostas": 12,
@@ -31,24 +32,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18113824634031941",
-   "insp": "ef980ef49f",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Encontro bom é quando a gente esquece de olhar o relógio.  \nVocê prefere:  \n🟡 Bate‑papo que faz o tempo desaparecer  \n⚪️ Maratona de série sem pausa",
-   "quando": "2026-10-20T08:07:08.244097-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-21T07:37:08.826625-04:00",
-   "metricas": {
-    "views": 272,
-    "likes": 2,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-25"
-   }
-  },
   {
    "id": "17965002132220251",
    "insp": "video_56d0dfd231",
@@ -1452,6 +1435,14 @@
     "campanha": "",
     "modo": "parecido"
    }
+  },
+  {
+   "id": "18638459773049565",
+   "insp": "6e31bac1d7",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: a melhor resenha de fim de semana é com quem tem mais de quarenta anos e assunto em dia.",
+   "quando": "2026-10-25T14:07:07.540655-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3992,7 +3983,6 @@
   "17943001905365400"
  ],
  "hashes": [
-  "f3b44bc7b4b91707ffc69155720af6ab",
   "aece3aafa1dd599e3af52ead674b2974",
   "31ff36337e441b9af0d5f20df8e227ea",
   "8fff55645ddedede79f9d7558c4d5347",
@@ -4191,7 +4181,8 @@
   "0e9e007245a7a412f564b4f70c9f4628",
   "a05e29d090036acd3592416e65835f6b",
   "226f35882ab1295a795a1068adb3c73a",
-  "bb14a73e3a29800600e3530cd177b901"
+  "bb14a73e3a29800600e3530cd177b901",
+  "fef1d3b343c0ad1dbcedee8ea6bb8c2f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4459,7 +4450,8 @@
   "23052490c4": 1792872469.8408012,
   "a1c2ae306e": 1792876083.525706,
   "c312178704": 1792894087.5275266,
-  "60aee01b67": 1792939046.8483899
+  "60aee01b67": 1792939046.8483899,
+  "6e31bac1d7": 1792951653.7694635
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
