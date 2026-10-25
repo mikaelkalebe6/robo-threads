@@ -31,7 +31,7 @@
    "21:08"
   ],
   "produtos_feitos": 3,
-  "respostas": 60,
+  "respostas": 62,
   "por_post": {
    "18145537618587912": 1,
    "18086406461707156": 1,
@@ -46,8 +46,8 @@
    "17962475325229174": 5,
    "18018918797741015": 1,
    "18411469255089348": 6,
-   "18137736760629371": 10,
-   "18117071021029585": 1
+   "18137736760629371": 11,
+   "18117071021029585": 2
   }
  },
  "posts": [
@@ -3896,7 +3896,9 @@
   "18173503807457415",
   "18417625405086627",
   "18414611089083383",
-  "18194955808404059"
+  "18194955808404059",
+  "18179086438446672",
+  "18452806108121436"
  ],
  "hashes": [
   "51d047d8e532aa14973f2a2d58d057f9",
@@ -4426,20 +4428,11 @@
   "f064d0819e": 1,
   "f886805dd7": 1,
   "ecee09b7cb": 1,
-  "23e31d90a2": 1
+  "23e31d90a2": 2,
+  "dd9269ced5": 1
  },
  "reservas_checadas": "2026-10-24",
  "ultimas_respostas": [
-  {
-   "t": "pegou no pulo quem inventa causo na internet",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "com certeza, o modelo muda completamente o rumo da escolha",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "economia que acaba na primeira visita na oficina kkkkkk",
    "p": "ressalva",
@@ -4577,6 +4570,16 @@
   },
   {
    "t": "precisou de muita energia para aguentar esse dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ritual sagrado de sobrevivência",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse tipo de programa sai mais caro do que o delivery de um mês inteiro",
    "p": "concorda",
    "r": 0
   }
@@ -5689,10 +5692,12 @@
    "quase o valor",
    "a dieta e",
    "investimento alto na",
-   "quase zero um"
+   "quase zero um",
+   "esse tipo de"
   ],
   "18117071021029585": [
-   "precisou de muita"
+   "precisou de muita",
+   "ritual sagrado de"
   ]
  },
  "shopee_checada": "2026-10-24|1",
