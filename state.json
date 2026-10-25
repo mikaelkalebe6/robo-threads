@@ -27,7 +27,8 @@
    "14:49",
    "15:43",
    "16:59",
-   "19:48"
+   "19:48",
+   "21:08"
   ],
   "produtos_feitos": 3,
   "respostas": 59,
@@ -49,30 +50,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18105158870007125",
-   "insp": "car_car-20261018-5",
-   "link": "",
-   "texto": "Mão de motoqueiro no verão: *torrada e suada.*",
-   "quando": "2026-10-19T20:07:07.981408-04:00",
-   "ia": "carrossel",
-   "estrategia": "carrossel",
-   "formato": "carrossel",
-   "formato_link": "coment",
-   "produto": "22094428849",
-   "modelo": "vitrine na capa (layout produto, teste; ref. DYUzwlokWpa objeto com pílula vermelha) + manchete",
-   "visual": "vm",
-   "link_coment": "https://s.shopee.com.br/5LCkUTyX15",
-   "metricas": {
-    "views": 251,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-24"
-   }
-  },
   {
    "id": "18132535141688846",
    "insp": "bf80c2c0a0",
@@ -1388,6 +1365,14 @@
     "campanha": "",
     "modo": "mesmo"
    }
+  },
+  {
+   "id": "18117071021029585",
+   "insp": "c312178704",
+   "link": "",
+   "texto": "SEM MENTIR: quem nunca passou uns minutos respirando fundo no banheiro da firma antes de voltar pra mesa que atire a primeira pedra.",
+   "quando": "2026-10-24T22:07:07.813419-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3912,7 +3897,6 @@
   "18414611089083383"
  ],
  "hashes": [
-  "ddc3821637b8b43f6974b7565c1818db",
   "51d047d8e532aa14973f2a2d58d057f9",
   "f3b44bc7b4b91707ffc69155720af6ab",
   "aece3aafa1dd599e3af52ead674b2974",
@@ -4111,7 +4095,8 @@
   "123b2c3d3bc2062d4007da054e7689f5",
   "ff4783a38d132ee488ec926ac8d6c4f5",
   "0e9e007245a7a412f564b4f70c9f4628",
-  "a05e29d090036acd3592416e65835f6b"
+  "a05e29d090036acd3592416e65835f6b",
+  "226f35882ab1295a795a1068adb3c73a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4377,7 +4362,8 @@
   "31631bee08": 1792861687.3606534,
   "8126542588": 1792865252.5994968,
   "23052490c4": 1792872469.8408012,
-  "a1c2ae306e": 1792876083.525706
+  "a1c2ae306e": 1792876083.525706,
+  "c312178704": 1792894087.5275266
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
