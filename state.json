@@ -19,7 +19,8 @@
   "feitos": [
    "10:23",
    "11:37",
-   "13:58"
+   "13:58",
+   "15:41"
   ],
   "produtos_feitos": 1,
   "respostas": 14,
@@ -33,44 +34,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17965002132220251",
-   "insp": "video_56d0dfd231",
-   "link": "",
-   "texto": "Cansada de ver o cabelo grisalho perder o brilho e ficar opaco. Descobri esse produto para dar um efeito de luzes douradas nos fios que resolve muito. Olha como funciona 👀",
-   "quando": "2026-10-20T09:07:08.281985-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "22794532849",
-   "link_pendente": false,
-   "modo_produto": "mesmo",
-   "prod_dados": {
-    "itemId": "22794532849",
-    "nome": "Nouê Coloração Glow 60g Camuflagem De Brancos E Luminosidade Bases 3 a 10 Profis",
-    "preco": 125.05,
-    "nota": 4.8,
-    "vendas": 64,
-    "comissao": 0.17,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfsa9fqicflz6e",
-    "offerLink": "https://s.shopee.com.br/4fx8c5DmVY",
-    "campanha": "",
-    "modo": "mesmo"
-   },
-   "metricas": {
-    "views": 356,
-    "likes": 2,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-25"
-   },
-   "link_coment": "https://s.shopee.com.br/4fx8c5DmVY",
-   "link_em": "2026-10-21T07:07:11.384114-04:00",
-   "link_views": 0
-  },
   {
    "id": "17898254706673038",
    "insp": "87c4f84770",
@@ -1446,6 +1409,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: a melhor resenha de fim de semana é com quem tem mais de quarenta anos e assunto em dia.",
    "quando": "2026-10-25T14:07:07.540655-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18133394125751407",
+   "insp": "30cb84bf04",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: qual carro vocês compraram e se arrependeram já na primeira semana de uso",
+   "quando": "2026-10-25T16:07:09.222425-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3989,7 +3960,6 @@
   "18077811572441646"
  ],
  "hashes": [
-  "aece3aafa1dd599e3af52ead674b2974",
   "31ff36337e441b9af0d5f20df8e227ea",
   "8fff55645ddedede79f9d7558c4d5347",
   "0c139e89b4d50fdff0fa5341a639e5bc",
@@ -4188,7 +4158,8 @@
   "a05e29d090036acd3592416e65835f6b",
   "226f35882ab1295a795a1068adb3c73a",
   "bb14a73e3a29800600e3530cd177b901",
-  "fef1d3b343c0ad1dbcedee8ea6bb8c2f"
+  "fef1d3b343c0ad1dbcedee8ea6bb8c2f",
+  "841839fd5c82bf67a3e42bcd0769fe15"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4457,7 +4428,8 @@
   "a1c2ae306e": 1792876083.525706,
   "c312178704": 1792894087.5275266,
   "60aee01b67": 1792939046.8483899,
-  "6e31bac1d7": 1792951653.7694635
+  "6e31bac1d7": 1792951653.7694635,
+  "30cb84bf04": 1792958842.2132401
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
