@@ -24,14 +24,14 @@
    "17:17"
   ],
   "produtos_feitos": 2,
-  "respostas": 18,
+  "respostas": 19,
   "por_post": {
    "18137736760629371": 1,
    "18411469255089348": 1,
    "17962475325229174": 1,
    "17989226381872651": 1,
    "18212638690322633": 9,
-   "18638459773049565": 2,
+   "18638459773049565": 3,
    "18133394125751407": 3
   }
  },
@@ -3966,7 +3966,8 @@
   "18149211052565388",
   "18125114602949265",
   "18361356070220996",
-  "17906909133571382"
+  "17906909133571382",
+  "18139325395633930"
  ],
  "hashes": [
   "31ff36337e441b9af0d5f20df8e227ea",
@@ -4459,15 +4460,11 @@
   "7038564887": 1,
   "f781d58505": 1,
   "5a4f6559c6": 1,
-  "26e8fc6bb7": 1
+  "26e8fc6bb7": 1,
+  "6f2b4267d9": 1
  },
  "reservas_checadas": "2026-10-25",
  "ultimas_respostas": [
-  {
-   "t": "ver os vídeos e fazer em casa é o combo perfeito",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "queria ter essa disciplina para poupar o salário",
    "p": "concorda",
@@ -4612,6 +4609,11 @@
    "t": "buque financeiro multifuncional kkkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "papo leve e sincero muda tudo mesmo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5732,7 +5734,8 @@
   ],
   "18638459773049565": [
    "historia boa e",
-   "papo bom e"
+   "papo bom e",
+   "papo leve e"
   ],
   "18133394125751407": [
    "pelo menos a",
