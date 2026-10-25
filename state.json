@@ -23,14 +23,15 @@
    "15:41"
   ],
   "produtos_feitos": 1,
-  "respostas": 14,
+  "respostas": 17,
   "por_post": {
    "18137736760629371": 1,
    "18411469255089348": 1,
    "17962475325229174": 1,
    "17989226381872651": 1,
    "18212638690322633": 8,
-   "18638459773049565": 2
+   "18638459773049565": 2,
+   "18133394125751407": 3
   }
  },
  "posts": [
@@ -3957,7 +3958,10 @@
   "18033784940852678",
   "17943001905365400",
   "18120085810755183",
-  "18077811572441646"
+  "18077811572441646",
+  "18149211052565388",
+  "18125114602949265",
+  "18361356070220996"
  ],
  "hashes": [
   "31ff36337e441b9af0d5f20df8e227ea",
@@ -4446,25 +4450,13 @@
   "64ffa46a67": 1,
   "e07c465b12": 1,
   "5d3d7f7e27": 1,
-  "9dfd4909d0": 1
+  "9dfd4909d0": 1,
+  "7038564887": 1,
+  "f781d58505": 1,
+  "5a4f6559c6": 1
  },
  "reservas_checadas": "2026-10-25",
  "ultimas_respostas": [
-  {
-   "t": "era a definição exata de apelação nos fliperamas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "como consegue esse milagre",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "quem pode pode né, luxo necessário kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "investimento pesado na saúde sai mais caro q qualquer delivery kkk",
    "p": "concorda",
@@ -4599,6 +4591,21 @@
    "t": "papo bom e conversa sem pressa fazem toda a diferença",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "pelo menos a culpa ficou garantida para quem já não pode se defender",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse modelo é um clássico de quem gosta de emoção forte logo na primeira semana kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "a pressao do zero km faz estrago na cabeça de qualquer um kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5501,9 +5508,6 @@
   }
  ],
  "aberturas_post": {
-  "18109950803579099": [
-   "justo no dia"
-  ],
   "17908296711591608": [
    "saber o caminho"
   ],
@@ -5722,6 +5726,11 @@
   "18638459773049565": [
    "historia boa e",
    "papo bom e"
+  ],
+  "18133394125751407": [
+   "pelo menos a",
+   "esse modelo e",
+   "a pressao do"
   ]
  },
  "shopee_checada": "2026-10-25|1",
