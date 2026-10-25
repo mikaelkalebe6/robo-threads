@@ -20,9 +20,10 @@
    "10:23",
    "11:37",
    "13:58",
-   "15:41"
+   "15:41",
+   "17:17"
   ],
-  "produtos_feitos": 1,
+  "produtos_feitos": 2,
   "respostas": 18,
   "por_post": {
    "18137736760629371": 1,
@@ -35,29 +36,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17898254706673038",
-   "insp": "87c4f84770",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: churrasco bom mesmo é aquele que tem pão de alho caprichado, a carne é só detalhe. 🥩",
-   "quando": "2026-10-20T09:37:09.095840-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-21T07:07:11.384114-04:00",
-   "metricas": {
-    "views": 1075,
-    "likes": 13,
-    "replies": 19,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-25"
-   },
-   "link_coment": "https://s.shopee.com.br/4LKJgAMdjq",
-   "meme_comentado": true,
-   "meme_views": 1028,
-   "formato_link": "coment",
-   "produto": "58205929037"
-  },
   {
    "id": "18336797236279117",
    "insp": "693cca0994",
@@ -1419,6 +1397,32 @@
    "texto": "VAMOS SER HONESTOS: qual carro vocês compraram e se arrependeram já na primeira semana de uso",
    "quando": "2026-10-25T16:07:09.222425-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18062796866797092",
+   "insp": "video_903691b193",
+   "link": "",
+   "texto": "Descobri esse copo com marcador de medida e salvou meus drinks em casa. Olha como funciona 👀",
+   "quando": "2026-10-25T17:37:08.722275-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "23692977970",
+   "link_pendente": true,
+   "modo_produto": "parecido",
+   "prod_dados": {
+    "itemId": "23692977970",
+    "nome": "Geladinho Gel Fruta  com 50  P 25ml - 8 Sabores - Kiwi, Açai, Acerola, Morango, ",
+    "preco": 18.9,
+    "nota": 4.9,
+    "vendas": 59,
+    "comissao": 0.03,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-luhrhzxs6sm820",
+    "offerLink": "https://s.shopee.com.br/8KqZWLyZYw",
+    "campanha": "",
+    "modo": "parecido"
+   }
   }
  ],
  "respondidos": [
@@ -6143,6 +6147,7 @@
   "c1d72b0d73": "2026-10-24T10:37:08.456722-04:00",
   "f47f94d0c1": "2026-10-24T15:07:08.195561-04:00",
   "0bb691a2c0": "2026-10-24T20:07:09.829087-04:00",
-  "cfbc736577": "2026-10-25T11:37:09.004675-04:00"
+  "cfbc736577": "2026-10-25T11:37:09.004675-04:00",
+  "903691b193": "2026-10-25T17:37:08.722275-04:00"
  }
 }
