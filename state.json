@@ -17,37 +17,20 @@
    "19:48"
   ],
   "feitos": [
-   "10:23"
+   "10:23",
+   "11:37"
   ],
-  "produtos_feitos": 0,
-  "respostas": 9,
+  "produtos_feitos": 1,
+  "respostas": 10,
   "por_post": {
    "18137736760629371": 1,
    "18411469255089348": 1,
    "17962475325229174": 1,
    "17989226381872651": 1,
-   "18212638690322633": 5
+   "18212638690322633": 6
   }
  },
  "posts": [
-  {
-   "id": "17964431688237038",
-   "insp": "88bd5be843",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: isolante térmico ou fita crepe para segurar peça solta no painel?",
-   "quando": "2026-10-19T22:07:09.170010-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 357,
-    "likes": 0,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-25"
-   },
-   "viral_chk": "2026-10-20T10:37:08.620860-04:00"
-  },
   {
    "id": "18113824634031941",
    "insp": "ef980ef49f",
@@ -1443,6 +1426,32 @@
    "quando": "2026-10-25T10:37:09.066835-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "viral_chk": "2026-10-25T10:37:09.066835-04:00"
+  },
+  {
+   "id": "17890576989618583",
+   "insp": "video_cfbc736577",
+   "link": "",
+   "texto": "Descobri esse cortador de grama a bateria e salvou o meu fim de semana no quintal. Olha como funciona 👀",
+   "quando": "2026-10-25T11:37:09.004675-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "22495186935",
+   "link_pendente": true,
+   "modo_produto": "parecido",
+   "prod_dados": {
+    "itemId": "22495186935",
+    "nome": "20 dentes Discos de corrente para roçadeiras Motosserras a gasolina Cortadores d",
+    "preco": 29.59,
+    "nota": 4.9,
+    "vendas": 684,
+    "comissao": 0.13,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-muha7v1w6dxe7f",
+    "offerLink": "https://s.shopee.com.br/3VlJMhLGlL",
+    "campanha": "",
+    "modo": "parecido"
+   }
   }
  ],
  "respondidos": [
@@ -3977,7 +3986,8 @@
   "17869765641659041",
   "18634519273018098",
   "18349594711267372",
-  "18117812897280019"
+  "18117812897280019",
+  "18121964975072588"
  ],
  "hashes": [
   "f3b44bc7b4b91707ffc69155720af6ab",
@@ -4459,15 +4469,11 @@
   "ed417bd876": 1,
   "0af1701b18": 1,
   "ee846058f5": 1,
-  "62684a64a5": 1
+  "62684a64a5": 1,
+  "c34c12a50e": 1
  },
  "reservas_checadas": "2026-10-25",
  "ultimas_respostas": [
-  {
-   "t": "pura nostalgia misturada com carinho mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "amizade verdadeira é isso, abrir mão do encanador principal por amor à paz",
    "p": "concorda",
@@ -4612,6 +4618,11 @@
    "t": "diplomacia financeira no nível máximo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "a sinceridade veio forte por aqui kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5728,7 +5739,8 @@
    "resolver ate resolve",
    "quem sou eu",
    "o combo da",
-   "diplomacia financeira no"
+   "diplomacia financeira no",
+   "a sinceridade veio"
   ]
  },
  "shopee_checada": "2026-10-25|1",
@@ -6136,6 +6148,7 @@
   "a4f46f9560": "2026-10-23T20:37:07.815170-04:00",
   "c1d72b0d73": "2026-10-24T10:37:08.456722-04:00",
   "f47f94d0c1": "2026-10-24T15:07:08.195561-04:00",
-  "0bb691a2c0": "2026-10-24T20:07:09.829087-04:00"
+  "0bb691a2c0": "2026-10-24T20:07:09.829087-04:00",
+  "cfbc736577": "2026-10-25T11:37:09.004675-04:00"
  }
 }
