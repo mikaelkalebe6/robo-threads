@@ -20,12 +20,13 @@
    "10:23"
   ],
   "produtos_feitos": 0,
-  "respostas": 4,
+  "respostas": 9,
   "por_post": {
    "18137736760629371": 1,
    "18411469255089348": 1,
    "17962475325229174": 1,
-   "17989226381872651": 1
+   "17989226381872651": 1,
+   "18212638690322633": 5
   }
  },
  "posts": [
@@ -1250,7 +1251,7 @@
    "texto": "PESSOAS QUE...: ainda guardam a caixinha e a mídia física do primeiro videogame deviam ganhar um certificado de apego emocional. Eu prefiro desapegar do que juntar poeira na estante.",
    "quando": "2026-10-24T11:37:08.777095-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-25T10:37:09.066835-04:00",
+   "viral_chk": "2026-10-25T11:07:08.636124-04:00",
    "metricas": {
     "views": 746,
     "likes": 10,
@@ -1268,7 +1269,7 @@
    "texto": "DUVIDA SINCERA: zero km em 60x ou seminovo à vista? Eu já decidi, zero km.",
    "quando": "2026-10-24T13:07:08.818984-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-25T10:37:09.066835-04:00",
+   "viral_chk": "2026-10-25T11:07:08.636124-04:00",
    "metricas": {
     "views": 426,
     "likes": 2,
@@ -1295,7 +1296,7 @@
     "shares": 0,
     "em": "2026-10-25"
    },
-   "viral_chk": "2026-10-25T10:37:09.066835-04:00"
+   "viral_chk": "2026-10-25T11:07:08.636124-04:00"
   },
   {
    "id": "18018918797741015",
@@ -1351,7 +1352,12 @@
     "shares": 0,
     "em": "2026-10-25"
    },
-   "viral_chk": "2026-10-25T10:37:09.066835-04:00"
+   "viral_chk": "2026-10-25T11:07:08.636124-04:00",
+   "link_coment": "https://s.shopee.com.br/4B107rDJJb",
+   "meme_comentado": true,
+   "meme_views": 1002,
+   "formato_link": "coment",
+   "produto": "23599348005"
   },
   {
    "id": "18137736760629371",
@@ -3965,7 +3971,13 @@
   "17945239899359153",
   "17892562047683509",
   "17911442052485949",
-  "18099096920409995"
+  "18099096920409995",
+  "18598764886065771",
+  "18044559233835862",
+  "17869765641659041",
+  "18634519273018098",
+  "18349594711267372",
+  "18117812897280019"
  ],
  "hashes": [
   "f3b44bc7b4b91707ffc69155720af6ab",
@@ -4442,35 +4454,15 @@
   "_data": "2026-10-25",
   "1f1e8afefa": 1,
   "aa62b9fc89": 2,
-  "0d989ed9d3": 1
+  "0d989ed9d3": 1,
+  "dcb1a0dfd5": 1,
+  "ed417bd876": 1,
+  "0af1701b18": 1,
+  "ee846058f5": 1,
+  "62684a64a5": 1
  },
  "reservas_checadas": "2026-10-25",
  "ultimas_respostas": [
-  {
-   "t": "nada supera a calmaria de um amor maduro msm",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pagar a prestação com o dinheiro da gasolina seria o sonho de todo motorista kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "pesado carregar esse peso todo o tempo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "essa diferença de valor da um pouco de vertigem kkkkk",
-   "p": "ressalva",
-   "r": 2
-  },
-  {
-   "t": "salva demais a paciência na cozinha",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pura nostalgia misturada com carinho mesmo kkk",
    "p": "concorda",
@@ -4595,6 +4587,31 @@
    "t": "antes tarde do que nunca para dominar essa arte kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "estratégia impecável, quem tem limite é cartão kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "resolver até resolve mas o boleto não aceita pétala de pagamento",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "quem sou eu para recusar pacote completo né",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o combo da franquia é investimento de emergência, te entendo perfeitamente kkkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "diplomacia financeira no nível máximo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -4972,6 +4989,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-25T07:07:08.236675-04:00"
+  },
+  "18417326386086280": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-25T11:07:08.636124-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -5487,28 +5509,6 @@
   }
  ],
  "aberturas_post": {
-  "18343944772287252": [
-   "mauricio e forte",
-   "pelo menos desabafar",
-   "economia de tempo",
-   "paz mundial dependendo",
-   "dormir para que",
-   "essa disputa rende",
-   "separando por categorias",
-   "defesa apaixonada do",
-   "divisao cientifica do",
-   "perda de tempo",
-   "argumento irrefutavel para",
-   "e o trem",
-   "regra validada mas",
-   "verdade o pessoal",
-   "mudou tudo e",
-   "teste legal mas",
-   "exato a discussao",
-   "essa diplomacia na",
-   "pesado demais para",
-   "esse tem que"
-  ],
   "18024018605928455": [
    "agenda aberta para",
    "uma hora de",
@@ -5722,6 +5722,13 @@
   ],
   "17989226381872651": [
    "antes tarde do"
+  ],
+  "18212638690322633": [
+   "estrategia impecavel quem",
+   "resolver ate resolve",
+   "quem sou eu",
+   "o combo da",
+   "diplomacia financeira no"
   ]
  },
  "shopee_checada": "2026-10-25|1",
@@ -5975,7 +5982,8 @@
   "26838479652": "2026-10-24T10:07:08.654095-04:00",
   "41979297366": "2026-10-24T12:07:08.673504-04:00",
   "44802190100": "2026-10-24T13:37:09.113516-04:00",
-  "23494286604": "2026-10-24T16:37:07.570580-04:00"
+  "23494286604": "2026-10-24T16:37:07.570580-04:00",
+  "23599348005": "2026-10-25T11:07:08.636124-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -5985,7 +5993,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-25",
-  "qtd": 1
+  "qtd": 2
  },
  "carrosseis_usados": [
   "car-20261010-1",
