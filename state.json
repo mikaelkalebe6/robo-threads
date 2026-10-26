@@ -23,36 +23,19 @@
    "09:49",
    "12:08",
    "12:52",
-   "15:35"
+   "15:35",
+   "16:28"
   ],
-  "produtos_feitos": 1,
-  "respostas": 30,
+  "produtos_feitos": 2,
+  "respostas": 34,
   "por_post": {
    "18133394125751407": 3,
    "18153545164531054": 10,
-   "18112867718588328": 6,
-   "17915244483494376": 11
+   "18112867718588328": 7,
+   "17915244483494376": 14
   }
  },
  "posts": [
-  {
-   "id": "18031016114857476",
-   "insp": "211ca1e405",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: a gente abre aquele joguinho leve fingindo que vai treinar o raciocínio, mas só quer mesmo desligar o cérebro por dez minutos. Qual o seu jogo oficial de esvaziar a mente?",
-   "quando": "2026-10-21T11:37:09.829600-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 994,
-    "likes": 12,
-    "replies": 43,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-26"
-   },
-   "viral_chk": "2026-10-22T07:07:08.165865-04:00"
-  },
   {
    "id": "18118666177972325",
    "insp": "05099d6606",
@@ -1283,7 +1266,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T16:07:08.888672-04:00"
+   "viral_chk": "2026-10-26T16:37:08.702243-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1339,7 +1322,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T16:07:08.888672-04:00"
+   "viral_chk": "2026-10-26T16:37:08.702243-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1348,7 +1331,7 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T16:07:08.888672-04:00"
+   "viral_chk": "2026-10-26T16:37:08.702243-04:00"
   },
   {
    "id": "17864529744696991",
@@ -1383,7 +1366,7 @@
    "texto": "SEJAM SINCEROS: quanto vai do salário de vocês só pra manter o carro rodando todo mês?",
    "quando": "2026-10-26T12:37:09.172203-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T16:07:08.888672-04:00"
+   "viral_chk": "2026-10-26T16:37:08.702243-04:00"
   },
   {
    "id": "17915244483494376",
@@ -1406,7 +1389,33 @@
    "texto": "OPINIÃO IMPOPULAR: homem de verdade tem que ter pelo, essa moda de depilação total não dá. Prefiro os naturais ou só aparadinho.",
    "quando": "2026-10-26T15:37:10.897289-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T16:07:08.888672-04:00"
+   "viral_chk": "2026-10-26T16:37:08.702243-04:00"
+  },
+  {
+   "id": "17966603040208636",
+   "insp": "video_6dee727fa0",
+   "link": "",
+   "texto": "Sempre bate aquela fome na hora do jogo e eu descobri esse snack sabor queijo que salva muito. Olha como funciona 👀",
+   "quando": "2026-10-26T16:37:08.702243-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "20026677093",
+   "link_pendente": true,
+   "modo_produto": "parecido",
+   "prod_dados": {
+    "itemId": "20026677093",
+    "nome": "Beijinho Cajuzinho Casadinho Olho de Sogra Docinho de Queijo Sabores Variados c/",
+    "preco": 11.99,
+    "nota": 4.6,
+    "vendas": 157,
+    "comissao": 0.03,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md9dncalmc6qf5",
+    "offerLink": "https://s.shopee.com.br/1W0GuWAS6S",
+    "campanha": "",
+    "modo": "parecido"
+   }
   }
  ],
  "respondidos": [
@@ -3983,7 +3992,11 @@
   "17953196331279859",
   "18169056682486777",
   "18068696789523810",
-  "18061708184538761"
+  "18061708184538761",
+  "18074627024739449",
+  "18081380414374136",
+  "17874199104638957",
+  "18080205959710615"
  ],
  "hashes": [
   "63c894bcdc7c509a7fce9401836e3b60",
@@ -4494,30 +4507,14 @@
   "e791ddd941": 1,
   "5a4f6559c6": 1,
   "49735a2579": 1,
-  "dd8f65dd04": 1
+  "dd8f65dd04": 1,
+  "9736a2e8bb": 1,
+  "ae28140d1a": 1,
+  "f0eee439e8": 1,
+  "58e8d267f7": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "esse aí bebe mais que eu num sábado de sol kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Entendo, às vezes a gente sente que virou a guardiã da família 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa frase é um clássico de sobrevivência kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "o clássico combo da ameaça com investigação nasal kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Verdade, mas a frase da mãe sempre volta, né? kkk",
    "p": "concorda",
@@ -4647,6 +4644,26 @@
    "t": "estratégia válida para garantir a janta",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse valor aí tá de parabéns, quase uma economia mágica",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sobrevivência básica em primeiro lugar sempre",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ontem mesmo já é recorde de velocidade kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "justificativa válida para qualquer situação kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5813,7 +5830,8 @@
    "e empurrar do",
    "uber e bom",
    "seis mil o",
-   "gestao financeira e"
+   "gestao financeira e",
+   "esse valor ai"
   ],
   "17915244483494376": [
    "zerada na estatistica",
@@ -5826,7 +5844,10 @@
    "respeito essa postura",
    "pelo menos a",
    "autossuficiente ate na",
-   "estrategia valida para"
+   "estrategia valida para",
+   "sobrevivencia basica em",
+   "ontem mesmo ja",
+   "justificativa valida para"
   ]
  },
  "shopee_checada": "2026-10-26|1",
@@ -6258,6 +6279,7 @@
   "cfbc736577": "2026-10-25T11:37:09.004675-04:00",
   "903691b193": "2026-10-25T17:37:08.722275-04:00",
   "5ade262d77": "2026-10-25T20:07:08.792857-04:00",
-  "f1a247bce9": "2026-10-26T10:07:11.324830-04:00"
+  "f1a247bce9": "2026-10-26T10:07:11.324830-04:00",
+  "6dee727fa0": "2026-10-26T16:37:08.702243-04:00"
  }
 }
