@@ -29,13 +29,13 @@
    "17:50"
   ],
   "produtos_feitos": 2,
-  "respostas": 36,
+  "respostas": 37,
   "por_post": {
    "18133394125751407": 3,
    "18153545164531054": 10,
    "18112867718588328": 8,
    "17915244483494376": 14,
-   "18146936569585717": 1
+   "18146936569585717": 2
   }
  },
  "posts": [
@@ -3983,7 +3983,8 @@
   "17874199104638957",
   "18080205959710615",
   "18064578668549995",
-  "17934889632409974"
+  "17934889632409974",
+  "17955502431032858"
  ],
  "hashes": [
   "7e8e8b52d65dde96b279c2cc0141c93f",
@@ -4501,15 +4502,11 @@
   "ae28140d1a": 1,
   "f0eee439e8": 1,
   "58e8d267f7": 1,
-  "1d06969815": 1
+  "1d06969815": 1,
+  "1f1e8afefa": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "essa me atingiu na alma, nem percebi q virou meu mantra",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa frase carrega um peso que a gente só entende mais velho",
    "p": "concorda",
@@ -4654,6 +4651,11 @@
    "t": "queria ter essa paz de espirito financeira kkkk",
    "p": "ressalva",
    "r": 1
+  },
+  {
+   "t": "economia que vira prejuízo em dobro na certa",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5824,7 +5826,8 @@
    "justificativa valida para"
   ],
   "18146936569585717": [
-   "parafusadeira de festival"
+   "parafusadeira de festival",
+   "economia que vira"
   ]
  },
  "shopee_checada": "2026-10-26|1",
