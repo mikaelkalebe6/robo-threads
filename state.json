@@ -22,9 +22,10 @@
    "13:58",
    "15:41",
    "17:17",
-   "18:24"
+   "18:24",
+   "19:48"
   ],
-  "produtos_feitos": 2,
+  "produtos_feitos": 3,
   "respostas": 19,
   "por_post": {
    "18137736760629371": 1,
@@ -37,44 +38,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18120269116954821",
-   "insp": "video_c63d59bcd1",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: a gente inventa qualquer desculpa só para usar um sapato bonito no mercado de tênis e moletom 👠✨",
-   "quando": "2026-10-20T19:07:07.586774-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "22993669426",
-   "link_pendente": false,
-   "modo_produto": "tema",
-   "prod_dados": {
-    "itemId": "22993669426",
-    "nome": "Sapato Feminino Scarpin Bico Fino Verniz Bellamore Salto Taça 9,5 Madame Preto,V",
-    "preco": 69.9,
-    "nota": 4.9,
-    "vendas": 868,
-    "comissao": 0.11,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgphik5dqj2fcc",
-    "offerLink": "https://s.shopee.com.br/9pfFQpz0iW",
-    "campanha": "",
-    "modo": "tema"
-   },
-   "metricas": {
-    "views": 438,
-    "likes": 14,
-    "replies": 4,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 2,
-    "em": "2026-10-25"
-   },
-   "link_coment": "https://s.shopee.com.br/9pfFQpz0iW",
-   "link_em": "2026-10-21T13:07:09.415738-04:00",
-   "link_views": 0
-  },
   {
    "id": "18119575696958300",
    "insp": "179d442b7d",
@@ -1414,6 +1377,32 @@
    "texto": "VAMOS SER HONESTOS: o rodapé do fogão ou o canto superior do box do banheiro revela muito mais sobre a limpeza da casa do que a sala arrumada para receber visita.",
    "quando": "2026-10-25T18:37:07.662425-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17980994907120938",
+   "insp": "video_5ade262d77",
+   "link": "",
+   "texto": "Cansada de perder as coisas na bolsa e achar tudo embolado. Descobri esse organizador que salva qualquer viagem e olha como funciona 👀",
+   "quando": "2026-10-25T20:07:08.792857-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "22719293954",
+   "link_pendente": true,
+   "modo_produto": "parecido",
+   "prod_dados": {
+    "itemId": "22719293954",
+    "nome": "Kit 7 Pecas Bolsa Organizadoras Para Mala Roupas Bagagem Viagem",
+    "preco": 28.72,
+    "nota": 4.9,
+    "vendas": 4899,
+    "comissao": 0.11,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lungd923nxqs3c",
+    "offerLink": "https://s.shopee.com.br/AUv4GdRBIe",
+    "campanha": "",
+    "modo": "parecido"
+   }
   }
  ],
  "respondidos": [
@@ -6143,6 +6132,7 @@
   "f47f94d0c1": "2026-10-24T15:07:08.195561-04:00",
   "0bb691a2c0": "2026-10-24T20:07:09.829087-04:00",
   "cfbc736577": "2026-10-25T11:37:09.004675-04:00",
-  "903691b193": "2026-10-25T17:37:08.722275-04:00"
+  "903691b193": "2026-10-25T17:37:08.722275-04:00",
+  "5ade262d77": "2026-10-25T20:07:08.792857-04:00"
  }
 }
