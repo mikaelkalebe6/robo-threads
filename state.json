@@ -25,12 +25,12 @@
    "12:52"
   ],
   "produtos_feitos": 1,
-  "respostas": 25,
+  "respostas": 27,
   "por_post": {
    "18133394125751407": 3,
    "18153545164531054": 9,
-   "18112867718588328": 5,
-   "17915244483494376": 8
+   "18112867718588328": 6,
+   "17915244483494376": 9
   }
  },
  "posts": [
@@ -1264,7 +1264,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T14:07:09.406467-04:00"
+   "viral_chk": "2026-10-26T14:37:08.176843-04:00"
   },
   {
    "id": "18062796866797092",
@@ -1320,7 +1320,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T14:07:09.406467-04:00"
+   "viral_chk": "2026-10-26T14:37:08.176843-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1376,7 +1376,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T14:07:09.406467-04:00"
+   "viral_chk": "2026-10-26T14:37:08.176843-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1385,7 +1385,7 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T14:07:09.406467-04:00"
+   "viral_chk": "2026-10-26T14:37:08.176843-04:00"
   },
   {
    "id": "17864529744696991",
@@ -1420,7 +1420,7 @@
    "texto": "SEJAM SINCEROS: quanto vai do salário de vocês só pra manter o carro rodando todo mês?",
    "quando": "2026-10-26T12:37:09.172203-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T14:07:09.406467-04:00"
+   "viral_chk": "2026-10-26T14:37:08.176843-04:00"
   },
   {
    "id": "17915244483494376",
@@ -1429,7 +1429,7 @@
    "texto": "ME CONTA: já aceitou um encontro só porque a fome bateu? 🍽️",
    "quando": "2026-10-26T13:07:10.868404-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-26T14:07:09.406467-04:00"
+   "viral_chk": "2026-10-26T14:37:08.176843-04:00"
   }
  ],
  "respondidos": [
@@ -4001,7 +4001,9 @@
   "18093892766191676",
   "18091565486214731",
   "18117786376966459",
-  "18123691492936661"
+  "18123691492936661",
+  "18111388595090357",
+  "17953196331279859"
  ],
  "hashes": [
   "3c5c7cf05984c1aefaaa17b19cd5619b",
@@ -4506,20 +4508,12 @@
   "811ce2af28": 1,
   "596e15dfe1": 1,
   "6bc5d150d8": 1,
-  "0c9b4556d0": 1
+  "0c9b4556d0": 1,
+  "b24675bab4": 1,
+  "e791ddd941": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "a pressao do zero km faz estrago na cabeça de qualquer um kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "buque financeiro multifuncional kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "papo leve e sincero muda tudo mesmo",
    "p": "concorda",
@@ -4658,6 +4652,16 @@
   {
    "t": "respeito essa postura inegociável",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "gestão financeira é ótima até o pneu furar na terça feira kkkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "pelo menos a intenção inicial era bem clara",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -5818,7 +5822,8 @@
    "entao o carro",
    "e empurrar do",
    "uber e bom",
-   "seis mil o"
+   "seis mil o",
+   "gestao financeira e"
   ],
   "17915244483494376": [
    "zerada na estatistica",
@@ -5828,7 +5833,8 @@
    "fome de muita",
    "postura firme e",
    "a caridade vai",
-   "respeito essa postura"
+   "respeito essa postura",
+   "pelo menos a"
   ]
  },
  "shopee_checada": "2026-10-26|1",
