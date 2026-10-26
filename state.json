@@ -22,56 +22,19 @@
    "08:55",
    "09:49",
    "12:08",
-   "12:52"
+   "12:52",
+   "15:35"
   ],
   "produtos_feitos": 1,
-  "respostas": 27,
+  "respostas": 28,
   "por_post": {
    "18133394125751407": 3,
    "18153545164531054": 9,
    "18112867718588328": 6,
-   "17915244483494376": 9
+   "17915244483494376": 10
   }
  },
  "posts": [
-  {
-   "id": "17913145584517227",
-   "insp": "video_c14cbec078",
-   "link": "",
-   "texto": "Cansada de cutícula ressecada que fica prendendo na roupa. Descobri essa caneta que hidrata sem lambança. Olha como funciona 👀",
-   "quando": "2026-10-21T10:37:08.667537-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "19399190201",
-   "link_pendente": false,
-   "modo_produto": "parecido",
-   "prod_dados": {
-    "itemId": "19399190201",
-    "nome": "Kit 03 Canetas Óleo Revitalizador De Cutículas Aroma Hidratante Oleoso",
-    "preco": 12.9,
-    "nota": 4.9,
-    "vendas": 2530,
-    "comissao": 0.03,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-ms479l5jiolh9d",
-    "offerLink": "https://s.shopee.com.br/qkRk8ZsSE",
-    "campanha": "",
-    "modo": "parecido"
-   },
-   "metricas": {
-    "views": 156,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-26"
-   },
-   "link_coment": "https://s.shopee.com.br/qkRk8ZsSE",
-   "link_em": "2026-10-22T07:07:08.165865-04:00",
-   "link_views": 0
-  },
   {
    "id": "18031016114857476",
    "insp": "211ca1e405",
@@ -1264,7 +1227,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T15:07:10.346631-04:00"
+   "viral_chk": "2026-10-26T15:37:10.897289-04:00"
   },
   {
    "id": "18062796866797092",
@@ -1320,7 +1283,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T15:07:10.346631-04:00"
+   "viral_chk": "2026-10-26T15:37:10.897289-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1376,7 +1339,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T15:07:10.346631-04:00"
+   "viral_chk": "2026-10-26T15:37:10.897289-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1385,7 +1348,7 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T15:07:10.346631-04:00"
+   "viral_chk": "2026-10-26T15:37:10.897289-04:00"
   },
   {
    "id": "17864529744696991",
@@ -1420,7 +1383,7 @@
    "texto": "SEJAM SINCEROS: quanto vai do salário de vocês só pra manter o carro rodando todo mês?",
    "quando": "2026-10-26T12:37:09.172203-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T15:07:10.346631-04:00"
+   "viral_chk": "2026-10-26T15:37:10.897289-04:00"
   },
   {
    "id": "17915244483494376",
@@ -1429,7 +1392,16 @@
    "texto": "ME CONTA: já aceitou um encontro só porque a fome bateu? 🍽️",
    "quando": "2026-10-26T13:07:10.868404-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-26T15:07:10.346631-04:00"
+   "viral_chk": "2026-10-26T15:37:10.897289-04:00"
+  },
+  {
+   "id": "17899714413398695",
+   "insp": "3473fe5200",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: homem de verdade tem que ter pelo, essa moda de depilação total não dá. Prefiro os naturais ou só aparadinho.",
+   "quando": "2026-10-26T15:37:10.897289-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-26T15:37:10.897289-04:00"
   }
  ],
  "respondidos": [
@@ -4003,10 +3975,10 @@
   "18117786376966459",
   "18123691492936661",
   "18111388595090357",
-  "17953196331279859"
+  "17953196331279859",
+  "18169056682486777"
  ],
  "hashes": [
-  "3c5c7cf05984c1aefaaa17b19cd5619b",
   "63c894bcdc7c509a7fce9401836e3b60",
   "d0bcfa7ea92f88947eed97176a27c669",
   "7e8e8b52d65dde96b279c2cc0141c93f",
@@ -4205,7 +4177,8 @@
   "16b2e6693607123fb1b9fedb480b2973",
   "51aff792ed037fd4ec8779bba7dc3846",
   "e468ed9bbf3a1937b59dd9f4f3538a84",
-  "055788945327645dff7e114b5ba4f840"
+  "055788945327645dff7e114b5ba4f840",
+  "8860fe03c816adb9d8edf61b95ac537d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4480,7 +4453,8 @@
   "9cb883fe04": 1792980455.4338508,
   "fc5634c543": 1793020059.729484,
   "f7a0caefa7": 1793032692.7883136,
-  "6a712ecbe9": 1793034538.0364904
+  "6a712ecbe9": 1793034538.0364904,
+  "3473fe5200": 1793043451.7551863
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4510,15 +4484,11 @@
   "6bc5d150d8": 1,
   "0c9b4556d0": 1,
   "b24675bab4": 1,
-  "e791ddd941": 1
+  "e791ddd941": 1,
+  "5a4f6559c6": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "papo leve e sincero muda tudo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "investimento de longo prazo pesadíssimo kkkkk",
    "p": "concorda",
@@ -4663,6 +4633,11 @@
    "t": "pelo menos a intenção inicial era bem clara",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "autossuficiente até na hora da janta kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5834,7 +5809,8 @@
    "postura firme e",
    "a caridade vai",
    "respeito essa postura",
-   "pelo menos a"
+   "pelo menos a",
+   "autossuficiente ate na"
   ]
  },
  "shopee_checada": "2026-10-26|1",
