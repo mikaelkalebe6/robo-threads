@@ -23,9 +23,9 @@
    "09:49"
   ],
   "produtos_feitos": 1,
-  "respostas": 10,
+  "respostas": 11,
   "por_post": {
-   "18133394125751407": 1,
+   "18133394125751407": 2,
    "18153545164531054": 9
   }
  },
@@ -1283,7 +1283,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T11:37:09.672425-04:00"
+   "viral_chk": "2026-10-26T12:07:09.081656-04:00"
   },
   {
    "id": "18133394125751407",
@@ -1301,7 +1301,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T11:37:09.672425-04:00"
+   "viral_chk": "2026-10-26T12:07:09.081656-04:00"
   },
   {
    "id": "18062796866797092",
@@ -1357,7 +1357,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T11:37:09.672425-04:00"
+   "viral_chk": "2026-10-26T12:07:09.081656-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1410,7 +1410,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T11:37:09.672425-04:00"
+   "viral_chk": "2026-10-26T12:07:09.081656-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1419,7 +1419,7 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T11:37:09.672425-04:00"
+   "viral_chk": "2026-10-26T12:07:09.081656-04:00"
   },
   {
    "id": "17864529744696991",
@@ -4002,7 +4002,8 @@
   "18106030969995155",
   "18122588966286348",
   "18115566917030746",
-  "18380861995232498"
+  "18380861995232498",
+  "18130072852831897"
  ],
  "hashes": [
   "c3a3b30d6dc4fc9245d1342151bf6b2a",
@@ -4490,15 +4491,11 @@
   "39ab804b11": 2,
   "e1a303606b": 1,
   "57a4d465ab": 1,
-  "3c020ddf0c": 1
+  "3c020ddf0c": 1,
+  "7ddf1d34e7": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "dupla dinâmica do caos e da apelação nos jogos",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "estatísticas bem sinceras mas pelo menos a gente acumula história para contar",
    "p": "neutra",
@@ -4641,6 +4638,11 @@
   },
   {
    "t": "essa sabedoria antiga sempre acha um jeito de voltar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse é tão guerreiro que o arrependimento nem tem espaço",
    "p": "concorda",
    "r": 0
   }
@@ -5784,7 +5786,8 @@
    "pelo menos a",
    "esse modelo e",
    "a pressao do",
-   "esse ai bebe"
+   "esse ai bebe",
+   "esse e tao"
   ],
   "18153545164531054": [
    "entendo as vezes",
