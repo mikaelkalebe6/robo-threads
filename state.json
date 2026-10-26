@@ -23,10 +23,10 @@
    "09:49"
   ],
   "produtos_feitos": 1,
-  "respostas": 2,
+  "respostas": 7,
   "por_post": {
    "18133394125751407": 1,
-   "18153545164531054": 1
+   "18153545164531054": 6
   }
  },
  "posts": [
@@ -1283,7 +1283,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T10:07:11.324830-04:00"
+   "viral_chk": "2026-10-26T10:37:09.413952-04:00"
   },
   {
    "id": "18133394125751407",
@@ -1301,7 +1301,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T10:07:11.324830-04:00"
+   "viral_chk": "2026-10-26T10:37:09.413952-04:00"
   },
   {
    "id": "18062796866797092",
@@ -1354,7 +1354,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T10:07:11.324830-04:00"
+   "viral_chk": "2026-10-26T10:37:09.413952-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1407,7 +1407,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T10:07:11.324830-04:00"
+   "viral_chk": "2026-10-26T10:37:09.413952-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1416,7 +1416,7 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T10:07:11.324830-04:00"
+   "viral_chk": "2026-10-26T10:37:09.413952-04:00"
   },
   {
    "id": "17864529744696991",
@@ -3991,7 +3991,12 @@
   "18159345484512757",
   "18121661287946883",
   "17911567809310269",
-  "17916257148544455"
+  "17916257148544455",
+  "18118021487101571",
+  "18164567419499426",
+  "18098174888386887",
+  "18115230131518090",
+  "18106030969995155"
  ],
  "hashes": [
   "c3a3b30d6dc4fc9245d1342151bf6b2a",
@@ -4472,35 +4477,15 @@
  "por_pessoa": {
   "_data": "2026-10-26",
   "1ab8cef708": 1,
-  "b31e4ebef4": 1
+  "b31e4ebef4": 1,
+  "c7ebd61b92": 1,
+  "3ba30b20da": 1,
+  "796a8b7669": 1,
+  "39ab804b11": 1,
+  "e1a303606b": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "a dieta é a única coisa que consegue segurar essa conta kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "investimento alto na comodidade kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "miniatura no escritório mostra compromisso real com a causa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quase zero, um monge da economia",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "precisou de muita energia para aguentar esse dia",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "ritual sagrado de sobrevivência",
    "p": "concorda",
@@ -4623,6 +4608,31 @@
   },
   {
    "t": "Entendo, às vezes a gente sente que virou a guardiã da família 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa frase é um clássico de sobrevivência kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "o clássico combo da ameaça com investigação nasal kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Verdade, mas a frase da mãe sempre volta, né? kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "tempo é o único luxo que não volta, né",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa me atingiu na alma, nem percebi q virou meu mantra",
    "p": "concorda",
    "r": 0
   }
@@ -5764,7 +5774,12 @@
    "esse ai bebe"
   ],
   "18153545164531054": [
-   "entendo as vezes"
+   "entendo as vezes",
+   "essa frase e",
+   "o classico combo",
+   "verdade mas a",
+   "tempo e o",
+   "essa me atingiu"
   ]
  },
  "shopee_checada": "2026-10-26|1",
