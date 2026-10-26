@@ -26,37 +26,20 @@
    "15:35",
    "16:28",
    "17:10",
-   "17:50"
+   "17:50",
+   "19:10"
   ],
-  "produtos_feitos": 2,
-  "respostas": 37,
+  "produtos_feitos": 3,
+  "respostas": 39,
   "por_post": {
    "18133394125751407": 3,
    "18153545164531054": 10,
    "18112867718588328": 8,
-   "17915244483494376": 14,
+   "17915244483494376": 16,
    "18146936569585717": 2
   }
  },
  "posts": [
-  {
-   "id": "17964565467250557",
-   "insp": "07943be66b",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: a juventude acaba oficialmente no dia em que você começa a olhar o consumo por litro antes de reparar na cor do carro. Beleza nenhuma compensa a humilhação no posto de gasolina.",
-   "quando": "2026-10-21T15:07:08.985917-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 125,
-    "likes": 2,
-    "replies": 8,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-26"
-   },
-   "viral_chk": "2026-10-22T07:07:08.165865-04:00"
-  },
   {
    "id": "18110725331181104",
    "insp": "video_a437b4bec2",
@@ -1401,6 +1384,32 @@
    "quando": "2026-10-26T18:07:08.028743-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "viral_chk": "2026-10-26T18:07:08.028743-04:00"
+  },
+  {
+   "id": "18107493095575809",
+   "insp": "video_ac9fb06008",
+   "link": "",
+   "texto": "Ficar sofrendo na marreta para abrir parede não dá mais. Descobri essa furadeira de impacto que faz tudo parecer manteiga, olha como funciona 👀",
+   "quando": "2026-10-26T19:37:08.492261-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "21799836330",
+   "link_pendente": true,
+   "modo_produto": "parecido",
+   "prod_dados": {
+    "itemId": "21799836330",
+    "nome": "Parafusadeira Furadeira de Impacto Com 2 Bateria Recarregável Sem Fio 48v Com Ma",
+    "preco": 115.99,
+    "nota": 4.9,
+    "vendas": 2341,
+    "comissao": 0.03,
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823oc-moipjw1uysr064",
+    "offerLink": "https://s.shopee.com.br/9fLypuhVgG",
+    "campanha": "",
+    "modo": "parecido"
+   }
   }
  ],
  "respondidos": [
@@ -3984,7 +3993,9 @@
   "18080205959710615",
   "18064578668549995",
   "17934889632409974",
-  "17955502431032858"
+  "17955502431032858",
+  "17992399748860710",
+  "18069711584779774"
  ],
  "hashes": [
   "7e8e8b52d65dde96b279c2cc0141c93f",
@@ -4503,20 +4514,12 @@
   "f0eee439e8": 1,
   "58e8d267f7": 1,
   "1d06969815": 1,
-  "1f1e8afefa": 1
+  "1f1e8afefa": 1,
+  "de18d33a61": 1,
+  "3c3b7573d9": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "essa frase carrega um peso que a gente só entende mais velho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "herança de mãe a gente assume o pacote completo né",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa sabedoria antiga sempre acha um jeito de voltar",
    "p": "concorda",
@@ -4654,6 +4657,16 @@
   },
   {
    "t": "economia que vira prejuízo em dobro na certa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "investimento de alto risco para garantir o jantar kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo demais, o foco tem que ser o papo mesmo",
    "p": "concorda",
    "r": 0
   }
@@ -5823,7 +5836,9 @@
    "estrategia valida para",
    "sobrevivencia basica em",
    "ontem mesmo ja",
-   "justificativa valida para"
+   "justificativa valida para",
+   "investimento de alto",
+   "justo demais o"
   ],
   "18146936569585717": [
    "parafusadeira de festival",
@@ -6260,6 +6275,7 @@
   "903691b193": "2026-10-25T17:37:08.722275-04:00",
   "5ade262d77": "2026-10-25T20:07:08.792857-04:00",
   "f1a247bce9": "2026-10-26T10:07:11.324830-04:00",
-  "6dee727fa0": "2026-10-26T16:37:08.702243-04:00"
+  "6dee727fa0": "2026-10-26T16:37:08.702243-04:00",
+  "ac9fb06008": "2026-10-26T19:37:08.492261-04:00"
  }
 }
