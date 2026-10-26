@@ -23,10 +23,10 @@
    "09:49"
   ],
   "produtos_feitos": 1,
-  "respostas": 7,
+  "respostas": 9,
   "por_post": {
    "18133394125751407": 1,
-   "18153545164531054": 6
+   "18153545164531054": 8
   }
  },
  "posts": [
@@ -1283,7 +1283,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T10:37:09.413952-04:00"
+   "viral_chk": "2026-10-26T11:07:10.082871-04:00"
   },
   {
    "id": "18133394125751407",
@@ -1301,7 +1301,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T10:37:09.413952-04:00"
+   "viral_chk": "2026-10-26T11:07:10.082871-04:00"
   },
   {
    "id": "18062796866797092",
@@ -1354,7 +1354,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T10:37:09.413952-04:00"
+   "viral_chk": "2026-10-26T11:07:10.082871-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1407,7 +1407,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T10:37:09.413952-04:00"
+   "viral_chk": "2026-10-26T11:07:10.082871-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1416,7 +1416,7 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T10:37:09.413952-04:00"
+   "viral_chk": "2026-10-26T11:07:10.082871-04:00"
   },
   {
    "id": "17864529744696991",
@@ -3996,7 +3996,9 @@
   "18164567419499426",
   "18098174888386887",
   "18115230131518090",
-  "18106030969995155"
+  "18106030969995155",
+  "18122588966286348",
+  "18115566917030746"
  ],
  "hashes": [
   "c3a3b30d6dc4fc9245d1342151bf6b2a",
@@ -4481,21 +4483,12 @@
   "c7ebd61b92": 1,
   "3ba30b20da": 1,
   "796a8b7669": 1,
-  "39ab804b11": 1,
-  "e1a303606b": 1
+  "39ab804b11": 2,
+  "e1a303606b": 1,
+  "57a4d465ab": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "ritual sagrado de sobrevivência",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse tipo de programa sai mais caro do que o delivery de um mês inteiro",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "silêncio absoluto para proteger os dados confidenciais kkkkk",
    "p": "concorda",
@@ -4633,6 +4626,16 @@
   },
   {
    "t": "essa me atingiu na alma, nem percebi q virou meu mantra",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa frase carrega um peso que a gente só entende mais velho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "herança de mãe a gente assume o pacote completo né",
    "p": "concorda",
    "r": 0
   }
@@ -5779,7 +5782,9 @@
    "o classico combo",
    "verdade mas a",
    "tempo e o",
-   "essa me atingiu"
+   "essa me atingiu",
+   "essa frase carrega",
+   "heranca de mae"
   ]
  },
  "shopee_checada": "2026-10-26|1",
