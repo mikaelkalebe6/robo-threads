@@ -22,9 +22,10 @@
    "08:55"
   ],
   "produtos_feitos": 0,
-  "respostas": 1,
+  "respostas": 2,
   "por_post": {
-   "18133394125751407": 1
+   "18133394125751407": 1,
+   "18153545164531054": 1
   }
  },
  "posts": [
@@ -1234,7 +1235,7 @@
    "texto": "SEJAM SINCEROS: vocês preferem ganhar flores ou aquela ajudinha no Pix do mês?",
    "quando": "2026-10-25T10:37:09.066835-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T09:07:09.983617-04:00",
+   "viral_chk": "2026-10-26T09:37:08.404480-04:00",
    "metricas": {
     "views": 691,
     "likes": 10,
@@ -1299,7 +1300,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T09:07:09.983617-04:00"
+   "viral_chk": "2026-10-26T09:37:08.404480-04:00"
   },
   {
    "id": "18133394125751407",
@@ -1317,7 +1318,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T09:07:09.983617-04:00"
+   "viral_chk": "2026-10-26T09:37:08.404480-04:00"
   },
   {
    "id": "18062796866797092",
@@ -1370,7 +1371,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T09:07:09.983617-04:00"
+   "viral_chk": "2026-10-26T09:37:08.404480-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1423,7 +1424,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T09:07:09.983617-04:00"
+   "viral_chk": "2026-10-26T09:37:08.404480-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1432,7 +1433,7 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T09:07:09.983617-04:00"
+   "viral_chk": "2026-10-26T09:37:08.404480-04:00"
   }
  ],
  "respondidos": [
@@ -3980,7 +3981,8 @@
   "18139325395633930",
   "18159345484512757",
   "18121661287946883",
-  "17911567809310269"
+  "17911567809310269",
+  "17916257148544455"
  ],
  "hashes": [
   "c3a3b30d6dc4fc9245d1342151bf6b2a",
@@ -4460,15 +4462,11 @@
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-10-26",
-  "1ab8cef708": 1
+  "1ab8cef708": 1,
+  "b31e4ebef4": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "quase o valor de um aluguel indo só em comida",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "a dieta é a única coisa que consegue segurar essa conta kkkkk",
    "p": "concorda",
@@ -4613,6 +4611,11 @@
    "t": "esse aí bebe mais que eu num sábado de sol kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "Entendo, às vezes a gente sente que virou a guardiã da família 🙏🏼",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5525,9 +5528,6 @@
   }
  ],
  "aberturas_post": {
-  "17908296711591608": [
-   "saber o caminho"
-  ],
   "18110725331181104": [
    "obrigada adorei o"
   ],
@@ -5753,6 +5753,9 @@
    "esse modelo e",
    "a pressao do",
    "esse ai bebe"
+  ],
+  "18153545164531054": [
+   "entendo as vezes"
   ]
  },
  "shopee_checada": "2026-10-26|1",
