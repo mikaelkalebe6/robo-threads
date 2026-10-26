@@ -19,9 +19,10 @@
    "19:10"
   ],
   "feitos": [
-   "08:55"
+   "08:55",
+   "09:49"
   ],
-  "produtos_feitos": 0,
+  "produtos_feitos": 1,
   "respostas": 2,
   "por_post": {
    "18133394125751407": 1,
@@ -29,24 +30,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17911189386311628",
-   "insp": "f9bb6059fa",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: tem jogo de várzea no domingo de manhã que entrega muito mais futebol e emoção do que metade da Série A. Quem acha que é só canelada nunca pisou num terrão.",
-   "quando": "2026-10-20T22:07:08.022732-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 722,
-    "likes": 9,
-    "replies": 2,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-26"
-   },
-   "viral_chk": "2026-10-21T11:07:09.391806-04:00"
-  },
   {
    "id": "17890502484684901",
    "insp": "bfb39abc85",
@@ -1235,7 +1218,7 @@
    "texto": "SEJAM SINCEROS: vocês preferem ganhar flores ou aquela ajudinha no Pix do mês?",
    "quando": "2026-10-25T10:37:09.066835-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T09:37:08.404480-04:00",
+   "viral_chk": "2026-10-26T10:07:11.324830-04:00",
    "metricas": {
     "views": 691,
     "likes": 10,
@@ -1300,7 +1283,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T09:37:08.404480-04:00"
+   "viral_chk": "2026-10-26T10:07:11.324830-04:00"
   },
   {
    "id": "18133394125751407",
@@ -1318,7 +1301,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T09:37:08.404480-04:00"
+   "viral_chk": "2026-10-26T10:07:11.324830-04:00"
   },
   {
    "id": "18062796866797092",
@@ -1371,7 +1354,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T09:37:08.404480-04:00"
+   "viral_chk": "2026-10-26T10:07:11.324830-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1424,7 +1407,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T09:37:08.404480-04:00"
+   "viral_chk": "2026-10-26T10:07:11.324830-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1433,7 +1416,33 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T09:37:08.404480-04:00"
+   "viral_chk": "2026-10-26T10:07:11.324830-04:00"
+  },
+  {
+   "id": "17864529744696991",
+   "insp": "video_f1a247bce9",
+   "link": "",
+   "texto": "Descobri esse café cremoso de toffee e avelã e já tô viciado. Olha como funciona 👀",
+   "quando": "2026-10-26T10:07:11.324830-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "22198067882",
+   "link_pendente": true,
+   "modo_produto": "tema",
+   "prod_dados": {
+    "itemId": "22198067882",
+    "nome": "MORDEDOR PARA CACHORRO PRODUTO NATURAL RUSTICO MADEIRA DE CAFE SABOR CÔCO DA HEL",
+    "preco": 13.0,
+    "nota": 4.9,
+    "vendas": 2016,
+    "comissao": 0.17,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mmj6wzrfxukg0c",
+    "offerLink": "https://s.shopee.com.br/40hbSNjmYx",
+    "campanha": "",
+    "modo": "tema"
+   }
   }
  ],
  "respondidos": [
@@ -6183,6 +6192,7 @@
   "0bb691a2c0": "2026-10-24T20:07:09.829087-04:00",
   "cfbc736577": "2026-10-25T11:37:09.004675-04:00",
   "903691b193": "2026-10-25T17:37:08.722275-04:00",
-  "5ade262d77": "2026-10-25T20:07:08.792857-04:00"
+  "5ade262d77": "2026-10-25T20:07:08.792857-04:00",
+  "f1a247bce9": "2026-10-26T10:07:11.324830-04:00"
  }
 }
