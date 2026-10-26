@@ -24,7 +24,8 @@
    "12:08",
    "12:52",
    "15:35",
-   "16:28"
+   "16:28",
+   "17:10"
   ],
   "produtos_feitos": 2,
   "respostas": 34,
@@ -36,24 +37,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18118666177972325",
-   "insp": "05099d6606",
-   "link": "",
-   "texto": "ME CONTA: qual é o apelido mais sem sentido que alguém inventou na sua família?",
-   "quando": "2026-10-21T12:37:09.862974-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1038,
-    "likes": 4,
-    "replies": 34,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-26"
-   },
-   "viral_chk": "2026-10-22T07:07:08.165865-04:00"
-  },
   {
    "id": "18119586661952960",
    "insp": "3b58803009",
@@ -1266,7 +1249,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T17:07:10.412705-04:00"
+   "viral_chk": "2026-10-26T17:37:09.192926-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1322,7 +1305,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T17:07:10.412705-04:00"
+   "viral_chk": "2026-10-26T17:37:09.192926-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1331,7 +1314,7 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T17:07:10.412705-04:00"
+   "viral_chk": "2026-10-26T17:37:09.192926-04:00"
   },
   {
    "id": "17864529744696991",
@@ -1366,7 +1349,7 @@
    "texto": "SEJAM SINCEROS: quanto vai do salário de vocês só pra manter o carro rodando todo mês?",
    "quando": "2026-10-26T12:37:09.172203-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T17:07:10.412705-04:00"
+   "viral_chk": "2026-10-26T17:37:09.192926-04:00"
   },
   {
    "id": "17915244483494376",
@@ -1389,7 +1372,7 @@
    "texto": "OPINIÃO IMPOPULAR: homem de verdade tem que ter pelo, essa moda de depilação total não dá. Prefiro os naturais ou só aparadinho.",
    "quando": "2026-10-26T15:37:10.897289-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T17:07:10.412705-04:00"
+   "viral_chk": "2026-10-26T17:37:09.192926-04:00"
   },
   {
    "id": "17966603040208636",
@@ -1416,6 +1399,15 @@
     "campanha": "",
     "modo": "parecido"
    }
+  },
+  {
+   "id": "18146936569585717",
+   "insp": "70192e2aab",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: tentar economizar em ferramenta é pedir para o barato sair caro. Paguei o dobro só para refazer o serviço.",
+   "quando": "2026-10-26T17:37:09.192926-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-26T17:37:09.192926-04:00"
   }
  ],
  "respondidos": [
@@ -3999,7 +3991,6 @@
   "18080205959710615"
  ],
  "hashes": [
-  "63c894bcdc7c509a7fce9401836e3b60",
   "d0bcfa7ea92f88947eed97176a27c669",
   "7e8e8b52d65dde96b279c2cc0141c93f",
   "64b08835f6b736d08313d4bb79bbb220",
@@ -4198,7 +4189,8 @@
   "51aff792ed037fd4ec8779bba7dc3846",
   "e468ed9bbf3a1937b59dd9f4f3538a84",
   "055788945327645dff7e114b5ba4f840",
-  "8860fe03c816adb9d8edf61b95ac537d"
+  "8860fe03c816adb9d8edf61b95ac537d",
+  "3374da3c3c15bd2d4ef90a28ca2ca5d5"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4474,7 +4466,8 @@
   "fc5634c543": 1793020059.729484,
   "f7a0caefa7": 1793032692.7883136,
   "6a712ecbe9": 1793034538.0364904,
-  "3473fe5200": 1793043451.7551863
+  "3473fe5200": 1793043451.7551863,
+  "70192e2aab": 1793050646.2488854
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
