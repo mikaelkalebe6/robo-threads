@@ -18,50 +18,16 @@
    "16:28",
    "19:10"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:55"
+  ],
   "produtos_feitos": 0,
-  "respostas": 0,
-  "por_post": {}
+  "respostas": 1,
+  "por_post": {
+   "18133394125751407": 1
+  }
  },
  "posts": [
-  {
-   "id": "17954803569035348",
-   "insp": "video_d0af80e2f4",
-   "link": "",
-   "texto": "Pra quem tem parede sem graça com cara de abandono, descobri esse painel de madeira pra pendurar planta e resolver o problema. Olha como funciona 👀",
-   "quando": "2026-10-20T21:07:09.708148-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "16519154009",
-   "link_pendente": false,
-   "modo_produto": "mesmo",
-   "prod_dados": {
-    "itemId": "16519154009",
-    "nome": "painel vertical de madeira maciça de lei para jardim, floreira com 3 cachepôs,ca",
-    "preco": 78.44,
-    "nota": 4.6,
-    "vendas": 10,
-    "comissao": 0.13,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrf0f13np0ysef",
-    "offerLink": "https://s.shopee.com.br/9068ZUYtla",
-    "campanha": "",
-    "modo": "mesmo"
-   },
-   "metricas": {
-    "views": 286,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 2,
-    "em": "2026-10-26"
-   },
-   "link_coment": "https://s.shopee.com.br/9068ZUYtla",
-   "link_em": "2026-10-21T15:37:08.793619-04:00",
-   "link_views": 0
-  },
   {
    "id": "17911189386311628",
    "insp": "f9bb6059fa",
@@ -1268,7 +1234,7 @@
    "texto": "SEJAM SINCEROS: vocês preferem ganhar flores ou aquela ajudinha no Pix do mês?",
    "quando": "2026-10-25T10:37:09.066835-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T08:37:09.462274-04:00",
+   "viral_chk": "2026-10-26T09:07:09.983617-04:00",
    "metricas": {
     "views": 691,
     "likes": 10,
@@ -1333,7 +1299,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T08:37:09.462274-04:00"
+   "viral_chk": "2026-10-26T09:07:09.983617-04:00"
   },
   {
    "id": "18133394125751407",
@@ -1351,7 +1317,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T08:37:09.462274-04:00"
+   "viral_chk": "2026-10-26T09:07:09.983617-04:00"
   },
   {
    "id": "18062796866797092",
@@ -1404,7 +1370,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T08:37:09.462274-04:00"
+   "viral_chk": "2026-10-26T09:07:09.983617-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1457,7 +1423,16 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T08:37:09.462274-04:00"
+   "viral_chk": "2026-10-26T09:07:09.983617-04:00"
+  },
+  {
+   "id": "18153545164531054",
+   "insp": "fc5634c543",
+   "link": "",
+   "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
+   "quando": "2026-10-26T09:07:09.983617-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-26T09:07:09.983617-04:00"
   }
  ],
  "respondidos": [
@@ -4004,10 +3979,10 @@
   "17906909133571382",
   "18139325395633930",
   "18159345484512757",
-  "18121661287946883"
+  "18121661287946883",
+  "17911567809310269"
  ],
  "hashes": [
-  "0c139e89b4d50fdff0fa5341a639e5bc",
   "c3a3b30d6dc4fc9245d1342151bf6b2a",
   "5a3908b7e3e83ecc8b30cd9bbc3595cb",
   "3c5c7cf05984c1aefaaa17b19cd5619b",
@@ -4206,7 +4181,8 @@
   "fef1d3b343c0ad1dbcedee8ea6bb8c2f",
   "841839fd5c82bf67a3e42bcd0769fe15",
   "cdd3adba14f5508e61972a97ac5555c6",
-  "16b2e6693607123fb1b9fedb480b2973"
+  "16b2e6693607123fb1b9fedb480b2973",
+  "51aff792ed037fd4ec8779bba7dc3846"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4478,19 +4454,16 @@
   "6e31bac1d7": 1792951653.7694635,
   "30cb84bf04": 1792958842.2132401,
   "9511ce0bfa": 1792967893.077666,
-  "9cb883fe04": 1792980455.4338508
+  "9cb883fe04": 1792980455.4338508,
+  "fc5634c543": 1793020059.729484
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
-  "_data": "2026-10-26"
+  "_data": "2026-10-26",
+  "1ab8cef708": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "corrida de carro agora entra na categoria de amizade balançando kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "quase o valor de um aluguel indo só em comida",
    "p": "concorda",
@@ -4635,6 +4608,11 @@
    "t": "pensando por esse lado o lego virou ativo financeiro valioso",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse aí bebe mais que eu num sábado de sol kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5773,7 +5751,8 @@
   "18133394125751407": [
    "pelo menos a",
    "esse modelo e",
-   "a pressao do"
+   "a pressao do",
+   "esse ai bebe"
   ]
  },
  "shopee_checada": "2026-10-26|1",
