@@ -1264,7 +1264,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T14:37:08.176843-04:00"
+   "viral_chk": "2026-10-26T15:07:10.346631-04:00"
   },
   {
    "id": "18062796866797092",
@@ -1320,7 +1320,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T14:37:08.176843-04:00"
+   "viral_chk": "2026-10-26T15:07:10.346631-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1376,7 +1376,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T14:37:08.176843-04:00"
+   "viral_chk": "2026-10-26T15:07:10.346631-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1385,7 +1385,7 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T14:37:08.176843-04:00"
+   "viral_chk": "2026-10-26T15:07:10.346631-04:00"
   },
   {
    "id": "17864529744696991",
@@ -1420,7 +1420,7 @@
    "texto": "SEJAM SINCEROS: quanto vai do salário de vocês só pra manter o carro rodando todo mês?",
    "quando": "2026-10-26T12:37:09.172203-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T14:37:08.176843-04:00"
+   "viral_chk": "2026-10-26T15:07:10.346631-04:00"
   },
   {
    "id": "17915244483494376",
@@ -1429,7 +1429,7 @@
    "texto": "ME CONTA: já aceitou um encontro só porque a fome bateu? 🍽️",
    "quando": "2026-10-26T13:07:10.868404-04:00",
    "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-26T14:37:08.176843-04:00"
+   "viral_chk": "2026-10-26T15:07:10.346631-04:00"
   }
  ],
  "respondidos": [
