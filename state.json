@@ -23,10 +23,10 @@
    "09:49"
   ],
   "produtos_feitos": 1,
-  "respostas": 9,
+  "respostas": 10,
   "por_post": {
    "18133394125751407": 1,
-   "18153545164531054": 8
+   "18153545164531054": 9
   }
  },
  "posts": [
@@ -1283,7 +1283,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T11:07:10.082871-04:00"
+   "viral_chk": "2026-10-26T11:37:09.672425-04:00"
   },
   {
    "id": "18133394125751407",
@@ -1301,7 +1301,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T11:07:10.082871-04:00"
+   "viral_chk": "2026-10-26T11:37:09.672425-04:00"
   },
   {
    "id": "18062796866797092",
@@ -1314,7 +1314,7 @@
    "estrategia": "produto_video",
    "formato_link": "resp",
    "produto": "23692977970",
-   "link_pendente": true,
+   "link_pendente": false,
    "modo_produto": "parecido",
    "prod_dados": {
     "itemId": "23692977970",
@@ -1336,7 +1336,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-10-26"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/8KqZWLyZYw",
+   "link_em": "2026-10-26T11:37:09.672425-04:00",
+   "link_views": 0
   },
   {
    "id": "17984312148065698",
@@ -1354,7 +1357,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T11:07:10.082871-04:00"
+   "viral_chk": "2026-10-26T11:37:09.672425-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1407,7 +1410,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T11:07:10.082871-04:00"
+   "viral_chk": "2026-10-26T11:37:09.672425-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1416,7 +1419,7 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T11:07:10.082871-04:00"
+   "viral_chk": "2026-10-26T11:37:09.672425-04:00"
   },
   {
    "id": "17864529744696991",
@@ -3998,7 +4001,8 @@
   "18115230131518090",
   "18106030969995155",
   "18122588966286348",
-  "18115566917030746"
+  "18115566917030746",
+  "18380861995232498"
  ],
  "hashes": [
   "c3a3b30d6dc4fc9245d1342151bf6b2a",
@@ -4485,15 +4489,11 @@
   "796a8b7669": 1,
   "39ab804b11": 2,
   "e1a303606b": 1,
-  "57a4d465ab": 1
+  "57a4d465ab": 1,
+  "3c020ddf0c": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "silêncio absoluto para proteger os dados confidenciais kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "dupla dinâmica do caos e da apelação nos jogos",
    "p": "concorda",
@@ -4636,6 +4636,11 @@
   },
   {
    "t": "herança de mãe a gente assume o pacote completo né",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa sabedoria antiga sempre acha um jeito de voltar",
    "p": "concorda",
    "r": 0
   }
@@ -5030,6 +5035,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-26T07:07:09.245469-04:00"
+  },
+  "17994859395048321": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-26T11:37:09.672425-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -5784,7 +5794,8 @@
    "tempo e o",
    "essa me atingiu",
    "essa frase carrega",
-   "heranca de mae"
+   "heranca de mae",
+   "essa sabedoria antiga"
   ]
  },
  "shopee_checada": "2026-10-26|1",
@@ -6056,7 +6067,8 @@
   "23494286604": "2026-10-24T16:37:07.570580-04:00",
   "23599348005": "2026-10-25T11:07:08.636124-04:00",
   "53115718588": "2026-10-25T14:37:08.246897-04:00",
-  "22495186935": "2026-10-26T07:07:09.245469-04:00"
+  "22495186935": "2026-10-26T07:07:09.245469-04:00",
+  "23692977970": "2026-10-26T11:37:09.672425-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
