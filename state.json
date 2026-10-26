@@ -20,7 +20,8 @@
   ],
   "feitos": [
    "08:55",
-   "09:49"
+   "09:49",
+   "12:08"
   ],
   "produtos_feitos": 1,
   "respostas": 11,
@@ -30,24 +31,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17890502484684901",
-   "insp": "bfb39abc85",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: pagar a conta toda no primeiro encontro é gentileza de verdade ou pura pressão disfarçada?\n\nPara mim, cada um paga o seu e ninguém vai embora achando que deve nada.",
-   "quando": "2026-10-21T08:07:09.399443-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-21T11:07:09.391806-04:00",
-   "metricas": {
-    "views": 403,
-    "likes": 4,
-    "replies": 28,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-26"
-   }
-  },
   {
    "id": "17951473839312879",
    "insp": "0b861e4943",
@@ -1283,7 +1266,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T12:07:09.081656-04:00"
+   "viral_chk": "2026-10-26T12:37:09.172203-04:00"
   },
   {
    "id": "18133394125751407",
@@ -1301,7 +1284,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T12:07:09.081656-04:00"
+   "viral_chk": "2026-10-26T12:37:09.172203-04:00"
   },
   {
    "id": "18062796866797092",
@@ -1357,7 +1340,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T12:07:09.081656-04:00"
+   "viral_chk": "2026-10-26T12:37:09.172203-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1410,7 +1393,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T12:07:09.081656-04:00"
+   "viral_chk": "2026-10-26T12:37:09.172203-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1419,7 +1402,7 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T12:07:09.081656-04:00"
+   "viral_chk": "2026-10-26T12:37:09.172203-04:00"
   },
   {
    "id": "17864529744696991",
@@ -1446,6 +1429,15 @@
     "campanha": "",
     "modo": "tema"
    }
+  },
+  {
+   "id": "18112867718588328",
+   "insp": "f7a0caefa7",
+   "link": "",
+   "texto": "SEJAM SINCEROS: quanto vai do salário de vocês só pra manter o carro rodando todo mês?",
+   "quando": "2026-10-26T12:37:09.172203-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-26T12:37:09.172203-04:00"
   }
  ],
  "respondidos": [
@@ -4006,7 +3998,6 @@
   "18130072852831897"
  ],
  "hashes": [
-  "c3a3b30d6dc4fc9245d1342151bf6b2a",
   "5a3908b7e3e83ecc8b30cd9bbc3595cb",
   "3c5c7cf05984c1aefaaa17b19cd5619b",
   "63c894bcdc7c509a7fce9401836e3b60",
@@ -4205,7 +4196,8 @@
   "841839fd5c82bf67a3e42bcd0769fe15",
   "cdd3adba14f5508e61972a97ac5555c6",
   "16b2e6693607123fb1b9fedb480b2973",
-  "51aff792ed037fd4ec8779bba7dc3846"
+  "51aff792ed037fd4ec8779bba7dc3846",
+  "e468ed9bbf3a1937b59dd9f4f3538a84"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4478,7 +4470,8 @@
   "30cb84bf04": 1792958842.2132401,
   "9511ce0bfa": 1792967893.077666,
   "9cb883fe04": 1792980455.4338508,
-  "fc5634c543": 1793020059.729484
+  "fc5634c543": 1793020059.729484,
+  "f7a0caefa7": 1793032692.7883136
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
