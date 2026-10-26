@@ -23,7 +23,8 @@
    "15:41",
    "17:17",
    "18:24",
-   "19:48"
+   "19:48",
+   "21:56"
   ],
   "produtos_feitos": 3,
   "respostas": 19,
@@ -38,24 +39,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18119575696958300",
-   "insp": "179d442b7d",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: consertar qualquer besteira em casa sem chamar ninguém dá mais orgulho do que muito diploma. \n\nA gente passa o resto do dia andando pela sala fingindo costume só para alguém notar e elogiar.",
-   "quando": "2026-10-20T20:07:09.780315-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 144,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-25"
-   },
-   "viral_chk": "2026-10-21T11:07:09.391806-04:00"
-  },
   {
    "id": "17954803569035348",
    "insp": "video_d0af80e2f4",
@@ -1403,6 +1386,14 @@
     "campanha": "",
     "modo": "parecido"
    }
+  },
+  {
+   "id": "18388358545229885",
+   "insp": "9cb883fe04",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: homem que dirige com uma mão só no volante acha que tá estrelando filme de ação, mas só parece que tá entediado mesmo",
+   "quando": "2026-10-25T22:07:09.114040-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -3950,7 +3941,6 @@
   "18139325395633930"
  ],
  "hashes": [
-  "8fff55645ddedede79f9d7558c4d5347",
   "0c139e89b4d50fdff0fa5341a639e5bc",
   "c3a3b30d6dc4fc9245d1342151bf6b2a",
   "5a3908b7e3e83ecc8b30cd9bbc3595cb",
@@ -4149,7 +4139,8 @@
   "bb14a73e3a29800600e3530cd177b901",
   "fef1d3b343c0ad1dbcedee8ea6bb8c2f",
   "841839fd5c82bf67a3e42bcd0769fe15",
-  "cdd3adba14f5508e61972a97ac5555c6"
+  "cdd3adba14f5508e61972a97ac5555c6",
+  "16b2e6693607123fb1b9fedb480b2973"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4420,7 +4411,8 @@
   "60aee01b67": 1792939046.8483899,
   "6e31bac1d7": 1792951653.7694635,
   "30cb84bf04": 1792958842.2132401,
-  "9511ce0bfa": 1792967893.077666
+  "9511ce0bfa": 1792967893.077666,
+  "9cb883fe04": 1792980455.4338508
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
