@@ -25,41 +25,20 @@
    "12:52",
    "15:35",
    "16:28",
-   "17:10"
+   "17:10",
+   "17:50"
   ],
   "produtos_feitos": 2,
-  "respostas": 34,
+  "respostas": 36,
   "por_post": {
    "18133394125751407": 3,
    "18153545164531054": 10,
-   "18112867718588328": 7,
-   "17915244483494376": 14
+   "18112867718588328": 8,
+   "17915244483494376": 14,
+   "18146936569585717": 1
   }
  },
  "posts": [
-  {
-   "id": "18119586661952960",
-   "insp": "3b58803009",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual série você assistiria de novo só pra sentir aquele choque da primeira vez?",
-   "quando": "2026-10-21T14:07:08.462874-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 3536,
-    "likes": 20,
-    "replies": 90,
-    "reposts": 0,
-    "quotes": 1,
-    "shares": 0,
-    "em": "2026-10-26"
-   },
-   "viral_chk": "2026-10-22T07:07:08.165865-04:00",
-   "link_coment": "https://s.shopee.com.br/50a24HG0Hk",
-   "meme_comentado": true,
-   "meme_views": 2830,
-   "formato_link": "coment",
-   "produto": "22498397212"
-  },
   {
    "id": "17964565467250557",
    "insp": "07943be66b",
@@ -1249,7 +1228,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T17:37:09.192926-04:00"
+   "viral_chk": "2026-10-26T18:07:08.028743-04:00"
   },
   {
    "id": "17980994907120938",
@@ -1305,7 +1284,7 @@
     "shares": 0,
     "em": "2026-10-26"
    },
-   "viral_chk": "2026-10-26T17:37:09.192926-04:00"
+   "viral_chk": "2026-10-26T18:07:08.028743-04:00"
   },
   {
    "id": "18153545164531054",
@@ -1314,7 +1293,7 @@
    "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
    "quando": "2026-10-26T09:07:09.983617-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T17:37:09.192926-04:00"
+   "viral_chk": "2026-10-26T18:07:08.028743-04:00"
   },
   {
    "id": "17864529744696991",
@@ -1349,7 +1328,7 @@
    "texto": "SEJAM SINCEROS: quanto vai do salário de vocês só pra manter o carro rodando todo mês?",
    "quando": "2026-10-26T12:37:09.172203-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T17:37:09.192926-04:00"
+   "viral_chk": "2026-10-26T18:07:08.028743-04:00"
   },
   {
    "id": "17915244483494376",
@@ -1372,7 +1351,7 @@
    "texto": "OPINIÃO IMPOPULAR: homem de verdade tem que ter pelo, essa moda de depilação total não dá. Prefiro os naturais ou só aparadinho.",
    "quando": "2026-10-26T15:37:10.897289-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T17:37:09.192926-04:00"
+   "viral_chk": "2026-10-26T18:07:08.028743-04:00"
   },
   {
    "id": "17966603040208636",
@@ -1407,7 +1386,16 @@
    "texto": "VAMOS SER HONESTOS: tentar economizar em ferramenta é pedir para o barato sair caro. Paguei o dobro só para refazer o serviço.",
    "quando": "2026-10-26T17:37:09.192926-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T17:37:09.192926-04:00"
+   "viral_chk": "2026-10-26T18:07:08.028743-04:00"
+  },
+  {
+   "id": "18231002650327248",
+   "insp": "41c97f7daf",
+   "link": "",
+   "texto": "ME CONTA: o crush de vocês veio do Tinder ou de rolê aleatório?",
+   "quando": "2026-10-26T18:07:08.028743-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-26T18:07:08.028743-04:00"
   }
  ],
  "respondidos": [
@@ -3988,10 +3976,11 @@
   "18074627024739449",
   "18081380414374136",
   "17874199104638957",
-  "18080205959710615"
+  "18080205959710615",
+  "18064578668549995",
+  "17934889632409974"
  ],
  "hashes": [
-  "d0bcfa7ea92f88947eed97176a27c669",
   "7e8e8b52d65dde96b279c2cc0141c93f",
   "64b08835f6b736d08313d4bb79bbb220",
   "a4e768a27641c2f85e4ba989256c01ea",
@@ -4190,7 +4179,8 @@
   "e468ed9bbf3a1937b59dd9f4f3538a84",
   "055788945327645dff7e114b5ba4f840",
   "8860fe03c816adb9d8edf61b95ac537d",
-  "3374da3c3c15bd2d4ef90a28ca2ca5d5"
+  "3374da3c3c15bd2d4ef90a28ca2ca5d5",
+  "8d4b2fe8daf0a5e822fc0e20fea0f952"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4467,7 +4457,8 @@
   "f7a0caefa7": 1793032692.7883136,
   "6a712ecbe9": 1793034538.0364904,
   "3473fe5200": 1793043451.7551863,
-  "70192e2aab": 1793050646.2488854
+  "70192e2aab": 1793050646.2488854,
+  "41c97f7daf": 1793052457.3364546
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4498,26 +4489,17 @@
   "0c9b4556d0": 1,
   "b24675bab4": 1,
   "e791ddd941": 1,
-  "5a4f6559c6": 1,
+  "5a4f6559c6": 2,
   "49735a2579": 1,
   "dd8f65dd04": 1,
   "9736a2e8bb": 1,
   "ae28140d1a": 1,
   "f0eee439e8": 1,
-  "58e8d267f7": 1
+  "58e8d267f7": 1,
+  "1d06969815": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, mas a frase da mãe sempre volta, né? kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "tempo é o único luxo que não volta, né",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa me atingiu na alma, nem percebi q virou meu mantra",
    "p": "concorda",
@@ -4656,6 +4638,16 @@
   {
    "t": "justificativa válida para qualquer situação kkkk",
    "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "parafusadeira de festival de música que descarrega no primeiro acorde kkkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "queria ter essa paz de espirito financeira kkkk",
+   "p": "ressalva",
    "r": 1
   }
  ],
@@ -5584,28 +5576,6 @@
   }
  ],
  "aberturas_post": {
-  "18179603278449081": [
-   "esse um dia",
-   "pelo menos a",
-   "cada livro espera",
-   "habito de acumular",
-   "integrante oficial da",
-   "eles acabam virando",
-   "estamos todas no",
-   "cinco anos de",
-   "medida drastica para",
-   "heranca literaria que",
-   "ataca o estoque",
-   "culpa coletiva que",
-   "perdao pelo susto",
-   "integrante oficial do",
-   "respeito demais essa",
-   "passou de item",
-   "estrategia de manter",
-   "mais um integrante",
-   "medo real de",
-   "versao de luxo"
-  ],
   "17873769906602294": [
    "quando a pessoa",
    "para garantir a",
@@ -5824,7 +5794,8 @@
    "uber e bom",
    "seis mil o",
    "gestao financeira e",
-   "esse valor ai"
+   "esse valor ai",
+   "queria ter essa"
   ],
   "17915244483494376": [
    "zerada na estatistica",
@@ -5841,6 +5812,9 @@
    "sobrevivencia basica em",
    "ontem mesmo ja",
    "justificativa valida para"
+  ],
+  "18146936569585717": [
+   "parafusadeira de festival"
   ]
  },
  "shopee_checada": "2026-10-26|1",
