@@ -27,13 +27,13 @@
    "21:56"
   ],
   "produtos_feitos": 3,
-  "respostas": 19,
+  "respostas": 21,
   "por_post": {
    "18137736760629371": 1,
    "18411469255089348": 1,
    "17962475325229174": 1,
    "17989226381872651": 1,
-   "18212638690322633": 9,
+   "18212638690322633": 11,
    "18638459773049565": 3,
    "18133394125751407": 3
   }
@@ -3938,7 +3938,9 @@
   "18125114602949265",
   "18361356070220996",
   "17906909133571382",
-  "18139325395633930"
+  "18139325395633930",
+  "18159345484512757",
+  "18121661287946883"
  ],
  "hashes": [
   "0c139e89b4d50fdff0fa5341a639e5bc",
@@ -4434,20 +4436,12 @@
   "f781d58505": 1,
   "5a4f6559c6": 1,
   "26e8fc6bb7": 1,
-  "6f2b4267d9": 1
+  "6f2b4267d9": 1,
+  "3d37317ac8": 1,
+  "8d52b822b8": 1
  },
  "reservas_checadas": "2026-10-25",
  "ultimas_respostas": [
-  {
-   "t": "queria ter essa disciplina para poupar o salário",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "propriedades organizadas mas o estômago continua mandando em tudo kkkk",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "corrida de carro agora entra na categoria de amizade balançando kkkkk",
    "p": "concorda",
@@ -4585,6 +4579,16 @@
   },
   {
    "t": "papo leve e sincero muda tudo mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "investimento de longo prazo pesadíssimo kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pensando por esse lado o lego virou ativo financeiro valioso",
    "p": "concorda",
    "r": 0
   }
@@ -5703,7 +5707,9 @@
    "a sinceridade veio",
    "estrategia de sobrevivencia",
    "flores duram uns",
-   "buque financeiro multifuncional"
+   "buque financeiro multifuncional",
+   "investimento de longo",
+   "pensando por esse"
   ],
   "18638459773049565": [
    "historia boa e",
