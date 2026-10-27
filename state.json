@@ -21,37 +21,21 @@
    "20:56"
   ],
   "feitos": [
-   "08:43"
+   "08:43",
+   "10:07"
   ],
   "produtos_feitos": 0,
-  "respostas": 14,
+  "respostas": 19,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
    "17899714413398695": 1,
    "17915244483494376": 3,
    "18153545164531054": 1,
-   "17917494708526792": 6
+   "17917494708526792": 11
   }
  },
  "posts": [
-  {
-   "id": "18377981101209166",
-   "insp": "041d158196",
-   "link": "",
-   "texto": "A ciência podia falar o que quisesse, mas assoprar o cartucho resolvia qualquer travou do videogame. No fim das contas a gente confiava mais no nosso sopro do que em qualquer manual.",
-   "quando": "2026-10-21T17:37:07.509426-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 183,
-    "likes": 2,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-27"
-   }
-  },
   {
    "id": "18110886974268536",
    "insp": "3b094b119a",
@@ -1317,7 +1301,7 @@
    "texto": "OPINIÃO IMPOPULAR: homem de verdade tem que ter pelo, essa moda de depilação total não dá. Prefiro os naturais ou só aparadinho.",
    "quando": "2026-10-26T15:37:10.897289-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T09:37:13.762591-04:00",
+   "viral_chk": "2026-10-27T10:07:10.120163-04:00",
    "metricas": {
     "views": 69,
     "likes": 1,
@@ -1370,7 +1354,7 @@
    "texto": "VAMOS SER HONESTOS: tentar economizar em ferramenta é pedir para o barato sair caro. Paguei o dobro só para refazer o serviço.",
    "quando": "2026-10-26T17:37:09.192926-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T09:37:13.762591-04:00",
+   "viral_chk": "2026-10-27T10:07:10.120163-04:00",
    "metricas": {
     "views": 275,
     "likes": 6,
@@ -1388,7 +1372,7 @@
    "texto": "ME CONTA: o crush de vocês veio do Tinder ou de rolê aleatório?",
    "quando": "2026-10-26T18:07:08.028743-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T09:37:13.762591-04:00",
+   "viral_chk": "2026-10-27T10:07:10.120163-04:00",
    "metricas": {
     "views": 266,
     "likes": 1,
@@ -1450,7 +1434,7 @@
     "shares": 0,
     "em": "2026-10-27"
    },
-   "viral_chk": "2026-10-27T09:37:13.762591-04:00"
+   "viral_chk": "2026-10-27T10:07:10.120163-04:00"
   },
   {
    "id": "17917494708526792",
@@ -1459,7 +1443,16 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em cinema é a pior escolha possível porque você fica duas horas olhando pra tela em vez de conversar com a pessoa.",
    "quando": "2026-10-27T09:07:11.544696-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T09:37:13.762591-04:00"
+   "viral_chk": "2026-10-27T10:07:10.120163-04:00"
+  },
+  {
+   "id": "18122836490511425",
+   "insp": "aa28edd6a1",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: gastei horas montando uma fantasia perfeita de Halloween e na hora da festa todo mundo achou que eu era só uma pessoa comum com dor de cabeça.",
+   "quando": "2026-10-27T10:07:10.120163-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-27T10:07:10.120163-04:00"
   }
  ],
  "respondidos": [
@@ -4065,10 +4058,15 @@
   "18109939307208241",
   "18194218816397431",
   "18140316904618701",
-  "18043547204822751"
+  "18043547204822751",
+  "17914597839288373",
+  "18132531847834585",
+  "17888747205486517",
+  "17993644005111488",
+  "17997498564105106",
+  "18117822773107707"
  ],
  "hashes": [
-  "a4e768a27641c2f85e4ba989256c01ea",
   "f9c14049da594edaf143273a0023b7f0",
   "567e5e93d54b87ab8fc3ee4e65cbc0e6",
   "7fb7a5f5f67624d28da24546e868cb0a",
@@ -4267,7 +4265,8 @@
   "3374da3c3c15bd2d4ef90a28ca2ca5d5",
   "8d4b2fe8daf0a5e822fc0e20fea0f952",
   "633129cc617349f4f0b3ce7aba31df15",
-  "a6125a4ebfb4073a715fe342bab83301"
+  "a6125a4ebfb4073a715fe342bab83301",
+  "8743beeaae6f46ac02f9a86ff79b7c6f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4547,7 +4546,8 @@
   "70192e2aab": 1793050646.2488854,
   "41c97f7daf": 1793052457.3364546,
   "5267cbb0dc": 1793065089.76041,
-  "2605ac3685": 1793106470.5231354
+  "2605ac3685": 1793106470.5231354,
+  "aa28edd6a1": 1793110088.7743607
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4564,35 +4564,15 @@
   "25b06cca69": 1,
   "4fac620e91": 1,
   "394345b622": 1,
-  "8cd158304b": 1
+  "8cd158304b": 1,
+  "25fa223637": 1,
+  "8ec62f88ac": 1,
+  "5928b62261": 1,
+  "fe5a55d48e": 1,
+  "e66a2e119b": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "estratégia válida para garantir a janta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse valor aí tá de parabéns, quase uma economia mágica",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sobrevivência básica em primeiro lugar sempre",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ontem mesmo já é recorde de velocidade kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "justificativa válida para qualquer situação kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "parafusadeira de festival de música que descarrega no primeiro acorde kkkkkkk",
    "p": "concorda",
@@ -4717,6 +4697,31 @@
    "t": "parece absurdo até vc tentar conversar com alguém na fila da pipoca",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "pelo menos o roteiro da sala foi bem alternativo kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "cronograma apertado mas com potencial de dar certo kkkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "pois é, mas parece que o mundo precisa lembrar o básico kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Verdade, mas aí ninguém tem chance de roubar a pipoca kkk",
+   "p": "ressalva",
+   "r": 2
+  },
+  {
+   "t": "plano estratégico completo para não perder tempo kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5897,7 +5902,12 @@
    "inverter a ordem",
    "filme ruim pelo",
    "para ver o",
-   "parece absurdo ate"
+   "parece absurdo ate",
+   "pelo menos o",
+   "cronograma apertado mas",
+   "pois e mas",
+   "verdade mas ai",
+   "plano estrategico completo"
   ]
  },
  "shopee_checada": "2026-10-27|1",
