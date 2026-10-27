@@ -25,10 +25,11 @@
    "10:07",
    "10:52",
    "12:16",
-   "13:02"
+   "13:02",
+   "14:05"
   ],
   "produtos_feitos": 1,
-  "respostas": 38,
+  "respostas": 39,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -37,27 +38,10 @@
    "18153545164531054": 1,
    "17917494708526792": 20,
    "17959658355013450": 6,
-   "18110358517935855": 4
+   "18110358517935855": 5
   }
  },
  "posts": [
-  {
-   "id": "18024018605928455",
-   "insp": "d25c82e639",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: homem lavando o carro sábado de manhã não é capricho, é puro desespero pra ficar longe da rotina de casa",
-   "quando": "2026-10-21T21:37:08.725499-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 274,
-    "likes": 1,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-27"
-   }
-  },
   {
    "id": "18027586595699479",
    "insp": "8f2f1c9592",
@@ -1438,6 +1422,14 @@
    "link": "",
    "texto": "ME CONTA: qual foi a frase da sua mãe que você jurou que nunca ia falar e agora solta igualzinho?",
    "quando": "2026-10-27T13:07:11.245127-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18092170271676483",
+   "insp": "4b99e3a872",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: qual foi a coisa mais inútil que vocês compraram achando que o bebê não ia conseguir viver sem",
+   "quando": "2026-10-27T14:07:10.013804-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4069,10 +4061,10 @@
   "18359053204218774",
   "17917527150526118",
   "18388652170226903",
-  "17913642891503315"
+  "17913642891503315",
+  "18219958570348718"
  ],
  "hashes": [
-  "7fb7a5f5f67624d28da24546e868cb0a",
   "3622febd97918e95eb2cfcd309971087",
   "f3d06b2b3b2e041be5b5be5ec85011f5",
   "22bfa5857347e6d70553ec9e6b8aa9c0",
@@ -4271,7 +4263,8 @@
   "a6125a4ebfb4073a715fe342bab83301",
   "8743beeaae6f46ac02f9a86ff79b7c6f",
   "66c9f50512b99d0179ab01c66b9b02d9",
-  "a8de56a5d9e3e90bc35ae467d792f910"
+  "a8de56a5d9e3e90bc35ae467d792f910",
+  "bfd18b7f37880f55dbd08d82aec21387"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4554,7 +4547,8 @@
   "2605ac3685": 1793106470.5231354,
   "aa28edd6a1": 1793110088.7743607,
   "1c1d414be8": 1793119065.6566234,
-  "d1e2f3c049": 1793120863.046784
+  "d1e2f3c049": 1793120863.046784,
+  "4b99e3a872": 1793124470.8923373
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4594,15 +4588,11 @@
   "ad5a8594e2": 1,
   "86c69aab0d": 1,
   "071f3ef5b4": 1,
-  "44cfcadb9f": 2
+  "44cfcadb9f": 2,
+  "b331eeec0b": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "estratégia avançada para garantir a companhia sem perder a pipoca",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "menos mal que alguém mais pensa assim",
    "p": "concorda",
@@ -4747,6 +4737,11 @@
    "t": "ah já tô preparada pra esse esfregão kkkkk 😜",
    "p": "neutra",
    "r": 2
+  },
+  {
+   "t": "mudou o personagem mas o recado continuou exatamente o mesmo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5955,7 +5950,8 @@
    "o kit completo",
    "essa frase ta",
    "a lei da",
-   "ah ja to"
+   "ah ja to",
+   "mudou o personagem"
   ]
  },
  "shopee_checada": "2026-10-27|1",
