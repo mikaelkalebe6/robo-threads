@@ -30,13 +30,14 @@
    "19:10"
   ],
   "produtos_feitos": 3,
-  "respostas": 41,
+  "respostas": 42,
   "por_post": {
    "18133394125751407": 3,
    "18153545164531054": 10,
    "18112867718588328": 8,
    "17915244483494376": 17,
-   "18146936569585717": 3
+   "18146936569585717": 3,
+   "18107493095575809": 1
   }
  },
  "posts": [
@@ -3997,7 +3998,8 @@
   "17992399748860710",
   "18069711584779774",
   "17955419922036802",
-  "18319772407303131"
+  "18319772407303131",
+  "17962826868000704"
  ],
  "hashes": [
   "7e8e8b52d65dde96b279c2cc0141c93f",
@@ -4515,7 +4517,7 @@
   "ae28140d1a": 1,
   "f0eee439e8": 1,
   "58e8d267f7": 1,
-  "1d06969815": 1,
+  "1d06969815": 2,
   "1f1e8afefa": 1,
   "de18d33a61": 1,
   "3c3b7573d9": 1,
@@ -4524,11 +4526,6 @@
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "Nossa, três mil no carro? Isso dói mais que boleto de luz kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Então o carro tá pedindo um romance caro kkkkkkk",
    "p": "neutra",
@@ -4673,6 +4670,11 @@
    "t": "isso foi um encontro ou uma gincana com regras confusas",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "dedos agradecem demais esse investimento em tecnologia kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5605,17 +5607,6 @@
   }
  ],
  "aberturas_post": {
-  "17873769906602294": [
-   "quando a pessoa",
-   "para garantir a",
-   "chocou um total",
-   "estrategia inteligente para",
-   "justo na hora",
-   "exagero total pra",
-   "economia preventiva antes",
-   "teoria linda na",
-   "nesse caso o"
-  ],
   "18129375533505510": [
    "esse valor ai",
    "lugar simples cobrando",
@@ -5849,6 +5840,9 @@
    "parafusadeira de festival",
    "economia que vira",
    "boa noite aproveita"
+  ],
+  "18107493095575809": [
+   "dedos agradecem demais"
   ]
  },
  "shopee_checada": "2026-10-26|1",
