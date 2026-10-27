@@ -24,37 +24,22 @@
    "08:43",
    "10:07",
    "10:52",
-   "12:16"
+   "12:16",
+   "13:02"
   ],
   "produtos_feitos": 1,
-  "respostas": 28,
+  "respostas": 34,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
    "17899714413398695": 1,
    "17915244483494376": 3,
    "18153545164531054": 1,
-   "17917494708526792": 20
+   "17917494708526792": 20,
+   "17959658355013450": 6
   }
  },
  "posts": [
-  {
-   "id": "18343944772287252",
-   "insp": "304d0a9ace",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: chamar de bolacha ou de biscoito muda alguma coisa no sabor? Juro que nunca entendi essa discussão.",
-   "quando": "2026-10-21T21:07:07.357239-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1122,
-    "likes": 15,
-    "replies": 65,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-27"
-   }
-  },
   {
    "id": "18024018605928455",
    "insp": "d25c82e639",
@@ -1441,6 +1426,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: vocês voltariam com um ex só porque ele ficou milionário ou o orgulho ainda fala mais alto",
    "quando": "2026-10-27T12:37:10.901516-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18110358517935855",
+   "insp": "d1e2f3c049",
+   "link": "",
+   "texto": "ME CONTA: qual foi a frase da sua mãe que você jurou que nunca ia falar e agora solta igualzinho?",
+   "quando": "2026-10-27T13:07:11.245127-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4062,10 +4055,15 @@
   "18036161141668476",
   "18146026429504445",
   "18223948474342231",
-  "18109981283217366"
+  "18109981283217366",
+  "18111111479336114",
+  "17908876113581053",
+  "18102135203531579",
+  "18099828047387646",
+  "18118120987819557",
+  "18118248695048440"
  ],
  "hashes": [
-  "567e5e93d54b87ab8fc3ee4e65cbc0e6",
   "7fb7a5f5f67624d28da24546e868cb0a",
   "3622febd97918e95eb2cfcd309971087",
   "f3d06b2b3b2e041be5b5be5ec85011f5",
@@ -4264,7 +4262,8 @@
   "633129cc617349f4f0b3ce7aba31df15",
   "a6125a4ebfb4073a715fe342bab83301",
   "8743beeaae6f46ac02f9a86ff79b7c6f",
-  "66c9f50512b99d0179ab01c66b9b02d9"
+  "66c9f50512b99d0179ab01c66b9b02d9",
+  "a8de56a5d9e3e90bc35ae467d792f910"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4546,7 +4545,8 @@
   "5267cbb0dc": 1793065089.76041,
   "2605ac3685": 1793106470.5231354,
   "aa28edd6a1": 1793110088.7743607,
-  "1c1d414be8": 1793119065.6566234
+  "1c1d414be8": 1793119065.6566234,
+  "d1e2f3c049": 1793120863.046784
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4577,40 +4577,16 @@
   "7bf86b4089": 1,
   "1f1e8afefa": 1,
   "0e0bc251d0": 1,
-  "8d75f96149": 1
+  "8d75f96149": 1,
+  "bb249cc2de": 1,
+  "4219223b32": 1,
+  "e1a220854f": 1,
+  "e7867c091b": 1,
+  "062f614163": 1,
+  "ad5a8594e2": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "taxa de conversao invejavel do aplicativo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "comida de mãe e videogame antigo formam a dupla perfeita",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, banco físico hoje em dia é lenda urbana kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o tinder veio com taxa de surpresa inclusa kkkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "argumento de higiene que faz sentido mas nas pernas foge da regra kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "com os olhos e com o estômago inteiro kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "educação passada de geração em geração para os cachorros kkkkkk",
    "p": "concorda",
@@ -4730,6 +4706,36 @@
    "t": "Concordo, a tela atrapalha a conversa, kkkkk 😅",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "autonomia financeira e dignidade continuam sendo as melhores defesas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesou os custos da relação com muita sinceridade",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "justo, o contexto muda tudo né kkkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "dignidade não tem cotação na bolsa mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "trabalho dobrado para conseguir isso tudo mas quem sabe",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dinheiro nenhum compra paz nem devolve o tempo perdido",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5687,17 +5693,6 @@
   }
  ],
  "aberturas_post": {
-  "18065985020518186": [
-   "com certeza ai",
-   "esse e o",
-   "justica seja feita",
-   "procurando o erro",
-   "pelo menos ja",
-   "quem tem medo",
-   "coragem pura em",
-   "estrategia de defesa",
-   "daqui a pouco"
-  ],
   "18133177114765373": [
    "nivel hardcore de",
    "solucao definitiva para"
@@ -5935,6 +5930,14 @@
    "e duas sessoes",
    "esse planejamento milimetrico",
    "concordo a tela"
+  ],
+  "17959658355013450": [
+   "autonomia financeira e",
+   "pesou os custos",
+   "justo o contexto",
+   "dignidade nao tem",
+   "trabalho dobrado para",
+   "dinheiro nenhum compra"
   ]
  },
  "shopee_checada": "2026-10-27|1",
