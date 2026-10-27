@@ -29,7 +29,7 @@
    "14:05"
   ],
   "produtos_feitos": 1,
-  "respostas": 39,
+  "respostas": 45,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -37,8 +37,9 @@
    "17915244483494376": 3,
    "18153545164531054": 1,
    "17917494708526792": 20,
-   "17959658355013450": 6,
-   "18110358517935855": 5
+   "17959658355013450": 8,
+   "18110358517935855": 6,
+   "18092170271676483": 3
   }
  },
  "posts": [
@@ -4062,7 +4063,13 @@
   "17917527150526118",
   "18388652170226903",
   "17913642891503315",
-  "18219958570348718"
+  "18219958570348718",
+  "18198802246390801",
+  "18075579197499820",
+  "18113587712156878",
+  "18069101333619615",
+  "17993511057048539",
+  "18122290705980050"
  ],
  "hashes": [
   "3622febd97918e95eb2cfcd309971087",
@@ -4589,40 +4596,16 @@
   "86c69aab0d": 1,
   "071f3ef5b4": 1,
   "44cfcadb9f": 2,
-  "b331eeec0b": 1
+  "b331eeec0b": 1,
+  "db78584311": 1,
+  "3b18acedc4": 1,
+  "21142b54df": 1,
+  "3faa77d54c": 1,
+  "4ff72ddf4b": 1,
+  "2972b3623f": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "menos mal que alguém mais pensa assim",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "inverter a ordem dos fatores altera o resultado do date kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "filme ruim pelo menos serve pra alguma coisa útil kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "para ver o filme que não é",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parece absurdo até vc tentar conversar com alguém na fila da pipoca",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pelo menos o roteiro da sala foi bem alternativo kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "cronograma apertado mas com potencial de dar certo kkkk",
    "p": "ressalva",
@@ -4740,6 +4723,36 @@
   },
   {
    "t": "mudou o personagem mas o recado continuou exatamente o mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "criança decide a regra e a gente só cumpre",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a ilusão de que a criatura ia dormir no próprio quarto kkkkkkkk",
+   "p": "concorda",
+   "r": 4
+  },
+  {
+   "t": "dois grandes clássicos que toda lista de enxoval adora carregar junto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, melhor preservar o limite então",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "abastecer o gol é investimento de longo prazo kkkkkkkkkkk",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "convicção inabalável e paz de espírito em primeiro lugar",
    "p": "concorda",
    "r": 0
   }
@@ -5704,11 +5717,6 @@
   }
  ],
  "aberturas_post": {
-  "17988790524079823": [
-   "estrategia perfeita pra",
-   "verdade dividir o",
-   "investimento pesado na"
-  ],
   "18164686105517451": [
    "mistura classica que",
    "a pressao social",
@@ -5944,14 +5952,22 @@
    "justo o contexto",
    "dignidade nao tem",
    "trabalho dobrado para",
-   "dinheiro nenhum compra"
+   "dinheiro nenhum compra",
+   "abastecer o gol",
+   "conviccao inabalavel e"
   ],
   "18110358517935855": [
    "o kit completo",
    "essa frase ta",
    "a lei da",
    "ah ja to",
-   "mudou o personagem"
+   "mudou o personagem",
+   "justo melhor preservar"
+  ],
+  "18092170271676483": [
+   "crianca decide a",
+   "a ilusao de",
+   "dois grandes classicos"
   ]
  },
  "shopee_checada": "2026-10-27|1",
