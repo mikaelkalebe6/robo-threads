@@ -30,13 +30,13 @@
    "19:10"
   ],
   "produtos_feitos": 3,
-  "respostas": 39,
+  "respostas": 41,
   "por_post": {
    "18133394125751407": 3,
    "18153545164531054": 10,
    "18112867718588328": 8,
-   "17915244483494376": 16,
-   "18146936569585717": 2
+   "17915244483494376": 17,
+   "18146936569585717": 3
   }
  },
  "posts": [
@@ -3995,7 +3995,9 @@
   "17934889632409974",
   "17955502431032858",
   "17992399748860710",
-  "18069711584779774"
+  "18069711584779774",
+  "17955419922036802",
+  "18319772407303131"
  ],
  "hashes": [
   "7e8e8b52d65dde96b279c2cc0141c93f",
@@ -4516,20 +4518,12 @@
   "1d06969815": 1,
   "1f1e8afefa": 1,
   "de18d33a61": 1,
-  "3c3b7573d9": 1
+  "3c3b7573d9": 1,
+  "a2f5bf3490": 1,
+  "030c87dfcf": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "essa sabedoria antiga sempre acha um jeito de voltar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse é tão guerreiro que o arrependimento nem tem espaço",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Nossa, três mil no carro? Isso dói mais que boleto de luz kkkkk",
    "p": "concorda",
@@ -4668,6 +4662,16 @@
   {
    "t": "justo demais, o foco tem que ser o papo mesmo",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "boa noite, aproveita bastante para descansar também",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "isso foi um encontro ou uma gincana com regras confusas",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -5838,11 +5842,13 @@
    "ontem mesmo ja",
    "justificativa valida para",
    "investimento de alto",
-   "justo demais o"
+   "justo demais o",
+   "isso foi um"
   ],
   "18146936569585717": [
    "parafusadeira de festival",
-   "economia que vira"
+   "economia que vira",
+   "boa noite aproveita"
   ]
  },
  "shopee_checada": "2026-10-26|1",
