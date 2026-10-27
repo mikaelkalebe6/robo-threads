@@ -26,9 +26,10 @@
    "10:52",
    "12:16",
    "13:02",
-   "14:05"
+   "14:05",
+   "14:52"
   ],
-  "produtos_feitos": 1,
+  "produtos_feitos": 2,
   "respostas": 45,
   "por_post": {
    "18127401364671487": 2,
@@ -43,24 +44,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18027586595699479",
-   "insp": "8f2f1c9592",
-   "link": "",
-   "texto": "ME CONTA: na pelada de fim de semana, você é o que corre sem parar ou o que fica na banheira só reclamando?\n\nEu canso só de olhar o desespero de quem tenta marcar.",
-   "quando": "2026-10-22T08:37:08.098848-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 78,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-27"
-   },
-   "viral_chk": "2026-10-23T08:07:08.537447-04:00"
-  },
   {
    "id": "17992594266048436",
    "insp": "5dc520f8de",
@@ -1432,6 +1415,32 @@
    "texto": "VAMOS SER HONESTOS: qual foi a coisa mais inútil que vocês compraram achando que o bebê não ia conseguir viver sem",
    "quando": "2026-10-27T14:07:10.013804-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17935069443143984",
+   "insp": "video_8224660ab3",
+   "link": "",
+   "texto": "Dias trabalhando em pé acabam com a circulação. Descobri esse adesivo de bambu e olha como funciona pra relaxar no fim do dia 🦶",
+   "quando": "2026-10-27T15:07:11.717250-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "22098913797",
+   "link_pendente": true,
+   "modo_produto": "mesmo",
+   "prod_dados": {
+    "itemId": "22098913797",
+    "nome": "Kit Adesivo Pés Anti inchaço Elimina Impureza dos Pés",
+    "preco": 16.99,
+    "nota": 4.8,
+    "vendas": 53,
+    "comissao": 0.2,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mo6azbu7i77o27",
+    "offerLink": "https://s.shopee.com.br/9Kj9jcQC4J",
+    "campanha": "",
+    "modo": "mesmo"
+   }
   }
  ],
  "respondidos": [
@@ -6436,6 +6445,7 @@
   "f1a247bce9": "2026-10-26T10:07:11.324830-04:00",
   "6dee727fa0": "2026-10-26T16:37:08.702243-04:00",
   "ac9fb06008": "2026-10-26T19:37:08.492261-04:00",
-  "1eed5ab929": "2026-10-27T11:07:19.363213-04:00"
+  "1eed5ab929": "2026-10-27T11:07:19.363213-04:00",
+  "8224660ab3": "2026-10-27T15:07:11.717250-04:00"
  }
 }
