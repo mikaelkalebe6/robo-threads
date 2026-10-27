@@ -32,7 +32,7 @@
    "17:35"
   ],
   "produtos_feitos": 2,
-  "respostas": 57,
+  "respostas": 63,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -43,7 +43,8 @@
    "17959658355013450": 9,
    "18110358517935855": 8,
    "18092170271676483": 3,
-   "17912121543489279": 9
+   "17912121543489279": 9,
+   "17913815520480885": 6
   }
  },
  "posts": [
@@ -1374,7 +1375,7 @@
    "estrategia": "produto_video",
    "formato_link": "resp",
    "produto": "22098913797",
-   "link_pendente": true,
+   "link_pendente": false,
    "modo_produto": "mesmo",
    "prod_dados": {
     "itemId": "22098913797",
@@ -1387,7 +1388,10 @@
     "offerLink": "https://s.shopee.com.br/9Kj9jcQC4J",
     "campanha": "",
     "modo": "mesmo"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/9Kj9jcQC4J",
+   "link_em": "2026-10-27T18:07:09.938547-04:00",
+   "link_views": 514
   },
   {
    "id": "17912121543489279",
@@ -4053,7 +4057,13 @@
   "17912116272481335",
   "18119923057950277",
   "18115214879024451",
-  "17894487282436982"
+  "17894487282436982",
+  "18118335992092823",
+  "18109435379457927",
+  "18137592463735067",
+  "18135054649678797",
+  "18041627363839824",
+  "18349947829265458"
  ],
  "hashes": [
   "22bfa5857347e6d70553ec9e6b8aa9c0",
@@ -4597,40 +4607,16 @@
   "3eb5563caa": 1,
   "c02b14bf50": 1,
   "c1eaa97d30": 1,
-  "3e9570a43d": 1
+  "3e9570a43d": 1,
+  "62d9b3dc11": 1,
+  "dd1b3da85a": 1,
+  "bf3016bdbb": 1,
+  "f673eabf60": 1,
+  "eea265e03a": 1,
+  "896171bda0": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "Concordo, a tela atrapalha a conversa, kkkkk 😅",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "autonomia financeira e dignidade continuam sendo as melhores defesas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesou os custos da relação com muita sinceridade",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "justo, o contexto muda tudo né kkkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "dignidade não tem cotação na bolsa mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "trabalho dobrado para conseguir isso tudo mas quem sabe",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "dinheiro nenhum compra paz nem devolve o tempo perdido",
    "p": "concorda",
@@ -4750,6 +4736,36 @@
    "t": "paz de espírito e valores inegociáveis em primeiro lugar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "exato, somar cansaço com cobrança não dá",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tem dia q a obrigação pesa mas transformar sofrimento em regra já é demais",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "cada dia tem sua própria regra e o corpo avisa quando chega a hora",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quando o relógio biológico já ajuda, o processo fica bem mais leve",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "trabalhar cedo desse jeito deveria ser crime inafiançável",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa conta de dormir cedo não fecha com a vida real msm kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5187,6 +5203,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-27T13:37:09.354196-04:00"
+  },
+  "18373862485212333": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-27T18:07:09.938547-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -5712,19 +5733,6 @@
   }
  ],
  "aberturas_post": {
-  "18100857716402310": [
-   "ja comeca cortando",
-   "essa encenacao toda",
-   "prefiro ficar por",
-   "demora muito cria",
-   "falta de assunto",
-   "esse cronometro invisivel",
-   "robozinho programado espanta",
-   "cobranca antes do",
-   "o silencio do",
-   "bateu o olho",
-   "atalho pessimo para"
-  ],
   "17962389900213872": [
    "a paz de",
    "aprender o caminho"
@@ -5971,6 +5979,14 @@
    "pelo menos elimina",
    "tecnologia sendo usada",
    "tolerancia zero para"
+  ],
+  "17913815520480885": [
+   "exato somar cansaco",
+   "tem dia q",
+   "cada dia tem",
+   "quando o relogio",
+   "trabalhar cedo desse",
+   "essa conta de"
   ]
  },
  "shopee_checada": "2026-10-27|1",
@@ -6279,7 +6295,8 @@
   "22198067882": "2026-10-27T07:07:08.968014-04:00",
   "20026677093": "2026-10-27T10:37:09.236130-04:00",
   "48908520679": "2026-10-27T10:37:09.236130-04:00",
-  "21799836330": "2026-10-27T13:37:09.354196-04:00"
+  "21799836330": "2026-10-27T13:37:09.354196-04:00",
+  "22098913797": "2026-10-27T18:07:09.938547-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
