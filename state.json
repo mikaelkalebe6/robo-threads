@@ -22,12 +22,12 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 5,
+  "respostas": 8,
   "por_post": {
-   "18127401364671487": 1,
+   "18127401364671487": 2,
    "18231002650327248": 1,
    "17899714413398695": 1,
-   "17915244483494376": 1,
+   "17915244483494376": 3,
    "18153545164531054": 1
   }
  },
@@ -1337,7 +1337,7 @@
    "texto": "OPINIÃO IMPOPULAR: homem de verdade tem que ter pelo, essa moda de depilação total não dá. Prefiro os naturais ou só aparadinho.",
    "quando": "2026-10-26T15:37:10.897289-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T07:07:08.968014-04:00",
+   "viral_chk": "2026-10-27T07:37:08.357116-04:00",
    "metricas": {
     "views": 69,
     "likes": 1,
@@ -1390,7 +1390,7 @@
    "texto": "VAMOS SER HONESTOS: tentar economizar em ferramenta é pedir para o barato sair caro. Paguei o dobro só para refazer o serviço.",
    "quando": "2026-10-26T17:37:09.192926-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T07:07:08.968014-04:00",
+   "viral_chk": "2026-10-27T07:37:08.357116-04:00",
    "metricas": {
     "views": 275,
     "likes": 6,
@@ -1408,7 +1408,7 @@
    "texto": "ME CONTA: o crush de vocês veio do Tinder ou de rolê aleatório?",
    "quando": "2026-10-26T18:07:08.028743-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T07:07:08.968014-04:00",
+   "viral_chk": "2026-10-27T07:37:08.357116-04:00",
    "metricas": {
     "views": 266,
     "likes": 1,
@@ -1470,7 +1470,7 @@
     "shares": 0,
     "em": "2026-10-27"
    },
-   "viral_chk": "2026-10-27T07:07:08.968014-04:00"
+   "viral_chk": "2026-10-27T07:37:08.357116-04:00"
   }
  ],
  "respondidos": [
@@ -4067,7 +4067,10 @@
   "17884155099527558",
   "18112922008881823",
   "17975789985160609",
-  "18124512581486661"
+  "18124512581486661",
+  "18077729846435832",
+  "18110034400933744",
+  "18171220537462766"
  ],
  "hashes": [
   "64b08835f6b736d08313d4bb79bbb220",
@@ -4556,25 +4559,13 @@
   "91d1c668c6": 1,
   "5a4f6559c6": 2,
   "056fdefe80": 1,
-  "2ad2c62462": 1
+  "2ad2c62462": 1,
+  "026f0075f1": 1,
+  "aedeb1dc66": 1,
+  "c8d9c09cc2": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "firme nos principios e com a barriga sob controle",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "fome de muita coisa ao mesmo tempo kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "postura firme e inegociavel, respeito muito",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "a caridade vai ter que esperar o pix cair primeiro",
    "p": "neutra",
@@ -4709,6 +4700,21 @@
    "t": "educação passada de geração em geração para os cachorros kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "exato, fila de banco virou lenda urbana mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "atitude de quem não passa vontade nunca",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "prioridades em dia para não passar mal",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5862,7 +5868,9 @@
    "investimento de alto",
    "justo demais o",
    "isso foi um",
-   "com os olhos"
+   "com os olhos",
+   "atitude de quem",
+   "prioridades em dia"
   ],
   "18146936569585717": [
    "parafusadeira de festival",
@@ -5875,7 +5883,8 @@
   "18127401364671487": [
    "logica implacavel fim",
    "comida de mae",
-   "verdade banco fisico"
+   "verdade banco fisico",
+   "exato fila de"
   ],
   "18231002650327248": [
    "taxa de conversao",
