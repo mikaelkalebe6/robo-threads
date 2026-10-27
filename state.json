@@ -31,7 +31,7 @@
    "21:37"
   ],
   "produtos_feitos": 3,
-  "respostas": 43,
+  "respostas": 45,
   "por_post": {
    "18133394125751407": 3,
    "18153545164531054": 10,
@@ -39,7 +39,8 @@
    "17915244483494376": 17,
    "18146936569585717": 3,
    "18107493095575809": 1,
-   "18127401364671487": 1
+   "18127401364671487": 2,
+   "18231002650327248": 1
   }
  },
  "posts": [
@@ -3972,7 +3973,9 @@
   "17955419922036802",
   "18319772407303131",
   "17962826868000704",
-  "18114663850866540"
+  "18114663850866540",
+  "18181815538439493",
+  "17869721766659287"
  ],
  "hashes": [
   "64b08835f6b736d08313d4bb79bbb220",
@@ -4497,20 +4500,11 @@
   "3c3b7573d9": 1,
   "a2f5bf3490": 1,
   "030c87dfcf": 1,
-  "d075ea3f22": 1
+  "d075ea3f22": 1,
+  "0af1701b18": 2
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "É empurrar do morro vira treino de perna, kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pegar zoado nem parece arrependimento e sim vantagem kkko",
-   "p": "neutra",
-   "r": 3
-  },
   {
    "t": "Uber é bom, mas o carro ainda tem seu charme",
    "p": "concorda",
@@ -4648,6 +4642,16 @@
   },
   {
    "t": "lógica implacável, fim de semana é sagrado pro videogame antigo msm",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "taxa de conversao invejavel do aplicativo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "comida de mãe e videogame antigo formam a dupla perfeita",
    "p": "concorda",
    "r": 0
   }
@@ -5582,14 +5586,6 @@
   }
  ],
  "aberturas_post": {
-  "18078457244719478": [
-   "depois da pandemia",
-   "verdade o compartilhamento",
-   "o coracao vem",
-   "cada um com",
-   "culturalmente o nivel",
-   "o beijo adianta"
-  ],
   "18334374889261347": [
    "fantasia barata e",
    "maquiagem boa e",
@@ -5810,7 +5806,11 @@
    "dedos agradecem demais"
   ],
   "18127401364671487": [
-   "logica implacavel fim"
+   "logica implacavel fim",
+   "comida de mae"
+  ],
+  "18231002650327248": [
+   "taxa de conversao"
   ]
  },
  "shopee_checada": "2026-10-26|1",
