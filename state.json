@@ -32,7 +32,7 @@
    "17:35"
   ],
   "produtos_feitos": 2,
-  "respostas": 63,
+  "respostas": 65,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -44,7 +44,7 @@
    "18110358517935855": 8,
    "18092170271676483": 3,
    "17912121543489279": 9,
-   "17913815520480885": 6
+   "17913815520480885": 8
   }
  },
  "posts": [
@@ -4063,7 +4063,9 @@
   "18137592463735067",
   "18135054649678797",
   "18041627363839824",
-  "18349947829265458"
+  "18349947829265458",
+  "18109721683899404",
+  "17879048424565885"
  ],
  "hashes": [
   "22bfa5857347e6d70553ec9e6b8aa9c0",
@@ -4613,20 +4615,12 @@
   "bf3016bdbb": 1,
   "f673eabf60": 1,
   "eea265e03a": 1,
-  "896171bda0": 1
+  "896171bda0": 1,
+  "641476098c": 1,
+  "f19d8682c7": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "dinheiro nenhum compra paz nem devolve o tempo perdido",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o kit completo de sobrevivência materna foi entregue com sucesso",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Essa frase tá na minha lista de 'não digo, mas falo' kkkkkk",
    "p": "neutra",
@@ -4766,6 +4760,16 @@
    "t": "essa conta de dormir cedo não fecha com a vida real msm kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse sistema cobra caro de quem só quer viver em paz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "descansar deveria ser regra e não privilégio",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5986,7 +5990,9 @@
    "cada dia tem",
    "quando o relogio",
    "trabalhar cedo desse",
-   "essa conta de"
+   "essa conta de",
+   "esse sistema cobra",
+   "descansar deveria ser"
   ]
  },
  "shopee_checada": "2026-10-27|1",
