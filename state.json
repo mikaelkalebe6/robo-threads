@@ -20,7 +20,9 @@
    "14:52",
    "20:56"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:43"
+  ],
   "produtos_feitos": 0,
   "respostas": 8,
   "por_post": {
@@ -32,29 +34,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18118787687077318",
-   "insp": "546540780d",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual professor vocês lembram até hoje, por bem ou por mal? Tenho um que me traumatizou com matemática e outro que virou meu ídolo na faculdade. Quem marcou a época de vocês?",
-   "quando": "2026-10-21T17:07:10.321259-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1541,
-    "likes": 18,
-    "replies": 101,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-27"
-   },
-   "viral_chk": "2026-10-22T07:07:08.165865-04:00",
-   "link_coment": "https://s.shopee.com.br/BUmJQ2roT",
-   "meme_comentado": true,
-   "meme_views": 1240,
-   "formato_link": "coment",
-   "produto": "58256416609"
-  },
   {
    "id": "18377981101209166",
    "insp": "041d158196",
@@ -1337,7 +1316,7 @@
    "texto": "OPINIÃO IMPOPULAR: homem de verdade tem que ter pelo, essa moda de depilação total não dá. Prefiro os naturais ou só aparadinho.",
    "quando": "2026-10-26T15:37:10.897289-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T08:37:08.314802-04:00",
+   "viral_chk": "2026-10-27T09:07:11.544696-04:00",
    "metricas": {
     "views": 69,
     "likes": 1,
@@ -1390,7 +1369,7 @@
    "texto": "VAMOS SER HONESTOS: tentar economizar em ferramenta é pedir para o barato sair caro. Paguei o dobro só para refazer o serviço.",
    "quando": "2026-10-26T17:37:09.192926-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T08:37:08.314802-04:00",
+   "viral_chk": "2026-10-27T09:07:11.544696-04:00",
    "metricas": {
     "views": 275,
     "likes": 6,
@@ -1408,7 +1387,7 @@
    "texto": "ME CONTA: o crush de vocês veio do Tinder ou de rolê aleatório?",
    "quando": "2026-10-26T18:07:08.028743-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T08:37:08.314802-04:00",
+   "viral_chk": "2026-10-27T09:07:11.544696-04:00",
    "metricas": {
     "views": 266,
     "likes": 1,
@@ -1470,7 +1449,16 @@
     "shares": 0,
     "em": "2026-10-27"
    },
-   "viral_chk": "2026-10-27T08:37:08.314802-04:00"
+   "viral_chk": "2026-10-27T09:07:11.544696-04:00"
+  },
+  {
+   "id": "17917494708526792",
+   "insp": "2605ac3685",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: primeiro encontro em cinema é a pior escolha possível porque você fica duas horas olhando pra tela em vez de conversar com a pessoa.",
+   "quando": "2026-10-27T09:07:11.544696-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-27T09:07:11.544696-04:00"
   }
  ],
  "respondidos": [
@@ -4073,7 +4061,6 @@
   "18171220537462766"
  ],
  "hashes": [
-  "64b08835f6b736d08313d4bb79bbb220",
   "a4e768a27641c2f85e4ba989256c01ea",
   "f9c14049da594edaf143273a0023b7f0",
   "567e5e93d54b87ab8fc3ee4e65cbc0e6",
@@ -4272,7 +4259,8 @@
   "8860fe03c816adb9d8edf61b95ac537d",
   "3374da3c3c15bd2d4ef90a28ca2ca5d5",
   "8d4b2fe8daf0a5e822fc0e20fea0f952",
-  "633129cc617349f4f0b3ce7aba31df15"
+  "633129cc617349f4f0b3ce7aba31df15",
+  "a6125a4ebfb4073a715fe342bab83301"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4551,7 +4539,8 @@
   "3473fe5200": 1793043451.7551863,
   "70192e2aab": 1793050646.2488854,
   "41c97f7daf": 1793052457.3364546,
-  "5267cbb0dc": 1793065089.76041
+  "5267cbb0dc": 1793065089.76041,
+  "2605ac3685": 1793106470.5231354
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
