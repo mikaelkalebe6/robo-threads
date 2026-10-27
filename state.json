@@ -31,7 +31,7 @@
    "15:32"
   ],
   "produtos_feitos": 2,
-  "respostas": 47,
+  "respostas": 53,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -40,9 +40,9 @@
    "18153545164531054": 1,
    "17917494708526792": 20,
    "17959658355013450": 8,
-   "18110358517935855": 7,
+   "18110358517935855": 8,
    "18092170271676483": 3,
-   "17912121543489279": 1
+   "17912121543489279": 6
   }
  },
  "posts": [
@@ -4072,7 +4072,13 @@
   "17993511057048539",
   "18122290705980050",
   "18098960855217477",
-  "17915477184496756"
+  "17915477184496756",
+  "17911542888481694",
+  "17894782194435062",
+  "18426626746151539",
+  "17886668085623041",
+  "18133513267746183",
+  "17970882239962102"
  ],
  "hashes": [
   "f3d06b2b3b2e041be5b5be5ec85011f5",
@@ -4608,40 +4614,16 @@
   "4ff72ddf4b": 1,
   "2972b3623f": 1,
   "dd256ade98": 1,
-  "c9e6846179": 1
+  "c9e6846179": 1,
+  "e2e28dd154": 1,
+  "24f0167c2c": 1,
+  "366fd5e9e4": 1,
+  "3eb5563caa": 1,
+  "c02b14bf50": 1,
+  "c1eaa97d30": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, mas aí ninguém tem chance de roubar a pipoca kkk",
-   "p": "ressalva",
-   "r": 2
-  },
-  {
-   "t": "plano estratégico completo para não perder tempo kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "já garantiu o selo de aprovacao",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "chegar mais cedo só aumenta o desespero na fila do ingresso",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "quem precisa de papo quando tem telão gigante kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "exigir esse nível de planejamento logístico antes do filme já exige demais da ansiedade",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "timidez tem dessas coisas mesmo kkk",
    "p": "concorda",
@@ -4761,6 +4743,36 @@
    "t": "sinceridade pura e sem rodeios para salvar o dia",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "acordo de cavalheiros mudo e necessário kkkkkk",
+   "p": "concorda",
+   "r": 4
+  },
+  {
+   "t": "estratégia preventiva de alto nível kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "filosofia de vida muito prática para dias difíceis",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "às vezes a gente só quer andar em paz kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kit completo de proteção contra qualquer conhecido kkkkkkkkkkk",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "o pânico instaurado com sucesso kkkkkkkkkkkkkk",
+   "p": "concorda",
+   "r": 3
   }
  ],
  "minhas_respostas": {
@@ -5963,7 +5975,8 @@
    "ah ja to",
    "mudou o personagem",
    "justo melhor preservar",
-   "o classico ultimato"
+   "o classico ultimato",
+   "o panico instaurado"
   ],
   "18092170271676483": [
    "crianca decide a",
@@ -5971,7 +5984,12 @@
    "dois grandes classicos"
   ],
   "17912121543489279": [
-   "sinceridade pura e"
+   "sinceridade pura e",
+   "acordo de cavalheiros",
+   "estrategia preventiva de",
+   "filosofia de vida",
+   "as vezes a",
+   "kit completo de"
   ]
  },
  "shopee_checada": "2026-10-27|1",
