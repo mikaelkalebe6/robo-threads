@@ -32,7 +32,7 @@
    "17:35"
   ],
   "produtos_feitos": 2,
-  "respostas": 65,
+  "respostas": 69,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -40,11 +40,11 @@
    "17915244483494376": 3,
    "18153545164531054": 1,
    "17917494708526792": 20,
-   "17959658355013450": 9,
+   "17959658355013450": 10,
    "18110358517935855": 8,
    "18092170271676483": 3,
    "17912121543489279": 9,
-   "17913815520480885": 8
+   "17913815520480885": 11
   }
  },
  "posts": [
@@ -4065,7 +4065,11 @@
   "18041627363839824",
   "18349947829265458",
   "18109721683899404",
-  "17879048424565885"
+  "17879048424565885",
+  "18387700738239329",
+  "18185308870421699",
+  "17961328671251920",
+  "17915798688494103"
  ],
  "hashes": [
   "22bfa5857347e6d70553ec9e6b8aa9c0",
@@ -4617,30 +4621,14 @@
   "eea265e03a": 1,
   "896171bda0": 1,
   "641476098c": 1,
-  "f19d8682c7": 1
+  "f19d8682c7": 1,
+  "36a6b6c2b7": 1,
+  "e1a8f9b18d": 1,
+  "29a725b4cf": 1,
+  "3d8d39e3b3": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "Essa frase tá na minha lista de 'não digo, mas falo' kkkkkk",
-   "p": "neutra",
-   "r": 2
-  },
-  {
-   "t": "a lei da gravidade da vida, a gente não escolhe o grau",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "ah já tô preparada pra esse esfregão kkkkk 😜",
-   "p": "neutra",
-   "r": 2
-  },
-  {
-   "t": "mudou o personagem mas o recado continuou exatamente o mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "criança decide a regra e a gente só cumpre",
    "p": "concorda",
@@ -4769,6 +4757,26 @@
   {
    "t": "descansar deveria ser regra e não privilégio",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem tem energia pra academia e notícias às cinco da manhã vive em outra dimensão kkkk",
+   "p": "discorda",
+   "r": 1
+  },
+  {
+   "t": "duas horas de sono e muita coragem, formula perfeita pro caos kkkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "pobre traumatiza a gente de um jeito que nenhum pix cura kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "os boletos são os unicos que acordam cedo mesmo sem permissão",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -5956,7 +5964,8 @@
    "dinheiro nenhum compra",
    "abastecer o gol",
    "conviccao inabalavel e",
-   "paz de espirito"
+   "paz de espirito",
+   "pobre traumatiza a"
   ],
   "18110358517935855": [
    "o kit completo",
@@ -5992,7 +6001,10 @@
    "trabalhar cedo desse",
    "essa conta de",
    "esse sistema cobra",
-   "descansar deveria ser"
+   "descansar deveria ser",
+   "quem tem energia",
+   "duas horas de",
+   "os boletos sao"
   ]
  },
  "shopee_checada": "2026-10-27|1",
