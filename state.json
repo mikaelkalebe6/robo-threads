@@ -31,7 +31,7 @@
    "15:32"
   ],
   "produtos_feitos": 2,
-  "respostas": 46,
+  "respostas": 47,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -41,7 +41,8 @@
    "17917494708526792": 20,
    "17959658355013450": 8,
    "18110358517935855": 7,
-   "18092170271676483": 3
+   "18092170271676483": 3,
+   "17912121543489279": 1
   }
  },
  "posts": [
@@ -4070,7 +4071,8 @@
   "18069101333619615",
   "17993511057048539",
   "18122290705980050",
-  "18098960855217477"
+  "18098960855217477",
+  "17915477184496756"
  ],
  "hashes": [
   "f3d06b2b3b2e041be5b5be5ec85011f5",
@@ -4605,15 +4607,11 @@
   "3faa77d54c": 1,
   "4ff72ddf4b": 1,
   "2972b3623f": 1,
-  "dd256ade98": 1
+  "dd256ade98": 1,
+  "c9e6846179": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "pois é, mas parece que o mundo precisa lembrar o básico kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Verdade, mas aí ninguém tem chance de roubar a pipoca kkk",
    "p": "ressalva",
@@ -4756,6 +4754,11 @@
   },
   {
    "t": "o clássico ultimato que vinha acompanhado da promessa de sumir no mundo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sinceridade pura e sem rodeios para salvar o dia",
    "p": "concorda",
    "r": 0
   }
@@ -5720,12 +5723,6 @@
   }
  ],
  "aberturas_post": {
-  "18164686105517451": [
-   "mistura classica que",
-   "a pressao social",
-   "cada descoberta dessas",
-   "boa parte da"
-  ],
   "18100857716402310": [
    "ja comeca cortando",
    "essa encenacao toda",
@@ -5972,6 +5969,9 @@
    "crianca decide a",
    "a ilusao de",
    "dois grandes classicos"
+  ],
+  "17912121543489279": [
+   "sinceridade pura e"
   ]
  },
  "shopee_checada": "2026-10-27|1",
