@@ -28,10 +28,11 @@
    "13:02",
    "14:05",
    "14:52",
-   "15:32"
+   "15:32",
+   "17:35"
   ],
   "produtos_feitos": 2,
-  "respostas": 55,
+  "respostas": 57,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -39,51 +40,13 @@
    "17915244483494376": 3,
    "18153545164531054": 1,
    "17917494708526792": 20,
-   "17959658355013450": 8,
+   "17959658355013450": 9,
    "18110358517935855": 8,
    "18092170271676483": 3,
-   "17912121543489279": 8
+   "17912121543489279": 9
   }
  },
  "posts": [
-  {
-   "id": "18109950803579099",
-   "insp": "video_09741a7f2b",
-   "link": "",
-   "texto": "Descobri esse negócio para fazer francesinha sem borrar tudo e salvar meu tempo em casa. Olha como funciona 👀",
-   "quando": "2026-10-22T10:37:09.930902-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "22098563874",
-   "link_pendente": false,
-   "modo_produto": "tema",
-   "prod_dados": {
-    "itemId": "22098563874",
-    "nome": "Kit 15 Pincéis + 10 Boleadores Em 5 Pincéis Manicure Desenho",
-    "preco": 11.38,
-    "nota": 4.9,
-    "vendas": 5098,
-    "comissao": 0.07,
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauw-ma8xiie8ismffa",
-    "offerLink": "https://s.shopee.com.br/5VWItdr4zA",
-    "campanha": "",
-    "modo": "tema"
-   },
-   "metricas": {
-    "views": 321,
-    "likes": 5,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 1,
-    "shares": 0,
-    "em": "2026-10-27"
-   },
-   "link_coment": "https://s.shopee.com.br/5VWItdr4zA",
-   "link_em": "2026-10-23T07:07:08.890879-04:00",
-   "link_views": 0
-  },
   {
    "id": "17908296711591608",
    "insp": "55ef5ab4ee",
@@ -1432,6 +1395,14 @@
    "link": "",
    "texto": "SEJAM SINCEROS: vocês atravessam a rua fingindo que viram alguma coisa interessante do outro lado ou só fingem que não viram a pessoa mesmo?",
    "quando": "2026-10-27T15:37:09.435356-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17913815520480885",
+   "insp": "a05db3f0dd",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: essa história de acordar às cinco da manhã pra render mais só serve pra destruir a saúde mental de quem tenta. Parei com isso e agora durmo o que preciso, minha rotina agradece. Quem foi que inventou que sofrer cedo é sinônimo de sucesso?",
+   "quando": "2026-10-27T17:37:08.372588-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4080,10 +4051,11 @@
   "18133513267746183",
   "17970882239962102",
   "17912116272481335",
-  "18119923057950277"
+  "18119923057950277",
+  "18115214879024451",
+  "17894487282436982"
  ],
  "hashes": [
-  "f3d06b2b3b2e041be5b5be5ec85011f5",
   "22bfa5857347e6d70553ec9e6b8aa9c0",
   "3cb10cc6544c07d7d4691f183024cdf4",
   "9bc14e830310e6fbbbf2aed2b044b785",
@@ -4282,7 +4254,8 @@
   "66c9f50512b99d0179ab01c66b9b02d9",
   "a8de56a5d9e3e90bc35ae467d792f910",
   "bfd18b7f37880f55dbd08d82aec21387",
-  "3c66a4706e32b5e23a33caeffd683852"
+  "3c66a4706e32b5e23a33caeffd683852",
+  "889c3c9cb28e8a0cab64cb763be58c5f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4567,7 +4540,8 @@
   "1c1d414be8": 1793119065.6566234,
   "d1e2f3c049": 1793120863.046784,
   "4b99e3a872": 1793124470.8923373,
-  "4fcfb095d4": 1793129889.4446743
+  "4fcfb095d4": 1793129889.4446743,
+  "a05db3f0dd": 1793137092.3311388
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4579,7 +4553,7 @@
   "026f0075f1": 1,
   "aedeb1dc66": 1,
   "c8d9c09cc2": 1,
-  "8b62c8dd4b": 1,
+  "8b62c8dd4b": 2,
   "f99d364a5d": 1,
   "25b06cca69": 1,
   "4fac620e91": 1,
@@ -4622,20 +4596,11 @@
   "366fd5e9e4": 1,
   "3eb5563caa": 1,
   "c02b14bf50": 1,
-  "c1eaa97d30": 1
+  "c1eaa97d30": 1,
+  "3e9570a43d": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "É, duas sessões parece maratona de romance kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse planejamento milimetrico tá quase emocionante kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Concordo, a tela atrapalha a conversa, kkkkk 😅",
    "p": "concorda",
@@ -4775,6 +4740,16 @@
    "t": "tecnologia sendo usada para a única função que realmente importa kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "tolerância zero para interações não planejadas na calçada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paz de espírito e valores inegociáveis em primeiro lugar",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5968,7 +5943,8 @@
    "trabalho dobrado para",
    "dinheiro nenhum compra",
    "abastecer o gol",
-   "conviccao inabalavel e"
+   "conviccao inabalavel e",
+   "paz de espirito"
   ],
   "18110358517935855": [
    "o kit completo",
@@ -5993,7 +5969,8 @@
    "as vezes a",
    "kit completo de",
    "pelo menos elimina",
-   "tecnologia sendo usada"
+   "tecnologia sendo usada",
+   "tolerancia zero para"
   ]
  },
  "shopee_checada": "2026-10-27|1",
