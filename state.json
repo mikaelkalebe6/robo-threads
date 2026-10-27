@@ -29,10 +29,11 @@
    "14:05",
    "14:52",
    "15:32",
-   "17:35"
+   "17:35",
+   "19:10"
   ],
   "produtos_feitos": 2,
-  "respostas": 69,
+  "respostas": 72,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -44,28 +45,11 @@
    "18110358517935855": 8,
    "18092170271676483": 3,
    "17912121543489279": 9,
-   "17913815520480885": 11
+   "17913815520480885": 13,
+   "18122836490511425": 1
   }
  },
  "posts": [
-  {
-   "id": "17908296711591608",
-   "insp": "55ef5ab4ee",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: homem que resolve um pepino prático em casa sem fazer drama ganha um charme inexplicável.",
-   "quando": "2026-10-22T11:37:10.113020-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 257,
-    "likes": 5,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-27"
-   },
-   "viral_chk": "2026-10-23T11:37:08.123457-04:00"
-  },
   {
    "id": "18179603278449081",
    "insp": "bcd56c55f6",
@@ -1407,6 +1391,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: essa história de acordar às cinco da manhã pra render mais só serve pra destruir a saúde mental de quem tenta. Parei com isso e agora durmo o que preciso, minha rotina agradece. Quem foi que inventou que sofrer cedo é sinônimo de sucesso?",
    "quando": "2026-10-27T17:37:08.372588-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17918222961259641",
+   "insp": "5760d94547",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual foi o maior prejuízo que um carro já te deu?",
+   "quando": "2026-10-27T19:37:09.308116-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4069,10 +4061,12 @@
   "18387700738239329",
   "18185308870421699",
   "17961328671251920",
-  "17915798688494103"
+  "17915798688494103",
+  "18078353075444612",
+  "17914725717502138",
+  "17932641345166430"
  ],
  "hashes": [
-  "22bfa5857347e6d70553ec9e6b8aa9c0",
   "3cb10cc6544c07d7d4691f183024cdf4",
   "9bc14e830310e6fbbbf2aed2b044b785",
   "d685c9dfae5cd7af6cd1456f0c9cc527",
@@ -4271,7 +4265,8 @@
   "a8de56a5d9e3e90bc35ae467d792f910",
   "bfd18b7f37880f55dbd08d82aec21387",
   "3c66a4706e32b5e23a33caeffd683852",
-  "889c3c9cb28e8a0cab64cb763be58c5f"
+  "889c3c9cb28e8a0cab64cb763be58c5f",
+  "8e3a4a40bf72d04d47e5bf2f7db150de"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4557,7 +4552,8 @@
   "d1e2f3c049": 1793120863.046784,
   "4b99e3a872": 1793124470.8923373,
   "4fcfb095d4": 1793129889.4446743,
-  "a05db3f0dd": 1793137092.3311388
+  "a05db3f0dd": 1793137092.3311388,
+  "5760d94547": 1793144294.4001164
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4625,25 +4621,13 @@
   "36a6b6c2b7": 1,
   "e1a8f9b18d": 1,
   "29a725b4cf": 1,
-  "3d8d39e3b3": 1
+  "3d8d39e3b3": 1,
+  "4daac2f246": 1,
+  "3486926c7c": 1,
+  "a9136978b1": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "criança decide a regra e a gente só cumpre",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a ilusão de que a criatura ia dormir no próprio quarto kkkkkkkk",
-   "p": "concorda",
-   "r": 4
-  },
-  {
-   "t": "dois grandes clássicos que toda lista de enxoval adora carregar junto",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "justo, melhor preservar o limite então",
    "p": "neutra",
@@ -4777,6 +4761,21 @@
   {
    "t": "os boletos são os unicos que acordam cedo mesmo sem permissão",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "um comprimido amassado preso na testa com esparadrapo",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "dormir bem deveria ser o padrao oficial kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "nove horas de sono é o mínimo para o cerebro funcionar direito",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -5745,10 +5744,6 @@
   }
  ],
  "aberturas_post": {
-  "17962389900213872": [
-   "a paz de",
-   "aprender o caminho"
-  ],
   "18093983168653453": [
    "perdeu o acesso",
    "metodo infalivel para"
@@ -6004,7 +5999,12 @@
    "descansar deveria ser",
    "quem tem energia",
    "duas horas de",
-   "os boletos sao"
+   "os boletos sao",
+   "dormir bem deveria",
+   "nove horas de"
+  ],
+  "18122836490511425": [
+   "um comprimido amassado"
   ]
  },
  "shopee_checada": "2026-10-27|1",
