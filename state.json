@@ -25,14 +25,14 @@
    "10:07"
   ],
   "produtos_feitos": 0,
-  "respostas": 19,
+  "respostas": 25,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
    "17899714413398695": 1,
    "17915244483494376": 3,
    "18153545164531054": 1,
-   "17917494708526792": 11
+   "17917494708526792": 17
   }
  },
  "posts": [
@@ -1301,7 +1301,7 @@
    "texto": "OPINIÃO IMPOPULAR: homem de verdade tem que ter pelo, essa moda de depilação total não dá. Prefiro os naturais ou só aparadinho.",
    "quando": "2026-10-26T15:37:10.897289-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T10:07:10.120163-04:00",
+   "viral_chk": "2026-10-27T10:37:09.236130-04:00",
    "metricas": {
     "views": 69,
     "likes": 1,
@@ -1323,7 +1323,7 @@
    "estrategia": "produto_video",
    "formato_link": "resp",
    "produto": "20026677093",
-   "link_pendente": true,
+   "link_pendente": false,
    "modo_produto": "parecido",
    "prod_dados": {
     "itemId": "20026677093",
@@ -1345,7 +1345,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-10-27"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/1W0GuWAS6S",
+   "link_em": "2026-10-27T10:37:09.236130-04:00",
+   "link_views": 0
   },
   {
    "id": "18146936569585717",
@@ -1354,7 +1357,7 @@
    "texto": "VAMOS SER HONESTOS: tentar economizar em ferramenta é pedir para o barato sair caro. Paguei o dobro só para refazer o serviço.",
    "quando": "2026-10-26T17:37:09.192926-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T10:07:10.120163-04:00",
+   "viral_chk": "2026-10-27T10:37:09.236130-04:00",
    "metricas": {
     "views": 275,
     "likes": 6,
@@ -1372,7 +1375,7 @@
    "texto": "ME CONTA: o crush de vocês veio do Tinder ou de rolê aleatório?",
    "quando": "2026-10-26T18:07:08.028743-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T10:07:10.120163-04:00",
+   "viral_chk": "2026-10-27T10:37:09.236130-04:00",
    "metricas": {
     "views": 266,
     "likes": 1,
@@ -1434,7 +1437,7 @@
     "shares": 0,
     "em": "2026-10-27"
    },
-   "viral_chk": "2026-10-27T10:07:10.120163-04:00"
+   "viral_chk": "2026-10-27T10:37:09.236130-04:00"
   },
   {
    "id": "17917494708526792",
@@ -1443,7 +1446,12 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em cinema é a pior escolha possível porque você fica duas horas olhando pra tela em vez de conversar com a pessoa.",
    "quando": "2026-10-27T09:07:11.544696-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T10:07:10.120163-04:00"
+   "viral_chk": "2026-10-27T10:37:09.236130-04:00",
+   "link_coment": "https://s.shopee.com.br/4LKTTtu7jD",
+   "meme_comentado": true,
+   "meme_views": 1061,
+   "formato_link": "coment",
+   "produto": "48908520679"
   },
   {
    "id": "18122836490511425",
@@ -4064,7 +4072,13 @@
   "17888747205486517",
   "17993644005111488",
   "17997498564105106",
-  "18117822773107707"
+  "18117822773107707",
+  "17994753957103101",
+  "18109953323214850",
+  "18340858117279863",
+  "18130904303493717",
+  "17971593132187369",
+  "18036161141668476"
  ],
  "hashes": [
   "f9c14049da594edaf143273a0023b7f0",
@@ -4569,40 +4583,16 @@
   "8ec62f88ac": 1,
   "5928b62261": 1,
   "fe5a55d48e": 1,
-  "e66a2e119b": 1
+  "e66a2e119b": 1,
+  "276ec989e9": 1,
+  "54ff9536f1": 1,
+  "9de7f3b13c": 1,
+  "b35859f239": 1,
+  "03cd9f937c": 1,
+  "7bf86b4089": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "parafusadeira de festival de música que descarrega no primeiro acorde kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "queria ter essa paz de espirito financeira kkkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "economia que vira prejuízo em dobro na certa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "investimento de alto risco para garantir o jantar kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justo demais, o foco tem que ser o papo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "boa noite, aproveita bastante para descansar também",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "isso foi um encontro ou uma gincana com regras confusas",
    "p": "neutra",
@@ -4722,6 +4712,36 @@
    "t": "plano estratégico completo para não perder tempo kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "já garantiu o selo de aprovacao",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "chegar mais cedo só aumenta o desespero na fila do ingresso",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "quem precisa de papo quando tem telão gigante kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "exigir esse nível de planejamento logístico antes do filme já exige demais da ansiedade",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "timidez tem dessas coisas mesmo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "mudar a ordem dos fatores realmente altera o resultado do date",
+   "p": "discorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5144,6 +5164,16 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-27T07:07:08.968014-04:00"
+  },
+  "17951399565300682": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-27T10:37:09.236130-04:00"
+  },
+  "18117968813079921": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-27T10:37:09.236130-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -5907,7 +5937,13 @@
    "cronograma apertado mas",
    "pois e mas",
    "verdade mas ai",
-   "plano estrategico completo"
+   "plano estrategico completo",
+   "ja garantiu o",
+   "chegar mais cedo",
+   "quem precisa de",
+   "exigir esse nivel",
+   "timidez tem dessas",
+   "mudar a ordem"
   ]
  },
  "shopee_checada": "2026-10-27|1",
@@ -6213,7 +6249,9 @@
   "23692977970": "2026-10-26T11:37:09.672425-04:00",
   "22719293954": "2026-10-26T14:07:09.406467-04:00",
   "58264465671": "2026-10-26T16:07:08.888672-04:00",
-  "22198067882": "2026-10-27T07:07:08.968014-04:00"
+  "22198067882": "2026-10-27T07:07:08.968014-04:00",
+  "20026677093": "2026-10-27T10:37:09.236130-04:00",
+  "48908520679": "2026-10-27T10:37:09.236130-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -6223,7 +6261,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-27",
-  "qtd": 1
+  "qtd": 2
  },
  "carrosseis_usados": [
   "car-20261010-1",
