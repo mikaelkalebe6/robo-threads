@@ -24,13 +24,14 @@
    "08:43"
   ],
   "produtos_feitos": 0,
-  "respostas": 8,
+  "respostas": 14,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
    "17899714413398695": 1,
    "17915244483494376": 3,
-   "18153545164531054": 1
+   "18153545164531054": 1,
+   "17917494708526792": 6
   }
  },
  "posts": [
@@ -1316,7 +1317,7 @@
    "texto": "OPINIÃO IMPOPULAR: homem de verdade tem que ter pelo, essa moda de depilação total não dá. Prefiro os naturais ou só aparadinho.",
    "quando": "2026-10-26T15:37:10.897289-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T09:07:11.544696-04:00",
+   "viral_chk": "2026-10-27T09:37:13.762591-04:00",
    "metricas": {
     "views": 69,
     "likes": 1,
@@ -1369,7 +1370,7 @@
    "texto": "VAMOS SER HONESTOS: tentar economizar em ferramenta é pedir para o barato sair caro. Paguei o dobro só para refazer o serviço.",
    "quando": "2026-10-26T17:37:09.192926-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T09:07:11.544696-04:00",
+   "viral_chk": "2026-10-27T09:37:13.762591-04:00",
    "metricas": {
     "views": 275,
     "likes": 6,
@@ -1387,7 +1388,7 @@
    "texto": "ME CONTA: o crush de vocês veio do Tinder ou de rolê aleatório?",
    "quando": "2026-10-26T18:07:08.028743-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T09:07:11.544696-04:00",
+   "viral_chk": "2026-10-27T09:37:13.762591-04:00",
    "metricas": {
     "views": 266,
     "likes": 1,
@@ -1449,7 +1450,7 @@
     "shares": 0,
     "em": "2026-10-27"
    },
-   "viral_chk": "2026-10-27T09:07:11.544696-04:00"
+   "viral_chk": "2026-10-27T09:37:13.762591-04:00"
   },
   {
    "id": "17917494708526792",
@@ -1458,7 +1459,7 @@
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em cinema é a pior escolha possível porque você fica duas horas olhando pra tela em vez de conversar com a pessoa.",
    "quando": "2026-10-27T09:07:11.544696-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T09:07:11.544696-04:00"
+   "viral_chk": "2026-10-27T09:37:13.762591-04:00"
   }
  ],
  "respondidos": [
@@ -4058,7 +4059,13 @@
   "18124512581486661",
   "18077729846435832",
   "18110034400933744",
-  "18171220537462766"
+  "18171220537462766",
+  "17997067065014189",
+  "18029347391872914",
+  "18109939307208241",
+  "18194218816397431",
+  "18140316904618701",
+  "18043547204822751"
  ],
  "hashes": [
   "a4e768a27641c2f85e4ba989256c01ea",
@@ -4551,40 +4558,16 @@
   "2ad2c62462": 1,
   "026f0075f1": 1,
   "aedeb1dc66": 1,
-  "c8d9c09cc2": 1
+  "c8d9c09cc2": 1,
+  "8b62c8dd4b": 1,
+  "f99d364a5d": 1,
+  "25b06cca69": 1,
+  "4fac620e91": 1,
+  "394345b622": 1,
+  "8cd158304b": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "a caridade vai ter que esperar o pix cair primeiro",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "respeito essa postura inegociável",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "gestão financeira é ótima até o pneu furar na terça feira kkkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "pelo menos a intenção inicial era bem clara",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "autossuficiente até na hora da janta kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o destino cobra a nossa língua certinho",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "estratégia válida para garantir a janta",
    "p": "concorda",
@@ -4703,6 +4686,36 @@
   {
    "t": "prioridades em dia para não passar mal",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia avançada para garantir a companhia sem perder a pipoca",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "menos mal que alguém mais pensa assim",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "inverter a ordem dos fatores altera o resultado do date kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "filme ruim pelo menos serve pra alguma coisa útil kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "para ver o filme que não é",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece absurdo até vc tentar conversar com alguém na fila da pipoca",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -5651,10 +5664,6 @@
   }
  ],
  "aberturas_post": {
-  "18357290920169506": [
-   "video ja e",
-   "em qualquer area"
-  ],
   "18065985020518186": [
    "com certeza ai",
    "esse e o",
@@ -5881,6 +5890,14 @@
   ],
   "17899714413398695": [
    "argumento de higiene"
+  ],
+  "17917494708526792": [
+   "estrategia avancada para",
+   "menos mal que",
+   "inverter a ordem",
+   "filme ruim pelo",
+   "para ver o",
+   "parece absurdo ate"
   ]
  },
  "shopee_checada": "2026-10-27|1",
