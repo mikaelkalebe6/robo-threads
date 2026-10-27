@@ -22,37 +22,21 @@
   ],
   "feitos": [
    "08:43",
-   "10:07"
+   "10:07",
+   "10:52"
   ],
-  "produtos_feitos": 0,
-  "respostas": 25,
+  "produtos_feitos": 1,
+  "respostas": 28,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
    "17899714413398695": 1,
    "17915244483494376": 3,
    "18153545164531054": 1,
-   "17917494708526792": 17
+   "17917494708526792": 20
   }
  },
  "posts": [
-  {
-   "id": "18110886974268536",
-   "insp": "3b094b119a",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: feriadão prolongado é só um teste pra ver quem não tem o que fazer em casa e inventa de pegar estrada pra passar raiva no trânsito.",
-   "quando": "2026-10-21T19:07:07.698580-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 115,
-    "likes": 8,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-27"
-   }
-  },
   {
    "id": "18129767968883192",
    "insp": "video_5bb5b8dd07",
@@ -1461,6 +1445,32 @@
    "quando": "2026-10-27T10:07:10.120163-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "viral_chk": "2026-10-27T10:07:10.120163-04:00"
+  },
+  {
+   "id": "18337660753302886",
+   "insp": "video_1eed5ab929",
+   "link": "",
+   "texto": "Descobri esse truque pra roupa preta que desbota: lavar de novo e a cor volta. Olha como funciona 👀",
+   "quando": "2026-10-27T11:07:19.363213-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "formato": "videofoto",
+   "estrategia": "produto_video",
+   "formato_link": "resp",
+   "produto": "23499364961",
+   "link_pendente": true,
+   "modo_produto": "tema",
+   "prod_dados": {
+    "itemId": "23499364961",
+    "nome": "Detergente Roupa Preta Protege O Preto | Realça A Cor | Evita Desbotamento 1kg A",
+    "preco": 24.64,
+    "nota": 4.9,
+    "vendas": 1527,
+    "comissao": 0.16,
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mll99udq0ao7d0",
+    "offerLink": "https://s.shopee.com.br/6q1oUenk4v",
+    "campanha": "",
+    "modo": "tema"
+   }
   }
  ],
  "respondidos": [
@@ -4078,7 +4088,10 @@
   "18340858117279863",
   "18130904303493717",
   "17971593132187369",
-  "18036161141668476"
+  "18036161141668476",
+  "18146026429504445",
+  "18223948474342231",
+  "18109981283217366"
  ],
  "hashes": [
   "f9c14049da594edaf143273a0023b7f0",
@@ -4589,25 +4602,13 @@
   "9de7f3b13c": 1,
   "b35859f239": 1,
   "03cd9f937c": 1,
-  "7bf86b4089": 1
+  "7bf86b4089": 1,
+  "1f1e8afefa": 1,
+  "0e0bc251d0": 1,
+  "8d75f96149": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "isso foi um encontro ou uma gincana com regras confusas",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "dedos agradecem demais esse investimento em tecnologia kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "lógica implacável, fim de semana é sagrado pro videogame antigo msm",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "taxa de conversao invejavel do aplicativo",
    "p": "concorda",
@@ -4742,6 +4743,21 @@
    "t": "mudar a ordem dos fatores realmente altera o resultado do date",
    "p": "discorda",
    "r": 0
+  },
+  {
+   "t": "É, duas sessões parece maratona de romance kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "esse planejamento milimetrico tá quase emocionante kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Concordo, a tela atrapalha a conversa, kkkkk 😅",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5943,7 +5959,10 @@
    "quem precisa de",
    "exigir esse nivel",
    "timidez tem dessas",
-   "mudar a ordem"
+   "mudar a ordem",
+   "e duas sessoes",
+   "esse planejamento milimetrico",
+   "concordo a tela"
   ]
  },
  "shopee_checada": "2026-10-27|1",
@@ -6410,6 +6429,7 @@
   "5ade262d77": "2026-10-25T20:07:08.792857-04:00",
   "f1a247bce9": "2026-10-26T10:07:11.324830-04:00",
   "6dee727fa0": "2026-10-26T16:37:08.702243-04:00",
-  "ac9fb06008": "2026-10-26T19:37:08.492261-04:00"
+  "ac9fb06008": "2026-10-26T19:37:08.492261-04:00",
+  "1eed5ab929": "2026-10-27T11:07:19.363213-04:00"
  }
 }
