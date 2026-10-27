@@ -23,7 +23,8 @@
   "feitos": [
    "08:43",
    "10:07",
-   "10:52"
+   "10:52",
+   "12:16"
   ],
   "produtos_feitos": 1,
   "respostas": 28,
@@ -37,44 +38,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18129767968883192",
-   "insp": "video_5bb5b8dd07",
-   "link": "",
-   "texto": "Descobri esse jeito de fazer doce em casa e salvar a larica da madrugada. Olha como funciona 👀",
-   "quando": "2026-10-21T20:07:07.832422-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "22593650256",
-   "link_pendente": false,
-   "modo_produto": "tema",
-   "prod_dados": {
-    "itemId": "22593650256",
-    "nome": "Frigideira Ovo Antiaderente Pequena C/tampa Vidro 12 Cm",
-    "preco": 29.99,
-    "nota": 4.8,
-    "vendas": 355,
-    "comissao": 0.03,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m54dujlz17r96d",
-    "offerLink": "https://s.shopee.com.br/4LKKXgfmjg",
-    "campanha": "",
-    "modo": "tema"
-   },
-   "link_coment": "https://s.shopee.com.br/4LKKXgfmjg",
-   "link_em": "2026-10-21T21:37:08.725499-04:00",
-   "link_views": 698,
-   "metricas": {
-    "views": 1064,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-27"
-   }
-  },
   {
    "id": "18343944772287252",
    "insp": "304d0a9ace",
@@ -1471,6 +1434,14 @@
     "campanha": "",
     "modo": "tema"
    }
+  },
+  {
+   "id": "17959658355013450",
+   "insp": "1c1d414be8",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: vocês voltariam com um ex só porque ele ficou milionário ou o orgulho ainda fala mais alto",
+   "quando": "2026-10-27T12:37:10.901516-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4094,7 +4065,6 @@
   "18109981283217366"
  ],
  "hashes": [
-  "f9c14049da594edaf143273a0023b7f0",
   "567e5e93d54b87ab8fc3ee4e65cbc0e6",
   "7fb7a5f5f67624d28da24546e868cb0a",
   "3622febd97918e95eb2cfcd309971087",
@@ -4293,7 +4263,8 @@
   "8d4b2fe8daf0a5e822fc0e20fea0f952",
   "633129cc617349f4f0b3ce7aba31df15",
   "a6125a4ebfb4073a715fe342bab83301",
-  "8743beeaae6f46ac02f9a86ff79b7c6f"
+  "8743beeaae6f46ac02f9a86ff79b7c6f",
+  "66c9f50512b99d0179ab01c66b9b02d9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4574,7 +4545,8 @@
   "41c97f7daf": 1793052457.3364546,
   "5267cbb0dc": 1793065089.76041,
   "2605ac3685": 1793106470.5231354,
-  "aa28edd6a1": 1793110088.7743607
+  "aa28edd6a1": 1793110088.7743607,
+  "1c1d414be8": 1793119065.6566234
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
