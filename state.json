@@ -31,14 +31,15 @@
    "21:37"
   ],
   "produtos_feitos": 3,
-  "respostas": 42,
+  "respostas": 43,
   "por_post": {
    "18133394125751407": 3,
    "18153545164531054": 10,
    "18112867718588328": 8,
    "17915244483494376": 17,
    "18146936569585717": 3,
-   "18107493095575809": 1
+   "18107493095575809": 1,
+   "18127401364671487": 1
   }
  },
  "posts": [
@@ -3970,7 +3971,8 @@
   "18069711584779774",
   "17955419922036802",
   "18319772407303131",
-  "17962826868000704"
+  "17962826868000704",
+  "18114663850866540"
  ],
  "hashes": [
   "64b08835f6b736d08313d4bb79bbb220",
@@ -4494,15 +4496,11 @@
   "de18d33a61": 1,
   "3c3b7573d9": 1,
   "a2f5bf3490": 1,
-  "030c87dfcf": 1
+  "030c87dfcf": 1,
+  "d075ea3f22": 1
  },
  "reservas_checadas": "2026-10-26",
  "ultimas_respostas": [
-  {
-   "t": "Então o carro tá pedindo um romance caro kkkkkkk",
-   "p": "neutra",
-   "r": 3
-  },
   {
    "t": "É empurrar do morro vira treino de perna, kkkkk",
    "p": "concorda",
@@ -4647,6 +4645,11 @@
    "t": "dedos agradecem demais esse investimento em tecnologia kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "lógica implacável, fim de semana é sagrado pro videogame antigo msm",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5579,16 +5582,6 @@
   }
  ],
  "aberturas_post": {
-  "18129375533505510": [
-   "esse valor ai",
-   "lugar simples cobrando",
-   "preco de outro",
-   "cobram o valor",
-   "preco bom de",
-   "autonomia financeira e",
-   "esse valor ja",
-   "ia estragar a"
-  ],
   "18078457244719478": [
    "depois da pandemia",
    "verdade o compartilhamento",
@@ -5815,6 +5808,9 @@
   ],
   "18107493095575809": [
    "dedos agradecem demais"
+  ],
+  "18127401364671487": [
+   "logica implacavel fim"
   ]
  },
  "shopee_checada": "2026-10-26|1",
