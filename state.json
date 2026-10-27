@@ -27,7 +27,8 @@
    "16:28",
    "17:10",
    "17:50",
-   "19:10"
+   "19:10",
+   "21:37"
   ],
   "produtos_feitos": 3,
   "respostas": 42,
@@ -41,44 +42,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18110725331181104",
-   "insp": "video_a437b4bec2",
-   "link": "",
-   "texto": "descobri esse brinco azul e dourado e agora só quero usar ele em jantar importante, olha como funciona 👀",
-   "quando": "2026-10-21T15:37:08.793619-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "27534187957",
-   "link_pendente": false,
-   "modo_produto": "mesmo",
-   "prod_dados": {
-    "itemId": "27534187957",
-    "nome": "Brincos novo estilo brincos de cristal azul requintados brincos elegantes",
-    "preco": 21.95,
-    "nota": 4.7,
-    "vendas": 0,
-    "comissao": 0.15,
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reob-m8m0z4zdwvk0b3",
-    "offerLink": "https://s.shopee.com.br/9pfGnFf5Gu",
-    "campanha": "",
-    "modo": "mesmo"
-   },
-   "metricas": {
-    "views": 101,
-    "likes": 2,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-26"
-   },
-   "link_coment": "https://s.shopee.com.br/9pfGnFf5Gu",
-   "link_em": "2026-10-22T09:37:09.558931-04:00",
-   "link_views": 0
-  },
   {
    "id": "18118787687077318",
    "insp": "546540780d",
@@ -1411,6 +1374,14 @@
     "campanha": "",
     "modo": "parecido"
    }
+  },
+  {
+   "id": "18127401364671487",
+   "insp": "5267cbb0dc",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: jogo de celular na fila do banco ou videogame antigo no fim de semana?",
+   "quando": "2026-10-26T21:37:09.107661-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4002,7 +3973,6 @@
   "17962826868000704"
  ],
  "hashes": [
-  "7e8e8b52d65dde96b279c2cc0141c93f",
   "64b08835f6b736d08313d4bb79bbb220",
   "a4e768a27641c2f85e4ba989256c01ea",
   "f9c14049da594edaf143273a0023b7f0",
@@ -4201,7 +4171,8 @@
   "055788945327645dff7e114b5ba4f840",
   "8860fe03c816adb9d8edf61b95ac537d",
   "3374da3c3c15bd2d4ef90a28ca2ca5d5",
-  "8d4b2fe8daf0a5e822fc0e20fea0f952"
+  "8d4b2fe8daf0a5e822fc0e20fea0f952",
+  "633129cc617349f4f0b3ce7aba31df15"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4479,7 +4450,8 @@
   "6a712ecbe9": 1793034538.0364904,
   "3473fe5200": 1793043451.7551863,
   "70192e2aab": 1793050646.2488854,
-  "41c97f7daf": 1793052457.3364546
+  "41c97f7daf": 1793052457.3364546,
+  "5267cbb0dc": 1793065089.76041
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
