@@ -31,7 +31,7 @@
    "15:32"
   ],
   "produtos_feitos": 2,
-  "respostas": 53,
+  "respostas": 55,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -42,7 +42,7 @@
    "17959658355013450": 8,
    "18110358517935855": 8,
    "18092170271676483": 3,
-   "17912121543489279": 6
+   "17912121543489279": 8
   }
  },
  "posts": [
@@ -4078,7 +4078,9 @@
   "18426626746151539",
   "17886668085623041",
   "18133513267746183",
-  "17970882239962102"
+  "17970882239962102",
+  "17912116272481335",
+  "18119923057950277"
  ],
  "hashes": [
   "f3d06b2b3b2e041be5b5be5ec85011f5",
@@ -4594,7 +4596,7 @@
   "b35859f239": 1,
   "03cd9f937c": 1,
   "7bf86b4089": 1,
-  "1f1e8afefa": 1,
+  "1f1e8afefa": 2,
   "0e0bc251d0": 1,
   "8d75f96149": 1,
   "bb249cc2de": 1,
@@ -4613,7 +4615,7 @@
   "3faa77d54c": 1,
   "4ff72ddf4b": 1,
   "2972b3623f": 1,
-  "dd256ade98": 1,
+  "dd256ade98": 2,
   "c9e6846179": 1,
   "e2e28dd154": 1,
   "24f0167c2c": 1,
@@ -4624,16 +4626,6 @@
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "timidez tem dessas coisas mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "mudar a ordem dos fatores realmente altera o resultado do date",
-   "p": "discorda",
-   "r": 0
-  },
   {
    "t": "É, duas sessões parece maratona de romance kkkkk",
    "p": "concorda",
@@ -4773,6 +4765,16 @@
    "t": "o pânico instaurado com sucesso kkkkkkkkkkkkkk",
    "p": "concorda",
    "r": 3
+  },
+  {
+   "t": "pelo menos elimina a culpa de ter evitado alguém kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "tecnologia sendo usada para a única função que realmente importa kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5989,7 +5991,9 @@
    "estrategia preventiva de",
    "filosofia de vida",
    "as vezes a",
-   "kit completo de"
+   "kit completo de",
+   "pelo menos elimina",
+   "tecnologia sendo usada"
   ]
  },
  "shopee_checada": "2026-10-27|1",
