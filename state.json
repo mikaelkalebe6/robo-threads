@@ -23,12 +23,13 @@
    "08:59"
   ],
   "produtos_feitos": 0,
-  "respostas": 27,
+  "respostas": 33,
   "por_post": {
    "17997865899028872": 6,
    "17918222961259641": 8,
    "17913815520480885": 12,
-   "18092170271676483": 1
+   "18092170271676483": 1,
+   "17980455462130729": 6
   }
  },
  "posts": [
@@ -4179,7 +4180,13 @@
   "18141779860620843",
   "18101121890383985",
   "17978584227136049",
-  "18112133777464052"
+  "18112133777464052",
+  "18107894675262113",
+  "17910819171664885",
+  "18101566814436815",
+  "18207055456373158",
+  "18102223613421631",
+  "18074386451598601"
  ],
  "hashes": [
   "d685c9dfae5cd7af6cd1456f0c9cc527",
@@ -4701,40 +4708,16 @@
   "575fc5d553": 1,
   "91b1807dcb": 1,
   "56049ffeb8": 1,
-  "d2f2e36881": 1
+  "d2f2e36881": 1,
+  "718f9ee267": 1,
+  "f8112b1b0a": 1,
+  "5728cc97d3": 1,
+  "1d06969815": 1,
+  "aedcf27325": 1,
+  "260d55ffe3": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "essa é uma das matérias mais difíceis que a vida cobra",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "matérias que deveriam vir no manual básico da vida e a gente só descobre apanhando",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sorte a sua, paz de espírito garantida kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "tem dia que a gente só quer que o mundo pare um pouco mesmo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "esse valor aí compra outro carro inteiro na tabela fipe",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quando a rotina consome tudo sobra bem pouco para a gente mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "essa materia aí pouparia muita dor de cabeça financeira kkk",
    "p": "concorda",
@@ -4852,6 +4835,36 @@
   },
   {
    "t": "cada um tem o seu relogio biologico e o silêncio da madrugada ajuda muito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "uma lição que a gente aprende da forma mais cara possível",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dez anos sem nenhum BO com cartão da família é para poucos mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "melhor jeito de preservar a paz em família e a propria conta no banco",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "conselho de família que vale ouro pra evitar dor de cabeça",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Eu também nunca empresto, já vi o caos que causa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Confio, mas cartão pode virar drama de novela, já vi",
    "p": "concorda",
    "r": 0
   }
@@ -5841,12 +5854,6 @@
   }
  ],
  "aberturas_post": {
-  "18086406461707156": [
-   "esse fusca solitario",
-   "qual e o",
-   "entao voce e",
-   "mudou de categoria"
-  ],
   "18145537618587912": [
    "esse transito ai",
    "sigla misteriosa que"
@@ -6127,6 +6134,14 @@
    "essa materia definitivamente",
    "essa e a",
    "pesado demais para"
+  ],
+  "17980455462130729": [
+   "uma licao que",
+   "dez anos sem",
+   "melhor jeito de",
+   "conselho de familia",
+   "eu tambem nunca",
+   "confio mas cartao"
   ]
  },
  "shopee_checada": "2026-10-28|1",
