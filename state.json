@@ -27,15 +27,16 @@
    "13:30"
   ],
   "produtos_feitos": 1,
-  "respostas": 69,
+  "respostas": 74,
   "por_post": {
-   "17997865899028872": 10,
+   "17997865899028872": 11,
    "17918222961259641": 20,
    "17913815520480885": 19,
-   "18092170271676483": 4,
+   "18092170271676483": 5,
    "17980455462130729": 12,
    "18091692569222965": 3,
-   "18146338231578758": 1
+   "18146338231578758": 3,
+   "18096262466442750": 1
   },
   "escondidos": 1
  },
@@ -4182,7 +4183,12 @@
   "17973702648160088",
   "17915277255536906",
   "18356532085269678",
-  "18116652062108935"
+  "18116652062108935",
+  "18104473505530735",
+  "18111259154231825",
+  "18128283830512403",
+  "18000706562817669",
+  "18134547793707430"
  ],
  "hashes": [
   "bbcadfd99d1d09858b72cd7a80f8299e",
@@ -4747,35 +4753,15 @@
   "a6ae7fdd02": 1,
   "38366de049": 1,
   "bfe37b0af2": 1,
-  "56d4dc1ba6": 1
+  "56d4dc1ba6": 1,
+  "4fac620e91": 1,
+  "d100a31331": 1,
+  "1b0eb58e57": 1,
+  "dee93f729b": 1,
+  "4daac2f246": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "Cartão emprestado a parente vira plot twist de drama, kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "vantagem que pelo menos economizou na mão de obra kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "monza decido a morar permanentemente na oficina kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse combo aí custou quase o preço de um carro novo na época kkkkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cenário clássico de transe e guincho de madrugada",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "nem com o sabre de luz aceso da pra arriscar",
    "p": "concorda",
@@ -4898,6 +4884,31 @@
   },
   {
    "t": "Poxa, eu também comprei cobertorzinho e o bebê fez cara de calor kkkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "versão artesanal sempre salvando a infância kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "exato, tempo livre sem um centavo no bolso só serve pra gente ficar olhando pra parede",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, o custo de respirar fora de casa tá bem alto mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "equipamento recusado com sucesso kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Entendo, T.I. tem jeito de puxar de volta kkk 🙏🏼",
    "p": "concorda",
    "r": 1
   }
@@ -5887,17 +5898,6 @@
   }
  ],
  "aberturas_post": {
-  "18357940078223066": [
-   "parcelamento criativo que",
-   "esse detalhe do",
-   "esse sossego da",
-   "para gerar assunto",
-   "quem avisa amigo",
-   "com certeza o",
-   "economia que acaba",
-   "pagar a prestacao",
-   "essa diferenca de"
-  ],
   "17962475325229174": [
    "pesado mas dificil",
    "paz de espirito",
@@ -6086,7 +6086,8 @@
    "promessa de milagre",
    "essa cama improvisada",
    "dinheiro jogado fora",
-   "poxa eu tambem"
+   "poxa eu tambem",
+   "equipamento recusado com"
   ],
   "17912121543489279": [
    "sinceridade pura e",
@@ -6165,7 +6166,8 @@
    "teoria e bonita",
    "salva a vida",
    "duas coisas que",
-   "esse trio ai"
+   "esse trio ai",
+   "entendo t i"
   ],
   "17980455462130729": [
    "uma licao que",
@@ -6187,7 +6189,12 @@
    "pelo menos a"
   ],
   "18146338231578758": [
-   "verdade no fim"
+   "verdade no fim",
+   "exato tempo livre",
+   "verdade o custo"
+  ],
+  "18096262466442750": [
+   "versao artesanal sempre"
   ]
  },
  "shopee_checada": "2026-10-28|1",
