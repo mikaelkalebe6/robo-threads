@@ -30,7 +30,7 @@
    "17:52"
   ],
   "produtos_feitos": 2,
-  "respostas": 90,
+  "respostas": 96,
   "por_post": {
    "17997865899028872": 13,
    "17918222961259641": 20,
@@ -40,7 +40,8 @@
    "18091692569222965": 4,
    "18146338231578758": 5,
    "18096262466442750": 2,
-   "17939308794122207": 8
+   "17939308794122207": 13,
+   "18114732275034207": 1
   },
   "escondidos": 1
  },
@@ -4192,7 +4193,13 @@
   "17956400463027405",
   "18110635868181126",
   "18101789966384273",
-  "18116504339029050"
+  "18116504339029050",
+  "18002565969039737",
+  "18014205743762852",
+  "18038704487891213",
+  "18084023981709502",
+  "17964436542239300",
+  "18056391950585219"
  ],
  "hashes": [
   "92d54301a9af0bbfd9e2594d5cc5b2b7",
@@ -4777,40 +4784,16 @@
   "cea6678ad5": 1,
   "1108d37c21": 1,
   "8c94f24c86": 1,
-  "51a74de43b": 1
+  "51a74de43b": 1,
+  "f94c62944b": 1,
+  "7dcae39e11": 1,
+  "a588eb83b6": 1,
+  "fa15bf6797": 1,
+  "8b62987a59": 1,
+  "cc1a76cc86": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "esse trio aí custa caro até a gente aprender a respeitar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "liberdade de horário é o verdadeiro luxo do autônomo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa parte mecânica pesa no orçamento de um jeito desleal",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "corpo humano não foi feito para funcionar nesse horário",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse motor aí funcionava mais na base do carnê que da gasolina kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "verdade, no fim das contas a vida passa rápido demais pra gente só pagar boleto",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa cama improvisada virou o melhor investimento sem querer kkk",
    "p": "concorda",
@@ -4928,6 +4911,36 @@
   },
   {
    "t": "paz de espirito vale mais que qualquer favor de família",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o dinheiro some antes da gente conseguir pensar em lazer básico",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "liberdade total que fala né",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nem todo mundo aguenta a propria companhia",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "esse pensamento passa longe de ser só paranoia, da um aperto só de imaginar",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "os gatos sempre assumindo a culpa por todos os mistérios da casa kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "verdade absoluta, paz demais",
    "p": "concorda",
    "r": 0
   }
@@ -5917,9 +5930,6 @@
   }
  ],
  "aberturas_post": {
-  "18018918797741015": [
-   "salva demais a"
-  ],
   "18411469255089348": [
    "amizade verdadeira e",
    "esse nome trazia",
@@ -6221,7 +6231,15 @@
    "uma invasao domestica",
    "a inocencia de",
    "paz incomparavel",
-   "pesadelo de quem"
+   "pesadelo de quem",
+   "liberdade total que",
+   "nem todo mundo",
+   "esse pensamento passa",
+   "os gatos sempre",
+   "verdade absoluta paz"
+  ],
+  "18114732275034207": [
+   "o dinheiro some"
   ]
  },
  "shopee_checada": "2026-10-28|1",
