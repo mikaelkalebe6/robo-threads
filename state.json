@@ -24,13 +24,13 @@
    "09:54"
   ],
   "produtos_feitos": 1,
-  "respostas": 38,
+  "respostas": 44,
   "por_post": {
    "17997865899028872": 8,
-   "17918222961259641": 9,
+   "17918222961259641": 13,
    "17913815520480885": 12,
    "18092170271676483": 1,
-   "17980455462130729": 8
+   "17980455462130729": 10
   },
   "escondidos": 1
  },
@@ -4196,7 +4196,13 @@
   "18122602012992834",
   "18125902837684815",
   "18121949245942295",
-  "18148186321567641"
+  "18148186321567641",
+  "18370911343246493",
+  "17877045768635936",
+  "17996196105110535",
+  "18108837827629187",
+  "18113203259606777",
+  "18037886042890829"
  ],
  "hashes": [
   "d685c9dfae5cd7af6cd1456f0c9cc527",
@@ -4729,40 +4735,16 @@
   "e14e72377c": 1,
   "c15f11683d": 1,
   "86c69aab0d": 1,
-  "b10c06a7be": 1
+  "b10c06a7be": 1,
+  "1f1e8afefa": 1,
+  "285473ba58": 1,
+  "0e5329e04c": 1,
+  "96c0a81885": 1,
+  "6081ea007b": 1,
+  "0a1a01ec73": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "inventaram uma regra que atende só a produtividade dos outros",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "escutar ela mais cedo evitaria muita volta errada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "levar golpe de oficina é um teste de paciência nível hard",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa matéria definitivamente não ensinam na escola",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dormir cedo até ajuda, o problema é ter que levantar de madrugada depois",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "essa é a mais difícil de todas de colocar em prática kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "motor detonado por falta de troca de óleo é o pesadelo de qualquer dono",
    "p": "concorda",
@@ -4880,6 +4862,36 @@
   },
   {
    "t": "perder o carro assim pro sistema é uma maldade sem tamanho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "escola da vida que cobra caro na matricula",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Cartão emprestado a parente vira plot twist de drama, kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "vantagem que pelo menos economizou na mão de obra kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "monza decido a morar permanentemente na oficina kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse combo aí custou quase o preço de um carro novo na época kkkkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cenário clássico de transe e guincho de madrugada",
    "p": "concorda",
    "r": 0
   }
@@ -6113,10 +6125,6 @@
    "um comprimido amassado"
   ],
   "17918222961259641": [
-   "esse sim veio",
-   "esse uno resolveu",
-   "essa despesa com",
-   "esse carrinho ai",
    "turbina e motor",
    "dois carros que",
    "esse investimento inicial",
@@ -6132,7 +6140,11 @@
    "dobradinha de prejuizo",
    "investimento que consome",
    "passou por uma",
-   "perder o carro"
+   "perder o carro",
+   "vantagem que pelo",
+   "monza decido a",
+   "esse combo ai",
+   "cenario classico de"
   ],
   "17997865899028872": [
    "guardar cedo evita",
@@ -6160,7 +6172,9 @@
    "eu tambem nunca",
    "confio mas cartao",
    "regra de ouro",
-   "comida na mesa"
+   "comida na mesa",
+   "escola da vida",
+   "cartao emprestado a"
   ]
  },
  "shopee_checada": "2026-10-28|1",
