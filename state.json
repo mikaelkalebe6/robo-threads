@@ -25,7 +25,8 @@
    "11:08",
    "12:39",
    "13:30",
-   "15:07"
+   "15:07",
+   "16:41"
   ],
   "produtos_feitos": 2,
   "respostas": 80,
@@ -42,24 +43,6 @@
   "escondidos": 1
  },
  "posts": [
-  {
-   "id": "18357290920169506",
-   "insp": "4af53e8178",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: mandar áudio de três minutos logo no início da paquera é teste de paciência, não de compatibilidade",
-   "quando": "2026-10-22T21:37:08.640422-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 177,
-    "likes": 3,
-    "replies": 8,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-28"
-   },
-   "viral_chk": "2026-10-23T16:37:09.185518-04:00"
-  },
   {
    "id": "18065985020518186",
    "insp": "35da8217ed",
@@ -1420,6 +1403,14 @@
     "campanha": ""
    },
    "apagado": true
+  },
+  {
+   "id": "17939308794122207",
+   "insp": "379a8ce6b4",
+   "link": "",
+   "texto": "PESSOAS QUE MORAM SOZINHAS: a melhor parte é andar pelada pela casa e a pior é ouvir barulho estranho de madrugada.",
+   "quando": "2026-10-28T17:07:08.721451-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4202,7 +4193,6 @@
   "17995032732051758"
  ],
  "hashes": [
-  "bbcadfd99d1d09858b72cd7a80f8299e",
   "77abb99d4acbd4bf95d3f3d196e7c974",
   "92d54301a9af0bbfd9e2594d5cc5b2b7",
   "d745ccf8df54a20b9b9e9b1324d7af32",
@@ -4401,7 +4391,8 @@
   "641c7392501b883d3c0c4712da6f91ca",
   "858f7877f9c28cec937083080f1aafad",
   "8c4c1624e76015f5d96bd6d5030c1359",
-  "6b9fb23b684174a8a490e16e6deab228"
+  "6b9fb23b684174a8a490e16e6deab228",
+  "804973db987f7b93619ff59c5bb175db"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4693,7 +4684,8 @@
   "0046da4da8": 1793192851.2663953,
   "cadb3d9e75": 1793201851.7399964,
   "a46755f7b9": 1793207258.8348277,
-  "1625f98254": 1793209089.0608096
+  "1625f98254": 1793209089.0608096,
+  "379a8ce6b4": 1793221687.3524406
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
