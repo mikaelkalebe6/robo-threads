@@ -26,42 +26,25 @@
    "12:39",
    "13:30",
    "15:07",
-   "16:41"
+   "16:41",
+   "17:52"
   ],
   "produtos_feitos": 2,
-  "respostas": 86,
+  "respostas": 90,
   "por_post": {
    "17997865899028872": 13,
    "17918222961259641": 20,
    "17913815520480885": 20,
    "18092170271676483": 5,
-   "17980455462130729": 12,
+   "17980455462130729": 13,
    "18091692569222965": 4,
    "18146338231578758": 5,
    "18096262466442750": 2,
-   "17939308794122207": 5
+   "17939308794122207": 8
   },
   "escondidos": 1
  },
  "posts": [
-  {
-   "id": "18065985020518186",
-   "insp": "35da8217ed",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: ir pra um primeiro date sem stalkear até o feed de 2018 não é maturidade, é coragem demais.",
-   "quando": "2026-10-23T08:37:08.812722-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "viral_chk": "2026-10-24T08:37:07.797981-04:00",
-   "metricas": {
-    "views": 957,
-    "likes": 29,
-    "replies": 22,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-28"
-   }
-  },
   {
    "id": "18133177114765373",
    "insp": "4564f47ffe",
@@ -1411,6 +1394,14 @@
    "link": "",
    "texto": "PESSOAS QUE MORAM SOZINHAS: a melhor parte é andar pelada pela casa e a pior é ouvir barulho estranho de madrugada.",
    "quando": "2026-10-28T17:07:08.721451-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18114732275034207",
+   "insp": "6e7858b93b",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: em que momento exato a gente aceitou que sair para comer fora virou um luxo de fim de ano?",
+   "quando": "2026-10-28T18:07:08.763845-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4197,10 +4188,13 @@
   "18097954148440739",
   "18338257351272858",
   "18126372304810206",
-  "18177765997445799"
+  "18177765997445799",
+  "17956400463027405",
+  "18110635868181126",
+  "18101789966384273",
+  "18116504339029050"
  ],
  "hashes": [
-  "77abb99d4acbd4bf95d3f3d196e7c974",
   "92d54301a9af0bbfd9e2594d5cc5b2b7",
   "d745ccf8df54a20b9b9e9b1324d7af32",
   "6605182ed5362256a93dbc8cd23b5076",
@@ -4399,7 +4393,8 @@
   "858f7877f9c28cec937083080f1aafad",
   "8c4c1624e76015f5d96bd6d5030c1359",
   "6b9fb23b684174a8a490e16e6deab228",
-  "804973db987f7b93619ff59c5bb175db"
+  "804973db987f7b93619ff59c5bb175db",
+  "a36d8664b49976c73459d95ad917665c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4692,7 +4687,8 @@
   "cadb3d9e75": 1793201851.7399964,
   "a46755f7b9": 1793207258.8348277,
   "1625f98254": 1793209089.0608096,
-  "379a8ce6b4": 1793221687.3524406
+  "379a8ce6b4": 1793221687.3524406,
+  "6e7858b93b": 1793225291.397958
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4769,7 +4765,7 @@
   "1b0eb58e57": 1,
   "dee93f729b": 1,
   "4daac2f246": 1,
-  "9587d4288b": 1,
+  "9587d4288b": 2,
   "c6d88fff5e": 1,
   "1829e62181": 1,
   "71afa5c1d2": 1,
@@ -4778,30 +4774,13 @@
   "c8055059b8": 1,
   "509b287f93": 1,
   "366fd5e9e4": 2,
-  "cea6678ad5": 1
+  "cea6678ad5": 1,
+  "1108d37c21": 1,
+  "8c94f24c86": 1,
+  "51a74de43b": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "construir um país forte precisa caminhar junto com o respeito ao descanso de quem faz tudo girar",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "esse relógio interno aí veio com defeito reverso kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse orçamento aí já dá pra dar entrada em outro carro kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pelo menos a rede social garante que a gente tá maluca em grupo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse trio aí custa caro até a gente aprender a respeitar",
    "p": "concorda",
@@ -4931,6 +4910,26 @@
    "t": "uma invasão doméstica totalmente inesperada e saltitante kkkkkkk",
    "p": "concorda",
    "r": 4
+  },
+  {
+   "t": "a inocência de achar que não tem ninguém olhando é a melhor parte",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paz incomparável",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesadelo de quem só queria dormir em paz kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "paz de espirito vale mais que qualquer favor de família",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6194,7 +6193,8 @@
    "escola da vida",
    "cartao emprestado a",
    "nem com o",
-   "licao aprendida do"
+   "licao aprendida do",
+   "paz de espirito"
   ],
   "18091692569222965": [
    "pelo menos o",
@@ -6218,7 +6218,10 @@
    "estrategia avancada pra",
    "esse ai ganha",
    "moro em casa",
-   "uma invasao domestica"
+   "uma invasao domestica",
+   "a inocencia de",
+   "paz incomparavel",
+   "pesadelo de quem"
   ]
  },
  "shopee_checada": "2026-10-28|1",
