@@ -28,9 +28,9 @@
    "15:07"
   ],
   "produtos_feitos": 2,
-  "respostas": 79,
+  "respostas": 80,
   "por_post": {
-   "17997865899028872": 12,
+   "17997865899028872": 13,
    "17918222961259641": 20,
    "17913815520480885": 20,
    "18092170271676483": 5,
@@ -4196,7 +4196,8 @@
   "17912133798574962",
   "18091515827264157",
   "18116308115039313",
-  "18138438355739216"
+  "18138438355739216",
+  "17995032732051758"
  ],
  "hashes": [
   "bbcadfd99d1d09858b72cd7a80f8299e",
@@ -4770,15 +4771,11 @@
   "9587d4288b": 1,
   "c6d88fff5e": 1,
   "1829e62181": 1,
-  "71afa5c1d2": 1
+  "71afa5c1d2": 1,
+  "bfb03d92ee": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "trabalhar só pra manter carro na oficina é uma maldade sem tamanho",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "duas coisas que evitam metade dos desesperos da vida adulta",
    "p": "concorda",
@@ -4921,6 +4918,11 @@
   },
   {
    "t": "esse tipo de atalho mental faz toda diferença na rotina",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa ficha demora a cair mas traz um alivio enorme quando finalmente chega",
    "p": "concorda",
    "r": 0
   }
@@ -6161,7 +6163,6 @@
    "esse motor ai"
   ],
   "17997865899028872": [
-   "guardar cedo evita",
    "levou pontos ja",
    "essa licao ai",
    "comecar aos 13",
@@ -6180,7 +6181,8 @@
    "duas coisas que",
    "esse trio ai",
    "entendo t i",
-   "esse tipo de"
+   "esse tipo de",
+   "essa ficha demora"
   ],
   "17980455462130729": [
    "uma licao que",
