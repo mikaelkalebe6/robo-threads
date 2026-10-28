@@ -33,7 +33,7 @@
    "19:10"
   ],
   "produtos_feitos": 2,
-  "respostas": 72,
+  "respostas": 78,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -45,8 +45,9 @@
    "18110358517935855": 8,
    "18092170271676483": 3,
    "17912121543489279": 9,
-   "17913815520480885": 13,
-   "18122836490511425": 1
+   "17913815520480885": 14,
+   "18122836490511425": 1,
+   "17918222961259641": 5
   }
  },
  "posts": [
@@ -4064,7 +4065,13 @@
   "17915798688494103",
   "18078353075444612",
   "17914725717502138",
-  "17932641345166430"
+  "17932641345166430",
+  "18289495066288668",
+  "18118098389022531",
+  "18119158202049790",
+  "18059400716652377",
+  "18056597081585240",
+  "17876569731585952"
  ],
  "hashes": [
   "3cb10cc6544c07d7d4691f183024cdf4",
@@ -4624,40 +4631,16 @@
   "3d8d39e3b3": 1,
   "4daac2f246": 1,
   "3486926c7c": 1,
-  "a9136978b1": 1
+  "a9136978b1": 1,
+  "54f2158b3c": 1,
+  "951cc550a4": 1,
+  "15268f41df": 1,
+  "ae2dcb8746": 1,
+  "831576afa9": 1,
+  "77be192144": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "justo, melhor preservar o limite então",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "abastecer o gol é investimento de longo prazo kkkkkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "convicção inabalável e paz de espírito em primeiro lugar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o clássico ultimato que vinha acompanhado da promessa de sumir no mundo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sinceridade pura e sem rodeios para salvar o dia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "acordo de cavalheiros mudo e necessário kkkkkk",
-   "p": "concorda",
-   "r": 4
-  },
   {
    "t": "estratégia preventiva de alto nível kkkk",
    "p": "concorda",
@@ -4777,6 +4760,36 @@
    "t": "nove horas de sono é o mínimo para o cerebro funcionar direito",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "trocar o motor já vem com brinde de infarto junto kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "três motores é colecionar trauma automotivo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "esse sim veio com taxa de distrato altíssima kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "esse uno resolveu cobrar caro pelo serviço prestado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa despesa com quatro pneus de uma vez assusta qualquer um",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "indústria milionária do desespero kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5744,10 +5757,6 @@
   }
  ],
  "aberturas_post": {
-  "18093983168653453": [
-   "perdeu o acesso",
-   "metodo infalivel para"
-  ],
   "17936082702401534": [
    "quem tem esse",
    "marquinhos ja vem",
@@ -6001,10 +6010,18 @@
    "duas horas de",
    "os boletos sao",
    "dormir bem deveria",
-   "nove horas de"
+   "nove horas de",
+   "industria milionaria do"
   ],
   "18122836490511425": [
    "um comprimido amassado"
+  ],
+  "17918222961259641": [
+   "trocar o motor",
+   "tres motores e",
+   "esse sim veio",
+   "esse uno resolveu",
+   "essa despesa com"
   ]
  },
  "shopee_checada": "2026-10-27|1",
