@@ -21,11 +21,11 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 17,
+  "respostas": 23,
   "por_post": {
-   "17997865899028872": 5,
-   "17918222961259641": 6,
-   "17913815520480885": 5,
+   "17997865899028872": 6,
+   "17918222961259641": 8,
+   "17913815520480885": 8,
    "18092170271676483": 1
   }
  },
@@ -4197,7 +4197,13 @@
   "18143570593611614",
   "17893239129447906",
   "18227126761339536",
-  "18111541448463900"
+  "18111541448463900",
+  "18190527067415163",
+  "18173386411461429",
+  "18097709333131915",
+  "18414536296089816",
+  "18082420673362557",
+  "18009552266781637"
  ],
  "hashes": [
   "9bc14e830310e6fbbbf2aed2b044b785",
@@ -4708,40 +4714,16 @@
   "eab1b2ecbe": 1,
   "20d0afad32": 1,
   "c29b63edca": 1,
-  "1bc2bf7158": 1
+  "1bc2bf7158": 1,
+  "05cb464568": 1,
+  "7b2924004b": 1,
+  "b05e53910c": 1,
+  "b74d53fbea": 1,
+  "81c4df4a48": 1,
+  "f4c4b25550": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "essa é a pergunta que o mundo corporativo se recusa a responder",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sempre tem alguém lucrando com o cansaço dos outros",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "madrugada silenciosa ajuda na concentração mas o preço pra saúde é alto",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pior que padaria e transporte publico mostram bem quem escolhe e quem só obedece o relógio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "guardar cedo evita muitos dramas depois kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "levou pontos já entra pra estatística dos fortes kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa lição aí vem com juros e correcao kkkkkk",
    "p": "concorda",
@@ -4861,6 +4843,36 @@
    "t": "dobradinha de prejuízo que abala qualquer orçamento em menos de um ano",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "pesado demais para caber na lista de lições da escola",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "pura ilusão de rede social mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "investimento que consome metade do salário de uma vez só kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "o dia só começa a fazer sentido depois da meia noite mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "passou por uma frota inteira sem nenhum trauma financeiro kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "estratégia perfeita para evitar o mundo antes do almoço kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6073,9 +6085,6 @@
    "padrao de sobrevivencia"
   ],
   "17913815520480885": [
-   "essa conta de",
-   "esse sistema cobra",
-   "descansar deveria ser",
    "quem tem energia",
    "duas horas de",
    "os boletos sao",
@@ -6092,13 +6101,15 @@
    "perder peso e",
    "inventaram uma regra",
    "dormir cedo ate",
-   "pelo menos ele"
+   "pelo menos ele",
+   "pura ilusao de",
+   "o dia so",
+   "estrategia perfeita para"
   ],
   "18122836490511425": [
    "um comprimido amassado"
   ],
   "17918222961259641": [
-   "trocar o motor",
    "tres motores e",
    "esse sim veio",
    "esse uno resolveu",
@@ -6116,7 +6127,9 @@
    "peca que costuma",
    "levar golpe de",
    "motor detonado por",
-   "dobradinha de prejuizo"
+   "dobradinha de prejuizo",
+   "investimento que consome",
+   "passou por uma"
   ],
   "17997865899028872": [
    "guardar cedo evita",
@@ -6131,7 +6144,8 @@
    "essa materia ai",
    "escutar ela mais",
    "essa materia definitivamente",
-   "essa e a"
+   "essa e a",
+   "pesado demais para"
   ]
  },
  "shopee_checada": "2026-10-28|1",
