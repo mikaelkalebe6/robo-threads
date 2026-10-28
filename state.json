@@ -30,10 +30,11 @@
    "14:52",
    "15:32",
    "17:35",
-   "19:10"
+   "19:10",
+   "20:56"
   ],
-  "produtos_feitos": 2,
-  "respostas": 84,
+  "produtos_feitos": 3,
+  "respostas": 90,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -42,38 +43,15 @@
    "18153545164531054": 1,
    "17917494708526792": 20,
    "17959658355013450": 10,
-   "18110358517935855": 8,
-   "18092170271676483": 3,
-   "17912121543489279": 9,
-   "17913815520480885": 14,
+   "18110358517935855": 9,
+   "18092170271676483": 4,
+   "17912121543489279": 10,
+   "17913815520480885": 16,
    "18122836490511425": 1,
-   "17918222961259641": 11
+   "17918222961259641": 12
   }
  },
  "posts": [
-  {
-   "id": "18179603278449081",
-   "insp": "bcd56c55f6",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: quem compra livro e deixa um ano na estante sem abrir?",
-   "quando": "2026-10-22T13:07:08.270400-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 1704,
-    "likes": 36,
-    "replies": 105,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-27"
-   },
-   "viral_chk": "2026-10-23T07:07:08.890879-04:00",
-   "link_coment": "https://s.shopee.com.br/3VlFsS3Tp4",
-   "meme_comentado": true,
-   "meme_views": 1616,
-   "formato_link": "coment",
-   "produto": "23998767632"
-  },
   {
    "id": "17873769906602294",
    "insp": "fa26296fcf",
@@ -1401,6 +1379,26 @@
    "texto": "DÚVIDA SINCERA: qual foi o maior prejuízo que um carro já te deu?",
    "quando": "2026-10-27T19:37:09.308116-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18636852952008792",
+   "insp": "prod_21898099575",
+   "link": "",
+   "texto": "Ficar segurando o celular no GPS do carro é pedir pra tomar multa, né? 😂 Descobri esse suporte veicular que prende na ventilação e resolveu minha vida no trânsito. Olha como funciona 👀",
+   "quando": "2026-10-27T21:07:08.589314-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "21898099575",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "21898099575",
+    "nome": "Suporte Veicular Carro Para Celular 360 ° Giratório Universal Multifuncional Ventilacao Ar JE-12",
+    "offerLink": "https://s.shopee.com.br/4VdtRoohf4",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reo2-m82d3ghzzngx0d",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
@@ -4077,7 +4075,13 @@
   "18131952958778815",
   "18101378039386256",
   "18136547383680556",
-  "18138487543629184"
+  "18138487543629184",
+  "18652404115036037",
+  "18037334825897978",
+  "17985867846092931",
+  "17886590784503075",
+  "18094660739183929",
+  "18133750033768066"
  ],
  "hashes": [
   "3cb10cc6544c07d7d4691f183024cdf4",
@@ -4649,40 +4653,16 @@
   "1fdd94a055": 1,
   "95538d75a2": 1,
   "48108379fe": 1,
-  "9447223fdb": 1
+  "9447223fdb": 1,
+  "4757a25fd2": 1,
+  "b940ec9d0b": 1,
+  "ab88cde371": 1,
+  "eea3ca92b0": 1,
+  "b97637e742": 1,
+  "0af1701b18": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "tecnologia sendo usada para a única função que realmente importa kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "tolerância zero para interações não planejadas na calçada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "paz de espírito e valores inegociáveis em primeiro lugar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "exato, somar cansaço com cobrança não dá",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tem dia q a obrigação pesa mas transformar sofrimento em regra já é demais",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "cada dia tem sua própria regra e o corpo avisa quando chega a hora",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "quando o relógio biológico já ajuda, o processo fica bem mais leve",
    "p": "ressalva",
@@ -4802,6 +4782,36 @@
    "t": "coleção de desastres digna de filme de terror kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "categoria inteira que prometia soluções mágicas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a saliva salvando o momento kkkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "padrão de sobrevivência urbana kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "perder um carro que a gente gosta desse jeito dói até hoje mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "marido sensato e vc produtiva no seu horario",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "bater ponto na madrugada exige uma coragem que eu não tenho mais",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5991,12 +6001,14 @@
    "mudou o personagem",
    "justo melhor preservar",
    "o classico ultimato",
-   "o panico instaurado"
+   "o panico instaurado",
+   "a saliva salvando"
   ],
   "18092170271676483": [
    "crianca decide a",
    "a ilusao de",
-   "dois grandes classicos"
+   "dois grandes classicos",
+   "categoria inteira que"
   ],
   "17912121543489279": [
    "sinceridade pura e",
@@ -6007,7 +6019,8 @@
    "kit completo de",
    "pelo menos elimina",
    "tecnologia sendo usada",
-   "tolerancia zero para"
+   "tolerancia zero para",
+   "padrao de sobrevivencia"
   ],
   "17913815520480885": [
    "exato somar cansaco",
@@ -6023,7 +6036,9 @@
    "os boletos sao",
    "dormir bem deveria",
    "nove horas de",
-   "industria milionaria do"
+   "industria milionaria do",
+   "marido sensato e",
+   "bater ponto na"
   ],
   "18122836490511425": [
    "um comprimido amassado"
@@ -6039,7 +6054,8 @@
    "dois carros que",
    "esse investimento inicial",
    "esse ai ganha",
-   "colecao de desastres"
+   "colecao de desastres",
+   "perder um carro"
   ]
  },
  "shopee_checada": "2026-10-27|1",
@@ -6275,7 +6291,7 @@
   "58214462678": "2026-10-11T15:37:09.556759-04:00",
   "58204067039": "2026-10-11T19:07:07.516757-04:00",
   "23993565028": "2026-10-26T18:37:08.130717-04:00",
-  "21898099575": "2026-10-11T23:07:08.967006-04:00",
+  "21898099575": "2026-10-27T21:07:08.589314-04:00",
   "58257654101": "2026-10-12T10:37:09.051050-04:00",
   "58250519029": "2026-10-12T14:07:09.043573-04:00",
   "58264177301": "2026-10-12T17:37:07.573345-04:00",
