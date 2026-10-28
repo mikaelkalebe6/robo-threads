@@ -24,13 +24,13 @@
    "09:54"
   ],
   "produtos_feitos": 1,
-  "respostas": 44,
+  "respostas": 50,
   "por_post": {
    "17997865899028872": 8,
-   "17918222961259641": 13,
-   "17913815520480885": 12,
+   "17918222961259641": 16,
+   "17913815520480885": 14,
    "18092170271676483": 1,
-   "17980455462130729": 10
+   "17980455462130729": 11
   },
   "escondidos": 1
  },
@@ -4202,7 +4202,13 @@
   "17996196105110535",
   "18108837827629187",
   "18113203259606777",
-  "18037886042890829"
+  "18037886042890829",
+  "18128808082844245",
+  "17907934374596141",
+  "18002814399001898",
+  "18151206601477164",
+  "17972568252188601",
+  "18153724492530604"
  ],
  "hashes": [
   "d685c9dfae5cd7af6cd1456f0c9cc527",
@@ -4741,40 +4747,16 @@
   "0e5329e04c": 1,
   "96c0a81885": 1,
   "6081ea007b": 1,
-  "0a1a01ec73": 1
+  "0a1a01ec73": 1,
+  "790b593257": 1,
+  "4bbc73dd97": 1,
+  "95f14bc218": 1,
+  "e5832a0b49": 1,
+  "1c9b2bd6e5": 1,
+  "4e8a8768c4": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "motor detonado por falta de troca de óleo é o pesadelo de qualquer dono",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos ele compensava dormindo cedo, o segredo era esse",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dobradinha de prejuízo que abala qualquer orçamento em menos de um ano",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesado demais para caber na lista de lições da escola",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "pura ilusão de rede social mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "investimento que consome metade do salário de uma vez só kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "o dia só começa a fazer sentido depois da meia noite mesmo",
    "p": "concorda",
@@ -4892,6 +4874,36 @@
   },
   {
    "t": "cenário clássico de transe e guincho de madrugada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nem com o sabre de luz aceso da pra arriscar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "que bom que deu certo para o seu ritmo, o importante é achar o que funciona para cada um",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "essa última frase resume perfeitamente qualquer relacionamento com carro antigo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "mudança de horário que dobra a produção prova que cada relógio biológico funciona no seu tempo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quatro vezes o mesmo erro é teste pra paciência de santo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "trabalhar só pra manter carro na oficina é uma maldade sem tamanho",
    "p": "concorda",
    "r": 0
   }
@@ -6100,8 +6112,6 @@
    "padrao de sobrevivencia"
   ],
   "17913815520480885": [
-   "nove horas de",
-   "industria milionaria do",
    "marido sensato e",
    "bater ponto na",
    "essa e a",
@@ -6119,15 +6129,14 @@
    "exercito de zumbis",
    "saudade dessa disposicao",
    "privacao de sono",
-   "cada um tem"
+   "cada um tem",
+   "que bom que",
+   "mudanca de horario"
   ],
   "18122836490511425": [
    "um comprimido amassado"
   ],
   "17918222961259641": [
-   "turbina e motor",
-   "dois carros que",
-   "esse investimento inicial",
    "esse ai ganha",
    "colecao de desastres",
    "perder um carro",
@@ -6144,7 +6153,10 @@
    "vantagem que pelo",
    "monza decido a",
    "esse combo ai",
-   "cenario classico de"
+   "cenario classico de",
+   "essa ultima frase",
+   "quatro vezes o",
+   "trabalhar so pra"
   ],
   "17997865899028872": [
    "guardar cedo evita",
@@ -6174,7 +6186,8 @@
    "regra de ouro",
    "comida na mesa",
    "escola da vida",
-   "cartao emprestado a"
+   "cartao emprestado a",
+   "nem com o"
   ]
  },
  "shopee_checada": "2026-10-28|1",
