@@ -19,55 +19,19 @@
    "15:07",
    "19:54"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:59"
+  ],
   "produtos_feitos": 0,
-  "respostas": 23,
+  "respostas": 27,
   "por_post": {
    "17997865899028872": 6,
    "17918222961259641": 8,
-   "17913815520480885": 8,
+   "17913815520480885": 12,
    "18092170271676483": 1
   }
  },
  "posts": [
-  {
-   "id": "17932033053419563",
-   "insp": "video_e2e0719234",
-   "link": "",
-   "texto": "Descobri esse jogo de pratos que monta um hambúrguer quando empilha. Olha como funciona 👀",
-   "quando": "2026-10-22T15:07:08.290033-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "40961639598",
-   "link_pendente": false,
-   "modo_produto": "tema",
-   "prod_dados": {
-    "itemId": "40961639598",
-    "nome": "Kit Jogo Pano De Prato Cozinha Copa Cheff Algodão Sortidos",
-    "preco": 27.9,
-    "nota": 4.9,
-    "vendas": 6504,
-    "comissao": 0.09,
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy6-md26kp08n22odb",
-    "offerLink": "https://s.shopee.com.br/80DeAipTaX",
-    "campanha": "",
-    "modo": "tema"
-   },
-   "metricas": {
-    "views": 98,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-28"
-   },
-   "link_coment": "https://s.shopee.com.br/80DeAipTaX",
-   "link_em": "2026-10-23T09:07:08.320907-04:00",
-   "link_views": 0
-  },
   {
    "id": "18129375533505510",
    "insp": "603114869d",
@@ -1482,6 +1446,14 @@
     "shares": 0,
     "em": "2026-10-28"
    }
+  },
+  {
+   "id": "17980455462130729",
+   "insp": "0046da4da8",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: vocês emprestam o cartão de crédito pra alguém da família ou já aprenderam da pior forma que isso é o fim dos tempos?",
+   "quando": "2026-10-28T09:07:09.690857-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4203,10 +4175,13 @@
   "18097709333131915",
   "18414536296089816",
   "18082420673362557",
-  "18009552266781637"
+  "18009552266781637",
+  "18141779860620843",
+  "18101121890383985",
+  "17978584227136049",
+  "18112133777464052"
  ],
  "hashes": [
-  "9bc14e830310e6fbbbf2aed2b044b785",
   "d685c9dfae5cd7af6cd1456f0c9cc527",
   "65378016ebeb45b1e935c0a64d72b004",
   "a394ab203d94e8c051a391da2f4ec606",
@@ -4405,7 +4380,8 @@
   "3c66a4706e32b5e23a33caeffd683852",
   "889c3c9cb28e8a0cab64cb763be58c5f",
   "8e3a4a40bf72d04d47e5bf2f7db150de",
-  "cde85533a7b95ccb3e43688a87af64d7"
+  "cde85533a7b95ccb3e43688a87af64d7",
+  "641c7392501b883d3c0c4712da6f91ca"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4693,7 +4669,8 @@
   "4fcfb095d4": 1793129889.4446743,
   "a05db3f0dd": 1793137092.3311388,
   "5760d94547": 1793144294.4001164,
-  "3125348bad": 1793153250.330989
+  "3125348bad": 1793153250.330989,
+  "0046da4da8": 1793192851.2663953
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4720,30 +4697,14 @@
   "b05e53910c": 1,
   "b74d53fbea": 1,
   "81c4df4a48": 1,
-  "f4c4b25550": 1
+  "f4c4b25550": 1,
+  "575fc5d553": 1,
+  "91b1807dcb": 1,
+  "56049ffeb8": 1,
+  "d2f2e36881": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "essa lição aí vem com juros e correcao kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "começar aos 13 já é profissão de gente grande, economia faz falta pra todo mundo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "duas chaves que abrem quase todas as portas hoje em dia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "escola nenhuma prepara a gente para o tamanho do estrago que é aprender tudo na marra",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa é uma das matérias mais difíceis que a vida cobra",
    "p": "concorda",
@@ -4873,6 +4834,26 @@
    "t": "estratégia perfeita para evitar o mundo antes do almoço kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "exército de zumbis voluntários que me desculpem mas nem sob tortura kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "saudade dessa disposição que vinha de fábrica antigamente",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "privação de sono vendida como troféu de guerra kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "cada um tem o seu relogio biologico e o silêncio da madrugada ajuda muito",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6085,10 +6066,6 @@
    "padrao de sobrevivencia"
   ],
   "17913815520480885": [
-   "quem tem energia",
-   "duas horas de",
-   "os boletos sao",
-   "dormir bem deveria",
    "nove horas de",
    "industria milionaria do",
    "marido sensato e",
@@ -6104,7 +6081,11 @@
    "pelo menos ele",
    "pura ilusao de",
    "o dia so",
-   "estrategia perfeita para"
+   "estrategia perfeita para",
+   "exercito de zumbis",
+   "saudade dessa disposicao",
+   "privacao de sono",
+   "cada um tem"
   ],
   "18122836490511425": [
    "um comprimido amassado"
