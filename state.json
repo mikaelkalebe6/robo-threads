@@ -35,7 +35,7 @@
    "21:39"
   ],
   "produtos_feitos": 3,
-  "respostas": 101,
+  "respostas": 103,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -50,7 +50,7 @@
    "17913815520480885": 20,
    "18122836490511425": 1,
    "17918222961259641": 12,
-   "17997865899028872": 5
+   "17997865899028872": 7
   }
  },
  "posts": [
@@ -4085,7 +4085,9 @@
   "18109436633354005",
   "17997767103019831",
   "18126554366297159",
-  "18395152027165110"
+  "18395152027165110",
+  "18416786137086545",
+  "18090767702252598"
  ],
  "hashes": [
   "9bc14e830310e6fbbbf2aed2b044b785",
@@ -4675,20 +4677,12 @@
   "cc1a76cc86": 1,
   "435350f578": 1,
   "c63f23746e": 1,
-  "fa3e54ec33": 1
+  "fa3e54ec33": 1,
+  "1fb97afb35": 1,
+  "ca4af0ae9a": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "nove horas de sono é o mínimo para o cerebro funcionar direito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "trocar o motor já vem com brinde de infarto junto kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "três motores é colecionar trauma automotivo",
    "p": "ressalva",
@@ -4826,6 +4820,16 @@
   },
   {
    "t": "duas chaves que abrem quase todas as portas hoje em dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "escola nenhuma prepara a gente para o tamanho do estrago que é aprender tudo na marra",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa é uma das matérias mais difíceis que a vida cobra",
    "p": "concorda",
    "r": 0
   }
@@ -6062,7 +6066,9 @@
    "levou pontos ja",
    "essa licao ai",
    "comecar aos 13",
-   "duas chaves que"
+   "duas chaves que",
+   "escola nenhuma prepara",
+   "essa e uma"
   ]
  },
  "shopee_checada": "2026-10-27|1",
