@@ -21,11 +21,11 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 11,
+  "respostas": 17,
   "por_post": {
-   "17997865899028872": 3,
-   "17918222961259641": 4,
-   "17913815520480885": 3,
+   "17997865899028872": 5,
+   "17918222961259641": 6,
+   "17913815520480885": 5,
    "18092170271676483": 1
   }
  },
@@ -4191,7 +4191,13 @@
   "17966982786247054",
   "18118152830051596",
   "18468274279184184",
-  "18029403227699802"
+  "18029403227699802",
+  "18106460006346456",
+  "17900071071608526",
+  "18143570593611614",
+  "17893239129447906",
+  "18227126761339536",
+  "18111541448463900"
  ],
  "hashes": [
   "9bc14e830310e6fbbbf2aed2b044b785",
@@ -4696,40 +4702,16 @@
   "f4b4f45a60": 1,
   "73ea7217f5": 1,
   "73da3a274f": 1,
-  "26ad2dfce7": 1
+  "26ad2dfce7": 1,
+  "68d1afc522": 1,
+  "5ff1fef4b0": 1,
+  "eab1b2ecbe": 1,
+  "20d0afad32": 1,
+  "c29b63edca": 1,
+  "1bc2bf7158": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "padrão de sobrevivência urbana kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "perder um carro que a gente gosta desse jeito dói até hoje mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "marido sensato e vc produtiva no seu horario",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "bater ponto na madrugada exige uma coragem que eu não tenho mais",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "ansiedade de mãe de primeira viagem é mestre em fazer a gente gastar à toa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa blusa na mão não serve para nada mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa é a pergunta que o mundo corporativo se recusa a responder",
    "p": "concorda",
@@ -4847,6 +4829,36 @@
   },
   {
    "t": "levar golpe de oficina é um teste de paciência nível hard",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa matéria definitivamente não ensinam na escola",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dormir cedo até ajuda, o problema é ter que levantar de madrugada depois",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "essa é a mais difícil de todas de colocar em prática kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "motor detonado por falta de troca de óleo é o pesadelo de qualquer dono",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos ele compensava dormindo cedo, o segredo era esse",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dobradinha de prejuízo que abala qualquer orçamento em menos de um ano",
    "p": "concorda",
    "r": 0
   }
@@ -6061,8 +6073,6 @@
    "padrao de sobrevivencia"
   ],
   "17913815520480885": [
-   "quando o relogio",
-   "trabalhar cedo desse",
    "essa conta de",
    "esse sistema cobra",
    "descansar deveria ser",
@@ -6080,7 +6090,9 @@
    "pior que padaria",
    "quando a rotina",
    "perder peso e",
-   "inventaram uma regra"
+   "inventaram uma regra",
+   "dormir cedo ate",
+   "pelo menos ele"
   ],
   "18122836490511425": [
    "um comprimido amassado"
@@ -6102,7 +6114,9 @@
    "esse valor ai",
    "uma verdadeira novela",
    "peca que costuma",
-   "levar golpe de"
+   "levar golpe de",
+   "motor detonado por",
+   "dobradinha de prejuizo"
   ],
   "17997865899028872": [
    "guardar cedo evita",
@@ -6115,7 +6129,9 @@
    "materias que deveriam",
    "tem dia que",
    "essa materia ai",
-   "escutar ela mais"
+   "escutar ela mais",
+   "essa materia definitivamente",
+   "essa e a"
   ]
  },
  "shopee_checada": "2026-10-28|1",
