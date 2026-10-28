@@ -35,7 +35,7 @@
    "21:39"
   ],
   "produtos_feitos": 3,
-  "respostas": 96,
+  "respostas": 101,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -49,7 +49,8 @@
    "17912121543489279": 10,
    "17913815520480885": 20,
    "18122836490511425": 1,
-   "17918222961259641": 12
+   "17918222961259641": 12,
+   "17997865899028872": 5
   }
  },
  "posts": [
@@ -4079,7 +4080,12 @@
   "18145624906598055",
   "17880422586651835",
   "18566451166076149",
-  "18120125347943712"
+  "18120125347943712",
+  "18096893768664570",
+  "18109436633354005",
+  "17997767103019831",
+  "18126554366297159",
+  "18395152027165110"
  ],
  "hashes": [
   "9bc14e830310e6fbbbf2aed2b044b785",
@@ -4664,35 +4670,15 @@
   "300a43236b": 1,
   "867726e6df": 1,
   "7d434451e9": 1,
-  "b875c123a7": 1
+  "b875c123a7": 1,
+  "d9123eff5f": 1,
+  "cc1a76cc86": 1,
+  "435350f578": 1,
+  "c63f23746e": 1,
+  "fa3e54ec33": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "duas horas de sono e muita coragem, formula perfeita pro caos kkkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "pobre traumatiza a gente de um jeito que nenhum pix cura kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "os boletos são os unicos que acordam cedo mesmo sem permissão",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "um comprimido amassado preso na testa com esparadrapo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "dormir bem deveria ser o padrao oficial kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "nove horas de sono é o mínimo para o cerebro funcionar direito",
    "p": "concorda",
@@ -4815,6 +4801,31 @@
   },
   {
    "t": "pior que padaria e transporte publico mostram bem quem escolhe e quem só obedece o relógio",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "guardar cedo evita muitos dramas depois kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "levou pontos já entra pra estatística dos fortes kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa lição aí vem com juros e correcao kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "começar aos 13 já é profissão de gente grande, economia faz falta pra todo mundo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "duas chaves que abrem quase todas as portas hoje em dia",
    "p": "concorda",
    "r": 0
   }
@@ -5784,28 +5795,6 @@
   }
  ],
  "aberturas_post": {
-  "17936082702401534": [
-   "quem tem esse",
-   "marquinhos ja vem",
-   "a crocs com",
-   "esse nome de",
-   "referencia classica que",
-   "passou da hora",
-   "marquinhos tem seus",
-   "impossivel nao render",
-   "esse grito de",
-   "argumento forte demais",
-   "subindo o nivel",
-   "essa lealdade toda",
-   "sete titulos seguidos",
-   "esse bordao ja",
-   "esse som ja",
-   "esse bordao iconico",
-   "infancia protegida com",
-   "pegou no pulo",
-   "pura nostalgia misturada",
-   "miniatura no escritorio"
-  ],
   "18086406461707156": [
    "esse fusca solitario",
    "qual e o",
@@ -6067,6 +6056,13 @@
    "esse ai ganha",
    "colecao de desastres",
    "perder um carro"
+  ],
+  "17997865899028872": [
+   "guardar cedo evita",
+   "levou pontos ja",
+   "essa licao ai",
+   "comecar aos 13",
+   "duas chaves que"
   ]
  },
  "shopee_checada": "2026-10-27|1",
