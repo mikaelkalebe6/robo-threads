@@ -1366,14 +1366,15 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "58204067039",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "58204067039",
     "nome": "Lanterna Tática WUDI T9 P50 Super Luminosa Recarregável USB Ideal Para Sitio Fazenda AcampamentoCamping SegurançaNoturna",
     "offerLink": "https://s.shopee.com.br/2LZQSjOkaK",
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261k-mjye50tsga9wb4",
     "campanha": ""
-   }
+   },
+   "apagado": true
   },
   {
    "id": "18091692569222965",
@@ -1410,14 +1411,15 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "22894551427",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "22894551427",
     "nome": "Canivete Dobrável Aço Inox com Trava para Camping Pesca Churrasco Multiuso",
     "offerLink": "https://s.shopee.com.br/8AXDPS6wXP",
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqvbo3ll08hv26",
     "campanha": ""
-   }
+   },
+   "apagado": true
   }
  ],
  "respondidos": [
