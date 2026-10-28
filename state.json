@@ -21,11 +21,12 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 11,
   "por_post": {
-   "17997865899028872": 2,
-   "17918222961259641": 2,
-   "17913815520480885": 2
+   "17997865899028872": 3,
+   "17918222961259641": 4,
+   "17913815520480885": 3,
+   "18092170271676483": 1
   }
  },
  "posts": [
@@ -4184,7 +4185,13 @@
   "17883983925691595",
   "17911097052481784",
   "18119052290013115",
-  "17964473709217496"
+  "17964473709217496",
+  "17998885613830462",
+  "18007117226791915",
+  "17966982786247054",
+  "18118152830051596",
+  "18468274279184184",
+  "18029403227699802"
  ],
  "hashes": [
   "9bc14e830310e6fbbbf2aed2b044b785",
@@ -4684,35 +4691,15 @@
   "e4c79bf0da": 1,
   "5a4f6559c6": 1,
   "070ed775af": 1,
-  "87d95bead9": 1
+  "87d95bead9": 1,
+  "a90eda59dc": 1,
+  "f4b4f45a60": 1,
+  "73ea7217f5": 1,
+  "73da3a274f": 1,
+  "26ad2dfce7": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "esse investimento inicial já vem com carnê de lágrimas embutido kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse aí ganha o troféu de rodovia da desgraça kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "coleção de desastres digna de filme de terror kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "categoria inteira que prometia soluções mágicas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a saliva salvando o momento kkkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "padrão de sobrevivência urbana kkkk",
    "p": "concorda",
@@ -4836,6 +4823,31 @@
   {
    "t": "perder peso é difícil mas o preço do sono faz a gente questionar tudo",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "promessa de milagre que só serve pra dar dor de cabeça",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "peça que costuma vir com preço de carro novo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "inventaram uma regra que atende só a produtividade dos outros",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "escutar ela mais cedo evitaria muita volta errada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "levar golpe de oficina é um teste de paciência nível hard",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6033,7 +6045,8 @@
    "a ilusao de",
    "dois grandes classicos",
    "categoria inteira que",
-   "ansiedade de mae"
+   "ansiedade de mae",
+   "promessa de milagre"
   ],
   "17912121543489279": [
    "sinceridade pura e",
@@ -6048,7 +6061,6 @@
    "padrao de sobrevivencia"
   ],
   "17913815520480885": [
-   "cada dia tem",
    "quando o relogio",
    "trabalhar cedo desse",
    "essa conta de",
@@ -6067,7 +6079,8 @@
    "madrugada silenciosa ajuda",
    "pior que padaria",
    "quando a rotina",
-   "perder peso e"
+   "perder peso e",
+   "inventaram uma regra"
   ],
   "18122836490511425": [
    "um comprimido amassado"
@@ -6087,7 +6100,9 @@
    "perder um carro",
    "sorte a sua",
    "esse valor ai",
-   "uma verdadeira novela"
+   "uma verdadeira novela",
+   "peca que costuma",
+   "levar golpe de"
   ],
   "17997865899028872": [
    "guardar cedo evita",
@@ -6099,7 +6114,8 @@
    "essa e uma",
    "materias que deveriam",
    "tem dia que",
-   "essa materia ai"
+   "essa materia ai",
+   "escutar ela mais"
   ]
  },
  "shopee_checada": "2026-10-28|1",
