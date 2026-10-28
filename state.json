@@ -35,7 +35,7 @@
    "21:39"
   ],
   "produtos_feitos": 3,
-  "respostas": 103,
+  "respostas": 105,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -49,8 +49,8 @@
    "17912121543489279": 10,
    "17913815520480885": 20,
    "18122836490511425": 1,
-   "17918222961259641": 12,
-   "17997865899028872": 7
+   "17918222961259641": 13,
+   "17997865899028872": 8
   }
  },
  "posts": [
@@ -4087,7 +4087,9 @@
   "18126554366297159",
   "18395152027165110",
   "18416786137086545",
-  "18090767702252598"
+  "18090767702252598",
+  "18119131885777176",
+  "18113725576877834"
  ],
  "hashes": [
   "9bc14e830310e6fbbbf2aed2b044b785",
@@ -4679,20 +4681,11 @@
   "c63f23746e": 1,
   "fa3e54ec33": 1,
   "1fb97afb35": 1,
-  "ca4af0ae9a": 1
+  "ca4af0ae9a": 1,
+  "ff98d3abc0": 2
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "três motores é colecionar trauma automotivo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "esse sim veio com taxa de distrato altíssima kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "esse uno resolveu cobrar caro pelo serviço prestado",
    "p": "concorda",
@@ -4832,6 +4825,16 @@
    "t": "essa é uma das matérias mais difíceis que a vida cobra",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "matérias que deveriam vir no manual básico da vida e a gente só descobre apanhando",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sorte a sua, paz de espírito garantida kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6059,7 +6062,8 @@
    "esse investimento inicial",
    "esse ai ganha",
    "colecao de desastres",
-   "perder um carro"
+   "perder um carro",
+   "sorte a sua"
   ],
   "17997865899028872": [
    "guardar cedo evita",
@@ -6068,7 +6072,8 @@
    "comecar aos 13",
    "duas chaves que",
    "escola nenhuma prepara",
-   "essa e uma"
+   "essa e uma",
+   "materias que deveriam"
   ]
  },
  "shopee_checada": "2026-10-27|1",
