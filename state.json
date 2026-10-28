@@ -34,7 +34,7 @@
    "20:56"
   ],
   "produtos_feitos": 3,
-  "respostas": 90,
+  "respostas": 96,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -43,10 +43,10 @@
    "18153545164531054": 1,
    "17917494708526792": 20,
    "17959658355013450": 10,
-   "18110358517935855": 9,
-   "18092170271676483": 4,
+   "18110358517935855": 10,
+   "18092170271676483": 5,
    "17912121543489279": 10,
-   "17913815520480885": 16,
+   "17913815520480885": 20,
    "18122836490511425": 1,
    "17918222961259641": 12
   }
@@ -4081,7 +4081,13 @@
   "17985867846092931",
   "17886590784503075",
   "18094660739183929",
-  "18133750033768066"
+  "18133750033768066",
+  "18019797782936413",
+  "18095249216171713",
+  "18145624906598055",
+  "17880422586651835",
+  "18566451166076149",
+  "18120125347943712"
  ],
  "hashes": [
   "3cb10cc6544c07d7d4691f183024cdf4",
@@ -4659,40 +4665,16 @@
   "ab88cde371": 1,
   "eea3ca92b0": 1,
   "b97637e742": 1,
-  "0af1701b18": 1
+  "0af1701b18": 1,
+  "4e25eb5380": 1,
+  "ff0f171e13": 1,
+  "300a43236b": 1,
+  "867726e6df": 1,
+  "7d434451e9": 1,
+  "b875c123a7": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "quando o relógio biológico já ajuda, o processo fica bem mais leve",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "trabalhar cedo desse jeito deveria ser crime inafiançável",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa conta de dormir cedo não fecha com a vida real msm kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse sistema cobra caro de quem só quer viver em paz",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "descansar deveria ser regra e não privilégio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem tem energia pra academia e notícias às cinco da manhã vive em outra dimensão kkkk",
-   "p": "discorda",
-   "r": 1
-  },
   {
    "t": "duas horas de sono e muita coragem, formula perfeita pro caos kkkk",
    "p": "ressalva",
@@ -4811,6 +4793,36 @@
   {
    "t": "bater ponto na madrugada exige uma coragem que eu não tenho mais",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "ansiedade de mãe de primeira viagem é mestre em fazer a gente gastar à toa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa blusa na mão não serve para nada mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa é a pergunta que o mundo corporativo se recusa a responder",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sempre tem alguém lucrando com o cansaço dos outros",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "madrugada silenciosa ajuda na concentração mas o preço pra saúde é alto",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pior que padaria e transporte publico mostram bem quem escolhe e quem só obedece o relógio",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6002,13 +6014,15 @@
    "justo melhor preservar",
    "o classico ultimato",
    "o panico instaurado",
-   "a saliva salvando"
+   "a saliva salvando",
+   "essa blusa na"
   ],
   "18092170271676483": [
    "crianca decide a",
    "a ilusao de",
    "dois grandes classicos",
-   "categoria inteira que"
+   "categoria inteira que",
+   "ansiedade de mae"
   ],
   "17912121543489279": [
    "sinceridade pura e",
@@ -6038,7 +6052,11 @@
    "nove horas de",
    "industria milionaria do",
    "marido sensato e",
-   "bater ponto na"
+   "bater ponto na",
+   "essa e a",
+   "sempre tem alguem",
+   "madrugada silenciosa ajuda",
+   "pior que padaria"
   ],
   "18122836490511425": [
    "um comprimido amassado"
