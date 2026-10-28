@@ -31,7 +31,8 @@
    "15:32",
    "17:35",
    "19:10",
-   "20:56"
+   "20:56",
+   "21:39"
   ],
   "produtos_feitos": 3,
   "respostas": 96,
@@ -52,24 +53,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17873769906602294",
-   "insp": "fa26296fcf",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: sair para jantar e a pessoa escolher o prato mais caro do cardápio justo no primeiro encontro é um teste que ninguém merece passar.",
-   "quando": "2026-10-22T14:07:10.892744-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 551,
-    "likes": 6,
-    "replies": 29,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-27"
-   },
-   "viral_chk": "2026-10-23T14:07:09.112396-04:00"
-  },
   {
    "id": "17932033053419563",
    "insp": "video_e2e0719234",
@@ -1391,14 +1374,23 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "21898099575",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "21898099575",
     "nome": "Suporte Veicular Carro Para Celular 360 ° Giratório Universal Multifuncional Ventilacao Ar JE-12",
     "offerLink": "https://s.shopee.com.br/4VdtRoohf4",
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reo2-m82d3ghzzngx0d",
     "campanha": ""
-   }
+   },
+   "apagado": true
+  },
+  {
+   "id": "17997865899028872",
+   "insp": "3125348bad",
+   "link": "",
+   "texto": "NINGUÉM FALA DISSO: qual habilidade você gostaria de ter aprendido mais cedo na vida em vez de quebrar tanto a cabeça sozinho",
+   "quando": "2026-10-27T22:07:09.923510-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4090,7 +4082,6 @@
   "18120125347943712"
  ],
  "hashes": [
-  "3cb10cc6544c07d7d4691f183024cdf4",
   "9bc14e830310e6fbbbf2aed2b044b785",
   "d685c9dfae5cd7af6cd1456f0c9cc527",
   "65378016ebeb45b1e935c0a64d72b004",
@@ -4289,7 +4280,8 @@
   "bfd18b7f37880f55dbd08d82aec21387",
   "3c66a4706e32b5e23a33caeffd683852",
   "889c3c9cb28e8a0cab64cb763be58c5f",
-  "8e3a4a40bf72d04d47e5bf2f7db150de"
+  "8e3a4a40bf72d04d47e5bf2f7db150de",
+  "cde85533a7b95ccb3e43688a87af64d7"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4576,7 +4568,8 @@
   "4b99e3a872": 1793124470.8923373,
   "4fcfb095d4": 1793129889.4446743,
   "a05db3f0dd": 1793137092.3311388,
-  "5760d94547": 1793144294.4001164
+  "5760d94547": 1793144294.4001164,
+  "3125348bad": 1793153250.330989
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
