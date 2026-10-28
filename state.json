@@ -33,7 +33,7 @@
    "19:10"
   ],
   "produtos_feitos": 2,
-  "respostas": 78,
+  "respostas": 84,
   "por_post": {
    "18127401364671487": 2,
    "18231002650327248": 1,
@@ -47,7 +47,7 @@
    "17912121543489279": 9,
    "17913815520480885": 14,
    "18122836490511425": 1,
-   "17918222961259641": 5
+   "17918222961259641": 11
   }
  },
  "posts": [
@@ -4071,7 +4071,13 @@
   "18119158202049790",
   "18059400716652377",
   "18056597081585240",
-  "17876569731585952"
+  "17876569731585952",
+  "17911126146489665",
+  "18098512868544651",
+  "18131952958778815",
+  "18101378039386256",
+  "18136547383680556",
+  "18138487543629184"
  ],
  "hashes": [
   "3cb10cc6544c07d7d4691f183024cdf4",
@@ -4637,40 +4643,16 @@
   "15268f41df": 1,
   "ae2dcb8746": 1,
   "831576afa9": 1,
-  "77be192144": 1
+  "77be192144": 1,
+  "6ca808da32": 1,
+  "2a76def309": 1,
+  "1fdd94a055": 1,
+  "95538d75a2": 1,
+  "48108379fe": 1,
+  "9447223fdb": 1
  },
  "reservas_checadas": "2026-10-27",
  "ultimas_respostas": [
-  {
-   "t": "estratégia preventiva de alto nível kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "filosofia de vida muito prática para dias difíceis",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "às vezes a gente só quer andar em paz kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "kit completo de proteção contra qualquer conhecido kkkkkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "o pânico instaurado com sucesso kkkkkkkkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "pelo menos elimina a culpa de ter evitado alguém kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "tecnologia sendo usada para a única função que realmente importa kkkkk",
    "p": "concorda",
@@ -4790,6 +4772,36 @@
    "t": "indústria milionária do desespero kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "esse carrinho aí exige um patrocínio forte para continuar rodando",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "turbina e motor novo no mesmo pacote é teste pra cardíaco",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dois carros que eram verdadeiros socios ocultos da sua conta bancaria kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse investimento inicial já vem com carnê de lágrimas embutido kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "esse aí ganha o troféu de rodovia da desgraça kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "coleção de desastres digna de filme de terror kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6021,7 +6033,13 @@
    "tres motores e",
    "esse sim veio",
    "esse uno resolveu",
-   "essa despesa com"
+   "essa despesa com",
+   "esse carrinho ai",
+   "turbina e motor",
+   "dois carros que",
+   "esse investimento inicial",
+   "esse ai ganha",
+   "colecao de desastres"
   ]
  },
  "shopee_checada": "2026-10-27|1",
