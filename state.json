@@ -25,13 +25,14 @@
    "11:08"
   ],
   "produtos_feitos": 1,
-  "respostas": 54,
+  "respostas": 59,
   "por_post": {
    "17997865899028872": 9,
-   "17918222961259641": 17,
-   "17913815520480885": 15,
+   "17918222961259641": 18,
+   "17913815520480885": 17,
    "18092170271676483": 1,
-   "17980455462130729": 12
+   "17980455462130729": 12,
+   "18091692569222965": 2
   },
   "escondidos": 1
  },
@@ -4203,7 +4204,12 @@
   "17955990972270789",
   "18357800800175818",
   "18037701473849518",
-  "18146926174599003"
+  "18146926174599003",
+  "18133945282801654",
+  "18397558291167710",
+  "18091972913226660",
+  "17940588012381589",
+  "17902784106602428"
  ],
  "hashes": [
   "65378016ebeb45b1e935c0a64d72b004",
@@ -4703,7 +4709,7 @@
   "c1fc32e0b7": 1,
   "dbf661ca58": 1,
   "e4c79bf0da": 1,
-  "5a4f6559c6": 1,
+  "5a4f6559c6": 2,
   "070ed775af": 1,
   "87d95bead9": 1,
   "a90eda59dc": 1,
@@ -4738,7 +4744,7 @@
   "c15f11683d": 1,
   "86c69aab0d": 1,
   "b10c06a7be": 1,
-  "1f1e8afefa": 1,
+  "1f1e8afefa": 2,
   "285473ba58": 1,
   "0e5329e04c": 1,
   "96c0a81885": 1,
@@ -4753,35 +4759,13 @@
   "f781d58505": 1,
   "3c020ddf0c": 1,
   "3ab9db8629": 1,
-  "73709db9c4": 1
+  "73709db9c4": 1,
+  "bdbabeed6b": 1,
+  "bee750d1e6": 1,
+  "ec30f5fd33": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "saudade dessa disposição que vinha de fábrica antigamente",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "privação de sono vendida como troféu de guerra kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "cada um tem o seu relogio biologico e o silêncio da madrugada ajuda muito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "uma lição que a gente aprende da forma mais cara possível",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dez anos sem nenhum BO com cartão da família é para poucos mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "melhor jeito de preservar a paz em família e a propria conta no banco",
    "p": "concorda",
@@ -4904,6 +4888,31 @@
   },
   {
    "t": "quinze mil de taxa de matrícula logo de cara é covardia kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pelo menos o pc responde nas suas ideias ou só finge que trava kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "responder a própria pergunta no supermercado já é nível avançado de conversa com a mente kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "construir um país forte precisa caminhar junto com o respeito ao descanso de quem faz tudo girar",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "esse relógio interno aí veio com defeito reverso kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse orçamento aí já dá pra dar entrada em outro carro kkkkkk",
    "p": "concorda",
    "r": 2
   }
@@ -5893,10 +5902,6 @@
   }
  ],
  "aberturas_post": {
-  "18145537618587912": [
-   "esse transito ai",
-   "sigla misteriosa que"
-  ],
   "18070093358773661": [
    "e tipo colecao",
    "essa big box"
@@ -6112,8 +6117,6 @@
    "padrao de sobrevivencia"
   ],
   "17913815520480885": [
-   "bater ponto na",
-   "essa e a",
    "sempre tem alguem",
    "madrugada silenciosa ajuda",
    "pior que padaria",
@@ -6131,13 +6134,14 @@
    "cada um tem",
    "que bom que",
    "mudanca de horario",
-   "dormir no almoco"
+   "dormir no almoco",
+   "construir um pais",
+   "esse relogio interno"
   ],
   "18122836490511425": [
    "um comprimido amassado"
   ],
   "17918222961259641": [
-   "colecao de desastres",
    "perder um carro",
    "sorte a sua",
    "esse valor ai",
@@ -6156,7 +6160,8 @@
    "essa ultima frase",
    "quatro vezes o",
    "trabalhar so pra",
-   "quinze mil de"
+   "quinze mil de",
+   "esse orcamento ai"
   ],
   "17997865899028872": [
    "guardar cedo evita",
@@ -6190,6 +6195,10 @@
    "cartao emprestado a",
    "nem com o",
    "licao aprendida do"
+  ],
+  "18091692569222965": [
+   "pelo menos o",
+   "responder a propria"
   ]
  },
  "shopee_checada": "2026-10-28|1",
