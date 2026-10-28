@@ -29,16 +29,17 @@
    "16:41"
   ],
   "produtos_feitos": 2,
-  "respostas": 80,
+  "respostas": 86,
   "por_post": {
    "17997865899028872": 13,
    "17918222961259641": 20,
    "17913815520480885": 20,
    "18092170271676483": 5,
    "17980455462130729": 12,
-   "18091692569222965": 3,
+   "18091692569222965": 4,
    "18146338231578758": 5,
-   "18096262466442750": 2
+   "18096262466442750": 2,
+   "17939308794122207": 5
   },
   "escondidos": 1
  },
@@ -4190,7 +4191,13 @@
   "18091515827264157",
   "18116308115039313",
   "18138438355739216",
-  "17995032732051758"
+  "17995032732051758",
+  "17873308323637404",
+  "18137770441628950",
+  "18097954148440739",
+  "18338257351272858",
+  "18126372304810206",
+  "18177765997445799"
  ],
  "hashes": [
   "77abb99d4acbd4bf95d3f3d196e7c974",
@@ -4766,40 +4773,15 @@
   "c6d88fff5e": 1,
   "1829e62181": 1,
   "71afa5c1d2": 1,
-  "bfb03d92ee": 1
+  "bfb03d92ee": 1,
+  "022a2732bd": 1,
+  "c8055059b8": 1,
+  "509b287f93": 1,
+  "366fd5e9e4": 2,
+  "cea6678ad5": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "duas coisas que evitam metade dos desesperos da vida adulta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "lição aprendida do jeito mais caro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dormir no almoço e a única produtividade que importa kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quinze mil de taxa de matrícula logo de cara é covardia kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pelo menos o pc responde nas suas ideias ou só finge que trava kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "responder a própria pergunta no supermercado já é nível avançado de conversa com a mente kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "construir um país forte precisa caminhar junto com o respeito ao descanso de quem faz tudo girar",
    "p": "ressalva",
@@ -4919,6 +4901,36 @@
    "t": "essa ficha demora a cair mas traz um alivio enorme quando finalmente chega",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "medo genuíno de madrugada e zero auto-controle pra andar como veio ao mundo kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "estratégia avançada pra resolver os dois problemas de uma vez só kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "esse aí ganha brinde na janela e insônia de brinde kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "moro em casa é outro nível de suspense todo santo dia kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "gesticular junto com os argumentos na mente é essencial kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "uma invasão doméstica totalmente inesperada e saltitante kkkkkkk",
+   "p": "concorda",
+   "r": 4
   }
  ],
  "minhas_respostas": {
@@ -5906,14 +5918,6 @@
   }
  ],
  "aberturas_post": {
-  "17962475325229174": [
-   "pesado mas dificil",
-   "paz de espirito",
-   "zerado no placar",
-   "nada supera a",
-   "pesado carregar esse",
-   "estatisticas bem sinceras"
-  ],
   "18018918797741015": [
    "salva demais a"
   ],
@@ -6195,7 +6199,8 @@
   "18091692569222965": [
    "pelo menos o",
    "responder a propria",
-   "pelo menos a"
+   "pelo menos a",
+   "gesticular junto com"
   ],
   "18146338231578758": [
    "verdade no fim",
@@ -6207,6 +6212,13 @@
   "18096262466442750": [
    "versao artesanal sempre",
    "a escada da"
+  ],
+  "17939308794122207": [
+   "medo genuino de",
+   "estrategia avancada pra",
+   "esse ai ganha",
+   "moro em casa",
+   "uma invasao domestica"
   ]
  },
  "shopee_checada": "2026-10-28|1",
