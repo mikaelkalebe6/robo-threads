@@ -27,15 +27,15 @@
    "13:30"
   ],
   "produtos_feitos": 1,
-  "respostas": 74,
+  "respostas": 77,
   "por_post": {
    "17997865899028872": 11,
    "17918222961259641": 20,
-   "17913815520480885": 19,
+   "17913815520480885": 20,
    "18092170271676483": 5,
    "17980455462130729": 12,
    "18091692569222965": 3,
-   "18146338231578758": 3,
+   "18146338231578758": 5,
    "18096262466442750": 1
   },
   "escondidos": 1
@@ -4188,7 +4188,10 @@
   "18111259154231825",
   "18128283830512403",
   "18000706562817669",
-  "18134547793707430"
+  "18134547793707430",
+  "18349429543269342",
+  "17912133798574962",
+  "18091515827264157"
  ],
  "hashes": [
   "bbcadfd99d1d09858b72cd7a80f8299e",
@@ -4717,7 +4720,7 @@
   "718f9ee267": 1,
   "f8112b1b0a": 1,
   "5728cc97d3": 1,
-  "1d06969815": 1,
+  "1d06969815": 2,
   "aedcf27325": 1,
   "260d55ffe3": 1,
   "76839145d6": 1,
@@ -4758,25 +4761,12 @@
   "d100a31331": 1,
   "1b0eb58e57": 1,
   "dee93f729b": 1,
-  "4daac2f246": 1
+  "4daac2f246": 1,
+  "9587d4288b": 1,
+  "c6d88fff5e": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "nem com o sabre de luz aceso da pra arriscar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "que bom que deu certo para o seu ritmo, o importante é achar o que funciona para cada um",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "essa última frase resume perfeitamente qualquer relacionamento com carro antigo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "mudança de horário que dobra a produção prova que cada relógio biológico funciona no seu tempo",
    "p": "concorda",
@@ -4909,6 +4899,21 @@
   },
   {
    "t": "Entendo, T.I. tem jeito de puxar de volta kkk 🙏🏼",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "paz de espírito acaba pesando mais na balança",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dois anos pra cumprir meta e respirar um pouco seria o ideal mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, se dorme tarde a conta chega no dia seguinte kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6102,7 +6107,6 @@
    "padrao de sobrevivencia"
   ],
   "17913815520480885": [
-   "pior que padaria",
    "quando a rotina",
    "perder peso e",
    "inventaram uma regra",
@@ -6121,7 +6125,8 @@
    "construir um pais",
    "esse relogio interno",
    "liberdade de horario",
-   "corpo humano nao"
+   "corpo humano nao",
+   "verdade se dorme"
   ],
   "18122836490511425": [
    "um comprimido amassado"
@@ -6191,7 +6196,9 @@
   "18146338231578758": [
    "verdade no fim",
    "exato tempo livre",
-   "verdade o custo"
+   "verdade o custo",
+   "paz de espirito",
+   "dois anos pra"
   ],
   "18096262466442750": [
    "versao artesanal sempre"
