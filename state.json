@@ -20,37 +20,21 @@
    "19:54"
   ],
   "feitos": [
-   "08:59"
+   "08:59",
+   "09:54"
   ],
-  "produtos_feitos": 0,
-  "respostas": 33,
+  "produtos_feitos": 1,
+  "respostas": 38,
   "por_post": {
-   "17997865899028872": 6,
-   "17918222961259641": 8,
+   "17997865899028872": 8,
+   "17918222961259641": 9,
    "17913815520480885": 12,
    "18092170271676483": 1,
-   "17980455462130729": 6
-  }
+   "17980455462130729": 8
+  },
+  "escondidos": 1
  },
  "posts": [
-  {
-   "id": "18129375533505510",
-   "insp": "603114869d",
-   "link": "",
-   "texto": "Fui dar aquela aparada básica no cabelo e quase caí dura com a conta. Quanto vocês estão pagando por um corte simples ultimamente?",
-   "quando": "2026-10-22T15:37:09.207173-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 431,
-    "likes": 7,
-    "replies": 20,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-28"
-   },
-   "viral_chk": "2026-10-23T15:37:08.645351-04:00"
-  },
   {
    "id": "18078457244719478",
    "insp": "2b3a6a81d7",
@@ -1455,6 +1439,26 @@
    "texto": "DÚVIDA SINCERA: vocês emprestam o cartão de crédito pra alguém da família ou já aprenderam da pior forma que isso é o fim dos tempos?",
    "quando": "2026-10-28T09:07:09.690857-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17941476810398614",
+   "insp": "prod_58204067039",
+   "link": "",
+   "texto": "Ficar no escuro na estrada ou no sítio por causa de falta de luz dá um nervoso danado né 😂 Descobri essa lanterna tática recarregável que ilumina até o pensamento de tão forte. Olha como funciona 👀",
+   "quando": "2026-10-28T10:07:09.225022-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "58204067039",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "58204067039",
+    "nome": "Lanterna Tática WUDI T9 P50 Super Luminosa Recarregável USB Ideal Para Sitio Fazenda AcampamentoCamping SegurançaNoturna",
+    "offerLink": "https://s.shopee.com.br/2LZQSjOkaK",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261k-mjye50tsga9wb4",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
@@ -4186,7 +4190,13 @@
   "18101566814436815",
   "18207055456373158",
   "18102223613421631",
-  "18074386451598601"
+  "18074386451598601",
+  "18083651738720584",
+  "18176514430451022",
+  "18122602012992834",
+  "18125902837684815",
+  "18121949245942295",
+  "18148186321567641"
  ],
  "hashes": [
   "d685c9dfae5cd7af6cd1456f0c9cc527",
@@ -4714,35 +4724,15 @@
   "5728cc97d3": 1,
   "1d06969815": 1,
   "aedcf27325": 1,
-  "260d55ffe3": 1
+  "260d55ffe3": 1,
+  "76839145d6": 1,
+  "e14e72377c": 1,
+  "c15f11683d": 1,
+  "86c69aab0d": 1,
+  "b10c06a7be": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "essa materia aí pouparia muita dor de cabeça financeira kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "uma verdadeira novela mexicana mecânica essa saga do câmbio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perder peso é difícil mas o preço do sono faz a gente questionar tudo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "promessa de milagre que só serve pra dar dor de cabeça",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "peça que costuma vir com preço de carro novo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "inventaram uma regra que atende só a produtividade dos outros",
    "p": "concorda",
@@ -4865,6 +4855,31 @@
   },
   {
    "t": "Confio, mas cartão pode virar drama de novela, já vi",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "teoria é bonita mas na hora de fazer o negócio é outro nível",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "regra de ouro que poupa muita dor de cabeça",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "salva a vida e o bolso de um jeito que pouca coisa faz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "comida na mesa a gente ajuda, mas limite de crédito livre é convite para o caos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perder o carro assim pro sistema é uma maldade sem tamanho",
    "p": "concorda",
    "r": 0
   }
@@ -6098,7 +6113,6 @@
    "um comprimido amassado"
   ],
   "17918222961259641": [
-   "tres motores e",
    "esse sim veio",
    "esse uno resolveu",
    "essa despesa com",
@@ -6117,7 +6131,8 @@
    "motor detonado por",
    "dobradinha de prejuizo",
    "investimento que consome",
-   "passou por uma"
+   "passou por uma",
+   "perder o carro"
   ],
   "17997865899028872": [
    "guardar cedo evita",
@@ -6133,7 +6148,9 @@
    "escutar ela mais",
    "essa materia definitivamente",
    "essa e a",
-   "pesado demais para"
+   "pesado demais para",
+   "teoria e bonita",
+   "salva a vida"
   ],
   "17980455462130729": [
    "uma licao que",
@@ -6141,7 +6158,9 @@
    "melhor jeito de",
    "conselho de familia",
    "eu tambem nunca",
-   "confio mas cartao"
+   "confio mas cartao",
+   "regra de ouro",
+   "comida na mesa"
   ]
  },
  "shopee_checada": "2026-10-28|1",
@@ -6375,7 +6394,7 @@
   "18599696115": "2026-10-11T09:07:10.464629-04:00",
   "22393525887": "2026-10-11T12:07:09.276302-04:00",
   "58214462678": "2026-10-11T15:37:09.556759-04:00",
-  "58204067039": "2026-10-11T19:07:07.516757-04:00",
+  "58204067039": "2026-10-28T10:07:09.225022-04:00",
   "23993565028": "2026-10-26T18:37:08.130717-04:00",
   "21898099575": "2026-10-27T21:07:08.589314-04:00",
   "58257654101": "2026-10-12T10:37:09.051050-04:00",
