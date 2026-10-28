@@ -25,14 +25,14 @@
    "11:08"
   ],
   "produtos_feitos": 1,
-  "respostas": 59,
+  "respostas": 65,
   "por_post": {
-   "17997865899028872": 9,
-   "17918222961259641": 18,
-   "17913815520480885": 17,
+   "17997865899028872": 10,
+   "17918222961259641": 20,
+   "17913815520480885": 19,
    "18092170271676483": 1,
    "17980455462130729": 12,
-   "18091692569222965": 2
+   "18091692569222965": 3
   },
   "escondidos": 1
  },
@@ -4209,7 +4209,13 @@
   "18397558291167710",
   "18091972913226660",
   "17940588012381589",
-  "17902784106602428"
+  "17902784106602428",
+  "18120803194964905",
+  "18117370850003663",
+  "18121634863915686",
+  "17955352581268153",
+  "18102684500398405",
+  "18104039684290300"
  ],
  "hashes": [
   "65378016ebeb45b1e935c0a64d72b004",
@@ -4762,40 +4768,16 @@
   "73709db9c4": 1,
   "bdbabeed6b": 1,
   "bee750d1e6": 1,
-  "ec30f5fd33": 1
+  "ec30f5fd33": 1,
+  "032b0e6479": 1,
+  "1ff4431a67": 1,
+  "fa26031316": 1,
+  "775c92ce0c": 1,
+  "95bedd69ea": 1,
+  "714e0e7aec": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "melhor jeito de preservar a paz em família e a propria conta no banco",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "conselho de família que vale ouro pra evitar dor de cabeça",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Eu também nunca empresto, já vi o caos que causa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Confio, mas cartão pode virar drama de novela, já vi",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "teoria é bonita mas na hora de fazer o negócio é outro nível",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "regra de ouro que poupa muita dor de cabeça",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "salva a vida e o bolso de um jeito que pouca coisa faz",
    "p": "concorda",
@@ -4913,6 +4895,36 @@
   },
   {
    "t": "esse orçamento aí já dá pra dar entrada em outro carro kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pelo menos a rede social garante que a gente tá maluca em grupo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse trio aí custa caro até a gente aprender a respeitar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "liberdade de horário é o verdadeiro luxo do autônomo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa parte mecânica pesa no orçamento de um jeito desleal",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "corpo humano não foi feito para funcionar nesse horário",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse motor aí funcionava mais na base do carnê que da gasolina kkkkkk",
    "p": "concorda",
    "r": 2
   }
@@ -6117,8 +6129,6 @@
    "padrao de sobrevivencia"
   ],
   "17913815520480885": [
-   "sempre tem alguem",
-   "madrugada silenciosa ajuda",
    "pior que padaria",
    "quando a rotina",
    "perder peso e",
@@ -6136,14 +6146,14 @@
    "mudanca de horario",
    "dormir no almoco",
    "construir um pais",
-   "esse relogio interno"
+   "esse relogio interno",
+   "liberdade de horario",
+   "corpo humano nao"
   ],
   "18122836490511425": [
    "um comprimido amassado"
   ],
   "17918222961259641": [
-   "perder um carro",
-   "sorte a sua",
    "esse valor ai",
    "uma verdadeira novela",
    "peca que costuma",
@@ -6161,7 +6171,9 @@
    "quatro vezes o",
    "trabalhar so pra",
    "quinze mil de",
-   "esse orcamento ai"
+   "esse orcamento ai",
+   "essa parte mecanica",
+   "esse motor ai"
   ],
   "17997865899028872": [
    "guardar cedo evita",
@@ -6180,7 +6192,8 @@
    "pesado demais para",
    "teoria e bonita",
    "salva a vida",
-   "duas coisas que"
+   "duas coisas que",
+   "esse trio ai"
   ],
   "17980455462130729": [
    "uma licao que",
@@ -6198,7 +6211,8 @@
   ],
   "18091692569222965": [
    "pelo menos o",
-   "responder a propria"
+   "responder a propria",
+   "pelo menos a"
   ]
  },
  "shopee_checada": "2026-10-28|1",
