@@ -23,59 +23,23 @@
    "08:59",
    "09:54",
    "11:08",
-   "12:39"
+   "12:39",
+   "13:30"
   ],
   "produtos_feitos": 1,
-  "respostas": 65,
+  "respostas": 69,
   "por_post": {
    "17997865899028872": 10,
    "17918222961259641": 20,
    "17913815520480885": 19,
-   "18092170271676483": 1,
+   "18092170271676483": 4,
    "17980455462130729": 12,
-   "18091692569222965": 3
+   "18091692569222965": 3,
+   "18146338231578758": 1
   },
   "escondidos": 1
  },
  "posts": [
-  {
-   "id": "17954100792322263",
-   "insp": "video_26dbbef926",
-   "link": "",
-   "texto": "Descobri esse rodo que alcança qualquer canto e resolve a faxina mais rápido. Olha como funciona 👀",
-   "quando": "2026-10-22T19:37:09.605936-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "22898792169",
-   "link_pendente": false,
-   "modo_produto": "tema",
-   "prod_dados": {
-    "itemId": "22898792169",
-    "nome": "Rodinho De Pia Cozinha Rodo Mini Mop Magico Limpa E Seca -Retrátil E Pendurável",
-    "preco": 12.85,
-    "nota": 4.6,
-    "vendas": 8031,
-    "comissao": 0.03,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md3m2jqkl7up3a",
-    "offerLink": "https://s.shopee.com.br/6fiGsrUZFP",
-    "campanha": "",
-    "modo": "tema"
-   },
-   "metricas": {
-    "views": 112,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-10-28"
-   },
-   "link_coment": "https://s.shopee.com.br/6fiGsrUZFP",
-   "link_em": "2026-10-23T14:07:09.112396-04:00",
-   "link_views": 0
-  },
   {
    "id": "18334374889261347",
    "insp": "feb6e197f0",
@@ -1441,6 +1405,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: passar a vida trabalhando sem ver o dia passar ganhando bem ou viver com a grana contada mas tendo tempo livre pra curtir?",
    "quando": "2026-10-28T13:07:08.948400-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18096262466442750",
+   "insp": "1625f98254",
+   "link": "",
+   "texto": "Qual foi aquele jogo que você pediu tanto de presente de aniversário quando era criança e nunca ganhou",
+   "quando": "2026-10-28T13:37:09.550407-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4206,10 +4178,13 @@
   "18121634863915686",
   "17955352581268153",
   "18102684500398405",
-  "18104039684290300"
+  "18104039684290300",
+  "17973702648160088",
+  "17915277255536906",
+  "18356532085269678",
+  "18116652062108935"
  ],
  "hashes": [
-  "a394ab203d94e8c051a391da2f4ec606",
   "bbcadfd99d1d09858b72cd7a80f8299e",
   "77abb99d4acbd4bf95d3f3d196e7c974",
   "92d54301a9af0bbfd9e2594d5cc5b2b7",
@@ -4408,7 +4383,8 @@
   "cde85533a7b95ccb3e43688a87af64d7",
   "641c7392501b883d3c0c4712da6f91ca",
   "858f7877f9c28cec937083080f1aafad",
-  "8c4c1624e76015f5d96bd6d5030c1359"
+  "8c4c1624e76015f5d96bd6d5030c1359",
+  "6b9fb23b684174a8a490e16e6deab228"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4699,7 +4675,8 @@
   "3125348bad": 1793153250.330989,
   "0046da4da8": 1793192851.2663953,
   "cadb3d9e75": 1793201851.7399964,
-  "a46755f7b9": 1793207258.8348277
+  "a46755f7b9": 1793207258.8348277,
+  "1625f98254": 1793209089.0608096
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4766,30 +4743,14 @@
   "fa26031316": 1,
   "775c92ce0c": 1,
   "95bedd69ea": 1,
-  "714e0e7aec": 1
+  "714e0e7aec": 1,
+  "a6ae7fdd02": 1,
+  "38366de049": 1,
+  "bfe37b0af2": 1,
+  "56d4dc1ba6": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "salva a vida e o bolso de um jeito que pouca coisa faz",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "comida na mesa a gente ajuda, mas limite de crédito livre é convite para o caos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perder o carro assim pro sistema é uma maldade sem tamanho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "escola da vida que cobra caro na matricula",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Cartão emprestado a parente vira plot twist de drama, kkkkk",
    "p": "concorda",
@@ -4919,6 +4880,26 @@
    "t": "esse motor aí funcionava mais na base do carnê que da gasolina kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "verdade, no fim das contas a vida passa rápido demais pra gente só pagar boleto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa cama improvisada virou o melhor investimento sem querer kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "dinheiro jogado fora que faz a gente questionar as nossas escolhas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Poxa, eu também comprei cobertorzinho e o bebê fez cara de calor kkkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5906,10 +5887,6 @@
   }
  ],
  "aberturas_post": {
-  "18070093358773661": [
-   "e tipo colecao",
-   "essa big box"
-  ],
   "18357940078223066": [
    "parcelamento criativo que",
    "esse detalhe do",
@@ -6106,7 +6083,10 @@
    "dois grandes classicos",
    "categoria inteira que",
    "ansiedade de mae",
-   "promessa de milagre"
+   "promessa de milagre",
+   "essa cama improvisada",
+   "dinheiro jogado fora",
+   "poxa eu tambem"
   ],
   "17912121543489279": [
    "sinceridade pura e",
@@ -6205,6 +6185,9 @@
    "pelo menos o",
    "responder a propria",
    "pelo menos a"
+  ],
+  "18146338231578758": [
+   "verdade no fim"
   ]
  },
  "shopee_checada": "2026-10-28|1",
