@@ -21,38 +21,21 @@
   ],
   "feitos": [
    "08:59",
-   "09:54"
+   "09:54",
+   "11:08"
   ],
   "produtos_feitos": 1,
-  "respostas": 50,
+  "respostas": 54,
   "por_post": {
-   "17997865899028872": 8,
-   "17918222961259641": 16,
-   "17913815520480885": 14,
+   "17997865899028872": 9,
+   "17918222961259641": 17,
+   "17913815520480885": 15,
    "18092170271676483": 1,
-   "17980455462130729": 11
+   "17980455462130729": 12
   },
   "escondidos": 1
  },
  "posts": [
-  {
-   "id": "18078457244719478",
-   "insp": "2b3a6a81d7",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: vocês acham normal dividir a mesma cuia de chimarrão com alguém que acabaram de conhecer na rua ou é muita intimidade pro primeiro papo",
-   "quando": "2026-10-22T16:37:08.764648-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 244,
-    "likes": 3,
-    "replies": 14,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-28"
-   },
-   "viral_chk": "2026-10-23T16:07:08.952749-04:00"
-  },
   {
    "id": "18152595001596456",
    "insp": "da8ab25023",
@@ -1459,6 +1442,14 @@
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261k-mjye50tsga9wb4",
     "campanha": ""
    }
+  },
+  {
+   "id": "18091692569222965",
+   "insp": "cadb3d9e75",
+   "link": "",
+   "texto": "ME CONTA: vocês também já foram pegas conversando sozinhas com a tela do computador ou sou só eu que tô enlouquecendo no expediente?",
+   "quando": "2026-10-28T11:37:09.340827-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4208,10 +4199,13 @@
   "18002814399001898",
   "18151206601477164",
   "17972568252188601",
-  "18153724492530604"
+  "18153724492530604",
+  "17955990972270789",
+  "18357800800175818",
+  "18037701473849518",
+  "18146926174599003"
  ],
  "hashes": [
-  "d685c9dfae5cd7af6cd1456f0c9cc527",
   "65378016ebeb45b1e935c0a64d72b004",
   "a394ab203d94e8c051a391da2f4ec606",
   "bbcadfd99d1d09858b72cd7a80f8299e",
@@ -4410,7 +4404,8 @@
   "889c3c9cb28e8a0cab64cb763be58c5f",
   "8e3a4a40bf72d04d47e5bf2f7db150de",
   "cde85533a7b95ccb3e43688a87af64d7",
-  "641c7392501b883d3c0c4712da6f91ca"
+  "641c7392501b883d3c0c4712da6f91ca",
+  "858f7877f9c28cec937083080f1aafad"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4699,7 +4694,8 @@
   "a05db3f0dd": 1793137092.3311388,
   "5760d94547": 1793144294.4001164,
   "3125348bad": 1793153250.330989,
-  "0046da4da8": 1793192851.2663953
+  "0046da4da8": 1793192851.2663953,
+  "cadb3d9e75": 1793201851.7399964
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4753,30 +4749,14 @@
   "95f14bc218": 1,
   "e5832a0b49": 1,
   "1c9b2bd6e5": 1,
-  "4e8a8768c4": 1
+  "4e8a8768c4": 1,
+  "f781d58505": 1,
+  "3c020ddf0c": 1,
+  "3ab9db8629": 1,
+  "73709db9c4": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "o dia só começa a fazer sentido depois da meia noite mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "passou por uma frota inteira sem nenhum trauma financeiro kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "estratégia perfeita para evitar o mundo antes do almoço kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "exército de zumbis voluntários que me desculpem mas nem sob tortura kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "saudade dessa disposição que vinha de fábrica antigamente",
    "p": "ressalva",
@@ -4906,6 +4886,26 @@
    "t": "trabalhar só pra manter carro na oficina é uma maldade sem tamanho",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "duas coisas que evitam metade dos desesperos da vida adulta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "lição aprendida do jeito mais caro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dormir no almoço e a única produtividade que importa kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quinze mil de taxa de matrícula logo de cara é covardia kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6112,7 +6112,6 @@
    "padrao de sobrevivencia"
   ],
   "17913815520480885": [
-   "marido sensato e",
    "bater ponto na",
    "essa e a",
    "sempre tem alguem",
@@ -6131,13 +6130,13 @@
    "privacao de sono",
    "cada um tem",
    "que bom que",
-   "mudanca de horario"
+   "mudanca de horario",
+   "dormir no almoco"
   ],
   "18122836490511425": [
    "um comprimido amassado"
   ],
   "17918222961259641": [
-   "esse ai ganha",
    "colecao de desastres",
    "perder um carro",
    "sorte a sua",
@@ -6156,7 +6155,8 @@
    "cenario classico de",
    "essa ultima frase",
    "quatro vezes o",
-   "trabalhar so pra"
+   "trabalhar so pra",
+   "quinze mil de"
   ],
   "17997865899028872": [
    "guardar cedo evita",
@@ -6174,7 +6174,8 @@
    "essa e a",
    "pesado demais para",
    "teoria e bonita",
-   "salva a vida"
+   "salva a vida",
+   "duas coisas que"
   ],
   "17980455462130729": [
    "uma licao que",
@@ -6187,7 +6188,8 @@
    "comida na mesa",
    "escola da vida",
    "cartao emprestado a",
-   "nem com o"
+   "nem com o",
+   "licao aprendida do"
   ]
  },
  "shopee_checada": "2026-10-28|1",
