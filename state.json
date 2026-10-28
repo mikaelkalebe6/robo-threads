@@ -31,7 +31,7 @@
    "18:55"
   ],
   "produtos_feitos": 2,
-  "respostas": 99,
+  "respostas": 103,
   "por_post": {
    "17997865899028872": 13,
    "17918222961259641": 20,
@@ -41,8 +41,9 @@
    "18091692569222965": 4,
    "18146338231578758": 5,
    "18096262466442750": 2,
-   "17939308794122207": 15,
-   "18114732275034207": 2
+   "17939308794122207": 18,
+   "18114732275034207": 2,
+   "17974060974150692": 1
   },
   "escondidos": 1
  },
@@ -4193,7 +4194,11 @@
   "18056391950585219",
   "18636623596016912",
   "18168562921484505",
-  "18100460204370332"
+  "18100460204370332",
+  "18107898146251817",
+  "18104503931366487",
+  "18486382600115130",
+  "18077994908742536"
  ],
  "hashes": [
   "d745ccf8df54a20b9b9e9b1324d7af32",
@@ -4788,30 +4793,14 @@
   "cc1a76cc86": 1,
   "bc54f13480": 1,
   "980636c716": 1,
-  "047195bed5": 1
+  "047195bed5": 1,
+  "0dd970b946": 1,
+  "08b939a9ef": 1,
+  "910dbd1e9b": 1,
+  "42e55b4eae": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "versão artesanal sempre salvando a infância kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "exato, tempo livre sem um centavo no bolso só serve pra gente ficar olhando pra parede",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, o custo de respirar fora de casa tá bem alto mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "equipamento recusado com sucesso kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Entendo, T.I. tem jeito de puxar de volta kkk 🙏🏼",
    "p": "concorda",
@@ -4939,6 +4928,26 @@
   },
   {
    "t": "esse barulho da madrugada é o teste supremo de coragem kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "educação basica deveria ser o mínimo e não um favor",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "bom demais e paz pura",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "simples assim, sem erro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "investigador de barulho misterioso que sempre acaba sendo só o vento na janela kkkkkk",
    "p": "concorda",
    "r": 2
   }
@@ -5928,15 +5937,6 @@
   }
  ],
  "aberturas_post": {
-  "18411469255089348": [
-   "amizade verdadeira e",
-   "esse nome trazia",
-   "ser a cacula",
-   "exclusividade garantida na",
-   "era a definicao",
-   "corrida de carro",
-   "dupla dinamica do"
-  ],
   "18137736760629371": [
    "como consegue esse",
    "quem pode pode",
@@ -6236,11 +6236,17 @@
    "os gatos sempre",
    "verdade absoluta paz",
    "concordancia universal em",
-   "esse barulho da"
+   "esse barulho da",
+   "bom demais e",
+   "simples assim sem",
+   "investigador de barulho"
   ],
   "18114732275034207": [
    "o dinheiro some",
    "a materia prima"
+  ],
+  "17974060974150692": [
+   "educacao basica deveria"
   ]
  },
  "shopee_checada": "2026-10-28|1",
