@@ -21,13 +21,13 @@
    "11:29"
   ],
   "produtos_feitos": 2,
-  "respostas": 19,
+  "respostas": 20,
   "por_post": {
    "18114732275034207": 1,
    "17939308794122207": 9,
    "18146338231578758": 1,
    "18096262466442750": 1,
-   "17966524512249358": 7
+   "17966524512249358": 8
   }
  },
  "posts": [
@@ -1277,7 +1277,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T13:37:08.494566-04:00"
+   "viral_chk": "2026-10-29T14:07:08.791662-04:00"
   },
   {
    "id": "17974060974150692",
@@ -1295,7 +1295,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T13:37:08.494566-04:00"
+   "viral_chk": "2026-10-29T14:07:08.791662-04:00"
   },
   {
    "id": "18636439414020954",
@@ -1334,7 +1334,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T13:37:08.494566-04:00"
+   "viral_chk": "2026-10-29T14:07:08.791662-04:00"
   },
   {
    "id": "17907462081666720",
@@ -1343,7 +1343,7 @@
    "texto": "VAMOS CONCORDAR: quem tem paciência pra ouvir áudio de cinco minutos hoje em dia nem deve saber o que é conversa de verdade",
    "quando": "2026-10-29T09:07:08.376264-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T13:37:08.494566-04:00"
+   "viral_chk": "2026-10-29T14:07:08.791662-04:00"
   },
   {
    "id": "17954761392297381",
@@ -1372,7 +1372,7 @@
    "texto": "DÚVIDA SINCERA: qual foi a propaganda mais genial que você já viu na vida e lembra até hoje? Curioso pra saber o que realmente marcou a galera aqui.",
    "quando": "2026-10-29T10:37:09.264916-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T13:37:08.494566-04:00"
+   "viral_chk": "2026-10-29T14:07:08.791662-04:00"
   },
   {
    "id": "17952171162317956",
@@ -4221,7 +4221,8 @@
   "17952968418336367",
   "18194291470397306",
   "18433119367147984",
-  "17884776093652477"
+  "17884776093652477",
+  "18134861608679312"
  ],
  "hashes": [
   "854255bb532b29b16629c1c797c00991",
@@ -4744,15 +4745,11 @@
   "d4975deb3b": 1,
   "8fef3b1f02": 1,
   "2c769a18e4": 1,
-  "8d9686f5b1": 1
+  "8d9686f5b1": 1,
+  "68d1afc522": 1
  },
  "reservas_checadas": "2026-10-29",
  "ultimas_respostas": [
-  {
-   "t": "educação basica deveria ser o mínimo e não um favor",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "bom demais e paz pura",
    "p": "concorda",
@@ -4897,6 +4894,11 @@
    "t": "a criatividade daquela época realmente deixava tudo marcado na memória",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "essa clássica nunca falha pra tirar a atenção kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6206,7 +6208,8 @@
    "essa musica grudou",
    "essa melodia e",
    "realmente venderam um",
-   "a criatividade daquela"
+   "a criatividade daquela",
+   "essa classica nunca"
   ]
  },
  "shopee_checada": "2026-10-29|1",
