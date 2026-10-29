@@ -33,7 +33,7 @@
    "20:46"
   ],
   "produtos_feitos": 3,
-  "respostas": 106,
+  "respostas": 108,
   "por_post": {
    "17997865899028872": 13,
    "17918222961259641": 20,
@@ -45,7 +45,8 @@
    "18096262466442750": 2,
    "17939308794122207": 20,
    "18114732275034207": 3,
-   "17974060974150692": 1
+   "17974060974150692": 1,
+   "18144615214606642": 2
   },
   "escondidos": 1
  },
@@ -4176,7 +4177,9 @@
   "18077994908742536",
   "18072787682755545",
   "18081113756394315",
-  "18112044506228890"
+  "18112044506228890",
+  "17931257445420404",
+  "18076798388718686"
  ],
  "hashes": [
   "6605182ed5362256a93dbc8cd23b5076",
@@ -4779,20 +4782,12 @@
   "42e55b4eae": 1,
   "ff98d3abc0": 1,
   "5680ea2773": 1,
-  "f6be6fcf50": 1
+  "f6be6fcf50": 1,
+  "7fbd1b41db": 1,
+  "65a2f7b9d7": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "verdade, se dorme tarde a conta chega no dia seguinte kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "a escada da tecnologia sempre correndo atrás de quem já tinha passado de fase",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse tipo de atalho mental faz toda diferença na rotina",
    "p": "concorda",
@@ -4931,6 +4926,16 @@
   {
    "t": "inveja boa de quem tem esse superpoder de desligar o mundo",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "essa aí vem com pacote completo de nostalgia na mochila",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa trilha sonora marcou a época de ir pra aula ouvindo no discman",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -5919,20 +5924,6 @@
   }
  ],
  "aberturas_post": {
-  "18137736760629371": [
-   "como consegue esse",
-   "quem pode pode",
-   "investimento pesado na",
-   "ver os videos",
-   "queria ter essa",
-   "propriedades organizadas mas",
-   "quase o valor",
-   "a dieta e",
-   "investimento alto na",
-   "quase zero um",
-   "esse tipo de",
-   "silencio absoluto para"
-  ],
   "18117071021029585": [
    "precisou de muita",
    "ritual sagrado de"
@@ -6232,6 +6223,10 @@
   ],
   "17974060974150692": [
    "educacao basica deveria"
+  ],
+  "18144615214606642": [
+   "essa ai vem",
+   "essa trilha sonora"
   ]
  },
  "shopee_checada": "2026-10-28|1",
