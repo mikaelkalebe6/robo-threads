@@ -29,7 +29,8 @@
    "16:41",
    "17:52",
    "18:55",
-   "19:54"
+   "19:54",
+   "20:46"
   ],
   "produtos_feitos": 3,
   "respostas": 106,
@@ -49,24 +50,6 @@
   "escondidos": 1
  },
  "posts": [
-  {
-   "id": "17988790524079823",
-   "insp": "e7eeb217a4",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: dividir o último salgado é prova de amor maior do que qualquer buquê.",
-   "quando": "2026-10-23T12:37:08.808842-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-24T12:37:07.306484-04:00",
-   "metricas": {
-    "views": 403,
-    "likes": 9,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-28"
-   }
-  },
   {
    "id": "18164686105517451",
    "insp": "bd449a65bb",
@@ -1371,14 +1354,23 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "58257654101",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "58257654101",
     "nome": "Ferramenta Dobrável Multiuso Aço Inox Portátil para Emergências",
     "offerLink": "https://s.shopee.com.br/2BG0GQPNvL",
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mtxrb0vhm1vueb",
     "campanha": ""
-   }
+   },
+   "apagado": true
+  },
+  {
+   "id": "18144615214606642",
+   "insp": "36f567653d",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: qual música toca e te joga direto naqueles anos de escola sem olhar pra trás",
+   "quando": "2026-10-28T21:07:08.393878-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4187,7 +4179,6 @@
   "18112044506228890"
  ],
  "hashes": [
-  "d745ccf8df54a20b9b9e9b1324d7af32",
   "6605182ed5362256a93dbc8cd23b5076",
   "f4285a8b5138233e3a788554e310faea",
   "854255bb532b29b16629c1c797c00991",
@@ -4386,7 +4377,8 @@
   "6b9fb23b684174a8a490e16e6deab228",
   "804973db987f7b93619ff59c5bb175db",
   "a36d8664b49976c73459d95ad917665c",
-  "cec6ba7717687fd33f7d1147e01f42bb"
+  "cec6ba7717687fd33f7d1147e01f42bb",
+  "6883a917152a5329e2f61d1416997d26"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4681,7 +4673,8 @@
   "1625f98254": 1793209089.0608096,
   "379a8ce6b4": 1793221687.3524406,
   "6e7858b93b": 1793225291.397958,
-  "8875ec01b3": 1793228854.8775113
+  "8875ec01b3": 1793228854.8775113,
+  "36f567653d": 1793236086.8599896
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
