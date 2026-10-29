@@ -19,10 +19,10 @@
    "09:19"
   ],
   "produtos_feitos": 1,
-  "respostas": 10,
+  "respostas": 11,
   "por_post": {
    "18114732275034207": 1,
-   "17939308794122207": 8,
+   "17939308794122207": 9,
    "18146338231578758": 1
   }
  },
@@ -1231,7 +1231,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T09:37:08.566115-04:00"
+   "viral_chk": "2026-10-29T10:07:09.374505-04:00"
   },
   {
    "id": "18146338231578758",
@@ -1249,7 +1249,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T09:37:08.566115-04:00"
+   "viral_chk": "2026-10-29T10:07:09.374505-04:00"
   },
   {
    "id": "18096262466442750",
@@ -1267,7 +1267,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T09:37:08.566115-04:00"
+   "viral_chk": "2026-10-29T10:07:09.374505-04:00"
   },
   {
    "id": "18116265278113273",
@@ -1329,7 +1329,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T09:37:08.566115-04:00"
+   "viral_chk": "2026-10-29T10:07:09.374505-04:00"
   },
   {
    "id": "17974060974150692",
@@ -1347,7 +1347,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T09:37:08.566115-04:00"
+   "viral_chk": "2026-10-29T10:07:09.374505-04:00"
   },
   {
    "id": "18636439414020954",
@@ -1386,7 +1386,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T09:37:08.566115-04:00"
+   "viral_chk": "2026-10-29T10:07:09.374505-04:00"
   },
   {
    "id": "17907462081666720",
@@ -1395,7 +1395,7 @@
    "texto": "VAMOS CONCORDAR: quem tem paciência pra ouvir áudio de cinco minutos hoje em dia nem deve saber o que é conversa de verdade",
    "quando": "2026-10-29T09:07:08.376264-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T09:37:08.566115-04:00"
+   "viral_chk": "2026-10-29T10:07:09.374505-04:00"
   },
   {
    "id": "17954761392297381",
@@ -4235,7 +4235,8 @@
   "17902552452607304",
   "17909897655576833",
   "18115569659273633",
-  "18108081077285306"
+  "18108081077285306",
+  "18076077818754279"
  ],
  "hashes": [
   "f4285a8b5138233e3a788554e310faea",
@@ -4748,15 +4749,11 @@
   "366fd5e9e4": 1,
   "9d09b173df": 1,
   "fd9c620e71": 1,
-  "d77d8066ee": 1
+  "d77d8066ee": 1,
+  "912e5579ed": 1
  },
  "reservas_checadas": "2026-10-29",
  "ultimas_respostas": [
-  {
-   "t": "o dinheiro some antes da gente conseguir pensar em lazer básico",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "liberdade total que fala né",
    "p": "concorda",
@@ -4901,6 +4898,11 @@
    "t": "verdade, fica faltando alguém do lado para comentar os episódios",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "kkk a liberdade de ser pelada tem seu charme, né?",
+   "p": "neutra",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6172,7 +6174,6 @@
    "esse classico ficou"
   ],
   "17939308794122207": [
-   "liberdade total que",
    "nem todo mundo",
    "esse pensamento passa",
    "os gatos sempre",
@@ -6191,7 +6192,8 @@
    "o travesseiro gelado",
    "saida estrategica matinal",
    "a casa vem",
-   "verdade fica faltando"
+   "verdade fica faltando",
+   "a liberdade de"
   ],
   "18114732275034207": [
    "o dinheiro some",
