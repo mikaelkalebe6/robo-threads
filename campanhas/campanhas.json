@@ -1,5 +1,21 @@
 {
  "_leia": "Escrito pelo Claude (rotina das 7h12) a partir dos e-mails da Shopee Afiliados e da API. O robo usa so as campanhas com usar=true dentro do periodo (horario de Manaus): as palavras entram na busca de produtos e ganham peso, e a frase do link as vezes cita a campanha. Nao muda a quantidade de posts de produto por dia.",
- "atualizado": "2026-10-18",
- "campanhas": []
+ "atualizado": "2026-10-29",
+ "campanhas": [
+  {
+   "nome": "11.11",
+   "inicio": "2026-10-28",
+   "fim": "2026-11-11",
+   "usar": true,
+   "peso": 1.3,
+   "palavras": [
+    "ferramenta multiuso",
+    "lanterna recarregavel",
+    "suporte celular carro",
+    "organizador carro",
+    "fone bluetooth"
+   ],
+   "motivo": "Esquenta 11.11 da Shopee comecou; itens baratos de homem 25-44 (carro, ferramenta, gadget)."
+  }
+ ]
 }
