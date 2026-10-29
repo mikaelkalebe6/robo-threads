@@ -20,12 +20,13 @@
    "10:19"
   ],
   "produtos_feitos": 1,
-  "respostas": 12,
+  "respostas": 15,
   "por_post": {
    "18114732275034207": 1,
    "17939308794122207": 9,
    "18146338231578758": 1,
-   "18096262466442750": 1
+   "18096262466442750": 1,
+   "17966524512249358": 3
   }
  },
  "posts": [
@@ -1195,7 +1196,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T10:37:09.264916-04:00"
+   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
   },
   {
    "id": "18146338231578758",
@@ -1213,7 +1214,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T10:37:09.264916-04:00"
+   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
   },
   {
    "id": "18096262466442750",
@@ -1231,7 +1232,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T10:37:09.264916-04:00"
+   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
   },
   {
    "id": "18116265278113273",
@@ -1293,7 +1294,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T10:37:09.264916-04:00"
+   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
   },
   {
    "id": "17974060974150692",
@@ -1311,7 +1312,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T10:37:09.264916-04:00"
+   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
   },
   {
    "id": "18636439414020954",
@@ -1350,7 +1351,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T10:37:09.264916-04:00"
+   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
   },
   {
    "id": "17907462081666720",
@@ -1359,7 +1360,7 @@
    "texto": "VAMOS CONCORDAR: quem tem paciência pra ouvir áudio de cinco minutos hoje em dia nem deve saber o que é conversa de verdade",
    "quando": "2026-10-29T09:07:08.376264-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T10:37:09.264916-04:00"
+   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
   },
   {
    "id": "17954761392297381",
@@ -1388,7 +1389,7 @@
    "texto": "DÚVIDA SINCERA: qual foi a propaganda mais genial que você já viu na vida e lembra até hoje? Curioso pra saber o que realmente marcou a galera aqui.",
    "quando": "2026-10-29T10:37:09.264916-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T10:37:09.264916-04:00"
+   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
   }
  ],
  "respondidos": [
@@ -4210,7 +4211,10 @@
   "18115569659273633",
   "18108081077285306",
   "18076077818754279",
-  "17926720572431535"
+  "17926720572431535",
+  "18028441517916619",
+  "18081711470373352",
+  "18129704380874922"
  ],
  "hashes": [
   "854255bb532b29b16629c1c797c00991",
@@ -4726,25 +4730,13 @@
   "fd9c620e71": 1,
   "d77d8066ee": 1,
   "912e5579ed": 1,
-  "95e0636b30": 1
+  "95e0636b30": 1,
+  "9cb3dffd6a": 1,
+  "a54eb1fdf4": 1,
+  "b0279e7ac9": 1
  },
  "reservas_checadas": "2026-10-29",
  "ultimas_respostas": [
-  {
-   "t": "nem todo mundo aguenta a propria companhia",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "esse pensamento passa longe de ser só paranoia, da um aperto só de imaginar",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "os gatos sempre assumindo a culpa por todos os mistérios da casa kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "verdade absoluta, paz demais",
    "p": "concorda",
@@ -4877,6 +4869,21 @@
   },
   {
    "t": "Ah esses jogos eram pura magia de infância, agora entrou na minha lista",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa trilha sonora não sai mais da cabeça kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa propaganda tinha uma reviravolta muito pesada e inesquecível",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Que massa, Brastemp virou ditado, já anotei pra compartilhar!",
    "p": "concorda",
    "r": 0
   }
@@ -5876,10 +5883,6 @@
   }
  ],
  "aberturas_post": {
-  "18117071021029585": [
-   "precisou de muita",
-   "ritual sagrado de"
-  ],
   "17989226381872651": [
    "antes tarde do"
   ],
@@ -6184,6 +6187,11 @@
   "18144615214606642": [
    "essa ai vem",
    "essa trilha sonora"
+  ],
+  "17966524512249358": [
+   "essa trilha sonora",
+   "essa propaganda tinha",
+   "que massa brastemp"
   ]
  },
  "shopee_checada": "2026-10-29|1",
