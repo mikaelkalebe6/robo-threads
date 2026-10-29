@@ -28,10 +28,11 @@
    "15:07",
    "16:41",
    "17:52",
-   "18:55"
+   "18:55",
+   "19:54"
   ],
-  "produtos_feitos": 2,
-  "respostas": 103,
+  "produtos_feitos": 3,
+  "respostas": 105,
   "por_post": {
    "17997865899028872": 13,
    "17918222961259641": 20,
@@ -41,51 +42,13 @@
    "18091692569222965": 4,
    "18146338231578758": 5,
    "18096262466442750": 2,
-   "17939308794122207": 18,
-   "18114732275034207": 2,
+   "17939308794122207": 19,
+   "18114732275034207": 3,
    "17974060974150692": 1
   },
   "escondidos": 1
  },
  "posts": [
-  {
-   "id": "18121292618081991",
-   "insp": "video_79ff553bff",
-   "link": "",
-   "texto": "Cansada de carregar aquela farmácia inteira na bolsa e perder os remédios na bagunça. Descobri esse organizador portátil e achei genial pra viagem 👀",
-   "quando": "2026-10-23T11:07:09.271456-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "49115507870",
-   "link_pendente": false,
-   "modo_produto": "mesmo",
-   "prod_dados": {
-    "itemId": "49115507870",
-    "nome": "Organizador Portátil Para Fichário De Comprimidos , Reutilizável Viagem Com 14 B",
-    "preco": 48.31,
-    "nota": 5.0,
-    "vendas": 3,
-    "comissao": 0.03,
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825al-mrhgv0heanly24",
-    "offerLink": "https://s.shopee.com.br/BUoAj5f5I",
-    "campanha": "",
-    "modo": "mesmo"
-   },
-   "metricas": {
-    "views": 182,
-    "likes": 1,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-28"
-   },
-   "link_coment": "https://s.shopee.com.br/BUoAj5f5I",
-   "link_em": "2026-10-24T07:07:11.005998-04:00",
-   "link_views": 0
-  },
   {
    "id": "17988790524079823",
    "insp": "e7eeb217a4",
@@ -1396,6 +1359,26 @@
    "texto": "Quem mais aqui já perdeu o sono por um cara que não tinha nem 1,75 e ainda agia como se estivesse te fazendo um favor? \n\nA gente se humilha por cada coisa na vida que depois dá até vergonha de lembrar.",
    "quando": "2026-10-28T19:07:07.735754-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18636439414020954",
+   "insp": "prod_58257654101",
+   "link": "",
+   "texto": "Sempre que preciso apertar um parafuso no carro ou abrir alguma coisa na rua nunca acho nada. Descobri esse canivete multiuso de aço inox que cabe no bolso e já me salvou umas três vezes essa semana. Olha como ele abre fácil na foto 👀",
+   "quando": "2026-10-28T20:07:08.471996-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "58257654101",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "58257654101",
+    "nome": "Ferramenta Dobrável Multiuso Aço Inox Portátil para Emergências",
+    "offerLink": "https://s.shopee.com.br/2BG0GQPNvL",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mtxrb0vhm1vueb",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
@@ -4198,7 +4181,9 @@
   "18107898146251817",
   "18104503931366487",
   "18486382600115130",
-  "18077994908742536"
+  "18077994908742536",
+  "18072787682755545",
+  "18081113756394315"
  ],
  "hashes": [
   "d745ccf8df54a20b9b9e9b1324d7af32",
@@ -4797,20 +4782,12 @@
   "0dd970b946": 1,
   "08b939a9ef": 1,
   "910dbd1e9b": 1,
-  "42e55b4eae": 1
+  "42e55b4eae": 1,
+  "ff98d3abc0": 1,
+  "5680ea2773": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "Entendo, T.I. tem jeito de puxar de volta kkk 🙏🏼",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "paz de espírito acaba pesando mais na balança",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "dois anos pra cumprir meta e respirar um pouco seria o ideal mesmo",
    "p": "concorda",
@@ -4948,6 +4925,16 @@
   },
   {
    "t": "investigador de barulho misterioso que sempre acaba sendo só o vento na janela kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "o extrato bancário é um gênero de terror que a gente lê assustada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "no calor a única regra que sobrevive é o ventilador ligado kkkkk",
    "p": "concorda",
    "r": 2
   }
@@ -6239,11 +6226,13 @@
    "esse barulho da",
    "bom demais e",
    "simples assim sem",
-   "investigador de barulho"
+   "investigador de barulho",
+   "no calor a"
   ],
   "18114732275034207": [
    "o dinheiro some",
-   "a materia prima"
+   "a materia prima",
+   "o extrato bancario"
   ],
   "17974060974150692": [
    "educacao basica deveria"
@@ -6483,7 +6472,7 @@
   "58204067039": "2026-10-28T10:07:09.225022-04:00",
   "23993565028": "2026-10-26T18:37:08.130717-04:00",
   "21898099575": "2026-10-27T21:07:08.589314-04:00",
-  "58257654101": "2026-10-12T10:37:09.051050-04:00",
+  "58257654101": "2026-10-28T20:07:08.471996-04:00",
   "58250519029": "2026-10-12T14:07:09.043573-04:00",
   "58264177301": "2026-10-12T17:37:07.573345-04:00",
   "58262137609": "2026-10-12T19:07:08.855043-04:00",
