@@ -33,7 +33,7 @@
    "20:46"
   ],
   "produtos_feitos": 3,
-  "respostas": 108,
+  "respostas": 109,
   "por_post": {
    "17997865899028872": 13,
    "17918222961259641": 20,
@@ -42,7 +42,7 @@
    "17980455462130729": 13,
    "18091692569222965": 4,
    "18146338231578758": 5,
-   "18096262466442750": 2,
+   "18096262466442750": 3,
    "17939308794122207": 20,
    "18114732275034207": 3,
    "17974060974150692": 1,
@@ -4179,7 +4179,8 @@
   "18081113756394315",
   "18112044506228890",
   "17931257445420404",
-  "18076798388718686"
+  "18076798388718686",
+  "18126449731687513"
  ],
  "hashes": [
   "6605182ed5362256a93dbc8cd23b5076",
@@ -4784,15 +4785,11 @@
   "5680ea2773": 1,
   "f6be6fcf50": 1,
   "7fbd1b41db": 1,
-  "65a2f7b9d7": 1
+  "65a2f7b9d7": 1,
+  "0af1701b18": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "esse tipo de atalho mental faz toda diferença na rotina",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa ficha demora a cair mas traz um alivio enorme quando finalmente chega",
    "p": "concorda",
@@ -4935,6 +4932,11 @@
   },
   {
    "t": "essa trilha sonora marcou a época de ir pra aula ouvindo no discman",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "casa de vizinho com videogame e gente boa era a verdadeira infancia de luxo",
    "p": "concorda",
    "r": 0
   }
@@ -6192,7 +6194,8 @@
   ],
   "18096262466442750": [
    "versao artesanal sempre",
-   "a escada da"
+   "a escada da",
+   "casa de vizinho"
   ],
   "17939308794122207": [
    "medo genuino de",
