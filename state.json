@@ -17,37 +17,20 @@
   "feitos": [
    "08:38",
    "09:19",
-   "10:19"
+   "10:19",
+   "11:29"
   ],
-  "produtos_feitos": 1,
-  "respostas": 15,
+  "produtos_feitos": 2,
+  "respostas": 16,
   "por_post": {
    "18114732275034207": 1,
    "17939308794122207": 9,
    "18146338231578758": 1,
    "18096262466442750": 1,
-   "17966524512249358": 3
+   "17966524512249358": 4
   }
  },
  "posts": [
-  {
-   "id": "17962389900213872",
-   "insp": "876494bf5b",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: passar anos estudando pra estabilidade ou arriscar tudo num negócio próprio que pode dar bom ou fechar em seis meses. Quem já escolheu um dos dois se arrepende?",
-   "quando": "2026-10-23T17:07:08.014630-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 221,
-    "likes": 1,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-29"
-   },
-   "viral_chk": "2026-10-24T13:07:08.818984-04:00"
-  },
   {
    "id": "18093983168653453",
    "insp": "e1d097044c",
@@ -1196,7 +1179,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
+   "viral_chk": "2026-10-29T11:37:08.878649-04:00"
   },
   {
    "id": "18146338231578758",
@@ -1214,7 +1197,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
+   "viral_chk": "2026-10-29T11:37:08.878649-04:00"
   },
   {
    "id": "18096262466442750",
@@ -1232,7 +1215,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
+   "viral_chk": "2026-10-29T11:37:08.878649-04:00"
   },
   {
    "id": "18116265278113273",
@@ -1294,7 +1277,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
+   "viral_chk": "2026-10-29T11:37:08.878649-04:00"
   },
   {
    "id": "17974060974150692",
@@ -1312,7 +1295,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
+   "viral_chk": "2026-10-29T11:37:08.878649-04:00"
   },
   {
    "id": "18636439414020954",
@@ -1351,7 +1334,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
+   "viral_chk": "2026-10-29T11:37:08.878649-04:00"
   },
   {
    "id": "17907462081666720",
@@ -1360,7 +1343,7 @@
    "texto": "VAMOS CONCORDAR: quem tem paciência pra ouvir áudio de cinco minutos hoje em dia nem deve saber o que é conversa de verdade",
    "quando": "2026-10-29T09:07:08.376264-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
+   "viral_chk": "2026-10-29T11:37:08.878649-04:00"
   },
   {
    "id": "17954761392297381",
@@ -1389,7 +1372,27 @@
    "texto": "DÚVIDA SINCERA: qual foi a propaganda mais genial que você já viu na vida e lembra até hoje? Curioso pra saber o que realmente marcou a galera aqui.",
    "quando": "2026-10-29T10:37:09.264916-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T11:07:08.619072-04:00"
+   "viral_chk": "2026-10-29T11:37:08.878649-04:00"
+  },
+  {
+   "id": "17952171162317956",
+   "insp": "prod_23593906892",
+   "link": "",
+   "texto": "Deixar as ferramentas soltas no porta malas e ouvir aquele barulho em cada curva irrita demais. Descobri essa bolsa organizadora de feltro que prende tudo certinho e o carro finalmente parou de parecer uma oficina abandonada, olha como funciona 👀",
+   "quando": "2026-10-29T11:37:08.878649-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "23593906892",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "23593906892",
+    "nome": "Bolsa De Armazenamento De Ferramentas De Carro Em Feltro Para O Porta-Malas Do Carro",
+    "offerLink": "https://s.shopee.com.br/AKbjcL9TsH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rens-m8p66bx62oiv86",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
@@ -4214,7 +4217,8 @@
   "17926720572431535",
   "18028441517916619",
   "18081711470373352",
-  "18129704380874922"
+  "18129704380874922",
+  "17952968418336367"
  ],
  "hashes": [
   "854255bb532b29b16629c1c797c00991",
@@ -4733,15 +4737,11 @@
   "95e0636b30": 1,
   "9cb3dffd6a": 1,
   "a54eb1fdf4": 1,
-  "b0279e7ac9": 1
+  "b0279e7ac9": 1,
+  "d4975deb3b": 1
  },
  "reservas_checadas": "2026-10-29",
  "ultimas_respostas": [
-  {
-   "t": "verdade absoluta, paz demais",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "a matéria prima disparou e o cardápio inteiro foi junto",
    "p": "concorda",
@@ -4886,6 +4886,11 @@
    "t": "Que massa, Brastemp virou ditado, já anotei pra compartilhar!",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "essa música grudou na cabeça de gerações inteiras kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6191,7 +6196,8 @@
   "17966524512249358": [
    "essa trilha sonora",
    "essa propaganda tinha",
-   "que massa brastemp"
+   "que massa brastemp",
+   "essa musica grudou"
   ]
  },
  "shopee_checada": "2026-10-29|1",
@@ -6610,7 +6616,8 @@
   "23499364961": "2026-10-28T07:07:10.960636-04:00",
   "58215225158": "2026-10-28T07:07:10.960636-04:00",
   "19897424402": "2026-10-28T07:07:10.960636-04:00",
-  "58267939235": "2026-10-29T09:37:08.566115-04:00"
+  "58267939235": "2026-10-29T09:37:08.566115-04:00",
+  "23593906892": "2026-10-29T11:37:08.878649-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
