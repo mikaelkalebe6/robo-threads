@@ -16,10 +16,11 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 10,
   "por_post": {
    "18114732275034207": 1,
-   "17939308794122207": 5
+   "17939308794122207": 8,
+   "18146338231578758": 1
   }
  },
  "posts": [
@@ -1234,7 +1235,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T07:07:08.931399-04:00"
+   "viral_chk": "2026-10-29T07:37:08.696719-04:00"
   },
   {
    "id": "17941476810398614",
@@ -1273,7 +1274,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T07:07:08.931399-04:00"
+   "viral_chk": "2026-10-29T07:37:08.696719-04:00"
   },
   {
    "id": "18146338231578758",
@@ -1291,7 +1292,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T07:07:08.931399-04:00"
+   "viral_chk": "2026-10-29T07:37:08.696719-04:00"
   },
   {
    "id": "18096262466442750",
@@ -1309,7 +1310,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T07:07:08.931399-04:00"
+   "viral_chk": "2026-10-29T07:37:08.696719-04:00"
   },
   {
    "id": "18116265278113273",
@@ -1371,7 +1372,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T07:07:08.931399-04:00"
+   "viral_chk": "2026-10-29T07:37:08.696719-04:00"
   },
   {
    "id": "17974060974150692",
@@ -1389,7 +1390,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T07:07:08.931399-04:00"
+   "viral_chk": "2026-10-29T07:37:08.696719-04:00"
   },
   {
    "id": "18636439414020954",
@@ -1428,7 +1429,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T07:07:08.931399-04:00"
+   "viral_chk": "2026-10-29T07:37:08.696719-04:00"
   }
  ],
  "respondidos": [
@@ -4244,7 +4245,11 @@
   "18132283351689537",
   "18578353834072561",
   "17892762225683785",
-  "17957066787264566"
+  "17957066787264566",
+  "17902552452607304",
+  "17909897655576833",
+  "18115569659273633",
+  "18108081077285306"
  ],
  "hashes": [
   "6605182ed5362256a93dbc8cd23b5076",
@@ -4752,30 +4757,14 @@
   "587a00cf83": 1,
   "5501c391ea": 1,
   "471a10db81": 1,
-  "93da6fa068": 1
+  "93da6fa068": 1,
+  "366fd5e9e4": 1,
+  "9d09b173df": 1,
+  "fd9c620e71": 1,
+  "d77d8066ee": 1
  },
  "reservas_checadas": "2026-10-29",
  "ultimas_respostas": [
-  {
-   "t": "a inocência de achar que não tem ninguém olhando é a melhor parte",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "paz incomparável",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesadelo de quem só queria dormir em paz kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "paz de espirito vale mais que qualquer favor de família",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "o dinheiro some antes da gente conseguir pensar em lazer básico",
    "p": "concorda",
@@ -4905,6 +4894,26 @@
    "t": "o travesseiro gelado de madrugada é o auge do pesadelo kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "o difícil é achar o ponto exato onde a conta fecha e sobra tempo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "saída estratégica matinal bem raiz kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "a casa vem com pacote completo de história e suspense de graça kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "verdade, fica faltando alguém do lado para comentar os episódios",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6166,7 +6175,8 @@
    "exato tempo livre",
    "verdade o custo",
    "paz de espirito",
-   "dois anos pra"
+   "dois anos pra",
+   "o dificil e"
   ],
   "18096262466442750": [
    "versao artesanal sempre",
@@ -6175,9 +6185,6 @@
    "esse classico ficou"
   ],
   "17939308794122207": [
-   "a inocencia de",
-   "paz incomparavel",
-   "pesadelo de quem",
    "liberdade total que",
    "nem todo mundo",
    "esse pensamento passa",
@@ -6194,7 +6201,10 @@
    "bom dia lindona",
    "concierge 24h so",
    "exatamente liberdade sem",
-   "o travesseiro gelado"
+   "o travesseiro gelado",
+   "saida estrategica matinal",
+   "a casa vem",
+   "verdade fica faltando"
   ],
   "18114732275034207": [
    "o dinheiro some",
@@ -6237,7 +6247,22 @@
  },
  "shopee_produtos": [
   {
-   "campanha": "",
+   "campanha": "11.11",
+   "peso_campanha": 1.3,
+   "desconto": 51.0,
+   "data": "2026-10-29",
+   "itemId": "49610876725",
+   "nome": "Rádio Caixa de Som Bluetooth Recarregável  Lanterna Retro Portátil FM AM USB SD Pilha",
+   "preco": 68.9,
+   "nota": 4.9,
+   "vendas": 2248,
+   "comissao": 0.13,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mogu34styw3n6e",
+   "offerLink": "https://s.shopee.com.br/906M1t9x3P",
+   "nota_rank": 48.984
+  },
+  {
+   "campanha": "11.11",
    "peso_campanha": 1.0,
    "desconto": 27.0,
    "data": "2026-10-29",
@@ -6267,6 +6292,51 @@
    "nota_rank": 24.506
   },
   {
+   "campanha": "11.11",
+   "peso_campanha": 1.3,
+   "desconto": 49.0,
+   "data": "2026-10-29",
+   "itemId": "58255061423",
+   "nome": "Expositor para 50 carrinhos Hot Weels Prateleira Brinquedos Coleção Miniaturas Carros Organizador",
+   "preco": 27.85,
+   "nota": 4.9,
+   "vendas": 2459,
+   "comissao": 0.12,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mr8pgwybwr2f66",
+   "offerLink": "https://s.shopee.com.br/1BXJLmoqF",
+   "nota_rank": 18.342
+  },
+  {
+   "campanha": "11.11",
+   "peso_campanha": 1.3,
+   "desconto": 0.0,
+   "data": "2026-10-29",
+   "itemId": "58267939235",
+   "nome": "Bolsa de Armazenamento em Feltro para Porta-Malas do Carro, Organizador de Ferramentas e Acessórios Automotivos",
+   "preco": 80.0,
+   "nota": 4.9,
+   "vendas": 1917,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aj-mszmp8b1gav9c0",
+   "offerLink": "https://s.shopee.com.br/AAIJQ2A7DG",
+   "nota_rank": 10.242
+  },
+  {
+   "campanha": "11.11",
+   "peso_campanha": 1.3,
+   "desconto": 49.0,
+   "data": "2026-10-29",
+   "itemId": "58208889792",
+   "nome": "Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração Fone Corrida Academia",
+   "preco": 40.99,
+   "nota": 4.9,
+   "vendas": 11430,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mozd89yz0xdx96",
+   "offerLink": "https://s.shopee.com.br/8fTVbEx5JP",
+   "nota_rank": 8.077
+  },
+  {
    "campanha": "",
    "peso_campanha": 1.0,
    "desconto": 0.0,
@@ -6282,19 +6352,19 @@
    "nota_rank": 7.069
   },
   {
-   "campanha": "",
-   "peso_campanha": 1.0,
-   "desconto": 49.0,
+   "campanha": "11.11",
+   "peso_campanha": 1.3,
+   "desconto": 64.0,
    "data": "2026-10-29",
-   "itemId": "58208889792",
-   "nome": "Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração Fone Corrida Academia",
-   "preco": 40.99,
+   "itemId": "23094546288",
+   "nome": "Raspadores Multiuso Para Limpar Box Com 5-10 Lâminas Profissional/Vidro Piso Cerâmica Azulejo",
+   "preco": 11.96,
    "nota": 4.9,
-   "vendas": 11430,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mozd89yz0xdx96",
-   "offerLink": "https://s.shopee.com.br/50aDEV1HQP",
-   "nota_rank": 6.213
+   "vendas": 3925,
+   "comissao": 0.07,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg42kmd4gkjp15",
+   "offerLink": "https://s.shopee.com.br/8fTVdHCBJp",
+   "nota_rank": 5.085
   },
   {
    "campanha": "",
@@ -6312,7 +6382,22 @@
    "nota_rank": 4.56
   },
   {
-   "campanha": "",
+   "campanha": "11.11",
+   "peso_campanha": 1.3,
+   "desconto": 39.0,
+   "data": "2026-10-29",
+   "itemId": "23593906892",
+   "nome": "Bolsa De Armazenamento De Ferramentas De Carro Em Feltro Para O Porta-Malas Do Carro",
+   "preco": 29.78,
+   "nota": 4.9,
+   "vendas": 1532,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rens-m8p66bx62oiv86",
+   "offerLink": "https://s.shopee.com.br/AKbjcL9TsH",
+   "nota_rank": 4.421
+  },
+  {
+   "campanha": "11.11",
    "peso_campanha": 1.0,
    "desconto": 57.0,
    "data": "2026-10-29",
@@ -6327,7 +6412,7 @@
    "nota_rank": 4.347
   },
   {
-   "campanha": "",
+   "campanha": "11.11",
    "peso_campanha": 1.0,
    "desconto": 33.0,
    "data": "2026-10-29",
@@ -6342,7 +6427,7 @@
    "nota_rank": 4.313
   },
   {
-   "campanha": "",
+   "campanha": "11.11",
    "peso_campanha": 1.0,
    "desconto": 72.0,
    "data": "2026-10-29",
@@ -6357,22 +6442,52 @@
    "nota_rank": 3.582
   },
   {
-   "campanha": "",
-   "peso_campanha": 1.0,
-   "desconto": 23.0,
+   "campanha": "11.11",
+   "peso_campanha": 1.3,
+   "desconto": 61.0,
    "data": "2026-10-29",
-   "itemId": "22493432361",
-   "nome": "Lanterna de Cabeça 5 Led Luz Forte  À Prova D 'Água USB Recarregável 4 Modos",
-   "preco": 19.85,
+   "itemId": "58203234670",
+   "nome": "Gancho Universal Para Encosto De Cabeça De Assento De Carro-Duplo Couro Premium , Cabide De Liga Grande Com Suporte lulu",
+   "preco": 10.0,
    "nota": 4.9,
-   "vendas": 3081,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reqi-m8lur4kj8tr6d2",
-   "offerLink": "https://s.shopee.com.br/30p8qpVr88",
-   "nota_rank": 2.317
+   "vendas": 2595,
+   "comissao": 0.05,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261t-mjg52g4cznyfe4",
+   "offerLink": "https://s.shopee.com.br/AUv9oe8qXI",
+   "nota_rank": 2.885
   },
   {
-   "campanha": "",
+   "campanha": "11.11",
+   "peso_campanha": 1.3,
+   "desconto": 61.0,
+   "data": "2026-10-29",
+   "itemId": "58251910469",
+   "nome": "Gancho Universal Para Encosto De Cabeça De Assento De Carro-Duplo Couro Premium Cabide De Liga Grande Com Suporte ZEM",
+   "preco": 10.0,
+   "nota": 4.9,
+   "vendas": 1190,
+   "comissao": 0.05,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mnlvz7q90pvk5c",
+   "offerLink": "https://s.shopee.com.br/9V2ccoCeZC",
+   "nota_rank": 2.599
+  },
+  {
+   "campanha": "11.11",
+   "peso_campanha": 1.3,
+   "desconto": 61.0,
+   "data": "2026-10-29",
+   "itemId": "18599882228",
+   "nome": "Gancho Universal Para Encosto De Cabeça De Assento De Carro-Duplo Couro Premium , Cabide De Liga Grande Com Suporte",
+   "preco": 10.0,
+   "nota": 4.9,
+   "vendas": 1069,
+   "comissao": 0.05,
+   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824iw-mep6hejrt3wm4d",
+   "offerLink": "https://s.shopee.com.br/9KjCQVDHuB",
+   "nota_rank": 2.56
+  },
+  {
+   "campanha": "11.11",
    "peso_campanha": 1.0,
    "desconto": 39.0,
    "data": "2026-10-29",
@@ -6387,7 +6502,37 @@
    "nota_rank": 1.816
   },
   {
-   "campanha": "",
+   "campanha": "11.11",
+   "peso_campanha": 1.3,
+   "desconto": 50.0,
+   "data": "2026-10-29",
+   "itemId": "22798000771",
+   "nome": "Escova De Limpeza Multiuso Com Dispenser Sabão Para Tênis Roupas Louças Calçados",
+   "preco": 9.97,
+   "nota": 4.9,
+   "vendas": 1858,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mt57xr2h5qth9f",
+   "offerLink": "https://s.shopee.com.br/8VA5QyCoes",
+   "nota_rank": 1.589
+  },
+  {
+   "campanha": "11.11",
+   "peso_campanha": 1.3,
+   "desconto": 0.0,
+   "data": "2026-10-29",
+   "itemId": "22292964139",
+   "nome": "Porta Copo Lata Personalizado Carros Caminhões Uber Ônibus Lancha Barco",
+   "preco": 12.99,
+   "nota": 4.9,
+   "vendas": 1273,
+   "comissao": 0.03,
+   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lu2d6kwsjw4led",
+   "offerLink": "https://s.shopee.com.br/9fM2p7C1ED",
+   "nota_rank": 1.573
+  },
+  {
+   "campanha": "11.11",
    "peso_campanha": 1.0,
    "desconto": 36.0,
    "data": "2026-10-29",
@@ -6516,7 +6661,7 @@
   "car-20261018-3",
   "car-20261018-5"
  ],
- "shopee_campanhas_marca": "380409f5d1",
+ "shopee_campanhas_marca": "2ec890aef8",
  "shopee_campanhas_api": [
   {
    "nome": "- - Health",
@@ -6609,8 +6754,10 @@
    "tipo": 2
   }
  ],
- "shopee_campanhas_api_data": "2026-10-10",
- "shopee_campanhas": [],
+ "shopee_campanhas_api_data": "2026-10-29",
+ "shopee_campanhas": [
+  "11.11"
+ ],
  "fios_usados": [
   "fio-20261010-1",
   "fio-20261010-2",
