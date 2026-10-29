@@ -22,15 +22,15 @@
    "17:21"
   ],
   "produtos_feitos": 2,
-  "respostas": 24,
+  "respostas": 27,
   "por_post": {
    "18114732275034207": 1,
    "17939308794122207": 9,
    "18146338231578758": 1,
    "18096262466442750": 1,
    "17966524512249358": 9,
-   "17907462081666720": 1,
-   "18143232559720343": 2
+   "17907462081666720": 3,
+   "18143232559720343": 3
   }
  },
  "posts": [
@@ -1280,7 +1280,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T18:07:08.100285-04:00"
+   "viral_chk": "2026-10-29T18:37:07.712502-04:00"
   },
   {
    "id": "18636439414020954",
@@ -1319,7 +1319,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T18:07:08.100285-04:00"
+   "viral_chk": "2026-10-29T18:37:07.712502-04:00"
   },
   {
    "id": "17907462081666720",
@@ -1328,7 +1328,7 @@
    "texto": "VAMOS CONCORDAR: quem tem paciência pra ouvir áudio de cinco minutos hoje em dia nem deve saber o que é conversa de verdade",
    "quando": "2026-10-29T09:07:08.376264-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T18:07:08.100285-04:00"
+   "viral_chk": "2026-10-29T18:37:07.712502-04:00"
   },
   {
    "id": "17954761392297381",
@@ -1358,7 +1358,7 @@
    "texto": "DÚVIDA SINCERA: qual foi a propaganda mais genial que você já viu na vida e lembra até hoje? Curioso pra saber o que realmente marcou a galera aqui.",
    "quando": "2026-10-29T10:37:09.264916-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T18:07:08.100285-04:00"
+   "viral_chk": "2026-10-29T18:37:07.712502-04:00"
   },
   {
    "id": "17952171162317956",
@@ -1388,7 +1388,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T18:07:08.100285-04:00"
+   "viral_chk": "2026-10-29T18:37:07.712502-04:00"
   }
  ],
  "respondidos": [
@@ -4222,7 +4222,10 @@
   "18132082784306443",
   "18120082661076669",
   "18135545092777304",
-  "18117629855044132"
+  "18117629855044132",
+  "18090378875279526",
+  "18133377982689108",
+  "17995567791095407"
  ],
  "hashes": [
   "391fab575aaff1588f6274e28881098b",
@@ -4751,25 +4754,13 @@
   "939910278c": 1,
   "8677c658b9": 1,
   "d2be3d4ebd": 1,
-  "9587d4288b": 1
+  "9587d4288b": 1,
+  "4d06e6a441": 1,
+  "afb6ed507b": 1,
+  "3a4f6eb0bb": 1
  },
  "reservas_checadas": "2026-10-29",
  "ultimas_respostas": [
-  {
-   "t": "no calor a única regra que sobrevive é o ventilador ligado kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "inveja boa de quem tem esse superpoder de desligar o mundo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "essa aí vem com pacote completo de nostalgia na mochila",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa trilha sonora marcou a época de ir pra aula ouvindo no discman",
    "p": "concorda",
@@ -4904,6 +4895,21 @@
    "t": "hábito saudável para preservar a paz de espírito",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "coragem e fôlego em dobro kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "assinatura anual garantida de sofrimento kkkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "um minuto e meio já vira um podcast particular kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6202,11 +6208,14 @@
    "essa marcou epoca"
   ],
   "17907462081666720": [
-   "quem manda podcast"
+   "quem manda podcast",
+   "coragem e folego",
+   "um minuto e"
   ],
   "18143232559720343": [
    "essa frase doeu",
-   "habito saudavel para"
+   "habito saudavel para",
+   "assinatura anual garantida"
   ]
  },
  "shopee_checada": "2026-10-29|1",
