@@ -21,13 +21,13 @@
    "11:29"
   ],
   "produtos_feitos": 2,
-  "respostas": 16,
+  "respostas": 17,
   "por_post": {
    "18114732275034207": 1,
    "17939308794122207": 9,
    "18146338231578758": 1,
    "18096262466442750": 1,
-   "17966524512249358": 4
+   "17966524512249358": 5
   }
  },
  "posts": [
@@ -1197,7 +1197,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T12:07:09.516159-04:00"
+   "viral_chk": "2026-10-29T12:37:09.335962-04:00"
   },
   {
    "id": "18096262466442750",
@@ -1215,7 +1215,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T12:07:09.516159-04:00"
+   "viral_chk": "2026-10-29T12:37:09.335962-04:00"
   },
   {
    "id": "18116265278113273",
@@ -1277,7 +1277,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T12:07:09.516159-04:00"
+   "viral_chk": "2026-10-29T12:37:09.335962-04:00"
   },
   {
    "id": "17974060974150692",
@@ -1295,7 +1295,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T12:07:09.516159-04:00"
+   "viral_chk": "2026-10-29T12:37:09.335962-04:00"
   },
   {
    "id": "18636439414020954",
@@ -1334,7 +1334,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T12:07:09.516159-04:00"
+   "viral_chk": "2026-10-29T12:37:09.335962-04:00"
   },
   {
    "id": "17907462081666720",
@@ -1343,7 +1343,7 @@
    "texto": "VAMOS CONCORDAR: quem tem paciência pra ouvir áudio de cinco minutos hoje em dia nem deve saber o que é conversa de verdade",
    "quando": "2026-10-29T09:07:08.376264-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T12:07:09.516159-04:00"
+   "viral_chk": "2026-10-29T12:37:09.335962-04:00"
   },
   {
    "id": "17954761392297381",
@@ -1372,7 +1372,7 @@
    "texto": "DÚVIDA SINCERA: qual foi a propaganda mais genial que você já viu na vida e lembra até hoje? Curioso pra saber o que realmente marcou a galera aqui.",
    "quando": "2026-10-29T10:37:09.264916-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T12:07:09.516159-04:00"
+   "viral_chk": "2026-10-29T12:37:09.335962-04:00"
   },
   {
    "id": "17952171162317956",
@@ -4218,7 +4218,8 @@
   "18028441517916619",
   "18081711470373352",
   "18129704380874922",
-  "17952968418336367"
+  "17952968418336367",
+  "18194291470397306"
  ],
  "hashes": [
   "854255bb532b29b16629c1c797c00991",
@@ -4738,15 +4739,11 @@
   "9cb3dffd6a": 1,
   "a54eb1fdf4": 1,
   "b0279e7ac9": 1,
-  "d4975deb3b": 1
+  "d4975deb3b": 1,
+  "8fef3b1f02": 1
  },
  "reservas_checadas": "2026-10-29",
  "ultimas_respostas": [
-  {
-   "t": "a matéria prima disparou e o cardápio inteiro foi junto",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "concordância universal em cima da hora",
    "p": "concorda",
@@ -4891,6 +4888,11 @@
    "t": "essa música grudou na cabeça de gerações inteiras kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "essa melodia e o guri de bicicleta ficaram marcados para sempre na memória",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6197,7 +6199,8 @@
    "essa trilha sonora",
    "essa propaganda tinha",
    "que massa brastemp",
-   "essa musica grudou"
+   "essa musica grudou",
+   "essa melodia e"
   ]
  },
  "shopee_checada": "2026-10-29|1",
