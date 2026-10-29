@@ -32,7 +32,7 @@
    "19:54"
   ],
   "produtos_feitos": 3,
-  "respostas": 105,
+  "respostas": 106,
   "por_post": {
    "17997865899028872": 13,
    "17918222961259641": 20,
@@ -42,7 +42,7 @@
    "18091692569222965": 4,
    "18146338231578758": 5,
    "18096262466442750": 2,
-   "17939308794122207": 19,
+   "17939308794122207": 20,
    "18114732275034207": 3,
    "17974060974150692": 1
   },
@@ -4183,7 +4183,8 @@
   "18486382600115130",
   "18077994908742536",
   "18072787682755545",
-  "18081113756394315"
+  "18081113756394315",
+  "18112044506228890"
  ],
  "hashes": [
   "d745ccf8df54a20b9b9e9b1324d7af32",
@@ -4784,15 +4785,11 @@
   "910dbd1e9b": 1,
   "42e55b4eae": 1,
   "ff98d3abc0": 1,
-  "5680ea2773": 1
+  "5680ea2773": 1,
+  "f6be6fcf50": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "dois anos pra cumprir meta e respirar um pouco seria o ideal mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "verdade, se dorme tarde a conta chega no dia seguinte kkk",
    "p": "concorda",
@@ -4937,6 +4934,11 @@
    "t": "no calor a única regra que sobrevive é o ventilador ligado kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "inveja boa de quem tem esse superpoder de desligar o mundo",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6227,7 +6229,8 @@
    "bom demais e",
    "simples assim sem",
    "investigador de barulho",
-   "no calor a"
+   "no calor a",
+   "inveja boa de"
   ],
   "18114732275034207": [
    "o dinheiro some",
