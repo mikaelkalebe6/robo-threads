@@ -22,14 +22,15 @@
    "17:21"
   ],
   "produtos_feitos": 2,
-  "respostas": 22,
+  "respostas": 24,
   "por_post": {
    "18114732275034207": 1,
    "17939308794122207": 9,
    "18146338231578758": 1,
    "18096262466442750": 1,
    "17966524512249358": 9,
-   "17907462081666720": 1
+   "17907462081666720": 1,
+   "18143232559720343": 2
   }
  },
  "posts": [
@@ -1261,7 +1262,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T17:37:08.190087-04:00"
+   "viral_chk": "2026-10-29T18:07:08.100285-04:00"
   },
   {
    "id": "17974060974150692",
@@ -1279,7 +1280,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T17:37:08.190087-04:00"
+   "viral_chk": "2026-10-29T18:07:08.100285-04:00"
   },
   {
    "id": "18636439414020954",
@@ -1318,7 +1319,7 @@
     "shares": 0,
     "em": "2026-10-29"
    },
-   "viral_chk": "2026-10-29T17:37:08.190087-04:00"
+   "viral_chk": "2026-10-29T18:07:08.100285-04:00"
   },
   {
    "id": "17907462081666720",
@@ -1327,7 +1328,7 @@
    "texto": "VAMOS CONCORDAR: quem tem paciência pra ouvir áudio de cinco minutos hoje em dia nem deve saber o que é conversa de verdade",
    "quando": "2026-10-29T09:07:08.376264-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T17:37:08.190087-04:00"
+   "viral_chk": "2026-10-29T18:07:08.100285-04:00"
   },
   {
    "id": "17954761392297381",
@@ -1340,14 +1341,15 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "58267939235",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "58267939235",
     "nome": "Bolsa de Armazenamento em Feltro para Porta-Malas do Carro, Organizador de Ferramentas e Acessórios Automotivos",
     "offerLink": "https://s.shopee.com.br/AAIJQ2A7DG",
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aj-mszmp8b1gav9c0",
     "campanha": "11.11"
-   }
+   },
+   "apagado": true
   },
   {
    "id": "17966524512249358",
@@ -1356,7 +1358,7 @@
    "texto": "DÚVIDA SINCERA: qual foi a propaganda mais genial que você já viu na vida e lembra até hoje? Curioso pra saber o que realmente marcou a galera aqui.",
    "quando": "2026-10-29T10:37:09.264916-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T17:37:08.190087-04:00"
+   "viral_chk": "2026-10-29T18:07:08.100285-04:00"
   },
   {
    "id": "17952171162317956",
@@ -1369,14 +1371,15 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "23593906892",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "23593906892",
     "nome": "Bolsa De Armazenamento De Ferramentas De Carro Em Feltro Para O Porta-Malas Do Carro",
     "offerLink": "https://s.shopee.com.br/AKbjcL9TsH",
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rens-m8p66bx62oiv86",
     "campanha": "11.11"
-   }
+   },
+   "apagado": true
   },
   {
    "id": "18143232559720343",
@@ -1385,7 +1388,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T17:37:08.190087-04:00"
+   "viral_chk": "2026-10-29T18:07:08.100285-04:00"
   }
  ],
  "respondidos": [
@@ -4217,7 +4220,9 @@
   "17884776093652477",
   "18134861608679312",
   "18132082784306443",
-  "18120082661076669"
+  "18120082661076669",
+  "18135545092777304",
+  "18117629855044132"
  ],
  "hashes": [
   "391fab575aaff1588f6274e28881098b",
@@ -4744,20 +4749,12 @@
   "8d9686f5b1": 1,
   "68d1afc522": 1,
   "939910278c": 1,
-  "8677c658b9": 1
+  "8677c658b9": 1,
+  "d2be3d4ebd": 1,
+  "9587d4288b": 1
  },
  "reservas_checadas": "2026-10-29",
  "ultimas_respostas": [
-  {
-   "t": "investigador de barulho misterioso que sempre acaba sendo só o vento na janela kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "o extrato bancário é um gênero de terror que a gente lê assustada",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "no calor a única regra que sobrevive é o ventilador ligado kkkkk",
    "p": "concorda",
@@ -4896,6 +4893,16 @@
   {
    "t": "essa marcou época de verdade, todo mundo lembrava o slogan",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa frase doeu até em quem não é vascaíno",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "hábito saudável para preservar a paz de espírito",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -5894,19 +5901,6 @@
   }
  ],
  "aberturas_post": {
-  "18212638690322633": [
-   "estrategia impecavel quem",
-   "resolver ate resolve",
-   "quem sou eu",
-   "o combo da",
-   "diplomacia financeira no",
-   "a sinceridade veio",
-   "estrategia de sobrevivencia",
-   "flores duram uns",
-   "buque financeiro multifuncional",
-   "investimento de longo",
-   "pensando por esse"
-  ],
   "18638459773049565": [
    "historia boa e",
    "papo bom e",
@@ -6209,6 +6203,10 @@
   ],
   "17907462081666720": [
    "quem manda podcast"
+  ],
+  "18143232559720343": [
+   "essa frase doeu",
+   "habito saudavel para"
   ]
  },
  "shopee_checada": "2026-10-29|1",
