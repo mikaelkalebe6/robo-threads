@@ -33,7 +33,7 @@
    "20:46"
   ],
   "produtos_feitos": 3,
-  "respostas": 109,
+  "respostas": 110,
   "por_post": {
    "17997865899028872": 13,
    "17918222961259641": 20,
@@ -42,7 +42,7 @@
    "17980455462130729": 13,
    "18091692569222965": 4,
    "18146338231578758": 5,
-   "18096262466442750": 3,
+   "18096262466442750": 4,
    "17939308794122207": 20,
    "18114732275034207": 3,
    "17974060974150692": 1,
@@ -4180,7 +4180,8 @@
   "18112044506228890",
   "17931257445420404",
   "18076798388718686",
-  "18126449731687513"
+  "18126449731687513",
+  "18091660130697544"
  ],
  "hashes": [
   "6605182ed5362256a93dbc8cd23b5076",
@@ -4786,15 +4787,11 @@
   "f6be6fcf50": 1,
   "7fbd1b41db": 1,
   "65a2f7b9d7": 1,
-  "0af1701b18": 1
+  "0af1701b18": 1,
+  "dbb48d9f45": 1
  },
  "reservas_checadas": "2026-10-28",
  "ultimas_respostas": [
-  {
-   "t": "essa ficha demora a cair mas traz um alivio enorme quando finalmente chega",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "medo genuíno de madrugada e zero auto-controle pra andar como veio ao mundo kkkkk",
    "p": "concorda",
@@ -4939,6 +4936,11 @@
    "t": "casa de vizinho com videogame e gente boa era a verdadeira infancia de luxo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse clássico ficou na promessa eterna kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6195,7 +6197,8 @@
   "18096262466442750": [
    "versao artesanal sempre",
    "a escada da",
-   "casa de vizinho"
+   "casa de vizinho",
+   "esse classico ficou"
   ],
   "17939308794122207": [
    "medo genuino de",
