@@ -33,13 +33,13 @@
    "14:35"
   ],
   "produtos_feitos": 1,
-  "respostas": 28,
+  "respostas": 31,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
    "17879211354567060": 5,
    "18169083673482490": 1,
-   "18146591881665621": 9
+   "18146591881665621": 12
   }
  },
  "posts": [
@@ -1231,7 +1231,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:07:08.864231-04:00",
+   "viral_chk": "2026-10-30T15:37:07.990007-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1278,7 +1278,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:07:08.864231-04:00"
+   "viral_chk": "2026-10-30T15:37:07.990007-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1287,7 +1287,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:07:08.864231-04:00"
+   "viral_chk": "2026-10-30T15:37:07.990007-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1316,7 +1316,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:07:08.864231-04:00"
+   "viral_chk": "2026-10-30T15:37:07.990007-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1325,7 +1325,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:07:08.864231-04:00"
+   "viral_chk": "2026-10-30T15:37:07.990007-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1334,7 +1334,7 @@
    "texto": "OPINIÃO IMPOPULAR: quem realmente prefere carro manual no trânsito pesado de todo dia só faz isso por puro orgulho ou tem alguma vantagem secreta que eu ainda não descobri",
    "quando": "2026-10-30T14:07:08.511818-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:07:08.864231-04:00"
+   "viral_chk": "2026-10-30T15:37:07.990007-04:00"
   },
   {
    "id": "17965590606206776",
@@ -1343,7 +1343,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:07:08.864231-04:00"
+   "viral_chk": "2026-10-30T15:37:07.990007-04:00"
   }
  ],
  "respondidos": [
@@ -4217,7 +4217,10 @@
   "18130763215839286",
   "18492772012106782",
   "17965223580226867",
-  "18090997991701300"
+  "18090997991701300",
+  "17877220674582625",
+  "18347787589252618",
+  "18155369500534047"
  ],
  "hashes": [
   "6032886c6bc875b43f3b7720cd9ded55",
@@ -4756,25 +4759,13 @@
   "6e2ab4a5c2": 1,
   "0dc3a2f405": 1,
   "b87ef4bf9d": 1,
-  "36afbb0475": 1
+  "36afbb0475": 1,
+  "9447223fdb": 1,
+  "532165adcc": 1,
+  "be951e3c18": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "encontrar alguém que troca ideia de verdade hoje em dia tá raro mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "um verdadeiro audiolivro narrado em tempo real kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse comercial educou gerações inteiras na frente da televisão kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "produção daquela época parecia filme de cinema mesmo",
    "p": "concorda",
@@ -4909,6 +4900,21 @@
    "t": "sábia decisão, ninguém merece sofrer à toa no trânsito",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse incômodo com o start-stop realmente faz sentido kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa conta na ponta do lápis faz diferença mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "esse argumento financeiro pega pesado demais kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6233,7 +6239,10 @@
    "marginal na sexta",
    "essa vantagem secreta",
    "gosto e um",
-   "sabia decisao ninguem"
+   "sabia decisao ninguem",
+   "esse incomodo com",
+   "essa conta na",
+   "esse argumento financeiro"
   ]
  },
  "shopee_checada": "2026-10-30|1",
