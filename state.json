@@ -35,13 +35,14 @@
    "16:58"
   ],
   "produtos_feitos": 2,
-  "respostas": 37,
+  "respostas": 40,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
-   "17879211354567060": 5,
+   "17879211354567060": 6,
    "18169083673482490": 1,
-   "18146591881665621": 18
+   "18146591881665621": 18,
+   "18101789486658584": 2
   }
  },
  "posts": [
@@ -1177,7 +1178,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:07:09.021132-04:00",
+   "viral_chk": "2026-10-30T17:37:07.823913-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1227,7 +1228,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:07:09.021132-04:00"
+   "viral_chk": "2026-10-30T17:37:07.823913-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1236,7 +1237,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:07:09.021132-04:00"
+   "viral_chk": "2026-10-30T17:37:07.823913-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1265,7 +1266,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:07:09.021132-04:00"
+   "viral_chk": "2026-10-30T17:37:07.823913-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1274,7 +1275,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:07:09.021132-04:00"
+   "viral_chk": "2026-10-30T17:37:07.823913-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1297,7 +1298,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:07:09.021132-04:00"
+   "viral_chk": "2026-10-30T17:37:07.823913-04:00"
   },
   {
    "id": "18065503865623286",
@@ -1326,7 +1327,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:07:09.021132-04:00"
+   "viral_chk": "2026-10-30T17:37:07.823913-04:00"
   }
  ],
  "respondidos": [
@@ -4209,7 +4210,10 @@
   "18128383342854786",
   "18126397517485757",
   "18041729072833433",
-  "18106989379995630"
+  "18106989379995630",
+  "18129246172630515",
+  "18115947356608891",
+  "18114417035163358"
  ],
  "hashes": [
   "5dc79f555bd6112b8b53d18f691b4c34",
@@ -4758,25 +4762,13 @@
   "58df56d2ca": 1,
   "4beb6f0ef1": 1,
   "255fe7eded": 1,
-  "a10fa3e284": 1
+  "a10fa3e284": 1,
+  "726c32994b": 1,
+  "abbf77e074": 1,
+  "e94176e974": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "coragem pura às cinco da manhã",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "duas verdades pesando na balança kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "evoluir a gente quer, mas o colchão puxa muito mais forte essa hora",
-   "p": "discorda",
-   "r": 0
-  },
   {
    "t": "quem tem foco tão cedo assim merece respeito mesmo",
    "p": "concorda",
@@ -4909,6 +4901,21 @@
   },
   {
    "t": "paz de espírito pura no meio do caos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesado mas faz todo sentido kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "justiça seja feita para quem preparou com tanto carinho kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo, pizzaria e restaurante têm outro peso na missão",
    "p": "concorda",
    "r": 0
   }
@@ -5928,28 +5935,6 @@
   }
  ],
  "aberturas_post": {
-  "17915244483494376": [
-   "zerada na estatistica",
-   "quem resiste a",
-   "economia de tempo",
-   "firme nos principios",
-   "fome de muita",
-   "postura firme e",
-   "a caridade vai",
-   "respeito essa postura",
-   "pelo menos a",
-   "autossuficiente ate na",
-   "estrategia valida para",
-   "sobrevivencia basica em",
-   "ontem mesmo ja",
-   "justificativa valida para",
-   "investimento de alto",
-   "justo demais o",
-   "isso foi um",
-   "com os olhos",
-   "atitude de quem",
-   "prioridades em dia"
-  ],
   "18146936569585717": [
    "parafusadeira de festival",
    "economia que vira",
@@ -6231,7 +6216,8 @@
    "o combo completo",
    "foco nas porcoes",
    "prioridades bem definidas",
-   "prioridades alinhadas com"
+   "prioridades alinhadas com",
+   "justo pizzaria e"
   ],
   "18169083673482490": [
    "pura verdade o"
@@ -6255,6 +6241,10 @@
    "cada um com",
    "quem curte o",
    "paz de espirito"
+  ],
+  "18101789486658584": [
+   "pesado mas faz",
+   "justica seja feita"
   ]
  },
  "shopee_checada": "2026-10-30|1",
