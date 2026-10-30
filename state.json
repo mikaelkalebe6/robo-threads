@@ -23,7 +23,9 @@
    "15:51",
    "20:08"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:39"
+  ],
   "produtos_feitos": 0,
   "respostas": 2,
   "por_post": {
@@ -31,44 +33,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17949278235345295",
-   "insp": "video_a4f46f9560",
-   "link": "",
-   "texto": "Descobri esse protetor para os dedos que salva na hora de mexer com coisa chata. Olha como funciona 👀",
-   "quando": "2026-10-23T20:37:07.815170-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "22497157097",
-   "link_pendente": false,
-   "modo_produto": "mesmo",
-   "prod_dados": {
-    "itemId": "22497157097",
-    "nome": "Dedeira de Latéx Descartável Pacote com 50 unidades",
-    "preco": 25.99,
-    "nota": 4.9,
-    "vendas": 7,
-    "comissao": 0.03,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lofxktc51y219b",
-    "offerLink": "https://s.shopee.com.br/80Dg8GTvvs",
-    "campanha": "",
-    "modo": "mesmo"
-   },
-   "link_coment": "https://s.shopee.com.br/80Dg8GTvvs",
-   "link_em": "2026-10-23T22:07:07.470859-04:00",
-   "link_views": 564,
-   "metricas": {
-    "views": 790,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-30"
-   }
-  },
   {
    "id": "18086406461707156",
    "insp": "ba30bb89b0",
@@ -1385,7 +1349,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T08:37:08.800340-04:00",
+   "viral_chk": "2026-10-30T09:07:14.081908-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1424,6 +1388,15 @@
     "shares": 0,
     "em": "2026-10-30"
    }
+  },
+  {
+   "id": "17918797707464737",
+   "insp": "6fc3351715",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
+   "quando": "2026-10-30T09:07:14.081908-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-30T09:07:14.081908-04:00"
   }
  ],
  "respondidos": [
@@ -4274,7 +4247,6 @@
   "17964368895219572"
  ],
  "hashes": [
-  "391fab575aaff1588f6274e28881098b",
   "d7ecd06aadc9a372746bec96f514dbd8",
   "838038e1434c395acc8fd7455794bcb9",
   "d379ace921beb1f62650137586c822e0",
@@ -4473,7 +4445,8 @@
   "6883a917152a5329e2f61d1416997d26",
   "c9a23aaa71653ac5d57373f4406f116c",
   "9cbb3ef6053fbd2800860a52ebe9abb6",
-  "5eaf80d1c66d8b8a60ac661cfbf33290"
+  "5eaf80d1c66d8b8a60ac661cfbf33290",
+  "a03b56ab58cecb9faf4b8f1e12e8c13c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4772,7 +4745,8 @@
   "36f567653d": 1793236086.8599896,
   "095d3d6cd4": 1793279254.4351137,
   "1fd8d1a0a2": 1793284700.7855046,
-  "fc172f6e0c": 1793309886.80331
+  "fc172f6e0c": 1793309886.80331,
+  "6fc3351715": 1793365691.5429385
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
