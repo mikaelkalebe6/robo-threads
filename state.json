@@ -31,57 +31,20 @@
    "12:49",
    "13:54",
    "14:35",
-   "15:51"
+   "15:51",
+   "16:58"
   ],
   "produtos_feitos": 2,
-  "respostas": 36,
+  "respostas": 37,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
    "17879211354567060": 5,
    "18169083673482490": 1,
-   "18146591881665621": 17
+   "18146591881665621": 18
   }
  },
  "posts": [
-  {
-   "id": "18018918797741015",
-   "insp": "video_f47f94d0c1",
-   "link": "",
-   "texto": "Cansada de enfiar a mão na sujeira da pia para desentupir o ralo. Descobri esse negocinho e salvou minha paciência na cozinha. Olha como funciona 👀",
-   "quando": "2026-10-24T15:07:08.195561-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "23494286604",
-   "link_pendente": false,
-   "modo_produto": "parecido",
-   "prod_dados": {
-    "itemId": "23494286604",
-    "nome": "Kit 1/2/3 Ralos Inox 9cm Protetor de Pia Filtro Cozinha Cuba Aço Inoxidável",
-    "preco": 10.64,
-    "nota": 5.0,
-    "vendas": 315,
-    "comissao": 0.03,
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261k-mkmsdz71kao255",
-    "offerLink": "https://s.shopee.com.br/1BPprABiz",
-    "campanha": "",
-    "modo": "parecido"
-   },
-   "link_coment": "https://s.shopee.com.br/1BPprABiz",
-   "link_em": "2026-10-24T16:37:07.570580-04:00",
-   "link_views": 0,
-   "metricas": {
-    "views": 514,
-    "likes": 1,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-30"
-   }
-  },
   {
    "id": "18411469255089348",
    "insp": "23052490c4",
@@ -1214,7 +1177,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T16:37:09.218738-04:00",
+   "viral_chk": "2026-10-30T17:07:09.021132-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1264,7 +1227,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T16:37:09.218738-04:00"
+   "viral_chk": "2026-10-30T17:07:09.021132-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1273,7 +1236,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T16:37:09.218738-04:00"
+   "viral_chk": "2026-10-30T17:07:09.021132-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1302,7 +1265,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T16:37:09.218738-04:00"
+   "viral_chk": "2026-10-30T17:07:09.021132-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1311,7 +1274,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T16:37:09.218738-04:00"
+   "viral_chk": "2026-10-30T17:07:09.021132-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1334,7 +1297,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T16:37:09.218738-04:00"
+   "viral_chk": "2026-10-30T17:07:09.021132-04:00"
   },
   {
    "id": "18065503865623286",
@@ -1355,6 +1318,15 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg42kmd4gkjp15",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "18101789486658584",
+   "insp": "7ef1d6fca0",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
+   "quando": "2026-10-30T17:07:09.021132-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-30T17:07:09.021132-04:00"
   }
  ],
  "respondidos": [
@@ -4236,10 +4208,10 @@
   "18441015880182632",
   "18128383342854786",
   "18126397517485757",
-  "18041729072833433"
+  "18041729072833433",
+  "18106989379995630"
  ],
  "hashes": [
-  "6032886c6bc875b43f3b7720cd9ded55",
   "5dc79f555bd6112b8b53d18f691b4c34",
   "56e0d0ec03ccbfdbe9f8cd7bc0c4ff40",
   "cadf03af555c59e56290d26c186a9037",
@@ -4438,7 +4410,8 @@
   "2fe1b29384a69ec97affa54d7a08071c",
   "1d50e37cf449a26eeec6bdf81f5c69f7",
   "b499685ed78de3b7f80dedf8592e5a4c",
-  "c76c921a78b85f5f933205cc04b852b9"
+  "c76c921a78b85f5f933205cc04b852b9",
+  "72f0dbfd3ac493145ce33fba62e00229"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4743,7 +4716,8 @@
   "ff37b68cb2": 1793376490.7384787,
   "77b88ec144": 1793380052.2374887,
   "311cd408b3": 1793383691.4343736,
-  "3d3928277d": 1793385489.4548943
+  "3d3928277d": 1793385489.4548943,
+  "7ef1d6fca0": 1793394450.0635054
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4783,15 +4757,11 @@
   "e23c9b5d10": 1,
   "58df56d2ca": 1,
   "4beb6f0ef1": 1,
-  "255fe7eded": 1
+  "255fe7eded": 1,
+  "a10fa3e284": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "clt sofre demais pra ter que escolher entre dormir e viver kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "coragem pura às cinco da manhã",
    "p": "concorda",
@@ -4934,6 +4904,11 @@
   },
   {
    "t": "quem curte o ato de dirigir nem olha para o câmbio",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paz de espírito pura no meio do caos",
    "p": "concorda",
    "r": 0
   }
@@ -6278,7 +6253,8 @@
    "fora de sp",
    "essa economia nos",
    "cada um com",
-   "quem curte o"
+   "quem curte o",
+   "paz de espirito"
   ]
  },
  "shopee_checada": "2026-10-30|1",
