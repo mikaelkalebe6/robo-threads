@@ -31,11 +31,12 @@
    "12:49"
   ],
   "produtos_feitos": 1,
-  "respostas": 16,
+  "respostas": 18,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
-   "17879211354567060": 3
+   "17879211354567060": 4,
+   "18169083673482490": 1
   }
  },
  "posts": [
@@ -1263,7 +1264,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T13:07:09.391508-04:00",
+   "viral_chk": "2026-10-30T13:37:08.390136-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1310,7 +1311,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T13:07:09.391508-04:00"
+   "viral_chk": "2026-10-30T13:37:08.390136-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1319,7 +1320,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T13:07:09.391508-04:00"
+   "viral_chk": "2026-10-30T13:37:08.390136-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1348,7 +1349,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T13:07:09.391508-04:00"
+   "viral_chk": "2026-10-30T13:37:08.390136-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1357,7 +1358,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T13:07:09.391508-04:00"
+   "viral_chk": "2026-10-30T13:37:08.390136-04:00"
   }
  ],
  "respondidos": [
@@ -4219,7 +4220,9 @@
   "18062619659540975",
   "18494620075129190",
   "17951766237314144",
-  "18139844800630516"
+  "18139844800630516",
+  "17970402588179517",
+  "18031883423911219"
  ],
  "hashes": [
   "29f6804a7183a8baa370f30abfae57c4",
@@ -4744,20 +4747,12 @@
   "833f2fb331": 1,
   "acb2196156": 1,
   "e1fc991990": 1,
-  "5a4f6559c6": 1
+  "5a4f6559c6": 1,
+  "eab1b2ecbe": 1,
+  "bb9dd276e0": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "essa frase doeu até em quem não é vascaíno",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "hábito saudável para preservar a paz de espírito",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "coragem e fôlego em dobro kkkk",
    "p": "concorda",
@@ -4897,6 +4892,16 @@
    "t": "foco nas porções e zero álcool, o combo perfeito para aproveitar a noite",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "pura verdade, o mundo real traz uma leveza que a tela não alcança",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "prioridades bem definidas kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5904,19 +5909,6 @@
   }
  ],
  "aberturas_post": {
-  "18153545164531054": [
-   "entendo as vezes",
-   "essa frase e",
-   "o classico combo",
-   "verdade mas a",
-   "tempo e o",
-   "essa me atingiu",
-   "essa frase carrega",
-   "heranca de mae",
-   "essa sabedoria antiga",
-   "o destino cobra",
-   "educacao passada de"
-  ],
   "18112867718588328": [
    "nossa tres mil",
    "entao o carro",
@@ -6228,7 +6220,11 @@
   "17879211354567060": [
    "torresmo e um",
    "o combo completo",
-   "foco nas porcoes"
+   "foco nas porcoes",
+   "prioridades bem definidas"
+  ],
+  "18169083673482490": [
+   "pura verdade o"
   ]
  },
  "shopee_checada": "2026-10-30|1",
