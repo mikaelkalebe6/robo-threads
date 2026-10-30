@@ -22,14 +22,14 @@
    "17:21"
   ],
   "produtos_feitos": 2,
-  "respostas": 34,
+  "respostas": 36,
   "por_post": {
    "18114732275034207": 1,
    "17939308794122207": 9,
    "18146338231578758": 1,
    "18096262466442750": 1,
    "17966524512249358": 15,
-   "17907462081666720": 3,
+   "17907462081666720": 5,
    "18143232559720343": 4
   }
  },
@@ -4237,7 +4237,9 @@
   "18094166762475592",
   "17909317806589857",
   "18074993804741229",
-  "18115817045140474"
+  "18115817045140474",
+  "18413166109088383",
+  "18125705551721415"
  ],
  "hashes": [
   "391fab575aaff1588f6274e28881098b",
@@ -4775,20 +4777,12 @@
   "62f3433caa": 1,
   "9f3a922afb": 2,
   "500035fbd6": 1,
-  "df7e1c1336": 1
+  "df7e1c1336": 1,
+  "23456960bd": 1,
+  "2770784d4d": 1
  },
  "reservas_checadas": "2026-10-29",
  "ultimas_respostas": [
-  {
-   "t": "exatamente, liberdade sem boleto e sem pressão, é o que todo mundo sonha kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o travesseiro gelado de madrugada é o auge do pesadelo kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "o difícil é achar o ponto exato onde a conta fecha e sobra tempo",
    "p": "concorda",
@@ -4928,6 +4922,16 @@
    "t": "essa música não sai da cabeça de jeito nenhum kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "encontrar alguém que troca ideia de verdade hoje em dia tá raro mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "um verdadeiro audiolivro narrado em tempo real kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6239,7 +6243,9 @@
   "17907462081666720": [
    "quem manda podcast",
    "coragem e folego",
-   "um minuto e"
+   "um minuto e",
+   "encontrar alguem que",
+   "um verdadeiro audiolivro"
   ],
   "18143232559720343": [
    "essa frase doeu",
