@@ -22,13 +22,13 @@
    "17:21"
   ],
   "produtos_feitos": 2,
-  "respostas": 32,
+  "respostas": 34,
   "por_post": {
    "18114732275034207": 1,
    "17939308794122207": 9,
    "18146338231578758": 1,
    "18096262466442750": 1,
-   "17966524512249358": 13,
+   "17966524512249358": 15,
    "17907462081666720": 3,
    "18143232559720343": 4
   }
@@ -4235,7 +4235,9 @@
   "18119274328779422",
   "18357996478220285",
   "18094166762475592",
-  "17909317806589857"
+  "17909317806589857",
+  "18074993804741229",
+  "18115817045140474"
  ],
  "hashes": [
   "391fab575aaff1588f6274e28881098b",
@@ -4771,20 +4773,12 @@
   "7bf86b4089": 1,
   "a9a3a6d021": 1,
   "62f3433caa": 1,
-  "9f3a922afb": 2
+  "9f3a922afb": 2,
+  "500035fbd6": 1,
+  "df7e1c1336": 1
  },
  "reservas_checadas": "2026-10-29",
  "ultimas_respostas": [
-  {
-   "t": "bom dia, lindona 😘 como tá a vida de solteira",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "kkkkk concierge 24h só que de pelada kkkk",
-   "p": "neutra",
-   "r": 2
-  },
   {
    "t": "exatamente, liberdade sem boleto e sem pressão, é o que todo mundo sonha kkk",
    "p": "concorda",
@@ -4922,6 +4916,16 @@
   },
   {
    "t": "impossível ler isso sem cantar o refrão inteiro na cabeça kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "bateram forte na nostalgia agora, comerciais que grudavam na memoria",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa música não sai da cabeça de jeito nenhum kkkk",
    "p": "concorda",
    "r": 1
   }
@@ -6228,7 +6232,9 @@
    "essa pegou todo",
    "tempo em que",
    "esse classico grudou",
-   "impossivel ler isso"
+   "impossivel ler isso",
+   "bateram forte na",
+   "essa musica nao"
   ],
   "17907462081666720": [
    "quem manda podcast",
