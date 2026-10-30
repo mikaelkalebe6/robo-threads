@@ -32,43 +32,21 @@
    "13:54",
    "14:35",
    "15:51",
-   "16:58"
+   "16:58",
+   "17:50"
   ],
   "produtos_feitos": 2,
-  "respostas": 40,
+  "respostas": 41,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
    "17879211354567060": 6,
    "18169083673482490": 1,
-   "18146591881665621": 18,
+   "18146591881665621": 19,
    "18101789486658584": 2
   }
  },
  "posts": [
-  {
-   "id": "18411469255089348",
-   "insp": "23052490c4",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual personagem de jogo era motivo de briga feia se alguém escolhesse antes de você? Pra mim a amizade balançava na hora.",
-   "quando": "2026-10-24T16:07:07.165741-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 1047,
-    "likes": 5,
-    "replies": 18,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-30"
-   },
-   "viral_chk": "2026-10-25T11:07:08.636124-04:00",
-   "link_coment": "https://s.shopee.com.br/4B107rDJJb",
-   "meme_comentado": true,
-   "meme_views": 1002,
-   "formato_link": "coment",
-   "produto": "23599348005"
-  },
   {
    "id": "18137736760629371",
    "insp": "a1c2ae306e",
@@ -1228,7 +1206,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:37:07.823913-04:00"
+   "viral_chk": "2026-10-30T18:07:09.087198-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1237,7 +1215,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:37:07.823913-04:00"
+   "viral_chk": "2026-10-30T18:07:09.087198-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1266,7 +1244,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:37:07.823913-04:00"
+   "viral_chk": "2026-10-30T18:07:09.087198-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1275,7 +1253,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:37:07.823913-04:00"
+   "viral_chk": "2026-10-30T18:07:09.087198-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1298,7 +1276,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:37:07.823913-04:00"
+   "viral_chk": "2026-10-30T18:07:09.087198-04:00"
   },
   {
    "id": "18065503865623286",
@@ -1327,7 +1305,16 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T17:37:07.823913-04:00"
+   "viral_chk": "2026-10-30T18:07:09.087198-04:00"
+  },
+  {
+   "id": "18114961616605844",
+   "insp": "a323f41843",
+   "link": "",
+   "texto": "SEM MENTIR: qual foi o maior susto financeiro de vocês no primeiro mês morando sozinhos? Aqui foi descobrir o preço real de produtos de limpeza básicos.",
+   "quando": "2026-10-30T18:07:09.087198-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-30T18:07:09.087198-04:00"
   }
  ],
  "respondidos": [
@@ -4213,10 +4200,10 @@
   "18106989379995630",
   "18129246172630515",
   "18115947356608891",
-  "18114417035163358"
+  "18114417035163358",
+  "18658159318049242"
  ],
  "hashes": [
-  "5dc79f555bd6112b8b53d18f691b4c34",
   "56e0d0ec03ccbfdbe9f8cd7bc0c4ff40",
   "cadf03af555c59e56290d26c186a9037",
   "9ce4a72f8e6cd55e93c78e8dcf2b767c",
@@ -4415,7 +4402,8 @@
   "1d50e37cf449a26eeec6bdf81f5c69f7",
   "b499685ed78de3b7f80dedf8592e5a4c",
   "c76c921a78b85f5f933205cc04b852b9",
-  "72f0dbfd3ac493145ce33fba62e00229"
+  "72f0dbfd3ac493145ce33fba62e00229",
+  "01afd5a482058d3fda4ef0a4b985eae9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4721,7 +4709,8 @@
   "77b88ec144": 1793380052.2374887,
   "311cd408b3": 1793383691.4343736,
   "3d3928277d": 1793385489.4548943,
-  "7ef1d6fca0": 1793394450.0635054
+  "7ef1d6fca0": 1793394450.0635054,
+  "a323f41843": 1793398044.5965128
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4765,15 +4754,11 @@
   "a10fa3e284": 1,
   "726c32994b": 1,
   "abbf77e074": 1,
-  "e94176e974": 1
+  "e94176e974": 1,
+  "7843072aca": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "quem tem foco tão cedo assim merece respeito mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "dez da noite já é horário de pijama e netflix kkkkk",
    "p": "concorda",
@@ -4917,6 +4902,11 @@
   {
    "t": "justo, pizzaria e restaurante têm outro peso na missão",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "faz sentido, antigamente a diferença no consumo pesava bem mais na escolha",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6240,7 +6230,8 @@
    "essa economia nos",
    "cada um com",
    "quem curte o",
-   "paz de espirito"
+   "paz de espirito",
+   "faz sentido antigamente"
   ],
   "18101789486658584": [
    "pesado mas faz",
