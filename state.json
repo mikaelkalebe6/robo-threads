@@ -34,10 +34,11 @@
    "15:51",
    "16:58",
    "17:50",
-   "18:30"
+   "18:30",
+   "19:13"
   ],
   "produtos_feitos": 2,
-  "respostas": 46,
+  "respostas": 47,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
@@ -45,49 +46,11 @@
    "18169083673482490": 1,
    "18146591881665621": 19,
    "18101789486658584": 2,
-   "18114961616605844": 1,
+   "18114961616605844": 2,
    "18110964131612577": 3
   }
  },
  "posts": [
-  {
-   "id": "18108647939154569",
-   "insp": "video_0bb691a2c0",
-   "link": "",
-   "texto": "Descobri esse removedor de calos e confesso que salva muito nos dias de correria. Olha como funciona 👀",
-   "quando": "2026-10-24T20:07:09.829087-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "53115718588",
-   "link_pendente": false,
-   "modo_produto": "mesmo",
-   "prod_dados": {
-    "itemId": "53115718588",
-    "nome": "Removedor De Calos , Arquivo De Pedicure 2 Em 1 Substituível , Ferramenta De Cui",
-    "preco": 19.04,
-    "nota": 4.7,
-    "vendas": 509,
-    "comissao": 0.07,
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-msr9c4fba6tlf5",
-    "offerLink": "https://s.shopee.com.br/3VlIKpNnwJ",
-    "campanha": "",
-    "modo": "mesmo"
-   },
-   "metricas": {
-    "views": 181,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-30"
-   },
-   "link_coment": "https://s.shopee.com.br/3VlIKpNnwJ",
-   "link_em": "2026-10-25T14:37:08.246897-04:00",
-   "link_views": 0
-  },
   {
    "id": "18117071021029585",
    "insp": "c312178704",
@@ -1186,7 +1149,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
+   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1195,7 +1158,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
+   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1224,7 +1187,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
+   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1233,7 +1196,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
+   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1256,7 +1219,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
+   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
   },
   {
    "id": "18065503865623286",
@@ -1285,7 +1248,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
+   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
   },
   {
    "id": "18114961616605844",
@@ -1294,7 +1257,7 @@
    "texto": "SEM MENTIR: qual foi o maior susto financeiro de vocês no primeiro mês morando sozinhos? Aqui foi descobrir o preço real de produtos de limpeza básicos.",
    "quando": "2026-10-30T18:07:09.087198-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
+   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
   },
   {
    "id": "18110964131612577",
@@ -1303,7 +1266,16 @@
    "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
    "quando": "2026-10-30T18:37:09.390341-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
+   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
+  },
+  {
+   "id": "18036187742666195",
+   "insp": "7ba592d22e",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Carro rebaixado com som alto na rua de madrugada não é estilo, é só falta de noção mesmo.",
+   "quando": "2026-10-30T19:37:08.855943-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
   }
  ],
  "respondidos": [
@@ -4195,10 +4167,10 @@
   "17956756566258351",
   "18203904487377452",
   "17995950812847163",
-  "17901949107387039"
+  "17901949107387039",
+  "17903981652424707"
  ],
  "hashes": [
-  "cadf03af555c59e56290d26c186a9037",
   "9ce4a72f8e6cd55e93c78e8dcf2b767c",
   "f853537ce4ec7c134eaecfbd63524121",
   "976fd840ef15f9ca98a707d8e7eb721e",
@@ -4397,7 +4369,8 @@
   "c76c921a78b85f5f933205cc04b852b9",
   "72f0dbfd3ac493145ce33fba62e00229",
   "01afd5a482058d3fda4ef0a4b985eae9",
-  "c414555ed6612a32f7c88bf17770d088"
+  "c414555ed6612a32f7c88bf17770d088",
+  "e350a4e6d12dac5c349dcef15bab3f7d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4705,7 +4678,8 @@
   "3d3928277d": 1793385489.4548943,
   "7ef1d6fca0": 1793394450.0635054,
   "a323f41843": 1793398044.5965128,
-  "35fc27c176": 1793399891.0611634
+  "35fc27c176": 1793399891.0611634,
+  "7ba592d22e": 1793403484.6466517
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4754,15 +4728,11 @@
   "6e93035cf4": 1,
   "09fe7ef239": 1,
   "c63f23746e": 1,
-  "7e6579b1a9": 1
+  "7e6579b1a9": 1,
+  "db407d487e": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "pura verdade, o mundo real traz uma leveza que a tela não alcança",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "prioridades bem definidas kkkk",
    "p": "concorda",
@@ -4907,6 +4877,11 @@
    "t": "lá fora parece que funciona mais na base do trabalho doméstico né",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "parece que se multiplicam sozinhos no armário kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6230,7 +6205,8 @@
    "justica seja feita"
   ],
   "18114961616605844": [
-   "essa conta de"
+   "essa conta de",
+   "parece que se"
   ],
   "18110964131612577": [
    "esse quadro de",
