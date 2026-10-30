@@ -28,36 +28,19 @@
    "09:41",
    "10:58",
    "11:52",
-   "12:49"
+   "12:49",
+   "13:54"
   ],
   "produtos_feitos": 1,
-  "respostas": 18,
+  "respostas": 19,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
-   "17879211354567060": 4,
+   "17879211354567060": 5,
    "18169083673482490": 1
   }
  },
  "posts": [
-  {
-   "id": "18070093358773661",
-   "insp": "fb4677367c",
-   "link": "",
-   "texto": "PESSOAS QUE...: ainda guardam a caixinha e a mídia física do primeiro videogame deviam ganhar um certificado de apego emocional. Eu prefiro desapegar do que juntar poeira na estante.",
-   "quando": "2026-10-24T11:37:08.777095-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-25T11:07:08.636124-04:00",
-   "metricas": {
-    "views": 784,
-    "likes": 11,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-30"
-   }
-  },
   {
    "id": "18357940078223066",
    "insp": "31631bee08",
@@ -1264,7 +1247,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T13:37:08.390136-04:00",
+   "viral_chk": "2026-10-30T14:07:08.511818-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1311,7 +1294,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T13:37:08.390136-04:00"
+   "viral_chk": "2026-10-30T14:07:08.511818-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1320,7 +1303,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T13:37:08.390136-04:00"
+   "viral_chk": "2026-10-30T14:07:08.511818-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1349,7 +1332,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T13:37:08.390136-04:00"
+   "viral_chk": "2026-10-30T14:07:08.511818-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1358,7 +1341,16 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T13:37:08.390136-04:00"
+   "viral_chk": "2026-10-30T14:07:08.511818-04:00"
+  },
+  {
+   "id": "18146591881665621",
+   "insp": "311cd408b3",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: quem realmente prefere carro manual no trânsito pesado de todo dia só faz isso por puro orgulho ou tem alguma vantagem secreta que eu ainda não descobri",
+   "quando": "2026-10-30T14:07:08.511818-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-30T14:07:08.511818-04:00"
   }
  ],
  "respondidos": [
@@ -4222,10 +4214,10 @@
   "17951766237314144",
   "18139844800630516",
   "17970402588179517",
-  "18031883423911219"
+  "18031883423911219",
+  "18090590495267178"
  ],
  "hashes": [
-  "29f6804a7183a8baa370f30abfae57c4",
   "ec88faad8a0d21fc5d1927a18454469b",
   "6032886c6bc875b43f3b7720cd9ded55",
   "5dc79f555bd6112b8b53d18f691b4c34",
@@ -4424,7 +4416,8 @@
   "a03b56ab58cecb9faf4b8f1e12e8c13c",
   "fbbfc005a55f490011978e63d18adff6",
   "2fe1b29384a69ec97affa54d7a08071c",
-  "1d50e37cf449a26eeec6bdf81f5c69f7"
+  "1d50e37cf449a26eeec6bdf81f5c69f7",
+  "b499685ed78de3b7f80dedf8592e5a4c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4727,7 +4720,8 @@
   "6fc3351715": 1793365691.5429385,
   "911dee6995": 1793369286.8698964,
   "ff37b68cb2": 1793376490.7384787,
-  "77b88ec144": 1793380052.2374887
+  "77b88ec144": 1793380052.2374887,
+  "311cd408b3": 1793383691.4343736
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4749,15 +4743,11 @@
   "e1fc991990": 1,
   "5a4f6559c6": 1,
   "eab1b2ecbe": 1,
-  "bb9dd276e0": 1
+  "bb9dd276e0": 1,
+  "364add485b": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "coragem e fôlego em dobro kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "assinatura anual garantida de sofrimento kkkkk",
    "p": "concorda",
@@ -4900,6 +4890,11 @@
   },
   {
    "t": "prioridades bem definidas kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "prioridades alinhadas com sucesso kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6221,7 +6216,8 @@
    "torresmo e um",
    "o combo completo",
    "foco nas porcoes",
-   "prioridades bem definidas"
+   "prioridades bem definidas",
+   "prioridades alinhadas com"
   ],
   "18169083673482490": [
    "pura verdade o"
