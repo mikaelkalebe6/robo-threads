@@ -25,9 +25,9 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 1,
+  "respostas": 2,
   "por_post": {
-   "17966524512249358": 1
+   "17966524512249358": 2
   }
  },
  "posts": [
@@ -1302,7 +1302,7 @@
    "texto": "VAMOS CONCORDAR: quem tem paciência pra ouvir áudio de cinco minutos hoje em dia nem deve saber o que é conversa de verdade",
    "quando": "2026-10-29T09:07:08.376264-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T07:37:07.809234-04:00",
+   "viral_chk": "2026-10-30T08:07:12.951262-04:00",
    "metricas": {
     "views": 293,
     "likes": 4,
@@ -1385,7 +1385,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T07:37:07.809234-04:00",
+   "viral_chk": "2026-10-30T08:07:12.951262-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -4270,7 +4270,8 @@
   "18115817045140474",
   "18413166109088383",
   "18125705551721415",
-  "17916291168533573"
+  "17916291168533573",
+  "17964368895219572"
  ],
  "hashes": [
   "391fab575aaff1588f6274e28881098b",
@@ -4776,15 +4777,11 @@
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-10-30",
-  "9f3a922afb": 1
+  "9f3a922afb": 1,
+  "953104a5be": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "saída estratégica matinal bem raiz kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "a casa vem com pacote completo de história e suspense de graça kkkkkk",
    "p": "concorda",
@@ -4929,6 +4926,11 @@
    "t": "esse comercial educou gerações inteiras na frente da televisão kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "produção daquela época parecia filme de cinema mesmo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6241,7 +6243,8 @@
    "impossivel ler isso",
    "bateram forte na",
    "essa musica nao",
-   "esse comercial educou"
+   "esse comercial educou",
+   "producao daquela epoca"
   ],
   "17907462081666720": [
    "quem manda podcast",
