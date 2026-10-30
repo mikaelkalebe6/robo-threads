@@ -27,9 +27,10 @@
    "08:39"
   ],
   "produtos_feitos": 0,
-  "respostas": 2,
+  "respostas": 8,
   "por_post": {
-   "17966524512249358": 2
+   "17966524512249358": 2,
+   "17918797707464737": 6
   }
  },
  "posts": [
@@ -1349,7 +1350,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T09:07:14.081908-04:00",
+   "viral_chk": "2026-10-30T09:37:09.608531-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1396,7 +1397,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T09:07:14.081908-04:00"
+   "viral_chk": "2026-10-30T09:37:09.608531-04:00"
   }
  ],
  "respondidos": [
@@ -4244,7 +4245,13 @@
   "18413166109088383",
   "18125705551721415",
   "17916291168533573",
-  "17964368895219572"
+  "17964368895219572",
+  "18121476817989059",
+  "18195335869396746",
+  "18641220382044995",
+  "18096145043408407",
+  "18638635630033610",
+  "18132251905705196"
  ],
  "hashes": [
   "d7ecd06aadc9a372746bec96f514dbd8",
@@ -4752,40 +4759,16 @@
  "por_pessoa": {
   "_data": "2026-10-30",
   "9f3a922afb": 1,
-  "953104a5be": 1
+  "953104a5be": 1,
+  "dd1b3da85a": 1,
+  "e69e26a99d": 1,
+  "98444e2aa6": 1,
+  "b337c46836": 1,
+  "4fac620e91": 1,
+  "84429a8692": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "a casa vem com pacote completo de história e suspense de graça kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "verdade, fica faltando alguém do lado para comentar os episódios",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkk a liberdade de ser pelada tem seu charme, né?",
-   "p": "neutra",
-   "r": 2
-  },
-  {
-   "t": "Ah esses jogos eram pura magia de infância, agora entrou na minha lista",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa trilha sonora não sai mais da cabeça kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa propaganda tinha uma reviravolta muito pesada e inesquecível",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Que massa, Brastemp virou ditado, já anotei pra compartilhar!",
    "p": "concorda",
@@ -4903,6 +4886,36 @@
   },
   {
    "t": "produção daquela época parecia filme de cinema mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa conta de amor próprio e boleto não fecha nunca kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "deixar a noite livre para fazer o que quiser compensa o sacrifício",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "para quem tem rotina puxada realmente acaba sendo a única alternativa",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "justo, pra quem passa o dia todo fora é o único jeito mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "clt sofre demais pra ter que escolher entre dormir e viver kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "coragem pura às cinco da manhã",
    "p": "concorda",
    "r": 0
   }
@@ -5912,11 +5925,6 @@
   }
  ],
  "aberturas_post": {
-  "18638459773049565": [
-   "historia boa e",
-   "papo bom e",
-   "papo leve e"
-  ],
   "18133394125751407": [
    "pelo menos a",
    "esse modelo e",
@@ -6232,6 +6240,14 @@
    "habito saudavel para",
    "assinatura anual garantida",
    "essa cicatriz ainda"
+  ],
+  "17918797707464737": [
+   "essa conta de",
+   "deixar a noite",
+   "para quem tem",
+   "justo pra quem",
+   "clt sofre demais",
+   "coragem pura as"
   ]
  },
  "shopee_checada": "2026-10-30|1",
