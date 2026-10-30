@@ -37,7 +37,7 @@
    "18:30"
   ],
   "produtos_feitos": 2,
-  "respostas": 43,
+  "respostas": 46,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
@@ -45,7 +45,8 @@
    "18169083673482490": 1,
    "18146591881665621": 19,
    "18101789486658584": 2,
-   "18114961616605844": 1
+   "18114961616605844": 1,
+   "18110964131612577": 3
   }
  },
  "posts": [
@@ -1185,7 +1186,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T18:37:09.390341-04:00"
+   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1194,7 +1195,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T18:37:09.390341-04:00"
+   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1223,7 +1224,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T18:37:09.390341-04:00"
+   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1232,7 +1233,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T18:37:09.390341-04:00"
+   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1255,7 +1256,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T18:37:09.390341-04:00"
+   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
   },
   {
    "id": "18065503865623286",
@@ -1284,7 +1285,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T18:37:09.390341-04:00"
+   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
   },
   {
    "id": "18114961616605844",
@@ -1293,7 +1294,7 @@
    "texto": "SEM MENTIR: qual foi o maior susto financeiro de vocês no primeiro mês morando sozinhos? Aqui foi descobrir o preço real de produtos de limpeza básicos.",
    "quando": "2026-10-30T18:07:09.087198-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T18:37:09.390341-04:00"
+   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
   },
   {
    "id": "18110964131612577",
@@ -1302,7 +1303,7 @@
    "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
    "quando": "2026-10-30T18:37:09.390341-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T18:37:09.390341-04:00"
+   "viral_chk": "2026-10-30T19:07:08.159026-04:00"
   }
  ],
  "respondidos": [
@@ -4191,7 +4192,10 @@
   "18114417035163358",
   "18658159318049242",
   "18117168593240178",
-  "17956756566258351"
+  "17956756566258351",
+  "18203904487377452",
+  "17995950812847163",
+  "17901949107387039"
  ],
  "hashes": [
   "cadf03af555c59e56290d26c186a9037",
@@ -4747,25 +4751,13 @@
   "abbf77e074": 1,
   "e94176e974": 1,
   "7843072aca": 1,
-  "6e93035cf4": 1
+  "6e93035cf4": 1,
+  "09fe7ef239": 1,
+  "c63f23746e": 1,
+  "7e6579b1a9": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "torresmo é um argumento fortíssimo nessa disputa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o combo completo que não tem como dar errado kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "foco nas porções e zero álcool, o combo perfeito para aproveitar a noite",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pura verdade, o mundo real traz uma leveza que a tela não alcança",
    "p": "concorda",
@@ -4900,6 +4892,21 @@
    "t": "foco total no que realmente importa na mesa kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "esse quadro de tarefas deixa tudo mais divertido e produtivo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ver o resultado do esforço dele dando certo assim é bom demais kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "lá fora parece que funciona mais na base do trabalho doméstico né",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5917,9 +5924,6 @@
   }
  ],
  "aberturas_post": {
-  "18107493095575809": [
-   "dedos agradecem demais"
-  ],
   "18127401364671487": [
    "logica implacavel fim",
    "comida de mae",
@@ -6227,6 +6231,11 @@
   ],
   "18114961616605844": [
    "essa conta de"
+  ],
+  "18110964131612577": [
+   "esse quadro de",
+   "ver o resultado",
+   "la fora parece"
   ]
  },
  "shopee_checada": "2026-10-30|1",
