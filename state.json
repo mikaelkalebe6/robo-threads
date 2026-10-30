@@ -30,37 +30,20 @@
    "11:52",
    "12:49",
    "13:54",
-   "14:35"
+   "14:35",
+   "15:51"
   ],
-  "produtos_feitos": 1,
-  "respostas": 31,
+  "produtos_feitos": 2,
+  "respostas": 35,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
    "17879211354567060": 5,
    "18169083673482490": 1,
-   "18146591881665621": 12
+   "18146591881665621": 16
   }
  },
  "posts": [
-  {
-   "id": "17962475325229174",
-   "insp": "8126542588",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a paixão de adolescente que revirava o estômago ou o amor de adulto que traz paz? Qual realmente marcou mais a sua vida",
-   "quando": "2026-10-24T14:07:08.350443-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 713,
-    "likes": 3,
-    "replies": 13,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-30"
-   },
-   "viral_chk": "2026-10-25T11:07:08.636124-04:00"
-  },
   {
    "id": "18018918797741015",
    "insp": "video_f47f94d0c1",
@@ -1231,7 +1214,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:37:07.990007-04:00",
+   "viral_chk": "2026-10-30T16:07:08.967765-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1278,7 +1261,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:37:07.990007-04:00"
+   "viral_chk": "2026-10-30T16:07:08.967765-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1287,7 +1270,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:37:07.990007-04:00"
+   "viral_chk": "2026-10-30T16:07:08.967765-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1316,7 +1299,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:37:07.990007-04:00"
+   "viral_chk": "2026-10-30T16:07:08.967765-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1325,7 +1308,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:37:07.990007-04:00"
+   "viral_chk": "2026-10-30T16:07:08.967765-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1334,7 +1317,12 @@
    "texto": "OPINIÃO IMPOPULAR: quem realmente prefere carro manual no trânsito pesado de todo dia só faz isso por puro orgulho ou tem alguma vantagem secreta que eu ainda não descobri",
    "quando": "2026-10-30T14:07:08.511818-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:37:07.990007-04:00"
+   "viral_chk": "2026-10-30T16:07:08.967765-04:00",
+   "link_coment": "https://s.shopee.com.br/1qdD3b8m2C",
+   "meme_comentado": true,
+   "meme_views": 1001,
+   "formato_link": "coment",
+   "produto": "58203234670"
   },
   {
    "id": "17965590606206776",
@@ -1343,7 +1331,27 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T15:37:07.990007-04:00"
+   "viral_chk": "2026-10-30T16:07:08.967765-04:00"
+  },
+  {
+   "id": "18065503865623286",
+   "insp": "prod_23094546288",
+   "link": "",
+   "texto": "Limpar box de banheiro dá um preguiça danada, né? 😅 Descobri esse raspador multiuso e resolveu minha vida com o vidro, sai tudo sem esforço. Olha como funciona 👀",
+   "quando": "2026-10-30T16:07:08.967765-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "23094546288",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "23094546288",
+    "nome": "Raspadores Multiuso Para Limpar Box Com 5-10 Lâminas Profissional/Vidro Piso Cerâmica Azulejo",
+    "offerLink": "https://s.shopee.com.br/W7pT99FCY",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg42kmd4gkjp15",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
@@ -4220,7 +4228,11 @@
   "18090997991701300",
   "17877220674582625",
   "18347787589252618",
-  "18155369500534047"
+  "18155369500534047",
+  "17916264786545473",
+  "18441015880182632",
+  "18128383342854786",
+  "18126397517485757"
  ],
  "hashes": [
   "6032886c6bc875b43f3b7720cd9ded55",
@@ -4762,30 +4774,14 @@
   "36afbb0475": 1,
   "9447223fdb": 1,
   "532165adcc": 1,
-  "be951e3c18": 1
+  "be951e3c18": 1,
+  "70c26d322d": 1,
+  "e23c9b5d10": 1,
+  "58df56d2ca": 1,
+  "4beb6f0ef1": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "produção daquela época parecia filme de cinema mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa conta de amor próprio e boleto não fecha nunca kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "deixar a noite livre para fazer o que quiser compensa o sacrifício",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "para quem tem rotina puxada realmente acaba sendo a única alternativa",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "justo, pra quem passa o dia todo fora é o único jeito mesmo",
    "p": "concorda",
@@ -4915,6 +4911,26 @@
    "t": "esse argumento financeiro pega pesado demais kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "essa sensação de controle é exatamente o que faz todo mundo gostar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fora de sp ou rj o cenário muda mesmo mas haja perna ainda assim",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "essa economia nos automaticos novos muda o jogo completamente",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cada um com sua paciência no trânsito",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5382,6 +5398,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-29T20:07:09.063415-04:00"
+  },
+  "18134379448768087": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-30T16:07:08.967765-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6242,7 +6263,11 @@
    "sabia decisao ninguem",
    "esse incomodo com",
    "essa conta na",
-   "esse argumento financeiro"
+   "esse argumento financeiro",
+   "essa sensacao de",
+   "fora de sp",
+   "essa economia nos",
+   "cada um com"
   ]
  },
  "shopee_checada": "2026-10-30|1",
@@ -6633,7 +6658,9 @@
   "19897424402": "2026-10-28T07:07:10.960636-04:00",
   "58267939235": "2026-10-29T09:37:08.566115-04:00",
   "23593906892": "2026-10-29T11:37:08.878649-04:00",
-  "22894012277": "2026-10-29T20:07:09.063415-04:00"
+  "22894012277": "2026-10-29T20:07:09.063415-04:00",
+  "23094546288": "2026-10-30T16:07:08.967765-04:00",
+  "58203234670": "2026-10-30T16:07:08.967765-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -6643,7 +6670,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-30",
-  "qtd": 0
+  "qtd": 1
  },
  "carrosseis_usados": [
   "car-20261010-1",
