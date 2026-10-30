@@ -24,34 +24,17 @@
    "20:08"
   ],
   "feitos": [
-   "08:39"
+   "08:39",
+   "09:41"
   ],
   "produtos_feitos": 0,
-  "respostas": 8,
+  "respostas": 13,
   "por_post": {
    "17966524512249358": 2,
-   "17918797707464737": 6
+   "17918797707464737": 11
   }
  },
  "posts": [
-  {
-   "id": "18086406461707156",
-   "insp": "ba30bb89b0",
-   "link": "",
-   "texto": "ME CONTA: na cidade de vocês todo carro caindo aos pedaços também tem apelido famoso ou é só na minha região?",
-   "quando": "2026-10-23T21:37:07.114778-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 698,
-    "likes": 4,
-    "replies": 11,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-30"
-   },
-   "viral_chk": "2026-10-24T13:07:08.818984-04:00"
-  },
   {
    "id": "18145537618587912",
    "insp": "1a4df9fa8d",
@@ -1350,7 +1333,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T09:37:09.608531-04:00",
+   "viral_chk": "2026-10-30T10:07:08.504351-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1397,7 +1380,16 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T09:37:09.608531-04:00"
+   "viral_chk": "2026-10-30T10:07:08.504351-04:00"
+  },
+  {
+   "id": "18057754298578764",
+   "insp": "911dee6995",
+   "link": "",
+   "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
+   "quando": "2026-10-30T10:07:08.504351-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-30T10:07:08.504351-04:00"
   }
  ],
  "respondidos": [
@@ -4251,10 +4243,14 @@
   "18641220382044995",
   "18096145043408407",
   "18638635630033610",
-  "18132251905705196"
+  "18132251905705196",
+  "17900095344396233",
+  "18225088819342284",
+  "18026691149869904",
+  "17962954104228184",
+  "18062619659540975"
  ],
  "hashes": [
-  "d7ecd06aadc9a372746bec96f514dbd8",
   "838038e1434c395acc8fd7455794bcb9",
   "d379ace921beb1f62650137586c822e0",
   "29f6804a7183a8baa370f30abfae57c4",
@@ -4453,7 +4449,8 @@
   "c9a23aaa71653ac5d57373f4406f116c",
   "9cbb3ef6053fbd2800860a52ebe9abb6",
   "5eaf80d1c66d8b8a60ac661cfbf33290",
-  "a03b56ab58cecb9faf4b8f1e12e8c13c"
+  "a03b56ab58cecb9faf4b8f1e12e8c13c",
+  "fbbfc005a55f490011978e63d18adff6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4753,7 +4750,8 @@
   "095d3d6cd4": 1793279254.4351137,
   "1fd8d1a0a2": 1793284700.7855046,
   "fc172f6e0c": 1793309886.80331,
-  "6fc3351715": 1793365691.5429385
+  "6fc3351715": 1793365691.5429385,
+  "911dee6995": 1793369286.8698964
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4765,35 +4763,15 @@
   "98444e2aa6": 1,
   "b337c46836": 1,
   "4fac620e91": 1,
-  "84429a8692": 1
+  "84429a8692": 1,
+  "252d08f4f9": 1,
+  "071fc053f5": 1,
+  "3e4dd9348c": 1,
+  "c94226d60b": 1,
+  "833f2fb331": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "Que massa, Brastemp virou ditado, já anotei pra compartilhar!",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa música grudou na cabeça de gerações inteiras kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "essa melodia e o guri de bicicleta ficaram marcados para sempre na memória",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "realmente venderam um estilo de vida que custou caro para muita gente",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "a criatividade daquela época realmente deixava tudo marcado na memória",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa clássica nunca falha pra tirar a atenção kkkkk",
    "p": "concorda",
@@ -4918,6 +4896,31 @@
    "t": "coragem pura às cinco da manhã",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "duas verdades pesando na balança kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "evoluir a gente quer, mas o colchão puxa muito mais forte essa hora",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "quem tem foco tão cedo assim merece respeito mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dez da noite já é horário de pijama e netflix kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "muito criativo o metodo de tortura voluntaria kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6247,7 +6250,12 @@
    "para quem tem",
    "justo pra quem",
    "clt sofre demais",
-   "coragem pura as"
+   "coragem pura as",
+   "duas verdades pesando",
+   "evoluir a gente",
+   "quem tem foco",
+   "dez da noite",
+   "muito criativo o"
   ]
  },
  "shopee_checada": "2026-10-30|1",
