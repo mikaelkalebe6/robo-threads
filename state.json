@@ -25,9 +25,10 @@
   ],
   "feitos": [
    "08:39",
-   "09:41"
+   "09:41",
+   "10:58"
   ],
-  "produtos_feitos": 0,
+  "produtos_feitos": 1,
   "respostas": 13,
   "por_post": {
    "17966524512249358": 2,
@@ -35,24 +36,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18145537618587912",
-   "insp": "1a4df9fa8d",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual palavra da tua cidade que quem é de fora olha com aquela cara de interrogação total? Aqui basta eu soltar uma expressão mais específica para todo mundo travar tentando adivinhar o significado.",
-   "quando": "2026-10-23T22:07:07.470859-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 309,
-    "likes": 2,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-30"
-   },
-   "viral_chk": "2026-10-24T13:07:08.818984-04:00"
-  },
   {
    "id": "17955172134277759",
    "insp": "5efa674a14",
@@ -1333,7 +1316,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T10:37:09.021089-04:00",
+   "viral_chk": "2026-10-30T11:07:09.836945-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1380,7 +1363,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T10:37:09.021089-04:00"
+   "viral_chk": "2026-10-30T11:07:09.836945-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1389,7 +1372,27 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T10:37:09.021089-04:00"
+   "viral_chk": "2026-10-30T11:07:09.836945-04:00"
+  },
+  {
+   "id": "18052766636814296",
+   "insp": "prod_58211842722",
+   "link": "",
+   "texto": "Levar bebida gelada pra praia sem vazar nada na mala é um milagre, né? 😂 Descobri essa mochila térmica bag que segura o gelo o dia todo e não molha nada no carro. Olha como ficou prático 👀",
+   "quando": "2026-10-30T11:07:09.836945-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "58211842722",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "58211842722",
+    "nome": "Mochila Térmica Bag Freezer Cooler Gelo Bolsa Bebidas Anti Vazamento Praia Camping Premium - 18 litros",
+    "offerLink": "https://s.shopee.com.br/5q9LowkTH9",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pg-mozsqaz74bv0b8",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
@@ -6576,7 +6579,7 @@
   "22798989636": "2026-10-13T14:37:07.606623-04:00",
   "22894551427": "2026-10-28T15:07:09.509518-04:00",
   "58208889792": "2026-10-29T22:07:09.556604-04:00",
-  "58211842722": "2026-10-13T18:37:07.238218-04:00",
+  "58211842722": "2026-10-30T11:07:09.836945-04:00",
   "14831203028": "2026-10-14T09:07:08.365486-04:00",
   "22493432361": "2026-10-29T07:07:08.931399-04:00",
   "19399031891": "2026-10-15T07:07:09.668636-04:00",
