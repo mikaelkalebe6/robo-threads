@@ -29,36 +29,20 @@
    "10:58",
    "11:52",
    "12:49",
-   "13:54"
+   "13:54",
+   "14:35"
   ],
   "produtos_feitos": 1,
-  "respostas": 19,
+  "respostas": 22,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
    "17879211354567060": 5,
-   "18169083673482490": 1
+   "18169083673482490": 1,
+   "18146591881665621": 3
   }
  },
  "posts": [
-  {
-   "id": "18357940078223066",
-   "insp": "31631bee08",
-   "link": "",
-   "texto": "DUVIDA SINCERA: zero km em 60x ou seminovo à vista? Eu já decidi, zero km.",
-   "quando": "2026-10-24T13:07:08.818984-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-25T11:07:08.636124-04:00",
-   "metricas": {
-    "views": 511,
-    "likes": 2,
-    "replies": 26,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-30"
-   }
-  },
   {
    "id": "17962475325229174",
    "insp": "8126542588",
@@ -1247,7 +1231,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T14:07:08.511818-04:00",
+   "viral_chk": "2026-10-30T14:37:07.402126-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1294,7 +1278,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T14:07:08.511818-04:00"
+   "viral_chk": "2026-10-30T14:37:07.402126-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1303,7 +1287,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T14:07:08.511818-04:00"
+   "viral_chk": "2026-10-30T14:37:07.402126-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1332,7 +1316,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T14:07:08.511818-04:00"
+   "viral_chk": "2026-10-30T14:37:07.402126-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1341,7 +1325,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T14:07:08.511818-04:00"
+   "viral_chk": "2026-10-30T14:37:07.402126-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1350,7 +1334,16 @@
    "texto": "OPINIÃO IMPOPULAR: quem realmente prefere carro manual no trânsito pesado de todo dia só faz isso por puro orgulho ou tem alguma vantagem secreta que eu ainda não descobri",
    "quando": "2026-10-30T14:07:08.511818-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T14:07:08.511818-04:00"
+   "viral_chk": "2026-10-30T14:37:07.402126-04:00"
+  },
+  {
+   "id": "17965590606206776",
+   "insp": "3d3928277d",
+   "link": "",
+   "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
+   "quando": "2026-10-30T14:37:07.402126-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-30T14:37:07.402126-04:00"
   }
  ],
  "respondidos": [
@@ -4215,10 +4208,12 @@
   "18139844800630516",
   "17970402588179517",
   "18031883423911219",
-  "18090590495267178"
+  "18090590495267178",
+  "18097818518430189",
+  "18132493105616110",
+  "18115288076144149"
  ],
  "hashes": [
-  "ec88faad8a0d21fc5d1927a18454469b",
   "6032886c6bc875b43f3b7720cd9ded55",
   "5dc79f555bd6112b8b53d18f691b4c34",
   "56e0d0ec03ccbfdbe9f8cd7bc0c4ff40",
@@ -4417,7 +4412,8 @@
   "fbbfc005a55f490011978e63d18adff6",
   "2fe1b29384a69ec97affa54d7a08071c",
   "1d50e37cf449a26eeec6bdf81f5c69f7",
-  "b499685ed78de3b7f80dedf8592e5a4c"
+  "b499685ed78de3b7f80dedf8592e5a4c",
+  "c76c921a78b85f5f933205cc04b852b9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4721,7 +4717,8 @@
   "911dee6995": 1793369286.8698964,
   "ff37b68cb2": 1793376490.7384787,
   "77b88ec144": 1793380052.2374887,
-  "311cd408b3": 1793383691.4343736
+  "311cd408b3": 1793383691.4343736,
+  "3d3928277d": 1793385489.4548943
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4744,25 +4741,13 @@
   "5a4f6559c6": 1,
   "eab1b2ecbe": 1,
   "bb9dd276e0": 1,
-  "364add485b": 1
+  "364add485b": 1,
+  "1f0c0455da": 1,
+  "4a3ac93149": 1,
+  "b22f7e3b1e": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "assinatura anual garantida de sofrimento kkkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "um minuto e meio já vira um podcast particular kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa cicatriz ainda deve estar ardendo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa pegou todo mundo de surpresa na frente da tv",
    "p": "concorda",
@@ -4897,6 +4882,21 @@
    "t": "prioridades alinhadas com sucesso kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "na cidade grande realmente acaba com o joelho de qualquer um",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quando vira costume a gente nem pensa mais no que esta fazendo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "qualquer um dos dois jeitos já tira a paciência de qualquer um",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5904,16 +5904,6 @@
   }
  ],
  "aberturas_post": {
-  "18112867718588328": [
-   "nossa tres mil",
-   "entao o carro",
-   "e empurrar do",
-   "uber e bom",
-   "seis mil o",
-   "gestao financeira e",
-   "esse valor ai",
-   "queria ter essa"
-  ],
   "17915244483494376": [
    "zerada na estatistica",
    "quem resiste a",
@@ -6221,6 +6211,11 @@
   ],
   "18169083673482490": [
    "pura verdade o"
+  ],
+  "18146591881665621": [
+   "na cidade grande",
+   "quando vira costume",
+   "qualquer um dos"
   ]
  },
  "shopee_checada": "2026-10-30|1",
