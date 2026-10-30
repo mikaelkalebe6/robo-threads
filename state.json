@@ -27,55 +27,18 @@
    "08:39",
    "09:41",
    "10:58",
-   "11:52"
+   "11:52",
+   "12:49"
   ],
   "produtos_feitos": 1,
-  "respostas": 15,
+  "respostas": 16,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
-   "17879211354567060": 2
+   "17879211354567060": 3
   }
  },
  "posts": [
-  {
-   "id": "17989226381872651",
-   "insp": "video_c1d72b0d73",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: eu passo a vida brigando com laço torto pra ver um vídeo desse e parecer a coisa mais simples do mundo. Com certeza na minha mão vai virar um nó cego.",
-   "quando": "2026-10-24T10:37:08.456722-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "41979297366",
-   "link_pendente": false,
-   "modo_produto": "tema",
-   "prod_dados": {
-    "itemId": "41979297366",
-    "nome": "Roupão Infantil Benévola Microfibra Plush Quentinho Macio Aveludado Fleece Menin",
-    "preco": 54.9,
-    "nota": 4.9,
-    "vendas": 557,
-    "comissao": 0.19,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mt88cengvd36e4",
-    "offerLink": "https://s.shopee.com.br/2qVauVKBCe",
-    "campanha": "",
-    "modo": "tema"
-   },
-   "link_coment": "https://s.shopee.com.br/2qVauVKBCe",
-   "link_em": "2026-10-24T12:07:08.673504-04:00",
-   "link_views": 857,
-   "metricas": {
-    "views": 10782,
-    "likes": 142,
-    "replies": 3,
-    "reposts": 4,
-    "quotes": 0,
-    "shares": 137,
-    "em": "2026-10-30"
-   }
-  },
   {
    "id": "18070093358773661",
    "insp": "fb4677367c",
@@ -1300,7 +1263,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T12:37:08.173963-04:00",
+   "viral_chk": "2026-10-30T13:07:09.391508-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1347,7 +1310,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T12:37:08.173963-04:00"
+   "viral_chk": "2026-10-30T13:07:09.391508-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1356,7 +1319,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T12:37:08.173963-04:00"
+   "viral_chk": "2026-10-30T13:07:09.391508-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1385,7 +1348,16 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T12:37:08.173963-04:00"
+   "viral_chk": "2026-10-30T13:07:09.391508-04:00"
+  },
+  {
+   "id": "18169083673482490",
+   "insp": "77b88ec144",
+   "link": "",
+   "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
+   "quando": "2026-10-30T13:07:09.391508-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-30T13:07:09.391508-04:00"
   }
  ],
  "respondidos": [
@@ -4246,10 +4218,10 @@
   "17962954104228184",
   "18062619659540975",
   "18494620075129190",
-  "17951766237314144"
+  "17951766237314144",
+  "18139844800630516"
  ],
  "hashes": [
-  "d379ace921beb1f62650137586c822e0",
   "29f6804a7183a8baa370f30abfae57c4",
   "ec88faad8a0d21fc5d1927a18454469b",
   "6032886c6bc875b43f3b7720cd9ded55",
@@ -4448,7 +4420,8 @@
   "5eaf80d1c66d8b8a60ac661cfbf33290",
   "a03b56ab58cecb9faf4b8f1e12e8c13c",
   "fbbfc005a55f490011978e63d18adff6",
-  "2fe1b29384a69ec97affa54d7a08071c"
+  "2fe1b29384a69ec97affa54d7a08071c",
+  "1d50e37cf449a26eeec6bdf81f5c69f7"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4750,7 +4723,8 @@
   "fc172f6e0c": 1793309886.80331,
   "6fc3351715": 1793365691.5429385,
   "911dee6995": 1793369286.8698964,
-  "ff37b68cb2": 1793376490.7384787
+  "ff37b68cb2": 1793376490.7384787,
+  "77b88ec144": 1793380052.2374887
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4769,15 +4743,11 @@
   "c94226d60b": 1,
   "833f2fb331": 1,
   "acb2196156": 1,
-  "e1fc991990": 1
+  "e1fc991990": 1,
+  "5a4f6559c6": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "essa marcou época de verdade, todo mundo lembrava o slogan",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa frase doeu até em quem não é vascaíno",
    "p": "concorda",
@@ -4922,6 +4892,11 @@
    "t": "o combo completo que não tem como dar errado kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "foco nas porções e zero álcool, o combo perfeito para aproveitar a noite",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6252,7 +6227,8 @@
   ],
   "17879211354567060": [
    "torresmo e um",
-   "o combo completo"
+   "o combo completo",
+   "foco nas porcoes"
   ]
  },
  "shopee_checada": "2026-10-30|1",
