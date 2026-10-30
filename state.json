@@ -34,13 +34,13 @@
    "15:51"
   ],
   "produtos_feitos": 2,
-  "respostas": 35,
+  "respostas": 36,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
    "17879211354567060": 5,
    "18169083673482490": 1,
-   "18146591881665621": 16
+   "18146591881665621": 17
   }
  },
  "posts": [
@@ -1214,7 +1214,7 @@
    "texto": "DÚVIDA SINCERA: qual time vc torce e qual foi a maior decepção que ele já te deu na vida?",
    "quando": "2026-10-29T17:37:08.190087-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T16:07:08.967765-04:00",
+   "viral_chk": "2026-10-30T16:37:09.218738-04:00",
    "metricas": {
     "views": 481,
     "likes": 1,
@@ -1236,7 +1236,7 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "58208889792",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "58208889792",
     "nome": "Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração Fone Corrida Academia",
@@ -1252,7 +1252,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-10-30"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/8fTVbEx5JP",
+   "link_em": "2026-10-30T16:37:09.218738-04:00",
+   "link_views": 0
   },
   {
    "id": "17918797707464737",
@@ -1261,7 +1264,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T16:07:08.967765-04:00"
+   "viral_chk": "2026-10-30T16:37:09.218738-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1270,7 +1273,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T16:07:08.967765-04:00"
+   "viral_chk": "2026-10-30T16:37:09.218738-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1299,7 +1302,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T16:07:08.967765-04:00"
+   "viral_chk": "2026-10-30T16:37:09.218738-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1308,7 +1311,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T16:07:08.967765-04:00"
+   "viral_chk": "2026-10-30T16:37:09.218738-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1331,7 +1334,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T16:07:08.967765-04:00"
+   "viral_chk": "2026-10-30T16:37:09.218738-04:00"
   },
   {
    "id": "18065503865623286",
@@ -4232,7 +4235,8 @@
   "17916264786545473",
   "18441015880182632",
   "18128383342854786",
-  "18126397517485757"
+  "18126397517485757",
+  "18041729072833433"
  ],
  "hashes": [
   "6032886c6bc875b43f3b7720cd9ded55",
@@ -4778,15 +4782,11 @@
   "70c26d322d": 1,
   "e23c9b5d10": 1,
   "58df56d2ca": 1,
-  "4beb6f0ef1": 1
+  "4beb6f0ef1": 1,
+  "255fe7eded": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "justo, pra quem passa o dia todo fora é o único jeito mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "clt sofre demais pra ter que escolher entre dormir e viver kkkk",
    "p": "concorda",
@@ -4930,6 +4930,11 @@
   {
    "t": "cada um com sua paciência no trânsito",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "quem curte o ato de dirigir nem olha para o câmbio",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -5403,6 +5408,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-30T16:07:08.967765-04:00"
+  },
+  "18019834964956035": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-30T16:37:09.218738-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6267,7 +6277,8 @@
    "essa sensacao de",
    "fora de sp",
    "essa economia nos",
-   "cada um com"
+   "cada um com",
+   "quem curte o"
   ]
  },
  "shopee_checada": "2026-10-30|1",
@@ -6587,7 +6598,7 @@
   "20798026236": "2026-10-13T07:07:09.287262-04:00",
   "22798989636": "2026-10-13T14:37:07.606623-04:00",
   "22894551427": "2026-10-28T15:07:09.509518-04:00",
-  "58208889792": "2026-10-29T22:07:09.556604-04:00",
+  "58208889792": "2026-10-30T16:37:09.218738-04:00",
   "58211842722": "2026-10-30T11:07:09.836945-04:00",
   "14831203028": "2026-10-14T09:07:08.365486-04:00",
   "22493432361": "2026-10-29T07:07:08.931399-04:00",
