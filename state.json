@@ -36,41 +36,24 @@
    "17:50",
    "18:30",
    "19:13",
-   "20:08"
+   "20:08",
+   "20:55"
   ],
   "produtos_feitos": 3,
-  "respostas": 58,
+  "respostas": 60,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
-   "17879211354567060": 8,
+   "17879211354567060": 9,
    "18169083673482490": 1,
    "18146591881665621": 20,
    "18101789486658584": 2,
    "18114961616605844": 4,
    "18110964131612577": 4,
-   "18036187742666195": 6
+   "18036187742666195": 7
   }
  },
  "posts": [
-  {
-   "id": "18212638690322633",
-   "insp": "60aee01b67",
-   "link": "",
-   "texto": "SEJAM SINCEROS: vocês preferem ganhar flores ou aquela ajudinha no Pix do mês?",
-   "quando": "2026-10-25T10:37:09.066835-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T10:07:11.324830-04:00",
-   "metricas": {
-    "views": 718,
-    "likes": 10,
-    "replies": 32,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-30"
-   }
-  },
   {
    "id": "17890576989618583",
    "insp": "video_cfbc736577",
@@ -1133,7 +1116,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
+   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1142,7 +1125,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
+   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1171,7 +1154,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
+   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1180,7 +1163,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
+   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1203,7 +1186,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
+   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
   },
   {
    "id": "18065503865623286",
@@ -1232,7 +1215,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
+   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
   },
   {
    "id": "18114961616605844",
@@ -1241,7 +1224,7 @@
    "texto": "SEM MENTIR: qual foi o maior susto financeiro de vocês no primeiro mês morando sozinhos? Aqui foi descobrir o preço real de produtos de limpeza básicos.",
    "quando": "2026-10-30T18:07:09.087198-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
+   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
   },
   {
    "id": "18110964131612577",
@@ -1250,7 +1233,7 @@
    "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
    "quando": "2026-10-30T18:37:09.390341-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
+   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
   },
   {
    "id": "18036187742666195",
@@ -1259,7 +1242,7 @@
    "texto": "OPINIÃO IMPOPULAR: Carro rebaixado com som alto na rua de madrugada não é estilo, é só falta de noção mesmo.",
    "quando": "2026-10-30T19:37:08.855943-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
+   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
   },
   {
    "id": "18098954417556263",
@@ -1280,6 +1263,15 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mnlvz7q90pvk5c",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "17966728118983535",
+   "insp": "da475bd113",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: a gente fala que vai descansar no fim de semana mas passa os dois dias pensando nos e-mails de segunda-feira.",
+   "quando": "2026-10-30T21:07:07.889410-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
   }
  ],
  "respondidos": [
@@ -4184,10 +4176,11 @@
   "18135745873773440",
   "17932671918161402",
   "18421386547152565",
-  "18006727862990231"
+  "18006727862990231",
+  "18157073179577495",
+  "17912337090302767"
  ],
  "hashes": [
-  "9ce4a72f8e6cd55e93c78e8dcf2b767c",
   "f853537ce4ec7c134eaecfbd63524121",
   "976fd840ef15f9ca98a707d8e7eb721e",
   "f41c68575e3d5fa0edf80e57796738ad",
@@ -4386,7 +4379,8 @@
   "72f0dbfd3ac493145ce33fba62e00229",
   "01afd5a482058d3fda4ef0a4b985eae9",
   "c414555ed6612a32f7c88bf17770d088",
-  "e350a4e6d12dac5c349dcef15bab3f7d"
+  "e350a4e6d12dac5c349dcef15bab3f7d",
+  "5bbed3398d65d4f79532663deb28f94c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4695,7 +4689,8 @@
   "7ef1d6fca0": 1793394450.0635054,
   "a323f41843": 1793398044.5965128,
   "35fc27c176": 1793399891.0611634,
-  "7ba592d22e": 1793403484.6466517
+  "7ba592d22e": 1793403484.6466517,
+  "da475bd113": 1793408851.1002078
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4756,20 +4751,12 @@
   "493ca358b6": 1,
   "125092fe84": 1,
   "d77d8066ee": 1,
-  "0587727a3d": 1
+  "0587727a3d": 1,
+  "4eb097de2d": 1,
+  "ade4ddcf4c": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "esse incômodo com o start-stop realmente faz sentido kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa conta na ponta do lápis faz diferença mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "esse argumento financeiro pega pesado demais kkkk",
    "p": "concorda",
@@ -4909,6 +4896,16 @@
    "t": "exato, no dia a dia a gente só quer chegar em casa inteira sem dor no pé esquerdo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "liberdade dos outros termina onde começa o sossego alheio, né",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "comida boa é motivo de sobra pra sair de casa kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6196,7 +6193,8 @@
    "prioridades alinhadas com",
    "justo pizzaria e",
    "foco total no",
-   "provolone a milanesa"
+   "provolone a milanesa",
+   "comida boa e"
   ],
   "18169083673482490": [
    "pura verdade o"
@@ -6245,7 +6243,8 @@
    "pesado demais o",
    "pois e mas",
    "o preco do",
-   "exatamente perdeu totalmente"
+   "exatamente perdeu totalmente",
+   "liberdade dos outros"
   ]
  },
  "shopee_checada": "2026-10-30|1",
