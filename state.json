@@ -26,14 +26,14 @@
    "09:06"
   ],
   "produtos_feitos": 0,
-  "respostas": 30,
+  "respostas": 36,
   "por_post": {
-   "18059672663796327": 4,
-   "18036187742666195": 4,
+   "18059672663796327": 5,
+   "18036187742666195": 5,
    "18146591881665621": 12,
    "18110964131612577": 1,
-   "17918328729462329": 5,
-   "18000103242043456": 4
+   "17918328729462329": 6,
+   "18000103242043456": 7
   }
  },
  "posts": [
@@ -1093,7 +1093,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T09:37:08.987860-04:00",
+   "viral_chk": "2026-10-31T10:07:09.393257-04:00",
    "metricas": {
     "views": 472,
     "likes": 12,
@@ -1111,7 +1111,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T09:37:08.987860-04:00",
+   "viral_chk": "2026-10-31T10:07:09.393257-04:00",
    "metricas": {
     "views": 222,
     "likes": 3,
@@ -1152,7 +1152,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T09:37:08.987860-04:00",
+   "viral_chk": "2026-10-31T10:07:09.393257-04:00",
    "metricas": {
     "views": 75,
     "likes": 2,
@@ -1174,7 +1174,7 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "23094546288",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "23094546288",
     "nome": "Raspadores Multiuso Para Limpar Box Com 5-10 Lâminas Profissional/Vidro Piso Cerâmica Azulejo",
@@ -1190,7 +1190,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-10-31"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/W7pT99FCY",
+   "link_em": "2026-10-31T10:07:09.393257-04:00",
+   "link_views": 0
   },
   {
    "id": "18101789486658584",
@@ -1199,7 +1202,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T09:37:08.987860-04:00",
+   "viral_chk": "2026-10-31T10:07:09.393257-04:00",
    "metricas": {
     "views": 171,
     "likes": 2,
@@ -1240,7 +1243,7 @@
    "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
    "quando": "2026-10-30T18:37:09.390341-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T09:37:08.987860-04:00",
+   "viral_chk": "2026-10-31T10:07:09.393257-04:00",
    "metricas": {
     "views": 217,
     "likes": 3,
@@ -1310,7 +1313,7 @@
    "texto": "VAMOS SER HONESTOS: a gente fala que vai descansar no fim de semana mas passa os dois dias pensando nos e-mails de segunda-feira.",
    "quando": "2026-10-30T21:07:07.889410-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T09:37:08.987860-04:00",
+   "viral_chk": "2026-10-31T10:07:09.393257-04:00",
    "metricas": {
     "views": 201,
     "likes": 2,
@@ -1328,7 +1331,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já ficou sentado no carro com ele ligado só pra terminar de ouvir a música até o fim",
    "quando": "2026-10-30T22:07:08.888145-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T09:37:08.987860-04:00",
+   "viral_chk": "2026-10-31T10:07:09.393257-04:00",
    "metricas": {
     "views": 429,
     "likes": 20,
@@ -1346,7 +1349,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro carro de vocês e quanto custou?",
    "quando": "2026-10-31T08:37:08.925713-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T09:37:08.987860-04:00"
+   "viral_chk": "2026-10-31T10:07:09.393257-04:00"
   },
   {
    "id": "18000103242043456",
@@ -1355,7 +1358,7 @@
    "texto": "SEJAM SINCEROS: qual é aquela conta que chega todo mês e parece que dói mais no bolso do que todas as outras?",
    "quando": "2026-10-31T09:07:09.121448-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T09:37:08.987860-04:00"
+   "viral_chk": "2026-10-31T10:07:09.393257-04:00"
   }
  ],
  "respondidos": [
@@ -4301,7 +4304,13 @@
   "18076227116483619",
   "18097204397658095",
   "18120395774094926",
-  "17997505842110884"
+  "17997505842110884",
+  "18114996113124758",
+  "18374608042209661",
+  "17929532628183374",
+  "17877286179586016",
+  "18085608293356284",
+  "18140857078617178"
  ],
  "hashes": [
   "b1f4ddbf853772d0bb9254710d5dddd4",
@@ -4846,40 +4855,16 @@
   "bd4793aab0": 1,
   "4a379c6b22": 1,
   "753a8bfa12": 1,
-  "c5abe85364": 1
+  "c5abe85364": 1,
+  "5ac0287909": 1,
+  "db1cb74f80": 1,
+  "4daac2f246": 1,
+  "de65ea543a": 1,
+  "366fd5e9e4": 1,
+  "26b8d9fd47": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "parece que a música vira refem da gente por mais alguns minutos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "chegar tarde e ainda ter que lidar com barulho é covardia pura com quem só quer descansar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, o melhor carro é sempre aquele que já tá na nossa mão kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "cruzar com os dois na mesma noite testa a paciência de qualquer um",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ter o diarista do transito e deixar o manual só pro fim de semana e uma estrategia brilhante kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "economia no fim do mês faz qualquer dor de cabeça no trânsito valer a pena",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pior que no fim das contas a carteira é quem decide por a gente kkkkk",
    "p": "concorda",
@@ -4997,6 +4982,36 @@
   },
   {
    "t": "nem fala, quando o dinheiro acaba o jeito é escolher qual boleto vai esperar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a energia elétrica não reclama da nossa paciência",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "melhor jeito de fechar a viagem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exato, evento tem lugar certo, na rua de madrugada é só falta de consideração mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse vem todo mês para lembrar que a paz é um artigo de luxo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o antigo pra gente sofrer junto lembrando do sufoco",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "esse pesa tanto que parece que vem com juros de mora antes mesmo do vencimento",
    "p": "concorda",
    "r": 0
   }
@@ -5491,6 +5506,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-31T09:07:09.121448-04:00"
+  },
+  "17942868093365680": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-31T10:07:09.393257-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6339,7 +6359,8 @@
    "chegar tarde e",
    "cruzar com os",
    "realmente esta todo",
-   "com certeza falta"
+   "com certeza falta",
+   "exato evento tem"
   ],
   "18059672663796327": [
    "duas ou mais",
@@ -6348,20 +6369,25 @@
    "parece que a",
    "quando a musica",
    "todo dia e",
-   "verdade agora a"
+   "verdade agora a",
+   "melhor jeito de"
   ],
   "17918328729462329": [
    "quase uma aventura",
    "essa ai e",
    "esse ai marcou",
    "medo de declarar",
-   "esse veio recheado"
+   "esse veio recheado",
+   "o antigo pra"
   ],
   "18000103242043456": [
    "essa fatura tem",
    "pagar caro por",
    "ferias parecem otimas",
-   "nem fala quando"
+   "nem fala quando",
+   "pelo menos a",
+   "esse vem todo",
+   "esse pesa tanto"
   ]
  },
  "shopee_checada": "2026-10-31|1",
@@ -6723,7 +6749,7 @@
   "58267939235": "2026-10-29T09:37:08.566115-04:00",
   "23593906892": "2026-10-29T11:37:08.878649-04:00",
   "22894012277": "2026-10-29T20:07:09.063415-04:00",
-  "23094546288": "2026-10-30T16:07:08.967765-04:00",
+  "23094546288": "2026-10-31T10:07:09.393257-04:00",
   "58203234670": "2026-10-30T16:07:08.967765-04:00",
   "58251910469": "2026-10-30T20:37:08.047693-04:00",
   "22292964139": "2026-10-30T22:37:07.296929-04:00",
