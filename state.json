@@ -41,7 +41,7 @@
    "22:00"
   ],
   "produtos_feitos": 3,
-  "respostas": 66,
+  "respostas": 68,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
@@ -51,7 +51,8 @@
    "18101789486658584": 2,
    "18114961616605844": 7,
    "18110964131612577": 4,
-   "18036187742666195": 10
+   "18036187742666195": 10,
+   "18059672663796327": 2
   }
  },
  "posts": [
@@ -1079,7 +1080,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T22:07:08.888145-04:00"
+   "viral_chk": "2026-10-30T22:37:07.296929-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1088,7 +1089,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T22:07:08.888145-04:00"
+   "viral_chk": "2026-10-30T22:37:07.296929-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1117,7 +1118,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T22:07:08.888145-04:00"
+   "viral_chk": "2026-10-30T22:37:07.296929-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1126,7 +1127,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T22:07:08.888145-04:00"
+   "viral_chk": "2026-10-30T22:37:07.296929-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1149,7 +1150,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T22:07:08.888145-04:00"
+   "viral_chk": "2026-10-30T22:37:07.296929-04:00"
   },
   {
    "id": "18065503865623286",
@@ -1178,7 +1179,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T22:07:08.888145-04:00"
+   "viral_chk": "2026-10-30T22:37:07.296929-04:00"
   },
   {
    "id": "18114961616605844",
@@ -1187,7 +1188,7 @@
    "texto": "SEM MENTIR: qual foi o maior susto financeiro de vocês no primeiro mês morando sozinhos? Aqui foi descobrir o preço real de produtos de limpeza básicos.",
    "quando": "2026-10-30T18:07:09.087198-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T22:07:08.888145-04:00"
+   "viral_chk": "2026-10-30T22:37:07.296929-04:00"
   },
   {
    "id": "18110964131612577",
@@ -1196,7 +1197,7 @@
    "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
    "quando": "2026-10-30T18:37:09.390341-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T22:07:08.888145-04:00"
+   "viral_chk": "2026-10-30T22:37:07.296929-04:00"
   },
   {
    "id": "18036187742666195",
@@ -1205,7 +1206,12 @@
    "texto": "OPINIÃO IMPOPULAR: Carro rebaixado com som alto na rua de madrugada não é estilo, é só falta de noção mesmo.",
    "quando": "2026-10-30T19:37:08.855943-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T22:07:08.888145-04:00"
+   "viral_chk": "2026-10-30T22:37:07.296929-04:00",
+   "link_coment": "https://s.shopee.com.br/2LZTeW6s1N",
+   "meme_comentado": true,
+   "meme_views": 1007,
+   "formato_link": "coment",
+   "produto": "22292964139"
   },
   {
    "id": "18098954417556263",
@@ -4156,7 +4162,9 @@
   "17908033683569960",
   "18108417386249186",
   "18129607381889328",
-  "18391638715232182"
+  "18391638715232182",
+  "18049528943819947",
+  "18003899825806907"
  ],
  "hashes": [
   "976fd840ef15f9ca98a707d8e7eb721e",
@@ -4737,21 +4745,12 @@
   "c7aefa9721": 1,
   "0763695e10": 1,
   "f7ef2eea3b": 1,
-  "83bf799bc3": 1,
-  "1fdd94a055": 1
+  "83bf799bc3": 2,
+  "1fdd94a055": 1,
+  "3953c57aa3": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "paz de espírito pura no meio do caos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesado mas faz todo sentido kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "justiça seja feita para quem preparou com tanto carinho kkk",
    "p": "concorda",
@@ -4891,6 +4890,16 @@
    "t": "acabar com o sono dos outros virou esporte favorito de muita gente",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "duas ou mais na sequência pra garantir a paz kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "inevitável, a música sempre ganha kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5368,6 +5377,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-30T16:37:09.218738-04:00"
+  },
+  "18260087536307924": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-30T22:37:07.296929-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -5908,10 +5922,6 @@
   }
  ],
  "aberturas_post": {
-  "18231002650327248": [
-   "taxa de conversao",
-   "o tinder veio"
-  ],
   "17899714413398695": [
    "argumento de higiene"
   ],
@@ -6236,6 +6246,10 @@
    "pois e o",
    "pelo menos a",
    "acabar com o"
+  ],
+  "18059672663796327": [
+   "duas ou mais",
+   "inevitavel a musica"
   ]
  },
  "shopee_checada": "2026-10-30|1",
@@ -6629,7 +6643,8 @@
   "22894012277": "2026-10-29T20:07:09.063415-04:00",
   "23094546288": "2026-10-30T16:07:08.967765-04:00",
   "58203234670": "2026-10-30T16:07:08.967765-04:00",
-  "58251910469": "2026-10-30T20:37:08.047693-04:00"
+  "58251910469": "2026-10-30T20:37:08.047693-04:00",
+  "22292964139": "2026-10-30T22:37:07.296929-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -6639,7 +6654,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-30",
-  "qtd": 1
+  "qtd": 2
  },
  "carrosseis_usados": [
   "car-20261010-1",
