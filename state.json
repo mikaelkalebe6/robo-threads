@@ -28,10 +28,10 @@
    "11:55"
   ],
   "produtos_feitos": 1,
-  "respostas": 50,
+  "respostas": 52,
   "por_post": {
-   "18059672663796327": 7,
-   "18036187742666195": 5,
+   "18059672663796327": 8,
+   "18036187742666195": 6,
    "18146591881665621": 16,
    "18110964131612577": 1,
    "17918328729462329": 11,
@@ -1057,7 +1057,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
+   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
    "metricas": {
     "views": 222,
     "likes": 3,
@@ -1098,7 +1098,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
+   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
    "metricas": {
     "views": 75,
     "likes": 2,
@@ -1148,7 +1148,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
+   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
    "metricas": {
     "views": 171,
     "likes": 2,
@@ -1189,7 +1189,7 @@
    "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
    "quando": "2026-10-30T18:37:09.390341-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
+   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
    "metricas": {
     "views": 217,
     "likes": 3,
@@ -1259,7 +1259,7 @@
    "texto": "VAMOS SER HONESTOS: a gente fala que vai descansar no fim de semana mas passa os dois dias pensando nos e-mails de segunda-feira.",
    "quando": "2026-10-30T21:07:07.889410-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
+   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
    "metricas": {
     "views": 201,
     "likes": 2,
@@ -1277,7 +1277,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já ficou sentado no carro com ele ligado só pra terminar de ouvir a música até o fim",
    "quando": "2026-10-30T22:07:08.888145-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
+   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
    "metricas": {
     "views": 429,
     "likes": 20,
@@ -1295,7 +1295,12 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro carro de vocês e quanto custou?",
    "quando": "2026-10-31T08:37:08.925713-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:07:09.071876-04:00"
+   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
+   "link_coment": "https://s.shopee.com.br/7KyBCc0rba",
+   "meme_comentado": true,
+   "meme_views": 1046,
+   "formato_link": "coment",
+   "produto": "58250519029"
   },
   {
    "id": "18000103242043456",
@@ -4299,7 +4304,10 @@
   "17939646171387385",
   "17972439228193036",
   "17954334825290355",
-  "18172277602461070"
+  "18172277602461070",
+  "18018735785745564",
+  "18102487238562392",
+  "18026940398876677"
  ],
  "hashes": [
   "abb98f9fe199fc4b91d4d23dd9515c7d",
@@ -4865,20 +4873,12 @@
   "1fdd94a055": 1,
   "262347e291": 1,
   "ff71844d99": 1,
-  "c039a9c724": 1
+  "c039a9c724": 1,
+  "14ea04bde2": 1,
+  "80fec17794": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "essa aí é relíquia, o preço da época hoje em dia assusta mais que qualquer boleto kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "esse aí marcou época e ainda cabia no bolso",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "todo dia é dia de ignorar o relógio por causa de música boa kkk",
    "p": "concorda",
@@ -5018,6 +5018,16 @@
    "t": "o peso no bolso na hora da oficina realmente pesa muito na balança",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "pura falta de nocao achar que todo mundo quer ouvir a playlist da pessoa as três da manha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "inevitável desligar o motor antes da música acabar kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5515,6 +5525,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-31T10:07:09.393257-04:00"
+  },
+  "18034572830672758": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-31T12:37:07.469660-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6364,7 +6379,8 @@
    "cruzar com os",
    "realmente esta todo",
    "com certeza falta",
-   "exato evento tem"
+   "exato evento tem",
+   "pura falta de"
   ],
   "18059672663796327": [
    "duas ou mais",
@@ -6376,7 +6392,8 @@
    "verdade agora a",
    "melhor jeito de",
    "mexer no celular",
-   "bom demais quando"
+   "bom demais quando",
+   "inevitavel desligar o"
   ],
   "17918328729462329": [
    "quase uma aventura",
@@ -6684,7 +6701,7 @@
   "23993565028": "2026-10-26T18:37:08.130717-04:00",
   "21898099575": "2026-10-27T21:07:08.589314-04:00",
   "58257654101": "2026-10-28T20:07:08.471996-04:00",
-  "58250519029": "2026-10-12T14:07:09.043573-04:00",
+  "58250519029": "2026-10-31T12:37:07.469660-04:00",
   "58264177301": "2026-10-12T17:37:07.573345-04:00",
   "58262137609": "2026-10-12T19:07:08.855043-04:00",
   "49864801044": "2026-10-12T22:07:07.460566-04:00",
@@ -6778,7 +6795,7 @@
  },
  "meme_links_dia": {
   "data": "2026-10-31",
-  "qtd": 1
+  "qtd": 2
  },
  "carrosseis_usados": [
   "car-20261010-1",
