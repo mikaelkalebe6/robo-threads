@@ -34,7 +34,7 @@
    "17:58"
   ],
   "produtos_feitos": 2,
-  "respostas": 78,
+  "respostas": 82,
   "por_post": {
    "18059672663796327": 11,
    "18036187742666195": 6,
@@ -45,7 +45,8 @@
    "18106825157572440": 9,
    "18010950449778561": 7,
    "18153105085554734": 1,
-   "18119185082003862": 1
+   "18119185082003862": 4,
+   "18135924433780729": 1
   }
  },
  "posts": [
@@ -4243,7 +4244,11 @@
   "18015245453978300",
   "17910034887327104",
   "18084484403707311",
-  "17932564344162291"
+  "17932564344162291",
+  "18110751074620813",
+  "17930299596182453",
+  "17903038068671776",
+  "18082442870369645"
  ],
  "hashes": [
   "9cecc2e168eef687994d5434addf9b6d",
@@ -4838,31 +4843,14 @@
   "dd256ade98": 1,
   "e9d0d75949": 1,
   "23a3023217": 1,
-  "3a4f6eb0bb": 1,
-  "e56539d792": 1
+  "3a4f6eb0bb": 2,
+  "e56539d792": 1,
+  "25752609e6": 1,
+  "9a29b96b2d": 1,
+  "dd9269ced5": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "sem trânsito pesado até o câmbio manual vira um passeio tranquilo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o peso no bolso na hora da oficina realmente pesa muito na balança",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pura falta de nocao achar que todo mundo quer ouvir a playlist da pessoa as três da manha",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "inevitável desligar o motor antes da música acabar kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "esse clássico aí já viu muita história na rua",
    "p": "concorda",
@@ -4992,6 +4980,26 @@
    "t": "perde a diversão técnica mas ganha a bateria inteira kkk",
    "p": "ressalva",
    "r": 1
+  },
+  {
+   "t": "o arrependimento só bate no dia seguinte mesmo kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "sorte a sua, economizou um bom tempo de paz",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "sã decisão, a paz de espírito vale mais que qualquer curiosidade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "final de semana é perigoso mesmo, a cabeça insiste em dar uma olhada",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6044,28 +6052,6 @@
   }
  ],
  "aberturas_post": {
-  "17913815520480885": [
-   "quando a rotina",
-   "perder peso e",
-   "inventaram uma regra",
-   "dormir cedo ate",
-   "pelo menos ele",
-   "pura ilusao de",
-   "o dia so",
-   "estrategia perfeita para",
-   "exercito de zumbis",
-   "saudade dessa disposicao",
-   "privacao de sono",
-   "cada um tem",
-   "que bom que",
-   "mudanca de horario",
-   "dormir no almoco",
-   "construir um pais",
-   "esse relogio interno",
-   "liberdade de horario",
-   "corpo humano nao",
-   "verdade se dorme"
-  ],
   "18122836490511425": [
    "um comprimido amassado"
   ],
@@ -6371,7 +6357,13 @@
    "quando a gente"
   ],
   "18119185082003862": [
-   "amigos da fofoca"
+   "amigos da fofoca",
+   "sorte a sua",
+   "sa decisao a",
+   "final de semana"
+  ],
+  "18135924433780729": [
+   "o arrependimento so"
   ]
  },
  "shopee_checada": "2026-10-31|1",
