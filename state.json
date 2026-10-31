@@ -35,7 +35,7 @@
    "19:05"
   ],
   "produtos_feitos": 3,
-  "respostas": 83,
+  "respostas": 84,
   "por_post": {
    "18059672663796327": 11,
    "18036187742666195": 6,
@@ -43,7 +43,7 @@
    "18110964131612577": 1,
    "17918328729462329": 14,
    "18000103242043456": 10,
-   "18106825157572440": 9,
+   "18106825157572440": 10,
    "18010950449778561": 7,
    "18153105085554734": 1,
    "18119185082003862": 5,
@@ -4252,7 +4252,8 @@
   "17930299596182453",
   "17903038068671776",
   "18082442870369645",
-  "18095143253173101"
+  "18095143253173101",
+  "18132900613745825"
  ],
  "hashes": [
   "9cecc2e168eef687994d5434addf9b6d",
@@ -4852,15 +4853,11 @@
   "25752609e6": 1,
   "9a29b96b2d": 1,
   "dd9269ced5": 1,
-  "2ba050da11": 1
+  "2ba050da11": 1,
+  "11f446338b": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "comparacao perfeita, depois que acostuma com a comodidade não tem volta",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "sete mil no uno era outro mundo mesmo, hoje em dia isso não paga nem o documento kkk",
    "p": "concorda",
@@ -5005,6 +5002,11 @@
    "t": "perfil privado é o teste final de paciência e autocontrole kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "exato, achar tomada virou uma caça ao tesouro kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6347,7 +6349,8 @@
    "exato essa parte",
    "para rodar so",
    "passar raiva com",
-   "ter onde carregar"
+   "ter onde carregar",
+   "exato achar tomada"
   ],
   "18010950449778561": [
    "pois e mas",
