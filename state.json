@@ -25,58 +25,21 @@
    "08:24",
    "09:06",
    "11:13",
-   "11:55"
+   "11:55",
+   "13:17"
   ],
   "produtos_feitos": 1,
-  "respostas": 54,
+  "respostas": 56,
   "por_post": {
    "18059672663796327": 8,
    "18036187742666195": 6,
-   "18146591881665621": 17,
+   "18146591881665621": 18,
    "18110964131612577": 1,
-   "17918328729462329": 12,
+   "17918328729462329": 13,
    "18000103242043456": 10
   }
  },
  "posts": [
-  {
-   "id": "17980994907120938",
-   "insp": "video_5ade262d77",
-   "link": "",
-   "texto": "Cansada de perder as coisas na bolsa e achar tudo embolado. Descobri esse organizador que salva qualquer viagem e olha como funciona 👀",
-   "quando": "2026-10-25T20:07:08.792857-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "22719293954",
-   "link_pendente": false,
-   "modo_produto": "parecido",
-   "prod_dados": {
-    "itemId": "22719293954",
-    "nome": "Kit 7 Pecas Bolsa Organizadoras Para Mala Roupas Bagagem Viagem",
-    "preco": 28.72,
-    "nota": 4.9,
-    "vendas": 4899,
-    "comissao": 0.11,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lungd923nxqs3c",
-    "offerLink": "https://s.shopee.com.br/AUv4GdRBIe",
-    "campanha": "",
-    "modo": "parecido"
-   },
-   "metricas": {
-    "views": 192,
-    "likes": 1,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-31"
-   },
-   "link_coment": "https://s.shopee.com.br/AUv4GdRBIe",
-   "link_em": "2026-10-26T14:07:09.406467-04:00",
-   "link_views": 0
-  },
   {
    "id": "18388358545229885",
    "insp": "9cb883fe04",
@@ -1339,6 +1302,14 @@
    "quando": "2026-10-31T12:07:09.071876-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "viral_chk": "2026-10-31T12:07:09.071876-04:00"
+  },
+  {
+   "id": "18106825157572440",
+   "insp": "74bdceb463",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: vale a pena trocar o carro a combustão pelo elétrico agora ou a gente ainda vai passar muita raiva com infraestrutura?",
+   "quando": "2026-10-31T13:37:09.986587-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4309,10 +4280,11 @@
   "18102487238562392",
   "18026940398876677",
   "17914105242491191",
-  "18114240401173498"
+  "18114240401173498",
+  "18021720002956788",
+  "18133933231667683"
  ],
  "hashes": [
-  "abb98f9fe199fc4b91d4d23dd9515c7d",
   "ca3be7acfd34977077d6e2d1f5b9bd48",
   "9b286df994d04d2fd18b81b6045a74d0",
   "bd192be1121e266310eccc3fa3eaaffa",
@@ -4511,7 +4483,8 @@
   "e9fecedcc06ae2cf7b014754cab7db10",
   "7a04382eff61bd2d8ad46e031f756606",
   "6da2964eb03f980332c318a307f9bd39",
-  "46595bcf62665c726f473d3883306798"
+  "46595bcf62665c726f473d3883306798",
+  "06b76aab2e19c6074249fc37dd44226b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4824,7 +4797,8 @@
   "c73aca2192": 1793412495.3129582,
   "7f395074e1": 1793450287.861915,
   "642c97cc3a": 1793452048.4490342,
-  "d4f824d797": 1793462891.1001406
+  "d4f824d797": 1793462891.1001406,
+  "74bdceb463": 1793468270.5694325
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4879,20 +4853,12 @@
   "14ea04bde2": 1,
   "80fec17794": 1,
   "ddf0ca57a8": 1,
-  "f17e4e517d": 1
+  "f17e4e517d": 1,
+  "447eea892b": 1,
+  "4246f568f3": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "esse veio recheado e com preço de carro novo kkk",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "essa fatura tem o poder de acabar com qualquer paz de espirito",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pagar caro por um serviço ruim e pior do que pagar normal",
    "p": "concorda",
@@ -5032,6 +4998,16 @@
    "t": "comparacao perfeita, depois que acostuma com a comodidade não tem volta",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "sete mil no uno era outro mundo mesmo, hoje em dia isso não paga nem o documento kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "depois que a tecnologia entra na rotina ninguém quer voltar pra trás kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6327,7 +6303,6 @@
    "pura verdade o"
   ],
   "18146591881665621": [
-   "paz de espirito",
    "faz sentido antigamente",
    "exato no dia",
    "justo o melhor",
@@ -6346,7 +6321,8 @@
    "essa sensacao de",
    "sem transito pesado",
    "o peso no",
-   "comparacao perfeita depois"
+   "comparacao perfeita depois",
+   "depois que a"
   ],
   "18101789486658584": [
    "pesado mas faz",
@@ -6411,7 +6387,8 @@
    "esse modelo marcou",
    "essa fila de",
    "preco de outra",
-   "esse classico ai"
+   "esse classico ai",
+   "sete mil no"
   ],
   "18000103242043456": [
    "essa fatura tem",
