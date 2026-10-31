@@ -24,38 +24,21 @@
   "feitos": [
    "08:24",
    "09:06",
-   "11:13"
+   "11:13",
+   "11:55"
   ],
   "produtos_feitos": 1,
-  "respostas": 49,
+  "respostas": 50,
   "por_post": {
    "18059672663796327": 7,
    "18036187742666195": 5,
-   "18146591881665621": 15,
+   "18146591881665621": 16,
    "18110964131612577": 1,
    "17918328729462329": 11,
    "18000103242043456": 10
   }
  },
  "posts": [
-  {
-   "id": "17984312148065698",
-   "insp": "9511ce0bfa",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: o rodapé do fogão ou o canto superior do box do banheiro revela muito mais sobre a limpeza da casa do que a sala arrumada para receber visita.",
-   "quando": "2026-10-25T18:37:07.662425-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 238,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-31"
-   },
-   "viral_chk": "2026-10-26T18:07:08.028743-04:00"
-  },
   {
    "id": "17980994907120938",
    "insp": "video_5ade262d77",
@@ -1074,7 +1057,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
+   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
    "metricas": {
     "views": 222,
     "likes": 3,
@@ -1115,7 +1098,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
+   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
    "metricas": {
     "views": 75,
     "likes": 2,
@@ -1165,7 +1148,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
+   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
    "metricas": {
     "views": 171,
     "likes": 2,
@@ -1206,7 +1189,7 @@
    "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
    "quando": "2026-10-30T18:37:09.390341-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
+   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
    "metricas": {
     "views": 217,
     "likes": 3,
@@ -1276,7 +1259,7 @@
    "texto": "VAMOS SER HONESTOS: a gente fala que vai descansar no fim de semana mas passa os dois dias pensando nos e-mails de segunda-feira.",
    "quando": "2026-10-30T21:07:07.889410-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
+   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
    "metricas": {
     "views": 201,
     "likes": 2,
@@ -1294,7 +1277,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já ficou sentado no carro com ele ligado só pra terminar de ouvir a música até o fim",
    "quando": "2026-10-30T22:07:08.888145-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
+   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
    "metricas": {
     "views": 429,
     "likes": 20,
@@ -1312,7 +1295,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro carro de vocês e quanto custou?",
    "quando": "2026-10-31T08:37:08.925713-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:37:07.840633-04:00"
+   "viral_chk": "2026-10-31T12:07:09.071876-04:00"
   },
   {
    "id": "18000103242043456",
@@ -1321,7 +1304,7 @@
    "texto": "SEJAM SINCEROS: qual é aquela conta que chega todo mês e parece que dói mais no bolso do que todas as outras?",
    "quando": "2026-10-31T09:07:09.121448-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:37:07.840633-04:00"
+   "viral_chk": "2026-10-31T12:07:09.071876-04:00"
   },
   {
    "id": "18103784876381712",
@@ -1342,6 +1325,15 @@
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824iw-mep6hejrt3wm4d",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "18119592832989790",
+   "insp": "d4f824d797",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: existe frase mais mentirosa no mundo corporativo do que aquela mensagem de domingo dizendo que é só uma coisinha rápida",
+   "quando": "2026-10-31T12:07:09.071876-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-10-31T12:07:09.071876-04:00"
   }
  ],
  "respondidos": [
@@ -4306,10 +4298,10 @@
   "17960557407015724",
   "17939646171387385",
   "17972439228193036",
-  "17954334825290355"
+  "17954334825290355",
+  "18172277602461070"
  ],
  "hashes": [
-  "b1f4ddbf853772d0bb9254710d5dddd4",
   "abb98f9fe199fc4b91d4d23dd9515c7d",
   "ca3be7acfd34977077d6e2d1f5b9bd48",
   "9b286df994d04d2fd18b81b6045a74d0",
@@ -4508,7 +4500,8 @@
   "5bbed3398d65d4f79532663deb28f94c",
   "e9fecedcc06ae2cf7b014754cab7db10",
   "7a04382eff61bd2d8ad46e031f756606",
-  "6da2964eb03f980332c318a307f9bd39"
+  "6da2964eb03f980332c318a307f9bd39",
+  "46595bcf62665c726f473d3883306798"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4820,7 +4813,8 @@
   "da475bd113": 1793408851.1002078,
   "c73aca2192": 1793412495.3129582,
   "7f395074e1": 1793450287.861915,
-  "642c97cc3a": 1793452048.4490342
+  "642c97cc3a": 1793452048.4490342,
+  "d4f824d797": 1793462891.1001406
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4870,15 +4864,11 @@
   "f15f2d6647": 1,
   "1fdd94a055": 1,
   "262347e291": 1,
-  "ff71844d99": 1
+  "ff71844d99": 1,
+  "c039a9c724": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "quase uma aventura completa por quinze mil kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "essa aí é relíquia, o preço da época hoje em dia assusta mais que qualquer boleto kkk",
    "p": "ressalva",
@@ -5021,6 +5011,11 @@
   },
   {
    "t": "sem trânsito pesado até o câmbio manual vira um passeio tranquilo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o peso no bolso na hora da oficina realmente pesa muito na balança",
    "p": "concorda",
    "r": 0
   }
@@ -6313,7 +6308,6 @@
    "pura verdade o"
   ],
   "18146591881665621": [
-   "cada um com",
    "quem curte o",
    "paz de espirito",
    "faz sentido antigamente",
@@ -6332,7 +6326,8 @@
    "direcionar o carrinho",
    "nossa ladeira com",
    "essa sensacao de",
-   "sem transito pesado"
+   "sem transito pesado",
+   "o peso no"
   ],
   "18101789486658584": [
    "pesado mas faz",
