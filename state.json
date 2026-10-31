@@ -28,7 +28,8 @@
    "11:55",
    "13:17",
    "14:10",
-   "15:47"
+   "15:47",
+   "16:32"
   ],
   "produtos_feitos": 2,
   "respostas": 74,
@@ -44,44 +45,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17864529744696991",
-   "insp": "video_f1a247bce9",
-   "link": "",
-   "texto": "Descobri esse café cremoso de toffee e avelã e já tô viciado. Olha como funciona 👀",
-   "quando": "2026-10-26T10:07:11.324830-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "22198067882",
-   "link_pendente": false,
-   "modo_produto": "tema",
-   "prod_dados": {
-    "itemId": "22198067882",
-    "nome": "MORDEDOR PARA CACHORRO PRODUTO NATURAL RUSTICO MADEIRA DE CAFE SABOR CÔCO DA HEL",
-    "preco": 13.0,
-    "nota": 4.9,
-    "vendas": 2016,
-    "comissao": 0.17,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mmj6wzrfxukg0c",
-    "offerLink": "https://s.shopee.com.br/40hbSNjmYx",
-    "campanha": "",
-    "modo": "tema"
-   },
-   "metricas": {
-    "views": 435,
-    "likes": 3,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-31"
-   },
-   "link_coment": "https://s.shopee.com.br/40hbSNjmYx",
-   "link_em": "2026-10-27T07:07:08.968014-04:00",
-   "link_views": 0
-  },
   {
    "id": "18112867718588328",
    "insp": "f7a0caefa7",
@@ -1304,6 +1267,14 @@
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repa-mdv3544s8w65bd",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "18153105085554734",
+   "insp": "00e682aa73",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: a gente só percebe que tem dinheiro demais parado em besteira quando decide arrumar o armário.",
+   "quando": "2026-10-31T16:37:08.585338-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4297,7 +4268,6 @@
   "17937026754406703"
  ],
  "hashes": [
-  "9b286df994d04d2fd18b81b6045a74d0",
   "bd192be1121e266310eccc3fa3eaaffa",
   "f34ca01b6710a4c885e61b681523271d",
   "9cecc2e168eef687994d5434addf9b6d",
@@ -4496,7 +4466,8 @@
   "6da2964eb03f980332c318a307f9bd39",
   "46595bcf62665c726f473d3883306798",
   "06b76aab2e19c6074249fc37dd44226b",
-  "c8a2e7fa55746c6d4194c6e55c240cc8"
+  "c8a2e7fa55746c6d4194c6e55c240cc8",
+  "c8f106e1058d9f383f5ac046a3920bf1"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4811,7 +4782,8 @@
   "642c97cc3a": 1793452048.4490342,
   "d4f824d797": 1793462891.1001406,
   "74bdceb463": 1793468270.5694325,
-  "2096a4fb50": 1793471856.3255594
+  "2096a4fb50": 1793471856.3255594,
+  "00e682aa73": 1793479087.9723935
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
