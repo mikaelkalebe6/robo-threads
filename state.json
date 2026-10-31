@@ -23,58 +23,21 @@
   ],
   "feitos": [
    "08:24",
-   "09:06"
+   "09:06",
+   "11:13"
   ],
-  "produtos_feitos": 0,
-  "respostas": 46,
+  "produtos_feitos": 1,
+  "respostas": 49,
   "por_post": {
    "18059672663796327": 7,
    "18036187742666195": 5,
-   "18146591881665621": 13,
+   "18146591881665621": 15,
    "18110964131612577": 1,
-   "17918328729462329": 10,
+   "17918328729462329": 11,
    "18000103242043456": 10
   }
  },
  "posts": [
-  {
-   "id": "18062796866797092",
-   "insp": "video_903691b193",
-   "link": "",
-   "texto": "Descobri esse copo com marcador de medida e salvou meus drinks em casa. Olha como funciona 👀",
-   "quando": "2026-10-25T17:37:08.722275-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "23692977970",
-   "link_pendente": false,
-   "modo_produto": "parecido",
-   "prod_dados": {
-    "itemId": "23692977970",
-    "nome": "Geladinho Gel Fruta  com 50  P 25ml - 8 Sabores - Kiwi, Açai, Acerola, Morango, ",
-    "preco": 18.9,
-    "nota": 4.9,
-    "vendas": 59,
-    "comissao": 0.03,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-luhrhzxs6sm820",
-    "offerLink": "https://s.shopee.com.br/8KqZWLyZYw",
-    "campanha": "",
-    "modo": "parecido"
-   },
-   "metricas": {
-    "views": 203,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-31"
-   },
-   "link_coment": "https://s.shopee.com.br/8KqZWLyZYw",
-   "link_em": "2026-10-26T11:37:09.672425-04:00",
-   "link_views": 0
-  },
   {
    "id": "17984312148065698",
    "insp": "9511ce0bfa",
@@ -1093,7 +1056,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:07:45.812187-04:00",
+   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
    "metricas": {
     "views": 472,
     "likes": 12,
@@ -1111,7 +1074,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:07:45.812187-04:00",
+   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
    "metricas": {
     "views": 222,
     "likes": 3,
@@ -1152,7 +1115,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:07:45.812187-04:00",
+   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
    "metricas": {
     "views": 75,
     "likes": 2,
@@ -1202,7 +1165,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:07:45.812187-04:00",
+   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
    "metricas": {
     "views": 171,
     "likes": 2,
@@ -1243,7 +1206,7 @@
    "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
    "quando": "2026-10-30T18:37:09.390341-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:07:45.812187-04:00",
+   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
    "metricas": {
     "views": 217,
     "likes": 3,
@@ -1313,7 +1276,7 @@
    "texto": "VAMOS SER HONESTOS: a gente fala que vai descansar no fim de semana mas passa os dois dias pensando nos e-mails de segunda-feira.",
    "quando": "2026-10-30T21:07:07.889410-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:07:45.812187-04:00",
+   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
    "metricas": {
     "views": 201,
     "likes": 2,
@@ -1331,7 +1294,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já ficou sentado no carro com ele ligado só pra terminar de ouvir a música até o fim",
    "quando": "2026-10-30T22:07:08.888145-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:07:45.812187-04:00",
+   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
    "metricas": {
     "views": 429,
     "likes": 20,
@@ -1349,7 +1312,7 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro carro de vocês e quanto custou?",
    "quando": "2026-10-31T08:37:08.925713-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:07:45.812187-04:00"
+   "viral_chk": "2026-10-31T11:37:07.840633-04:00"
   },
   {
    "id": "18000103242043456",
@@ -1358,7 +1321,27 @@
    "texto": "SEJAM SINCEROS: qual é aquela conta que chega todo mês e parece que dói mais no bolso do que todas as outras?",
    "quando": "2026-10-31T09:07:09.121448-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:07:45.812187-04:00"
+   "viral_chk": "2026-10-31T11:37:07.840633-04:00"
+  },
+  {
+   "id": "18103784876381712",
+   "insp": "prod_18599882228",
+   "link": "",
+   "texto": "Sempre que alguém senta atrás no carro e reclama que a bolsa fica no chão é um sufoco, né? 😂 Descobri esse gancho duplo que prende no encosto de cabeça e resolveu minha vida, agora penduro tudo ali e o carro fica arrumadinho. Olha como funciona 👀",
+   "quando": "2026-10-31T11:37:07.840633-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "18599882228",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "18599882228",
+    "nome": "Gancho Universal Para Encosto De Cabeça De Assento De Carro-Duplo Couro Premium , Cabide De Liga Grande Com Suporte",
+    "offerLink": "https://s.shopee.com.br/3qOJ2BWkbB",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824iw-mep6hejrt3wm4d",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
@@ -4320,7 +4303,10 @@
   "18128838523845240",
   "17935245198410092",
   "18235409110322953",
-  "17960557407015724"
+  "17960557407015724",
+  "17939646171387385",
+  "17972439228193036",
+  "17954334825290355"
  ],
  "hashes": [
   "b1f4ddbf853772d0bb9254710d5dddd4",
@@ -4881,25 +4867,13 @@
   "5557f2ce6a": 1,
   "5a4f6559c6": 1,
   "c63f23746e": 1,
-  "f15f2d6647": 1
+  "f15f2d6647": 1,
+  "1fdd94a055": 1,
+  "262347e291": 1,
+  "ff71844d99": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "sem a base e a conversa junto, o dinheiro só vira motivo pra gastar sem pensar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "com certeza, falta de bom senso total com quem precisa descansar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "direcionar o carrinho de bate-bate na marra é pura adrenalina kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "quase uma aventura completa por quinze mil kkkkk",
    "p": "concorda",
@@ -5032,6 +5006,21 @@
   },
   {
    "t": "nossa, ladeira com transito pesado e o preço das coisas faz a gente questionar tudo mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "preço de outra época que hoje em dia não paga nem a metade do documento",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa sensação de controle total é o único argumento que quase faz sentido no meio do caos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sem trânsito pesado até o câmbio manual vira um passeio tranquilo",
    "p": "concorda",
    "r": 0
   }
@@ -6324,8 +6313,6 @@
    "pura verdade o"
   ],
   "18146591881665621": [
-   "fora de sp",
-   "essa economia nos",
    "cada um com",
    "quem curte o",
    "paz de espirito",
@@ -6343,7 +6330,9 @@
    "verdade no fim",
    "nossa doi mesmo",
    "direcionar o carrinho",
-   "nossa ladeira com"
+   "nossa ladeira com",
+   "essa sensacao de",
+   "sem transito pesado"
   ],
   "18101789486658584": [
    "pesado mas faz",
@@ -6404,7 +6393,8 @@
    "carro de familia",
    "seis mil hoje",
    "esse modelo marcou",
-   "essa fila de"
+   "essa fila de",
+   "preco de outra"
   ],
   "18000103242043456": [
    "essa fatura tem",
@@ -6782,7 +6772,8 @@
   "58203234670": "2026-10-30T16:07:08.967765-04:00",
   "58251910469": "2026-10-30T20:37:08.047693-04:00",
   "22292964139": "2026-10-30T22:37:07.296929-04:00",
-  "22798000771": "2026-10-31T09:07:09.121448-04:00"
+  "22798000771": "2026-10-31T09:07:09.121448-04:00",
+  "18599882228": "2026-10-31T11:37:07.840633-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
