@@ -29,7 +29,8 @@
    "13:17",
    "14:10",
    "15:47",
-   "16:32"
+   "16:32",
+   "17:18"
   ],
   "produtos_feitos": 2,
   "respostas": 75,
@@ -46,29 +47,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18112867718588328",
-   "insp": "f7a0caefa7",
-   "link": "",
-   "texto": "SEJAM SINCEROS: quanto vai do salário de vocês só pra manter o carro rodando todo mês?",
-   "quando": "2026-10-26T12:37:09.172203-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-26T18:37:08.130717-04:00",
-   "link_coment": "https://s.shopee.com.br/113zgUNmdp",
-   "meme_comentado": true,
-   "meme_views": 1032,
-   "formato_link": "coment",
-   "produto": "23993565028",
-   "metricas": {
-    "views": 1280,
-    "likes": 1,
-    "replies": 18,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-31"
-   }
-  },
   {
    "id": "17915244483494376",
    "insp": "6a712ecbe9",
@@ -1275,6 +1253,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: a gente só percebe que tem dinheiro demais parado em besteira quando decide arrumar o armário.",
    "quando": "2026-10-31T16:37:08.585338-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18119185082003862",
+   "insp": "1e650f09c7",
+   "link": "",
+   "texto": "SEJAM SINCEROS: quem aqui já stalkearam o ex depois de terminar e fingiu que foi sem querer?",
+   "quando": "2026-10-31T17:37:08.913913-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4270,7 +4256,6 @@
   "18015245453978300"
  ],
  "hashes": [
-  "bd192be1121e266310eccc3fa3eaaffa",
   "f34ca01b6710a4c885e61b681523271d",
   "9cecc2e168eef687994d5434addf9b6d",
   "9808e3443c186e81200d25d4735c78b8",
@@ -4469,7 +4454,8 @@
   "46595bcf62665c726f473d3883306798",
   "06b76aab2e19c6074249fc37dd44226b",
   "c8a2e7fa55746c6d4194c6e55c240cc8",
-  "c8f106e1058d9f383f5ac046a3920bf1"
+  "c8f106e1058d9f383f5ac046a3920bf1",
+  "db0f6a2c64d4a2b808172e0280b42bd9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4785,7 +4771,8 @@
   "d4f824d797": 1793462891.1001406,
   "74bdceb463": 1793468270.5694325,
   "2096a4fb50": 1793471856.3255594,
-  "00e682aa73": 1793479087.9723935
+  "00e682aa73": 1793479087.9723935,
+  "1e650f09c7": 1793482688.9461372
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
