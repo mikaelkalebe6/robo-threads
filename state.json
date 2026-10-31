@@ -38,7 +38,7 @@
    "19:13"
   ],
   "produtos_feitos": 2,
-  "respostas": 47,
+  "respostas": 52,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
@@ -46,8 +46,9 @@
    "18169083673482490": 1,
    "18146591881665621": 19,
    "18101789486658584": 2,
-   "18114961616605844": 2,
-   "18110964131612577": 3
+   "18114961616605844": 3,
+   "18110964131612577": 3,
+   "18036187742666195": 4
   }
  },
  "posts": [
@@ -1149,7 +1150,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
+   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1158,7 +1159,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
+   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1187,7 +1188,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
+   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1196,7 +1197,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
+   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1219,7 +1220,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
+   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
   },
   {
    "id": "18065503865623286",
@@ -1248,7 +1249,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
+   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
   },
   {
    "id": "18114961616605844",
@@ -1257,7 +1258,7 @@
    "texto": "SEM MENTIR: qual foi o maior susto financeiro de vocês no primeiro mês morando sozinhos? Aqui foi descobrir o preço real de produtos de limpeza básicos.",
    "quando": "2026-10-30T18:07:09.087198-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
+   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
   },
   {
    "id": "18110964131612577",
@@ -1266,7 +1267,7 @@
    "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
    "quando": "2026-10-30T18:37:09.390341-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
+   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
   },
   {
    "id": "18036187742666195",
@@ -1275,7 +1276,7 @@
    "texto": "OPINIÃO IMPOPULAR: Carro rebaixado com som alto na rua de madrugada não é estilo, é só falta de noção mesmo.",
    "quando": "2026-10-30T19:37:08.855943-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T19:37:08.855943-04:00"
+   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
   }
  ],
  "respondidos": [
@@ -4168,7 +4169,13 @@
   "18203904487377452",
   "17995950812847163",
   "17901949107387039",
-  "17903981652424707"
+  "17903981652424707",
+  "17881710045627462",
+  "18038935646840008",
+  "17991026988116739",
+  "18110957885264634",
+  "18102817019535116",
+  "18651708055014638"
  ],
  "hashes": [
   "9ce4a72f8e6cd55e93c78e8dcf2b767c",
@@ -4729,35 +4736,15 @@
   "09fe7ef239": 1,
   "c63f23746e": 1,
   "7e6579b1a9": 1,
-  "db407d487e": 1
+  "db407d487e": 1,
+  "aa62b9fc89": 1,
+  "a02f446929": 1,
+  "2307989de4": 1,
+  "ed1fcf8d77": 1,
+  "7e30416fdb": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "prioridades bem definidas kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "prioridades alinhadas com sucesso kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "na cidade grande realmente acaba com o joelho de qualquer um",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quando vira costume a gente nem pensa mais no que esta fazendo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "qualquer um dos dois jeitos já tira a paciência de qualquer um",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "fora do anda e para do transito pesado realmente tem seu valor kkkk",
    "p": "concorda",
@@ -4882,6 +4869,31 @@
    "t": "parece que se multiplicam sozinhos no armário kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "pior que nem é questão de gostar de som, parece que é só pra testar a paciência de todo mundo mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perfeito a leitura da vizinhança inteira kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "o gás durar oito meses compensou o susto do começo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pesado demais, o cansaço da rotina não combina com barulho de madrugada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pois é, mas pelo visto tem gente que precisa desenhar pra entender",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5899,12 +5911,6 @@
   }
  ],
  "aberturas_post": {
-  "18127401364671487": [
-   "logica implacavel fim",
-   "comida de mae",
-   "verdade banco fisico",
-   "exato fila de"
-  ],
   "18231002650327248": [
    "taxa de conversao",
    "o tinder veio"
@@ -6206,12 +6212,19 @@
   ],
   "18114961616605844": [
    "essa conta de",
-   "parece que se"
+   "parece que se",
+   "o gas durar"
   ],
   "18110964131612577": [
    "esse quadro de",
    "ver o resultado",
    "la fora parece"
+  ],
+  "18036187742666195": [
+   "pior que nem",
+   "perfeito a leitura",
+   "pesado demais o",
+   "pois e mas"
   ]
  },
  "shopee_checada": "2026-10-30|1",
