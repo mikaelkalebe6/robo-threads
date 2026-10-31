@@ -35,41 +35,24 @@
    "16:58",
    "17:50",
    "18:30",
-   "19:13"
+   "19:13",
+   "20:08"
   ],
-  "produtos_feitos": 2,
-  "respostas": 52,
+  "produtos_feitos": 3,
+  "respostas": 58,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
-   "17879211354567060": 7,
+   "17879211354567060": 8,
    "18169083673482490": 1,
-   "18146591881665621": 19,
+   "18146591881665621": 20,
    "18101789486658584": 2,
-   "18114961616605844": 3,
-   "18110964131612577": 3,
-   "18036187742666195": 4
+   "18114961616605844": 4,
+   "18110964131612577": 4,
+   "18036187742666195": 6
   }
  },
  "posts": [
-  {
-   "id": "18117071021029585",
-   "insp": "c312178704",
-   "link": "",
-   "texto": "SEM MENTIR: quem nunca passou uns minutos respirando fundo no banheiro da firma antes de voltar pra mesa que atire a primeira pedra.",
-   "quando": "2026-10-24T22:07:07.813419-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 332,
-    "likes": 3,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-30"
-   },
-   "viral_chk": "2026-10-25T10:37:09.066835-04:00"
-  },
   {
    "id": "18212638690322633",
    "insp": "60aee01b67",
@@ -1150,7 +1133,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
+   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1159,7 +1142,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
+   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1188,7 +1171,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
+   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1197,7 +1180,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
+   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1220,7 +1203,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
+   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
   },
   {
    "id": "18065503865623286",
@@ -1249,7 +1232,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
+   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
   },
   {
    "id": "18114961616605844",
@@ -1258,7 +1241,7 @@
    "texto": "SEM MENTIR: qual foi o maior susto financeiro de vocês no primeiro mês morando sozinhos? Aqui foi descobrir o preço real de produtos de limpeza básicos.",
    "quando": "2026-10-30T18:07:09.087198-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
+   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
   },
   {
    "id": "18110964131612577",
@@ -1267,7 +1250,7 @@
    "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
    "quando": "2026-10-30T18:37:09.390341-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
+   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
   },
   {
    "id": "18036187742666195",
@@ -1276,7 +1259,27 @@
    "texto": "OPINIÃO IMPOPULAR: Carro rebaixado com som alto na rua de madrugada não é estilo, é só falta de noção mesmo.",
    "quando": "2026-10-30T19:37:08.855943-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T20:07:09.112221-04:00"
+   "viral_chk": "2026-10-30T20:37:08.047693-04:00"
+  },
+  {
+   "id": "18098954417556263",
+   "insp": "prod_58251910469",
+   "link": "",
+   "texto": "Sair com o carro cheio e a bolsa caíndo no banco de trás é dose, né? Descobri esse ganchinho duplo de couro pro encosto de cabeça que resolveu minha vida, agora penduro tudo ali e fica zero bagunça. Olha como funciona 👀",
+   "quando": "2026-10-30T20:37:08.047693-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "58251910469",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "58251910469",
+    "nome": "Gancho Universal Para Encosto De Cabeça De Assento De Carro-Duplo Couro Premium Cabide De Liga Grande Com Suporte ZEM",
+    "offerLink": "https://s.shopee.com.br/2BG3SD7VMM",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mnlvz7q90pvk5c",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
@@ -4175,7 +4178,13 @@
   "17991026988116739",
   "18110957885264634",
   "18102817019535116",
-  "18651708055014638"
+  "18651708055014638",
+  "18140525371616565",
+  "18040261253844919",
+  "18135745873773440",
+  "17932671918161402",
+  "18421386547152565",
+  "18006727862990231"
  ],
  "hashes": [
   "9ce4a72f8e6cd55e93c78e8dcf2b767c",
@@ -4741,40 +4750,16 @@
   "a02f446929": 1,
   "2307989de4": 1,
   "ed1fcf8d77": 1,
-  "7e30416fdb": 1
+  "7e30416fdb": 1,
+  "3bfb14701f": 1,
+  "5cb4040ec7": 1,
+  "493ca358b6": 1,
+  "125092fe84": 1,
+  "d77d8066ee": 1,
+  "0587727a3d": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "fora do anda e para do transito pesado realmente tem seu valor kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justo, a realidade do preço do automático pesa muito nessa escolha",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "marginal na sexta feira com câmbio manual é teste de paciência nível extremo kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "essa vantagem secreta é bem específica kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "gosto é um negócio curioso mesmo kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sábia decisão, ninguém merece sofrer à toa no trânsito",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse incômodo com o start-stop realmente faz sentido kkk",
    "p": "concorda",
@@ -4892,6 +4877,36 @@
   },
   {
    "t": "pois é, mas pelo visto tem gente que precisa desenhar pra entender",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "colocar na caixinha é um jeito bem prático de ver o dinheiro rendendo ou sumindo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "imagino, quando junta tudo parece que o mundo desaba de uma vez só",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o preço do amor na adolescência era alto demais kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "exatamente, perdeu totalmente o senso de convivência",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "provolone à milanesa deveria contar como item de sobrevivência",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exato, no dia a dia a gente só quer chegar em casa inteira sem dor no pé esquerdo",
    "p": "concorda",
    "r": 0
   }
@@ -6180,7 +6195,8 @@
    "prioridades bem definidas",
    "prioridades alinhadas com",
    "justo pizzaria e",
-   "foco total no"
+   "foco total no",
+   "provolone a milanesa"
   ],
   "18169083673482490": [
    "pura verdade o"
@@ -6204,7 +6220,8 @@
    "cada um com",
    "quem curte o",
    "paz de espirito",
-   "faz sentido antigamente"
+   "faz sentido antigamente",
+   "exato no dia"
   ],
   "18101789486658584": [
    "pesado mas faz",
@@ -6213,18 +6230,22 @@
   "18114961616605844": [
    "essa conta de",
    "parece que se",
-   "o gas durar"
+   "o gas durar",
+   "imagino quando junta"
   ],
   "18110964131612577": [
    "esse quadro de",
    "ver o resultado",
-   "la fora parece"
+   "la fora parece",
+   "colocar na caixinha"
   ],
   "18036187742666195": [
    "pior que nem",
    "perfeito a leitura",
    "pesado demais o",
-   "pois e mas"
+   "pois e mas",
+   "o preco do",
+   "exatamente perdeu totalmente"
   ]
  },
  "shopee_checada": "2026-10-30|1",
@@ -6617,7 +6638,8 @@
   "23593906892": "2026-10-29T11:37:08.878649-04:00",
   "22894012277": "2026-10-29T20:07:09.063415-04:00",
   "23094546288": "2026-10-30T16:07:08.967765-04:00",
-  "58203234670": "2026-10-30T16:07:08.967765-04:00"
+  "58203234670": "2026-10-30T16:07:08.967765-04:00",
+  "58251910469": "2026-10-30T20:37:08.047693-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
