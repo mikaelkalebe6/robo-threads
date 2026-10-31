@@ -31,10 +31,11 @@
    "15:47",
    "16:32",
    "17:18",
-   "17:58"
+   "17:58",
+   "19:05"
   ],
-  "produtos_feitos": 2,
-  "respostas": 82,
+  "produtos_feitos": 3,
+  "respostas": 83,
   "por_post": {
    "18059672663796327": 11,
    "18036187742666195": 6,
@@ -45,29 +46,11 @@
    "18106825157572440": 9,
    "18010950449778561": 7,
    "18153105085554734": 1,
-   "18119185082003862": 4,
+   "18119185082003862": 5,
    "18135924433780729": 1
   }
  },
  "posts": [
-  {
-   "id": "17899714413398695",
-   "insp": "3473fe5200",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: homem de verdade tem que ter pelo, essa moda de depilação total não dá. Prefiro os naturais ou só aparadinho.",
-   "quando": "2026-10-26T15:37:10.897289-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T10:37:09.236130-04:00",
-   "metricas": {
-    "views": 108,
-    "likes": 1,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-31"
-   }
-  },
   {
    "id": "17966603040208636",
    "insp": "video_6dee727fa0",
@@ -1250,6 +1233,26 @@
    "texto": "VAMOS SER HONESTOS: o jogo que antes me fazia faltar aula hoje é o único motivo pelo qual eu acordo cansada no dia seguinte.",
    "quando": "2026-10-31T18:07:09.719720-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17961943710229960",
+   "insp": "prod_23198658411",
+   "link": "",
+   "texto": "Carterinha cheia que rasga o bolso da calça é dose, né? 😂 Descobri essa de couro sintético que é super fina e cabe tudo sem fazer volume, olha como funciona 👀",
+   "quando": "2026-10-31T19:07:07.663991-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "23198658411",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "23198658411",
+    "nome": "Carteira Masculina Couro P.U Lisa.",
+    "offerLink": "https://s.shopee.com.br/8AXIC8xgup",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgr21ik9cvlsea",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
@@ -4248,7 +4251,8 @@
   "18110751074620813",
   "17930299596182453",
   "17903038068671776",
-  "18082442870369645"
+  "18082442870369645",
+  "18095143253173101"
  ],
  "hashes": [
   "9cecc2e168eef687994d5434addf9b6d",
@@ -4847,15 +4851,11 @@
   "e56539d792": 1,
   "25752609e6": 1,
   "9a29b96b2d": 1,
-  "dd9269ced5": 1
+  "dd9269ced5": 1,
+  "2ba050da11": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "esse clássico aí já viu muita história na rua",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "comparacao perfeita, depois que acostuma com a comodidade não tem volta",
    "p": "concorda",
@@ -5000,6 +5000,11 @@
    "t": "final de semana é perigoso mesmo, a cabeça insiste em dar uma olhada",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "perfil privado é o teste final de paciência e autocontrole kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6360,7 +6365,8 @@
    "amigos da fofoca",
    "sorte a sua",
    "sa decisao a",
-   "final de semana"
+   "final de semana",
+   "perfil privado e"
   ],
   "18135924433780729": [
    "o arrependimento so"
@@ -6662,7 +6668,7 @@
   "48514950250": "2026-10-15T13:37:11.018564-04:00",
   "53108597653": "2026-10-15T19:37:08.210002-04:00",
   "21897981655": "2026-10-16T11:07:09.333086-04:00",
-  "23198658411": "2026-10-16T18:37:09.135500-04:00",
+  "23198658411": "2026-10-31T19:07:07.663991-04:00",
   "14448900266": "2026-10-16T21:37:07.021297-04:00",
   "18599879164": "2026-10-31T16:07:08.538336-04:00",
   "22694227037": "2026-10-17T12:07:07.816065-04:00",
