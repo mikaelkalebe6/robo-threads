@@ -30,7 +30,7 @@
    "14:10"
   ],
   "produtos_feitos": 1,
-  "respostas": 67,
+  "respostas": 69,
   "por_post": {
    "18059672663796327": 9,
    "18036187742666195": 6,
@@ -38,7 +38,8 @@
    "18110964131612577": 1,
    "17918328729462329": 14,
    "18000103242043456": 10,
-   "18106825157572440": 9
+   "18106825157572440": 9,
+   "18010950449778561": 2
   }
  },
  "posts": [
@@ -4288,7 +4289,9 @@
   "18107973773628259",
   "18130782913874425",
   "18109019606627428",
-  "18445113013182325"
+  "18445113013182325",
+  "17995595961073868",
+  "17999921043003047"
  ],
  "hashes": [
   "9b286df994d04d2fd18b81b6045a74d0",
@@ -4822,7 +4825,7 @@
   "7bff742a55": 1,
   "bb4b4e5374": 1,
   "3b8f2dac29": 1,
-  "ccb24e1863": 1,
+  "ccb24e1863": 2,
   "bf49a80461": 1,
   "0521dbc115": 2,
   "1d0e14d1ad": 1,
@@ -4871,20 +4874,11 @@
   "05f2b34d8e": 1,
   "b0d482e586": 1,
   "f5562bf7f8": 1,
-  "82d123d164": 1
+  "82d123d164": 1,
+  "ee1705420f": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "carro de família que já vem rodando é o melhor começo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse todo mês chega cobrando o dobro só pra testar a nossa saúde mental",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "seis mil hoje em dia não compra nem o retrovisor kkk",
    "p": "concorda",
@@ -5022,6 +5016,16 @@
   },
   {
    "t": "literalmente uma vacina ambulante kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pois é, mas tem gente que insiste em fingir que não vê kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "aí entra direto como crime inafiançável kkkkkk",
    "p": "concorda",
    "r": 2
   }
@@ -6076,18 +6080,6 @@
   }
  ],
  "aberturas_post": {
-  "18110358517935855": [
-   "o kit completo",
-   "essa frase ta",
-   "a lei da",
-   "ah ja to",
-   "mudou o personagem",
-   "justo melhor preservar",
-   "o classico ultimato",
-   "o panico instaurado",
-   "a saliva salvando",
-   "essa blusa na"
-  ],
   "18092170271676483": [
    "crianca decide a",
    "a ilusao de",
@@ -6423,6 +6415,10 @@
    "para rodar so",
    "passar raiva com",
    "ter onde carregar"
+  ],
+  "18010950449778561": [
+   "pois e mas",
+   "ai entra direto"
   ]
  },
  "shopee_checada": "2026-10-31|1",
