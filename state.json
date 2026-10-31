@@ -41,7 +41,7 @@
    "22:00"
   ],
   "produtos_feitos": 3,
-  "respostas": 68,
+  "respostas": 69,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
@@ -52,7 +52,7 @@
    "18114961616605844": 7,
    "18110964131612577": 4,
    "18036187742666195": 10,
-   "18059672663796327": 2
+   "18059672663796327": 3
   }
  },
  "posts": [
@@ -4164,7 +4164,8 @@
   "18129607381889328",
   "18391638715232182",
   "18049528943819947",
-  "18003899825806907"
+  "18003899825806907",
+  "18135769945598477"
  ],
  "hashes": [
   "976fd840ef15f9ca98a707d8e7eb721e",
@@ -4704,7 +4705,7 @@
   "1f0c0455da": 1,
   "4a3ac93149": 1,
   "b22f7e3b1e": 1,
-  "e20648eb78": 1,
+  "e20648eb78": 2,
   "5eaec24133": 1,
   "6e2ab4a5c2": 1,
   "0dc3a2f405": 1,
@@ -4751,11 +4752,6 @@
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "justiça seja feita para quem preparou com tanto carinho kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "justo, pizzaria e restaurante têm outro peso na missão",
    "p": "concorda",
@@ -4900,6 +4896,11 @@
    "t": "inevitável, a música sempre ganha kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "perde o horário mas não perde o finalzinho da faixa kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6249,7 +6250,8 @@
   ],
   "18059672663796327": [
    "duas ou mais",
-   "inevitavel a musica"
+   "inevitavel a musica",
+   "perde o horario"
   ]
  },
  "shopee_checada": "2026-10-30|1",
