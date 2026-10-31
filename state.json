@@ -23,11 +23,11 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 12,
   "por_post": {
    "18059672663796327": 1,
    "18036187742666195": 2,
-   "18146591881665621": 3
+   "18146591881665621": 9
   }
  },
  "posts": [
@@ -1055,7 +1055,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T07:07:08.775010-04:00",
+   "viral_chk": "2026-10-31T07:37:07.962698-04:00",
    "metricas": {
     "views": 427,
     "likes": 8,
@@ -1073,7 +1073,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T07:07:08.775010-04:00",
+   "viral_chk": "2026-10-31T07:37:07.962698-04:00",
    "metricas": {
     "views": 45,
     "likes": 1,
@@ -1123,7 +1123,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T07:07:08.775010-04:00",
+   "viral_chk": "2026-10-31T07:37:07.962698-04:00",
    "metricas": {
     "views": 472,
     "likes": 12,
@@ -1141,7 +1141,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T07:07:08.775010-04:00",
+   "viral_chk": "2026-10-31T07:37:07.962698-04:00",
    "metricas": {
     "views": 222,
     "likes": 3,
@@ -1182,7 +1182,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T07:07:08.775010-04:00",
+   "viral_chk": "2026-10-31T07:37:07.962698-04:00",
    "metricas": {
     "views": 75,
     "likes": 2,
@@ -1229,7 +1229,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T07:07:08.775010-04:00",
+   "viral_chk": "2026-10-31T07:37:07.962698-04:00",
    "metricas": {
     "views": 171,
     "likes": 2,
@@ -1247,7 +1247,7 @@
    "texto": "SEM MENTIR: qual foi o maior susto financeiro de vocês no primeiro mês morando sozinhos? Aqui foi descobrir o preço real de produtos de limpeza básicos.",
    "quando": "2026-10-30T18:07:09.087198-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T07:07:08.775010-04:00",
+   "viral_chk": "2026-10-31T07:37:07.962698-04:00",
    "metricas": {
     "views": 960,
     "likes": 8,
@@ -1265,7 +1265,7 @@
    "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
    "quando": "2026-10-30T18:37:09.390341-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T07:07:08.775010-04:00",
+   "viral_chk": "2026-10-31T07:37:07.962698-04:00",
    "metricas": {
     "views": 217,
     "likes": 3,
@@ -1335,7 +1335,7 @@
    "texto": "VAMOS SER HONESTOS: a gente fala que vai descansar no fim de semana mas passa os dois dias pensando nos e-mails de segunda-feira.",
    "quando": "2026-10-30T21:07:07.889410-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T07:07:08.775010-04:00",
+   "viral_chk": "2026-10-31T07:37:07.962698-04:00",
    "metricas": {
     "views": 201,
     "likes": 2,
@@ -1353,7 +1353,7 @@
    "texto": "VAMOS CONCORDAR: quem mais já ficou sentado no carro com ele ligado só pra terminar de ouvir a música até o fim",
    "quando": "2026-10-30T22:07:08.888145-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T07:07:08.775010-04:00",
+   "viral_chk": "2026-10-31T07:37:07.962698-04:00",
    "metricas": {
     "views": 429,
     "likes": 20,
@@ -4284,7 +4284,13 @@
   "18146950798568190",
   "18046169255628527",
   "18143286118720656",
-  "18132223168693834"
+  "18132223168693834",
+  "18117702227013209",
+  "18248224726314946",
+  "18012820283977801",
+  "17989433882880816",
+  "18120772391066723",
+  "17915352276544643"
  ],
  "hashes": [
   "976fd840ef15f9ca98a707d8e7eb721e",
@@ -4807,40 +4813,16 @@
   "7fd584a5a9": 1,
   "79d3c65ce7": 1,
   "1211297976": 1,
-  "395f58b6f1": 1
+  "395f58b6f1": 1,
+  "30eafb3f9b": 1,
+  "3ca1a9f70d": 1,
+  "e6de82a04c": 1,
+  "7bff742a55": 1,
+  "bb4b4e5374": 1,
+  "3b8f2dac29": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "lá fora parece que funciona mais na base do trabalho doméstico né",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "parece que se multiplicam sozinhos no armário kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pior que nem é questão de gostar de som, parece que é só pra testar a paciência de todo mundo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perfeito a leitura da vizinhança inteira kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "o gás durar oito meses compensou o susto do começo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pesado demais, o cansaço da rotina não combina com barulho de madrugada",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pois é, mas pelo visto tem gente que precisa desenhar pra entender",
    "p": "concorda",
@@ -4958,6 +4940,36 @@
   },
   {
    "t": "economia no fim do mês faz qualquer dor de cabeça no trânsito valer a pena",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pior que no fim das contas a carteira é quem decide por a gente kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "fugir do horário de pico é a melhor forma de manter o gosto pelo manual vivo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "conta matemática forte, o boleto da manutenção assusta bem mais que o pedal extra",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "O manual costuma ser mais barato, mas depende do modelo e da concessionária",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "justo, paz de espirito no trânsito vale mais que qualquer hábito antigo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "é, a manutenção sai mais barata, mas o orgulho ainda pesa",
    "p": "concorda",
    "r": 0
   }
@@ -6265,12 +6277,6 @@
    "pura verdade o"
   ],
   "18146591881665621": [
-   "fora do anda",
-   "justo a realidade",
-   "marginal na sexta",
-   "essa vantagem secreta",
-   "gosto e um",
-   "sabia decisao ninguem",
    "esse incomodo com",
    "essa conta na",
    "esse argumento financeiro",
@@ -6284,7 +6290,13 @@
    "exato no dia",
    "justo o melhor",
    "ter o diarista",
-   "economia no fim"
+   "economia no fim",
+   "pior que no",
+   "fugir do horario",
+   "conta matematica forte",
+   "o manual costuma",
+   "justo paz de",
+   "e a manutencao"
   ],
   "18101789486658584": [
    "pesado mas faz",
