@@ -27,10 +27,11 @@
    "11:13",
    "11:55",
    "13:17",
-   "14:10"
+   "14:10",
+   "15:47"
   ],
-  "produtos_feitos": 1,
-  "respostas": 73,
+  "produtos_feitos": 2,
+  "respostas": 74,
   "por_post": {
    "18059672663796327": 10,
    "18036187742666195": 6,
@@ -39,33 +40,10 @@
    "17918328729462329": 14,
    "18000103242043456": 10,
    "18106825157572440": 9,
-   "18010950449778561": 5
+   "18010950449778561": 6
   }
  },
  "posts": [
-  {
-   "id": "18153545164531054",
-   "insp": "fc5634c543",
-   "link": "",
-   "texto": "ME CONTA: qual frase da sua mãe você jurou que nunca ia falar e hoje repete sem pensar?",
-   "quando": "2026-10-26T09:07:09.983617-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T07:07:08.968014-04:00",
-   "metricas": {
-    "views": 1126,
-    "likes": 6,
-    "replies": 27,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-31"
-   },
-   "link_coment": "https://s.shopee.com.br/906Io5bu2u",
-   "meme_comentado": true,
-   "meme_views": 1078,
-   "formato_link": "coment",
-   "produto": "58261620022"
-  },
   {
    "id": "17864529744696991",
    "insp": "video_f1a247bce9",
@@ -1306,6 +1284,26 @@
    "texto": "OPINIÃO IMPOPULAR: marca reunião de sexta às cinco da tarde deveria ser considerada infração trabalhista grave.",
    "quando": "2026-10-31T14:37:08.779447-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18092331779226608",
+   "insp": "prod_18599879164",
+   "link": "",
+   "texto": "Viajar e ficar paranóica cuidando da carteira e do celular é horrível, né? 😂 Descobri essa doleira antifurto que vai por baixo da roupa e salva muito nos passeios, dá pra guardar tudo sem preocupação. Olha como fica discreta 👀",
+   "quando": "2026-10-31T16:07:08.538336-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "18599879164",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "18599879164",
+    "nome": "3/2/1 PCS Pochete Doleira Antifurto Nylon Impermeável Porta Celular Dinheiro Segurança Viagem Corrida Academia",
+    "offerLink": "https://s.shopee.com.br/4VdzpP7BK7",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repa-mdv3544s8w65bd",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
@@ -4295,7 +4293,8 @@
   "18165149317526136",
   "17878879113572815",
   "18085118516708189",
-  "18224670517340199"
+  "18224670517340199",
+  "17937026754406703"
  ],
  "hashes": [
   "9b286df994d04d2fd18b81b6045a74d0",
@@ -4883,15 +4882,11 @@
   "af86f82800": 1,
   "20f0d66806": 1,
   "088bf3dbca": 1,
-  "6d80b45d15": 1
+  "6d80b45d15": 1,
+  "dd256ade98": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "esse modelo marcou época, era o terror dos postos de gasolina",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa fila de modelos passou por muita história kkkkk",
    "p": "concorda",
@@ -5036,6 +5031,11 @@
    "t": "coreografia completa antes de sair do carro é obrigatória",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "com certeza, deu cinco e meia a porta tem que estar aberta kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6430,7 +6430,8 @@
    "ai entra direto",
    "fez mais que",
    "isso ja entra",
-   "economia de tempo"
+   "economia de tempo",
+   "com certeza deu"
   ]
  },
  "shopee_checada": "2026-10-31|1",
@@ -6731,7 +6732,7 @@
   "21897981655": "2026-10-16T11:07:09.333086-04:00",
   "23198658411": "2026-10-16T18:37:09.135500-04:00",
   "14448900266": "2026-10-16T21:37:07.021297-04:00",
-  "18599879164": "2026-10-17T10:37:08.174176-04:00",
+  "18599879164": "2026-10-31T16:07:08.538336-04:00",
   "22694227037": "2026-10-17T12:07:07.816065-04:00",
   "14065340258": "2026-10-17T15:37:07.980428-04:00",
   "58255737985": "2026-10-17T21:37:08.255141-04:00",
