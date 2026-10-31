@@ -30,46 +30,25 @@
    "14:10",
    "15:47",
    "16:32",
-   "17:18"
+   "17:18",
+   "17:58"
   ],
   "produtos_feitos": 2,
-  "respostas": 75,
+  "respostas": 78,
   "por_post": {
-   "18059672663796327": 10,
+   "18059672663796327": 11,
    "18036187742666195": 6,
    "18146591881665621": 18,
    "18110964131612577": 1,
    "17918328729462329": 14,
    "18000103242043456": 10,
    "18106825157572440": 9,
-   "18010950449778561": 6,
-   "18153105085554734": 1
+   "18010950449778561": 7,
+   "18153105085554734": 1,
+   "18119185082003862": 1
   }
  },
  "posts": [
-  {
-   "id": "17915244483494376",
-   "insp": "6a712ecbe9",
-   "link": "",
-   "texto": "ME CONTA: já aceitou um encontro só porque a fome bateu? 🍽️",
-   "quando": "2026-10-26T13:07:10.868404-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "viral_chk": "2026-10-26T16:07:08.888672-04:00",
-   "link_coment": "https://s.shopee.com.br/3LRv3otaC0",
-   "meme_comentado": true,
-   "meme_views": 1095,
-   "formato_link": "coment",
-   "produto": "58264465671",
-   "metricas": {
-    "views": 3615,
-    "likes": 42,
-    "replies": 86,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-10-31"
-   }
-  },
   {
    "id": "17899714413398695",
    "insp": "3473fe5200",
@@ -1261,6 +1240,14 @@
    "link": "",
    "texto": "SEJAM SINCEROS: quem aqui já stalkearam o ex depois de terminar e fingiu que foi sem querer?",
    "quando": "2026-10-31T17:37:08.913913-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18135924433780729",
+   "insp": "1fa67b78db",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: o jogo que antes me fazia faltar aula hoje é o único motivo pelo qual eu acordo cansada no dia seguinte.",
+   "quando": "2026-10-31T18:07:09.719720-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4253,10 +4240,12 @@
   "18085118516708189",
   "18224670517340199",
   "17937026754406703",
-  "18015245453978300"
+  "18015245453978300",
+  "17910034887327104",
+  "18084484403707311",
+  "17932564344162291"
  ],
  "hashes": [
-  "f34ca01b6710a4c885e61b681523271d",
   "9cecc2e168eef687994d5434addf9b6d",
   "9808e3443c186e81200d25d4735c78b8",
   "a3180cc9e6c15e83e86a403dc10fbead",
@@ -4455,7 +4444,8 @@
   "06b76aab2e19c6074249fc37dd44226b",
   "c8a2e7fa55746c6d4194c6e55c240cc8",
   "c8f106e1058d9f383f5ac046a3920bf1",
-  "db0f6a2c64d4a2b808172e0280b42bd9"
+  "db0f6a2c64d4a2b808172e0280b42bd9",
+  "1cbc33ea3f353808f8aecc3d59ed9541"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4772,7 +4762,8 @@
   "74bdceb463": 1793468270.5694325,
   "2096a4fb50": 1793471856.3255594,
   "00e682aa73": 1793479087.9723935,
-  "1e650f09c7": 1793482688.9461372
+  "1e650f09c7": 1793482688.9461372,
+  "1fa67b78db": 1793484448.2494302
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4845,25 +4836,13 @@
   "088bf3dbca": 1,
   "6d80b45d15": 1,
   "dd256ade98": 1,
-  "e9d0d75949": 1
+  "e9d0d75949": 1,
+  "23a3023217": 1,
+  "3a4f6eb0bb": 1,
+  "e56539d792": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "nossa, ladeira com transito pesado e o preço das coisas faz a gente questionar tudo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "preço de outra época que hoje em dia não paga nem a metade do documento",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa sensação de controle total é o único argumento que quase faz sentido no meio do caos",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "sem trânsito pesado até o câmbio manual vira um passeio tranquilo",
    "p": "concorda",
@@ -4998,6 +4977,21 @@
    "t": "quando a gente vê já tem um estoque de coisas que nem lembrava que existiam",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "amigos da fofoca é o melhor título de respeito kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "literalmente tentativa de homicídio contra o descanso de todo mundo kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "perde a diversão técnica mas ganha a bateria inteira kkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6050,18 +6044,6 @@
   }
  ],
  "aberturas_post": {
-  "17912121543489279": [
-   "sinceridade pura e",
-   "acordo de cavalheiros",
-   "estrategia preventiva de",
-   "filosofia de vida",
-   "as vezes a",
-   "kit completo de",
-   "pelo menos elimina",
-   "tecnologia sendo usada",
-   "tolerancia zero para",
-   "padrao de sobrevivencia"
-  ],
   "17913815520480885": [
    "quando a rotina",
    "perder peso e",
@@ -6334,7 +6316,8 @@
    "bom demais quando",
    "inevitavel desligar o",
    "dificil sair do",
-   "coreografia completa antes"
+   "coreografia completa antes",
+   "perde a diversao"
   ],
   "17918328729462329": [
    "quase uma aventura",
@@ -6381,10 +6364,14 @@
    "fez mais que",
    "isso ja entra",
    "economia de tempo",
-   "com certeza deu"
+   "com certeza deu",
+   "literalmente tentativa de"
   ],
   "18153105085554734": [
    "quando a gente"
+  ],
+  "18119185082003862": [
+   "amigos da fofoca"
   ]
  },
  "shopee_checada": "2026-10-31|1",
