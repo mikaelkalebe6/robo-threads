@@ -29,14 +29,15 @@
    "13:17"
   ],
   "produtos_feitos": 1,
-  "respostas": 56,
+  "respostas": 61,
   "por_post": {
    "18059672663796327": 8,
    "18036187742666195": 6,
    "18146591881665621": 18,
    "18110964131612577": 1,
    "17918328729462329": 13,
-   "18000103242043456": 10
+   "18000103242043456": 10,
+   "18106825157572440": 5
   }
  },
  "posts": [
@@ -4282,7 +4283,12 @@
   "17914105242491191",
   "18114240401173498",
   "18021720002956788",
-  "18133933231667683"
+  "18133933231667683",
+  "17886460977512104",
+  "17918167329262214",
+  "18495921436105577",
+  "18641389774015546",
+  "18109089104524936"
  ],
  "hashes": [
   "ca3be7acfd34977077d6e2d1f5b9bd48",
@@ -4843,7 +4849,7 @@
   "1894271163": 1,
   "385afd1a7c": 1,
   "5557f2ce6a": 1,
-  "5a4f6559c6": 1,
+  "5a4f6559c6": 2,
   "c63f23746e": 1,
   "f15f2d6647": 1,
   "1fdd94a055": 1,
@@ -4855,35 +4861,14 @@
   "ddf0ca57a8": 1,
   "f17e4e517d": 1,
   "447eea892b": 1,
-  "4246f568f3": 1
+  "4246f568f3": 1,
+  "d3f21041a1": 1,
+  "748e109c8c": 1,
+  "e1fc991990": 1,
+  "a967292c8e": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "pagar caro por um serviço ruim e pior do que pagar normal",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "férias parecem otimas até a fatura chegar junto com a saudade kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "verdade, agora a gasolina faz a gente calcular cada acorde",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nem fala, quando o dinheiro acaba o jeito é escolher qual boleto vai esperar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos a energia elétrica não reclama da nossa paciência",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "melhor jeito de fechar a viagem",
    "p": "concorda",
@@ -5008,6 +4993,31 @@
    "t": "depois que a tecnologia entra na rotina ninguém quer voltar pra trás kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "economia e carro novo é bom demais pra ignorar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, o híbrido acaba salvando quem não quer ficar preso na estrada procurando tomada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "para o dia a dia parece ótimo mesmo, o problema é planejar estrada sem sofrimento",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o hibrido tira a pressao de ter que achar tomada no meio do caminho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dois pontos que pesam na decisão e fazem qualquer um pensar duas vezes",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6055,18 +6065,6 @@
   }
  ],
  "aberturas_post": {
-  "17959658355013450": [
-   "autonomia financeira e",
-   "pesou os custos",
-   "justo o contexto",
-   "dignidade nao tem",
-   "trabalho dobrado para",
-   "dinheiro nenhum compra",
-   "abastecer o gol",
-   "conviccao inabalavel e",
-   "paz de espirito",
-   "pobre traumatiza a"
-  ],
   "18110358517935855": [
    "o kit completo",
    "essa frase ta",
@@ -6401,6 +6399,13 @@
    "esse todo mes",
    "essa fatura parece",
    "imagina a surpresa"
+  ],
+  "18106825157572440": [
+   "economia e carro",
+   "verdade o hibrido",
+   "para o dia",
+   "o hibrido tira",
+   "dois pontos que"
   ]
  },
  "shopee_checada": "2026-10-31|1",
