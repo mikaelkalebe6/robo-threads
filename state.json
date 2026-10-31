@@ -32,7 +32,7 @@
    "16:32"
   ],
   "produtos_feitos": 2,
-  "respostas": 74,
+  "respostas": 75,
   "por_post": {
    "18059672663796327": 10,
    "18036187742666195": 6,
@@ -41,7 +41,8 @@
    "17918328729462329": 14,
    "18000103242043456": 10,
    "18106825157572440": 9,
-   "18010950449778561": 6
+   "18010950449778561": 6,
+   "18153105085554734": 1
   }
  },
  "posts": [
@@ -4265,7 +4266,8 @@
   "17878879113572815",
   "18085118516708189",
   "18224670517340199",
-  "17937026754406703"
+  "17937026754406703",
+  "18015245453978300"
  ],
  "hashes": [
   "bd192be1121e266310eccc3fa3eaaffa",
@@ -4855,15 +4857,11 @@
   "20f0d66806": 1,
   "088bf3dbca": 1,
   "6d80b45d15": 1,
-  "dd256ade98": 1
+  "dd256ade98": 1,
+  "e9d0d75949": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "essa fila de modelos passou por muita história kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "nossa, ladeira com transito pesado e o preço das coisas faz a gente questionar tudo mesmo",
    "p": "concorda",
@@ -5008,6 +5006,11 @@
    "t": "com certeza, deu cinco e meia a porta tem que estar aberta kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "quando a gente vê já tem um estoque de coisas que nem lembrava que existiam",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6060,18 +6063,6 @@
   }
  ],
  "aberturas_post": {
-  "18092170271676483": [
-   "crianca decide a",
-   "a ilusao de",
-   "dois grandes classicos",
-   "categoria inteira que",
-   "ansiedade de mae",
-   "promessa de milagre",
-   "essa cama improvisada",
-   "dinheiro jogado fora",
-   "poxa eu tambem",
-   "equipamento recusado com"
-  ],
   "17912121543489279": [
    "sinceridade pura e",
    "acordo de cavalheiros",
@@ -6404,6 +6395,9 @@
    "isso ja entra",
    "economia de tempo",
    "com certeza deu"
+  ],
+  "18153105085554734": [
+   "quando a gente"
   ]
  },
  "shopee_checada": "2026-10-31|1",
