@@ -28,13 +28,13 @@
    "11:55"
   ],
   "produtos_feitos": 1,
-  "respostas": 52,
+  "respostas": 54,
   "por_post": {
    "18059672663796327": 8,
    "18036187742666195": 6,
-   "18146591881665621": 16,
+   "18146591881665621": 17,
    "18110964131612577": 1,
-   "17918328729462329": 11,
+   "17918328729462329": 12,
    "18000103242043456": 10
   }
  },
@@ -4307,7 +4307,9 @@
   "18172277602461070",
   "18018735785745564",
   "18102487238562392",
-  "18026940398876677"
+  "18026940398876677",
+  "17914105242491191",
+  "18114240401173498"
  ],
  "hashes": [
   "abb98f9fe199fc4b91d4d23dd9515c7d",
@@ -4875,20 +4877,12 @@
   "ff71844d99": 1,
   "c039a9c724": 1,
   "14ea04bde2": 1,
-  "80fec17794": 1
+  "80fec17794": 1,
+  "ddf0ca57a8": 1,
+  "f17e4e517d": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "todo dia é dia de ignorar o relógio por causa de música boa kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "medo de declarar até o carrinho de brinquedo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "esse veio recheado e com preço de carro novo kkk",
    "p": "ressalva",
@@ -5028,6 +5022,16 @@
    "t": "inevitável desligar o motor antes da música acabar kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse clássico aí já viu muita história na rua",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "comparacao perfeita, depois que acostuma com a comodidade não tem volta",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6323,7 +6327,6 @@
    "pura verdade o"
   ],
   "18146591881665621": [
-   "quem curte o",
    "paz de espirito",
    "faz sentido antigamente",
    "exato no dia",
@@ -6342,7 +6345,8 @@
    "nossa ladeira com",
    "essa sensacao de",
    "sem transito pesado",
-   "o peso no"
+   "o peso no",
+   "comparacao perfeita depois"
   ],
   "18101789486658584": [
    "pesado mas faz",
@@ -6406,7 +6410,8 @@
    "seis mil hoje",
    "esse modelo marcou",
    "essa fila de",
-   "preco de outra"
+   "preco de outra",
+   "esse classico ai"
   ],
   "18000103242043456": [
    "essa fatura tem",
