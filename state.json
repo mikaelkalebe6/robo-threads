@@ -40,7 +40,7 @@
    "20:55"
   ],
   "produtos_feitos": 3,
-  "respostas": 60,
+  "respostas": 64,
   "por_post": {
    "17966524512249358": 2,
    "17918797707464737": 11,
@@ -48,9 +48,9 @@
    "18169083673482490": 1,
    "18146591881665621": 20,
    "18101789486658584": 2,
-   "18114961616605844": 4,
+   "18114961616605844": 7,
    "18110964131612577": 4,
-   "18036187742666195": 7
+   "18036187742666195": 8
   }
  },
  "posts": [
@@ -1116,7 +1116,7 @@
    "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
    "quando": "2026-10-30T09:07:14.081908-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
+   "viral_chk": "2026-10-30T21:37:08.193581-04:00"
   },
   {
    "id": "18057754298578764",
@@ -1125,7 +1125,7 @@
    "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
    "quando": "2026-10-30T10:07:08.504351-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
+   "viral_chk": "2026-10-30T21:37:08.193581-04:00"
   },
   {
    "id": "18052766636814296",
@@ -1154,7 +1154,7 @@
    "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
    "quando": "2026-10-30T12:07:08.801073-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
+   "viral_chk": "2026-10-30T21:37:08.193581-04:00"
   },
   {
    "id": "18169083673482490",
@@ -1163,7 +1163,7 @@
    "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
    "quando": "2026-10-30T13:07:09.391508-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
+   "viral_chk": "2026-10-30T21:37:08.193581-04:00"
   },
   {
    "id": "18146591881665621",
@@ -1186,7 +1186,7 @@
    "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
    "quando": "2026-10-30T14:37:07.402126-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
+   "viral_chk": "2026-10-30T21:37:08.193581-04:00"
   },
   {
    "id": "18065503865623286",
@@ -1215,7 +1215,7 @@
    "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
    "quando": "2026-10-30T17:07:09.021132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
+   "viral_chk": "2026-10-30T21:37:08.193581-04:00"
   },
   {
    "id": "18114961616605844",
@@ -1224,7 +1224,7 @@
    "texto": "SEM MENTIR: qual foi o maior susto financeiro de vocês no primeiro mês morando sozinhos? Aqui foi descobrir o preço real de produtos de limpeza básicos.",
    "quando": "2026-10-30T18:07:09.087198-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
+   "viral_chk": "2026-10-30T21:37:08.193581-04:00"
   },
   {
    "id": "18110964131612577",
@@ -1233,7 +1233,7 @@
    "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
    "quando": "2026-10-30T18:37:09.390341-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
+   "viral_chk": "2026-10-30T21:37:08.193581-04:00"
   },
   {
    "id": "18036187742666195",
@@ -1242,7 +1242,7 @@
    "texto": "OPINIÃO IMPOPULAR: Carro rebaixado com som alto na rua de madrugada não é estilo, é só falta de noção mesmo.",
    "quando": "2026-10-30T19:37:08.855943-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
+   "viral_chk": "2026-10-30T21:37:08.193581-04:00"
   },
   {
    "id": "18098954417556263",
@@ -1271,7 +1271,7 @@
    "texto": "VAMOS SER HONESTOS: a gente fala que vai descansar no fim de semana mas passa os dois dias pensando nos e-mails de segunda-feira.",
    "quando": "2026-10-30T21:07:07.889410-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T21:07:07.889410-04:00"
+   "viral_chk": "2026-10-30T21:37:08.193581-04:00"
   }
  ],
  "respondidos": [
@@ -4178,7 +4178,11 @@
   "18421386547152565",
   "18006727862990231",
   "18157073179577495",
-  "17912337090302767"
+  "17912337090302767",
+  "17880408591627976",
+  "18358332616174834",
+  "17908033683569960",
+  "18108417386249186"
  ],
  "hashes": [
   "f853537ce4ec7c134eaecfbd63524121",
@@ -4753,30 +4757,14 @@
   "d77d8066ee": 1,
   "0587727a3d": 1,
   "4eb097de2d": 1,
-  "ade4ddcf4c": 1
+  "ade4ddcf4c": 1,
+  "5dfe55cf42": 1,
+  "c7aefa9721": 1,
+  "0763695e10": 1,
+  "f7ef2eea3b": 1
  },
  "reservas_checadas": "2026-10-30",
  "ultimas_respostas": [
-  {
-   "t": "esse argumento financeiro pega pesado demais kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "essa sensação de controle é exatamente o que faz todo mundo gostar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "fora de sp ou rj o cenário muda mesmo mas haja perna ainda assim",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "essa economia nos automaticos novos muda o jogo completamente",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "cada um com sua paciência no trânsito",
    "p": "ressalva",
@@ -4906,6 +4894,26 @@
    "t": "comida boa é motivo de sobra pra sair de casa kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "começar essa fase numa época daquelas foi um teste de fogo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o gás decidir acabar bem na hora de cozinhar é um rito de passagem cruel kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "essa época pesava no bolso de um jeito único",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pois é, o básico virou artigo de luxo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6229,7 +6237,10 @@
    "essa conta de",
    "parece que se",
    "o gas durar",
-   "imagino quando junta"
+   "imagino quando junta",
+   "comecar essa fase",
+   "o gas decidir",
+   "essa epoca pesava"
   ],
   "18110964131612577": [
    "esse quadro de",
@@ -6244,7 +6255,8 @@
    "pois e mas",
    "o preco do",
    "exatamente perdeu totalmente",
-   "liberdade dos outros"
+   "liberdade dos outros",
+   "pois e o"
   ]
  },
  "shopee_checada": "2026-10-30|1",
