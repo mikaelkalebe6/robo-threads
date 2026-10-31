@@ -30,16 +30,16 @@
    "14:10"
   ],
   "produtos_feitos": 1,
-  "respostas": 69,
+  "respostas": 73,
   "por_post": {
-   "18059672663796327": 9,
+   "18059672663796327": 10,
    "18036187742666195": 6,
    "18146591881665621": 18,
    "18110964131612577": 1,
    "17918328729462329": 14,
    "18000103242043456": 10,
    "18106825157572440": 9,
-   "18010950449778561": 2
+   "18010950449778561": 5
   }
  },
  "posts": [
@@ -4291,7 +4291,11 @@
   "18109019606627428",
   "18445113013182325",
   "17995595961073868",
-  "17999921043003047"
+  "17999921043003047",
+  "18165149317526136",
+  "17878879113572815",
+  "18085118516708189",
+  "18224670517340199"
  ],
  "hashes": [
   "9b286df994d04d2fd18b81b6045a74d0",
@@ -4875,30 +4879,14 @@
   "b0d482e586": 1,
   "f5562bf7f8": 1,
   "82d123d164": 1,
-  "ee1705420f": 1
+  "ee1705420f": 1,
+  "af86f82800": 1,
+  "20f0d66806": 1,
+  "088bf3dbca": 1,
+  "6d80b45d15": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "seis mil hoje em dia não compra nem o retrovisor kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa fatura parece que vem com vontade própria e multiplica os gastos sozinha",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "imagina a surpresa quando a conta vem com adicional de cortesia dos vizinhos kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "bom demais quando a música decide o tempo da gente né kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "esse modelo marcou época, era o terror dos postos de gasolina",
    "p": "concorda",
@@ -5028,6 +5016,26 @@
    "t": "aí entra direto como crime inafiançável kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "fez mais que certa, contrato existe é pra ser cumprido",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "isso já entra na categoria de crueldade mental kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "economia de tempo e de paciência que virava só um aviso na caixa de entrada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "coreografia completa antes de sair do carro é obrigatória",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6375,7 +6383,8 @@
    "mexer no celular",
    "bom demais quando",
    "inevitavel desligar o",
-   "dificil sair do"
+   "dificil sair do",
+   "coreografia completa antes"
   ],
   "17918328729462329": [
    "quase uma aventura",
@@ -6418,7 +6427,10 @@
   ],
   "18010950449778561": [
    "pois e mas",
-   "ai entra direto"
+   "ai entra direto",
+   "fez mais que",
+   "isso ja entra",
+   "economia de tempo"
   ]
  },
  "shopee_checada": "2026-10-31|1",
