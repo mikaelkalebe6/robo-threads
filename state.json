@@ -26,39 +26,22 @@
    "09:06",
    "11:13",
    "11:55",
-   "13:17"
+   "13:17",
+   "14:10"
   ],
   "produtos_feitos": 1,
-  "respostas": 61,
+  "respostas": 67,
   "por_post": {
-   "18059672663796327": 8,
+   "18059672663796327": 9,
    "18036187742666195": 6,
    "18146591881665621": 18,
    "18110964131612577": 1,
-   "17918328729462329": 13,
+   "17918328729462329": 14,
    "18000103242043456": 10,
-   "18106825157572440": 5
+   "18106825157572440": 9
   }
  },
  "posts": [
-  {
-   "id": "18388358545229885",
-   "insp": "9cb883fe04",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: homem que dirige com uma mão só no volante acha que tá estrelando filme de ação, mas só parece que tá entediado mesmo",
-   "quando": "2026-10-25T22:07:09.114040-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 130,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-31"
-   },
-   "viral_chk": "2026-10-26T18:37:08.130717-04:00"
-  },
   {
    "id": "18153545164531054",
    "insp": "fc5634c543",
@@ -1198,7 +1181,7 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "58251910469",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "58251910469",
     "nome": "Gancho Universal Para Encosto De Cabeça De Assento De Carro-Duplo Couro Premium Cabide De Liga Grande Com Suporte ZEM",
@@ -1214,7 +1197,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-10-31"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/2BG3SD7VMM",
+   "link_em": "2026-10-31T14:37:08.779447-04:00",
+   "link_views": 0
   },
   {
    "id": "17966728118983535",
@@ -1310,6 +1296,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: vale a pena trocar o carro a combustão pelo elétrico agora ou a gente ainda vai passar muita raiva com infraestrutura?",
    "quando": "2026-10-31T13:37:09.986587-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18010950449778561",
+   "insp": "2096a4fb50",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: marca reunião de sexta às cinco da tarde deveria ser considerada infração trabalhista grave.",
+   "quando": "2026-10-31T14:37:08.779447-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4288,10 +4282,15 @@
   "17918167329262214",
   "18495921436105577",
   "18641389774015546",
-  "18109089104524936"
+  "18109089104524936",
+  "17965516659223653",
+  "18646235947018316",
+  "18107973773628259",
+  "18130782913874425",
+  "18109019606627428",
+  "18445113013182325"
  ],
  "hashes": [
-  "ca3be7acfd34977077d6e2d1f5b9bd48",
   "9b286df994d04d2fd18b81b6045a74d0",
   "bd192be1121e266310eccc3fa3eaaffa",
   "f34ca01b6710a4c885e61b681523271d",
@@ -4490,7 +4489,8 @@
   "7a04382eff61bd2d8ad46e031f756606",
   "6da2964eb03f980332c318a307f9bd39",
   "46595bcf62665c726f473d3883306798",
-  "06b76aab2e19c6074249fc37dd44226b"
+  "06b76aab2e19c6074249fc37dd44226b",
+  "c8a2e7fa55746c6d4194c6e55c240cc8"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4804,7 +4804,8 @@
   "7f395074e1": 1793450287.861915,
   "642c97cc3a": 1793452048.4490342,
   "d4f824d797": 1793462891.1001406,
-  "74bdceb463": 1793468270.5694325
+  "74bdceb463": 1793468270.5694325,
+  "2096a4fb50": 1793471856.3255594
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4847,7 +4848,7 @@
   "69ed76e015": 1,
   "1ec90aaa96": 1,
   "1894271163": 1,
-  "385afd1a7c": 1,
+  "385afd1a7c": 2,
   "5557f2ce6a": 1,
   "5a4f6559c6": 2,
   "c63f23746e": 1,
@@ -4865,40 +4866,15 @@
   "d3f21041a1": 1,
   "748e109c8c": 1,
   "e1fc991990": 1,
-  "a967292c8e": 1
+  "a967292c8e": 1,
+  "8929f505f4": 1,
+  "05f2b34d8e": 1,
+  "b0d482e586": 1,
+  "f5562bf7f8": 1,
+  "82d123d164": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "melhor jeito de fechar a viagem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "exato, evento tem lugar certo, na rua de madrugada é só falta de consideração mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse vem todo mês para lembrar que a paz é um artigo de luxo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o antigo pra gente sofrer junto lembrando do sufoco",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "esse pesa tanto que parece que vem com juros de mora antes mesmo do vencimento",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "mexer no celular no carro estacionado é um caminho sem volta kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "carro de família que já vem rodando é o melhor começo kkk",
    "p": "concorda",
@@ -5018,6 +4994,36 @@
    "t": "dois pontos que pesam na decisão e fazem qualquer um pensar duas vezes",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "exato, essa parte burocrática do condomínio costuma ser o primeiro balde de água fria",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "para rodar só na cidade o carregador em casa já resolve metade do problema",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "passar raiva com planejamento de viagem é o maior teste de paciência",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ter onde carregar em casa muda completamente o peso dessa conta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "difícil sair do banco antes de acabar a parte boa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "literalmente uma vacina ambulante kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5520,6 +5526,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-10-31T12:37:07.469660-04:00"
+  },
+  "18089784230279860": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-10-31T14:37:08.779447-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6371,7 +6382,8 @@
    "melhor jeito de",
    "mexer no celular",
    "bom demais quando",
-   "inevitavel desligar o"
+   "inevitavel desligar o",
+   "dificil sair do"
   ],
   "17918328729462329": [
    "quase uma aventura",
@@ -6386,7 +6398,8 @@
    "essa fila de",
    "preco de outra",
    "esse classico ai",
-   "sete mil no"
+   "sete mil no",
+   "literalmente uma vacina"
   ],
   "18000103242043456": [
    "essa fatura tem",
@@ -6405,7 +6418,11 @@
    "verdade o hibrido",
    "para o dia",
    "o hibrido tira",
-   "dois pontos que"
+   "dois pontos que",
+   "exato essa parte",
+   "para rodar so",
+   "passar raiva com",
+   "ter onde carregar"
   ]
  },
  "shopee_checada": "2026-10-31|1",
@@ -6769,7 +6786,7 @@
   "22894012277": "2026-10-29T20:07:09.063415-04:00",
   "23094546288": "2026-10-31T10:07:09.393257-04:00",
   "58203234670": "2026-10-30T16:07:08.967765-04:00",
-  "58251910469": "2026-10-30T20:37:08.047693-04:00",
+  "58251910469": "2026-10-31T14:37:08.779447-04:00",
   "22292964139": "2026-10-30T22:37:07.296929-04:00",
   "22798000771": "2026-10-31T09:07:09.121448-04:00",
   "18599882228": "2026-10-31T11:37:07.840633-04:00"
