@@ -37,7 +37,7 @@
    "21:32"
   ],
   "produtos_feitos": 3,
-  "respostas": 99,
+  "respostas": 100,
   "por_post": {
    "18059672663796327": 11,
    "18036187742666195": 6,
@@ -50,7 +50,8 @@
    "18153105085554734": 1,
    "18119185082003862": 5,
    "18135924433780729": 1,
-   "18090080810678249": 12
+   "18090080810678249": 12,
+   "18115218803125363": 1
   }
  },
  "posts": [
@@ -1219,7 +1220,6 @@
   }
  ],
  "respondidos": [
-  "17893532748610148",
   "18111794804130178",
   "18135498910728696",
   "18412562725082845",
@@ -4218,7 +4218,8 @@
   "18085196651350629",
   "18134574616774667",
   "18127959655681388",
-  "18131686633840211"
+  "18131686633840211",
+  "18469631581186576"
  ],
  "hashes": [
   "a3180cc9e6c15e83e86a403dc10fbead",
@@ -4774,7 +4775,7 @@
   "c5abe85364": 1,
   "5ac0287909": 1,
   "db1cb74f80": 1,
-  "4daac2f246": 1,
+  "4daac2f246": 2,
   "de65ea543a": 1,
   "366fd5e9e4": 2,
   "26b8d9fd47": 1,
@@ -4838,11 +4839,6 @@
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "fez mais que certa, contrato existe é pra ser cumprido",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "isso já entra na categoria de crueldade mental kkkk",
    "p": "concorda",
@@ -4987,6 +4983,11 @@
    "t": "para a rotina perto de casa realmente resolve muito a vida",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "investimento de alto risco na epoca kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6039,28 +6040,6 @@
   }
  ],
  "aberturas_post": {
-  "17918222961259641": [
-   "esse valor ai",
-   "uma verdadeira novela",
-   "peca que costuma",
-   "levar golpe de",
-   "motor detonado por",
-   "dobradinha de prejuizo",
-   "investimento que consome",
-   "passou por uma",
-   "perder o carro",
-   "vantagem que pelo",
-   "monza decido a",
-   "esse combo ai",
-   "cenario classico de",
-   "essa ultima frase",
-   "quatro vezes o",
-   "trabalhar so pra",
-   "quinze mil de",
-   "esse orcamento ai",
-   "essa parte mecanica",
-   "esse motor ai"
-  ],
   "17997865899028872": [
    "levou pontos ja",
    "essa licao ai",
@@ -6367,6 +6346,9 @@
    "te entendo o",
    "esse quase tombo",
    "socorro o limite"
+  ],
+  "18115218803125363": [
+   "investimento de alto"
   ]
  },
  "shopee_checada": "2026-10-31|1",
