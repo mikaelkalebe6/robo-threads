@@ -23,15 +23,15 @@
    "13:29"
   ],
   "produtos_feitos": 1,
-  "respostas": 33,
+  "respostas": 36,
   "por_post": {
    "18090080810678249": 14,
-   "18106825157572440": 3,
+   "18106825157572440": 4,
    "18000103242043456": 1,
    "17918328729462329": 2,
    "18119185082003862": 3,
-   "17921144301452722": 6,
-   "18120849176091114": 4
+   "17921144301452722": 7,
+   "18120849176091114": 5
   }
  },
  "posts": [
@@ -1302,9 +1302,6 @@
   }
  ],
  "respondidos": [
-  "18094530125558489",
-  "18097451762386456",
-  "17912879907525974",
   "18217353394347431",
   "17909830674508039",
   "18076032617426190",
@@ -4301,7 +4298,10 @@
   "18121387901050954",
   "18114288197135622",
   "18358135609172882",
-  "17899536528611133"
+  "17899536528611133",
+  "17978690997163818",
+  "17977399410138199",
+  "18648354343031237"
  ],
  "hashes": [
   "8925d0f6297c3ef244db0fe7af6632db",
@@ -4855,30 +4855,17 @@
   "1fd588d7a0": 1,
   "d98240b8ff": 2,
   "0521dbc115": 2,
-  "925db79163": 1,
+  "925db79163": 2,
   "c3c56c5459": 1,
   "749e2aeb05": 1,
   "d34228711c": 1,
   "d68b3911da": 1,
-  "60878986a3": 1
+  "60878986a3": 1,
+  "01af5a7598": 1,
+  "2fb0b5c231": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "o histórico completo de modelos que marcaram época",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "zerou o game da imunidade ao cansaço",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "o pedido de desculpas automático é a lei do transporte público kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "autocontrole invejável para não virar travesseiro alheio",
    "p": "neutra",
@@ -5013,6 +5000,21 @@
    "t": "nem deu tempo de esquentar a cadeira e a conta já tava chorando kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "conta de padaria que acaba pesando na revenda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "agora já foi, só resta torcer para o balde cair em terreno macio kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "queria ter essa mesma inocência pra encarar o extrato do banco",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6333,7 +6335,8 @@
    "para a rotina",
    "pensando bem o",
    "quem usa na",
-   "pouco mais de"
+   "pouco mais de",
+   "conta de padaria"
   ],
   "18010950449778561": [
    "pois e mas",
@@ -6392,13 +6395,15 @@
    "carro e um",
    "outubro ja e",
    "matematica avancada onde",
-   "nem deu tempo"
+   "nem deu tempo",
+   "queria ter essa"
   ],
   "18120849176091114": [
    "comecar cedo assim",
    "verdade o tempo",
    "o universo chutando",
-   "trabalho duro sem"
+   "trabalho duro sem",
+   "agora ja foi"
   ]
  },
  "shopee_checada": "2026-11-01|1",
