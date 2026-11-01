@@ -37,7 +37,7 @@
    "21:32"
   ],
   "produtos_feitos": 3,
-  "respostas": 94,
+  "respostas": 99,
   "por_post": {
    "18059672663796327": 11,
    "18036187742666195": 6,
@@ -45,12 +45,12 @@
    "18110964131612577": 1,
    "17918328729462329": 15,
    "18000103242043456": 10,
-   "18106825157572440": 11,
+   "18106825157572440": 12,
    "18010950449778561": 7,
    "18153105085554734": 1,
    "18119185082003862": 5,
    "18135924433780729": 1,
-   "18090080810678249": 8
+   "18090080810678249": 12
   }
  },
  "posts": [
@@ -1219,11 +1219,6 @@
   }
  ],
  "respondidos": [
-  "18434131282198676",
-  "18096007418411291",
-  "18117744689053290",
-  "17970206292177583",
-  "18164452888424270",
   "17893532748610148",
   "18111794804130178",
   "18135498910728696",
@@ -4218,7 +4213,12 @@
   "17939124768125223",
   "18093935357670926",
   "18100812224559218",
-  "18289032958291940"
+  "18289032958291940",
+  "18034233821854257",
+  "18085196651350629",
+  "18134574616774667",
+  "18127959655681388",
+  "18131686633840211"
  ],
  "hashes": [
   "a3180cc9e6c15e83e86a403dc10fbead",
@@ -4829,35 +4829,15 @@
   "ab055d8180": 1,
   "2d457c714a": 1,
   "d621eaaa42": 1,
-  "db407d487e": 1
+  "db407d487e": 1,
+  "0af1701b18": 1,
+  "5cb4040ec7": 1,
+  "ad5a8594e2": 1,
+  "3e346271a0": 1,
+  "ddefe84af2": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "ter onde carregar em casa muda completamente o peso dessa conta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "difícil sair do banco antes de acabar a parte boa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "literalmente uma vacina ambulante kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pois é, mas tem gente que insiste em fingir que não vê kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "aí entra direto como crime inafiançável kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "fez mais que certa, contrato existe é pra ser cumprido",
    "p": "concorda",
@@ -4982,6 +4962,31 @@
    "t": "dormir em pé já é nível hard de cansaço kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "a janela pelo menos evita o perigo do ombro alheio",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "te entendo, o bom mesmo é ir quietinha no canto sem ninguém invadir o espaço",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse quase tombo na ponta do banco é teste cardíaco gratuito kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "socorro kkkkk o limite foi totalmente ultrapassado",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "para a rotina perto de casa realmente resolve muito a vida",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6324,7 +6329,8 @@
    "passar raiva com",
    "ter onde carregar",
    "exato achar tomada",
-   "para rodar pouco"
+   "para rodar pouco",
+   "para a rotina"
   ],
   "18010950449778561": [
    "pois e mas",
@@ -6356,7 +6362,11 @@
    "pesado demais o",
    "justo a coluna",
    "a tosse falsa",
-   "dormir em pe"
+   "dormir em pe",
+   "a janela pelo",
+   "te entendo o",
+   "esse quase tombo",
+   "socorro o limite"
   ]
  },
  "shopee_checada": "2026-10-31|1",
