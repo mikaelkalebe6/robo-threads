@@ -18,58 +18,21 @@
    "20:31"
   ],
   "feitos": [
-   "11:36"
+   "11:36",
+   "12:18"
   ],
-  "produtos_feitos": 0,
-  "respostas": 21,
+  "produtos_feitos": 1,
+  "respostas": 23,
   "por_post": {
    "18090080810678249": 13,
    "18106825157572440": 2,
    "18000103242043456": 1,
    "17918328729462329": 2,
-   "18119185082003862": 2,
-   "17921144301452722": 1
+   "18119185082003862": 3,
+   "17921144301452722": 2
   }
  },
  "posts": [
-  {
-   "id": "18107493095575809",
-   "insp": "video_ac9fb06008",
-   "link": "",
-   "texto": "Ficar sofrendo na marreta para abrir parede não dá mais. Descobri essa furadeira de impacto que faz tudo parecer manteiga, olha como funciona 👀",
-   "quando": "2026-10-26T19:37:08.492261-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "21799836330",
-   "link_pendente": false,
-   "modo_produto": "parecido",
-   "prod_dados": {
-    "itemId": "21799836330",
-    "nome": "Parafusadeira Furadeira de Impacto Com 2 Bateria Recarregável Sem Fio 48v Com Ma",
-    "preco": 115.99,
-    "nota": 4.9,
-    "vendas": 2341,
-    "comissao": 0.03,
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823oc-moipjw1uysr064",
-    "offerLink": "https://s.shopee.com.br/9fLypuhVgG",
-    "campanha": "",
-    "modo": "parecido"
-   },
-   "metricas": {
-    "views": 320,
-    "likes": 1,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-01"
-   },
-   "link_coment": "https://s.shopee.com.br/9fLypuhVgG",
-   "link_em": "2026-10-27T13:37:09.354196-04:00",
-   "link_views": 0
-  },
   {
    "id": "18127401364671487",
    "insp": "5267cbb0dc",
@@ -1321,11 +1284,29 @@
    "texto": "VAMOS SER HONESTOS: a meta de economizar dinheiro este ano morreu em fevereiro.",
    "quando": "2026-11-01T11:37:07.861302-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18133030594706037",
+   "insp": "prod_19098752815",
+   "link": "",
+   "texto": "Aquele GPS no celular que sempre cai bem na hora que a gente mais precisa é dose, né? 😂 Descobri esse suporte veicular que prende firme na saída de ar e não solta nem com buraco brabo. Olha como funciona 👀",
+   "quando": "2026-11-01T12:37:08.709479-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "19098752815",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "19098752815",
+    "nome": "Suporte Veicular Carro Para Celular 360 ° Giratório Universal Multifuncional Ventilacao Ar",
+    "offerLink": "https://s.shopee.com.br/W7sevNJwy",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljg30etzu9ibac",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
-  "18634553377030031",
-  "17904346017590527",
   "18105667520363854",
   "18094288700240869",
   "18153428101476329",
@@ -4323,7 +4304,9 @@
   "18109713314578621",
   "18121168696754217",
   "18189357433369015",
-  "18115567556231992"
+  "18115567556231992",
+  "18120248260992003",
+  "17992860846115227"
  ],
  "hashes": [
   "9ec753fb40dead2ad66d0585496aab6c",
@@ -4871,20 +4854,12 @@
   "56303b90a5": 1,
   "4f4d0994c9": 1,
   "49688c4ffb": 1,
-  "bb9dd276e0": 1
+  "bb9dd276e0": 1,
+  "46f3a9d5ed": 1,
+  "1fd588d7a0": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "a tosse falsa é a melhor tentativa de manter a dignidade kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "dormir em pé já é nível hard de cansaço kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "a janela pelo menos evita o perigo do ombro alheio",
    "p": "concorda",
@@ -5024,6 +4999,16 @@
    "t": "ir parar na garagem é o preço da viagem gratuita kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "a teoria é bonita, mas o boleto vem com juros independentemente da escolha",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "respeito a sinceridade, assumir o próprio peso já é um passo enorme",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6374,7 +6359,8 @@
    "final de semana",
    "perfil privado e",
    "medida drastica mas",
-   "quem dera ter"
+   "quem dera ter",
+   "respeito a sinceridade"
   ],
   "18135924433780729": [
    "o arrependimento so"
@@ -6406,7 +6392,8 @@
    "dois reais na"
   ],
   "17921144301452722": [
-   "sorte de quem"
+   "sorte de quem",
+   "a teoria e"
   ]
  },
  "shopee_checada": "2026-11-01|1",
@@ -6698,7 +6685,7 @@
   "58255737985": "2026-10-17T21:37:08.255141-04:00",
   "58254074073": "2026-10-17T21:37:08.255141-04:00",
   "58269029568": "2026-10-17T23:07:07.434196-04:00",
-  "19098752815": "2026-10-18T10:07:07.303688-04:00",
+  "19098752815": "2026-11-01T12:37:08.709479-04:00",
   "23193620740": "2026-10-18T11:37:09.028102-04:00",
   "58215032790": "2026-10-18T14:37:07.316029-04:00",
   "20999068051": "2026-10-18T16:37:07.393472-04:00",
