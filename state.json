@@ -36,7 +36,7 @@
    "20:21"
   ],
   "produtos_feitos": 3,
-  "respostas": 85,
+  "respostas": 88,
   "por_post": {
    "18059672663796327": 11,
    "18036187742666195": 6,
@@ -44,11 +44,12 @@
    "18110964131612577": 1,
    "17918328729462329": 15,
    "18000103242043456": 10,
-   "18106825157572440": 10,
+   "18106825157572440": 11,
    "18010950449778561": 7,
    "18153105085554734": 1,
    "18119185082003862": 5,
-   "18135924433780729": 1
+   "18135924433780729": 1,
+   "18090080810678249": 2
   }
  },
  "posts": [
@@ -1227,9 +1228,6 @@
   }
  ],
  "respondidos": [
-  "18086168192280211",
-  "18011000411975175",
-  "18135835081572144",
   "18130011829688374",
   "18096994556094635",
   "18379904980239889",
@@ -4226,7 +4224,10 @@
   "18095143253173101",
   "18132900613745825",
   "18131876980832153",
-  "17914861065538006"
+  "17914861065538006",
+  "18113832467128582",
+  "18170192494499464",
+  "18118415945004044"
  ],
  "hashes": [
   "9808e3443c186e81200d25d4735c78b8",
@@ -4829,25 +4830,13 @@
   "dd9269ced5": 1,
   "2ba050da11": 1,
   "11f446338b": 1,
-  "030c87dfcf": 1
+  "030c87dfcf": 1,
+  "cc6d1c46c8": 1,
+  "f1bfc7c1c4": 1,
+  "2305106d21": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "depois que a tecnologia entra na rotina ninguém quer voltar pra trás kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "economia e carro novo é bom demais pra ignorar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, o híbrido acaba salvando quem não quer ficar preso na estrada procurando tomada",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "para o dia a dia parece ótimo mesmo, o problema é planejar estrada sem sofrimento",
    "p": "concorda",
@@ -4980,6 +4969,21 @@
   },
   {
    "t": "passou pela evolucao completa dos classicos aos zero km",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a máscara pelo menos garantiu a discrição do ronco surpresa kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "esse quase cair já conta como exercício físico pra acordar kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "para rodar pouco na cidade faz todo o sentido mesmo",
    "p": "concorda",
    "r": 0
   }
@@ -6034,9 +6038,6 @@
   }
  ],
  "aberturas_post": {
-  "18122836490511425": [
-   "um comprimido amassado"
-  ],
   "17918222961259641": [
    "esse valor ai",
    "uma verdadeira novela",
@@ -6326,7 +6327,8 @@
    "para rodar so",
    "passar raiva com",
    "ter onde carregar",
-   "exato achar tomada"
+   "exato achar tomada",
+   "para rodar pouco"
   ],
   "18010950449778561": [
    "pois e mas",
@@ -6349,6 +6351,10 @@
   ],
   "18135924433780729": [
    "o arrependimento so"
+  ],
+  "18090080810678249": [
+   "a mascara pelo",
+   "esse quase cair"
   ]
  },
  "shopee_checada": "2026-10-31|1",
