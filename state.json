@@ -23,45 +23,23 @@
    "13:29",
    "15:16",
    "16:58",
-   "18:21"
+   "18:21",
+   "19:28"
   ],
   "produtos_feitos": 2,
-  "respostas": 49,
+  "respostas": 51,
   "por_post": {
-   "18090080810678249": 18,
+   "18090080810678249": 19,
    "18106825157572440": 4,
    "18000103242043456": 1,
    "17918328729462329": 2,
    "18119185082003862": 4,
    "17921144301452722": 11,
-   "18120849176091114": 7,
+   "18120849176091114": 8,
    "18110708246187465": 2
   }
  },
  "posts": [
-  {
-   "id": "17959658355013450",
-   "insp": "1c1d414be8",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: vocês voltariam com um ex só porque ele ficou milionário ou o orgulho ainda fala mais alto",
-   "quando": "2026-10-27T12:37:10.901516-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1272,
-    "likes": 8,
-    "replies": 28,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-01"
-   },
-   "viral_chk": "2026-10-28T07:07:10.960636-04:00",
-   "link_coment": "https://s.shopee.com.br/7fawoXL0xM",
-   "meme_comentado": true,
-   "meme_views": 1204,
-   "formato_link": "coment",
-   "produto": "58215225158"
-  },
   {
    "id": "18110358517935855",
    "insp": "d1e2f3c049",
@@ -1260,11 +1238,17 @@
    "texto": "Quem mais perdeu a paciência com crush só porque a pessoa mastigava fazendo barulho?",
    "quando": "2026-11-01T18:37:08.040899-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18013529159994207",
+   "insp": "7208b45268",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: quem era o filho preferido de verdade na casa de vocês",
+   "quando": "2026-11-01T19:37:07.478556-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18638857192057429",
-  "17940155466100355",
   "18162524482430977",
   "18124636447698144",
   "18190848997398126",
@@ -4262,10 +4246,11 @@
   "18097180532688242",
   "17880395049632415",
   "18031911353687302",
-  "18220895407355781"
+  "18220895407355781",
+  "18036059726664753",
+  "17921925084243166"
  ],
  "hashes": [
-  "304eb72b0b2900835ebd0ebab9771b3d",
   "923cd7619535e817ddaaac108cfd3ae1",
   "a240bc3a930cb570f0d7e65d0528d808",
   "f6e28494869959ca8f398b2fc8641758",
@@ -4464,7 +4449,8 @@
   "ef94f165cd2347b409b4ea2a0220b27d",
   "69cd1fa41ad72b4d6fde3c44c3ae9453",
   "6212450f8d9caf546011af74ecae33fc",
-  "6ed0895b56a8563f1079f91daaaaba34"
+  "6ed0895b56a8563f1079f91daaaaba34",
+  "5f3be0057df7c5c312f4360be2643b71"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4788,7 +4774,8 @@
   "076d4def4f": 1793547486.5774412,
   "4176f68ac7": 1793554670.193656,
   "2abbca2759": 1793561891.0220225,
-  "648ff7fceb": 1793572639.0643594
+  "648ff7fceb": 1793572639.0643594,
+  "7208b45268": 1793576284.6036692
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4837,20 +4824,12 @@
   "9016614769": 1,
   "b295981e5f": 1,
   "13c0779224": 1,
-  "49e5d490f8": 1
+  "49e5d490f8": 1,
+  "ff98d3abc0": 1,
+  "f25a49a76e": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "quem dera ter essa mesma disciplina",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "ir parar na garagem é o preço da viagem gratuita kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "a teoria é bonita, mas o boleto vem com juros independentemente da escolha",
    "p": "ressalva",
@@ -4990,6 +4969,16 @@
    "t": "o pior nem é o sono, é a certeza de que a pose foi a pior possível",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "divorcio mexe com a estrutura toda, mas bom saber que o lado de lá ficou melhor",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "sortuda que nunca perdeu o ponto babando no vidro kkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6334,7 +6323,6 @@
    "o arrependimento so"
   ],
   "18090080810678249": [
-   "esse quase tombo",
    "socorro o limite",
    "pessoa de ferro",
    "zerou o game",
@@ -6353,7 +6341,8 @@
    "dormir no pe",
    "com essa paz",
    "para quem tem",
-   "o pior nem"
+   "o pior nem",
+   "sortuda que nunca"
   ],
   "18115218803125363": [
    "investimento de alto",
@@ -6379,7 +6368,8 @@
    "trabalho duro sem",
    "agora ja foi",
    "essa leveza de",
-   "entendo tambem quero"
+   "entendo tambem quero",
+   "divorcio mexe com"
   ],
   "18110708246187465": [
    "memoria de peixe",
