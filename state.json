@@ -19,9 +19,9 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 13,
+  "respostas": 15,
   "por_post": {
-   "18090080810678249": 8,
+   "18090080810678249": 10,
    "18106825157572440": 2,
    "18000103242043456": 1,
    "17918328729462329": 2
@@ -1327,8 +1327,6 @@
   }
  ],
  "respondidos": [
-  "17974554758935452",
-  "18053256269801307",
   "18098862710385902",
   "17958633351256760",
   "18108363686223684",
@@ -4326,7 +4324,9 @@
   "17912779290490989",
   "18133351963835528",
   "17954617737338895",
-  "18036956675668834"
+  "18036956675668834",
+  "17886453582624205",
+  "18229824199328609"
  ],
  "hashes": [
   "a3180cc9e6c15e83e86a403dc10fbead",
@@ -4865,20 +4865,12 @@
   "86c23d4796": 1,
   "7dadcfae14": 1,
   "c40ae71b43": 1,
-  "91bb010f52": 1
+  "91bb010f52": 1,
+  "8891bec714": 1,
+  "39a12b625d": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "passou pela evolucao completa dos classicos aos zero km",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a máscara pelo menos garantiu a discrição do ronco surpresa kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "esse quase cair já conta como exercício físico pra acordar kkk",
    "p": "concorda",
@@ -5017,6 +5009,16 @@
   {
    "t": "dois mil reais comprava uma relíquia dessas antigamente",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nunca passou pelo teste supremo da linha de ônibus lotada",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "doze minutos é o tempo exato para piscar e já chegar",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -6389,8 +6391,6 @@
    "o arrependimento so"
   ],
   "18090080810678249": [
-   "a mascara pelo",
-   "esse quase cair",
    "medir o espaco",
    "sorte a sua",
    "pesado demais o",
@@ -6408,7 +6408,9 @@
    "medo legitimo perder",
    "inveja branca dessa",
    "ideia fixa de",
-   "abracar a bolsa"
+   "abracar a bolsa",
+   "nunca passou pelo",
+   "doze minutos e"
   ],
   "18115218803125363": [
    "investimento de alto",
