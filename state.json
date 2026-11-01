@@ -19,38 +19,21 @@
   ],
   "feitos": [
    "11:36",
-   "12:18"
+   "12:18",
+   "13:29"
   ],
   "produtos_feitos": 1,
-  "respostas": 25,
+  "respostas": 28,
   "por_post": {
-   "18090080810678249": 13,
-   "18106825157572440": 2,
+   "18090080810678249": 14,
+   "18106825157572440": 3,
    "18000103242043456": 1,
    "17918328729462329": 2,
    "18119185082003862": 3,
-   "17921144301452722": 4
+   "17921144301452722": 5
   }
  },
  "posts": [
-  {
-   "id": "18127401364671487",
-   "insp": "5267cbb0dc",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: jogo de celular na fila do banco ou videogame antigo no fim de semana?",
-   "quando": "2026-10-26T21:37:09.107661-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 353,
-    "likes": 2,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-01"
-   },
-   "viral_chk": "2026-10-27T10:37:09.236130-04:00"
-  },
   {
    "id": "17917494708526792",
    "insp": "2605ac3685",
@@ -1307,12 +1290,17 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljg30etzu9ibac",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "18120849176091114",
+   "insp": "4176f68ac7",
+   "link": "",
+   "texto": "SEJAM SINCEROS: vivo com vontade de chutar o balde da estabilidade pra tentar algo do zero. Alguém aqui já teve essa coragem e deu certo?",
+   "quando": "2026-11-01T13:37:07.465938-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
-  "18153428101476329",
-  "17968696968159759",
-  "18100300847571378",
   "18195303247389425",
   "18411626095095710",
   "18356388205221519",
@@ -4309,10 +4297,12 @@
   "18120248260992003",
   "17992860846115227",
   "17913227079477064",
-  "18469548706142566"
+  "18469548706142566",
+  "18041666096839902",
+  "18079370681429184",
+  "18084893387353316"
  ],
  "hashes": [
-  "9ec753fb40dead2ad66d0585496aab6c",
   "8925d0f6297c3ef244db0fe7af6632db",
   "1e7d4f4807e180a4a21d9ef82d303a35",
   "304eb72b0b2900835ebd0ebab9771b3d",
@@ -4511,7 +4501,8 @@
   "1cbc33ea3f353808f8aecc3d59ed9541",
   "fe62750c8cda9662833a131c7dec09dd",
   "df0f0f164675125c2f2e419af0f50022",
-  "ef94f165cd2347b409b4ea2a0220b27d"
+  "ef94f165cd2347b409b4ea2a0220b27d",
+  "69cd1fa41ad72b4d6fde3c44c3ae9453"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4832,7 +4823,8 @@
   "1fa67b78db": 1793484448.2494302,
   "3a51bc27e7": 1793493489.3505154,
   "4bd21fcc8d": 1793497046.4816182,
-  "076d4def4f": 1793547486.5774412
+  "076d4def4f": 1793547486.5774412,
+  "4176f68ac7": 1793554670.193656
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4860,26 +4852,13 @@
   "bb9dd276e0": 1,
   "46f3a9d5ed": 1,
   "1fd588d7a0": 1,
-  "d98240b8ff": 1,
-  "0521dbc115": 1
+  "d98240b8ff": 2,
+  "0521dbc115": 1,
+  "925db79163": 1,
+  "c3c56c5459": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "esse quase tombo na ponta do banco é teste cardíaco gratuito kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "socorro kkkkk o limite foi totalmente ultrapassado",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "para a rotina perto de casa realmente resolve muito a vida",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "investimento de alto risco na epoca kkkk",
    "p": "concorda",
@@ -5014,6 +4993,21 @@
    "t": "outubro já é otimismo demais kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "pouco mais de dez mil por ano, então o custo por recarga ainda pesaria no papel",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "matemática avançada onde o ovo sustenta o resto dos planos",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "virou um ato de generosidade gigante no meio do caos",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6348,7 +6342,8 @@
    "para rodar pouco",
    "para a rotina",
    "pensando bem o",
-   "quem usa na"
+   "quem usa na",
+   "pouco mais de"
   ],
   "18010950449778561": [
    "pois e mas",
@@ -6376,7 +6371,6 @@
    "o arrependimento so"
   ],
   "18090080810678249": [
-   "justo a coluna",
    "a tosse falsa",
    "dormir em pe",
    "a janela pelo",
@@ -6395,7 +6389,8 @@
    "doze minutos e",
    "no aviao a",
    "virou apoio oficial",
-   "ir parar na"
+   "ir parar na",
+   "virou um ato"
   ],
   "18115218803125363": [
    "investimento de alto",
@@ -6405,7 +6400,8 @@
    "sorte de quem",
    "a teoria e",
    "carro e um",
-   "outubro ja e"
+   "outubro ja e",
+   "matematica avancada onde"
   ]
  },
  "shopee_checada": "2026-11-01|1",
