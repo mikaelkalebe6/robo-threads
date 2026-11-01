@@ -22,14 +22,14 @@
    "12:18"
   ],
   "produtos_feitos": 1,
-  "respostas": 23,
+  "respostas": 25,
   "por_post": {
    "18090080810678249": 13,
    "18106825157572440": 2,
    "18000103242043456": 1,
    "17918328729462329": 2,
    "18119185082003862": 3,
-   "17921144301452722": 2
+   "17921144301452722": 4
   }
  },
  "posts": [
@@ -1225,7 +1225,7 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "23198658411",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "23198658411",
     "nome": "Carteira Masculina Couro P.U Lisa.",
@@ -1241,7 +1241,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-11-01"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/8AXIC8xgup",
+   "link_em": "2026-11-01T13:07:08.715113-04:00",
+   "link_views": 0
   },
   {
    "id": "18090080810678249",
@@ -1307,8 +1310,6 @@
   }
  ],
  "respondidos": [
-  "18105667520363854",
-  "18094288700240869",
   "18153428101476329",
   "17968696968159759",
   "18100300847571378",
@@ -4306,7 +4307,9 @@
   "18189357433369015",
   "18115567556231992",
   "18120248260992003",
-  "17992860846115227"
+  "17992860846115227",
+  "17913227079477064",
+  "18469548706142566"
  ],
  "hashes": [
   "9ec753fb40dead2ad66d0585496aab6c",
@@ -4856,20 +4859,12 @@
   "49688c4ffb": 1,
   "bb9dd276e0": 1,
   "46f3a9d5ed": 1,
-  "1fd588d7a0": 1
+  "1fd588d7a0": 1,
+  "d98240b8ff": 1,
+  "0521dbc115": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "a janela pelo menos evita o perigo do ombro alheio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "te entendo, o bom mesmo é ir quietinha no canto sem ninguém invadir o espaço",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse quase tombo na ponta do banco é teste cardíaco gratuito kkkkk",
    "p": "concorda",
@@ -5009,6 +5004,16 @@
    "t": "respeito a sinceridade, assumir o próprio peso já é um passo enorme",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "carro é um poço sem fundo que engole qualquer planejamento",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "outubro já é otimismo demais kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5536,6 +5541,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-01T10:07:09.481070-04:00"
+  },
+  "18221348359344179": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-01T13:07:08.715113-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6393,7 +6403,9 @@
   ],
   "17921144301452722": [
    "sorte de quem",
-   "a teoria e"
+   "a teoria e",
+   "carro e um",
+   "outubro ja e"
   ]
  },
  "shopee_checada": "2026-11-01|1",
@@ -6677,7 +6689,7 @@
   "48514950250": "2026-10-15T13:37:11.018564-04:00",
   "53108597653": "2026-10-15T19:37:08.210002-04:00",
   "21897981655": "2026-10-16T11:07:09.333086-04:00",
-  "23198658411": "2026-10-31T19:07:07.663991-04:00",
+  "23198658411": "2026-11-01T13:07:08.715113-04:00",
   "14448900266": "2026-10-16T21:37:07.021297-04:00",
   "18599879164": "2026-11-01T10:07:09.481070-04:00",
   "22694227037": "2026-10-17T12:07:07.816065-04:00",
