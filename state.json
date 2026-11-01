@@ -19,10 +19,10 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 9,
+  "respostas": 12,
   "por_post": {
-   "18090080810678249": 6,
-   "18106825157572440": 1,
+   "18090080810678249": 8,
+   "18106825157572440": 2,
    "18000103242043456": 1,
    "17918328729462329": 1
   }
@@ -1327,9 +1327,6 @@
   }
  ],
  "respondidos": [
-  "18087243299315938",
-  "18017910206942003",
-  "18099777188641336",
   "17909005851509229",
   "17974554758935452",
   "18053256269801307",
@@ -4326,7 +4323,10 @@
   "17894068668654483",
   "17930122863182886",
   "17995735491102822",
-  "18471463246190940"
+  "18471463246190940",
+  "17912779290490989",
+  "18133351963835528",
+  "17954617737338895"
  ],
  "hashes": [
   "a3180cc9e6c15e83e86a403dc10fbead",
@@ -4861,25 +4861,13 @@
   "5a4f6559c6": 1,
   "9e4bd52744": 1,
   "af5ae8c6c4": 1,
-  "6558fb2f83": 1
+  "6558fb2f83": 1,
+  "86c23d4796": 1,
+  "7dadcfae14": 1,
+  "c40ae71b43": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "sã decisão, a paz de espírito vale mais que qualquer curiosidade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "final de semana é perigoso mesmo, a cabeça insiste em dar uma olhada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perfil privado é o teste final de paciência e autocontrole kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "exato, achar tomada virou uma caça ao tesouro kkk",
    "p": "concorda",
@@ -5014,6 +5002,21 @@
    "t": "inveja branca dessa resistencia toda",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "quem usa na estrada assim nem olha para trás",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ideia fixa de quem já passou por isso voltando do trabalho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "abraçar a bolsa é a nossa armadura oficial contra qualquer encostada kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6358,7 +6361,8 @@
    "exato achar tomada",
    "para rodar pouco",
    "para a rotina",
-   "pensando bem o"
+   "pensando bem o",
+   "quem usa na"
   ],
   "18010950449778561": [
    "pois e mas",
@@ -6400,7 +6404,9 @@
    "o pedido de",
    "autocontrole invejavel para",
    "medo legitimo perder",
-   "inveja branca dessa"
+   "inveja branca dessa",
+   "ideia fixa de",
+   "abracar a bolsa"
   ],
   "18115218803125363": [
    "investimento de alto",
