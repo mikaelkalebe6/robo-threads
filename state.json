@@ -19,9 +19,9 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 15,
+  "respostas": 16,
   "por_post": {
-   "18090080810678249": 10,
+   "18090080810678249": 11,
    "18106825157572440": 2,
    "18000103242043456": 1,
    "17918328729462329": 2
@@ -1327,7 +1327,6 @@
   }
  ],
  "respondidos": [
-  "18098862710385902",
   "17958633351256760",
   "18108363686223684",
   "18118516045738547",
@@ -4326,7 +4325,8 @@
   "17954617737338895",
   "18036956675668834",
   "17886453582624205",
-  "18229824199328609"
+  "18229824199328609",
+  "18287046697288548"
  ],
  "hashes": [
   "a3180cc9e6c15e83e86a403dc10fbead",
@@ -4867,15 +4867,11 @@
   "c40ae71b43": 1,
   "91bb010f52": 1,
   "8891bec714": 1,
-  "39a12b625d": 1
+  "39a12b625d": 1,
+  "21641b50fa": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "esse quase cair já conta como exercício físico pra acordar kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "para rodar pouco na cidade faz todo o sentido mesmo",
    "p": "concorda",
@@ -5020,6 +5016,11 @@
    "t": "doze minutos é o tempo exato para piscar e já chegar",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "no avião a turbulencia não deixa ninguém ter paz kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6391,7 +6392,6 @@
    "o arrependimento so"
   ],
   "18090080810678249": [
-   "medir o espaco",
    "sorte a sua",
    "pesado demais o",
    "justo a coluna",
@@ -6410,7 +6410,8 @@
    "ideia fixa de",
    "abracar a bolsa",
    "nunca passou pelo",
-   "doze minutos e"
+   "doze minutos e",
+   "no aviao a"
   ],
   "18115218803125363": [
    "investimento de alto",
