@@ -19,9 +19,9 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 9,
   "por_post": {
-   "18090080810678249": 3,
+   "18090080810678249": 6,
    "18106825157572440": 1,
    "18000103242043456": 1,
    "17918328729462329": 1
@@ -1327,9 +1327,6 @@
   }
  ],
  "respondidos": [
-  "17964464553191413",
-  "17970607047148958",
-  "17912983725534365",
   "18087243299315938",
   "18017910206942003",
   "18099777188641336",
@@ -4326,7 +4323,10 @@
   "18118540784047355",
   "18114623621125169",
   "18106305044317671",
-  "17894068668654483"
+  "17894068668654483",
+  "17930122863182886",
+  "17995735491102822",
+  "18471463246190940"
  ],
  "hashes": [
   "a3180cc9e6c15e83e86a403dc10fbead",
@@ -4858,25 +4858,13 @@
   "a2789c57e2": 1,
   "030c87dfcf": 1,
   "b0372194e7": 1,
-  "5a4f6559c6": 1
+  "5a4f6559c6": 1,
+  "9e4bd52744": 1,
+  "af5ae8c6c4": 1,
+  "6558fb2f83": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "perde a diversão técnica mas ganha a bateria inteira kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "o arrependimento só bate no dia seguinte mesmo kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "sorte a sua, economizou um bom tempo de paz",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "sã decisão, a paz de espírito vale mais que qualquer curiosidade",
    "p": "concorda",
@@ -5011,6 +4999,21 @@
    "t": "o pedido de desculpas automático é a lei do transporte público kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "autocontrole invejável para não virar travesseiro alheio",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "medo legitimo, perder o ponto custa caro demais",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "inveja branca dessa resistencia toda",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6394,7 +6397,10 @@
    "socorro o limite",
    "pessoa de ferro",
    "zerou o game",
-   "o pedido de"
+   "o pedido de",
+   "autocontrole invejavel para",
+   "medo legitimo perder",
+   "inveja branca dessa"
   ],
   "18115218803125363": [
    "investimento de alto",
