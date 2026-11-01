@@ -19,12 +19,13 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 16,
+  "respostas": 17,
   "por_post": {
    "18090080810678249": 11,
    "18106825157572440": 2,
    "18000103242043456": 1,
-   "17918328729462329": 2
+   "17918328729462329": 2,
+   "18119185082003862": 1
   }
  },
  "posts": [
@@ -1330,7 +1331,6 @@
   }
  ],
  "respondidos": [
-  "17958633351256760",
   "18108363686223684",
   "18118516045738547",
   "18113828329838901",
@@ -4329,7 +4329,8 @@
   "18036956675668834",
   "17886453582624205",
   "18229824199328609",
-  "18287046697288548"
+  "18287046697288548",
+  "18474563539137750"
  ],
  "hashes": [
   "a3180cc9e6c15e83e86a403dc10fbead",
@@ -4871,15 +4872,11 @@
   "91bb010f52": 1,
   "8891bec714": 1,
   "39a12b625d": 1,
-  "21641b50fa": 1
+  "21641b50fa": 1,
+  "c8cebdbb79": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "para rodar pouco na cidade faz todo o sentido mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "medir o espaço dos outros para não encostar virou esporte olímpico",
    "p": "concorda",
@@ -5024,6 +5021,11 @@
    "t": "no avião a turbulencia não deixa ninguém ter paz kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "medida drástica mas necessária pra salvar a própria sanidade",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6394,7 +6396,8 @@
    "sorte a sua",
    "sa decisao a",
    "final de semana",
-   "perfil privado e"
+   "perfil privado e",
+   "medida drastica mas"
   ],
   "18135924433780729": [
    "o arrependimento so"
