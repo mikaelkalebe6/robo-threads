@@ -24,7 +24,7 @@
    "15:16"
   ],
   "produtos_feitos": 1,
-  "respostas": 40,
+  "respostas": 42,
   "por_post": {
    "18090080810678249": 15,
    "18106825157572440": 4,
@@ -32,7 +32,8 @@
    "17918328729462329": 2,
    "18119185082003862": 3,
    "17921144301452722": 10,
-   "18120849176091114": 5
+   "18120849176091114": 5,
+   "18110708246187465": 2
   }
  },
  "posts": [
@@ -1288,8 +1289,6 @@
   }
  ],
  "respondidos": [
-  "18148744297557695",
-  "18163934716486548",
   "18435441943183241",
   "18392131804167159",
   "18409124563091007",
@@ -4287,7 +4286,9 @@
   "18106751708251350",
   "18110519537213707",
   "18119552153279155",
-  "18139450357629496"
+  "18139450357629496",
+  "18036412340852135",
+  "18042649904641633"
  ],
  "hashes": [
   "1e7d4f4807e180a4a21d9ef82d303a35",
@@ -4852,20 +4853,12 @@
   "2fb0b5c231": 1,
   "9511b8ab92": 1,
   "d442ab75c4": 1,
-  "2307989de4": 1
+  "2307989de4": 1,
+  "3a4f6eb0bb": 1,
+  "6d527aad59": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "ideia fixa de quem já passou por isso voltando do trabalho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "abraçar a bolsa é a nossa armadura oficial contra qualquer encostada kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "dois mil reais comprava uma relíquia dessas antigamente",
    "p": "concorda",
@@ -5005,6 +4998,16 @@
    "t": "estratégia infalível para não gastar kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "memória de peixe ativa em áudio longo kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "sobre quem enrola três minutos pra falar o que cabia em uma linha",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6087,12 +6090,6 @@
   }
  ],
  "aberturas_post": {
-  "18091692569222965": [
-   "pelo menos o",
-   "responder a propria",
-   "pelo menos a",
-   "gesticular junto com"
-  ],
   "18146338231578758": [
    "verdade no fim",
    "exato tempo livre",
@@ -6397,6 +6394,10 @@
    "o universo chutando",
    "trabalho duro sem",
    "agora ja foi"
+  ],
+  "18110708246187465": [
+   "memoria de peixe",
+   "sobre quem enrola"
   ]
  },
  "shopee_checada": "2026-11-01|1",
