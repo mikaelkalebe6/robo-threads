@@ -21,13 +21,14 @@
    "11:36"
   ],
   "produtos_feitos": 0,
-  "respostas": 18,
+  "respostas": 21,
   "por_post": {
-   "18090080810678249": 12,
+   "18090080810678249": 13,
    "18106825157572440": 2,
    "18000103242043456": 1,
    "17918328729462329": 2,
-   "18119185082003862": 1
+   "18119185082003862": 2,
+   "17921144301452722": 1
   }
  },
  "posts": [
@@ -1323,9 +1324,6 @@
   }
  ],
  "respondidos": [
-  "18118516045738547",
-  "18113828329838901",
-  "17885352150494754",
   "18634553377030031",
   "17904346017590527",
   "18105667520363854",
@@ -4322,7 +4320,10 @@
   "18229824199328609",
   "18287046697288548",
   "18474563539137750",
-  "18109713314578621"
+  "18109713314578621",
+  "18121168696754217",
+  "18189357433369015",
+  "18115567556231992"
  ],
  "hashes": [
   "9ec753fb40dead2ad66d0585496aab6c",
@@ -4867,25 +4868,13 @@
   "39a12b625d": 1,
   "21641b50fa": 1,
   "c8cebdbb79": 1,
-  "56303b90a5": 1
+  "56303b90a5": 1,
+  "4f4d0994c9": 1,
+  "49688c4ffb": 1,
+  "bb9dd276e0": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "sorte a sua que nunca pegou aquela linha longa e cansativa",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "pesado demais, o transporte público às vezes vira um lugar muito inseguro",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "justo, a coluna agradece a preferência pela cama",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "a tosse falsa é a melhor tentativa de manter a dignidade kkkkk",
    "p": "concorda",
@@ -5020,6 +5009,21 @@
    "t": "virou apoio oficial de cabeça alheia kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "sorte de quem continua com saldo na conta",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "quem dera ter essa mesma disciplina",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "ir parar na garagem é o preço da viagem gratuita kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6097,28 +6101,6 @@
   }
  ],
  "aberturas_post": {
-  "17997865899028872": [
-   "levou pontos ja",
-   "essa licao ai",
-   "comecar aos 13",
-   "duas chaves que",
-   "escola nenhuma prepara",
-   "essa e uma",
-   "materias que deveriam",
-   "tem dia que",
-   "essa materia ai",
-   "escutar ela mais",
-   "essa materia definitivamente",
-   "essa e a",
-   "pesado demais para",
-   "teoria e bonita",
-   "salva a vida",
-   "duas coisas que",
-   "esse trio ai",
-   "entendo t i",
-   "esse tipo de",
-   "essa ficha demora"
-  ],
   "17980455462130729": [
    "uma licao que",
    "dez anos sem",
@@ -6391,13 +6373,13 @@
    "sa decisao a",
    "final de semana",
    "perfil privado e",
-   "medida drastica mas"
+   "medida drastica mas",
+   "quem dera ter"
   ],
   "18135924433780729": [
    "o arrependimento so"
   ],
   "18090080810678249": [
-   "pesado demais o",
    "justo a coluna",
    "a tosse falsa",
    "dormir em pe",
@@ -6416,11 +6398,15 @@
    "nunca passou pelo",
    "doze minutos e",
    "no aviao a",
-   "virou apoio oficial"
+   "virou apoio oficial",
+   "ir parar na"
   ],
   "18115218803125363": [
    "investimento de alto",
    "dois reais na"
+  ],
+  "17921144301452722": [
+   "sorte de quem"
   ]
  },
  "shopee_checada": "2026-11-01|1",
