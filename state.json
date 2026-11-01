@@ -32,16 +32,17 @@
    "16:32",
    "17:18",
    "17:58",
-   "19:05"
+   "19:05",
+   "20:21"
   ],
   "produtos_feitos": 3,
-  "respostas": 84,
+  "respostas": 85,
   "por_post": {
    "18059672663796327": 11,
    "18036187742666195": 6,
    "18146591881665621": 18,
    "18110964131612577": 1,
-   "17918328729462329": 14,
+   "17918328729462329": 15,
    "18000103242043456": 10,
    "18106825157572440": 10,
    "18010950449778561": 7,
@@ -51,44 +52,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17966603040208636",
-   "insp": "video_6dee727fa0",
-   "link": "",
-   "texto": "Sempre bate aquela fome na hora do jogo e eu descobri esse snack sabor queijo que salva muito. Olha como funciona 👀",
-   "quando": "2026-10-26T16:37:08.702243-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "20026677093",
-   "link_pendente": false,
-   "modo_produto": "parecido",
-   "prod_dados": {
-    "itemId": "20026677093",
-    "nome": "Beijinho Cajuzinho Casadinho Olho de Sogra Docinho de Queijo Sabores Variados c/",
-    "preco": 11.99,
-    "nota": 4.6,
-    "vendas": 157,
-    "comissao": 0.03,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md9dncalmc6qf5",
-    "offerLink": "https://s.shopee.com.br/1W0GuWAS6S",
-    "campanha": "",
-    "modo": "parecido"
-   },
-   "metricas": {
-    "views": 271,
-    "likes": 1,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-31"
-   },
-   "link_coment": "https://s.shopee.com.br/1W0GuWAS6S",
-   "link_em": "2026-10-27T10:37:09.236130-04:00",
-   "link_views": 0
-  },
   {
    "id": "18146936569585717",
    "insp": "70192e2aab",
@@ -1253,6 +1216,14 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgr21ik9cvlsea",
     "campanha": ""
    }
+  },
+  {
+   "id": "18090080810678249",
+   "insp": "3a51bc27e7",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: por que todo mundo finge que nunca dormiu no ombro de um desconhecido no ônibus voltando cansado para casa",
+   "quando": "2026-10-31T20:37:08.565264-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4253,10 +4224,11 @@
   "17903038068671776",
   "18082442870369645",
   "18095143253173101",
-  "18132900613745825"
+  "18132900613745825",
+  "18131876980832153",
+  "17914861065538006"
  ],
  "hashes": [
-  "9cecc2e168eef687994d5434addf9b6d",
   "9808e3443c186e81200d25d4735c78b8",
   "a3180cc9e6c15e83e86a403dc10fbead",
   "9ec753fb40dead2ad66d0585496aab6c",
@@ -4455,7 +4427,8 @@
   "c8a2e7fa55746c6d4194c6e55c240cc8",
   "c8f106e1058d9f383f5ac046a3920bf1",
   "db0f6a2c64d4a2b808172e0280b42bd9",
-  "1cbc33ea3f353808f8aecc3d59ed9541"
+  "1cbc33ea3f353808f8aecc3d59ed9541",
+  "fe62750c8cda9662833a131c7dec09dd"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4773,7 +4746,8 @@
   "2096a4fb50": 1793471856.3255594,
   "00e682aa73": 1793479087.9723935,
   "1e650f09c7": 1793482688.9461372,
-  "1fa67b78db": 1793484448.2494302
+  "1fa67b78db": 1793484448.2494302,
+  "3a51bc27e7": 1793493489.3505154
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4854,15 +4828,11 @@
   "9a29b96b2d": 1,
   "dd9269ced5": 1,
   "2ba050da11": 1,
-  "11f446338b": 1
+  "11f446338b": 1,
+  "030c87dfcf": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "sete mil no uno era outro mundo mesmo, hoje em dia isso não paga nem o documento kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "depois que a tecnologia entra na rotina ninguém quer voltar pra trás kkk",
    "p": "concorda",
@@ -5007,6 +4977,11 @@
    "t": "exato, achar tomada virou uma caça ao tesouro kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "passou pela evolucao completa dos classicos aos zero km",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6326,7 +6301,8 @@
    "preco de outra",
    "esse classico ai",
    "sete mil no",
-   "literalmente uma vacina"
+   "literalmente uma vacina",
+   "passou pela evolucao"
   ],
   "18000103242043456": [
    "essa fatura tem",
