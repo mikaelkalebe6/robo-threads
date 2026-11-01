@@ -17,11 +17,13 @@
    "16:58",
    "20:31"
   ],
-  "feitos": [],
+  "feitos": [
+   "11:36"
+  ],
   "produtos_feitos": 0,
-  "respostas": 17,
+  "respostas": 18,
   "por_post": {
-   "18090080810678249": 11,
+   "18090080810678249": 12,
    "18106825157572440": 2,
    "18000103242043456": 1,
    "17918328729462329": 2,
@@ -29,24 +31,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18231002650327248",
-   "insp": "41c97f7daf",
-   "link": "",
-   "texto": "ME CONTA: o crush de vocês veio do Tinder ou de rolê aleatório?",
-   "quando": "2026-10-26T18:07:08.028743-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T10:37:09.236130-04:00",
-   "metricas": {
-    "views": 305,
-    "likes": 1,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-01"
-   }
-  },
   {
    "id": "18107493095575809",
    "insp": "video_ac9fb06008",
@@ -1328,10 +1312,17 @@
     "shares": 0,
     "em": "2026-11-01"
    }
+  },
+  {
+   "id": "17921144301452722",
+   "insp": "076d4def4f",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: a meta de economizar dinheiro este ano morreu em fevereiro.",
+   "quando": "2026-11-01T11:37:07.861302-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18108363686223684",
   "18118516045738547",
   "18113828329838901",
   "17885352150494754",
@@ -4330,10 +4321,10 @@
   "17886453582624205",
   "18229824199328609",
   "18287046697288548",
-  "18474563539137750"
+  "18474563539137750",
+  "18109713314578621"
  ],
  "hashes": [
-  "a3180cc9e6c15e83e86a403dc10fbead",
   "9ec753fb40dead2ad66d0585496aab6c",
   "8925d0f6297c3ef244db0fe7af6632db",
   "1e7d4f4807e180a4a21d9ef82d303a35",
@@ -4532,7 +4523,8 @@
   "db0f6a2c64d4a2b808172e0280b42bd9",
   "1cbc33ea3f353808f8aecc3d59ed9541",
   "fe62750c8cda9662833a131c7dec09dd",
-  "df0f0f164675125c2f2e419af0f50022"
+  "df0f0f164675125c2f2e419af0f50022",
+  "ef94f165cd2347b409b4ea2a0220b27d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4852,7 +4844,8 @@
   "1e650f09c7": 1793482688.9461372,
   "1fa67b78db": 1793484448.2494302,
   "3a51bc27e7": 1793493489.3505154,
-  "4bd21fcc8d": 1793497046.4816182
+  "4bd21fcc8d": 1793497046.4816182,
+  "076d4def4f": 1793547486.5774412
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4873,15 +4866,11 @@
   "8891bec714": 1,
   "39a12b625d": 1,
   "21641b50fa": 1,
-  "c8cebdbb79": 1
+  "c8cebdbb79": 1,
+  "56303b90a5": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "medir o espaço dos outros para não encostar virou esporte olímpico",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "sorte a sua que nunca pegou aquela linha longa e cansativa",
    "p": "neutra",
@@ -5026,6 +5015,11 @@
    "t": "medida drástica mas necessária pra salvar a própria sanidade",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "virou apoio oficial de cabeça alheia kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6403,7 +6397,6 @@
    "o arrependimento so"
   ],
   "18090080810678249": [
-   "sorte a sua",
    "pesado demais o",
    "justo a coluna",
    "a tosse falsa",
@@ -6422,7 +6415,8 @@
    "abracar a bolsa",
    "nunca passou pelo",
    "doze minutos e",
-   "no aviao a"
+   "no aviao a",
+   "virou apoio oficial"
   ],
   "18115218803125363": [
    "investimento de alto",
