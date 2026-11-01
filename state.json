@@ -21,12 +21,13 @@
    "11:36",
    "12:18",
    "13:29",
-   "15:16"
+   "15:16",
+   "16:58"
   ],
-  "produtos_feitos": 1,
-  "respostas": 42,
+  "produtos_feitos": 2,
+  "respostas": 43,
   "por_post": {
-   "18090080810678249": 15,
+   "18090080810678249": 16,
    "18106825157572440": 4,
    "18000103242043456": 1,
    "17918328729462329": 2,
@@ -37,24 +38,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18122836490511425",
-   "insp": "aa28edd6a1",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: gastei horas montando uma fantasia perfeita de Halloween e na hora da festa todo mundo achou que eu era só uma pessoa comum com dor de cabeça.",
-   "quando": "2026-10-27T10:07:10.120163-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T10:07:10.120163-04:00",
-   "metricas": {
-    "views": 242,
-    "likes": 7,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-01"
-   }
-  },
   {
    "id": "18337660753302886",
    "insp": "video_1eed5ab929",
@@ -1286,10 +1269,29 @@
    "texto": "Confissão: ouço áudio no dois x e finjo que peguei todas as referências. Difícil demais acompanhar quem não vai direto ao ponto.",
    "quando": "2026-11-01T15:37:08.243164-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18110025206217118",
+   "insp": "prod_22898339820",
+   "link": "",
+   "texto": "Cortar carne com faca cega em churrasco dá um ódio danado, né? 😂 Descobri esse cutelo profissional que corta qualquer peça com uma facilidade absurda e ainda tem um peso ótimo na mão. Olha como funciona 👀",
+   "quando": "2026-11-01T17:07:08.266415-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "22898339820",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "22898339820",
+    "nome": "Cutelo lnox Profissional Cabo King Artesanal Churrasco Cozinha",
+    "offerLink": "https://s.shopee.com.br/7fb3C5vyGr",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-m7joypmiamnpcf",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
-  "18435441943183241",
   "18392131804167159",
   "18409124563091007",
   "17977648430921451",
@@ -4288,7 +4290,8 @@
   "18119552153279155",
   "18139450357629496",
   "18036412340852135",
-  "18042649904641633"
+  "18042649904641633",
+  "18111178232219052"
  ],
  "hashes": [
   "1e7d4f4807e180a4a21d9ef82d303a35",
@@ -4855,15 +4858,11 @@
   "d442ab75c4": 1,
   "2307989de4": 1,
   "3a4f6eb0bb": 1,
-  "6d527aad59": 1
+  "6d527aad59": 1,
+  "97dc20ffab": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "dois mil reais comprava uma relíquia dessas antigamente",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "nunca passou pelo teste supremo da linha de ônibus lotada",
    "p": "ressalva",
@@ -5007,6 +5006,11 @@
   {
    "t": "sobre quem enrola três minutos pra falar o que cabia em uma linha",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "com essa paz toda da pra escolher a poltrona inteira",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6351,7 +6355,6 @@
    "o arrependimento so"
   ],
   "18090080810678249": [
-   "dormir em pe",
    "a janela pelo",
    "te entendo o",
    "esse quase tombo",
@@ -6370,7 +6373,8 @@
    "virou apoio oficial",
    "ir parar na",
    "virou um ato",
-   "dormir no pe"
+   "dormir no pe",
+   "com essa paz"
   ],
   "18115218803125363": [
    "investimento de alto",
@@ -6751,7 +6755,8 @@
   "22798000771": "2026-10-31T09:07:09.121448-04:00",
   "18599882228": "2026-11-01T07:07:08.994390-04:00",
   "58257502470": "2026-11-01T07:07:08.994390-04:00",
-  "18058588578": "2026-11-01T07:07:08.994390-04:00"
+  "18058588578": "2026-11-01T07:07:08.994390-04:00",
+  "22898339820": "2026-11-01T17:07:08.266415-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
