@@ -25,7 +25,7 @@
    "16:58"
   ],
   "produtos_feitos": 2,
-  "respostas": 43,
+  "respostas": 44,
   "por_post": {
    "18090080810678249": 16,
    "18106825157572440": 4,
@@ -33,7 +33,7 @@
    "17918328729462329": 2,
    "18119185082003862": 3,
    "17921144301452722": 10,
-   "18120849176091114": 5,
+   "18120849176091114": 6,
    "18110708246187465": 2
   }
  },
@@ -1292,7 +1292,6 @@
   }
  ],
  "respondidos": [
-  "18392131804167159",
   "18409124563091007",
   "17977648430921451",
   "17990702031110810",
@@ -4291,7 +4290,8 @@
   "18139450357629496",
   "18036412340852135",
   "18042649904641633",
-  "18111178232219052"
+  "18111178232219052",
+  "18116449742160039"
  ],
  "hashes": [
   "1e7d4f4807e180a4a21d9ef82d303a35",
@@ -4859,15 +4859,11 @@
   "2307989de4": 1,
   "3a4f6eb0bb": 1,
   "6d527aad59": 1,
-  "97dc20ffab": 1
+  "97dc20ffab": 1,
+  "ee96476e0e": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "nunca passou pelo teste supremo da linha de ônibus lotada",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "doze minutos é o tempo exato para piscar e já chegar",
    "p": "neutra",
@@ -5010,6 +5006,11 @@
   },
   {
    "t": "com essa paz toda da pra escolher a poltrona inteira",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa leveza de ver tudo se ajeitar depois dá até uma acalmada na alma",
    "p": "concorda",
    "r": 0
   }
@@ -6397,7 +6398,8 @@
    "verdade o tempo",
    "o universo chutando",
    "trabalho duro sem",
-   "agora ja foi"
+   "agora ja foi",
+   "essa leveza de"
   ],
   "18110708246187465": [
    "memoria de peixe",
