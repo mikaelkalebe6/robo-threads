@@ -37,7 +37,7 @@
    "21:32"
   ],
   "produtos_feitos": 3,
-  "respostas": 100,
+  "respostas": 101,
   "por_post": {
    "18059672663796327": 11,
    "18036187742666195": 6,
@@ -51,7 +51,7 @@
    "18119185082003862": 5,
    "18135924433780729": 1,
    "18090080810678249": 12,
-   "18115218803125363": 1
+   "18115218803125363": 2
   }
  },
  "posts": [
@@ -1220,7 +1220,6 @@
   }
  ],
  "respondidos": [
-  "18111794804130178",
   "18135498910728696",
   "18412562725082845",
   "18111094925149125",
@@ -4219,7 +4218,8 @@
   "18134574616774667",
   "18127959655681388",
   "18131686633840211",
-  "18469631581186576"
+  "18469631581186576",
+  "18438810454196729"
  ],
  "hashes": [
   "a3180cc9e6c15e83e86a403dc10fbead",
@@ -4835,15 +4835,11 @@
   "5cb4040ec7": 1,
   "ad5a8594e2": 1,
   "3e346271a0": 1,
-  "ddefe84af2": 1
+  "ddefe84af2": 1,
+  "e2e28dd154": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "isso já entra na categoria de crueldade mental kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "economia de tempo e de paciência que virava só um aviso na caixa de entrada",
    "p": "concorda",
@@ -4986,6 +4982,11 @@
   },
   {
    "t": "investimento de alto risco na epoca kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "dois reais na epoca já faziam a gente se sentir bilionária kkkk",
    "p": "concorda",
    "r": 1
   }
@@ -6348,7 +6349,8 @@
    "socorro o limite"
   ],
   "18115218803125363": [
-   "investimento de alto"
+   "investimento de alto",
+   "dois reais na"
   ]
  },
  "shopee_checada": "2026-10-31|1",
