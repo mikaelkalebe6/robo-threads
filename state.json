@@ -19,12 +19,12 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 13,
   "por_post": {
    "18090080810678249": 8,
    "18106825157572440": 2,
    "18000103242043456": 1,
-   "17918328729462329": 1
+   "17918328729462329": 2
   }
  },
  "posts": [
@@ -1327,7 +1327,6 @@
   }
  ],
  "respondidos": [
-  "17909005851509229",
   "17974554758935452",
   "18053256269801307",
   "18098862710385902",
@@ -4326,7 +4325,8 @@
   "18471463246190940",
   "17912779290490989",
   "18133351963835528",
-  "17954617737338895"
+  "17954617737338895",
+  "18036956675668834"
  ],
  "hashes": [
   "a3180cc9e6c15e83e86a403dc10fbead",
@@ -4864,15 +4864,11 @@
   "6558fb2f83": 1,
   "86c23d4796": 1,
   "7dadcfae14": 1,
-  "c40ae71b43": 1
+  "c40ae71b43": 1,
+  "91bb010f52": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "exato, achar tomada virou uma caça ao tesouro kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "passou pela evolucao completa dos classicos aos zero km",
    "p": "concorda",
@@ -5017,6 +5013,11 @@
    "t": "abraçar a bolsa é a nossa armadura oficial contra qualquer encostada kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "dois mil reais comprava uma relíquia dessas antigamente",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6333,7 +6334,8 @@
    "sete mil no",
    "literalmente uma vacina",
    "passou pela evolucao",
-   "o historico completo"
+   "o historico completo",
+   "dois mil reais"
   ],
   "18000103242043456": [
    "essa fatura tem",
