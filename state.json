@@ -23,14 +23,14 @@
    "13:29"
   ],
   "produtos_feitos": 1,
-  "respostas": 36,
+  "respostas": 39,
   "por_post": {
-   "18090080810678249": 14,
+   "18090080810678249": 15,
    "18106825157572440": 4,
    "18000103242043456": 1,
    "17918328729462329": 2,
    "18119185082003862": 3,
-   "17921144301452722": 7,
+   "17921144301452722": 9,
    "18120849176091114": 5
   }
  },
@@ -1302,9 +1302,6 @@
   }
  ],
  "respondidos": [
-  "18217353394347431",
-  "17909830674508039",
-  "18076032617426190",
   "18111894275150350",
   "18148744297557695",
   "18163934716486548",
@@ -4301,7 +4298,10 @@
   "17899536528611133",
   "17978690997163818",
   "17977399410138199",
-  "18648354343031237"
+  "18648354343031237",
+  "18106751708251350",
+  "18110519537213707",
+  "18119552153279155"
  ],
  "hashes": [
   "8925d0f6297c3ef244db0fe7af6632db",
@@ -4862,25 +4862,13 @@
   "d68b3911da": 1,
   "60878986a3": 1,
   "01af5a7598": 1,
-  "2fb0b5c231": 1
+  "2fb0b5c231": 1,
+  "9511b8ab92": 1,
+  "d442ab75c4": 1,
+  "2307989de4": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "autocontrole invejável para não virar travesseiro alheio",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "medo legitimo, perder o ponto custa caro demais",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "inveja branca dessa resistencia toda",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "quem usa na estrada assim nem olha para trás",
    "p": "concorda",
@@ -5015,6 +5003,21 @@
    "t": "queria ter essa mesma inocência pra encarar o extrato do banco",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "alguém precisa manter as estatísticas vivas kkkk",
+   "p": "discorda",
+   "r": 1
+  },
+  {
+   "t": "antecipou as novidades de todo o semestre de uma vez só",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dormir no pé do vendedor de cerveja é nível hard de festa kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6364,7 +6367,6 @@
    "o arrependimento so"
   ],
   "18090080810678249": [
-   "a tosse falsa",
    "dormir em pe",
    "a janela pelo",
    "te entendo o",
@@ -6383,7 +6385,8 @@
    "no aviao a",
    "virou apoio oficial",
    "ir parar na",
-   "virou um ato"
+   "virou um ato",
+   "dormir no pe"
   ],
   "18115218803125363": [
    "investimento de alto",
@@ -6396,7 +6399,9 @@
    "outubro ja e",
    "matematica avancada onde",
    "nem deu tempo",
-   "queria ter essa"
+   "queria ter essa",
+   "alguem precisa manter",
+   "antecipou as novidades"
   ],
   "18120849176091114": [
    "comecar cedo assim",
