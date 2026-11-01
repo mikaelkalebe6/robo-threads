@@ -33,10 +33,11 @@
    "17:18",
    "17:58",
    "19:05",
-   "20:21"
+   "20:21",
+   "21:32"
   ],
   "produtos_feitos": 3,
-  "respostas": 88,
+  "respostas": 94,
   "por_post": {
    "18059672663796327": 11,
    "18036187742666195": 6,
@@ -49,28 +50,10 @@
    "18153105085554734": 1,
    "18119185082003862": 5,
    "18135924433780729": 1,
-   "18090080810678249": 2
+   "18090080810678249": 8
   }
  },
  "posts": [
-  {
-   "id": "18146936569585717",
-   "insp": "70192e2aab",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: tentar economizar em ferramenta é pedir para o barato sair caro. Paguei o dobro só para refazer o serviço.",
-   "quando": "2026-10-26T17:37:09.192926-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-27T10:37:09.236130-04:00",
-   "metricas": {
-    "views": 320,
-    "likes": 6,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-10-31"
-   }
-  },
   {
    "id": "18231002650327248",
    "insp": "41c97f7daf",
@@ -1225,15 +1208,17 @@
    "texto": "VAMOS SER HONESTOS: por que todo mundo finge que nunca dormiu no ombro de um desconhecido no ônibus voltando cansado para casa",
    "quando": "2026-10-31T20:37:08.565264-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18115218803125363",
+   "insp": "4bd21fcc8d",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: todo mundo já teve aquele tio que inventava que tirava moeda de trás da orelha e a gente acreditava mesmo sabendo que não fazia o menor sentido",
+   "quando": "2026-10-31T21:37:09.134798-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18130011829688374",
-  "18096994556094635",
-  "18379904980239889",
-  "18353518105171045",
-  "18097066424081383",
-  "17956909980252133",
   "18434131282198676",
   "18096007418411291",
   "18117744689053290",
@@ -4227,10 +4212,15 @@
   "17914861065538006",
   "18113832467128582",
   "18170192494499464",
-  "18118415945004044"
+  "18118415945004044",
+  "18065527094626339",
+  "18387214180232017",
+  "17939124768125223",
+  "18093935357670926",
+  "18100812224559218",
+  "18289032958291940"
  ],
  "hashes": [
-  "9808e3443c186e81200d25d4735c78b8",
   "a3180cc9e6c15e83e86a403dc10fbead",
   "9ec753fb40dead2ad66d0585496aab6c",
   "8925d0f6297c3ef244db0fe7af6632db",
@@ -4429,7 +4419,8 @@
   "c8f106e1058d9f383f5ac046a3920bf1",
   "db0f6a2c64d4a2b808172e0280b42bd9",
   "1cbc33ea3f353808f8aecc3d59ed9541",
-  "fe62750c8cda9662833a131c7dec09dd"
+  "fe62750c8cda9662833a131c7dec09dd",
+  "df0f0f164675125c2f2e419af0f50022"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4748,7 +4739,8 @@
   "00e682aa73": 1793479087.9723935,
   "1e650f09c7": 1793482688.9461372,
   "1fa67b78db": 1793484448.2494302,
-  "3a51bc27e7": 1793493489.3505154
+  "3a51bc27e7": 1793493489.3505154,
+  "4bd21fcc8d": 1793497046.4816182
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4784,7 +4776,7 @@
   "db1cb74f80": 1,
   "4daac2f246": 1,
   "de65ea543a": 1,
-  "366fd5e9e4": 1,
+  "366fd5e9e4": 2,
   "26b8d9fd47": 1,
   "2307989de4": 1,
   "bbffb0d1df": 1,
@@ -4813,7 +4805,7 @@
   "8929f505f4": 1,
   "05f2b34d8e": 1,
   "b0d482e586": 1,
-  "f5562bf7f8": 1,
+  "f5562bf7f8": 2,
   "82d123d164": 1,
   "ee1705420f": 1,
   "af86f82800": 1,
@@ -4833,40 +4825,14 @@
   "030c87dfcf": 1,
   "cc6d1c46c8": 1,
   "f1bfc7c1c4": 1,
-  "2305106d21": 1
+  "2305106d21": 1,
+  "ab055d8180": 1,
+  "2d457c714a": 1,
+  "d621eaaa42": 1,
+  "db407d487e": 1
  },
  "reservas_checadas": "2026-10-31",
  "ultimas_respostas": [
-  {
-   "t": "para o dia a dia parece ótimo mesmo, o problema é planejar estrada sem sofrimento",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o hibrido tira a pressao de ter que achar tomada no meio do caminho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dois pontos que pesam na decisão e fazem qualquer um pensar duas vezes",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "exato, essa parte burocrática do condomínio costuma ser o primeiro balde de água fria",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "para rodar só na cidade o carregador em casa já resolve metade do problema",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "passar raiva com planejamento de viagem é o maior teste de paciência",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "ter onde carregar em casa muda completamente o peso dessa conta",
    "p": "concorda",
@@ -4986,6 +4952,36 @@
    "t": "para rodar pouco na cidade faz todo o sentido mesmo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "medir o espaço dos outros para não encostar virou esporte olímpico",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sorte a sua que nunca pegou aquela linha longa e cansativa",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "pesado demais, o transporte público às vezes vira um lugar muito inseguro",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "justo, a coluna agradece a preferência pela cama",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "a tosse falsa é a melhor tentativa de manter a dignidade kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "dormir em pé já é nível hard de cansaço kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6354,7 +6350,13 @@
   ],
   "18090080810678249": [
    "a mascara pelo",
-   "esse quase cair"
+   "esse quase cair",
+   "medir o espaco",
+   "sorte a sua",
+   "pesado demais o",
+   "justo a coluna",
+   "a tosse falsa",
+   "dormir em pe"
   ]
  },
  "shopee_checada": "2026-10-31|1",
