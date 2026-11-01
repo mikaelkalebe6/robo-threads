@@ -25,15 +25,15 @@
    "16:58"
   ],
   "produtos_feitos": 2,
-  "respostas": 44,
+  "respostas": 46,
   "por_post": {
    "18090080810678249": 16,
    "18106825157572440": 4,
    "18000103242043456": 1,
    "17918328729462329": 2,
    "18119185082003862": 3,
-   "17921144301452722": 10,
-   "18120849176091114": 6,
+   "17921144301452722": 11,
+   "18120849176091114": 7,
    "18110708246187465": 2
   }
  },
@@ -1292,8 +1292,6 @@
   }
  ],
  "respondidos": [
-  "18409124563091007",
-  "17977648430921451",
   "17990702031110810",
   "17923506603426509",
   "17908319028508304",
@@ -4291,7 +4289,9 @@
   "18036412340852135",
   "18042649904641633",
   "18111178232219052",
-  "18116449742160039"
+  "18116449742160039",
+  "18013974098763937",
+  "18097180532688242"
  ],
  "hashes": [
   "1e7d4f4807e180a4a21d9ef82d303a35",
@@ -4860,20 +4860,12 @@
   "3a4f6eb0bb": 1,
   "6d527aad59": 1,
   "97dc20ffab": 1,
-  "ee96476e0e": 1
+  "ee96476e0e": 1,
+  "d621eaaa42": 1,
+  "9016614769": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "doze minutos é o tempo exato para piscar e já chegar",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "no avião a turbulencia não deixa ninguém ter paz kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "medida drástica mas necessária pra salvar a própria sanidade",
    "p": "concorda",
@@ -5013,6 +5005,16 @@
    "t": "essa leveza de ver tudo se ajeitar depois dá até uma acalmada na alma",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "Entendo, também quero largar tudo e recomeçar, vamos nessa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, guardar 30% é sagrado, mas a conta do banco adora brincar kk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6391,7 +6393,8 @@
    "queria ter essa",
    "alguem precisa manter",
    "antecipou as novidades",
-   "estrategia infalivel para"
+   "estrategia infalivel para",
+   "verdade guardar 30"
   ],
   "18120849176091114": [
    "comecar cedo assim",
@@ -6399,7 +6402,8 @@
    "o universo chutando",
    "trabalho duro sem",
    "agora ja foi",
-   "essa leveza de"
+   "essa leveza de",
+   "entendo tambem quero"
   ],
   "18110708246187465": [
    "memoria de peixe",
