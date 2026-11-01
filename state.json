@@ -23,14 +23,15 @@
    "13:29"
   ],
   "produtos_feitos": 1,
-  "respostas": 28,
+  "respostas": 33,
   "por_post": {
    "18090080810678249": 14,
    "18106825157572440": 3,
    "18000103242043456": 1,
    "17918328729462329": 2,
    "18119185082003862": 3,
-   "17921144301452722": 5
+   "17921144301452722": 6,
+   "18120849176091114": 4
   }
  },
  "posts": [
@@ -1301,12 +1302,6 @@
   }
  ],
  "respondidos": [
-  "18195303247389425",
-  "18411626095095710",
-  "18356388205221519",
-  "17915001867260714",
-  "18031185674674360",
-  "18195528751391487",
   "18094530125558489",
   "18097451762386456",
   "17912879907525974",
@@ -4300,7 +4295,13 @@
   "18469548706142566",
   "18041666096839902",
   "18079370681429184",
-  "18084893387353316"
+  "18084893387353316",
+  "18134339416796140",
+  "18193813507396132",
+  "18121387901050954",
+  "18114288197135622",
+  "18358135609172882",
+  "17899536528611133"
  ],
  "hashes": [
   "8925d0f6297c3ef244db0fe7af6632db",
@@ -4853,37 +4854,16 @@
   "46f3a9d5ed": 1,
   "1fd588d7a0": 1,
   "d98240b8ff": 2,
-  "0521dbc115": 1,
+  "0521dbc115": 2,
   "925db79163": 1,
-  "c3c56c5459": 1
+  "c3c56c5459": 1,
+  "749e2aeb05": 1,
+  "d34228711c": 1,
+  "d68b3911da": 1,
+  "60878986a3": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "investimento de alto risco na epoca kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "dois reais na epoca já faziam a gente se sentir bilionária kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pessoa de ferro que nunca passou por um cansaço assim na vida",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "pensando bem o hibrido acaba sendo o caminho mais seguro para não ficar preso no meio do caminho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quando junta tudo isso no fim do mês parece que a gente trabalha só para pagar boleto",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "o histórico completo de modelos que marcaram época",
    "p": "concorda",
@@ -5008,6 +4988,31 @@
    "t": "virou um ato de generosidade gigante no meio do caos",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "começar cedo assim exigiu muita fibra",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, o tempo joga a favor quando a gente decide mudar de rumo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o universo chutando a gente pro lugar certo kkkkkk que final feliz",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "trabalho duro sem garantia é o roteiro padrão de quem tenta a sorte",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nem deu tempo de esquentar a cadeira e a conta já tava chorando kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6090,21 +6095,6 @@
   }
  ],
  "aberturas_post": {
-  "17980455462130729": [
-   "uma licao que",
-   "dez anos sem",
-   "melhor jeito de",
-   "conselho de familia",
-   "eu tambem nunca",
-   "confio mas cartao",
-   "regra de ouro",
-   "comida na mesa",
-   "escola da vida",
-   "cartao emprestado a",
-   "nem com o",
-   "licao aprendida do",
-   "paz de espirito"
-  ],
   "18091692569222965": [
    "pelo menos o",
    "responder a propria",
@@ -6401,7 +6391,14 @@
    "a teoria e",
    "carro e um",
    "outubro ja e",
-   "matematica avancada onde"
+   "matematica avancada onde",
+   "nem deu tempo"
+  ],
+  "18120849176091114": [
+   "comecar cedo assim",
+   "verdade o tempo",
+   "o universo chutando",
+   "trabalho duro sem"
   ]
  },
  "shopee_checada": "2026-11-01|1",
