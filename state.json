@@ -22,60 +22,23 @@
    "12:18",
    "13:29",
    "15:16",
-   "16:58"
+   "16:58",
+   "18:21"
   ],
   "produtos_feitos": 2,
-  "respostas": 46,
+  "respostas": 49,
   "por_post": {
-   "18090080810678249": 16,
+   "18090080810678249": 18,
    "18106825157572440": 4,
    "18000103242043456": 1,
    "17918328729462329": 2,
-   "18119185082003862": 3,
+   "18119185082003862": 4,
    "17921144301452722": 11,
    "18120849176091114": 7,
    "18110708246187465": 2
   }
  },
  "posts": [
-  {
-   "id": "18337660753302886",
-   "insp": "video_1eed5ab929",
-   "link": "",
-   "texto": "Descobri esse truque pra roupa preta que desbota: lavar de novo e a cor volta. Olha como funciona 👀",
-   "quando": "2026-10-27T11:07:19.363213-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "23499364961",
-   "link_pendente": false,
-   "modo_produto": "tema",
-   "prod_dados": {
-    "itemId": "23499364961",
-    "nome": "Detergente Roupa Preta Protege O Preto | Realça A Cor | Evita Desbotamento 1kg A",
-    "preco": 24.64,
-    "nota": 4.9,
-    "vendas": 1527,
-    "comissao": 0.16,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mll99udq0ao7d0",
-    "offerLink": "https://s.shopee.com.br/6q1oUenk4v",
-    "campanha": "",
-    "modo": "tema"
-   },
-   "metricas": {
-    "views": 342,
-    "likes": 1,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-01"
-   },
-   "link_coment": "https://s.shopee.com.br/6q1oUenk4v",
-   "link_em": "2026-10-28T07:07:10.960636-04:00",
-   "link_views": 0
-  },
   {
    "id": "17959658355013450",
    "insp": "1c1d414be8",
@@ -1289,12 +1252,17 @@
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-m7joypmiamnpcf",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "18117354662032853",
+   "insp": "648ff7fceb",
+   "link": "",
+   "texto": "Quem mais perdeu a paciência com crush só porque a pessoa mastigava fazendo barulho?",
+   "quando": "2026-11-01T18:37:08.040899-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17990702031110810",
-  "17923506603426509",
-  "17908319028508304",
   "18638857192057429",
   "17940155466100355",
   "18162524482430977",
@@ -4291,10 +4259,12 @@
   "18111178232219052",
   "18116449742160039",
   "18013974098763937",
-  "18097180532688242"
+  "18097180532688242",
+  "17880395049632415",
+  "18031911353687302",
+  "18220895407355781"
  ],
  "hashes": [
-  "1e7d4f4807e180a4a21d9ef82d303a35",
   "304eb72b0b2900835ebd0ebab9771b3d",
   "923cd7619535e817ddaaac108cfd3ae1",
   "a240bc3a930cb570f0d7e65d0528d808",
@@ -4493,7 +4463,8 @@
   "df0f0f164675125c2f2e419af0f50022",
   "ef94f165cd2347b409b4ea2a0220b27d",
   "69cd1fa41ad72b4d6fde3c44c3ae9453",
-  "6212450f8d9caf546011af74ecae33fc"
+  "6212450f8d9caf546011af74ecae33fc",
+  "6ed0895b56a8563f1079f91daaaaba34"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4816,7 +4787,8 @@
   "4bd21fcc8d": 1793497046.4816182,
   "076d4def4f": 1793547486.5774412,
   "4176f68ac7": 1793554670.193656,
-  "2abbca2759": 1793561891.0220225
+  "2abbca2759": 1793561891.0220225,
+  "648ff7fceb": 1793572639.0643594
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4862,25 +4834,13 @@
   "97dc20ffab": 1,
   "ee96476e0e": 1,
   "d621eaaa42": 1,
-  "9016614769": 1
+  "9016614769": 1,
+  "b295981e5f": 1,
+  "13c0779224": 1,
+  "49e5d490f8": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "medida drástica mas necessária pra salvar a própria sanidade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "virou apoio oficial de cabeça alheia kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sorte de quem continua com saldo na conta",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "quem dera ter essa mesma disciplina",
    "p": "neutra",
@@ -5015,6 +4975,21 @@
    "t": "Verdade, guardar 30% é sagrado, mas a conta do banco adora brincar kk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "paz de espirito invejavel, quem dera ter essa mesma imunidade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "para quem tem o sono sensível assim, dormir fora é quase um esporte radical",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o pior nem é o sono, é a certeza de que a pose foi a pior possível",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6352,14 +6327,13 @@
    "perfil privado e",
    "medida drastica mas",
    "quem dera ter",
-   "respeito a sinceridade"
+   "respeito a sinceridade",
+   "paz de espirito"
   ],
   "18135924433780729": [
    "o arrependimento so"
   ],
   "18090080810678249": [
-   "a janela pelo",
-   "te entendo o",
    "esse quase tombo",
    "socorro o limite",
    "pessoa de ferro",
@@ -6377,7 +6351,9 @@
    "ir parar na",
    "virou um ato",
    "dormir no pe",
-   "com essa paz"
+   "com essa paz",
+   "para quem tem",
+   "o pior nem"
   ],
   "18115218803125363": [
    "investimento de alto",
