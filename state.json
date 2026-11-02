@@ -36,7 +36,7 @@
    "18:05"
   ],
   "produtos_feitos": 2,
-  "respostas": 63,
+  "respostas": 69,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -50,7 +50,7 @@
    "17953965141313574": 2,
    "18433923586146915": 2,
    "18147480598586721": 7,
-   "17870801802641111": 4
+   "17870801802641111": 10
   }
  },
  "posts": [
@@ -1254,12 +1254,6 @@
   }
  ],
  "respondidos": [
-  "17994276783021121",
-  "18234969319324265",
-  "18151158478535399",
-  "18354239869174922",
-  "18085271147700747",
-  "17907091686483560",
   "17992713635868299",
   "17948562498308194",
   "18097470014094209",
@@ -4253,7 +4247,13 @@
   "18098523311650296",
   "17969379132197386",
   "17974280241075738",
-  "18040596905845236"
+  "18040596905845236",
+  "17995898616053099",
+  "18017813102961348",
+  "18114736619122861",
+  "17984981136126409",
+  "17979469725070447",
+  "18125934850925461"
  ],
  "hashes": [
   "98b8d51463cc88195e8e678b55a7bd0d",
@@ -4853,40 +4853,16 @@
   "472e4683ce": 1,
   "1b1fc9f7dd": 1,
   "2cccb1e506": 1,
-  "67c4a494d3": 1
+  "67c4a494d3": 1,
+  "505a332ea4": 1,
+  "05722c1af6": 1,
+  "7e35141531": 1,
+  "3645eecd7d": 1,
+  "9195d046f6": 1,
+  "4c86acbe5f": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "esse papo de assento apertado por horas é o que mata qualquer vontade de voar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "três mil quilômetros é muita estrada, mudou de ideia bem a tempo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "verdade, o bolso manda na viagem toda kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pé na estrada dá uma sensação boa de liberdade que compensa as horas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sorvete resolve quase tudo, um ótimo plano pra salvar o domingo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "semi-novo alivia o bolso e evita o susto da desvalorização kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "deixar tudo pronto antes evita o caos da segunda",
    "p": "concorda",
@@ -5004,6 +4980,36 @@
   },
   {
    "t": "estratégia diferente para fugir do boleto kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "verdade, o dinheiro some antes da gente conseguir ver a cor dele",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "saúde mental em dia vale muito mais que qualquer conta no final do mês",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, recusar a folga para ganhar mais faz todo sentido kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o boleto infelizmente não aceita desconto de carga horaria",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "matemática implacável, nesse cálculo a gente sai no prejuízo mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "gorjeta em dolar resolve qualquer dilema trabalhista kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6420,7 +6426,13 @@
    "justo o boleto",
    "quem trabalha so",
    "nem tem como",
-   "estrategia diferente para"
+   "estrategia diferente para",
+   "verdade o dinheiro",
+   "saude mental em",
+   "justo recusar a",
+   "o boleto infelizmente",
+   "matematica implacavel nesse",
+   "gorjeta em dolar"
   ]
  },
  "shopee_checada": "2026-11-02|1",
