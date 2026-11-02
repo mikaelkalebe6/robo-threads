@@ -24,37 +24,21 @@
   ],
   "feitos": [
    "08:10",
-   "09:04"
+   "09:04",
+   "10:25"
   ],
-  "produtos_feitos": 0,
-  "respostas": 18,
+  "produtos_feitos": 1,
+  "respostas": 20,
   "por_post": {
-   "18129509551855569": 1,
+   "18129509551855569": 2,
    "18120849176091114": 6,
    "18090080810678249": 2,
    "18013529159994207": 2,
-   "18042505940779811": 5,
+   "18042505940779811": 6,
    "18121901744054913": 2
   }
  },
  "posts": [
-  {
-   "id": "17913815520480885",
-   "insp": "a05db3f0dd",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: essa história de acordar às cinco da manhã pra render mais só serve pra destruir a saúde mental de quem tenta. Parei com isso e agora durmo o que preciso, minha rotina agradece. Quem foi que inventou que sofrer cedo é sinônimo de sucesso?",
-   "quando": "2026-10-27T17:37:08.372588-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 10711,
-    "likes": 393,
-    "replies": 114,
-    "reposts": 2,
-    "quotes": 1,
-    "shares": 1,
-    "em": "2026-11-02"
-   }
-  },
   {
    "id": "17918222961259641",
    "insp": "5760d94547",
@@ -1295,11 +1279,29 @@
    "quando": "2026-11-02T09:07:08.741895-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "viral_chk": "2026-11-02T09:07:08.741895-04:00"
+  },
+  {
+   "id": "18116269181162947",
+   "insp": "prod_23793973526",
+   "link": "",
+   "texto": "Lixo solto no assoalho do carro dá um nervoso danado né 😂 Descobri esse organizador de couro sintético que encaixa direitinho e deixa tudo no lugar. Olha como funciona 👀",
+   "quando": "2026-11-02T10:37:18.204778-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "23793973526",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "23793973526",
+    "nome": "Lixeira Lixo Para Carro Couro Sintético Ecológico Porta Lixo Automotivo Universal Organizador Câmbio Console Veicular",
+    "offerLink": "https://s.shopee.com.br/W7uFpEyAQ",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhs1299y0hycf",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
-  "18267575659306227",
-  "18344321782265249",
   "18107906021163965",
   "17970234564163445",
   "17942501226356981",
@@ -4297,7 +4299,9 @@
   "17911191579484147",
   "17976292470152295",
   "18017373383750769",
-  "17969351607205684"
+  "17969351607205684",
+  "17974011411175683",
+  "18110378318228871"
  ],
  "hashes": [
   "1a924c6a15343ea79c49ea7444c6a610",
@@ -4848,20 +4852,12 @@
   "741e561152": 1,
   "c3e1674b05": 1,
   "587a00cf83": 1,
-  "5491f536c3": 1
+  "5491f536c3": 1,
+  "92d635c080": 1,
+  "8bc336af62": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "filha única joga sem concororrência nenhuma kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "consegue manter a postura intacta do inicio ao fim do trajeto",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "esse posto já vinha com dono carimbado desde o berço",
    "p": "concorda",
@@ -5001,6 +4997,16 @@
    "t": "sorte de quem nunca testou a ergonomia do banco do ônibus",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "é um alívio quando o sentimento vira só página virada",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "mestra da camuflagem esperando o desespero passar kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6398,14 +6404,16 @@
    "quem dera ter",
    "dez anos e",
    "essa amizade com",
-   "bater a cabeca"
+   "bater a cabeca",
+   "e um alivio"
   ],
   "18042505940779811": [
    "seu cachorro decidiu",
    "agora o computador",
    "filosofo e contemplativo",
    "socorro o jabuti",
-   "investimento pesado na"
+   "investimento pesado na",
+   "mestra da camuflagem"
   ],
   "18121901744054913": [
    "ate aceito a",
@@ -6690,7 +6698,7 @@
   "23193620740": "2026-11-01T20:37:08.698564-04:00",
   "58215032790": "2026-10-18T14:37:07.316029-04:00",
   "20999068051": "2026-10-18T16:37:07.393472-04:00",
-  "23793973526": "2026-10-18T18:07:08.425642-04:00",
+  "23793973526": "2026-11-02T10:37:18.204778-04:00",
   "45112715909": "2026-10-18T18:37:09.498020-04:00",
   "58260597282": "2026-10-18T19:07:08.244557-04:00",
   "58255515632": "2026-10-18T20:37:06.968659-04:00",
