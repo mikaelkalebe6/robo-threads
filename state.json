@@ -23,35 +23,20 @@
    "19:26"
   ],
   "feitos": [
-   "08:10"
+   "08:10",
+   "09:04"
   ],
   "produtos_feitos": 0,
-  "respostas": 7,
+  "respostas": 13,
   "por_post": {
    "18129509551855569": 1,
-   "18120849176091114": 4,
+   "18120849176091114": 5,
    "18090080810678249": 1,
-   "18013529159994207": 1
+   "18013529159994207": 2,
+   "18042505940779811": 4
   }
  },
  "posts": [
-  {
-   "id": "17912121543489279",
-   "insp": "4fcfb095d4",
-   "link": "",
-   "texto": "SEJAM SINCEROS: vocês atravessam a rua fingindo que viram alguma coisa interessante do outro lado ou só fingem que não viram a pessoa mesmo?",
-   "quando": "2026-10-27T15:37:09.435356-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 711,
-    "likes": 11,
-    "replies": 24,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-02"
-   }
-  },
   {
    "id": "17913815520480885",
    "insp": "a05db3f0dd",
@@ -1155,7 +1140,12 @@
     "shares": 0,
     "em": "2026-11-02"
    },
-   "viral_chk": "2026-11-02T08:37:09.410238-04:00"
+   "viral_chk": "2026-11-02T09:07:08.741895-04:00",
+   "link_coment": "https://s.shopee.com.br/2BG8EsmHXO",
+   "meme_comentado": true,
+   "meme_views": 1004,
+   "formato_link": "coment",
+   "produto": "58269029568"
   },
   {
    "id": "18110708246187465",
@@ -1295,15 +1285,18 @@
    "quando": "2026-11-02T08:37:09.410238-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "viral_chk": "2026-11-02T08:37:09.410238-04:00"
+  },
+  {
+   "id": "18121901744054913",
+   "insp": "362b6ca4e3",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: churrasco sem farofa fica faltando alguma coisa.",
+   "quando": "2026-11-02T09:07:08.741895-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-02T09:07:08.741895-04:00"
   }
  ],
  "respondidos": [
-  "18113861096044459",
-  "18138696196618247",
-  "18122404147933171",
-  "17966794899174695",
-  "17951098353314833",
-  "17972165252947558",
   "18118308260069061",
   "17877081948632308",
   "18185488654415039",
@@ -4297,10 +4290,15 @@
   "18128217145852867",
   "18139088755653923",
   "18221372731345477",
-  "17918269938530711"
+  "17918269938530711",
+  "18148528774571540",
+  "18107479601261696",
+  "18113576741591850",
+  "18340715044258311",
+  "18193507525397521",
+  "18028873058702473"
  ],
  "hashes": [
-  "f6e28494869959ca8f398b2fc8641758",
   "1a924c6a15343ea79c49ea7444c6a610",
   "28364cd36ae251ffe132cf77afca74e1",
   "95ad509b06d48f418a919888fe971f99",
@@ -4499,7 +4497,8 @@
   "6ed0895b56a8563f1079f91daaaaba34",
   "5f3be0057df7c5c312f4360be2643b71",
   "d917841c9fa94ad5922b484fca2bb800",
-  "d6f15cf9c593ff24c0193fac3a88ba77"
+  "d6f15cf9c593ff24c0193fac3a88ba77",
+  "1af3d86d93e0a01374439b83073abf8f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4825,7 +4824,8 @@
   "648ff7fceb": 1793572639.0643594,
   "7208b45268": 1793576284.6036692,
   "ddecfa5388": 1793585294.626591,
-  "b5bc8dc34f": 1793623042.3007572
+  "b5bc8dc34f": 1793623042.3007572,
+  "362b6ca4e3": 1793624898.7144878
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4836,40 +4836,16 @@
   "bd61987cb5": 1,
   "6ff4d8a42e": 1,
   "d98240b8ff": 1,
-  "25d4f84885": 1
+  "25d4f84885": 1,
+  "d5f72434b4": 1,
+  "da20b20a92": 1,
+  "3c9a95b07c": 1,
+  "0effa02a05": 1,
+  "51f0d28c68": 1,
+  "366fd5e9e4": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "com essa paz toda da pra escolher a poltrona inteira",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa leveza de ver tudo se ajeitar depois dá até uma acalmada na alma",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Entendo, também quero largar tudo e recomeçar, vamos nessa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Verdade, guardar 30% é sagrado, mas a conta do banco adora brincar kk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "paz de espirito invejavel, quem dera ter essa mesma imunidade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "para quem tem o sono sensível assim, dormir fora é quase um esporte radical",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "o pior nem é o sono, é a certeza de que a pose foi a pior possível",
    "p": "concorda",
@@ -4988,6 +4964,36 @@
   {
    "t": "a coroa da realeza ficou bem ocupada por aí",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "seu cachorro decidiu que o salario do seu pai e a sua identidade eram alvos legitimos kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "agora o computador tem um toque pessoal bem artístico",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "herdeiro legítimo do trono e dos privilégios kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "filosofo e contemplativo, só faltou a cadeira de praia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "socorro o jabuti achando que era a hora da reforma",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exato, essa conta de seis meses é a parte que faz o estômago dar uma reviravolta",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -5531,6 +5537,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-02T07:07:09.453875-04:00"
+  },
+  "18058329521807525": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-02T09:07:08.741895-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6086,28 +6097,6 @@
   }
  ],
  "aberturas_post": {
-  "17939308794122207": [
-   "nem todo mundo",
-   "esse pensamento passa",
-   "os gatos sempre",
-   "verdade absoluta paz",
-   "concordancia universal em",
-   "esse barulho da",
-   "bom demais e",
-   "simples assim sem",
-   "investigador de barulho",
-   "no calor a",
-   "inveja boa de",
-   "gatos sao os",
-   "bom dia lindona",
-   "concierge 24h so",
-   "exatamente liberdade sem",
-   "o travesseiro gelado",
-   "saida estrategica matinal",
-   "a casa vem",
-   "verdade fica faltando",
-   "a liberdade de"
-  ],
   "18114732275034207": [
    "o dinheiro some",
    "a materia prima",
@@ -6385,7 +6374,8 @@
    "dobrar o salario",
    "pelo menos a",
    "estatistica pesada essa",
-   "planejar certinho e"
+   "planejar certinho e",
+   "exato essa conta"
   ],
   "18110708246187465": [
    "memoria de peixe",
@@ -6396,7 +6386,8 @@
    "sempre tem um",
    "filha unica joga",
    "esse posto ja",
-   "a coroa da"
+   "a coroa da",
+   "herdeiro legitimo do"
   ],
   "18129509551855569": [
    "essa era forte",
@@ -6407,6 +6398,12 @@
    "dez anos e",
    "essa amizade com",
    "bater a cabeca"
+  ],
+  "18042505940779811": [
+   "seu cachorro decidiu",
+   "agora o computador",
+   "filosofo e contemplativo",
+   "socorro o jabuti"
   ]
  },
  "shopee_checada": "2026-11-02|1",
@@ -6682,7 +6679,7 @@
   "14065340258": "2026-10-17T15:37:07.980428-04:00",
   "58255737985": "2026-10-17T21:37:08.255141-04:00",
   "58254074073": "2026-10-17T21:37:08.255141-04:00",
-  "58269029568": "2026-10-17T23:07:07.434196-04:00",
+  "58269029568": "2026-11-02T09:07:08.741895-04:00",
   "19098752815": "2026-11-02T07:07:09.453875-04:00",
   "23193620740": "2026-11-01T20:37:08.698564-04:00",
   "58215032790": "2026-10-18T14:37:07.316029-04:00",
@@ -6757,7 +6754,7 @@
  },
  "meme_links_dia": {
   "data": "2026-11-02",
-  "qtd": 1
+  "qtd": 2
  },
  "carrosseis_usados": [
   "car-20261010-1",
