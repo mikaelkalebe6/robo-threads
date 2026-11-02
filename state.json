@@ -26,7 +26,8 @@
    "08:10",
    "09:04",
    "10:25",
-   "12:18"
+   "12:18",
+   "12:58"
   ],
   "produtos_feitos": 1,
   "respostas": 22,
@@ -40,27 +41,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18636852952008792",
-   "insp": "prod_21898099575",
-   "link": "",
-   "texto": "Ficar segurando o celular no GPS do carro é pedir pra tomar multa, né? 😂 Descobri esse suporte veicular que prende na ventilação e resolveu minha vida no trânsito. Olha como funciona 👀",
-   "quando": "2026-10-27T21:07:08.589314-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "21898099575",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "21898099575",
-    "nome": "Suporte Veicular Carro Para Celular 360 ° Giratório Universal Multifuncional Ventilacao Ar JE-12",
-    "offerLink": "https://s.shopee.com.br/4VdtRoohf4",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reo2-m82d3ghzzngx0d",
-    "campanha": ""
-   },
-   "apagado": true
-  },
   {
    "id": "17997865899028872",
    "insp": "3125348bad",
@@ -1293,6 +1273,14 @@
    "link": "",
    "texto": "ME CONTA: qual foi a última vez que você pagou a língua em um primeiro encontro? Deixar o outro escolher o lugar nem sempre é uma má ideia.",
    "quando": "2026-11-02T12:37:08.375262-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18047547587827876",
+   "insp": "b69825cad0",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: viajar de carro por horas ou encarar aeroporto e avião?",
+   "quando": "2026-11-02T13:07:13.723135-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4299,7 +4287,6 @@
   "18143267041612515"
  ],
  "hashes": [
-  "28364cd36ae251ffe132cf77afca74e1",
   "95ad509b06d48f418a919888fe971f99",
   "e1a49f02d5f15e11330f03b4640eab87",
   "ab9a28c40421f2977f6aca8b6e6dc076",
@@ -4498,7 +4485,8 @@
   "d917841c9fa94ad5922b484fca2bb800",
   "d6f15cf9c593ff24c0193fac3a88ba77",
   "1af3d86d93e0a01374439b83073abf8f",
-  "b8504013681f19710392e609c23b783d"
+  "b8504013681f19710392e609c23b783d",
+  "c710a0cf4b8e7b14432309ac1608d6cd"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4826,7 +4814,8 @@
   "ddecfa5388": 1793585294.626591,
   "b5bc8dc34f": 1793623042.3007572,
   "362b6ca4e3": 1793624898.7144878,
-  "ae61b38dfd": 1793637447.2890615
+  "ae61b38dfd": 1793637447.2890615,
+  "b69825cad0": 1793639290.484434
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
