@@ -29,7 +29,7 @@
    "21:41"
   ],
   "produtos_feitos": 3,
-  "respostas": 62,
+  "respostas": 65,
   "por_post": {
    "18090080810678249": 20,
    "18106825157572440": 4,
@@ -37,10 +37,10 @@
    "17918328729462329": 2,
    "18119185082003862": 4,
    "17921144301452722": 11,
-   "18120849176091114": 8,
+   "18120849176091114": 10,
    "18110708246187465": 2,
    "18013529159994207": 4,
-   "18129509551855569": 6
+   "18129509551855569": 7
   }
  },
  "posts": [
@@ -1241,9 +1241,6 @@
   }
  ],
  "respondidos": [
-  "17915651319453856",
-  "18116575241061800",
-  "17912054349537447",
   "17968630112960607",
   "17985100788076750",
   "18199992541378435",
@@ -4240,7 +4237,10 @@
   "17911009041580912",
   "18214894651362047",
   "18118428857010976",
-  "18120597313990385"
+  "18120597313990385",
+  "17962027002252675",
+  "18012413397002799",
+  "17953068126049034"
  ],
  "hashes": [
   "a240bc3a930cb570f0d7e65d0528d808",
@@ -4826,28 +4826,15 @@
   "7c07fd549c": 1,
   "c81e413c95": 1,
   "48e367447f": 1,
-  "59ac60735f": 1,
+  "59ac60735f": 2,
   "62123b9306": 1,
   "7074d90162": 1,
-  "f1bfc7c1c4": 1
+  "f1bfc7c1c4": 1,
+  "3f718d429f": 1,
+  "10e4ee44bc": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "nem deu tempo de esquentar a cadeira e a conta já tava chorando kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "conta de padaria que acaba pesando na revenda",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "agora já foi, só resta torcer para o balde cair em terreno macio kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "queria ter essa mesma inocência pra encarar o extrato do banco",
    "p": "ressalva",
@@ -4982,6 +4969,21 @@
    "t": "dez anos é quase uma carreira inteira de dedicação exclusiva",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "essa amizade com beneficios de sofrimento custou caro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "conselho de ouro, o boleto não espera a inspiracao chegar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse ano promete uns saltos no escuro kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6357,7 +6359,9 @@
    "agora ja foi",
    "essa leveza de",
    "entendo tambem quero",
-   "divorcio mexe com"
+   "divorcio mexe com",
+   "conselho de ouro",
+   "esse ano promete"
   ],
   "18110708246187465": [
    "memoria de peixe",
@@ -6375,7 +6379,8 @@
    "regra criada so",
    "paixao sem nocao",
    "quem dera ter",
-   "dez anos e"
+   "dez anos e",
+   "essa amizade com"
   ]
  },
  "shopee_checada": "2026-11-01|1",
