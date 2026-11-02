@@ -36,12 +36,12 @@
    "18:05"
   ],
   "produtos_feitos": 2,
-  "respostas": 58,
+  "respostas": 63,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
    "18090080810678249": 2,
-   "18013529159994207": 2,
+   "18013529159994207": 3,
    "18042505940779811": 7,
    "18121901744054913": 2,
    "18047547587827876": 17,
@@ -49,7 +49,8 @@
    "18080625980418879": 7,
    "17953965141313574": 2,
    "18433923586146915": 2,
-   "18147480598586721": 7
+   "18147480598586721": 7,
+   "17870801802641111": 4
   }
  },
  "posts": [
@@ -1253,11 +1254,6 @@
   }
  ],
  "respondidos": [
-  "18436335283182092",
-  "18208329994316740",
-  "18142127440515939",
-  "18104723567105136",
-  "18150610111546878",
   "17994276783021121",
   "18234969319324265",
   "18151158478535399",
@@ -4252,7 +4248,12 @@
   "18135946007506827",
   "18115861520157119",
   "18090999806250971",
-  "18165998308491916"
+  "18165998308491916",
+  "17990441627875261",
+  "18098523311650296",
+  "17969379132197386",
+  "17974280241075738",
+  "18040596905845236"
  ],
  "hashes": [
   "98b8d51463cc88195e8e678b55a7bd0d",
@@ -4847,35 +4848,15 @@
   "9736a2e8bb": 1,
   "de692fc57a": 1,
   "36b5300b67": 1,
-  "14749a4d71": 1
+  "14749a4d71": 1,
+  "11b7a51284": 1,
+  "472e4683ce": 1,
+  "1b1fc9f7dd": 1,
+  "2cccb1e506": 1,
+  "67c4a494d3": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "quando o orçamento ajuda, o aeroporto vira o melhor amigo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "para quem quer chegar logo, avião ganha mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "praticidade pura, aeroporto pelo menos resolve o tempo de viagem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o que vale mesmo é chegar e aproveitar o lugar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "airport e avião costumam resolver o problema mais rápido",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse papo de assento apertado por horas é o que mata qualquer vontade de voar",
    "p": "concorda",
@@ -4998,6 +4979,31 @@
   },
   {
    "t": "quando o encaixe é perfeito assim nem dá vontade de levantar kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo, o boleto não aceita desconto de salário mesmo",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "quem trabalha só duas vezes por semana já vive no lucro que a gente sonha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse é o único jeito de garantir que não vai ter briga por herança kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "nem tem como escolher quando a escala e puxada assim",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "estratégia diferente para fugir do boleto kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6112,17 +6118,6 @@
   }
  ],
  "aberturas_post": {
-  "17879211354567060": [
-   "torresmo e um",
-   "o combo completo",
-   "foco nas porcoes",
-   "prioridades bem definidas",
-   "prioridades alinhadas com",
-   "justo pizzaria e",
-   "foco total no",
-   "provolone a milanesa",
-   "comida boa e"
-  ],
   "18169083673482490": [
    "pura verdade o"
   ],
@@ -6346,7 +6341,8 @@
    "filha unica joga",
    "esse posto ja",
    "a coroa da",
-   "herdeiro legitimo do"
+   "herdeiro legitimo do",
+   "esse e o"
   ],
   "18129509551855569": [
    "essa era forte",
@@ -6419,6 +6415,12 @@
    "saude do pescoco",
    "separar o jogo",
    "quando o encaixe"
+  ],
+  "17870801802641111": [
+   "justo o boleto",
+   "quem trabalha so",
+   "nem tem como",
+   "estrategia diferente para"
   ]
  },
  "shopee_checada": "2026-11-02|1",
