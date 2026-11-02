@@ -28,10 +28,10 @@
    "10:25"
   ],
   "produtos_feitos": 1,
-  "respostas": 20,
+  "respostas": 21,
   "por_post": {
    "18129509551855569": 2,
-   "18120849176091114": 6,
+   "18120849176091114": 7,
    "18090080810678249": 2,
    "18013529159994207": 2,
    "18042505940779811": 6,
@@ -1161,7 +1161,7 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "22898339820",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "22898339820",
     "nome": "Cutelo lnox Profissional Cabo King Artesanal Churrasco Cozinha",
@@ -1177,7 +1177,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-11-02"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/7fb3C5vyGr",
+   "link_em": "2026-11-02T11:07:09.173407-04:00",
+   "link_views": 0
   },
   {
    "id": "18117354662032853",
@@ -1302,7 +1305,6 @@
   }
  ],
  "respondidos": [
-  "18107906021163965",
   "17970234564163445",
   "17942501226356981",
   "18492849805104350",
@@ -4301,7 +4303,8 @@
   "18017373383750769",
   "17969351607205684",
   "17974011411175683",
-  "18110378318228871"
+  "18110378318228871",
+  "18112246427349869"
  ],
  "hashes": [
   "1a924c6a15343ea79c49ea7444c6a610",
@@ -4854,15 +4857,11 @@
   "587a00cf83": 1,
   "5491f536c3": 1,
   "92d635c080": 1,
-  "8bc336af62": 1
+  "8bc336af62": 1,
+  "382a2801a3": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "esse posto já vinha com dono carimbado desde o berço",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa era forte candidata a roubar o primeiro lugar de qualquer infancia kkk",
    "p": "concorda",
@@ -5007,6 +5006,11 @@
    "t": "mestra da camuflagem esperando o desespero passar kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "sobre a vontade de largar tudo e tentar algo novo",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5554,6 +5558,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-02T09:07:08.741895-04:00"
+  },
+  "18100234382426819": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-02T11:07:09.173407-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6382,7 +6391,8 @@
    "estatistica pesada essa",
    "planejar certinho e",
    "exato essa conta",
-   "tem horas que"
+   "tem horas que",
+   "sobre a vontade"
   ],
   "18110708246187465": [
    "memoria de peixe",
@@ -6757,7 +6767,7 @@
   "18599882228": "2026-11-01T07:07:08.994390-04:00",
   "58257502470": "2026-11-01T07:07:08.994390-04:00",
   "18058588578": "2026-11-01T07:07:08.994390-04:00",
-  "22898339820": "2026-11-01T17:07:08.266415-04:00",
+  "22898339820": "2026-11-02T11:07:09.173407-04:00",
   "49610876725": "2026-11-02T07:07:09.453875-04:00"
  },
  "teste_comentario_produto": {
