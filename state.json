@@ -33,7 +33,7 @@
    "15:36"
   ],
   "produtos_feitos": 2,
-  "respostas": 48,
+  "respostas": 51,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -44,7 +44,8 @@
    "18047547587827876": 17,
    "18024659876939415": 1,
    "18080625980418879": 7,
-   "17953965141313574": 1
+   "17953965141313574": 2,
+   "18433923586146915": 2
   }
  },
  "posts": [
@@ -1264,20 +1265,20 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "58255061423",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "58255061423",
     "nome": "Expositor para 50 carrinhos Hot Weels Prateleira Brinquedos Coleção Miniaturas Carros Organizador",
     "offerLink": "https://s.shopee.com.br/1BNb33CQoU",
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mr8pgwybwr2f66",
     "campanha": "11.11"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/1BNb33CQoU",
+   "link_em": "2026-11-02T16:07:09.926018-04:00",
+   "link_motivo": "pedido"
   }
  ],
  "respondidos": [
-  "17898653979600678",
-  "18129189316766738",
-  "18627190438025309",
   "18162548062513723",
   "18043730258684148",
   "18174776263446747",
@@ -4274,7 +4275,10 @@
   "18080239772417953",
   "17955644418274894",
   "18104478200034104",
-  "18118716923045428"
+  "18118716923045428",
+  "17904840717671117",
+  "18091493648679113",
+  "18115336472324034"
  ],
  "hashes": [
   "ab9a28c40421f2977f6aca8b6e6dc076",
@@ -4817,7 +4821,7 @@
   "d1b52defd6": 1,
   "bd61987cb5": 1,
   "6ff4d8a42e": 1,
-  "d98240b8ff": 1,
+  "d98240b8ff": 2,
   "25d4f84885": 1,
   "d5f72434b4": 1,
   "da20b20a92": 1,
@@ -4857,25 +4861,12 @@
   "eedc98fbe0": 1,
   "8929f505f4": 1,
   "80fe7ac7f2": 1,
-  "2ef43d56d3": 1
+  "2ef43d56d3": 1,
+  "791819aece": 1,
+  "f0695b1fdb": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "é um alívio quando o sentimento vira só página virada",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "mestra da camuflagem esperando o desespero passar kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sobre a vontade de largar tudo e tentar algo novo",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "uma verdadeira galeria de arte moderna nas paredes kkk",
    "p": "concorda",
@@ -5010,6 +5001,21 @@
    "t": "complicado mesmo quando a conta do aluguel estraga todo o planejamento",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "que capricho, fica lindo organizado desse jeito kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "boa saber que acha fácil por lá",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse modelo aguenta tudo mesmo, só falta fazer café kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6122,12 +6128,6 @@
   }
  ],
  "aberturas_post": {
-  "18143232559720343": [
-   "essa frase doeu",
-   "habito saudavel para",
-   "assinatura anual garantida",
-   "essa cicatriz ainda"
-  ],
   "17918797707464737": [
    "essa conta de",
    "deixar a noite",
@@ -6433,7 +6433,12 @@
    "pizza e filme"
   ],
   "17953965141313574": [
-   "semi novo alivia"
+   "semi novo alivia",
+   "esse modelo aguenta"
+  ],
+  "18433923586146915": [
+   "que capricho fica",
+   "boa saber que"
   ]
  },
  "shopee_checada": "2026-11-02|1",
@@ -6775,7 +6780,7 @@
   "18058588578": "2026-11-01T07:07:08.994390-04:00",
   "22898339820": "2026-11-02T11:07:09.173407-04:00",
   "49610876725": "2026-11-02T07:07:09.453875-04:00",
-  "58255061423": "2026-11-02T15:37:10.842464-04:00"
+  "58255061423": "2026-11-02T16:07:09.926018-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
