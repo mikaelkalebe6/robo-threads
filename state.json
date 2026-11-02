@@ -30,7 +30,8 @@
    "12:58",
    "13:43",
    "14:30",
-   "15:36"
+   "15:36",
+   "16:30"
   ],
   "produtos_feitos": 2,
   "respostas": 51,
@@ -49,24 +50,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18091692569222965",
-   "insp": "cadb3d9e75",
-   "link": "",
-   "texto": "ME CONTA: vocês também já foram pegas conversando sozinhas com a tela do computador ou sou só eu que tô enlouquecendo no expediente?",
-   "quando": "2026-10-28T11:37:09.340827-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 279,
-    "likes": 5,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-02"
-   },
-   "viral_chk": "2026-10-29T11:37:08.878649-04:00"
-  },
   {
    "id": "18146338231578758",
    "insp": "a46755f7b9",
@@ -1276,6 +1259,14 @@
    "link_coment": "https://s.shopee.com.br/1BNb33CQoU",
    "link_em": "2026-11-02T16:07:09.926018-04:00",
    "link_motivo": "pedido"
+  },
+  {
+   "id": "18147480598586721",
+   "insp": "19d5dbcfc8",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a galera que joga no computador realmente acha que sentar numa cadeira de escritório ganha de jogar deitada no sofá?",
+   "quando": "2026-11-02T16:37:11.848830-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4281,7 +4272,6 @@
   "18115336472324034"
  ],
  "hashes": [
-  "ab9a28c40421f2977f6aca8b6e6dc076",
   "f0cfc3a4371fea3cf6c579dfd9b9a7b7",
   "fe2c1ef11b78502daf7dadf0d8bc64e7",
   "98b8d51463cc88195e8e678b55a7bd0d",
@@ -4480,7 +4470,8 @@
   "b8504013681f19710392e609c23b783d",
   "c710a0cf4b8e7b14432309ac1608d6cd",
   "eb65d0d8da9ec4811aafca2b454a1652",
-  "5ad9a6917ff0d1bc2379d5063f81adda"
+  "5ad9a6917ff0d1bc2379d5063f81adda",
+  "19da41446d7e624717872dbe6f5b43e0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4811,7 +4802,8 @@
   "ae61b38dfd": 1793637447.2890615,
   "b69825cad0": 1793639290.484434,
   "b8d04ab1d5": 1793642845.0202954,
-  "9bbd821472": 1793644650.9983938
+  "9bbd821472": 1793644650.9983938,
+  "19d5dbcfc8": 1793651890.7374792
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
