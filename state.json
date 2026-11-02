@@ -27,10 +27,11 @@
    "09:04",
    "10:25",
    "12:18",
-   "12:58"
+   "12:58",
+   "13:43"
   ],
   "produtos_feitos": 1,
-  "respostas": 28,
+  "respostas": 34,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -38,28 +39,11 @@
    "18013529159994207": 2,
    "18042505940779811": 7,
    "18121901744054913": 2,
-   "18047547587827876": 5,
+   "18047547587827876": 11,
    "18024659876939415": 1
   }
  },
  "posts": [
-  {
-   "id": "17997865899028872",
-   "insp": "3125348bad",
-   "link": "",
-   "texto": "NINGUÉM FALA DISSO: qual habilidade você gostaria de ter aprendido mais cedo na vida em vez de quebrar tanto a cabeça sozinho",
-   "quando": "2026-10-27T22:07:09.923510-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 2338,
-    "likes": 26,
-    "replies": 57,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-02"
-   }
-  },
   {
    "id": "17980455462130729",
    "insp": "0046da4da8",
@@ -1284,15 +1268,17 @@
    "texto": "DÚVIDA SINCERA: viajar de carro por horas ou encarar aeroporto e avião?",
    "quando": "2026-11-02T13:07:13.723135-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17953965141313574",
+   "insp": "b8d04ab1d5",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Se eu fosse comprar meu primeiro carro hoje, faria tudo completamente diferente. Menos emoção na escolha e muito mais foco no que cabe no bolso.",
+   "quando": "2026-11-02T14:07:09.482845-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18355314838222166",
-  "18186108133412437",
-  "18354011416169079",
-  "18124792930842923",
-  "17909662887552783",
-  "18093245651406905",
   "18105184081958601",
   "18074176382735817",
   "18155895259514025",
@@ -4286,10 +4272,15 @@
   "17963744034247127",
   "17880649608651671",
   "17956550946296495",
-  "17935885134144168"
+  "17935885134144168",
+  "18644191642019123",
+  "17977715973151767",
+  "18024650399712403",
+  "17948902467353841",
+  "17915166807552208",
+  "18063012869804171"
  ],
  "hashes": [
-  "95ad509b06d48f418a919888fe971f99",
   "e1a49f02d5f15e11330f03b4640eab87",
   "ab9a28c40421f2977f6aca8b6e6dc076",
   "f0cfc3a4371fea3cf6c579dfd9b9a7b7",
@@ -4488,7 +4479,8 @@
   "d6f15cf9c593ff24c0193fac3a88ba77",
   "1af3d86d93e0a01374439b83073abf8f",
   "b8504013681f19710392e609c23b783d",
-  "c710a0cf4b8e7b14432309ac1608d6cd"
+  "c710a0cf4b8e7b14432309ac1608d6cd",
+  "eb65d0d8da9ec4811aafca2b454a1652"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4817,7 +4809,8 @@
   "b5bc8dc34f": 1793623042.3007572,
   "362b6ca4e3": 1793624898.7144878,
   "ae61b38dfd": 1793637447.2890615,
-  "b69825cad0": 1793639290.484434
+  "b69825cad0": 1793639290.484434,
+  "b8d04ab1d5": 1793642845.0202954
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4834,7 +4827,7 @@
   "3c9a95b07c": 1,
   "0effa02a05": 1,
   "51f0d28c68": 1,
-  "366fd5e9e4": 1,
+  "366fd5e9e4": 2,
   "385afd1a7c": 1,
   "741e561152": 1,
   "c3e1674b05": 1,
@@ -4849,40 +4842,15 @@
   "c238d9a142": 1,
   "7ddf1d34e7": 1,
   "3c502bc809": 1,
-  "ff8a8dd1da": 1
+  "ff8a8dd1da": 1,
+  "cbe50675eb": 1,
+  "0409909721": 1,
+  "767eccd929": 1,
+  "3ef162a40a": 1,
+  "eb8e874c87": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "conselho de ouro, o boleto não espera a inspiracao chegar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse ano promete uns saltos no escuro kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "bater a cabeça na privada da o selo oficial de paixão sem noção kkkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "dobrar o salário e ainda pular fora do clt é para poucos kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "investimento alto para manter a postura intacta no busao kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pelo menos a gente não corre o risco de perder o que nunca teve",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "estatística pesada essa, o boleto brasileiro não dá trégua kkkk",
    "p": "ressalva",
@@ -5002,6 +4970,36 @@
    "t": "regra de ouro, só depende de quem segura o volante kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "quando o orçamento ajuda, o aeroporto vira o melhor amigo mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "para quem quer chegar logo, avião ganha mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "praticidade pura, aeroporto pelo menos resolve o tempo de viagem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o que vale mesmo é chegar e aproveitar o lugar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "airport e avião costumam resolver o problema mais rápido",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse papo de assento apertado por horas é o que mata qualquer vontade de voar",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6419,7 +6417,13 @@
    "justo a matematica",
    "entendo carro tem",
    "exato o destino",
-   "regra de ouro"
+   "regra de ouro",
+   "quando o orcamento",
+   "para quem quer",
+   "praticidade pura aeroporto",
+   "o que vale",
+   "airport e aviao",
+   "esse papo de"
   ],
   "18024659876939415": [
    "no fim das"
