@@ -25,7 +25,8 @@
    "16:58",
    "18:21",
    "19:28",
-   "20:31"
+   "20:31",
+   "21:41"
   ],
   "produtos_feitos": 3,
   "respostas": 56,
@@ -42,23 +43,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18092170271676483",
-   "insp": "4b99e3a872",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: qual foi a coisa mais inútil que vocês compraram achando que o bebê não ia conseguir viver sem",
-   "quando": "2026-10-27T14:07:10.013804-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 3729,
-    "likes": 12,
-    "replies": 35,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-01"
-   }
-  },
   {
    "id": "17935069443143984",
    "insp": "video_8224660ab3",
@@ -1245,6 +1229,14 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4rts49xy2m9e1",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "18129509551855569",
+   "insp": "ddecfa5388",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: qual foi a paixão mais sem noção que você já teve na vida",
+   "quando": "2026-11-01T22:07:08.048429-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4250,7 +4242,6 @@
   "17952346350299848"
  ],
  "hashes": [
-  "923cd7619535e817ddaaac108cfd3ae1",
   "a240bc3a930cb570f0d7e65d0528d808",
   "f6e28494869959ca8f398b2fc8641758",
   "1a924c6a15343ea79c49ea7444c6a610",
@@ -4449,7 +4440,8 @@
   "69cd1fa41ad72b4d6fde3c44c3ae9453",
   "6212450f8d9caf546011af74ecae33fc",
   "6ed0895b56a8563f1079f91daaaaba34",
-  "5f3be0057df7c5c312f4360be2643b71"
+  "5f3be0057df7c5c312f4360be2643b71",
+  "d917841c9fa94ad5922b484fca2bb800"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4774,7 +4766,8 @@
   "4176f68ac7": 1793554670.193656,
   "2abbca2759": 1793561891.0220225,
   "648ff7fceb": 1793572639.0643594,
-  "7208b45268": 1793576284.6036692
+  "7208b45268": 1793576284.6036692,
+  "ddecfa5388": 1793585294.626591
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
