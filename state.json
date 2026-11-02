@@ -25,37 +25,21 @@
   "feitos": [
    "08:10",
    "09:04",
-   "10:25"
+   "10:25",
+   "12:18"
   ],
   "produtos_feitos": 1,
-  "respostas": 21,
+  "respostas": 22,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
    "18090080810678249": 2,
    "18013529159994207": 2,
-   "18042505940779811": 6,
+   "18042505940779811": 7,
    "18121901744054913": 2
   }
  },
  "posts": [
-  {
-   "id": "17918222961259641",
-   "insp": "5760d94547",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual foi o maior prejuízo que um carro já te deu?",
-   "quando": "2026-10-27T19:37:09.308116-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 7572,
-    "likes": 15,
-    "replies": 151,
-    "reposts": 0,
-    "quotes": 1,
-    "shares": 0,
-    "em": "2026-11-02"
-   }
-  },
   {
    "id": "18636852952008792",
    "insp": "prod_21898099575",
@@ -1302,10 +1286,17 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhs1299y0hycf",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "18024659876939415",
+   "insp": "ae61b38dfd",
+   "link": "",
+   "texto": "ME CONTA: qual foi a última vez que você pagou a língua em um primeiro encontro? Deixar o outro escolher o lugar nem sempre é uma má ideia.",
+   "quando": "2026-11-02T12:37:08.375262-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17970234564163445",
   "17942501226356981",
   "18492849805104350",
   "18089393351218301",
@@ -4304,10 +4295,10 @@
   "17969351607205684",
   "17974011411175683",
   "18110378318228871",
-  "18112246427349869"
+  "18112246427349869",
+  "18143267041612515"
  ],
  "hashes": [
-  "1a924c6a15343ea79c49ea7444c6a610",
   "28364cd36ae251ffe132cf77afca74e1",
   "95ad509b06d48f418a919888fe971f99",
   "e1a49f02d5f15e11330f03b4640eab87",
@@ -4506,7 +4497,8 @@
   "5f3be0057df7c5c312f4360be2643b71",
   "d917841c9fa94ad5922b484fca2bb800",
   "d6f15cf9c593ff24c0193fac3a88ba77",
-  "1af3d86d93e0a01374439b83073abf8f"
+  "1af3d86d93e0a01374439b83073abf8f",
+  "b8504013681f19710392e609c23b783d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4833,7 +4825,8 @@
   "7208b45268": 1793576284.6036692,
   "ddecfa5388": 1793585294.626591,
   "b5bc8dc34f": 1793623042.3007572,
-  "362b6ca4e3": 1793624898.7144878
+  "362b6ca4e3": 1793624898.7144878,
+  "ae61b38dfd": 1793637447.2890615
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4858,15 +4851,11 @@
   "5491f536c3": 1,
   "92d635c080": 1,
   "8bc336af62": 1,
-  "382a2801a3": 1
+  "382a2801a3": 1,
+  "fcf079e381": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "essa era forte candidata a roubar o primeiro lugar de qualquer infancia kkk",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa é informação confidencial, protege a reputação",
    "p": "neutra",
@@ -5011,6 +5000,11 @@
    "t": "sobre a vontade de largar tudo e tentar algo novo",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "uma verdadeira galeria de arte moderna nas paredes kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6423,7 +6417,8 @@
    "filosofo e contemplativo",
    "socorro o jabuti",
    "investimento pesado na",
-   "mestra da camuflagem"
+   "mestra da camuflagem",
+   "uma verdadeira galeria"
   ],
   "18121901744054913": [
    "ate aceito a",
