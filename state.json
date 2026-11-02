@@ -27,13 +27,14 @@
    "09:04"
   ],
   "produtos_feitos": 0,
-  "respostas": 13,
+  "respostas": 16,
   "por_post": {
    "18129509551855569": 1,
-   "18120849176091114": 5,
+   "18120849176091114": 6,
    "18090080810678249": 1,
    "18013529159994207": 2,
-   "18042505940779811": 4
+   "18042505940779811": 5,
+   "18121901744054913": 1
   }
  },
  "posts": [
@@ -1297,9 +1298,6 @@
   }
  ],
  "respondidos": [
-  "18118308260069061",
-  "17877081948632308",
-  "18185488654415039",
   "17900962842668548",
   "18139972153720191",
   "18267575659306227",
@@ -4296,7 +4294,10 @@
   "18113576741591850",
   "18340715044258311",
   "18193507525397521",
-  "18028873058702473"
+  "18028873058702473",
+  "18078022409459506",
+  "17911191579484147",
+  "17976292470152295"
  ],
  "hashes": [
   "1a924c6a15343ea79c49ea7444c6a610",
@@ -4842,25 +4843,13 @@
   "3c9a95b07c": 1,
   "0effa02a05": 1,
   "51f0d28c68": 1,
-  "366fd5e9e4": 1
+  "366fd5e9e4": 1,
+  "385afd1a7c": 1,
+  "741e561152": 1,
+  "c3e1674b05": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "o pior nem é o sono, é a certeza de que a pose foi a pior possível",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "divorcio mexe com a estrutura toda, mas bom saber que o lado de lá ficou melhor",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "sortuda que nunca perdeu o ponto babando no vidro kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "cada um cria a sua propria teoria da conspiracao em casa kkkk",
    "p": "concorda",
@@ -4993,6 +4982,21 @@
   },
   {
    "t": "exato, essa conta de seis meses é a parte que faz o estômago dar uma reviravolta",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "até aceito a troca, mas aí perde metade da graça do prato",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "investimento pesado na brisa errada kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "tem horas que o plano b parece bem mais divertido que o a",
    "p": "ressalva",
    "r": 0
   }
@@ -6097,12 +6101,6 @@
   }
  ],
  "aberturas_post": {
-  "18114732275034207": [
-   "o dinheiro some",
-   "a materia prima",
-   "o extrato bancario",
-   "nossa vc ta"
-  ],
   "17974060974150692": [
    "educacao basica deveria"
   ],
@@ -6375,7 +6373,8 @@
    "pelo menos a",
    "estatistica pesada essa",
    "planejar certinho e",
-   "exato essa conta"
+   "exato essa conta",
+   "tem horas que"
   ],
   "18110708246187465": [
    "memoria de peixe",
@@ -6403,7 +6402,11 @@
    "seu cachorro decidiu",
    "agora o computador",
    "filosofo e contemplativo",
-   "socorro o jabuti"
+   "socorro o jabuti",
+   "investimento pesado na"
+  ],
+  "18121901744054913": [
+   "ate aceito a"
   ]
  },
  "shopee_checada": "2026-11-02|1",
