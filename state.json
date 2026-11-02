@@ -30,14 +30,16 @@
    "12:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 22,
+  "respostas": 28,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
    "18090080810678249": 2,
    "18013529159994207": 2,
    "18042505940779811": 7,
-   "18121901744054913": 2
+   "18121901744054913": 2,
+   "18047547587827876": 5,
+   "18024659876939415": 1
   }
  },
  "posts": [
@@ -1285,12 +1287,6 @@
   }
  ],
  "respondidos": [
-  "17942501226356981",
-  "18492849805104350",
-  "18089393351218301",
-  "17908652469480338",
-  "18069797636771492",
-  "18067426343510089",
   "18355314838222166",
   "18186108133412437",
   "18354011416169079",
@@ -4284,7 +4280,13 @@
   "17974011411175683",
   "18110378318228871",
   "18112246427349869",
-  "18143267041612515"
+  "18143267041612515",
+  "18162461899505237",
+  "18146550130591087",
+  "17963744034247127",
+  "17880649608651671",
+  "17956550946296495",
+  "17935885134144168"
  ],
  "hashes": [
   "95ad509b06d48f418a919888fe971f99",
@@ -4841,40 +4843,16 @@
   "92d635c080": 1,
   "8bc336af62": 1,
   "382a2801a3": 1,
-  "fcf079e381": 1
+  "fcf079e381": 1,
+  "6fd772f725": 1,
+  "51a74de43b": 1,
+  "c238d9a142": 1,
+  "7ddf1d34e7": 1,
+  "3c502bc809": 1,
+  "ff8a8dd1da": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "essa é informação confidencial, protege a reputação",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "regra criada só para ser quebrada",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "paixão sem noção é um clássico da adolescência que a gente prefere esquecer",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem dera ter essa facilidade de escolha kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "dez anos é quase uma carreira inteira de dedicação exclusiva",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa amizade com beneficios de sofrimento custou caro",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "conselho de ouro, o boleto não espera a inspiracao chegar",
    "p": "concorda",
@@ -4994,6 +4972,36 @@
    "t": "uma verdadeira galeria de arte moderna nas paredes kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "17h na estrada? melhor voar e economizar o sono kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "no fim das contas o barato é cair do cavalo mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, a matemática da distância muda tudo na escolha kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Entendo, carro tem a liberdade que o avião rouba, né? kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "exato, o destino é o que importa, o resto é só a etapa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "regra de ouro, só depende de quem segura o volante kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6101,13 +6109,6 @@
   }
  ],
  "aberturas_post": {
-  "17974060974150692": [
-   "educacao basica deveria"
-  ],
-  "18144615214606642": [
-   "essa ai vem",
-   "essa trilha sonora"
-  ],
   "17966524512249358": [
    "essa trilha sonora",
    "essa propaganda tinha",
@@ -6412,6 +6413,16 @@
   "18121901744054913": [
    "ate aceito a",
    "verdade nao da"
+  ],
+  "18047547587827876": [
+   "17h na estrada",
+   "justo a matematica",
+   "entendo carro tem",
+   "exato o destino",
+   "regra de ouro"
+  ],
+  "18024659876939415": [
+   "no fim das"
   ]
  },
  "shopee_checada": "2026-11-02|1",
