@@ -29,7 +29,7 @@
    "21:41"
   ],
   "produtos_feitos": 3,
-  "respostas": 56,
+  "respostas": 62,
   "por_post": {
    "18090080810678249": 20,
    "18106825157572440": 4,
@@ -39,7 +39,8 @@
    "17921144301452722": 11,
    "18120849176091114": 8,
    "18110708246187465": 2,
-   "18013529159994207": 4
+   "18013529159994207": 4,
+   "18129509551855569": 6
   }
  },
  "posts": [
@@ -1240,12 +1241,6 @@
   }
  ],
  "respondidos": [
-  "18098143430532589",
-  "18626060362014712",
-  "18105693656212741",
-  "18103573781282038",
-  "18101813921308698",
-  "18180398482428698",
   "17915651319453856",
   "18116575241061800",
   "17912054349537447",
@@ -4239,7 +4234,13 @@
   "18141329884532008",
   "18174466069456797",
   "18420959719152239",
-  "17952346350299848"
+  "17952346350299848",
+  "18006651137991205",
+  "18137541397659970",
+  "17911009041580912",
+  "18214894651362047",
+  "18118428857010976",
+  "18120597313990385"
  ],
  "hashes": [
   "a240bc3a930cb570f0d7e65d0528d808",
@@ -4808,7 +4809,7 @@
   "9511b8ab92": 1,
   "d442ab75c4": 1,
   "2307989de4": 1,
-  "3a4f6eb0bb": 1,
+  "3a4f6eb0bb": 2,
   "6d527aad59": 1,
   "97dc20ffab": 1,
   "ee96476e0e": 1,
@@ -4823,40 +4824,15 @@
   "92d635c080": 1,
   "1466a1cda4": 1,
   "7c07fd549c": 1,
-  "c81e413c95": 1
+  "c81e413c95": 1,
+  "48e367447f": 1,
+  "59ac60735f": 1,
+  "62123b9306": 1,
+  "7074d90162": 1,
+  "f1bfc7c1c4": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "matemática avançada onde o ovo sustenta o resto dos planos",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "virou um ato de generosidade gigante no meio do caos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "começar cedo assim exigiu muita fibra",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, o tempo joga a favor quando a gente decide mudar de rumo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o universo chutando a gente pro lugar certo kkkkkk que final feliz",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "trabalho duro sem garantia é o roteiro padrão de quem tenta a sorte",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "nem deu tempo de esquentar a cadeira e a conta já tava chorando kkkk",
    "p": "concorda",
@@ -4974,6 +4950,36 @@
   },
   {
    "t": "esse posto já vinha com dono carimbado desde o berço",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa era forte candidata a roubar o primeiro lugar de qualquer infancia kkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa é informação confidencial, protege a reputação",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "regra criada só para ser quebrada",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "paixão sem noção é um clássico da adolescência que a gente prefere esquecer",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem dera ter essa facilidade de escolha kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "dez anos é quase uma carreira inteira de dedicação exclusiva",
    "p": "concorda",
    "r": 0
   }
@@ -6058,13 +6064,6 @@
   }
  ],
  "aberturas_post": {
-  "18096262466442750": [
-   "versao artesanal sempre",
-   "a escada da",
-   "casa de vizinho",
-   "esse classico ficou",
-   "ah esses jogos"
-  ],
   "17939308794122207": [
    "nem todo mundo",
    "esse pensamento passa",
@@ -6369,6 +6368,14 @@
    "sempre tem um",
    "filha unica joga",
    "esse posto ja"
+  ],
+  "18129509551855569": [
+   "essa era forte",
+   "essa e informacao",
+   "regra criada so",
+   "paixao sem nocao",
+   "quem dera ter",
+   "dez anos e"
   ]
  },
  "shopee_checada": "2026-11-01|1",
