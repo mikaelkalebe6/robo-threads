@@ -31,10 +31,11 @@
    "13:43",
    "14:30",
    "15:36",
-   "16:30"
+   "16:30",
+   "17:19"
   ],
   "produtos_feitos": 2,
-  "respostas": 55,
+  "respostas": 58,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -47,28 +48,10 @@
    "18080625980418879": 7,
    "17953965141313574": 2,
    "18433923586146915": 2,
-   "18147480598586721": 4
+   "18147480598586721": 7
   }
  },
  "posts": [
-  {
-   "id": "18146338231578758",
-   "insp": "a46755f7b9",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: passar a vida trabalhando sem ver o dia passar ganhando bem ou viver com a grana contada mas tendo tempo livre pra curtir?",
-   "quando": "2026-10-28T13:07:08.948400-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 197,
-    "likes": 2,
-    "replies": 16,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-02"
-   },
-   "viral_chk": "2026-10-29T13:07:08.091167-04:00"
-  },
   {
    "id": "18096262466442750",
    "insp": "1625f98254",
@@ -1268,12 +1251,17 @@
    "texto": "DÚVIDA SINCERA: a galera que joga no computador realmente acha que sentar numa cadeira de escritório ganha de jogar deitada no sofá?",
    "quando": "2026-11-02T16:37:11.848830-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18182459707432553",
+   "insp": "31d5ff1cab",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: o café da manhã do hotel é sempre melhor que o passeio do dia.",
+   "quando": "2026-11-02T17:37:16.708606-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18075967769724971",
-  "18098420237175758",
-  "18106732448622419",
   "18436335283182092",
   "18208329994316740",
   "18142127440515939",
@@ -4270,10 +4258,12 @@
   "17892657501684516",
   "17909239782570947",
   "18092088281288604",
-  "18135946007506827"
+  "18135946007506827",
+  "18115861520157119",
+  "18090999806250971",
+  "18165998308491916"
  ],
  "hashes": [
-  "f0cfc3a4371fea3cf6c579dfd9b9a7b7",
   "fe2c1ef11b78502daf7dadf0d8bc64e7",
   "98b8d51463cc88195e8e678b55a7bd0d",
   "3af1a22d0fad12754dcd97be96c85506",
@@ -4472,7 +4462,8 @@
   "c710a0cf4b8e7b14432309ac1608d6cd",
   "eb65d0d8da9ec4811aafca2b454a1652",
   "5ad9a6917ff0d1bc2379d5063f81adda",
-  "19da41446d7e624717872dbe6f5b43e0"
+  "19da41446d7e624717872dbe6f5b43e0",
+  "8f7ca9e8fa039b0f44c9485d84eb3011"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4804,7 +4795,8 @@
   "b69825cad0": 1793639290.484434,
   "b8d04ab1d5": 1793642845.0202954,
   "9bbd821472": 1793644650.9983938,
-  "19d5dbcfc8": 1793651890.7374792
+  "19d5dbcfc8": 1793651890.7374792,
+  "31d5ff1cab": 1793655452.9774752
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4860,25 +4852,13 @@
   "f49cd8c803": 1,
   "b448941878": 1,
   "1e13f2b784": 1,
-  "9736a2e8bb": 1
+  "9736a2e8bb": 1,
+  "de692fc57a": 1,
+  "36b5300b67": 1,
+  "14749a4d71": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "Entendo, carro tem a liberdade que o avião rouba, né? kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "exato, o destino é o que importa, o resto é só a etapa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "regra de ouro, só depende de quem segura o volante kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "quando o orçamento ajuda, o aeroporto vira o melhor amigo mesmo",
    "p": "concorda",
@@ -5012,6 +4992,21 @@
   {
    "t": "defesa clássica de quem não troca a cadeira gamer por nada kkk",
    "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "saúde do pescoco sempre em primeiro lugar kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "separar o jogo sério do jogo de relaxar faz todo o sentido kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quando o encaixe é perfeito assim nem dá vontade de levantar kkk",
+   "p": "concorda",
    "r": 1
   }
  ],
@@ -6428,7 +6423,10 @@
    "jogo dificil no",
    "cadeira boa realmente",
    "com o controle",
-   "defesa classica de"
+   "defesa classica de",
+   "saude do pescoco",
+   "separar o jogo",
+   "quando o encaixe"
   ]
  },
  "shopee_checada": "2026-11-02|1",
