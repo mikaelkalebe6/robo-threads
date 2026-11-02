@@ -24,12 +24,13 @@
    "15:16",
    "16:58",
    "18:21",
-   "19:28"
+   "19:28",
+   "20:31"
   ],
-  "produtos_feitos": 2,
-  "respostas": 53,
+  "produtos_feitos": 3,
+  "respostas": 55,
   "por_post": {
-   "18090080810678249": 19,
+   "18090080810678249": 20,
    "18106825157572440": 4,
    "18000103242043456": 1,
    "17918328729462329": 2,
@@ -37,33 +38,10 @@
    "17921144301452722": 11,
    "18120849176091114": 8,
    "18110708246187465": 2,
-   "18013529159994207": 2
+   "18013529159994207": 3
   }
  },
  "posts": [
-  {
-   "id": "18110358517935855",
-   "insp": "d1e2f3c049",
-   "link": "",
-   "texto": "ME CONTA: qual foi a frase da sua mãe que você jurou que nunca ia falar e agora solta igualzinho?",
-   "quando": "2026-10-27T13:07:11.245127-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1154,
-    "likes": 8,
-    "replies": 22,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-01"
-   },
-   "viral_chk": "2026-10-28T07:07:10.960636-04:00",
-   "link_coment": "https://s.shopee.com.br/40heRoYqTR",
-   "meme_comentado": true,
-   "meme_views": 1106,
-   "formato_link": "coment",
-   "produto": "19897424402"
-  },
   {
    "id": "18092170271676483",
    "insp": "4b99e3a872",
@@ -1247,11 +1225,29 @@
    "texto": "VAMOS SER HONESTOS: quem era o filho preferido de verdade na casa de vocês",
    "quando": "2026-11-01T19:37:07.478556-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17915050032536597",
+   "insp": "prod_23193620740",
+   "link": "",
+   "texto": "Entrar no carro no sol e queimar a mão no volante é dose 😂\nDescobri esse protetor de para-brisa que abre igual guarda-sol e salva o painel do calor.\nOlha como funciona 👀",
+   "quando": "2026-11-01T20:37:08.698564-04:00",
+   "ia": "Gemini gemini-flash-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "23193620740",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "23193620740",
+    "nome": "Quebrador Sol Painel Guarda Sol Proteção Solar Uv Para-brisa Carro Painel Protetor Universal",
+    "offerLink": "https://s.shopee.com.br/2Vsx2b2RHc",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4rts49xy2m9e1",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
-  "18190848997398126",
-  "18130290499771592",
   "18219993346341652",
   "18098143430532589",
   "18626060362014712",
@@ -4249,7 +4245,9 @@
   "18036059726664753",
   "17921925084243166",
   "18122071429940339",
-  "18141329884532008"
+  "18141329884532008",
+  "18174466069456797",
+  "18420959719152239"
  ],
  "hashes": [
   "923cd7619535e817ddaaac108cfd3ae1",
@@ -4829,20 +4827,12 @@
   "ff98d3abc0": 1,
   "f25a49a76e": 1,
   "50eaad6125": 1,
-  "92d635c080": 1
+  "92d635c080": 1,
+  "1466a1cda4": 1,
+  "7c07fd549c": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "carro é um poço sem fundo que engole qualquer planejamento",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "outubro já é otimismo demais kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "pouco mais de dez mil por ano, então o custo por recarga ainda pesaria no papel",
    "p": "neutra",
@@ -4982,6 +4972,16 @@
    "t": "sempre tem um que assume o posto sem disfarce kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "filha única joga sem concororrência nenhuma kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "consegue manter a postura intacta do inicio ao fim do trajeto",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6318,7 +6318,6 @@
    "o arrependimento so"
   ],
   "18090080810678249": [
-   "socorro o limite",
    "pessoa de ferro",
    "zerou o game",
    "o pedido de",
@@ -6337,7 +6336,8 @@
    "com essa paz",
    "para quem tem",
    "o pior nem",
-   "sortuda que nunca"
+   "sortuda que nunca",
+   "consegue manter a"
   ],
   "18115218803125363": [
    "investimento de alto",
@@ -6372,7 +6372,8 @@
   ],
   "18013529159994207": [
    "cada um cria",
-   "sempre tem um"
+   "sempre tem um",
+   "filha unica joga"
   ]
  },
  "shopee_checada": "2026-11-01|1",
@@ -6665,7 +6666,7 @@
   "58254074073": "2026-10-17T21:37:08.255141-04:00",
   "58269029568": "2026-10-17T23:07:07.434196-04:00",
   "19098752815": "2026-11-01T12:37:08.709479-04:00",
-  "23193620740": "2026-10-18T11:37:09.028102-04:00",
+  "23193620740": "2026-11-01T20:37:08.698564-04:00",
   "58215032790": "2026-10-18T14:37:07.316029-04:00",
   "20999068051": "2026-10-18T16:37:07.393472-04:00",
   "23793973526": "2026-10-18T18:07:08.425642-04:00",
