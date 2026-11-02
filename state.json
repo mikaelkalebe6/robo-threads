@@ -28,10 +28,11 @@
    "10:25",
    "12:18",
    "12:58",
-   "13:43"
+   "13:43",
+   "14:30"
   ],
   "produtos_feitos": 1,
-  "respostas": 34,
+  "respostas": 37,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -39,29 +40,11 @@
    "18013529159994207": 2,
    "18042505940779811": 7,
    "18121901744054913": 2,
-   "18047547587827876": 11,
+   "18047547587827876": 14,
    "18024659876939415": 1
   }
  },
  "posts": [
-  {
-   "id": "17980455462130729",
-   "insp": "0046da4da8",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: vocês emprestam o cartão de crédito pra alguém da família ou já aprenderam da pior forma que isso é o fim dos tempos?",
-   "quando": "2026-10-28T09:07:09.690857-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 726,
-    "likes": 6,
-    "replies": 33,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-02"
-   },
-   "viral_chk": "2026-10-29T09:07:08.376264-04:00"
-  },
   {
    "id": "17941476810398614",
    "insp": "prod_58204067039",
@@ -1179,7 +1162,7 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "23193620740",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "23193620740",
     "nome": "Quebrador Sol Painel Guarda Sol Proteção Solar Uv Para-brisa Carro Painel Protetor Universal",
@@ -1195,7 +1178,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-11-02"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/2Vsx2b2RHc",
+   "link_em": "2026-11-02T14:37:09.876861-04:00",
+   "link_views": 0
   },
   {
    "id": "18129509551855569",
@@ -1276,12 +1262,17 @@
    "texto": "OPINIÃO IMPOPULAR: Se eu fosse comprar meu primeiro carro hoje, faria tudo completamente diferente. Menos emoção na escolha e muito mais foco no que cabe no bolso.",
    "quando": "2026-11-02T14:07:09.482845-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18080625980418879",
+   "insp": "9bbd821472",
+   "link": "",
+   "texto": "NINGUÉM FALA DISSO: qual é o seu ritual de domingo à noite pra encarar a segunda sem querer chorar",
+   "quando": "2026-11-02T14:37:09.876861-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18105184081958601",
-  "18074176382735817",
-  "18155895259514025",
   "18419019844155327",
   "18096410366355108",
   "18483690280111484",
@@ -4278,10 +4269,12 @@
   "18024650399712403",
   "17948902467353841",
   "17915166807552208",
-  "18063012869804171"
+  "18063012869804171",
+  "18101340320084250",
+  "18120148391081668",
+  "18132547342770599"
  ],
  "hashes": [
-  "e1a49f02d5f15e11330f03b4640eab87",
   "ab9a28c40421f2977f6aca8b6e6dc076",
   "f0cfc3a4371fea3cf6c579dfd9b9a7b7",
   "fe2c1ef11b78502daf7dadf0d8bc64e7",
@@ -4480,7 +4473,8 @@
   "1af3d86d93e0a01374439b83073abf8f",
   "b8504013681f19710392e609c23b783d",
   "c710a0cf4b8e7b14432309ac1608d6cd",
-  "eb65d0d8da9ec4811aafca2b454a1652"
+  "eb65d0d8da9ec4811aafca2b454a1652",
+  "5ad9a6917ff0d1bc2379d5063f81adda"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4810,7 +4804,8 @@
   "362b6ca4e3": 1793624898.7144878,
   "ae61b38dfd": 1793637447.2890615,
   "b69825cad0": 1793639290.484434,
-  "b8d04ab1d5": 1793642845.0202954
+  "b8d04ab1d5": 1793642845.0202954,
+  "9bbd821472": 1793644650.9983938
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4847,25 +4842,13 @@
   "0409909721": 1,
   "767eccd929": 1,
   "3ef162a40a": 1,
-  "eb8e874c87": 1
+  "eb8e874c87": 1,
+  "2154aad93b": 1,
+  "0521dbc115": 1,
+  "e0a49f4ef1": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "estatística pesada essa, o boleto brasileiro não dá trégua kkkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "planejar certinho e ir com calma deixa o salto menos assustador",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a coroa da realeza ficou bem ocupada por aí",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "seu cachorro decidiu que o salario do seu pai e a sua identidade eram alvos legitimos kkkk",
    "p": "concorda",
@@ -4998,6 +4981,21 @@
   },
   {
    "t": "esse papo de assento apertado por horas é o que mata qualquer vontade de voar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "três mil quilômetros é muita estrada, mudou de ideia bem a tempo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "verdade, o bolso manda na viagem toda kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pé na estrada dá uma sensação boa de liberdade que compensa as horas",
    "p": "concorda",
    "r": 0
   }
@@ -5552,6 +5550,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-02T11:07:09.173407-04:00"
+  },
+  "18114328531869307": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-02T14:37:09.876861-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6423,7 +6426,10 @@
    "praticidade pura aeroporto",
    "o que vale",
    "airport e aviao",
-   "esse papo de"
+   "esse papo de",
+   "tres mil quilometros",
+   "verdade o bolso",
+   "pe na estrada"
   ],
   "18024659876939415": [
    "no fim das"
@@ -6704,7 +6710,7 @@
   "58254074073": "2026-10-17T21:37:08.255141-04:00",
   "58269029568": "2026-11-02T09:07:08.741895-04:00",
   "19098752815": "2026-11-02T07:07:09.453875-04:00",
-  "23193620740": "2026-11-01T20:37:08.698564-04:00",
+  "23193620740": "2026-11-02T14:37:09.876861-04:00",
   "58215032790": "2026-10-18T14:37:07.316029-04:00",
   "20999068051": "2026-10-18T16:37:07.393472-04:00",
   "23793973526": "2026-11-02T10:37:18.204778-04:00",
