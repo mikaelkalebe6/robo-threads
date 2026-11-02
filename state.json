@@ -29,10 +29,11 @@
    "12:18",
    "12:58",
    "13:43",
-   "14:30"
+   "14:30",
+   "15:36"
   ],
-  "produtos_feitos": 1,
-  "respostas": 43,
+  "produtos_feitos": 2,
+  "respostas": 48,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -40,34 +41,13 @@
    "18013529159994207": 2,
    "18042505940779811": 7,
    "18121901744054913": 2,
-   "18047547587827876": 14,
+   "18047547587827876": 17,
    "18024659876939415": 1,
-   "18080625980418879": 5,
+   "18080625980418879": 7,
    "17953965141313574": 1
   }
  },
  "posts": [
-  {
-   "id": "17941476810398614",
-   "insp": "prod_58204067039",
-   "link": "",
-   "texto": "Ficar no escuro na estrada ou no sítio por causa de falta de luz dá um nervoso danado né 😂 Descobri essa lanterna tática recarregável que ilumina até o pensamento de tão forte. Olha como funciona 👀",
-   "quando": "2026-10-28T10:07:09.225022-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58204067039",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58204067039",
-    "nome": "Lanterna Tática WUDI T9 P50 Super Luminosa Recarregável USB Ideal Para Sitio Fazenda AcampamentoCamping SegurançaNoturna",
-    "offerLink": "https://s.shopee.com.br/2LZQSjOkaK",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261k-mjye50tsga9wb4",
-    "campanha": ""
-   },
-   "apagado": true
-  },
   {
    "id": "18091692569222965",
    "insp": "cadb3d9e75",
@@ -1272,14 +1252,29 @@
    "texto": "NINGUÉM FALA DISSO: qual é o seu ritual de domingo à noite pra encarar a segunda sem querer chorar",
    "quando": "2026-11-02T14:37:09.876861-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18433923586146915",
+   "insp": "prod_58255061423",
+   "link": "",
+   "texto": "Guardar miniatura solta na gaveta dá uma dó danada, né? Descobri esse expositor de parede que encaixa certinho cinquenta carrinhos e deixa tudo organizado no quarto. Olha como fica arrumado 👀",
+   "quando": "2026-11-02T15:37:10.842464-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "58255061423",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "58255061423",
+    "nome": "Expositor para 50 carrinhos Hot Weels Prateleira Brinquedos Coleção Miniaturas Carros Organizador",
+    "offerLink": "https://s.shopee.com.br/1BNb33CQoU",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mr8pgwybwr2f66",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
-  "18111084020520237",
-  "17877617646630628",
-  "18046213004816797",
-  "18034399574903263",
-  "18451204630123531",
   "17898653979600678",
   "18129189316766738",
   "18627190438025309",
@@ -4274,7 +4269,12 @@
   "18150086281551041",
   "17884518717533762",
   "17891227350621643",
-  "18108726824526559"
+  "18108726824526559",
+  "17966065485209223",
+  "18080239772417953",
+  "17955644418274894",
+  "18104478200034104",
+  "18118716923045428"
  ],
  "hashes": [
   "ab9a28c40421f2977f6aca8b6e6dc076",
@@ -4852,35 +4852,15 @@
   "6f637fe40e": 1,
   "f6c001ccb6": 1,
   "bdd25719bc": 1,
-  "4daac2f246": 1
+  "4daac2f246": 1,
+  "9c05887a28": 1,
+  "eedc98fbe0": 1,
+  "8929f505f4": 1,
+  "80fe7ac7f2": 1,
+  "2ef43d56d3": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "até aceito a troca, mas aí perde metade da graça do prato",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "investimento pesado na brisa errada kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "tem horas que o plano b parece bem mais divertido que o a",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "verdade, não dá pra negar que faz falta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sorte de quem nunca testou a ergonomia do banco do ônibus",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "é um alívio quando o sentimento vira só página virada",
    "p": "neutra",
@@ -5003,6 +4983,31 @@
   },
   {
    "t": "justo, o boleto chega para todo mundo garantir o lazer depois",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "qualquer ajuda celestial é bem-vinda nessa hora 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pizza e filme garantem a paz antes da segunda feira chegar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "férias curtas pedem pressa para não perder nenhum dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "para trechos curtos assim a rapidez ganha disparada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "complicado mesmo quando a conta do aluguel estraga todo o planejamento",
    "p": "concorda",
    "r": 0
   }
@@ -6410,7 +6415,10 @@
    "esse papo de",
    "tres mil quilometros",
    "verdade o bolso",
-   "pe na estrada"
+   "pe na estrada",
+   "ferias curtas pedem",
+   "para trechos curtos",
+   "complicado mesmo quando"
   ],
   "18024659876939415": [
    "no fim das"
@@ -6420,7 +6428,9 @@
    "deixar tudo pronto",
    "queria ter essa",
    "os cavalinhos do",
-   "justo o boleto"
+   "justo o boleto",
+   "qualquer ajuda celestial",
+   "pizza e filme"
   ],
   "17953965141313574": [
    "semi novo alivia"
@@ -6764,7 +6774,8 @@
   "58257502470": "2026-11-01T07:07:08.994390-04:00",
   "18058588578": "2026-11-01T07:07:08.994390-04:00",
   "22898339820": "2026-11-02T11:07:09.173407-04:00",
-  "49610876725": "2026-11-02T07:07:09.453875-04:00"
+  "49610876725": "2026-11-02T07:07:09.453875-04:00",
+  "58255061423": "2026-11-02T15:37:10.842464-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
