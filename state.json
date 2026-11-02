@@ -28,7 +28,7 @@
    "20:31"
   ],
   "produtos_feitos": 3,
-  "respostas": 55,
+  "respostas": 56,
   "por_post": {
    "18090080810678249": 20,
    "18106825157572440": 4,
@@ -38,7 +38,7 @@
    "17921144301452722": 11,
    "18120849176091114": 8,
    "18110708246187465": 2,
-   "18013529159994207": 3
+   "18013529159994207": 4
   }
  },
  "posts": [
@@ -1248,7 +1248,6 @@
   }
  ],
  "respondidos": [
-  "18219993346341652",
   "18098143430532589",
   "18626060362014712",
   "18105693656212741",
@@ -4247,7 +4246,8 @@
   "18122071429940339",
   "18141329884532008",
   "18174466069456797",
-  "18420959719152239"
+  "18420959719152239",
+  "17952346350299848"
  ],
  "hashes": [
   "923cd7619535e817ddaaac108cfd3ae1",
@@ -4829,15 +4829,11 @@
   "50eaad6125": 1,
   "92d635c080": 1,
   "1466a1cda4": 1,
-  "7c07fd549c": 1
+  "7c07fd549c": 1,
+  "c81e413c95": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "pouco mais de dez mil por ano, então o custo por recarga ainda pesaria no papel",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "matemática avançada onde o ovo sustenta o resto dos planos",
    "p": "ressalva",
@@ -4981,6 +4977,11 @@
   {
    "t": "consegue manter a postura intacta do inicio ao fim do trajeto",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "esse posto já vinha com dono carimbado desde o berço",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6373,7 +6374,8 @@
   "18013529159994207": [
    "cada um cria",
    "sempre tem um",
-   "filha unica joga"
+   "filha unica joga",
+   "esse posto ja"
   ]
  },
  "shopee_checada": "2026-11-01|1",
