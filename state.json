@@ -22,7 +22,9 @@
    "15:36",
    "19:26"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:10"
+  ],
   "produtos_feitos": 0,
   "respostas": 7,
   "por_post": {
@@ -33,44 +35,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17935069443143984",
-   "insp": "video_8224660ab3",
-   "link": "",
-   "texto": "Dias trabalhando em pé acabam com a circulação. Descobri esse adesivo de bambu e olha como funciona pra relaxar no fim do dia 🦶",
-   "quando": "2026-10-27T15:07:11.717250-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "formato": "videofoto",
-   "estrategia": "produto_video",
-   "formato_link": "resp",
-   "produto": "22098913797",
-   "link_pendente": false,
-   "modo_produto": "mesmo",
-   "prod_dados": {
-    "itemId": "22098913797",
-    "nome": "Kit Adesivo Pés Anti inchaço Elimina Impureza dos Pés",
-    "preco": 16.99,
-    "nota": 4.8,
-    "vendas": 53,
-    "comissao": 0.2,
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mo6azbu7i77o27",
-    "offerLink": "https://s.shopee.com.br/9Kj9jcQC4J",
-    "campanha": "",
-    "modo": "mesmo"
-   },
-   "link_coment": "https://s.shopee.com.br/9Kj9jcQC4J",
-   "link_em": "2026-10-27T18:07:09.938547-04:00",
-   "link_views": 514,
-   "metricas": {
-    "views": 1381,
-    "likes": 6,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 6,
-    "em": "2026-11-02"
-   }
-  },
   {
    "id": "17912121543489279",
    "insp": "4fcfb095d4",
@@ -1191,7 +1155,7 @@
     "shares": 0,
     "em": "2026-11-02"
    },
-   "viral_chk": "2026-11-02T08:07:09.041157-04:00"
+   "viral_chk": "2026-11-02T08:37:09.410238-04:00"
   },
   {
    "id": "18110708246187465",
@@ -1209,7 +1173,7 @@
     "shares": 0,
     "em": "2026-11-02"
    },
-   "viral_chk": "2026-11-02T08:07:09.041157-04:00"
+   "viral_chk": "2026-11-02T08:37:09.410238-04:00"
   },
   {
    "id": "18110025206217118",
@@ -1256,7 +1220,7 @@
     "shares": 0,
     "em": "2026-11-02"
    },
-   "viral_chk": "2026-11-02T08:07:09.041157-04:00"
+   "viral_chk": "2026-11-02T08:37:09.410238-04:00"
   },
   {
    "id": "18013529159994207",
@@ -1274,7 +1238,7 @@
     "shares": 0,
     "em": "2026-11-02"
    },
-   "viral_chk": "2026-11-02T08:07:09.041157-04:00"
+   "viral_chk": "2026-11-02T08:37:09.410238-04:00"
   },
   {
    "id": "17915050032536597",
@@ -1321,7 +1285,16 @@
     "shares": 0,
     "em": "2026-11-02"
    },
-   "viral_chk": "2026-11-02T08:07:09.041157-04:00"
+   "viral_chk": "2026-11-02T08:37:09.410238-04:00"
+  },
+  {
+   "id": "18042505940779811",
+   "insp": "b5bc8dc34f",
+   "link": "",
+   "texto": "Qual foi a maior arte que o teu cachorro ou gato já fez em casa quando tu não tava olhando",
+   "quando": "2026-11-02T08:37:09.410238-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-02T08:37:09.410238-04:00"
   }
  ],
  "respondidos": [
@@ -4327,7 +4300,6 @@
   "17918269938530711"
  ],
  "hashes": [
-  "a240bc3a930cb570f0d7e65d0528d808",
   "f6e28494869959ca8f398b2fc8641758",
   "1a924c6a15343ea79c49ea7444c6a610",
   "28364cd36ae251ffe132cf77afca74e1",
@@ -4526,7 +4498,8 @@
   "6212450f8d9caf546011af74ecae33fc",
   "6ed0895b56a8563f1079f91daaaaba34",
   "5f3be0057df7c5c312f4360be2643b71",
-  "d917841c9fa94ad5922b484fca2bb800"
+  "d917841c9fa94ad5922b484fca2bb800",
+  "d6f15cf9c593ff24c0193fac3a88ba77"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4550,7 +4523,6 @@
   "6447474ad3": 1790730448.4125926,
   "fd6c7eeb28": 1790771853.9675057,
   "8afd53c3f1": 1790773645.4395769,
-  "b5bc8dc34f": 1790777255.0346036,
   "018fcf3621": 1790782693.9690814,
   "2b14999174": 1790786274.782627,
   "8b93fbf051": 1790789849.0126176,
@@ -4852,7 +4824,8 @@
   "2abbca2759": 1793561891.0220225,
   "648ff7fceb": 1793572639.0643594,
   "7208b45268": 1793576284.6036692,
-  "ddecfa5388": 1793585294.626591
+  "ddecfa5388": 1793585294.626591,
+  "b5bc8dc34f": 1793623042.3007572
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
