@@ -32,7 +32,8 @@
    "14:30",
    "15:36",
    "16:30",
-   "17:19"
+   "17:19",
+   "18:05"
   ],
   "produtos_feitos": 2,
   "respostas": 58,
@@ -52,24 +53,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18096262466442750",
-   "insp": "1625f98254",
-   "link": "",
-   "texto": "Qual foi aquele jogo que você pediu tanto de presente de aniversário quando era criança e nunca ganhou",
-   "quando": "2026-10-28T13:37:09.550407-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 602,
-    "likes": 5,
-    "replies": 13,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-02"
-   },
-   "viral_chk": "2026-10-29T13:37:08.494566-04:00"
-  },
   {
    "id": "18116265278113273",
    "insp": "prod_22894551427",
@@ -1258,6 +1241,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: o café da manhã do hotel é sempre melhor que o passeio do dia.",
    "quando": "2026-11-02T17:37:16.708606-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17870801802641111",
+   "insp": "a97ae3ae12",
+   "link": "",
+   "texto": "SEM MENTIR: vocês trocariam uma hora a menos de trabalho por dia por vinte por cento a menos no salário",
+   "quando": "2026-11-02T18:07:09.259850-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4264,7 +4255,6 @@
   "18165998308491916"
  ],
  "hashes": [
-  "fe2c1ef11b78502daf7dadf0d8bc64e7",
   "98b8d51463cc88195e8e678b55a7bd0d",
   "3af1a22d0fad12754dcd97be96c85506",
   "d57d1e882cd253e19acc0e2a11a6ef21",
@@ -4463,7 +4453,8 @@
   "eb65d0d8da9ec4811aafca2b454a1652",
   "5ad9a6917ff0d1bc2379d5063f81adda",
   "19da41446d7e624717872dbe6f5b43e0",
-  "8f7ca9e8fa039b0f44c9485d84eb3011"
+  "8f7ca9e8fa039b0f44c9485d84eb3011",
+  "8eddcc8e380481c769322390a0aaaff0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4796,7 +4787,8 @@
   "b8d04ab1d5": 1793642845.0202954,
   "9bbd821472": 1793644650.9983938,
   "19d5dbcfc8": 1793651890.7374792,
-  "31d5ff1cab": 1793655452.9774752
+  "31d5ff1cab": 1793655452.9774752,
+  "a97ae3ae12": 1793657276.5510592
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
