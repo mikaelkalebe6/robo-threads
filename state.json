@@ -27,7 +27,7 @@
    "19:28"
   ],
   "produtos_feitos": 2,
-  "respostas": 51,
+  "respostas": 53,
   "por_post": {
    "18090080810678249": 19,
    "18106825157572440": 4,
@@ -36,7 +36,8 @@
    "18119185082003862": 4,
    "17921144301452722": 11,
    "18120849176091114": 8,
-   "18110708246187465": 2
+   "18110708246187465": 2,
+   "18013529159994207": 2
   }
  },
  "posts": [
@@ -1249,8 +1250,6 @@
   }
  ],
  "respondidos": [
-  "18162524482430977",
-  "18124636447698144",
   "18190848997398126",
   "18130290499771592",
   "18219993346341652",
@@ -4248,7 +4247,9 @@
   "18031911353687302",
   "18220895407355781",
   "18036059726664753",
-  "17921925084243166"
+  "17921925084243166",
+  "18122071429940339",
+  "18141329884532008"
  ],
  "hashes": [
   "923cd7619535e817ddaaac108cfd3ae1",
@@ -4826,20 +4827,12 @@
   "13c0779224": 1,
   "49e5d490f8": 1,
   "ff98d3abc0": 1,
-  "f25a49a76e": 1
+  "f25a49a76e": 1,
+  "50eaad6125": 1,
+  "92d635c080": 1
  },
  "reservas_checadas": "2026-11-01",
  "ultimas_respostas": [
-  {
-   "t": "a teoria é bonita, mas o boleto vem com juros independentemente da escolha",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "respeito a sinceridade, assumir o próprio peso já é um passo enorme",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "carro é um poço sem fundo que engole qualquer planejamento",
    "p": "concorda",
@@ -4978,6 +4971,16 @@
   {
    "t": "sortuda que nunca perdeu o ponto babando no vidro kkk",
    "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "cada um cria a sua propria teoria da conspiracao em casa kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "sempre tem um que assume o posto sem disfarce kkk",
+   "p": "concorda",
    "r": 1
   }
  ],
@@ -6061,14 +6064,6 @@
   }
  ],
  "aberturas_post": {
-  "18146338231578758": [
-   "verdade no fim",
-   "exato tempo livre",
-   "verdade o custo",
-   "paz de espirito",
-   "dois anos pra",
-   "o dificil e"
-  ],
   "18096262466442750": [
    "versao artesanal sempre",
    "a escada da",
@@ -6374,6 +6369,10 @@
   "18110708246187465": [
    "memoria de peixe",
    "sobre quem enrola"
+  ],
+  "18013529159994207": [
+   "cada um cria",
+   "sempre tem um"
   ]
  },
  "shopee_checada": "2026-11-01|1",
