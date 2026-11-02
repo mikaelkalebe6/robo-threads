@@ -34,7 +34,7 @@
    "16:30"
   ],
   "produtos_feitos": 2,
-  "respostas": 51,
+  "respostas": 55,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -46,7 +46,8 @@
    "18024659876939415": 1,
    "18080625980418879": 7,
    "17953965141313574": 2,
-   "18433923586146915": 2
+   "18433923586146915": 2,
+   "18147480598586721": 4
   }
  },
  "posts": [
@@ -1270,10 +1271,6 @@
   }
  ],
  "respondidos": [
-  "18162548062513723",
-  "18043730258684148",
-  "18174776263446747",
-  "18136177282567500",
   "18075967769724971",
   "18098420237175758",
   "18106732448622419",
@@ -4269,7 +4266,11 @@
   "18118716923045428",
   "17904840717671117",
   "18091493648679113",
-  "18115336472324034"
+  "18115336472324034",
+  "17892657501684516",
+  "17909239782570947",
+  "18092088281288604",
+  "18135946007506827"
  ],
  "hashes": [
   "f0cfc3a4371fea3cf6c579dfd9b9a7b7",
@@ -4855,30 +4856,14 @@
   "80fe7ac7f2": 1,
   "2ef43d56d3": 1,
   "791819aece": 1,
-  "f0695b1fdb": 1
+  "f0695b1fdb": 1,
+  "f49cd8c803": 1,
+  "b448941878": 1,
+  "1e13f2b784": 1,
+  "9736a2e8bb": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "uma verdadeira galeria de arte moderna nas paredes kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "17h na estrada? melhor voar e economizar o sono kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "no fim das contas o barato é cair do cavalo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, a matemática da distância muda tudo na escolha kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Entendo, carro tem a liberdade que o avião rouba, né? kkk",
    "p": "concorda",
@@ -5007,6 +4992,26 @@
   {
    "t": "esse modelo aguenta tudo mesmo, só falta fazer café kkk",
    "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "jogo difícil no sofa realmente é pedir para sofrer kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "cadeira boa realmente muda tudo kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "com o controle na mão a cama vira a melhor base de comando",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "defesa clássica de quem não troca a cadeira gamer por nada kkk",
+   "p": "ressalva",
    "r": 1
   }
  ],
@@ -6120,19 +6125,6 @@
   }
  ],
  "aberturas_post": {
-  "17918797707464737": [
-   "essa conta de",
-   "deixar a noite",
-   "para quem tem",
-   "justo pra quem",
-   "clt sofre demais",
-   "coragem pura as",
-   "duas verdades pesando",
-   "evoluir a gente",
-   "quem tem foco",
-   "dez da noite",
-   "muito criativo o"
-  ],
   "17879211354567060": [
    "torresmo e um",
    "o combo completo",
@@ -6431,6 +6423,12 @@
   "18433923586146915": [
    "que capricho fica",
    "boa saber que"
+  ],
+  "18147480598586721": [
+   "jogo dificil no",
+   "cadeira boa realmente",
+   "com o controle",
+   "defesa classica de"
   ]
  },
  "shopee_checada": "2026-11-02|1",
