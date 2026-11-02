@@ -32,7 +32,7 @@
    "14:30"
   ],
   "produtos_feitos": 1,
-  "respostas": 37,
+  "respostas": 43,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -41,7 +41,9 @@
    "18042505940779811": 7,
    "18121901744054913": 2,
    "18047547587827876": 14,
-   "18024659876939415": 1
+   "18024659876939415": 1,
+   "18080625980418879": 5,
+   "17953965141313574": 1
   }
  },
  "posts": [
@@ -1273,12 +1275,6 @@
   }
  ],
  "respondidos": [
-  "18419019844155327",
-  "18096410366355108",
-  "18483690280111484",
-  "18117246583959675",
-  "18069228911769227",
-  "18028676990684620",
   "18111084020520237",
   "17877617646630628",
   "18046213004816797",
@@ -4272,7 +4268,13 @@
   "18063012869804171",
   "18101340320084250",
   "18120148391081668",
-  "18132547342770599"
+  "18132547342770599",
+  "18090739784281441",
+  "17919745935462109",
+  "18150086281551041",
+  "17884518717533762",
+  "17891227350621643",
+  "18108726824526559"
  ],
  "hashes": [
   "ab9a28c40421f2977f6aca8b6e6dc076",
@@ -4828,7 +4830,7 @@
   "c3e1674b05": 1,
   "587a00cf83": 1,
   "5491f536c3": 1,
-  "92d635c080": 1,
+  "92d635c080": 2,
   "8bc336af62": 1,
   "382a2801a3": 1,
   "fcf079e381": 1,
@@ -4845,40 +4847,15 @@
   "eb8e874c87": 1,
   "2154aad93b": 1,
   "0521dbc115": 1,
-  "e0a49f4ef1": 1
+  "e0a49f4ef1": 1,
+  "32920ed911": 1,
+  "6f637fe40e": 1,
+  "f6c001ccb6": 1,
+  "bdd25719bc": 1,
+  "4daac2f246": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "seu cachorro decidiu que o salario do seu pai e a sua identidade eram alvos legitimos kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "agora o computador tem um toque pessoal bem artístico",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "herdeiro legítimo do trono e dos privilégios kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "filosofo e contemplativo, só faltou a cadeira de praia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "socorro o jabuti achando que era a hora da reforma",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "exato, essa conta de seis meses é a parte que faz o estômago dar uma reviravolta",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "até aceito a troca, mas aí perde metade da graça do prato",
    "p": "ressalva",
@@ -4996,6 +4973,36 @@
   },
   {
    "t": "pé na estrada dá uma sensação boa de liberdade que compensa as horas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sorvete resolve quase tudo, um ótimo plano pra salvar o domingo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "semi-novo alivia o bolso e evita o susto da desvalorização kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "deixar tudo pronto antes evita o caos da segunda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "queria ter essa mesma energia toda num domingo à noite",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "os cavalinhos do fantástico salvam o final de domingo de qualquer um kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo, o boleto chega para todo mundo garantir o lazer depois",
    "p": "concorda",
    "r": 0
   }
@@ -6110,32 +6117,6 @@
   }
  ],
  "aberturas_post": {
-  "17966524512249358": [
-   "essa trilha sonora",
-   "essa propaganda tinha",
-   "que massa brastemp",
-   "essa musica grudou",
-   "essa melodia e",
-   "realmente venderam um",
-   "a criatividade daquela",
-   "essa classica nunca",
-   "essa marcou epoca",
-   "essa pegou todo",
-   "tempo em que",
-   "esse classico grudou",
-   "impossivel ler isso",
-   "bateram forte na",
-   "essa musica nao",
-   "esse comercial educou",
-   "producao daquela epoca"
-  ],
-  "17907462081666720": [
-   "quem manda podcast",
-   "coragem e folego",
-   "um minuto e",
-   "encontrar alguem que",
-   "um verdadeiro audiolivro"
-  ],
   "18143232559720343": [
    "essa frase doeu",
    "habito saudavel para",
@@ -6433,6 +6414,16 @@
   ],
   "18024659876939415": [
    "no fim das"
+  ],
+  "18080625980418879": [
+   "sorvete resolve quase",
+   "deixar tudo pronto",
+   "queria ter essa",
+   "os cavalinhos do",
+   "justo o boleto"
+  ],
+  "17953965141313574": [
+   "semi novo alivia"
   ]
  },
  "shopee_checada": "2026-11-02|1",
