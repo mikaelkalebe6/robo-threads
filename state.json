@@ -35,10 +35,11 @@
    "17:19",
    "18:05",
    "19:26",
-   "20:23"
+   "20:23",
+   "21:03"
   ],
   "produtos_feitos": 3,
-  "respostas": 76,
+  "respostas": 80,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -49,32 +50,15 @@
    "18047547587827876": 17,
    "18024659876939415": 1,
    "18080625980418879": 7,
-   "17953965141313574": 3,
+   "17953965141313574": 4,
    "18433923586146915": 2,
-   "18147480598586721": 8,
-   "17870801802641111": 14,
-   "18182459707432553": 1
+   "18147480598586721": 9,
+   "17870801802641111": 15,
+   "18182459707432553": 1,
+   "18288224983293291": 1
   }
  },
  "posts": [
-  {
-   "id": "18114732275034207",
-   "insp": "6e7858b93b",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: em que momento exato a gente aceitou que sair para comer fora virou um luxo de fim de ano?",
-   "quando": "2026-10-28T18:07:08.763845-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 617,
-    "likes": 5,
-    "replies": 12,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-02"
-   },
-   "viral_chk": "2026-10-29T18:07:08.100285-04:00"
-  },
   {
    "id": "17974060974150692",
    "insp": "8875ec01b3",
@@ -1238,13 +1222,17 @@
    "texto": "PESSOAS QUE MORAM COM A SOGRA: terapia em dia ou paciência de monge?",
    "quando": "2026-11-02T20:37:08.544418-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18147973417588492",
+   "insp": "5b9cf279c9",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: quem aguenta trânsito de carro todo dia na cidade sem perder a paciência. Quase pegando uma moto só pra cortar corredor.",
+   "quando": "2026-11-02T21:07:08.559195-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17910299214541143",
-  "18133044875506774",
-  "17977580276914859",
-  "17981257029108651",
   "18119719480940665",
   "18094805969144588",
   "18121660618745695",
@@ -4240,10 +4228,13 @@
   "18159656287524664",
   "18223741657356099",
   "18602361268064923",
-  "18333321310263119"
+  "18333321310263119",
+  "17913774870516537",
+  "18032999867681344",
+  "17992175354865272",
+  "18171664942476448"
  ],
  "hashes": [
-  "3af1a22d0fad12754dcd97be96c85506",
   "d57d1e882cd253e19acc0e2a11a6ef21",
   "951fe0d868338be0f3cfbef1d2512bfc",
   "54f50292890d72cfc9ad8b95617f3e2a",
@@ -4442,7 +4433,8 @@
   "19da41446d7e624717872dbe6f5b43e0",
   "8f7ca9e8fa039b0f44c9485d84eb3011",
   "8eddcc8e380481c769322390a0aaaff0",
-  "6a16b8ba9625ef480b72af781c736ce6"
+  "6a16b8ba9625ef480b72af781c736ce6",
+  "f0c631555ce12f021a3843b45389611a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4777,7 +4769,8 @@
   "19d5dbcfc8": 1793651890.7374792,
   "31d5ff1cab": 1793655452.9774752,
   "a97ae3ae12": 1793657276.5510592,
-  "3c191ef8b8": 1793666242.5047946
+  "3c191ef8b8": 1793666242.5047946,
+  "5b9cf279c9": 1793668043.6286292
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4854,30 +4847,14 @@
   "3df68307e2": 1,
   "e2a274bd5f": 1,
   "707c61b978": 1,
-  "a207dddf45": 1
+  "a207dddf45": 1,
+  "280792b6e0": 1,
+  "a39c96d8a6": 1,
+  "20db67b357": 1,
+  "e3cc39f538": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "para trechos curtos assim a rapidez ganha disparada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "complicado mesmo quando a conta do aluguel estraga todo o planejamento",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "que capricho, fica lindo organizado desse jeito kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "boa saber que acha fácil por lá",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse modelo aguenta tudo mesmo, só falta fazer café kkk",
    "p": "concorda",
@@ -5006,6 +4983,26 @@
   {
    "t": "aqui o assunto preferido é sempre o bendito boleto",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "pesado kkkkk aí você foi fundo na definição",
+   "p": "neutra",
+   "r": 2
+  },
+  {
+   "t": "vinte anos com o mesmo companheiro de estrada é para poucos kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "tecnologia avançada para continuar no conforto do sofá kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "reduziu a rotina e ganhou o dobro de sossego",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6119,28 +6116,6 @@
   }
  ],
  "aberturas_post": {
-  "18146591881665621": [
-   "faz sentido antigamente",
-   "exato no dia",
-   "justo o melhor",
-   "ter o diarista",
-   "economia no fim",
-   "pior que no",
-   "fugir do horario",
-   "conta matematica forte",
-   "o manual costuma",
-   "justo paz de",
-   "e a manutencao",
-   "verdade no fim",
-   "nossa doi mesmo",
-   "direcionar o carrinho",
-   "nossa ladeira com",
-   "essa sensacao de",
-   "sem transito pesado",
-   "o peso no",
-   "comparacao perfeita depois",
-   "depois que a"
-  ],
   "18101789486658584": [
    "pesado mas faz",
    "justica seja feita"
@@ -6400,7 +6375,8 @@
   "17953965141313574": [
    "semi novo alivia",
    "esse modelo aguenta",
-   "comecar com um"
+   "comecar com um",
+   "vinte anos com"
   ],
   "18433923586146915": [
    "que capricho fica",
@@ -6414,7 +6390,8 @@
    "saude do pescoco",
    "separar o jogo",
    "quando o encaixe",
-   "coberta e controle"
+   "coberta e controle",
+   "tecnologia avancada para"
   ],
   "17870801802641111": [
    "justo o boleto",
@@ -6430,10 +6407,14 @@
    "saude e tempo",
    "trabalhar mais para",
    "estragou meu argumento",
-   "aqui o assunto"
+   "aqui o assunto",
+   "reduziu a rotina"
   ],
   "18182459707432553": [
    "depende muito do"
+  ],
+  "18288224983293291": [
+   "pesado ai voce"
   ]
  },
  "shopee_checada": "2026-11-02|1",
