@@ -20,10 +20,10 @@
    "10:56"
   ],
   "produtos_feitos": 1,
-  "respostas": 20,
+  "respostas": 21,
   "por_post": {
    "18147973417588492": 1,
-   "17870801802641111": 6,
+   "17870801802641111": 7,
    "18147480598586721": 5,
    "18433923586146915": 1,
    "17953965141313574": 3,
@@ -1328,7 +1328,6 @@
   }
  ],
  "respondidos": [
-  "18098013545451737",
   "17898367629656293",
   "18233640985323853",
   "18069731366751983",
@@ -4327,7 +4326,8 @@
   "17995872357115759",
   "18232106485333766",
   "18157004290531342",
-  "17939892555122398"
+  "17939892555122398",
+  "18154951672551114"
  ],
  "hashes": [
   "54f50292890d72cfc9ad8b95617f3e2a",
@@ -4891,15 +4891,11 @@
   "923186cdca": 1,
   "84f713b98d": 1,
   "35932942d0": 1,
-  "98f025ec20": 1
+  "98f025ec20": 1,
+  "e661bed211": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "filosofia no trânsito exige uma paciência que eu infelizmente não tenho",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "prioridades em dia, o sofá que lute kkkkkk",
    "p": "concorda",
@@ -5044,6 +5040,11 @@
    "t": "trabalhar mais horas para manter o salario inteiro pede uma resistencia que eu não tenho kkk",
    "p": "ressalva",
    "r": 1
+  },
+  {
+   "t": "fugiu completamente do assunto mas deu para sentir o peso da situação",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6455,7 +6456,6 @@
    "teclado no colo"
   ],
   "17870801802641111": [
-   "saude mental em",
    "justo recusar a",
    "o boleto infelizmente",
    "matematica implacavel nesse",
@@ -6474,7 +6474,8 @@
    "perdeu o rumo",
    "sim um desconto",
    "descansar da rotina",
-   "trabalhar mais horas"
+   "trabalhar mais horas",
+   "fugiu completamente do"
   ],
   "18182459707432553": [
    "depende muito do"
