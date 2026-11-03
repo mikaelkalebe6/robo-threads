@@ -16,7 +16,8 @@
   ],
   "feitos": [
    "09:15",
-   "10:10"
+   "10:10",
+   "10:56"
   ],
   "produtos_feitos": 1,
   "respostas": 18,
@@ -30,24 +31,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18144615214606642",
-   "insp": "36f567653d",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: qual música toca e te joga direto naqueles anos de escola sem olhar pra trás",
-   "quando": "2026-10-28T21:07:08.393878-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 371,
-    "likes": 1,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-03"
-   },
-   "viral_chk": "2026-10-29T20:07:09.063415-04:00"
-  },
   {
    "id": "17907462081666720",
    "insp": "095d3d6cd4",
@@ -1334,6 +1317,14 @@
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ou-mosj94b62cxuaf",
     "campanha": ""
    }
+  },
+  {
+   "id": "18161133757513372",
+   "insp": "43ee3055b5",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: a promessa de que tinha comida em casa era só uma estratégia para evitar o fast food da rua",
+   "quando": "2026-11-03T11:07:10.107897-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4339,7 +4330,6 @@
   "18232106485333766"
  ],
  "hashes": [
-  "951fe0d868338be0f3cfbef1d2512bfc",
   "54f50292890d72cfc9ad8b95617f3e2a",
   "730b6789af14cd15c42450aefa3bef59",
   "08bbf20aaef98a13ea397d42847ea825",
@@ -4538,7 +4528,8 @@
   "8eddcc8e380481c769322390a0aaaff0",
   "6a16b8ba9625ef480b72af781c736ce6",
   "f0c631555ce12f021a3843b45389611a",
-  "e83be1c959d0c1b5432447f140d2fe59"
+  "e83be1c959d0c1b5432447f140d2fe59",
+  "111ea3bf609b4c2d5d80a0d9a948e822"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4875,7 +4866,8 @@
   "a97ae3ae12": 1793657276.5510592,
   "3c191ef8b8": 1793666242.5047946,
   "5b9cf279c9": 1793668043.6286292,
-  "31ea134865": 1793713047.9851184
+  "31ea134865": 1793713047.9851184,
+  "43ee3055b5": 1793718474.3212643
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
