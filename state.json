@@ -19,9 +19,10 @@
    "10:10",
    "10:56",
    "13:10",
-   "16:08"
+   "16:08",
+   "17:47"
   ],
-  "produtos_feitos": 2,
+  "produtos_feitos": 3,
   "respostas": 37,
   "por_post": {
    "18147973417588492": 1,
@@ -34,29 +35,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17966524512249358",
-   "insp": "1fd8d1a0a2",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual foi a propaganda mais genial que você já viu na vida e lembra até hoje? Curioso pra saber o que realmente marcou a galera aqui.",
-   "quando": "2026-10-29T10:37:09.264916-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-29T20:07:09.063415-04:00",
-   "link_coment": "https://s.shopee.com.br/2Vst7RYDMh",
-   "meme_comentado": true,
-   "meme_views": 1008,
-   "formato_link": "coment",
-   "produto": "22894012277",
-   "metricas": {
-    "views": 1448,
-    "likes": 10,
-    "replies": 41,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-03"
-   }
-  },
   {
    "id": "17952171162317956",
    "insp": "prod_23593906892",
@@ -1320,6 +1298,26 @@
    "texto": "SEM MENTIR: trabalhar com atendimento ao cliente testa a sanidade de qualquer ser humano em dois minutos. Tem dia que a única solução é respirar fundo e fingir demência.",
    "quando": "2026-11-03T16:37:11.641334-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18130295941794634",
+   "insp": "prod_58255737985",
+   "link": "",
+   "texto": "Corte de corda e embalagem no meio do camping sempre dão um trabalhão, né? Descobri esse canivete dobrável que não ocupa espaço no bolso e resolve tudo numa tacada só. Olha como funciona 👀",
+   "quando": "2026-11-03T18:07:11.383172-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "58255737985",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "58255737985",
+    "nome": "Canivete Dobrável de Aço Inoxidável Com Alta Resistencia Pesca Camping Caminhada - BW7275",
+    "offerLink": "https://s.shopee.com.br/114CRgTtML",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuh-ml3uuln7tla8fe",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
@@ -6722,7 +6720,7 @@
   "18599879164": "2026-11-01T10:07:09.481070-04:00",
   "22694227037": "2026-10-17T12:07:07.816065-04:00",
   "14065340258": "2026-10-17T15:37:07.980428-04:00",
-  "58255737985": "2026-10-17T21:37:08.255141-04:00",
+  "58255737985": "2026-11-03T18:07:11.383172-04:00",
   "58254074073": "2026-10-17T21:37:08.255141-04:00",
   "58269029568": "2026-11-02T09:07:08.741895-04:00",
   "19098752815": "2026-11-02T07:07:09.453875-04:00",
