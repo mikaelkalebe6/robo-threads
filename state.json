@@ -21,10 +21,10 @@
    "13:10"
   ],
   "produtos_feitos": 2,
-  "respostas": 33,
+  "respostas": 35,
   "por_post": {
    "18147973417588492": 1,
-   "17870801802641111": 17,
+   "17870801802641111": 19,
    "18147480598586721": 5,
    "18433923586146915": 1,
    "17953965141313574": 3,
@@ -1334,8 +1334,6 @@
   }
  ],
  "respondidos": [
-  "17971157799174199",
-  "18477751573116263",
   "18117820922053597",
   "18121288825726509",
   "18131253499771977",
@@ -4333,7 +4331,9 @@
   "18641397424045605",
   "17895687042436214",
   "18113337764268987",
-  "17909156349583873"
+  "17909156349583873",
+  "18146851126585278",
+  "18089356949310131"
  ],
  "hashes": [
   "54f50292890d72cfc9ad8b95617f3e2a",
@@ -4910,20 +4910,12 @@
   "4733c93408": 1,
   "e0a1aa4b37": 1,
   "c02fb2e993": 1,
-  "2c7fc3d958": 1
+  "2c7fc3d958": 1,
+  "cd99b6dd3a": 1,
+  "06c4b8f961": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "verdade, ajuda muito a segurar os gastos e ainda enfeita o quarto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse modelo tem fama de ser bem honesto no dia a dia",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "direto ao ponto sem negociar o salario",
    "p": "neutra",
@@ -5063,6 +5055,16 @@
    "t": "organização ajuda muito, mas nem todo lugar dá essa liberdade",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "fugir da sexta feira desse jeito e um plano audacioso kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "trabalhar mais para engordar um pouco a conta é uma ousadia para poucos kkkk",
+   "p": "discorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6479,8 +6481,6 @@
    "teclado no colo"
   ],
   "17870801802641111": [
-   "nem com um",
-   "justo a base",
    "coragem para trabalhar",
    "respeito a firmeza",
    "direto ao ponto",
@@ -6498,7 +6498,9 @@
    "justo cada um",
    "queria ter essa",
    "economia drastica mas",
-   "organizacao ajuda muito"
+   "organizacao ajuda muito",
+   "fugir da sexta",
+   "trabalhar mais para"
   ],
   "18182459707432553": [
    "depende muito do"
