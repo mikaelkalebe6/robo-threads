@@ -20,14 +20,14 @@
    "10:56"
   ],
   "produtos_feitos": 1,
-  "respostas": 21,
+  "respostas": 24,
   "por_post": {
    "18147973417588492": 1,
-   "17870801802641111": 7,
+   "17870801802641111": 9,
    "18147480598586721": 5,
    "18433923586146915": 1,
    "17953965141313574": 3,
-   "17944556547380767": 4
+   "17944556547380767": 5
   }
  },
  "posts": [
@@ -1328,9 +1328,6 @@
   }
  ],
  "respondidos": [
-  "17898367629656293",
-  "18233640985323853",
-  "18069731366751983",
   "18001453100800775",
   "18098074316641513",
   "17930369088409513",
@@ -4327,7 +4324,10 @@
   "18232106485333766",
   "18157004290531342",
   "17939892555122398",
-  "18154951672551114"
+  "18154951672551114",
+  "18024717248712405",
+  "18111201506217119",
+  "18351801376281744"
  ],
  "hashes": [
   "54f50292890d72cfc9ad8b95617f3e2a",
@@ -4892,25 +4892,13 @@
   "84f713b98d": 1,
   "35932942d0": 1,
   "98f025ec20": 1,
-  "e661bed211": 1
+  "e661bed211": 1,
+  "82d123d164": 1,
+  "5beb954139": 1,
+  "9e8eec8565": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "prioridades em dia, o sofá que lute kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "na cama o nível de conforto sobe tanto que o jogo fica em segundo plano kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "respostas curtas e definitivas economizam tempo de debate",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "quem depende do final do mês não pode se dar esse luxo mesmo",
    "p": "neutra",
@@ -5043,6 +5031,21 @@
   },
   {
    "t": "fugiu completamente do assunto mas deu para sentir o peso da situação",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "esse painel iluminado já adianta o boleto da oficina",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "defendeu o proprio passe com unhas e dentes",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "objetividade admirável para quem só quer saber do pagamento",
    "p": "neutra",
    "r": 0
   }
@@ -6456,8 +6459,6 @@
    "teclado no colo"
   ],
   "17870801802641111": [
-   "justo recusar a",
-   "o boleto infelizmente",
    "matematica implacavel nesse",
    "gorjeta em dolar",
    "saude e tempo",
@@ -6475,7 +6476,9 @@
    "sim um desconto",
    "descansar da rotina",
    "trabalhar mais horas",
-   "fugiu completamente do"
+   "fugiu completamente do",
+   "defendeu o proprio",
+   "objetividade admiravel para"
   ],
   "18182459707432553": [
    "depende muito do"
@@ -6493,7 +6496,8 @@
    "biela batendo ja",
    "perder o som",
    "verdade manutencao preventiva",
-   "ai ja senti"
+   "ai ja senti",
+   "esse painel iluminado"
   ]
  },
  "shopee_checada": "2026-11-03|1",
