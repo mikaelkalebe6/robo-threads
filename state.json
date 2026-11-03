@@ -18,13 +18,14 @@
    "09:15",
    "10:10",
    "10:56",
-   "13:10"
+   "13:10",
+   "16:08"
   ],
   "produtos_feitos": 2,
-  "respostas": 35,
+  "respostas": 36,
   "por_post": {
    "18147973417588492": 1,
-   "17870801802641111": 19,
+   "17870801802641111": 20,
    "18147480598586721": 5,
    "18433923586146915": 1,
    "17953965141313574": 3,
@@ -32,27 +33,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17954761392297381",
-   "insp": "prod_58267939235",
-   "link": "",
-   "texto": "Achar coisa solta no porta-malas do carro da uma agonia danada, né? 😂 Descobri essa bolsa de feltro organizadora que resolve isso num instante e deixa tudo no lugar certo. Olha como fica arrumado 👀",
-   "quando": "2026-10-29T09:37:08.566115-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58267939235",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58267939235",
-    "nome": "Bolsa de Armazenamento em Feltro para Porta-Malas do Carro, Organizador de Ferramentas e Acessórios Automotivos",
-    "offerLink": "https://s.shopee.com.br/AAIJQ2A7DG",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aj-mszmp8b1gav9c0",
-    "campanha": "11.11"
-   },
-   "apagado": true
-  },
   {
    "id": "17966524512249358",
    "insp": "1fd8d1a0a2",
@@ -1331,10 +1311,17 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdmsrbntex15d7",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "18118663834815681",
+   "insp": "134d436301",
+   "link": "",
+   "texto": "SEM MENTIR: trabalhar com atendimento ao cliente testa a sanidade de qualquer ser humano em dois minutos. Tem dia que a única solução é respirar fundo e fingir demência.",
+   "quando": "2026-11-03T16:37:11.641334-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18117820922053597",
   "18121288825726509",
   "18131253499771977",
   "18094869977670184",
@@ -4333,10 +4320,10 @@
   "18113337764268987",
   "17909156349583873",
   "18146851126585278",
-  "18089356949310131"
+  "18089356949310131",
+  "18006924191793095"
  ],
  "hashes": [
-  "54f50292890d72cfc9ad8b95617f3e2a",
   "730b6789af14cd15c42450aefa3bef59",
   "08bbf20aaef98a13ea397d42847ea825",
   "462702bb356c7df254619fac4a893742",
@@ -4535,7 +4522,8 @@
   "6a16b8ba9625ef480b72af781c736ce6",
   "f0c631555ce12f021a3843b45389611a",
   "e83be1c959d0c1b5432447f140d2fe59",
-  "111ea3bf609b4c2d5d80a0d9a948e822"
+  "111ea3bf609b4c2d5d80a0d9a948e822",
+  "3a35f403b2a89407c0605376f13d7313"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4873,7 +4861,8 @@
   "3c191ef8b8": 1793666242.5047946,
   "5b9cf279c9": 1793668043.6286292,
   "31ea134865": 1793713047.9851184,
-  "43ee3055b5": 1793718474.3212643
+  "43ee3055b5": 1793718474.3212643,
+  "134d436301": 1793738289.3725514
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4912,15 +4901,11 @@
   "c02fb2e993": 1,
   "2c7fc3d958": 1,
   "cd99b6dd3a": 1,
-  "06c4b8f961": 1
+  "06c4b8f961": 1,
+  "4223199491": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "direto ao ponto sem negociar o salario",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "o sono chega de fininho e quando vc ve já perdeu a fase kkkkkk",
    "p": "concorda",
@@ -5065,6 +5050,11 @@
    "t": "trabalhar mais para engordar um pouco a conta é uma ousadia para poucos kkkk",
    "p": "discorda",
    "r": 2
+  },
+  {
+   "t": "ganhar mais para aguentar o batente exige uma coragem invejável kkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6481,7 +6471,6 @@
    "teclado no colo"
   ],
   "17870801802641111": [
-   "coragem para trabalhar",
    "respeito a firmeza",
    "direto ao ponto",
    "perdeu o rumo",
@@ -6500,7 +6489,8 @@
    "economia drastica mas",
    "organizacao ajuda muito",
    "fugir da sexta",
-   "trabalhar mais para"
+   "trabalhar mais para",
+   "ganhar mais para"
   ],
   "18182459707432553": [
    "depende muito do"
