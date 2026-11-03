@@ -34,10 +34,11 @@
    "16:30",
    "17:19",
    "18:05",
-   "19:26"
+   "19:26",
+   "20:23"
   ],
   "produtos_feitos": 3,
-  "respostas": 73,
+  "respostas": 76,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -50,35 +51,12 @@
    "18080625980418879": 7,
    "17953965141313574": 3,
    "18433923586146915": 2,
-   "18147480598586721": 7,
-   "17870801802641111": 12,
+   "18147480598586721": 8,
+   "17870801802641111": 14,
    "18182459707432553": 1
   }
  },
  "posts": [
-  {
-   "id": "17939308794122207",
-   "insp": "379a8ce6b4",
-   "link": "",
-   "texto": "PESSOAS QUE MORAM SOZINHAS: a melhor parte é andar pelada pela casa e a pior é ouvir barulho estranho de madrugada.",
-   "quando": "2026-10-28T17:07:08.721451-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 2403,
-    "likes": 92,
-    "replies": 85,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-02"
-   },
-   "viral_chk": "2026-10-29T07:07:08.931399-04:00",
-   "link_coment": "https://s.shopee.com.br/30p8qpVr88",
-   "meme_comentado": true,
-   "meme_views": 1930,
-   "formato_link": "coment",
-   "produto": "22493432361"
-  },
   {
    "id": "18114732275034207",
    "insp": "6e7858b93b",
@@ -1252,12 +1230,17 @@
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820lx-mnqkgerb6waq58",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "18288224983293291",
+   "insp": "3c191ef8b8",
+   "link": "",
+   "texto": "PESSOAS QUE MORAM COM A SOGRA: terapia em dia ou paciência de monge?",
+   "quando": "2026-11-02T20:37:08.544418-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17903345670596190",
-  "18103060328631490",
-  "17936455338379630",
   "17910299214541143",
   "18133044875506774",
   "17977580276914859",
@@ -4254,10 +4237,12 @@
   "18098594912393546",
   "18105452612278310",
   "18177977143455545",
-  "18159656287524664"
+  "18159656287524664",
+  "18223741657356099",
+  "18602361268064923",
+  "18333321310263119"
  ],
  "hashes": [
-  "98b8d51463cc88195e8e678b55a7bd0d",
   "3af1a22d0fad12754dcd97be96c85506",
   "d57d1e882cd253e19acc0e2a11a6ef21",
   "951fe0d868338be0f3cfbef1d2512bfc",
@@ -4456,7 +4441,8 @@
   "5ad9a6917ff0d1bc2379d5063f81adda",
   "19da41446d7e624717872dbe6f5b43e0",
   "8f7ca9e8fa039b0f44c9485d84eb3011",
-  "8eddcc8e380481c769322390a0aaaff0"
+  "8eddcc8e380481c769322390a0aaaff0",
+  "6a16b8ba9625ef480b72af781c736ce6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4790,7 +4776,8 @@
   "9bbd821472": 1793644650.9983938,
   "19d5dbcfc8": 1793651890.7374792,
   "31d5ff1cab": 1793655452.9774752,
-  "a97ae3ae12": 1793657276.5510592
+  "a97ae3ae12": 1793657276.5510592,
+  "3c191ef8b8": 1793666242.5047946
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4864,25 +4851,13 @@
   "cc7eac5645": 1,
   "69704e2689": 1,
   "4f4d0994c9": 1,
-  "3df68307e2": 1
+  "3df68307e2": 1,
+  "e2a274bd5f": 1,
+  "707c61b978": 1,
+  "a207dddf45": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "qualquer ajuda celestial é bem-vinda nessa hora 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pizza e filme garantem a paz antes da segunda feira chegar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "férias curtas pedem pressa para não perder nenhum dia",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "para trechos curtos assim a rapidez ganha disparada",
    "p": "concorda",
@@ -5016,6 +4991,21 @@
   {
    "t": "trabalhar mais para engordar a conta exige uma resistencia admiravel",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "coberta e controle na barriga é um caminho sem volta kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "estragou meu argumento com dados precisos kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "aqui o assunto preferido é sempre o bendito boleto",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -6423,7 +6413,8 @@
    "defesa classica de",
    "saude do pescoco",
    "separar o jogo",
-   "quando o encaixe"
+   "quando o encaixe",
+   "coberta e controle"
   ],
   "17870801802641111": [
    "justo o boleto",
@@ -6437,7 +6428,9 @@
    "matematica implacavel nesse",
    "gorjeta em dolar",
    "saude e tempo",
-   "trabalhar mais para"
+   "trabalhar mais para",
+   "estragou meu argumento",
+   "aqui o assunto"
   ],
   "18182459707432553": [
    "depende muito do"
