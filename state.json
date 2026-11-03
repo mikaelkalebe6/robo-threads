@@ -20,13 +20,13 @@
    "10:56"
   ],
   "produtos_feitos": 1,
-  "respostas": 18,
+  "respostas": 20,
   "por_post": {
    "18147973417588492": 1,
-   "17870801802641111": 5,
+   "17870801802641111": 6,
    "18147480598586721": 5,
    "18433923586146915": 1,
-   "17953965141313574": 2,
+   "17953965141313574": 3,
    "17944556547380767": 4
   }
  },
@@ -1328,8 +1328,6 @@
   }
  ],
  "respondidos": [
-  "18204712561371639",
-  "18117552082991110",
   "18098013545451737",
   "17898367629656293",
   "18233640985323853",
@@ -4327,7 +4325,9 @@
   "18019464647744913",
   "18154325416550236",
   "17995872357115759",
-  "18232106485333766"
+  "18232106485333766",
+  "18157004290531342",
+  "17939892555122398"
  ],
  "hashes": [
   "54f50292890d72cfc9ad8b95617f3e2a",
@@ -4889,20 +4889,12 @@
   "ef98cd3f57": 1,
   "c90bfcb47e": 1,
   "923186cdca": 1,
-  "84f713b98d": 1
+  "84f713b98d": 1,
+  "35932942d0": 1,
+  "98f025ec20": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "esse tempinho sozinho no carro acaba virando um refúgio no meio da correria",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "realidade bem diferente quando a gente lembra de onde veio",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "filosofia no trânsito exige uma paciência que eu infelizmente não tenho",
    "p": "ressalva",
@@ -5042,6 +5034,16 @@
    "t": "descansar da rotina de casa no trabalho é um plot twist que eu não esperava",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "passar pela bagaceira é o único curso intensivo que a vida oferece kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "trabalhar mais horas para manter o salario inteiro pede uma resistencia que eu não tenho kkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6424,7 +6426,8 @@
    "vinte anos com",
    "tem opcao demais",
    "esse modelo tem",
-   "dez anos com"
+   "dez anos com",
+   "passar pela bagaceira"
   ],
   "18433923586146915": [
    "que capricho fica",
@@ -6452,7 +6455,6 @@
    "teclado no colo"
   ],
   "17870801802641111": [
-   "verdade o dinheiro",
    "saude mental em",
    "justo recusar a",
    "o boleto infelizmente",
@@ -6471,7 +6473,8 @@
    "direto ao ponto",
    "perdeu o rumo",
    "sim um desconto",
-   "descansar da rotina"
+   "descansar da rotina",
+   "trabalhar mais horas"
   ],
   "18182459707432553": [
    "depende muito do"
