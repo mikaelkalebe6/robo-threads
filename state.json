@@ -14,36 +14,20 @@
    "13:10",
    "17:47"
   ],
-  "feitos": [],
+  "feitos": [
+   "09:15"
+  ],
   "produtos_feitos": 0,
-  "respostas": 11,
+  "respostas": 12,
   "por_post": {
    "18147973417588492": 1,
    "17870801802641111": 3,
    "18147480598586721": 5,
    "18433923586146915": 1,
-   "17953965141313574": 1
+   "17953965141313574": 2
   }
  },
  "posts": [
-  {
-   "id": "17974060974150692",
-   "insp": "8875ec01b3",
-   "link": "",
-   "texto": "Quem mais aqui já perdeu o sono por um cara que não tinha nem 1,75 e ainda agia como se estivesse te fazendo um favor? \n\nA gente se humilha por cada coisa na vida que depois dá até vergonha de lembrar.",
-   "quando": "2026-10-28T19:07:07.735754-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 114,
-    "likes": 0,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-03"
-   },
-   "viral_chk": "2026-10-29T18:37:07.712502-04:00"
-  },
   {
    "id": "18636439414020954",
    "insp": "prod_58257654101",
@@ -1341,10 +1325,17 @@
     "shares": 0,
     "em": "2026-11-03"
    }
+  },
+  {
+   "id": "17944556547380767",
+   "insp": "31ea134865",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual o barulho do carro que deixa vocês com o coração na mão? O meu é aquele rangido estranho na suspensão que parece que vai desmontar tudo na primeira lombada.",
+   "quando": "2026-11-03T09:37:10.249825-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18474413080115688",
   "18434831458182081",
   "17990549238108265",
   "18106586303575640",
@@ -4343,10 +4334,10 @@
   "18073610816767225",
   "17991159804075968",
   "18107659814619838",
-  "18112861808146860"
+  "18112861808146860",
+  "18059733278647321"
  ],
  "hashes": [
-  "d57d1e882cd253e19acc0e2a11a6ef21",
   "951fe0d868338be0f3cfbef1d2512bfc",
   "54f50292890d72cfc9ad8b95617f3e2a",
   "730b6789af14cd15c42450aefa3bef59",
@@ -4545,7 +4536,8 @@
   "8f7ca9e8fa039b0f44c9485d84eb3011",
   "8eddcc8e380481c769322390a0aaaff0",
   "6a16b8ba9625ef480b72af781c736ce6",
-  "f0c631555ce12f021a3843b45389611a"
+  "f0c631555ce12f021a3843b45389611a",
+  "e83be1c959d0c1b5432447f140d2fe59"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4881,7 +4873,8 @@
   "31d5ff1cab": 1793655452.9774752,
   "a97ae3ae12": 1793657276.5510592,
   "3c191ef8b8": 1793666242.5047946,
-  "5b9cf279c9": 1793668043.6286292
+  "5b9cf279c9": 1793668043.6286292,
+  "31ea134865": 1793713047.9851184
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4896,15 +4889,11 @@
   "1a9da1bf28": 1,
   "cee8821f39": 1,
   "39802943ff": 1,
-  "8b1f986fba": 1
+  "8b1f986fba": 1,
+  "548c11ce3b": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "coberta e controle na barriga é um caminho sem volta kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "estragou meu argumento com dados precisos kkk",
    "p": "concorda",
@@ -5047,6 +5036,11 @@
   },
   {
    "t": "teclado no colo e mouse na direita é nível avançado de comodidade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dez anos com o mesmo carro mostra que a escolha deu muito certo",
    "p": "concorda",
    "r": 0
   }
@@ -6439,7 +6433,8 @@
    "comecar com um",
    "vinte anos com",
    "tem opcao demais",
-   "esse modelo tem"
+   "esse modelo tem",
+   "dez anos com"
   ],
   "18433923586146915": [
    "que capricho fica",
