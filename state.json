@@ -18,13 +18,14 @@
    "09:15"
   ],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 17,
   "por_post": {
    "18147973417588492": 1,
-   "17870801802641111": 3,
+   "17870801802641111": 4,
    "18147480598586721": 5,
    "18433923586146915": 1,
-   "17953965141313574": 2
+   "17953965141313574": 2,
+   "17944556547380767": 4
   }
  },
  "posts": [
@@ -1336,11 +1337,6 @@
   }
  ],
  "respondidos": [
-  "18434831458182081",
-  "17990549238108265",
-  "18106586303575640",
-  "17862408297692401",
-  "17914742223528195",
   "18014390036959959",
   "18204712561371639",
   "18117552082991110",
@@ -4335,7 +4331,12 @@
   "17991159804075968",
   "18107659814619838",
   "18112861808146860",
-  "18059733278647321"
+  "18059733278647321",
+  "18119302448096035",
+  "17986305770901650",
+  "18019464647744913",
+  "18154325416550236",
+  "17995872357115759"
  ],
  "hashes": [
   "951fe0d868338be0f3cfbef1d2512bfc",
@@ -4890,35 +4891,15 @@
   "cee8821f39": 1,
   "39802943ff": 1,
   "8b1f986fba": 1,
-  "548c11ce3b": 1
+  "548c11ce3b": 1,
+  "32f181cd9f": 1,
+  "4f4d0994c9": 1,
+  "ef98cd3f57": 1,
+  "c90bfcb47e": 1,
+  "923186cdca": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "estragou meu argumento com dados precisos kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "aqui o assunto preferido é sempre o bendito boleto",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "pesado kkkkk aí você foi fundo na definição",
-   "p": "neutra",
-   "r": 2
-  },
-  {
-   "t": "vinte anos com o mesmo companheiro de estrada é para poucos kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "tecnologia avançada para continuar no conforto do sofá kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "reduziu a rotina e ganhou o dobro de sossego",
    "p": "concorda",
@@ -5041,6 +5022,31 @@
   },
   {
    "t": "dez anos com o mesmo carro mostra que a escolha deu muito certo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "biela batendo já pede penhor de orgão mesmo kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "perder o som desse motor por causa de prova na faculdade é um dos maiores golpes da vida",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, manutenção preventiva salva a gente (e o bolso) kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Aí, já senti esse baque, dói bastante 😔",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "sim, um desconto fixo desse tamanho pesa muito mais que a hora que você salva",
    "p": "concorda",
    "r": 0
   }
@@ -6175,15 +6181,6 @@
   }
  ],
  "aberturas_post": {
-  "18114961616605844": [
-   "essa conta de",
-   "parece que se",
-   "o gas durar",
-   "imagino quando junta",
-   "comecar essa fase",
-   "o gas decidir",
-   "essa epoca pesava"
-  ],
   "18110964131612577": [
    "esse quadro de",
    "ver o resultado",
@@ -6462,7 +6459,6 @@
    "teclado no colo"
   ],
   "17870801802641111": [
-   "nem tem como",
    "estrategia diferente para",
    "verdade o dinheiro",
    "saude mental em",
@@ -6481,7 +6477,8 @@
    "coragem para trabalhar",
    "respeito a firmeza",
    "direto ao ponto",
-   "perdeu o rumo"
+   "perdeu o rumo",
+   "sim um desconto"
   ],
   "18182459707432553": [
    "depende muito do"
@@ -6494,6 +6491,12 @@
    "realidade bem diferente",
    "filosofia no transito",
    "economia e praticidade"
+  ],
+  "17944556547380767": [
+   "biela batendo ja",
+   "perder o som",
+   "verdade manutencao preventiva",
+   "ai ja senti"
   ]
  },
  "shopee_checada": "2026-11-03|1",
