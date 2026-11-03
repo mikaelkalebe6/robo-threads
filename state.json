@@ -22,14 +22,15 @@
    "16:08"
   ],
   "produtos_feitos": 2,
-  "respostas": 36,
+  "respostas": 37,
   "por_post": {
    "18147973417588492": 1,
    "17870801802641111": 20,
    "18147480598586721": 5,
    "18433923586146915": 1,
    "17953965141313574": 3,
-   "17944556547380767": 6
+   "17944556547380767": 6,
+   "18118663834815681": 1
   }
  },
  "posts": [
@@ -1322,7 +1323,6 @@
   }
  ],
  "respondidos": [
-  "18121288825726509",
   "18131253499771977",
   "18094869977670184",
   "18011918936954349",
@@ -4321,7 +4321,8 @@
   "17909156349583873",
   "18146851126585278",
   "18089356949310131",
-  "18006924191793095"
+  "18006924191793095",
+  "17902430073671813"
  ],
  "hashes": [
   "730b6789af14cd15c42450aefa3bef59",
@@ -4902,15 +4903,11 @@
   "2c7fc3d958": 1,
   "cd99b6dd3a": 1,
   "06c4b8f961": 1,
-  "4223199491": 1
+  "4223199491": 1,
+  "280792b6e0": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "o sono chega de fininho e quando vc ve já perdeu a fase kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "perdeu o rumo da conta no meio do caminho kkk",
    "p": "concorda",
@@ -5054,6 +5051,11 @@
   {
    "t": "ganhar mais para aguentar o batente exige uma coragem invejável kkk",
    "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "pesado demais kkk",
+   "p": "concorda",
    "r": 1
   }
  ],
@@ -6192,13 +6194,6 @@
   }
  ],
  "aberturas_post": {
-  "18110964131612577": [
-   "esse quadro de",
-   "ver o resultado",
-   "la fora parece",
-   "colocar na caixinha",
-   "sem a base"
-  ],
   "18036187742666195": [
    "pior que nem",
    "perfeito a leitura",
@@ -6511,6 +6506,9 @@
    "ai ja senti",
    "esse painel iluminado",
    "quase tudo junto"
+  ],
+  "18118663834815681": [
+   "pesado demais"
   ]
  },
  "shopee_checada": "2026-11-03|1",
