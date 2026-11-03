@@ -39,7 +39,7 @@
    "21:03"
   ],
   "produtos_feitos": 3,
-  "respostas": 91,
+  "respostas": 92,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -53,7 +53,7 @@
    "17953965141313574": 5,
    "18433923586146915": 2,
    "18147480598586721": 13,
-   "17870801802641111": 18,
+   "17870801802641111": 19,
    "18182459707432553": 1,
    "18288224983293291": 1,
    "18147973417588492": 3
@@ -1234,7 +1234,6 @@
   }
  ],
  "respondidos": [
-  "18015652565745210",
   "18022270541873371",
   "17981480948899081",
   "18114108322917583",
@@ -4233,7 +4232,8 @@
   "18054172442813039",
   "18646041943039576",
   "18121269775955673",
-  "18213047002367565"
+  "18213047002367565",
+  "17979880554131025"
  ],
  "hashes": [
   "d57d1e882cd253e19acc0e2a11a6ef21",
@@ -4862,15 +4862,11 @@
   "8c92d10f41": 1,
   "bfa957a4be": 1,
   "29ed2d5ee5": 1,
-  "4a011cd29a": 1
+  "4a011cd29a": 1,
+  "372d4918fd": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "nem tem como escolher quando a escala e puxada assim",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "estratégia diferente para fugir do boleto kkk",
    "p": "concorda",
@@ -5015,6 +5011,11 @@
    "t": "nível máximo de preguica ativado na cama kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "coragem para trabalhar mais, o boleto agradece a dedicação",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6423,7 +6424,8 @@
    "reduziu a rotina",
    "quem depende do",
    "nem com um",
-   "justo a base"
+   "justo a base",
+   "coragem para trabalhar"
   ],
   "18182459707432553": [
    "depende muito do"
