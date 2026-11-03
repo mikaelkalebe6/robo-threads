@@ -39,7 +39,7 @@
    "21:03"
   ],
   "produtos_feitos": 3,
-  "respostas": 89,
+  "respostas": 91,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -50,9 +50,9 @@
    "18047547587827876": 17,
    "18024659876939415": 1,
    "18080625980418879": 7,
-   "17953965141313574": 4,
+   "17953965141313574": 5,
    "18433923586146915": 2,
-   "18147480598586721": 12,
+   "18147480598586721": 13,
    "17870801802641111": 18,
    "18182459707432553": 1,
    "18288224983293291": 1,
@@ -1234,8 +1234,6 @@
   }
  ],
  "respondidos": [
-  "18208901779366778",
-  "18634902826033693",
   "18015652565745210",
   "18022270541873371",
   "17981480948899081",
@@ -4233,7 +4231,9 @@
   "18594746911068867",
   "18174213124479828",
   "18054172442813039",
-  "18646041943039576"
+  "18646041943039576",
+  "18121269775955673",
+  "18213047002367565"
  ],
  "hashes": [
   "d57d1e882cd253e19acc0e2a11a6ef21",
@@ -4803,7 +4803,7 @@
   "c238d9a142": 1,
   "7ddf1d34e7": 1,
   "3c502bc809": 1,
-  "ff8a8dd1da": 1,
+  "ff8a8dd1da": 2,
   "cbe50675eb": 1,
   "0409909721": 1,
   "767eccd929": 1,
@@ -4861,20 +4861,11 @@
   "603993c56e": 1,
   "8c92d10f41": 1,
   "bfa957a4be": 1,
-  "29ed2d5ee5": 1
+  "29ed2d5ee5": 1,
+  "4a011cd29a": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "quem trabalha só duas vezes por semana já vive no lucro que a gente sonha",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse é o único jeito de garantir que não vai ter briga por herança kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "nem tem como escolher quando a escala e puxada assim",
    "p": "neutra",
@@ -5014,6 +5005,16 @@
    "t": "justo, a base de tudo é o tamanho do estrago no fim do mês",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "tem opção demais mesmo, mas o boleto sempre escolhe por vc kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "nível máximo de preguica ativado na cama kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6382,7 +6383,8 @@
    "semi novo alivia",
    "esse modelo aguenta",
    "comecar com um",
-   "vinte anos com"
+   "vinte anos com",
+   "tem opcao demais"
   ],
   "18433923586146915": [
    "que capricho fica",
@@ -6400,7 +6402,8 @@
    "tecnologia avancada para",
    "prioridades em dia",
    "na cama o",
-   "respostas curtas e"
+   "respostas curtas e",
+   "nivel maximo de"
   ],
   "17870801802641111": [
    "justo o boleto",
