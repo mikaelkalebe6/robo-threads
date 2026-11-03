@@ -16,11 +16,11 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 9,
   "por_post": {
    "18147973417588492": 1,
-   "17870801802641111": 2,
-   "18147480598586721": 1,
+   "17870801802641111": 3,
+   "18147480598586721": 3,
    "18433923586146915": 1,
    "17953965141313574": 1
   }
@@ -1344,9 +1344,6 @@
   }
  ],
  "respondidos": [
-  "18126535756826185",
-  "17947732476300167",
-  "18008947133977340",
   "18485419717129534",
   "18195733795387774",
   "18474413080115688",
@@ -4343,7 +4340,10 @@
   "17940418860123170",
   "18342691477259446",
   "18129655678861766",
-  "18138733999730080"
+  "18138733999730080",
+  "18114159935149724",
+  "18073610816767225",
+  "17991159804075968"
  ],
  "hashes": [
   "d57d1e882cd253e19acc0e2a11a6ef21",
@@ -4891,25 +4891,13 @@
   "8aee5bd232": 1,
   "eebe1a8746": 1,
   "366fd5e9e4": 1,
-  "7612b0809c": 1
+  "7612b0809c": 1,
+  "1b57dc3bdc": 1,
+  "1a9da1bf28": 1,
+  "cee8821f39": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "gorjeta em dolar resolve qualquer dilema trabalhista kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "saúde e tempo livre ganham disparado de qualquer conta bancária",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "depende muito do lugar mesmo, alguns superam todos os passeios",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "começar com um modelo mais simples ensina muito sobre custo sem dor de cabeça",
    "p": "concorda",
@@ -5044,6 +5032,21 @@
    "t": "direto ao ponto sem negociar o salario",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "o sono chega de fininho e quando vc ve já perdeu a fase kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "perdeu o rumo da conta no meio do caminho kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "jogar deitado na cama com controle zera qualquer ergonomia de escritorio kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6455,10 +6458,11 @@
    "na cama o",
    "respostas curtas e",
    "nivel maximo de",
-   "poltrona do papai"
+   "poltrona do papai",
+   "o sono chega",
+   "jogar deitado na"
   ],
   "17870801802641111": [
-   "quem trabalha so",
    "nem tem como",
    "estrategia diferente para",
    "verdade o dinheiro",
@@ -6477,7 +6481,8 @@
    "justo a base",
    "coragem para trabalhar",
    "respeito a firmeza",
-   "direto ao ponto"
+   "direto ao ponto",
+   "perdeu o rumo"
   ],
   "18182459707432553": [
    "depende muito do"
