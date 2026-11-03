@@ -21,10 +21,10 @@
    "13:10"
   ],
   "produtos_feitos": 2,
-  "respostas": 26,
+  "respostas": 29,
   "por_post": {
    "18147973417588492": 1,
-   "17870801802641111": 10,
+   "17870801802641111": 13,
    "18147480598586721": 5,
    "18433923586146915": 1,
    "17953965141313574": 3,
@@ -1334,9 +1334,6 @@
   }
  ],
  "respondidos": [
-  "17887561959476377",
-  "17966888226191166",
-  "17881940223624691",
   "17933533281398804",
   "18368796739215979",
   "17947320306299979",
@@ -4333,7 +4330,10 @@
   "18351801376281744",
   "18117339923125249",
   "17895211620437257",
-  "18186730684423593"
+  "18186730684423593",
+  "18150438463602878",
+  "18109748405274507",
+  "17972054159960189"
  ],
  "hashes": [
   "54f50292890d72cfc9ad8b95617f3e2a",
@@ -4903,25 +4903,13 @@
   "5beb954139": 1,
   "9e8eec8565": 1,
   "4b66e87ae8": 1,
-  "1fdd94a055": 1
+  "1fdd94a055": 1,
+  "9fc3fd8261": 1,
+  "bb6234b6bb": 1,
+  "4b3ddf98a9": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "justo, a base de tudo é o tamanho do estrago no fim do mês",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "tem opção demais mesmo, mas o boleto sempre escolhe por vc kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "nível máximo de preguica ativado na cama kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "coragem para trabalhar mais, o boleto agradece a dedicação",
    "p": "ressalva",
@@ -5056,6 +5044,21 @@
    "t": "quase tudo junto e misturado é um festival de horrores kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "amor pelo que faz em nível avancado",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "quem tem boleto pra pagar não arrisca perder nem um centavo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "com um salario maior a conversa seria outra com certeza",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6472,9 +6475,6 @@
    "teclado no colo"
   ],
   "17870801802641111": [
-   "gorjeta em dolar",
-   "saude e tempo",
-   "trabalhar mais para",
    "estragou meu argumento",
    "aqui o assunto",
    "reduziu a rotina",
@@ -6491,7 +6491,10 @@
    "fugiu completamente do",
    "defendeu o proprio",
    "objetividade admiravel para",
-   "so se for"
+   "so se for",
+   "amor pelo que",
+   "quem tem boleto",
+   "com um salario"
   ],
   "18182459707432553": [
    "depende muito do"
