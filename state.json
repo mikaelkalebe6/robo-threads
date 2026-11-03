@@ -39,7 +39,7 @@
    "21:03"
   ],
   "produtos_feitos": 3,
-  "respostas": 84,
+  "respostas": 88,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -52,8 +52,8 @@
    "18080625980418879": 7,
    "17953965141313574": 4,
    "18433923586146915": 2,
-   "18147480598586721": 10,
-   "17870801802641111": 15,
+   "18147480598586721": 12,
+   "17870801802641111": 17,
    "18182459707432553": 1,
    "18288224983293291": 1,
    "18147973417588492": 3
@@ -1234,10 +1234,6 @@
   }
  ],
  "respondidos": [
-  "18143437219599356",
-  "18352500241302095",
-  "18139634029718987",
-  "18127691011865204",
   "18151403386541509",
   "18208901779366778",
   "18634902826033693",
@@ -4233,7 +4229,11 @@
   "17882312799631126",
   "18127860176492975",
   "17969299014031813",
-  "18091131212260002"
+  "18091131212260002",
+  "18199967764380015",
+  "18594746911068867",
+  "18174213124479828",
+  "18054172442813039"
  ],
  "hashes": [
   "d57d1e882cd253e19acc0e2a11a6ef21",
@@ -4856,30 +4856,14 @@
   "df52758ab9": 1,
   "fd0462f175": 1,
   "0af1701b18": 1,
-  "e001b1020d": 1
+  "e001b1020d": 1,
+  "13e2ff5dea": 1,
+  "603993c56e": 1,
+  "8c92d10f41": 1,
+  "bfa957a4be": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "defesa clássica de quem não troca a cadeira gamer por nada kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "saúde do pescoco sempre em primeiro lugar kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "separar o jogo sério do jogo de relaxar faz todo o sentido kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quando o encaixe é perfeito assim nem dá vontade de levantar kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "justo, o boleto não aceita desconto de salário mesmo",
    "p": "neutra",
@@ -5009,6 +4993,26 @@
    "t": "prioridades em dia, o sofá que lute kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "na cama o nível de conforto sobe tanto que o jogo fica em segundo plano kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "respostas curtas e definitivas economizam tempo de debate",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem depende do final do mês não pode se dar esse luxo mesmo",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "nem com um milagre para convencer a abrir mão desse valor kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6393,7 +6397,9 @@
    "quando o encaixe",
    "coberta e controle",
    "tecnologia avancada para",
-   "prioridades em dia"
+   "prioridades em dia",
+   "na cama o",
+   "respostas curtas e"
   ],
   "17870801802641111": [
    "justo o boleto",
@@ -6410,7 +6416,9 @@
    "trabalhar mais para",
    "estragou meu argumento",
    "aqui o assunto",
-   "reduziu a rotina"
+   "reduziu a rotina",
+   "quem depende do",
+   "nem com um"
   ],
   "18182459707432553": [
    "depende muito do"
