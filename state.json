@@ -16,11 +16,11 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 10,
+  "respostas": 11,
   "por_post": {
    "18147973417588492": 1,
    "17870801802641111": 3,
-   "18147480598586721": 4,
+   "18147480598586721": 5,
    "18433923586146915": 1,
    "17953965141313574": 1
   }
@@ -1344,7 +1344,6 @@
   }
  ],
  "respondidos": [
-  "18195733795387774",
   "18474413080115688",
   "18434831458182081",
   "17990549238108265",
@@ -4343,7 +4342,8 @@
   "18114159935149724",
   "18073610816767225",
   "17991159804075968",
-  "18107659814619838"
+  "18107659814619838",
+  "18112861808146860"
  ],
  "hashes": [
   "d57d1e882cd253e19acc0e2a11a6ef21",
@@ -4895,15 +4895,11 @@
   "1b57dc3bdc": 1,
   "1a9da1bf28": 1,
   "cee8821f39": 1,
-  "39802943ff": 1
+  "39802943ff": 1,
+  "8b1f986fba": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "trabalhar mais para engordar a conta exige uma resistencia admiravel",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "coberta e controle na barriga é um caminho sem volta kkk",
    "p": "concorda",
@@ -5048,6 +5044,11 @@
    "t": "jeito raiz de burlar a ergonomia do escritorio kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "teclado no colo e mouse na direita é nível avançado de comodidade",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6462,7 +6463,8 @@
    "poltrona do papai",
    "o sono chega",
    "jogar deitado na",
-   "jeito raiz de"
+   "jeito raiz de",
+   "teclado no colo"
   ],
   "17870801802641111": [
    "nem tem como",
