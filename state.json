@@ -37,7 +37,7 @@
    "19:26"
   ],
   "produtos_feitos": 3,
-  "respostas": 70,
+  "respostas": 73,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -48,10 +48,11 @@
    "18047547587827876": 17,
    "18024659876939415": 1,
    "18080625980418879": 7,
-   "17953965141313574": 2,
+   "17953965141313574": 3,
    "18433923586146915": 2,
    "18147480598586721": 7,
-   "17870801802641111": 11
+   "17870801802641111": 12,
+   "18182459707432553": 1
   }
  },
  "posts": [
@@ -1254,9 +1255,6 @@
   }
  ],
  "respondidos": [
-  "17948562498308194",
-  "18097470014094209",
-  "18429026272149689",
   "17903345670596190",
   "18103060328631490",
   "17936455338379630",
@@ -4253,7 +4251,10 @@
   "17984981136126409",
   "17979469725070447",
   "18125934850925461",
-  "18098594912393546"
+  "18098594912393546",
+  "18105452612278310",
+  "18177977143455545",
+  "18159656287524664"
  ],
  "hashes": [
   "98b8d51463cc88195e8e678b55a7bd0d",
@@ -4860,25 +4861,13 @@
   "3645eecd7d": 1,
   "9195d046f6": 1,
   "4c86acbe5f": 1,
-  "cc7eac5645": 1
+  "cc7eac5645": 1,
+  "69704e2689": 1,
+  "4f4d0994c9": 1,
+  "3df68307e2": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "queria ter essa mesma energia toda num domingo à noite",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "os cavalinhos do fantástico salvam o final de domingo de qualquer um kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justo, o boleto chega para todo mundo garantir o lazer depois",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "qualquer ajuda celestial é bem-vinda nessa hora 🙏🏼",
    "p": "concorda",
@@ -5012,6 +5001,21 @@
   {
    "t": "saúde e tempo livre ganham disparado de qualquer conta bancária",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "depende muito do lugar mesmo, alguns superam todos os passeios",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "começar com um modelo mais simples ensina muito sobre custo sem dor de cabeça",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "trabalhar mais para engordar a conta exige uma resistencia admiravel",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6125,9 +6129,6 @@
   }
  ],
  "aberturas_post": {
-  "18169083673482490": [
-   "pura verdade o"
-  ],
   "18146591881665621": [
    "faz sentido antigamente",
    "exato no dia",
@@ -6408,7 +6409,8 @@
   ],
   "17953965141313574": [
    "semi novo alivia",
-   "esse modelo aguenta"
+   "esse modelo aguenta",
+   "comecar com um"
   ],
   "18433923586146915": [
    "que capricho fica",
@@ -6434,7 +6436,11 @@
    "o boleto infelizmente",
    "matematica implacavel nesse",
    "gorjeta em dolar",
-   "saude e tempo"
+   "saude e tempo",
+   "trabalhar mais para"
+  ],
+  "18182459707432553": [
+   "depende muito do"
   ]
  },
  "shopee_checada": "2026-11-02|1",
