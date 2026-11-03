@@ -15,13 +15,14 @@
    "17:47"
   ],
   "feitos": [
-   "09:15"
+   "09:15",
+   "10:10"
   ],
-  "produtos_feitos": 0,
-  "respostas": 17,
+  "produtos_feitos": 1,
+  "respostas": 18,
   "por_post": {
    "18147973417588492": 1,
-   "17870801802641111": 4,
+   "17870801802641111": 5,
    "18147480598586721": 5,
    "18433923586146915": 1,
    "17953965141313574": 2,
@@ -29,27 +30,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18636439414020954",
-   "insp": "prod_58257654101",
-   "link": "",
-   "texto": "Sempre que preciso apertar um parafuso no carro ou abrir alguma coisa na rua nunca acho nada. Descobri esse canivete multiuso de aço inox que cabe no bolso e já me salvou umas três vezes essa semana. Olha como ele abre fácil na foto 👀",
-   "quando": "2026-10-28T20:07:08.471996-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58257654101",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58257654101",
-    "nome": "Ferramenta Dobrável Multiuso Aço Inox Portátil para Emergências",
-    "offerLink": "https://s.shopee.com.br/2BG0GQPNvL",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mtxrb0vhm1vueb",
-    "campanha": ""
-   },
-   "apagado": true
-  },
   {
    "id": "18144615214606642",
    "insp": "36f567653d",
@@ -1334,10 +1314,29 @@
    "texto": "DÚVIDA SINCERA: qual o barulho do carro que deixa vocês com o coração na mão? O meu é aquele rangido estranho na suspensão que parece que vai desmontar tudo na primeira lombada.",
    "quando": "2026-11-03T09:37:10.249825-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18000216539825006",
+   "insp": "prod_20298142088",
+   "link": "",
+   "texto": "Pegar estrada de moto no sol forte ou poeira acaba com a pele, né? 😅 Descobri essa balaclava respirável que protege super bem e não sufoca embaixo do capacete. Olha como fica ajustada 👀",
+   "quando": "2026-11-03T10:37:12.171238-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "20298142088",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "20298142088",
+    "nome": "Balaclava  Facial UV Respirável para Moto, Pesca e Esportes",
+    "offerLink": "https://s.shopee.com.br/2BG9ppPRzS",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ou-mosj94b62cxuaf",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
-  "18014390036959959",
   "18204712561371639",
   "18117552082991110",
   "18098013545451737",
@@ -4336,7 +4335,8 @@
   "17986305770901650",
   "18019464647744913",
   "18154325416550236",
-  "17995872357115759"
+  "17995872357115759",
+  "18232106485333766"
  ],
  "hashes": [
   "951fe0d868338be0f3cfbef1d2512bfc",
@@ -4896,15 +4896,11 @@
   "4f4d0994c9": 1,
   "ef98cd3f57": 1,
   "c90bfcb47e": 1,
-  "923186cdca": 1
+  "923186cdca": 1,
+  "84f713b98d": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "reduziu a rotina e ganhou o dobro de sossego",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse tempinho sozinho no carro acaba virando um refúgio no meio da correria",
    "p": "concorda",
@@ -5048,6 +5044,11 @@
   {
    "t": "sim, um desconto fixo desse tamanho pesa muito mais que a hora que você salva",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "descansar da rotina de casa no trabalho é um plot twist que eu não esperava",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6459,7 +6460,6 @@
    "teclado no colo"
   ],
   "17870801802641111": [
-   "estrategia diferente para",
    "verdade o dinheiro",
    "saude mental em",
    "justo recusar a",
@@ -6478,7 +6478,8 @@
    "respeito a firmeza",
    "direto ao ponto",
    "perdeu o rumo",
-   "sim um desconto"
+   "sim um desconto",
+   "descansar da rotina"
   ],
   "18182459707432553": [
    "depende muito do"
@@ -6724,7 +6725,7 @@
   "25946709329": "2026-10-19T10:07:09.572610-04:00",
   "22897453366": "2026-10-19T12:37:10.969998-04:00",
   "58251425003": "2026-10-19T15:07:08.541989-04:00",
-  "20298142088": "2026-10-19T16:37:08.056698-04:00",
+  "20298142088": "2026-11-03T10:37:12.171238-04:00",
   "22094428849": "2026-10-19T20:07:07.981408-04:00",
   "41333563009": "2026-10-20T07:07:09.630325-04:00",
   "23199020709": "2026-10-20T07:07:09.630325-04:00",
