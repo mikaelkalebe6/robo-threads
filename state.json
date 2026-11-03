@@ -39,7 +39,7 @@
    "21:03"
   ],
   "produtos_feitos": 3,
-  "respostas": 88,
+  "respostas": 89,
   "por_post": {
    "18129509551855569": 2,
    "18120849176091114": 7,
@@ -53,7 +53,7 @@
    "17953965141313574": 4,
    "18433923586146915": 2,
    "18147480598586721": 12,
-   "17870801802641111": 17,
+   "17870801802641111": 18,
    "18182459707432553": 1,
    "18288224983293291": 1,
    "18147973417588492": 3
@@ -1234,7 +1234,6 @@
   }
  ],
  "respondidos": [
-  "18151403386541509",
   "18208901779366778",
   "18634902826033693",
   "18015652565745210",
@@ -4233,7 +4232,8 @@
   "18199967764380015",
   "18594746911068867",
   "18174213124479828",
-  "18054172442813039"
+  "18054172442813039",
+  "18646041943039576"
  ],
  "hashes": [
   "d57d1e882cd253e19acc0e2a11a6ef21",
@@ -4860,15 +4860,11 @@
   "13e2ff5dea": 1,
   "603993c56e": 1,
   "8c92d10f41": 1,
-  "bfa957a4be": 1
+  "bfa957a4be": 1,
+  "29ed2d5ee5": 1
  },
  "reservas_checadas": "2026-11-02",
  "ultimas_respostas": [
-  {
-   "t": "justo, o boleto não aceita desconto de salário mesmo",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "quem trabalha só duas vezes por semana já vive no lucro que a gente sonha",
    "p": "concorda",
@@ -5013,6 +5009,11 @@
    "t": "nem com um milagre para convencer a abrir mão desse valor kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "justo, a base de tudo é o tamanho do estrago no fim do mês",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6418,7 +6419,8 @@
    "aqui o assunto",
    "reduziu a rotina",
    "quem depende do",
-   "nem com um"
+   "nem com um",
+   "justo a base"
   ],
   "18182459707432553": [
    "depende muito do"
