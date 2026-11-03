@@ -21,10 +21,10 @@
    "13:10"
   ],
   "produtos_feitos": 2,
-  "respostas": 29,
+  "respostas": 33,
   "por_post": {
    "18147973417588492": 1,
-   "17870801802641111": 13,
+   "17870801802641111": 17,
    "18147480598586721": 5,
    "18433923586146915": 1,
    "17953965141313574": 3,
@@ -1334,10 +1334,6 @@
   }
  ],
  "respondidos": [
-  "17933533281398804",
-  "18368796739215979",
-  "17947320306299979",
-  "18119779541283588",
   "17971157799174199",
   "18477751573116263",
   "18117820922053597",
@@ -4333,7 +4329,11 @@
   "18186730684423593",
   "18150438463602878",
   "18109748405274507",
-  "17972054159960189"
+  "17972054159960189",
+  "18641397424045605",
+  "17895687042436214",
+  "18113337764268987",
+  "17909156349583873"
  ],
  "hashes": [
   "54f50292890d72cfc9ad8b95617f3e2a",
@@ -4906,30 +4906,14 @@
   "1fdd94a055": 1,
   "9fc3fd8261": 1,
   "bb6234b6bb": 1,
-  "4b3ddf98a9": 1
+  "4b3ddf98a9": 1,
+  "4733c93408": 1,
+  "e0a1aa4b37": 1,
+  "c02fb2e993": 1,
+  "2c7fc3d958": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "coragem para trabalhar mais, o boleto agradece a dedicação",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "economia e praticidade que salvam o dia a dia na rua",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "respeito a firmeza, cada um sabe o limite da conta",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "poltrona do papai no pc é upgrade imediato de conforto",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "verdade, ajuda muito a segurar os gastos e ainda enfeita o quarto",
    "p": "concorda",
@@ -5058,6 +5042,26 @@
   {
    "t": "com um salario maior a conversa seria outra com certeza",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, cada um sabe o peso que o salario tem no fim do mês",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "queria ter essa disposição toda para trabalhar mais horas seguidas",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "economia drástica mas com tempo livre garantido",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "organização ajuda muito, mas nem todo lugar dá essa liberdade",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6475,10 +6479,6 @@
    "teclado no colo"
   ],
   "17870801802641111": [
-   "estragou meu argumento",
-   "aqui o assunto",
-   "reduziu a rotina",
-   "quem depende do",
    "nem com um",
    "justo a base",
    "coragem para trabalhar",
@@ -6494,7 +6494,11 @@
    "so se for",
    "amor pelo que",
    "quem tem boleto",
-   "com um salario"
+   "com um salario",
+   "justo cada um",
+   "queria ter essa",
+   "economia drastica mas",
+   "organizacao ajuda muito"
   ],
   "18182459707432553": [
    "depende muito do"
