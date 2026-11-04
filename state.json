@@ -31,41 +31,24 @@
    "14:16",
    "15:46",
    "17:03",
-   "17:57"
+   "17:57",
+   "18:50"
   ],
   "produtos_feitos": 2,
-  "respostas": 66,
+  "respostas": 68,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
    "17886556293690167": 1,
-   "18146901799608252": 16,
+   "18146901799608252": 17,
    "18127233625684654": 9,
    "17997443184028868": 11,
    "17944488396382748": 5,
    "18130295941794634": 1,
-   "18134748025793720": 3
+   "18134748025793720": 4
   }
  },
  "posts": [
-  {
-   "id": "17965590606206776",
-   "insp": "3d3928277d",
-   "link": "",
-   "texto": "ME CONTA: na estrada, a parada obrigatória é pra comer tapioca ou só um café rápido?",
-   "quando": "2026-10-30T14:37:07.402126-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
-   "metricas": {
-    "views": 88,
-    "likes": 2,
-    "replies": 0,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-04"
-   }
-  },
   {
    "id": "18065503865623286",
    "insp": "prod_23094546288",
@@ -1207,7 +1190,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T18:37:08.459016-04:00"
+   "viral_chk": "2026-11-04T19:07:12.406630-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1216,7 +1199,7 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T18:37:08.459016-04:00"
+   "viral_chk": "2026-11-04T19:07:12.406630-04:00"
   },
   {
    "id": "18082564706406554",
@@ -1245,7 +1228,12 @@
    "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
    "quando": "2026-11-04T13:07:09.479900-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T18:37:08.459016-04:00"
+   "viral_chk": "2026-11-04T19:07:12.406630-04:00",
+   "link_coment": "https://s.shopee.com.br/2LZcQNldIl",
+   "meme_comentado": true,
+   "meme_views": 1003,
+   "formato_link": "coment",
+   "produto": "23594541990"
   },
   {
    "id": "18127233625684654",
@@ -1307,12 +1295,18 @@
    "quando": "2026-11-04T18:07:09.429967-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "viral_chk": "2026-11-04T18:37:08.459016-04:00"
+  },
+  {
+   "id": "18393541990226977",
+   "insp": "639172332f",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: a gente gasta tanto tempo superando quem nunca deu a mínima que esquece de olhar pra frente.",
+   "quando": "2026-11-04T19:07:12.406630-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-04T19:07:12.406630-04:00"
   }
  ],
  "respondidos": [
-  "18101911565369371",
-  "17912650689282151",
-  "18000369426007247",
   "18073267505558455",
   "18101465225322517",
   "18196736131391620",
@@ -4309,10 +4303,12 @@
   "18353711275266903",
   "17918243688468790",
   "18139422130646960",
-  "17911686783584842"
+  "17911686783584842",
+  "17909847804568293",
+  "18412166074095551",
+  "18119559998280893"
  ],
  "hashes": [
-  "90b9891efa06b034b7f430324eeebbd1",
   "0675cb7eda2a75b2851ab0e37f9e1a6e",
   "93bf9123793e0e90afd81a7df9de24f2",
   "78a27020a9f7dab6104394540f3972c6",
@@ -4511,7 +4507,8 @@
   "0411794174ee69c415e5d3ea0ce5388c",
   "46469b519ee308b20c4f1ebfe997ef69",
   "02462d97910f6af2d24a918a48a787a9",
-  "5eb3a2aeb4b1828c1968a2e244eda029"
+  "5eb3a2aeb4b1828c1968a2e244eda029",
+  "e657864bfbdd3e389fbe96c9a3f3acba"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4857,7 +4854,8 @@
   "6c95b06784": 1793813855.0429933,
   "34b48535d3": 1793817501.0267892,
   "83111fe9a4": 1793822857.9849665,
-  "db72a20743": 1793830093.6415808
+  "db72a20743": 1793830093.6415808,
+  "639172332f": 1793833650.1521714
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4926,20 +4924,12 @@
   "d5349d0635": 1,
   "007a10e1d2": 1,
   "0521dbc115": 1,
-  "a6ae7fdd02": 1
+  "a6ae7fdd02": 1,
+  "9e55722230": 1,
+  "06882256a0": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "compromisso anual sério com a tripulação toda",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Que lista de clássicos! NFSU2, BF2 e TW3 são pura nostalgia, já anotei",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Super Metroid é puro clássico, igual MGS3, já anotei 🙏🏼 kkk",
    "p": "concorda",
@@ -5079,6 +5069,16 @@
    "t": "exato, paz de espírito garantida sem louça depois",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse bastidor da carne e do reaproveitamento estraga qualquer apetite kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "oito vezes é teste de fidelidade com o cartucho kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5676,6 +5676,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-04T17:37:09.596261-04:00"
+  },
+  "18241953223318105": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-04T19:07:12.406630-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6479,7 +6484,8 @@
    "essa selecao de",
    "dividir o jogo",
    "passar por essa",
-   "esse ai exige"
+   "esse ai exige",
+   "oito vezes e"
   ],
   "18127233625684654": [
    "esse ai marcou",
@@ -6518,7 +6524,8 @@
   "18134748025793720": [
    "justo a parte",
    "argumento justo a",
-   "exato paz de"
+   "exato paz de",
+   "esse bastidor da"
   ]
  },
  "shopee_checada": "2026-11-04|1",
@@ -6773,7 +6780,8 @@
   "58255061423": "2026-11-02T16:07:09.926018-04:00",
   "26437638380": "2026-11-03T07:07:12.736050-04:00",
   "58252768179": "2026-11-03T07:07:12.736050-04:00",
-  "50450542245": "2026-11-04T17:37:09.596261-04:00"
+  "50450542245": "2026-11-04T17:37:09.596261-04:00",
+  "23594541990": "2026-11-04T19:07:12.406630-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -6783,7 +6791,7 @@
  },
  "meme_links_dia": {
   "data": "2026-11-04",
-  "qtd": 1
+  "qtd": 2
  },
  "carrosseis_usados": [
   "car-20261010-1",
