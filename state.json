@@ -27,51 +27,20 @@
    "10:34",
    "11:21",
    "12:49",
-   "13:34"
+   "13:34",
+   "14:16"
   ],
   "produtos_feitos": 1,
-  "respostas": 33,
+  "respostas": 39,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
    "17886556293690167": 1,
-   "18146901799608252": 7,
-   "18127233625684654": 5
+   "18146901799608252": 11,
+   "18127233625684654": 7
   }
  },
  "posts": [
-  {
-   "id": "18052766636814296",
-   "insp": "prod_58211842722",
-   "link": "",
-   "texto": "Levar bebida gelada pra praia sem vazar nada na mala é um milagre, né? 😂 Descobri essa mochila térmica bag que segura o gelo o dia todo e não molha nada no carro. Olha como ficou prático 👀",
-   "quando": "2026-10-30T11:07:09.836945-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58211842722",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58211842722",
-    "nome": "Mochila Térmica Bag Freezer Cooler Gelo Bolsa Bebidas Anti Vazamento Praia Camping Premium - 18 litros",
-    "offerLink": "https://s.shopee.com.br/5q9LowkTH9",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pg-mozsqaz74bv0b8",
-    "campanha": ""
-   },
-   "metricas": {
-    "views": 107,
-    "likes": 1,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-04"
-   },
-   "link_coment": "https://s.shopee.com.br/5q9LowkTH9",
-   "link_em": "2026-10-31T07:07:08.775010-04:00",
-   "link_views": 0
-  },
   {
    "id": "17879211354567060",
    "insp": "ff37b68cb2",
@@ -1249,7 +1218,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T14:07:09.593085-04:00"
+   "viral_chk": "2026-11-04T14:37:08.759810-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1290,7 +1259,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T14:07:09.593085-04:00"
+   "viral_chk": "2026-11-04T14:37:08.759810-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1299,7 +1268,7 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T14:07:09.593085-04:00"
+   "viral_chk": "2026-11-04T14:37:08.759810-04:00"
   },
   {
    "id": "18082564706406554",
@@ -1328,7 +1297,7 @@
    "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
    "quando": "2026-11-04T13:07:09.479900-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T14:07:09.593085-04:00"
+   "viral_chk": "2026-11-04T14:37:08.759810-04:00"
   },
   {
    "id": "18127233625684654",
@@ -1337,16 +1306,19 @@
    "texto": "Quem mais aqui guarda na cabeça a senha daquele jogo antigo que jogava o dia todo na adolescência",
    "quando": "2026-11-04T13:37:08.448277-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T14:07:09.593085-04:00"
+   "viral_chk": "2026-11-04T14:37:08.759810-04:00"
+  },
+  {
+   "id": "17997443184028868",
+   "insp": "34b48535d3",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: esse negócio de relacionamento arranjado pela internet funciona mesmo na prática ou é só história pra boi dormir",
+   "quando": "2026-11-04T14:37:08.759810-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-04T14:37:08.759810-04:00"
   }
  ],
  "respondidos": [
-  "17878091940632129",
-  "17994437400011194",
-  "18089120501226066",
-  "18108166859610799",
-  "18125455240701790",
-  "18123326659933795",
   "18149656510551331",
   "18090498170456808",
   "17878652820553259",
@@ -4340,10 +4312,15 @@
   "18356486236169402",
   "18110400821211636",
   "17939655480126588",
-  "17915523402538488"
+  "17915523402538488",
+  "18653486698003175",
+  "18645226669037586",
+  "17891970009465554",
+  "18016818230973625",
+  "17894037141444570",
+  "18417146851093151"
  ],
  "hashes": [
-  "ffed78dfb8a63dcf61d6e6bbdcc02c8d",
   "1248f2a8f1ad3ecd03c6784dc2bb2993",
   "fb57cff7523f595450752f2f29f22f39",
   "90b9891efa06b034b7f430324eeebbd1",
@@ -4542,7 +4519,8 @@
   "9a7cdea938c5fbf4dabb0a2208f5c5ca",
   "5c1ef4b29bfb0b97ecae64cb87caf004",
   "a615e17e25bc58d509f7c85d83fdd24d",
-  "0411794174ee69c415e5d3ea0ce5388c"
+  "0411794174ee69c415e5d3ea0ce5388c",
+  "46469b519ee308b20c4f1ebfe997ef69"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4885,7 +4863,8 @@
   "b8bafc8bd6": 1793797665.4475825,
   "db1e9eddc7": 1793803052.0079184,
   "35da4326cb": 1793812060.853649,
-  "6c95b06784": 1793813855.0429933
+  "6c95b06784": 1793813855.0429933,
+  "34b48535d3": 1793817501.0267892
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4922,40 +4901,16 @@
   "d315ab98b4": 1,
   "3b2406cda6": 1,
   "656336739a": 1,
-  "821ae7765f": 1
+  "821ae7765f": 1,
+  "fabdb68850": 1,
+  "0b0334d4f4": 1,
+  "80b9cf5abb": 1,
+  "704ed4034d": 1,
+  "0778a3e8f8": 1,
+  "df4d7ab66b": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "resposta curta e direta para quem não tem duvida",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "recusar a oferta de imediato mostra que o caixa precisa continuar cheio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a conta é o valor da hora dividida pelo cansaço do dia",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "exato, cada fase da vida pede uma conta diferente no fim do mês",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "saber o que fazer com o tempo livre muda totalmente a conta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "recusar a proposta sem pensar duas vezes mostra que o boleto não dá trégua",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "trabalhando esse pouco tempo por dia realmente não sobra margem para desconto",
    "p": "neutra",
@@ -5075,6 +5030,36 @@
    "t": "peso pesado reunido num comentário só",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "guardar o nick do amigo de infância como senha é um nível de lealdade que deu certo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o cérebro desliga a lógica e só ativa o modo nostalgia quando a partida começa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse clássico todo mundo rejoga pelo menos uma vez na vida",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "compromisso anual sério com a tripulação toda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Que lista de clássicos! NFSU2, BF2 e TW3 são pura nostalgia, já anotei",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Super Metroid é puro clássico, igual MGS3, já anotei 🙏🏼 kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6502,14 +6487,20 @@
    "quinhentas horas em",
    "halo 3 e",
    "que lista incrivel",
-   "peso pesado reunido"
+   "peso pesado reunido",
+   "esse classico todo",
+   "compromisso anual serio",
+   "que lista de",
+   "super metroid e"
   ],
   "18127233625684654": [
    "esse ai marcou",
    "essa combinacao ta",
    "usar senha de",
    "esse ai atravessou",
-   "agora lembro do"
+   "agora lembro do",
+   "guardar o nick",
+   "o cerebro desliga"
   ]
  },
  "shopee_checada": "2026-11-04|1",
