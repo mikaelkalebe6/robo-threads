@@ -26,10 +26,10 @@
    "08:51"
   ],
   "produtos_feitos": 0,
-  "respostas": 16,
+  "respostas": 17,
   "por_post": {
    "17870801802641111": 13,
-   "17949764385085229": 3
+   "17949764385085229": 4
   }
  },
  "posts": [
@@ -1278,7 +1278,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T09:37:08.591411-04:00"
+   "viral_chk": "2026-11-04T10:07:09.496002-04:00"
   },
   {
    "id": "18077922542739701",
@@ -1328,7 +1328,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T09:37:08.591411-04:00"
+   "viral_chk": "2026-11-04T10:07:09.496002-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1366,11 +1366,10 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T09:37:08.591411-04:00"
+   "viral_chk": "2026-11-04T10:07:09.496002-04:00"
   }
  ],
  "respondidos": [
-  "18018422075946439",
   "17867668845660298",
   "18131742994784636",
   "18103290239635251",
@@ -4369,7 +4368,8 @@
   "18146261335607789",
   "18102653144550377",
   "18115536034854318",
-  "17892749175685524"
+  "17892749175685524",
+  "18030799172880585"
  ],
  "hashes": [
   "08bbf20aaef98a13ea397d42847ea825",
@@ -4931,15 +4931,11 @@
   "97bd7934c1": 1,
   "bf9474f01d": 1,
   "819da35cf2": 1,
-  "6033766961": 1
+  "6033766961": 1,
+  "fdcfc37f40": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "quase tudo junto e misturado é um festival de horrores kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "amor pelo que faz em nível avancado",
    "p": "ressalva",
@@ -5084,6 +5080,11 @@
    "t": "o boleto não pergunta se você tá gostando da tarefa",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "perder um amor eu não sei mas a paciência vai embora no primeiro minuto kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6539,7 +6540,8 @@
   "17949764385085229": [
    "paz de espirito",
    "a realidade chegando",
-   "o boleto nao"
+   "o boleto nao",
+   "perder um amor"
   ]
  },
  "shopee_checada": "2026-11-04|1",
