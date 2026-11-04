@@ -29,39 +29,23 @@
    "12:49",
    "13:34",
    "14:16",
-   "15:46"
+   "15:46",
+   "17:03"
   ],
-  "produtos_feitos": 1,
-  "respostas": 55,
+  "produtos_feitos": 2,
+  "respostas": 60,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
    "17886556293690167": 1,
-   "18146901799608252": 14,
+   "18146901799608252": 16,
    "18127233625684654": 9,
    "17997443184028868": 9,
-   "17944488396382748": 2
+   "17944488396382748": 4,
+   "18130295941794634": 1
   }
  },
  "posts": [
-  {
-   "id": "18169083673482490",
-   "insp": "77b88ec144",
-   "link": "",
-   "texto": "Fui num date ontem onde o celular ficou na bolsa a noite toda e a gente nem viu o tempo passar. É raro demais achar alguém que faz o mundo offline ficar interessante.",
-   "quando": "2026-10-30T13:07:09.391508-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
-   "metricas": {
-    "views": 242,
-    "likes": 5,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-04"
-   }
-  },
   {
    "id": "18146591881665621",
    "insp": "311cd408b3",
@@ -1244,7 +1228,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
+   "viral_chk": "2026-11-04T17:07:10.782155-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1253,7 +1237,7 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
+   "viral_chk": "2026-11-04T17:07:10.782155-04:00"
   },
   {
    "id": "18082564706406554",
@@ -1282,7 +1266,7 @@
    "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
    "quando": "2026-11-04T13:07:09.479900-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
+   "viral_chk": "2026-11-04T17:07:10.782155-04:00"
   },
   {
    "id": "18127233625684654",
@@ -1291,7 +1275,7 @@
    "texto": "Quem mais aqui guarda na cabeça a senha daquele jogo antigo que jogava o dia todo na adolescência",
    "quando": "2026-11-04T13:37:08.448277-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
+   "viral_chk": "2026-11-04T17:07:10.782155-04:00"
   },
   {
    "id": "17997443184028868",
@@ -1300,7 +1284,7 @@
    "texto": "OPINIÃO IMPOPULAR: esse negócio de relacionamento arranjado pela internet funciona mesmo na prática ou é só história pra boi dormir",
    "quando": "2026-11-04T14:37:08.759810-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
+   "viral_chk": "2026-11-04T17:07:10.782155-04:00"
   },
   {
    "id": "17944488396382748",
@@ -1309,15 +1293,30 @@
    "texto": "DÚVIDA SINCERA: qual é aquele gasto com escola que ninguém te avisa antes de matricular a criança?",
    "quando": "2026-11-04T16:07:07.967066-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
+   "viral_chk": "2026-11-04T17:07:10.782155-04:00"
+  },
+  {
+   "id": "17926512138439130",
+   "insp": "prod_18599696115",
+   "link": "",
+   "texto": "Andar naquelas pedras da cachoeira sem chorar de dor é uma missão quase impossível. Descobri essa sapatilha aquática que salva o pé da gente em qualquer trilha ou praia, olha como funciona 👀",
+   "quando": "2026-11-04T17:07:10.782155-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "18599696115",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "18599696115",
+    "nome": "Sapatilha Aquática Pesca Praia Cachoeira Aventura Leve Confortável Antiderrapante",
+    "offerLink": "https://s.shopee.com.br/AKbt9gDkQ0",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8dflmbun5yp64",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
-  "18145194766604539",
-  "17884369917504178",
-  "17875288122651498",
-  "18107168785915538",
-  "17974376277131899",
   "17959938810236721",
   "18111774923132290",
   "18378871636224646",
@@ -4312,7 +4311,12 @@
   "18137216212560051",
   "18166058128517652",
   "18080185013718244",
-  "18113015594609385"
+  "18113015594609385",
+  "17956957743294003",
+  "18111153236193020",
+  "18257491411339834",
+  "18119803124081314",
+  "18111579716230272"
  ],
  "hashes": [
   "fb57cff7523f595450752f2f29f22f39",
@@ -4917,35 +4921,15 @@
   "cd1749fb4b": 1,
   "67ed3cd807": 1,
   "80913e6f9c": 1,
-  "0b0d36ec18": 1
+  "0b0d36ec18": 1,
+  "5566b3a5f0": 1,
+  "4645c72296": 1,
+  "8d04083f35": 1,
+  "545c63949e": 1,
+  "781d82d8e8": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "Halo 3 é clássico, né? Rejogar nunca cansa kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Que lista incrível, já anotei, qual fase de Hollow Knight te marcou?",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse aí marcou a adolescência de muita gente kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa combinação tá gravada num lugar seguro do cérebro kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "usar senha de jogo em banco é um nível de lealdade perigoso kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "esse aí atravessou gerações e continua firme na memoria",
    "p": "concorda",
@@ -5070,6 +5054,31 @@
    "t": "pagar para assistir o proprio filho dançar é um nível de extorsão que a escola domina kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "quem já tem sabe que salva em qualquer aperto kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "farmacia virou parada obrigatoria junto com o material escolar kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "essa foto superfaturada sem compromisso é o golpe mais bem sucedido da história",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "passar por essa fase de carros modificados marcou época",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse aí exige coragem e paciência em dobro pra zerar de novo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6227,9 +6236,6 @@
   }
  ],
  "aberturas_post": {
-  "18153105085554734": [
-   "quando a gente"
-  ],
   "18119185082003862": [
    "amigos da fofoca",
    "sorte a sua",
@@ -6477,7 +6483,9 @@
    "super metroid e",
    "campanhas que marcam",
    "essa selecao de",
-   "dividir o jogo"
+   "dividir o jogo",
+   "passar por essa",
+   "esse ai exige"
   ],
   "18127233625684654": [
    "esse ai marcou",
@@ -6503,7 +6511,12 @@
   ],
   "17944488396382748": [
    "multiplicar aniversario por",
-   "pagar para assistir"
+   "pagar para assistir",
+   "farmacia virou parada",
+   "essa foto superfaturada"
+  ],
+  "18130295941794634": [
+   "quem ja tem"
   ]
  },
  "shopee_checada": "2026-11-04|1",
@@ -6659,7 +6672,7 @@
   "58261620022": "2026-10-27T07:07:08.968014-04:00",
   "19999249755": "2026-10-10T21:07:08.531577-04:00",
   "45754796089": "2026-10-25T07:07:08.236675-04:00",
-  "18599696115": "2026-10-11T09:07:10.464629-04:00",
+  "18599696115": "2026-11-04T17:07:10.782155-04:00",
   "22393525887": "2026-10-11T12:07:09.276302-04:00",
   "58214462678": "2026-10-11T15:37:09.556759-04:00",
   "58204067039": "2026-10-28T10:07:09.225022-04:00",
