@@ -31,13 +31,14 @@
    "14:16"
   ],
   "produtos_feitos": 1,
-  "respostas": 39,
+  "respostas": 45,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
    "17886556293690167": 1,
    "18146901799608252": 11,
-   "18127233625684654": 7
+   "18127233625684654": 9,
+   "17997443184028868": 4
   }
  },
  "posts": [
@@ -1218,7 +1219,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T14:37:08.759810-04:00"
+   "viral_chk": "2026-11-04T15:07:08.746608-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1259,7 +1260,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T14:37:08.759810-04:00"
+   "viral_chk": "2026-11-04T15:07:08.746608-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1268,7 +1269,7 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T14:37:08.759810-04:00"
+   "viral_chk": "2026-11-04T15:07:08.746608-04:00"
   },
   {
    "id": "18082564706406554",
@@ -1297,7 +1298,7 @@
    "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
    "quando": "2026-11-04T13:07:09.479900-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T14:37:08.759810-04:00"
+   "viral_chk": "2026-11-04T15:07:08.746608-04:00"
   },
   {
    "id": "18127233625684654",
@@ -1306,7 +1307,7 @@
    "texto": "Quem mais aqui guarda na cabeça a senha daquele jogo antigo que jogava o dia todo na adolescência",
    "quando": "2026-11-04T13:37:08.448277-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T14:37:08.759810-04:00"
+   "viral_chk": "2026-11-04T15:07:08.746608-04:00"
   },
   {
    "id": "17997443184028868",
@@ -1315,16 +1316,10 @@
    "texto": "OPINIÃO IMPOPULAR: esse negócio de relacionamento arranjado pela internet funciona mesmo na prática ou é só história pra boi dormir",
    "quando": "2026-11-04T14:37:08.759810-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T14:37:08.759810-04:00"
+   "viral_chk": "2026-11-04T15:07:08.746608-04:00"
   }
  ],
  "respondidos": [
-  "18149656510551331",
-  "18090498170456808",
-  "17878652820553259",
-  "17908782684488337",
-  "18086425280296085",
-  "18139554127621366",
   "17969265603171631",
   "18356774188247160",
   "18183021538418259",
@@ -4318,7 +4313,13 @@
   "17891970009465554",
   "18016818230973625",
   "17894037141444570",
-  "18417146851093151"
+  "18417146851093151",
+  "18099086699556937",
+  "18123960002318870",
+  "17912725383308053",
+  "18190009642414719",
+  "18077047976755945",
+  "18134396080825345"
  ],
  "hashes": [
   "1248f2a8f1ad3ecd03c6784dc2bb2993",
@@ -4888,7 +4889,7 @@
   "fdcfc37f40": 1,
   "a08ec57e87": 1,
   "7dadcfae14": 1,
-  "4daac2f246": 1,
+  "4daac2f246": 2,
   "f89193d2ee": 1,
   "b9d705ae50": 1,
   "9dfd4909d0": 1,
@@ -4907,40 +4908,15 @@
   "80b9cf5abb": 1,
   "704ed4034d": 1,
   "0778a3e8f8": 1,
-  "df4d7ab66b": 1
+  "df4d7ab66b": 1,
+  "88eaf98f33": 1,
+  "65a2f7b9d7": 1,
+  "62d48b38f2": 1,
+  "ba6fd0e217": 1,
+  "17dbc46111": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "trabalhando esse pouco tempo por dia realmente não sobra margem para desconto",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "fidelidade ao pagamento intacto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a conta tem que fechar direito no fim do mês",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "paz na rotina de professora já compensa qualquer negociação no salário",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "paz de espirito conta muito mais que salario alto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a realidade chegando com os dois pés na porta kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "o boleto não pergunta se você tá gostando da tarefa",
    "p": "concorda",
@@ -5059,6 +5035,36 @@
   {
    "t": "Super Metroid é puro clássico, igual MGS3, já anotei 🙏🏼 kkk",
    "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Verdade, arranjado online pode dar match certo kkk, tem mais histórias assim?",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "se durou tudo isso é porque o método tem seus méritos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Concordo, escolher bem é meio caminho, mas ainda tem quem se perca kkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "não responde e ainda fica com a pulga atrás da orelha",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "não lembrar de nada talvez seja o único superpoder que sobra nesse caos todo",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa sequência de teclas é um teste de memória muscular kkk",
+   "p": "concorda_neutra",
    "r": 1
   }
  ],
@@ -6217,24 +6223,6 @@
   }
  ],
  "aberturas_post": {
-  "18106825157572440": [
-   "economia e carro",
-   "verdade o hibrido",
-   "para o dia",
-   "o hibrido tira",
-   "dois pontos que",
-   "exato essa parte",
-   "para rodar so",
-   "passar raiva com",
-   "ter onde carregar",
-   "exato achar tomada",
-   "para rodar pouco",
-   "para a rotina",
-   "pensando bem o",
-   "quem usa na",
-   "pouco mais de",
-   "conta de padaria"
-  ],
   "18010950449778561": [
    "pois e mas",
    "ai entra direto",
@@ -6500,7 +6488,15 @@
    "esse ai atravessou",
    "agora lembro do",
    "guardar o nick",
-   "o cerebro desliga"
+   "o cerebro desliga",
+   "nao lembrar de",
+   "essa sequencia de"
+  ],
+  "17997443184028868": [
+   "verdade arranjado online",
+   "se durou tudo",
+   "concordo escolher bem",
+   "nao responde e"
   ]
  },
  "shopee_checada": "2026-11-04|1",
