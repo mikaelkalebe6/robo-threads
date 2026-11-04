@@ -24,9 +24,9 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 13,
   "por_post": {
-   "17870801802641111": 12
+   "17870801802641111": 13
   }
  },
  "posts": [
@@ -1246,7 +1246,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T08:07:13.070670-04:00"
+   "viral_chk": "2026-11-04T08:37:12.485839-04:00"
   },
   {
    "id": "18000216539825006",
@@ -1296,7 +1296,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T08:07:13.070670-04:00"
+   "viral_chk": "2026-11-04T08:37:12.485839-04:00"
   },
   {
    "id": "18077922542739701",
@@ -1346,7 +1346,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T08:07:13.070670-04:00"
+   "viral_chk": "2026-11-04T08:37:12.485839-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1379,7 +1379,6 @@
   }
  ],
  "respondidos": [
-  "18010265381969311",
   "18134758699710752",
   "18112649363120475",
   "18137110186724453",
@@ -4378,7 +4377,8 @@
   "18101457635453497",
   "18131783599749376",
   "17912961435484056",
-  "18111440126623582"
+  "18111440126623582",
+  "18146261335607789"
  ],
  "hashes": [
   "730b6789af14cd15c42450aefa3bef59",
@@ -4935,15 +4935,11 @@
   "612877d7e6": 1,
   "16b2d9b61f": 1,
   "24e817c0b4": 1,
-  "33bd9b7f28": 1
+  "33bd9b7f28": 1,
+  "97bd7934c1": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "esse painel iluminado já adianta o boleto da oficina",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "defendeu o proprio passe com unhas e dentes",
    "p": "discorda",
@@ -5087,6 +5083,11 @@
   {
    "t": "a conta tem que fechar direito no fim do mês",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paz na rotina de professora já compensa qualquer negociação no salário",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6513,7 +6514,6 @@
    "teclado no colo"
   ],
   "17870801802641111": [
-   "com um salario",
    "justo cada um",
    "queria ter essa",
    "economia drastica mas",
@@ -6532,7 +6532,8 @@
    "recusar a proposta",
    "trabalhando esse pouco",
    "fidelidade ao pagamento",
-   "a conta tem"
+   "a conta tem",
+   "paz na rotina"
   ],
   "18182459707432553": [
    "depende muito do"
