@@ -27,10 +27,11 @@
    "10:34"
   ],
   "produtos_feitos": 0,
-  "respostas": 17,
+  "respostas": 21,
   "por_post": {
-   "17870801802641111": 13,
-   "17949764385085229": 4
+   "17870801802641111": 14,
+   "17949764385085229": 6,
+   "17886556293690167": 1
   }
  },
  "posts": [
@@ -1261,7 +1262,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T10:37:09.019293-04:00"
+   "viral_chk": "2026-11-04T11:07:09.909446-04:00"
   },
   {
    "id": "18077922542739701",
@@ -1311,7 +1312,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T10:37:09.019293-04:00"
+   "viral_chk": "2026-11-04T11:07:09.909446-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1349,7 +1350,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T10:37:09.019293-04:00"
+   "viral_chk": "2026-11-04T11:07:09.909446-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1358,14 +1359,10 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T10:37:09.019293-04:00"
+   "viral_chk": "2026-11-04T11:07:09.909446-04:00"
   }
  ],
  "respondidos": [
-  "17867668845660298",
-  "18131742994784636",
-  "18103290239635251",
-  "17915497716464498",
   "18630500845047997",
   "18215016313352712",
   "18115643810320937",
@@ -4361,7 +4358,11 @@
   "18102653144550377",
   "18115536034854318",
   "17892749175685524",
-  "18030799172880585"
+  "18030799172880585",
+  "17959093407257322",
+  "18386046919226567",
+  "18456305755125763",
+  "17996992569052604"
  ],
  "hashes": [
   "462702bb356c7df254619fac4a893742",
@@ -4925,30 +4926,14 @@
   "bf9474f01d": 1,
   "819da35cf2": 1,
   "6033766961": 1,
-  "fdcfc37f40": 1
+  "fdcfc37f40": 1,
+  "a08ec57e87": 1,
+  "7dadcfae14": 1,
+  "4daac2f246": 1,
+  "f89193d2ee": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "amor pelo que faz em nível avancado",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "quem tem boleto pra pagar não arrisca perder nem um centavo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "com um salario maior a conversa seria outra com certeza",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, cada um sabe o peso que o salario tem no fim do mês",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "queria ter essa disposição toda para trabalhar mais horas seguidas",
    "p": "discorda",
@@ -5078,6 +5063,26 @@
    "t": "perder um amor eu não sei mas a paciência vai embora no primeiro minuto kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "compromisso sagrado de todo sábado de manha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "prioridade financeira totalmente alinhada com a realidade dos boletos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fazer o que gosta deixa o dia bem mais leve",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "É, parece promessa de deputado: nada acontece, só ficamos na conversa kkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6230,22 +6235,6 @@
   }
  ],
  "aberturas_post": {
-  "18059672663796327": [
-   "duas ou mais",
-   "inevitavel a musica",
-   "perde o horario",
-   "parece que a",
-   "quando a musica",
-   "todo dia e",
-   "verdade agora a",
-   "melhor jeito de",
-   "mexer no celular",
-   "bom demais quando",
-   "inevitavel desligar o",
-   "dificil sair do",
-   "coreografia completa antes",
-   "perde a diversao"
-  ],
   "17918328729462329": [
    "quase uma aventura",
    "essa ai e",
@@ -6485,7 +6474,6 @@
    "teclado no colo"
   ],
   "17870801802641111": [
-   "justo cada um",
    "queria ter essa",
    "economia drastica mas",
    "organizacao ajuda muito",
@@ -6504,7 +6492,8 @@
    "trabalhando esse pouco",
    "fidelidade ao pagamento",
    "a conta tem",
-   "paz na rotina"
+   "paz na rotina",
+   "e parece promessa"
   ],
   "18182459707432553": [
    "depende muito do"
@@ -6534,7 +6523,12 @@
    "paz de espirito",
    "a realidade chegando",
    "o boleto nao",
-   "perder um amor"
+   "perder um amor",
+   "prioridade financeira totalmente",
+   "fazer o que"
+  ],
+  "17886556293690167": [
+   "compromisso sagrado de"
   ]
  },
  "shopee_checada": "2026-11-04|1",
