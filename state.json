@@ -32,14 +32,15 @@
    "15:46"
   ],
   "produtos_feitos": 1,
-  "respostas": 53,
+  "respostas": 55,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
    "17886556293690167": 1,
    "18146901799608252": 14,
    "18127233625684654": 9,
-   "17997443184028868": 9
+   "17997443184028868": 9,
+   "17944488396382748": 2
   }
  },
  "posts": [
@@ -1202,7 +1203,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
+   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1243,7 +1244,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
+   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1252,7 +1253,7 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
+   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
   },
   {
    "id": "18082564706406554",
@@ -1281,7 +1282,7 @@
    "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
    "quando": "2026-11-04T13:07:09.479900-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
+   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
   },
   {
    "id": "18127233625684654",
@@ -1290,7 +1291,7 @@
    "texto": "Quem mais aqui guarda na cabeça a senha daquele jogo antigo que jogava o dia todo na adolescência",
    "quando": "2026-11-04T13:37:08.448277-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
+   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
   },
   {
    "id": "17997443184028868",
@@ -1299,7 +1300,7 @@
    "texto": "OPINIÃO IMPOPULAR: esse negócio de relacionamento arranjado pela internet funciona mesmo na prática ou é só história pra boi dormir",
    "quando": "2026-11-04T14:37:08.759810-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
+   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
   },
   {
    "id": "17944488396382748",
@@ -1308,12 +1309,10 @@
    "texto": "DÚVIDA SINCERA: qual é aquele gasto com escola que ninguém te avisa antes de matricular a criança?",
    "quando": "2026-11-04T16:07:07.967066-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
+   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
   }
  ],
  "respondidos": [
-  "18114633554642561",
-  "17915348919264406",
   "18145194766604539",
   "17884369917504178",
   "17875288122651498",
@@ -4311,7 +4310,9 @@
   "18139561789733324",
   "18121075190056208",
   "18137216212560051",
-  "18166058128517652"
+  "18166058128517652",
+  "18080185013718244",
+  "18113015594609385"
  ],
  "hashes": [
   "fb57cff7523f595450752f2f29f22f39",
@@ -4914,20 +4915,12 @@
   "8d1907fee6": 1,
   "30cc49d87e": 1,
   "cd1749fb4b": 1,
-  "67ed3cd807": 1
+  "67ed3cd807": 1,
+  "80913e6f9c": 1,
+  "0b0d36ec18": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "esse primeiro entrou para a lista de quem gosta de mapa gigante",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quinhentas horas em skyrim sem ver a missão principal é um marco de respeito kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Halo 3 é clássico, né? Rejogar nunca cansa kkkk",
    "p": "concorda",
@@ -5067,6 +5060,16 @@
    "t": "dividir o jogo em discos diferentes era um compromisso sério com a história",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "multiplicar aniversário por duas escolas diferentes é um boleto que nunca acaba kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pagar para assistir o proprio filho dançar é um nível de extorsão que a escola domina kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6224,15 +6227,6 @@
   }
  ],
  "aberturas_post": {
-  "18010950449778561": [
-   "pois e mas",
-   "ai entra direto",
-   "fez mais que",
-   "isso ja entra",
-   "economia de tempo",
-   "com certeza deu",
-   "literalmente tentativa de"
-  ],
   "18153105085554734": [
    "quando a gente"
   ],
@@ -6506,6 +6500,10 @@
    "pelo menos o",
    "quem pegou a",
    "sou do mundo"
+  ],
+  "17944488396382748": [
+   "multiplicar aniversario por",
+   "pagar para assistir"
   ]
  },
  "shopee_checada": "2026-11-04|1",
