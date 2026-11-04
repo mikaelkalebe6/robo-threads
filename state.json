@@ -23,13 +23,13 @@
    "17:47"
   ],
   "produtos_feitos": 3,
-  "respostas": 38,
+  "respostas": 39,
   "por_post": {
    "18147973417588492": 1,
    "17870801802641111": 20,
    "18147480598586721": 5,
    "18433923586146915": 1,
-   "17953965141313574": 3,
+   "17953965141313574": 4,
    "17944556547380767": 6,
    "18118663834815681": 2
   }
@@ -1321,7 +1321,6 @@
   }
  ],
  "respondidos": [
-  "18094869977670184",
   "18011918936954349",
   "18024662831880661",
   "18463658416140302",
@@ -4320,7 +4319,8 @@
   "18089356949310131",
   "18006924191793095",
   "17902430073671813",
-  "18150765118538045"
+  "18150765118538045",
+  "18133622192502367"
  ],
  "hashes": [
   "730b6789af14cd15c42450aefa3bef59",
@@ -4903,15 +4903,11 @@
   "06c4b8f961": 1,
   "4223199491": 1,
   "280792b6e0": 1,
-  "294eee2f1f": 1
+  "294eee2f1f": 1,
+  "c159b078ea": 1
  },
  "reservas_checadas": "2026-11-03",
  "ultimas_respostas": [
-  {
-   "t": "jogar deitado na cama com controle zera qualquer ergonomia de escritorio kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "jeito raiz de burlar a ergonomia do escritorio kkk",
    "p": "concorda",
@@ -5054,6 +5050,11 @@
   },
   {
    "t": "garantir o sustento exige uma paciência que nem sempre a gente tem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "laudo seguro evita qualquer dor de cabeça na primeira compra",
    "p": "concorda",
    "r": 0
   }
@@ -6437,7 +6438,8 @@
    "tem opcao demais",
    "esse modelo tem",
    "dez anos com",
-   "passar pela bagaceira"
+   "passar pela bagaceira",
+   "laudo seguro evita"
   ],
   "18433923586146915": [
    "que capricho fica",
