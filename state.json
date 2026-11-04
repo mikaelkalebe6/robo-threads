@@ -32,10 +32,11 @@
    "15:46",
    "17:03",
    "17:57",
-   "18:50"
+   "18:50",
+   "19:30"
   ],
   "produtos_feitos": 2,
-  "respostas": 68,
+  "respostas": 70,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
@@ -43,44 +44,12 @@
    "18146901799608252": 17,
    "18127233625684654": 9,
    "17997443184028868": 11,
-   "17944488396382748": 5,
+   "17944488396382748": 6,
    "18130295941794634": 1,
-   "18134748025793720": 4
+   "18134748025793720": 5
   }
  },
  "posts": [
-  {
-   "id": "18065503865623286",
-   "insp": "prod_23094546288",
-   "link": "",
-   "texto": "Limpar box de banheiro dá um preguiça danada, né? 😅 Descobri esse raspador multiuso e resolveu minha vida com o vidro, sai tudo sem esforço. Olha como funciona 👀",
-   "quando": "2026-10-30T16:07:08.967765-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "23094546288",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "23094546288",
-    "nome": "Raspadores Multiuso Para Limpar Box Com 5-10 Lâminas Profissional/Vidro Piso Cerâmica Azulejo",
-    "offerLink": "https://s.shopee.com.br/W7pT99FCY",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg42kmd4gkjp15",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 111,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-04"
-   },
-   "link_coment": "https://s.shopee.com.br/W7pT99FCY",
-   "link_em": "2026-10-31T10:07:09.393257-04:00",
-   "link_views": 0
-  },
   {
    "id": "18101789486658584",
    "insp": "7ef1d6fca0",
@@ -1304,11 +1273,17 @@
    "quando": "2026-11-04T19:07:12.406630-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "viral_chk": "2026-11-04T19:07:12.406630-04:00"
+  },
+  {
+   "id": "17968225734230291",
+   "insp": "a31c102c39",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: o professor de educação física da escola marcou muito mais a infância da gente do que qualquer outra matéria.",
+   "quando": "2026-11-04T19:37:07.407379-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18073267505558455",
-  "18101465225322517",
   "18196736131391620",
   "18122711359923668",
   "18420100393153618",
@@ -4306,10 +4281,11 @@
   "17911686783584842",
   "17909847804568293",
   "18412166074095551",
-  "18119559998280893"
+  "18119559998280893",
+  "18223071661346653",
+  "18120882688771209"
  ],
  "hashes": [
-  "0675cb7eda2a75b2851ab0e37f9e1a6e",
   "93bf9123793e0e90afd81a7df9de24f2",
   "78a27020a9f7dab6104394540f3972c6",
   "304ad5f946f78247092dece129a207ea",
@@ -4508,7 +4484,8 @@
   "46469b519ee308b20c4f1ebfe997ef69",
   "02462d97910f6af2d24a918a48a787a9",
   "5eb3a2aeb4b1828c1968a2e244eda029",
-  "e657864bfbdd3e389fbe96c9a3f3acba"
+  "e657864bfbdd3e389fbe96c9a3f3acba",
+  "936c7d446e825f4e90a3fe5be417a196"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4855,7 +4832,8 @@
   "34b48535d3": 1793817501.0267892,
   "83111fe9a4": 1793822857.9849665,
   "db72a20743": 1793830093.6415808,
-  "639172332f": 1793833650.1521714
+  "639172332f": 1793833650.1521714,
+  "a31c102c39": 1793835454.8069456
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4926,20 +4904,12 @@
   "0521dbc115": 1,
   "a6ae7fdd02": 1,
   "9e55722230": 1,
-  "06882256a0": 1
+  "06882256a0": 1,
+  "a116866780": 1,
+  "e75905d090": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "Super Metroid é puro clássico, igual MGS3, já anotei 🙏🏼 kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Verdade, arranjado online pode dar match certo kkk, tem mais histórias assim?",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "se durou tudo isso é porque o método tem seus méritos",
    "p": "concorda",
@@ -5079,6 +5049,16 @@
    "t": "oito vezes é teste de fidelidade com o cartucho kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "o pé na cadeira é o verdadeiro pré-requisito pro domingo dar certo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cobrar esse valor em tecido que dura um ano é teste de paciência",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6516,7 +6496,8 @@
    "pagar para assistir",
    "farmacia virou parada",
    "essa foto superfaturada",
-   "a mensalidade e"
+   "a mensalidade e",
+   "cobrar esse valor"
   ],
   "18130295941794634": [
    "quem ja tem"
@@ -6525,7 +6506,8 @@
    "justo a parte",
    "argumento justo a",
    "exato paz de",
-   "esse bastidor da"
+   "esse bastidor da",
+   "o pe na"
   ]
  },
  "shopee_checada": "2026-11-04|1",
