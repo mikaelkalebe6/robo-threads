@@ -24,9 +24,10 @@
   ],
   "feitos": [
    "08:51",
-   "10:34"
+   "10:34",
+   "11:21"
   ],
-  "produtos_feitos": 0,
+  "produtos_feitos": 1,
   "respostas": 21,
   "por_post": {
    "17870801802641111": 14,
@@ -35,38 +36,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17942358831370118",
-   "insp": "prod_58208889792",
-   "link": "",
-   "texto": "Ficar com fio de fone enroscado na academia irrita demais. Descobri esse fone bluetooth que segura super bem na corrida e a bateria dura um monte. Olha como fica no ouvido na foto 👀",
-   "quando": "2026-10-29T22:07:09.556604-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58208889792",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58208889792",
-    "nome": "Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração Fone Corrida Academia",
-    "offerLink": "https://s.shopee.com.br/8fTVbEx5JP",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mozd89yz0xdx96",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 131,
-    "likes": 2,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-04"
-   },
-   "link_coment": "https://s.shopee.com.br/8fTVbEx5JP",
-   "link_em": "2026-10-30T16:37:09.218738-04:00",
-   "link_views": 0
-  },
   {
    "id": "17918797707464737",
    "insp": "6fc3351715",
@@ -1312,7 +1281,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T11:07:09.909446-04:00"
+   "viral_chk": "2026-11-04T11:37:09.709664-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1350,7 +1319,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T11:07:09.909446-04:00"
+   "viral_chk": "2026-11-04T11:37:09.709664-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1359,7 +1328,27 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T11:07:09.909446-04:00"
+   "viral_chk": "2026-11-04T11:37:09.709664-04:00"
+  },
+  {
+   "id": "18082564706406554",
+   "insp": "prod_58254074073",
+   "link": "",
+   "texto": "Cozinhar fim de semana sempre acaba manchando toda a roupa, né? 😂 Descobri esse avental impermeável ajustável que salva a gente da bagunça na cozinha e no churrasco. Olha como funciona 👀",
+   "quando": "2026-11-04T11:37:09.709664-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "58254074073",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "58254074073",
+    "nome": "Avental Impermeável Ajustável em Lona Canvas Cozinha Restaurante Churrasco Unissex",
+    "offerLink": "https://s.shopee.com.br/AKbt9fePdk",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5i7qgxue4jc9",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
@@ -6713,7 +6702,7 @@
   "22694227037": "2026-10-17T12:07:07.816065-04:00",
   "14065340258": "2026-10-17T15:37:07.980428-04:00",
   "58255737985": "2026-11-03T18:07:11.383172-04:00",
-  "58254074073": "2026-10-17T21:37:08.255141-04:00",
+  "58254074073": "2026-11-04T11:37:09.709664-04:00",
   "58269029568": "2026-11-02T09:07:08.741895-04:00",
   "19098752815": "2026-11-02T07:07:09.453875-04:00",
   "23193620740": "2026-11-02T14:37:09.876861-04:00",
