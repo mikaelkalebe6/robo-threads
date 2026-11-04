@@ -24,9 +24,9 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 12,
   "por_post": {
-   "17870801802641111": 6
+   "17870801802641111": 12
   }
  },
  "posts": [
@@ -1246,7 +1246,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T07:07:10.627757-04:00"
+   "viral_chk": "2026-11-04T07:37:08.586992-04:00"
   },
   {
    "id": "18000216539825006",
@@ -1296,7 +1296,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T07:07:10.627757-04:00"
+   "viral_chk": "2026-11-04T07:37:08.586992-04:00"
   },
   {
    "id": "18077922542739701",
@@ -1343,7 +1343,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T07:07:10.627757-04:00"
+   "viral_chk": "2026-11-04T07:37:08.586992-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1376,12 +1376,6 @@
   }
  ],
  "respondidos": [
-  "18068955632504799",
-  "18165779485469676",
-  "18143613376584978",
-  "18491282359106719",
-  "18094591139391424",
-  "18074922824541028",
   "18010265381969311",
   "18134758699710752",
   "18112649363120475",
@@ -4375,7 +4369,13 @@
   "18022163510731873",
   "18144013717613411",
   "18094117229202012",
-  "18154893565489941"
+  "18154893565489941",
+  "17927446890203918",
+  "18124054484285608",
+  "18101457635453497",
+  "18131783599749376",
+  "17912961435484056",
+  "18111440126623582"
  ],
  "hashes": [
   "730b6789af14cd15c42450aefa3bef59",
@@ -4926,40 +4926,16 @@
   "57c6debccd": 1,
   "f950896953": 1,
   "88cbb52e59": 1,
-  "18ab384390": 1
+  "18ab384390": 1,
+  "46b557f9c4": 1,
+  "f5a3c73cc7": 1,
+  "612877d7e6": 1,
+  "16b2d9b61f": 1,
+  "24e817c0b4": 1,
+  "33bd9b7f28": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "Aí, já senti esse baque, dói bastante 😔",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "sim, um desconto fixo desse tamanho pesa muito mais que a hora que você salva",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "descansar da rotina de casa no trabalho é um plot twist que eu não esperava",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "passar pela bagaceira é o único curso intensivo que a vida oferece kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "trabalhar mais horas para manter o salario inteiro pede uma resistencia que eu não tenho kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "fugiu completamente do assunto mas deu para sentir o peso da situação",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "esse painel iluminado já adianta o boleto da oficina",
    "p": "concorda",
@@ -5078,6 +5054,36 @@
   {
    "t": "a conta é o valor da hora dividida pelo cansaço do dia",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "exato, cada fase da vida pede uma conta diferente no fim do mês",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "saber o que fazer com o tempo livre muda totalmente a conta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "recusar a proposta sem pensar duas vezes mostra que o boleto não dá trégua",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "trabalhando esse pouco tempo por dia realmente não sobra margem para desconto",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "fidelidade ao pagamento intacto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a conta tem que fechar direito no fim do mês",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6499,12 +6505,6 @@
    "teclado no colo"
   ],
   "17870801802641111": [
-   "fugiu completamente do",
-   "defendeu o proprio",
-   "objetividade admiravel para",
-   "so se for",
-   "amor pelo que",
-   "quem tem boleto",
    "com um salario",
    "justo cada um",
    "queria ter essa",
@@ -6518,7 +6518,13 @@
    "farmacia consome qualquer",
    "resposta curta e",
    "recusar a oferta",
-   "a conta e"
+   "a conta e",
+   "exato cada fase",
+   "saber o que",
+   "recusar a proposta",
+   "trabalhando esse pouco",
+   "fidelidade ao pagamento",
+   "a conta tem"
   ],
   "18182459707432553": [
    "depende muito do"
