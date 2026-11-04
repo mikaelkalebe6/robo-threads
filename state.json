@@ -26,35 +26,19 @@
    "08:51",
    "10:34",
    "11:21",
-   "12:49"
+   "12:49",
+   "13:34"
   ],
   "produtos_feitos": 1,
-  "respostas": 21,
+  "respostas": 27,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
-   "17886556293690167": 1
+   "17886556293690167": 1,
+   "18146901799608252": 6
   }
  },
  "posts": [
-  {
-   "id": "18057754298578764",
-   "insp": "911dee6995",
-   "link": "",
-   "texto": "Todo carro tem aquele barulhinho estranho que a gente prefere fingir que não tá ouvindo até sumir sozinho.",
-   "quando": "2026-10-30T10:07:08.504351-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T09:37:08.987860-04:00",
-   "metricas": {
-    "views": 50,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-04"
-   }
-  },
   {
    "id": "18052766636814296",
    "insp": "prod_58211842722",
@@ -1264,7 +1248,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T13:07:09.479900-04:00"
+   "viral_chk": "2026-11-04T13:37:08.448277-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1305,7 +1289,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T13:07:09.479900-04:00"
+   "viral_chk": "2026-11-04T13:37:08.448277-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1314,7 +1298,7 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T13:07:09.479900-04:00"
+   "viral_chk": "2026-11-04T13:37:08.448277-04:00"
   },
   {
    "id": "18082564706406554",
@@ -1343,16 +1327,19 @@
    "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
    "quando": "2026-11-04T13:07:09.479900-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T13:07:09.479900-04:00"
+   "viral_chk": "2026-11-04T13:37:08.448277-04:00"
+  },
+  {
+   "id": "18127233625684654",
+   "insp": "6c95b06784",
+   "link": "",
+   "texto": "Quem mais aqui guarda na cabeça a senha daquele jogo antigo que jogava o dia todo na adolescência",
+   "quando": "2026-11-04T13:37:08.448277-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-04T13:37:08.448277-04:00"
   }
  ],
  "respondidos": [
-  "18630500845047997",
-  "18215016313352712",
-  "18115643810320937",
-  "18170908237456608",
-  "18052813664802583",
-  "18139131358617534",
   "18118017344052131",
   "17956462725252912",
   "18150299500547960",
@@ -4346,10 +4333,15 @@
   "17959093407257322",
   "18386046919226567",
   "18456305755125763",
-  "17996992569052604"
+  "17996992569052604",
+  "18096387986165186",
+  "17951389671350952",
+  "17999026770044922",
+  "18116449256328986",
+  "18183079138439420",
+  "17954486097292701"
  ],
  "hashes": [
-  "1f424406178c707bc4721cdf2fa7767f",
   "ffed78dfb8a63dcf61d6e6bbdcc02c8d",
   "1248f2a8f1ad3ecd03c6784dc2bb2993",
   "fb57cff7523f595450752f2f29f22f39",
@@ -4548,7 +4540,8 @@
   "3a35f403b2a89407c0605376f13d7313",
   "9a7cdea938c5fbf4dabb0a2208f5c5ca",
   "5c1ef4b29bfb0b97ecae64cb87caf004",
-  "a615e17e25bc58d509f7c85d83fdd24d"
+  "a615e17e25bc58d509f7c85d83fdd24d",
+  "0411794174ee69c415e5d3ea0ce5388c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4890,7 +4883,8 @@
   "134d436301": 1793738289.3725514,
   "b8bafc8bd6": 1793797665.4475825,
   "db1e9eddc7": 1793803052.0079184,
-  "35da4326cb": 1793812060.853649
+  "35da4326cb": 1793812060.853649,
+  "6c95b06784": 1793813855.0429933
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4915,40 +4909,16 @@
   "a08ec57e87": 1,
   "7dadcfae14": 1,
   "4daac2f246": 1,
-  "f89193d2ee": 1
+  "f89193d2ee": 1,
+  "b9d705ae50": 1,
+  "9dfd4909d0": 1,
+  "a3e98b058c": 1,
+  "4996f5d5d5": 1,
+  "3144151df5": 1,
+  "accbcb0b61": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "queria ter essa disposição toda para trabalhar mais horas seguidas",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "economia drástica mas com tempo livre garantido",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "organização ajuda muito, mas nem todo lugar dá essa liberdade",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "fugir da sexta feira desse jeito e um plano audacioso kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "trabalhar mais para engordar um pouco a conta é uma ousadia para poucos kkkk",
-   "p": "discorda",
-   "r": 2
-  },
-  {
-   "t": "ganhar mais para aguentar o batente exige uma coragem invejável kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "pesado demais kkk",
    "p": "concorda",
@@ -5068,6 +5038,36 @@
    "t": "É, parece promessa de deputado: nada acontece, só ficamos na conversa kkk",
    "p": "ressalva",
    "r": 1
+  },
+  {
+   "t": "essa lista é um verdadeiro tour pela nostalgia dos classicos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem entra nesse jogo nunca mais consegue sair",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse primeiro entrou para a lista de quem gosta de mapa gigante",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quinhentas horas em skyrim sem ver a missão principal é um marco de respeito kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Halo 3 é clássico, né? Rejogar nunca cansa kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Que lista incrível, já anotei, qual fase de Hollow Knight te marcou?",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6225,25 +6225,6 @@
   }
  ],
  "aberturas_post": {
-  "17918328729462329": [
-   "quase uma aventura",
-   "essa ai e",
-   "esse ai marcou",
-   "medo de declarar",
-   "esse veio recheado",
-   "o antigo pra",
-   "carro de familia",
-   "seis mil hoje",
-   "esse modelo marcou",
-   "essa fila de",
-   "preco de outra",
-   "esse classico ai",
-   "sete mil no",
-   "literalmente uma vacina",
-   "passou pela evolucao",
-   "o historico completo",
-   "dois mil reais"
-  ],
   "18000103242043456": [
    "essa fatura tem",
    "pagar caro por",
@@ -6519,6 +6500,14 @@
   ],
   "17886556293690167": [
    "compromisso sagrado de"
+  ],
+  "18146901799608252": [
+   "essa lista e",
+   "quem entra nesse",
+   "esse primeiro entrou",
+   "quinhentas horas em",
+   "halo 3 e",
+   "que lista incrivel"
   ]
  },
  "shopee_checada": "2026-11-04|1",
