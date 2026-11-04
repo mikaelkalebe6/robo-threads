@@ -33,15 +33,15 @@
    "17:03"
   ],
   "produtos_feitos": 2,
-  "respostas": 60,
+  "respostas": 63,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
    "17886556293690167": 1,
    "18146901799608252": 16,
    "18127233625684654": 9,
-   "17997443184028868": 9,
-   "17944488396382748": 4,
+   "17997443184028868": 11,
+   "17944488396382748": 5,
    "18130295941794634": 1
   }
  },
@@ -1228,7 +1228,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T17:07:10.782155-04:00"
+   "viral_chk": "2026-11-04T17:37:09.596261-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1237,7 +1237,7 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T17:07:10.782155-04:00"
+   "viral_chk": "2026-11-04T17:37:09.596261-04:00"
   },
   {
    "id": "18082564706406554",
@@ -1266,7 +1266,7 @@
    "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
    "quando": "2026-11-04T13:07:09.479900-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T17:07:10.782155-04:00"
+   "viral_chk": "2026-11-04T17:37:09.596261-04:00"
   },
   {
    "id": "18127233625684654",
@@ -1275,7 +1275,7 @@
    "texto": "Quem mais aqui guarda na cabeça a senha daquele jogo antigo que jogava o dia todo na adolescência",
    "quando": "2026-11-04T13:37:08.448277-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T17:07:10.782155-04:00"
+   "viral_chk": "2026-11-04T17:37:09.596261-04:00"
   },
   {
    "id": "17997443184028868",
@@ -1284,7 +1284,7 @@
    "texto": "OPINIÃO IMPOPULAR: esse negócio de relacionamento arranjado pela internet funciona mesmo na prática ou é só história pra boi dormir",
    "quando": "2026-11-04T14:37:08.759810-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T17:07:10.782155-04:00"
+   "viral_chk": "2026-11-04T17:37:09.596261-04:00"
   },
   {
    "id": "17944488396382748",
@@ -1293,7 +1293,12 @@
    "texto": "DÚVIDA SINCERA: qual é aquele gasto com escola que ninguém te avisa antes de matricular a criança?",
    "quando": "2026-11-04T16:07:07.967066-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T17:07:10.782155-04:00"
+   "viral_chk": "2026-11-04T17:37:09.596261-04:00",
+   "link_coment": "https://s.shopee.com.br/50aNV5GTBz",
+   "meme_comentado": true,
+   "meme_views": 1117,
+   "formato_link": "coment",
+   "produto": "50450542245"
   },
   {
    "id": "17926512138439130",
@@ -1317,9 +1322,6 @@
   }
  ],
  "respondidos": [
-  "17959938810236721",
-  "18111774923132290",
-  "18378871636224646",
   "18147948331501841",
   "17971887522158224",
   "18119133557515752",
@@ -4316,7 +4318,10 @@
   "18111153236193020",
   "18257491411339834",
   "18119803124081314",
-  "18111579716230272"
+  "18111579716230272",
+  "18413888146090683",
+  "17943551892364737",
+  "18353711275266903"
  ],
  "hashes": [
   "fb57cff7523f595450752f2f29f22f39",
@@ -4926,25 +4931,13 @@
   "4645c72296": 1,
   "8d04083f35": 1,
   "545c63949e": 1,
-  "781d82d8e8": 1
+  "781d82d8e8": 1,
+  "7568036613": 1,
+  "51bab9f63e": 1,
+  "d5349d0635": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "esse aí atravessou gerações e continua firme na memoria",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkk, agora lembro do cheat code, qual era o game? 😅",
-   "p": "neutra",
-   "r": 2
-  },
-  {
-   "t": "peso pesado reunido num comentário só",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "guardar o nick do amigo de infância como senha é um nível de lealdade que deu certo kkk",
    "p": "concorda",
@@ -5079,6 +5072,21 @@
    "t": "esse aí exige coragem e paciência em dobro pra zerar de novo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "a mensalidade é só o boleto de entrada para um carnê infinito de taxas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Caramba, 5 anos e ainda deu tempo de descobrir que distância também conta kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "tomara que a sorte sorria para você nessa brincadeira kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5671,6 +5679,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-04T12:37:08.343067-04:00"
+  },
+  "18129193702923602": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-04T17:37:09.596261-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6507,13 +6520,16 @@
    "comecar a conversa",
    "pelo menos o",
    "quem pegou a",
-   "sou do mundo"
+   "sou do mundo",
+   "caramba 5 anos",
+   "tomara que a"
   ],
   "17944488396382748": [
    "multiplicar aniversario por",
    "pagar para assistir",
    "farmacia virou parada",
-   "essa foto superfaturada"
+   "essa foto superfaturada",
+   "a mensalidade e"
   ],
   "18130295941794634": [
    "quem ja tem"
@@ -6770,7 +6786,8 @@
   "49610876725": "2026-11-02T07:07:09.453875-04:00",
   "58255061423": "2026-11-02T16:07:09.926018-04:00",
   "26437638380": "2026-11-03T07:07:12.736050-04:00",
-  "58252768179": "2026-11-03T07:07:12.736050-04:00"
+  "58252768179": "2026-11-03T07:07:12.736050-04:00",
+  "50450542245": "2026-11-04T17:37:09.596261-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -6780,7 +6797,7 @@
  },
  "meme_links_dia": {
   "data": "2026-11-04",
-  "qtd": 0
+  "qtd": 1
  },
  "carrosseis_usados": [
   "car-20261010-1",
