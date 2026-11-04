@@ -26,9 +26,10 @@
    "08:51"
   ],
   "produtos_feitos": 0,
-  "respostas": 13,
+  "respostas": 16,
   "por_post": {
-   "17870801802641111": 13
+   "17870801802641111": 13,
+   "17949764385085229": 3
   }
  },
  "posts": [
@@ -1227,7 +1228,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T09:07:09.455056-04:00"
+   "viral_chk": "2026-11-04T09:37:08.591411-04:00"
   },
   {
    "id": "18000216539825006",
@@ -1277,7 +1278,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T09:07:09.455056-04:00"
+   "viral_chk": "2026-11-04T09:37:08.591411-04:00"
   },
   {
    "id": "18077922542739701",
@@ -1327,7 +1328,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T09:07:09.455056-04:00"
+   "viral_chk": "2026-11-04T09:37:08.591411-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1365,13 +1366,10 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T09:07:09.455056-04:00"
+   "viral_chk": "2026-11-04T09:37:08.591411-04:00"
   }
  ],
  "respondidos": [
-  "18134758699710752",
-  "18112649363120475",
-  "18137110186724453",
   "18018422075946439",
   "17867668845660298",
   "18131742994784636",
@@ -4368,7 +4366,10 @@
   "18131783599749376",
   "17912961435484056",
   "18111440126623582",
-  "18146261335607789"
+  "18146261335607789",
+  "18102653144550377",
+  "18115536034854318",
+  "17892749175685524"
  ],
  "hashes": [
   "08bbf20aaef98a13ea397d42847ea825",
@@ -4927,25 +4928,13 @@
   "16b2d9b61f": 1,
   "24e817c0b4": 1,
   "33bd9b7f28": 1,
-  "97bd7934c1": 1
+  "97bd7934c1": 1,
+  "bf9474f01d": 1,
+  "819da35cf2": 1,
+  "6033766961": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "defendeu o proprio passe com unhas e dentes",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "objetividade admirável para quem só quer saber do pagamento",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "Só se for ganhar um troféu de pior acordo kkk",
-   "p": "discorda",
-   "r": 1
-  },
   {
    "t": "quase tudo junto e misturado é um festival de horrores kkk",
    "p": "concorda",
@@ -5079,6 +5068,21 @@
   {
    "t": "paz na rotina de professora já compensa qualquer negociação no salário",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "paz de espirito conta muito mais que salario alto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a realidade chegando com os dois pés na porta kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o boleto não pergunta se você tá gostando da tarefa",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6232,24 +6236,6 @@
   }
  ],
  "aberturas_post": {
-  "18036187742666195": [
-   "pior que nem",
-   "perfeito a leitura",
-   "pesado demais o",
-   "pois e mas",
-   "o preco do",
-   "exatamente perdeu totalmente",
-   "liberdade dos outros",
-   "pois e o",
-   "pelo menos a",
-   "acabar com o",
-   "chegar tarde e",
-   "cruzar com os",
-   "realmente esta todo",
-   "com certeza falta",
-   "exato evento tem",
-   "pura falta de"
-  ],
   "18059672663796327": [
    "duas ou mais",
    "inevitavel a musica",
@@ -6549,6 +6535,11 @@
   "18118663834815681": [
    "pesado demais",
    "garantir o sustento"
+  ],
+  "17949764385085229": [
+   "paz de espirito",
+   "a realidade chegando",
+   "o boleto nao"
   ]
  },
  "shopee_checada": "2026-11-04|1",
