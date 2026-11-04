@@ -28,38 +28,21 @@
    "11:21",
    "12:49",
    "13:34",
-   "14:16"
+   "14:16",
+   "15:46"
   ],
   "produtos_feitos": 1,
-  "respostas": 51,
+  "respostas": 53,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
    "17886556293690167": 1,
-   "18146901799608252": 12,
+   "18146901799608252": 14,
    "18127233625684654": 9,
    "17997443184028868": 9
   }
  },
  "posts": [
-  {
-   "id": "17879211354567060",
-   "insp": "ff37b68cb2",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: tem gente que sai de casa para ir a barzinho só para conversar ou o verdadeiro objetivo de todo mundo é pedir a porção de batata com cheddar e bacon?",
-   "quando": "2026-10-30T12:07:08.801073-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T11:37:07.840633-04:00",
-   "metricas": {
-    "views": 510,
-    "likes": 14,
-    "replies": 25,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-04"
-   }
-  },
   {
    "id": "18169083673482490",
    "insp": "77b88ec144",
@@ -1219,7 +1202,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T15:37:08.321060-04:00"
+   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1260,7 +1243,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T15:37:08.321060-04:00"
+   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1269,7 +1252,7 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T15:37:08.321060-04:00"
+   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
   },
   {
    "id": "18082564706406554",
@@ -1298,7 +1281,7 @@
    "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
    "quando": "2026-11-04T13:07:09.479900-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T15:37:08.321060-04:00"
+   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
   },
   {
    "id": "18127233625684654",
@@ -1307,7 +1290,7 @@
    "texto": "Quem mais aqui guarda na cabeça a senha daquele jogo antigo que jogava o dia todo na adolescência",
    "quando": "2026-11-04T13:37:08.448277-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T15:37:08.321060-04:00"
+   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
   },
   {
    "id": "17997443184028868",
@@ -1316,12 +1299,19 @@
    "texto": "OPINIÃO IMPOPULAR: esse negócio de relacionamento arranjado pela internet funciona mesmo na prática ou é só história pra boi dormir",
    "quando": "2026-11-04T14:37:08.759810-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T15:37:08.321060-04:00"
+   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
+  },
+  {
+   "id": "17944488396382748",
+   "insp": "83111fe9a4",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual é aquele gasto com escola que ninguém te avisa antes de matricular a criança?",
+   "quando": "2026-11-04T16:07:07.967066-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-04T16:07:07.967066-04:00"
   }
  ],
  "respondidos": [
-  "18107676773224758",
-  "18106630319223172",
   "18114633554642561",
   "17915348919264406",
   "18145194766604539",
@@ -4319,10 +4309,11 @@
   "18037121858853921",
   "18418467742085508",
   "18139561789733324",
-  "18121075190056208"
+  "18121075190056208",
+  "18137216212560051",
+  "18166058128517652"
  ],
  "hashes": [
-  "1248f2a8f1ad3ecd03c6784dc2bb2993",
   "fb57cff7523f595450752f2f29f22f39",
   "90b9891efa06b034b7f430324eeebbd1",
   "0675cb7eda2a75b2851ab0e37f9e1a6e",
@@ -4521,7 +4512,8 @@
   "5c1ef4b29bfb0b97ecae64cb87caf004",
   "a615e17e25bc58d509f7c85d83fdd24d",
   "0411794174ee69c415e5d3ea0ce5388c",
-  "46469b519ee308b20c4f1ebfe997ef69"
+  "46469b519ee308b20c4f1ebfe997ef69",
+  "02462d97910f6af2d24a918a48a787a9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4865,7 +4857,8 @@
   "db1e9eddc7": 1793803052.0079184,
   "35da4326cb": 1793812060.853649,
   "6c95b06784": 1793813855.0429933,
-  "34b48535d3": 1793817501.0267892
+  "34b48535d3": 1793817501.0267892,
+  "83111fe9a4": 1793822857.9849665
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4919,20 +4912,12 @@
   "68d1afc522": 1,
   "dd1b3da85a": 1,
   "8d1907fee6": 1,
-  "30cc49d87e": 1
+  "30cc49d87e": 1,
+  "cd1749fb4b": 1,
+  "67ed3cd807": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "essa lista é um verdadeiro tour pela nostalgia dos classicos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem entra nesse jogo nunca mais consegue sair",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse primeiro entrou para a lista de quem gosta de mapa gigante",
    "p": "concorda",
@@ -5070,6 +5055,16 @@
   },
   {
    "t": "campanhas que marcam epoca merecem ser revisitadas mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa seleção de clássicos é daquelas que a gente guarda com carinho na memória",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dividir o jogo em discos diferentes era um compromisso sério com a história",
    "p": "concorda",
    "r": 0
   }
@@ -6486,7 +6481,9 @@
    "compromisso anual serio",
    "que lista de",
    "super metroid e",
-   "campanhas que marcam"
+   "campanhas que marcam",
+   "essa selecao de",
+   "dividir o jogo"
   ],
   "18127233625684654": [
    "esse ai marcou",
