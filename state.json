@@ -31,14 +31,14 @@
    "14:16"
   ],
   "produtos_feitos": 1,
-  "respostas": 45,
+  "respostas": 51,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
    "17886556293690167": 1,
-   "18146901799608252": 11,
+   "18146901799608252": 12,
    "18127233625684654": 9,
-   "17997443184028868": 4
+   "17997443184028868": 9
   }
  },
  "posts": [
@@ -1219,7 +1219,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T15:07:08.746608-04:00"
+   "viral_chk": "2026-11-04T15:37:08.321060-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1260,7 +1260,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T15:07:08.746608-04:00"
+   "viral_chk": "2026-11-04T15:37:08.321060-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1269,7 +1269,7 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T15:07:08.746608-04:00"
+   "viral_chk": "2026-11-04T15:37:08.321060-04:00"
   },
   {
    "id": "18082564706406554",
@@ -1298,7 +1298,7 @@
    "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
    "quando": "2026-11-04T13:07:09.479900-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T15:07:08.746608-04:00"
+   "viral_chk": "2026-11-04T15:37:08.321060-04:00"
   },
   {
    "id": "18127233625684654",
@@ -1307,7 +1307,7 @@
    "texto": "Quem mais aqui guarda na cabeça a senha daquele jogo antigo que jogava o dia todo na adolescência",
    "quando": "2026-11-04T13:37:08.448277-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T15:07:08.746608-04:00"
+   "viral_chk": "2026-11-04T15:37:08.321060-04:00"
   },
   {
    "id": "17997443184028868",
@@ -1316,16 +1316,10 @@
    "texto": "OPINIÃO IMPOPULAR: esse negócio de relacionamento arranjado pela internet funciona mesmo na prática ou é só história pra boi dormir",
    "quando": "2026-11-04T14:37:08.759810-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T15:07:08.746608-04:00"
+   "viral_chk": "2026-11-04T15:37:08.321060-04:00"
   }
  ],
  "respondidos": [
-  "17969265603171631",
-  "18356774188247160",
-  "18183021538418259",
-  "18114012502820713",
-  "18163486891490391",
-  "18134273065708980",
   "18107676773224758",
   "18106630319223172",
   "18114633554642561",
@@ -4319,7 +4313,13 @@
   "17912725383308053",
   "18190009642414719",
   "18077047976755945",
-  "18134396080825345"
+  "18134396080825345",
+  "18132318826687600",
+  "17980766685068127",
+  "18037121858853921",
+  "18418467742085508",
+  "18139561789733324",
+  "18121075190056208"
  ],
  "hashes": [
   "1248f2a8f1ad3ecd03c6784dc2bb2993",
@@ -4913,40 +4913,16 @@
   "65a2f7b9d7": 1,
   "62d48b38f2": 1,
   "ba6fd0e217": 1,
-  "17dbc46111": 1
+  "17dbc46111": 1,
+  "32dae165bb": 1,
+  "6f09006dc3": 1,
+  "68d1afc522": 1,
+  "dd1b3da85a": 1,
+  "8d1907fee6": 1,
+  "30cc49d87e": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "o boleto não pergunta se você tá gostando da tarefa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perder um amor eu não sei mas a paciência vai embora no primeiro minuto kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "compromisso sagrado de todo sábado de manha",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "prioridade financeira totalmente alinhada com a realidade dos boletos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "fazer o que gosta deixa o dia bem mais leve",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "É, parece promessa de deputado: nada acontece, só ficamos na conversa kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "essa lista é um verdadeiro tour pela nostalgia dos classicos",
    "p": "concorda",
@@ -5066,6 +5042,36 @@
    "t": "essa sequência de teclas é um teste de memória muscular kkk",
    "p": "concorda_neutra",
    "r": 1
+  },
+  {
+   "t": "foi um misto de duvida sincera com a curiosidade do dia",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "começar a conversa no sábado e já engatar namoro é para quem tem sorte e iniciativa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos o objetivo principal da busca fica garantido rápido kkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "quem pegou a boiada inteira passou de ano kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "sou do mundo digital onde tudo pode acontecer",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "campanhas que marcam epoca merecem ser revisitadas mesmo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6479,7 +6485,8 @@
    "esse classico todo",
    "compromisso anual serio",
    "que lista de",
-   "super metroid e"
+   "super metroid e",
+   "campanhas que marcam"
   ],
   "18127233625684654": [
    "esse ai marcou",
@@ -6496,7 +6503,12 @@
    "verdade arranjado online",
    "se durou tudo",
    "concordo escolher bem",
-   "nao responde e"
+   "nao responde e",
+   "foi um misto",
+   "comecar a conversa",
+   "pelo menos o",
+   "quem pegou a",
+   "sou do mundo"
   ]
  },
  "shopee_checada": "2026-11-04|1",
