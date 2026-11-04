@@ -34,7 +34,7 @@
    "17:57"
   ],
   "produtos_feitos": 2,
-  "respostas": 63,
+  "respostas": 66,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
@@ -43,7 +43,8 @@
    "18127233625684654": 9,
    "17997443184028868": 11,
    "17944488396382748": 5,
-   "18130295941794634": 1
+   "18130295941794634": 1,
+   "18134748025793720": 3
   }
  },
  "posts": [
@@ -1206,7 +1207,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T18:07:09.429967-04:00"
+   "viral_chk": "2026-11-04T18:37:08.459016-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1215,7 +1216,7 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T18:07:09.429967-04:00"
+   "viral_chk": "2026-11-04T18:37:08.459016-04:00"
   },
   {
    "id": "18082564706406554",
@@ -1244,7 +1245,7 @@
    "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
    "quando": "2026-11-04T13:07:09.479900-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T18:07:09.429967-04:00"
+   "viral_chk": "2026-11-04T18:37:08.459016-04:00"
   },
   {
    "id": "18127233625684654",
@@ -1253,7 +1254,7 @@
    "texto": "Quem mais aqui guarda na cabeça a senha daquele jogo antigo que jogava o dia todo na adolescência",
    "quando": "2026-11-04T13:37:08.448277-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T18:07:09.429967-04:00"
+   "viral_chk": "2026-11-04T18:37:08.459016-04:00"
   },
   {
    "id": "17997443184028868",
@@ -1262,7 +1263,7 @@
    "texto": "OPINIÃO IMPOPULAR: esse negócio de relacionamento arranjado pela internet funciona mesmo na prática ou é só história pra boi dormir",
    "quando": "2026-11-04T14:37:08.759810-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T18:07:09.429967-04:00"
+   "viral_chk": "2026-11-04T18:37:08.459016-04:00"
   },
   {
    "id": "17944488396382748",
@@ -1305,13 +1306,10 @@
    "texto": "OPINIÃO IMPOPULAR: Churrasco em casa dá muito mais trabalho do que vale a pena e o rodízio ganha fácil.",
    "quando": "2026-11-04T18:07:09.429967-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T18:07:09.429967-04:00"
+   "viral_chk": "2026-11-04T18:37:08.459016-04:00"
   }
  ],
  "respondidos": [
-  "18147948331501841",
-  "17971887522158224",
-  "18119133557515752",
   "18101911565369371",
   "17912650689282151",
   "18000369426007247",
@@ -4308,7 +4306,10 @@
   "18111579716230272",
   "18413888146090683",
   "17943551892364737",
-  "18353711275266903"
+  "18353711275266903",
+  "17918243688468790",
+  "18139422130646960",
+  "17911686783584842"
  ],
  "hashes": [
   "90b9891efa06b034b7f430324eeebbd1",
@@ -4922,25 +4923,13 @@
   "781d82d8e8": 1,
   "7568036613": 1,
   "51bab9f63e": 1,
-  "d5349d0635": 1
+  "d5349d0635": 1,
+  "007a10e1d2": 1,
+  "0521dbc115": 1,
+  "a6ae7fdd02": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "guardar o nick do amigo de infância como senha é um nível de lealdade que deu certo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o cérebro desliga a lógica e só ativa o modo nostalgia quando a partida começa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse clássico todo mundo rejoga pelo menos uma vez na vida",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "compromisso anual sério com a tripulação toda",
    "p": "concorda",
@@ -5075,6 +5064,21 @@
    "t": "tomara que a sorte sorria para você nessa brincadeira kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "justo, a parte social é o que salva o trabalho todo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "argumento justo, a bagunça compensa o trabalho",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exato, paz de espírito garantida sem louça depois",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6237,17 +6241,6 @@
   }
  ],
  "aberturas_post": {
-  "18119185082003862": [
-   "amigos da fofoca",
-   "sorte a sua",
-   "sa decisao a",
-   "final de semana",
-   "perfil privado e",
-   "medida drastica mas",
-   "quem dera ter",
-   "respeito a sinceridade",
-   "paz de espirito"
-  ],
   "18135924433780729": [
    "o arrependimento so"
   ],
@@ -6521,6 +6514,11 @@
   ],
   "18130295941794634": [
    "quem ja tem"
+  ],
+  "18134748025793720": [
+   "justo a parte",
+   "argumento justo a",
+   "exato paz de"
   ]
  },
  "shopee_checada": "2026-11-04|1",
