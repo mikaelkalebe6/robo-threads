@@ -30,12 +30,13 @@
    "13:34"
   ],
   "produtos_feitos": 1,
-  "respostas": 27,
+  "respostas": 33,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
    "17886556293690167": 1,
-   "18146901799608252": 6
+   "18146901799608252": 7,
+   "18127233625684654": 5
   }
  },
  "posts": [
@@ -1248,7 +1249,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T13:37:08.448277-04:00"
+   "viral_chk": "2026-11-04T14:07:09.593085-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1289,7 +1290,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T13:37:08.448277-04:00"
+   "viral_chk": "2026-11-04T14:07:09.593085-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1298,7 +1299,7 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T13:37:08.448277-04:00"
+   "viral_chk": "2026-11-04T14:07:09.593085-04:00"
   },
   {
    "id": "18082564706406554",
@@ -1327,7 +1328,7 @@
    "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
    "quando": "2026-11-04T13:07:09.479900-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T13:37:08.448277-04:00"
+   "viral_chk": "2026-11-04T14:07:09.593085-04:00"
   },
   {
    "id": "18127233625684654",
@@ -1336,16 +1337,10 @@
    "texto": "Quem mais aqui guarda na cabeça a senha daquele jogo antigo que jogava o dia todo na adolescência",
    "quando": "2026-11-04T13:37:08.448277-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T13:37:08.448277-04:00"
+   "viral_chk": "2026-11-04T14:07:09.593085-04:00"
   }
  ],
  "respondidos": [
-  "18118017344052131",
-  "17956462725252912",
-  "18150299500547960",
-  "18146647663566267",
-  "18131189840508118",
-  "18085313999323576",
   "17878091940632129",
   "17994437400011194",
   "18089120501226066",
@@ -4339,7 +4334,13 @@
   "17999026770044922",
   "18116449256328986",
   "18183079138439420",
-  "17954486097292701"
+  "17954486097292701",
+  "18112960442137419",
+  "18200691418382581",
+  "18356486236169402",
+  "18110400821211636",
+  "17939655480126588",
+  "17915523402538488"
  ],
  "hashes": [
   "ffed78dfb8a63dcf61d6e6bbdcc02c8d",
@@ -4915,40 +4916,16 @@
   "a3e98b058c": 1,
   "4996f5d5d5": 1,
   "3144151df5": 1,
-  "accbcb0b61": 1
+  "accbcb0b61": 1,
+  "9c9ed7acc0": 1,
+  "aa30f93946": 1,
+  "d315ab98b4": 1,
+  "3b2406cda6": 1,
+  "656336739a": 1,
+  "821ae7765f": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "pesado demais kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "garantir o sustento exige uma paciência que nem sempre a gente tem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "laudo seguro evita qualquer dor de cabeça na primeira compra",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "investir o tempo livre no proprio negocio muda completamente a conta do dia",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "quando a comissão pesa no fim do mês a conta é outra mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "farmácia consome qualquer folga financeira rapidinho",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "resposta curta e direta para quem não tem duvida",
    "p": "concorda",
@@ -5066,6 +5043,36 @@
   },
   {
    "t": "Que lista incrível, já anotei, qual fase de Hollow Knight te marcou?",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse aí marcou a adolescência de muita gente kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa combinação tá gravada num lugar seguro do cérebro kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "usar senha de jogo em banco é um nível de lealdade perigoso kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse aí atravessou gerações e continua firme na memoria",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkk, agora lembro do cheat code, qual era o game? 😅",
+   "p": "neutra",
+   "r": 2
+  },
+  {
+   "t": "peso pesado reunido num comentário só",
    "p": "concorda",
    "r": 0
   }
@@ -6225,19 +6232,6 @@
   }
  ],
  "aberturas_post": {
-  "18000103242043456": [
-   "essa fatura tem",
-   "pagar caro por",
-   "ferias parecem otimas",
-   "nem fala quando",
-   "pelo menos a",
-   "esse vem todo",
-   "esse pesa tanto",
-   "esse todo mes",
-   "essa fatura parece",
-   "imagina a surpresa",
-   "quando junta tudo"
-  ],
   "18106825157572440": [
    "economia e carro",
    "verdade o hibrido",
@@ -6507,7 +6501,15 @@
    "esse primeiro entrou",
    "quinhentas horas em",
    "halo 3 e",
-   "que lista incrivel"
+   "que lista incrivel",
+   "peso pesado reunido"
+  ],
+  "18127233625684654": [
+   "esse ai marcou",
+   "essa combinacao ta",
+   "usar senha de",
+   "esse ai atravessou",
+   "agora lembro do"
   ]
  },
  "shopee_checada": "2026-11-04|1",
