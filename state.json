@@ -25,7 +25,8 @@
   "feitos": [
    "08:51",
    "10:34",
-   "11:21"
+   "11:21",
+   "12:49"
   ],
   "produtos_feitos": 1,
   "respostas": 21,
@@ -36,24 +37,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17918797707464737",
-   "insp": "6fc3351715",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: academia às 5 da manhã é disciplina ou falta de amor próprio?",
-   "quando": "2026-10-30T09:07:14.081908-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T09:07:09.121448-04:00",
-   "metricas": {
-    "views": 474,
-    "likes": 8,
-    "replies": 26,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-04"
-   }
-  },
   {
    "id": "18057754298578764",
    "insp": "911dee6995",
@@ -1281,7 +1264,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T12:37:08.343067-04:00"
+   "viral_chk": "2026-11-04T13:07:09.479900-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1322,7 +1305,7 @@
    "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
    "quando": "2026-11-04T09:07:09.455056-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T12:37:08.343067-04:00"
+   "viral_chk": "2026-11-04T13:07:09.479900-04:00"
   },
   {
    "id": "17886556293690167",
@@ -1331,7 +1314,7 @@
    "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
    "quando": "2026-11-04T10:37:09.019293-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T12:37:08.343067-04:00"
+   "viral_chk": "2026-11-04T13:07:09.479900-04:00"
   },
   {
    "id": "18082564706406554",
@@ -1352,6 +1335,15 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5i7qgxue4jc9",
     "campanha": ""
    }
+  },
+  {
+   "id": "18146901799608252",
+   "insp": "35da4326cb",
+   "link": "",
+   "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
+   "quando": "2026-11-04T13:07:09.479900-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-04T13:07:09.479900-04:00"
   }
  ],
  "respondidos": [
@@ -4357,7 +4349,6 @@
   "17996992569052604"
  ],
  "hashes": [
-  "462702bb356c7df254619fac4a893742",
   "1f424406178c707bc4721cdf2fa7767f",
   "ffed78dfb8a63dcf61d6e6bbdcc02c8d",
   "1248f2a8f1ad3ecd03c6784dc2bb2993",
@@ -4556,7 +4547,8 @@
   "111ea3bf609b4c2d5d80a0d9a948e822",
   "3a35f403b2a89407c0605376f13d7313",
   "9a7cdea938c5fbf4dabb0a2208f5c5ca",
-  "5c1ef4b29bfb0b97ecae64cb87caf004"
+  "5c1ef4b29bfb0b97ecae64cb87caf004",
+  "a615e17e25bc58d509f7c85d83fdd24d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4897,7 +4889,8 @@
   "43ee3055b5": 1793718474.3212643,
   "134d436301": 1793738289.3725514,
   "b8bafc8bd6": 1793797665.4475825,
-  "db1e9eddc7": 1793803052.0079184
+  "db1e9eddc7": 1793803052.0079184,
+  "35da4326cb": 1793812060.853649
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
