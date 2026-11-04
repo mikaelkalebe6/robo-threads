@@ -22,7 +22,9 @@
    "17:03",
    "20:17"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:51"
+  ],
   "produtos_feitos": 0,
   "respostas": 13,
   "por_post": {
@@ -30,27 +32,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17952171162317956",
-   "insp": "prod_23593906892",
-   "link": "",
-   "texto": "Deixar as ferramentas soltas no porta malas e ouvir aquele barulho em cada curva irrita demais. Descobri essa bolsa organizadora de feltro que prende tudo certinho e o carro finalmente parou de parecer uma oficina abandonada, olha como funciona 👀",
-   "quando": "2026-10-29T11:37:08.878649-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "23593906892",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "23593906892",
-    "nome": "Bolsa De Armazenamento De Ferramentas De Carro Em Feltro Para O Porta-Malas Do Carro",
-    "offerLink": "https://s.shopee.com.br/AKbjcL9TsH",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rens-m8p66bx62oiv86",
-    "campanha": "11.11"
-   },
-   "apagado": true
-  },
   {
    "id": "18143232559720343",
    "insp": "fc172f6e0c",
@@ -1246,7 +1227,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T08:37:12.485839-04:00"
+   "viral_chk": "2026-11-04T09:07:09.455056-04:00"
   },
   {
    "id": "18000216539825006",
@@ -1296,7 +1277,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T08:37:12.485839-04:00"
+   "viral_chk": "2026-11-04T09:07:09.455056-04:00"
   },
   {
    "id": "18077922542739701",
@@ -1346,7 +1327,7 @@
     "shares": 0,
     "em": "2026-11-04"
    },
-   "viral_chk": "2026-11-04T08:37:12.485839-04:00"
+   "viral_chk": "2026-11-04T09:07:09.455056-04:00"
   },
   {
    "id": "18130295941794634",
@@ -1376,6 +1357,15 @@
     "shares": 0,
     "em": "2026-11-04"
    }
+  },
+  {
+   "id": "17949764385085229",
+   "insp": "b8bafc8bd6",
+   "link": "",
+   "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
+   "quando": "2026-11-04T09:07:09.455056-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-04T09:07:09.455056-04:00"
   }
  ],
  "respondidos": [
@@ -4381,7 +4371,6 @@
   "18146261335607789"
  ],
  "hashes": [
-  "730b6789af14cd15c42450aefa3bef59",
   "08bbf20aaef98a13ea397d42847ea825",
   "462702bb356c7df254619fac4a893742",
   "1f424406178c707bc4721cdf2fa7767f",
@@ -4580,7 +4569,8 @@
   "f0c631555ce12f021a3843b45389611a",
   "e83be1c959d0c1b5432447f140d2fe59",
   "111ea3bf609b4c2d5d80a0d9a948e822",
-  "3a35f403b2a89407c0605376f13d7313"
+  "3a35f403b2a89407c0605376f13d7313",
+  "9a7cdea938c5fbf4dabb0a2208f5c5ca"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4919,7 +4909,8 @@
   "5b9cf279c9": 1793668043.6286292,
   "31ea134865": 1793713047.9851184,
   "43ee3055b5": 1793718474.3212643,
-  "134d436301": 1793738289.3725514
+  "134d436301": 1793738289.3725514,
+  "b8bafc8bd6": 1793797665.4475825
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
