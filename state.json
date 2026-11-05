@@ -19,14 +19,14 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 18,
+  "respostas": 24,
   "por_post": {
    "18119319922812758": 1,
-   "17968225734230291": 7,
+   "17968225734230291": 9,
    "18134748025793720": 2,
    "17997443184028868": 1,
-   "18146901799608252": 6,
-   "17912408370309490": 1
+   "18146901799608252": 8,
+   "17912408370309490": 3
   }
  },
  "posts": [
@@ -1383,12 +1383,6 @@
   }
  ],
  "respondidos": [
-  "18038576729835689",
-  "18080982323365225",
-  "18383798407225010",
-  "18483741937128870",
-  "17895089121417520",
-  "18089766551663455",
   "18002129604007599",
   "17986902429115031",
   "18135566200633442",
@@ -4382,7 +4376,13 @@
   "18110595950188996",
   "17885590020686436",
   "18155567818555192",
-  "17997584802028544"
+  "17997584802028544",
+  "17947272669366301",
+  "17922026952242872",
+  "18113689094333939",
+  "18222375514355834",
+  "18100287428545318",
+  "18344383951279794"
  ],
  "hashes": [
   "304ad5f946f78247092dece129a207ea",
@@ -4956,40 +4956,15 @@
   "0a5ba4194a": 1,
   "3b1e514f39": 1,
   "9ca32a7fbd": 1,
-  "268081cc41": 1
+  "268081cc41": 1,
+  "fb435d8b35": 1,
+  "aa42e47543": 1,
+  "3b60f55f71": 2,
+  "cb398edde8": 1,
+  "0c4113185d": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "kk, joelho também pode ser travesso, hein? me conta mais dessa graça",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "verdade, a IA tá ocupando muito espaço nesse mercado mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "rodízio que desafia o estabelecimento tem seu valor kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "nem todo mundo dava sorte com os professores mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "com vinte e oito anos o corpo já resolveu cobrar juros abusivos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Joelho também entrou na lista de culpados, agora me lembra de alongar kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "justo, a ideia era óbvia mesmo mas vale o registro",
    "p": "concorda",
@@ -5109,6 +5084,36 @@
    "t": "cada um tem sua marca, né? 😊",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "essa sigla mudou o rumo da minha tarde toda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "resolveu cobrar o boleto com juros antes do prazo",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse Hades e o teste final de paciência mesmo kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Verdade, a quadra deixa saudade mesmo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Tartarugas ninjas IV e Street Fighter II são clássicos que dão vontade de zerar outra",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkkk odeier tbm deixa marca profunda",
+   "p": "ressalva",
+   "r": 3
   }
  ],
  "minhas_respostas": {
@@ -6490,8 +6495,6 @@
    "compromisso sagrado de"
   ],
   "18146901799608252": [
-   "quinhentas horas em",
-   "halo 3 e",
    "que lista incrivel",
    "peso pesado reunido",
    "esse classico todo",
@@ -6509,7 +6512,9 @@
    "bb qual jogo",
    "fire emblem oq",
    "verdade fire red",
-   "nossa essa lista"
+   "nossa essa lista",
+   "esse hades e",
+   "tartarugas ninjas iv"
   ],
   "18127233625684654": [
    "esse ai marcou",
@@ -6560,8 +6565,6 @@
    "e isso ai"
   ],
   "17968225734230291": [
-   "a perspectiva de",
-   "pelo menos a",
    "a choradeira comecou",
    "historia e geografia",
    "a bola foi",
@@ -6579,7 +6582,9 @@
    "shopee o que",
    "a professora que",
    "que coisa mais",
-   "cada um tem"
+   "cada um tem",
+   "verdade a quadra",
+   "odeier tbm deixa"
   ],
   "17912408370309490": [
    "essa e a",
@@ -6596,7 +6601,9 @@
    "joelho tambem pode",
    "com vinte e",
    "joelho tambem entrou",
-   "parece que o"
+   "parece que o",
+   "essa sigla mudou",
+   "resolveu cobrar o"
   ],
   "18119319922812758": [
    "boa atendente de",
