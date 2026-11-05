@@ -17,42 +17,21 @@
    "16:10",
    "19:18"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:52"
+  ],
   "produtos_feitos": 0,
-  "respostas": 24,
+  "respostas": 30,
   "por_post": {
    "18119319922812758": 1,
    "17968225734230291": 9,
    "18134748025793720": 2,
    "17997443184028868": 1,
-   "18146901799608252": 8,
+   "18146901799608252": 14,
    "17912408370309490": 3
   }
  },
  "posts": [
-  {
-   "id": "18036187742666195",
-   "insp": "7ba592d22e",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Carro rebaixado com som alto na rua de madrugada não é estilo, é só falta de noção mesmo.",
-   "quando": "2026-10-30T19:37:08.855943-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-30T22:37:07.296929-04:00",
-   "link_coment": "https://s.shopee.com.br/2LZTeW6s1N",
-   "meme_comentado": true,
-   "meme_views": 1007,
-   "formato_link": "coment",
-   "produto": "22292964139",
-   "metricas": {
-    "views": 1778,
-    "likes": 89,
-    "replies": 45,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-11-05"
-   }
-  },
   {
    "id": "18098954417556263",
    "insp": "prod_58251910469",
@@ -1380,15 +1359,17 @@
     "em": "2026-11-05"
    },
    "viral_chk": "2026-11-05T07:07:09.689824-04:00"
+  },
+  {
+   "id": "18235105819323131",
+   "insp": "9f951d595e",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Essa história de que carro velho só dá trabalho é papo de quem tem preguiça de viver uma aventura de verdade. O perrengue na estrada vira a melhor história no bar depois.",
+   "quando": "2026-11-05T09:07:08.571223-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18002129604007599",
-  "17986902429115031",
-  "18135566200633442",
-  "17911739343494632",
-  "18114917134816605",
-  "18283273879291215",
   "18096546926555761",
   "17972441262188750",
   "18437979772176273",
@@ -4382,10 +4363,15 @@
   "18113689094333939",
   "18222375514355834",
   "18100287428545318",
-  "18344383951279794"
+  "18344383951279794",
+  "18044818334836223",
+  "18084196046539977",
+  "18149054251568080",
+  "18356387590218973",
+  "18105670661149955",
+  "17933183976417503"
  ],
  "hashes": [
-  "304ad5f946f78247092dece129a207ea",
   "ed5ad2e3f5a6e43cedd727a2e024e90e",
   "4af0b3e6fd3837af21dc957b6d133987",
   "9988adbd9102adddb26695b2fc37e4a2",
@@ -4584,7 +4570,8 @@
   "e657864bfbdd3e389fbe96c9a3f3acba",
   "936c7d446e825f4e90a3fe5be417a196",
   "3dfdf226387675d4672bbc0c406d9165",
-  "402040ba2e4c7300aea9015879529685"
+  "402040ba2e4c7300aea9015879529685",
+  "d8c6d4b862a549500733764a325da00a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4934,7 +4921,8 @@
   "639172332f": 1793833650.1521714,
   "a31c102c39": 1793835454.8069456,
   "875bf2eafc": 1793840853.2072334,
-  "5a9e2b25eb": 1793844494.0635777
+  "5a9e2b25eb": 1793844494.0635777,
+  "9f951d595e": 1793884092.7530274
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4961,40 +4949,16 @@
   "aa42e47543": 1,
   "3b60f55f71": 2,
   "cb398edde8": 1,
-  "0c4113185d": 1
+  "0c4113185d": 1,
+  "966d45bca4": 1,
+  "d92c3c7c29": 1,
+  "01547ad67d": 1,
+  "004065c933": 1,
+  "a5bf4ded82": 1,
+  "d19c791998": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "justo, a ideia era óbvia mesmo mas vale o registro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Verdade, ele deixou marca de ponto negativo kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "aquele professor viciava em marcar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Poxa, que pena não ter tido a aula, mas a lembrança ainda marca, né",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "aixei, imagina a bagunça que devia ser lá dentro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ressalva válida, professora ainda assombra",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "Designer, hein? 🤔 vai desaparecer ou virar algo novo?",
    "p": "neutra",
@@ -5114,6 +5078,36 @@
    "t": "kkkkkkkkk odeier tbm deixa marca profunda",
    "p": "ressalva",
    "r": 3
+  },
+  {
+   "t": "Ótima escolha, Ōkami tem arte linda, agora está na minha lista",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quando enjoa assim é porque a pessoa jogou até a exaustão kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa trilogia inteira merece replay eterno",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Final Fantasy 7 é clássico, zero vezes? kkk já anotei na lista 😅",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esses dois merecem mesmo, a gente joga como se fosse a primeira vez",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse clássico marcou a infância de muita gente mesmo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6495,12 +6489,6 @@
    "compromisso sagrado de"
   ],
   "18146901799608252": [
-   "que lista incrivel",
-   "peso pesado reunido",
-   "esse classico todo",
-   "compromisso anual serio",
-   "que lista de",
-   "super metroid e",
    "campanhas que marcam",
    "essa selecao de",
    "dividir o jogo",
@@ -6514,7 +6502,13 @@
    "verdade fire red",
    "nossa essa lista",
    "esse hades e",
-   "tartarugas ninjas iv"
+   "tartarugas ninjas iv",
+   "otima escolha okami",
+   "quando enjoa assim",
+   "essa trilogia inteira",
+   "final fantasy 7",
+   "esses dois merecem",
+   "esse classico marcou"
   ],
   "18127233625684654": [
    "esse ai marcou",
