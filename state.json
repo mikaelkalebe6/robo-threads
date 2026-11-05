@@ -24,10 +24,11 @@
    "13:41",
    "16:10",
    "16:56",
-   "18:12"
+   "18:12",
+   "19:18"
   ],
   "produtos_feitos": 2,
-  "respostas": 61,
+  "respostas": 62,
   "por_post": {
    "18119319922812758": 2,
    "17968225734230291": 10,
@@ -40,28 +41,10 @@
    "18150633781483522": 5,
    "17944488396382748": 1,
    "18403612900201661": 8,
-   "18038563889848377": 4
+   "18038563889848377": 5
   }
  },
  "posts": [
-  {
-   "id": "18119592832989790",
-   "insp": "d4f824d797",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: existe frase mais mentirosa no mundo corporativo do que aquela mensagem de domingo dizendo que é só uma coisinha rápida",
-   "quando": "2026-10-31T12:07:09.071876-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
-   "metricas": {
-    "views": 283,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-05"
-   }
-  },
   {
    "id": "18106825157572440",
    "insp": "74bdceb463",
@@ -1316,10 +1299,17 @@
    "texto": "SEJAM SINCEROS: quando o parceiro checa seu celular sem avisar, isso é invasão ou preocupação legítima? 🤔",
    "quando": "2026-11-05T18:37:08.301304-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18231170866322932",
+   "insp": "a632d06d14",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: tirar o domingo de manhã pra dar um trato no carro é quase uma terapia.\n\nMas quero ver de que lado vocês estão:\n1. Lavar em casa ouvindo música\n2. Pagar no lava-jato e não ter dor de cabeça\n\nTem dia que a preguiça ganha fácil.",
+   "quando": "2026-11-05T19:37:08.093266-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
-  "17905084152588428",
   "17924709438426451",
   "18134354470633499",
   "18131679751756824",
@@ -4318,10 +4308,10 @@
   "18645025420045254",
   "18070766777786409",
   "18453669484122319",
-  "18159978718463312"
+  "18159978718463312",
+  "18103840073384185"
  ],
  "hashes": [
-  "0b83b2200cab6e3998050fb8bfe61a4b",
   "cd9f58423c6a3a34053b8156870d890d",
   "d6f134af9fd15b38f4df563e16860a6e",
   "b4f6bc752f1585e340766a61615f53f1",
@@ -4520,7 +4510,8 @@
   "903e24488ed2a7c1a35c0b555fc5de5d",
   "eb7cf60d83bfd42188d15ab3e90e3a05",
   "b4497a0474b36d64e9edcf4bb580630a",
-  "2a953a0c762ec5429fcea00b0b29b0a5"
+  "2a953a0c762ec5429fcea00b0b29b0a5",
+  "4103ab1e3e43916655c6da5609f44488"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4875,7 +4866,8 @@
   "69ff1de9c3": 1793896661.0702653,
   "79dfd69787": 1793902044.3623226,
   "4a3ce15183": 1793912894.1850026,
-  "91a0024949": 1793918249.0138323
+  "91a0024949": 1793918249.0138323,
+  "a632d06d14": 1793921891.1655107
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4939,15 +4931,11 @@
   "7bddb4ddde": 1,
   "24f0167c2c": 1,
   "c47b4c0403": 1,
-  "005733d438": 1
+  "005733d438": 1,
+  "5a4f6559c6": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "aí perde a graça da aventura kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "Verdade, perrengue vira história boa no bar",
    "p": "concorda",
@@ -5091,6 +5079,11 @@
   {
    "t": "Verdade, parece até invasão de privacidade, né",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quando a confiança é boa a gente até esquece onde o celular tá guardado",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6579,7 +6572,8 @@
    "transparencia tira o",
    "parece que o",
    "cada casa e",
-   "verdade parece ate"
+   "verdade parece ate",
+   "quando a confianca"
   ]
  },
  "shopee_checada": "2026-11-05|1",
