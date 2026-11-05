@@ -22,15 +22,15 @@
    "10:30"
   ],
   "produtos_feitos": 1,
-  "respostas": 35,
+  "respostas": 37,
   "por_post": {
    "18119319922812758": 1,
    "17968225734230291": 9,
    "18134748025793720": 2,
    "17997443184028868": 1,
-   "18146901799608252": 14,
+   "18146901799608252": 15,
    "17912408370309490": 3,
-   "18235105819323131": 5
+   "18235105819323131": 6
   }
  },
  "posts": [
@@ -1360,8 +1360,6 @@
   }
  ],
  "respondidos": [
-  "18133347658708187",
-  "18104478754984223",
   "18122716063910371",
   "18392961946162978",
   "18115680851320781",
@@ -4359,7 +4357,9 @@
   "17964729261226510",
   "17989001898094419",
   "18343062547259989",
-  "18190387135414728"
+  "18190387135414728",
+  "17981923338131567",
+  "18099714191558650"
  ],
  "hashes": [
   "ed5ad2e3f5a6e43cedd727a2e024e90e",
@@ -4950,20 +4950,12 @@
   "86736699d4": 1,
   "9a574447de": 1,
   "bb9dd276e0": 1,
-  "0d5408599b": 1
+  "0d5408599b": 1,
+  "8572c6dc6a": 1,
+  "5df16a5ed3": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "Ahhh, que ruim então! Cada aula tem seu jeito, né?",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "É isso aí, a galera é a melhor parte kkk 🙏🏼",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "kkkkk essa passagem de geração já virou tradição sua né",
    "p": "concorda",
@@ -5103,6 +5095,16 @@
    "t": "Real, depende do carro e do piloto kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "Carro derretendo e a história pronta para o bar, que perrengue épico kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Nossa, lista épica! Também já repeti vários destes, qual o seu favorito?",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6471,7 +6473,6 @@
    "compromisso sagrado de"
   ],
   "18146901799608252": [
-   "campanhas que marcam",
    "essa selecao de",
    "dividir o jogo",
    "passar por essa",
@@ -6490,7 +6491,8 @@
    "essa trilogia inteira",
    "final fantasy 7",
    "esses dois merecem",
-   "esse classico marcou"
+   "esse classico marcou",
+   "nossa lista epica"
   ],
   "18127233625684654": [
    "esse ai marcou",
@@ -6591,7 +6593,8 @@
    "ai perde a",
    "verdade perrengue vira",
    "confusao classica mas",
-   "real depende do"
+   "real depende do",
+   "carro derretendo e"
   ]
  },
  "shopee_checada": "2026-11-05|1",
