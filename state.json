@@ -18,10 +18,11 @@
    "19:18"
   ],
   "feitos": [
-   "08:52"
+   "08:52",
+   "10:30"
   ],
-  "produtos_feitos": 0,
-  "respostas": 34,
+  "produtos_feitos": 1,
+  "respostas": 35,
   "por_post": {
    "18119319922812758": 1,
    "17968225734230291": 9,
@@ -29,42 +30,10 @@
    "17997443184028868": 1,
    "18146901799608252": 14,
    "17912408370309490": 3,
-   "18235105819323131": 4
+   "18235105819323131": 5
   }
  },
  "posts": [
-  {
-   "id": "18098954417556263",
-   "insp": "prod_58251910469",
-   "link": "",
-   "texto": "Sair com o carro cheio e a bolsa caíndo no banco de trás é dose, né? Descobri esse ganchinho duplo de couro pro encosto de cabeça que resolveu minha vida, agora penduro tudo ali e fica zero bagunça. Olha como funciona 👀",
-   "quando": "2026-10-30T20:37:08.047693-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58251910469",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58251910469",
-    "nome": "Gancho Universal Para Encosto De Cabeça De Assento De Carro-Duplo Couro Premium Cabide De Liga Grande Com Suporte ZEM",
-    "offerLink": "https://s.shopee.com.br/2BG3SD7VMM",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mnlvz7q90pvk5c",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 139,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-05"
-   },
-   "link_coment": "https://s.shopee.com.br/2BG3SD7VMM",
-   "link_em": "2026-10-31T14:37:08.779447-04:00",
-   "link_views": 0
-  },
   {
    "id": "17966728118983535",
    "insp": "da475bd113",
@@ -1368,10 +1337,29 @@
    "texto": "OPINIÃO IMPOPULAR: Essa história de que carro velho só dá trabalho é papo de quem tem preguiça de viver uma aventura de verdade. O perrengue na estrada vira a melhor história no bar depois.",
    "quando": "2026-11-05T09:07:08.571223-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18053721194812738",
+   "insp": "prod_14831203028",
+   "link": "",
+   "texto": "Ficar sem notificação no carro porque o relógio cai da pulseira, né? 😂\nDescobri esse silicone pra smartwatch, encaixa firme e ainda deixa o braço confortável.\nOlha como funciona 👀",
+   "quando": "2026-11-05T10:37:09.866487-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "14831203028",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "14831203028",
+    "nome": "Pulseira de silicone para Smartwatch 44mm 40mm 38mm 42mm cinto de borracha smartwatch pulseira iwatch",
+    "offerLink": "https://s.shopee.com.br/9KjNYjHzgJ",
+    "imageUrl": "https://cf.shopee.com.br/file/b1ed91ed9ff02a3b583b6891da086210",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
-  "18112624924860269",
   "18133347658708187",
   "18104478754984223",
   "18122716063910371",
@@ -4370,7 +4358,8 @@
   "18111744491262986",
   "17964729261226510",
   "17989001898094419",
-  "18343062547259989"
+  "18343062547259989",
+  "18190387135414728"
  ],
  "hashes": [
   "ed5ad2e3f5a6e43cedd727a2e024e90e",
@@ -4960,15 +4949,11 @@
   "4d33e0ed2a": 1,
   "86736699d4": 1,
   "9a574447de": 1,
-  "bb9dd276e0": 1
+  "bb9dd276e0": 1,
+  "0d5408599b": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "essa combinação é perigosa, God Hand já é um desafio só",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Ahhh, que ruim então! Cada aula tem seu jeito, né?",
    "p": "neutra",
@@ -5113,6 +5098,11 @@
    "t": "kkk confusão clássica, mas o perrengue continua a render boas histórias",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "Real, depende do carro e do piloto kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6600,7 +6590,8 @@
    "nossa marea na",
    "ai perde a",
    "verdade perrengue vira",
-   "confusao classica mas"
+   "confusao classica mas",
+   "real depende do"
   ]
  },
  "shopee_checada": "2026-11-05|1",
@@ -6712,7 +6703,7 @@
   "22894551427": "2026-10-28T15:07:09.509518-04:00",
   "58208889792": "2026-10-30T16:37:09.218738-04:00",
   "58211842722": "2026-10-31T07:07:08.775010-04:00",
-  "14831203028": "2026-10-14T09:07:08.365486-04:00",
+  "14831203028": "2026-11-05T10:37:09.866487-04:00",
   "22493432361": "2026-10-29T07:07:08.931399-04:00",
   "19399031891": "2026-10-15T07:07:09.668636-04:00",
   "58209986445": "2026-11-03T13:37:17.191271-04:00",
