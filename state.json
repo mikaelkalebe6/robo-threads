@@ -34,10 +34,11 @@
    "17:57",
    "18:50",
    "19:30",
-   "20:17"
+   "20:17",
+   "20:58"
   ],
   "produtos_feitos": 3,
-  "respostas": 74,
+  "respostas": 78,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
@@ -48,33 +49,10 @@
    "17944488396382748": 7,
    "18130295941794634": 1,
    "18134748025793720": 5,
-   "17968225734230291": 3
+   "17968225734230291": 7
   }
  },
  "posts": [
-  {
-   "id": "18114961616605844",
-   "insp": "a323f41843",
-   "link": "",
-   "texto": "SEM MENTIR: qual foi o maior susto financeiro de vocês no primeiro mês morando sozinhos? Aqui foi descobrir o preço real de produtos de limpeza básicos.",
-   "quando": "2026-10-30T18:07:09.087198-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T09:07:09.121448-04:00",
-   "metricas": {
-    "views": 1102,
-    "likes": 8,
-    "replies": 17,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-04"
-   },
-   "link_coment": "https://s.shopee.com.br/30pC2eUlYX",
-   "meme_comentado": true,
-   "meme_views": 1009,
-   "formato_link": "coment",
-   "produto": "22798000771"
-  },
   {
    "id": "18110964131612577",
    "insp": "35fc27c176",
@@ -1285,13 +1263,17 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mtz77x28chkzfc",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "17912408370309490",
+   "insp": "875bf2eafc",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: depois dos 30, qual parte do corpo foi a primeira a reclamar de verdade? A minha foi a lombar no dia seguinte a qualquer faxina. Qual foi a sua?",
+   "quando": "2026-11-04T21:07:08.825734-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18109992290137582",
-  "18172091362402733",
-  "18126005752850639",
-  "18233410795321480",
   "18105039554244879",
   "18029643740684331",
   "18112111826589401",
@@ -4287,10 +4269,13 @@
   "18097998269134751",
   "18130615211482563",
   "18016753955950514",
-  "18109017038571561"
+  "18109017038571561",
+  "18107284223566005",
+  "18079042211450838",
+  "17952264363055486",
+  "18136576696735065"
  ],
  "hashes": [
-  "93bf9123793e0e90afd81a7df9de24f2",
   "78a27020a9f7dab6104394540f3972c6",
   "304ad5f946f78247092dece129a207ea",
   "ed5ad2e3f5a6e43cedd727a2e024e90e",
@@ -4489,7 +4474,8 @@
   "02462d97910f6af2d24a918a48a787a9",
   "5eb3a2aeb4b1828c1968a2e244eda029",
   "e657864bfbdd3e389fbe96c9a3f3acba",
-  "936c7d446e825f4e90a3fe5be417a196"
+  "936c7d446e825f4e90a3fe5be417a196",
+  "3dfdf226387675d4672bbc0c406d9165"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4837,7 +4823,8 @@
   "83111fe9a4": 1793822857.9849665,
   "db72a20743": 1793830093.6415808,
   "639172332f": 1793833650.1521714,
-  "a31c102c39": 1793835454.8069456
+  "a31c102c39": 1793835454.8069456,
+  "875bf2eafc": 1793840853.2072334
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4914,30 +4901,14 @@
   "f4a514b5cc": 1,
   "3bd1c0a363": 1,
   "01d02e6bf8": 1,
-  "8ee06c5153": 1
+  "8ee06c5153": 1,
+  "efa22d25fc": 1,
+  "c835681436": 1,
+  "1e34805240": 1,
+  "05722c1af6": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "essa sequência de teclas é um teste de memória muscular kkk",
-   "p": "concorda_neutra",
-   "r": 1
-  },
-  {
-   "t": "foi um misto de duvida sincera com a curiosidade do dia",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "começar a conversa no sábado e já engatar namoro é para quem tem sorte e iniciativa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos o objetivo principal da busca fica garantido rápido kkk",
-   "p": "neutra",
-   "r": 1
-  },
   {
    "t": "quem pegou a boiada inteira passou de ano kkk",
    "p": "concorda",
@@ -5066,6 +5037,26 @@
   {
    "t": "duas mensalidades no mesmo mês e o golpe clássico pra começar setembro chorando",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "geografia tem seu valor mas o campo de futebol deixou traumas inesquecíveis",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "receber uma bolada na cara é um trauma que nenhuma redação consegue apagar kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "a perspectiva de quem virou professora mostra o outro lado da quadra",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a de ciencias salvou a passagem por aquela epoca",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6518,7 +6509,11 @@
   "17968225734230291": [
    "parece que a",
    "passou totalmente em",
-   "pelo menos o"
+   "pelo menos o",
+   "geografia tem seu",
+   "receber uma bolada",
+   "a perspectiva de",
+   "pelo menos a"
   ]
  },
  "shopee_checada": "2026-11-04|1",
