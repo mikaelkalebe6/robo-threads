@@ -23,7 +23,7 @@
    "12:22"
   ],
   "produtos_feitos": 1,
-  "respostas": 38,
+  "respostas": 40,
   "por_post": {
    "18119319922812758": 1,
    "17968225734230291": 9,
@@ -31,7 +31,7 @@
    "17997443184028868": 2,
    "18146901799608252": 15,
    "17912408370309490": 3,
-   "18235105819323131": 6
+   "18235105819323131": 8
   }
  },
  "posts": [
@@ -1354,8 +1354,6 @@
   }
  ],
  "respondidos": [
-  "18392961946162978",
-  "18115680851320781",
   "17913269577532048",
   "18112144580325091",
   "17871240366643459",
@@ -4353,7 +4351,9 @@
   "18190387135414728",
   "17981923338131567",
   "18099714191558650",
-  "18046070513832154"
+  "18046070513832154",
+  "17968402698231855",
+  "18121811509913874"
  ],
  "hashes": [
   "4af0b3e6fd3837af21dc957b6d133987",
@@ -4948,20 +4948,12 @@
   "0d5408599b": 1,
   "8572c6dc6a": 1,
   "5df16a5ed3": 1,
-  "1d3106905f": 1
+  "1d3106905f": 1,
+  "364add485b": 1,
+  "b46ba7ea5d": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "Verdade cada matéria tem seu impacto mas a quadra também deixa marca né kkk",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "BB, qual jogo você já zerou mais de uma vez?",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "Shopee? O que tem?",
    "p": "neutra",
@@ -5100,6 +5092,16 @@
   {
    "t": "É pergunta, você está pedindo esclarecimento",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "então vai ter que garantir o guincho também",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Com certeza, cada perrengue vira história boa no bar",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6596,7 +6598,9 @@
    "verdade perrengue vira",
    "confusao classica mas",
    "real depende do",
-   "carro derretendo e"
+   "carro derretendo e",
+   "entao vai ter",
+   "com certeza cada"
   ]
  },
  "shopee_checada": "2026-11-05|1",
