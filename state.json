@@ -21,14 +21,15 @@
    "08:52"
   ],
   "produtos_feitos": 0,
-  "respostas": 30,
+  "respostas": 33,
   "por_post": {
    "18119319922812758": 1,
    "17968225734230291": 9,
    "18134748025793720": 2,
    "17997443184028868": 1,
    "18146901799608252": 14,
-   "17912408370309490": 3
+   "17912408370309490": 3,
+   "18235105819323131": 3
   }
  },
  "posts": [
@@ -1370,9 +1371,6 @@
   }
  ],
  "respondidos": [
-  "18096546926555761",
-  "17972441262188750",
-  "18437979772176273",
   "18138391807713656",
   "18112624924860269",
   "18133347658708187",
@@ -4369,7 +4367,10 @@
   "18149054251568080",
   "18356387590218973",
   "18105670661149955",
-  "17933183976417503"
+  "17933183976417503",
+  "18111744491262986",
+  "17964729261226510",
+  "17989001898094419"
  ],
  "hashes": [
   "ed5ad2e3f5a6e43cedd727a2e024e90e",
@@ -4955,25 +4956,13 @@
   "01547ad67d": 1,
   "004065c933": 1,
   "a5bf4ded82": 1,
-  "d19c791998": 1
+  "d19c791998": 1,
+  "4d33e0ed2a": 1,
+  "86736699d4": 1,
+  "9a574447de": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "Designer, hein? 🤔 vai desaparecer ou virar algo novo?",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "Nossa, deve ter sido bem doloroso 😔",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "kkk adoro esse caçador de sabores, mas no rodízio a música tá livre kkk 😅",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "kkk a escolha sabiamente é justamente o que mais falta quando a gente acha que tudo é o que parece",
    "p": "concorda",
@@ -5106,6 +5095,21 @@
   },
   {
    "t": "esse clássico marcou a infância de muita gente mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Nossa, Marea na estrada! Já imagino a história no bar, conta mais 😂",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "aí perde a graça da aventura kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "Verdade, perrengue vira história boa no bar",
    "p": "concorda",
    "r": 0
   }
@@ -6295,19 +6299,6 @@
   }
  ],
  "aberturas_post": {
-  "17921144301452722": [
-   "sorte de quem",
-   "a teoria e",
-   "carro e um",
-   "outubro ja e",
-   "matematica avancada onde",
-   "nem deu tempo",
-   "queria ter essa",
-   "alguem precisa manter",
-   "antecipou as novidades",
-   "estrategia infalivel para",
-   "verdade guardar 30"
-  ],
   "18120849176091114": [
    "comecar cedo assim",
    "verdade o tempo",
@@ -6603,6 +6594,11 @@
    "boa atendente de",
    "verdade a ia",
    "designer hein vai"
+  ],
+  "18235105819323131": [
+   "nossa marea na",
+   "ai perde a",
+   "verdade perrengue vira"
   ]
  },
  "shopee_checada": "2026-11-05|1",
