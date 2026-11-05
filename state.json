@@ -33,9 +33,10 @@
    "17:03",
    "17:57",
    "18:50",
-   "19:30"
+   "19:30",
+   "20:17"
   ],
-  "produtos_feitos": 2,
+  "produtos_feitos": 3,
   "respostas": 74,
   "por_post": {
    "17870801802641111": 14,
@@ -51,24 +52,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18101789486658584",
-   "insp": "7ef1d6fca0",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: colocar açúcar no café especial deveria ser crime passional.",
-   "quando": "2026-10-30T17:07:09.021132-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
-   "metricas": {
-    "views": 251,
-    "likes": 2,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 1,
-    "shares": 0,
-    "em": "2026-11-04"
-   }
-  },
   {
    "id": "18114961616605844",
    "insp": "a323f41843",
@@ -1282,6 +1265,26 @@
    "texto": "OPINIÃO IMPOPULAR: o professor de educação física da escola marcou muito mais a infância da gente do que qualquer outra matéria.",
    "quando": "2026-11-04T19:37:07.407379-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18141242380544777",
+   "insp": "prod_58208944738",
+   "link": "",
+   "texto": "Lavar o carro e ficar com a sola do tênis toda encharcada é dose, né? Descobri essa sapatilha náutica que vira uma mão na roda para quem vive na correria e pé na água, o pé fica seco rapidinho. Olha como funciona na foto 👀",
+   "quando": "2026-11-04T20:37:09.153675-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "58208944738",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "58208944738",
+    "nome": "Sapatilha Nautica Sola Anti Derrapante Meia Neoprene Tenis Hibrido Meia Praia Canoagem Pesca Rio Jet",
+    "offerLink": "https://s.shopee.com.br/9pfcYlFeQr",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mtz77x28chkzfc",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
@@ -6720,7 +6723,7 @@
   "20999580796": "2026-11-04T08:07:13.070670-04:00",
   "22794532849": "2026-10-21T07:07:11.384114-04:00",
   "58205929037": "2026-10-21T07:07:11.384114-04:00",
-  "58208944738": "2026-10-21T11:07:09.391806-04:00",
+  "58208944738": "2026-11-04T20:37:09.153675-04:00",
   "22993669426": "2026-10-21T13:07:09.415738-04:00",
   "16519154009": "2026-10-21T15:37:08.793619-04:00",
   "22593650256": "2026-10-21T21:37:08.725499-04:00",
