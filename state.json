@@ -27,7 +27,7 @@
    "18:12"
   ],
   "produtos_feitos": 2,
-  "respostas": 57,
+  "respostas": 61,
   "por_post": {
    "18119319922812758": 2,
    "17968225734230291": 10,
@@ -39,7 +39,8 @@
    "17910659949573164": 1,
    "18150633781483522": 5,
    "17944488396382748": 1,
-   "18403612900201661": 8
+   "18403612900201661": 8,
+   "18038563889848377": 4
   }
  },
  "posts": [
@@ -1318,10 +1319,6 @@
   }
  ],
  "respondidos": [
-  "17876466273633028",
-  "18124376032861921",
-  "18122831966489167",
-  "18130956460668256",
   "17905084152588428",
   "17924709438426451",
   "18134354470633499",
@@ -4317,7 +4314,11 @@
   "18601903630068398",
   "17916697329308608",
   "18080316509409857",
-  "18161736292512773"
+  "18161736292512773",
+  "18645025420045254",
+  "18070766777786409",
+  "18453669484122319",
+  "18159978718463312"
  ],
  "hashes": [
   "0b83b2200cab6e3998050fb8bfe61a4b",
@@ -4934,30 +4935,14 @@
   "c8055059b8": 1,
   "82b4644a94": 1,
   "662371acbc": 1,
-  "2a92b8e09b": 1
+  "2a92b8e09b": 1,
+  "7bddb4ddde": 1,
+  "24f0167c2c": 1,
+  "c47b4c0403": 1,
+  "005733d438": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "Final Fantasy 7 é clássico, zero vezes? kkk já anotei na lista 😅",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esses dois merecem mesmo, a gente joga como se fosse a primeira vez",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse clássico marcou a infância de muita gente mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Nossa, Marea na estrada! Já imagino a história no bar, conta mais 😂",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "aí perde a graça da aventura kkk",
    "p": "ressalva",
@@ -5087,6 +5072,26 @@
    "t": "kkk, eu tbm me sinto assim, mas ninguém quer ser vilã da faxina",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "transparência tira o peso da paranoia",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "kkk, parece que o chifre já vem com decoração de fábrica 🤭",
+   "p": "neutra",
+   "r": 2
+  },
+  {
+   "t": "cada casa é um caso e o cotidiano que dita as regras",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, parece até invasão de privacidade, né",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6284,17 +6289,6 @@
   }
  ],
  "aberturas_post": {
-  "18129509551855569": [
-   "essa era forte",
-   "essa e informacao",
-   "regra criada so",
-   "paixao sem nocao",
-   "quem dera ter",
-   "dez anos e",
-   "essa amizade com",
-   "bater a cabeca",
-   "e um alivio"
-  ],
   "18042505940779811": [
    "seu cachorro decidiu",
    "agora o computador",
@@ -6580,6 +6574,12 @@
    "acumula a funcao",
    "verdade mas a",
    "eu tbm me"
+  ],
+  "18038563889848377": [
+   "transparencia tira o",
+   "parece que o",
+   "cada casa e",
+   "verdade parece ate"
   ]
  },
  "shopee_checada": "2026-11-05|1",
