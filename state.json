@@ -38,7 +38,7 @@
    "20:58"
   ],
   "produtos_feitos": 3,
-  "respostas": 78,
+  "respostas": 84,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
@@ -49,7 +49,8 @@
    "17944488396382748": 7,
    "18130295941794634": 1,
    "18134748025793720": 5,
-   "17968225734230291": 7
+   "17968225734230291": 7,
+   "17912408370309490": 6
   }
  },
  "posts": [
@@ -1274,12 +1275,6 @@
   }
  ],
  "respondidos": [
-  "18105039554244879",
-  "18029643740684331",
-  "18112111826589401",
-  "18082603742701543",
-  "18334922176276442",
-  "17988791997061231",
   "18143414608595267",
   "18564094531077499",
   "17983325556335094",
@@ -4273,7 +4268,13 @@
   "18107284223566005",
   "18079042211450838",
   "17952264363055486",
-  "18136576696735065"
+  "18136576696735065",
+  "18181345435433945",
+  "17964936294214330",
+  "18142418419628402",
+  "18118961245812859",
+  "17918558595525459",
+  "17921946636242080"
  ],
  "hashes": [
   "78a27020a9f7dab6104394540f3972c6",
@@ -4905,40 +4906,16 @@
   "efa22d25fc": 1,
   "c835681436": 1,
   "1e34805240": 1,
-  "05722c1af6": 1
+  "05722c1af6": 1,
+  "d1ba386a04": 1,
+  "5deb27250a": 1,
+  "ee3d94c077": 1,
+  "c37f905cdc": 1,
+  "c81e413c95": 1,
+  "f9b4437e46": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "quem pegou a boiada inteira passou de ano kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sou do mundo digital onde tudo pode acontecer",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "campanhas que marcam epoca merecem ser revisitadas mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa seleção de clássicos é daquelas que a gente guarda com carinho na memória",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dividir o jogo em discos diferentes era um compromisso sério com a história",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "multiplicar aniversário por duas escolas diferentes é um boleto que nunca acaba kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "pagar para assistir o proprio filho dançar é um nível de extorsão que a escola domina kkk",
    "p": "concorda",
@@ -5058,6 +5035,36 @@
    "t": "pelo menos a de ciencias salvou a passagem por aquela epoca",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "essa é a única resposta totalmente correta kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "antecipou o boleto da idade com juros e correção",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse aí avisa que o tempo mudou antes mesmo do jornal",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o ciático chega sem avisar e já quer sentar na janelinha kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "parece que vem instalada de fabrica junto com o boleto dos trinta anos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "os joelhos entregam a idade antes de qualquer documento kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6225,28 +6232,6 @@
   }
  ],
  "aberturas_post": {
-  "18090080810678249": [
-   "o pedido de",
-   "autocontrole invejavel para",
-   "medo legitimo perder",
-   "inveja branca dessa",
-   "ideia fixa de",
-   "abracar a bolsa",
-   "nunca passou pelo",
-   "doze minutos e",
-   "no aviao a",
-   "virou apoio oficial",
-   "ir parar na",
-   "virou um ato",
-   "dormir no pe",
-   "com essa paz",
-   "para quem tem",
-   "o pior nem",
-   "sortuda que nunca",
-   "consegue manter a",
-   "investimento alto para",
-   "sorte de quem"
-  ],
   "18115218803125363": [
    "investimento de alto",
    "dois reais na"
@@ -6514,6 +6499,14 @@
    "receber uma bolada",
    "a perspectiva de",
    "pelo menos a"
+  ],
+  "17912408370309490": [
+   "essa e a",
+   "antecipou o boleto",
+   "esse ai avisa",
+   "o ciatico chega",
+   "parece que vem",
+   "os joelhos entregam"
   ]
  },
  "shopee_checada": "2026-11-04|1",
