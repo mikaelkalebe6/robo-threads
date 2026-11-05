@@ -20,10 +20,11 @@
   "feitos": [
    "08:52",
    "10:30",
-   "12:22"
+   "12:22",
+   "13:41"
   ],
   "produtos_feitos": 1,
-  "respostas": 40,
+  "respostas": 41,
   "por_post": {
    "18119319922812758": 1,
    "17968225734230291": 9,
@@ -31,28 +32,11 @@
    "17997443184028868": 2,
    "18146901799608252": 15,
    "17912408370309490": 3,
-   "18235105819323131": 8
+   "18235105819323131": 8,
+   "17910659949573164": 1
   }
  },
  "posts": [
-  {
-   "id": "18059672663796327",
-   "insp": "c73aca2192",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: quem mais já ficou sentado no carro com ele ligado só pra terminar de ouvir a música até o fim",
-   "quando": "2026-10-30T22:07:08.888145-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
-   "metricas": {
-    "views": 703,
-    "likes": 36,
-    "replies": 32,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-05"
-   }
-  },
   {
    "id": "17918328729462329",
    "insp": "7f395074e1",
@@ -1351,10 +1335,17 @@
    "texto": "SEJAM SINCEROS: já vi bolo de unicórnio de 3 m, mas a festa que superou tudo foi um parque temático alugado inteiro. E vocês, qual foi a celebração infantil mais cara que já viram?",
    "quando": "2026-11-05T12:37:09.088496-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18150633781483522",
+   "insp": "79dfd69787",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: quem trabalha com atendimento ao público aguenta cada absurdo que nem sei como o sangue não sobe",
+   "quando": "2026-11-05T14:07:09.112735-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17913269577532048",
   "18112144580325091",
   "17871240366643459",
   "17936545293381345",
@@ -4353,10 +4344,10 @@
   "18099714191558650",
   "18046070513832154",
   "17968402698231855",
-  "18121811509913874"
+  "18121811509913874",
+  "18083347223738799"
  ],
  "hashes": [
-  "4af0b3e6fd3837af21dc957b6d133987",
   "9988adbd9102adddb26695b2fc37e4a2",
   "790f469eeb81418de5552d0c8d9c1c56",
   "0b83b2200cab6e3998050fb8bfe61a4b",
@@ -4555,7 +4546,8 @@
   "3dfdf226387675d4672bbc0c406d9165",
   "402040ba2e4c7300aea9015879529685",
   "d8c6d4b862a549500733764a325da00a",
-  "903e24488ed2a7c1a35c0b555fc5de5d"
+  "903e24488ed2a7c1a35c0b555fc5de5d",
+  "eb7cf60d83bfd42188d15ab3e90e3a05"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4907,7 +4899,8 @@
   "875bf2eafc": 1793840853.2072334,
   "5a9e2b25eb": 1793844494.0635777,
   "9f951d595e": 1793884092.7530274,
-  "69ff1de9c3": 1793896661.0702653
+  "69ff1de9c3": 1793896661.0702653,
+  "79dfd69787": 1793902044.3623226
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4950,15 +4943,11 @@
   "5df16a5ed3": 1,
   "1d3106905f": 1,
   "364add485b": 1,
-  "b46ba7ea5d": 1
+  "b46ba7ea5d": 1,
+  "ce7b2a8d64": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "Shopee? O que tem?",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "fire emblem? kkkk oq, vc joga mald? o pokemon é obvioso 😭",
    "p": "neutra",
@@ -5103,6 +5092,11 @@
    "t": "Com certeza, cada perrengue vira história boa no bar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "Aí, 5 meses? meu coração sente sua dor kkk 😭",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6295,25 +6289,6 @@
   }
  ],
  "aberturas_post": {
-  "18120849176091114": [
-   "comecar cedo assim",
-   "verdade o tempo",
-   "o universo chutando",
-   "trabalho duro sem",
-   "agora ja foi",
-   "essa leveza de",
-   "entendo tambem quero",
-   "divorcio mexe com",
-   "conselho de ouro",
-   "esse ano promete",
-   "dobrar o salario",
-   "pelo menos a",
-   "estatistica pesada essa",
-   "planejar certinho e",
-   "exato essa conta",
-   "tem horas que",
-   "sobre a vontade"
-  ],
   "18110708246187465": [
    "memoria de peixe",
    "sobre quem enrola"
@@ -6601,6 +6576,9 @@
    "carro derretendo e",
    "entao vai ter",
    "com certeza cada"
+  ],
+  "17910659949573164": [
+   "ai 5 meses"
   ]
  },
  "shopee_checada": "2026-11-05|1",
