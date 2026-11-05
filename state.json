@@ -19,7 +19,8 @@
   ],
   "feitos": [
    "08:52",
-   "10:30"
+   "10:30",
+   "12:22"
   ],
   "produtos_feitos": 1,
   "respostas": 38,
@@ -34,24 +35,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17966728118983535",
-   "insp": "da475bd113",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: a gente fala que vai descansar no fim de semana mas passa os dois dias pensando nos e-mails de segunda-feira.",
-   "quando": "2026-10-30T21:07:07.889410-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
-   "metricas": {
-    "views": 261,
-    "likes": 2,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-05"
-   }
-  },
   {
    "id": "18059672663796327",
    "insp": "c73aca2192",
@@ -1360,6 +1343,14 @@
     "imageUrl": "https://cf.shopee.com.br/file/b1ed91ed9ff02a3b583b6891da086210",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "17910659949573164",
+   "insp": "69ff1de9c3",
+   "link": "",
+   "texto": "SEJAM SINCEROS: já vi bolo de unicórnio de 3 m, mas a festa que superou tudo foi um parque temático alugado inteiro. E vocês, qual foi a celebração infantil mais cara que já viram?",
+   "quando": "2026-11-05T12:37:09.088496-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
@@ -4365,7 +4356,6 @@
   "18046070513832154"
  ],
  "hashes": [
-  "ed5ad2e3f5a6e43cedd727a2e024e90e",
   "4af0b3e6fd3837af21dc957b6d133987",
   "9988adbd9102adddb26695b2fc37e4a2",
   "790f469eeb81418de5552d0c8d9c1c56",
@@ -4564,7 +4554,8 @@
   "936c7d446e825f4e90a3fe5be417a196",
   "3dfdf226387675d4672bbc0c406d9165",
   "402040ba2e4c7300aea9015879529685",
-  "d8c6d4b862a549500733764a325da00a"
+  "d8c6d4b862a549500733764a325da00a",
+  "903e24488ed2a7c1a35c0b555fc5de5d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4915,7 +4906,8 @@
   "a31c102c39": 1793835454.8069456,
   "875bf2eafc": 1793840853.2072334,
   "5a9e2b25eb": 1793844494.0635777,
-  "9f951d595e": 1793884092.7530274
+  "9f951d595e": 1793884092.7530274,
+  "69ff1de9c3": 1793896661.0702653
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
