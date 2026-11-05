@@ -26,7 +26,7 @@
    "16:56"
   ],
   "produtos_feitos": 2,
-  "respostas": 47,
+  "respostas": 51,
   "por_post": {
    "18119319922812758": 1,
    "17968225734230291": 9,
@@ -37,7 +37,8 @@
    "18235105819323131": 8,
    "17910659949573164": 1,
    "18150633781483522": 5,
-   "17944488396382748": 1
+   "17944488396382748": 1,
+   "18403612900201661": 4
   }
  },
  "posts": [
@@ -1340,10 +1341,6 @@
   }
  ],
  "respondidos": [
-  "18129415453796746",
-  "17950875483276344",
-  "18138369262625489",
-  "18343603792285160",
   "18114387193827751",
   "18038903555833446",
   "17910342246483117",
@@ -4339,7 +4336,11 @@
   "18010424243780512",
   "18415930996093556",
   "18197027719387728",
-  "17962270506232835"
+  "17962270506232835",
+  "17905151442670362",
+  "18119395640046553",
+  "17904516453370745",
+  "18115470602626762"
  ],
  "hashes": [
   "790f469eeb81418de5552d0c8d9c1c56",
@@ -4945,30 +4946,14 @@
   "d4b5b48f84": 1,
   "e6ae80078f": 1,
   "d929cca95e": 1,
-  "047195bed5": 1
+  "047195bed5": 1,
+  "83945e0c5d": 1,
+  "3fae308a5f": 1,
+  "029d23b6e9": 1,
+  "5927610be2": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "cada um tem sua marca, né? 😊",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa sigla mudou o rumo da minha tarde toda",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "resolveu cobrar o boleto com juros antes do prazo",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse Hades e o teste final de paciência mesmo kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Verdade, a quadra deixa saudade mesmo kkk",
    "p": "concorda",
@@ -5098,6 +5083,26 @@
    "t": "paciência de monge e olhe lá",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "faxineira e patroa no mesmo turno kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo, quem limpa não precisa de ajuda mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "tem que ter muita coragem para admitir isso assim",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "dona Conceição ia precisar de um cursinho avançado pra decifrar certas coisas kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6295,15 +6300,6 @@
   }
  ],
  "aberturas_post": {
-  "18013529159994207": [
-   "cada um cria",
-   "sempre tem um",
-   "filha unica joga",
-   "esse posto ja",
-   "a coroa da",
-   "herdeiro legitimo do",
-   "esse e o"
-  ],
   "18129509551855569": [
    "essa era forte",
    "essa e informacao",
@@ -6589,6 +6585,12 @@
    "subiu tanto que",
    "so quando a",
    "paciencia de monge"
+  ],
+  "18403612900201661": [
+   "faxineira e patroa",
+   "justo quem limpa",
+   "tem que ter",
+   "dona conceicao ia"
   ]
  },
  "shopee_checada": "2026-11-05|1",
