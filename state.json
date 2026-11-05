@@ -23,12 +23,13 @@
    "12:22",
    "13:41",
    "16:10",
-   "16:56"
+   "16:56",
+   "18:12"
   ],
   "produtos_feitos": 2,
-  "respostas": 55,
+  "respostas": 57,
   "por_post": {
-   "18119319922812758": 1,
+   "18119319922812758": 2,
    "17968225734230291": 10,
    "18134748025793720": 2,
    "17997443184028868": 2,
@@ -38,42 +39,10 @@
    "17910659949573164": 1,
    "18150633781483522": 5,
    "17944488396382748": 1,
-   "18403612900201661": 7
+   "18403612900201661": 8
   }
  },
  "posts": [
-  {
-   "id": "18103784876381712",
-   "insp": "prod_18599882228",
-   "link": "",
-   "texto": "Sempre que alguém senta atrás no carro e reclama que a bolsa fica no chão é um sufoco, né? 😂 Descobri esse gancho duplo que prende no encosto de cabeça e resolveu minha vida, agora penduro tudo ali e o carro fica arrumadinho. Olha como funciona 👀",
-   "quando": "2026-10-31T11:37:07.840633-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "18599882228",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "18599882228",
-    "nome": "Gancho Universal Para Encosto De Cabeça De Assento De Carro-Duplo Couro Premium , Cabide De Liga Grande Com Suporte",
-    "offerLink": "https://s.shopee.com.br/3qOJ2BWkbB",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824iw-mep6hejrt3wm4d",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 167,
-    "likes": 1,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-05"
-   },
-   "link_coment": "https://s.shopee.com.br/3qOJ2BWkbB",
-   "link_em": "2026-11-01T07:07:08.994390-04:00",
-   "link_views": 0
-  },
   {
    "id": "18119592832989790",
    "insp": "d4f824d797",
@@ -1338,11 +1307,17 @@
    "texto": "SEJAM SINCEROS: vocês também dão aquela geral na casa só para a faxineira não achar que vocês são bagunceiros?",
    "quando": "2026-11-05T17:07:09.231768-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18038563889848377",
+   "insp": "91a0024949",
+   "link": "",
+   "texto": "SEJAM SINCEROS: quando o parceiro checa seu celular sem avisar, isso é invasão ou preocupação legítima? 🤔",
+   "quando": "2026-11-05T18:37:08.301304-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
-  "17894728437655565",
-  "18122375201304535",
   "17876466273633028",
   "18124376032861921",
   "18122831966489167",
@@ -4340,10 +4315,11 @@
   "17887450032690016",
   "17876247453638446",
   "18601903630068398",
-  "17916697329308608"
+  "17916697329308608",
+  "18080316509409857",
+  "18161736292512773"
  ],
  "hashes": [
-  "790f469eeb81418de5552d0c8d9c1c56",
   "0b83b2200cab6e3998050fb8bfe61a4b",
   "cd9f58423c6a3a34053b8156870d890d",
   "d6f134af9fd15b38f4df563e16860a6e",
@@ -4542,7 +4518,8 @@
   "d8c6d4b862a549500733764a325da00a",
   "903e24488ed2a7c1a35c0b555fc5de5d",
   "eb7cf60d83bfd42188d15ab3e90e3a05",
-  "b4497a0474b36d64e9edcf4bb580630a"
+  "b4497a0474b36d64e9edcf4bb580630a",
+  "2a953a0c762ec5429fcea00b0b29b0a5"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4896,7 +4873,8 @@
   "9f951d595e": 1793884092.7530274,
   "69ff1de9c3": 1793896661.0702653,
   "79dfd69787": 1793902044.3623226,
-  "4a3ce15183": 1793912894.1850026
+  "4a3ce15183": 1793912894.1850026,
+  "91a0024949": 1793918249.0138323
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4954,20 +4932,12 @@
   "5340e05032": 1,
   "0409909721": 1,
   "c8055059b8": 1,
-  "82b4644a94": 1
+  "82b4644a94": 1,
+  "662371acbc": 1,
+  "2a92b8e09b": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "quando enjoa assim é porque a pessoa jogou até a exaustão kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa trilogia inteira merece replay eterno",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Final Fantasy 7 é clássico, zero vezes? kkk já anotei na lista 😅",
    "p": "concorda",
@@ -5107,6 +5077,16 @@
    "t": "parece que a grade curricular inteira resolveu deixar lembrança",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "Nossa, parece filme de sci‑fi, kkk, já tô vendo a IA pedindo aumento 😂",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkk, eu tbm me sinto assim, mas ninguém quer ser vilã da faxina",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6568,7 +6548,8 @@
   "18119319922812758": [
    "boa atendente de",
    "verdade a ia",
-   "designer hein vai"
+   "designer hein vai",
+   "nossa parece filme"
   ],
   "18235105819323131": [
    "nossa marea na",
@@ -6597,7 +6578,8 @@
    "dona conceicao ia",
    "economia dupla mas",
    "acumula a funcao",
-   "verdade mas a"
+   "verdade mas a",
+   "eu tbm me"
   ]
  },
  "shopee_checada": "2026-11-05|1",
