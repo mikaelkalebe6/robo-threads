@@ -19,13 +19,14 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 18,
   "por_post": {
    "18119319922812758": 1,
-   "17968225734230291": 4,
+   "17968225734230291": 7,
    "18134748025793720": 2,
    "17997443184028868": 1,
-   "18146901799608252": 4
+   "18146901799608252": 6,
+   "17912408370309490": 1
   }
  },
  "posts": [
@@ -1382,12 +1383,6 @@
   }
  ],
  "respondidos": [
-  "18097334099096845",
-  "18105047255098152",
-  "18028689854911870",
-  "18262550347307387",
-  "18121119121934417",
-  "18414570235084050",
   "18038576729835689",
   "18080982323365225",
   "18383798407225010",
@@ -4381,7 +4376,13 @@
   "18117717304817219",
   "17947659372359222",
   "18154654654528187",
-  "18286485580289093"
+  "18286485580289093",
+  "18440293240195596",
+  "18050811608819416",
+  "18110595950188996",
+  "17885590020686436",
+  "18155567818555192",
+  "17997584802028544"
  ],
  "hashes": [
   "304ad5f946f78247092dece129a207ea",
@@ -4949,40 +4950,16 @@
   "f2f7e9b563": 1,
   "993f354bad": 1,
   "238b9b3b18": 1,
-  "ef7373180a": 1
+  "ef7373180a": 1,
+  "819f35bb16": 1,
+  "d4d44b68f6": 1,
+  "0a5ba4194a": 1,
+  "3b1e514f39": 1,
+  "9ca32a7fbd": 1,
+  "268081cc41": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "agora preciso achar tempo e vontade para esse fortalecimento kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Boa, atendente de lanchonete pode virar história quando a tecnologia avançar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa parte compensa qualquer loucura na cozinha",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "a bola foi pro canto sim kkk",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "meu chegou na lombar antes de qualquer aviso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Que linda memória! Deve ter sido mágico acompanhar o ballet na escola",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "kk, joelho também pode ser travesso, hein? me conta mais dessa graça",
    "p": "concorda",
@@ -5102,6 +5079,36 @@
    "t": "fire emblem? kkkk oq, vc joga mald? o pokemon é obvioso 😭",
    "p": "neutra",
    "r": 1
+  },
+  {
+   "t": "Parece que o corpo já tinha a conta aberta antes dos trinta kkk 😅",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kk a professora que dá voadora? 😂",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkk verdade, Fire Red dá vontade de zerar mil vezes",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "que coisa mais triste, a escola inteira deve ter ficado abalada",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "nossa, essa lista prova que vc tem paciência de ferro (ou teimosia gamer kkkk)",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "cada um tem sua marca, né? 😊",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6483,8 +6490,6 @@
    "compromisso sagrado de"
   ],
   "18146901799608252": [
-   "quem entra nesse",
-   "esse primeiro entrou",
    "quinhentas horas em",
    "halo 3 e",
    "que lista incrivel",
@@ -6502,7 +6507,9 @@
    "essa combinacao e",
    "essa passagem de",
    "bb qual jogo",
-   "fire emblem oq"
+   "fire emblem oq",
+   "verdade fire red",
+   "nossa essa lista"
   ],
   "18127233625684654": [
    "esse ai marcou",
@@ -6553,9 +6560,6 @@
    "e isso ai"
   ],
   "17968225734230291": [
-   "pelo menos o",
-   "geografia tem seu",
-   "receber uma bolada",
    "a perspectiva de",
    "pelo menos a",
    "a choradeira comecou",
@@ -6572,7 +6576,10 @@
    "nossa deve ter",
    "ahhh que ruim",
    "verdade cada materia",
-   "shopee o que"
+   "shopee o que",
+   "a professora que",
+   "que coisa mais",
+   "cada um tem"
   ],
   "17912408370309490": [
    "essa e a",
@@ -6588,7 +6595,8 @@
    "meu chegou na",
    "joelho tambem pode",
    "com vinte e",
-   "joelho tambem entrou"
+   "joelho tambem entrou",
+   "parece que o"
   ],
   "18119319922812758": [
    "boa atendente de",
