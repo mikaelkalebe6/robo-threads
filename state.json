@@ -21,7 +21,7 @@
    "08:52"
   ],
   "produtos_feitos": 0,
-  "respostas": 33,
+  "respostas": 34,
   "por_post": {
    "18119319922812758": 1,
    "17968225734230291": 9,
@@ -29,7 +29,7 @@
    "17997443184028868": 1,
    "18146901799608252": 14,
    "17912408370309490": 3,
-   "18235105819323131": 3
+   "18235105819323131": 4
   }
  },
  "posts": [
@@ -1371,7 +1371,6 @@
   }
  ],
  "respondidos": [
-  "18138391807713656",
   "18112624924860269",
   "18133347658708187",
   "18104478754984223",
@@ -4370,7 +4369,8 @@
   "17933183976417503",
   "18111744491262986",
   "17964729261226510",
-  "17989001898094419"
+  "17989001898094419",
+  "18343062547259989"
  ],
  "hashes": [
   "ed5ad2e3f5a6e43cedd727a2e024e90e",
@@ -4959,15 +4959,11 @@
   "d19c791998": 1,
   "4d33e0ed2a": 1,
   "86736699d4": 1,
-  "9a574447de": 1
+  "9a574447de": 1,
+  "bb9dd276e0": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "kkk a escolha sabiamente é justamente o que mais falta quando a gente acha que tudo é o que parece",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa combinação é perigosa, God Hand já é um desafio só",
    "p": "concorda",
@@ -5112,6 +5108,11 @@
    "t": "Verdade, perrengue vira história boa no bar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "kkk confusão clássica, mas o perrengue continua a render boas histórias",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6598,7 +6599,8 @@
   "18235105819323131": [
    "nossa marea na",
    "ai perde a",
-   "verdade perrengue vira"
+   "verdade perrengue vira",
+   "confusao classica mas"
   ]
  },
  "shopee_checada": "2026-11-05|1",
