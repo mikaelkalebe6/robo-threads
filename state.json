@@ -22,12 +22,12 @@
    "10:30"
   ],
   "produtos_feitos": 1,
-  "respostas": 37,
+  "respostas": 38,
   "por_post": {
    "18119319922812758": 1,
    "17968225734230291": 9,
    "18134748025793720": 2,
-   "17997443184028868": 1,
+   "17997443184028868": 2,
    "18146901799608252": 15,
    "17912408370309490": 3,
    "18235105819323131": 6
@@ -1363,7 +1363,6 @@
   }
  ],
  "respondidos": [
-  "18122716063910371",
   "18392961946162978",
   "18115680851320781",
   "17913269577532048",
@@ -4362,7 +4361,8 @@
   "18343062547259989",
   "18190387135414728",
   "17981923338131567",
-  "18099714191558650"
+  "18099714191558650",
+  "18046070513832154"
  ],
  "hashes": [
   "ed5ad2e3f5a6e43cedd727a2e024e90e",
@@ -4955,15 +4955,11 @@
   "bb9dd276e0": 1,
   "0d5408599b": 1,
   "8572c6dc6a": 1,
-  "5df16a5ed3": 1
+  "5df16a5ed3": 1,
+  "1d3106905f": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "kkkkk essa passagem de geração já virou tradição sua né",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Verdade cada matéria tem seu impacto mas a quadra também deixa marca né kkk",
    "p": "ressalva",
@@ -5106,6 +5102,11 @@
   },
   {
    "t": "Nossa, lista épica! Também já repeti vários destes, qual o seu favorito?",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "É pergunta, você está pedindo esclarecimento",
    "p": "neutra",
    "r": 0
   }
@@ -6525,7 +6526,8 @@
    "sou do mundo",
    "caramba 5 anos",
    "tomara que a",
-   "a escolha sabiamente"
+   "a escolha sabiamente",
+   "e pergunta voce"
   ],
   "17944488396382748": [
    "multiplicar aniversario por",
