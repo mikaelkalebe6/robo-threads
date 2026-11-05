@@ -22,7 +22,8 @@
    "10:30",
    "12:22",
    "13:41",
-   "16:10"
+   "16:10",
+   "16:56"
   ],
   "produtos_feitos": 2,
   "respostas": 47,
@@ -40,24 +41,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18000103242043456",
-   "insp": "642c97cc3a",
-   "link": "",
-   "texto": "SEJAM SINCEROS: qual é aquela conta que chega todo mês e parece que dói mais no bolso do que todas as outras?",
-   "quando": "2026-10-31T09:07:09.121448-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:07:09.071876-04:00",
-   "metricas": {
-    "views": 1565,
-    "likes": 9,
-    "replies": 27,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-05"
-   }
-  },
   {
    "id": "18103784876381712",
    "insp": "prod_18599882228",
@@ -1346,6 +1329,14 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mrfwoqn3rqx273",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "18403612900201661",
+   "insp": "4a3ce15183",
+   "link": "",
+   "texto": "SEJAM SINCEROS: vocês também dão aquela geral na casa só para a faxineira não achar que vocês são bagunceiros?",
+   "quando": "2026-11-05T17:07:09.231768-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4351,7 +4342,6 @@
   "17962270506232835"
  ],
  "hashes": [
-  "9988adbd9102adddb26695b2fc37e4a2",
   "790f469eeb81418de5552d0c8d9c1c56",
   "0b83b2200cab6e3998050fb8bfe61a4b",
   "cd9f58423c6a3a34053b8156870d890d",
@@ -4550,7 +4540,8 @@
   "402040ba2e4c7300aea9015879529685",
   "d8c6d4b862a549500733764a325da00a",
   "903e24488ed2a7c1a35c0b555fc5de5d",
-  "eb7cf60d83bfd42188d15ab3e90e3a05"
+  "eb7cf60d83bfd42188d15ab3e90e3a05",
+  "b4497a0474b36d64e9edcf4bb580630a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4903,7 +4894,8 @@
   "5a9e2b25eb": 1793844494.0635777,
   "9f951d595e": 1793884092.7530274,
   "69ff1de9c3": 1793896661.0702653,
-  "79dfd69787": 1793902044.3623226
+  "79dfd69787": 1793902044.3623226,
+  "4a3ce15183": 1793912894.1850026
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
