@@ -36,7 +36,7 @@
    "19:30"
   ],
   "produtos_feitos": 2,
-  "respostas": 70,
+  "respostas": 74,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
@@ -44,9 +44,10 @@
    "18146901799608252": 17,
    "18127233625684654": 9,
    "17997443184028868": 11,
-   "17944488396382748": 6,
+   "17944488396382748": 7,
    "18130295941794634": 1,
-   "18134748025793720": 5
+   "18134748025793720": 5,
+   "17968225734230291": 3
   }
  },
  "posts": [
@@ -1284,10 +1285,6 @@
   }
  ],
  "respondidos": [
-  "18196736131391620",
-  "18122711359923668",
-  "18420100393153618",
-  "18428472760198297",
   "18109992290137582",
   "18172091362402733",
   "18126005752850639",
@@ -4283,7 +4280,11 @@
   "18412166074095551",
   "18119559998280893",
   "18223071661346653",
-  "18120882688771209"
+  "18120882688771209",
+  "18097998269134751",
+  "18130615211482563",
+  "18016753955950514",
+  "18109017038571561"
  ],
  "hashes": [
   "93bf9123793e0e90afd81a7df9de24f2",
@@ -4906,30 +4907,14 @@
   "9e55722230": 1,
   "06882256a0": 1,
   "a116866780": 1,
-  "e75905d090": 1
+  "e75905d090": 1,
+  "f4a514b5cc": 1,
+  "3bd1c0a363": 1,
+  "01d02e6bf8": 1,
+  "8ee06c5153": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "se durou tudo isso é porque o método tem seus méritos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Concordo, escolher bem é meio caminho, mas ainda tem quem se perca kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "não responde e ainda fica com a pulga atrás da orelha",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "não lembrar de nada talvez seja o único superpoder que sobra nesse caos todo",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa sequência de teclas é um teste de memória muscular kkk",
    "p": "concorda_neutra",
@@ -5057,6 +5042,26 @@
   },
   {
    "t": "cobrar esse valor em tecido que dura um ano é teste de paciência",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece que a campanha foi forte e a geografia marcou territorio",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "passou totalmente em branco por aí",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "pelo menos o basquete salvava a aula",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "duas mensalidades no mesmo mês e o golpe clássico pra começar setembro chorando",
    "p": "concorda",
    "r": 0
   }
@@ -6226,9 +6231,6 @@
   }
  ],
  "aberturas_post": {
-  "18135924433780729": [
-   "o arrependimento so"
-  ],
   "18090080810678249": [
    "o pedido de",
    "autocontrole invejavel para",
@@ -6497,7 +6499,8 @@
    "farmacia virou parada",
    "essa foto superfaturada",
    "a mensalidade e",
-   "cobrar esse valor"
+   "cobrar esse valor",
+   "duas mensalidades no"
   ],
   "18130295941794634": [
    "quem ja tem"
@@ -6508,6 +6511,11 @@
    "exato paz de",
    "esse bastidor da",
    "o pe na"
+  ],
+  "17968225734230291": [
+   "parece que a",
+   "passou totalmente em",
+   "pelo menos o"
   ]
  },
  "shopee_checada": "2026-11-04|1",
