@@ -26,10 +26,10 @@
    "16:56"
   ],
   "produtos_feitos": 2,
-  "respostas": 51,
+  "respostas": 55,
   "por_post": {
    "18119319922812758": 1,
-   "17968225734230291": 9,
+   "17968225734230291": 10,
    "18134748025793720": 2,
    "17997443184028868": 2,
    "18146901799608252": 15,
@@ -38,7 +38,7 @@
    "17910659949573164": 1,
    "18150633781483522": 5,
    "17944488396382748": 1,
-   "18403612900201661": 4
+   "18403612900201661": 7
   }
  },
  "posts": [
@@ -1341,10 +1341,6 @@
   }
  ],
  "respondidos": [
-  "18114387193827751",
-  "18038903555833446",
-  "17910342246483117",
-  "17969270775177773",
   "17894728437655565",
   "18122375201304535",
   "17876466273633028",
@@ -4340,7 +4336,11 @@
   "17905151442670362",
   "18119395640046553",
   "17904516453370745",
-  "18115470602626762"
+  "18115470602626762",
+  "17887450032690016",
+  "17876247453638446",
+  "18601903630068398",
+  "17916697329308608"
  ],
  "hashes": [
   "790f469eeb81418de5552d0c8d9c1c56",
@@ -4950,30 +4950,14 @@
   "83945e0c5d": 1,
   "3fae308a5f": 1,
   "029d23b6e9": 1,
-  "5927610be2": 1
+  "5927610be2": 1,
+  "5340e05032": 1,
+  "0409909721": 1,
+  "c8055059b8": 1,
+  "82b4644a94": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, a quadra deixa saudade mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Tartarugas ninjas IV e Street Fighter II são clássicos que dão vontade de zerar outra",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkk odeier tbm deixa marca profunda",
-   "p": "ressalva",
-   "r": 3
-  },
-  {
-   "t": "Ótima escolha, Ōkami tem arte linda, agora está na minha lista",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "quando enjoa assim é porque a pessoa jogou até a exaustão kkkk",
    "p": "concorda",
@@ -5103,6 +5087,26 @@
    "t": "dona Conceição ia precisar de um cursinho avançado pra decifrar certas coisas kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "economia dupla mas a faxina continua pesada kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "acumula a função de patroa e funcionária no mesmo boleto kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "verdade, mas a culpa bate igual quando a pilha de roupa acumulada aparece",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece que a grade curricular inteira resolveu deixar lembrança",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6521,7 +6525,6 @@
    "e isso ai"
   ],
   "17968225734230291": [
-   "a choradeira comecou",
    "historia e geografia",
    "a bola foi",
    "que linda memoria",
@@ -6540,7 +6543,8 @@
    "que coisa mais",
    "cada um tem",
    "verdade a quadra",
-   "odeier tbm deixa"
+   "odeier tbm deixa",
+   "parece que a"
   ],
   "17912408370309490": [
    "essa e a",
@@ -6590,7 +6594,10 @@
    "faxineira e patroa",
    "justo quem limpa",
    "tem que ter",
-   "dona conceicao ia"
+   "dona conceicao ia",
+   "economia dupla mas",
+   "acumula a funcao",
+   "verdade mas a"
   ]
  },
  "shopee_checada": "2026-11-05|1",
