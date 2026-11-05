@@ -35,10 +35,11 @@
    "18:50",
    "19:30",
    "20:17",
-   "20:58"
+   "20:58",
+   "21:38"
   ],
   "produtos_feitos": 3,
-  "respostas": 84,
+  "respostas": 90,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
@@ -49,29 +50,11 @@
    "17944488396382748": 7,
    "18130295941794634": 1,
    "18134748025793720": 5,
-   "17968225734230291": 7,
-   "17912408370309490": 6
+   "17968225734230291": 9,
+   "17912408370309490": 10
   }
  },
  "posts": [
-  {
-   "id": "18110964131612577",
-   "insp": "35fc27c176",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: dar mesada para criança ajuda a educar financeiramente ou só cria criança mal acostumada?",
-   "quando": "2026-10-30T18:37:09.390341-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
-   "metricas": {
-    "views": 242,
-    "likes": 3,
-    "replies": 14,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-04"
-   }
-  },
   {
    "id": "18036187742666195",
    "insp": "7ba592d22e",
@@ -1272,15 +1255,17 @@
    "texto": "DÚVIDA SINCERA: depois dos 30, qual parte do corpo foi a primeira a reclamar de verdade? A minha foi a lombar no dia seguinte a qualquer faxina. Qual foi a sua?",
    "quando": "2026-11-04T21:07:08.825734-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18119319922812758",
+   "insp": "5a9e2b25eb",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual profissão vocês acham que vai sumir de vez nos próximos dez anos? Fico pensando nisso toda vez que vejo o quanto as coisas mudam rápido no trabalho.",
+   "quando": "2026-11-04T22:07:09.022494-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18143414608595267",
-  "18564094531077499",
-  "17983325556335094",
-  "17895342045674543",
-  "17993363640013489",
-  "18117091786993692",
   "18151708075534491",
   "17903060358596171",
   "18124853632705073",
@@ -4274,10 +4259,15 @@
   "18142418419628402",
   "18118961245812859",
   "17918558595525459",
-  "17921946636242080"
+  "17921946636242080",
+  "18061644071550777",
+  "18029759348696360",
+  "17997028613868113",
+  "18099089468115930",
+  "17935926750144373",
+  "18118187266825944"
  ],
  "hashes": [
-  "78a27020a9f7dab6104394540f3972c6",
   "304ad5f946f78247092dece129a207ea",
   "ed5ad2e3f5a6e43cedd727a2e024e90e",
   "4af0b3e6fd3837af21dc957b6d133987",
@@ -4476,7 +4466,8 @@
   "5eb3a2aeb4b1828c1968a2e244eda029",
   "e657864bfbdd3e389fbe96c9a3f3acba",
   "936c7d446e825f4e90a3fe5be417a196",
-  "3dfdf226387675d4672bbc0c406d9165"
+  "3dfdf226387675d4672bbc0c406d9165",
+  "402040ba2e4c7300aea9015879529685"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4825,7 +4816,8 @@
   "db72a20743": 1793830093.6415808,
   "639172332f": 1793833650.1521714,
   "a31c102c39": 1793835454.8069456,
-  "875bf2eafc": 1793840853.2072334
+  "875bf2eafc": 1793840853.2072334,
+  "5a9e2b25eb": 1793844494.0635777
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4912,40 +4904,16 @@
   "ee3d94c077": 1,
   "c37f905cdc": 1,
   "c81e413c95": 1,
-  "f9b4437e46": 1
+  "f9b4437e46": 1,
+  "69f52ff09f": 1,
+  "3096dcd83c": 1,
+  "938dc8801c": 1,
+  "e4231c7f32": 1,
+  "b6afbea5f3": 1,
+  "09b99ac4b4": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "pagar para assistir o proprio filho dançar é um nível de extorsão que a escola domina kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quem já tem sabe que salva em qualquer aperto kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "farmacia virou parada obrigatoria junto com o material escolar kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "essa foto superfaturada sem compromisso é o golpe mais bem sucedido da história",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "passar por essa fase de carros modificados marcou época",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse aí exige coragem e paciência em dobro pra zerar de novo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "a mensalidade é só o boleto de entrada para um carnê infinito de taxas",
    "p": "concorda",
@@ -5063,6 +5031,36 @@
   },
   {
    "t": "os joelhos entregam a idade antes de qualquer documento kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "antecipou a fatura da idade com juros absurdos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse caminho inteiro resolveu cobrar taxa de manutencao de uma vez só",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkkkkkkkkkk a choradeira começou cedo por lá",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "começou a cobrar manutenção muito antes do prazo de garantia",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "história e geografia deixaram base forte mesmo longe da quadra",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "agora preciso achar tempo e vontade para esse fortalecimento kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6498,7 +6496,9 @@
    "geografia tem seu",
    "receber uma bolada",
    "a perspectiva de",
-   "pelo menos a"
+   "pelo menos a",
+   "a choradeira comecou",
+   "historia e geografia"
   ],
   "17912408370309490": [
    "essa e a",
@@ -6506,7 +6506,11 @@
    "esse ai avisa",
    "o ciatico chega",
    "parece que vem",
-   "os joelhos entregam"
+   "os joelhos entregam",
+   "antecipou a fatura",
+   "esse caminho inteiro",
+   "comecou a cobrar",
+   "agora preciso achar"
   ]
  },
  "shopee_checada": "2026-11-04|1",
