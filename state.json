@@ -39,7 +39,7 @@
    "21:38"
   ],
   "produtos_feitos": 3,
-  "respostas": 96,
+  "respostas": 101,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
@@ -49,10 +49,10 @@
    "17997443184028868": 11,
    "17944488396382748": 7,
    "18130295941794634": 1,
-   "18134748025793720": 6,
-   "17968225734230291": 11,
-   "17912408370309490": 12,
-   "18119319922812758": 1
+   "18134748025793720": 7,
+   "17968225734230291": 12,
+   "17912408370309490": 14,
+   "18119319922812758": 2
   }
  },
  "posts": [
@@ -1267,11 +1267,6 @@
   }
  ],
  "respondidos": [
-  "18118125916950210",
-  "18134875159734668",
-  "18115806671072240",
-  "18074263646765439",
-  "18343030069252460",
   "18125807189511585",
   "18122642905913752",
   "18133726930658174",
@@ -4266,7 +4261,12 @@
   "17956374327036405",
   "17879958849562079",
   "18105491117634420",
-  "18057439736581965"
+  "18057439736581965",
+  "18105978428289331",
+  "18140669371652880",
+  "18185809309425833",
+  "18213684034365973",
+  "18110614136159738"
  ],
  "hashes": [
   "304ad5f946f78247092dece129a207ea",
@@ -4917,35 +4917,15 @@
   "63a2768dbf": 1,
   "44203bfe72": 1,
   "ccd2212bc2": 1,
-  "8ca1f79f0b": 1
+  "8ca1f79f0b": 1,
+  "bbe089b755": 1,
+  "4a62e9e759": 1,
+  "5fdf9dcd1c": 1,
+  "039a03bb21": 1,
+  "f2a5a9f9ae": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "esse bastidor da carne e do reaproveitamento estraga qualquer apetite kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "oito vezes é teste de fidelidade com o cartucho kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o pé na cadeira é o verdadeiro pré-requisito pro domingo dar certo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cobrar esse valor em tecido que dura um ano é teste de paciência",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parece que a campanha foi forte e a geografia marcou territorio",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "passou totalmente em branco por aí",
    "p": "neutra",
@@ -5068,6 +5048,31 @@
   },
   {
    "t": "kk, joelho também pode ser travesso, hein? me conta mais dessa graça",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "verdade, a IA tá ocupando muito espaço nesse mercado mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "rodízio que desafia o estabelecimento tem seu valor kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "nem todo mundo dava sorte com os professores mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "com vinte e oito anos o corpo já resolveu cobrar juros abusivos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Joelho também entrou na lista de culpados, agora me lembra de alongar kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6491,7 +6496,8 @@
    "exato paz de",
    "esse bastidor da",
    "o pe na",
-   "essa parte compensa"
+   "essa parte compensa",
+   "rodizio que desafia"
   ],
   "17968225734230291": [
    "parece que a",
@@ -6504,7 +6510,8 @@
    "a choradeira comecou",
    "historia e geografia",
    "a bola foi",
-   "que linda memoria"
+   "que linda memoria",
+   "nem todo mundo"
   ],
   "17912408370309490": [
    "essa e a",
@@ -6518,10 +6525,13 @@
    "comecou a cobrar",
    "agora preciso achar",
    "meu chegou na",
-   "joelho tambem pode"
+   "joelho tambem pode",
+   "com vinte e",
+   "joelho tambem entrou"
   ],
   "18119319922812758": [
-   "boa atendente de"
+   "boa atendente de",
+   "verdade a ia"
   ]
  },
  "shopee_checada": "2026-11-04|1",
