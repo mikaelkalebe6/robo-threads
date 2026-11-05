@@ -24,7 +24,7 @@
    "13:41"
   ],
   "produtos_feitos": 1,
-  "respostas": 41,
+  "respostas": 44,
   "por_post": {
    "18119319922812758": 1,
    "17968225734230291": 9,
@@ -33,7 +33,8 @@
    "18146901799608252": 15,
    "17912408370309490": 3,
    "18235105819323131": 8,
-   "17910659949573164": 1
+   "17910659949573164": 1,
+   "18150633781483522": 3
   }
  },
  "posts": [
@@ -1346,9 +1347,6 @@
   }
  ],
  "respondidos": [
-  "18112144580325091",
-  "17871240366643459",
-  "17936545293381345",
   "18156496267512369",
   "18118484570469917",
   "18117642383285017",
@@ -4345,7 +4343,10 @@
   "18046070513832154",
   "17968402698231855",
   "18121811509913874",
-  "18083347223738799"
+  "18083347223738799",
+  "17876758929636360",
+  "18130988401843141",
+  "18010424243780512"
  ],
  "hashes": [
   "9988adbd9102adddb26695b2fc37e4a2",
@@ -4944,25 +4945,13 @@
   "1d3106905f": 1,
   "364add485b": 1,
   "b46ba7ea5d": 1,
-  "ce7b2a8d64": 1
+  "ce7b2a8d64": 1,
+  "3a4f6eb0bb": 1,
+  "d68b3911da": 1,
+  "d4b5b48f84": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "fire emblem? kkkk oq, vc joga mald? o pokemon é obvioso 😭",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "Parece que o corpo já tinha a conta aberta antes dos trinta kkk 😅",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "kk a professora que dá voadora? 😂",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "kkk verdade, Fire Red dá vontade de zerar mil vezes",
    "p": "concorda",
@@ -5095,6 +5084,21 @@
   },
   {
    "t": "Aí, 5 meses? meu coração sente sua dor kkk 😭",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Verdade, um psicólogo já seria o melhor salário extra kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "medicação pesada ou muita paciência de santo kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "subiu tanto que perdeu até o rumo kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6289,10 +6293,6 @@
   }
  ],
  "aberturas_post": {
-  "18110708246187465": [
-   "memoria de peixe",
-   "sobre quem enrola"
-  ],
   "18013529159994207": [
    "cada um cria",
    "sempre tem um",
@@ -6579,6 +6579,11 @@
   ],
   "17910659949573164": [
    "ai 5 meses"
+  ],
+  "18150633781483522": [
+   "verdade um psicologo",
+   "medicacao pesada ou",
+   "subiu tanto que"
   ]
  },
  "shopee_checada": "2026-11-05|1",
