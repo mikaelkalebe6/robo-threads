@@ -21,9 +21,10 @@
    "08:52",
    "10:30",
    "12:22",
-   "13:41"
+   "13:41",
+   "16:10"
   ],
-  "produtos_feitos": 1,
+  "produtos_feitos": 2,
   "respostas": 47,
   "por_post": {
    "18119319922812758": 1,
@@ -39,29 +40,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17918328729462329",
-   "insp": "7f395074e1",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual foi o primeiro carro de vocês e quanto custou?",
-   "quando": "2026-10-31T08:37:08.925713-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-10-31T12:37:07.469660-04:00",
-   "link_coment": "https://s.shopee.com.br/7KyBCc0rba",
-   "meme_comentado": true,
-   "meme_views": 1046,
-   "formato_link": "coment",
-   "produto": "58250519029",
-   "metricas": {
-    "views": 1544,
-    "likes": 7,
-    "replies": 44,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-05"
-   }
-  },
   {
    "id": "18000103242043456",
    "insp": "642c97cc3a",
@@ -1348,6 +1326,26 @@
    "texto": "VAMOS SER HONESTOS: quem trabalha com atendimento ao público aguenta cada absurdo que nem sei como o sangue não sobe",
    "quando": "2026-11-05T14:07:09.112735-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18104910911374902",
+   "insp": "prod_48514950250",
+   "link": "",
+   "texto": "Cercas e reparos em casa dão um trabalho danado, né? Descobri esse fio de nylon reforçado para tralhas e consertos rápidos que resolveu minha vida no quintal, olha como funciona 👀",
+   "quando": "2026-11-05T16:37:09.932641-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "48514950250",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "48514950250",
+    "nome": "Fio de Nylon 100mt 0,20/0,25/0,30/0,35/0,40/0,45/0,50/0,60/0,70/0,80/0,90/1,00 Linha de Pesca e Artesanato",
+    "offerLink": "https://s.shopee.com.br/20wmpHMy0v",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mrfwoqn3rqx273",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
@@ -6714,7 +6712,7 @@
   "22493432361": "2026-10-29T07:07:08.931399-04:00",
   "19399031891": "2026-10-15T07:07:09.668636-04:00",
   "58209986445": "2026-11-03T13:37:17.191271-04:00",
-  "48514950250": "2026-10-15T13:37:11.018564-04:00",
+  "48514950250": "2026-11-05T16:37:09.932641-04:00",
   "53108597653": "2026-10-15T19:37:08.210002-04:00",
   "21897981655": "2026-10-16T11:07:09.333086-04:00",
   "23198658411": "2026-11-01T13:07:08.715113-04:00",
