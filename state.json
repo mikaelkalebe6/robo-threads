@@ -24,7 +24,7 @@
    "13:41"
   ],
   "produtos_feitos": 1,
-  "respostas": 44,
+  "respostas": 47,
   "por_post": {
    "18119319922812758": 1,
    "17968225734230291": 9,
@@ -34,7 +34,8 @@
    "17912408370309490": 3,
    "18235105819323131": 8,
    "17910659949573164": 1,
-   "18150633781483522": 3
+   "18150633781483522": 5,
+   "17944488396382748": 1
   }
  },
  "posts": [
@@ -1247,7 +1248,7 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "58208944738",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "58208944738",
     "nome": "Sapatilha Nautica Sola Anti Derrapante Meia Neoprene Tenis Hibrido Meia Praia Canoagem Pesca Rio Jet",
@@ -1263,7 +1264,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-11-05"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/9pfcYlFeQr",
+   "link_em": "2026-11-05T15:07:09.089426-04:00",
+   "link_views": 0
   },
   {
    "id": "17912408370309490",
@@ -1347,9 +1351,6 @@
   }
  ],
  "respondidos": [
-  "18156496267512369",
-  "18118484570469917",
-  "18117642383285017",
   "18129415453796746",
   "17950875483276344",
   "18138369262625489",
@@ -4346,7 +4347,10 @@
   "18083347223738799",
   "17876758929636360",
   "18130988401843141",
-  "18010424243780512"
+  "18010424243780512",
+  "18415930996093556",
+  "18197027719387728",
+  "17962270506232835"
  ],
  "hashes": [
   "9988adbd9102adddb26695b2fc37e4a2",
@@ -4948,25 +4952,13 @@
   "ce7b2a8d64": 1,
   "3a4f6eb0bb": 1,
   "d68b3911da": 1,
-  "d4b5b48f84": 1
+  "d4b5b48f84": 1,
+  "e6ae80078f": 1,
+  "d929cca95e": 1,
+  "047195bed5": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "kkk verdade, Fire Red dá vontade de zerar mil vezes",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "que coisa mais triste, a escola inteira deve ter ficado abalada",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "nossa, essa lista prova que vc tem paciência de ferro (ou teimosia gamer kkkk)",
-   "p": "neutra",
-   "r": 1
-  },
   {
    "t": "cada um tem sua marca, né? 😊",
    "p": "concorda",
@@ -5101,6 +5093,21 @@
    "t": "subiu tanto que perdeu até o rumo kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "Realmente, esses gastos surgem do nada kkk 🙏🏼",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkk só quando a conta chega o sangue dá um salto pra baixo 😂",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "paciência de monge e olhe lá",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -5723,6 +5730,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-05T11:37:09.706712-04:00"
+  },
+  "18160049353507967": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-05T15:07:09.089426-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6505,7 +6517,8 @@
    "essa foto superfaturada",
    "a mensalidade e",
    "cobrar esse valor",
-   "duas mensalidades no"
+   "duas mensalidades no",
+   "realmente esses gastos"
   ],
   "18130295941794634": [
    "quem ja tem"
@@ -6583,7 +6596,9 @@
   "18150633781483522": [
    "verdade um psicologo",
    "medicacao pesada ou",
-   "subiu tanto que"
+   "subiu tanto que",
+   "so quando a",
+   "paciencia de monge"
   ]
  },
  "shopee_checada": "2026-11-05|1",
@@ -6728,7 +6743,7 @@
   "20999580796": "2026-11-04T08:07:13.070670-04:00",
   "22794532849": "2026-10-21T07:07:11.384114-04:00",
   "58205929037": "2026-10-21T07:07:11.384114-04:00",
-  "58208944738": "2026-11-04T20:37:09.153675-04:00",
+  "58208944738": "2026-11-05T15:07:09.089426-04:00",
   "22993669426": "2026-10-21T13:07:09.415738-04:00",
   "16519154009": "2026-10-21T15:37:08.793619-04:00",
   "22593650256": "2026-10-21T21:37:08.725499-04:00",
