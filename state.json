@@ -19,13 +19,13 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 12,
   "por_post": {
    "18119319922812758": 1,
-   "17968225734230291": 2,
-   "18134748025793720": 1,
+   "17968225734230291": 4,
+   "18134748025793720": 2,
    "17997443184028868": 1,
-   "18146901799608252": 1
+   "18146901799608252": 4
   }
  },
  "posts": [
@@ -1382,12 +1382,6 @@
   }
  ],
  "respondidos": [
-  "18112250519025927",
-  "18149942536526532",
-  "17959458885229022",
-  "18073849952466471",
-  "17970589557172189",
-  "18475150405114348",
   "18097334099096845",
   "18105047255098152",
   "18028689854911870",
@@ -4381,7 +4375,13 @@
   "17905510014602759",
   "17994633083852966",
   "18110837399190735",
-  "18221201380347723"
+  "18221201380347723",
+  "18100882253207807",
+  "17907029709351166",
+  "18117717304817219",
+  "17947659372359222",
+  "18154654654528187",
+  "18286485580289093"
  ],
  "hashes": [
   "304ad5f946f78247092dece129a207ea",
@@ -4943,40 +4943,16 @@
   "575f1dedb5": 1,
   "351f9148d6": 1,
   "001a164c61": 1,
-  "ff71844d99": 1
+  "ff71844d99": 1,
+  "d98240b8ff": 1,
+  "cabb29ac79": 1,
+  "f2f7e9b563": 1,
+  "993f354bad": 1,
+  "238b9b3b18": 1,
+  "ef7373180a": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "os joelhos entregam a idade antes de qualquer documento kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "antecipou a fatura da idade com juros absurdos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse caminho inteiro resolveu cobrar taxa de manutencao de uma vez só",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkkkkkkkkkk a choradeira começou cedo por lá",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "começou a cobrar manutenção muito antes do prazo de garantia",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "história e geografia deixaram base forte mesmo longe da quadra",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "agora preciso achar tempo e vontade para esse fortalecimento kkk",
    "p": "concorda",
@@ -5096,6 +5072,36 @@
    "t": "Ahhh, que ruim então! Cada aula tem seu jeito, né?",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "É isso aí, a galera é a melhor parte kkk 🙏🏼",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkkkk essa passagem de geração já virou tradição sua né",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Verdade cada matéria tem seu impacto mas a quadra também deixa marca né kkk",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "BB, qual jogo você já zerou mais de uma vez?",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "Shopee? O que tem?",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "fire emblem? kkkk oq, vc joga mald? o pokemon é obvioso 😭",
+   "p": "neutra",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6477,7 +6483,6 @@
    "compromisso sagrado de"
   ],
   "18146901799608252": [
-   "essa lista e",
    "quem entra nesse",
    "esse primeiro entrou",
    "quinhentas horas em",
@@ -6494,7 +6499,10 @@
    "passar por essa",
    "esse ai exige",
    "oito vezes e",
-   "essa combinacao e"
+   "essa combinacao e",
+   "essa passagem de",
+   "bb qual jogo",
+   "fire emblem oq"
   ],
   "18127233625684654": [
    "esse ai marcou",
@@ -6541,11 +6549,10 @@
    "o pe na",
    "essa parte compensa",
    "rodizio que desafia",
-   "adoro esse cacador"
+   "adoro esse cacador",
+   "e isso ai"
   ],
   "17968225734230291": [
-   "parece que a",
-   "passou totalmente em",
    "pelo menos o",
    "geografia tem seu",
    "receber uma bolada",
@@ -6563,7 +6570,9 @@
    "aixei imagina a",
    "ressalva valida professora",
    "nossa deve ter",
-   "ahhh que ruim"
+   "ahhh que ruim",
+   "verdade cada materia",
+   "shopee o que"
   ],
   "17912408370309490": [
    "essa e a",
