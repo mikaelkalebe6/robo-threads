@@ -39,7 +39,7 @@
    "21:38"
   ],
   "produtos_feitos": 3,
-  "respostas": 101,
+  "respostas": 107,
   "por_post": {
    "17870801802641111": 14,
    "17949764385085229": 6,
@@ -50,7 +50,7 @@
    "17944488396382748": 7,
    "18130295941794634": 1,
    "18134748025793720": 7,
-   "17968225734230291": 12,
+   "17968225734230291": 18,
    "17912408370309490": 14,
    "18119319922812758": 2
   }
@@ -1267,12 +1267,6 @@
   }
  ],
  "respondidos": [
-  "18125807189511585",
-  "18122642905913752",
-  "18133726930658174",
-  "18119730916938557",
-  "18043339322820313",
-  "18036084593653280",
   "18179374195437684",
   "18128579149839154",
   "18142840753509649",
@@ -4266,7 +4260,13 @@
   "18140669371652880",
   "18185809309425833",
   "18213684034365973",
-  "18110614136159738"
+  "18110614136159738",
+  "18138768184631206",
+  "18388909795229876",
+  "18120571969771371",
+  "18152358787530319",
+  "18004135556796763",
+  "17943079047391988"
  ],
  "hashes": [
   "304ad5f946f78247092dece129a207ea",
@@ -4922,40 +4922,16 @@
   "4a62e9e759": 1,
   "5fdf9dcd1c": 1,
   "039a03bb21": 1,
-  "f2a5a9f9ae": 1
+  "f2a5a9f9ae": 1,
+  "a8b98e9974": 1,
+  "046ccc5265": 1,
+  "0581534094": 1,
+  "329c8df4a3": 1,
+  "3147688dab": 1,
+  "d92ef0b419": 1
  },
  "reservas_checadas": "2026-11-04",
  "ultimas_respostas": [
-  {
-   "t": "passou totalmente em branco por aí",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "pelo menos o basquete salvava a aula",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "duas mensalidades no mesmo mês e o golpe clássico pra começar setembro chorando",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "geografia tem seu valor mas o campo de futebol deixou traumas inesquecíveis",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "receber uma bolada na cara é um trauma que nenhuma redação consegue apagar kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "a perspectiva de quem virou professora mostra o outro lado da quadra",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pelo menos a de ciencias salvou a passagem por aquela epoca",
    "p": "ressalva",
@@ -5075,6 +5051,36 @@
    "t": "Joelho também entrou na lista de culpados, agora me lembra de alongar kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "justo, a ideia era óbvia mesmo mas vale o registro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, ele deixou marca de ponto negativo kkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "aquele professor viciava em marcar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Poxa, que pena não ter tido a aula, mas a lembrança ainda marca, né",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "aixei, imagina a bagunça que devia ser lá dentro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ressalva válida, professora ainda assombra",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6511,7 +6517,13 @@
    "historia e geografia",
    "a bola foi",
    "que linda memoria",
-   "nem todo mundo"
+   "nem todo mundo",
+   "justo a ideia",
+   "verdade ele deixou",
+   "aquele professor viciava",
+   "poxa que pena",
+   "aixei imagina a",
+   "ressalva valida professora"
   ],
   "17912408370309490": [
    "essa e a",
