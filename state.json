@@ -27,10 +27,11 @@
    "09:32",
    "10:13",
    "12:08",
-   "13:34"
+   "13:34",
+   "14:15"
   ],
   "produtos_feitos": 0,
-  "respostas": 20,
+  "respostas": 22,
   "por_post": {
    "18644066287059205": 8,
    "18235105819323131": 1,
@@ -39,42 +40,10 @@
    "18403612900201661": 1,
    "18033438020853262": 1,
    "18115232447228628": 4,
-   "18229654453336032": 2
+   "18229654453336032": 4
   }
  },
  "posts": [
-  {
-   "id": "17961943710229960",
-   "insp": "prod_23198658411",
-   "link": "",
-   "texto": "Carterinha cheia que rasga o bolso da calça é dose, né? 😂 Descobri essa de couro sintético que é super fina e cabe tudo sem fazer volume, olha como funciona 👀",
-   "quando": "2026-10-31T19:07:07.663991-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "23198658411",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "23198658411",
-    "nome": "Carteira Masculina Couro P.U Lisa.",
-    "offerLink": "https://s.shopee.com.br/8AXIC8xgup",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgr21ik9cvlsea",
-    "campanha": ""
-   },
-   "metricas": {
-    "views": 187,
-    "likes": 2,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-06"
-   },
-   "link_coment": "https://s.shopee.com.br/8AXIC8xgup",
-   "link_em": "2026-11-01T13:07:08.715113-04:00",
-   "link_views": 0
-  },
   {
    "id": "18090080810678249",
    "insp": "3a51bc27e7",
@@ -1309,11 +1278,17 @@
    "texto": "OPINIÃO IMPOPULAR: passar dos vinte e cinco morando com os pais tem um lado financeiro excelente que ninguém admite com sinceridade. A economia real para construir patrimônio é absurda e pouca gente tem coragem de priorizar isso em vez de pagar aluguel só para manter uma fachada de independência.",
    "quando": "2026-11-06T13:37:08.324440-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18129394138877262",
+   "insp": "74e3ec90e5",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: com quantos anos vocês tiraram a carteira de motorista ou ainda tão enrolando pra começar a autoescola",
+   "quando": "2026-11-06T14:37:07.812827-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18136861597629435",
-  "18088885205236388",
   "18115655117281659",
   "18017749556931189",
   "17958588483231001",
@@ -4311,10 +4286,11 @@
   "18117932390012887",
   "18024808409946328",
   "18154663612527240",
-  "17877327441587134"
+  "17877327441587134",
+  "17954247924315343",
+  "18075562307584530"
  ],
  "hashes": [
-  "0fb1343460a7d60f67dab3d00d208813",
   "4ae0e33b8d1c5342f01b72573a74caff",
   "6092d20a15ba71084230d130647defe0",
   "058841fcb120fc1bc08da59289393698",
@@ -4513,7 +4489,8 @@
   "72645999f08172756ce2948617acbae7",
   "12dd837fb6b4904d7103f8202d1a5dbe",
   "45bfb7e848ddca5a9ec024ace23b76ba",
-  "bb3f05e0e4ad34ea9783c66de2473c49"
+  "bb3f05e0e4ad34ea9783c66de2473c49",
+  "4d02d3cd6533b87547cd9a6c5551913a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4875,7 +4852,8 @@
   "6868d7247a": 1793972287.1141653,
   "d97c7d9c44": 1793975887.3116262,
   "2ff9f40b12": 1793983094.37553,
-  "9c1aee7436": 1793986696.720882
+  "9c1aee7436": 1793986696.720882,
+  "74e3ec90e5": 1793990289.2466378
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4897,20 +4875,12 @@
   "1b562b4ea6": 1,
   "7ee1272f2f": 1,
   "2307989de4": 1,
-  "f27bbbce0f": 1
+  "f27bbbce0f": 1,
+  "60878986a3": 1,
+  "bfe7dbc51d": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "Concordo, nada como música e espuma em casa kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quem tem espaço em casa não se perde, é terapia com direito a som alto kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "o dia seguinte chega rápido e o boleto também",
    "p": "ressalva",
@@ -5049,6 +5019,16 @@
   {
    "t": "essa conta fracionada sempre dói no bolso de um jeito criativo",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esperar o momento certo evita aquela pressa desnecessária para pagar aluguel",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "paz mental e saúde não têm preço que pague mesmo",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6551,7 +6531,9 @@
   ],
   "18229654453336032": [
    "estrategia certeira para",
-   "sair cedo por"
+   "sair cedo por",
+   "esperar o momento",
+   "paz mental e"
   ]
  },
  "shopee_checada": "2026-11-06|1",
