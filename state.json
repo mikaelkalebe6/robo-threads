@@ -28,7 +28,7 @@
    "19:18"
   ],
   "produtos_feitos": 2,
-  "respostas": 62,
+  "respostas": 64,
   "por_post": {
    "18119319922812758": 2,
    "17968225734230291": 10,
@@ -41,7 +41,8 @@
    "18150633781483522": 5,
    "17944488396382748": 1,
    "18403612900201661": 8,
-   "18038563889848377": 5
+   "18038563889848377": 5,
+   "18231170866322932": 2
   }
  },
  "posts": [
@@ -1310,8 +1311,6 @@
   }
  ],
  "respondidos": [
-  "17924709438426451",
-  "18134354470633499",
   "18131679751756824",
   "18162364378492895",
   "18134661175639542",
@@ -4309,7 +4308,9 @@
   "18070766777786409",
   "18453669484122319",
   "18159978718463312",
-  "18103840073384185"
+  "18103840073384185",
+  "17954678958342045",
+  "17954861223280413"
  ],
  "hashes": [
   "cd9f58423c6a3a34053b8156870d890d",
@@ -4932,20 +4933,12 @@
   "24f0167c2c": 1,
   "c47b4c0403": 1,
   "005733d438": 1,
-  "5a4f6559c6": 1
+  "5a4f6559c6": 1,
+  "44f4860f07": 1,
+  "5151e6849d": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, perrengue vira história boa no bar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkk confusão clássica, mas o perrengue continua a render boas histórias",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Real, depende do carro e do piloto kkkk",
    "p": "concorda",
@@ -5083,6 +5076,16 @@
   },
   {
    "t": "quando a confiança é boa a gente até esquece onde o celular tá guardado",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "nada supera colocar uma boa música e cuidar de tudo com calma",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perde o melhor da terapia que é espalhar balde e mangueira sem hora para acabar",
    "p": "ressalva",
    "r": 0
   }
@@ -6282,15 +6285,6 @@
   }
  ],
  "aberturas_post": {
-  "18042505940779811": [
-   "seu cachorro decidiu",
-   "agora o computador",
-   "filosofo e contemplativo",
-   "socorro o jabuti",
-   "investimento pesado na",
-   "mestra da camuflagem",
-   "uma verdadeira galeria"
-  ],
   "18121901744054913": [
    "ate aceito a",
    "verdade nao da"
@@ -6574,6 +6568,10 @@
    "cada casa e",
    "verdade parece ate",
    "quando a confianca"
+  ],
+  "18231170866322932": [
+   "nada supera colocar",
+   "perde o melhor"
   ]
  },
  "shopee_checada": "2026-11-05|1",
