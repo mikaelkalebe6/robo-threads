@@ -31,10 +31,11 @@
    "14:15",
    "15:30",
    "16:15",
-   "16:58"
+   "16:58",
+   "18:24"
   ],
   "produtos_feitos": 0,
-  "respostas": 43,
+  "respostas": 44,
   "por_post": {
    "18644066287059205": 9,
    "18235105819323131": 1,
@@ -43,7 +44,7 @@
    "18403612900201661": 1,
    "18033438020853262": 1,
    "18115232447228628": 4,
-   "18229654453336032": 7,
+   "18229654453336032": 8,
    "18129394138877262": 12,
    "18099246437387630": 2,
    "18001115808001002": 2,
@@ -51,38 +52,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18133030594706037",
-   "insp": "prod_19098752815",
-   "link": "",
-   "texto": "Aquele GPS no celular que sempre cai bem na hora que a gente mais precisa é dose, né? 😂 Descobri esse suporte veicular que prende firme na saída de ar e não solta nem com buraco brabo. Olha como funciona 👀",
-   "quando": "2026-11-01T12:37:08.709479-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "19098752815",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "19098752815",
-    "nome": "Suporte Veicular Carro Para Celular 360 ° Giratório Universal Multifuncional Ventilacao Ar",
-    "offerLink": "https://s.shopee.com.br/W7sevNJwy",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljg30etzu9ibac",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 189,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-06"
-   },
-   "link_coment": "https://s.shopee.com.br/W7sevNJwy",
-   "link_em": "2026-11-02T07:07:09.453875-04:00",
-   "link_views": 0
-  },
   {
    "id": "18120849176091114",
    "insp": "4176f68ac7",
@@ -1260,10 +1229,17 @@
    "texto": "OPINIÃO IMPOPULAR: dar pitaco na carne dos outros é pior do que tentar estacionar carro grande em vaga apertada",
    "quando": "2026-11-06T17:07:08.887900-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18570701296079335",
+   "insp": "9c493df816",
+   "link": "",
+   "texto": "PESSOAS QUE...: dão apelido carinhoso pro próprio carro precisam ser estudadas pela ciência. Ou vocês batizam o possante de guerreiro ou ele é só um monte de lata que te leva pro trabalho?",
+   "quando": "2026-11-06T18:37:08.267242-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18182303785421089",
   "18441191911121388",
   "17871277242649554",
   "18095026928407834",
@@ -4262,10 +4238,10 @@
   "18641316277029052",
   "18138470689637989",
   "18125168069292980",
-  "17971577559192987"
+  "17971577559192987",
+  "17957129187277839"
  ],
  "hashes": [
-  "2f9840b8caaec07620945fbb4aca493c",
   "5fe35321b26a373140fede7fe2635f5e",
   "d5c35068662c1dfaccb807ea3570fcac",
   "5c5f365697bfca543b07409213c1c778",
@@ -4464,7 +4440,8 @@
   "4d02d3cd6533b87547cd9a6c5551913a",
   "bd17d8227f63d98107ea2a3d92660257",
   "29f358b5df53aa63ffe90f8c87f0f0e3",
-  "2e703a3d588fa32855e6929e3dcdbdb9"
+  "2e703a3d588fa32855e6929e3dcdbdb9",
+  "b034aeb1facbc7f33ca371dfd0561fb8"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4830,7 +4807,8 @@
   "74e3ec90e5": 1793990289.2466378,
   "7245fe690e": 1793993847.487118,
   "f29b190cb8": 1793997445.7555845,
-  "69d2f4ea0d": 1793999291.4907131
+  "69d2f4ea0d": 1793999291.4907131,
+  "9c493df816": 1794004693.5780976
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4873,15 +4851,11 @@
   "823d3c8ca6": 1,
   "ef605c7fd9": 1,
   "7cd2b864cd": 1,
-  "37badd5fd7": 1
+  "37badd5fd7": 1,
+  "1d843c5a59": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "Nossa, 1500 na kitnet parece golpe, né? Também me sinto na mesma",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "evitar o estrago maior sempre sai mais barato no final das contas",
    "p": "concorda",
@@ -5025,6 +4999,11 @@
   {
    "t": "desse jeito aí fica difícil meter as caras",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "real, o perigo de desviar a rota é gigante se não tiver foco",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6475,7 +6454,8 @@
    "paz mental e",
    "entendo seu ponto",
    "construir essa base",
-   "economia real que"
+   "economia real que",
+   "real o perigo"
   ],
   "18129394138877262": [
    "idade boa para",
