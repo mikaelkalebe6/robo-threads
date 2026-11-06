@@ -34,7 +34,7 @@
    "16:58"
   ],
   "produtos_feitos": 0,
-  "respostas": 38,
+  "respostas": 42,
   "por_post": {
    "18644066287059205": 8,
    "18235105819323131": 1,
@@ -43,10 +43,11 @@
    "18403612900201661": 1,
    "18033438020853262": 1,
    "18115232447228628": 4,
-   "18229654453336032": 6,
-   "18129394138877262": 11,
+   "18229654453336032": 7,
+   "18129394138877262": 12,
    "18099246437387630": 2,
-   "18001115808001002": 1
+   "18001115808001002": 2,
+   "17918694276265704": 1
   }
  },
  "posts": [
@@ -1262,10 +1263,6 @@
   }
  ],
  "respondidos": [
-  "18118071394916597",
-  "18098356274382026",
-  "17888922105618029",
-  "18066258728777845",
   "17914070529523619",
   "18182303785421089",
   "18441191911121388",
@@ -4261,7 +4258,11 @@
   "18099205076442345",
   "17912159508577786",
   "18116732279041350",
-  "18101469641401030"
+  "18101469641401030",
+  "18056068730600091",
+  "18641316277029052",
+  "18138470689637989",
+  "18125168069292980"
  ],
  "hashes": [
   "2f9840b8caaec07620945fbb4aca493c",
@@ -4850,7 +4851,7 @@
   "8cfd57f999": 1,
   "1b562b4ea6": 1,
   "7ee1272f2f": 1,
-  "2307989de4": 1,
+  "2307989de4": 2,
   "f27bbbce0f": 1,
   "60878986a3": 1,
   "bfe7dbc51d": 1,
@@ -4868,30 +4869,13 @@
   "a33a539742": 1,
   "5440c9d3e2": 1,
   "bbf4ebaacc": 1,
-  "b09a9c7616": 1
+  "b09a9c7616": 1,
+  "823d3c8ca6": 1,
+  "ef605c7fd9": 1,
+  "7cd2b864cd": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "exato, são os detalhes que salvam a reputação kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse choro de alívio na porta de casa deve tirar todo o peso dos anos de ralação",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "motor potente exige espaço próprio mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "trocar de vida e deixar o aluguel para o felino assumir kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "verdade, o cenário atual já deixa a gente preocupada com o dia de amanhã",
    "p": "concorda",
@@ -5021,6 +5005,26 @@
    "t": "verdade, mas o medo de virar passageira de robô continua firme",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "significa o que você quer dizer",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "ar condicionado é o verdadeiro equipamento de paz mundial kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "economia real que o aluguel nunca deixa a gente fazer",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o detran cobrando o juros do exame de vista kkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6233,28 +6237,6 @@
   }
  ],
  "aberturas_post": {
-  "17870801802641111": [
-   "queria ter essa",
-   "economia drastica mas",
-   "organizacao ajuda muito",
-   "fugir da sexta",
-   "trabalhar mais para",
-   "ganhar mais para",
-   "investir o tempo",
-   "quando a comissao",
-   "farmacia consome qualquer",
-   "resposta curta e",
-   "recusar a oferta",
-   "a conta e",
-   "exato cada fase",
-   "saber o que",
-   "recusar a proposta",
-   "trabalhando esse pouco",
-   "fidelidade ao pagamento",
-   "a conta tem",
-   "paz na rotina",
-   "e parece promessa"
-  ],
   "18182459707432553": [
    "depende muito do"
   ],
@@ -6490,7 +6472,8 @@
    "esperar o momento",
    "paz mental e",
    "entendo seu ponto",
-   "construir essa base"
+   "construir essa base",
+   "economia real que"
   ],
   "18129394138877262": [
    "idade boa para",
@@ -6503,14 +6486,19 @@
    "dezesseis anos comecou",
    "sei bem essas",
    "eita 18 ja",
-   "chegou na idade"
+   "chegou na idade",
+   "o detran cobrando"
   ],
   "18099246437387630": [
    "comida de respeito",
    "que legal mj"
   ],
   "18001115808001002": [
-   "verdade mas o"
+   "verdade mas o",
+   "ar condicionado e"
+  ],
+  "17918694276265704": [
+   "significa o que"
   ]
  },
  "shopee_checada": "2026-11-06|1",
