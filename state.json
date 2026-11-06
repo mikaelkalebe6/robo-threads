@@ -35,7 +35,7 @@
    "18:24"
   ],
   "produtos_feitos": 0,
-  "respostas": 44,
+  "respostas": 47,
   "por_post": {
    "18644066287059205": 9,
    "18235105819323131": 1,
@@ -48,7 +48,8 @@
    "18129394138877262": 12,
    "18099246437387630": 2,
    "18001115808001002": 2,
-   "17918694276265704": 1
+   "17918694276265704": 1,
+   "18570701296079335": 3
   }
  },
  "posts": [
@@ -1240,9 +1241,6 @@
   }
  ],
  "respondidos": [
-  "18441191911121388",
-  "17871277242649554",
-  "18095026928407834",
   "18030794450676379",
   "18104079410367356",
   "18087523793271403",
@@ -4239,7 +4237,10 @@
   "18138470689637989",
   "18125168069292980",
   "17971577559192987",
-  "17957129187277839"
+  "17957129187277839",
+  "18090290939293217",
+  "18579654919079242",
+  "18121978852946440"
  ],
  "hashes": [
   "5fe35321b26a373140fede7fe2635f5e",
@@ -4821,7 +4822,7 @@
   "6d44906a0d": 1,
   "3864e62b28": 1,
   "047195bed5": 1,
-  "366fd5e9e4": 1,
+  "366fd5e9e4": 2,
   "ffc875e4b9": 1,
   "7bc7da4aa8": 1,
   "b69237a9bf": 1,
@@ -4852,25 +4853,12 @@
   "ef605c7fd9": 1,
   "7cd2b864cd": 1,
   "37badd5fd7": 1,
-  "1d843c5a59": 1
+  "1d843c5a59": 1,
+  "1e4270bcfe": 1,
+  "e91d8c9298": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "evitar o estrago maior sempre sai mais barato no final das contas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "estratégia certeira para começar a vida com uma base firme",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sair cedo por falta de opção pesa o dobro, mas o foco na casa própria muda tudo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "a peca e só um detalhe no valor final",
    "p": "concorda",
@@ -5005,6 +4993,21 @@
    "t": "real, o perigo de desviar a rota é gigante se não tiver foco",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "pelo menos o nome já avisa a situação pro mecânico kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "personagem de desenho éapele, o possante sai ganhando nessa kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "monstrang é excelente, o bicho era bravo mesmo kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6217,9 +6220,6 @@
   }
  ],
  "aberturas_post": {
-  "18182459707432553": [
-   "depende muito do"
-  ],
   "18288224983293291": [
    "pesado ai voce"
   ],
@@ -6481,6 +6481,11 @@
   ],
   "17918694276265704": [
    "significa o que"
+  ],
+  "18570701296079335": [
+   "pelo menos o",
+   "personagem de desenho",
+   "monstrang e excelente"
   ]
  },
  "shopee_checada": "2026-11-06|1",
