@@ -31,7 +31,7 @@
    "14:15"
   ],
   "produtos_feitos": 0,
-  "respostas": 22,
+  "respostas": 28,
   "por_post": {
    "18644066287059205": 8,
    "18235105819323131": 1,
@@ -40,7 +40,8 @@
    "18403612900201661": 1,
    "18033438020853262": 1,
    "18115232447228628": 4,
-   "18229654453336032": 4
+   "18229654453336032": 5,
+   "18129394138877262": 5
   }
  },
  "posts": [
@@ -1289,12 +1290,6 @@
   }
  ],
  "respondidos": [
-  "18115655117281659",
-  "18017749556931189",
-  "17958588483231001",
-  "17989459872065752",
-  "18382598566239595",
-  "18488238619104490",
   "18168040231479343",
   "17950813215270200",
   "18115287313824794",
@@ -4288,7 +4283,13 @@
   "18154663612527240",
   "17877327441587134",
   "17954247924315343",
-  "18075562307584530"
+  "18075562307584530",
+  "18154937998546610",
+  "17913899412558697",
+  "18359542441170786",
+  "18108569164970880",
+  "18652019533047392",
+  "18033982727910268"
  ],
  "hashes": [
   "4ae0e33b8d1c5342f01b72573a74caff",
@@ -4877,40 +4878,16 @@
   "2307989de4": 1,
   "f27bbbce0f": 1,
   "60878986a3": 1,
-  "bfe7dbc51d": 1
+  "bfe7dbc51d": 1,
+  "1f6fa5bc3f": 1,
+  "bb9dd276e0": 1,
+  "12cbdf8dd1": 1,
+  "d506ad102b": 1,
+  "0ca84057df": 1,
+  "cb9b5a19f6": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "o dia seguinte chega rápido e o boleto também",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "esse olhar de quem já assinou o boleto de trinta anos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "usar o saldo e olhar opções alternativas são caminhos que salvam muito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "se atrasar o banco manda o oficial de justiça tomar até a alma kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "com essa taxa alta o medo é legítimo mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos o boleto chega para lembrar que a gente tenta",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "começou a maratona do aluguel cedo demais",
    "p": "concorda",
@@ -5030,6 +5007,36 @@
    "t": "paz mental e saúde não têm preço que pague mesmo",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "idade boa para começar a encarar o trânsito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Nossa, 18 sem autoescola! Também lembro dessas histórias antigas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "passou longe da enrolação então",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "19? ainda tem tempo pra curtir, kkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "pilotar é habilidade que se aprende no tempo certo, kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Entendo seu ponto, mas cada um tem seu ritmo e busca o que funciona kk",
+   "p": "neutra",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6242,17 +6249,6 @@
   }
  ],
  "aberturas_post": {
-  "17953965141313574": [
-   "semi novo alivia",
-   "esse modelo aguenta",
-   "comecar com um",
-   "vinte anos com",
-   "tem opcao demais",
-   "esse modelo tem",
-   "dez anos com",
-   "passar pela bagaceira",
-   "laudo seguro evita"
-  ],
   "18433923586146915": [
    "que capricho fica",
    "boa saber que",
@@ -6533,7 +6529,15 @@
    "estrategia certeira para",
    "sair cedo por",
    "esperar o momento",
-   "paz mental e"
+   "paz mental e",
+   "entendo seu ponto"
+  ],
+  "18129394138877262": [
+   "idade boa para",
+   "nossa 18 sem",
+   "passou longe da",
+   "19 ainda tem",
+   "pilotar e habilidade"
   ]
  },
  "shopee_checada": "2026-11-06|1",
