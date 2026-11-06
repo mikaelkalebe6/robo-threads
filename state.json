@@ -35,7 +35,7 @@
    "18:24"
   ],
   "produtos_feitos": 0,
-  "respostas": 47,
+  "respostas": 48,
   "por_post": {
    "18644066287059205": 9,
    "18235105819323131": 1,
@@ -45,7 +45,7 @@
    "18033438020853262": 1,
    "18115232447228628": 4,
    "18229654453336032": 8,
-   "18129394138877262": 12,
+   "18129394138877262": 13,
    "18099246437387630": 2,
    "18001115808001002": 2,
    "17918694276265704": 1,
@@ -1241,7 +1241,6 @@
   }
  ],
  "respondidos": [
-  "18030794450676379",
   "18104079410367356",
   "18087523793271403",
   "17987156508114434",
@@ -4240,7 +4239,8 @@
   "17957129187277839",
   "18090290939293217",
   "18579654919079242",
-  "18121978852946440"
+  "18121978852946440",
+  "17885712873523381"
  ],
  "hashes": [
   "5fe35321b26a373140fede7fe2635f5e",
@@ -4855,15 +4855,11 @@
   "37badd5fd7": 1,
   "1d843c5a59": 1,
   "1e4270bcfe": 1,
-  "e91d8c9298": 1
+  "e91d8c9298": 1,
+  "3dec709f27": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "a peca e só um detalhe no valor final",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "estudar ele estudou, mas o susto na nota fiscal continua o mesmo kkk",
    "p": "concorda",
@@ -5008,6 +5004,11 @@
    "t": "monstrang é excelente, o bicho era bravo mesmo kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "aproveitou o aniversário para garantir o documento logo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6469,7 +6470,8 @@
    "sei bem essas",
    "eita 18 ja",
    "chegou na idade",
-   "o detran cobrando"
+   "o detran cobrando",
+   "aproveitou o aniversario"
   ],
   "18099246437387630": [
    "comida de respeito",
