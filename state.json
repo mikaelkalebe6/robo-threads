@@ -29,7 +29,7 @@
    "21:03"
   ],
   "produtos_feitos": 2,
-  "respostas": 73,
+  "respostas": 74,
   "por_post": {
    "18119319922812758": 2,
    "17968225734230291": 10,
@@ -44,7 +44,7 @@
    "18403612900201661": 8,
    "18038563889848377": 5,
    "18231170866322932": 5,
-   "18644066287059205": 6
+   "18644066287059205": 7
   }
  },
  "posts": [
@@ -1298,7 +1298,6 @@
   }
  ],
  "respondidos": [
-  "18344897287280340",
   "17952054108270466",
   "18150224653558054",
   "18435661411178564",
@@ -4297,7 +4296,8 @@
   "18132632131841115",
   "18036652136854565",
   "18083644064402672",
-  "18649642237014963"
+  "18649642237014963",
+  "18289336441294445"
  ],
  "hashes": [
   "d6f134af9fd15b38f4df563e16860a6e",
@@ -4931,15 +4931,11 @@
   "0474697f85": 1,
   "6f4d28cc9c": 1,
   "1b562b4ea6": 1,
-  "0d1fd47473": 1
+  "0d1fd47473": 1,
+  "d51340645f": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "subiu tanto que perdeu até o rumo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Realmente, esses gastos surgem do nada kkk 🙏🏼",
    "p": "concorda",
@@ -5082,6 +5078,11 @@
   },
   {
    "t": "pelo menos o boleto chega para lembrar que a gente tenta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "começou a maratona do aluguel cedo demais",
    "p": "concorda",
    "r": 0
   }
@@ -6574,7 +6575,8 @@
    "usar o saldo",
    "se atrasar o",
    "com essa taxa",
-   "pelo menos o"
+   "pelo menos o",
+   "comecou a maratona"
   ]
  },
  "shopee_checada": "2026-11-05|1",
