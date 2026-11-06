@@ -22,7 +22,9 @@
    "16:15",
    "20:27"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:45"
+  ],
   "produtos_feitos": 0,
   "respostas": 11,
   "por_post": {
@@ -34,24 +36,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18010950449778561",
-   "insp": "2096a4fb50",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: marca reunião de sexta às cinco da tarde deveria ser considerada infração trabalhista grave.",
-   "quando": "2026-10-31T14:37:08.779447-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 998,
-    "likes": 14,
-    "replies": 15,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-06"
-   },
-   "viral_chk": "2026-11-01T07:07:08.994390-04:00"
-  },
   {
    "id": "18092331779226608",
    "insp": "prod_18599879164",
@@ -1365,6 +1349,14 @@
     "shares": 0,
     "em": "2026-11-06"
    }
+  },
+  {
+   "id": "18142877290625425",
+   "insp": "1414707c5c",
+   "link": "",
+   "texto": "Quem mais corria desesperado pra ver o desenho antes de ir pra escola e no fim das contas chegava atrasado igual",
+   "quando": "2026-11-06T09:07:09.178867-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4370,7 +4362,6 @@
   "18066078338521050"
  ],
  "hashes": [
-  "d6f134af9fd15b38f4df563e16860a6e",
   "b4f6bc752f1585e340766a61615f53f1",
   "6223233793dfef75265a7b4d4b16641b",
   "85d593e73ec0e5fe1adc51ab20c11783",
@@ -4569,7 +4560,8 @@
   "b4497a0474b36d64e9edcf4bb580630a",
   "2a953a0c762ec5429fcea00b0b29b0a5",
   "4103ab1e3e43916655c6da5609f44488",
-  "e4d1a03941fb68967d5b5a94dda34aa8"
+  "e4d1a03941fb68967d5b5a94dda34aa8",
+  "54383cc77ecf9fa8e3a9827581c5854f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4926,7 +4918,8 @@
   "4a3ce15183": 1793912894.1850026,
   "91a0024949": 1793918249.0138323,
   "a632d06d14": 1793921891.1655107,
-  "7aa473ea47": 1793927284.681846
+  "7aa473ea47": 1793927284.681846,
+  "1414707c5c": 1793970458.87282
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
