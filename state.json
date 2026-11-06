@@ -29,9 +29,9 @@
    "12:08"
   ],
   "produtos_feitos": 0,
-  "respostas": 13,
+  "respostas": 14,
   "por_post": {
-   "18644066287059205": 7,
+   "18644066287059205": 8,
    "18235105819323131": 1,
    "18119319922812758": 2,
    "17968225734230291": 1,
@@ -1318,7 +1318,6 @@
   }
  ],
  "respondidos": [
-  "18100806596377289",
   "17984651522891885",
   "18112667975518999",
   "18112320067843802",
@@ -4317,7 +4316,8 @@
   "17956060179337199",
   "18066078338521050",
   "18122705654052842",
-  "18181466947436818"
+  "18181466947436818",
+  "18482588053112653"
  ],
  "hashes": [
   "b21d96621605970f759f8e1a7252a7b4",
@@ -4895,15 +4895,11 @@
   "047195bed5": 1,
   "366fd5e9e4": 1,
   "ffc875e4b9": 1,
-  "7bc7da4aa8": 1
+  "7bc7da4aa8": 1,
+  "b69237a9bf": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "kkk, parece que o chifre já vem com decoração de fábrica 🤭",
-   "p": "neutra",
-   "r": 2
-  },
   {
    "t": "cada casa é um caso e o cotidiano que dita as regras",
    "p": "concorda",
@@ -5046,6 +5042,11 @@
   },
   {
    "t": "verdade, o cenário atual já deixa a gente preocupada com o dia de amanhã",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Nossa, 1500 na kitnet parece golpe, né? Também me sinto na mesma",
    "p": "concorda",
    "r": 0
   }
@@ -6547,7 +6548,8 @@
    "essa paz de",
    "a exaustao com",
    "esse choro de",
-   "motor potente exige"
+   "motor potente exige",
+   "nossa 1500 na"
   ],
   "18033438020853262": [
    "trocar de vida"
