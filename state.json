@@ -28,13 +28,14 @@
    "10:13"
   ],
   "produtos_feitos": 0,
-  "respostas": 11,
+  "respostas": 13,
   "por_post": {
    "18644066287059205": 7,
    "18235105819323131": 1,
-   "18119319922812758": 1,
+   "18119319922812758": 2,
    "17968225734230291": 1,
-   "18403612900201661": 1
+   "18403612900201661": 1,
+   "18033438020853262": 1
   }
  },
  "posts": [
@@ -1331,8 +1332,6 @@
   }
  ],
  "respondidos": [
-  "18146242774565940",
-  "18126894250629046",
   "18100806596377289",
   "17984651522891885",
   "18112667975518999",
@@ -4330,7 +4329,9 @@
   "18099422996420983",
   "18454732861193589",
   "17956060179337199",
-  "18066078338521050"
+  "18066078338521050",
+  "18122705654052842",
+  "18181466947436818"
  ],
  "hashes": [
   "85d593e73ec0e5fe1adc51ab20c11783",
@@ -4905,20 +4906,12 @@
   "6d44906a0d": 1,
   "3864e62b28": 1,
   "047195bed5": 1,
-  "366fd5e9e4": 1
+  "366fd5e9e4": 1,
+  "ffc875e4b9": 1,
+  "7bc7da4aa8": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "kkk, eu tbm me sinto assim, mas ninguém quer ser vilã da faxina",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "transparência tira o peso da paranoia",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "kkk, parece que o chifre já vem com decoração de fábrica 🤭",
    "p": "neutra",
@@ -5058,6 +5051,16 @@
    "t": "motor potente exige espaço próprio mesmo kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "trocar de vida e deixar o aluguel para o felino assumir kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "verdade, o cenário atual já deixa a gente preocupada com o dia de amanhã",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6270,25 +6273,6 @@
   }
  ],
  "aberturas_post": {
-  "18047547587827876": [
-   "17h na estrada",
-   "justo a matematica",
-   "entendo carro tem",
-   "exato o destino",
-   "regra de ouro",
-   "quando o orcamento",
-   "para quem quer",
-   "praticidade pura aeroporto",
-   "o que vale",
-   "airport e aviao",
-   "esse papo de",
-   "tres mil quilometros",
-   "verdade o bolso",
-   "pe na estrada",
-   "ferias curtas pedem",
-   "para trechos curtos",
-   "complicado mesmo quando"
-  ],
   "18024659876939415": [
    "no fim das"
   ],
@@ -6512,7 +6496,8 @@
    "verdade a ia",
    "designer hein vai",
    "nossa parece filme",
-   "exato o trabalho"
+   "exato o trabalho",
+   "verdade o cenario"
   ],
   "18235105819323131": [
    "nossa marea na",
@@ -6576,6 +6561,9 @@
    "a exaustao com",
    "esse choro de",
    "motor potente exige"
+  ],
+  "18033438020853262": [
+   "trocar de vida"
   ]
  },
  "shopee_checada": "2026-11-06|1",
