@@ -28,7 +28,7 @@
    "19:18"
   ],
   "produtos_feitos": 2,
-  "respostas": 64,
+  "respostas": 67,
   "por_post": {
    "18119319922812758": 2,
    "17968225734230291": 10,
@@ -42,7 +42,7 @@
    "17944488396382748": 1,
    "18403612900201661": 8,
    "18038563889848377": 5,
-   "18231170866322932": 2
+   "18231170866322932": 5
   }
  },
  "posts": [
@@ -1311,9 +1311,6 @@
   }
  ],
  "respondidos": [
-  "18131679751756824",
-  "18162364378492895",
-  "18134661175639542",
   "18393356083163300",
   "18195810526385765",
   "17957163702253036",
@@ -4310,7 +4307,10 @@
   "18159978718463312",
   "18103840073384185",
   "17954678958342045",
-  "17954861223280413"
+  "17954861223280413",
+  "18340603012279698",
+  "18097076210670321",
+  "18069191186787041"
  ],
  "hashes": [
   "cd9f58423c6a3a34053b8156870d890d",
@@ -4935,25 +4935,13 @@
   "005733d438": 1,
   "5a4f6559c6": 1,
   "44f4860f07": 1,
-  "5151e6849d": 1
+  "5151e6849d": 1,
+  "a7e1e8572d": 1,
+  "df58e103bf": 1,
+  "430d778ee7": 1
  },
  "reservas_checadas": "2026-11-05",
  "ultimas_respostas": [
-  {
-   "t": "Real, depende do carro e do piloto kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Carro derretendo e a história pronta para o bar, que perrengue épico kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Nossa, lista épica! Também já repeti vários destes, qual o seu favorito?",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "É pergunta, você está pedindo esclarecimento",
    "p": "neutra",
@@ -5088,6 +5076,21 @@
    "t": "perde o melhor da terapia que é espalhar balde e mangueira sem hora para acabar",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "Eita, sexta à tarde já tá na agenda kkk 🙈",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Concordo, nada como música e espuma em casa kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quem tem espaço em casa não se perde, é terapia com direito a som alto kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6571,7 +6574,10 @@
   ],
   "18231170866322932": [
    "nada supera colocar",
-   "perde o melhor"
+   "perde o melhor",
+   "eita sexta a",
+   "concordo nada como",
+   "quem tem espaco"
   ]
  },
  "shopee_checada": "2026-11-05|1",
