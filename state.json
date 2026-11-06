@@ -30,10 +30,11 @@
    "13:34",
    "14:15",
    "15:30",
-   "16:15"
+   "16:15",
+   "16:58"
   ],
   "produtos_feitos": 0,
-  "respostas": 37,
+  "respostas": 38,
   "por_post": {
    "18644066287059205": 8,
    "18235105819323131": 1,
@@ -44,33 +45,11 @@
    "18115232447228628": 4,
    "18229654453336032": 6,
    "18129394138877262": 11,
-   "18099246437387630": 2
+   "18099246437387630": 2,
+   "18001115808001002": 1
   }
  },
  "posts": [
-  {
-   "id": "17921144301452722",
-   "insp": "076d4def4f",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: a meta de economizar dinheiro este ano morreu em fevereiro.",
-   "quando": "2026-11-01T11:37:07.861302-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1828,
-    "likes": 70,
-    "replies": 29,
-    "reposts": 2,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-06"
-   },
-   "viral_chk": "2026-11-02T07:07:09.453875-04:00",
-   "link_coment": "https://s.shopee.com.br/BV3rDBybX",
-   "meme_comentado": true,
-   "meme_views": 1766,
-   "formato_link": "coment",
-   "produto": "49610876725"
-  },
   {
    "id": "18133030594706037",
    "insp": "prod_19098752815",
@@ -1272,10 +1251,17 @@
    "texto": "OPINIÃO IMPOPULAR: eu nunca que ia conseguir relaxar num carro que anda sozinho. Prefiro mil vezes xingar os motorista na rua do que terceirizar o volante para um computador.",
    "quando": "2026-11-06T16:37:08.379663-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17918694276265704",
+   "insp": "69d2f4ea0d",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: dar pitaco na carne dos outros é pior do que tentar estacionar carro grande em vaga apertada",
+   "quando": "2026-11-06T17:07:08.887900-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17906661747559822",
   "18118071394916597",
   "18098356274382026",
   "17888922105618029",
@@ -4274,10 +4260,10 @@
   "18004352451039485",
   "18099205076442345",
   "17912159508577786",
-  "18116732279041350"
+  "18116732279041350",
+  "18101469641401030"
  ],
  "hashes": [
-  "058841fcb120fc1bc08da59289393698",
   "2f9840b8caaec07620945fbb4aca493c",
   "5fe35321b26a373140fede7fe2635f5e",
   "d5c35068662c1dfaccb807ea3570fcac",
@@ -4476,7 +4462,8 @@
   "bb3f05e0e4ad34ea9783c66de2473c49",
   "4d02d3cd6533b87547cd9a6c5551913a",
   "bd17d8227f63d98107ea2a3d92660257",
-  "29f358b5df53aa63ffe90f8c87f0f0e3"
+  "29f358b5df53aa63ffe90f8c87f0f0e3",
+  "2e703a3d588fa32855e6929e3dcdbdb9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4841,7 +4828,8 @@
   "9c1aee7436": 1793986696.720882,
   "74e3ec90e5": 1793990289.2466378,
   "7245fe690e": 1793993847.487118,
-  "f29b190cb8": 1793997445.7555845
+  "f29b190cb8": 1793997445.7555845,
+  "69d2f4ea0d": 1793999291.4907131
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4875,7 +4863,7 @@
   "b5e97e9a9f": 1,
   "a4ab77dc97": 1,
   "bf79e78b63": 1,
-  "3d5c74bf9f": 1,
+  "3d5c74bf9f": 2,
   "f0e11056d9": 1,
   "a33a539742": 1,
   "5440c9d3e2": 1,
@@ -4884,11 +4872,6 @@
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "a exaustão com as pessoas pesa bem mais que o serviço em si",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "exato, são os detalhes que salvam a reputação kkk",
    "p": "concorda",
@@ -5032,6 +5015,11 @@
   {
    "t": "chegou na idade redonda e resolveu encarar o transito",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, mas o medo de virar passageira de robô continua firme",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6245,26 +6233,6 @@
   }
  ],
  "aberturas_post": {
-  "18147480598586721": [
-   "jogo dificil no",
-   "cadeira boa realmente",
-   "com o controle",
-   "defesa classica de",
-   "saude do pescoco",
-   "separar o jogo",
-   "quando o encaixe",
-   "coberta e controle",
-   "tecnologia avancada para",
-   "prioridades em dia",
-   "na cama o",
-   "respostas curtas e",
-   "nivel maximo de",
-   "poltrona do papai",
-   "o sono chega",
-   "jogar deitado na",
-   "jeito raiz de",
-   "teclado no colo"
-  ],
   "17870801802641111": [
    "queria ter essa",
    "economia drastica mas",
@@ -6540,6 +6508,9 @@
   "18099246437387630": [
    "comida de respeito",
    "que legal mj"
+  ],
+  "18001115808001002": [
+   "verdade mas o"
   ]
  },
  "shopee_checada": "2026-11-06|1",
