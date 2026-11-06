@@ -28,10 +28,11 @@
    "10:13",
    "12:08",
    "13:34",
-   "14:15"
+   "14:15",
+   "15:30"
   ],
   "produtos_feitos": 0,
-  "respostas": 28,
+  "respostas": 32,
   "por_post": {
    "18644066287059205": 8,
    "18235105819323131": 1,
@@ -40,28 +41,11 @@
    "18403612900201661": 1,
    "18033438020853262": 1,
    "18115232447228628": 4,
-   "18229654453336032": 5,
-   "18129394138877262": 5
+   "18229654453336032": 6,
+   "18129394138877262": 8
   }
  },
  "posts": [
-  {
-   "id": "18090080810678249",
-   "insp": "3a51bc27e7",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: por que todo mundo finge que nunca dormiu no ombro de um desconhecido no ônibus voltando cansado para casa",
-   "quando": "2026-10-31T20:37:08.565264-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 3189,
-    "likes": 63,
-    "replies": 88,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 2,
-    "em": "2026-11-06"
-   }
-  },
   {
    "id": "18115218803125363",
    "insp": "4bd21fcc8d",
@@ -1287,13 +1271,17 @@
    "texto": "VAMOS SER HONESTOS: com quantos anos vocês tiraram a carteira de motorista ou ainda tão enrolando pra começar a autoescola",
    "quando": "2026-11-06T14:37:07.812827-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18099246437387630",
+   "insp": "7245fe690e",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a trilha sonora de 2010 de vocês era mais pop chiclete ou indie triste no fone com fio?",
+   "quando": "2026-11-06T15:37:07.762693-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18168040231479343",
-  "17950813215270200",
-  "18115287313824794",
-  "18079835963343461",
   "18174702247444105",
   "18193767931395738",
   "18641281960027478",
@@ -4289,10 +4277,13 @@
   "18359542441170786",
   "18108569164970880",
   "18652019533047392",
-  "18033982727910268"
+  "18033982727910268",
+  "17912593839306279",
+  "18117277487024835",
+  "18099834272442214",
+  "18078946523736624"
  ],
  "hashes": [
-  "4ae0e33b8d1c5342f01b72573a74caff",
   "6092d20a15ba71084230d130647defe0",
   "058841fcb120fc1bc08da59289393698",
   "2f9840b8caaec07620945fbb4aca493c",
@@ -4491,7 +4482,8 @@
   "12dd837fb6b4904d7103f8202d1a5dbe",
   "45bfb7e848ddca5a9ec024ace23b76ba",
   "bb3f05e0e4ad34ea9783c66de2473c49",
-  "4d02d3cd6533b87547cd9a6c5551913a"
+  "4d02d3cd6533b87547cd9a6c5551913a",
+  "bd17d8227f63d98107ea2a3d92660257"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4854,7 +4846,8 @@
   "d97c7d9c44": 1793975887.3116262,
   "2ff9f40b12": 1793983094.37553,
   "9c1aee7436": 1793986696.720882,
-  "74e3ec90e5": 1793990289.2466378
+  "74e3ec90e5": 1793990289.2466378,
+  "7245fe690e": 1793993847.487118
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4884,30 +4877,14 @@
   "12cbdf8dd1": 1,
   "d506ad102b": 1,
   "0ca84057df": 1,
-  "cb9b5a19f6": 1
+  "cb9b5a19f6": 1,
+  "b5e97e9a9f": 1,
+  "a4ab77dc97": 1,
+  "bf79e78b63": 1,
+  "3d5c74bf9f": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "começou a maratona do aluguel cedo demais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "guardar por anos exige um fôlego danado e abrir mão de muita coisa no meio do caminho",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pelo menos no fim tem um canto pra chamar de seu kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "obrigada, quem sabe a gente não troca figurinha sobre estrada",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "exato, o trabalho repetitivo vai todo pra nuvem",
    "p": "concorda",
@@ -5037,6 +5014,26 @@
    "t": "Entendo seu ponto, mas cada um tem seu ritmo e busca o que funciona kk",
    "p": "neutra",
    "r": 1
+  },
+  {
+   "t": "livre da autoescola e pronta pra rodar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "construir essa base antes de encarar o mundo faz toda a diferença no bolso",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cada um no seu tempo e o importante é já estar circulando",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dezesseis anos, começou bem antes de precisar do documento",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6530,14 +6527,18 @@
    "sair cedo por",
    "esperar o momento",
    "paz mental e",
-   "entendo seu ponto"
+   "entendo seu ponto",
+   "construir essa base"
   ],
   "18129394138877262": [
    "idade boa para",
    "nossa 18 sem",
    "passou longe da",
    "19 ainda tem",
-   "pilotar e habilidade"
+   "pilotar e habilidade",
+   "livre da autoescola",
+   "cada um no",
+   "dezesseis anos comecou"
   ]
  },
  "shopee_checada": "2026-11-06|1",
