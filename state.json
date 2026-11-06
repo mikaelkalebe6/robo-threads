@@ -23,7 +23,8 @@
    "20:27"
   ],
   "feitos": [
-   "08:45"
+   "08:45",
+   "09:32"
   ],
   "produtos_feitos": 0,
   "respostas": 11,
@@ -36,38 +37,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18092331779226608",
-   "insp": "prod_18599879164",
-   "link": "",
-   "texto": "Viajar e ficar paranóica cuidando da carteira e do celular é horrível, né? 😂 Descobri essa doleira antifurto que vai por baixo da roupa e salva muito nos passeios, dá pra guardar tudo sem preocupação. Olha como fica discreta 👀",
-   "quando": "2026-10-31T16:07:08.538336-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "18599879164",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "18599879164",
-    "nome": "3/2/1 PCS Pochete Doleira Antifurto Nylon Impermeável Porta Celular Dinheiro Segurança Viagem Corrida Academia",
-    "offerLink": "https://s.shopee.com.br/4VdzpP7BK7",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repa-mdv3544s8w65bd",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 131,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-11-06"
-   },
-   "link_coment": "https://s.shopee.com.br/4VdzpP7BK7",
-   "link_em": "2026-11-01T10:07:09.481070-04:00",
-   "link_views": 0
-  },
   {
    "id": "18153105085554734",
    "insp": "00e682aa73",
@@ -1356,6 +1325,14 @@
    "link": "",
    "texto": "Quem mais corria desesperado pra ver o desenho antes de ir pra escola e no fim das contas chegava atrasado igual",
    "quando": "2026-11-06T09:07:09.178867-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18033438020853262",
+   "insp": "6868d7247a",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: meu gato dorme dezoito horas por dia sem pagar boleto e quem acorda exausta sou eu",
+   "quando": "2026-11-06T09:37:10.352140-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4362,7 +4339,6 @@
   "18066078338521050"
  ],
  "hashes": [
-  "b4f6bc752f1585e340766a61615f53f1",
   "6223233793dfef75265a7b4d4b16641b",
   "85d593e73ec0e5fe1adc51ab20c11783",
   "b21d96621605970f759f8e1a7252a7b4",
@@ -4561,7 +4537,8 @@
   "2a953a0c762ec5429fcea00b0b29b0a5",
   "4103ab1e3e43916655c6da5609f44488",
   "e4d1a03941fb68967d5b5a94dda34aa8",
-  "54383cc77ecf9fa8e3a9827581c5854f"
+  "54383cc77ecf9fa8e3a9827581c5854f",
+  "72645999f08172756ce2948617acbae7"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4919,7 +4896,8 @@
   "91a0024949": 1793918249.0138323,
   "a632d06d14": 1793921891.1655107,
   "7aa473ea47": 1793927284.681846,
-  "1414707c5c": 1793970458.87282
+  "1414707c5c": 1793970458.87282,
+  "6868d7247a": 1793972287.1141653
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
