@@ -25,7 +25,8 @@
   "feitos": [
    "08:45",
    "09:32",
-   "10:13"
+   "10:13",
+   "12:08"
   ],
   "produtos_feitos": 0,
   "respostas": 13,
@@ -39,29 +40,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18119185082003862",
-   "insp": "1e650f09c7",
-   "link": "",
-   "texto": "SEJAM SINCEROS: quem aqui já stalkearam o ex depois de terminar e fingiu que foi sem querer?",
-   "quando": "2026-10-31T17:37:08.913913-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1595,
-    "likes": 8,
-    "replies": 24,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-06"
-   },
-   "viral_chk": "2026-11-01T07:07:08.994390-04:00",
-   "link_coment": "https://s.shopee.com.br/9APqysTjA9",
-   "meme_comentado": true,
-   "meme_views": 1259,
-   "formato_link": "coment",
-   "produto": "18058588578"
-  },
   {
    "id": "18135924433780729",
    "insp": "1fa67b78db",
@@ -1328,6 +1306,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: ditado de vó hoje em dia só serve para nos fazer rir do nosso próprio sufoco financeira.",
    "quando": "2026-11-06T10:37:10.294929-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18115232447228628",
+   "insp": "2ff9f40b12",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: pagar caro no mecânico por um defeito que era só um fusível ou fingir que o carro é perfeito para não passar raiva",
+   "quando": "2026-11-06T12:37:09.337517-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4334,7 +4320,6 @@
   "18181466947436818"
  ],
  "hashes": [
-  "85d593e73ec0e5fe1adc51ab20c11783",
   "b21d96621605970f759f8e1a7252a7b4",
   "0fb1343460a7d60f67dab3d00d208813",
   "4ae0e33b8d1c5342f01b72573a74caff",
@@ -4533,7 +4518,8 @@
   "e4d1a03941fb68967d5b5a94dda34aa8",
   "54383cc77ecf9fa8e3a9827581c5854f",
   "72645999f08172756ce2948617acbae7",
-  "12dd837fb6b4904d7103f8202d1a5dbe"
+  "12dd837fb6b4904d7103f8202d1a5dbe",
+  "45bfb7e848ddca5a9ec024ace23b76ba"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4893,7 +4879,8 @@
   "7aa473ea47": 1793927284.681846,
   "1414707c5c": 1793970458.87282,
   "6868d7247a": 1793972287.1141653,
-  "d97c7d9c44": 1793975887.3116262
+  "d97c7d9c44": 1793975887.3116262,
+  "2ff9f40b12": 1793983094.37553
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
