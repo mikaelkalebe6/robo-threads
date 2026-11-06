@@ -24,7 +24,8 @@
   ],
   "feitos": [
    "08:45",
-   "09:32"
+   "09:32",
+   "10:13"
   ],
   "produtos_feitos": 0,
   "respostas": 11,
@@ -37,24 +38,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18153105085554734",
-   "insp": "00e682aa73",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: a gente só percebe que tem dinheiro demais parado em besteira quando decide arrumar o armário.",
-   "quando": "2026-10-31T16:37:08.585338-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 118,
-    "likes": 3,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-06"
-   },
-   "viral_chk": "2026-11-01T07:07:08.994390-04:00"
-  },
   {
    "id": "18119185082003862",
    "insp": "1e650f09c7",
@@ -1233,7 +1216,7 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "48514950250",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "48514950250",
     "nome": "Fio de Nylon 100mt 0,20/0,25/0,30/0,35/0,40/0,45/0,50/0,60/0,70/0,80/0,90/1,00 Linha de Pesca e Artesanato",
@@ -1249,7 +1232,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-11-06"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/20wmpHMy0v",
+   "link_em": "2026-11-06T10:37:10.294929-04:00",
+   "link_views": 0
   },
   {
    "id": "18403612900201661",
@@ -1333,6 +1319,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: meu gato dorme dezoito horas por dia sem pagar boleto e quem acorda exausta sou eu",
    "quando": "2026-11-06T09:37:10.352140-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18135565411742818",
+   "insp": "d97c7d9c44",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: ditado de vó hoje em dia só serve para nos fazer rir do nosso próprio sufoco financeira.",
+   "quando": "2026-11-06T10:37:10.294929-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4339,7 +4333,6 @@
   "18066078338521050"
  ],
  "hashes": [
-  "6223233793dfef75265a7b4d4b16641b",
   "85d593e73ec0e5fe1adc51ab20c11783",
   "b21d96621605970f759f8e1a7252a7b4",
   "0fb1343460a7d60f67dab3d00d208813",
@@ -4538,7 +4531,8 @@
   "4103ab1e3e43916655c6da5609f44488",
   "e4d1a03941fb68967d5b5a94dda34aa8",
   "54383cc77ecf9fa8e3a9827581c5854f",
-  "72645999f08172756ce2948617acbae7"
+  "72645999f08172756ce2948617acbae7",
+  "12dd837fb6b4904d7103f8202d1a5dbe"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4897,7 +4891,8 @@
   "a632d06d14": 1793921891.1655107,
   "7aa473ea47": 1793927284.681846,
   "1414707c5c": 1793970458.87282,
-  "6868d7247a": 1793972287.1141653
+  "6868d7247a": 1793972287.1141653,
+  "d97c7d9c44": 1793975887.3116262
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -5695,6 +5690,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-06T07:07:08.908811-04:00"
+  },
+  "18379352275242391": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-06T10:37:10.294929-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6661,7 +6661,7 @@
   "22493432361": "2026-10-29T07:07:08.931399-04:00",
   "19399031891": "2026-10-15T07:07:09.668636-04:00",
   "58209986445": "2026-11-03T13:37:17.191271-04:00",
-  "48514950250": "2026-11-05T16:37:09.932641-04:00",
+  "48514950250": "2026-11-06T10:37:10.294929-04:00",
   "53108597653": "2026-10-15T19:37:08.210002-04:00",
   "21897981655": "2026-10-16T11:07:09.333086-04:00",
   "23198658411": "2026-11-01T13:07:08.715113-04:00",
