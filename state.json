@@ -24,9 +24,9 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 5,
+  "respostas": 8,
   "por_post": {
-   "18644066287059205": 2,
+   "18644066287059205": 5,
    "18235105819323131": 1,
    "18119319922812758": 1,
    "17968225734230291": 1
@@ -1367,9 +1367,6 @@
   }
  ],
  "respondidos": [
-  "18119404295291221",
-  "18115712732005355",
-  "18335964718258987",
   "17902596672597298",
   "17882862621622150",
   "18130563931685574",
@@ -4366,7 +4363,10 @@
   "18110816273625288",
   "18119829875469782",
   "18094859300194905",
-  "17911802436664699"
+  "17911802436664699",
+  "18046886273828574",
+  "18196221061397228",
+  "18099422996420983"
  ],
  "hashes": [
   "d6f134af9fd15b38f4df563e16860a6e",
@@ -4933,25 +4933,13 @@
   "09d4edf353": 1,
   "854808a0a5": 1,
   "5a4f6559c6": 2,
-  "a2bf7b5e57": 1
+  "a2bf7b5e57": 1,
+  "6eb6b3a9b4": 1,
+  "6d44906a0d": 1,
+  "3864e62b28": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "dona Conceição ia precisar de um cursinho avançado pra decifrar certas coisas kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "economia dupla mas a faxina continua pesada kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "acumula a função de patroa e funcionária no mesmo boleto kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "verdade, mas a culpa bate igual quando a pilha de roupa acumulada aparece",
    "p": "concorda",
@@ -5085,6 +5073,21 @@
   {
    "t": "propósito é ótimo mas a conta na ponta do lápis não fecha sozinha",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "mas a paz de não ter senhorio aparecendo é bom demais kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "essa paz de espirito vale cada centavo da tREpidaçao",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a exaustão com as pessoas pesa bem mais que o serviço em si",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6592,7 +6595,10 @@
    "comecou a maratona",
    "guardar por anos",
    "pelo menos no",
-   "proposito e otimo"
+   "proposito e otimo",
+   "mas a paz",
+   "essa paz de",
+   "a exaustao com"
   ]
  },
  "shopee_checada": "2026-11-06|1",
