@@ -32,7 +32,7 @@
    "15:30"
   ],
   "produtos_feitos": 0,
-  "respostas": 32,
+  "respostas": 34,
   "por_post": {
    "18644066287059205": 8,
    "18235105819323131": 1,
@@ -42,7 +42,8 @@
    "18033438020853262": 1,
    "18115232447228628": 4,
    "18229654453336032": 6,
-   "18129394138877262": 8
+   "18129394138877262": 9,
+   "18099246437387630": 1
   }
  },
  "posts": [
@@ -1282,8 +1283,6 @@
   }
  ],
  "respondidos": [
-  "18174702247444105",
-  "18193767931395738",
   "18641281960027478",
   "18088379951248372",
   "18120306844803495",
@@ -4281,7 +4280,9 @@
   "17912593839306279",
   "18117277487024835",
   "18099834272442214",
-  "18078946523736624"
+  "18078946523736624",
+  "17870981784659274",
+  "18004352451039485"
  ],
  "hashes": [
   "6092d20a15ba71084230d130647defe0",
@@ -4881,20 +4882,12 @@
   "b5e97e9a9f": 1,
   "a4ab77dc97": 1,
   "bf79e78b63": 1,
-  "3d5c74bf9f": 1
+  "3d5c74bf9f": 1,
+  "f0e11056d9": 1,
+  "a33a539742": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "exato, o trabalho repetitivo vai todo pra nuvem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "estratégia de técnico genial deixar o artilheiro escondido no banco kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "propósito é ótimo mas a conta na ponta do lápis não fecha sozinha",
    "p": "ressalva",
@@ -5034,6 +5027,16 @@
    "t": "dezesseis anos, começou bem antes de precisar do documento",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "comida de respeito pra acompanhar o sofrimento indie kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Sei bem, essas provas tiram a paciência, mas agora vai passar kkkkk 🙏🏼",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6246,11 +6249,6 @@
   }
  ],
  "aberturas_post": {
-  "18433923586146915": [
-   "que capricho fica",
-   "boa saber que",
-   "verdade ajuda muito"
-  ],
   "18147480598586721": [
    "jogo dificil no",
    "cadeira boa realmente",
@@ -6538,7 +6536,11 @@
    "pilotar e habilidade",
    "livre da autoescola",
    "cada um no",
-   "dezesseis anos comecou"
+   "dezesseis anos comecou",
+   "sei bem essas"
+  ],
+  "18099246437387630": [
+   "comida de respeito"
   ]
  },
  "shopee_checada": "2026-11-06|1",
