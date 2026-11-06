@@ -30,7 +30,7 @@
    "13:34"
   ],
   "produtos_feitos": 0,
-  "respostas": 15,
+  "respostas": 20,
   "por_post": {
    "18644066287059205": 8,
    "18235105819323131": 1,
@@ -38,7 +38,8 @@
    "17968225734230291": 1,
    "18403612900201661": 1,
    "18033438020853262": 1,
-   "18115232447228628": 1
+   "18115232447228628": 4,
+   "18229654453336032": 2
   }
  },
  "posts": [
@@ -1311,12 +1312,6 @@
   }
  ],
  "respondidos": [
-  "18112667975518999",
-  "18112320067843802",
-  "18144322522585106",
-  "18139179634615288",
-  "18340021924258470",
-  "18108434984172663",
   "18136861597629435",
   "18088885205236388",
   "18115655117281659",
@@ -4310,7 +4305,13 @@
   "18122705654052842",
   "18181466947436818",
   "18482588053112653",
-  "18091348856261339"
+  "18091348856261339",
+  "17876501781638238",
+  "18147252628596801",
+  "18117932390012887",
+  "18024808409946328",
+  "18154663612527240",
+  "17877327441587134"
  ],
  "hashes": [
   "0fb1343460a7d60f67dab3d00d208813",
@@ -4891,35 +4892,15 @@
   "ffc875e4b9": 1,
   "7bc7da4aa8": 1,
   "b69237a9bf": 1,
-  "385afd1a7c": 1
+  "385afd1a7c": 1,
+  "8cfd57f999": 1,
+  "1b562b4ea6": 1,
+  "7ee1272f2f": 1,
+  "2307989de4": 1,
+  "f27bbbce0f": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, parece até invasão de privacidade, né",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quando a confiança é boa a gente até esquece onde o celular tá guardado",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "nada supera colocar uma boa música e cuidar de tudo com calma",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perde o melhor da terapia que é espalhar balde e mangueira sem hora para acabar",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "Eita, sexta à tarde já tá na agenda kkk 🙈",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Concordo, nada como música e espuma em casa kkk",
    "p": "concorda",
@@ -5042,6 +5023,31 @@
   },
   {
    "t": "evitar o estrago maior sempre sai mais barato no final das contas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia certeira para começar a vida com uma base firme",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sair cedo por falta de opção pesa o dobro, mas o foco na casa própria muda tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "a peca e só um detalhe no valor final",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estudar ele estudou, mas o susto na nota fiscal continua o mesmo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa conta fracionada sempre dói no bolso de um jeito criativo",
    "p": "concorda",
    "r": 0
   }
@@ -6256,15 +6262,6 @@
   }
  ],
  "aberturas_post": {
-  "18080625980418879": [
-   "sorvete resolve quase",
-   "deixar tudo pronto",
-   "queria ter essa",
-   "os cavalinhos do",
-   "justo o boleto",
-   "qualquer ajuda celestial",
-   "pizza e filme"
-  ],
   "17953965141313574": [
    "semi novo alivia",
    "esse modelo aguenta",
@@ -6547,7 +6544,14 @@
    "trocar de vida"
   ],
   "18115232447228628": [
-   "evitar o estrago"
+   "evitar o estrago",
+   "a peca e",
+   "estudar ele estudou",
+   "essa conta fracionada"
+  ],
+  "18229654453336032": [
+   "estrategia certeira para",
+   "sair cedo por"
   ]
  },
  "shopee_checada": "2026-11-06|1",
