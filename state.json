@@ -34,9 +34,9 @@
    "16:58"
   ],
   "produtos_feitos": 0,
-  "respostas": 42,
+  "respostas": 43,
   "por_post": {
-   "18644066287059205": 8,
+   "18644066287059205": 9,
    "18235105819323131": 1,
    "18119319922812758": 2,
    "17968225734230291": 1,
@@ -1263,7 +1263,6 @@
   }
  ],
  "respondidos": [
-  "17914070529523619",
   "18182303785421089",
   "18441191911121388",
   "17871277242649554",
@@ -4262,7 +4261,8 @@
   "18056068730600091",
   "18641316277029052",
   "18138470689637989",
-  "18125168069292980"
+  "18125168069292980",
+  "17971577559192987"
  ],
  "hashes": [
   "2f9840b8caaec07620945fbb4aca493c",
@@ -4872,15 +4872,11 @@
   "b09a9c7616": 1,
   "823d3c8ca6": 1,
   "ef605c7fd9": 1,
-  "7cd2b864cd": 1
+  "7cd2b864cd": 1,
+  "37badd5fd7": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "verdade, o cenário atual já deixa a gente preocupada com o dia de amanhã",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Nossa, 1500 na kitnet parece golpe, né? Também me sinto na mesma",
    "p": "concorda",
@@ -5025,6 +5021,11 @@
    "t": "o detran cobrando o juros do exame de vista kkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "desse jeito aí fica difícil meter as caras",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6455,7 +6456,8 @@
    "a exaustao com",
    "esse choro de",
    "motor potente exige",
-   "nossa 1500 na"
+   "nossa 1500 na",
+   "desse jeito ai"
   ],
   "18033438020853262": [
    "trocar de vida"
