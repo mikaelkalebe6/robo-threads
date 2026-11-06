@@ -25,7 +25,8 @@
    "16:10",
    "16:56",
    "18:12",
-   "19:18"
+   "19:18",
+   "21:03"
   ],
   "produtos_feitos": 2,
   "respostas": 67,
@@ -46,29 +47,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18106825157572440",
-   "insp": "74bdceb463",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: vale a pena trocar o carro a combustão pelo elétrico agora ou a gente ainda vai passar muita raiva com infraestrutura?",
-   "quando": "2026-10-31T13:37:09.986587-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 5733,
-    "likes": 11,
-    "replies": 37,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-05"
-   },
-   "viral_chk": "2026-11-01T07:07:08.994390-04:00",
-   "link_coment": "https://s.shopee.com.br/4Ve1QHlgrx",
-   "meme_comentado": true,
-   "meme_views": 4487,
-   "formato_link": "coment",
-   "produto": "58257502470"
-  },
   {
    "id": "18010950449778561",
    "insp": "2096a4fb50",
@@ -1308,6 +1286,14 @@
    "texto": "VAMOS CONCORDAR: tirar o domingo de manhã pra dar um trato no carro é quase uma terapia.\n\nMas quero ver de que lado vocês estão:\n1. Lavar em casa ouvindo música\n2. Pagar no lava-jato e não ter dor de cabeça\n\nTem dia que a preguiça ganha fácil.",
    "quando": "2026-11-05T19:37:08.093266-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18644066287059205",
+   "insp": "7aa473ea47",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: a gente rala de CLT a vida toda pra conseguir financiar um AP ou vai acabar morrendo de pagar aluguel mesmo",
+   "quando": "2026-11-05T21:07:08.516406-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4313,7 +4299,6 @@
   "18069191186787041"
  ],
  "hashes": [
-  "cd9f58423c6a3a34053b8156870d890d",
   "d6f134af9fd15b38f4df563e16860a6e",
   "b4f6bc752f1585e340766a61615f53f1",
   "6223233793dfef75265a7b4d4b16641b",
@@ -4512,7 +4497,8 @@
   "eb7cf60d83bfd42188d15ab3e90e3a05",
   "b4497a0474b36d64e9edcf4bb580630a",
   "2a953a0c762ec5429fcea00b0b29b0a5",
-  "4103ab1e3e43916655c6da5609f44488"
+  "4103ab1e3e43916655c6da5609f44488",
+  "e4d1a03941fb68967d5b5a94dda34aa8"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4868,7 +4854,8 @@
   "79dfd69787": 1793902044.3623226,
   "4a3ce15183": 1793912894.1850026,
   "91a0024949": 1793918249.0138323,
-  "a632d06d14": 1793921891.1655107
+  "a632d06d14": 1793921891.1655107,
+  "7aa473ea47": 1793927284.681846
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
