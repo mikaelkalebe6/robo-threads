@@ -20,9 +20,10 @@
    "19:47"
   ],
   "feitos": [
-   "09:07"
+   "09:07",
+   "10:35"
   ],
-  "produtos_feitos": 0,
+  "produtos_feitos": 1,
   "respostas": 27,
   "por_post": {
    "18122196040984824": 10,
@@ -35,38 +36,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17915050032536597",
-   "insp": "prod_23193620740",
-   "link": "",
-   "texto": "Entrar no carro no sol e queimar a mão no volante é dose 😂\nDescobri esse protetor de para-brisa que abre igual guarda-sol e salva o painel do calor.\nOlha como funciona 👀",
-   "quando": "2026-11-01T20:37:08.698564-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "23193620740",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "23193620740",
-    "nome": "Quebrador Sol Painel Guarda Sol Proteção Solar Uv Para-brisa Carro Painel Protetor Universal",
-    "offerLink": "https://s.shopee.com.br/2Vsx2b2RHc",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4rts49xy2m9e1",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 205,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-07"
-   },
-   "link_coment": "https://s.shopee.com.br/2Vsx2b2RHc",
-   "link_em": "2026-11-02T14:37:09.876861-04:00",
-   "link_views": 0
-  },
   {
    "id": "18129509551855569",
    "insp": "ddecfa5388",
@@ -1301,6 +1270,26 @@
    "texto": "SEM MENTIR: ler a conversa alheia no transporte público olhando cada detalhe ou fingir plena paz de espírito ouvindo música de fone?",
    "quando": "2026-11-07T09:07:07.447101-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18497032045105006",
+   "insp": "prod_20697639367",
+   "link": "",
+   "texto": "Aquela bagunça de água no jardim que nunca acaba, né? 😂 descobri esse borrifador 2L que dá conta de tudo, das plantas ao carro. olha como funciona 👀",
+   "quando": "2026-11-07T10:37:07.784237-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "20697639367",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "20697639367",
+    "nome": "Pulverizador Borrifador Spray Para Jardinagem Multiuso 2 Litros",
+    "offerLink": "https://s.shopee.com.br/gRSQcSW7S",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgdqb2v9gbnp0b",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
@@ -6782,7 +6771,8 @@
   "23594653183": "2026-11-05T07:07:09.689824-04:00",
   "22795030307": "2026-11-05T07:07:09.689824-04:00",
   "23198805153": "2026-11-07T07:07:09.395080-04:00",
-  "21197690424": "2026-11-07T07:07:09.395080-04:00"
+  "21197690424": "2026-11-07T07:07:09.395080-04:00",
+  "20697639367": "2026-11-07T10:37:07.784237-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
