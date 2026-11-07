@@ -29,7 +29,7 @@
    "16:04"
   ],
   "produtos_feitos": 2,
-  "respostas": 54,
+  "respostas": 56,
   "por_post": {
    "18122196040984824": 14,
    "18003889164009680": 1,
@@ -42,7 +42,7 @@
    "18094337621212236": 5,
    "18129394138877262": 1,
    "18139184407643257": 5,
-   "18116946094839551": 2
+   "18116946094839551": 4
   }
  },
  "posts": [
@@ -1251,8 +1251,6 @@
   }
  ],
  "respondidos": [
-  "18155242612541799",
-  "18067882760761805",
   "18086442401299357",
   "18118591900981852",
   "17970741225177884",
@@ -4250,7 +4248,9 @@
   "17931578190422988",
   "18644273887034241",
   "18090170300305906",
-  "18017127710961847"
+  "18017127710961847",
+  "18116088392463726",
+  "18117285482326629"
  ],
  "hashes": [
   "5b76a82e91e0b4a3a1a69e2c07aafc3e",
@@ -4855,7 +4855,7 @@
   "a967292c8e": 1,
   "b6e53b4fd1": 1,
   "056d3b5f78": 1,
-  "9c9ed7acc0": 1,
+  "9c9ed7acc0": 2,
   "ccb7423983": 1,
   "96a8849047": 1,
   "bb58ba6a7e": 1,
@@ -4883,20 +4883,11 @@
   "adef30b750": 1,
   "01848cc2dc": 1,
   "289d591c88": 1,
-  "724c90eeb1": 1
+  "724c90eeb1": 1,
+  "3edc4f68a3": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "olhar para fora tem seu valor, principalmente quando a paisagem ajuda",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "economia e entretenimento no mesmo bilhete",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "muito melhor garantir a sanidade mental no trajeto kkk",
    "p": "concorda",
@@ -5034,6 +5025,16 @@
   },
   {
    "t": "tomara que o resto do mercado siga esse mesmo ritmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "muita gente ainda fica presa nessa rigidez sem sentido",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tomara mesmo, porque o plano é grande e a vontade tá maior ainda",
    "p": "concorda",
    "r": 0
   }
@@ -6540,7 +6541,9 @@
   ],
   "18116946094839551": [
    "brasilia costuma ser",
-   "tomara que o"
+   "tomara que o",
+   "muita gente ainda",
+   "tomara mesmo porque"
   ]
  },
  "shopee_checada": "2026-11-07|1",
