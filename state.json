@@ -37,7 +37,7 @@
    "20:27"
   ],
   "produtos_feitos": 0,
-  "respostas": 49,
+  "respostas": 51,
   "por_post": {
    "18644066287059205": 9,
    "18235105819323131": 1,
@@ -51,7 +51,8 @@
    "18099246437387630": 2,
    "18001115808001002": 3,
    "17918694276265704": 1,
-   "18570701296079335": 3
+   "18570701296079335": 3,
+   "18074939729767419": 2
   }
  },
  "posts": [
@@ -1218,8 +1219,6 @@
   }
  ],
  "respondidos": [
-  "18087523793271403",
-  "17987156508114434",
   "18197682040383695",
   "18091558364666961",
   "17923763889426348",
@@ -4217,7 +4216,9 @@
   "18579654919079242",
   "18121978852946440",
   "17885712873523381",
-  "17898156651681917"
+  "17898156651681917",
+  "17892964968455818",
+  "17917405710469993"
  ],
  "hashes": [
   "5c5f365697bfca543b07409213c1c778",
@@ -4836,20 +4837,11 @@
   "1e4270bcfe": 1,
   "e91d8c9298": 1,
   "3dec709f27": 1,
-  "e94176e974": 1
+  "e94176e974": 2,
+  "7248dbebb2": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "essa conta fracionada sempre dói no bolso de um jeito criativo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esperar o momento certo evita aquela pressa desnecessária para pagar aluguel",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "paz mental e saúde não têm preço que pague mesmo",
    "p": "ressalva",
@@ -4989,6 +4981,16 @@
    "t": "kkk, então esse carro ainda está esperando a primeira curva 😂",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "concordo, churrasco bom é aquele que não sai com gosto de carvão",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, se vacilar o almoço vira crocante de carvão kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6201,9 +6203,6 @@
   }
  ],
  "aberturas_post": {
-  "18288224983293291": [
-   "pesado ai voce"
-  ],
   "18147973417588492": [
    "esse tempinho sozinho",
    "realidade bem diferente",
@@ -6469,6 +6468,10 @@
    "pelo menos o",
    "personagem de desenho",
    "monstrang e excelente"
+  ],
+  "18074939729767419": [
+   "concordo churrasco bom",
+   "verdade se vacilar"
   ]
  },
  "shopee_checada": "2026-11-06|1",
