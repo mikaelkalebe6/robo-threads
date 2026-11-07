@@ -33,10 +33,11 @@
    "16:15",
    "16:58",
    "18:24",
-   "19:40"
+   "19:40",
+   "20:27"
   ],
   "produtos_feitos": 0,
-  "respostas": 48,
+  "respostas": 49,
   "por_post": {
    "18644066287059205": 9,
    "18235105819323131": 1,
@@ -48,30 +49,12 @@
    "18229654453336032": 8,
    "18129394138877262": 13,
    "18099246437387630": 2,
-   "18001115808001002": 2,
+   "18001115808001002": 3,
    "17918694276265704": 1,
    "18570701296079335": 3
   }
  },
  "posts": [
-  {
-   "id": "18110708246187465",
-   "insp": "2abbca2759",
-   "link": "",
-   "texto": "Confissão: ouço áudio no dois x e finjo que peguei todas as referências. Difícil demais acompanhar quem não vai direto ao ponto.",
-   "quando": "2026-11-01T15:37:08.243164-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 165,
-    "likes": 1,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-06"
-   },
-   "viral_chk": "2026-11-02T08:37:09.410238-04:00"
-  },
   {
    "id": "18110025206217118",
    "insp": "prod_22898339820",
@@ -1224,10 +1207,17 @@
    "texto": "OPINIÃO IMPOPULAR: metade das pessoas que compram SUV só querem um carro grandão pra disfarçar que não têm a menor noção de espaço na hora de colocar na vaga. \n\nCâmera 360 e sensor apitando viraram artigo de primeira necessidade.",
    "quando": "2026-11-06T20:07:09.094701-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "18074939729767419",
+   "insp": "fc00b47dce",
+   "link": "",
+   "texto": "Todo grupo tem o amigo que fala que entende tudo de churrasco mas só sabe queimar a carne.\n\nTeam churrasqueiro raiz ou team quem só sabe virar a carne?",
+   "quando": "2026-11-06T20:37:08.432191-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18104079410367356",
   "18087523793271403",
   "17987156508114434",
   "18197682040383695",
@@ -4226,10 +4216,10 @@
   "18090290939293217",
   "18579654919079242",
   "18121978852946440",
-  "17885712873523381"
+  "17885712873523381",
+  "17898156651681917"
  ],
  "hashes": [
-  "d5c35068662c1dfaccb807ea3570fcac",
   "5c5f365697bfca543b07409213c1c778",
   "564bb4d5e3e1a2a9314fbbf93112d4b8",
   "a85e2db8a3bb84d15f6af20bb9c2333c",
@@ -4428,7 +4418,8 @@
   "29f358b5df53aa63ffe90f8c87f0f0e3",
   "2e703a3d588fa32855e6929e3dcdbdb9",
   "b034aeb1facbc7f33ca371dfd0561fb8",
-  "981ec72df27b67f438cb730bfde89f4b"
+  "981ec72df27b67f438cb730bfde89f4b",
+  "245ef317dfb41ec55a229e1685c7abb3"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4796,7 +4787,8 @@
   "f29b190cb8": 1793997445.7555845,
   "69d2f4ea0d": 1793999291.4907131,
   "9c493df816": 1794004693.5780976,
-  "6fb64f3b74": 1794010070.2160158
+  "6fb64f3b74": 1794010070.2160158,
+  "fc00b47dce": 1794011894.5493534
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4843,15 +4835,11 @@
   "1d843c5a59": 1,
   "1e4270bcfe": 1,
   "e91d8c9298": 1,
-  "3dec709f27": 1
+  "3dec709f27": 1,
+  "e94176e974": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "estudar ele estudou, mas o susto na nota fiscal continua o mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa conta fracionada sempre dói no bolso de um jeito criativo",
    "p": "concorda",
@@ -4996,6 +4984,11 @@
    "t": "aproveitou o aniversário para garantir o documento logo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "kkk, então esse carro ainda está esperando a primeira curva 😂",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6466,7 +6459,8 @@
   ],
   "18001115808001002": [
    "verdade mas o",
-   "ar condicionado e"
+   "ar condicionado e",
+   "entao esse carro"
   ],
   "17918694276265704": [
    "significa o que"
