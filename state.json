@@ -39,7 +39,7 @@
    "21:56"
   ],
   "produtos_feitos": 0,
-  "respostas": 69,
+  "respostas": 75,
   "por_post": {
    "18644066287059205": 9,
    "18235105819323131": 1,
@@ -49,14 +49,14 @@
    "18033438020853262": 1,
    "18115232447228628": 4,
    "18229654453336032": 9,
-   "18129394138877262": 13,
+   "18129394138877262": 14,
    "18099246437387630": 3,
    "18001115808001002": 3,
    "17918694276265704": 1,
    "18570701296079335": 3,
    "18074939729767419": 5,
    "18003889164009680": 4,
-   "18122196040984824": 9
+   "18122196040984824": 14
   }
  },
  "posts": [
@@ -1189,12 +1189,6 @@
   }
  ],
  "respondidos": [
-  "18521248048100842",
-  "18015273749949392",
-  "18635643298005043",
-  "18117568421589384",
-  "17904850728589432",
-  "18130805654509350",
   "18478072681113930",
   "18087450368308969",
   "18025914725697503",
@@ -4188,7 +4182,13 @@
   "18079720478732958",
   "18109411169197854",
   "17987335413093702",
-  "18135386539703764"
+  "18135386539703764",
+  "17890533435478277",
+  "17990162609881230",
+  "17993451057070892",
+  "18102357740374145",
+  "17949723747357003",
+  "18136037038671987"
  ],
  "hashes": [
   "a85e2db8a3bb84d15f6af20bb9c2333c",
@@ -4826,40 +4826,16 @@
   "c63f23746e": 2,
   "4e198d1f37": 1,
   "9447223fdb": 1,
-  "2173207d48": 1
+  "2173207d48": 1,
+  "a38d28d129": 1,
+  "d7e141a32c": 1,
+  "ccd2212bc2": 1,
+  "c55b93cbdb": 1,
+  "0763695e10": 1,
+  "22a8b58fc1": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "ar condicionado é o verdadeiro equipamento de paz mundial kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "economia real que o aluguel nunca deixa a gente fazer",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o detran cobrando o juros do exame de vista kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "desse jeito aí fica difícil meter as caras",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "real, o perigo de desviar a rota é gigante se não tiver foco",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pelo menos o nome já avisa a situação pro mecânico kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "personagem de desenho éapele, o possante sai ganhando nessa kkk",
    "p": "concorda",
@@ -4978,6 +4954,36 @@
   {
    "t": "o aprendizado e valido, mas a base financeira ainda e a prioridade aqui",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "ganhou outra moral depois de adulta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "continuar firme na birra infantil é um compromisso de longo prazo",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "fez o percurso totalmente inverso ao da maioria",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "dupla dinâmica da virada de chave na vida adulta kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "merenda escolar vinha com sabor de desafio diário kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "idade redonda pra encarar o detran",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6425,7 +6431,8 @@
    "eita 18 ja",
    "chegou na idade",
    "o detran cobrando",
-   "aproveitou o aniversario"
+   "aproveitou o aniversario",
+   "idade redonda pra"
   ],
   "18099246437387630": [
    "comida de respeito",
@@ -6467,7 +6474,12 @@
    "esse exige respeito",
    "acucar como moeda",
    "tambem detestava macarrao",
-   "brabo e o"
+   "brabo e o",
+   "ganhou outra moral",
+   "continuar firme na",
+   "fez o percurso",
+   "dupla dinamica da",
+   "merenda escolar vinha"
   ]
  },
  "shopee_checada": "2026-11-06|1",
