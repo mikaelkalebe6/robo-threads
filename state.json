@@ -30,7 +30,7 @@
    "17:20"
   ],
   "produtos_feitos": 2,
-  "respostas": 56,
+  "respostas": 58,
   "por_post": {
    "18122196040984824": 14,
    "18003889164009680": 1,
@@ -43,7 +43,8 @@
    "18094337621212236": 5,
    "18129394138877262": 1,
    "18139184407643257": 5,
-   "18116946094839551": 4
+   "18116946094839551": 5,
+   "18139699534731715": 1
   }
  },
  "posts": [
@@ -1242,8 +1243,6 @@
   }
  ],
  "respondidos": [
-  "18086442401299357",
-  "18118591900981852",
   "17970741225177884",
   "17992079112024661",
   "18112818278124124",
@@ -4241,7 +4240,9 @@
   "18090170300305906",
   "18017127710961847",
   "18116088392463726",
-  "18117285482326629"
+  "18117285482326629",
+  "17971596852179720",
+  "18133200424830715"
  ],
  "hashes": [
   "db942cfa69c91bf333c00bcca1727f14",
@@ -4876,20 +4877,12 @@
   "01848cc2dc": 1,
   "289d591c88": 1,
   "724c90eeb1": 1,
-  "3edc4f68a3": 1
+  "3edc4f68a3": 1,
+  "cd315e2fa1": 1,
+  "e5af0db525": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "muito melhor garantir a sanidade mental no trajeto kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "saúde mental nesse processo vale cada centavo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "esse áudio vinha com direito a orelhinhas e recado especial",
    "p": "concorda",
@@ -5027,6 +5020,16 @@
   },
   {
    "t": "tomara mesmo, porque o plano é grande e a vontade tá maior ainda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quem tem aliança flerta sem medo porque acha que nada vai acontecer",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "filtro excelente para identificar onde não vale a pena trabalhar",
    "p": "concorda",
    "r": 0
   }
@@ -6256,16 +6259,6 @@
   }
  ],
  "aberturas_post": {
-  "17944488396382748": [
-   "multiplicar aniversario por",
-   "pagar para assistir",
-   "farmacia virou parada",
-   "essa foto superfaturada",
-   "a mensalidade e",
-   "cobrar esse valor",
-   "duas mensalidades no",
-   "realmente esses gastos"
-  ],
   "18130295941794634": [
    "quem ja tem"
   ],
@@ -6535,7 +6528,11 @@
    "brasilia costuma ser",
    "tomara que o",
    "muita gente ainda",
-   "tomara mesmo porque"
+   "tomara mesmo porque",
+   "filtro excelente para"
+  ],
+  "18139699534731715": [
+   "quem tem alianca"
   ]
  },
  "shopee_checada": "2026-11-07|1",
