@@ -22,39 +22,23 @@
   "feitos": [
    "09:07",
    "10:35",
-   "11:17"
+   "11:17",
+   "11:57"
   ],
   "produtos_feitos": 1,
-  "respostas": 28,
+  "respostas": 34,
   "por_post": {
    "18122196040984824": 10,
    "18003889164009680": 1,
    "18078919208732779": 1,
-   "18001115808001002": 2,
+   "18001115808001002": 3,
    "18099246437387630": 2,
    "18229654453336032": 6,
-   "17910631911572963": 6
+   "17910631911572963": 6,
+   "18088627868316590": 5
   }
  },
  "posts": [
-  {
-   "id": "18042505940779811",
-   "insp": "b5bc8dc34f",
-   "link": "",
-   "texto": "Qual foi a maior arte que o teu cachorro ou gato já fez em casa quando tu não tava olhando",
-   "quando": "2026-11-02T08:37:09.410238-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-02T08:37:09.410238-04:00",
-   "metricas": {
-    "views": 1032,
-    "likes": 2,
-    "replies": 14,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-07"
-   }
-  },
   {
    "id": "18121901744054913",
    "insp": "362b6ca4e3",
@@ -1281,15 +1265,17 @@
    "texto": "Qual voz de famoso ia fazer qualquer pessoa aceitar um áudio de bom dia sem reclamar",
    "quando": "2026-11-07T11:37:07.753049-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18094337621212236",
+   "insp": "3ef9800d4d",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: deixar o carona controlar a playlist da viagem de carro é um ato de amor real ou um risco desnecessário para a sanidade mental de quem está dirigindo",
+   "quando": "2026-11-07T12:07:07.735706-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17874387684584563",
-  "17939550417372070",
-  "18335551207272222",
-  "18125825134867233",
-  "18075981917439314",
-  "18412722607081386",
   "18112901357332938",
   "18030716333895628",
   "18460888438139835",
@@ -4283,10 +4269,15 @@
   "18115739929853139",
   "18049838636820074",
   "18093947954285268",
-  "18138814327727198"
+  "18138814327727198",
+  "18155093494552834",
+  "18072339851770039",
+  "18182451166441077",
+  "18136651990788901",
+  "18022642775730436",
+  "17950410882349239"
  ],
  "hashes": [
-  "af396878dc4193e2f6779c4557801bed",
   "8e79518ae03897c8629d7f1a2617f6d3",
   "2d5b61a88cc2d4ab350d4e19f540f760",
   "5b76a82e91e0b4a3a1a69e2c07aafc3e",
@@ -4485,7 +4476,8 @@
   "ba60b253bdd6530009bf6c2672a0099b",
   "0367ff78577717d903959993a362687d",
   "54d5f74616c85277e7a24ec745a2e74f",
-  "0d39caef1ca9881ec5268dd39de8e511"
+  "0d39caef1ca9881ec5268dd39de8e511",
+  "dd86ac50af1a1bddcecdec80447a0cd0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4858,7 +4850,8 @@
   "9ff7d269b6": 1794015483.5992877,
   "048fecc76e": 1794017284.4860115,
   "e6849630fe": 1794056839.9159582,
-  "16918d1a30": 1794065843.5841568
+  "16918d1a30": 1794065843.5841568,
+  "3ef9800d4d": 1794067697.2892349
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4887,40 +4880,16 @@
   "056d3b5f78": 1,
   "9c9ed7acc0": 1,
   "ccb7423983": 1,
-  "96a8849047": 1
+  "96a8849047": 1,
+  "bb58ba6a7e": 1,
+  "26c18eddbe": 1,
+  "e4af130d2c": 1,
+  "39a12b625d": 1,
+  "eb3a6aedb2": 1,
+  "3f8988d5fe": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "merenda escolar vinha com sabor de desafio diário kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "idade redonda pra encarar o detran",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cenoura cozida na infancia parecia castigo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cobrar taxa de consultoria para o desespero alheio é um bom negócio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse modelo aí pede um copiloto só pra avisar a distância",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "veio do futuro ou errou de aba",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "saiu direto do fone com fio para o caos sonoro kkk",
    "p": "concorda",
@@ -5039,6 +5008,36 @@
   {
    "t": "saúde mental nesse processo vale cada centavo kkk",
    "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse áudio vinha com direito a orelhinhas e recado especial",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "ousadia e alegria de manhã cedo é para poucos kkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Ah, então já tem a trilha sonora perfeita 😏 kkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Teleporte seria top, chegaria antes do carro reclamar kkk 🚀",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "essa eu não esperava, mas a voz é tão marcante que até faria sentido",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "kkk universo paralelo, mas admiro a força",
+   "p": "neutra",
    "r": 1
   }
  ],
@@ -6267,9 +6266,6 @@
   }
  ],
  "aberturas_post": {
-  "17886556293690167": [
-   "compromisso sagrado de"
-  ],
   "18146901799608252": [
    "essa selecao de",
    "dividir o jogo",
@@ -6510,7 +6506,8 @@
    "ar condicionado e",
    "entao esse carro",
    "veio do futuro",
-   "continuo preferindo xingar"
+   "continuo preferindo xingar",
+   "teleporte seria top"
   ],
   "17918694276265704": [
    "significa o que"
@@ -6566,6 +6563,13 @@
    "olhar para fora",
    "economia e entretenimento",
    "muito melhor garantir"
+  ],
+  "18088627868316590": [
+   "esse audio vinha",
+   "ousadia e alegria",
+   "ah entao ja",
+   "essa eu nao",
+   "universo paralelo mas"
   ]
  },
  "shopee_checada": "2026-11-07|1",
