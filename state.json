@@ -39,7 +39,7 @@
    "21:56"
   ],
   "produtos_feitos": 0,
-  "respostas": 63,
+  "respostas": 69,
   "por_post": {
    "18644066287059205": 9,
    "18235105819323131": 1,
@@ -48,15 +48,15 @@
    "18403612900201661": 1,
    "18033438020853262": 1,
    "18115232447228628": 4,
-   "18229654453336032": 8,
+   "18229654453336032": 9,
    "18129394138877262": 13,
-   "18099246437387630": 2,
+   "18099246437387630": 3,
    "18001115808001002": 3,
    "17918694276265704": 1,
    "18570701296079335": 3,
-   "18074939729767419": 4,
+   "18074939729767419": 5,
    "18003889164009680": 4,
-   "18122196040984824": 6
+   "18122196040984824": 9
   }
  },
  "posts": [
@@ -1189,12 +1189,6 @@
   }
  ],
  "respondidos": [
-  "17971407069158575",
-  "18123280474902315",
-  "18135332158632498",
-  "18139247335618625",
-  "17918719305444151",
-  "17901037248374996",
   "18521248048100842",
   "18015273749949392",
   "18635643298005043",
@@ -4188,7 +4182,13 @@
   "17922981576461479",
   "18139935622730049",
   "18135490837676444",
-  "18099373295410671"
+  "18099373295410671",
+  "18135238300705531",
+  "17976673284190773",
+  "18079720478732958",
+  "18109411169197854",
+  "17987335413093702",
+  "18135386539703764"
  ],
  "hashes": [
   "a85e2db8a3bb84d15f6af20bb9c2333c",
@@ -4821,40 +4821,15 @@
   "7417e27587": 1,
   "ca5277c345": 1,
   "8a0cf4d18d": 1,
-  "60b9b20a08": 1
+  "60b9b20a08": 1,
+  "1d06969815": 1,
+  "c63f23746e": 2,
+  "4e198d1f37": 1,
+  "9447223fdb": 1,
+  "2173207d48": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "Sei bem, essas provas tiram a paciência, mas agora vai passar kkkkk 🙏🏼",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Que legal, MJ foi o toque pop da época, adoro lembrar disso 🎧",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "eita 18 já na pista kkk 😅",
-   "p": "neutra",
-   "r": 2
-  },
-  {
-   "t": "chegou na idade redonda e resolveu encarar o transito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, mas o medo de virar passageira de robô continua firme",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "significa o que você quer dizer",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "ar condicionado é o verdadeiro equipamento de paz mundial kkkk",
    "p": "concorda",
@@ -4973,6 +4948,36 @@
   {
    "t": "esse exige respeito na panela",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "mudou completamente o eixo da trilha sonora kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkk então o peixe fica no grau máximo, né? 😋",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "açúcar como moeda de troca infantil é genial kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Kkkkkk também detestava macarrão, agora não vivo sem 😅",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "brabo é o lema que te entrega igual o peixe 😂",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "o aprendizado e valido, mas a base financeira ainda e a prioridade aqui",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6404,7 +6409,8 @@
    "entendo seu ponto",
    "construir essa base",
    "economia real que",
-   "real o perigo"
+   "real o perigo",
+   "o aprendizado e"
   ],
   "18129394138877262": [
    "idade boa para",
@@ -6423,7 +6429,8 @@
   ],
   "18099246437387630": [
    "comida de respeito",
-   "que legal mj"
+   "que legal mj",
+   "mudou completamente o"
   ],
   "18001115808001002": [
    "verdade mas o",
@@ -6442,7 +6449,8 @@
    "concordo churrasco bom",
    "verdade se vacilar",
    "tem de tudo",
-   "raiz mas com"
+   "raiz mas com",
+   "entao o peixe"
   ],
   "18003889164009680": [
    "depende da garantia",
@@ -6456,7 +6464,10 @@
    "passou de inimigo",
    "essa divide opinioes",
    "esse prato exige",
-   "esse exige respeito"
+   "esse exige respeito",
+   "acucar como moeda",
+   "tambem detestava macarrao",
+   "brabo e o"
   ]
  },
  "shopee_checada": "2026-11-06|1",
