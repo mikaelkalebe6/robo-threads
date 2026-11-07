@@ -27,9 +27,9 @@
    "12:49"
   ],
   "produtos_feitos": 1,
-  "respostas": 50,
+  "respostas": 51,
   "por_post": {
-   "18122196040984824": 13,
+   "18122196040984824": 14,
    "18003889164009680": 1,
    "18078919208732779": 2,
    "18001115808001002": 3,
@@ -1270,7 +1270,6 @@
   }
  ],
  "respondidos": [
-  "17905718322594514",
   "18102043985367431",
   "18095828123120638",
   "18140570047611343",
@@ -4269,7 +4268,8 @@
   "18025585532942246",
   "18127687786963742",
   "18135475423689546",
-  "18081796145401304"
+  "18081796145401304",
+  "17931578190422988"
  ],
  "hashes": [
   "2d5b61a88cc2d4ab350d4e19f540f760",
@@ -4897,15 +4897,11 @@
   "1a45a6565e": 1,
   "bf02bbf641": 1,
   "14825cc717": 1,
-  "25ae9aeb84": 1
+  "25ae9aeb84": 1,
+  "adef30b750": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "dupla dinâmica que divide opiniões até hoje",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse universo paralelo passou longe de vc kkk",
    "p": "neutra",
@@ -5050,6 +5046,11 @@
    "t": "resistencia pura nos dias de hoje kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "cenoura cozida ganha outra chance quando a gente cresce",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6513,7 +6514,6 @@
    "cobrar taxa de"
   ],
   "18122196040984824": [
-   "tambem detestava macarrao",
    "brabo e o",
    "ganhou outra moral",
    "continuar firme na",
@@ -6532,7 +6532,8 @@
    "dupla dinamica que",
    "macarrao ganha passe",
    "classico todo mundo",
-   "essa lista inteira"
+   "essa lista inteira",
+   "cenoura cozida ganha"
   ],
   "18078919208732779": [
    "esse modelo ai",
