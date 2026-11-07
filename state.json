@@ -39,7 +39,7 @@
    "21:56"
   ],
   "produtos_feitos": 0,
-  "respostas": 57,
+  "respostas": 63,
   "por_post": {
    "18644066287059205": 9,
    "18235105819323131": 1,
@@ -55,7 +55,8 @@
    "17918694276265704": 1,
    "18570701296079335": 3,
    "18074939729767419": 4,
-   "18003889164009680": 4
+   "18003889164009680": 4,
+   "18122196040984824": 6
   }
  },
  "posts": [
@@ -1188,12 +1189,6 @@
   }
  ],
  "respondidos": [
-  "17977386939132772",
-  "18083468540327239",
-  "18129427687759166",
-  "18128801605790163",
-  "17907365448484393",
-  "18067246505769365",
   "17971407069158575",
   "18123280474902315",
   "18135332158632498",
@@ -4187,7 +4182,13 @@
   "18156644365523143",
   "18133663372690603",
   "18029326604703112",
-  "17916636468554315"
+  "17916636468554315",
+  "18182187910430168",
+  "18653368477025920",
+  "17922981576461479",
+  "18139935622730049",
+  "18135490837676444",
+  "18099373295410671"
  ],
  "hashes": [
   "a85e2db8a3bb84d15f6af20bb9c2333c",
@@ -4814,40 +4815,16 @@
   "426201c5dd": 1,
   "bbe089b755": 1,
   "7e58caa06b": 1,
-  "d7ff3520b0": 1
+  "d7ff3520b0": 1,
+  "a14697d7ef": 1,
+  "043197eaa3": 1,
+  "7417e27587": 1,
+  "ca5277c345": 1,
+  "8a0cf4d18d": 1,
+  "60b9b20a08": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "Entendo seu ponto, mas cada um tem seu ritmo e busca o que funciona kk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "livre da autoescola e pronta pra rodar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "construir essa base antes de encarar o mundo faz toda a diferença no bolso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cada um no seu tempo e o importante é já estar circulando",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dezesseis anos, começou bem antes de precisar do documento",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "comida de respeito pra acompanhar o sofrimento indie kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Sei bem, essas provas tiram a paciência, mas agora vai passar kkkkk 🙏🏼",
    "p": "concorda",
@@ -4965,6 +4942,36 @@
   },
   {
    "t": "forçar as coisas nunca acaba bem para nenhum dos lados",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "brócolis ganhou passe livre depois de adulto",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "teoria da conspiração infantil era forte com feijão",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "passou de inimigo da infância direto pra salada de todo dia kkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa divide opiniões fortes na mesa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse prato exige maturidade que a infancia simplesmente não tem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse exige respeito na panela",
    "p": "concorda",
    "r": 0
   }
@@ -6179,14 +6186,6 @@
   }
  ],
  "aberturas_post": {
-  "17944556547380767": [
-   "biela batendo ja",
-   "perder o som",
-   "verdade manutencao preventiva",
-   "ai ja senti",
-   "esse painel iluminado",
-   "quase tudo junto"
-  ],
   "18118663834815681": [
    "pesado demais",
    "garantir o sustento"
@@ -6450,6 +6449,14 @@
    "peso pesado mesmo",
    "namorado magista traz",
    "forcar as coisas"
+  ],
+  "18122196040984824": [
+   "brocolis ganhou passe",
+   "teoria da conspiracao",
+   "passou de inimigo",
+   "essa divide opinioes",
+   "esse prato exige",
+   "esse exige respeito"
   ]
  },
  "shopee_checada": "2026-11-06|1",
