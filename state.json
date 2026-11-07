@@ -23,41 +23,25 @@
    "09:07",
    "10:35",
    "11:17",
-   "11:57"
+   "11:57",
+   "12:49"
   ],
   "produtos_feitos": 1,
-  "respostas": 36,
+  "respostas": 41,
   "por_post": {
-   "18122196040984824": 10,
+   "18122196040984824": 11,
    "18003889164009680": 1,
    "18078919208732779": 1,
    "18001115808001002": 3,
    "18099246437387630": 2,
-   "18229654453336032": 6,
+   "18229654453336032": 7,
    "17910631911572963": 6,
    "18088627868316590": 5,
-   "18094337621212236": 2
+   "18094337621212236": 4,
+   "18129394138877262": 1
   }
  },
  "posts": [
-  {
-   "id": "18121901744054913",
-   "insp": "362b6ca4e3",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: churrasco sem farofa fica faltando alguma coisa.",
-   "quando": "2026-11-02T09:07:08.741895-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-02T09:07:08.741895-04:00",
-   "metricas": {
-    "views": 80,
-    "likes": 4,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-07"
-   }
-  },
   {
    "id": "18116269181162947",
    "insp": "prod_23793973526",
@@ -1274,14 +1258,17 @@
    "texto": "VAMOS CONCORDAR: deixar o carona controlar a playlist da viagem de carro é um ato de amor real ou um risco desnecessário para a sanidade mental de quem está dirigindo",
    "quando": "2026-11-07T12:07:07.735706-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18139184407643257",
+   "insp": "a6880f3186",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: explicar o que era ter crédito no celular pré-pago faz a gente se sentir em 1900.",
+   "quando": "2026-11-07T13:07:09.039640-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18460888438139835",
-  "18130838905688739",
-  "18080322050707714",
-  "18028067162911169",
-  "18115151351326888",
   "18141628327599397",
   "17898084882607923",
   "18116234824799477",
@@ -4276,10 +4263,14 @@
   "18022642775730436",
   "17950410882349239",
   "18138166174658731",
-  "17965679841233522"
+  "17965679841233522",
+  "18131245154308760",
+  "17869937175694137",
+  "17876472558638474",
+  "18144709057613283",
+  "18046100720830371"
  ],
  "hashes": [
-  "8e79518ae03897c8629d7f1a2617f6d3",
   "2d5b61a88cc2d4ab350d4e19f540f760",
   "5b76a82e91e0b4a3a1a69e2c07aafc3e",
   "db942cfa69c91bf333c00bcca1727f14",
@@ -4478,7 +4469,8 @@
   "0367ff78577717d903959993a362687d",
   "54d5f74616c85277e7a24ec745a2e74f",
   "0d39caef1ca9881ec5268dd39de8e511",
-  "dd86ac50af1a1bddcecdec80447a0cd0"
+  "dd86ac50af1a1bddcecdec80447a0cd0",
+  "8683de370303c1d303ba4f137f0c5f1a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4852,7 +4844,8 @@
   "048fecc76e": 1794017284.4860115,
   "e6849630fe": 1794056839.9159582,
   "16918d1a30": 1794065843.5841568,
-  "3ef9800d4d": 1794067697.2892349
+  "3ef9800d4d": 1794067697.2892349,
+  "a6880f3186": 1794071293.8193247
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4889,35 +4882,15 @@
   "eb3a6aedb2": 1,
   "3f8988d5fe": 1,
   "67ad988f57": 1,
-  "369538c649": 1
+  "369538c649": 1,
+  "06423f5b0a": 1,
+  "e12cb411a9": 1,
+  "d564f1eede": 1,
+  "c400f64315": 1,
+  "4563042f62": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "linguiça exigiu maturidade para ser compreendida kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "continuo preferindo xingar os motoristas do que delegar o volante",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "playlist raiz q sobreviveu a todas as fases kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "verdade que a rede de apoio em casa nem sempre é opção para todo mundo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sopa passou de castigo infantil para conforto da noite fria",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa dupla costumava liderar o ranking de rejeição infantil kkk",
    "p": "concorda",
@@ -5040,6 +5013,31 @@
   },
   {
    "t": "regra justa, dono do carro e motorista ganham imunidade musical",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "antes tarde do que nunca, o importante é estar na estrada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quase controlar o carro já entra na categoria de teste de sobrevivência kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "receber gente em casa com a trilha certa e exercicio de paciência kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "construir o imperio com vista privilegiada para o boleto alheio",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "macarrão ganha passe livre com louvor depois de adulto",
    "p": "concorda",
    "r": 0
   }
@@ -6457,7 +6455,8 @@
    "argumento historico forte",
    "paz em casa",
    "equilibrar independencia e",
-   "saude mental nesse"
+   "saude mental nesse",
+   "construir o imperio"
   ],
   "18129394138877262": [
    "idade boa para",
@@ -6473,7 +6472,8 @@
    "chegou na idade",
    "o detran cobrando",
    "aproveitou o aniversario",
-   "idade redonda pra"
+   "idade redonda pra",
+   "antes tarde do"
   ],
   "18099246437387630": [
    "comida de respeito",
@@ -6513,7 +6513,6 @@
    "cobrar taxa de"
   ],
   "18122196040984824": [
-   "esse prato exige",
    "esse exige respeito",
    "acucar como moeda",
    "tambem detestava macarrao",
@@ -6532,7 +6531,8 @@
    "figado exige um",
    "jilo virou aliado",
    "sorte grande nao",
-   "dupla dinamica que"
+   "dupla dinamica que",
+   "macarrao ganha passe"
   ],
   "18078919208732779": [
    "esse modelo ai"
@@ -6554,7 +6554,9 @@
   ],
   "18094337621212236": [
    "viagem curta da",
-   "regra justa dono"
+   "regra justa dono",
+   "quase controlar o",
+   "receber gente em"
   ]
  },
  "shopee_checada": "2026-11-07|1",
