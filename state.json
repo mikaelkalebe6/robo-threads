@@ -27,11 +27,11 @@
    "12:49"
   ],
   "produtos_feitos": 1,
-  "respostas": 48,
+  "respostas": 50,
   "por_post": {
    "18122196040984824": 13,
    "18003889164009680": 1,
-   "18078919208732779": 1,
+   "18078919208732779": 2,
    "18001115808001002": 3,
    "18099246437387630": 2,
    "18229654453336032": 8,
@@ -39,7 +39,7 @@
    "18088627868316590": 5,
    "18094337621212236": 4,
    "18129394138877262": 1,
-   "18139184407643257": 4
+   "18139184407643257": 5
   }
  },
  "posts": [
@@ -1270,8 +1270,6 @@
   }
  ],
  "respondidos": [
-  "17978102490135084",
-  "17925167250423311",
   "17905718322594514",
   "18102043985367431",
   "18095828123120638",
@@ -4269,7 +4267,9 @@
   "18063635126799297",
   "18032191019883593",
   "18025585532942246",
-  "18127687786963742"
+  "18127687786963742",
+  "18135475423689546",
+  "18081796145401304"
  ],
  "hashes": [
   "2d5b61a88cc2d4ab350d4e19f540f760",
@@ -4895,20 +4895,12 @@
   "1b0b82dbc2": 1,
   "448b860163": 1,
   "1a45a6565e": 1,
-  "bf02bbf641": 1
+  "bf02bbf641": 1,
+  "14825cc717": 1,
+  "25ae9aeb84": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "paz em casa vale ouro e muda tudo nessa conta",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "equilibrar independência e economia real é o desafio",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "dupla dinâmica que divide opiniões até hoje",
    "p": "concorda",
@@ -5048,6 +5040,16 @@
    "t": "essa lista inteira virou favorita com o tempo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "a preguiça de manobrar fala mais alto do que a necessidade real",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "resistencia pura nos dias de hoje kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6533,7 +6535,8 @@
    "essa lista inteira"
   ],
   "18078919208732779": [
-   "esse modelo ai"
+   "esse modelo ai",
+   "a preguica de"
   ],
   "17910631911572963": [
    "esse universo paralelo",
@@ -6560,7 +6563,8 @@
    "parecia bilhete de",
    "esse toque era",
    "entao ja ta",
-   "verdade ainda rola"
+   "verdade ainda rola",
+   "resistencia pura nos"
   ]
  },
  "shopee_checada": "2026-11-07|1",
