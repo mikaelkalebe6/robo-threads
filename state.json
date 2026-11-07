@@ -34,10 +34,11 @@
    "16:58",
    "18:24",
    "19:40",
-   "20:27"
+   "20:27",
+   "21:09"
   ],
   "produtos_feitos": 0,
-  "respostas": 51,
+  "respostas": 53,
   "por_post": {
    "18644066287059205": 9,
    "18235105819323131": 1,
@@ -52,42 +53,10 @@
    "18001115808001002": 3,
    "17918694276265704": 1,
    "18570701296079335": 3,
-   "18074939729767419": 2
+   "18074939729767419": 4
   }
  },
  "posts": [
-  {
-   "id": "18110025206217118",
-   "insp": "prod_22898339820",
-   "link": "",
-   "texto": "Cortar carne com faca cega em churrasco dá um ódio danado, né? 😂 Descobri esse cutelo profissional que corta qualquer peça com uma facilidade absurda e ainda tem um peso ótimo na mão. Olha como funciona 👀",
-   "quando": "2026-11-01T17:07:08.266415-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "22898339820",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "22898339820",
-    "nome": "Cutelo lnox Profissional Cabo King Artesanal Churrasco Cozinha",
-    "offerLink": "https://s.shopee.com.br/7fb3C5vyGr",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-m7joypmiamnpcf",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 164,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-06"
-   },
-   "link_coment": "https://s.shopee.com.br/7fb3C5vyGr",
-   "link_em": "2026-11-02T11:07:09.173407-04:00",
-   "link_views": 0
-  },
   {
    "id": "18117354662032853",
    "insp": "648ff7fceb",
@@ -1216,11 +1185,17 @@
    "texto": "Todo grupo tem o amigo que fala que entende tudo de churrasco mas só sabe queimar a carne.\n\nTeam churrasqueiro raiz ou team quem só sabe virar a carne?",
    "quando": "2026-11-06T20:37:08.432191-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18003889164009680",
+   "insp": "9ff7d269b6",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: essa história de amarração amorosa dá resultado mesmo ou é só desespero de quem não sabe levar um fora?",
+   "quando": "2026-11-06T21:37:08.289782-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18197682040383695",
-  "18091558364666961",
   "17923763889426348",
   "18150218461535641",
   "18381333325234469",
@@ -4218,10 +4193,11 @@
   "17885712873523381",
   "17898156651681917",
   "17892964968455818",
-  "17917405710469993"
+  "17917405710469993",
+  "18080441414743426",
+  "17998241316046734"
  ],
  "hashes": [
-  "5c5f365697bfca543b07409213c1c778",
   "564bb4d5e3e1a2a9314fbbf93112d4b8",
   "a85e2db8a3bb84d15f6af20bb9c2333c",
   "b9d4ed0e7f48307e64375f26b602e26f",
@@ -4420,7 +4396,8 @@
   "2e703a3d588fa32855e6929e3dcdbdb9",
   "b034aeb1facbc7f33ca371dfd0561fb8",
   "981ec72df27b67f438cb730bfde89f4b",
-  "245ef317dfb41ec55a229e1685c7abb3"
+  "245ef317dfb41ec55a229e1685c7abb3",
+  "ba60b253bdd6530009bf6c2672a0099b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4789,7 +4766,8 @@
   "69d2f4ea0d": 1793999291.4907131,
   "9c493df816": 1794004693.5780976,
   "6fb64f3b74": 1794010070.2160158,
-  "fc00b47dce": 1794011894.5493534
+  "fc00b47dce": 1794011894.5493534,
+  "9ff7d269b6": 1794015483.5992877
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4838,20 +4816,11 @@
   "e91d8c9298": 1,
   "3dec709f27": 1,
   "e94176e974": 2,
-  "7248dbebb2": 1
+  "7248dbebb2": 1,
+  "cfc66b1c83": 2
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "paz mental e saúde não têm preço que pague mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "idade boa para começar a encarar o trânsito",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Nossa, 18 sem autoescola! Também lembro dessas histórias antigas",
    "p": "concorda",
@@ -4989,6 +4958,16 @@
   },
   {
    "t": "verdade, se vacilar o almoço vira crocante de carvão kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "tem de tudo um pouco nessa grelha aí",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "raiz mas com o extintor de incêndio do lado kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6471,7 +6450,9 @@
   ],
   "18074939729767419": [
    "concordo churrasco bom",
-   "verdade se vacilar"
+   "verdade se vacilar",
+   "tem de tudo",
+   "raiz mas com"
   ]
  },
  "shopee_checada": "2026-11-06|1",
