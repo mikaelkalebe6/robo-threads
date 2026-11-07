@@ -24,10 +24,11 @@
    "10:35",
    "11:17",
    "11:57",
-   "12:49"
+   "12:49",
+   "15:13"
   ],
-  "produtos_feitos": 1,
-  "respostas": 51,
+  "produtos_feitos": 2,
+  "respostas": 52,
   "por_post": {
    "18122196040984824": 14,
    "18003889164009680": 1,
@@ -37,44 +38,12 @@
    "18229654453336032": 8,
    "17910631911572963": 6,
    "18088627868316590": 5,
-   "18094337621212236": 4,
+   "18094337621212236": 5,
    "18129394138877262": 1,
    "18139184407643257": 5
   }
  },
  "posts": [
-  {
-   "id": "18116269181162947",
-   "insp": "prod_23793973526",
-   "link": "",
-   "texto": "Lixo solto no assoalho do carro dá um nervoso danado né 😂 Descobri esse organizador de couro sintético que encaixa direitinho e deixa tudo no lugar. Olha como funciona 👀",
-   "quando": "2026-11-02T10:37:18.204778-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "23793973526",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "23793973526",
-    "nome": "Lixeira Lixo Para Carro Couro Sintético Ecológico Porta Lixo Automotivo Universal Organizador Câmbio Console Veicular",
-    "offerLink": "https://s.shopee.com.br/W7uFpEyAQ",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhs1299y0hycf",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 127,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-07"
-   },
-   "link_coment": "https://s.shopee.com.br/W7uFpEyAQ",
-   "link_em": "2026-11-03T07:07:12.736050-04:00",
-   "link_views": 0
-  },
   {
    "id": "18024659876939415",
    "insp": "ae61b38dfd",
@@ -1267,10 +1236,29 @@
    "texto": "VAMOS SER HONESTOS: explicar o que era ter crédito no celular pré-pago faz a gente se sentir em 1900.",
    "quando": "2026-11-07T13:07:09.039640-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18137102459510046",
+   "insp": "prod_19398319317",
+   "link": "",
+   "texto": "Achar top que sustenta de verdade para correr é missão quase impossível né 😂 Descobri esse com zíper na frente que ajusta tudo e não deixa nada balançar. Olha na foto se não parece prático demais 👀",
+   "quando": "2026-11-07T15:37:08.748968-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "19398319317",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "19398319317",
+    "nome": "Top Esportivo Alta Sustentação Ajustavel Ziper Frontal Academia Fitness Jump Corrida",
+    "offerLink": "https://s.shopee.com.br/3B8nPBx3tR",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfkzt1int3408c",
+    "campanha": "11.11"
+   }
   }
  ],
  "respondidos": [
-  "18102043985367431",
   "18095828123120638",
   "18140570047611343",
   "18155242612541799",
@@ -4269,7 +4257,8 @@
   "18127687786963742",
   "18135475423689546",
   "18081796145401304",
-  "17931578190422988"
+  "17931578190422988",
+  "18644273887034241"
  ],
  "hashes": [
   "2d5b61a88cc2d4ab350d4e19f540f760",
@@ -4898,15 +4887,11 @@
   "bf02bbf641": 1,
   "14825cc717": 1,
   "25ae9aeb84": 1,
-  "adef30b750": 1
+  "adef30b750": 1,
+  "01848cc2dc": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "esse universo paralelo passou longe de vc kkk",
-   "p": "neutra",
-   "r": 1
-  },
   {
    "t": "Kkkkkkkkkkkkkkkkkkkk detetive do transporte publico ativado",
    "p": "concorda",
@@ -5049,6 +5034,11 @@
   },
   {
    "t": "cenoura cozida ganha outra chance quando a gente cresce",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, quem pilota o volante garante o direito da trilha sonora",
    "p": "concorda",
    "r": 0
   }
@@ -6558,7 +6548,8 @@
    "viagem curta da",
    "regra justa dono",
    "quase controlar o",
-   "receber gente em"
+   "receber gente em",
+   "justo quem pilota"
   ],
   "18139184407643257": [
    "parecia bilhete de",
@@ -6766,7 +6757,8 @@
   "22795030307": "2026-11-05T07:07:09.689824-04:00",
   "23198805153": "2026-11-07T07:07:09.395080-04:00",
   "21197690424": "2026-11-07T07:07:09.395080-04:00",
-  "20697639367": "2026-11-07T10:37:07.784237-04:00"
+  "20697639367": "2026-11-07T10:37:07.784237-04:00",
+  "19398319317": "2026-11-07T15:37:08.748968-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
