@@ -21,14 +21,14 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 18,
   "por_post": {
-   "18122196040984824": 4,
+   "18122196040984824": 9,
    "18003889164009680": 1,
    "18078919208732779": 1,
    "18001115808001002": 2,
    "18099246437387630": 2,
-   "18229654453336032": 2
+   "18229654453336032": 3
   }
  },
  "posts": [
@@ -1311,12 +1311,6 @@
   }
  ],
  "respondidos": [
-  "18018461507946573",
-  "17964273494982524",
-  "18001986705007587",
-  "17960380851248285",
-  "17870373351647072",
-  "18113123983975069",
   "18633438349037552",
   "17909702400475834",
   "18104294051625447",
@@ -4310,7 +4304,13 @@
   "18082958537720185",
   "18078210569743164",
   "18155115316555146",
-  "18016967129968917"
+  "18016967129968917",
+  "18132210073765189",
+  "18497642737129793",
+  "18031580576885165",
+  "18114163378890540",
+  "18112141937579730",
+  "18413165419088875"
  ],
  "hashes": [
   "a85e2db8a3bb84d15f6af20bb9c2333c",
@@ -4896,40 +4896,16 @@
   "95cc59c619": 1,
   "02fd4a9bec": 1,
   "cb74f69d15": 1,
-  "a747774f57": 1
+  "a747774f57": 1,
+  "905d664abc": 1,
+  "2b0add803a": 1,
+  "e3296fc796": 1,
+  "dc30e50ea4": 1,
+  "1b14c48e3f": 1,
+  "8bc336af62": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "brócolis ganhou passe livre depois de adulto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "teoria da conspiração infantil era forte com feijão",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "passou de inimigo da infância direto pra salada de todo dia kkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa divide opiniões fortes na mesa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse prato exige maturidade que a infancia simplesmente não tem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse exige respeito na panela",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "mudou completamente o eixo da trilha sonora kkk",
    "p": "concorda",
@@ -5049,6 +5025,36 @@
    "t": "essa dupla costumava liderar o ranking de rejeição infantil kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "argumento histórico forte demais para ignorar kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse sim deu um salto de fe enorme na vida adulta",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o cardápio inteiro ganhou outra perspectiva com o passar do tempo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fígado exige um nível de bravura que muda com os anos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Jiló virou aliado, não é? Hoje eu como sem drama 😅",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sorte grande não ter frescura nenhuma com comida",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6493,7 +6499,8 @@
    "real o perigo",
    "o aprendizado e",
    "justo paz mental",
-   "verdade que a"
+   "verdade que a",
+   "argumento historico forte"
   ],
   "18129394138877262": [
    "idade boa para",
@@ -6548,9 +6555,6 @@
    "cobrar taxa de"
   ],
   "18122196040984824": [
-   "brocolis ganhou passe",
-   "teoria da conspiracao",
-   "passou de inimigo",
    "essa divide opinioes",
    "esse prato exige",
    "esse exige respeito",
@@ -6565,7 +6569,12 @@
    "cenoura cozida na",
    "linguica exigiu maturidade",
    "sopa passou de",
-   "essa dupla costumava"
+   "essa dupla costumava",
+   "esse sim deu",
+   "o cardapio inteiro",
+   "figado exige um",
+   "jilo virou aliado",
+   "sorte grande nao"
   ],
   "18078919208732779": [
    "esse modelo ai"
