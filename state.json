@@ -21,39 +21,22 @@
   ],
   "feitos": [
    "09:07",
-   "10:35"
+   "10:35",
+   "11:17"
   ],
   "produtos_feitos": 1,
-  "respostas": 27,
+  "respostas": 28,
   "por_post": {
    "18122196040984824": 10,
    "18003889164009680": 1,
    "18078919208732779": 1,
    "18001115808001002": 2,
    "18099246437387630": 2,
-   "18229654453336032": 5,
+   "18229654453336032": 6,
    "17910631911572963": 6
   }
  },
  "posts": [
-  {
-   "id": "18129509551855569",
-   "insp": "ddecfa5388",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: qual foi a paixão mais sem noção que você já teve na vida",
-   "quando": "2026-11-01T22:07:08.048429-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 851,
-    "likes": 5,
-    "replies": 19,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-07"
-   },
-   "viral_chk": "2026-11-02T08:37:09.410238-04:00"
-  },
   {
    "id": "18042505940779811",
    "insp": "b5bc8dc34f",
@@ -1290,10 +1273,17 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgdqb2v9gbnp0b",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "18088627868316590",
+   "insp": "16918d1a30",
+   "link": "",
+   "texto": "Qual voz de famoso ia fazer qualquer pessoa aceitar um áudio de bom dia sem reclamar",
+   "quando": "2026-11-07T11:37:07.753049-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18101632508034093",
   "17874387684584563",
   "17939550417372070",
   "18335551207272222",
@@ -4292,10 +4282,10 @@
   "17977984287465589",
   "18115739929853139",
   "18049838636820074",
-  "18093947954285268"
+  "18093947954285268",
+  "18138814327727198"
  ],
  "hashes": [
-  "b9d4ed0e7f48307e64375f26b602e26f",
   "af396878dc4193e2f6779c4557801bed",
   "8e79518ae03897c8629d7f1a2617f6d3",
   "2d5b61a88cc2d4ab350d4e19f540f760",
@@ -4494,7 +4484,8 @@
   "245ef317dfb41ec55a229e1685c7abb3",
   "ba60b253bdd6530009bf6c2672a0099b",
   "0367ff78577717d903959993a362687d",
-  "54d5f74616c85277e7a24ec745a2e74f"
+  "54d5f74616c85277e7a24ec745a2e74f",
+  "0d39caef1ca9881ec5268dd39de8e511"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4866,7 +4857,8 @@
   "fc00b47dce": 1794011894.5493534,
   "9ff7d269b6": 1794015483.5992877,
   "048fecc76e": 1794017284.4860115,
-  "e6849630fe": 1794056839.9159582
+  "e6849630fe": 1794056839.9159582,
+  "16918d1a30": 1794065843.5841568
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4894,15 +4886,11 @@
   "b6e53b4fd1": 1,
   "056d3b5f78": 1,
   "9c9ed7acc0": 1,
-  "ccb7423983": 1
+  "ccb7423983": 1,
+  "96a8849047": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "dupla dinâmica da virada de chave na vida adulta kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "merenda escolar vinha com sabor de desafio diário kkk",
    "p": "concorda",
@@ -5045,6 +5033,11 @@
   },
   {
    "t": "muito melhor garantir a sanidade mental no trajeto kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "saúde mental nesse processo vale cada centavo kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6486,7 +6479,8 @@
    "verdade que a",
    "argumento historico forte",
    "paz em casa",
-   "equilibrar independencia e"
+   "equilibrar independencia e",
+   "saude mental nesse"
   ],
   "18129394138877262": [
    "idade boa para",
