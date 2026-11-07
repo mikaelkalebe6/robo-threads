@@ -27,9 +27,9 @@
    "12:49"
   ],
   "produtos_feitos": 1,
-  "respostas": 47,
+  "respostas": 48,
   "por_post": {
-   "18122196040984824": 12,
+   "18122196040984824": 13,
    "18003889164009680": 1,
    "18078919208732779": 1,
    "18001115808001002": 3,
@@ -1270,7 +1270,6 @@
   }
  ],
  "respondidos": [
-  "18140697970615392",
   "17978102490135084",
   "17925167250423311",
   "17905718322594514",
@@ -4269,7 +4268,8 @@
   "17989044189083676",
   "18063635126799297",
   "18032191019883593",
-  "18025585532942246"
+  "18025585532942246",
+  "18127687786963742"
  ],
  "hashes": [
   "2d5b61a88cc2d4ab350d4e19f540f760",
@@ -4894,15 +4894,11 @@
   "06d3b1dec2": 1,
   "1b0b82dbc2": 1,
   "448b860163": 1,
-  "1a45a6565e": 1
+  "1a45a6565e": 1,
+  "bf02bbf641": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "sorte grande não ter frescura nenhuma com comida",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "paz em casa vale ouro e muda tudo nessa conta",
    "p": "ressalva",
@@ -5046,6 +5042,11 @@
   {
    "t": "clássico, todo mundo tinha fase contra isso tbm",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "essa lista inteira virou favorita com o tempo",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6510,7 +6511,6 @@
    "cobrar taxa de"
   ],
   "18122196040984824": [
-   "acucar como moeda",
    "tambem detestava macarrao",
    "brabo e o",
    "ganhou outra moral",
@@ -6529,7 +6529,8 @@
    "sorte grande nao",
    "dupla dinamica que",
    "macarrao ganha passe",
-   "classico todo mundo"
+   "classico todo mundo",
+   "essa lista inteira"
   ],
   "18078919208732779": [
    "esse modelo ai"
