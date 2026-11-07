@@ -21,14 +21,14 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 12,
   "por_post": {
-   "18122196040984824": 1,
+   "18122196040984824": 4,
    "18003889164009680": 1,
    "18078919208732779": 1,
-   "18001115808001002": 1,
-   "18099246437387630": 1,
-   "18229654453336032": 1
+   "18001115808001002": 2,
+   "18099246437387630": 2,
+   "18229654453336032": 2
   }
  },
  "posts": [
@@ -1311,12 +1311,6 @@
   }
  ],
  "respondidos": [
-  "18117382274068101",
-  "18126583787484012",
-  "18126848743850619",
-  "18061960754619124",
-  "18112183490127159",
-  "17996795987828304",
   "18018461507946573",
   "17964273494982524",
   "18001986705007587",
@@ -4310,7 +4304,13 @@
   "18152755135477200",
   "18343768390260163",
   "18158267464496816",
-  "18121816502047909"
+  "18121816502047909",
+  "18159949498511012",
+  "18439255147180667",
+  "18082958537720185",
+  "18078210569743164",
+  "18155115316555146",
+  "18016967129968917"
  ],
  "hashes": [
   "a85e2db8a3bb84d15f6af20bb9c2333c",
@@ -4890,42 +4890,16 @@
   "_data": "2026-11-07",
   "c9baeae1f1": 1,
   "5a4f6559c6": 2,
-  "41e5b18c4c": 1,
+  "41e5b18c4c": 2,
   "0af1701b18": 1,
-  "4833b68863": 1
+  "4833b68863": 2,
+  "95cc59c619": 1,
+  "02fd4a9bec": 1,
+  "cb74f69d15": 1,
+  "a747774f57": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "tem de tudo um pouco nessa grelha aí",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "raiz mas com o extintor de incêndio do lado kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "depende da garantia e da taxa de entrega kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "peso pesado mesmo, o limite entre insistência e perigo é bem tênue",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "namorado magista traz um enredo bem diferente para o relacionamento",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "forçar as coisas nunca acaba bem para nenhum dos lados",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "brócolis ganhou passe livre depois de adulto",
    "p": "concorda",
@@ -5045,6 +5019,36 @@
    "t": "justo, paz mental e distância contam mais do que qualquer economia",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "linguiça exigiu maturidade para ser compreendida kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "continuo preferindo xingar os motoristas do que delegar o volante",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "playlist raiz q sobreviveu a todas as fases kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "verdade que a rede de apoio em casa nem sempre é opção para todo mundo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sopa passou de castigo infantil para conforto da noite fria",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa dupla costumava liderar o ranking de rejeição infantil kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6488,7 +6492,8 @@
    "economia real que",
    "real o perigo",
    "o aprendizado e",
-   "justo paz mental"
+   "justo paz mental",
+   "verdade que a"
   ],
   "18129394138877262": [
    "idade boa para",
@@ -6510,13 +6515,15 @@
    "comida de respeito",
    "que legal mj",
    "mudou completamente o",
-   "saiu direto do"
+   "saiu direto do",
+   "playlist raiz q"
   ],
   "18001115808001002": [
    "verdade mas o",
    "ar condicionado e",
    "entao esse carro",
-   "veio do futuro"
+   "veio do futuro",
+   "continuo preferindo xingar"
   ],
   "17918694276265704": [
    "significa o que"
@@ -6555,7 +6562,10 @@
    "fez o percurso",
    "dupla dinamica da",
    "merenda escolar vinha",
-   "cenoura cozida na"
+   "cenoura cozida na",
+   "linguica exigiu maturidade",
+   "sopa passou de",
+   "essa dupla costumava"
   ],
   "18078919208732779": [
    "esse modelo ai"
