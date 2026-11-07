@@ -25,7 +25,8 @@
    "11:17",
    "11:57",
    "12:49",
-   "15:13"
+   "15:13",
+   "16:04"
   ],
   "produtos_feitos": 2,
   "respostas": 52,
@@ -44,24 +45,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18024659876939415",
-   "insp": "ae61b38dfd",
-   "link": "",
-   "texto": "ME CONTA: qual foi a última vez que você pagou a língua em um primeiro encontro? Deixar o outro escolher o lugar nem sempre é uma má ideia.",
-   "quando": "2026-11-02T12:37:08.375262-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 121,
-    "likes": 2,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-07"
-   },
-   "viral_chk": "2026-11-03T07:07:12.736050-04:00"
-  },
   {
    "id": "18047547587827876",
    "insp": "b69825cad0",
@@ -1256,6 +1239,14 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfkzt1int3408c",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "18116946094839551",
+   "insp": "da0bcb8dad",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: tatuagem ainda pesa na hora de passar em entrevista de emprego ou o mercado já superou isso?",
+   "quando": "2026-11-07T16:07:08.904893-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4261,7 +4252,6 @@
   "18644273887034241"
  ],
  "hashes": [
-  "2d5b61a88cc2d4ab350d4e19f540f760",
   "5b76a82e91e0b4a3a1a69e2c07aafc3e",
   "db942cfa69c91bf333c00bcca1727f14",
   "9031693bde89219761bd98978f1820b0",
@@ -4460,7 +4450,8 @@
   "54d5f74616c85277e7a24ec745a2e74f",
   "0d39caef1ca9881ec5268dd39de8e511",
   "dd86ac50af1a1bddcecdec80447a0cd0",
-  "8683de370303c1d303ba4f137f0c5f1a"
+  "8683de370303c1d303ba4f137f0c5f1a",
+  "d4cb653e7e25cd1183993af20031f496"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4835,7 +4826,8 @@
   "e6849630fe": 1794056839.9159582,
   "16918d1a30": 1794065843.5841568,
   "3ef9800d4d": 1794067697.2892349,
-  "a6880f3186": 1794071293.8193247
+  "a6880f3186": 1794071293.8193247,
+  "da0bcb8dad": 1794082048.1856525
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
