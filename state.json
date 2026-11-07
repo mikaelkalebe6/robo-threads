@@ -19,7 +19,9 @@
    "15:13",
    "19:47"
   ],
-  "feitos": [],
+  "feitos": [
+   "09:07"
+  ],
   "produtos_feitos": 0,
   "respostas": 21,
   "por_post": {
@@ -32,24 +34,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18013529159994207",
-   "insp": "7208b45268",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: quem era o filho preferido de verdade na casa de vocês",
-   "quando": "2026-11-01T19:37:07.478556-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 497,
-    "likes": 4,
-    "replies": 18,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-07"
-   },
-   "viral_chk": "2026-11-02T08:37:09.410238-04:00"
-  },
   {
    "id": "17915050032536597",
    "insp": "prod_23193620740",
@@ -1308,6 +1292,14 @@
    "meme_views": 1717,
    "formato_link": "coment",
    "produto": "21197690424"
+  },
+  {
+   "id": "17910631911572963",
+   "insp": "e6849630fe",
+   "link": "",
+   "texto": "SEM MENTIR: ler a conversa alheia no transporte público olhando cada detalhe ou fingir plena paz de espírito ouvindo música de fone?",
+   "quando": "2026-11-07T09:07:07.447101-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4313,7 +4305,6 @@
   "18120227824804410"
  ],
  "hashes": [
-  "a85e2db8a3bb84d15f6af20bb9c2333c",
   "b9d4ed0e7f48307e64375f26b602e26f",
   "af396878dc4193e2f6779c4557801bed",
   "8e79518ae03897c8629d7f1a2617f6d3",
@@ -4512,7 +4503,8 @@
   "981ec72df27b67f438cb730bfde89f4b",
   "245ef317dfb41ec55a229e1685c7abb3",
   "ba60b253bdd6530009bf6c2672a0099b",
-  "0367ff78577717d903959993a362687d"
+  "0367ff78577717d903959993a362687d",
+  "54d5f74616c85277e7a24ec745a2e74f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4883,7 +4875,8 @@
   "6fb64f3b74": 1794010070.2160158,
   "fc00b47dce": 1794011894.5493534,
   "9ff7d269b6": 1794015483.5992877,
-  "048fecc76e": 1794017284.4860115
+  "048fecc76e": 1794017284.4860115,
+  "e6849630fe": 1794056839.9159582
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
