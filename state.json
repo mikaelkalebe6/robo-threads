@@ -23,14 +23,15 @@
    "09:07"
   ],
   "produtos_feitos": 0,
-  "respostas": 21,
+  "respostas": 27,
   "por_post": {
    "18122196040984824": 10,
    "18003889164009680": 1,
    "18078919208732779": 1,
    "18001115808001002": 2,
    "18099246437387630": 2,
-   "18229654453336032": 5
+   "18229654453336032": 5,
+   "17910631911572963": 6
   }
  },
  "posts": [
@@ -1303,12 +1304,6 @@
   }
  ],
  "respondidos": [
-  "18347120008302013",
-  "17948566599322509",
-  "18011230046761384",
-  "18112628258517755",
-  "17914321449459622",
-  "18107680286225084",
   "18101632508034093",
   "17874387684584563",
   "17939550417372070",
@@ -4302,7 +4297,13 @@
   "18413165419088875",
   "18119933989784922",
   "18100377311649344",
-  "18120227824804410"
+  "18120227824804410",
+  "18350102530283817",
+  "17965606203211703",
+  "17977984287465589",
+  "18115739929853139",
+  "18049838636820074",
+  "18093947954285268"
  ],
  "hashes": [
   "b9d4ed0e7f48307e64375f26b602e26f",
@@ -4898,40 +4899,16 @@
   "8bc336af62": 1,
   "8022b5d63e": 1,
   "f82dce8424": 1,
-  "0dc99d6e36": 1
+  "0dc99d6e36": 1,
+  "97c0eef218": 1,
+  "a967292c8e": 1,
+  "b6e53b4fd1": 1,
+  "056d3b5f78": 1,
+  "9c9ed7acc0": 1,
+  "ccb7423983": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "Kkkkkk também detestava macarrão, agora não vivo sem 😅",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "brabo é o lema que te entrega igual o peixe 😂",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "o aprendizado e valido, mas a base financeira ainda e a prioridade aqui",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "ganhou outra moral depois de adulta",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "continuar firme na birra infantil é um compromisso de longo prazo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "fez o percurso totalmente inverso ao da maioria",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "dupla dinâmica da virada de chave na vida adulta kkk",
    "p": "concorda",
@@ -5051,6 +5028,36 @@
    "t": "dupla dinâmica que divide opiniões até hoje",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse universo paralelo passou longe de vc kkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "Kkkkkkkkkkkkkkkkkkkk detetive do transporte publico ativado",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "fones salvam qualquer trajeto com folga",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "olhar para fora tem seu valor, principalmente quando a paisagem ajuda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "economia e entretenimento no mesmo bilhete",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "muito melhor garantir a sanidade mental no trajeto kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6278,14 +6285,6 @@
   }
  ],
  "aberturas_post": {
-  "17949764385085229": [
-   "paz de espirito",
-   "a realidade chegando",
-   "o boleto nao",
-   "perder um amor",
-   "prioridade financeira totalmente",
-   "fazer o que"
-  ],
   "17886556293690167": [
    "compromisso sagrado de"
   ],
@@ -6576,6 +6575,14 @@
   ],
   "18078919208732779": [
    "esse modelo ai"
+  ],
+  "17910631911572963": [
+   "esse universo paralelo",
+   "detetive do transporte",
+   "fones salvam qualquer",
+   "olhar para fora",
+   "economia e entretenimento",
+   "muito melhor garantir"
   ]
  },
  "shopee_checada": "2026-11-07|1",
