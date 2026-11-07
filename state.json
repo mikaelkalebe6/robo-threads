@@ -29,7 +29,7 @@
    "16:04"
   ],
   "produtos_feitos": 2,
-  "respostas": 52,
+  "respostas": 54,
   "por_post": {
    "18122196040984824": 14,
    "18003889164009680": 1,
@@ -41,7 +41,8 @@
    "18088627868316590": 5,
    "18094337621212236": 5,
    "18129394138877262": 1,
-   "18139184407643257": 5
+   "18139184407643257": 5,
+   "18116946094839551": 2
   }
  },
  "posts": [
@@ -1250,8 +1251,6 @@
   }
  ],
  "respondidos": [
-  "18095828123120638",
-  "18140570047611343",
   "18155242612541799",
   "18067882760761805",
   "18086442401299357",
@@ -4249,7 +4248,9 @@
   "18135475423689546",
   "18081796145401304",
   "17931578190422988",
-  "18644273887034241"
+  "18644273887034241",
+  "18090170300305906",
+  "18017127710961847"
  ],
  "hashes": [
   "5b76a82e91e0b4a3a1a69e2c07aafc3e",
@@ -4880,20 +4881,12 @@
   "14825cc717": 1,
   "25ae9aeb84": 1,
   "adef30b750": 1,
-  "01848cc2dc": 1
+  "01848cc2dc": 1,
+  "289d591c88": 1,
+  "724c90eeb1": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "Kkkkkkkkkkkkkkkkkkkk detetive do transporte publico ativado",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "fones salvam qualquer trajeto com folga",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "olhar para fora tem seu valor, principalmente quando a paisagem ajuda",
    "p": "concorda",
@@ -5031,6 +5024,16 @@
   },
   {
    "t": "justo, quem pilota o volante garante o direito da trilha sonora",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "brasilia costuma ser mais tranquila mesmo com isso",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tomara que o resto do mercado siga esse mesmo ritmo",
    "p": "concorda",
    "r": 0
   }
@@ -6260,21 +6263,6 @@
   }
  ],
  "aberturas_post": {
-  "17997443184028868": [
-   "verdade arranjado online",
-   "se durou tudo",
-   "concordo escolher bem",
-   "nao responde e",
-   "foi um misto",
-   "comecar a conversa",
-   "pelo menos o",
-   "quem pegou a",
-   "sou do mundo",
-   "caramba 5 anos",
-   "tomara que a",
-   "a escolha sabiamente",
-   "e pergunta voce"
-  ],
   "17944488396382748": [
    "multiplicar aniversario por",
    "pagar para assistir",
@@ -6549,6 +6537,10 @@
    "entao ja ta",
    "verdade ainda rola",
    "resistencia pura nos"
+  ],
+  "18116946094839551": [
+   "brasilia costuma ser",
+   "tomara que o"
   ]
  },
  "shopee_checada": "2026-11-07|1",
