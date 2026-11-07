@@ -35,10 +35,11 @@
    "18:24",
    "19:40",
    "20:27",
-   "21:09"
+   "21:09",
+   "21:56"
   ],
   "produtos_feitos": 0,
-  "respostas": 53,
+  "respostas": 57,
   "por_post": {
    "18644066287059205": 9,
    "18235105819323131": 1,
@@ -53,28 +54,11 @@
    "18001115808001002": 3,
    "17918694276265704": 1,
    "18570701296079335": 3,
-   "18074939729767419": 4
+   "18074939729767419": 4,
+   "18003889164009680": 4
   }
  },
  "posts": [
-  {
-   "id": "18117354662032853",
-   "insp": "648ff7fceb",
-   "link": "",
-   "texto": "Quem mais perdeu a paciência com crush só porque a pessoa mastigava fazendo barulho?",
-   "quando": "2026-11-01T18:37:08.040899-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 221,
-    "likes": 2,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-06"
-   },
-   "viral_chk": "2026-11-02T08:37:09.410238-04:00"
-  },
   {
    "id": "18013529159994207",
    "insp": "7208b45268",
@@ -1193,13 +1177,17 @@
    "texto": "DÚVIDA SINCERA: essa história de amarração amorosa dá resultado mesmo ou é só desespero de quem não sabe levar um fora?",
    "quando": "2026-11-06T21:37:08.289782-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18122196040984824",
+   "insp": "048fecc76e",
+   "link": "",
+   "texto": "ME CONTA: qual comida você odiava quando era criança e hoje em dia come de boa?",
+   "quando": "2026-11-06T22:07:07.806532-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17923763889426348",
-  "18150218461535641",
-  "18381333325234469",
-  "17986560140877610",
   "17977386939132772",
   "18083468540327239",
   "18129427687759166",
@@ -4195,10 +4183,13 @@
   "17892964968455818",
   "17917405710469993",
   "18080441414743426",
-  "17998241316046734"
+  "17998241316046734",
+  "18156644365523143",
+  "18133663372690603",
+  "18029326604703112",
+  "17916636468554315"
  ],
  "hashes": [
-  "564bb4d5e3e1a2a9314fbbf93112d4b8",
   "a85e2db8a3bb84d15f6af20bb9c2333c",
   "b9d4ed0e7f48307e64375f26b602e26f",
   "af396878dc4193e2f6779c4557801bed",
@@ -4397,7 +4388,8 @@
   "b034aeb1facbc7f33ca371dfd0561fb8",
   "981ec72df27b67f438cb730bfde89f4b",
   "245ef317dfb41ec55a229e1685c7abb3",
-  "ba60b253bdd6530009bf6c2672a0099b"
+  "ba60b253bdd6530009bf6c2672a0099b",
+  "0367ff78577717d903959993a362687d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4767,7 +4759,8 @@
   "9c493df816": 1794004693.5780976,
   "6fb64f3b74": 1794010070.2160158,
   "fc00b47dce": 1794011894.5493534,
-  "9ff7d269b6": 1794015483.5992877
+  "9ff7d269b6": 1794015483.5992877,
+  "048fecc76e": 1794017284.4860115
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4817,30 +4810,14 @@
   "3dec709f27": 1,
   "e94176e974": 2,
   "7248dbebb2": 1,
-  "cfc66b1c83": 2
+  "cfc66b1c83": 2,
+  "426201c5dd": 1,
+  "bbe089b755": 1,
+  "7e58caa06b": 1,
+  "d7ff3520b0": 1
  },
  "reservas_checadas": "2026-11-06",
  "ultimas_respostas": [
-  {
-   "t": "Nossa, 18 sem autoescola! Também lembro dessas histórias antigas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "passou longe da enrolação então",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "19? ainda tem tempo pra curtir, kkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "pilotar é habilidade que se aprende no tempo certo, kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Entendo seu ponto, mas cada um tem seu ritmo e busca o que funciona kk",
    "p": "neutra",
@@ -4970,6 +4947,26 @@
    "t": "raiz mas com o extintor de incêndio do lado kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "depende da garantia e da taxa de entrega kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "peso pesado mesmo, o limite entre insistência e perigo é bem tênue",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "namorado magista traz um enredo bem diferente para o relacionamento",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "forçar as coisas nunca acaba bem para nenhum dos lados",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6182,12 +6179,6 @@
   }
  ],
  "aberturas_post": {
-  "18147973417588492": [
-   "esse tempinho sozinho",
-   "realidade bem diferente",
-   "filosofia no transito",
-   "economia e praticidade"
-  ],
   "17944556547380767": [
    "biela batendo ja",
    "perder o som",
@@ -6453,6 +6444,12 @@
    "verdade se vacilar",
    "tem de tudo",
    "raiz mas com"
+  ],
+  "18003889164009680": [
+   "depende da garantia",
+   "peso pesado mesmo",
+   "namorado magista traz",
+   "forcar as coisas"
   ]
  },
  "shopee_checada": "2026-11-06|1",
