@@ -26,7 +26,7 @@
    "11:57"
   ],
   "produtos_feitos": 1,
-  "respostas": 34,
+  "respostas": 36,
   "por_post": {
    "18122196040984824": 10,
    "18003889164009680": 1,
@@ -35,7 +35,8 @@
    "18099246437387630": 2,
    "18229654453336032": 6,
    "17910631911572963": 6,
-   "18088627868316590": 5
+   "18088627868316590": 5,
+   "18094337621212236": 2
   }
  },
  "posts": [
@@ -1276,8 +1277,6 @@
   }
  ],
  "respondidos": [
-  "18112901357332938",
-  "18030716333895628",
   "18460888438139835",
   "18130838905688739",
   "18080322050707714",
@@ -4275,7 +4274,9 @@
   "18182451166441077",
   "18136651990788901",
   "18022642775730436",
-  "17950410882349239"
+  "17950410882349239",
+  "18138166174658731",
+  "17965679841233522"
  ],
  "hashes": [
   "8e79518ae03897c8629d7f1a2617f6d3",
@@ -4886,20 +4887,12 @@
   "e4af130d2c": 1,
   "39a12b625d": 1,
   "eb3a6aedb2": 1,
-  "3f8988d5fe": 1
+  "3f8988d5fe": 1,
+  "67ad988f57": 1,
+  "369538c649": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "saiu direto do fone com fio para o caos sonoro kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justo, paz mental e distância contam mais do que qualquer economia",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "linguiça exigiu maturidade para ser compreendida kkk",
    "p": "concorda",
@@ -5039,6 +5032,16 @@
    "t": "kkk universo paralelo, mas admiro a força",
    "p": "neutra",
    "r": 1
+  },
+  {
+   "t": "viagem curta da para arriscar, longa exige acordo de paz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "regra justa, dono do carro e motorista ganham imunidade musical",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6266,28 +6269,6 @@
   }
  ],
  "aberturas_post": {
-  "18146901799608252": [
-   "essa selecao de",
-   "dividir o jogo",
-   "passar por essa",
-   "esse ai exige",
-   "oito vezes e",
-   "essa combinacao e",
-   "essa passagem de",
-   "bb qual jogo",
-   "fire emblem oq",
-   "verdade fire red",
-   "nossa essa lista",
-   "esse hades e",
-   "tartarugas ninjas iv",
-   "otima escolha okami",
-   "quando enjoa assim",
-   "essa trilogia inteira",
-   "final fantasy 7",
-   "esses dois merecem",
-   "esse classico marcou",
-   "nossa lista epica"
-  ],
   "18127233625684654": [
    "esse ai marcou",
    "essa combinacao ta",
@@ -6570,6 +6551,10 @@
    "ah entao ja",
    "essa eu nao",
    "universo paralelo mas"
+  ],
+  "18094337621212236": [
+   "viagem curta da",
+   "regra justa dono"
   ]
  },
  "shopee_checada": "2026-11-07|1",
