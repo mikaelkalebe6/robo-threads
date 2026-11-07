@@ -27,7 +27,8 @@
    "12:49",
    "15:13",
    "16:04",
-   "17:20"
+   "17:20",
+   "18:58"
   ],
   "produtos_feitos": 2,
   "respostas": 63,
@@ -48,24 +49,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17953965141313574",
-   "insp": "b8d04ab1d5",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Se eu fosse comprar meu primeiro carro hoje, faria tudo completamente diferente. Menos emoção na escolha e muito mais foco no que cabe no bolso.",
-   "quando": "2026-11-02T14:07:09.482845-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1587,
-    "likes": 33,
-    "replies": 21,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-07"
-   },
-   "viral_chk": "2026-11-03T07:07:12.736050-04:00"
-  },
   {
    "id": "18080625980418879",
    "insp": "9bbd821472",
@@ -1239,6 +1222,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: Nenhuma mulher flerta com tanta leveza e zero esforço quanto a que já tem aliança no dedo. Éimpressionante.",
    "quando": "2026-11-07T17:37:07.790382-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18024973733936434",
+   "insp": "a6bd76aea8",
+   "link": "",
+   "texto": "ME CONTA: quem aqui resiste à tentação de pisar bem no meio daquela poça d'água depois da chuva?",
+   "quando": "2026-11-07T19:07:09.543803-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4245,7 +4236,6 @@
   "18128914498852061"
  ],
  "hashes": [
-  "db942cfa69c91bf333c00bcca1727f14",
   "9031693bde89219761bd98978f1820b0",
   "4f78f8a127da3ccc41745f8004041912",
   "5d0410bbbeaca38b6eeb444b4eff3ca2",
@@ -4444,7 +4434,8 @@
   "dd86ac50af1a1bddcecdec80447a0cd0",
   "8683de370303c1d303ba4f137f0c5f1a",
   "d4cb653e7e25cd1183993af20031f496",
-  "39a41ad89b813d06412466283e4fe402"
+  "39a41ad89b813d06412466283e4fe402",
+  "59ac4e7c4ad76b1807b29baa7e8cbe92"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4821,7 +4812,8 @@
   "3ef9800d4d": 1794067697.2892349,
   "a6880f3186": 1794071293.8193247,
   "da0bcb8dad": 1794082048.1856525,
-  "e5954341f1": 1794087491.8681405
+  "e5954341f1": 1794087491.8681405,
+  "a6bd76aea8": 1794092891.9429147
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
