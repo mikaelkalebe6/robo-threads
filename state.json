@@ -30,11 +30,11 @@
    "17:20"
   ],
   "produtos_feitos": 2,
-  "respostas": 58,
+  "respostas": 63,
   "por_post": {
    "18122196040984824": 14,
    "18003889164009680": 1,
-   "18078919208732779": 2,
+   "18078919208732779": 3,
    "18001115808001002": 3,
    "18099246437387630": 2,
    "18229654453336032": 8,
@@ -42,9 +42,9 @@
    "18088627868316590": 5,
    "18094337621212236": 5,
    "18129394138877262": 1,
-   "18139184407643257": 5,
+   "18139184407643257": 6,
    "18116946094839551": 5,
-   "18139699534731715": 1
+   "18139699534731715": 4
   }
  },
  "posts": [
@@ -1243,11 +1243,6 @@
   }
  ],
  "respondidos": [
-  "17970741225177884",
-  "17992079112024661",
-  "18112818278124124",
-  "18486837418108322",
-  "17921683617223015",
   "18127778086830761",
   "17919052266445692",
   "18096349094644462",
@@ -4242,7 +4237,12 @@
   "18116088392463726",
   "18117285482326629",
   "17971596852179720",
-  "18133200424830715"
+  "18133200424830715",
+  "18137232982660516",
+  "17930861772184465",
+  "18113897687251295",
+  "18119050193012841",
+  "18128914498852061"
  ],
  "hashes": [
   "db942cfa69c91bf333c00bcca1727f14",
@@ -4879,35 +4879,15 @@
   "724c90eeb1": 1,
   "3edc4f68a3": 1,
   "cd315e2fa1": 1,
-  "e5af0db525": 1
+  "e5af0db525": 1,
+  "d4bfaa252b": 1,
+  "6d2df7983c": 1,
+  "f35a49976d": 1,
+  "4783ef479c": 1,
+  "4021caa1b1": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "esse áudio vinha com direito a orelhinhas e recado especial",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "ousadia e alegria de manhã cedo é para poucos kkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Ah, então já tem a trilha sonora perfeita 😏 kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Teleporte seria top, chegaria antes do carro reclamar kkk 🚀",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "essa eu não esperava, mas a voz é tão marcante que até faria sentido",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "kkk universo paralelo, mas admiro a força",
    "p": "neutra",
@@ -5030,6 +5010,31 @@
   },
   {
    "t": "filtro excelente para identificar onde não vale a pena trabalhar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "parece absurdo mas quem observa o dia a dia percebe que é bem isso",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "chocante mas real",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "carro alto dá uma paz gigante até a hora de achar vaga kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "solta o nome aí que fiquei curiosa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "subiu tanto que agora recarga pequena virou artigo de luxo",
    "p": "concorda",
    "r": 0
   }
@@ -6493,7 +6498,8 @@
   ],
   "18078919208732779": [
    "esse modelo ai",
-   "a preguica de"
+   "a preguica de",
+   "carro alto da"
   ],
   "17910631911572963": [
    "esse universo paralelo",
@@ -6522,7 +6528,8 @@
    "esse toque era",
    "entao ja ta",
    "verdade ainda rola",
-   "resistencia pura nos"
+   "resistencia pura nos",
+   "subiu tanto que"
   ],
   "18116946094839551": [
    "brasilia costuma ser",
@@ -6532,7 +6539,10 @@
    "filtro excelente para"
   ],
   "18139699534731715": [
-   "quem tem alianca"
+   "quem tem alianca",
+   "parece absurdo mas",
+   "chocante mas real",
+   "solta o nome"
   ]
  },
  "shopee_checada": "2026-11-07|1",
