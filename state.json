@@ -33,7 +33,7 @@
    "21:15"
   ],
   "produtos_feitos": 2,
-  "respostas": 70,
+  "respostas": 71,
   "por_post": {
    "18122196040984824": 14,
    "18003889164009680": 1,
@@ -47,7 +47,7 @@
    "18129394138877262": 1,
    "18139184407643257": 9,
    "18116946094839551": 5,
-   "18139699534731715": 5,
+   "18139699534731715": 6,
    "18134330512806965": 2
   }
  },
@@ -1198,7 +1198,6 @@
   }
  ],
  "respondidos": [
-  "17987441352059361",
   "18020093786946745",
   "18372662035215008",
   "17958501342252750",
@@ -4197,7 +4196,8 @@
   "18026059706929643",
   "18024607940944318",
   "18078301286741567",
-  "18115675025270889"
+  "18115675025270889",
+  "17886860487510813"
  ],
  "hashes": [
   "5d0410bbbeaca38b6eeb444b4eff3ca2",
@@ -4849,15 +4849,11 @@
   "daaadbba5a": 1,
   "143278964b": 1,
   "04422fbce7": 1,
-  "af8dd8b90f": 1
+  "af8dd8b90f": 1,
+  "896df21642": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "macarrão ganha passe livre com louvor depois de adulto",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "parecia bilhete de loteria",
    "p": "concorda",
@@ -5001,6 +4997,11 @@
   {
    "t": "descobriram meu nome artistico",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "pesou a mão no julgamento das companhias",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6509,7 +6510,8 @@
    "parece absurdo mas",
    "chocante mas real",
    "solta o nome",
-   "esse investimento todo"
+   "esse investimento todo",
+   "pesou a mao"
   ],
   "18134330512806965": [
    "ja desiste antes",
