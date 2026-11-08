@@ -23,12 +23,12 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 12,
   "por_post": {
    "18134330512806965": 1,
-   "18139699534731715": 2,
+   "18139699534731715": 7,
    "18116946094839551": 2,
-   "18139184407643257": 1
+   "18139184407643257": 2
   }
  },
  "posts": [
@@ -1296,12 +1296,6 @@
   }
  ],
  "respondidos": [
-  "17927300703179776",
-  "17887714101477669",
-  "18140312203616833",
-  "18071857160770667",
-  "18074022818565642",
-  "17956937409254006",
   "18079667888415707",
   "17946733383342169",
   "17959543767231265",
@@ -4295,7 +4289,13 @@
   "18124033861950699",
   "18111478712216014",
   "18125998262020061",
-  "18015168602760728"
+  "18015168602760728",
+  "17990063244094766",
+  "18204041899377561",
+  "17897060082682243",
+  "18012459674776855",
+  "18197805310400899",
+  "18117236927123840"
  ],
  "hashes": [
   "5d0410bbbeaca38b6eeb444b4eff3ca2",
@@ -4887,40 +4887,16 @@
   "bae9161b0f": 1,
   "0d8f305530": 1,
   "0521dbc115": 1,
-  "97688c8b72": 1
+  "97688c8b72": 1,
+  "bddc79f9ed": 1,
+  "a862ceb952": 1,
+  "a541bff56b": 1,
+  "dd1b3da85a": 1,
+  "dcfdf72e98": 1,
+  "e4baa6657d": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "essa lista inteira virou favorita com o tempo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "a preguiça de manobrar fala mais alto do que a necessidade real",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "resistencia pura nos dias de hoje kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "cenoura cozida ganha outra chance quando a gente cresce",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, quem pilota o volante garante o direito da trilha sonora",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "brasilia costuma ser mais tranquila mesmo com isso",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "tomara que o resto do mercado siga esse mesmo ritmo",
    "p": "concorda",
@@ -5038,6 +5014,36 @@
   },
   {
    "t": "verdade, algumas areas ainda são mais engessadas que outras",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "essa ligação de três segundos era pura sobrevivência financeira kkkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "desvantagem enorme pra quem tá livre no mercado kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "perigosa mas cheia de verdade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "assusta mas a realidade supera a ficção",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "concordo total, o peso é o mesmo para os dois lados",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesou bastante no julgamento mas o ponto era sobre o clima leve",
    "p": "ressalva",
    "r": 0
   }
@@ -6554,7 +6560,8 @@
    "banquinha de jornal",
    "plano acaba sendo",
    "pesou na ferida",
-   "vinte contos ainda"
+   "vinte contos ainda",
+   "essa ligacao de"
   ],
   "18116946094839551": [
    "brasilia costuma ser",
@@ -6573,7 +6580,12 @@
    "esse investimento todo",
    "pesou a mao",
    "elas vao na",
-   "essa reacao e"
+   "essa reacao e",
+   "desvantagem enorme pra",
+   "perigosa mas cheia",
+   "assusta mas a",
+   "concordo total o",
+   "pesou bastante no"
   ],
   "18134330512806965": [
    "ja desiste antes",
