@@ -28,10 +28,11 @@
    "15:13",
    "16:04",
    "17:20",
-   "18:58"
+   "18:58",
+   "19:47"
   ],
   "produtos_feitos": 2,
-  "respostas": 65,
+  "respostas": 66,
   "por_post": {
    "18122196040984824": 14,
    "18003889164009680": 1,
@@ -45,33 +46,10 @@
    "18129394138877262": 1,
    "18139184407643257": 7,
    "18116946094839551": 5,
-   "18139699534731715": 4
+   "18139699534731715": 5
   }
  },
  "posts": [
-  {
-   "id": "18080625980418879",
-   "insp": "9bbd821472",
-   "link": "",
-   "texto": "NINGUÉM FALA DISSO: qual é o seu ritual de domingo à noite pra encarar a segunda sem querer chorar",
-   "quando": "2026-11-02T14:37:09.876861-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1051,
-    "likes": 4,
-    "replies": 17,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-07"
-   },
-   "viral_chk": "2026-11-03T07:07:12.736050-04:00",
-   "link_coment": "https://s.shopee.com.br/3LS7Dypwd9",
-   "meme_comentado": true,
-   "meme_views": 1014,
-   "formato_link": "coment",
-   "produto": "26437638380"
-  },
   {
    "id": "18433923586146915",
    "insp": "prod_58255061423",
@@ -1231,10 +1209,17 @@
    "texto": "ME CONTA: quem aqui resiste à tentação de pisar bem no meio daquela poça d'água depois da chuva?",
    "quando": "2026-11-07T19:07:09.543803-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18198721987345444",
+   "insp": "d0c13e0048",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: entre doces e travessuras do Halloween ou o bom e velho Saci na mata, o fim de outubro sempre ganha quem sabe aproveitar um bom enredo.",
+   "quando": "2026-11-07T20:07:07.945397-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18096349094644462",
   "18179931772441774",
   "18117017579326754",
   "18132278650811159",
@@ -4233,10 +4218,10 @@
   "18119050193012841",
   "18128914498852061",
   "17915561787288649",
-  "17916435786520667"
+  "17916435786520667",
+  "18124078882953621"
  ],
  "hashes": [
-  "9031693bde89219761bd98978f1820b0",
   "4f78f8a127da3ccc41745f8004041912",
   "5d0410bbbeaca38b6eeb444b4eff3ca2",
   "429dd7482671a1461d753dda49d9c32d",
@@ -4435,7 +4420,8 @@
   "8683de370303c1d303ba4f137f0c5f1a",
   "d4cb653e7e25cd1183993af20031f496",
   "39a41ad89b813d06412466283e4fe402",
-  "59ac4e7c4ad76b1807b29baa7e8cbe92"
+  "59ac4e7c4ad76b1807b29baa7e8cbe92",
+  "cd342bbca166d4fd5a80fde8f4a37640"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4813,7 +4799,8 @@
   "a6880f3186": 1794071293.8193247,
   "da0bcb8dad": 1794082048.1856525,
   "e5954341f1": 1794087491.8681405,
-  "a6bd76aea8": 1794092891.9429147
+  "a6bd76aea8": 1794092891.9429147,
+  "d0c13e0048": 1794096444.7129052
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4878,15 +4865,11 @@
   "4783ef479c": 1,
   "4021caa1b1": 1,
   "4d468441ff": 1,
-  "96ab5707ea": 1
+  "96ab5707ea": 1,
+  "18ff0b4cbb": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "regra justa, dono do carro e motorista ganham imunidade musical",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "antes tarde do que nunca, o importante é estar na estrada",
    "p": "concorda",
@@ -5031,6 +5014,11 @@
    "t": "banquinha de jornal era o nosso posto de atendimento oficial",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse investimento todo deixa qualquer uma intrigada kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6538,7 +6526,8 @@
    "quem tem alianca",
    "parece absurdo mas",
    "chocante mas real",
-   "solta o nome"
+   "solta o nome",
+   "esse investimento todo"
   ]
  },
  "shopee_checada": "2026-11-07|1",
