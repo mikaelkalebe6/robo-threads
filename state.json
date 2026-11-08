@@ -34,7 +34,7 @@
    "18:42"
   ],
   "produtos_feitos": 1,
-  "respostas": 68,
+  "respostas": 73,
   "por_post": {
    "18134330512806965": 4,
    "18139699534731715": 8,
@@ -45,7 +45,8 @@
    "18447652600130064": 4,
    "17912953554306994": 10,
    "18159685150495656": 3,
-   "18096380930670615": 14
+   "18096380930670615": 15,
+   "17900757891393240": 4
   }
  },
  "posts": [
@@ -1185,11 +1186,6 @@
   }
  ],
  "respondidos": [
-  "17959007721218726",
-  "18147084586495251",
-  "18112705511519837",
-  "18116442520800145",
-  "17995396272035441",
   "18129546238687153",
   "17904482385570139",
   "18031293599855387",
@@ -4184,7 +4180,12 @@
   "18188766997418064",
   "18127795619292640",
   "17979475650169215",
-  "17876952537593470"
+  "17876952537593470",
+  "18471078802136979",
+  "18086325902333991",
+  "18080789195577753",
+  "18080377145419153",
+  "17911211544664510"
  ],
  "hashes": [
   "dc1db739782eab4678755fd2e5087cfc",
@@ -4843,35 +4844,15 @@
   "eb96a2e340": 1,
   "d42d87f751": 1,
   "748b618c67": 1,
-  "6aad6a5a36": 1
+  "6aad6a5a36": 1,
+  "816cfbe4c9": 1,
+  "78a217a9a7": 1,
+  "af5ae8c6c4": 1,
+  "9587d4288b": 1,
+  "6dbc93e4a6": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "paz de espírito invejável, vive na base da blindagem emocional",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "muitas variaveis para uma relação só, o pacote completo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "kkkkkk se a pessoa canta com gosto já entrega que o papo vai render horas",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "dá uma temperada boa na rotina e rende assunto pra semana toda kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "colecionador de fortes emoções né, gosta de viver perigosamente kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "política já entra em outra categoria de teste psicológico kkk",
    "p": "concorda",
@@ -4994,6 +4975,31 @@
   },
   {
    "t": "marcar direto no lugar já é estranho mesmo, e combinar hora exige o mínimo de consideração",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "equipe cedo então, de madrugada o cérebro já desliga de vez",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "madrugada tem um silêncio que rende muito mais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse silêncio da noite tem mesmo um poder inexplicável",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "horário comercial certinho, paz demais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "melhor escolha para não perder a paciência nem a noite",
    "p": "concorda",
    "r": 0
   }
@@ -6248,13 +6254,6 @@
   }
  ],
  "aberturas_post": {
-  "18150633781483522": [
-   "verdade um psicologo",
-   "medicacao pesada ou",
-   "subiu tanto que",
-   "so quando a",
-   "paciencia de monge"
-  ],
   "18403612900201661": [
    "faxineira e patroa",
    "justo quem limpa",
@@ -6539,7 +6538,14 @@
    "essa logica de",
    "cada leitura que",
    "pelo menos avisando",
-   "marcar direto no"
+   "marcar direto no",
+   "melhor escolha para"
+  ],
+  "17900757891393240": [
+   "equipe cedo entao",
+   "madrugada tem um",
+   "esse silencio da",
+   "horario comercial certinho"
   ]
  },
  "shopee_checada": "2026-11-08|1",
