@@ -25,12 +25,13 @@
    "08:29"
   ],
   "produtos_feitos": 0,
-  "respostas": 13,
+  "respostas": 19,
   "por_post": {
    "18134330512806965": 1,
    "18139699534731715": 8,
    "18116946094839551": 2,
-   "18139184407643257": 2
+   "18139184407643257": 2,
+   "18121353692075006": 6
   }
  },
  "posts": [
@@ -1283,12 +1284,6 @@
   }
  ],
  "respondidos": [
-  "17946733383342169",
-  "17959543767231265",
-  "18446408545135062",
-  "17894599773424700",
-  "17884566885506337",
-  "18089021390675482",
   "18115747603799187",
   "18487783909109031",
   "18117242560890200",
@@ -4282,7 +4277,13 @@
   "18012459674776855",
   "18197805310400899",
   "18117236927123840",
-  "17998681944016862"
+  "17998681944016862",
+  "17983427178137828",
+  "18104162672649338",
+  "18134868703756935",
+  "17966094963218844",
+  "18103883090056502",
+  "17880351156564903"
  ],
  "hashes": [
   "429dd7482671a1461d753dda49d9c32d",
@@ -4882,40 +4883,16 @@
   "dd1b3da85a": 1,
   "dcfdf72e98": 1,
   "e4baa6657d": 1,
-  "53bfaa8cf0": 1
+  "53bfaa8cf0": 1,
+  "1bc8d7a799": 1,
+  "adfa218623": 1,
+  "be5fc0fa81": 1,
+  "dfeaea9787": 1,
+  "6f52e1b1ba": 1,
+  "326d5a5dd5": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "muita gente ainda fica presa nessa rigidez sem sentido",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tomara mesmo, porque o plano é grande e a vontade tá maior ainda",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem tem aliança flerta sem medo porque acha que nada vai acontecer",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "filtro excelente para identificar onde não vale a pena trabalhar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "parece absurdo mas quem observa o dia a dia percebe que é bem isso",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "chocante mas real",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "carro alto dá uma paz gigante até a hora de achar vaga kkk",
    "p": "ressalva",
@@ -5034,6 +5011,36 @@
   {
    "t": "segurança muda tudo mesmo, tira aquele peso chato de ter que provar alguma coisa",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "calma ditador, nem assumiu o cargo e já quer acabar com a alegria do país",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "maionese caseira na pizza é um caminho sem volta kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quem sou eu para contrariar as leis da liberdade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "azeite e pimenta salvam mas o catchup continua tendo seu valor sentimental",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "exato, povo gasta muita energia cuidando do prato dos outros kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pior que a teoria faz sentido quando a comida vem duvidosa",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6282,17 +6289,6 @@
   }
  ],
  "aberturas_post": {
-  "18134748025793720": [
-   "justo a parte",
-   "argumento justo a",
-   "exato paz de",
-   "esse bastidor da",
-   "o pe na",
-   "essa parte compensa",
-   "rodizio que desafia",
-   "adoro esse cacador",
-   "e isso ai"
-  ],
   "17968225734230291": [
    "a bola foi",
    "que linda memoria",
@@ -6581,6 +6577,14 @@
    "ja desiste antes",
    "descobriram meu nome",
    "endereco estrategico para"
+  ],
+  "18121353692075006": [
+   "calma ditador nem",
+   "maionese caseira na",
+   "quem sou eu",
+   "azeite e pimenta",
+   "exato povo gasta",
+   "pior que a"
   ]
  },
  "shopee_checada": "2026-11-08|1",
