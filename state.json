@@ -28,7 +28,8 @@
    "11:18",
    "12:08",
    "12:58",
-   "14:00"
+   "14:00",
+   "16:10"
   ],
   "produtos_feitos": 1,
   "respostas": 48,
@@ -44,38 +45,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18000216539825006",
-   "insp": "prod_20298142088",
-   "link": "",
-   "texto": "Pegar estrada de moto no sol forte ou poeira acaba com a pele, né? 😅 Descobri essa balaclava respirável que protege super bem e não sufoca embaixo do capacete. Olha como fica ajustada 👀",
-   "quando": "2026-11-03T10:37:12.171238-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "20298142088",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "20298142088",
-    "nome": "Balaclava  Facial UV Respirável para Moto, Pesca e Esportes",
-    "offerLink": "https://s.shopee.com.br/2BG9ppPRzS",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ou-mosj94b62cxuaf",
-    "campanha": ""
-   },
-   "metricas": {
-    "views": 263,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-08"
-   },
-   "link_coment": "https://s.shopee.com.br/2BG9ppPRzS",
-   "link_em": "2026-11-04T07:07:10.627757-04:00",
-   "link_views": 0
-  },
   {
    "id": "18161133757513372",
    "insp": "43ee3055b5",
@@ -1235,10 +1204,17 @@
    "texto": "ME CONTA: quem mais jura que vai dormir cedo e às duas da manhã tá vidrado em vídeo de limpeza de tapete?",
    "quando": "2026-11-08T14:07:09.384220-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18159685150495656",
+   "insp": "0dc0e78f0f",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual foi o sinal de interesse mais óbvio que você só entendeu anos depois?",
+   "quando": "2026-11-08T16:37:07.729520-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18489958231109365",
   "18033269336670357",
   "18141062593721911",
   "18012655562985438",
@@ -4237,10 +4213,10 @@
   "18104434820160978",
   "18082712477546407",
   "18149000497496781",
-  "18100426799457609"
+  "18100426799457609",
+  "18118582832079550"
  ],
  "hashes": [
-  "e5e167824dab04369b429cdfee343bc4",
   "b6dc261e862d3092ff387f56f550ce7c",
   "e1f32366e616d5b7514b5cffcf25261b",
   "dc1db739782eab4678755fd2e5087cfc",
@@ -4439,7 +4415,8 @@
   "d05958242bf10e70d8668f0b34f8922c",
   "9da9a7e5cc0f4cebc4a8efa8bc8fa2bb",
   "7ac75076ef08c8f35b983c73bf9d4de6",
-  "852463e8258e0081dde97c08bb30c3f4"
+  "852463e8258e0081dde97c08bb30c3f4",
+  "24feb212059ae3d0a7f77728aca34da1"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4825,7 +4802,8 @@
   "0c2c19145c": 1794152244.940416,
   "41aca0f78d": 1794155845.9663742,
   "03269f6c0e": 1794157663.8763182,
-  "c4388fbfd7": 1794161293.453224
+  "c4388fbfd7": 1794161293.453224,
+  "0dc0e78f0f": 1794170281.688949
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
