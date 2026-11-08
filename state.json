@@ -31,16 +31,16 @@
    "14:00"
   ],
   "produtos_feitos": 1,
-  "respostas": 45,
+  "respostas": 47,
   "por_post": {
    "18134330512806965": 3,
    "18139699534731715": 8,
    "18116946094839551": 2,
    "18139184407643257": 2,
-   "18121353692075006": 18,
+   "18121353692075006": 19,
    "18081521156456374": 1,
    "18447652600130064": 4,
-   "17912953554306994": 7
+   "17912953554306994": 8
   }
  },
  "posts": [
@@ -1238,8 +1238,6 @@
   }
  ],
  "respondidos": [
-  "18131104306705291",
-  "18170551183404643",
   "17939074941370016",
   "18489958231109365",
   "18033269336670357",
@@ -4237,7 +4235,9 @@
   "18141793873620886",
   "18134585761845185",
   "18005989572058499",
-  "18104434820160978"
+  "18104434820160978",
+  "18082712477546407",
+  "18149000497496781"
  ],
  "hashes": [
   "e5e167824dab04369b429cdfee343bc4",
@@ -4872,20 +4872,12 @@
   "eab4af8985": 1,
   "5a4f6559c6": 1,
   "f0772414a9": 1,
-  "5e756a3539": 1
+  "5e756a3539": 1,
+  "5444ce2d23": 1,
+  "1eb4ad9c86": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "quem sou eu para contrariar as leis da liberdade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "azeite e pimenta salvam mas o catchup continua tendo seu valor sentimental",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "exato, povo gasta muita energia cuidando do prato dos outros kkkk",
    "p": "concorda",
@@ -5023,6 +5015,16 @@
   },
   {
    "t": "coragem misturada com caos, adorei kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o respeito no dia a dia resolve boa parte das diferencas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "lá na italia choram mas aqui a gente é livre kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6537,7 +6539,8 @@
    "liberdade total para",
    "quem anda com",
    "paulistano defende a",
-   "coragem misturada com"
+   "coragem misturada com",
+   "la na italia"
   ],
   "18081521156456374": [
    "combinacao infalivel que"
@@ -6555,7 +6558,8 @@
    "muitas variaveis para",
    "da uma temperada",
    "colecionador de fortes",
-   "politica ja entra"
+   "politica ja entra",
+   "o respeito no"
   ]
  },
  "shopee_checada": "2026-11-08|1",
