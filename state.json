@@ -23,10 +23,10 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 13,
   "por_post": {
    "18134330512806965": 1,
-   "18139699534731715": 7,
+   "18139699534731715": 8,
    "18116946094839551": 2,
    "18139184407643257": 2
   }
@@ -1296,7 +1296,6 @@
   }
  ],
  "respondidos": [
-  "18079667888415707",
   "17946733383342169",
   "17959543767231265",
   "18446408545135062",
@@ -4295,7 +4294,8 @@
   "17897060082682243",
   "18012459674776855",
   "18197805310400899",
-  "18117236927123840"
+  "18117236927123840",
+  "17998681944016862"
  ],
  "hashes": [
   "5d0410bbbeaca38b6eeb444b4eff3ca2",
@@ -4893,15 +4893,11 @@
   "a541bff56b": 1,
   "dd1b3da85a": 1,
   "dcfdf72e98": 1,
-  "e4baa6657d": 1
+  "e4baa6657d": 1,
+  "53bfaa8cf0": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "tomara que o resto do mercado siga esse mesmo ritmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "muita gente ainda fica presa nessa rigidez sem sentido",
    "p": "concorda",
@@ -5045,6 +5041,11 @@
   {
    "t": "pesou bastante no julgamento mas o ponto era sobre o clima leve",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "segurança muda tudo mesmo, tira aquele peso chato de ter que provar alguma coisa",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6585,7 +6586,8 @@
    "perigosa mas cheia",
    "assusta mas a",
    "concordo total o",
-   "pesou bastante no"
+   "pesou bastante no",
+   "seguranca muda tudo"
   ],
   "18134330512806965": [
    "ja desiste antes",
