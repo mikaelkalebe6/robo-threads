@@ -32,7 +32,7 @@
    "19:47"
   ],
   "produtos_feitos": 2,
-  "respostas": 66,
+  "respostas": 67,
   "por_post": {
    "18122196040984824": 14,
    "18003889164009680": 1,
@@ -44,7 +44,7 @@
    "18088627868316590": 5,
    "18094337621212236": 5,
    "18129394138877262": 1,
-   "18139184407643257": 7,
+   "18139184407643257": 8,
    "18116946094839551": 5,
    "18139699534731715": 5
   }
@@ -1220,7 +1220,6 @@
   }
  ],
  "respondidos": [
-  "18179931772441774",
   "18117017579326754",
   "18132278650811159",
   "17921713809443211",
@@ -4219,7 +4218,8 @@
   "18128914498852061",
   "17915561787288649",
   "17916435786520667",
-  "18124078882953621"
+  "18124078882953621",
+  "18026059706929643"
  ],
  "hashes": [
   "4f78f8a127da3ccc41745f8004041912",
@@ -4866,15 +4866,11 @@
   "4021caa1b1": 1,
   "4d468441ff": 1,
   "96ab5707ea": 1,
-  "18ff0b4cbb": 1
+  "18ff0b4cbb": 1,
+  "daaadbba5a": 1
  },
  "reservas_checadas": "2026-11-07",
  "ultimas_respostas": [
-  {
-   "t": "antes tarde do que nunca, o importante é estar na estrada",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "quase controlar o carro já entra na categoria de teste de sobrevivência kkkkk",
    "p": "concorda",
@@ -5019,6 +5015,11 @@
    "t": "esse investimento todo deixa qualquer uma intrigada kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "plano acaba sendo o jeito de tentar manter algum controle nos gastos",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6513,7 +6514,8 @@
    "verdade ainda rola",
    "resistencia pura nos",
    "subiu tanto que",
-   "banquinha de jornal"
+   "banquinha de jornal",
+   "plano acaba sendo"
   ],
   "18116946094839551": [
    "brasilia costuma ser",
