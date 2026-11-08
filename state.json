@@ -27,13 +27,13 @@
    "10:19"
   ],
   "produtos_feitos": 1,
-  "respostas": 28,
+  "respostas": 29,
   "por_post": {
    "18134330512806965": 3,
    "18139699534731715": 8,
    "18116946094839551": 2,
    "18139184407643257": 2,
-   "18121353692075006": 12,
+   "18121353692075006": 13,
    "18081521156456374": 1
   }
  },
@@ -1284,7 +1284,6 @@
   }
  ],
  "respondidos": [
-  "18136602289727124",
   "17975433591129842",
   "17960311397997984",
   "18119048257845220",
@@ -4283,7 +4282,8 @@
   "18190238236374044",
   "18404904568205866",
   "18352781995270300",
-  "18002046831032272"
+  "18002046831032272",
+  "18129975517906033"
  ],
  "hashes": [
   "c15d4d63af57bb66cc20cd15d59429e6",
@@ -4898,15 +4898,11 @@
   "80e0e1214e": 1,
   "a701149509": 1,
   "9352055ad7": 1,
-  "acb2196156": 1
+  "acb2196156": 1,
+  "983b266855": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "descobriram meu nome artistico",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "pesou a mão no julgamento das companhias",
    "p": "ressalva",
@@ -5050,6 +5046,11 @@
   {
    "t": "teoria impecável mas na fome da madrugada vale tudo",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "liberdade poética culinária total, cada um assume os BOs do próprio prato",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6584,7 +6585,8 @@
    "justo ketchup acaba",
    "maionese na pizza",
    "pelo menos o",
-   "teoria impecavel mas"
+   "teoria impecavel mas",
+   "liberdade poetica culinaria"
   ],
   "18081521156456374": [
    "combinacao infalivel que"
