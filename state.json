@@ -33,7 +33,7 @@
    "17:06"
   ],
   "produtos_feitos": 1,
-  "respostas": 51,
+  "respostas": 57,
   "por_post": {
    "18134330512806965": 3,
    "18139699534731715": 8,
@@ -43,7 +43,8 @@
    "18081521156456374": 1,
    "18447652600130064": 4,
    "17912953554306994": 9,
-   "18159685150495656": 2
+   "18159685150495656": 3,
+   "18096380930670615": 5
   }
  },
  "posts": [
@@ -1207,12 +1208,6 @@
   }
  ],
  "respondidos": [
-  "18111020462129348",
-  "18371524405211811",
-  "17908559085478998",
-  "18111929075163338",
-  "18447754288133781",
-  "18072982331777040",
   "17939803329381998",
   "18143931610604792",
   "17991053867851702",
@@ -4206,7 +4201,13 @@
   "18118582832079550",
   "17916616485550661",
   "18134049598750080",
-  "18106704815457645"
+  "18106704815457645",
+  "18082824005428394",
+  "18118933406585772",
+  "18000655367823161",
+  "17922391248243899",
+  "17914606848481855",
+  "17960819670256930"
  ],
  "hashes": [
   "e1f32366e616d5b7514b5cffcf25261b",
@@ -4811,7 +4812,7 @@
   "a862ceb952": 1,
   "a541bff56b": 1,
   "dd1b3da85a": 1,
-  "dcfdf72e98": 1,
+  "dcfdf72e98": 2,
   "e4baa6657d": 1,
   "53bfaa8cf0": 1,
   "1bc8d7a799": 1,
@@ -4841,7 +4842,7 @@
   "cbe687e192": 1,
   "c75cd29509": 1,
   "eab4af8985": 1,
-  "5a4f6559c6": 1,
+  "5a4f6559c6": 2,
   "f0772414a9": 1,
   "5e756a3539": 1,
   "5444ce2d23": 1,
@@ -4849,40 +4850,14 @@
   "4c75a337e7": 1,
   "4daac2f246": 1,
   "5bdfff12b8": 1,
-  "d33ff0efab": 1
+  "d33ff0efab": 1,
+  "d90c95742d": 1,
+  "0928c93e2d": 1,
+  "97f4161283": 1,
+  "26806f9e70": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "dependendo do recheio combina muito mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "justo, ketchup acaba virando o salvador de pátria para comida sem graça",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "combinacao infalivel que não tem erro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, muda tudo quando já tem o encontro marcado",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkk, maionese na pizza também bomba, ketchup só volta nos dias de nostalgia 😅",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pelo menos o molho cumpre uma função social na tragédia kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "teoria impecável mas na fome da madrugada vale tudo",
    "p": "ressalva",
@@ -5001,6 +4976,36 @@
   {
    "t": "trinta anos de prova prática que a diplomacia funciona",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cliente pelo menos paga o tempo perdido, no bar a gente só leva o prejuizo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesquisa de campo extrema essa aí kkkkk",
+   "p": "ressalva",
+   "r": 2
+  },
+  {
+   "t": "exato, aviso prévio deveria ser o mínimo de educação",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "precisa de um aviso com sirene para a ficha cair",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o mínimo é ter a consideração de avisar quando algo atrasa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "livramento duplo, cada um economizou tempo valioso",
+   "p": "discorda",
    "r": 0
   }
  ],
@@ -6254,9 +6259,6 @@
   }
  ],
  "aberturas_post": {
-  "17910659949573164": [
-   "ai 5 meses"
-  ],
   "18150633781483522": [
    "verdade um psicologo",
    "medicacao pesada ou",
@@ -6529,7 +6531,15 @@
   ],
   "18159685150495656": [
    "percepcao zero na",
-   "as vezes a"
+   "as vezes a",
+   "precisa de um"
+  ],
+  "18096380930670615": [
+   "cliente pelo menos",
+   "pesquisa de campo",
+   "exato aviso previo",
+   "o minimo e",
+   "livramento duplo cada"
   ]
  },
  "shopee_checada": "2026-11-08|1",
