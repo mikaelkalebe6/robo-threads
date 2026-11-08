@@ -29,10 +29,11 @@
    "12:08",
    "12:58",
    "14:00",
-   "16:10"
+   "16:10",
+   "17:06"
   ],
   "produtos_feitos": 1,
-  "respostas": 48,
+  "respostas": 51,
   "por_post": {
    "18134330512806965": 3,
    "18139699534731715": 8,
@@ -41,28 +42,11 @@
    "18121353692075006": 19,
    "18081521156456374": 1,
    "18447652600130064": 4,
-   "17912953554306994": 8
+   "17912953554306994": 9,
+   "18159685150495656": 2
   }
  },
  "posts": [
-  {
-   "id": "18161133757513372",
-   "insp": "43ee3055b5",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: a promessa de que tinha comida em casa era só uma estratégia para evitar o fast food da rua",
-   "quando": "2026-11-03T11:07:10.107897-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 756,
-    "likes": 5,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-08"
-   },
-   "viral_chk": "2026-11-04T11:07:09.909446-04:00"
-  },
   {
    "id": "18077922542739701",
    "insp": "prod_20999580796",
@@ -1212,12 +1196,17 @@
    "texto": "DÚVIDA SINCERA: qual foi o sinal de interesse mais óbvio que você só entendeu anos depois?",
    "quando": "2026-11-08T16:37:07.729520-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18096380930670615",
+   "insp": "24564d0f1b",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Uma vez esperei meia hora no bar e o cara chegou rindo, sem mandar um aviso sequer. Paguei minha cerveja e fui embora antes dele sentar. \n\nVocês relevam isso no primeiro encontro ou fariam o mesmo?",
+   "quando": "2026-11-08T17:07:08.017995-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
-  "18033269336670357",
-  "18141062593721911",
-  "18012655562985438",
   "18111020462129348",
   "18371524405211811",
   "17908559085478998",
@@ -4214,10 +4203,12 @@
   "18082712477546407",
   "18149000497496781",
   "18100426799457609",
-  "18118582832079550"
+  "18118582832079550",
+  "17916616485550661",
+  "18134049598750080",
+  "18106704815457645"
  ],
  "hashes": [
-  "b6dc261e862d3092ff387f56f550ce7c",
   "e1f32366e616d5b7514b5cffcf25261b",
   "dc1db739782eab4678755fd2e5087cfc",
   "048722fac8b8d17719f5ceb831906f36",
@@ -4416,7 +4407,8 @@
   "9da9a7e5cc0f4cebc4a8efa8bc8fa2bb",
   "7ac75076ef08c8f35b983c73bf9d4de6",
   "852463e8258e0081dde97c08bb30c3f4",
-  "24feb212059ae3d0a7f77728aca34da1"
+  "24feb212059ae3d0a7f77728aca34da1",
+  "0b9227f7394841507ec01ef5b9d1d003"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4803,7 +4795,8 @@
   "41aca0f78d": 1794155845.9663742,
   "03269f6c0e": 1794157663.8763182,
   "c4388fbfd7": 1794161293.453224,
-  "0dc0e78f0f": 1794170281.688949
+  "0dc0e78f0f": 1794170281.688949,
+  "24564d0f1b": 1794172059.140711
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4853,25 +4846,13 @@
   "5e756a3539": 1,
   "5444ce2d23": 1,
   "1eb4ad9c86": 1,
-  "4c75a337e7": 1
+  "4c75a337e7": 1,
+  "4daac2f246": 1,
+  "5bdfff12b8": 1,
+  "d33ff0efab": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "pior que a teoria faz sentido quando a comida vem duvidosa",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "agora aprendeu o caminho das pedras kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "autonomia de respeito, cada um investe no próprio caos kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "dependendo do recheio combina muito mesmo",
    "p": "ressalva",
@@ -5004,6 +4985,21 @@
   },
   {
    "t": "essa renovação de geração está fazendo uma faxina boa nos preconceitos antigos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "percepção zero na hora e um clarão gigante dez anos depois",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "às vezes a gente tá tão ocupada sobrevivendo que perde os sinais pelo caminho",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "trinta anos de prova prática que a diplomacia funciona",
    "p": "concorda",
    "r": 0
   }
@@ -6258,17 +6254,6 @@
   }
  ],
  "aberturas_post": {
-  "18235105819323131": [
-   "nossa marea na",
-   "ai perde a",
-   "verdade perrengue vira",
-   "confusao classica mas",
-   "real depende do",
-   "carro derretendo e",
-   "entao vai ter",
-   "com certeza cada",
-   "obrigada quem sabe"
-  ],
   "17910659949573164": [
    "ai 5 meses"
   ],
@@ -6539,7 +6524,12 @@
    "da uma temperada",
    "colecionador de fortes",
    "politica ja entra",
-   "o respeito no"
+   "o respeito no",
+   "trinta anos de"
+  ],
+  "18159685150495656": [
+   "percepcao zero na",
+   "as vezes a"
   ]
  },
  "shopee_checada": "2026-11-08|1",
