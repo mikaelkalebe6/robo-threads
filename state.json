@@ -31,11 +31,11 @@
    "14:00"
   ],
   "produtos_feitos": 1,
-  "respostas": 47,
+  "respostas": 48,
   "por_post": {
    "18134330512806965": 3,
    "18139699534731715": 8,
-   "18116946094839551": 2,
+   "18116946094839551": 3,
    "18139184407643257": 2,
    "18121353692075006": 19,
    "18081521156456374": 1,
@@ -1238,7 +1238,6 @@
   }
  ],
  "respondidos": [
-  "17939074941370016",
   "18489958231109365",
   "18033269336670357",
   "18141062593721911",
@@ -4237,7 +4236,8 @@
   "18005989572058499",
   "18104434820160978",
   "18082712477546407",
-  "18149000497496781"
+  "18149000497496781",
+  "18100426799457609"
  ],
  "hashes": [
   "e5e167824dab04369b429cdfee343bc4",
@@ -4874,15 +4874,11 @@
   "f0772414a9": 1,
   "5e756a3539": 1,
   "5444ce2d23": 1,
-  "1eb4ad9c86": 1
+  "1eb4ad9c86": 1,
+  "4c75a337e7": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "exato, povo gasta muita energia cuidando do prato dos outros kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "pior que a teoria faz sentido quando a comida vem duvidosa",
    "p": "ressalva",
@@ -5027,6 +5023,11 @@
    "t": "lá na italia choram mas aqui a gente é livre kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "essa renovação de geração está fazendo uma faxina boa nos preconceitos antigos",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6496,7 +6497,8 @@
    "tomara mesmo porque",
    "filtro excelente para",
    "pescoco e rosto",
-   "verdade algumas areas"
+   "verdade algumas areas",
+   "essa renovacao de"
   ],
   "18139699534731715": [
    "quem tem alianca",
