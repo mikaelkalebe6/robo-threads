@@ -26,37 +26,22 @@
    "09:36",
    "10:19",
    "11:18",
-   "12:08"
+   "12:08",
+   "12:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 33,
+  "respostas": 35,
   "por_post": {
    "18134330512806965": 3,
    "18139699534731715": 8,
    "18116946094839551": 2,
    "18139184407643257": 2,
    "18121353692075006": 17,
-   "18081521156456374": 1
+   "18081521156456374": 1,
+   "18447652600130064": 2
   }
  },
  "posts": [
-  {
-   "id": "18147973417588492",
-   "insp": "5b9cf279c9",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: quem aguenta trânsito de carro todo dia na cidade sem perder a paciência. Quase pegando uma moto só pra cortar corredor.",
-   "quando": "2026-11-02T21:07:08.559195-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1257,
-    "likes": 11,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-08"
-   }
-  },
   {
    "id": "17944556547380767",
    "insp": "31ea134865",
@@ -1250,11 +1235,17 @@
    "texto": "DÚVIDA SINCERA: qual foi o detalhe mais bobo que fez você olhar pra pessoa e pensar que aquilo ali ia longe?",
    "quando": "2026-11-08T12:37:08.064363-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17912953554306994",
+   "insp": "03269f6c0e",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: dá pra namorar sério alguém que torce pro seu maior rival no futebol ou isso é pedir pra terminar na primeira final de campeonato",
+   "quando": "2026-11-08T13:07:10.868794-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17911330482510430",
-  "18431916274180232",
   "18434773729145191",
   "18090308231216650",
   "18639127642043813",
@@ -4252,10 +4243,11 @@
   "17945374440091198",
   "18135500302783236",
   "17890848990619866",
-  "18102041441356341"
+  "18102041441356341",
+  "18099545927557957",
+  "18109774748577868"
  ],
  "hashes": [
-  "dcc4169bd37214c213bf063e873363fb",
   "c29415ec5bc084579358d116c762562d",
   "e5e167824dab04369b429cdfee343bc4",
   "b6dc261e862d3092ff387f56f550ce7c",
@@ -4454,7 +4446,8 @@
   "765b918a52e40bd1195a6a16a5723215",
   "1fe5cb407f1362ea7ead9c4abec7e30d",
   "d05958242bf10e70d8668f0b34f8922c",
-  "9da9a7e5cc0f4cebc4a8efa8bc8fa2bb"
+  "9da9a7e5cc0f4cebc4a8efa8bc8fa2bb",
+  "7ac75076ef08c8f35b983c73bf9d4de6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4838,7 +4831,8 @@
   "66f806d7b8": 1794141490.8668044,
   "01d9d1e7d7": 1794145037.9918373,
   "0c2c19145c": 1794152244.940416,
-  "41aca0f78d": 1794155845.9663742
+  "41aca0f78d": 1794155845.9663742,
+  "03269f6c0e": 1794157663.8763182
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4874,20 +4868,12 @@
   "0e92ba79e8": 1,
   "cef2f266c4": 1,
   "53fe916287": 1,
-  "7fdd88c7e6": 1
+  "7fdd88c7e6": 1,
+  "c6d61505c0": 1,
+  "e3f0573fab": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "vinte contos ainda salva bastante gente no aperto",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "KKKKKKKKKK, essa reação é de morrer 😂",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "verdade, algumas areas ainda são mais engessadas que outras",
    "p": "ressalva",
@@ -5027,6 +5013,16 @@
    "t": "paulistano defende a tradição até a fome bater forte de madrugada kkk",
    "p": "ressalva",
    "r": 1
+  },
+  {
+   "t": "kkkkkk se rir da atrocidade já deu match imagina o resto",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Nossa isso realmente faz a gente imaginar o futuro, adorei 😊",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6279,25 +6275,6 @@
   }
  ],
  "aberturas_post": {
-  "17912408370309490": [
-   "essa e a",
-   "antecipou o boleto",
-   "esse ai avisa",
-   "o ciatico chega",
-   "parece que vem",
-   "os joelhos entregam",
-   "antecipou a fatura",
-   "esse caminho inteiro",
-   "comecou a cobrar",
-   "agora preciso achar",
-   "meu chegou na",
-   "joelho tambem pode",
-   "com vinte e",
-   "joelho tambem entrou",
-   "parece que o",
-   "essa sigla mudou",
-   "resolveu cobrar o"
-  ],
   "18119319922812758": [
    "boa atendente de",
    "verdade a ia",
@@ -6569,6 +6546,10 @@
   ],
   "18081521156456374": [
    "combinacao infalivel que"
+  ],
+  "18447652600130064": [
+   "se rir da",
+   "nossa isso realmente"
   ]
  },
  "shopee_checada": "2026-11-08|1",
