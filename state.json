@@ -33,9 +33,9 @@
    "17:06"
   ],
   "produtos_feitos": 1,
-  "respostas": 60,
+  "respostas": 65,
   "por_post": {
-   "18134330512806965": 3,
+   "18134330512806965": 4,
    "18139699534731715": 8,
    "18116946094839551": 3,
    "18139184407643257": 2,
@@ -44,7 +44,7 @@
    "18447652600130064": 4,
    "17912953554306994": 10,
    "18159685150495656": 3,
-   "18096380930670615": 7
+   "18096380930670615": 11
   }
  },
  "posts": [
@@ -1208,11 +1208,6 @@
   }
  ],
  "respondidos": [
-  "18094400663553992",
-  "18107476181194693",
-  "18123091171926691",
-  "17908288755476967",
-  "18130133887817513",
   "17954420163081978",
   "17946537402072599",
   "18114687203045403",
@@ -4207,7 +4202,12 @@
   "17960819670256930",
   "18102497720648058",
   "17901861867611854",
-  "18130424944893909"
+  "18130424944893909",
+  "18137876014651675",
+  "18286479625293531",
+  "17898843549610587",
+  "18106200500534062",
+  "18188766997418064"
  ],
  "hashes": [
   "e1f32366e616d5b7514b5cffcf25261b",
@@ -4857,35 +4857,15 @@
   "26806f9e70": 1,
   "42ccde6b78": 1,
   "c8a5bac454": 1,
-  "7c32e01db2": 1
+  "7c32e01db2": 1,
+  "5a8384f8b1": 1,
+  "30a89e9c18": 1,
+  "40f4c28aad": 1,
+  "137a87a20f": 1,
+  "eb96a2e340": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "liberdade total para o seu prato, o importante é a refeição render",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "quem anda com esse grupo sabe que o risco faz parte da diversão",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "paulistano defende a tradição até a fome bater forte de madrugada kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "kkkkkk se rir da atrocidade já deu match imagina o resto",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Nossa isso realmente faz a gente imaginar o futuro, adorei 😊",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pelo menos a falta de taça traz paz pro relacionamento kkk",
    "p": "concorda",
@@ -5008,6 +4988,31 @@
   },
   {
    "t": "pesado demais chegar a esse ponto por causa de futebol",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fica em paz, o importante é só acompanhar o ritmo da conversa",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "bloqueio imediato para não perder o costume kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Verdade, quem não avisa perde tempo, melhor cortar logo kkk 😅",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "concordo, sem aviso é difícil até justificar a espera",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa lógica de não avisar é verdadeiramente a pior forma de desrespeito",
    "p": "concorda",
    "r": 0
   }
@@ -6489,7 +6494,8 @@
    "descobriram meu nome",
    "endereco estrategico para",
    "agora aprendeu o",
-   "verdade muda tudo"
+   "verdade muda tudo",
+   "fica em paz"
   ],
   "18121353692075006": [
    "calma ditador nem",
@@ -6545,7 +6551,11 @@
    "o minimo e",
    "livramento duplo cada",
    "caixa de chocolate",
-   "tolerancia zero com"
+   "tolerancia zero com",
+   "bloqueio imediato para",
+   "verdade quem nao",
+   "concordo sem aviso",
+   "essa logica de"
   ]
  },
  "shopee_checada": "2026-11-08|1",
