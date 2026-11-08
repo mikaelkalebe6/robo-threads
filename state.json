@@ -30,10 +30,11 @@
    "12:58",
    "14:00",
    "16:10",
-   "17:06"
+   "17:06",
+   "18:42"
   ],
   "produtos_feitos": 1,
-  "respostas": 65,
+  "respostas": 68,
   "por_post": {
    "18134330512806965": 4,
    "18139699534731715": 8,
@@ -44,42 +45,10 @@
    "18447652600130064": 4,
    "17912953554306994": 10,
    "18159685150495656": 3,
-   "18096380930670615": 11
+   "18096380930670615": 14
   }
  },
  "posts": [
-  {
-   "id": "18077922542739701",
-   "insp": "prod_20999580796",
-   "link": "",
-   "texto": "Carro cheio de cabo embaraçado dando raiva, né? 😂 Descobri esse carregador retrátil que fica com os fios organizados e ainda carrega o celular rapidinho no painel. Olha como funciona 👀",
-   "quando": "2026-11-03T13:37:17.191271-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "20999580796",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "20999580796",
-    "nome": "Carregador de carro retrátil com luz LED, carregador de carro rápido 4 em 1 de 120 W para iPhone e Android",
-    "offerLink": "https://s.shopee.com.br/1BNcdykuuX",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdmsrbntex15d7",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 312,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-08"
-   },
-   "link_coment": "https://s.shopee.com.br/1BNcdykuuX",
-   "link_em": "2026-11-04T08:07:13.070670-04:00",
-   "link_views": 0
-  },
   {
    "id": "18118663834815681",
    "insp": "134d436301",
@@ -1205,12 +1174,17 @@
    "texto": "OPINIÃO IMPOPULAR: Uma vez esperei meia hora no bar e o cara chegou rindo, sem mandar um aviso sequer. Paguei minha cerveja e fui embora antes dele sentar. \n\nVocês relevam isso no primeiro encontro ou fariam o mesmo?",
    "quando": "2026-11-08T17:07:08.017995-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "17900757891393240",
+   "insp": "5215f6a807",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: vocês funcionam melhor de madrugada ou são apegados às nove da manhã?",
+   "quando": "2026-11-08T19:07:09.162000-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17954420163081978",
-  "17946537402072599",
-  "18114687203045403",
   "17959007721218726",
   "18147084586495251",
   "18112705511519837",
@@ -4207,10 +4181,12 @@
   "18286479625293531",
   "17898843549610587",
   "18106200500534062",
-  "18188766997418064"
+  "18188766997418064",
+  "18127795619292640",
+  "17979475650169215",
+  "17876952537593470"
  ],
  "hashes": [
-  "e1f32366e616d5b7514b5cffcf25261b",
   "dc1db739782eab4678755fd2e5087cfc",
   "048722fac8b8d17719f5ceb831906f36",
   "6c8fe0d762809a90c8dfb6d089ec87d6",
@@ -4409,7 +4385,8 @@
   "7ac75076ef08c8f35b983c73bf9d4de6",
   "852463e8258e0081dde97c08bb30c3f4",
   "24feb212059ae3d0a7f77728aca34da1",
-  "0b9227f7394841507ec01ef5b9d1d003"
+  "0b9227f7394841507ec01ef5b9d1d003",
+  "277f9b3f956b07cc4812e9057e45a93c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4797,7 +4774,8 @@
   "03269f6c0e": 1794157663.8763182,
   "c4388fbfd7": 1794161293.453224,
   "0dc0e78f0f": 1794170281.688949,
-  "24564d0f1b": 1794172059.140711
+  "24564d0f1b": 1794172059.140711,
+  "5215f6a807": 1794179288.4326837
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4862,25 +4840,13 @@
   "30a89e9c18": 1,
   "40f4c28aad": 1,
   "137a87a20f": 1,
-  "eb96a2e340": 1
+  "eb96a2e340": 1,
+  "d42d87f751": 1,
+  "748b618c67": 1,
+  "6aad6a5a36": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos a falta de taça traz paz pro relacionamento kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "política realmente exige um nível de paciência que não existe",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "daqui a pouco chega a sua vez sem pressa",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "paz de espírito invejável, vive na base da blindagem emocional",
    "p": "ressalva",
@@ -5013,6 +4979,21 @@
   },
   {
    "t": "essa lógica de não avisar é verdadeiramente a pior forma de desrespeito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cada leitura que fazem de uma simples atitude me diverte",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pelo menos avisando e agradecendo já mostra que tem consideração kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "marcar direto no lugar já é estranho mesmo, e combinar hora exige o mínimo de consideração",
    "p": "concorda",
    "r": 0
   }
@@ -6555,7 +6536,10 @@
    "bloqueio imediato para",
    "verdade quem nao",
    "concordo sem aviso",
-   "essa logica de"
+   "essa logica de",
+   "cada leitura que",
+   "pelo menos avisando",
+   "marcar direto no"
   ]
  },
  "shopee_checada": "2026-11-08|1",
