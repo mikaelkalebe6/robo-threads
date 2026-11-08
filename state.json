@@ -24,52 +24,21 @@
   "feitos": [
    "08:29",
    "09:36",
-   "10:19"
+   "10:19",
+   "11:18"
   ],
   "produtos_feitos": 1,
-  "respostas": 29,
+  "respostas": 32,
   "por_post": {
    "18134330512806965": 3,
    "18139699534731715": 8,
    "18116946094839551": 2,
    "18139184407643257": 2,
-   "18121353692075006": 13,
+   "18121353692075006": 16,
    "18081521156456374": 1
   }
  },
  "posts": [
-  {
-   "id": "18152379508505365",
-   "insp": "prod_58209986445",
-   "link": "",
-   "texto": "Acender fogão e vela com fósforo úmido dá um trabalho danado, né? 😂 Descobri esse acendedor de plasma USB que carrega na tomada e não apaga com vento de jeito nenhum. Olha como funciona 👀",
-   "quando": "2026-11-02T19:37:15.678720-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58209986445",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58209986445",
-    "nome": "ASA Acendedor de Plasma Ecológico para Fogão Velas Camping Usb Luxo",
-    "offerLink": "https://s.shopee.com.br/1gJrdxoBYL",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820lx-mnqkgerb6waq58",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 226,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-08"
-   },
-   "link_coment": "https://s.shopee.com.br/1gJrdxoBYL",
-   "link_em": "2026-11-03T13:37:17.191271-04:00",
-   "link_views": 0
-  },
   {
    "id": "18288224983293291",
    "insp": "3c191ef8b8",
@@ -1281,12 +1250,17 @@
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pg-mp4m6nw7jxmq22",
     "campanha": "11.11"
    }
+  },
+  {
+   "id": "17915223723537867",
+   "insp": "0c2c19145c",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: será que ainda existe lugar que deixa o pé de molho na bacia antes de fazer a unha ou isso virou lenda urbana?",
+   "quando": "2026-11-08T11:37:08.826441-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17975433591129842",
-  "17960311397997984",
-  "18119048257845220",
   "18635221336028655",
   "17911330482510430",
   "18431916274180232",
@@ -4283,10 +4257,12 @@
   "18404904568205866",
   "18352781995270300",
   "18002046831032272",
-  "18129975517906033"
+  "18129975517906033",
+  "17945374440091198",
+  "18135500302783236",
+  "17890848990619866"
  ],
  "hashes": [
-  "c15d4d63af57bb66cc20cd15d59429e6",
   "82b0d33e99c401a41e2e56968a027f59",
   "dcc4169bd37214c213bf063e873363fb",
   "c29415ec5bc084579358d116c762562d",
@@ -4485,7 +4461,8 @@
   "cd342bbca166d4fd5a80fde8f4a37640",
   "b763911dc447bdc0e1d9a488e2dd99d9",
   "765b918a52e40bd1195a6a16a5723215",
-  "1fe5cb407f1362ea7ead9c4abec7e30d"
+  "1fe5cb407f1362ea7ead9c4abec7e30d",
+  "d05958242bf10e70d8668f0b34f8922c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4867,7 +4844,8 @@
   "d0c13e0048": 1794096444.7129052,
   "4c2ec95c55": 1794101891.4776964,
   "66f806d7b8": 1794141490.8668044,
-  "01d9d1e7d7": 1794145037.9918373
+  "01d9d1e7d7": 1794145037.9918373,
+  "0c2c19145c": 1794152244.940416
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4899,25 +4877,13 @@
   "a701149509": 1,
   "9352055ad7": 1,
   "acb2196156": 1,
-  "983b266855": 1
+  "983b266855": 1,
+  "0e92ba79e8": 1,
+  "cef2f266c4": 1,
+  "53fe916287": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "pesou a mão no julgamento das companhias",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "endereço estratégico para testar a teoria na prática kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "elas vão na malícia zero porque sabem que o outro fica sem saber como lidar kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "pescoço e rosto ainda carregam esse peso extra na visão de muita empresa",
    "p": "ressalva",
@@ -5050,6 +5016,21 @@
   },
   {
    "t": "liberdade poética culinária total, cada um assume os BOs do próprio prato",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, cada pizza tem seu charme kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "liberdade total para o seu prato, o importante é a refeição render",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "quem anda com esse grupo sabe que o risco faz parte da diversão",
    "p": "concorda",
    "r": 0
   }
@@ -6586,7 +6567,10 @@
    "maionese na pizza",
    "pelo menos o",
    "teoria impecavel mas",
-   "liberdade poetica culinaria"
+   "liberdade poetica culinaria",
+   "verdade cada pizza",
+   "liberdade total para",
+   "quem anda com"
   ],
   "18081521156456374": [
    "combinacao infalivel que"
