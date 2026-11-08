@@ -21,7 +21,9 @@
    "14:00",
    "20:00"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:29"
+  ],
   "produtos_feitos": 0,
   "respostas": 13,
   "por_post": {
@@ -32,29 +34,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18147480598586721",
-   "insp": "19d5dbcfc8",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a galera que joga no computador realmente acha que sentar numa cadeira de escritório ganha de jogar deitada no sofá?",
-   "quando": "2026-11-02T16:37:11.848830-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 2483,
-    "likes": 15,
-    "replies": 42,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-08"
-   },
-   "viral_chk": "2026-11-03T07:07:12.736050-04:00",
-   "link_coment": "https://s.shopee.com.br/6VP8zrG8Yu",
-   "meme_comentado": true,
-   "meme_views": 1868,
-   "formato_link": "coment",
-   "produto": "58252768179"
-  },
   {
    "id": "18182459707432553",
    "insp": "31d5ff1cab",
@@ -1293,6 +1272,14 @@
     "shares": 0,
     "em": "2026-11-08"
    }
+  },
+  {
+   "id": "18121353692075006",
+   "insp": "66f806d7b8",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: colocar ketchup na pizza é zero defeitos e quem reclama só tem medo de ser feliz.",
+   "quando": "2026-11-08T08:37:07.379721-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4298,7 +4285,6 @@
   "17998681944016862"
  ],
  "hashes": [
-  "5d0410bbbeaca38b6eeb444b4eff3ca2",
   "429dd7482671a1461d753dda49d9c32d",
   "c15d4d63af57bb66cc20cd15d59429e6",
   "82b0d33e99c401a41e2e56968a027f59",
@@ -4497,7 +4483,8 @@
   "39a41ad89b813d06412466283e4fe402",
   "59ac4e7c4ad76b1807b29baa7e8cbe92",
   "cd342bbca166d4fd5a80fde8f4a37640",
-  "b763911dc447bdc0e1d9a488e2dd99d9"
+  "b763911dc447bdc0e1d9a488e2dd99d9",
+  "765b918a52e40bd1195a6a16a5723215"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4877,7 +4864,8 @@
   "e5954341f1": 1794087491.8681405,
   "a6bd76aea8": 1794092891.9429147,
   "d0c13e0048": 1794096444.7129052,
-  "4c2ec95c55": 1794101891.4776964
+  "4c2ec95c55": 1794101891.4776964,
+  "66f806d7b8": 1794141490.8668044
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
