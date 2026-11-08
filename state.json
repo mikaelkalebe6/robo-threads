@@ -26,13 +26,14 @@
    "09:36"
   ],
   "produtos_feitos": 0,
-  "respostas": 23,
+  "respostas": 27,
   "por_post": {
-   "18134330512806965": 2,
+   "18134330512806965": 3,
    "18139699534731715": 8,
    "18116946094839551": 2,
    "18139184407643257": 2,
-   "18121353692075006": 9
+   "18121353692075006": 11,
+   "18081521156456374": 1
   }
  },
  "posts": [
@@ -1143,7 +1144,7 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "19398319317",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "19398319317",
     "nome": "Top Esportivo Alta Sustentação Ajustavel Ziper Frontal Academia Fitness Jump Corrida",
@@ -1159,7 +1160,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-11-08"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/3B8nPBx3tR",
+   "link_em": "2026-11-08T10:07:08.515790-04:00",
+   "link_views": 0
   },
   {
    "id": "18116946094839551",
@@ -1276,10 +1280,6 @@
   }
  ],
  "respondidos": [
-  "18095704538542242",
-  "18112252175330937",
-  "18116572459954535",
-  "18093790892649406",
   "18163234288496440",
   "18136602289727124",
   "17975433591129842",
@@ -4275,7 +4275,11 @@
   "18011120594781366",
   "18289505779293675",
   "18014358698967941",
-  "18654788902058435"
+  "18654788902058435",
+  "18032360891911850",
+  "18190238236374044",
+  "18404904568205866",
+  "18352781995270300"
  ],
  "hashes": [
   "c15d4d63af57bb66cc20cd15d59429e6",
@@ -4885,30 +4889,14 @@
   "326d5a5dd5": 1,
   "9c9ed7acc0": 2,
   "8b62987a59": 1,
-  "437224c883": 1
+  "437224c883": 1,
+  "c7a4625a80": 1,
+  "80e0e1214e": 1,
+  "a701149509": 1,
+  "9352055ad7": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "banquinha de jornal era o nosso posto de atendimento oficial",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse investimento todo deixa qualquer uma intrigada kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "plano acaba sendo o jeito de tentar manter algum controle nos gastos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesou na ferida mas foi exatamente isso",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "já desiste antes de receber o convite kkkk",
    "p": "concorda",
@@ -5038,6 +5026,26 @@
    "t": "justo, ketchup acaba virando o salvador de pátria para comida sem graça",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "combinacao infalivel que não tem erro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, muda tudo quando já tem o encontro marcado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkk, maionese na pizza também bomba, ketchup só volta nos dias de nostalgia 😅",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pelo menos o molho cumpre uma função social na tragédia kkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -5700,6 +5708,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-08T07:07:08.627425-04:00"
+  },
+  "17917894782541711": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-08T10:07:08.515790-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6285,28 +6298,6 @@
   }
  ],
  "aberturas_post": {
-  "17968225734230291": [
-   "a bola foi",
-   "que linda memoria",
-   "nem todo mundo",
-   "justo a ideia",
-   "verdade ele deixou",
-   "aquele professor viciava",
-   "poxa que pena",
-   "aixei imagina a",
-   "ressalva valida professora",
-   "nossa deve ter",
-   "ahhh que ruim",
-   "verdade cada materia",
-   "shopee o que",
-   "a professora que",
-   "que coisa mais",
-   "cada um tem",
-   "verdade a quadra",
-   "odeier tbm deixa",
-   "parece que a",
-   "estrategia de tecnico"
-  ],
   "17912408370309490": [
    "essa e a",
    "antecipou o boleto",
@@ -6573,7 +6564,8 @@
    "ja desiste antes",
    "descobriram meu nome",
    "endereco estrategico para",
-   "agora aprendeu o"
+   "agora aprendeu o",
+   "verdade muda tudo"
   ],
   "18121353692075006": [
    "calma ditador nem",
@@ -6584,7 +6576,12 @@
    "pior que a",
    "autonomia de respeito",
    "dependendo do recheio",
-   "justo ketchup acaba"
+   "justo ketchup acaba",
+   "maionese na pizza",
+   "pelo menos o"
+  ],
+  "18081521156456374": [
+   "combinacao infalivel que"
   ]
  },
  "shopee_checada": "2026-11-08|1",
@@ -6771,7 +6768,7 @@
   "23198805153": "2026-11-07T07:07:09.395080-04:00",
   "21197690424": "2026-11-07T07:07:09.395080-04:00",
   "20697639367": "2026-11-08T07:07:08.627425-04:00",
-  "19398319317": "2026-11-07T15:37:08.748968-04:00",
+  "19398319317": "2026-11-08T10:07:08.515790-04:00",
   "58217409342": "2026-11-08T07:07:08.627425-04:00",
   "22898397694": "2026-11-08T07:07:08.627425-04:00"
  },
