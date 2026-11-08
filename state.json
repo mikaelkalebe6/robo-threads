@@ -30,7 +30,7 @@
    "12:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 35,
+  "respostas": 40,
   "por_post": {
    "18134330512806965": 3,
    "18139699534731715": 8,
@@ -38,7 +38,8 @@
    "18139184407643257": 2,
    "18121353692075006": 17,
    "18081521156456374": 1,
-   "18447652600130064": 2
+   "18447652600130064": 3,
+   "17912953554306994": 4
   }
  },
  "posts": [
@@ -1246,11 +1247,6 @@
   }
  ],
  "respondidos": [
-  "18434773729145191",
-  "18090308231216650",
-  "18639127642043813",
-  "18376286848236540",
-  "18035127203848028",
   "18135459079645312",
   "18118236115762216",
   "18078108065391157",
@@ -4245,7 +4241,12 @@
   "17890848990619866",
   "18102041441356341",
   "18099545927557957",
-  "18109774748577868"
+  "18109774748577868",
+  "17933194020163454",
+  "18655776940015424",
+  "17920489203465642",
+  "18350798344270132",
+  "17921125146452372"
  ],
  "hashes": [
   "c29415ec5bc084579358d116c762562d",
@@ -4870,35 +4871,14 @@
   "53fe916287": 1,
   "7fdd88c7e6": 1,
   "c6d61505c0": 1,
-  "e3f0573fab": 1
+  "e3f0573fab": 1,
+  "97b0c9750c": 2,
+  "90bd44ab5e": 1,
+  "a8d24ab62d": 1,
+  "cbe687e192": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "verdade, algumas areas ainda são mais engessadas que outras",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "essa ligação de três segundos era pura sobrevivência financeira kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "desvantagem enorme pra quem tá livre no mercado kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "perigosa mas cheia de verdade kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "assusta mas a realidade supera a ficção",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "concordo total, o peso é o mesmo para os dois lados",
    "p": "concorda",
@@ -5022,6 +5002,31 @@
   {
    "t": "Nossa isso realmente faz a gente imaginar o futuro, adorei 😊",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a falta de taça traz paz pro relacionamento kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "política realmente exige um nível de paciência que não existe",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "daqui a pouco chega a sua vez sem pressa",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "paz de espírito invejável, vive na base da blindagem emocional",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "muitas variaveis para uma relação só, o pacote completo",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6275,14 +6280,6 @@
   }
  ],
  "aberturas_post": {
-  "18119319922812758": [
-   "boa atendente de",
-   "verdade a ia",
-   "designer hein vai",
-   "nossa parece filme",
-   "exato o trabalho",
-   "verdade o cenario"
-  ],
   "18235105819323131": [
    "nossa marea na",
    "ai perde a",
@@ -6549,7 +6546,14 @@
   ],
   "18447652600130064": [
    "se rir da",
-   "nossa isso realmente"
+   "nossa isso realmente",
+   "daqui a pouco"
+  ],
+  "17912953554306994": [
+   "pelo menos a",
+   "politica realmente exige",
+   "paz de espirito",
+   "muitas variaveis para"
   ]
  },
  "shopee_checada": "2026-11-08|1",
