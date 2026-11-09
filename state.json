@@ -29,10 +29,11 @@
    "11:37",
    "12:18",
    "13:15",
-   "13:58"
+   "13:58",
+   "14:49"
   ],
   "produtos_feitos": 0,
-  "respostas": 40,
+  "respostas": 41,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
@@ -40,35 +41,12 @@
    "18132673849887493": 6,
    "18021151787740470": 20,
    "18159685150495656": 1,
-   "18171642805469752": 1,
+   "18171642805469752": 2,
    "17967758891983415": 3,
    "18120815357070220": 1
   }
  },
  "posts": [
-  {
-   "id": "18134748025793720",
-   "insp": "db72a20743",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Churrasco em casa dá muito mais trabalho do que vale a pena e o rodízio ganha fácil.",
-   "quando": "2026-11-04T18:07:09.429967-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-05T07:07:09.689824-04:00",
-   "metricas": {
-    "views": 1184,
-    "likes": 11,
-    "replies": 24,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-09"
-   },
-   "link_coment": "https://s.shopee.com.br/1Lh626OMYM",
-   "meme_comentado": true,
-   "meme_views": 1061,
-   "formato_link": "coment",
-   "produto": "22795030307"
-  },
   {
    "id": "18393541990226977",
    "insp": "639172332f",
@@ -1147,10 +1125,17 @@
    "texto": "ME CONTA: quem aqui já mandou dinheiro pro contato errado e passou o resto do dia suando frio esperando o estorno?",
    "quando": "2026-11-09T14:07:15.011224-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18168780994485568",
+   "insp": "bcecb54c92",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: quem mais aqui já fingiu que estava super ocupado só para não parecer disponível demais logo na primeira mensagem?",
+   "quando": "2026-11-09T15:07:12.395524-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17871316650649213",
   "18131475682707188",
   "18145409782584019",
   "18629627020014997",
@@ -4149,10 +4134,10 @@
   "18007783373793416",
   "17935476012410227",
   "18161426320507814",
-  "18095150621286831"
+  "18095150621286831",
+  "17914223706481897"
  ],
  "hashes": [
-  "cd6df32f55d640f403eff38310ea98a4",
   "08435f5aa10eff727575f615859ab082",
   "c160280a0c25591d424b82b7aaa5c7a2",
   "6988b57450e38e00eeb4500f7d646f8d",
@@ -4351,7 +4336,8 @@
   "886a5d53b71080c7c031b7788ddbc35b",
   "f96b47c62257d888a31d31133d381397",
   "92bc2a2aff9278af8c3c1cd43bab090d",
-  "b626f2b237fd143d8da1b89dcb6e05d0"
+  "b626f2b237fd143d8da1b89dcb6e05d0",
+  "e37a8800614c5096bae2c63e0d2ce755"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4750,7 +4736,8 @@
   "68a7ca2ea2": 1794238696.69657,
   "e0f1744b77": 1794242288.0050478,
   "e4924359a7": 1794245887.4715204,
-  "538e4aa327": 1794247683.613261
+  "538e4aa327": 1794247683.613261,
+  "bcecb54c92": 1794251287.6864467
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4788,15 +4775,11 @@
   "63056dab0c": 1,
   "5a84e05d8b": 1,
   "15696b4e01": 2,
-  "59caa6bd51": 2
+  "59caa6bd51": 2,
+  "d838906807": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "e rezar pra conta não vir um absurdo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "obrigada, quem viveu sabe como é",
    "p": "concorda",
@@ -4941,6 +4924,11 @@
    "t": "pior que a vontade é essa mesma kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "nem com 10k o pijama alivia a alma kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6457,7 +6445,8 @@
    "paz de espirito"
   ],
   "18171642805469752": [
-   "criou a profissao"
+   "criou a profissao",
+   "nem com 10k"
   ],
   "17967758891983415": [
    "veio com a",
