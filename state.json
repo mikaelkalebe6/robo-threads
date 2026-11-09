@@ -33,10 +33,11 @@
    "17:06",
    "18:42",
    "20:00",
-   "21:12"
+   "21:12",
+   "21:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 77,
+  "respostas": 78,
   "por_post": {
    "18134330512806965": 4,
    "18139699534731715": 8,
@@ -49,28 +50,11 @@
    "18159685150495656": 3,
    "18096380930670615": 15,
    "17900757891393240": 5,
-   "18012741368996434": 1
+   "18012741368996434": 1,
+   "18192095356371866": 1
   }
  },
  "posts": [
-  {
-   "id": "17949764385085229",
-   "insp": "b8bafc8bd6",
-   "link": "",
-   "texto": "SEM MENTIR: você prefere ganhar menos fazendo o que ama ou ganhar muito num trabalho que odeia?",
-   "quando": "2026-11-04T09:07:09.455056-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T19:07:12.406630-04:00",
-   "metricas": {
-    "views": 253,
-    "likes": 4,
-    "replies": 14,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-08"
-   }
-  },
   {
    "id": "17886556293690167",
    "insp": "db1e9eddc7",
@@ -1152,10 +1136,17 @@
    "texto": "PESSOAS QUE...: escolhem o restaurante do primeiro encontro só olhando a foto do prato no Google são estrategistas ou só têm fome mesmo",
    "quando": "2026-11-08T21:37:07.755803-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17893301271457429",
+   "insp": "975bd546f5",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: ir ao mercado com fome é golpe baixo, mas o pior mesmo é que o carrinho sempre enche de besteira que eu nem sabia que existia.",
+   "quando": "2026-11-08T22:07:07.844691-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17991414111028355",
   "18096772076399421",
   "18112911875125991",
   "18119315155738815",
@@ -4154,10 +4145,10 @@
   "18066620039549436",
   "18122310676988306",
   "18187054807424177",
-  "18417689872084962"
+  "18417689872084962",
+  "18110243555253479"
  ],
  "hashes": [
-  "6c8fe0d762809a90c8dfb6d089ec87d6",
   "7c98deafe040caa216dceda61d9d157b",
   "66a16eb701f923c16f9543b6a14bbdf3",
   "7ad56e41b3342f3f4f2050db02757cf2",
@@ -4356,7 +4347,8 @@
   "0b9227f7394841507ec01ef5b9d1d003",
   "277f9b3f956b07cc4812e9057e45a93c",
   "547da0819a9f64855b77544143d959d2",
-  "e293b47f68ec7021001ddabce69e0d1a"
+  "e293b47f68ec7021001ddabce69e0d1a",
+  "7243006a446ad877bcd193a7734f0b06"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4747,7 +4739,8 @@
   "24564d0f1b": 1794172059.140711,
   "5215f6a807": 1794179288.4326837,
   "ba00af7a13": 1794182886.1541488,
-  "bffa429f4f": 1794188249.790483
+  "bffa429f4f": 1794188249.790483,
+  "975bd546f5": 1794190090.9738219
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4823,15 +4816,11 @@
   "6dbc93e4a6": 2,
   "1d06969815": 1,
   "e399e16ab1": 1,
-  "69264e0c18": 1
+  "69264e0c18": 1,
+  "d7ff3520b0": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "essa renovação de geração está fazendo uma faxina boa nos preconceitos antigos",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "percepção zero na hora e um clarão gigante dez anos depois",
    "p": "concorda",
@@ -4974,6 +4963,11 @@
   },
   {
    "t": "quem tem coragem de assumir isso já ganha pontos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sobrevivência em primeiro lugar, risco zero com alergia",
    "p": "concorda",
    "r": 0
   }
@@ -6228,13 +6222,6 @@
   }
  ],
  "aberturas_post": {
-  "18038563889848377": [
-   "transparencia tira o",
-   "parece que o",
-   "cada casa e",
-   "verdade parece ate",
-   "quando a confianca"
-  ],
   "18231170866322932": [
    "nada supera colocar",
    "perde o melhor",
@@ -6515,6 +6502,9 @@
   ],
   "18012741368996434": [
    "trabalho raiz q"
+  ],
+  "18192095356371866": [
+   "sobrevivencia em primeiro"
   ]
  },
  "shopee_checada": "2026-11-08|1",
