@@ -28,12 +28,13 @@
    "10:34"
   ],
   "produtos_feitos": 0,
-  "respostas": 11,
+  "respostas": 12,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 4,
    "18646993528063414": 1,
-   "18132673849887493": 4
+   "18132673849887493": 4,
+   "18021151787740470": 1
   }
  },
  "posts": [
@@ -1200,7 +1201,6 @@
   }
  ],
  "respondidos": [
-  "17946909681067120",
   "18103571288369558",
   "17909479500491354",
   "18120579181726337",
@@ -4199,7 +4199,8 @@
   "18646317895059835",
   "17928153615431238",
   "18647547139027081",
-  "17989018146120462"
+  "17989018146120462",
+  "18135321865666445"
  ],
  "hashes": [
   "3a2c7f7e8334febf5aac515303c802db",
@@ -4810,15 +4811,11 @@
   "a213fc9cfb": 1,
   "5cd8ef6f88": 1,
   "aef93708ea": 1,
-  "ae2dcb8746": 1
+  "ae2dcb8746": 1,
+  "24f0167c2c": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "concordo, sem aviso é difícil até justificar a espera",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa lógica de não avisar é verdadeiramente a pior forma de desrespeito",
    "p": "concorda",
@@ -4963,6 +4960,11 @@
    "t": "e rezar pra conta não vir um absurdo kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "obrigada, quem viveu sabe como é",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6225,12 +6227,6 @@
   }
  ],
  "aberturas_post": {
-  "18115232447228628": [
-   "evitar o estrago",
-   "a peca e",
-   "estudar ele estudou",
-   "essa conta fracionada"
-  ],
   "18229654453336032": [
    "estrategia certeira para",
    "sair cedo por",
@@ -6500,6 +6496,9 @@
    "excelente dica realmente",
    "sorte a sua",
    "e rezar pra"
+  ],
+  "18021151787740470": [
+   "obrigada quem viveu"
   ]
  },
  "shopee_checada": "2026-11-09|1",
