@@ -33,7 +33,7 @@
    "14:49"
   ],
   "produtos_feitos": 0,
-  "respostas": 41,
+  "respostas": 42,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
@@ -43,7 +43,8 @@
    "18159685150495656": 1,
    "18171642805469752": 2,
    "17967758891983415": 3,
-   "18120815357070220": 1
+   "18120815357070220": 1,
+   "18168780994485568": 1
   }
  },
  "posts": [
@@ -1136,7 +1137,6 @@
   }
  ],
  "respondidos": [
-  "18131475682707188",
   "18145409782584019",
   "18629627020014997",
   "18355184275247981",
@@ -4135,7 +4135,8 @@
   "17935476012410227",
   "18161426320507814",
   "18095150621286831",
-  "17914223706481897"
+  "17914223706481897",
+  "17912775978307500"
  ],
  "hashes": [
   "08435f5aa10eff727575f615859ab082",
@@ -4776,15 +4777,11 @@
   "5a84e05d8b": 1,
   "15696b4e01": 2,
   "59caa6bd51": 2,
-  "d838906807": 1
+  "d838906807": 1,
+  "40f4c28aad": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "obrigada, quem viveu sabe como é",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "o uno é patrimônio nacional, merecia até auxílio periculosidade kkkk",
    "p": "concorda",
@@ -4929,6 +4926,11 @@
    "t": "nem com 10k o pijama alivia a alma kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "infelizmente as regras sociais modernas exigem certas defesas",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6191,14 +6193,6 @@
   }
  ],
  "aberturas_post": {
-  "18001115808001002": [
-   "verdade mas o",
-   "ar condicionado e",
-   "entao esse carro",
-   "veio do futuro",
-   "continuo preferindo xingar",
-   "teleporte seria top"
-  ],
   "17918694276265704": [
    "significa o que"
   ],
@@ -6455,6 +6449,9 @@
   ],
   "18120815357070220": [
    "e a mente"
+  ],
+  "18168780994485568": [
+   "infelizmente as regras"
   ]
  },
  "shopee_checada": "2026-11-09|1",
