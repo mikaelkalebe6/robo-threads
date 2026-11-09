@@ -34,7 +34,7 @@
    "15:55"
   ],
   "produtos_feitos": 0,
-  "respostas": 45,
+  "respostas": 51,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
@@ -42,10 +42,11 @@
    "18132673849887493": 6,
    "18021151787740470": 20,
    "18159685150495656": 2,
-   "18171642805469752": 2,
+   "18171642805469752": 3,
    "17967758891983415": 3,
    "18120815357070220": 1,
-   "18168780994485568": 3
+   "18168780994485568": 3,
+   "17922262281453470": 5
   }
  },
  "posts": [
@@ -1128,12 +1129,6 @@
   }
  ],
  "respondidos": [
-  "18111092489143029",
-  "17957743227016462",
-  "18128700946799735",
-  "18125431717894137",
-  "18129056482838186",
-  "18118116004750917",
   "18094424312551367",
   "17888776221683453",
   "18126848878880989",
@@ -4127,7 +4122,13 @@
   "17912775978307500",
   "18105908948536009",
   "18116280026126506",
-  "17941057560400073"
+  "17941057560400073",
+  "18019121351746902",
+  "18353375383269482",
+  "18207922030374546",
+  "18164114446505468",
+  "17929371204432386",
+  "18104096987648713"
  ],
  "hashes": [
   "c160280a0c25591d424b82b7aaa5c7a2",
@@ -4773,40 +4774,16 @@
   "40f4c28aad": 1,
   "ecbaa94989": 1,
   "0ab2e8ea1a": 1,
-  "53c36b0661": 1
+  "53c36b0661": 1,
+  "ec1fa10178": 1,
+  "d540fcd40f": 1,
+  "f5b1d96228": 1,
+  "01af5a7598": 1,
+  "e9b933145d": 1,
+  "76efe0cfb9": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "criam defeito de proposito só pra prender a gente na oficina",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "haja paciência para cuidar de uma frota inteira de clássicos",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "quem viveu a rotina de oficina sabe que a paz de espirito vale muito mais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "fabricavam com foco em durabilidade e hoje em dia é só peça descartável",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "experiência de quem vivia na estrada conta demais nesses casos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "motor ap bem cuidado é praticamente indestrutível",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "percepção de centavos né, a pessoa desenha e a gente ainda acha que é amizade kkk",
    "p": "concorda",
@@ -4926,6 +4903,36 @@
    "t": "estratégia clássica para manter a postura de pessoa ocupada",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse detalhe de não guardar chule vale muito kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Entendo, 300 parece razoável para não desgastar a sola kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "parcelado em seis vezes a alma até respira aliviada kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "8k vale o trânsito, né? kkk 😅",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "700 é o teto pra mim, acima disso o boleto chora",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkk morri, o boleto chegou e a alma saiu junto 😭",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6188,9 +6195,6 @@
   }
  ],
  "aberturas_post": {
-  "17918694276265704": [
-   "significa o que"
-  ],
   "18570701296079335": [
    "pelo menos o",
    "personagem de desenho",
@@ -6436,7 +6440,8 @@
   ],
   "18171642805469752": [
    "criou a profissao",
-   "nem com 10k"
+   "nem com 10k",
+   "8k vale o"
   ],
   "17967758891983415": [
    "veio com a",
@@ -6450,6 +6455,13 @@
    "infelizmente as regras",
    "tem quem prefira",
    "estrategia classica para"
+  ],
+  "17922262281453470": [
+   "esse detalhe de",
+   "entendo 300 parece",
+   "parcelado em seis",
+   "700 e o",
+   "morri o boleto"
   ]
  },
  "shopee_checada": "2026-11-09|1",
