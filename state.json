@@ -30,14 +30,15 @@
    "12:18"
   ],
   "produtos_feitos": 0,
-  "respostas": 27,
+  "respostas": 30,
   "por_post": {
    "18096380930670615": 2,
-   "17912953554306994": 4,
+   "17912953554306994": 5,
    "18646993528063414": 1,
    "18132673849887493": 4,
-   "18021151787740470": 15,
-   "18159685150495656": 1
+   "18021151787740470": 16,
+   "18159685150495656": 1,
+   "18171642805469752": 1
   }
  },
  "posts": [
@@ -1184,9 +1185,6 @@
   }
  ],
  "respondidos": [
-  "18108005302899639",
-  "18285223942295527",
-  "18092041304167205",
   "18105743044950896",
   "18010872386996036",
   "18354598090171964",
@@ -4183,7 +4181,10 @@
   "18119895673814218",
   "18132887765505385",
   "17917995570551333",
-  "18138212134636236"
+  "18138212134636236",
+  "18115918457164260",
+  "17992874796065433",
+  "17965694232219883"
  ],
  "hashes": [
   "8d85680a63de2f5351306be3741e35ad",
@@ -4810,25 +4811,13 @@
   "c7a6cc8e4d": 1,
   "c981c6d5cd": 1,
   "b660895133": 1,
-  "69ab5f44f1": 1
+  "69ab5f44f1": 1,
+  "97d17266c8": 1,
+  "bc5c5c4020": 1,
+  "1c6aa3cfe3": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "exato, e a gente sai de lá culpada e cheia de besteira kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "qualquer uma kkk o teste é ver se a pessoa tem ritmo ou dois pés esquerdos",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "kkkkkkkk pior q tem um pingo de verdade nisso",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "complicado achar que o tempo dos outros não vale nada",
    "p": "concorda",
@@ -4963,6 +4952,21 @@
    "t": "pois é, quando a obviedade é dita em voz alta a gente só agradece",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "criou a profissão perfeita pra sofrer em dobro kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "politica já é outro nível de incompatibilidade mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kadett clássico tem espaço garantido no coração kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6225,25 +6229,6 @@
   }
  ],
  "aberturas_post": {
-  "18229654453336032": [
-   "estrategia certeira para",
-   "sair cedo por",
-   "esperar o momento",
-   "paz mental e",
-   "entendo seu ponto",
-   "construir essa base",
-   "economia real que",
-   "real o perigo",
-   "o aprendizado e",
-   "justo paz mental",
-   "verdade que a",
-   "argumento historico forte",
-   "paz em casa",
-   "equilibrar independencia e",
-   "saude mental nesse",
-   "construir o imperio",
-   "exato sem convivencia"
-  ],
   "18129394138877262": [
    "idade boa para",
    "nossa 18 sem",
@@ -6443,7 +6428,8 @@
    "entao o futebol",
    "politica ainda vai",
    "estrategia de sobrevivencia",
-   "plot twist completo"
+   "plot twist completo",
+   "politica ja e"
   ],
   "18159685150495656": [
    "percepcao zero na",
@@ -6511,7 +6497,11 @@
    "semi novo realmente",
    "entao dei sorte",
    "pelo menos a",
-   "pois e quando"
+   "pois e quando",
+   "kadett classico tem"
+  ],
+  "18171642805469752": [
+   "criou a profissao"
   ]
  },
  "shopee_checada": "2026-11-09|1",
