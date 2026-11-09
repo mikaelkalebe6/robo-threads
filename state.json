@@ -32,7 +32,8 @@
    "13:58",
    "14:49",
    "15:55",
-   "17:28"
+   "17:28",
+   "18:34"
   ],
   "produtos_feitos": 0,
   "respostas": 63,
@@ -52,38 +53,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18141242380544777",
-   "insp": "prod_58208944738",
-   "link": "",
-   "texto": "Lavar o carro e ficar com a sola do tênis toda encharcada é dose, né? Descobri essa sapatilha náutica que vira uma mão na roda para quem vive na correria e pé na água, o pé fica seco rapidinho. Olha como funciona na foto 👀",
-   "quando": "2026-11-04T20:37:09.153675-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58208944738",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58208944738",
-    "nome": "Sapatilha Nautica Sola Anti Derrapante Meia Neoprene Tenis Hibrido Meia Praia Canoagem Pesca Rio Jet",
-    "offerLink": "https://s.shopee.com.br/9pfcYlFeQr",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mtz77x28chkzfc",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 247,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-09"
-   },
-   "link_coment": "https://s.shopee.com.br/9pfcYlFeQr",
-   "link_em": "2026-11-05T15:07:09.089426-04:00",
-   "link_views": 0
-  },
   {
    "id": "17912408370309490",
    "insp": "875bf2eafc",
@@ -1112,6 +1081,14 @@
    "link": "",
    "texto": "NINGUÉM FALA DISSO: quem era o amigo chato que só deixava a gente jogar com o personagem fraco no videogame",
    "quando": "2026-11-09T17:37:11.412339-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18352395226269773",
+   "insp": "e968b60bcc",
+   "link": "",
+   "texto": "SEJAM SINCEROS: qual lanche vocês escondem no armário para ninguém comer?",
+   "quando": "2026-11-09T18:37:08.294952-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4118,7 +4095,6 @@
   "18101315549397197"
  ],
  "hashes": [
-  "6988b57450e38e00eeb4500f7d646f8d",
   "9d193556a403a90bd80be7a3563a281a",
   "a9e0e11bfdc4889a94635a8e1167d644",
   "827ad6eb8f7070f66d8326c513d2b51f",
@@ -4317,7 +4293,8 @@
   "b626f2b237fd143d8da1b89dcb6e05d0",
   "e37a8800614c5096bae2c63e0d2ce755",
   "911a680118913ef6a7c8b291ed9fdd92",
-  "564f8ff3c2e789286aa9119c2f273e06"
+  "564f8ff3c2e789286aa9119c2f273e06",
+  "a9af82aab64156013a0958dc497d3817"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4719,7 +4696,8 @@
   "538e4aa327": 1794247683.613261,
   "bcecb54c92": 1794251287.6864467,
   "8914f039e6": 1794254891.8294091,
-  "90d676888d": 1794260296.5456269
+  "90d676888d": 1794260296.5456269,
+  "e968b60bcc": 1794263891.4078858
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
