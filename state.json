@@ -25,37 +25,20 @@
   "feitos": [
    "08:05",
    "09:15",
-   "10:34"
+   "10:34",
+   "11:37"
   ],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 16,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 4,
    "18646993528063414": 1,
    "18132673849887493": 4,
-   "18021151787740470": 1
+   "18021151787740470": 5
   }
  },
  "posts": [
-  {
-   "id": "18127233625684654",
-   "insp": "6c95b06784",
-   "link": "",
-   "texto": "Quem mais aqui guarda na cabeça a senha daquele jogo antigo que jogava o dia todo na adolescência",
-   "quando": "2026-11-04T13:37:08.448277-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-05T07:07:09.689824-04:00",
-   "metricas": {
-    "views": 643,
-    "likes": 9,
-    "replies": 24,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-09"
-   }
-  },
   {
    "id": "17997443184028868",
    "insp": "34b48535d3",
@@ -1198,13 +1181,17 @@
    "texto": "OPINIÃO IMPOPULAR: carro antigo bem cuidado dá menos dor de cabeça do que muito lançamento cheio de sensor que vive na oficina.",
    "quando": "2026-11-09T10:37:08.626605-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18100291571670800",
+   "insp": "68a7ca2ea2",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: quem nunca passou raiva com o próprio time num domingo à tarde que atire a primeira pedra",
+   "quando": "2026-11-09T11:37:11.016381-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18103571288369558",
-  "17909479500491354",
-  "18120579181726337",
-  "18110303831150163",
   "18079539623354249",
   "18228738889333689",
   "17960916768248030",
@@ -4200,10 +4187,13 @@
   "17928153615431238",
   "18647547139027081",
   "17989018146120462",
-  "18135321865666445"
+  "18135321865666445",
+  "17989665918111347",
+  "18121255340277385",
+  "18168987697491103",
+  "17884472928629177"
  ],
  "hashes": [
-  "3a2c7f7e8334febf5aac515303c802db",
   "a67f5c94a08d8f98544ef55705c48342",
   "8d85680a63de2f5351306be3741e35ad",
   "f0eadd518b5fce5d462917f80ee65603",
@@ -4402,7 +4392,8 @@
   "7243006a446ad877bcd193a7734f0b06",
   "470d9ac1e463ea4681664d708c850a2e",
   "e3ebeb458d7e196ef9c3bfcc6f34a63b",
-  "a7dc9cf986dd24cb1180682eb4dd9e4b"
+  "a7dc9cf986dd24cb1180682eb4dd9e4b",
+  "886a5d53b71080c7c031b7788ddbc35b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4797,7 +4788,8 @@
   "975bd546f5": 1794190090.9738219,
   "dbd1bc17b7": 1794226091.117151,
   "e381eb3fd0": 1794231448.471229,
-  "e146c536ac": 1794235044.7499843
+  "e146c536ac": 1794235044.7499843,
+  "68a7ca2ea2": 1794238696.69657
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4809,33 +4801,16 @@
   "81bfaf06d0": 1,
   "e1fc991990": 1,
   "a213fc9cfb": 1,
-  "5cd8ef6f88": 1,
+  "5cd8ef6f88": 2,
   "aef93708ea": 1,
   "ae2dcb8746": 1,
-  "24f0167c2c": 1
+  "24f0167c2c": 1,
+  "3ca1a9f70d": 1,
+  "aabfe99dd2": 1,
+  "bda0b5665a": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "essa lógica de não avisar é verdadeiramente a pior forma de desrespeito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cada leitura que fazem de uma simples atitude me diverte",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pelo menos avisando e agradecendo já mostra que tem consideração kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "marcar direto no lugar já é estranho mesmo, e combinar hora exige o mínimo de consideração",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "equipe cedo então, de madrugada o cérebro já desliga de vez",
    "p": "concorda",
@@ -4963,6 +4938,26 @@
   },
   {
    "t": "obrigada, quem viveu sabe como é",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o uno é patrimônio nacional, merecia até auxílio periculosidade kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "quem tem carro antigo bem cuidado sabe que a paz reina",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "duas relíquias que sabem o que é viver perigosamente kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "criam defeito de proposito só pra prender a gente na oficina",
    "p": "concorda",
    "r": 0
   }
@@ -6498,7 +6493,11 @@
    "e rezar pra"
   ],
   "18021151787740470": [
-   "obrigada quem viveu"
+   "obrigada quem viveu",
+   "o uno e",
+   "quem tem carro",
+   "duas reliquias que",
+   "criam defeito de"
   ]
  },
  "shopee_checada": "2026-11-09|1",
