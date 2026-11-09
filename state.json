@@ -29,13 +29,13 @@
    "11:37"
   ],
   "produtos_feitos": 0,
-  "respostas": 16,
+  "respostas": 21,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 4,
    "18646993528063414": 1,
    "18132673849887493": 4,
-   "18021151787740470": 5
+   "18021151787740470": 10
   }
  },
  "posts": [
@@ -1192,12 +1192,6 @@
   }
  ],
  "respondidos": [
-  "18079539623354249",
-  "18228738889333689",
-  "17960916768248030",
-  "18093278006150809",
-  "18118549018949840",
-  "18123581003309206",
   "18129825631836783",
   "17936302740390212",
   "17960536371210234",
@@ -4191,7 +4185,13 @@
   "17989665918111347",
   "18121255340277385",
   "18168987697491103",
-  "17884472928629177"
+  "17884472928629177",
+  "17962072053259448",
+  "17971591695189421",
+  "18203536582379524",
+  "18094399943195320",
+  "17927825994205719",
+  "18120651730981199"
  ],
  "hashes": [
   "a67f5c94a08d8f98544ef55705c48342",
@@ -4807,35 +4807,15 @@
   "24f0167c2c": 1,
   "3ca1a9f70d": 1,
   "aabfe99dd2": 1,
-  "bda0b5665a": 1
+  "bda0b5665a": 1,
+  "8774658e3e": 1,
+  "74b4407532": 1,
+  "12ca2fbd92": 1,
+  "ef605c7fd9": 1,
+  "2d9b0a02bc": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "equipe cedo então, de madrugada o cérebro já desliga de vez",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "madrugada tem um silêncio que rende muito mais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse silêncio da noite tem mesmo um poder inexplicável",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "horário comercial certinho, paz demais",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "melhor escolha para não perder a paciência nem a noite",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "justo, levantar peso com o cerebro desligado e pedir para dar errado kkk",
    "p": "ressalva",
@@ -4958,6 +4938,31 @@
   },
   {
    "t": "criam defeito de proposito só pra prender a gente na oficina",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "haja paciência para cuidar de uma frota inteira de clássicos",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "quem viveu a rotina de oficina sabe que a paz de espirito vale muito mais",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fabricavam com foco em durabilidade e hoje em dia é só peça descartável",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "experiência de quem vivia na estrada conta demais nesses casos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "motor ap bem cuidado é praticamente indestrutível",
    "p": "concorda",
    "r": 0
   }
@@ -6497,7 +6502,12 @@
    "o uno e",
    "quem tem carro",
    "duas reliquias que",
-   "criam defeito de"
+   "criam defeito de",
+   "haja paciencia para",
+   "quem viveu a",
+   "fabricavam com foco",
+   "experiencia de quem",
+   "motor ap bem"
   ]
  },
  "shopee_checada": "2026-11-09|1",
