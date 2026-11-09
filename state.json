@@ -36,12 +36,12 @@
    "18:34"
   ],
   "produtos_feitos": 0,
-  "respostas": 69,
+  "respostas": 73,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
    "18646993528063414": 2,
-   "18132673849887493": 6,
+   "18132673849887493": 7,
    "18021151787740470": 20,
    "18159685150495656": 2,
    "18171642805469752": 3,
@@ -49,8 +49,9 @@
    "18120815357070220": 1,
    "18168780994485568": 3,
    "17922262281453470": 13,
-   "18122952722291296": 4,
-   "18352395226269773": 5
+   "18122952722291296": 5,
+   "18352395226269773": 6,
+   "18100291571670800": 1
   }
  },
  "posts": [
@@ -1094,10 +1095,6 @@
   }
  ],
  "respondidos": [
-  "17951097813339559",
-  "17924154834205744",
-  "18121432612943432",
-  "18104270408358504",
   "17909468823505335",
   "18097768532387147",
   "18143422051596098",
@@ -4093,7 +4090,11 @@
   "18122189827962548",
   "18646484518044835",
   "18116028010844923",
-  "18102277238641483"
+  "18102277238641483",
+  "18019075175958415",
+  "18501356206096649",
+  "18115419920111361",
+  "18109078496342096"
  ],
  "hashes": [
   "9d193556a403a90bd80be7a3563a281a",
@@ -4765,30 +4766,14 @@
   "173dd236f4": 1,
   "fe2cf94923": 1,
   "9ca7c465c0": 1,
-  "504993f458": 1
+  "504993f458": 1,
+  "0bd4e503a6": 1,
+  "4d50bf55b6": 1,
+  "68d1afc522": 1,
+  "24d01baa15": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "pior que a vontade é essa mesma kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "nem com 10k o pijama alivia a alma kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "infelizmente as regras sociais modernas exigem certas defesas",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "tem quem prefira a linha direta mesmo",
-   "p": "discorda",
-   "r": 0
-  },
   {
    "t": "cinco anos é recorde, demorou mas pegou o sinal",
    "p": "concorda",
@@ -4918,6 +4903,26 @@
    "t": "esse lanche aí cai duro antes de chegar no armário kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "vida de torcedor não é para os fracos mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "confessou o crime sem precisar de tortura kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse estoque aí é perigoso de guardar no armário kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "exato, fica aquele ciclo de ninguém saber de nada mas todo mundo balancando a cabeça",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6180,13 +6185,6 @@
   }
  ],
  "aberturas_post": {
-  "18003889164009680": [
-   "depende da garantia",
-   "peso pesado mesmo",
-   "namorado magista traz",
-   "forcar as coisas",
-   "cobrar taxa de"
-  ],
   "18122196040984824": [
    "brabo e o",
    "ganhou outra moral",
@@ -6388,7 +6386,8 @@
    "sorte a sua",
    "e rezar pra",
    "exato cada servico",
-   "pior que a"
+   "pior que a",
+   "exato fica aquele"
   ],
   "18021151787740470": [
    "obrigada quem viveu",
@@ -6449,14 +6448,19 @@
    "estrategia de guerra",
    "esse ai era",
    "ainda bem que",
-   "pelo menos a"
+   "pelo menos a",
+   "confessou o crime"
   ],
   "18352395226269773": [
    "que paz e",
    "guardar o proprio",
    "morango e bom",
    "vantagem de morar",
-   "esse lanche ai"
+   "esse lanche ai",
+   "esse estoque ai"
+  ],
+  "18100291571670800": [
+   "vida de torcedor"
   ]
  },
  "shopee_checada": "2026-11-09|1",
