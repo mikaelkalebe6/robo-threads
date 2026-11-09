@@ -32,16 +32,17 @@
    "13:58"
   ],
   "produtos_feitos": 0,
-  "respostas": 37,
+  "respostas": 40,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
    "18646993528063414": 1,
-   "18132673849887493": 5,
+   "18132673849887493": 6,
    "18021151787740470": 20,
    "18159685150495656": 1,
    "18171642805469752": 1,
-   "17967758891983415": 2
+   "17967758891983415": 3,
+   "18120815357070220": 1
   }
  },
  "posts": [
@@ -1149,9 +1150,6 @@
   }
  ],
  "respondidos": [
-  "17905481232565460",
-  "18055980233799194",
-  "18126371387479538",
   "17871316650649213",
   "18131475682707188",
   "18145409782584019",
@@ -4148,7 +4146,10 @@
   "17955912933334871",
   "18116918492325191",
   "17936395110147608",
-  "18007783373793416"
+  "18007783373793416",
+  "17935476012410227",
+  "18161426320507814",
+  "18095150621286831"
  ],
  "hashes": [
   "cd6df32f55d640f403eff38310ea98a4",
@@ -4786,25 +4787,11 @@
   "bb9dd276e0": 1,
   "63056dab0c": 1,
   "5a84e05d8b": 1,
-  "15696b4e01": 1
+  "15696b4e01": 2,
+  "59caa6bd51": 2
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "totalmente automático, só balançar a cabeça e rezar kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "excelente dica, realmente ajuda muito ter alguém junto para garantir",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sorte a sua ter esse suporte em casa, bem melhor assim kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "e rezar pra conta não vir um absurdo kkk",
    "p": "concorda",
@@ -4939,6 +4926,21 @@
    "t": "exato, cada serviço é uma surpresa diferente",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "É, a mente tem esses cantos escuros que nem percebemos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "profundo demais pra quem só queria saber da escalação do time",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "pior que a vontade é essa mesma kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6201,13 +6203,6 @@
   }
  ],
  "aberturas_post": {
-  "18099246437387630": [
-   "comida de respeito",
-   "que legal mj",
-   "mudou completamente o",
-   "saiu direto do",
-   "playlist raiz q"
-  ],
   "18001115808001002": [
    "verdade mas o",
    "ar condicionado e",
@@ -6436,7 +6431,8 @@
    "excelente dica realmente",
    "sorte a sua",
    "e rezar pra",
-   "exato cada servico"
+   "exato cada servico",
+   "pior que a"
   ],
   "18021151787740470": [
    "obrigada quem viveu",
@@ -6465,7 +6461,11 @@
   ],
   "17967758891983415": [
    "veio com a",
-   "pelo menos economiza"
+   "pelo menos economiza",
+   "profundo demais pra"
+  ],
+  "18120815357070220": [
+   "e a mente"
   ]
  },
  "shopee_checada": "2026-11-09|1",
