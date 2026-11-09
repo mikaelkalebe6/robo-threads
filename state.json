@@ -37,9 +37,9 @@
    "21:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 78,
+  "respostas": 81,
   "por_post": {
-   "18134330512806965": 4,
+   "18134330512806965": 5,
    "18139699534731715": 8,
    "18116946094839551": 3,
    "18139184407643257": 2,
@@ -51,7 +51,8 @@
    "18096380930670615": 15,
    "17900757891393240": 5,
    "18012741368996434": 1,
-   "18192095356371866": 1
+   "18192095356371866": 1,
+   "17893301271457429": 2
   }
  },
  "posts": [
@@ -1147,9 +1148,6 @@
   }
  ],
  "respondidos": [
-  "18096772076399421",
-  "18112911875125991",
-  "18119315155738815",
   "18073878749726635",
   "18186246535410865",
   "17883581805688826",
@@ -4146,7 +4144,10 @@
   "18122310676988306",
   "18187054807424177",
   "18417689872084962",
-  "18110243555253479"
+  "18110243555253479",
+  "18399296620164663",
+  "18005677229992203",
+  "18137707696734910"
  ],
  "hashes": [
   "7c98deafe040caa216dceda61d9d157b",
@@ -4817,25 +4818,13 @@
   "1d06969815": 1,
   "e399e16ab1": 1,
   "69264e0c18": 1,
-  "d7ff3520b0": 1
+  "d7ff3520b0": 1,
+  "b0621ab02b": 1,
+  "ccb09f785c": 1,
+  "b918ee4a63": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "percepção zero na hora e um clarão gigante dez anos depois",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "às vezes a gente tá tão ocupada sobrevivendo que perde os sinais pelo caminho",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "trinta anos de prova prática que a diplomacia funciona",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "cliente pelo menos paga o tempo perdido, no bar a gente só leva o prejuizo",
    "p": "concorda",
@@ -4970,6 +4959,21 @@
    "t": "sobrevivência em primeiro lugar, risco zero com alergia",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "perigro real e oficial para qualquer saldo bancario",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "exato, e a gente sai de lá culpada e cheia de besteira kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "qualquer uma kkk o teste é ver se a pessoa tem ritmo ou dois pés esquerdos",
+   "p": "neutra",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6222,13 +6226,6 @@
   }
  ],
  "aberturas_post": {
-  "18231170866322932": [
-   "nada supera colocar",
-   "perde o melhor",
-   "eita sexta a",
-   "concordo nada como",
-   "quem tem espaco"
-  ],
   "18644066287059205": [
    "o dia seguinte",
    "esse olhar de",
@@ -6425,7 +6422,8 @@
    "endereco estrategico para",
    "agora aprendeu o",
    "verdade muda tudo",
-   "fica em paz"
+   "fica em paz",
+   "qualquer uma o"
   ],
   "18121353692075006": [
    "calma ditador nem",
@@ -6505,6 +6503,10 @@
   ],
   "18192095356371866": [
    "sobrevivencia em primeiro"
+  ],
+  "17893301271457429": [
+   "perigro real e",
+   "exato e a"
   ]
  },
  "shopee_checada": "2026-11-08|1",
