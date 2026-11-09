@@ -24,41 +24,19 @@
   ],
   "feitos": [
    "08:05",
-   "09:15"
+   "09:15",
+   "10:34"
   ],
   "produtos_feitos": 0,
-  "respostas": 9,
+  "respostas": 11,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 4,
    "18646993528063414": 1,
-   "18132673849887493": 2
+   "18132673849887493": 4
   }
  },
  "posts": [
-  {
-   "id": "18146901799608252",
-   "insp": "35da4326cb",
-   "link": "",
-   "texto": "SEM MENTIR: qual jogo de videogame vocês já zeraram mais de uma vez? Tem campanha que enjoa na primeira hora, mas tem clássico que a gente rejoga como se fosse a primeira vez.",
-   "quando": "2026-11-04T13:07:09.479900-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T19:07:12.406630-04:00",
-   "link_coment": "https://s.shopee.com.br/2LZcQNldIl",
-   "meme_comentado": true,
-   "meme_views": 1003,
-   "formato_link": "coment",
-   "produto": "23594541990",
-   "metricas": {
-    "views": 1628,
-    "likes": 16,
-    "replies": 92,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-09"
-   }
-  },
   {
    "id": "18127233625684654",
    "insp": "6c95b06784",
@@ -1211,11 +1189,17 @@
    "texto": "VAMOS SER HONESTOS: todo mundo já balançou a cabeça concordando com o orçamento da oficina sem fazer ideia do que o mecânico estava falando",
    "quando": "2026-11-09T09:37:08.185907-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18021151787740470",
+   "insp": "e146c536ac",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: carro antigo bem cuidado dá menos dor de cabeça do que muito lançamento cheio de sensor que vive na oficina.",
+   "quando": "2026-11-09T10:37:08.626605-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18621100555063252",
-  "17910210969472554",
   "17946909681067120",
   "18103571288369558",
   "17909479500491354",
@@ -4213,10 +4197,11 @@
   "18133256974692374",
   "17958145197321722",
   "18646317895059835",
-  "17928153615431238"
+  "17928153615431238",
+  "18647547139027081",
+  "17989018146120462"
  ],
  "hashes": [
-  "7ad56e41b3342f3f4f2050db02757cf2",
   "3a2c7f7e8334febf5aac515303c802db",
   "a67f5c94a08d8f98544ef55705c48342",
   "8d85680a63de2f5351306be3741e35ad",
@@ -4415,7 +4400,8 @@
   "e293b47f68ec7021001ddabce69e0d1a",
   "7243006a446ad877bcd193a7734f0b06",
   "470d9ac1e463ea4681664d708c850a2e",
-  "e3ebeb458d7e196ef9c3bfcc6f34a63b"
+  "e3ebeb458d7e196ef9c3bfcc6f34a63b",
+  "a7dc9cf986dd24cb1180682eb4dd9e4b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4809,7 +4795,8 @@
   "bffa429f4f": 1794188249.790483,
   "975bd546f5": 1794190090.9738219,
   "dbd1bc17b7": 1794226091.117151,
-  "e381eb3fd0": 1794231448.471229
+  "e381eb3fd0": 1794231448.471229,
+  "e146c536ac": 1794235044.7499843
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4821,20 +4808,12 @@
   "81bfaf06d0": 1,
   "e1fc991990": 1,
   "a213fc9cfb": 1,
-  "5cd8ef6f88": 1
+  "5cd8ef6f88": 1,
+  "aef93708ea": 1,
+  "ae2dcb8746": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "bloqueio imediato para não perder o costume kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Verdade, quem não avisa perde tempo, melhor cortar logo kkk 😅",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "concordo, sem aviso é difícil até justificar a espera",
    "p": "concorda",
@@ -4974,6 +4953,16 @@
    "t": "excelente dica, realmente ajuda muito ter alguém junto para garantir",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "sorte a sua ter esse suporte em casa, bem melhor assim kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "e rezar pra conta não vir um absurdo kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6508,7 +6497,9 @@
   ],
   "18132673849887493": [
    "totalmente automatico so",
-   "excelente dica realmente"
+   "excelente dica realmente",
+   "sorte a sua",
+   "e rezar pra"
   ]
  },
  "shopee_checada": "2026-11-09|1",
