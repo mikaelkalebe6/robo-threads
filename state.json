@@ -36,11 +36,11 @@
    "18:34"
   ],
   "produtos_feitos": 0,
-  "respostas": 63,
+  "respostas": 69,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
-   "18646993528063414": 1,
+   "18646993528063414": 2,
    "18132673849887493": 6,
    "18021151787740470": 20,
    "18159685150495656": 2,
@@ -49,7 +49,8 @@
    "18120815357070220": 1,
    "18168780994485568": 3,
    "17922262281453470": 13,
-   "18122952722291296": 4
+   "18122952722291296": 4,
+   "18352395226269773": 5
   }
  },
  "posts": [
@@ -1093,12 +1094,6 @@
   }
  ],
  "respondidos": [
-  "18032838506896606",
-  "18131353267780036",
-  "17909344764518687",
-  "18167735704480576",
-  "18216430483351046",
-  "18464384872186995",
   "17951097813339559",
   "17924154834205744",
   "18121432612943432",
@@ -4092,7 +4087,13 @@
   "18099124997671464",
   "18317326609303886",
   "17978699955178940",
-  "18101315549397197"
+  "18101315549397197",
+  "18124707008010401",
+  "18083352332722911",
+  "18122189827962548",
+  "18646484518044835",
+  "18116028010844923",
+  "18102277238641483"
  ],
  "hashes": [
   "9d193556a403a90bd80be7a3563a281a",
@@ -4758,40 +4759,16 @@
   "4a1776d906": 1,
   "468db27437": 1,
   "0a3e7ca540": 1,
-  "a085ce8eda": 1
+  "a085ce8eda": 1,
+  "55da8243ae": 1,
+  "38b9cf24d9": 1,
+  "173dd236f4": 1,
+  "fe2cf94923": 1,
+  "9ca7c465c0": 1,
+  "504993f458": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "paz de espírito total para rodar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "veio com a escalação completa só para confirmar a minha teoria",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos economiza espaço na cabeça pra outras coisas kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "exato, cada serviço é uma surpresa diferente",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "É, a mente tem esses cantos escuros que nem percebemos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "profundo demais pra quem só queria saber da escalação do time",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "pior que a vontade é essa mesma kkkk",
    "p": "concorda",
@@ -4909,6 +4886,36 @@
   },
   {
    "t": "pelo menos a honestidade veio junto com a maldade kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "que paz é essa de nunca precisar esconder um docinho no armário",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "guardar o próprio nome para ninguém comer é proteção nível máximo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cada assunto indo para um lado totalmente diferente",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "morango é bom demais, impossível durar escondido kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "vantagem de morar só é poder espalhar a comida pela casa toda kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse lanche aí cai duro antes de chegar no armário kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6173,13 +6180,6 @@
   }
  ],
  "aberturas_post": {
-  "18074939729767419": [
-   "concordo churrasco bom",
-   "verdade se vacilar",
-   "tem de tudo",
-   "raiz mas com",
-   "entao o peixe"
-  ],
   "18003889164009680": [
    "depende da garantia",
    "peso pesado mesmo",
@@ -6379,7 +6379,8 @@
    "exato e a"
   ],
   "18646993528063414": [
-   "cafe quente com"
+   "cafe quente com",
+   "cada assunto indo"
   ],
   "18132673849887493": [
    "totalmente automatico so",
@@ -6449,6 +6450,13 @@
    "esse ai era",
    "ainda bem que",
    "pelo menos a"
+  ],
+  "18352395226269773": [
+   "que paz e",
+   "guardar o proprio",
+   "morango e bom",
+   "vantagem de morar",
+   "esse lanche ai"
   ]
  },
  "shopee_checada": "2026-11-09|1",
