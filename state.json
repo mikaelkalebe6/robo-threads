@@ -31,10 +31,11 @@
    "14:00",
    "16:10",
    "17:06",
-   "18:42"
+   "18:42",
+   "20:00"
   ],
   "produtos_feitos": 1,
-  "respostas": 73,
+  "respostas": 74,
   "por_post": {
    "18134330512806965": 4,
    "18139699534731715": 8,
@@ -46,28 +47,10 @@
    "17912953554306994": 10,
    "18159685150495656": 3,
    "18096380930670615": 15,
-   "17900757891393240": 4
+   "17900757891393240": 5
   }
  },
  "posts": [
-  {
-   "id": "18118663834815681",
-   "insp": "134d436301",
-   "link": "",
-   "texto": "SEM MENTIR: trabalhar com atendimento ao cliente testa a sanidade de qualquer ser humano em dois minutos. Tem dia que a única solução é respirar fundo e fingir demência.",
-   "quando": "2026-11-03T16:37:11.641334-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 531,
-    "likes": 10,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-08"
-   },
-   "viral_chk": "2026-11-04T16:37:08.319317-04:00"
-  },
   {
    "id": "18130295941794634",
    "insp": "prod_58255737985",
@@ -1183,10 +1166,17 @@
    "texto": "DÚVIDA SINCERA: vocês funcionam melhor de madrugada ou são apegados às nove da manhã?",
    "quando": "2026-11-08T19:07:09.162000-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18012741368996434",
+   "insp": "ba00af7a13",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: marmanjo gastando todas as economias com figurinha de copa com a mesma seriedade de quem investe na bolsa é o ápice da falta de boleto para pagar",
+   "quando": "2026-11-08T20:07:07.432860-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18129546238687153",
   "17904482385570139",
   "18031293599855387",
   "18139449409723005",
@@ -4185,10 +4175,10 @@
   "18086325902333991",
   "18080789195577753",
   "18080377145419153",
-  "17911211544664510"
+  "17911211544664510",
+  "18066620039549436"
  ],
  "hashes": [
-  "dc1db739782eab4678755fd2e5087cfc",
   "048722fac8b8d17719f5ceb831906f36",
   "6c8fe0d762809a90c8dfb6d089ec87d6",
   "7c98deafe040caa216dceda61d9d157b",
@@ -4387,7 +4377,8 @@
   "852463e8258e0081dde97c08bb30c3f4",
   "24feb212059ae3d0a7f77728aca34da1",
   "0b9227f7394841507ec01ef5b9d1d003",
-  "277f9b3f956b07cc4812e9057e45a93c"
+  "277f9b3f956b07cc4812e9057e45a93c",
+  "547da0819a9f64855b77544143d959d2"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4776,7 +4767,8 @@
   "c4388fbfd7": 1794161293.453224,
   "0dc0e78f0f": 1794170281.688949,
   "24564d0f1b": 1794172059.140711,
-  "5215f6a807": 1794179288.4326837
+  "5215f6a807": 1794179288.4326837,
+  "ba00af7a13": 1794182886.1541488
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4849,15 +4841,10 @@
   "78a217a9a7": 1,
   "af5ae8c6c4": 1,
   "9587d4288b": 1,
-  "6dbc93e4a6": 1
+  "6dbc93e4a6": 2
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "política já entra em outra categoria de teste psicológico kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "coragem misturada com caos, adorei kkkk",
    "p": "concorda",
@@ -5002,6 +4989,11 @@
    "t": "melhor escolha para não perder a paciência nem a noite",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "justo, levantar peso com o cerebro desligado e pedir para dar errado kkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6545,7 +6537,8 @@
    "equipe cedo entao",
    "madrugada tem um",
    "esse silencio da",
-   "horario comercial certinho"
+   "horario comercial certinho",
+   "justo levantar peso"
   ]
  },
  "shopee_checada": "2026-11-08|1",
