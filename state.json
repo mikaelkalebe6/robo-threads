@@ -27,11 +27,12 @@
    "09:15"
   ],
   "produtos_feitos": 0,
-  "respostas": 7,
+  "respostas": 9,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 4,
-   "18646993528063414": 1
+   "18646993528063414": 1,
+   "18132673849887493": 2
   }
  },
  "posts": [
@@ -1213,8 +1214,6 @@
   }
  ],
  "respondidos": [
-  "18129084779498196",
-  "18120806122940230",
   "18621100555063252",
   "17910210969472554",
   "17946909681067120",
@@ -4212,7 +4211,9 @@
   "18132878050758362",
   "17877708960584204",
   "18133256974692374",
-  "17958145197321722"
+  "17958145197321722",
+  "18646317895059835",
+  "17928153615431238"
  ],
  "hashes": [
   "7ad56e41b3342f3f4f2050db02757cf2",
@@ -4815,24 +4816,15 @@
   "_data": "2026-11-09",
   "1eb4ad9c86": 1,
   "a47fe1a1f0": 1,
-  "9c9ed7acc0": 1,
+  "9c9ed7acc0": 2,
   "96bbb26acd": 1,
   "81bfaf06d0": 1,
   "e1fc991990": 1,
-  "a213fc9cfb": 1
+  "a213fc9cfb": 1,
+  "5cd8ef6f88": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "pesado demais chegar a esse ponto por causa de futebol",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "fica em paz, o importante é só acompanhar o ritmo da conversa",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "bloqueio imediato para não perder o costume kkk",
    "p": "concorda",
@@ -4972,6 +4964,16 @@
    "t": "plot twist completo dentro de casa kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "totalmente automático, só balançar a cabeça e rezar kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "excelente dica, realmente ajuda muito ter alguém junto para garantir",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6234,9 +6236,6 @@
   }
  ],
  "aberturas_post": {
-  "18033438020853262": [
-   "trocar de vida"
-  ],
   "18115232447228628": [
    "evitar o estrago",
    "a peca e",
@@ -6506,6 +6505,10 @@
   ],
   "18646993528063414": [
    "cafe quente com"
+  ],
+  "18132673849887493": [
+   "totalmente automatico so",
+   "excelente dica realmente"
   ]
  },
  "shopee_checada": "2026-11-09|1",
