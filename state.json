@@ -35,7 +35,7 @@
    "20:00"
   ],
   "produtos_feitos": 1,
-  "respostas": 74,
+  "respostas": 76,
   "por_post": {
    "18134330512806965": 4,
    "18139699534731715": 8,
@@ -44,10 +44,11 @@
    "18121353692075006": 19,
    "18081521156456374": 1,
    "18447652600130064": 4,
-   "17912953554306994": 10,
+   "17912953554306994": 11,
    "18159685150495656": 3,
    "18096380930670615": 15,
-   "17900757891393240": 5
+   "17900757891393240": 5,
+   "18012741368996434": 1
   }
  },
  "posts": [
@@ -1177,8 +1178,6 @@
   }
  ],
  "respondidos": [
-  "17904482385570139",
-  "18031293599855387",
   "18139449409723005",
   "17991414111028355",
   "18096772076399421",
@@ -4176,7 +4175,9 @@
   "18080789195577753",
   "18080377145419153",
   "17911211544664510",
-  "18066620039549436"
+  "18066620039549436",
+  "18122310676988306",
+  "18187054807424177"
  ],
  "hashes": [
   "048722fac8b8d17719f5ceb831906f36",
@@ -4841,20 +4842,12 @@
   "78a217a9a7": 1,
   "af5ae8c6c4": 1,
   "9587d4288b": 1,
-  "6dbc93e4a6": 2
+  "6dbc93e4a6": 2,
+  "1d06969815": 1,
+  "e399e16ab1": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "coragem misturada com caos, adorei kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o respeito no dia a dia resolve boa parte das diferencas",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "lá na italia choram mas aqui a gente é livre kkk",
    "p": "concorda",
@@ -4994,6 +4987,16 @@
    "t": "justo, levantar peso com o cerebro desligado e pedir para dar errado kkk",
    "p": "ressalva",
    "r": 1
+  },
+  {
+   "t": "trabalho raiz q chama kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "7 anos de paz clubística é para aplaudir de pé",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6246,17 +6249,6 @@
   }
  ],
  "aberturas_post": {
-  "18403612900201661": [
-   "faxineira e patroa",
-   "justo quem limpa",
-   "tem que ter",
-   "dona conceicao ia",
-   "economia dupla mas",
-   "acumula a funcao",
-   "verdade mas a",
-   "eu tbm me",
-   "exato sao os"
-  ],
   "18038563889848377": [
    "transparencia tira o",
    "parece que o",
@@ -6509,7 +6501,8 @@
    "politica ja entra",
    "o respeito no",
    "trinta anos de",
-   "pesado demais chegar"
+   "pesado demais chegar",
+   "7 anos de"
   ],
   "18159685150495656": [
    "percepcao zero na",
@@ -6539,6 +6532,9 @@
    "esse silencio da",
    "horario comercial certinho",
    "justo levantar peso"
+  ],
+  "18012741368996434": [
+   "trabalho raiz q"
   ]
  },
  "shopee_checada": "2026-11-08|1",
