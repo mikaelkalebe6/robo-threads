@@ -32,7 +32,8 @@
    "16:10",
    "17:06",
    "18:42",
-   "20:00"
+   "20:00",
+   "21:12"
   ],
   "produtos_feitos": 1,
   "respostas": 77,
@@ -52,38 +53,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18130295941794634",
-   "insp": "prod_58255737985",
-   "link": "",
-   "texto": "Corte de corda e embalagem no meio do camping sempre dão um trabalhão, né? Descobri esse canivete dobrável que não ocupa espaço no bolso e resolve tudo numa tacada só. Olha como funciona 👀",
-   "quando": "2026-11-03T18:07:11.383172-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58255737985",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58255737985",
-    "nome": "Canivete Dobrável de Aço Inoxidável Com Alta Resistencia Pesca Camping Caminhada - BW7275",
-    "offerLink": "https://s.shopee.com.br/114CRgTtML",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuh-ml3uuln7tla8fe",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 231,
-    "likes": 1,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-08"
-   },
-   "link_coment": "https://s.shopee.com.br/114CRgTtML",
-   "link_em": "2026-11-04T12:37:08.343067-04:00",
-   "link_views": 0
-  },
   {
    "id": "17949764385085229",
    "insp": "b8bafc8bd6",
@@ -1174,6 +1143,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: marmanjo gastando todas as economias com figurinha de copa com a mesma seriedade de quem investe na bolsa é o ápice da falta de boleto para pagar",
    "quando": "2026-11-08T20:07:07.432860-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18192095356371866",
+   "insp": "bffa429f4f",
+   "link": "",
+   "texto": "PESSOAS QUE...: escolhem o restaurante do primeiro encontro só olhando a foto do prato no Google são estrategistas ou só têm fome mesmo",
+   "quando": "2026-11-08T21:37:07.755803-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4180,7 +4157,6 @@
   "18417689872084962"
  ],
  "hashes": [
-  "048722fac8b8d17719f5ceb831906f36",
   "6c8fe0d762809a90c8dfb6d089ec87d6",
   "7c98deafe040caa216dceda61d9d157b",
   "66a16eb701f923c16f9543b6a14bbdf3",
@@ -4379,7 +4355,8 @@
   "24feb212059ae3d0a7f77728aca34da1",
   "0b9227f7394841507ec01ef5b9d1d003",
   "277f9b3f956b07cc4812e9057e45a93c",
-  "547da0819a9f64855b77544143d959d2"
+  "547da0819a9f64855b77544143d959d2",
+  "e293b47f68ec7021001ddabce69e0d1a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4769,7 +4746,8 @@
   "0dc0e78f0f": 1794170281.688949,
   "24564d0f1b": 1794172059.140711,
   "5215f6a807": 1794179288.4326837,
-  "ba00af7a13": 1794182886.1541488
+  "ba00af7a13": 1794182886.1541488,
+  "bffa429f4f": 1794188249.790483
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
