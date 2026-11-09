@@ -22,7 +22,9 @@
    "14:49",
    "19:48"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:05"
+  ],
   "produtos_feitos": 0,
   "respostas": 5,
   "por_post": {
@@ -31,24 +33,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17886556293690167",
-   "insp": "db1e9eddc7",
-   "link": "",
-   "texto": "ME CONTA: você acordava cedo no sábado para ver Caverna do Dragão ou Pica-Pau?",
-   "quando": "2026-11-04T10:37:09.019293-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T19:07:12.406630-04:00",
-   "metricas": {
-    "views": 286,
-    "likes": 8,
-    "replies": 2,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-09"
-   }
-  },
   {
    "id": "18082564706406554",
    "insp": "prod_58254074073",
@@ -1240,6 +1224,14 @@
     "shares": 0,
     "em": "2026-11-09"
    }
+  },
+  {
+   "id": "18646993528063414",
+   "insp": "dbd1bc17b7",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: tomar chimarrão no meio de um calor de 35 graus é uma das maiores loucuras que a gente defende com orgulho só para não dar o braço a torcer.",
+   "quando": "2026-11-09T08:07:09.578894-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4245,7 +4237,6 @@
   "17877708960584204"
  ],
  "hashes": [
-  "7c98deafe040caa216dceda61d9d157b",
   "66a16eb701f923c16f9543b6a14bbdf3",
   "7ad56e41b3342f3f4f2050db02757cf2",
   "3a2c7f7e8334febf5aac515303c802db",
@@ -4444,7 +4435,8 @@
   "277f9b3f956b07cc4812e9057e45a93c",
   "547da0819a9f64855b77544143d959d2",
   "e293b47f68ec7021001ddabce69e0d1a",
-  "7243006a446ad877bcd193a7734f0b06"
+  "7243006a446ad877bcd193a7734f0b06",
+  "470d9ac1e463ea4681664d708c850a2e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4836,7 +4828,8 @@
   "5215f6a807": 1794179288.4326837,
   "ba00af7a13": 1794182886.1541488,
   "bffa429f4f": 1794188249.790483,
-  "975bd546f5": 1794190090.9738219
+  "975bd546f5": 1794190090.9738219,
+  "dbd1bc17b7": 1794226091.117151
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
