@@ -23,48 +23,18 @@
    "19:48"
   ],
   "feitos": [
-   "08:05"
+   "08:05",
+   "09:15"
   ],
   "produtos_feitos": 0,
-  "respostas": 5,
+  "respostas": 7,
   "por_post": {
    "18096380930670615": 2,
-   "17912953554306994": 3
+   "17912953554306994": 4,
+   "18646993528063414": 1
   }
  },
  "posts": [
-  {
-   "id": "18082564706406554",
-   "insp": "prod_58254074073",
-   "link": "",
-   "texto": "Cozinhar fim de semana sempre acaba manchando toda a roupa, né? 😂 Descobri esse avental impermeável ajustável que salva a gente da bagunça na cozinha e no churrasco. Olha como funciona 👀",
-   "quando": "2026-11-04T11:37:09.709664-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58254074073",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58254074073",
-    "nome": "Avental Impermeável Ajustável em Lona Canvas Cozinha Restaurante Churrasco Unissex",
-    "offerLink": "https://s.shopee.com.br/AKbt9fePdk",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5i7qgxue4jc9",
-    "campanha": ""
-   },
-   "metricas": {
-    "views": 161,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-09"
-   },
-   "link_coment": "https://s.shopee.com.br/AKbt9fePdk",
-   "link_em": "2026-11-05T07:07:09.689824-04:00",
-   "link_views": 0
-  },
   {
    "id": "18146901799608252",
    "insp": "35da4326cb",
@@ -1232,11 +1202,17 @@
    "texto": "OPINIÃO IMPOPULAR: tomar chimarrão no meio de um calor de 35 graus é uma das maiores loucuras que a gente defende com orgulho só para não dar o braço a torcer.",
    "quando": "2026-11-09T08:07:09.578894-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18132673849887493",
+   "insp": "e381eb3fd0",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: todo mundo já balançou a cabeça concordando com o orçamento da oficina sem fazer ideia do que o mecânico estava falando",
+   "quando": "2026-11-09T09:37:08.185907-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18132036745678340",
-  "17889157482683580",
   "18129084779498196",
   "18120806122940230",
   "18621100555063252",
@@ -4234,10 +4210,11 @@
   "18420338761155024",
   "18127613180311988",
   "18132878050758362",
-  "17877708960584204"
+  "17877708960584204",
+  "18133256974692374",
+  "17958145197321722"
  ],
  "hashes": [
-  "66a16eb701f923c16f9543b6a14bbdf3",
   "7ad56e41b3342f3f4f2050db02757cf2",
   "3a2c7f7e8334febf5aac515303c802db",
   "a67f5c94a08d8f98544ef55705c48342",
@@ -4436,7 +4413,8 @@
   "547da0819a9f64855b77544143d959d2",
   "e293b47f68ec7021001ddabce69e0d1a",
   "7243006a446ad877bcd193a7734f0b06",
-  "470d9ac1e463ea4681664d708c850a2e"
+  "470d9ac1e463ea4681664d708c850a2e",
+  "e3ebeb458d7e196ef9c3bfcc6f34a63b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4829,7 +4807,8 @@
   "ba00af7a13": 1794182886.1541488,
   "bffa429f4f": 1794188249.790483,
   "975bd546f5": 1794190090.9738219,
-  "dbd1bc17b7": 1794226091.117151
+  "dbd1bc17b7": 1794226091.117151,
+  "e381eb3fd0": 1794231448.471229
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4838,20 +4817,12 @@
   "a47fe1a1f0": 1,
   "9c9ed7acc0": 1,
   "96bbb26acd": 1,
-  "81bfaf06d0": 1
+  "81bfaf06d0": 1,
+  "e1fc991990": 1,
+  "a213fc9cfb": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "caixa de chocolate inteira com direito a pedido de desculpas em pé kkkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "tolerancia zero com falta de consideracao poupa nosso tempo precioso",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pesado demais chegar a esse ponto por causa de futebol",
    "p": "concorda",
@@ -4991,6 +4962,16 @@
    "t": "estratégia de sobrevivência pura kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "café quente com calor de trinta graus também e exercicio de resistencia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "plot twist completo dentro de casa kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6253,25 +6234,6 @@
   }
  ],
  "aberturas_post": {
-  "18644066287059205": [
-   "o dia seguinte",
-   "esse olhar de",
-   "usar o saldo",
-   "se atrasar o",
-   "com essa taxa",
-   "pelo menos o",
-   "comecou a maratona",
-   "guardar por anos",
-   "pelo menos no",
-   "proposito e otimo",
-   "mas a paz",
-   "essa paz de",
-   "a exaustao com",
-   "esse choro de",
-   "motor potente exige",
-   "nossa 1500 na",
-   "desse jeito ai"
-  ],
   "18033438020853262": [
    "trocar de vida"
   ],
@@ -6498,7 +6460,8 @@
    "pior q tem",
    "entao o futebol",
    "politica ainda vai",
-   "estrategia de sobrevivencia"
+   "estrategia de sobrevivencia",
+   "plot twist completo"
   ],
   "18159685150495656": [
    "percepcao zero na",
@@ -6540,6 +6503,9 @@
   "17893301271457429": [
    "perigro real e",
    "exato e a"
+  ],
+  "18646993528063414": [
+   "cafe quente com"
   ]
  },
  "shopee_checada": "2026-11-09|1",
