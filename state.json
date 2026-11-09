@@ -27,44 +27,22 @@
    "09:15",
    "10:34",
    "11:37",
-   "12:18"
+   "12:18",
+   "13:15"
   ],
   "produtos_feitos": 0,
-  "respostas": 30,
+  "respostas": 34,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
    "18646993528063414": 1,
    "18132673849887493": 4,
-   "18021151787740470": 16,
+   "18021151787740470": 20,
    "18159685150495656": 1,
    "18171642805469752": 1
   }
  },
  "posts": [
-  {
-   "id": "17944488396382748",
-   "insp": "83111fe9a4",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual é aquele gasto com escola que ninguém te avisa antes de matricular a criança?",
-   "quando": "2026-11-04T16:07:07.967066-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-04T17:37:09.596261-04:00",
-   "link_coment": "https://s.shopee.com.br/50aNV5GTBz",
-   "meme_comentado": true,
-   "meme_views": 1117,
-   "formato_link": "coment",
-   "produto": "50450542245",
-   "metricas": {
-    "views": 6098,
-    "likes": 14,
-    "replies": 23,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-11-09"
-   }
-  },
   {
    "id": "17926512138439130",
    "insp": "prod_18599696115",
@@ -1182,13 +1160,17 @@
    "texto": "DÚVIDA SINCERA: ganhar 5 mil trabalhando de pijama em casa ou 8 mil pegando trânsito todo dia?",
    "quando": "2026-11-09T12:37:08.870776-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17967758891983415",
+   "insp": "e4924359a7",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: o cara esquece a data da gente mas lembra até o nome do reserva do time de 2002.",
+   "quando": "2026-11-09T13:37:09.338245-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18105743044950896",
-  "18010872386996036",
-  "18354598090171964",
-  "18140618374613263",
   "17929452942422776",
   "17994946356028345",
   "18108099677353799",
@@ -4184,10 +4166,13 @@
   "18138212134636236",
   "18115918457164260",
   "17992874796065433",
-  "17965694232219883"
+  "17965694232219883",
+  "18135856228759613",
+  "18118929998589985",
+  "18149837644601767",
+  "17955912933334871"
  ],
  "hashes": [
-  "8d85680a63de2f5351306be3741e35ad",
   "f0eadd518b5fce5d462917f80ee65603",
   "cd6df32f55d640f403eff38310ea98a4",
   "08435f5aa10eff727575f615859ab082",
@@ -4386,7 +4371,8 @@
   "e3ebeb458d7e196ef9c3bfcc6f34a63b",
   "a7dc9cf986dd24cb1180682eb4dd9e4b",
   "886a5d53b71080c7c031b7788ddbc35b",
-  "f96b47c62257d888a31d31133d381397"
+  "f96b47c62257d888a31d31133d381397",
+  "92bc2a2aff9278af8c3c1cd43bab090d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4783,7 +4769,8 @@
   "e381eb3fd0": 1794231448.471229,
   "e146c536ac": 1794235044.7499843,
   "68a7ca2ea2": 1794238696.69657,
-  "e0f1744b77": 1794242288.0050478
+  "e0f1744b77": 1794242288.0050478,
+  "e4924359a7": 1794245887.4715204
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4797,7 +4784,7 @@
   "a213fc9cfb": 2,
   "5cd8ef6f88": 2,
   "aef93708ea": 1,
-  "ae2dcb8746": 1,
+  "ae2dcb8746": 2,
   "24f0167c2c": 1,
   "3ca1a9f70d": 1,
   "aabfe99dd2": 1,
@@ -4814,30 +4801,13 @@
   "69ab5f44f1": 1,
   "97d17266c8": 1,
   "bc5c5c4020": 1,
-  "1c6aa3cfe3": 1
+  "1c6aa3cfe3": 1,
+  "1ffcd4cbb2": 1,
+  "a3f5fb5bbd": 1,
+  "bb9dd276e0": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "complicado achar que o tempo dos outros não vale nada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "então o futebol era o menor dos dramas msm",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quinze minutos já é um bom teste de paciência msm kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "politica ainda vai mas futebol com resenha e paz é outra história kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "estratégia de sobrevivência pura kkk",
    "p": "concorda",
@@ -4967,6 +4937,26 @@
    "t": "kadett clássico tem espaço garantido no coração kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "verdade, o histórico de cuidado muda tudo no fim das contas",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "justo na placa da cervejaria para combinar com o consumo do veículo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "chama ele pra conversar aqui kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "paz de espírito total para rodar",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6498,7 +6488,11 @@
    "entao dei sorte",
    "pelo menos a",
    "pois e quando",
-   "kadett classico tem"
+   "kadett classico tem",
+   "verdade o historico",
+   "justo na placa",
+   "chama ele pra",
+   "paz de espirito"
   ],
   "18171642805469752": [
    "criou a profissao"
