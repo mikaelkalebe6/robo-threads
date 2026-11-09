@@ -26,37 +26,21 @@
    "08:05",
    "09:15",
    "10:34",
-   "11:37"
+   "11:37",
+   "12:18"
   ],
   "produtos_feitos": 0,
-  "respostas": 21,
+  "respostas": 27,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 4,
    "18646993528063414": 1,
    "18132673849887493": 4,
-   "18021151787740470": 10
+   "18021151787740470": 15,
+   "18159685150495656": 1
   }
  },
  "posts": [
-  {
-   "id": "17997443184028868",
-   "insp": "34b48535d3",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: esse negócio de relacionamento arranjado pela internet funciona mesmo na prática ou é só história pra boi dormir",
-   "quando": "2026-11-04T14:37:08.759810-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-05T07:07:09.689824-04:00",
-   "metricas": {
-    "views": 673,
-    "likes": 11,
-    "replies": 35,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-09"
-   }
-  },
   {
    "id": "17944488396382748",
    "insp": "83111fe9a4",
@@ -1189,15 +1173,17 @@
    "texto": "VAMOS CONCORDAR: quem nunca passou raiva com o próprio time num domingo à tarde que atire a primeira pedra",
    "quando": "2026-11-09T11:37:11.016381-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18171642805469752",
+   "insp": "e0f1744b77",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: ganhar 5 mil trabalhando de pijama em casa ou 8 mil pegando trânsito todo dia?",
+   "quando": "2026-11-09T12:37:08.870776-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18129825631836783",
-  "17936302740390212",
-  "17960536371210234",
-  "17936894640391136",
-  "18153718054524817",
-  "18127385656882357",
   "18108005302899639",
   "18285223942295527",
   "18092041304167205",
@@ -4191,10 +4177,15 @@
   "18203536582379524",
   "18094399943195320",
   "17927825994205719",
-  "18120651730981199"
+  "18120651730981199",
+  "17940757287128375",
+  "18439275325176713",
+  "18119895673814218",
+  "18132887765505385",
+  "17917995570551333",
+  "18138212134636236"
  ],
  "hashes": [
-  "a67f5c94a08d8f98544ef55705c48342",
   "8d85680a63de2f5351306be3741e35ad",
   "f0eadd518b5fce5d462917f80ee65603",
   "cd6df32f55d640f403eff38310ea98a4",
@@ -4393,7 +4384,8 @@
   "470d9ac1e463ea4681664d708c850a2e",
   "e3ebeb458d7e196ef9c3bfcc6f34a63b",
   "a7dc9cf986dd24cb1180682eb4dd9e4b",
-  "886a5d53b71080c7c031b7788ddbc35b"
+  "886a5d53b71080c7c031b7788ddbc35b",
+  "f96b47c62257d888a31d31133d381397"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4789,7 +4781,8 @@
   "dbd1bc17b7": 1794226091.117151,
   "e381eb3fd0": 1794231448.471229,
   "e146c536ac": 1794235044.7499843,
-  "68a7ca2ea2": 1794238696.69657
+  "68a7ca2ea2": 1794238696.69657,
+  "e0f1744b77": 1794242288.0050478
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4800,7 +4793,7 @@
   "96bbb26acd": 1,
   "81bfaf06d0": 1,
   "e1fc991990": 1,
-  "a213fc9cfb": 1,
+  "a213fc9cfb": 2,
   "5cd8ef6f88": 2,
   "aef93708ea": 1,
   "ae2dcb8746": 1,
@@ -4812,40 +4805,15 @@
   "74b4407532": 1,
   "12ca2fbd92": 1,
   "ef605c7fd9": 1,
-  "2d9b0a02bc": 1
+  "2d9b0a02bc": 1,
+  "76b6416a7a": 1,
+  "c7a6cc8e4d": 1,
+  "c981c6d5cd": 1,
+  "b660895133": 1,
+  "69ab5f44f1": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "justo, levantar peso com o cerebro desligado e pedir para dar errado kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "trabalho raiz q chama kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "7 anos de paz clubística é para aplaudir de pé",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "quem tem coragem de assumir isso já ganha pontos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sobrevivência em primeiro lugar, risco zero com alergia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perigro real e oficial para qualquer saldo bancario",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "exato, e a gente sai de lá culpada e cheia de besteira kkk",
    "p": "concorda",
@@ -4963,6 +4931,36 @@
   },
   {
    "t": "motor ap bem cuidado é praticamente indestrutível",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "percepção de centavos né, a pessoa desenha e a gente ainda acha que é amizade kkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "com certeza, a paz de espírito compensa tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "semi novo realmente poupa tempo de oficina mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "então dei sorte porque os meus nunca deram trabalho",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a gente desvia de dor de cabeça kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pois é, quando a obviedade é dita em voz alta a gente só agradece",
    "p": "concorda",
    "r": 0
   }
@@ -6450,7 +6448,8 @@
   "18159685150495656": [
    "percepcao zero na",
    "as vezes a",
-   "precisa de um"
+   "precisa de um",
+   "percepcao de centavos"
   ],
   "18096380930670615": [
    "cliente pelo menos",
@@ -6507,7 +6506,12 @@
    "quem viveu a",
    "fabricavam com foco",
    "experiencia de quem",
-   "motor ap bem"
+   "motor ap bem",
+   "com certeza a",
+   "semi novo realmente",
+   "entao dei sorte",
+   "pelo menos a",
+   "pois e quando"
   ]
  },
  "shopee_checada": "2026-11-09|1",
