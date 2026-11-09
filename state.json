@@ -34,7 +34,7 @@
    "15:55"
   ],
   "produtos_feitos": 0,
-  "respostas": 51,
+  "respostas": 57,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
@@ -46,7 +46,7 @@
    "17967758891983415": 3,
    "18120815357070220": 1,
    "18168780994485568": 3,
-   "17922262281453470": 5
+   "17922262281453470": 11
   }
  },
  "posts": [
@@ -1129,12 +1129,6 @@
   }
  ],
  "respondidos": [
-  "18094424312551367",
-  "17888776221683453",
-  "18126848878880989",
-  "17925976515423066",
-  "18023747312926044",
-  "18156718051450871",
   "17907908415557144",
   "18118374691970766",
   "17986471956111961",
@@ -4128,7 +4122,13 @@
   "18207922030374546",
   "18164114446505468",
   "17929371204432386",
-  "18104096987648713"
+  "18104096987648713",
+  "17936331666407402",
+  "17904121425378964",
+  "18101288120431885",
+  "18203869186376319",
+  "17913616518602741",
+  "18116204261163810"
  ],
  "hashes": [
   "c160280a0c25591d424b82b7aaa5c7a2",
@@ -4780,40 +4780,16 @@
   "f5b1d96228": 1,
   "01af5a7598": 1,
   "e9b933145d": 1,
-  "76efe0cfb9": 1
+  "76efe0cfb9": 1,
+  "9587d4288b": 1,
+  "6f2726775f": 1,
+  "e3f755478b": 1,
+  "743e4a39d6": 1,
+  "043197eaa3": 1,
+  "380935415c": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "percepção de centavos né, a pessoa desenha e a gente ainda acha que é amizade kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "com certeza, a paz de espírito compensa tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "semi novo realmente poupa tempo de oficina mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "então dei sorte porque os meus nunca deram trabalho",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "pelo menos a gente desvia de dor de cabeça kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pois é, quando a obviedade é dita em voz alta a gente só agradece",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "criou a profissão perfeita pra sofrer em dobro kkkk",
    "p": "concorda",
@@ -4933,6 +4909,36 @@
    "t": "kkkkk morri, o boleto chegou e a alma saiu junto 😭",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "esse valor já começa a exigir respeito com a sola kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "cem reais protegendo contra a chuva e uma conta que fecha sozinha",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cinco meses é uma vida curta demais para um tênis",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "valor justo para um companheiro de guerra",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse limite moral é bem defensável",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "limite bom é aquele que a fatura do cartão não pede socorro no mês seguinte",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6461,7 +6467,13 @@
    "entendo 300 parece",
    "parcelado em seis",
    "700 e o",
-   "morri o boleto"
+   "morri o boleto",
+   "esse valor ja",
+   "cem reais protegendo",
+   "cinco meses e",
+   "valor justo para",
+   "esse limite moral",
+   "limite bom e"
   ]
  },
  "shopee_checada": "2026-11-09|1",
