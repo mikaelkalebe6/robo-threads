@@ -28,53 +28,23 @@
    "10:34",
    "11:37",
    "12:18",
-   "13:15"
+   "13:15",
+   "13:58"
   ],
   "produtos_feitos": 0,
-  "respostas": 34,
+  "respostas": 37,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
    "18646993528063414": 1,
-   "18132673849887493": 4,
+   "18132673849887493": 5,
    "18021151787740470": 20,
    "18159685150495656": 1,
-   "18171642805469752": 1
+   "18171642805469752": 1,
+   "17967758891983415": 2
   }
  },
  "posts": [
-  {
-   "id": "17926512138439130",
-   "insp": "prod_18599696115",
-   "link": "",
-   "texto": "Andar naquelas pedras da cachoeira sem chorar de dor é uma missão quase impossível. Descobri essa sapatilha aquática que salva o pé da gente em qualquer trilha ou praia, olha como funciona 👀",
-   "quando": "2026-11-04T17:07:10.782155-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "18599696115",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "18599696115",
-    "nome": "Sapatilha Aquática Pesca Praia Cachoeira Aventura Leve Confortável Antiderrapante",
-    "offerLink": "https://s.shopee.com.br/AKbt9gDkQ0",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8dflmbun5yp64",
-    "campanha": ""
-   },
-   "metricas": {
-    "views": 163,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-09"
-   },
-   "link_coment": "https://s.shopee.com.br/AKbt9gDkQ0",
-   "link_em": "2026-11-05T11:37:09.706712-04:00",
-   "link_views": 0
-  },
   {
    "id": "18134748025793720",
    "insp": "db72a20743",
@@ -1168,12 +1138,17 @@
    "texto": "VAMOS SER HONESTOS: o cara esquece a data da gente mas lembra até o nome do reserva do time de 2002.",
    "quando": "2026-11-09T13:37:09.338245-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18120815357070220",
+   "insp": "538e4aa327",
+   "link": "",
+   "texto": "ME CONTA: quem aqui já mandou dinheiro pro contato errado e passou o resto do dia suando frio esperando o estorno?",
+   "quando": "2026-11-09T14:07:15.011224-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17929452942422776",
-  "17994946356028345",
-  "18108099677353799",
   "17905481232565460",
   "18055980233799194",
   "18126371387479538",
@@ -4170,10 +4145,12 @@
   "18135856228759613",
   "18118929998589985",
   "18149837644601767",
-  "17955912933334871"
+  "17955912933334871",
+  "18116918492325191",
+  "17936395110147608",
+  "18007783373793416"
  ],
  "hashes": [
-  "f0eadd518b5fce5d462917f80ee65603",
   "cd6df32f55d640f403eff38310ea98a4",
   "08435f5aa10eff727575f615859ab082",
   "c160280a0c25591d424b82b7aaa5c7a2",
@@ -4372,7 +4349,8 @@
   "a7dc9cf986dd24cb1180682eb4dd9e4b",
   "886a5d53b71080c7c031b7788ddbc35b",
   "f96b47c62257d888a31d31133d381397",
-  "92bc2a2aff9278af8c3c1cd43bab090d"
+  "92bc2a2aff9278af8c3c1cd43bab090d",
+  "b626f2b237fd143d8da1b89dcb6e05d0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4770,7 +4748,8 @@
   "e146c536ac": 1794235044.7499843,
   "68a7ca2ea2": 1794238696.69657,
   "e0f1744b77": 1794242288.0050478,
-  "e4924359a7": 1794245887.4715204
+  "e4924359a7": 1794245887.4715204,
+  "538e4aa327": 1794247683.613261
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4804,25 +4783,13 @@
   "1c6aa3cfe3": 1,
   "1ffcd4cbb2": 1,
   "a3f5fb5bbd": 1,
-  "bb9dd276e0": 1
+  "bb9dd276e0": 1,
+  "63056dab0c": 1,
+  "5a84e05d8b": 1,
+  "15696b4e01": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "estratégia de sobrevivência pura kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "café quente com calor de trinta graus também e exercicio de resistencia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "plot twist completo dentro de casa kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "totalmente automático, só balançar a cabeça e rezar kkk",
    "p": "concorda",
@@ -4955,6 +4922,21 @@
   },
   {
    "t": "paz de espírito total para rodar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "veio com a escalação completa só para confirmar a minha teoria",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos economiza espaço na cabeça pra outras coisas kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "exato, cada serviço é uma surpresa diferente",
    "p": "concorda",
    "r": 0
   }
@@ -6219,23 +6201,6 @@
   }
  ],
  "aberturas_post": {
-  "18129394138877262": [
-   "idade boa para",
-   "nossa 18 sem",
-   "passou longe da",
-   "19 ainda tem",
-   "pilotar e habilidade",
-   "livre da autoescola",
-   "cada um no",
-   "dezesseis anos comecou",
-   "sei bem essas",
-   "eita 18 ja",
-   "chegou na idade",
-   "o detran cobrando",
-   "aproveitou o aniversario",
-   "idade redonda pra",
-   "antes tarde do"
-  ],
   "18099246437387630": [
    "comida de respeito",
    "que legal mj",
@@ -6470,7 +6435,8 @@
    "totalmente automatico so",
    "excelente dica realmente",
    "sorte a sua",
-   "e rezar pra"
+   "e rezar pra",
+   "exato cada servico"
   ],
   "18021151787740470": [
    "obrigada quem viveu",
@@ -6496,6 +6462,10 @@
   ],
   "18171642805469752": [
    "criou a profissao"
+  ],
+  "17967758891983415": [
+   "veio com a",
+   "pelo menos economiza"
   ]
  },
  "shopee_checada": "2026-11-09|1",
