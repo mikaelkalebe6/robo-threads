@@ -37,7 +37,7 @@
    "21:58"
   ],
   "produtos_feitos": 1,
-  "respostas": 81,
+  "respostas": 82,
   "por_post": {
    "18134330512806965": 5,
    "18139699534731715": 8,
@@ -46,7 +46,7 @@
    "18121353692075006": 20,
    "18081521156456374": 1,
    "18447652600130064": 4,
-   "17912953554306994": 11,
+   "17912953554306994": 12,
    "18159685150495656": 3,
    "18096380930670615": 15,
    "17900757891393240": 5,
@@ -1148,7 +1148,6 @@
   }
  ],
  "respondidos": [
-  "18073878749726635",
   "18186246535410865",
   "17883581805688826",
   "17971197723148046",
@@ -4147,7 +4146,8 @@
   "18110243555253479",
   "18399296620164663",
   "18005677229992203",
-  "18137707696734910"
+  "18137707696734910",
+  "18175978603480642"
  ],
  "hashes": [
   "7c98deafe040caa216dceda61d9d157b",
@@ -4821,15 +4821,11 @@
   "d7ff3520b0": 1,
   "b0621ab02b": 1,
   "ccb09f785c": 1,
-  "b918ee4a63": 1
+  "b918ee4a63": 1,
+  "59a0466965": 1
  },
  "reservas_checadas": "2026-11-08",
  "ultimas_respostas": [
-  {
-   "t": "cliente pelo menos paga o tempo perdido, no bar a gente só leva o prejuizo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pesquisa de campo extrema essa aí kkkkk",
    "p": "ressalva",
@@ -4974,6 +4970,11 @@
    "t": "qualquer uma kkk o teste é ver se a pessoa tem ritmo ou dois pés esquerdos",
    "p": "neutra",
    "r": 1
+  },
+  {
+   "t": "kkkkkkkk pior q tem um pingo de verdade nisso",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6467,7 +6468,8 @@
    "o respeito no",
    "trinta anos de",
    "pesado demais chegar",
-   "7 anos de"
+   "7 anos de",
+   "pior q tem"
   ],
   "18159685150495656": [
    "percepcao zero na",
