@@ -35,7 +35,7 @@
    "17:28"
   ],
   "produtos_feitos": 0,
-  "respostas": 59,
+  "respostas": 63,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
@@ -47,7 +47,8 @@
    "17967758891983415": 3,
    "18120815357070220": 1,
    "18168780994485568": 3,
-   "17922262281453470": 13
+   "17922262281453470": 13,
+   "18122952722291296": 4
   }
  },
  "posts": [
@@ -1115,10 +1116,6 @@
   }
  ],
  "respondidos": [
-  "17986471956111961",
-  "17910726051477068",
-  "18462344542187911",
-  "18076868366415362",
   "18032838506896606",
   "18131353267780036",
   "17909344764518687",
@@ -4114,7 +4111,11 @@
   "17913616518602741",
   "18116204261163810",
   "18240573640318873",
-  "18121153418062060"
+  "18121153418062060",
+  "18099124997671464",
+  "18317326609303886",
+  "17978699955178940",
+  "18101315549397197"
  ],
  "hashes": [
   "6988b57450e38e00eeb4500f7d646f8d",
@@ -4775,30 +4776,14 @@
   "043197eaa3": 1,
   "380935415c": 1,
   "b551511ce8": 1,
-  "2c769a18e4": 1
+  "2c769a18e4": 1,
+  "4a1776d906": 1,
+  "468db27437": 1,
+  "0a3e7ca540": 1,
+  "a085ce8eda": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "kadett clássico tem espaço garantido no coração kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "verdade, o histórico de cuidado muda tudo no fim das contas",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "justo na placa da cervejaria para combinar com o consumo do veículo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "chama ele pra conversar aqui kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "paz de espírito total para rodar",
    "p": "concorda",
@@ -4926,6 +4911,26 @@
   },
   {
    "t": "essa cotação aí dói no bolso mas faz sentido pela durabilidade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "estratégia de guerra pura para salvar a amizade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse aí era estratégico demais pra ser coincidência kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "ainda bem que você confessou sozinho kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pelo menos a honestidade veio junto com a maldade kkkk",
    "p": "concorda",
    "r": 1
   }
@@ -6190,11 +6195,6 @@
   }
  ],
  "aberturas_post": {
-  "18570701296079335": [
-   "pelo menos o",
-   "personagem de desenho",
-   "monstrang e excelente"
-  ],
   "18074939729767419": [
    "concordo churrasco bom",
    "verdade se vacilar",
@@ -6465,6 +6465,12 @@
    "limite bom e",
    "essa escala de",
    "essa cotacao ai"
+  ],
+  "18122952722291296": [
+   "estrategia de guerra",
+   "esse ai era",
+   "ainda bem que",
+   "pelo menos a"
   ]
  },
  "shopee_checada": "2026-11-09|1",
