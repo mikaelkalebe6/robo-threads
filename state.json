@@ -22,7 +22,7 @@
    "11:05"
   ],
   "produtos_feitos": 0,
-  "respostas": 29,
+  "respostas": 30,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -31,7 +31,8 @@
    "18100291571670800": 1,
    "18021151787740470": 17,
    "17967758891983415": 1,
-   "18132673849887493": 1
+   "18132673849887493": 1,
+   "18119258228009395": 1
   }
  },
  "posts": [
@@ -1130,7 +1131,6 @@
   }
  ],
  "respondidos": [
-  "17903495787571555",
   "18010697483971959",
   "17969338650179463",
   "17969758461160793",
@@ -4129,7 +4129,8 @@
   "18125110816981079",
   "18470999629188828",
   "18099145706449068",
-  "17911318149575334"
+  "17911318149575334",
+  "18125802970900149"
  ],
  "hashes": [
   "604b0ac5e3c9df7f19294fc9880345c8",
@@ -4758,7 +4759,7 @@
   "8dec9966e6": 1,
   "32d6f565cb": 1,
   "9f128849a8": 1,
-  "9c9ed7acc0": 1,
+  "9c9ed7acc0": 2,
   "f2a4c703f2": 1,
   "8e0b418e27": 1,
   "9061cf472c": 1,
@@ -4777,11 +4778,6 @@
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "arquivado para garantir a paz mental de cada dia",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Verdade, nada como um cantinho que dá limpar rapidinho",
    "p": "concorda",
@@ -4926,6 +4922,11 @@
    "t": "justo, seu carro já sofreu então fala com autoridade",
    "p": "discorda",
    "r": 0
+  },
+  {
+   "t": "pelo menos a vergonha sai mais em conta kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6193,13 +6194,6 @@
   }
  ],
  "aberturas_post": {
-  "18088627868316590": [
-   "esse audio vinha",
-   "ousadia e alegria",
-   "ah entao ja",
-   "essa eu nao",
-   "universo paralelo mas"
-  ],
   "18094337621212236": [
    "viagem curta da",
    "regra justa dono",
@@ -6463,6 +6457,9 @@
    "oi linda",
    "pacote completo e",
    "verdade pagar condominio"
+  ],
+  "18119258228009395": [
+   "pelo menos a"
   ]
  },
  "shopee_checada": "2026-11-10|1",
