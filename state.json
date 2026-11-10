@@ -33,10 +33,11 @@
    "14:49",
    "15:55",
    "17:28",
-   "18:34"
+   "18:34",
+   "19:48"
   ],
   "produtos_feitos": 0,
-  "respostas": 73,
+  "respostas": 75,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
@@ -50,29 +51,11 @@
    "18168780994485568": 3,
    "17922262281453470": 13,
    "18122952722291296": 5,
-   "18352395226269773": 6,
+   "18352395226269773": 8,
    "18100291571670800": 1
   }
  },
  "posts": [
-  {
-   "id": "17912408370309490",
-   "insp": "875bf2eafc",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: depois dos 30, qual parte do corpo foi a primeira a reclamar de verdade? A minha foi a lombar no dia seguinte a qualquer faxina. Qual foi a sua?",
-   "quando": "2026-11-04T21:07:08.825734-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1006,
-    "likes": 13,
-    "replies": 38,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-09"
-   },
-   "viral_chk": "2026-11-05T07:07:09.689824-04:00"
-  },
   {
    "id": "18119319922812758",
    "insp": "5a9e2b25eb",
@@ -1092,11 +1075,17 @@
    "texto": "SEJAM SINCEROS: qual lanche vocês escondem no armário para ninguém comer?",
    "quando": "2026-11-09T18:37:08.294952-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18134045356776215",
+   "insp": "482ab880e4",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: grupo de família no WhatsApp é silenciado para sempre ou vocês ainda abrem para ver o caos?",
+   "quando": "2026-11-09T20:07:08.663711-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17909468823505335",
-  "18097768532387147",
   "18143422051596098",
   "18070863575761700",
   "18058889867552238",
@@ -4094,10 +4083,11 @@
   "18019075175958415",
   "18501356206096649",
   "18115419920111361",
-  "18109078496342096"
+  "18109078496342096",
+  "18122007941056584",
+  "18078833558445132"
  ],
  "hashes": [
-  "9d193556a403a90bd80be7a3563a281a",
   "a9e0e11bfdc4889a94635a8e1167d644",
   "827ad6eb8f7070f66d8326c513d2b51f",
   "356822b744eb47391ae2c0c666ee23db",
@@ -4296,7 +4286,8 @@
   "e37a8800614c5096bae2c63e0d2ce755",
   "911a680118913ef6a7c8b291ed9fdd92",
   "564f8ff3c2e789286aa9119c2f273e06",
-  "a9af82aab64156013a0958dc497d3817"
+  "a9af82aab64156013a0958dc497d3817",
+  "cea5931d51d05082eccd97f38186fa33"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4699,7 +4690,8 @@
   "bcecb54c92": 1794251287.6864467,
   "8914f039e6": 1794254891.8294091,
   "90d676888d": 1794260296.5456269,
-  "e968b60bcc": 1794263891.4078858
+  "e968b60bcc": 1794263891.4078858,
+  "482ab880e4": 1794269287.5389795
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4770,20 +4762,12 @@
   "0bd4e503a6": 1,
   "4d50bf55b6": 1,
   "68d1afc522": 1,
-  "24d01baa15": 1
+  "24d01baa15": 1,
+  "5a4f6559c6": 1,
+  "5e43edb048": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "cinco anos é recorde, demorou mas pegou o sinal",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "estratégia clássica para manter a postura de pessoa ocupada",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse detalhe de não guardar chule vale muito kkk",
    "p": "concorda",
@@ -4923,6 +4907,16 @@
    "t": "exato, fica aquele ciclo de ninguém saber de nada mas todo mundo balancando a cabeça",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "essa é a única vantagem real de ter a casa inteira só para você",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse aí dura nem duas horas no esconderijo kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6457,7 +6451,9 @@
    "morango e bom",
    "vantagem de morar",
    "esse lanche ai",
-   "esse estoque ai"
+   "esse estoque ai",
+   "essa e a",
+   "esse ai dura"
   ],
   "18100291571670800": [
    "vida de torcedor"
