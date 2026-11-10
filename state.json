@@ -25,7 +25,7 @@
    "16:50"
   ],
   "produtos_feitos": 0,
-  "respostas": 53,
+  "respostas": 55,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -39,7 +39,7 @@
    "17956439277273218": 2,
    "18358811470223070": 12,
    "18126776548905390": 1,
-   "18063738524658947": 6
+   "18063738524658947": 8
   }
  },
  "posts": [
@@ -1096,8 +1096,6 @@
   }
  ],
  "respondidos": [
-  "18393841756164184",
-  "18132396799739336",
   "18117552721996752",
   "18633362671053593",
   "18129393598823667",
@@ -4095,7 +4093,9 @@
   "18119186989823334",
   "18196196902401623",
   "18136737430678696",
-  "18124483727299485"
+  "18124483727299485",
+  "18644521468062950",
+  "18174966055460918"
  ],
  "hashes": [
   "5610841c3783dc62dfe9fa683279d000",
@@ -4763,20 +4763,12 @@
   "6fa786e057": 1,
   "04d4f77188": 1,
   "96b6e381bf": 1,
-  "53cb0e809d": 1
+  "53cb0e809d": 1,
+  "d8371d1ec4": 1,
+  "bd1b879527": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "nunca tive um, mas pela logica do post deve ser boa opção",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "corsinha raiz e muito amor envolvido com ajuste constante kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "esse aí já passou por tanta coisa que nem sabe o que e oficina kkk",
    "p": "concorda",
@@ -4916,6 +4908,16 @@
    "t": "o boleto do encontro duplo chegando kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "fica meio esquecida no mapa mas tem um visual lindo",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "lugar bonito que pouca gente lembra quando monta roteiro",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6432,7 +6434,9 @@
    "asco entra na",
    "verdade o interior",
    "agora fiquei curiosa",
-   "ja entraram direto"
+   "ja entraram direto",
+   "fica meio esquecida",
+   "lugar bonito que"
   ]
  },
  "shopee_checada": "2026-11-10|1",
