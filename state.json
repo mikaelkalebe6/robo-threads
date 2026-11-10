@@ -19,10 +19,11 @@
   "feitos": [
    "08:24",
    "10:11",
-   "11:05"
+   "11:05",
+   "12:08"
   ],
   "produtos_feitos": 0,
-  "respostas": 32,
+  "respostas": 33,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -33,42 +34,10 @@
    "17967758891983415": 1,
    "18132673849887493": 1,
    "18119258228009395": 1,
-   "17956439277273218": 1
+   "17956439277273218": 2
   }
  },
  "posts": [
-  {
-   "id": "18104910911374902",
-   "insp": "prod_48514950250",
-   "link": "",
-   "texto": "Cercas e reparos em casa dão um trabalho danado, né? Descobri esse fio de nylon reforçado para tralhas e consertos rápidos que resolveu minha vida no quintal, olha como funciona 👀",
-   "quando": "2026-11-05T16:37:09.932641-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "48514950250",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "48514950250",
-    "nome": "Fio de Nylon 100mt 0,20/0,25/0,30/0,35/0,40/0,45/0,50/0,60/0,70/0,80/0,90/1,00 Linha de Pesca e Artesanato",
-    "offerLink": "https://s.shopee.com.br/20wmpHMy0v",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mrfwoqn3rqx273",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 247,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-10"
-   },
-   "link_coment": "https://s.shopee.com.br/20wmpHMy0v",
-   "link_em": "2026-11-06T10:37:10.294929-04:00",
-   "link_views": 0
-  },
   {
    "id": "18403612900201661",
    "insp": "4a3ce15183",
@@ -1129,10 +1098,17 @@
    "texto": "ME CONTA: qual foi a cantada mais horrível que acabou funcionando com você?",
    "quando": "2026-11-10T11:07:08.515152-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18358811470223070",
+   "insp": "95a127f43f",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: no primeiro encontro quem convida paga a conta e ponto final",
+   "quando": "2026-11-10T12:37:09.381995-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17969758461160793",
   "18596657092071096",
   "17898720516604964",
   "18196748425382239",
@@ -4131,10 +4107,10 @@
   "17911318149575334",
   "18125802970900149",
   "18574041400074511",
-  "18468065023191455"
+  "18468065023191455",
+  "18199661896389274"
  ],
  "hashes": [
-  "604b0ac5e3c9df7f19294fc9880345c8",
   "2169f8993f3d42c52902dd5e4c1c2c11",
   "d3f88777b56fc8f1281304d7b45e4928",
   "5610841c3783dc62dfe9fa683279d000",
@@ -4333,7 +4309,8 @@
   "8588410cdf4204e34ef668e60c8fbdac",
   "caa8a288d92f15b09e53d9600da934f9",
   "1ab8dfb5aa92f53340fe0cfdc0f6ca4e",
-  "af61da327e90caa5e9d542a22aaaee51"
+  "af61da327e90caa5e9d542a22aaaee51",
+  "2c1a24d88e35b2274d943159e207c783"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4742,7 +4719,8 @@
   "7f63cfaf2e": 1794276496.9818194,
   "e287619658": 1794314284.9861703,
   "0c1b7902c1": 1794321451.8171608,
-  "d9aa630945": 1794323247.1317086
+  "d9aa630945": 1794323247.1317086,
+  "95a127f43f": 1794328649.6362257
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4777,15 +4755,11 @@
   "5d64edbe31": 1,
   "65f559ae5a": 1,
   "78e7711007": 1,
-  "4edd631b3d": 1
+  "4edd631b3d": 1,
+  "fddbcb2aec": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "ah, então todo mundo tem um cofre secreto kkkkk 😅",
-   "p": "neutra",
-   "r": 2
-  },
   {
    "t": "a paz mental vale cada centavo menos",
    "p": "concorda",
@@ -4928,6 +4902,11 @@
   },
   {
    "t": "Verdade ainda não experimentei mas acho que o sensor ainda grita mais kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "medo desse método de conquista kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6458,7 +6437,8 @@
    "pelo menos a"
   ],
   "17956439277273218": [
-   "poxa ainda nao"
+   "poxa ainda nao",
+   "medo desse metodo"
   ]
  },
  "shopee_checada": "2026-11-10|1",
