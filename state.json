@@ -20,14 +20,14 @@
    "08:24"
   ],
   "produtos_feitos": 0,
-  "respostas": 26,
+  "respostas": 27,
   "por_post": {
    "17912449200577226": 3,
    "18111119075264289": 1,
    "18352395226269773": 3,
    "18171642805469752": 1,
    "18100291571670800": 1,
-   "18021151787740470": 15,
+   "18021151787740470": 16,
    "17967758891983415": 1,
    "18132673849887493": 1
   }
@@ -1146,7 +1146,6 @@
   }
  ],
  "respondidos": [
-  "17936135334390900",
   "18103343180168928",
   "17923244829433461",
   "17903495787571555",
@@ -4145,7 +4144,8 @@
   "18122237479767730",
   "18152364325480683",
   "18157004899523736",
-  "18125110816981079"
+  "18125110816981079",
+  "18470999629188828"
  ],
  "hashes": [
   "4a01239961b01df8659ab700d1eb0632",
@@ -4784,15 +4784,11 @@
   "fc20245ee4": 1,
   "d3ca92eee3": 1,
   "5d50328e4c": 1,
-  "6efc7bc933": 1
+  "6efc7bc933": 1,
+  "6eff4e93d5": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "kkk, se eu ganhar a Copa ele vai lembrar até o meu aniversário",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "a memória seletiva não perdoa ninguém",
    "p": "neutra",
@@ -4936,6 +4932,11 @@
   {
    "t": "esse aí já passou por tanta coisa que nem sabe o que e oficina kkk",
    "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "duvidar da mecânica raiz é fácil até o painel virar uma árvore de natal kkk",
+   "p": null,
    "r": 1
   }
  ],
@@ -6374,7 +6375,6 @@
    "discordar com firmeza"
   ],
   "18021151787740470": [
-   "kadett classico tem",
    "verdade o historico",
    "justo na placa",
    "chama ele pra",
@@ -6393,7 +6393,8 @@
    "sorte grande sua",
    "nunca tive um",
    "corsinha raiz e",
-   "esse ai ja"
+   "esse ai ja",
+   "duvidar da mecanica"
   ],
   "18171642805469752": [
    "criou a profissao",
