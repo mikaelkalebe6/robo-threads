@@ -25,7 +25,7 @@
    "16:50"
   ],
   "produtos_feitos": 0,
-  "respostas": 46,
+  "respostas": 51,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -38,7 +38,8 @@
    "18119258228009395": 1,
    "17956439277273218": 2,
    "18358811470223070": 11,
-   "18126776548905390": 1
+   "18126776548905390": 1,
+   "18063738524658947": 5
   }
  },
  "posts": [
@@ -1095,11 +1096,6 @@
   }
  ],
  "respondidos": [
-  "18015386717957122",
-  "17893067577432932",
-  "17950080636320748",
-  "18335358103277175",
-  "17990525577099377",
   "17875320174635857",
   "18113740472106207",
   "18393841756164184",
@@ -4094,7 +4090,12 @@
   "18101622131540139",
   "18349776418280029",
   "18099390353428659",
-  "18116899883142610"
+  "18116899883142610",
+  "17917570944496930",
+  "18114959948145011",
+  "18163572880500924",
+  "18119186989823334",
+  "18196196902401623"
  ],
  "hashes": [
   "5610841c3783dc62dfe9fa683279d000",
@@ -4755,35 +4756,15 @@
   "82e0cc8b30": 1,
   "a118013d7b": 1,
   "7a4a6c98d2": 1,
-  "f439d3cc21": 1
+  "f439d3cc21": 1,
+  "6948ab151e": 1,
+  "f4f5f78b76": 1,
+  "9c37c1b06e": 1,
+  "6fa786e057": 1,
+  "04d4f77188": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, carro antigo ainda supera elétrico em dor de cabeça kkk 🙏🏼",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "exato, mas tem uns detalhes que mudam o jogo 🤔",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sim, tem modelo que testa a paciência de qualquer um kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "100% fato, o sensor apita até se passar uma mosca perto kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "dezesseis anos de muita história rodada",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Entendo, Passat 2016 bem cuidado ainda rende menos dor de cabeça que esses lançamentos cheios de sensor kkk",
    "p": "concorda",
@@ -4906,6 +4887,31 @@
   },
   {
    "t": "regra prática que evita qualquer mal entendido",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "muita gente esquece que o sertão tem praia linda assim",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa cidade tem um charme que pouca gente percebe de primeira",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "asco entra na lista pela fama ou tem algum canto escondido bom lá",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "verdade, o interior costuma guardar lugares bem mais interessantes que o litoral",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "agora fiquei curiosa para saber o que tem de bom por lá",
    "p": "concorda",
    "r": 0
   }
@@ -6175,22 +6181,6 @@
   }
  ],
  "aberturas_post": {
-  "18139699534731715": [
-   "quem tem alianca",
-   "parece absurdo mas",
-   "chocante mas real",
-   "solta o nome",
-   "esse investimento todo",
-   "pesou a mao",
-   "elas vao na",
-   "essa reacao e",
-   "desvantagem enorme pra",
-   "perigosa mas cheia",
-   "assusta mas a",
-   "concordo total o",
-   "pesou bastante no",
-   "seguranca muda tudo"
-  ],
   "18134330512806965": [
    "ja desiste antes",
    "descobriram meu nome",
@@ -6432,6 +6422,13 @@
   ],
   "18126776548905390": [
    "e o campinho"
+  ],
+  "18063738524658947": [
+   "muita gente esquece",
+   "essa cidade tem",
+   "asco entra na",
+   "verdade o interior",
+   "agora fiquei curiosa"
   ]
  },
  "shopee_checada": "2026-11-10|1",
