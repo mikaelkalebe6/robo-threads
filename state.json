@@ -17,39 +17,23 @@
    "18:51"
   ],
   "feitos": [
-   "08:24"
+   "08:24",
+   "10:11"
   ],
   "produtos_feitos": 0,
-  "respostas": 27,
+  "respostas": 29,
   "por_post": {
-   "17912449200577226": 3,
+   "17912449200577226": 4,
    "18111119075264289": 1,
    "18352395226269773": 3,
    "18171642805469752": 1,
    "18100291571670800": 1,
-   "18021151787740470": 16,
+   "18021151787740470": 17,
    "17967758891983415": 1,
    "18132673849887493": 1
   }
  },
  "posts": [
-  {
-   "id": "17910659949573164",
-   "insp": "69ff1de9c3",
-   "link": "",
-   "texto": "SEJAM SINCEROS: já vi bolo de unicórnio de 3 m, mas a festa que superou tudo foi um parque temático alugado inteiro. E vocês, qual foi a celebração infantil mais cara que já viram?",
-   "quando": "2026-11-05T12:37:09.088496-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 526,
-    "likes": 0,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-10"
-   }
-  },
   {
    "id": "18150633781483522",
    "insp": "79dfd69787",
@@ -1143,11 +1127,17 @@
    "texto": "OPINIÃO IMPOPULAR: a ficha de que a gente virou nossos pais não cai com um grande acontecimento, cai no dia em que você pega o carro para ir ao mercado ouvindo a mesma rádio que eles escutavam e ainda reclama do preço do tomate.",
    "quando": "2026-11-10T08:37:08.340756-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18119258228009395",
+   "insp": "0c1b7902c1",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: usar suporte na cabeça pra gravar vídeos é a vergonha mais real que já passei, mas o resultado valeu a pena.",
+   "quando": "2026-11-10T10:37:09.937738-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
-  "18103343180168928",
-  "17923244829433461",
   "17903495787571555",
   "18010697483971959",
   "17969338650179463",
@@ -4145,10 +4135,11 @@
   "18152364325480683",
   "18157004899523736",
   "18125110816981079",
-  "18470999629188828"
+  "18470999629188828",
+  "18099145706449068",
+  "17911318149575334"
  ],
  "hashes": [
-  "4a01239961b01df8659ab700d1eb0632",
   "d29bfa669a67701432f1ea2211fa3dab",
   "604b0ac5e3c9df7f19294fc9880345c8",
   "2169f8993f3d42c52902dd5e4c1c2c11",
@@ -4347,7 +4338,8 @@
   "cea5931d51d05082eccd97f38186fa33",
   "15d876db2b9ac9511fdb71bef2e10436",
   "8588410cdf4204e34ef668e60c8fbdac",
-  "caa8a288d92f15b09e53d9600da934f9"
+  "caa8a288d92f15b09e53d9600da934f9",
+  "1ab8dfb5aa92f53340fe0cfdc0f6ca4e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4754,7 +4746,8 @@
   "482ab880e4": 1794269287.5389795,
   "90498c5f32": 1794271044.077261,
   "7f63cfaf2e": 1794276496.9818194,
-  "e287619658": 1794314284.9861703
+  "e287619658": 1794314284.9861703,
+  "0c1b7902c1": 1794321451.8171608
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4785,20 +4778,12 @@
   "d3ca92eee3": 1,
   "5d50328e4c": 1,
   "6efc7bc933": 1,
-  "6eff4e93d5": 1
+  "6eff4e93d5": 1,
+  "5d64edbe31": 1,
+  "65f559ae5a": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "a memória seletiva não perdoa ninguém",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "Quatrocentos parece justo, ainda mais se o tênis dura até a sola sumir kkk 😊",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "arquivado para garantir a paz mental de cada dia",
    "p": "concorda",
@@ -4938,6 +4923,16 @@
    "t": "duvidar da mecânica raiz é fácil até o painel virar uma árvore de natal kkk",
    "p": null,
    "r": 1
+  },
+  {
+   "t": "Kkkkk, verdade, pagar condomínio assim é quase um empréstimo vitalício",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "justo, seu carro já sofreu então fala com autoridade",
+   "p": "discorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6375,7 +6370,6 @@
    "discordar com firmeza"
   ],
   "18021151787740470": [
-   "verdade o historico",
    "justo na placa",
    "chama ele pra",
    "paz de espirito",
@@ -6394,7 +6388,8 @@
    "nunca tive um",
    "corsinha raiz e",
    "esse ai ja",
-   "duvidar da mecanica"
+   "duvidar da mecanica",
+   "justo seu carro"
   ],
   "18171642805469752": [
    "criou a profissao",
@@ -6473,7 +6468,8 @@
   "17912449200577226": [
    "verdade nada como",
    "oi linda",
-   "pacote completo e"
+   "pacote completo e",
+   "verdade pagar condominio"
   ]
  },
  "shopee_checada": "2026-11-10|1",
