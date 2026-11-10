@@ -22,10 +22,11 @@
    "11:05",
    "12:08",
    "14:16",
-   "16:50"
+   "16:50",
+   "18:51"
   ],
   "produtos_feitos": 0,
-  "respostas": 55,
+  "respostas": 57,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -37,29 +38,12 @@
    "18132673849887493": 1,
    "18119258228009395": 1,
    "17956439277273218": 2,
-   "18358811470223070": 12,
-   "18126776548905390": 1,
+   "18358811470223070": 13,
+   "18126776548905390": 2,
    "18063738524658947": 8
   }
  },
  "posts": [
-  {
-   "id": "18231170866322932",
-   "insp": "a632d06d14",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: tirar o domingo de manhã pra dar um trato no carro é quase uma terapia.\n\nMas quero ver de que lado vocês estão:\n1. Lavar em casa ouvindo música\n2. Pagar no lava-jato e não ter dor de cabeça\n\nTem dia que a preguiça ganha fácil.",
-   "quando": "2026-11-05T19:37:08.093266-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 343,
-    "likes": 3,
-    "replies": 12,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-10"
-   }
-  },
   {
    "id": "18644066287059205",
    "insp": "7aa473ea47",
@@ -1093,11 +1077,17 @@
    "texto": "NINGUÉM FALA DISSO: qual foi a cidade mais subestimada que você já visitou e que quase ninguém dá nada por ela",
    "quando": "2026-11-10T17:07:09.426414-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17946950157401907",
+   "insp": "cc277cae04",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: ninguém abre o manual do carro por vontade própria, a gente só descobre pra que servem os botões quando acende aquela luz misteriosa no painel",
+   "quando": "2026-11-10T19:07:08.352963-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18117552721996752",
-  "18633362671053593",
   "18129393598823667",
   "18008551172969049",
   "18283085056292181",
@@ -4095,10 +4085,11 @@
   "18136737430678696",
   "18124483727299485",
   "18644521468062950",
-  "18174966055460918"
+  "18174966055460918",
+  "18093561308698165",
+  "17943001992391547"
  ],
  "hashes": [
-  "5610841c3783dc62dfe9fa683279d000",
   "a84887f2951cfea875d7a94b776510d5",
   "e653fb3d3a6e1c4381d9941e65c22b73",
   "d7375e12b9e3607584ff0e192408ea89",
@@ -4297,7 +4288,8 @@
   "af61da327e90caa5e9d542a22aaaee51",
   "2c1a24d88e35b2274d943159e207c783",
   "cf11503ff14b3d504b47d72076f422f8",
-  "29b7e526f1c57da8e202935c46a407d5"
+  "29b7e526f1c57da8e202935c46a407d5",
+  "18e7b17b8f4af3de8e2a7b3029e1f684"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4707,7 +4699,8 @@
   "d9aa630945": 1794323247.1317086,
   "95a127f43f": 1794328649.6362257,
   "f9bb6059fa": 1794335890.9586565,
-  "cd232d0d3c": 1794344888.8127327
+  "cd232d0d3c": 1794344888.8127327,
+  "cc277cae04": 1794352051.0826151
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4765,20 +4758,12 @@
   "96b6e381bf": 1,
   "53cb0e809d": 1,
   "d8371d1ec4": 1,
-  "bd1b879527": 1
+  "bd1b879527": 1,
+  "8bb9e8e627": 1,
+  "456641110a": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "esse aí já passou por tanta coisa que nem sabe o que e oficina kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "duvidar da mecânica raiz é fácil até o painel virar uma árvore de natal kkk",
-   "p": null,
-   "r": 1
-  },
   {
    "t": "Kkkkk, verdade, pagar condomínio assim é quase um empréstimo vitalício",
    "p": "concorda",
@@ -4918,6 +4903,16 @@
    "t": "lugar bonito que pouca gente lembra quando monta roteiro",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "Verdade, a várzea tem histórias que a série B nem imagina 😂",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "kkk, quem sabe um dia a gente troca essa regra",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6423,10 +6418,12 @@
    "parece que a",
    "pelo menos alinhado",
    "regra pratica que",
-   "o boleto do"
+   "o boleto do",
+   "quem sabe um"
   ],
   "18126776548905390": [
-   "e o campinho"
+   "e o campinho",
+   "verdade a varzea"
   ],
   "18063738524658947": [
    "muita gente esquece",
