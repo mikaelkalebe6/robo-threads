@@ -20,10 +20,11 @@
    "08:24",
    "10:11",
    "11:05",
-   "12:08"
+   "12:08",
+   "14:16"
   ],
   "produtos_feitos": 0,
-  "respostas": 41,
+  "respostas": 42,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -35,27 +36,10 @@
    "18132673849887493": 1,
    "18119258228009395": 1,
    "17956439277273218": 2,
-   "18358811470223070": 7
+   "18358811470223070": 8
   }
  },
  "posts": [
-  {
-   "id": "18403612900201661",
-   "insp": "4a3ce15183",
-   "link": "",
-   "texto": "SEJAM SINCEROS: vocês também dão aquela geral na casa só para a faxineira não achar que vocês são bagunceiros?",
-   "quando": "2026-11-05T17:07:09.231768-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 473,
-    "likes": 12,
-    "replies": 23,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-10"
-   }
-  },
   {
    "id": "18038563889848377",
    "insp": "91a0024949",
@@ -1107,10 +1091,17 @@
    "texto": "OPINIÃO IMPOPULAR: no primeiro encontro quem convida paga a conta e ponto final",
    "quando": "2026-11-10T12:37:09.381995-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18126776548905390",
+   "insp": "f9bb6059fa",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: quem acha que futebol de várzea é só chute pra frente nunca passou um domingo de sol na beira do campinho.",
+   "quando": "2026-11-10T14:37:11.428242-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18033522764896524",
   "18126323137845419",
   "18562534888073216",
   "17975750187152199",
@@ -4109,10 +4100,10 @@
   "17931218511181648",
   "18649200943001149",
   "17887910151505311",
-  "18079382549773846"
+  "18079382549773846",
+  "18141315151629437"
  ],
  "hashes": [
-  "2169f8993f3d42c52902dd5e4c1c2c11",
   "d3f88777b56fc8f1281304d7b45e4928",
   "5610841c3783dc62dfe9fa683279d000",
   "a84887f2951cfea875d7a94b776510d5",
@@ -4311,7 +4302,8 @@
   "caa8a288d92f15b09e53d9600da934f9",
   "1ab8dfb5aa92f53340fe0cfdc0f6ca4e",
   "af61da327e90caa5e9d542a22aaaee51",
-  "2c1a24d88e35b2274d943159e207c783"
+  "2c1a24d88e35b2274d943159e207c783",
+  "cf11503ff14b3d504b47d72076f422f8"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4538,7 +4530,6 @@
   "87c4f84770": 1792503448.3913825,
   "693cca0994": 1792526849.6093185,
   "179d442b7d": 1792541279.5371044,
-  "f9bb6059fa": 1792548447.969154,
   "bfb39abc85": 1792584447.8136292,
   "0b861e4943": 1792588055.3040116,
   "211ca1e405": 1792597051.3653948,
@@ -4721,7 +4712,8 @@
   "e287619658": 1794314284.9861703,
   "0c1b7902c1": 1794321451.8171608,
   "d9aa630945": 1794323247.1317086,
-  "95a127f43f": 1794328649.6362257
+  "95a127f43f": 1794328649.6362257,
+  "f9bb6059fa": 1794335890.9586565
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4765,15 +4757,11 @@
   "26f8005282": 1,
   "a6ae7fdd02": 1,
   "fd2f9801dc": 1,
-  "1eb4ad9c86": 1
+  "1eb4ad9c86": 1,
+  "3e35bd7606": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "depende, mas a escolha é mais sobre vibe que tecnologia 😄",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "discordar com firmeza para o mecanico achar que vc entende tudo kkk",
    "p": "concorda",
@@ -4918,6 +4906,11 @@
    "t": "Entendo, vc já tá na frente kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "salário chorando na conta e a pessoa quer rachar",
+   "p": "discorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6444,7 +6437,8 @@
    "tradicao pesada essa",
    "entao esta combinado",
    "exato mas as",
-   "entendo vc ja"
+   "entendo vc ja",
+   "salario chorando na"
   ]
  },
  "shopee_checada": "2026-11-10|1",
