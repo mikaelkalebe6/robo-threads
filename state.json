@@ -24,7 +24,7 @@
    "14:16"
   ],
   "produtos_feitos": 0,
-  "respostas": 45,
+  "respostas": 46,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -36,7 +36,7 @@
    "18132673849887493": 1,
    "18119258228009395": 1,
    "17956439277273218": 2,
-   "18358811470223070": 10,
+   "18358811470223070": 11,
    "18126776548905390": 1
   }
  },
@@ -1103,7 +1103,6 @@
   }
  ],
  "respondidos": [
-  "18025139117916793",
   "18015386717957122",
   "17893067577432932",
   "17950080636320748",
@@ -4102,7 +4101,8 @@
   "18141315151629437",
   "18101622131540139",
   "18349776418280029",
-  "18099390353428659"
+  "18099390353428659",
+  "18116899883142610"
  ],
  "hashes": [
   "d3f88777b56fc8f1281304d7b45e4928",
@@ -4762,15 +4762,11 @@
   "3e35bd7606": 1,
   "82e0cc8b30": 1,
   "a118013d7b": 1,
-  "7a4a6c98d2": 1
+  "7a4a6c98d2": 1,
+  "f439d3cc21": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "cruel com a celtinha, mas merecido essa paz do hb20",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "Verdade, carro antigo ainda supera elétrico em dor de cabeça kkk 🙏🏼",
    "p": "concorda",
@@ -4913,6 +4909,11 @@
   },
   {
    "t": "pelo menos alinhado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "regra prática que evita qualquer mal entendido",
    "p": "concorda",
    "r": 0
   }
@@ -6434,7 +6435,8 @@
    "entendo vc ja",
    "salario chorando na",
    "parece que a",
-   "pelo menos alinhado"
+   "pelo menos alinhado",
+   "regra pratica que"
   ],
   "18126776548905390": [
    "e o campinho"
