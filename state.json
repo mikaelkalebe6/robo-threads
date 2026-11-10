@@ -18,15 +18,16 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 18,
   "por_post": {
-   "17912449200577226": 2,
+   "17912449200577226": 3,
    "18111119075264289": 1,
    "18352395226269773": 3,
    "18171642805469752": 1,
    "18100291571670800": 1,
-   "18021151787740470": 3,
-   "17967758891983415": 1
+   "18021151787740470": 7,
+   "17967758891983415": 1,
+   "18132673849887493": 1
   }
  },
  "posts": [
@@ -1167,12 +1168,6 @@
   }
  ],
  "respondidos": [
-  "18144705763602526",
-  "18632748547042451",
-  "18123762965479515",
-  "18025953929862445",
-  "18104996060111269",
-  "18137755465724430",
   "18116641817080521",
   "17978073758920920",
   "18340743874261306",
@@ -4166,7 +4161,13 @@
   "17917852392509091",
   "18133790683826939",
   "18114423026189816",
-  "18114682808622363"
+  "18114682808622363",
+  "18117853016465400",
+  "17954710281302470",
+  "17904178593606046",
+  "18164366695530789",
+  "17927814564202702",
+  "18099794879548039"
  ],
  "hashes": [
   "356822b744eb47391ae2c0c666ee23db",
@@ -4790,40 +4791,16 @@
   "1674813934": 1,
   "c764619f34": 1,
   "8dec9966e6": 1,
-  "32d6f565cb": 1
+  "32d6f565cb": 1,
+  "9f128849a8": 1,
+  "9c9ed7acc0": 1,
+  "f2a4c703f2": 1,
+  "8e0b418e27": 1,
+  "9061cf472c": 1,
+  "8c3d245b19": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "vantagem de morar só é poder espalhar a comida pela casa toda kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse lanche aí cai duro antes de chegar no armário kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "vida de torcedor não é para os fracos mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "confessou o crime sem precisar de tortura kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse estoque aí é perigoso de guardar no armário kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "exato, fica aquele ciclo de ninguém saber de nada mas todo mundo balancando a cabeça",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "essa é a única vantagem real de ter a casa inteira só para você",
    "p": "concorda",
@@ -4942,6 +4919,36 @@
   {
    "t": "depende, mas a escolha é mais sobre vibe que tecnologia 😄",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "discordar com firmeza para o mecanico achar que vc entende tudo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pacote completo e ainda quer tempo para limpar tudo isso",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkk então tá tudo certo, né?",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "cruel com a celtinha, mas merecido essa paz do hb20",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "Verdade, carro antigo ainda supera elétrico em dor de cabeça kkk 🙏🏼",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "exato, mas tem uns detalhes que mudam o jogo 🤔",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6376,13 +6383,10 @@
    "e rezar pra",
    "exato cada servico",
    "pior que a",
-   "exato fica aquele"
+   "exato fica aquele",
+   "discordar com firmeza"
   ],
   "18021151787740470": [
-   "duas reliquias que",
-   "criam defeito de",
-   "haja paciencia para",
-   "quem viveu a",
    "fabricavam com foco",
    "experiencia de quem",
    "motor ap bem",
@@ -6398,7 +6402,11 @@
    "paz de espirito",
    "to com voce",
    "pov carro antigo",
-   "depende mas a"
+   "depende mas a",
+   "entao ta tudo",
+   "cruel com a",
+   "verdade carro antigo",
+   "exato mas tem"
   ],
   "18171642805469752": [
    "criou a profissao",
@@ -6476,7 +6484,8 @@
   ],
   "17912449200577226": [
    "verdade nada como",
-   "oi linda"
+   "oi linda",
+   "pacote completo e"
   ]
  },
  "shopee_checada": "2026-11-10|1",
