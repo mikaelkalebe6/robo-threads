@@ -21,7 +21,8 @@
    "10:11",
    "11:05",
    "12:08",
-   "14:16"
+   "14:16",
+   "16:50"
   ],
   "produtos_feitos": 0,
   "respostas": 46,
@@ -41,23 +42,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18038563889848377",
-   "insp": "91a0024949",
-   "link": "",
-   "texto": "SEJAM SINCEROS: quando o parceiro checa seu celular sem avisar, isso é invasão ou preocupação legítima? 🤔",
-   "quando": "2026-11-05T18:37:08.301304-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 209,
-    "likes": 1,
-    "replies": 13,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-10"
-   }
-  },
   {
    "id": "18231170866322932",
    "insp": "a632d06d14",
@@ -1099,6 +1083,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: quem acha que futebol de várzea é só chute pra frente nunca passou um domingo de sol na beira do campinho.",
    "quando": "2026-11-10T14:37:11.428242-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18063738524658947",
+   "insp": "cd232d0d3c",
+   "link": "",
+   "texto": "NINGUÉM FALA DISSO: qual foi a cidade mais subestimada que você já visitou e que quase ninguém dá nada por ela",
+   "quando": "2026-11-10T17:07:09.426414-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4105,7 +4097,6 @@
   "18116899883142610"
  ],
  "hashes": [
-  "d3f88777b56fc8f1281304d7b45e4928",
   "5610841c3783dc62dfe9fa683279d000",
   "a84887f2951cfea875d7a94b776510d5",
   "e653fb3d3a6e1c4381d9941e65c22b73",
@@ -4304,7 +4295,8 @@
   "1ab8dfb5aa92f53340fe0cfdc0f6ca4e",
   "af61da327e90caa5e9d542a22aaaee51",
   "2c1a24d88e35b2274d943159e207c783",
-  "cf11503ff14b3d504b47d72076f422f8"
+  "cf11503ff14b3d504b47d72076f422f8",
+  "29b7e526f1c57da8e202935c46a407d5"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4320,7 +4312,6 @@
   "08c5fced1d": 1790687276.4493108,
   "4c34f415ce": 1790690916.9672582,
   "c71e576931": 1790696301.2662683,
-  "cd232d0d3c": 1790702799.9300892,
   "fb72b5075b": 1790705255.8349135,
   "0445902113": 1790716045.8918386,
   "573ba90908": 1790725049.010326,
@@ -4714,7 +4705,8 @@
   "0c1b7902c1": 1794321451.8171608,
   "d9aa630945": 1794323247.1317086,
   "95a127f43f": 1794328649.6362257,
-  "f9bb6059fa": 1794335890.9586565
+  "f9bb6059fa": 1794335890.9586565,
+  "cd232d0d3c": 1794344888.8127327
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
