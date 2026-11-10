@@ -25,7 +25,7 @@
    "16:50"
   ],
   "produtos_feitos": 0,
-  "respostas": 51,
+  "respostas": 53,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -37,9 +37,9 @@
    "18132673849887493": 1,
    "18119258228009395": 1,
    "17956439277273218": 2,
-   "18358811470223070": 11,
+   "18358811470223070": 12,
    "18126776548905390": 1,
-   "18063738524658947": 5
+   "18063738524658947": 6
   }
  },
  "posts": [
@@ -1096,8 +1096,6 @@
   }
  ],
  "respondidos": [
-  "17875320174635857",
-  "18113740472106207",
   "18393841756164184",
   "18132396799739336",
   "18117552721996752",
@@ -4095,7 +4093,9 @@
   "18114959948145011",
   "18163572880500924",
   "18119186989823334",
-  "18196196902401623"
+  "18196196902401623",
+  "18136737430678696",
+  "18124483727299485"
  ],
  "hashes": [
   "5610841c3783dc62dfe9fa683279d000",
@@ -4761,20 +4761,12 @@
   "f4f5f78b76": 1,
   "9c37c1b06e": 1,
   "6fa786e057": 1,
-  "04d4f77188": 1
+  "04d4f77188": 1,
+  "96b6e381bf": 1,
+  "53cb0e809d": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "Entendo, Passat 2016 bem cuidado ainda rende menos dor de cabeça que esses lançamentos cheios de sensor kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sorte grande sua, esses sensores me deixam maluca",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "nunca tive um, mas pela logica do post deve ser boa opção",
    "p": "neutra",
@@ -4914,6 +4906,16 @@
    "t": "agora fiquei curiosa para saber o que tem de bom por lá",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "já entraram direto na lista",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o boleto do encontro duplo chegando kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6418,7 +6420,8 @@
    "salario chorando na",
    "parece que a",
    "pelo menos alinhado",
-   "regra pratica que"
+   "regra pratica que",
+   "o boleto do"
   ],
   "18126776548905390": [
    "e o campinho"
@@ -6428,7 +6431,8 @@
    "essa cidade tem",
    "asco entra na",
    "verdade o interior",
-   "agora fiquei curiosa"
+   "agora fiquei curiosa",
+   "ja entraram direto"
   ]
  },
  "shopee_checada": "2026-11-10|1",
