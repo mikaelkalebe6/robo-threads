@@ -24,7 +24,7 @@
    "14:16"
   ],
   "produtos_feitos": 0,
-  "respostas": 43,
+  "respostas": 45,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -36,7 +36,7 @@
    "18132673849887493": 1,
    "18119258228009395": 1,
    "17956439277273218": 2,
-   "18358811470223070": 8,
+   "18358811470223070": 10,
    "18126776548905390": 1
   }
  },
@@ -1103,8 +1103,6 @@
   }
  ],
  "respondidos": [
-  "18562534888073216",
-  "17975750187152199",
   "18025139117916793",
   "18015386717957122",
   "17893067577432932",
@@ -4102,7 +4100,9 @@
   "17887910151505311",
   "18079382549773846",
   "18141315151629437",
-  "18101622131540139"
+  "18101622131540139",
+  "18349776418280029",
+  "18099390353428659"
  ],
  "hashes": [
   "d3f88777b56fc8f1281304d7b45e4928",
@@ -4760,20 +4760,12 @@
   "fd2f9801dc": 1,
   "1eb4ad9c86": 1,
   "3e35bd7606": 1,
-  "82e0cc8b30": 1
+  "82e0cc8b30": 1,
+  "a118013d7b": 1,
+  "7a4a6c98d2": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "pacote completo e ainda quer tempo para limpar tudo isso",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkk então tá tudo certo, né?",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "cruel com a celtinha, mas merecido essa paz do hb20",
    "p": "ressalva",
@@ -4912,6 +4904,16 @@
   {
    "t": "É o campinho da rua onde a gente jogava nos domingos de sol",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "parece que a regra antiga continua firme por lá",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos alinhado",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6430,7 +6432,9 @@
    "entao esta combinado",
    "exato mas as",
    "entendo vc ja",
-   "salario chorando na"
+   "salario chorando na",
+   "parece que a",
+   "pelo menos alinhado"
   ],
   "18126776548905390": [
    "e o campinho"
