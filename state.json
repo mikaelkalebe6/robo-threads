@@ -38,7 +38,7 @@
    "20:28"
   ],
   "produtos_feitos": 0,
-  "respostas": 76,
+  "respostas": 79,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
@@ -52,8 +52,9 @@
    "18168780994485568": 3,
    "17922262281453470": 13,
    "18122952722291296": 5,
-   "18352395226269773": 8,
-   "18100291571670800": 1
+   "18352395226269773": 9,
+   "18100291571670800": 1,
+   "18111119075264289": 2
   }
  },
  "posts": [
@@ -1077,9 +1078,6 @@
   }
  ],
  "respondidos": [
-  "18070863575761700",
-  "18058889867552238",
-  "18102752843291646",
   "18116422073046044",
   "18129352618633694",
   "18095839400444198",
@@ -4076,7 +4074,10 @@
   "18109078496342096",
   "18122007941056584",
   "18078833558445132",
-  "18096342515658888"
+  "18096342515658888",
+  "17949321666359501",
+  "17910100872578241",
+  "17994089559027264"
  ],
  "hashes": [
   "827ad6eb8f7070f66d8326c513d2b51f",
@@ -4757,25 +4758,13 @@
   "24d01baa15": 1,
   "5a4f6559c6": 1,
   "5e43edb048": 1,
-  "9e234b3f57": 1
+  "9e234b3f57": 1,
+  "096f66292d": 1,
+  "50b0459778": 1,
+  "572f4f77d5": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "Entendo, 300 parece razoável para não desgastar a sola kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "parcelado em seis vezes a alma até respira aliviada kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "8k vale o trânsito, né? kkk 😅",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "700 é o teto pra mim, acima disso o boleto chora",
    "p": "concorda",
@@ -4910,6 +4899,21 @@
    "t": "esse pelo menos tem desculpa histórica kkk",
    "p": "ressalva",
    "r": 1
+  },
+  {
+   "t": "puro risco mesmo, melhor nem perder tempo tentando entender",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sinal vermelho piscando antes da entrada kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quando todo mundo respeita o limite da geladeira fica bem mais fácil mesmo",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6172,28 +6176,6 @@
   }
  ],
  "aberturas_post": {
-  "18122196040984824": [
-   "brabo e o",
-   "ganhou outra moral",
-   "continuar firme na",
-   "fez o percurso",
-   "dupla dinamica da",
-   "merenda escolar vinha",
-   "cenoura cozida na",
-   "linguica exigiu maturidade",
-   "sopa passou de",
-   "essa dupla costumava",
-   "esse sim deu",
-   "o cardapio inteiro",
-   "figado exige um",
-   "jilo virou aliado",
-   "sorte grande nao",
-   "dupla dinamica que",
-   "macarrao ganha passe",
-   "classico todo mundo",
-   "essa lista inteira",
-   "cenoura cozida ganha"
-  ],
   "18078919208732779": [
    "esse modelo ai",
    "a preguica de",
@@ -6447,10 +6429,15 @@
    "esse lanche ai",
    "esse estoque ai",
    "essa e a",
-   "esse ai dura"
+   "esse ai dura",
+   "quando todo mundo"
   ],
   "18100291571670800": [
    "vida de torcedor"
+  ],
+  "18111119075264289": [
+   "puro risco mesmo",
+   "sinal vermelho piscando"
   ]
  },
  "shopee_checada": "2026-11-09|1",
