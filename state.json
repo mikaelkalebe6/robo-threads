@@ -39,7 +39,7 @@
    "21:50"
   ],
   "produtos_feitos": 0,
-  "respostas": 84,
+  "respostas": 85,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
@@ -55,7 +55,8 @@
    "18122952722291296": 5,
    "18352395226269773": 10,
    "18100291571670800": 1,
-   "18111119075264289": 3
+   "18111119075264289": 3,
+   "18134045356776215": 1
   }
  },
  "posts": [
@@ -1070,7 +1071,6 @@
   }
  ],
  "respondidos": [
-  "17911260453494527",
   "17955300477254954",
   "17950594137299212",
   "18087466856498824",
@@ -4069,7 +4069,8 @@
   "18029141726948236",
   "18083672270361127",
   "18118049456115906",
-  "17937383862409496"
+  "17937383862409496",
+  "18392433715238459"
  ],
  "hashes": [
   "356822b744eb47391ae2c0c666ee23db",
@@ -4759,15 +4760,11 @@
   "da16893a90": 1,
   "c7db02dc34": 1,
   "7eb5b77e08": 1,
-  "551cdd0c94": 1
+  "551cdd0c94": 1,
+  "4a37576ba0": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "valor justo para um companheiro de guerra",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse limite moral é bem defensável",
    "p": "concorda",
@@ -4912,6 +4909,11 @@
    "t": "Quatrocentos parece justo, ainda mais se o tênis dura até a sola sumir kkk 😊",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "arquivado para garantir a paz mental de cada dia",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6174,12 +6176,6 @@
   }
  ],
  "aberturas_post": {
-  "18078919208732779": [
-   "esse modelo ai",
-   "a preguica de",
-   "carro alto da",
-   "esse sim tem"
-  ],
   "17910631911572963": [
    "esse universo paralelo",
    "detetive do transporte",
@@ -6441,6 +6437,9 @@
    "puro risco mesmo",
    "sinal vermelho piscando",
    "pelo menos poupou"
+  ],
+  "18134045356776215": [
+   "arquivado para garantir"
   ]
  },
  "shopee_checada": "2026-11-09|1",
