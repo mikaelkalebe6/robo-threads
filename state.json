@@ -18,7 +18,8 @@
   ],
   "feitos": [
    "08:24",
-   "10:11"
+   "10:11",
+   "11:05"
   ],
   "produtos_feitos": 0,
   "respostas": 29,
@@ -34,23 +35,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18150633781483522",
-   "insp": "79dfd69787",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: quem trabalha com atendimento ao público aguenta cada absurdo que nem sei como o sangue não sobe",
-   "quando": "2026-11-05T14:07:09.112735-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 452,
-    "likes": 11,
-    "replies": 11,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-10"
-   }
-  },
   {
    "id": "18104910911374902",
    "insp": "prod_48514950250",
@@ -1135,6 +1119,14 @@
    "texto": "OPINIÃO IMPOPULAR: usar suporte na cabeça pra gravar vídeos é a vergonha mais real que já passei, mas o resultado valeu a pena.",
    "quando": "2026-11-10T10:37:09.937738-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "17956439277273218",
+   "insp": "d9aa630945",
+   "link": "",
+   "texto": "ME CONTA: qual foi a cantada mais horrível que acabou funcionando com você?",
+   "quando": "2026-11-10T11:07:08.515152-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4140,7 +4132,6 @@
   "17911318149575334"
  ],
  "hashes": [
-  "d29bfa669a67701432f1ea2211fa3dab",
   "604b0ac5e3c9df7f19294fc9880345c8",
   "2169f8993f3d42c52902dd5e4c1c2c11",
   "d3f88777b56fc8f1281304d7b45e4928",
@@ -4339,7 +4330,8 @@
   "15d876db2b9ac9511fdb71bef2e10436",
   "8588410cdf4204e34ef668e60c8fbdac",
   "caa8a288d92f15b09e53d9600da934f9",
-  "1ab8dfb5aa92f53340fe0cfdc0f6ca4e"
+  "1ab8dfb5aa92f53340fe0cfdc0f6ca4e",
+  "af61da327e90caa5e9d542a22aaaee51"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4747,7 +4739,8 @@
   "90498c5f32": 1794271044.077261,
   "7f63cfaf2e": 1794276496.9818194,
   "e287619658": 1794314284.9861703,
-  "0c1b7902c1": 1794321451.8171608
+  "0c1b7902c1": 1794321451.8171608,
+  "d9aa630945": 1794323247.1317086
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
