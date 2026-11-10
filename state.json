@@ -35,10 +35,11 @@
    "17:28",
    "18:34",
    "19:48",
-   "20:28"
+   "20:28",
+   "21:50"
   ],
   "produtos_feitos": 0,
-  "respostas": 79,
+  "respostas": 80,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
@@ -52,29 +53,12 @@
    "18168780994485568": 3,
    "17922262281453470": 13,
    "18122952722291296": 5,
-   "18352395226269773": 9,
+   "18352395226269773": 10,
    "18100291571670800": 1,
    "18111119075264289": 2
   }
  },
  "posts": [
-  {
-   "id": "18235105819323131",
-   "insp": "9f951d595e",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Essa história de que carro velho só dá trabalho é papo de quem tem preguiça de viver uma aventura de verdade. O perrengue na estrada vira a melhor história no bar depois.",
-   "quando": "2026-11-05T09:07:08.571223-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1239,
-    "likes": 35,
-    "replies": 26,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-09"
-   }
-  },
   {
    "id": "18053721194812738",
    "insp": "prod_14831203028",
@@ -1075,10 +1059,17 @@
    "texto": "ME CONTA: o date acabou com a pessoa falando mal do ex ou fazendo mil perguntas sobre quanto você ganha?",
    "quando": "2026-11-09T20:37:07.728136-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17912449200577226",
+   "insp": "7f63cfaf2e",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: quem mais viveu a fase de sonhar com a casa enorme de condomínio e hoje só quer um cantinho prático que não demore duas horas pra faxinar",
+   "quando": "2026-11-09T22:07:09.849874-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18116422073046044",
   "18129352618633694",
   "18095839400444198",
   "18114237644518436",
@@ -4077,10 +4068,10 @@
   "18096342515658888",
   "17949321666359501",
   "17910100872578241",
-  "17994089559027264"
+  "17994089559027264",
+  "17915295762492034"
  ],
  "hashes": [
-  "827ad6eb8f7070f66d8326c513d2b51f",
   "356822b744eb47391ae2c0c666ee23db",
   "4a01239961b01df8659ab700d1eb0632",
   "d29bfa669a67701432f1ea2211fa3dab",
@@ -4279,7 +4270,8 @@
   "564f8ff3c2e789286aa9119c2f273e06",
   "a9af82aab64156013a0958dc497d3817",
   "cea5931d51d05082eccd97f38186fa33",
-  "15d876db2b9ac9511fdb71bef2e10436"
+  "15d876db2b9ac9511fdb71bef2e10436",
+  "8588410cdf4204e34ef668e60c8fbdac"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4684,7 +4676,8 @@
   "90d676888d": 1794260296.5456269,
   "e968b60bcc": 1794263891.4078858,
   "482ab880e4": 1794269287.5389795,
-  "90498c5f32": 1794271044.077261
+  "90498c5f32": 1794271044.077261,
+  "7f63cfaf2e": 1794276496.9818194
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4761,15 +4754,11 @@
   "9e234b3f57": 1,
   "096f66292d": 1,
   "50b0459778": 1,
-  "572f4f77d5": 1
+  "572f4f77d5": 1,
+  "1804d05a35": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "700 é o teto pra mim, acima disso o boleto chora",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "kkkkk morri, o boleto chegou e a alma saiu junto 😭",
    "p": "concorda",
@@ -4914,6 +4903,11 @@
    "t": "quando todo mundo respeita o limite da geladeira fica bem mais fácil mesmo",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "proteger o chocotone do marido é uma missão de sobrevivência kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6430,7 +6424,8 @@
    "esse estoque ai",
    "essa e a",
    "esse ai dura",
-   "quando todo mundo"
+   "quando todo mundo",
+   "proteger o chocotone"
   ],
   "18100291571670800": [
    "vida de torcedor"
