@@ -24,7 +24,7 @@
    "14:16"
   ],
   "produtos_feitos": 0,
-  "respostas": 42,
+  "respostas": 43,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -36,7 +36,8 @@
    "18132673849887493": 1,
    "18119258228009395": 1,
    "17956439277273218": 2,
-   "18358811470223070": 8
+   "18358811470223070": 8,
+   "18126776548905390": 1
   }
  },
  "posts": [
@@ -1102,7 +1103,6 @@
   }
  ],
  "respondidos": [
-  "18126323137845419",
   "18562534888073216",
   "17975750187152199",
   "18025139117916793",
@@ -4101,7 +4101,8 @@
   "18649200943001149",
   "17887910151505311",
   "18079382549773846",
-  "18141315151629437"
+  "18141315151629437",
+  "18101622131540139"
  ],
  "hashes": [
   "d3f88777b56fc8f1281304d7b45e4928",
@@ -4758,15 +4759,11 @@
   "a6ae7fdd02": 1,
   "fd2f9801dc": 1,
   "1eb4ad9c86": 1,
-  "3e35bd7606": 1
+  "3e35bd7606": 1,
+  "82e0cc8b30": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "discordar com firmeza para o mecanico achar que vc entende tudo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "pacote completo e ainda quer tempo para limpar tudo isso",
    "p": "concorda",
@@ -4910,6 +4907,11 @@
   {
    "t": "salário chorando na conta e a pessoa quer rachar",
    "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "É o campinho da rua onde a gente jogava nos domingos de sol",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -6178,16 +6180,6 @@
   }
  ],
  "aberturas_post": {
-  "18116946094839551": [
-   "brasilia costuma ser",
-   "tomara que o",
-   "muita gente ainda",
-   "tomara mesmo porque",
-   "filtro excelente para",
-   "pescoco e rosto",
-   "verdade algumas areas",
-   "essa renovacao de"
-  ],
   "18139699534731715": [
    "quem tem alianca",
    "parece absurdo mas",
@@ -6439,6 +6431,9 @@
    "exato mas as",
    "entendo vc ja",
    "salario chorando na"
+  ],
+  "18126776548905390": [
+   "e o campinho"
   ]
  },
  "shopee_checada": "2026-11-10|1",
