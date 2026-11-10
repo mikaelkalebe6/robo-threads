@@ -18,14 +18,15 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 12,
   "por_post": {
-   "17912449200577226": 1,
+   "17912449200577226": 2,
    "18111119075264289": 1,
-   "18352395226269773": 1,
+   "18352395226269773": 3,
    "18171642805469752": 1,
    "18100291571670800": 1,
-   "18021151787740470": 1
+   "18021151787740470": 3,
+   "17967758891983415": 1
   }
  },
  "posts": [
@@ -1166,12 +1167,6 @@
   }
  ],
  "respondidos": [
-  "17910818301550704",
-  "18080180957401719",
-  "18021463280926870",
-  "18632275795023472",
-  "17970972654173320",
-  "18341448283257105",
   "18144705763602526",
   "18632748547042451",
   "18123762965479515",
@@ -4165,7 +4160,13 @@
   "18138049306737278",
   "18089634518287023",
   "18651548989056627",
-  "18401795134160865"
+  "18401795134160865",
+  "18137730121708863",
+  "18453392896122876",
+  "17917852392509091",
+  "18133790683826939",
+  "18114423026189816",
+  "18114682808622363"
  ],
  "hashes": [
   "356822b744eb47391ae2c0c666ee23db",
@@ -4783,40 +4784,16 @@
   "b49c8e03cf": 1,
   "5cd8ef6f88": 1,
   "da551d4a42": 1,
-  "ed7d696cd3": 1
+  "ed7d696cd3": 1,
+  "df33a89e00": 1,
+  "4c61ab2ad6": 1,
+  "1674813934": 1,
+  "c764619f34": 1,
+  "8dec9966e6": 1,
+  "32d6f565cb": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "ainda bem que você confessou sozinho kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pelo menos a honestidade veio junto com a maldade kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "que paz é essa de nunca precisar esconder um docinho no armário",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "guardar o próprio nome para ninguém comer é proteção nível máximo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cada assunto indo para um lado totalmente diferente",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "morango é bom demais, impossível durar escondido kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "vantagem de morar só é poder espalhar a comida pela casa toda kkk",
    "p": "concorda",
@@ -4935,6 +4912,36 @@
   {
    "t": "tô com você, esses carros quase se tornaram família!",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "É, se depender deles a gente fica na mão kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "oi linda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Sim, chocolate caribe cabe direitinho no armário, ótimo pra esconder 😉",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pov carro antigo: chove e eu choro",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "ah, escondido em cima da pirâmide kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "depende, mas a escolha é mais sobre vibe que tecnologia 😄",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -6372,8 +6379,6 @@
    "exato fica aquele"
   ],
   "18021151787740470": [
-   "o uno e",
-   "quem tem carro",
    "duas reliquias que",
    "criam defeito de",
    "haja paciencia para",
@@ -6391,7 +6396,9 @@
    "justo na placa",
    "chama ele pra",
    "paz de espirito",
-   "to com voce"
+   "to com voce",
+   "pov carro antigo",
+   "depende mas a"
   ],
   "18171642805469752": [
    "criou a profissao",
@@ -6405,7 +6412,8 @@
    "profundo demais pra",
    "esse pelo menos",
    "se eu ganhar",
-   "a memoria seletiva"
+   "a memoria seletiva",
+   "e se depender"
   ],
   "18120815357070220": [
    "e a mente"
@@ -6449,7 +6457,9 @@
    "esse ai dura",
    "quando todo mundo",
    "proteger o chocotone",
-   "ah entao todo"
+   "ah entao todo",
+   "sim chocolate caribe",
+   "ah escondido em"
   ],
   "18100291571670800": [
    "vida de torcedor",
@@ -6465,7 +6475,8 @@
    "arquivado para garantir"
   ],
   "17912449200577226": [
-   "verdade nada como"
+   "verdade nada como",
+   "oi linda"
   ]
  },
  "shopee_checada": "2026-11-10|1",
