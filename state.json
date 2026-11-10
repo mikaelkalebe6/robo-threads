@@ -23,7 +23,7 @@
    "12:08"
   ],
   "produtos_feitos": 0,
-  "respostas": 33,
+  "respostas": 39,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -34,7 +34,8 @@
    "17967758891983415": 1,
    "18132673849887493": 1,
    "18119258228009395": 1,
-   "17956439277273218": 2
+   "17956439277273218": 2,
+   "18358811470223070": 6
   }
  },
  "posts": [
@@ -1109,12 +1110,6 @@
   }
  ],
  "respondidos": [
-  "18596657092071096",
-  "17898720516604964",
-  "18196748425382239",
-  "18206373526369783",
-  "18345803977255025",
-  "18358287514216076",
   "18637729594003737",
   "18375055744215033",
   "18033522764896524",
@@ -4108,7 +4103,13 @@
   "18125802970900149",
   "18574041400074511",
   "18468065023191455",
-  "18199661896389274"
+  "18199661896389274",
+  "18118672964035670",
+  "18037606943906898",
+  "18086138861368492",
+  "18287725882289787",
+  "17931218511181648",
+  "18649200943001149"
  ],
  "hashes": [
   "2169f8993f3d42c52902dd5e4c1c2c11",
@@ -4756,40 +4757,16 @@
   "65f559ae5a": 1,
   "78e7711007": 1,
   "4edd631b3d": 1,
-  "fddbcb2aec": 1
+  "fddbcb2aec": 1,
+  "495c54454a": 1,
+  "09687f8aea": 1,
+  "366fd5e9e4": 1,
+  "5a4f6559c6": 1,
+  "26f8005282": 1,
+  "a6ae7fdd02": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "a paz mental vale cada centavo menos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "domingo, segunda, terça... a sexta não perdoa ninguém kkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "tô com você, esses carros quase se tornaram família!",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "É, se depender deles a gente fica na mão kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "oi linda",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Sim, chocolate caribe cabe direitinho no armário, ótimo pra esconder 😉",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pov carro antigo: chove e eu choro",
    "p": "neutra",
@@ -4907,6 +4884,36 @@
   },
   {
    "t": "medo desse método de conquista kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pior que o termo já virou meio clichê mesmo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "bonito ver quem ainda faz questão de manter esse cuidado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "lugar seguro e café leve já resolvem boa parte da tensão do primeiro encontro",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "tradição pesada essa de jogar a conta toda nas costas de um só",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "Então está combinado, quem convida paga mesmo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "exato, mas às vezes rola um acordo inesperado kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6176,19 +6183,6 @@
   }
  ],
  "aberturas_post": {
-  "18139184407643257": [
-   "parecia bilhete de",
-   "esse toque era",
-   "entao ja ta",
-   "verdade ainda rola",
-   "resistencia pura nos",
-   "subiu tanto que",
-   "banquinha de jornal",
-   "plano acaba sendo",
-   "pesou na ferida",
-   "vinte contos ainda",
-   "essa ligacao de"
-  ],
   "18116946094839551": [
    "brasilia costuma ser",
    "tomara que o",
@@ -6439,6 +6433,14 @@
   "17956439277273218": [
    "poxa ainda nao",
    "medo desse metodo"
+  ],
+  "18358811470223070": [
+   "pior que o",
+   "bonito ver quem",
+   "lugar seguro e",
+   "tradicao pesada essa",
+   "entao esta combinado",
+   "exato mas as"
   ]
  },
  "shopee_checada": "2026-11-10|1",
