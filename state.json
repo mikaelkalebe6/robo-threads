@@ -22,17 +22,18 @@
    "11:05"
   ],
   "produtos_feitos": 0,
-  "respostas": 30,
+  "respostas": 32,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
    "18352395226269773": 3,
    "18171642805469752": 1,
    "18100291571670800": 1,
-   "18021151787740470": 17,
+   "18021151787740470": 18,
    "17967758891983415": 1,
    "18132673849887493": 1,
-   "18119258228009395": 1
+   "18119258228009395": 1,
+   "17956439277273218": 1
   }
  },
  "posts": [
@@ -1131,8 +1132,6 @@
   }
  ],
  "respondidos": [
-  "18010697483971959",
-  "17969338650179463",
   "17969758461160793",
   "18596657092071096",
   "17898720516604964",
@@ -4130,7 +4129,9 @@
   "18470999629188828",
   "18099145706449068",
   "17911318149575334",
-  "18125802970900149"
+  "18125802970900149",
+  "18574041400074511",
+  "18468065023191455"
  ],
  "hashes": [
   "604b0ac5e3c9df7f19294fc9880345c8",
@@ -4774,20 +4775,12 @@
   "6efc7bc933": 1,
   "6eff4e93d5": 1,
   "5d64edbe31": 1,
-  "65f559ae5a": 1
+  "65f559ae5a": 1,
+  "78e7711007": 1,
+  "4edd631b3d": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, nada como um cantinho que dá limpar rapidinho",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "justo, o importante é o encontro fluir bem sem interrogatório",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "ah, então todo mundo tem um cofre secreto kkkkk 😅",
    "p": "neutra",
@@ -4925,6 +4918,16 @@
   },
   {
    "t": "pelo menos a vergonha sai mais em conta kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Poxa, ainda não teve a cantada milagrosa, mas quem sabe na próxima 😅",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade ainda não experimentei mas acho que o sensor ainda grita mais kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6194,13 +6197,6 @@
   }
  ],
  "aberturas_post": {
-  "18094337621212236": [
-   "viagem curta da",
-   "regra justa dono",
-   "quase controlar o",
-   "receber gente em",
-   "justo quem pilota"
-  ],
   "18139184407643257": [
    "parecia bilhete de",
    "esse toque era",
@@ -6357,7 +6353,6 @@
    "discordar com firmeza"
   ],
   "18021151787740470": [
-   "justo na placa",
    "chama ele pra",
    "paz de espirito",
    "to com voce",
@@ -6376,7 +6371,8 @@
    "corsinha raiz e",
    "esse ai ja",
    "duvidar da mecanica",
-   "justo seu carro"
+   "justo seu carro",
+   "verdade ainda nao"
   ],
   "18171642805469752": [
    "criou a profissao",
@@ -6460,6 +6456,9 @@
   ],
   "18119258228009395": [
    "pelo menos a"
+  ],
+  "17956439277273218": [
+   "poxa ainda nao"
   ]
  },
  "shopee_checada": "2026-11-10|1",
