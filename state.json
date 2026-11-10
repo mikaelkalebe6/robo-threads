@@ -34,10 +34,11 @@
    "15:55",
    "17:28",
    "18:34",
-   "19:48"
+   "19:48",
+   "20:28"
   ],
   "produtos_feitos": 0,
-  "respostas": 75,
+  "respostas": 76,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
@@ -46,7 +47,7 @@
    "18021151787740470": 20,
    "18159685150495656": 2,
    "18171642805469752": 3,
-   "17967758891983415": 3,
+   "17967758891983415": 4,
    "18120815357070220": 1,
    "18168780994485568": 3,
    "17922262281453470": 13,
@@ -56,24 +57,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18119319922812758",
-   "insp": "5a9e2b25eb",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual profissão vocês acham que vai sumir de vez nos próximos dez anos? Fico pensando nisso toda vez que vejo o quanto as coisas mudam rápido no trabalho.",
-   "quando": "2026-11-04T22:07:09.022494-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 7188,
-    "likes": 6,
-    "replies": 17,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-11-09"
-   },
-   "viral_chk": "2026-11-05T07:07:09.689824-04:00"
-  },
   {
    "id": "18235105819323131",
    "insp": "9f951d595e",
@@ -1083,10 +1066,17 @@
    "texto": "DÚVIDA SINCERA: grupo de família no WhatsApp é silenciado para sempre ou vocês ainda abrem para ver o caos?",
    "quando": "2026-11-09T20:07:08.663711-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18111119075264289",
+   "insp": "90498c5f32",
+   "link": "",
+   "texto": "ME CONTA: o date acabou com a pessoa falando mal do ex ou fazendo mil perguntas sobre quanto você ganha?",
+   "quando": "2026-11-09T20:37:07.728136-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18143422051596098",
   "18070863575761700",
   "18058889867552238",
   "18102752843291646",
@@ -4085,10 +4075,10 @@
   "18115419920111361",
   "18109078496342096",
   "18122007941056584",
-  "18078833558445132"
+  "18078833558445132",
+  "18096342515658888"
  ],
  "hashes": [
-  "a9e0e11bfdc4889a94635a8e1167d644",
   "827ad6eb8f7070f66d8326c513d2b51f",
   "356822b744eb47391ae2c0c666ee23db",
   "4a01239961b01df8659ab700d1eb0632",
@@ -4287,7 +4277,8 @@
   "911a680118913ef6a7c8b291ed9fdd92",
   "564f8ff3c2e789286aa9119c2f273e06",
   "a9af82aab64156013a0958dc497d3817",
-  "cea5931d51d05082eccd97f38186fa33"
+  "cea5931d51d05082eccd97f38186fa33",
+  "15d876db2b9ac9511fdb71bef2e10436"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4691,7 +4682,8 @@
   "8914f039e6": 1794254891.8294091,
   "90d676888d": 1794260296.5456269,
   "e968b60bcc": 1794263891.4078858,
-  "482ab880e4": 1794269287.5389795
+  "482ab880e4": 1794269287.5389795,
+  "90498c5f32": 1794271044.077261
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4764,15 +4756,11 @@
   "68d1afc522": 1,
   "24d01baa15": 1,
   "5a4f6559c6": 1,
-  "5e43edb048": 1
+  "5e43edb048": 1,
+  "9e234b3f57": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "esse detalhe de não guardar chule vale muito kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Entendo, 300 parece razoável para não desgastar a sola kkk",
    "p": "concorda",
@@ -4916,6 +4904,11 @@
   {
    "t": "esse aí dura nem duas horas no esconderijo kkk",
    "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse pelo menos tem desculpa histórica kkk",
+   "p": "ressalva",
    "r": 1
   }
  ],
@@ -6413,7 +6406,8 @@
   "17967758891983415": [
    "veio com a",
    "pelo menos economiza",
-   "profundo demais pra"
+   "profundo demais pra",
+   "esse pelo menos"
   ],
   "18120815357070220": [
    "e a mente"
