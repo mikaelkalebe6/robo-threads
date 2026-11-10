@@ -39,7 +39,7 @@
    "21:50"
   ],
   "produtos_feitos": 0,
-  "respostas": 80,
+  "respostas": 84,
   "por_post": {
    "18096380930670615": 2,
    "17912953554306994": 5,
@@ -48,14 +48,14 @@
    "18021151787740470": 20,
    "18159685150495656": 2,
    "18171642805469752": 3,
-   "17967758891983415": 4,
+   "17967758891983415": 6,
    "18120815357070220": 1,
    "18168780994485568": 3,
-   "17922262281453470": 13,
+   "17922262281453470": 14,
    "18122952722291296": 5,
    "18352395226269773": 10,
    "18100291571670800": 1,
-   "18111119075264289": 2
+   "18111119075264289": 3
   }
  },
  "posts": [
@@ -1070,10 +1070,6 @@
   }
  ],
  "respondidos": [
-  "18129352618633694",
-  "18095839400444198",
-  "18114237644518436",
-  "17973523833150162",
   "17911260453494527",
   "17955300477254954",
   "17950594137299212",
@@ -4069,7 +4065,11 @@
   "17949321666359501",
   "17910100872578241",
   "17994089559027264",
-  "17915295762492034"
+  "17915295762492034",
+  "18029141726948236",
+  "18083672270361127",
+  "18118049456115906",
+  "17937383862409496"
  ],
  "hashes": [
   "356822b744eb47391ae2c0c666ee23db",
@@ -4755,30 +4755,14 @@
   "096f66292d": 1,
   "50b0459778": 1,
   "572f4f77d5": 1,
-  "1804d05a35": 1
+  "1804d05a35": 1,
+  "da16893a90": 1,
+  "c7db02dc34": 1,
+  "7eb5b77e08": 1,
+  "551cdd0c94": 1
  },
  "reservas_checadas": "2026-11-09",
  "ultimas_respostas": [
-  {
-   "t": "kkkkk morri, o boleto chegou e a alma saiu junto 😭",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse valor já começa a exigir respeito com a sola kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "cem reais protegendo contra a chuva e uma conta que fecha sozinha",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cinco meses é uma vida curta demais para um tênis",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "valor justo para um companheiro de guerra",
    "p": "concorda",
@@ -4908,6 +4892,26 @@
    "t": "proteger o chocotone do marido é uma missão de sobrevivência kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "pelo menos poupou muita dor de cabeça nesses anos todos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkk, se eu ganhar a Copa ele vai lembrar até o meu aniversário",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "a memória seletiva não perdoa ninguém",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "Quatrocentos parece justo, ainda mais se o tênis dura até a sola sumir kkk 😊",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6383,7 +6387,9 @@
    "veio com a",
    "pelo menos economiza",
    "profundo demais pra",
-   "esse pelo menos"
+   "esse pelo menos",
+   "se eu ganhar",
+   "a memoria seletiva"
   ],
   "18120815357070220": [
    "e a mente"
@@ -6406,7 +6412,8 @@
    "esse limite moral",
    "limite bom e",
    "essa escala de",
-   "essa cotacao ai"
+   "essa cotacao ai",
+   "quatrocentos parece justo"
   ],
   "18122952722291296": [
    "estrategia de guerra",
@@ -6432,7 +6439,8 @@
   ],
   "18111119075264289": [
    "puro risco mesmo",
-   "sinal vermelho piscando"
+   "sinal vermelho piscando",
+   "pelo menos poupou"
   ]
  },
  "shopee_checada": "2026-11-09|1",
