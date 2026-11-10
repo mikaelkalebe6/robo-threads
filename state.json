@@ -23,7 +23,7 @@
    "12:08"
   ],
   "produtos_feitos": 0,
-  "respostas": 39,
+  "respostas": 41,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -31,11 +31,11 @@
    "18171642805469752": 1,
    "18100291571670800": 1,
    "18021151787740470": 18,
-   "17967758891983415": 1,
+   "17967758891983415": 2,
    "18132673849887493": 1,
    "18119258228009395": 1,
    "17956439277273218": 2,
-   "18358811470223070": 6
+   "18358811470223070": 7
   }
  },
  "posts": [
@@ -1110,8 +1110,6 @@
   }
  ],
  "respondidos": [
-  "18637729594003737",
-  "18375055744215033",
   "18033522764896524",
   "18126323137845419",
   "18562534888073216",
@@ -4109,7 +4107,9 @@
   "18086138861368492",
   "18287725882289787",
   "17931218511181648",
-  "18649200943001149"
+  "18649200943001149",
+  "17887910151505311",
+  "18079382549773846"
  ],
  "hashes": [
   "2169f8993f3d42c52902dd5e4c1c2c11",
@@ -4763,20 +4763,12 @@
   "366fd5e9e4": 1,
   "5a4f6559c6": 1,
   "26f8005282": 1,
-  "a6ae7fdd02": 1
+  "a6ae7fdd02": 1,
+  "fd2f9801dc": 1,
+  "1eb4ad9c86": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "pov carro antigo: chove e eu choro",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "ah, escondido em cima da pirâmide kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "depende, mas a escolha é mais sobre vibe que tecnologia 😄",
    "p": "neutra",
@@ -4914,6 +4906,16 @@
   },
   {
    "t": "exato, mas às vezes rola um acordo inesperado kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "KKKKKK, ainda lembro o Ceni, mas o Dida era reserva de gol",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Entendo, vc já tá na frente kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6360,7 +6362,8 @@
    "esse pelo menos",
    "se eu ganhar",
    "a memoria seletiva",
-   "e se depender"
+   "e se depender",
+   "ainda lembro o"
   ],
   "18120815357070220": [
    "e a mente"
@@ -6440,7 +6443,8 @@
    "lugar seguro e",
    "tradicao pesada essa",
    "entao esta combinado",
-   "exato mas as"
+   "exato mas as",
+   "entendo vc ja"
   ]
  },
  "shopee_checada": "2026-11-10|1",
