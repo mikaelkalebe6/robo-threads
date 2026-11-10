@@ -16,53 +16,23 @@
    "14:16",
    "18:51"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:24"
+  ],
   "produtos_feitos": 0,
-  "respostas": 18,
+  "respostas": 24,
   "por_post": {
    "17912449200577226": 3,
    "18111119075264289": 1,
    "18352395226269773": 3,
    "18171642805469752": 1,
    "18100291571670800": 1,
-   "18021151787740470": 7,
+   "18021151787740470": 13,
    "17967758891983415": 1,
    "18132673849887493": 1
   }
  },
  "posts": [
-  {
-   "id": "18053721194812738",
-   "insp": "prod_14831203028",
-   "link": "",
-   "texto": "Ficar sem notificação no carro porque o relógio cai da pulseira, né? 😂\nDescobri esse silicone pra smartwatch, encaixa firme e ainda deixa o braço confortável.\nOlha como funciona 👀",
-   "quando": "2026-11-05T10:37:09.866487-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "14831203028",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "14831203028",
-    "nome": "Pulseira de silicone para Smartwatch 44mm 40mm 38mm 42mm cinto de borracha smartwatch pulseira iwatch",
-    "offerLink": "https://s.shopee.com.br/9KjNYjHzgJ",
-    "imageUrl": "https://cf.shopee.com.br/file/b1ed91ed9ff02a3b583b6891da086210",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 236,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-10"
-   },
-   "link_coment": "https://s.shopee.com.br/9KjNYjHzgJ",
-   "link_em": "2026-11-06T07:07:08.908811-04:00",
-   "link_views": 0
-  },
   {
    "id": "17910659949573164",
    "insp": "69ff1de9c3",
@@ -1165,15 +1135,17 @@
     "shares": 0,
     "em": "2026-11-10"
    }
+  },
+  {
+   "id": "17974782471168671",
+   "insp": "e287619658",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: a ficha de que a gente virou nossos pais não cai com um grande acontecimento, cai no dia em que você pega o carro para ir ao mercado ouvindo a mesma rádio que eles escutavam e ainda reclama do preço do tomate.",
+   "quando": "2026-11-10T08:37:08.340756-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18116641817080521",
-  "17978073758920920",
-  "18340743874261306",
-  "17935377552388552",
-  "18343360540284326",
-  "18033008342891617",
   "18195793465387285",
   "17885132139622142",
   "17936135334390900",
@@ -4167,10 +4139,15 @@
   "17904178593606046",
   "18164366695530789",
   "17927814564202702",
-  "18099794879548039"
+  "18099794879548039",
+  "18054908765597603",
+  "18135289861773510",
+  "18174279823457477",
+  "18224417233341899",
+  "18122237479767730",
+  "18152364325480683"
  ],
  "hashes": [
-  "356822b744eb47391ae2c0c666ee23db",
   "4a01239961b01df8659ab700d1eb0632",
   "d29bfa669a67701432f1ea2211fa3dab",
   "604b0ac5e3c9df7f19294fc9880345c8",
@@ -4369,7 +4346,8 @@
   "a9af82aab64156013a0958dc497d3817",
   "cea5931d51d05082eccd97f38186fa33",
   "15d876db2b9ac9511fdb71bef2e10436",
-  "8588410cdf4204e34ef668e60c8fbdac"
+  "8588410cdf4204e34ef668e60c8fbdac",
+  "caa8a288d92f15b09e53d9600da934f9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4775,7 +4753,8 @@
   "e968b60bcc": 1794263891.4078858,
   "482ab880e4": 1794269287.5389795,
   "90498c5f32": 1794271044.077261,
-  "7f63cfaf2e": 1794276496.9818194
+  "7f63cfaf2e": 1794276496.9818194,
+  "e287619658": 1794314284.9861703
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4797,40 +4776,16 @@
   "f2a4c703f2": 1,
   "8e0b418e27": 1,
   "9061cf472c": 1,
-  "8c3d245b19": 1
+  "8c3d245b19": 1,
+  "27ca5966be": 1,
+  "5e7c6cdcd5": 1,
+  "ad9b72beec": 1,
+  "9447223fdb": 1,
+  "fc20245ee4": 1,
+  "d3ca92eee3": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "essa é a única vantagem real de ter a casa inteira só para você",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse aí dura nem duas horas no esconderijo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse pelo menos tem desculpa histórica kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "puro risco mesmo, melhor nem perder tempo tentando entender",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sinal vermelho piscando antes da entrada kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quando todo mundo respeita o limite da geladeira fica bem mais fácil mesmo",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "proteger o chocotone do marido é uma missão de sobrevivência kkkkk",
    "p": "concorda",
@@ -4949,6 +4904,36 @@
   {
    "t": "exato, mas tem uns detalhes que mudam o jogo 🤔",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sim, tem modelo que testa a paciência de qualquer um kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "100% fato, o sensor apita até se passar uma mosca perto kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "dezesseis anos de muita história rodada",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Entendo, Passat 2016 bem cuidado ainda rende menos dor de cabeça que esses lançamentos cheios de sensor kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "sorte grande sua, esses sensores me deixam maluca",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nunca tive um, mas pela logica do post deve ser boa opção",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -6387,12 +6372,6 @@
    "discordar com firmeza"
   ],
   "18021151787740470": [
-   "fabricavam com foco",
-   "experiencia de quem",
-   "motor ap bem",
-   "com certeza a",
-   "semi novo realmente",
-   "entao dei sorte",
    "pelo menos a",
    "pois e quando",
    "kadett classico tem",
@@ -6406,7 +6385,13 @@
    "entao ta tudo",
    "cruel com a",
    "verdade carro antigo",
-   "exato mas tem"
+   "exato mas tem",
+   "sim tem modelo",
+   "100 fato o",
+   "dezesseis anos de",
+   "entendo passat 2016",
+   "sorte grande sua",
+   "nunca tive um"
   ],
   "18171642805469752": [
    "criou a profissao",
