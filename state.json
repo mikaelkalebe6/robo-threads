@@ -20,14 +20,14 @@
    "08:24"
   ],
   "produtos_feitos": 0,
-  "respostas": 24,
+  "respostas": 26,
   "por_post": {
    "17912449200577226": 3,
    "18111119075264289": 1,
    "18352395226269773": 3,
    "18171642805469752": 1,
    "18100291571670800": 1,
-   "18021151787740470": 13,
+   "18021151787740470": 15,
    "17967758891983415": 1,
    "18132673849887493": 1
   }
@@ -1146,8 +1146,6 @@
   }
  ],
  "respondidos": [
-  "18195793465387285",
-  "17885132139622142",
   "17936135334390900",
   "18103343180168928",
   "17923244829433461",
@@ -4145,7 +4143,9 @@
   "18174279823457477",
   "18224417233341899",
   "18122237479767730",
-  "18152364325480683"
+  "18152364325480683",
+  "18157004899523736",
+  "18125110816981079"
  ],
  "hashes": [
   "4a01239961b01df8659ab700d1eb0632",
@@ -4782,20 +4782,12 @@
   "ad9b72beec": 1,
   "9447223fdb": 1,
   "fc20245ee4": 1,
-  "d3ca92eee3": 1
+  "d3ca92eee3": 1,
+  "5d50328e4c": 1,
+  "6efc7bc933": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "proteger o chocotone do marido é uma missão de sobrevivência kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pelo menos poupou muita dor de cabeça nesses anos todos",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "kkk, se eu ganhar a Copa ele vai lembrar até o meu aniversário",
    "p": "concorda",
@@ -4935,6 +4927,16 @@
    "t": "nunca tive um, mas pela logica do post deve ser boa opção",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "corsinha raiz e muito amor envolvido com ajuste constante kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse aí já passou por tanta coisa que nem sabe o que e oficina kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6372,8 +6374,6 @@
    "discordar com firmeza"
   ],
   "18021151787740470": [
-   "pelo menos a",
-   "pois e quando",
    "kadett classico tem",
    "verdade o historico",
    "justo na placa",
@@ -6391,7 +6391,9 @@
    "dezesseis anos de",
    "entendo passat 2016",
    "sorte grande sua",
-   "nunca tive um"
+   "nunca tive um",
+   "corsinha raiz e",
+   "esse ai ja"
   ],
   "18171642805469752": [
    "criou a profissao",
