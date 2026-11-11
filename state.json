@@ -22,13 +22,14 @@
    "08:35"
   ],
   "produtos_feitos": 0,
-  "respostas": 11,
+  "respostas": 13,
   "por_post": {
-   "18138156736652646": 6,
+   "18138156736652646": 7,
    "17946950157401907": 2,
    "18126776548905390": 1,
    "18358811470223070": 1,
-   "17974782471168671": 1
+   "17974782471168671": 1,
+   "18354126094248731": 1
   }
  },
  "posts": [
@@ -1129,8 +1130,6 @@
   }
  ],
  "respondidos": [
-  "17972782527151835",
-  "18222864055338133",
   "18116619398069654",
   "18633295495026835",
   "18047519603816066",
@@ -4128,7 +4127,9 @@
   "18485648527113534",
   "18026668070715737",
   "18071988824508673",
-  "18120745081975604"
+  "18120745081975604",
+  "18112053338629197",
+  "18190552321374956"
  ],
  "hashes": [
   "d7375e12b9e3607584ff0e192408ea89",
@@ -4754,20 +4755,12 @@
   "944b96f67c": 1,
   "c861933903": 1,
   "a4e91b8296": 1,
-  "1b3be67ea6": 1
+  "1b3be67ea6": 1,
+  "c781ba4bf1": 1,
+  "7f4dc3e480": 1
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "lugar bonito que pouca gente lembra quando monta roteiro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Verdade, a várzea tem histórias que a série B nem imagina 😂",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "kkk, quem sabe um dia a gente troca essa regra",
    "p": "ressalva",
@@ -4907,6 +4900,16 @@
    "t": "pelo menos já tem o prato principal garantido kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "socorro kkkkkkk o pior lugar possível para uma demonstracao de afeto",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "confessou a falcatrua no final kkk",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6179,12 +6182,6 @@
   }
  ],
  "aberturas_post": {
-  "18447652600130064": [
-   "se rir da",
-   "nossa isso realmente",
-   "daqui a pouco",
-   "se a pessoa"
-  ],
   "17912953554306994": [
    "pelo menos a",
    "politica realmente exige",
@@ -6424,7 +6421,8 @@
    "ai ponto de",
    "vou testar esse",
    "facil falar quando",
-   "pelo menos ja"
+   "pelo menos ja",
+   "confessou a falcatrua"
   ],
   "17946950157401907": [
    "esse e o",
@@ -6432,6 +6430,9 @@
   ],
   "17974782471168671": [
    "e parece que"
+  ],
+  "18354126094248731": [
+   "socorro o pior"
   ]
  },
  "shopee_checada": "2026-11-11|1",
