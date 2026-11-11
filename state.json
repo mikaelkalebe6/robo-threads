@@ -24,10 +24,11 @@
    "12:22",
    "13:41",
    "14:48",
-   "16:19"
+   "16:19",
+   "17:57"
   ],
   "produtos_feitos": 0,
-  "respostas": 26,
+  "respostas": 27,
   "por_post": {
    "18138156736652646": 10,
    "17946950157401907": 2,
@@ -39,28 +40,10 @@
    "18063738524658947": 1,
    "18103288532377942": 2,
    "18148034998598778": 1,
-   "17916150045505435": 1
+   "17916150045505435": 2
   }
  },
  "posts": [
-  {
-   "id": "18099246437387630",
-   "insp": "7245fe690e",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a trilha sonora de 2010 de vocês era mais pop chiclete ou indie triste no fone com fio?",
-   "quando": "2026-11-06T15:37:07.762693-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 258,
-    "likes": 0,
-    "replies": 11,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-11"
-   },
-   "viral_chk": "2026-11-07T07:07:09.395080-04:00"
-  },
   {
    "id": "18001115808001002",
    "insp": "f29b190cb8",
@@ -1082,10 +1065,17 @@
    "texto": "DÚVIDA SINCERA: a pessoa me chama pro rolê e eu respondo que o gato da minha vizinha teve crise de ansiedade e eu preciso segurar a patinha dele pra acalmar. Aí a pessoa me manda áudio de 4 minutos dizendo que entende porque o pet é sagrado, mas na verdade eu só tô deitada no escuro comendo Doritos ",
    "quando": "2026-11-11T17:07:10.414378-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18126774545303649",
+   "insp": "ef980ef49f",
+   "link": "",
+   "texto": "Gente, encontro bom de verdade é aquele que o papo tá tão bom que você só percebe que passou das horas quando o Uber avisa que a taxa dinâmica subiu o preço de um rim e o garçom começa a apagar as luzes do restaurante com você ainda mastigando o guardanapo. \n\nVocês também ficam cegas ou sou só eu qu",
+   "quando": "2026-11-11T18:07:08.467630-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18063356765523733",
   "18127108421318010",
   "18072623147565598",
   "18448594426123151",
@@ -4084,10 +4074,10 @@
   "18164085979500667",
   "18131791225870714",
   "17909045166669519",
-  "18169225282486661"
+  "18169225282486661",
+  "18137042593674056"
  ],
  "hashes": [
-  "7f6c9487ea869d67e49e293d9b9af49c",
   "ab343a7ccda1391102ecb6b19f0907ff",
   "05259b7063a5b9394d2731e1a987db04",
   "57c5891e03dbcd524ddadc2d1e65d5d2",
@@ -4286,7 +4276,8 @@
   "a37daedf54dd7ecea2fe4fe68e3c7edd",
   "64e727adc66ccd92001d6307c1ecf7d9",
   "b1438e3720169ed5444178a609a64663",
-  "7b774ffabddb25c168851f696cae66e5"
+  "7b774ffabddb25c168851f696cae66e5",
+  "140809c3404f08c935103f32fd3b039d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4502,7 +4493,6 @@
   "17f68f2d68": 1792449450.006739,
   "bf80c2c0a0": 1792458487.7854679,
   "88bd5be843": 1792462047.7504954,
-  "ef980ef49f": 1792498040.299683,
   "87c4f84770": 1792503448.3913825,
   "693cca0994": 1792526849.6093185,
   "179d442b7d": 1792541279.5371044,
@@ -4697,7 +4687,8 @@
   "25cf5fb448": 1794416856.0402312,
   "c05528a8e3": 1794420450.6618483,
   "d6497bdd55": 1794424060.460397,
-  "bc90ccda37": 1794431255.2244694
+  "bc90ccda37": 1794431255.2244694,
+  "ef980ef49f": 1794434849.5170166
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4722,15 +4713,11 @@
   "7069571faf": 1,
   "b5607864ec": 1,
   "5340e05032": 1,
-  "96b6e381bf": 1
+  "96b6e381bf": 1,
+  "fff62df579": 1
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "quase deram né, só faltou o tempero",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse dom só vem de nascido mesmo",
    "p": "concorda",
@@ -4873,6 +4860,11 @@
   },
   {
    "t": "esse nível de sinceridade já tá fora do alcance da lei kkkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "gato é um passaporte válido para qualquer situação",
    "p": "concorda",
    "r": 0
   }
@@ -6366,7 +6358,8 @@
    "total de bens"
   ],
   "17916150045505435": [
-   "esse nivel de"
+   "esse nivel de",
+   "gato e um"
   ]
  },
  "shopee_checada": "2026-11-11|1",
