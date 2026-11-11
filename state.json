@@ -26,7 +26,7 @@
    "18:51"
   ],
   "produtos_feitos": 0,
-  "respostas": 57,
+  "respostas": 58,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -39,7 +39,7 @@
    "18119258228009395": 1,
    "17956439277273218": 2,
    "18358811470223070": 13,
-   "18126776548905390": 2,
+   "18126776548905390": 3,
    "18063738524658947": 8
   }
  },
@@ -1088,7 +1088,6 @@
   }
  ],
  "respondidos": [
-  "18129393598823667",
   "18008551172969049",
   "18283085056292181",
   "18103768628576553",
@@ -4087,7 +4086,8 @@
   "18644521468062950",
   "18174966055460918",
   "18093561308698165",
-  "17943001992391547"
+  "17943001992391547",
+  "18015845015761962"
  ],
  "hashes": [
   "a84887f2951cfea875d7a94b776510d5",
@@ -4760,15 +4760,11 @@
   "d8371d1ec4": 1,
   "bd1b879527": 1,
   "8bb9e8e627": 1,
-  "456641110a": 1
+  "456641110a": 1,
+  "10a3d2e51b": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "Kkkkk, verdade, pagar condomínio assim é quase um empréstimo vitalício",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "justo, seu carro já sofreu então fala com autoridade",
    "p": "discorda",
@@ -4913,6 +4909,11 @@
    "t": "kkk, quem sabe um dia a gente troca essa regra",
    "p": "ressalva",
    "r": 1
+  },
+  {
+   "t": "tem muito projeto sério que dá banho em time grande por aí",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6423,7 +6424,8 @@
   ],
   "18126776548905390": [
    "e o campinho",
-   "verdade a varzea"
+   "verdade a varzea",
+   "tem muito projeto"
   ],
   "18063738524658947": [
    "muita gente esquece",
