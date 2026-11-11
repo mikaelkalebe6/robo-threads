@@ -27,7 +27,7 @@
    "21:56"
   ],
   "produtos_feitos": 0,
-  "respostas": 59,
+  "respostas": 65,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -41,7 +41,8 @@
    "17956439277273218": 2,
    "18358811470223070": 13,
    "18126776548905390": 3,
-   "18063738524658947": 9
+   "18063738524658947": 9,
+   "18138156736652646": 6
   }
  },
  "posts": [
@@ -1080,12 +1081,6 @@
   }
  ],
  "respondidos": [
-  "18283085056292181",
-  "18103768628576553",
-  "18179497753486274",
-  "18196033111390488",
-  "17890859628615768",
-  "18381062707233811",
   "17955103323081503",
   "18236427115318451",
   "17904393702348996",
@@ -4079,7 +4074,13 @@
   "18093561308698165",
   "17943001992391547",
   "18015845015761962",
-  "18140943604666815"
+  "18140943604666815",
+  "18076399823770219",
+  "18129485101912095",
+  "18060091646596540",
+  "17977577823166287",
+  "18103315886376650",
+  "17953726539083895"
  ],
  "hashes": [
   "e653fb3d3a6e1c4381d9941e65c22b73",
@@ -4754,40 +4755,16 @@
   "8bb9e8e627": 1,
   "456641110a": 1,
   "10a3d2e51b": 1,
-  "cf53b0d9bb": 1
+  "cf53b0d9bb": 1,
+  "7eb4bef55a": 1,
+  "ddb525a816": 1,
+  "7dad6f13f1": 1,
+  "38f9f55913": 1,
+  "0e92ba79e8": 1,
+  "7649ba34ea": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos a vergonha sai mais em conta kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Poxa, ainda não teve a cantada milagrosa, mas quem sabe na próxima 😅",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Verdade ainda não experimentei mas acho que o sensor ainda grita mais kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "medo desse método de conquista kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pior que o termo já virou meio clichê mesmo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "bonito ver quem ainda faz questão de manter esse cuidado",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "lugar seguro e café leve já resolvem boa parte da tensão do primeiro encontro",
    "p": "ressalva",
@@ -4907,6 +4884,36 @@
    "t": "Foz do Iguaçu tem aquele encanto que poucos lembram, anotado aqui 🙏🏼",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "branco é rebelde mesmo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "agora chamar adulto de disfuncional por causa de arroz é forte demais kkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "queria ver seguir o manual sem errar kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pelo menos a sua meta é bem mais fácil de alcançar kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "se o Google viesse cozinhar o arroz por mim estaria resolvido kkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "anotei tudo, agora o próximo não passa do ponto kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6174,15 +6181,6 @@
   }
  ],
  "aberturas_post": {
-  "18134330512806965": [
-   "ja desiste antes",
-   "descobriram meu nome",
-   "endereco estrategico para",
-   "agora aprendeu o",
-   "verdade muda tudo",
-   "fica em paz",
-   "qualquer uma o"
-  ],
   "18121353692075006": [
    "calma ditador nem",
    "maionese caseira na",
@@ -6430,6 +6428,14 @@
    "fica meio esquecida",
    "lugar bonito que",
    "foz do iguacu"
+  ],
+  "18138156736652646": [
+   "branco e rebelde",
+   "agora chamar adulto",
+   "queria ver seguir",
+   "pelo menos a",
+   "se o google",
+   "anotei tudo agora"
   ]
  },
  "shopee_checada": "2026-11-10|1",
