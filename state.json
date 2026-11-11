@@ -28,7 +28,7 @@
    "17:57"
   ],
   "produtos_feitos": 0,
-  "respostas": 27,
+  "respostas": 30,
   "por_post": {
    "18138156736652646": 10,
    "17946950157401907": 2,
@@ -40,7 +40,9 @@
    "18063738524658947": 1,
    "18103288532377942": 2,
    "18148034998598778": 1,
-   "17916150045505435": 2
+   "17916150045505435": 3,
+   "18126774545303649": 1,
+   "18113412365203537": 1
   }
  },
  "posts": [
@@ -1076,9 +1078,6 @@
   }
  ],
  "respondidos": [
-  "18127108421318010",
-  "18072623147565598",
-  "18448594426123151",
   "18312412483304935",
   "18117184897959773",
   "18134616622726003",
@@ -4075,7 +4074,10 @@
   "18131791225870714",
   "17909045166669519",
   "18169225282486661",
-  "18137042593674056"
+  "18137042593674056",
+  "18121387262076177",
+  "18119314559125864",
+  "18124987486728481"
  ],
  "hashes": [
   "ab343a7ccda1391102ecb6b19f0907ff",
@@ -4694,7 +4696,7 @@
  "por_pessoa": {
   "_data": "2026-11-11",
   "312cc12de8": 1,
-  "9c9ed7acc0": 6,
+  "9c9ed7acc0": 9,
   "6dc5c60c69": 1,
   "4beb6f0ef1": 1,
   "5ac7dec197": 1,
@@ -4718,21 +4720,6 @@
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "esse dom só vem de nascido mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Adorei a dica, panela elétrica realmente resolve kkk 😂",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "medida exata assim parece sonho distante na minha cozinha",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "ouvido biônico faz milagre na cozinha",
    "p": "concorda",
@@ -4865,6 +4852,21 @@
   },
   {
    "t": "gato é um passaporte válido para qualquer situação",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quando o santo bate a gente nem vê o tempo passar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "menos mal que essa modalidade passou longe por aí",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a trilha sonora do choro já está garantida",
    "p": "concorda",
    "r": 0
   }
@@ -6139,12 +6141,6 @@
   }
  ],
  "aberturas_post": {
-  "18012741368996434": [
-   "trabalho raiz q"
-  ],
-  "18192095356371866": [
-   "sobrevivencia em primeiro"
-  ],
   "17893301271457429": [
    "perigro real e",
    "exato e a"
@@ -6359,7 +6355,14 @@
   ],
   "17916150045505435": [
    "esse nivel de",
-   "gato e um"
+   "gato e um",
+   "pelo menos a"
+  ],
+  "18126774545303649": [
+   "quando o santo"
+  ],
+  "18113412365203537": [
+   "menos mal que"
   ]
  },
  "shopee_checada": "2026-11-11|1",
