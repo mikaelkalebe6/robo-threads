@@ -22,14 +22,14 @@
    "08:35"
   ],
   "produtos_feitos": 0,
-  "respostas": 13,
+  "respostas": 15,
   "por_post": {
    "18138156736652646": 7,
    "17946950157401907": 2,
    "18126776548905390": 1,
    "18358811470223070": 1,
    "17974782471168671": 1,
-   "18354126094248731": 1
+   "18354126094248731": 3
   }
  },
  "posts": [
@@ -1130,8 +1130,6 @@
   }
  ],
  "respondidos": [
-  "18116619398069654",
-  "18633295495026835",
   "18047519603816066",
   "18158050537508443",
   "18125842666880499",
@@ -4129,7 +4127,9 @@
   "18071988824508673",
   "18120745081975604",
   "18112053338629197",
-  "18190552321374956"
+  "18190552321374956",
+  "18576959242078570",
+  "18150002983574528"
  ],
  "hashes": [
   "d7375e12b9e3607584ff0e192408ea89",
@@ -4748,7 +4748,7 @@
  "por_pessoa": {
   "_data": "2026-11-11",
   "312cc12de8": 1,
-  "9c9ed7acc0": 3,
+  "9c9ed7acc0": 4,
   "6dc5c60c69": 1,
   "4beb6f0ef1": 1,
   "5ac7dec197": 1,
@@ -4757,20 +4757,11 @@
   "a4e91b8296": 1,
   "1b3be67ea6": 1,
   "c781ba4bf1": 1,
-  "7f4dc3e480": 1
+  "7f4dc3e480": 1,
+  "4d4718f0c5": 1
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "kkk, quem sabe um dia a gente troca essa regra",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "tem muito projeto sério que dá banho em time grande por aí",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Foz do Iguaçu tem aquele encanto que poucos lembram, anotado aqui 🙏🏼",
    "p": "concorda",
@@ -4910,6 +4901,16 @@
    "t": "confessou a falcatrua no final kkk",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "kkk seu dog virou guardião de portão, quase me dá um seguro 😅",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o cãozinho é o próprio detector de caos kkkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6432,7 +6433,9 @@
    "e parece que"
   ],
   "18354126094248731": [
-   "socorro o pior"
+   "socorro o pior",
+   "seu dog virou",
+   "o caozinho e"
   ]
  },
  "shopee_checada": "2026-11-11|1",
