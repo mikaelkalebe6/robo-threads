@@ -27,7 +27,7 @@ ESPERA_MAX = 330  # segundos por imagem (a geracao do Stitch pode levar minutos)
 PROMPT_BASE = (
     "Create a single mobile screen that is ONLY one full-bleed photorealistic photograph, edge to edge, "
     "vertical 4:5 composition, natural light, real-life smartphone photo look, Brazilian everyday setting. "
-    "Absolutely no UI elements, no text, no letters, no buttons, no navigation bar, no status bar, no logos, "
+    "Absolutely no UI elements, no buttons, no navigation bar, no status bar, no logos, "
     "no watermark, no frames. The whole screen is the photo. Scene: ")
 # onde o texto vai ficar no slide (layout + texto_pos do JSON): a foto deixa esse espaco livre, o resto e livre
 ESPACO_TEXTO = {
@@ -252,6 +252,27 @@ def cortar(img_bytes):
     im.save(buf, "JPEG", quality=88)
     return buf.getvalue(), im.size
 
+
+def gerar_imagem_meme(descricao):
+    """Gera uma imagem de meme de forma sincrona pelo Stitch (usado no anuncio comico).
+    Devolve a URL (caso o projeto retorne) ou salva nos arquivos temporarios e retorna."""
+    if not CHAVE:
+        registrar("Stitch desligado (sem CHAVE).")
+        return None
+    try:
+        tools = conectar()
+        pid = projeto(tools)
+        img_bytes = gerar(tools, pid, descricao, " Composition: highly comical, expressive subject, Brazilian meme style, funny dialogue text allowed.")
+        if img_bytes:
+            jpg, tam = cortar(img_bytes)
+            # Hospeda na URL estatica do carrossel mas com final meme
+            import carrossel
+            url = carrossel.hospedar(f"ia/meme-{int(time.time())}.jpg", jpg)
+            registrar(f"Gerado meme OK, hospedado em: {url}")
+            return url
+    except Exception as e:
+        registrar("Falha ao gerar imagem meme via Stitch:", str(e)[:300])
+    return None
 
 def processar_fila(tools, pid):
     import carrossel
