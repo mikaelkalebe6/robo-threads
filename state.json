@@ -23,10 +23,11 @@
    "12:08",
    "14:16",
    "16:50",
-   "18:51"
+   "18:51",
+   "21:56"
   ],
   "produtos_feitos": 0,
-  "respostas": 58,
+  "respostas": 59,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -40,27 +41,10 @@
    "17956439277273218": 2,
    "18358811470223070": 13,
    "18126776548905390": 3,
-   "18063738524658947": 8
+   "18063738524658947": 9
   }
  },
  "posts": [
-  {
-   "id": "18644066287059205",
-   "insp": "7aa473ea47",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: a gente rala de CLT a vida toda pra conseguir financiar um AP ou vai acabar morrendo de pagar aluguel mesmo",
-   "quando": "2026-11-05T21:07:08.516406-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 4122,
-    "likes": 90,
-    "replies": 45,
-    "reposts": 2,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-10"
-   }
-  },
   {
    "id": "18142877290625425",
    "insp": "1414707c5c",
@@ -1085,10 +1069,17 @@
    "texto": "VAMOS SER HONESTOS: ninguém abre o manual do carro por vontade própria, a gente só descobre pra que servem os botões quando acende aquela luz misteriosa no painel",
    "quando": "2026-11-10T19:07:08.352963-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18138156736652646",
+   "insp": "c71e576931",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: como tem gente que consegue passar a vida inteira sem errar o ponto do arroz? O meu sempre empapa ou queima.",
+   "quando": "2026-11-10T22:07:08.060571-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18008551172969049",
   "18283085056292181",
   "18103768628576553",
   "18179497753486274",
@@ -4087,10 +4078,10 @@
   "18174966055460918",
   "18093561308698165",
   "17943001992391547",
-  "18015845015761962"
+  "18015845015761962",
+  "18140943604666815"
  ],
  "hashes": [
-  "a84887f2951cfea875d7a94b776510d5",
   "e653fb3d3a6e1c4381d9941e65c22b73",
   "d7375e12b9e3607584ff0e192408ea89",
   "11c03054aa5a4cd727228b69ec57f7fe",
@@ -4289,7 +4280,8 @@
   "2c1a24d88e35b2274d943159e207c783",
   "cf11503ff14b3d504b47d72076f422f8",
   "29b7e526f1c57da8e202935c46a407d5",
-  "18e7b17b8f4af3de8e2a7b3029e1f684"
+  "18e7b17b8f4af3de8e2a7b3029e1f684",
+  "8e371784e78406ddcfe0e07ddb8837a2"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4304,7 +4296,6 @@
   "f6d9ba8473": 1790645865.3717055,
   "08c5fced1d": 1790687276.4493108,
   "4c34f415ce": 1790690916.9672582,
-  "c71e576931": 1790696301.2662683,
   "fb72b5075b": 1790705255.8349135,
   "0445902113": 1790716045.8918386,
   "573ba90908": 1790725049.010326,
@@ -4700,7 +4691,8 @@
   "95a127f43f": 1794328649.6362257,
   "f9bb6059fa": 1794335890.9586565,
   "cd232d0d3c": 1794344888.8127327,
-  "cc277cae04": 1794352051.0826151
+  "cc277cae04": 1794352051.0826151,
+  "c71e576931": 1794362896.7196717
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4761,15 +4753,11 @@
   "bd1b879527": 1,
   "8bb9e8e627": 1,
   "456641110a": 1,
-  "10a3d2e51b": 1
+  "10a3d2e51b": 1,
+  "cf53b0d9bb": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "justo, seu carro já sofreu então fala com autoridade",
-   "p": "discorda",
-   "r": 0
-  },
   {
    "t": "pelo menos a vergonha sai mais em conta kkkk",
    "p": "concorda",
@@ -4912,6 +4900,11 @@
   },
   {
    "t": "tem muito projeto sério que dá banho em time grande por aí",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Foz do Iguaçu tem aquele encanto que poucos lembram, anotado aqui 🙏🏼",
    "p": "concorda",
    "r": 0
   }
@@ -6435,7 +6428,8 @@
    "agora fiquei curiosa",
    "ja entraram direto",
    "fica meio esquecida",
-   "lugar bonito que"
+   "lugar bonito que",
+   "foz do iguacu"
   ]
  },
  "shopee_checada": "2026-11-10|1",
