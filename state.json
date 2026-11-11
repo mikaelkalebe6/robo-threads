@@ -27,7 +27,7 @@
    "21:56"
   ],
   "produtos_feitos": 0,
-  "respostas": 71,
+  "respostas": 73,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -42,7 +42,7 @@
    "18358811470223070": 13,
    "18126776548905390": 3,
    "18063738524658947": 9,
-   "18138156736652646": 12
+   "18138156736652646": 14
   }
  },
  "posts": [
@@ -1081,8 +1081,6 @@
   }
  ],
  "respondidos": [
-  "18117112085051404",
-  "18098724092636626",
   "18234912622320331",
   "18195312202385623",
   "18119286193988973",
@@ -4080,7 +4078,9 @@
   "18435086347148260",
   "18112428041523411",
   "18389561401226340",
-  "17997218306843457"
+  "17997218306843457",
+  "18177357124456593",
+  "18133516483758469"
  ],
  "hashes": [
   "e653fb3d3a6e1c4381d9941e65c22b73",
@@ -4729,7 +4729,7 @@
   "65f559ae5a": 1,
   "78e7711007": 1,
   "4edd631b3d": 1,
-  "fddbcb2aec": 1,
+  "fddbcb2aec": 2,
   "495c54454a": 1,
   "09687f8aea": 1,
   "366fd5e9e4": 1,
@@ -4767,20 +4767,11 @@
   "aeef5fba0d": 1,
   "a1edc3f873": 1,
   "9f2f9b9f77": 1,
-  "e1fc991990": 1
+  "e1fc991990": 1,
+  "8223909009": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "salário chorando na conta e a pessoa quer rachar",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "É o campinho da rua onde a gente jogava nos domingos de sol",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "parece que a regra antiga continua firme por lá",
    "p": "concorda",
@@ -4918,6 +4909,16 @@
   },
   {
    "t": "esse dom só vem de nascido mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Adorei a dica, panela elétrica realmente resolve kkk 😂",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "medida exata assim parece sonho distante na minha cozinha",
    "p": "concorda",
    "r": 0
   }
@@ -6447,7 +6448,9 @@
    "ai sim olho",
    "entao se o",
    "quase deram ne",
-   "esse dom so"
+   "esse dom so",
+   "adorei a dica",
+   "medida exata assim"
   ]
  },
  "shopee_checada": "2026-11-10|1",
