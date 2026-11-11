@@ -21,10 +21,11 @@
   "feitos": [
    "08:35",
    "09:59",
-   "12:22"
+   "12:22",
+   "13:41"
   ],
   "produtos_feitos": 0,
-  "respostas": 20,
+  "respostas": 22,
   "por_post": {
    "18138156736652646": 8,
    "17946950157401907": 2,
@@ -32,30 +33,12 @@
    "18358811470223070": 1,
    "17974782471168671": 1,
    "18354126094248731": 4,
-   "18120342413070647": 1,
+   "18120342413070647": 2,
    "18063738524658947": 1,
-   "18103288532377942": 1
+   "18103288532377942": 2
   }
  },
  "posts": [
-  {
-   "id": "18115232447228628",
-   "insp": "2ff9f40b12",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: pagar caro no mecânico por um defeito que era só um fusível ou fingir que o carro é perfeito para não passar raiva",
-   "quando": "2026-11-06T12:37:09.337517-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 367,
-    "likes": 1,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-11"
-   },
-   "viral_chk": "2026-11-07T07:07:09.395080-04:00"
-  },
   {
    "id": "18229654453336032",
    "insp": "9c1aee7436",
@@ -1112,11 +1095,17 @@
    "texto": "DÚVIDA SINCERA: vale mais a pena gastar cinco anos na faculdade chorando em cima de cálculo III ou fazer um curso de 40 horas no YouTube com o coach do foguete e virar herdeiro de dropshipping?",
    "quando": "2026-11-11T13:07:08.616320-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18148034998598778",
+   "insp": "c05528a8e3",
+   "link": "",
+   "texto": "SEM MENTIR: casamento com separação total de bens ou comunhão de sofrimento porque se for pra dividir conta até no PIX do motel eu prefiro casar com o boleto do IPVA que pelo menos me abraça chorando todo mês. Vocês confiam tanto assim no ex de vocês?",
+   "quando": "2026-11-11T14:07:09.889234-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18153004711533813",
-  "18119563754473481",
   "17989186490867705",
   "18010010405969810",
   "18159254587500603",
@@ -4114,10 +4103,11 @@
   "17890398561620416",
   "18001644108042500",
   "18026568416713077",
-  "18001383132040298"
+  "18001383132040298",
+  "18124172107731370",
+  "18125664496924572"
  ],
  "hashes": [
-  "f07df4e685431be9f4b7bd1cd35891a7",
   "ea0e2ac32c31c7a29f490f48d3a1ce58",
   "d0cb3e22819e3d0b2553b698de256b87",
   "7f6c9487ea869d67e49e293d9b9af49c",
@@ -4316,7 +4306,8 @@
   "8e371784e78406ddcfe0e07ddb8837a2",
   "baa4b1ff73c6f7ca5f8ab1d8e397c0b6",
   "fa481f9534b5a57187b0e347239f1f5f",
-  "a37daedf54dd7ecea2fe4fe68e3c7edd"
+  "a37daedf54dd7ecea2fe4fe68e3c7edd",
+  "64e727adc66ccd92001d6307c1ecf7d9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4345,7 +4336,6 @@
   "00c9530901": 1790798863.395636,
   "828a5aba09": 1790802454.7834787,
   "3ce988f7a6": 1790807853.3159423,
-  "c05528a8e3": 1790809650.077538,
   "fbedf7f149": 1790813252.2096584,
   "c2d56efe9f": 1790816840.2517245,
   "7a1c42a5d7": 1790818665.313843,
@@ -4727,13 +4717,14 @@
   "c71e576931": 1794362896.7196717,
   "b5bc8dc34f": 1794400656.0151815,
   "6e719f8d0f": 1794406097.618749,
-  "25cf5fb448": 1794416856.0402312
+  "25cf5fb448": 1794416856.0402312,
+  "c05528a8e3": 1794420450.6618483
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-11-11",
   "312cc12de8": 1,
-  "9c9ed7acc0": 4,
+  "9c9ed7acc0": 6,
   "6dc5c60c69": 1,
   "4beb6f0ef1": 1,
   "5ac7dec197": 1,
@@ -4752,16 +4743,6 @@
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "se o Google viesse cozinhar o arroz por mim estaria resolvido kkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "anotei tudo, agora o próximo não passa do ponto kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "se trocar a panela resolvesse eu já estaria na quinta coleção kkk",
    "p": "concorda",
@@ -4900,6 +4881,16 @@
   {
    "t": "Um furacão de pelos, hein? 😂",
    "p": "neutra",
+   "r": 2
+  },
+  {
+   "t": "atalho de milhões kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "bolsa de valores dos sentimentos tá volátil kkkk",
+   "p": "concorda",
    "r": 2
   }
  ],
@@ -6405,10 +6396,12 @@
    "um furacao de"
   ],
   "18120342413070647": [
-   "estrategia de mercado"
+   "estrategia de mercado",
+   "bolsa de valores"
   ],
   "18103288532377942": [
-   "verdade o youtube"
+   "verdade o youtube",
+   "atalho de milhoes"
   ]
  },
  "shopee_checada": "2026-11-11|1",
