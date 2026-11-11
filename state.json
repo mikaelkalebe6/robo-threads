@@ -27,7 +27,7 @@
    "16:19"
   ],
   "produtos_feitos": 0,
-  "respostas": 25,
+  "respostas": 26,
   "por_post": {
    "18138156736652646": 10,
    "17946950157401907": 2,
@@ -38,7 +38,8 @@
    "18120342413070647": 2,
    "18063738524658947": 1,
    "18103288532377942": 2,
-   "18148034998598778": 1
+   "18148034998598778": 1,
+   "17916150045505435": 1
   }
  },
  "posts": [
@@ -1084,7 +1085,6 @@
   }
  ],
  "respondidos": [
-  "18099959531067514",
   "18063356765523733",
   "18127108421318010",
   "18072623147565598",
@@ -4083,7 +4083,8 @@
   "18125664496924572",
   "18164085979500667",
   "18131791225870714",
-  "17909045166669519"
+  "17909045166669519",
+  "18169225282486661"
  ],
  "hashes": [
   "7f6c9487ea869d67e49e293d9b9af49c",
@@ -4720,15 +4721,11 @@
   "9f2f9b9f77": 1,
   "7069571faf": 1,
   "b5607864ec": 1,
-  "5340e05032": 1
+  "5340e05032": 1,
+  "96b6e381bf": 1
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "Então, se o arroz começa a estalar, já virou concerto, né? Obrigada pela dica 😅",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "quase deram né, só faltou o tempero",
    "p": "concorda",
@@ -4871,6 +4868,11 @@
   },
   {
    "t": "Nossa, arroz perfeito desde a infância, que inveja 😆",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse nível de sinceridade já tá fora do alcance da lei kkkk",
    "p": "concorda",
    "r": 0
   }
@@ -6145,13 +6147,6 @@
   }
  ],
  "aberturas_post": {
-  "17900757891393240": [
-   "equipe cedo entao",
-   "madrugada tem um",
-   "esse silencio da",
-   "horario comercial certinho",
-   "justo levantar peso"
-  ],
   "18012741368996434": [
    "trabalho raiz q"
   ],
@@ -6369,6 +6364,9 @@
   ],
   "18148034998598778": [
    "total de bens"
+  ],
+  "17916150045505435": [
+   "esse nivel de"
   ]
  },
  "shopee_checada": "2026-11-11|1",
