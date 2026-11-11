@@ -22,10 +22,11 @@
    "08:35",
    "09:59",
    "12:22",
-   "13:41"
+   "13:41",
+   "14:48"
   ],
   "produtos_feitos": 0,
-  "respostas": 22,
+  "respostas": 23,
   "por_post": {
    "18138156736652646": 8,
    "17946950157401907": 2,
@@ -35,33 +36,11 @@
    "18354126094248731": 4,
    "18120342413070647": 2,
    "18063738524658947": 1,
-   "18103288532377942": 2
+   "18103288532377942": 2,
+   "18148034998598778": 1
   }
  },
  "posts": [
-  {
-   "id": "18229654453336032",
-   "insp": "9c1aee7436",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: passar dos vinte e cinco morando com os pais tem um lado financeiro excelente que ninguém admite com sinceridade. A economia real para construir patrimônio é absurda e pouca gente tem coragem de priorizar isso em vez de pagar aluguel só para manter uma fachada de independência.",
-   "quando": "2026-11-06T13:37:08.324440-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 3838,
-    "likes": 110,
-    "replies": 45,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-11"
-   },
-   "viral_chk": "2026-11-07T07:07:09.395080-04:00",
-   "link_coment": "https://s.shopee.com.br/2LZgPhhQI7",
-   "meme_comentado": true,
-   "meme_views": 1950,
-   "formato_link": "coment",
-   "produto": "23198805153"
-  },
   {
    "id": "18129394138877262",
    "insp": "74e3ec90e5",
@@ -1103,10 +1082,17 @@
    "texto": "SEM MENTIR: casamento com separação total de bens ou comunhão de sofrimento porque se for pra dividir conta até no PIX do motel eu prefiro casar com o boleto do IPVA que pelo menos me abraça chorando todo mês. Vocês confiam tanto assim no ex de vocês?",
    "quando": "2026-11-11T14:07:09.889234-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18113412365203537",
+   "insp": "d6497bdd55",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: a IA da firma já tá escrevendo os e-mails passivo-agressivos por vocês ou vocês ainda perdem tempo fingindo que se importam com as sinergias da semana",
+   "quando": "2026-11-11T15:07:08.023078-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17989186490867705",
   "18010010405969810",
   "18159254587500603",
   "18099959531067514",
@@ -4105,10 +4091,10 @@
   "18026568416713077",
   "18001383132040298",
   "18124172107731370",
-  "18125664496924572"
+  "18125664496924572",
+  "18164085979500667"
  ],
  "hashes": [
-  "ea0e2ac32c31c7a29f490f48d3a1ce58",
   "d0cb3e22819e3d0b2553b698de256b87",
   "7f6c9487ea869d67e49e293d9b9af49c",
   "ab343a7ccda1391102ecb6b19f0907ff",
@@ -4307,7 +4293,8 @@
   "baa4b1ff73c6f7ca5f8ab1d8e397c0b6",
   "fa481f9534b5a57187b0e347239f1f5f",
   "a37daedf54dd7ecea2fe4fe68e3c7edd",
-  "64e727adc66ccd92001d6307c1ecf7d9"
+  "64e727adc66ccd92001d6307c1ecf7d9",
+  "b1438e3720169ed5444178a609a64663"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4428,7 +4415,6 @@
   "f16c6c27c0": 1791464840.5570676,
   "9251fb6a0d": 1791468449.4808562,
   "9a79b11d92": 1791473853.9998388,
-  "d6497bdd55": 1791477465.6790605,
   "607a9f8d64": 1791491845.7964373,
   "bcc0c20424": 1791495460.9115326,
   "29649aab34": 1791497253.2238147,
@@ -4718,7 +4704,8 @@
   "b5bc8dc34f": 1794400656.0151815,
   "6e719f8d0f": 1794406097.618749,
   "25cf5fb448": 1794416856.0402312,
-  "c05528a8e3": 1794420450.6618483
+  "c05528a8e3": 1794420450.6618483,
+  "d6497bdd55": 1794424060.460397
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4739,15 +4726,11 @@
   "a9325a46db": 1,
   "4daac2f246": 1,
   "c7fb738d74": 1,
-  "9f2f9b9f77": 1
+  "9f2f9b9f77": 1,
+  "7069571faf": 1
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "se trocar a panela resolvesse eu já estaria na quinta coleção kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "panela certa resolve metade dos problemas culinários kkkk",
    "p": "concorda",
@@ -4892,6 +4875,11 @@
    "t": "bolsa de valores dos sentimentos tá volátil kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "Total de bens é a escolha mais tranquila, né? kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6164,25 +6152,6 @@
   }
  ],
  "aberturas_post": {
-  "18096380930670615": [
-   "cliente pelo menos",
-   "pesquisa de campo",
-   "exato aviso previo",
-   "o minimo e",
-   "livramento duplo cada",
-   "caixa de chocolate",
-   "tolerancia zero com",
-   "bloqueio imediato para",
-   "verdade quem nao",
-   "concordo sem aviso",
-   "essa logica de",
-   "cada leitura que",
-   "pelo menos avisando",
-   "marcar direto no",
-   "melhor escolha para",
-   "complicado achar que",
-   "quinze minutos ja"
-  ],
   "17900757891393240": [
    "equipe cedo entao",
    "madrugada tem um",
@@ -6402,6 +6371,9 @@
   "18103288532377942": [
    "verdade o youtube",
    "atalho de milhoes"
+  ],
+  "18148034998598778": [
+   "total de bens"
   ]
  },
  "shopee_checada": "2026-11-11|1",
