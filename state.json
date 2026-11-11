@@ -24,16 +24,17 @@
    "12:22"
   ],
   "produtos_feitos": 0,
-  "respostas": 18,
+  "respostas": 20,
   "por_post": {
    "18138156736652646": 8,
    "17946950157401907": 2,
    "18126776548905390": 1,
    "18358811470223070": 1,
    "17974782471168671": 1,
-   "18354126094248731": 3,
+   "18354126094248731": 4,
    "18120342413070647": 1,
-   "18063738524658947": 1
+   "18063738524658947": 1,
+   "18103288532377942": 1
   }
  },
  "posts": [
@@ -1114,8 +1115,6 @@
   }
  ],
  "respondidos": [
-  "18208287196369779",
-  "18008014694997390",
   "18153004711533813",
   "18119563754473481",
   "17989186490867705",
@@ -4113,7 +4112,9 @@
   "18150002983574528",
   "17917527615496337",
   "17890398561620416",
-  "18001644108042500"
+  "18001644108042500",
+  "18026568416713077",
+  "18001383132040298"
  ],
  "hashes": [
   "f07df4e685431be9f4b7bd1cd35891a7",
@@ -4745,20 +4746,12 @@
   "4d4718f0c5": 1,
   "5a4f6559c6": 1,
   "a9325a46db": 1,
-  "4daac2f246": 1
+  "4daac2f246": 1,
+  "c7fb738d74": 1,
+  "9f2f9b9f77": 1
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "queria ver seguir o manual sem errar kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pelo menos a sua meta é bem mais fácil de alcançar kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "se o Google viesse cozinhar o arroz por mim estaria resolvido kkk",
    "p": "neutra",
@@ -4898,6 +4891,16 @@
    "t": "contar até 5 parece feitiçaria mas vou tentar kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "Verdade, o YouTube entrega mais rápido 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Um furacão de pelos, hein? 😂",
+   "p": "neutra",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6170,13 +6173,6 @@
   }
  ],
  "aberturas_post": {
-  "18159685150495656": [
-   "percepcao zero na",
-   "as vezes a",
-   "precisa de um",
-   "percepcao de centavos",
-   "cinco anos e"
-  ],
   "18096380930670615": [
    "cliente pelo menos",
    "pesquisa de campo",
@@ -6405,10 +6401,14 @@
   "18354126094248731": [
    "socorro o pior",
    "seu dog virou",
-   "o caozinho e"
+   "o caozinho e",
+   "um furacao de"
   ],
   "18120342413070647": [
    "estrategia de mercado"
+  ],
+  "18103288532377942": [
+   "verdade o youtube"
   ]
  },
  "shopee_checada": "2026-11-11|1",
