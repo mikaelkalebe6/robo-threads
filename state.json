@@ -20,9 +20,9 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 7,
+  "respostas": 10,
   "por_post": {
-   "18138156736652646": 2,
+   "18138156736652646": 5,
    "17946950157401907": 2,
    "18126776548905390": 1,
    "18358811470223070": 1,
@@ -1137,9 +1137,6 @@
   }
  ],
  "respondidos": [
-  "18100624409454665",
-  "18151131610531442",
-  "17911064166492645",
   "18150793489474877",
   "17972782527151835",
   "18222864055338133",
@@ -4136,7 +4133,10 @@
   "18477154762188326",
   "18359103760216586",
   "18657009265031779",
-  "17995232280116430"
+  "17995232280116430",
+  "18485648527113534",
+  "18026668070715737",
+  "18071988824508673"
  ],
  "hashes": [
   "e653fb3d3a6e1c4381d9941e65c22b73",
@@ -4758,25 +4758,13 @@
   "9c9ed7acc0": 3,
   "6dc5c60c69": 1,
   "4beb6f0ef1": 1,
-  "5ac7dec197": 1
+  "5ac7dec197": 1,
+  "944b96f67c": 1,
+  "c861933903": 1,
+  "a4e91b8296": 1
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "agora fiquei curiosa para saber o que tem de bom por lá",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "já entraram direto na lista",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o boleto do encontro duplo chegando kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "fica meio esquecida no mapa mas tem um visual lindo",
    "p": "neutra",
@@ -4911,6 +4899,21 @@
    "t": "nós que nem olho para o manual até o carro falar",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "Aí, ponto de mestre, né? kkk 😂",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "vou testar esse truque no próximo, já salvou o almoço 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "fácil falar quando já nasceu com esse dom kkk",
+   "p": "ressalva",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6424,7 +6427,10 @@
    "adorei a dica",
    "medida exata assim",
    "ouvido bionico faz",
-   "essa dica de"
+   "essa dica de",
+   "ai ponto de",
+   "vou testar esse",
+   "facil falar quando"
   ],
   "17946950157401907": [
    "esse e o",
