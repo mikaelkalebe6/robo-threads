@@ -23,15 +23,16 @@
    "09:59"
   ],
   "produtos_feitos": 0,
-  "respostas": 16,
+  "respostas": 18,
   "por_post": {
-   "18138156736652646": 7,
+   "18138156736652646": 8,
    "17946950157401907": 2,
    "18126776548905390": 1,
    "18358811470223070": 1,
    "17974782471168671": 1,
    "18354126094248731": 3,
-   "18120342413070647": 1
+   "18120342413070647": 1,
+   "18063738524658947": 1
   }
  },
  "posts": [
@@ -1122,8 +1123,6 @@
   }
  ],
  "respondidos": [
-  "18158050537508443",
-  "18125842666880499",
   "18208287196369779",
   "18008014694997390",
   "18153004711533813",
@@ -4121,7 +4120,9 @@
   "18190552321374956",
   "18576959242078570",
   "18150002983574528",
-  "17917527615496337"
+  "17917527615496337",
+  "17890398561620416",
+  "18001644108042500"
  ],
  "hashes": [
   "11c03054aa5a4cd727228b69ec57f7fe",
@@ -4751,20 +4752,12 @@
   "c781ba4bf1": 1,
   "7f4dc3e480": 1,
   "4d4718f0c5": 1,
-  "5a4f6559c6": 1
+  "5a4f6559c6": 1,
+  "a9325a46db": 1,
+  "4daac2f246": 1
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "branco é rebelde mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "agora chamar adulto de disfuncional por causa de arroz é forte demais kkk",
-   "p": "ressalva",
-   "r": 1
-  },
   {
    "t": "queria ver seguir o manual sem errar kkkk",
    "p": "concorda",
@@ -4902,6 +4895,16 @@
   },
   {
    "t": "estratégia de mercado aberta com sucesso kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "muita gente passa direto por lá e perde um lugar incrível",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "contar até 5 parece feitiçaria mas vou tentar kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6374,7 +6377,8 @@
    "ja entraram direto",
    "fica meio esquecida",
    "lugar bonito que",
-   "foz do iguacu"
+   "foz do iguacu",
+   "muita gente passa"
   ],
   "18138156736652646": [
    "branco e rebelde",
@@ -6397,7 +6401,8 @@
    "vou testar esse",
    "facil falar quando",
    "pelo menos ja",
-   "confessou a falcatrua"
+   "confessou a falcatrua",
+   "contar ate 5"
   ],
   "17946950157401907": [
    "esse e o",
