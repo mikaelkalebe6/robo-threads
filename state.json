@@ -19,7 +19,8 @@
    "20:35"
   ],
   "feitos": [
-   "08:35"
+   "08:35",
+   "09:59"
   ],
   "produtos_feitos": 0,
   "respostas": 15,
@@ -33,24 +34,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18033438020853262",
-   "insp": "6868d7247a",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: meu gato dorme dezoito horas por dia sem pagar boleto e quem acorda exausta sou eu",
-   "quando": "2026-11-06T09:37:10.352140-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 564,
-    "likes": 17,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-11"
-   },
-   "viral_chk": "2026-11-07T07:07:09.395080-04:00"
-  },
   {
    "id": "18135565411742818",
    "insp": "d97c7d9c44",
@@ -1126,6 +1109,14 @@
    "link": "",
    "texto": "PESSOAS QUE TÊM PET: o cachorro de uma conhecida simplesmente comeu o boleto do IPVA e deixou intacto o carnê da faculdade de direito, acho que o bicho tem senso de prioridade e tá querendo proteger a dona de uma vida sofrida. Qual foi a maior arte que o seu animalzinho já fez para testar sua sanida",
    "quando": "2026-11-11T08:37:09.547707-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18120342413070647",
+   "insp": "6e719f8d0f",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: o primeiro encontro começa na velocidade da resposta. A pessoa visualiza, some por 45 minutos pra consultar o comitê de ética dos amigos e ainda me manda um \"olha, a semana tá bem corrida, mas a gente vai falando\". Meu anjo, você não tá gerindo uma crise na Petrobras, só precisa ",
+   "quando": "2026-11-11T10:07:09.835957-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4132,7 +4123,6 @@
   "18150002983574528"
  ],
  "hashes": [
-  "d7375e12b9e3607584ff0e192408ea89",
   "11c03054aa5a4cd727228b69ec57f7fe",
   "f07df4e685431be9f4b7bd1cd35891a7",
   "ea0e2ac32c31c7a29f490f48d3a1ce58",
@@ -4331,7 +4321,8 @@
   "29b7e526f1c57da8e202935c46a407d5",
   "18e7b17b8f4af3de8e2a7b3029e1f684",
   "8e371784e78406ddcfe0e07ddb8837a2",
-  "baa4b1ff73c6f7ca5f8ab1d8e397c0b6"
+  "baa4b1ff73c6f7ca5f8ab1d8e397c0b6",
+  "fa481f9534b5a57187b0e347239f1f5f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4526,7 +4517,6 @@
   "2c97391d6e": 1792274863.0839956,
   "f4861a96cb": 1792278445.6304848,
   "b8060c0c5a": 1792285646.3168828,
-  "6e719f8d0f": 1792289247.3859193,
   "8ab8e68dd2": 1792327044.3925588,
   "92d6999031": 1792330647.7168002,
   "a78254bf8a": 1792336043.8635733,
@@ -4742,7 +4732,8 @@
   "cd232d0d3c": 1794344888.8127327,
   "cc277cae04": 1794352051.0826151,
   "c71e576931": 1794362896.7196717,
-  "b5bc8dc34f": 1794400656.0151815
+  "b5bc8dc34f": 1794400656.0151815,
+  "6e719f8d0f": 1794406097.618749
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
