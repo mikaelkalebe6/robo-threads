@@ -27,7 +27,7 @@
    "21:56"
   ],
   "produtos_feitos": 0,
-  "respostas": 65,
+  "respostas": 71,
   "por_post": {
    "17912449200577226": 4,
    "18111119075264289": 1,
@@ -42,7 +42,7 @@
    "18358811470223070": 13,
    "18126776548905390": 3,
    "18063738524658947": 9,
-   "18138156736652646": 6
+   "18138156736652646": 12
   }
  },
  "posts": [
@@ -1081,12 +1081,6 @@
   }
  ],
  "respondidos": [
-  "17955103323081503",
-  "18236427115318451",
-  "17904393702348996",
-  "18080366399352346",
-  "18627370426010367",
-  "18133727872658785",
   "18117112085051404",
   "18098724092636626",
   "18234912622320331",
@@ -4080,7 +4074,13 @@
   "18060091646596540",
   "17977577823166287",
   "18103315886376650",
-  "17953726539083895"
+  "17953726539083895",
+  "18123726958908732",
+  "17888784489622820",
+  "18435086347148260",
+  "18112428041523411",
+  "18389561401226340",
+  "17997218306843457"
  ],
  "hashes": [
   "e653fb3d3a6e1c4381d9941e65c22b73",
@@ -4761,40 +4761,16 @@
   "7dad6f13f1": 1,
   "38f9f55913": 1,
   "0e92ba79e8": 1,
-  "7649ba34ea": 1
+  "7649ba34ea": 1,
+  "b1def18a0c": 1,
+  "dcc0b149fc": 1,
+  "aeef5fba0d": 1,
+  "a1edc3f873": 1,
+  "9f2f9b9f77": 1,
+  "e1fc991990": 1
  },
  "reservas_checadas": "2026-11-10",
  "ultimas_respostas": [
-  {
-   "t": "lugar seguro e café leve já resolvem boa parte da tensão do primeiro encontro",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "tradição pesada essa de jogar a conta toda nas costas de um só",
-   "p": "discorda",
-   "r": 0
-  },
-  {
-   "t": "Então está combinado, quem convida paga mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "exato, mas às vezes rola um acordo inesperado kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "KKKKKK, ainda lembro o Ceni, mas o Dida era reserva de gol",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Entendo, vc já tá na frente kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "salário chorando na conta e a pessoa quer rachar",
    "p": "discorda",
@@ -4914,6 +4890,36 @@
    "t": "anotei tudo, agora o próximo não passa do ponto kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "se trocar a panela resolvesse eu já estaria na quinta coleção kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "panela certa resolve metade dos problemas culinários kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Aí sim, olho e ouvido de chef kkk já anotei esse truque 🙏🏼",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Então, se o arroz começa a estalar, já virou concerto, né? Obrigada pela dica 😅",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quase deram né, só faltou o tempero",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse dom só vem de nascido mesmo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6435,7 +6441,13 @@
    "queria ver seguir",
    "pelo menos a",
    "se o google",
-   "anotei tudo agora"
+   "anotei tudo agora",
+   "se trocar a",
+   "panela certa resolve",
+   "ai sim olho",
+   "entao se o",
+   "quase deram ne",
+   "esse dom so"
   ]
  },
  "shopee_checada": "2026-11-10|1",
