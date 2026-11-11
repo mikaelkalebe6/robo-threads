@@ -23,14 +23,15 @@
    "09:59"
   ],
   "produtos_feitos": 0,
-  "respostas": 15,
+  "respostas": 16,
   "por_post": {
    "18138156736652646": 7,
    "17946950157401907": 2,
    "18126776548905390": 1,
    "18358811470223070": 1,
    "17974782471168671": 1,
-   "18354126094248731": 3
+   "18354126094248731": 3,
+   "18120342413070647": 1
   }
  },
  "posts": [
@@ -1121,7 +1122,6 @@
   }
  ],
  "respondidos": [
-  "18047519603816066",
   "18158050537508443",
   "18125842666880499",
   "18208287196369779",
@@ -4120,7 +4120,8 @@
   "18112053338629197",
   "18190552321374956",
   "18576959242078570",
-  "18150002983574528"
+  "18150002983574528",
+  "17917527615496337"
  ],
  "hashes": [
   "11c03054aa5a4cd727228b69ec57f7fe",
@@ -4749,15 +4750,11 @@
   "1b3be67ea6": 1,
   "c781ba4bf1": 1,
   "7f4dc3e480": 1,
-  "4d4718f0c5": 1
+  "4d4718f0c5": 1,
+  "5a4f6559c6": 1
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "Foz do Iguaçu tem aquele encanto que poucos lembram, anotado aqui 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "branco é rebelde mesmo kkk",
    "p": "concorda",
@@ -4902,6 +4899,11 @@
    "t": "o cãozinho é o próprio detector de caos kkkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "estratégia de mercado aberta com sucesso kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6174,25 +6176,6 @@
   }
  ],
  "aberturas_post": {
-  "17912953554306994": [
-   "pelo menos a",
-   "politica realmente exige",
-   "paz de espirito",
-   "muitas variaveis para",
-   "da uma temperada",
-   "colecionador de fortes",
-   "politica ja entra",
-   "o respeito no",
-   "trinta anos de",
-   "pesado demais chegar",
-   "7 anos de",
-   "pior q tem",
-   "entao o futebol",
-   "politica ainda vai",
-   "estrategia de sobrevivencia",
-   "plot twist completo",
-   "politica ja e"
-  ],
   "18159685150495656": [
    "percepcao zero na",
    "as vezes a",
@@ -6427,6 +6410,9 @@
    "socorro o pior",
    "seu dog virou",
    "o caozinho e"
+  ],
+  "18120342413070647": [
+   "estrategia de mercado"
   ]
  },
  "shopee_checada": "2026-11-11|1",
