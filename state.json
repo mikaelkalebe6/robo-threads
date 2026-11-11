@@ -26,9 +26,9 @@
    "14:48"
   ],
   "produtos_feitos": 0,
-  "respostas": 24,
+  "respostas": 25,
   "por_post": {
-   "18138156736652646": 9,
+   "18138156736652646": 10,
    "17946950157401907": 2,
    "18126776548905390": 1,
    "18358811470223070": 1,
@@ -1093,7 +1093,6 @@
   }
  ],
  "respondidos": [
-  "18159254587500603",
   "18099959531067514",
   "18063356765523733",
   "18127108421318010",
@@ -4092,7 +4091,8 @@
   "18124172107731370",
   "18125664496924572",
   "18164085979500667",
-  "18131791225870714"
+  "18131791225870714",
+  "17909045166669519"
  ],
  "hashes": [
   "d0cb3e22819e3d0b2553b698de256b87",
@@ -4728,15 +4728,11 @@
   "c7fb738d74": 1,
   "9f2f9b9f77": 1,
   "7069571faf": 1,
-  "b5607864ec": 1
+  "b5607864ec": 1,
+  "5340e05032": 1
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "Aí sim, olho e ouvido de chef kkk já anotei esse truque 🙏🏼",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Então, se o arroz começa a estalar, já virou concerto, né? Obrigada pela dica 😅",
    "p": "concorda",
@@ -4879,6 +4875,11 @@
   },
   {
    "t": "essa fritadinha inicial faz toda a diferença mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Nossa, arroz perfeito desde a infância, que inveja 😆",
    "p": "concorda",
    "r": 0
   }
@@ -6351,7 +6352,8 @@
    "pelo menos ja",
    "confessou a falcatrua",
    "contar ate 5",
-   "essa fritadinha inicial"
+   "essa fritadinha inicial",
+   "nossa arroz perfeito"
   ],
   "17946950157401907": [
    "esse e o",
