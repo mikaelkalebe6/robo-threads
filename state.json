@@ -26,9 +26,9 @@
    "14:48"
   ],
   "produtos_feitos": 0,
-  "respostas": 23,
+  "respostas": 24,
   "por_post": {
-   "18138156736652646": 8,
+   "18138156736652646": 9,
    "17946950157401907": 2,
    "18126776548905390": 1,
    "18358811470223070": 1,
@@ -1093,7 +1093,6 @@
   }
  ],
  "respondidos": [
-  "18010010405969810",
   "18159254587500603",
   "18099959531067514",
   "18063356765523733",
@@ -4092,7 +4091,8 @@
   "18001383132040298",
   "18124172107731370",
   "18125664496924572",
-  "18164085979500667"
+  "18164085979500667",
+  "18131791225870714"
  ],
  "hashes": [
   "d0cb3e22819e3d0b2553b698de256b87",
@@ -4727,15 +4727,11 @@
   "4daac2f246": 1,
   "c7fb738d74": 1,
   "9f2f9b9f77": 1,
-  "7069571faf": 1
+  "7069571faf": 1,
+  "b5607864ec": 1
  },
  "reservas_checadas": "2026-11-11",
  "ultimas_respostas": [
-  {
-   "t": "panela certa resolve metade dos problemas culinários kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Aí sim, olho e ouvido de chef kkk já anotei esse truque 🙏🏼",
    "p": "concorda",
@@ -4880,6 +4876,11 @@
    "t": "Total de bens é a escolha mais tranquila, né? kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "essa fritadinha inicial faz toda a diferença mesmo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6349,7 +6350,8 @@
    "facil falar quando",
    "pelo menos ja",
    "confessou a falcatrua",
-   "contar ate 5"
+   "contar ate 5",
+   "essa fritadinha inicial"
   ],
   "17946950157401907": [
    "esse e o",
