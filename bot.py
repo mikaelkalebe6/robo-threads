@@ -54,9 +54,9 @@ PAUSADO = env("PAUSADO", "0") == "1"
 # Mudou uma regra do robo? Mude a Variable e, se for o novo normal, mude AQUI tambem.
 PADRAO = {
     "POSTS_MIN": "6", "POSTS_MAX": "16", "HORA_INICIO": "8", "HORA_FIM": "22", "INTERVALO_MINIMO_MIN": "40",
-    "RESPOSTAS_POR_RODADA": "6", "RESPOSTAS_POR_DIA": "200", "RESPOSTAS_POR_PESSOA": "2",
+    "RESPOSTAS_POR_RODADA": "30", "RESPOSTAS_POR_DIA": "1000", "RESPOSTAS_POR_PESSOA": "10",
     # teto de respostas por post no dia (para um post viral nao comer o dia todo) e o piso de cada rodada
-    "RESPOSTAS_POR_POST_DIA": "20", "RESPOSTAS_MIN_RODADA": "2",
+    "RESPOSTAS_POR_POST_DIA": "100", "RESPOSTAS_MIN_RODADA": "5",
     # de quantos em quantos minutos o despertador externo chama o robo (para dividir o teto do dia ate HORA_FIM)
     "MINUTOS_ENTRE_RODADAS": "30",
     "CHANCE_FOTO": "0.5", "CHANCE_TENDENCIA": "0.3",
@@ -81,7 +81,7 @@ PADRAO = {
     "SHOPEE_PALAVRAS": "acessorio carro,kit ferramentas,fone bluetooth,smartwatch,suporte celular carro,churrasco,academia,carteira masculina,relogio masculino,barbeador,camping,pesca",
     "SHOPEE_NOTA_MIN": "4.9", "SHOPEE_PRECO_MAX": "80", "SHOPEE_VENDAS_MIN": "300", "SHOPEE_REPETIR_DIAS": "14",
     "TESTE_COMENTARIO_PRODUTO": "1",
-    "ESTRATEGIA_MEME": "1", "MEME_JANELA_HORAS": "24", "MEME_CHECAGENS_POR_RODADA": "15", "MEME_VIEWS_LINK": "1000", "MEME_LINKS_POR_DIA": "5",
+    "ESTRATEGIA_MEME": "1", "MEME_JANELA_HORAS": "24", "MEME_CHECAGENS_POR_RODADA": "15", "MEME_VIEWS_LINK": "500", "MEME_LINKS_POR_DIA": "5",
     "ESTRATEGIA_FIO": "1",
     # Estrategia 1 ampliada (briefing 10/10): 1 = qualquer post de engajamento do robo que passar de MEME_VIEWS_LINK views
     # recebe o link de um produto ligado ao tema (a IA escolhe; se nada combinar, nao comenta). 0 = so posts "meme"
@@ -92,7 +92,7 @@ PADRAO = {
     "SHOPEE_TEMA_RELAXADO": "4.5,30,150",
     "PRODUTO_POR_DIA": "3",
     # sorteio da estrategia em cada horario de produto (pesos iguais ate 23/10; nao ajustar sozinho)
-    "PESOS_ESTRATEGIA": "carrossel:1,fio:1,produto_foto:1",
+    "PESOS_ESTRATEGIA": "anuncio_stitch:1,fio:1,produto_foto:1",
     # post de produto no formato achadinho (briefing 11/10, referencia @izarovaris): post de descoberta SEM link;
     # o link entra depois numa resposta propria (frase curta + link + #publi, sem foto) quando o post passar de
     # ACHADINHO_VIEWS_LINK views ou, se nao passar, depois de ACHADINHO_LINK_HORAS horas
@@ -149,8 +149,10 @@ if MIN_POSTS > MAX_POSTS:
     MIN_POSTS, MAX_POSTS = MAX_POSTS, MIN_POSTS
 EXEMPLOS = env("EXEMPLOS_RESPOSTAS", "")
 PERSONA = env("PERSONA", (
-    "Voce escreve como a dona do perfil: uma mulher comum, bem-humorada, que puxa papo sobre dinheiro, "
-    "carreira, relacionamentos e o dia a dia. Tom leve, curioso e direto. Posts curtos que convidam a comentar."
+    "Voce escreve como a dona do perfil: uma mulher comum, bem-humorada e extremamente comica e criativa. "
+    "Seus posts focam em humor brasileiro atual, fazendo dialogos engracados, memes de atualidade "
+    "(fofoca, traicao, ias, perrengues). Voce cria fios com inicio, meio e fim elaborados, "
+    "textos envolventes porem super dinamicos que prendem o usuario e o convidam a comentar muito."
 ))
 # Personalidade das RESPOSTAS: vem da Variable PERSONA_RESPOSTA.
 PERSONA_RESPOSTA = env("PERSONA_RESPOSTA", (  # a persona real fica so na Variable; este e um texto de reserva
@@ -552,51 +554,56 @@ def gerar_post(insp, com_link):
         log("Gancho escrito pelo dono: postando o texto dele sem reescrever.")
         _QUEM[0] = "literal"
         return (insp["ideia"] or "").strip()[:500]
-    estilo = random.choice(ESTILOS)
-    tamanho = random.choice(["bem curto (1 a 2 linhas)", "curto (2 a 4 linhas)", "medio (ate 5 linhas)"])
+
+    # 90% das vezes usa as tendencias diarias para remodelar o post de forma comica
+    usar_trend = random.random() < 0.90
+
+    estilo = random.choice(["fio envolvente de 3-4 paragrafos com final cômico", "post de fofoca brasileira", "meme adaptado para texto", "dialogo ironico simulado"])
+
     prompt = f"""{PERSONA}
 
-Escreva UM post para o Threads, em portugues do Brasil. Use a inspiracao como referencia de tema e de gancho, sem copiar literalmente, e siga a observacao.
-Inspiracao: {insp['ideia']}
-Produto: {insp['produto'] or 'nenhum (nao fale de produto, marca ou empresa)'}
-Observacao: {insp['obs'] or '-'}
-Estilo: {estilo}. Tamanho: {tamanho}.
-Regras: O prefixo em caixa alta tem que combinar com o texto. DUVIDA SINCERA, SEJAM SINCEROS e ME CONTA só quando o post for uma pergunta de verdade. Se o post for afirmação ou opinião, use VAMOS CONCORDAR, VAMOS SER HONESTOS, NINGUEM FALA DISSO, OPINIAO IMPOPULAR, ou escreva sem prefixo.
-nao coloque link nem @; no maximo 1 emoji (ou nenhum); nada de hashtags em excesso (0 ou 1);
-nao use travessao; {'termine convidando a clicar no link abaixo de forma natural' if com_link else 'termine de forma natural e variada: as vezes com uma pergunta para comentarem, as vezes com uma opiniao ou uma frase seca, sem pedir comentario toda vez'}.
+Escreva UM post (ou um pequeno fio em formato de texto unico longo) para o Threads, em portugues do Brasil. Use a inspiracao como ponto de partida, mas remodele COMPLETAMENTE para ser EXTREMAMENTE COMICO, criativo e envolvente.
+Inspiracao base: {insp['ideia']}
+Estilo: {estilo}.
+Regras: Crie um inicio chamativo (gancho), um desenvolvimento comico ou uma situacao absurda do dia a dia brasileiro, e um final comico.
+Pode usar historias inventadas de fofoca, ias, traicao, boletos, memes atuais, dialogos ironicos.
+Sem travessoes, sem hashtags em excesso (0 ou 1). Nao cite fontes, nao avise que e uma piada.
+{'Termine de forma muito engracada convidando o pessoal a ver o link abaixo.' if com_link else 'Termine com uma pergunta polemica ou muito comica para gerar debate.'}
 Responda so com o texto do post."""
-    teste_reserva = dt.datetime.now(TZ).strftime("%Y-%m-%d") <= TESTE_RESERVA_ATE and random.random() < CHANCE_POST_RESERVA
-    usar_trend = random.random() < CHANCE_TREND and not teste_reserva  # busca so existe no Gemini
+
+    if usar_trend:
+        prompt += ("\nAntes de escrever, faca uma PESQUISA pelas maiores fofocas, memes ou trends do Threads/Twitter no Brasil HOJE "
+                   "e incorpore isso de forma genial e engracada na sua historia/post. Faca parecer muito atual.")
+
+    teste_reserva = dt.datetime.now(TZ).strftime("%Y-%m-%d") <= TESTE_RESERVA_ATE and random.random() < CHANCE_POST_RESERVA and not usar_trend
     if teste_reserva:
         try:
             txt = limpar(_so_reservas(prompt, False) or "")
             if txt:
                 log(f"Teste de reserva: post escrito por {_QUEM[0]}.")
-                return corrigir_prefixo(txt[:440])
+                return corrigir_prefixo(txt[:1000])
         except Exception as e:
             log("Teste de reserva falhou, seguindo com o Gemini:", str(e)[:120])
-    if usar_trend:
-        prompt += ("\nAntes de escrever, pesquise o que esta sendo muito comentado HOJE no Brasil "
-                   "(redes sociais e noticias) ligado ao tema da inspiracao e use esse assunto atual "
-                   "como gancho, de forma natural. Evite tragedias, mortes e politica partidaria. "
-                   "Nao cite fontes nem links.")
+
     try:
         try:
             txt = limpar(ia(prompt, busca=usar_trend) or "")
             if usar_trend:
-                log("Post usando tendencia do dia.")
+                log("Post gerado usando tendencia diaria.")
         except Exception as e:
             if not usar_trend:
                 raise
             log("Busca de tendencia falhou, seguindo sem:", str(e)[:150])
-            txt = limpar(ia(prompt.split("\nAntes de escrever, pesquise")[0]) or "")
+            txt = limpar(ia(prompt.split("\nAntes de escrever, faca")[0]) or "")
     except Exception as e:
         log("Todas as IAs falharam; postando o gancho da planilha do jeito que esta escrito:", str(e)[:200])
         txt = ""
+
     if not txt:
         txt = (insp["ideia"] or "").strip()
         _QUEM[0] = "literal (IAs fora)"
-    return corrigir_prefixo(txt[:440])
+
+    return corrigir_prefixo(txt[:1000])
 
 
 # prefixo de pergunta (DUVIDA SINCERA etc.) em post que nao pergunta nada engana quem le
@@ -1093,19 +1100,18 @@ def marcadores(estrategia, formato, agora, pid):
 
 
 def frase_produto(nome, campanha=""):
-    """Frase do comentario variando: so frase, so carinha ou as duas. Em campanha, as vezes cita a promocao."""
-    modo = random.choice(["frase", "carinha", "ambos"])
-    if campanha and random.random() < 0.6:
-        modo = random.choice(["frase", "ambos"])
-    extra = f'\nO produto esta na promocao "{campanha}" da Shopee: cite isso de leve e natural (ex.: "aproveita que ta no {campanha}").' if campanha and modo != "carinha" else ""
+    """Frase do comentario variando e focando em ganchos EXTREMAMENTE criativos, comicos e curtos. Em campanha, as vezes cita a promocao."""
+    modo = random.choice(["frase", "ambos"])
+    extra = f'\nO produto esta na promocao "{campanha}" da Shopee: cite isso de forma engracada.' if campanha else ""
     carinha = random.choice(CARINHAS_PRODUTO)
-    if modo == "carinha":
-        return carinha
+
     prompt = f"""{PERSONA_RESPOSTA}
 
 Escreva uma frase curtissima e natural (no maximo 80 caracteres) em portugues sobre o produto "{nome}".
-A frase vai logo antes do link (formato: "frase link fecho"). Pode ser reacao curta, elogio simples ou poucas palavras.{extra}
-Regras: no maximo 80 caracteres; sem travessoes; sem links; sem @; tom natural de amiga; sem emoji."""
+A frase vai logo antes do link (formato: "frase link fecho").
+Seja MUITO CRIATIVA, COMICA e chamativa, estimulando a curiosidade absurda para a pessoa clicar no link.{extra}
+Fugindo totalmente do obvio ("aqui o link"). Exemplo: "O motivo do meu nome sujo, clica por sua conta", "A invencao mais absurda que achei".
+Regras: no maximo 80 caracteres; sem travessoes; sem links; sem @; sem emoji."""
     try:
         frase = limpar_resposta(ia(prompt, modelos_gemini=[GEMINI_MODEL_RESPOSTA]) or "")
     except Exception as e:
@@ -1874,38 +1880,70 @@ def publicar_carrossel(urls, texto):
     return threads("POST", "me/threads_publish", creation_id=cid)["id"]
 
 
-def postar_carrossel(s, agora):
-    """Estrategia carrossel: publica o proximo da fila e comenta foto + frase + link. Devolve o id ou None."""
-    c = proximo_carrossel(s)
-    if not c:
-        log("Carrossel: nenhum aprovado na fila.")
+def postar_anuncio_stitch(s, agora):
+    """Estrategia de anuncio comico: usa o Stitch para gerar uma foto engracada relacionada ao produto."""
+    prods = _lista_para_ia(s, agora)
+    if not prods:
+        log("Anuncio Stitch: Sem produtos disponiveis hoje.")
         return None
-    prod = c.get("produto") or {}
-    texto = limpar(c.get("texto_post") or "")
-    time.sleep(random.randint(0, ATRASO_POST_MAX))
+    prod = random.choice(prods[:5])
+
+    prompt = f"""{PERSONA}
+
+Publico do perfil: {PUBLICO_PRODUTO}.
+Produto escolhido: {prod.get('nome', 'produto')} (R$ {float(prod.get('preco') or 0):.0f})
+
+Escreva UM post no formato de meme/fofoca extremamente comico e exagerado brasileiro e crie uma descricao para a imagem IA (Stitch).
+Pode usar humor autodepreciativo, falar de traicao, perrengue com ias, vizinhos, boleto.
+1) "imagem_prompt": descricao em ingles para o gerador de imagem da cena MUITO engracada e relacionada. Ex: "A Brazilian woman looking shocked at her smartphone while a dog steals her slice of pizza in the background, funny meme aesthetic".
+2) "texto": texto do post (ate 4 linhas, super envolvente e que termine com uma pergunta engracada).
+
+Responda em JSON puro: {{"imagem_prompt": "...", "texto": "..."}}"""
+
     try:
-        import carrossel
-        urls, visual = carrossel.preparar(c, prod)  # desenha e hospeda as artes (visual sorteado)
-    except Exception as e:  # falha de arte/hospedagem nao tira o carrossel da fila
-        log(f"Carrossel {c['id']}: artes nao ficaram prontas (segue para a proxima estrategia):", str(e)[:200])
-        return None
-    try:
-        pid = publicar_carrossel(urls, texto)
+        r = ia(prompt, json_mode=True)
+        m = re.search(r"\{.*\}", r or "", re.S)
+        d = json.loads(m.group(0) if m else r)
+        imagem_prompt = d.get("imagem_prompt", "")
+        texto_post = limpar(d.get("texto", ""))
     except Exception as e:
-        log(f"Carrossel {c['id']} falhou (segue para a proxima estrategia):", str(e)[:200])
-        s.setdefault("carrossel_falhas", []).append({"id": c["id"], "quando": agora.isoformat(), "erro": str(e)[:200]})
-        s["carrossel_falhas"] = s["carrossel_falhas"][-20:]
+        log("Falha na geracao do roteiro do anuncio comico:", str(e)[:150])
         return None
-    s.setdefault("carrosseis_usados", []).append(c["id"])
-    log(f"POSTADO (carrossel {c['id']}, visual {visual}, {len(c['slides'])} slides, produto {prod.get('itemId')}):", pid)
+
+    if not imagem_prompt or not texto_post:
+        return None
+
+    log(f"Anuncio Stitch: solicitando imagem meme ('{imagem_prompt[:80]}...')")
+    try:
+        import stitch
+        imagem_url = stitch.gerar_imagem_meme(imagem_prompt)
+    except Exception as e:
+        log("Falha no script Stitch:", str(e)[:150])
+        imagem_url = None
+
+    if not imagem_url:
+        log("Anuncio Stitch: geracao falhou. Post abortado.")
+        return None
+
+    try:
+        pid = publicar(texto_post, foto=imagem_url)
+    except Exception as e:
+        log("Anuncio Stitch falhou na postagem da Meta:", str(e)[:150])
+        return None
+
+    s.setdefault("shopee_usados", {})[str(prod.get("itemId", ""))] = agora.isoformat()
+    log(f"POSTADO (anuncio_stitch, produto {prod.get('itemId')}):", pid)
     s.setdefault("posts", []).append({
-        "id": pid, "insp": f"car_{c['id']}", "link": "", "texto": (c["slides"][0].get("texto") or texto)[:300],
-        "quando": agora.isoformat(), "ia": "carrossel", "estrategia": "carrossel", "formato": "carrossel",
-        "formato_link": "coment", "produto": prod.get("itemId"), "modelo": c.get("modelo", ""), "visual": visual})
+        "id": pid, "insp": f"stitch_{prod.get('itemId')}", "link": "", "texto": texto_post[:300],
+        "quando": agora.isoformat(), "ia": "anuncio_stitch", "estrategia": "anuncio_stitch", "formato": "postfoto",
+        "formato_link": "coment", "produto": prod.get("itemId")
+    })
     salvar_estado(s)
+
     if prod.get("offerLink"):
         time.sleep(random.randint(*ATRASO_LINK))
-        comentar_produto(s, pid, prod, "carrossel", agora, formato=f"car{visual}", frase=c.get("frase_link") or None)
+        comentar_produto(s, pid, prod, "anuncio_stitch", agora, formato="stitch", frase=frase_produto(prod.get("nome", "")))
+
     return pid
 
 
@@ -1913,7 +1951,7 @@ def postar_produto(s, p, h, agora):
     """Horario de produto: sorteia a estrategia; se a sorteada nao der (fio sem fila, sem produto), tenta a outra.
     Devolve True se publicou algo (o horario conta como feito). Falha da Shopee nunca derruba a rodada."""
     sorteada = sortear_estrategia()
-    ordem = [sorteada] + [e for e in ("carrossel", "fio", "produto_foto") if e != sorteada]
+    ordem = [sorteada] + [e for e in ("anuncio_stitch", "fio", "produto_foto") if e != sorteada]
     log(f"Horario de produto {h}: estrategia sorteada {sorteada}")
     for estr in ordem:
         if estr == "fio":
@@ -1928,8 +1966,8 @@ def postar_produto(s, p, h, agora):
                 salvar_estado(s)
                 return True
             continue
-        if estr == "carrossel":
-            if postar_carrossel(s, agora):
+        if estr == "anuncio_stitch":
+            if postar_anuncio_stitch(s, agora):
                 p["feitos"].append(h)
                 p["produtos_feitos"] = p.get("produtos_feitos", 0) + 1
                 salvar_estado(s)
@@ -1937,8 +1975,6 @@ def postar_produto(s, p, h, agora):
             continue
         if estr != "produto_foto":
             continue
-        if postar_video_app(s, p, h, agora):
-            return True
         prod, txt_prod = produto_e_texto_dor(s, agora)
         if not prod:
             log("Produto do dia indisponivel ou ja divulgado.")
