@@ -25,7 +25,9 @@
    "13:41",
    "14:48",
    "16:19",
-   "17:57"
+   "17:57",
+   "20:35",
+   "19:44"
   ],
   "produtos_feitos": 0,
   "respostas": 30,
@@ -46,24 +48,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18001115808001002",
-   "insp": "f29b190cb8",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: eu nunca que ia conseguir relaxar num carro que anda sozinho. Prefiro mil vezes xingar os motorista na rua do que terceirizar o volante para um computador.",
-   "quando": "2026-11-06T16:37:08.379663-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 442,
-    "likes": 6,
-    "replies": 13,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-11"
-   },
-   "viral_chk": "2026-11-07T07:07:09.395080-04:00"
-  },
   {
    "id": "17918694276265704",
    "insp": "69d2f4ea0d",
@@ -1074,6 +1058,14 @@
    "link": "",
    "texto": "Gente, encontro bom de verdade é aquele que o papo tá tão bom que você só percebe que passou das horas quando o Uber avisa que a taxa dinâmica subiu o preço de um rim e o garçom começa a apagar as luzes do restaurante com você ainda mastigando o guardanapo. \n\nVocês também ficam cegas ou sou só eu qu",
    "quando": "2026-11-11T18:07:08.467630-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18453362791120072",
+   "insp": "f784c8426a",
+   "link": "",
+   "texto": "Mandei um \"oi sumido\" pro crush e agora o algoritmo do meu celular tá tão ansioso que a tela tá suando junto comigo. O pior nem é esperar a resposta, é que nesse meio tempo eu já consegui criar o roteiro da nossa festa de casamento, brigar por causa da louça e pedir o divórcio mentalmente.\n\nAlguém m",
+   "quando": "2026-11-11T22:07:09.373201-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4080,7 +4072,6 @@
   "18124987486728481"
  ],
  "hashes": [
-  "ab343a7ccda1391102ecb6b19f0907ff",
   "05259b7063a5b9394d2731e1a987db04",
   "57c5891e03dbcd524ddadc2d1e65d5d2",
   "d89e790f7df0c6f25ef531197e56c958",
@@ -4279,7 +4270,8 @@
   "64e727adc66ccd92001d6307c1ecf7d9",
   "b1438e3720169ed5444178a609a64663",
   "7b774ffabddb25c168851f696cae66e5",
-  "140809c3404f08c935103f32fd3b039d"
+  "140809c3404f08c935103f32fd3b039d",
+  "e53d808900759466849c2bc7d362de4b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4437,7 +4429,6 @@
   "ca1265befe": 1791828457.4636238,
   "e55cc2488b": 1791835650.942528,
   "834ef38ad5": 1791839248.1884155,
-  "f784c8426a": 1791848298.238251,
   "c256239fef": 1791853676.4890728,
   "8bcb7cd8a4": 1791855449.7577894,
   "f505b6ba89": 1791896867.5107985,
@@ -4690,7 +4681,8 @@
   "c05528a8e3": 1794420450.6618483,
   "d6497bdd55": 1794424060.460397,
   "bc90ccda37": 1794431255.2244694,
-  "ef980ef49f": 1794434849.5170166
+  "ef980ef49f": 1794434849.5170166,
+  "f784c8426a": 1794449296.7565103
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
