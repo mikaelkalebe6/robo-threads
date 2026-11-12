@@ -27,7 +27,8 @@
    "11:06",
    "12:02",
    "12:50",
-   "13:34"
+   "13:34",
+   "14:35"
   ],
   "produtos_feitos": 0,
   "respostas": 12,
@@ -42,24 +43,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17910631911572963",
-   "insp": "e6849630fe",
-   "link": "",
-   "texto": "SEM MENTIR: ler a conversa alheia no transporte público olhando cada detalhe ou fingir plena paz de espírito ouvindo música de fone?",
-   "quando": "2026-11-07T09:07:07.447101-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 207,
-    "likes": 1,
-    "replies": 16,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-12"
-   },
-   "viral_chk": "2026-11-08T07:07:08.627425-04:00"
-  },
   {
    "id": "18497032045105006",
    "insp": "prod_20697639367",
@@ -1067,6 +1050,14 @@
    "link": "",
    "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo porque o som da negação é mais barato que o mecânico? O meu tá parecendo uma escola de samba misturada com espírito chutando o porta-luvas e eu só aumento o rádio fingindo que é a minha intuição mandando eu seguir em frente",
    "quando": "2026-11-12T14:37:08.807381-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18444123814177794",
+   "insp": "c422eac36b",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a pessoa sai de casa focada em comprar três pãezinhos de sal e volta com duas caixas de som JBL, um kit de panela de cerâmica que viu no corredor do meio e o CPF da vizinha cadastrado na promoção do panetone de meio quilo, mas esqueceu o bendito do pão. Alguém mais sofre desse surto ",
+   "quando": "2026-11-12T15:37:09.319505-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4073,7 +4064,6 @@
   "18127340251908568"
  ],
  "hashes": [
-  "8fb89a881ceaf52dc346a066920e613e",
   "b57a30987841df02b0add1c5e8c72e9a",
   "5e814a9401487303f28af1132fb36fa1",
   "378776797bd2e3e295271ac7459b3eec",
@@ -4272,7 +4262,8 @@
   "acd364038e1a9256f06002815616a2b1",
   "d441a1da941954349b7986f081dbd7df",
   "4ec9a2f7cc2103e7315bff8e6b0e974b",
-  "00fd9461f8e1154106dd744e9467fa4d"
+  "00fd9461f8e1154106dd744e9467fa4d",
+  "307404186cdefa13354ab254c7608ea4"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4354,7 +4345,6 @@
   "de9bf80054": 1791220047.5941434,
   "d8d17a2688": 1791223648.0135908,
   "7733a769d4": 1791227258.5966003,
-  "c422eac36b": 1791238056.3920977,
   "2832d4baf6": 1791247069.3264678,
   "58ac2ae535": 1791248867.6549494,
   "db597fa355": 1791292045.8237777,
@@ -4683,7 +4673,8 @@
   "5dc520f8de": 1794499654.676071,
   "9c5110941a": 1794503271.9047754,
   "20b4497ce2": 1794505074.5405226,
-  "e38b1c2eb7": 1794508701.7960765
+  "e38b1c2eb7": 1794508701.7960765,
+  "c422eac36b": 1794512293.0169692
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
