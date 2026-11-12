@@ -26,7 +26,8 @@
    "10:19",
    "11:06",
    "12:02",
-   "12:50"
+   "12:50",
+   "13:34"
   ],
   "produtos_feitos": 0,
   "respostas": 11,
@@ -40,29 +41,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18122196040984824",
-   "insp": "048fecc76e",
-   "link": "",
-   "texto": "ME CONTA: qual comida você odiava quando era criança e hoje em dia come de boa?",
-   "quando": "2026-11-06T22:07:07.806532-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 2154,
-    "likes": 16,
-    "replies": 84,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-12"
-   },
-   "viral_chk": "2026-11-07T07:07:09.395080-04:00",
-   "link_coment": "https://s.shopee.com.br/9fMH9DJVgv",
-   "meme_comentado": true,
-   "meme_views": 1717,
-   "formato_link": "coment",
-   "produto": "21197690424"
-  },
   {
    "id": "17910631911572963",
    "insp": "e6849630fe",
@@ -1080,6 +1058,14 @@
    "link": "",
    "texto": "PESSOAS QUE TÊM FILHOS: qual foi o dia exato em que o dinheiro da sua rescisão foi parar na conta do TikTok de uma cririança de quatro anos que ensina a fazer slime com clara de ovo e cola tenax?",
    "quando": "2026-11-12T13:37:11.346280-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18042919802842058",
+   "insp": "e38b1c2eb7",
+   "link": "",
+   "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo porque o som da negação é mais barato que o mecânico? O meu tá parecendo uma escola de samba misturada com espírito chutando o porta-luvas e eu só aumento o rádio fingindo que é a minha intuição mandando eu seguir em frente",
+   "quando": "2026-11-12T14:37:08.807381-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4086,7 +4072,6 @@
   "18453888118126810"
  ],
  "hashes": [
-  "45e02c1fd6f878de70fc74fba99f088b",
   "8fb89a881ceaf52dc346a066920e613e",
   "b57a30987841df02b0add1c5e8c72e9a",
   "5e814a9401487303f28af1132fb36fa1",
@@ -4285,7 +4270,8 @@
   "3f15a8d651b56690e493904dcd0a5be9",
   "acd364038e1a9256f06002815616a2b1",
   "d441a1da941954349b7986f081dbd7df",
-  "4ec9a2f7cc2103e7315bff8e6b0e974b"
+  "4ec9a2f7cc2103e7315bff8e6b0e974b",
+  "00fd9461f8e1154106dd744e9467fa4d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4436,7 +4422,6 @@
   "615229a3f1": 1791808651.8310485,
   "ff36dce57b": 1791812301.1103742,
   "1025b0cd16": 1791819454.3798175,
-  "e38b1c2eb7": 1791823039.377196,
   "ca1265befe": 1791828457.4636238,
   "e55cc2488b": 1791835650.942528,
   "834ef38ad5": 1791839248.1884155,
@@ -4696,7 +4681,8 @@
   "f505b6ba89": 1794494262.6792433,
   "5dc520f8de": 1794499654.676071,
   "9c5110941a": 1794503271.9047754,
-  "20b4497ce2": 1794505074.5405226
+  "20b4497ce2": 1794505074.5405226,
+  "e38b1c2eb7": 1794508701.7960765
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
