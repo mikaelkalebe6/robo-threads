@@ -26,11 +26,12 @@
    "10:19"
   ],
   "produtos_feitos": 0,
-  "respostas": 4,
+  "respostas": 7,
   "por_post": {
    "18453362791120072": 2,
    "17916150045505435": 1,
-   "18131101210849673": 1
+   "18131101210849673": 2,
+   "18113350808614874": 2
   }
  },
  "posts": [
@@ -1108,9 +1109,6 @@
   }
  ],
  "respondidos": [
-  "18114027422591340",
-  "18119381108513520",
-  "17913566832534019",
   "17903719278573492",
   "17872002393639831",
   "18198572485391029",
@@ -4107,7 +4105,10 @@
   "17925432156222127",
   "17913088425579340",
   "18159087565475445",
-  "18222026497354582"
+  "18222026497354582",
+  "17917472142538372",
+  "18437530060181802",
+  "18023923682946237"
  ],
  "hashes": [
   "d89e790f7df0c6f25ef531197e56c958",
@@ -4727,25 +4728,12 @@
   "_data": "2026-11-12",
   "3a65a34293": 1,
   "0af1701b18": 2,
-  "9c9ed7acc0": 1
+  "9c9ed7acc0": 2,
+  "29d636eeb3": 1,
+  "5a4f6559c6": 1
  },
  "reservas_checadas": "2026-11-12",
  "ultimas_respostas": [
-  {
-   "t": "É parece que a gente virou pai e mãe no rádio também kkkkkkkk 😆",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "essa dica de deixar descansar eu nunca tinha visto, obrigada por compartilhar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nós que nem olho para o manual até o carro falar",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Aí, ponto de mestre, né? kkk 😂",
    "p": "concorda",
@@ -4878,6 +4866,21 @@
   },
   {
    "t": "pelo menos a cobrança ficou em família kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Verdade, parece reunião de condomínio, já estou sentindo a conta subir kkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "esse já vem com laudo técnico e garantia estendida kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "respeito a verdadeira sinceridade do seu status kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6157,16 +6160,6 @@
   }
  ],
  "aberturas_post": {
-  "18132673849887493": [
-   "totalmente automatico so",
-   "excelente dica realmente",
-   "sorte a sua",
-   "e rezar pra",
-   "exato cada servico",
-   "pior que a",
-   "exato fica aquele",
-   "discordar com firmeza"
-  ],
   "18021151787740470": [
    "chama ele pra",
    "paz de espirito",
@@ -6378,7 +6371,12 @@
    "o estoque de"
   ],
   "18131101210849673": [
-   "pelo menos a"
+   "pelo menos a",
+   "respeito a verdadeira"
+  ],
+  "18113350808614874": [
+   "verdade parece reuniao",
+   "esse ja vem"
   ]
  },
  "shopee_checada": "2026-11-12|1",
