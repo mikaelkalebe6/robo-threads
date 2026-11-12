@@ -32,7 +32,7 @@
    "16:03"
   ],
   "produtos_feitos": 0,
-  "respostas": 15,
+  "respostas": 16,
   "por_post": {
    "18453362791120072": 2,
    "17916150045505435": 1,
@@ -41,7 +41,8 @@
    "18277459723309994": 2,
    "18112357985258185": 1,
    "18042919802842058": 1,
-   "18444123814177794": 3
+   "18444123814177794": 3,
+   "17997445890029104": 1
   }
  },
  "posts": [
@@ -1040,7 +1041,6 @@
   }
  ],
  "respondidos": [
-  "18165533158486374",
   "17869903965648146",
   "17912239188509760",
   "18077181299406610",
@@ -4039,7 +4039,8 @@
   "18127340251908568",
   "18110627864458375",
   "18491877850107576",
-  "17921578146454877"
+  "17921578146454877",
+  "18129304631297744"
  ],
  "hashes": [
   "5e814a9401487303f28af1132fb36fa1",
@@ -4663,15 +4664,11 @@
   "29d636eeb3": 1,
   "5a4f6559c6": 3,
   "20f0d66806": 1,
-  "509b287f93": 1
+  "509b287f93": 1,
+  "977aa04ba7": 1
  },
  "reservas_checadas": "2026-11-12",
  "ultimas_respostas": [
-  {
-   "t": "estratégia de mercado aberta com sucesso kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "muita gente passa direto por lá e perde um lugar incrível",
    "p": "concorda",
@@ -4815,6 +4812,11 @@
   {
    "t": "vendedor de rua tem um poder de convencimento que é um perigo para a nossa conta bancária",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tem hora que a gente leva tudo um pouco mais a sério do que precisa",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6093,11 +6095,6 @@
   }
  ],
  "aberturas_post": {
-  "18168780994485568": [
-   "infelizmente as regras",
-   "tem quem prefira",
-   "estrategia classica para"
-  ],
   "17922262281453470": [
    "esse detalhe de",
    "entendo 300 parece",
@@ -6285,6 +6282,9 @@
    "esse ai vai",
    "alguem precisa mesmo",
    "vendedor de rua"
+  ],
+  "17997445890029104": [
+   "tem hora que"
   ]
  },
  "shopee_checada": "2026-11-12|1",
