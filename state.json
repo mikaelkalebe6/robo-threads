@@ -10,9 +10,9 @@
    "13:34",
    "14:35",
    "16:03",
-   "17:01",
    "17:42",
    "18:45",
+   "19:32",
    "20:36",
    "21:35"
   ],
@@ -28,7 +28,8 @@
    "12:02",
    "12:50",
    "13:34",
-   "14:35"
+   "14:35",
+   "16:03"
   ],
   "produtos_feitos": 0,
   "respostas": 15,
@@ -44,38 +45,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18497032045105006",
-   "insp": "prod_20697639367",
-   "link": "",
-   "texto": "Aquela bagunça de água no jardim que nunca acaba, né? 😂 descobri esse borrifador 2L que dá conta de tudo, das plantas ao carro. olha como funciona 👀",
-   "quando": "2026-11-07T10:37:07.784237-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "20697639367",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "20697639367",
-    "nome": "Pulverizador Borrifador Spray Para Jardinagem Multiuso 2 Litros",
-    "offerLink": "https://s.shopee.com.br/gRSQcSW7S",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgdqb2v9gbnp0b",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 362,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-12"
-   },
-   "link_coment": "https://s.shopee.com.br/gRSQcSW7S",
-   "link_em": "2026-11-08T07:07:08.627425-04:00",
-   "link_views": 0
-  },
   {
    "id": "18088627868316590",
    "insp": "16918d1a30",
@@ -1059,6 +1028,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: a pessoa sai de casa focada em comprar três pãezinhos de sal e volta com duas caixas de som JBL, um kit de panela de cerâmica que viu no corredor do meio e o CPF da vizinha cadastrado na promoção do panetone de meio quilo, mas esqueceu o bendito do pão. Alguém mais sofre desse surto ",
    "quando": "2026-11-12T15:37:09.319505-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17997445890029104",
+   "insp": "63b1ece74f",
+   "link": "",
+   "texto": "O brasileiro tem zero condições de julgar a culinária alheia porque a gente inventou que farinha com feijão e um ovo tristonho é alta gastronomia, mas se alguém mexe na pamonha da minha região a pessoa sai direto pro velório com cobertura de açúcar e canela. Qual prato da tua cidade tu defende com u",
+   "quando": "2026-11-12T18:37:09.410727-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4065,7 +4042,6 @@
   "17921578146454877"
  ],
  "hashes": [
-  "b57a30987841df02b0add1c5e8c72e9a",
   "5e814a9401487303f28af1132fb36fa1",
   "378776797bd2e3e295271ac7459b3eec",
   "f4cf7684976b4d2ad53156eb3ac3db1a",
@@ -4264,7 +4240,8 @@
   "d441a1da941954349b7986f081dbd7df",
   "4ec9a2f7cc2103e7315bff8e6b0e974b",
   "00fd9461f8e1154106dd744e9467fa4d",
-  "307404186cdefa13354ab254c7608ea4"
+  "307404186cdefa13354ab254c7608ea4",
+  "858cc10d8f15255ed4379721da28ac65"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4383,7 +4360,6 @@
   "607a9f8d64": 1791491845.7964373,
   "bcc0c20424": 1791495460.9115326,
   "29649aab34": 1791497253.2238147,
-  "63b1ece74f": 1791502688.3760064,
   "9dfc1777fa": 1791509880.1285467,
   "c8a0ab9dff": 1791549494.5057452,
   "b0cef3aaad": 1791553048.7074025,
@@ -4675,7 +4651,8 @@
   "9c5110941a": 1794503271.9047754,
   "20b4497ce2": 1794505074.5405226,
   "e38b1c2eb7": 1794508701.7960765,
-  "c422eac36b": 1794512293.0169692
+  "c422eac36b": 1794512293.0169692,
+  "63b1ece74f": 1794523092.6620424
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
