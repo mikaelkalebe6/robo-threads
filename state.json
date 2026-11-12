@@ -30,14 +30,15 @@
    "13:34"
   ],
   "produtos_feitos": 0,
-  "respostas": 11,
+  "respostas": 12,
   "por_post": {
    "18453362791120072": 2,
    "17916150045505435": 1,
    "18131101210849673": 2,
    "18113350808614874": 3,
    "18277459723309994": 2,
-   "18112357985258185": 1
+   "18112357985258185": 1,
+   "18042919802842058": 1
   }
  },
  "posts": [
@@ -1070,7 +1071,6 @@
   }
  ],
  "respondidos": [
-  "18079648409342515",
   "17918269305444116",
   "18118022540076924",
   "18109833881230982",
@@ -4069,7 +4069,8 @@
   "18120654182095168",
   "18109731299315909",
   "18130497835851179",
-  "18453888118126810"
+  "18453888118126810",
+  "18127340251908568"
  ],
  "hashes": [
   "8fb89a881ceaf52dc346a066920e613e",
@@ -4689,18 +4690,13 @@
   "_data": "2026-11-12",
   "3a65a34293": 1,
   "0af1701b18": 2,
-  "9c9ed7acc0": 4,
+  "9c9ed7acc0": 5,
   "29d636eeb3": 1,
   "5a4f6559c6": 2,
   "20f0d66806": 1
  },
  "reservas_checadas": "2026-11-12",
  "ultimas_respostas": [
-  {
-   "t": "socorro kkkkkkk o pior lugar possível para uma demonstracao de afeto",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "confessou a falcatrua no final kkk",
    "p": "concorda",
@@ -4845,6 +4841,11 @@
    "t": "É, dinheiro dá aquela mãozinha pra ser feliz 😊",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "RenK RenK? Só falta a Lady Gaga gritar no porta‑malas kkkkkkk 🤣",
+   "p": "concorda",
+   "r": 3
   }
  ],
  "minhas_respostas": {
@@ -6122,16 +6123,6 @@
   }
  ],
  "aberturas_post": {
-  "17967758891983415": [
-   "veio com a",
-   "pelo menos economiza",
-   "profundo demais pra",
-   "esse pelo menos",
-   "se eu ganhar",
-   "a memoria seletiva",
-   "e se depender",
-   "ainda lembro o"
-  ],
   "18120815357070220": [
    "e a mente"
   ],
@@ -6319,6 +6310,9 @@
   ],
   "18112357985258185": [
    "nossa tambem ja"
+  ],
+  "18042919802842058": [
+   "renk renk so"
   ]
  },
  "shopee_checada": "2026-11-12|1",
