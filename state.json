@@ -24,37 +24,20 @@
   "feitos": [
    "08:15",
    "10:19",
-   "11:06"
+   "11:06",
+   "12:02"
   ],
   "produtos_feitos": 0,
-  "respostas": 8,
+  "respostas": 9,
   "por_post": {
    "18453362791120072": 2,
    "17916150045505435": 1,
    "18131101210849673": 2,
-   "18113350808614874": 2,
+   "18113350808614874": 3,
    "18277459723309994": 1
   }
  },
  "posts": [
-  {
-   "id": "18074939729767419",
-   "insp": "fc00b47dce",
-   "link": "",
-   "texto": "Todo grupo tem o amigo que fala que entende tudo de churrasco mas só sabe queimar a carne.\n\nTeam churrasqueiro raiz ou team quem só sabe virar a carne?",
-   "quando": "2026-11-06T20:37:08.432191-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 232,
-    "likes": 1,
-    "replies": 12,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-12"
-   },
-   "viral_chk": "2026-11-07T07:07:09.395080-04:00"
-  },
   {
    "id": "18003889164009680",
    "insp": "9ff7d269b6",
@@ -1098,10 +1081,17 @@
    "texto": "DÚVIDA SINCERA: o dinheiro traz felicidade ou só ajuda a pagar o boleto da terapia pra aceitar que você é pobre?",
    "quando": "2026-11-12T12:07:10.420436-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18112357985258185",
+   "insp": "9c5110941a",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: a vida adulta do brasileiro médio é basicamente acordar cedo, fingir que entendeu o boleto do IPVA, descobrir que o boy da faculdade agora vende curso de tigrinho e ainda ter que responder \"tudo bem e com você?\" pro chefe na segunda-feira de manhã. O que mais vocês colocariam nes",
+   "quando": "2026-11-12T13:07:19.783828-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17872002393639831",
   "18198572485391029",
   "17909195562489946",
   "18079648409342515",
@@ -4100,10 +4090,10 @@
   "17917472142538372",
   "18437530060181802",
   "18023923682946237",
-  "18120654182095168"
+  "18120654182095168",
+  "18109731299315909"
  ],
  "hashes": [
-  "7c12c48fdc237178e35e12251e55bdd8",
   "61a058eb0279d5071b2282c430d99755",
   "45e02c1fd6f878de70fc74fba99f088b",
   "8fb89a881ceaf52dc346a066920e613e",
@@ -4302,7 +4292,8 @@
   "e53d808900759466849c2bc7d362de4b",
   "8e062cc8100fbdf13465ec53420cad1b",
   "3f15a8d651b56690e493904dcd0a5be9",
-  "acd364038e1a9256f06002815616a2b1"
+  "acd364038e1a9256f06002815616a2b1",
+  "d441a1da941954349b7986f081dbd7df"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4351,7 +4342,6 @@
   "e50a061e21": 1790957272.388927,
   "ff377f4a44": 1790960890.434097,
   "e66fb581d1": 1790964490.8074522,
-  "9c5110941a": 1790966245.2623403,
   "a537fed31d": 1790971649.0084443,
   "170d280425": 1790977043.7117248,
   "8b6d90e25d": 1790980648.7524374,
@@ -4713,7 +4703,8 @@
   "f784c8426a": 1794449296.7565103,
   "36df8573cc": 1794488895.8000133,
   "f505b6ba89": 1794494262.6792433,
-  "5dc520f8de": 1794499654.676071
+  "5dc520f8de": 1794499654.676071,
+  "9c5110941a": 1794503271.9047754
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4722,16 +4713,11 @@
   "0af1701b18": 2,
   "9c9ed7acc0": 2,
   "29d636eeb3": 1,
-  "5a4f6559c6": 1,
+  "5a4f6559c6": 2,
   "20f0d66806": 1
  },
  "reservas_checadas": "2026-11-12",
  "ultimas_respostas": [
-  {
-   "t": "vou testar esse truque no próximo, já salvou o almoço 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "fácil falar quando já nasceu com esse dom kkk",
    "p": "ressalva",
@@ -4874,6 +4860,11 @@
   },
   {
    "t": "Verdade, quem nunca sentiu o aperto do boleto não entende bem 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "frieza desnecessária quando a intenção era só trocar ideia de boa",
    "p": "concorda",
    "r": 0
   }
@@ -6347,7 +6338,8 @@
   ],
   "18113350808614874": [
    "verdade parece reuniao",
-   "esse ja vem"
+   "esse ja vem",
+   "frieza desnecessaria quando"
   ],
   "18277459723309994": [
    "verdade quem nunca"
