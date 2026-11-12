@@ -27,12 +27,13 @@
    "11:06"
   ],
   "produtos_feitos": 0,
-  "respostas": 7,
+  "respostas": 8,
   "por_post": {
    "18453362791120072": 2,
    "17916150045505435": 1,
    "18131101210849673": 2,
-   "18113350808614874": 2
+   "18113350808614874": 2,
+   "18277459723309994": 1
   }
  },
  "posts": [
@@ -1100,7 +1101,6 @@
   }
  ],
  "respondidos": [
-  "17903719278573492",
   "17872002393639831",
   "18198572485391029",
   "17909195562489946",
@@ -4099,7 +4099,8 @@
   "18222026497354582",
   "17917472142538372",
   "18437530060181802",
-  "18023923682946237"
+  "18023923682946237",
+  "18120654182095168"
  ],
  "hashes": [
   "7c12c48fdc237178e35e12251e55bdd8",
@@ -4721,15 +4722,11 @@
   "0af1701b18": 2,
   "9c9ed7acc0": 2,
   "29d636eeb3": 1,
-  "5a4f6559c6": 1
+  "5a4f6559c6": 1,
+  "20f0d66806": 1
  },
  "reservas_checadas": "2026-11-12",
  "ultimas_respostas": [
-  {
-   "t": "Aí, ponto de mestre, né? kkk 😂",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "vou testar esse truque no próximo, já salvou o almoço 🙏🏼",
    "p": "concorda",
@@ -4874,6 +4871,11 @@
    "t": "respeito a verdadeira sinceridade do seu status kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "Verdade, quem nunca sentiu o aperto do boleto não entende bem 🙏🏼",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6151,28 +6153,6 @@
   }
  ],
  "aberturas_post": {
-  "18021151787740470": [
-   "chama ele pra",
-   "paz de espirito",
-   "to com voce",
-   "pov carro antigo",
-   "depende mas a",
-   "entao ta tudo",
-   "cruel com a",
-   "verdade carro antigo",
-   "exato mas tem",
-   "sim tem modelo",
-   "100 fato o",
-   "dezesseis anos de",
-   "entendo passat 2016",
-   "sorte grande sua",
-   "nunca tive um",
-   "corsinha raiz e",
-   "esse ai ja",
-   "duvidar da mecanica",
-   "justo seu carro",
-   "verdade ainda nao"
-  ],
   "18171642805469752": [
    "criou a profissao",
    "nem com 10k",
@@ -6368,6 +6348,9 @@
   "18113350808614874": [
    "verdade parece reuniao",
    "esse ja vem"
+  ],
+  "18277459723309994": [
+   "verdade quem nunca"
   ]
  },
  "shopee_checada": "2026-11-12|1",
