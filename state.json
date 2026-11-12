@@ -25,37 +25,21 @@
    "08:15",
    "10:19",
    "11:06",
-   "12:02"
+   "12:02",
+   "12:50"
   ],
   "produtos_feitos": 0,
-  "respostas": 9,
+  "respostas": 11,
   "por_post": {
    "18453362791120072": 2,
    "17916150045505435": 1,
    "18131101210849673": 2,
    "18113350808614874": 3,
-   "18277459723309994": 1
+   "18277459723309994": 2,
+   "18112357985258185": 1
   }
  },
  "posts": [
-  {
-   "id": "18003889164009680",
-   "insp": "9ff7d269b6",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: essa história de amarração amorosa dá resultado mesmo ou é só desespero de quem não sabe levar um fora?",
-   "quando": "2026-11-06T21:37:08.289782-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 641,
-    "likes": 3,
-    "replies": 13,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-12"
-   },
-   "viral_chk": "2026-11-07T07:07:09.395080-04:00"
-  },
   {
    "id": "18122196040984824",
    "insp": "048fecc76e",
@@ -1089,11 +1073,17 @@
    "texto": "VAMOS SER HONESTOS: a vida adulta do brasileiro médio é basicamente acordar cedo, fingir que entendeu o boleto do IPVA, descobrir que o boy da faculdade agora vende curso de tigrinho e ainda ter que responder \"tudo bem e com você?\" pro chefe na segunda-feira de manhã. O que mais vocês colocariam nes",
    "quando": "2026-11-12T13:07:19.783828-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17871445599662545",
+   "insp": "20b4497ce2",
+   "link": "",
+   "texto": "PESSOAS QUE TÊM FILHOS: qual foi o dia exato em que o dinheiro da sua rescisão foi parar na conta do TikTok de uma cririança de quatro anos que ensina a fazer slime com clara de ovo e cola tenax?",
+   "quando": "2026-11-12T13:37:11.346280-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18198572485391029",
-  "17909195562489946",
   "18079648409342515",
   "17918269305444116",
   "18118022540076924",
@@ -4091,10 +4081,11 @@
   "18437530060181802",
   "18023923682946237",
   "18120654182095168",
-  "18109731299315909"
+  "18109731299315909",
+  "18130497835851179",
+  "18453888118126810"
  ],
  "hashes": [
-  "61a058eb0279d5071b2282c430d99755",
   "45e02c1fd6f878de70fc74fba99f088b",
   "8fb89a881ceaf52dc346a066920e613e",
   "b57a30987841df02b0add1c5e8c72e9a",
@@ -4293,7 +4284,8 @@
   "8e062cc8100fbdf13465ec53420cad1b",
   "3f15a8d651b56690e493904dcd0a5be9",
   "acd364038e1a9256f06002815616a2b1",
-  "d441a1da941954349b7986f081dbd7df"
+  "d441a1da941954349b7986f081dbd7df",
+  "4ec9a2f7cc2103e7315bff8e6b0e974b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4357,7 +4349,6 @@
   "120d39bc61": 1791052643.211581,
   "880c48c090": 1791058075.4252539,
   "c5b66c6c5b": 1791065245.2783217,
-  "20b4497ce2": 1791070649.591163,
   "39b02ce282": 1791076070.1774423,
   "6d7d2f32e2": 1791079643.0164294,
   "3d41eeda62": 1791117448.2717893,
@@ -4704,30 +4695,21 @@
   "36df8573cc": 1794488895.8000133,
   "f505b6ba89": 1794494262.6792433,
   "5dc520f8de": 1794499654.676071,
-  "9c5110941a": 1794503271.9047754
+  "9c5110941a": 1794503271.9047754,
+  "20b4497ce2": 1794505074.5405226
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-11-12",
   "3a65a34293": 1,
   "0af1701b18": 2,
-  "9c9ed7acc0": 2,
+  "9c9ed7acc0": 4,
   "29d636eeb3": 1,
   "5a4f6559c6": 2,
   "20f0d66806": 1
  },
  "reservas_checadas": "2026-11-12",
  "ultimas_respostas": [
-  {
-   "t": "fácil falar quando já nasceu com esse dom kkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "pelo menos já tem o prato principal garantido kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "socorro kkkkkkk o pior lugar possível para uma demonstracao de afeto",
    "p": "concorda",
@@ -4865,6 +4847,16 @@
   },
   {
    "t": "frieza desnecessária quando a intenção era só trocar ideia de boa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Nossa, também já sofri com gente irritante no ônibus, né 😢",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "É, dinheiro dá aquela mãozinha pra ser feliz 😊",
    "p": "concorda",
    "r": 0
   }
@@ -6144,12 +6136,6 @@
   }
  ],
  "aberturas_post": {
-  "18171642805469752": [
-   "criou a profissao",
-   "nem com 10k",
-   "8k vale o",
-   "a paz mental"
-  ],
   "17967758891983415": [
    "veio com a",
    "pelo menos economiza",
@@ -6342,7 +6328,11 @@
    "frieza desnecessaria quando"
   ],
   "18277459723309994": [
-   "verdade quem nunca"
+   "verdade quem nunca",
+   "e dinheiro da"
+  ],
+  "18112357985258185": [
+   "nossa tambem ja"
   ]
  },
  "shopee_checada": "2026-11-12|1",
