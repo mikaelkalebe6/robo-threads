@@ -23,7 +23,8 @@
   ],
   "feitos": [
    "08:15",
-   "10:19"
+   "10:19",
+   "11:06"
   ],
   "produtos_feitos": 0,
   "respostas": 7,
@@ -35,24 +36,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18078919208732779",
-   "insp": "6fb64f3b74",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: metade das pessoas que compram SUV só querem um carro grandão pra disfarçar que não têm a menor noção de espaço na hora de colocar na vaga. \n\nCâmera 360 e sensor apitando viraram artigo de primeira necessidade.",
-   "quando": "2026-11-06T20:07:09.094701-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 475,
-    "likes": 4,
-    "replies": 12,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-12"
-   },
-   "viral_chk": "2026-11-07T07:07:09.395080-04:00"
-  },
   {
    "id": "18074939729767419",
    "insp": "fc00b47dce",
@@ -1106,6 +1089,14 @@
    "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é gesto de igualdade ou já vem com a planilha de gastos e o boleto do Netflix do cara? 😂\n\nOntem, o meu “próximo” chegou de táxi, abriu a conta, puxou a calculadora da mãe e começou a repartir cada centavo como se fosse reunião de condomínio. Enqua",
    "quando": "2026-11-12T10:37:11.408543-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18277459723309994",
+   "insp": "5dc520f8de",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: o dinheiro traz felicidade ou só ajuda a pagar o boleto da terapia pra aceitar que você é pobre?",
+   "quando": "2026-11-12T12:07:10.420436-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4111,7 +4102,6 @@
   "18023923682946237"
  ],
  "hashes": [
-  "d89e790f7df0c6f25ef531197e56c958",
   "7c12c48fdc237178e35e12251e55bdd8",
   "61a058eb0279d5071b2282c430d99755",
   "45e02c1fd6f878de70fc74fba99f088b",
@@ -4310,7 +4300,8 @@
   "140809c3404f08c935103f32fd3b039d",
   "e53d808900759466849c2bc7d362de4b",
   "8e062cc8100fbdf13465ec53420cad1b",
-  "3f15a8d651b56690e493904dcd0a5be9"
+  "3f15a8d651b56690e493904dcd0a5be9",
+  "acd364038e1a9256f06002815616a2b1"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4538,7 +4529,6 @@
   "304d0a9ace": 1792631296.153229,
   "d25c82e639": 1792633048.3753517,
   "8f2f1c9592": 1792672653.2844026,
-  "5dc520f8de": 1792676300.047862,
   "55ef5ab4ee": 1792683447.603377,
   "bcd56c55f6": 1792688850.6268787,
   "fa26296fcf": 1792692452.4035587,
@@ -4721,7 +4711,8 @@
   "ef980ef49f": 1794434849.5170166,
   "f784c8426a": 1794449296.7565103,
   "36df8573cc": 1794488895.8000133,
-  "f505b6ba89": 1794494262.6792433
+  "f505b6ba89": 1794494262.6792433,
+  "5dc520f8de": 1794499654.676071
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
