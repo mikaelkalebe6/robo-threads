@@ -25,10 +25,11 @@
    "08:15"
   ],
   "produtos_feitos": 0,
-  "respostas": 3,
+  "respostas": 4,
   "por_post": {
    "18453362791120072": 2,
-   "17916150045505435": 1
+   "17916150045505435": 1,
+   "18131101210849673": 1
   }
  },
  "posts": [
@@ -1116,7 +1117,6 @@
   }
  ],
  "respondidos": [
-  "18007957055780569",
   "18114027422591340",
   "18119381108513520",
   "17913566832534019",
@@ -4115,7 +4115,8 @@
   "18124987486728481",
   "17925432156222127",
   "17913088425579340",
-  "18159087565475445"
+  "18159087565475445",
+  "18222026497354582"
  ],
  "hashes": [
   "57c5891e03dbcd524ddadc2d1e65d5d2",
@@ -4734,15 +4735,11 @@
  "por_pessoa": {
   "_data": "2026-11-12",
   "3a65a34293": 1,
-  "0af1701b18": 2
+  "0af1701b18": 2,
+  "9c9ed7acc0": 1
  },
  "reservas_checadas": "2026-11-12",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, quem convida já paga 😊",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "É parece que a gente virou pai e mãe no rádio também kkkkkkkk 😆",
    "p": "concorda",
@@ -4885,6 +4882,11 @@
   },
   {
    "t": "o estoque de açúcar aqui já foi pro espaço junto com a paz de espírito kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pelo menos a cobrança ficou em família kkkk",
    "p": "concorda",
    "r": 1
   }
@@ -6164,10 +6166,6 @@
   }
  ],
  "aberturas_post": {
-  "18646993528063414": [
-   "cafe quente com",
-   "cada assunto indo"
-  ],
   "18132673849887493": [
    "totalmente automatico so",
    "excelente dica realmente",
@@ -6387,6 +6385,9 @@
   "18453362791120072": [
    "corajosa ja estou",
    "o estoque de"
+  ],
+  "18131101210849673": [
+   "pelo menos a"
   ]
  },
  "shopee_checada": "2026-11-12|1",
