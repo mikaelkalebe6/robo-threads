@@ -31,7 +31,7 @@
    "14:35"
   ],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 15,
   "por_post": {
    "18453362791120072": 2,
    "17916150045505435": 1,
@@ -39,7 +39,8 @@
    "18113350808614874": 3,
    "18277459723309994": 2,
    "18112357985258185": 1,
-   "18042919802842058": 1
+   "18042919802842058": 1,
+   "18444123814177794": 3
   }
  },
  "posts": [
@@ -1062,9 +1063,6 @@
   }
  ],
  "respondidos": [
-  "17918269305444116",
-  "18118022540076924",
-  "18109833881230982",
   "18165533158486374",
   "17869903965648146",
   "17912239188509760",
@@ -4061,7 +4059,10 @@
   "18109731299315909",
   "18130497835851179",
   "18453888118126810",
-  "18127340251908568"
+  "18127340251908568",
+  "18110627864458375",
+  "18491877850107576",
+  "17921578146454877"
  ],
  "hashes": [
   "b57a30987841df02b0add1c5e8c72e9a",
@@ -4681,28 +4682,14 @@
   "_data": "2026-11-12",
   "3a65a34293": 1,
   "0af1701b18": 2,
-  "9c9ed7acc0": 5,
+  "9c9ed7acc0": 6,
   "29d636eeb3": 1,
-  "5a4f6559c6": 2,
-  "20f0d66806": 1
+  "5a4f6559c6": 3,
+  "20f0d66806": 1,
+  "509b287f93": 1
  },
  "reservas_checadas": "2026-11-12",
  "ultimas_respostas": [
-  {
-   "t": "confessou a falcatrua no final kkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkk seu dog virou guardião de portão, quase me dá um seguro 😅",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o cãozinho é o próprio detector de caos kkkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "estratégia de mercado aberta com sucesso kkk",
    "p": "concorda",
@@ -4837,6 +4824,21 @@
    "t": "RenK RenK? Só falta a Lady Gaga gritar no porta‑malas kkkkkkk 🤣",
    "p": "concorda",
    "r": 3
+  },
+  {
+   "t": "esse aí vai no mercado só para renovar a casa inteira kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "alguém precisa mesmo confiscar esse cartão antes que eu compre até fiado kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "vendedor de rua tem um poder de convencimento que é um perigo para a nossa conta bancária",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6114,9 +6116,6 @@
   }
  ],
  "aberturas_post": {
-  "18120815357070220": [
-   "e a mente"
-  ],
   "18168780994485568": [
    "infelizmente as regras",
    "tem quem prefira",
@@ -6304,6 +6303,11 @@
   ],
   "18042919802842058": [
    "renk renk so"
+  ],
+  "18444123814177794": [
+   "esse ai vai",
+   "alguem precisa mesmo",
+   "vendedor de rua"
   ]
  },
  "shopee_checada": "2026-11-12|1",
