@@ -33,10 +33,11 @@
    "17:42",
    "18:45",
    "19:32",
-   "20:36"
+   "20:36",
+   "21:35"
   ],
   "produtos_feitos": 0,
-  "respostas": 20,
+  "respostas": 22,
   "por_post": {
    "18453362791120072": 2,
    "17916150045505435": 1,
@@ -47,34 +48,12 @@
    "18042919802842058": 2,
    "18444123814177794": 3,
    "17997445890029104": 1,
-   "18094004198210983": 3
+   "18094004198210983": 3,
+   "18096884879660620": 2
   },
   "escondidos": 1
  },
  "posts": [
-  {
-   "id": "18116946094839551",
-   "insp": "da0bcb8dad",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: tatuagem ainda pesa na hora de passar em entrevista de emprego ou o mercado já superou isso?",
-   "quando": "2026-11-07T16:07:08.904893-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 5331,
-    "likes": 11,
-    "replies": 18,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-12"
-   },
-   "viral_chk": "2026-11-08T07:07:08.627425-04:00",
-   "link_coment": "https://s.shopee.com.br/BVDQamWkg",
-   "meme_comentado": true,
-   "meme_views": 2043,
-   "formato_link": "coment",
-   "produto": "58217409342"
-  },
   {
    "id": "18139699534731715",
    "insp": "e5954341f1",
@@ -990,11 +969,17 @@
    "texto": "PESSOAS QUE TRABALHAM EM HOME OFFICE: o meu cérebro acha totalmente aceitável participar de uma reunião de diretoria de terno e gravata na parte de cima e calcinha de estampa de capivara embaixo. O problema é quando o chefe pede para eu levantar rapidinho para pegar um documento e eu descubro que o ",
    "quando": "2026-11-12T22:07:14.299974-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18063130034642069",
+   "insp": "0fc3b77eb4",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: gastar o preço de um Onix zero em três horas de festa de casamento para a tia chata reclamar que o salgado de frango estava frio é o maior esquema de pirâmide emocional que a sociedade aceita. o pior é que a pessoa ainda sorri na foto oficial como se não estivesse financiando o bu",
+   "quando": "2026-11-12T22:37:09.270575-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18108140440922235",
-  "17988719955059442",
   "17938778394389527",
   "18112890665026423",
   "18010342385970944",
@@ -3992,10 +3977,11 @@
   "18645381964056990",
   "17984198370124018",
   "18128840576488786",
-  "18104872136165749"
+  "18104872136165749",
+  "18156333637547383",
+  "18116235347587631"
  ],
  "hashes": [
-  "25dcd2dec649d8a673ac8e042706ea54",
   "5a3ba42d1895ec0be5bba09fed412b4c",
   "1fc4cb5f6c0d725a922b95348f051d0c",
   "fc7d4bffce448687d5fbd1260d3e2b7a",
@@ -4194,7 +4180,8 @@
   "d213121e21ec63de55afd7a282e35bb3",
   "b65a351fcb21697ded6b264bf4d30ae5",
   "241aac904f79d79306f4a23eaa75ee40",
-  "bca99ff098d1730e6c05c64695702ff0"
+  "bca99ff098d1730e6c05c64695702ff0",
+  "576bfd5b5af003bfa285f0ff0ab14287"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4267,7 +4254,6 @@
   "dce953f387": 1791142652.6592295,
   "c638d9ff81": 1791148042.25671,
   "c5cc27e19f": 1791151645.7283194,
-  "0fc3b77eb4": 1791155244.913814,
   "c7f375102c": 1791160638.6544247,
   "7fff0e06da": 1791162445.4803498,
   "7e797582de": 1791216456.696685,
@@ -4605,7 +4591,8 @@
   "68d405bd4e": 1794528492.656194,
   "42105a2390": 1794530243.3526776,
   "3a347dea45": 1794532041.0352526,
-  "46db302f47": 1794535652.454802
+  "46db302f47": 1794535652.454802,
+  "0fc3b77eb4": 1794537445.5427508
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4621,20 +4608,12 @@
   "0521dbc115": 1,
   "5eb1bcccad": 1,
   "1bc8d7a799": 1,
-  "1f9f283a44": 1
+  "1f9f283a44": 1,
+  "80b9cf5abb": 1,
+  "879d044708": 1
  },
  "reservas_checadas": "2026-11-12",
  "ultimas_respostas": [
-  {
-   "t": "atalho de milhões kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "bolsa de valores dos sentimentos tá volátil kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Total de bens é a escolha mais tranquila, né? kkk",
    "p": "concorda",
@@ -4774,6 +4753,16 @@
    "t": "essa parte aí já começa a dar uma balançada na nossa paz kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "oito anos com câmera desligada é um recorde que merece até troféu kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "quase que o colega novo ganha um brinde inesperado no primeiro dia kkk",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6051,13 +6040,6 @@
   }
  ],
  "aberturas_post": {
-  "18122952722291296": [
-   "estrategia de guerra",
-   "esse ai era",
-   "ainda bem que",
-   "pelo menos a",
-   "confessou o crime"
-  ],
   "18352395226269773": [
    "que paz e",
    "guardar o proprio",
@@ -6231,6 +6213,10 @@
    "pelo menos os",
    "pior q tem",
    "os dois ja"
+  ],
+  "18096884879660620": [
+   "oito anos com",
+   "quase que o"
   ]
  },
  "shopee_checada": "2026-11-12|1",
