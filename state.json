@@ -34,7 +34,7 @@
    "16:29"
   ],
   "produtos_feitos": 0,
-  "respostas": 27,
+  "respostas": 29,
   "por_post": {
    "18063130034642069": 1,
    "18096884879660620": 5,
@@ -49,7 +49,8 @@
    "18130953941477836": 1,
    "17954907144340398": 1,
    "18046621457839134": 5,
-   "18104241452373307": 2
+   "18104241452373307": 2,
+   "17979576284932506": 2
   }
  },
  "posts": [
@@ -994,8 +995,6 @@
   }
  ],
  "respondidos": [
-  "18079209854371246",
-  "17882484924689150",
   "18111972007873801",
   "17904315834353093",
   "18150218320551726",
@@ -3993,7 +3992,9 @@
   "18136731688664416",
   "18132485407839197",
   "18353985916271341",
-  "18113877791226770"
+  "18113877791226770",
+  "17915999940287389",
+  "18101477105647029"
  ],
  "hashes": [
   "7d913b6cc9fd5f9e989a4827aae78325",
@@ -4634,20 +4635,12 @@
   "790b593257": 1,
   "447eea892b": 1,
   "55da8243ae": 1,
-  "630feda239": 1
+  "630feda239": 1,
+  "b243b89171": 1,
+  "3a4f6eb0bb": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "oito anos com câmera desligada é um recorde que merece até troféu kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "quase que o colega novo ganha um brinde inesperado no primeiro dia kkk",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "KKKKKKKKKKKK socorro o grupo da família nunca mais foi o mesmo",
    "p": "concorda",
@@ -4787,6 +4780,16 @@
    "t": "esse é o tipo de ferramenta que vem com manual de sobrevivencia embutido",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "já avisando que ele exige petisco para aceitar visitas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "com certeza vai aceitar sem questionar nada kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6069,18 +6072,6 @@
   }
  ],
  "aberturas_post": {
-  "18063738524658947": [
-   "muita gente esquece",
-   "essa cidade tem",
-   "asco entra na",
-   "verdade o interior",
-   "agora fiquei curiosa",
-   "ja entraram direto",
-   "fica meio esquecida",
-   "lugar bonito que",
-   "foz do iguacu",
-   "muita gente passa"
-  ],
   "18138156736652646": [
    "branco e rebelde",
    "agora chamar adulto",
@@ -6229,6 +6220,10 @@
   "18104241452373307": [
    "essas armadilhas digitais",
    "esse e o"
+  ],
+  "17979576284932506": [
+   "ja avisando que",
+   "com certeza vai"
   ]
  },
  "shopee_checada": "2026-11-13|1",
