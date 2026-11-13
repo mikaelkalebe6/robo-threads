@@ -30,7 +30,8 @@
    "12:28",
    "13:21",
    "14:37",
-   "15:44"
+   "15:44",
+   "16:29"
   ],
   "produtos_feitos": 0,
   "respostas": 27,
@@ -52,23 +53,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18447652600130064",
-   "insp": "41aca0f78d",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual foi o detalhe mais bobo que fez você olhar pra pessoa e pensar que aquilo ali ia longe?",
-   "quando": "2026-11-08T12:37:08.064363-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 504,
-    "likes": 4,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-13"
-   }
-  },
   {
    "id": "17912953554306994",
    "insp": "03269f6c0e",
@@ -998,6 +982,14 @@
    "link": "",
    "texto": "Meu primeiro salário foi tão cinematográfico que eu comprei um sanduíche natural que me deu uma intoxicação alimentar digna de novela das nove e paguei a taxa de religiosidade do meu cachorro pra ele não queimar no inferno. O resto foi pra receita federal em forma de lágrimas. Qual foi a pior burric",
    "quando": "2026-11-13T16:37:09.343879-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17979576284932506",
+   "insp": "bc90ccda37",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a pessoa me chama pro rolê às dez da noite e eu respondo que o meu gato teve uma crise existencial e precisa de terapia de apoio emocional. Qual a chance da pessoa acreditar que eu só queria ficar deitada vendo reels de comida?",
+   "quando": "2026-11-13T17:37:07.541834-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4004,7 +3996,6 @@
   "18113877791226770"
  ],
  "hashes": [
-  "6697a4086d13ea440c8da8d61d0ba156",
   "7d913b6cc9fd5f9e989a4827aae78325",
   "19d44b187cbe37307915cf6c4ef1fe92",
   "3e5f8988dbb66a54ee90dc948e297c4e",
@@ -4203,7 +4194,8 @@
   "3e0340cdf8275523320cb15a20023bbb",
   "3e0a099940ba224f681180d57f067fd1",
   "93eb43c8e8444979a4dff8616aeb09eb",
-  "d2072a8279c3867dcce2bfd49ace24f3"
+  "d2072a8279c3867dcce2bfd49ace24f3",
+  "a5e7ae27d7a4cad39a8ca8de5b25f0e6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4591,7 +4583,6 @@
   "25cf5fb448": 1794416856.0402312,
   "c05528a8e3": 1794420450.6618483,
   "d6497bdd55": 1794424060.460397,
-  "bc90ccda37": 1794431255.2244694,
   "ef980ef49f": 1794434849.5170166,
   "f784c8426a": 1794449296.7565103,
   "36df8573cc": 1794488895.8000133,
@@ -4614,7 +4605,8 @@
   "a537fed31d": 1794591449.181507,
   "6e7858b93b": 1794595091.1607795,
   "4fcfb095d4": 1794596850.5791426,
-  "c7f8b70e05": 1794602287.64719
+  "c7f8b70e05": 1794602287.64719,
+  "bc90ccda37": 1794605892.9470575
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
