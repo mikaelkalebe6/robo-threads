@@ -28,7 +28,7 @@
    "10:07"
   ],
   "produtos_feitos": 0,
-  "respostas": 14,
+  "respostas": 15,
   "por_post": {
    "18063130034642069": 1,
    "18096884879660620": 3,
@@ -38,7 +38,8 @@
    "18042919802842058": 2,
    "18277459723309994": 1,
    "18131101210849673": 1,
-   "18022374683732581": 1
+   "18022374683732581": 1,
+   "17918018859494317": 1
   }
  },
  "posts": [
@@ -1052,7 +1053,6 @@
   }
  ],
  "respondidos": [
-  "18336553453256350",
   "18077602118417427",
   "18192686971399709",
   "18129596095743600",
@@ -4051,7 +4051,8 @@
   "18134025808747163",
   "18454693099192798",
   "18136452277741600",
-  "18109379819362234"
+  "18109379819362234",
+  "17953475265054413"
  ],
  "hashes": [
   "6032ac64ab7cd8b2b1074969b60cf2ae",
@@ -4680,15 +4681,11 @@
   "467b856c69": 1,
   "526c410eb2": 1,
   "b1d7a14308": 1,
-  "2690e16735": 1
+  "2690e16735": 1,
+  "9193e3b8f9": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, quem nunca sentiu o aperto do boleto não entende bem 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "frieza desnecessária quando a intenção era só trocar ideia de boa",
    "p": "concorda",
@@ -4831,6 +4828,11 @@
   },
   {
    "t": "a mente da pessoa voa longe com a desorganizacao alheia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse roteiro turístico para comprar um sanduba exige planejamento de viagem internacional",
    "p": "concorda",
    "r": 0
   }
@@ -6115,12 +6117,6 @@
   }
  ],
  "aberturas_post": {
-  "17912449200577226": [
-   "verdade nada como",
-   "oi linda",
-   "pacote completo e",
-   "verdade pagar condominio"
-  ],
   "18119258228009395": [
    "pelo menos a"
   ],
@@ -6287,6 +6283,9 @@
   ],
   "18022374683732581": [
    "perdeu a chance"
+  ],
+  "17918018859494317": [
+   "esse roteiro turistico"
   ]
  },
  "shopee_checada": "2026-11-13|1",
