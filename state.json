@@ -24,15 +24,16 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 7,
+  "respostas": 12,
   "por_post": {
    "18063130034642069": 1,
-   "18096884879660620": 1,
-   "18012664097996382": 1,
+   "18096884879660620": 2,
+   "18012664097996382": 2,
    "18136310087493187": 1,
-   "18094004198210983": 1,
-   "18042919802842058": 1,
-   "18277459723309994": 1
+   "18094004198210983": 2,
+   "18042919802842058": 2,
+   "18277459723309994": 1,
+   "18131101210849673": 1
   }
  },
  "posts": [
@@ -1079,11 +1080,6 @@
   }
  ],
  "respondidos": [
-  "18349779352267070",
-  "17904659526578903",
-  "17911673760499374",
-  "18184458130422704",
-  "18183924793423031",
   "18107171951260472",
   "18637680832009111",
   "18336553453256350",
@@ -4078,7 +4074,12 @@
   "17949778383358784",
   "18115627036869416",
   "18115512920147808",
-  "18081792950743418"
+  "18081792950743418",
+  "18032744144914893",
+  "18202167274388766",
+  "18083958065341611",
+  "18134025808747163",
+  "18454693099192798"
  ],
  "hashes": [
   "5a3ba42d1895ec0be5bba09fed412b4c",
@@ -4700,35 +4701,15 @@
   "bf126dc4fa": 1,
   "ad5a8594e2": 1,
   "62044a3528": 1,
-  "37b9e2a656": 1
+  "37b9e2a656": 1,
+  "571befb30b": 1,
+  "0521dbc115": 1,
+  "5a4f6559c6": 1,
+  "467b856c69": 1,
+  "526c410eb2": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "Corajosa, já estou aqui torcendo para o teu ‘oi’ virar romance kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "criatividade nas alturas para fugir da calçada kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o estoque de açúcar aqui já foi pro espaço junto com a paz de espírito kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pelo menos a cobrança ficou em família kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Verdade, parece reunião de condomínio, já estou sentindo a conta subir kkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "esse já vem com laudo técnico e garantia estendida kkkk",
    "p": "concorda",
@@ -4851,6 +4832,31 @@
   },
   {
    "t": "Concordo, dinheiro é só ferramenta, mas ainda sinto falta de café sem boleto 😂",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pois é, a separação foi totalmente cancelada por aqui",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cor da pele é estratégica demais, perdeu a graça da capivara",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "medida drástica mas que poupa muita dor de cabeça e extrato zerado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Então você também vive no modo cartão infinito, né? kkkkk 😅",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "agora fiquei com medo de sair com o meu carro",
    "p": "concorda",
    "r": 0
   }
@@ -6254,7 +6260,8 @@
   "18131101210849673": [
    "pelo menos a",
    "respeito a verdadeira",
-   "socorro o grupo"
+   "socorro o grupo",
+   "pois e a"
   ],
   "18113350808614874": [
    "verdade parece reuniao",
@@ -6272,7 +6279,8 @@
   "18042919802842058": [
    "renk renk so",
    "essa parte ai",
-   "eita ja deixei"
+   "eita ja deixei",
+   "agora fiquei com"
   ],
   "18444123814177794": [
    "esse ai vai",
@@ -6286,18 +6294,21 @@
    "pelo menos os",
    "pior q tem",
    "os dois ja",
-   "o date foi"
+   "o date foi",
+   "entao voce tambem"
   ],
   "18096884879660620": [
    "oito anos com",
    "quase que o",
-   "o problema e"
+   "o problema e",
+   "cor da pele"
   ],
   "18063130034642069": [
    "viagem com quem"
   ],
   "18012664097996382": [
-   "perigo iminente de"
+   "perigo iminente de",
+   "medida drastica mas"
   ],
   "18136310087493187": [
    "o churrasco de"
