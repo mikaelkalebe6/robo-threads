@@ -32,7 +32,7 @@
    "14:37"
   ],
   "produtos_feitos": 0,
-  "respostas": 21,
+  "respostas": 23,
   "por_post": {
    "18063130034642069": 1,
    "18096884879660620": 5,
@@ -43,10 +43,10 @@
    "18277459723309994": 1,
    "18131101210849673": 1,
    "18022374683732581": 1,
-   "17918018859494317": 1,
+   "17918018859494317": 2,
    "18130953941477836": 1,
    "17954907144340398": 1,
-   "18046621457839134": 2
+   "18046621457839134": 3
   }
  },
  "posts": [
@@ -1009,8 +1009,6 @@
   }
  ],
  "respondidos": [
-  "18202559278373213",
-  "18187860805415742",
   "18394201948162626",
   "18566823583072244",
   "18130363735742989",
@@ -4008,7 +4006,9 @@
   "18114661189869818",
   "18096943034664852",
   "18658113268017589",
-  "18130464397911201"
+  "18130464397911201",
+  "18118080593122778",
+  "17999542509051873"
  ],
  "hashes": [
   "36abb9ecf90e4dacdbf15206fbe5bd68",
@@ -4644,20 +4644,12 @@
   "83f6a73b93": 1,
   "69704e2689": 1,
   "c50a95c30c": 1,
-  "a0578f0710": 1
+  "a0578f0710": 1,
+  "dcf09b03a5": 1,
+  "790b593257": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "vendedor de rua tem um poder de convencimento que é um perigo para a nossa conta bancária",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tem hora que a gente leva tudo um pouco mais a sério do que precisa",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "pelo menos os juros já chegam para fazer companhia no fim do mês kkk",
    "p": "concorda",
@@ -4797,6 +4789,16 @@
    "t": "já pode colocar alarme e escolta armada para proteger essa caixa no baú kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "a pior hora do dia para inventar de turistar",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "está tão difícil que daqui a pouco vão parcelar em doze vezes sem juros",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6226,7 +6228,8 @@
    "perdeu a chance"
   ],
   "17918018859494317": [
-   "esse roteiro turistico"
+   "esse roteiro turistico",
+   "a pior hora"
   ],
   "18130953941477836": [
    "vc nao entendeu"
@@ -6236,7 +6239,8 @@
   ],
   "18046621457839134": [
    "daqui a pouco",
-   "ja pode colocar"
+   "ja pode colocar",
+   "esta tao dificil"
   ]
  },
  "shopee_checada": "2026-11-13|1",
