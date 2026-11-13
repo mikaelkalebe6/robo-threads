@@ -31,13 +31,14 @@
    "13:21",
    "14:37",
    "15:44",
-   "16:29"
+   "16:29",
+   "17:19"
   ],
   "produtos_feitos": 0,
-  "respostas": 29,
+  "respostas": 30,
   "por_post": {
    "18063130034642069": 1,
-   "18096884879660620": 5,
+   "18096884879660620": 6,
    "18012664097996382": 2,
    "18136310087493187": 1,
    "18094004198210983": 2,
@@ -54,23 +55,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17912953554306994",
-   "insp": "03269f6c0e",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: dá pra namorar sério alguém que torce pro seu maior rival no futebol ou isso é pedir pra terminar na primeira final de campeonato",
-   "quando": "2026-11-08T13:07:10.868794-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1040,
-    "likes": 6,
-    "replies": 44,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-13"
-   }
-  },
   {
    "id": "17917947321470057",
    "insp": "c4388fbfd7",
@@ -992,10 +976,17 @@
    "texto": "DÚVIDA SINCERA: a pessoa me chama pro rolê às dez da noite e eu respondo que o meu gato teve uma crise existencial e precisa de terapia de apoio emocional. Qual a chance da pessoa acreditar que eu só queria ficar deitada vendo reels de comida?",
    "quando": "2026-11-13T17:37:07.541834-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18126701461718589",
+   "insp": "ff5db927b2",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: o ex da minha vizinha teve a audácia de colocar o feijão EM CIMA do arroz na quentinha que ela mandou pra ele e agora o grupo do condomínio inteiro tá votando se isso é motivo pra medida protetiva ou só deportação imediata.",
+   "quando": "2026-11-13T19:07:08.511148-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18111972007873801",
   "17904315834353093",
   "18150218320551726",
   "18167002405486049",
@@ -3994,10 +3985,10 @@
   "18353985916271341",
   "18113877791226770",
   "17915999940287389",
-  "18101477105647029"
+  "18101477105647029",
+  "18001105364824878"
  ],
  "hashes": [
-  "7d913b6cc9fd5f9e989a4827aae78325",
   "19d44b187cbe37307915cf6c4ef1fe92",
   "3e5f8988dbb66a54ee90dc948e297c4e",
   "d974036e71a32a7127cb7bd11211be00",
@@ -4196,7 +4187,8 @@
   "3e0a099940ba224f681180d57f067fd1",
   "93eb43c8e8444979a4dff8616aeb09eb",
   "d2072a8279c3867dcce2bfd49ace24f3",
-  "a5e7ae27d7a4cad39a8ca8de5b25f0e6"
+  "a5e7ae27d7a4cad39a8ca8de5b25f0e6",
+  "48537f34bfb19c1788501a539b2a558f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4277,7 +4269,6 @@
   "338b545216": 1791299241.9964204,
   "380b00e24d": 1791301049.584341,
   "3effd5124d": 1791310042.3382156,
-  "ff5db927b2": 1791313646.070318,
   "fb886a59a7": 1791315444.3711731,
   "852685f1e2": 1791319047.1416328,
   "07137399ea": 1791322646.4106162,
@@ -4607,7 +4598,8 @@
   "6e7858b93b": 1794595091.1607795,
   "4fcfb095d4": 1794596850.5791426,
   "c7f8b70e05": 1794602287.64719,
-  "bc90ccda37": 1794605892.9470575
+  "bc90ccda37": 1794605892.9470575,
+  "ff5db927b2": 1794611290.087744
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4637,15 +4629,11 @@
   "55da8243ae": 1,
   "630feda239": 1,
   "b243b89171": 1,
-  "3a4f6eb0bb": 1
+  "3a4f6eb0bb": 1,
+  "57a1d4907b": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "KKKKKKKKKKKK socorro o grupo da família nunca mais foi o mesmo",
-   "p": "concorda",
-   "r": 3
-  },
   {
    "t": "viagem com quem importa rende muito mais lembrança boa do que festa pra parentes distantes",
    "p": "concorda",
@@ -4790,6 +4778,11 @@
    "t": "com certeza vai aceitar sem questionar nada kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "o pior é o desespero pra achar a calça antes da câmera abrir",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6185,7 +6178,8 @@
    "cor da pele",
    "a mente da",
    "perfeito o problema",
-   "quase um teste"
+   "quase um teste",
+   "o pior e"
   ],
   "18063130034642069": [
    "viagem com quem"
