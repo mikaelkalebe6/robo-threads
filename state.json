@@ -37,11 +37,11 @@
    "21:35"
   ],
   "produtos_feitos": 0,
-  "respostas": 22,
+  "respostas": 23,
   "por_post": {
    "18453362791120072": 2,
    "17916150045505435": 1,
-   "18131101210849673": 2,
+   "18131101210849673": 3,
    "18113350808614874": 3,
    "18277459723309994": 2,
    "18112357985258185": 1,
@@ -980,7 +980,6 @@
   }
  ],
  "respondidos": [
-  "17938778394389527",
   "18112890665026423",
   "18010342385970944",
   "18136521868584934",
@@ -3979,7 +3978,8 @@
   "18128840576488786",
   "18104872136165749",
   "18156333637547383",
-  "18116235347587631"
+  "18116235347587631",
+  "18121447951956852"
  ],
  "hashes": [
   "5a3ba42d1895ec0be5bba09fed412b4c",
@@ -4610,15 +4610,10 @@
   "1bc8d7a799": 1,
   "1f9f283a44": 1,
   "80b9cf5abb": 1,
-  "879d044708": 1
+  "879d044708": 2
  },
  "reservas_checadas": "2026-11-12",
  "ultimas_respostas": [
-  {
-   "t": "Total de bens é a escolha mais tranquila, né? kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa fritadinha inicial faz toda a diferença mesmo",
    "p": "concorda",
@@ -4763,6 +4758,11 @@
    "t": "quase que o colega novo ganha um brinde inesperado no primeiro dia kkk",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "KKKKKKKKKKKK socorro o grupo da família nunca mais foi o mesmo",
+   "p": "concorda",
+   "r": 3
   }
  ],
  "minhas_respostas": {
@@ -6183,7 +6183,8 @@
   ],
   "18131101210849673": [
    "pelo menos a",
-   "respeito a verdadeira"
+   "respeito a verdadeira",
+   "socorro o grupo"
   ],
   "18113350808614874": [
    "verdade parece reuniao",
