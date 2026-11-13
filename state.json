@@ -26,7 +26,7 @@
    "08:14"
   ],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 13,
   "por_post": {
    "18063130034642069": 1,
    "18096884879660620": 2,
@@ -35,7 +35,8 @@
    "18094004198210983": 2,
    "18042919802842058": 2,
    "18277459723309994": 1,
-   "18131101210849673": 1
+   "18131101210849673": 1,
+   "18022374683732581": 1
   }
  },
  "posts": [
@@ -1067,7 +1068,6 @@
   }
  ],
  "respondidos": [
-  "18107171951260472",
   "18637680832009111",
   "18336553453256350",
   "18077602118417427",
@@ -4066,7 +4066,8 @@
   "18202167274388766",
   "18083958065341611",
   "18134025808747163",
-  "18454693099192798"
+  "18454693099192798",
+  "18136452277741600"
  ],
  "hashes": [
   "1fc4cb5f6c0d725a922b95348f051d0c",
@@ -4693,15 +4694,11 @@
   "0521dbc115": 1,
   "5a4f6559c6": 1,
   "467b856c69": 1,
-  "526c410eb2": 1
+  "526c410eb2": 1,
+  "b1d7a14308": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "esse já vem com laudo técnico e garantia estendida kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "respeito a verdadeira sinceridade do seu status kkk",
    "p": "concorda",
@@ -4844,6 +4841,11 @@
   },
   {
    "t": "agora fiquei com medo de sair com o meu carro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perdeu a chance de exigir a folha de pagamento em adubo",
    "p": "concorda",
    "r": 0
   }
@@ -6128,9 +6130,6 @@
   }
  ],
  "aberturas_post": {
-  "18134045356776215": [
-   "arquivado para garantir"
-  ],
   "17912449200577226": [
    "verdade nada como",
    "oi linda",
@@ -6299,6 +6298,9 @@
   ],
   "18136310087493187": [
    "o churrasco de"
+  ],
+  "18022374683732581": [
+   "perdeu a chance"
   ]
  },
  "shopee_checada": "2026-11-13|1",
