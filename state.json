@@ -28,10 +28,11 @@
    "10:07",
    "11:36",
    "12:28",
-   "13:21"
+   "13:21",
+   "14:37"
   ],
   "produtos_feitos": 0,
-  "respostas": 19,
+  "respostas": 21,
   "por_post": {
    "18063130034642069": 1,
    "18096884879660620": 5,
@@ -44,42 +45,11 @@
    "18022374683732581": 1,
    "17918018859494317": 1,
    "18130953941477836": 1,
-   "17954907144340398": 1
+   "17954907144340398": 1,
+   "18046621457839134": 2
   }
  },
  "posts": [
-  {
-   "id": "18133726225744742",
-   "insp": "prod_45754796089",
-   "link": "",
-   "texto": "bateria de celular no carro sempre morre quando a gente mais precisa ne? descobri esse carregador com quatro entradas que resolveu minha vida no transito, olha como funciona 👀",
-   "quando": "2026-11-08T10:37:08.907140-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "45754796089",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "45754796089",
-    "nome": " Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
-    "offerLink": "https://s.shopee.com.br/3g55ayW10g",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pg-mp4m6nw7jxmq22",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 213,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-13"
-   },
-   "link_coment": "https://s.shopee.com.br/3g55ayW10g",
-   "link_em": "2026-11-09T07:07:09.846710-04:00",
-   "link_views": 0
-  },
   {
    "id": "17915223723537867",
    "insp": "0c2c19145c",
@@ -1028,11 +998,17 @@
    "texto": "DÚVIDA SINCERA: a partir de quantos reais o azeite de oliva passa a ser considerado herança de família e fica trancado no cofre do banco?",
    "quando": "2026-11-13T14:37:08.374229-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17914429374484925",
+   "insp": "4fcfb095d4",
+   "link": "",
+   "texto": "SEJAM SINCEROS: vocês já fingiram que não viram um conhecido na rua pra não ter que conversar? O pior é quando a pessoa percebe que você viu, finge que não viu também, e os dois continuam andando na mesma direção fingindo demência com a alma lavada de vergonha. Qual foi o nível de humilhação que voc",
+   "quando": "2026-11-13T15:07:09.530542-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18119893211006043",
-  "18013359473976816",
   "18202559278373213",
   "18187860805415742",
   "18394201948162626",
@@ -4030,10 +4006,11 @@
   "18060558536566761",
   "18112570094333968",
   "18114661189869818",
-  "18096943034664852"
+  "18096943034664852",
+  "18658113268017589",
+  "18130464397911201"
  ],
  "hashes": [
-  "5ff86e9bc04a0b7bfd087949065a1e70",
   "36abb9ecf90e4dacdbf15206fbe5bd68",
   "6697a4086d13ea440c8da8d61d0ba156",
   "7d913b6cc9fd5f9e989a4827aae78325",
@@ -4232,7 +4209,8 @@
   "78238ccd5c7ab5c2a46464bb5f3c2a17",
   "2a8c891b4a4d1e6207b2bf0e46dd7ac1",
   "3e0340cdf8275523320cb15a20023bbb",
-  "3e0a099940ba224f681180d57f067fd1"
+  "3e0a099940ba224f681180d57f067fd1",
+  "93eb43c8e8444979a4dff8616aeb09eb"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4488,7 +4466,6 @@
   "1c1d414be8": 1793119065.6566234,
   "d1e2f3c049": 1793120863.046784,
   "4b99e3a872": 1793124470.8923373,
-  "4fcfb095d4": 1793129889.4446743,
   "a05db3f0dd": 1793137092.3311388,
   "5760d94547": 1793144294.4001164,
   "3125348bad": 1793153250.330989,
@@ -4643,7 +4620,8 @@
   "0445902113": 1794580658.2638593,
   "6c95b06784": 1794584240.7096345,
   "a537fed31d": 1794591449.181507,
-  "6e7858b93b": 1794595091.1607795
+  "6e7858b93b": 1794595091.1607795,
+  "4fcfb095d4": 1794596850.5791426
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4664,20 +4642,12 @@
   "1f9f283a44": 1,
   "a9cd8eccc9": 1,
   "83f6a73b93": 1,
-  "69704e2689": 1
+  "69704e2689": 1,
+  "c50a95c30c": 1,
+  "a0578f0710": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "esse aí vai no mercado só para renovar a casa inteira kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "alguém precisa mesmo confiscar esse cartão antes que eu compre até fiado kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "vendedor de rua tem um poder de convencimento que é um perigo para a nossa conta bancária",
    "p": "concorda",
@@ -4815,6 +4785,16 @@
   },
   {
    "t": "quase um teste cardíaco ao vivo né kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "daqui a pouco precisa dar o carro como garantia kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "já pode colocar alarme e escolta armada para proteger essa caixa no baú kkkkkk",
    "p": "concorda",
    "r": 2
   }
@@ -6099,22 +6079,6 @@
   }
  ],
  "aberturas_post": {
-  "18358811470223070": [
-   "pior que o",
-   "bonito ver quem",
-   "lugar seguro e",
-   "tradicao pesada essa",
-   "entao esta combinado",
-   "exato mas as",
-   "entendo vc ja",
-   "salario chorando na",
-   "parece que a",
-   "pelo menos alinhado",
-   "regra pratica que",
-   "o boleto do",
-   "quem sabe um",
-   "verdade quem convida"
-  ],
   "18126776548905390": [
    "e o campinho",
    "verdade a varzea",
@@ -6269,6 +6233,10 @@
   ],
   "17954907144340398": [
    "que o hacker"
+  ],
+  "18046621457839134": [
+   "daqui a pouco",
+   "ja pode colocar"
   ]
  },
  "shopee_checada": "2026-11-13|1",
