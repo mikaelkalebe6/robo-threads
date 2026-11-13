@@ -29,7 +29,7 @@
    "11:36"
   ],
   "produtos_feitos": 0,
-  "respostas": 17,
+  "respostas": 18,
   "por_post": {
    "18063130034642069": 1,
    "18096884879660620": 4,
@@ -41,7 +41,8 @@
    "18131101210849673": 1,
    "18022374683732581": 1,
    "17918018859494317": 1,
-   "18130953941477836": 1
+   "18130953941477836": 1,
+   "17954907144340398": 1
   }
  },
  "posts": [
@@ -1046,7 +1047,6 @@
   }
  ],
  "respondidos": [
-  "18129596095743600",
   "17882669595690731",
   "18119893211006043",
   "18013359473976816",
@@ -4045,7 +4045,8 @@
   "18109379819362234",
   "17953475265054413",
   "18060558536566761",
-  "18112570094333968"
+  "18112570094333968",
+  "18114661189869818"
  ],
  "hashes": [
   "b02b1b9d93e18feac2e7862d37686c3c",
@@ -4677,15 +4678,11 @@
   "2690e16735": 1,
   "9193e3b8f9": 1,
   "1f9f283a44": 1,
-  "a9cd8eccc9": 1
+  "a9cd8eccc9": 1,
+  "83f6a73b93": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "É, dinheiro dá aquela mãozinha pra ser feliz 😊",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "RenK RenK? Só falta a Lady Gaga gritar no porta‑malas kkkkkkk 🤣",
    "p": "concorda",
@@ -4830,6 +4827,11 @@
    "t": "perfeito, o problema é a velocidade de raciocínio para achar o doc sem levante suspeitas kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "que o hacker aceite capivara como forma de pagamento",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6112,10 +6114,6 @@
   }
  ],
  "aberturas_post": {
-  "17956439277273218": [
-   "poxa ainda nao",
-   "medo desse metodo"
-  ],
   "18358811470223070": [
    "pior que o",
    "bonito ver quem",
@@ -6282,6 +6280,9 @@
   ],
   "18130953941477836": [
    "vc nao entendeu"
+  ],
+  "17954907144340398": [
+   "que o hacker"
   ]
  },
  "shopee_checada": "2026-11-13|1",
