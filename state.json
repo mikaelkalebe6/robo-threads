@@ -24,7 +24,8 @@
   ],
   "feitos": [
    "08:14",
-   "09:00"
+   "09:00",
+   "10:07"
   ],
   "produtos_feitos": 0,
   "respostas": 14,
@@ -41,23 +42,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18198721987345444",
-   "insp": "d0c13e0048",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: entre doces e travessuras do Halloween ou o bom e velho Saci na mata, o fim de outubro sempre ganha quem sabe aproveitar um bom enredo.",
-   "quando": "2026-11-07T20:07:07.945397-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 241,
-    "likes": 3,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-13"
-   }
-  },
   {
    "id": "18134330512806965",
    "insp": "4c2ec95c55",
@@ -1056,6 +1040,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: qual aplicativo de rastreamento de ex vocês usam que eu cansei de pagar o hacker no Pix e ele só me manda foto da capivara do lago da cidade dizendo que é o meu anjo no altar",
    "quando": "2026-11-13T10:07:14.182816-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17918018859494317",
+   "insp": "0445902113",
+   "link": "",
+   "texto": "O paulistano inventa que vai dar um rolê só pra comprar três pãezinhos na padaria, parece que o pão francês virou atração turística com direito a guia turístico e lojinha de souvenir. A pessoa bota tênis de caminhada, o melhor casaco e pega o metrô pra ir comer um misto quente na esquina de baixo. Q",
+   "quando": "2026-11-13T10:37:09.201748-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4062,7 +4054,6 @@
   "18109379819362234"
  ],
  "hashes": [
-  "fc7d4bffce448687d5fbd1260d3e2b7a",
   "6032ac64ab7cd8b2b1074969b60cf2ae",
   "b02b1b9d93e18feac2e7862d37686c3c",
   "1a635db3c4f2f08fed5d14ad78354335",
@@ -4261,7 +4252,8 @@
   "bca99ff098d1730e6c05c64695702ff0",
   "576bfd5b5af003bfa285f0ff0ab14287",
   "90c987373e566c3ee41ccf8a7af39f21",
-  "c08165e4629f14ba29bf1272f2561f14"
+  "c08165e4629f14ba29bf1272f2561f14",
+  "78238ccd5c7ab5c2a46464bb5f3c2a17"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4275,7 +4267,6 @@
   "08c5fced1d": 1790687276.4493108,
   "4c34f415ce": 1790690916.9672582,
   "fb72b5075b": 1790705255.8349135,
-  "0445902113": 1790716045.8918386,
   "573ba90908": 1790725049.010326,
   "09e842892c": 1790726852.4957767,
   "6447474ad3": 1790730448.4125926,
@@ -4672,7 +4663,8 @@
   "46db302f47": 1794535652.454802,
   "0fc3b77eb4": 1794537445.5427508,
   "8b6d90e25d": 1794573479.2543428,
-  "0127d41120": 1794578873.3749712
+  "0127d41120": 1794578873.3749712,
+  "0445902113": 1794580658.2638593
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
