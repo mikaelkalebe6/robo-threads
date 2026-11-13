@@ -29,10 +29,11 @@
    "11:36",
    "12:28",
    "13:21",
-   "14:37"
+   "14:37",
+   "15:44"
   ],
   "produtos_feitos": 0,
-  "respostas": 24,
+  "respostas": 25,
   "por_post": {
    "18063130034642069": 1,
    "18096884879660620": 5,
@@ -46,27 +47,10 @@
    "17918018859494317": 2,
    "18130953941477836": 1,
    "17954907144340398": 1,
-   "18046621457839134": 4
+   "18046621457839134": 5
   }
  },
  "posts": [
-  {
-   "id": "17915223723537867",
-   "insp": "0c2c19145c",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: será que ainda existe lugar que deixa o pé de molho na bacia antes de fazer a unha ou isso virou lenda urbana?",
-   "quando": "2026-11-08T11:37:08.826441-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 290,
-    "likes": 2,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-13"
-   }
-  },
   {
    "id": "18447652600130064",
    "insp": "41aca0f78d",
@@ -1006,10 +990,17 @@
    "texto": "SEJAM SINCEROS: vocês já fingiram que não viram um conhecido na rua pra não ter que conversar? O pior é quando a pessoa percebe que você viu, finge que não viu também, e os dois continuam andando na mesma direção fingindo demência com a alma lavada de vergonha. Qual foi o nível de humilhação que voc",
    "quando": "2026-11-13T15:07:09.530542-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18104241452373307",
+   "insp": "c7f8b70e05",
+   "link": "",
+   "texto": "Meu primeiro salário foi tão cinematográfico que eu comprei um sanduíche natural que me deu uma intoxicação alimentar digna de novela das nove e paguei a taxa de religiosidade do meu cachorro pra ele não queimar no inferno. O resto foi pra receita federal em forma de lágrimas. Qual foi a pior burric",
+   "quando": "2026-11-13T16:37:09.343879-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18566823583072244",
   "18130363735742989",
   "17968031966965357",
   "18079209854371246",
@@ -4008,10 +3999,10 @@
   "18130464397911201",
   "18118080593122778",
   "17999542509051873",
-  "18136731688664416"
+  "18136731688664416",
+  "18132485407839197"
  ],
  "hashes": [
-  "36abb9ecf90e4dacdbf15206fbe5bd68",
   "6697a4086d13ea440c8da8d61d0ba156",
   "7d913b6cc9fd5f9e989a4827aae78325",
   "19d44b187cbe37307915cf6c4ef1fe92",
@@ -4210,7 +4201,8 @@
   "2a8c891b4a4d1e6207b2bf0e46dd7ac1",
   "3e0340cdf8275523320cb15a20023bbb",
   "3e0a099940ba224f681180d57f067fd1",
-  "93eb43c8e8444979a4dff8616aeb09eb"
+  "93eb43c8e8444979a4dff8616aeb09eb",
+  "d2072a8279c3867dcce2bfd49ace24f3"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4232,7 +4224,6 @@
   "018fcf3621": 1790782693.9690814,
   "2b14999174": 1790786274.782627,
   "8b93fbf051": 1790789849.0126176,
-  "c7f8b70e05": 1790795284.8806252,
   "00c9530901": 1790798863.395636,
   "828a5aba09": 1790802454.7834787,
   "3ce988f7a6": 1790807853.3159423,
@@ -4621,7 +4612,8 @@
   "6c95b06784": 1794584240.7096345,
   "a537fed31d": 1794591449.181507,
   "6e7858b93b": 1794595091.1607795,
-  "4fcfb095d4": 1794596850.5791426
+  "4fcfb095d4": 1794596850.5791426,
+  "c7f8b70e05": 1794602287.64719
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4632,7 +4624,7 @@
   "62044a3528": 1,
   "37b9e2a656": 1,
   "571befb30b": 1,
-  "0521dbc115": 1,
+  "0521dbc115": 2,
   "5a4f6559c6": 1,
   "467b856c69": 1,
   "526c410eb2": 1,
@@ -4651,11 +4643,6 @@
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "pior q tem doido pra tudo kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "os dois já e demais, mas o lugar deve ter sido só o fundo do poco mesmo kkkkk",
    "p": "concorda",
@@ -4798,6 +4785,11 @@
   },
   {
    "t": "precisa de chave de fenda e escolta armada para levar esse para casa kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pegar óleo composto pensando que é azeite é golpe baixo demais kkkkkk",
    "p": "concorda",
    "r": 2
   }
@@ -6242,7 +6234,8 @@
    "daqui a pouco",
    "ja pode colocar",
    "esta tao dificil",
-   "precisa de chave"
+   "precisa de chave",
+   "pegar oleo composto"
   ]
  },
  "shopee_checada": "2026-11-13|1",
