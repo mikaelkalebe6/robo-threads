@@ -31,7 +31,8 @@
    "14:35",
    "16:03",
    "17:42",
-   "18:45"
+   "18:45",
+   "19:32"
   ],
   "produtos_feitos": 0,
   "respostas": 19,
@@ -50,24 +51,6 @@
   "escondidos": 1
  },
  "posts": [
-  {
-   "id": "18139184407643257",
-   "insp": "a6880f3186",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: explicar o que era ter crédito no celular pré-pago faz a gente se sentir em 1900.",
-   "quando": "2026-11-07T13:07:09.039640-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 962,
-    "likes": 6,
-    "replies": 23,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-12"
-   },
-   "viral_chk": "2026-11-08T07:07:08.627425-04:00"
-  },
   {
    "id": "18137102459510046",
    "insp": "prod_19398319317",
@@ -1022,10 +1005,17 @@
    "texto": "VAMOS SER HONESTOS: churrasco no Brasil não é sobre carne, é sobre a hora exata em que o cunhado começa a inventar que entende de ponto da picanha enquanto a esposa dele descobre no grupo da família que ele curtiu foto de ex a três anos atrás. O que nunca pode faltar é o caos em família. Qual foi o ",
    "quando": "2026-11-12T20:37:08.236154-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18012664097996382",
+   "insp": "3a347dea45",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a nova modalidade de stalkear o ex é mandar um pix de um centavo com a mensagem \"saudade do meu ex?\" no extrato bancário ou o SPC já tá aceitando isso como garantia de choro?",
+   "quando": "2026-11-12T21:07:07.673630-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18144727450598377",
   "17913878316462629",
   "18108140440922235",
   "17988719955059442",
@@ -4024,10 +4014,10 @@
   "18058118660584473",
   "18415414483094143",
   "18645381964056990",
-  "17984198370124018"
+  "17984198370124018",
+  "18128840576488786"
  ],
  "hashes": [
-  "f4cf7684976b4d2ad53156eb3ac3db1a",
   "5083592bc58c80489431dc8e68016f00",
   "25dcd2dec649d8a673ac8e042706ea54",
   "5a3ba42d1895ec0be5bba09fed412b4c",
@@ -4226,7 +4216,8 @@
   "307404186cdefa13354ab254c7608ea4",
   "858cc10d8f15255ed4379721da28ac65",
   "d213121e21ec63de55afd7a282e35bb3",
-  "b65a351fcb21697ded6b264bf4d30ae5"
+  "b65a351fcb21697ded6b264bf4d30ae5",
+  "241aac904f79d79306f4a23eaa75ee40"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4282,7 +4273,6 @@
   "e9335aae02": 1790989648.0792394,
   "20526bb3a2": 1790993249.785394,
   "d26d8b821e": 1791032846.9219635,
-  "3a347dea45": 1791034644.2278385,
   "9c1e78bb9a": 1791038248.3376563,
   "7d0b87a61f": 1791040054.20017,
   "143d9cb236": 1791045474.23247,
@@ -4637,7 +4627,8 @@
   "c422eac36b": 1794512293.0169692,
   "63b1ece74f": 1794523092.6620424,
   "68d405bd4e": 1794528492.656194,
-  "42105a2390": 1794530243.3526776
+  "42105a2390": 1794530243.3526776,
+  "3a347dea45": 1794532041.0352526
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
