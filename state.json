@@ -29,7 +29,8 @@
    "12:50",
    "13:34",
    "14:35",
-   "16:03"
+   "16:03",
+   "17:42"
   ],
   "produtos_feitos": 0,
   "respostas": 16,
@@ -46,24 +47,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18088627868316590",
-   "insp": "16918d1a30",
-   "link": "",
-   "texto": "Qual voz de famoso ia fazer qualquer pessoa aceitar um áudio de bom dia sem reclamar",
-   "quando": "2026-11-07T11:37:07.753049-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 592,
-    "likes": 5,
-    "replies": 12,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-12"
-   },
-   "viral_chk": "2026-11-08T07:07:08.627425-04:00"
-  },
   {
    "id": "18094337621212236",
    "insp": "3ef9800d4d",
@@ -1037,6 +1020,14 @@
    "link": "",
    "texto": "O brasileiro tem zero condições de julgar a culinária alheia porque a gente inventou que farinha com feijão e um ovo tristonho é alta gastronomia, mas se alguém mexe na pamonha da minha região a pessoa sai direto pro velório com cobertura de açúcar e canela. Qual prato da tua cidade tu defende com u",
    "quando": "2026-11-12T18:37:09.410727-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18094004198210983",
+   "insp": "68d405bd4e",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a pessoa que decide pagar boleto com o limite do cartão pra impressionar o crush na primeira saída merece um abraço ou um processo por burrice financeira?",
+   "quando": "2026-11-12T20:07:08.921225-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4043,7 +4034,6 @@
   "18129304631297744"
  ],
  "hashes": [
-  "5e814a9401487303f28af1132fb36fa1",
   "378776797bd2e3e295271ac7459b3eec",
   "f4cf7684976b4d2ad53156eb3ac3db1a",
   "5083592bc58c80489431dc8e68016f00",
@@ -4242,7 +4232,8 @@
   "4ec9a2f7cc2103e7315bff8e6b0e974b",
   "00fd9461f8e1154106dd744e9467fa4d",
   "307404186cdefa13354ab254c7608ea4",
-  "858cc10d8f15255ed4379721da28ac65"
+  "858cc10d8f15255ed4379721da28ac65",
+  "d213121e21ec63de55afd7a282e35bb3"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4404,7 +4395,6 @@
   "e6b297b654": 1791990458.4722366,
   "53abd8941d": 1792004840.696338,
   "89cdd01f02": 1792006647.4343123,
-  "68d405bd4e": 1792022846.292982,
   "613abd5c08": 1792067892.1591535,
   "574b51f445": 1792084092.8612313,
   "2cd94859c5": 1792103847.1107104,
@@ -4653,7 +4643,8 @@
   "20b4497ce2": 1794505074.5405226,
   "e38b1c2eb7": 1794508701.7960765,
   "c422eac36b": 1794512293.0169692,
-  "63b1ece74f": 1794523092.6620424
+  "63b1ece74f": 1794523092.6620424,
+  "68d405bd4e": 1794528492.656194
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
