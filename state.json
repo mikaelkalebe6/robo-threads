@@ -32,7 +32,7 @@
    "14:37"
   ],
   "produtos_feitos": 0,
-  "respostas": 23,
+  "respostas": 24,
   "por_post": {
    "18063130034642069": 1,
    "18096884879660620": 5,
@@ -46,7 +46,7 @@
    "17918018859494317": 2,
    "18130953941477836": 1,
    "17954907144340398": 1,
-   "18046621457839134": 3
+   "18046621457839134": 4
   }
  },
  "posts": [
@@ -1009,7 +1009,6 @@
   }
  ],
  "respondidos": [
-  "18394201948162626",
   "18566823583072244",
   "18130363735742989",
   "17968031966965357",
@@ -4008,7 +4007,8 @@
   "18658113268017589",
   "18130464397911201",
   "18118080593122778",
-  "17999542509051873"
+  "17999542509051873",
+  "18136731688664416"
  ],
  "hashes": [
   "36abb9ecf90e4dacdbf15206fbe5bd68",
@@ -4646,15 +4646,11 @@
   "c50a95c30c": 1,
   "a0578f0710": 1,
   "dcf09b03a5": 1,
-  "790b593257": 1
+  "790b593257": 1,
+  "447eea892b": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos os juros já chegam para fazer companhia no fim do mês kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "pior q tem doido pra tudo kkkk",
    "p": "concorda",
@@ -4799,6 +4795,11 @@
    "t": "está tão difícil que daqui a pouco vão parcelar em doze vezes sem juros",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "precisa de chave de fenda e escolta armada para levar esse para casa kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6240,7 +6241,8 @@
   "18046621457839134": [
    "daqui a pouco",
    "ja pode colocar",
-   "esta tao dificil"
+   "esta tao dificil",
+   "precisa de chave"
   ]
  },
  "shopee_checada": "2026-11-13|1",
