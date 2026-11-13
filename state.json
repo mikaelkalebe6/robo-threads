@@ -32,7 +32,8 @@
    "14:37",
    "15:44",
    "16:29",
-   "17:19"
+   "17:19",
+   "17:59"
   ],
   "produtos_feitos": 0,
   "respostas": 30,
@@ -55,23 +56,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17917947321470057",
-   "insp": "c4388fbfd7",
-   "link": "",
-   "texto": "ME CONTA: quem mais jura que vai dormir cedo e às duas da manhã tá vidrado em vídeo de limpeza de tapete?",
-   "quando": "2026-11-08T14:07:09.384220-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 211,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-13"
-   }
-  },
   {
    "id": "18159685150495656",
    "insp": "0dc0e78f0f",
@@ -983,6 +967,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: o ex da minha vizinha teve a audácia de colocar o feijão EM CIMA do arroz na quentinha que ela mandou pra ele e agora o grupo do condomínio inteiro tá votando se isso é motivo pra medida protetiva ou só deportação imediata.",
    "quando": "2026-11-13T19:07:08.511148-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18175522570414652",
+   "insp": "017f3ae860",
+   "link": "",
+   "texto": "O cara jura que vai me conquistar dando uma giradinha estilo passista de escola de samba no meio da balada e eu só consigo pensar se o IPVA dele tá em dia pra gente ir embora sem passar vergonha no meio da rua. Homem que sabe dançar ganha quantos pontos com vocês, de 0 a 10?",
+   "quando": "2026-11-13T19:37:08.766287-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3989,7 +3981,6 @@
   "18001105364824878"
  ],
  "hashes": [
-  "19d44b187cbe37307915cf6c4ef1fe92",
   "3e5f8988dbb66a54ee90dc948e297c4e",
   "d974036e71a32a7127cb7bd11211be00",
   "efbb500e717e2b5312c97af8237f7d2b",
@@ -4188,7 +4179,8 @@
   "93eb43c8e8444979a4dff8616aeb09eb",
   "d2072a8279c3867dcce2bfd49ace24f3",
   "a5e7ae27d7a4cad39a8ca8de5b25f0e6",
-  "48537f34bfb19c1788501a539b2a558f"
+  "48537f34bfb19c1788501a539b2a558f",
+  "85f8f4b2e3a229c94d89a5281149f428"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4274,7 +4266,6 @@
   "07137399ea": 1791322646.4106162,
   "20c7cdebe0": 1791326248.2575233,
   "5a57ea2b34": 1791329841.1190572,
-  "017f3ae860": 1791333458.1197262,
   "40b922d817": 1791337109.1160452,
   "bc64a2ff13": 1791338847.1850562,
   "e69b61516f": 1791376726.9967973,
@@ -4599,7 +4590,8 @@
   "4fcfb095d4": 1794596850.5791426,
   "c7f8b70e05": 1794602287.64719,
   "bc90ccda37": 1794605892.9470575,
-  "ff5db927b2": 1794611290.087744
+  "ff5db927b2": 1794611290.087744,
+  "017f3ae860": 1794613040.9707444
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
