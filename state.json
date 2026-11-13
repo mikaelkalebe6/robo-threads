@@ -32,10 +32,11 @@
    "16:03",
    "17:42",
    "18:45",
-   "19:32"
+   "19:32",
+   "20:36"
   ],
   "produtos_feitos": 0,
-  "respostas": 19,
+  "respostas": 20,
   "por_post": {
    "18453362791120072": 2,
    "17916150045505435": 1,
@@ -43,7 +44,7 @@
    "18113350808614874": 3,
    "18277459723309994": 2,
    "18112357985258185": 1,
-   "18042919802842058": 1,
+   "18042919802842058": 2,
    "18444123814177794": 3,
    "17997445890029104": 1,
    "18094004198210983": 3
@@ -51,38 +52,6 @@
   "escondidos": 1
  },
  "posts": [
-  {
-   "id": "18137102459510046",
-   "insp": "prod_19398319317",
-   "link": "",
-   "texto": "Achar top que sustenta de verdade para correr é missão quase impossível né 😂 Descobri esse com zíper na frente que ajusta tudo e não deixa nada balançar. Olha na foto se não parece prático demais 👀",
-   "quando": "2026-11-07T15:37:08.748968-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "19398319317",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "19398319317",
-    "nome": "Top Esportivo Alta Sustentação Ajustavel Ziper Frontal Academia Fitness Jump Corrida",
-    "offerLink": "https://s.shopee.com.br/3B8nPBx3tR",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfkzt1int3408c",
-    "campanha": "11.11"
-   },
-   "metricas": {
-    "views": 219,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-12"
-   },
-   "link_coment": "https://s.shopee.com.br/3B8nPBx3tR",
-   "link_em": "2026-11-08T10:07:08.515790-04:00",
-   "link_views": 0
-  },
   {
    "id": "18116946094839551",
    "insp": "da0bcb8dad",
@@ -1013,10 +982,17 @@
    "texto": "DÚVIDA SINCERA: a nova modalidade de stalkear o ex é mandar um pix de um centavo com a mensagem \"saudade do meu ex?\" no extrato bancário ou o SPC já tá aceitando isso como garantia de choro?",
    "quando": "2026-11-12T21:07:07.673630-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18096884879660620",
+   "insp": "46db302f47",
+   "link": "",
+   "texto": "PESSOAS QUE TRABALHAM EM HOME OFFICE: o meu cérebro acha totalmente aceitável participar de uma reunião de diretoria de terno e gravata na parte de cima e calcinha de estampa de capivara embaixo. O problema é quando o chefe pede para eu levantar rapidinho para pegar um documento e eu descubro que o ",
+   "quando": "2026-11-12T22:07:14.299974-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17913878316462629",
   "18108140440922235",
   "17988719955059442",
   "17938778394389527",
@@ -4015,10 +3991,10 @@
   "18415414483094143",
   "18645381964056990",
   "17984198370124018",
-  "18128840576488786"
+  "18128840576488786",
+  "18104872136165749"
  ],
  "hashes": [
-  "5083592bc58c80489431dc8e68016f00",
   "25dcd2dec649d8a673ac8e042706ea54",
   "5a3ba42d1895ec0be5bba09fed412b4c",
   "1fc4cb5f6c0d725a922b95348f051d0c",
@@ -4217,7 +4193,8 @@
   "858cc10d8f15255ed4379721da28ac65",
   "d213121e21ec63de55afd7a282e35bb3",
   "b65a351fcb21697ded6b264bf4d30ae5",
-  "241aac904f79d79306f4a23eaa75ee40"
+  "241aac904f79d79306f4a23eaa75ee40",
+  "bca99ff098d1730e6c05c64695702ff0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4276,7 +4253,6 @@
   "9c1e78bb9a": 1791038248.3376563,
   "7d0b87a61f": 1791040054.20017,
   "143d9cb236": 1791045474.23247,
-  "46db302f47": 1791047239.8406873,
   "120d39bc61": 1791052643.211581,
   "880c48c090": 1791058075.4252539,
   "c5b66c6c5b": 1791065245.2783217,
@@ -4628,7 +4604,8 @@
   "63b1ece74f": 1794523092.6620424,
   "68d405bd4e": 1794528492.656194,
   "42105a2390": 1794530243.3526776,
-  "3a347dea45": 1794532041.0352526
+  "3a347dea45": 1794532041.0352526,
+  "46db302f47": 1794535652.454802
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4643,15 +4620,11 @@
   "977aa04ba7": 1,
   "0521dbc115": 1,
   "5eb1bcccad": 1,
-  "1bc8d7a799": 1
+  "1bc8d7a799": 1,
+  "1f9f283a44": 1
  },
  "reservas_checadas": "2026-11-12",
  "ultimas_respostas": [
-  {
-   "t": "Um furacão de pelos, hein? 😂",
-   "p": "neutra",
-   "r": 2
-  },
   {
    "t": "atalho de milhões kkkk",
    "p": "concorda",
@@ -4796,6 +4769,11 @@
    "t": "os dois já e demais, mas o lugar deve ter sido só o fundo do poco mesmo kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "essa parte aí já começa a dar uma balançada na nossa paz kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6238,7 +6216,8 @@
    "nossa tambem ja"
   ],
   "18042919802842058": [
-   "renk renk so"
+   "renk renk so",
+   "essa parte ai"
   ],
   "18444123814177794": [
    "esse ai vai",
