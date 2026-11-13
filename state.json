@@ -33,7 +33,7 @@
    "15:44"
   ],
   "produtos_feitos": 0,
-  "respostas": 25,
+  "respostas": 27,
   "por_post": {
    "18063130034642069": 1,
    "18096884879660620": 5,
@@ -47,7 +47,8 @@
    "17918018859494317": 2,
    "18130953941477836": 1,
    "17954907144340398": 1,
-   "18046621457839134": 5
+   "18046621457839134": 5,
+   "18104241452373307": 2
   }
  },
  "posts": [
@@ -1001,8 +1002,6 @@
   }
  ],
  "respondidos": [
-  "18130363735742989",
-  "17968031966965357",
   "18079209854371246",
   "17882484924689150",
   "18111972007873801",
@@ -4000,7 +3999,9 @@
   "18118080593122778",
   "17999542509051873",
   "18136731688664416",
-  "18132485407839197"
+  "18132485407839197",
+  "18353985916271341",
+  "18113877791226770"
  ],
  "hashes": [
   "6697a4086d13ea440c8da8d61d0ba156",
@@ -4639,20 +4640,12 @@
   "a0578f0710": 1,
   "dcf09b03a5": 1,
   "790b593257": 1,
-  "447eea892b": 1
+  "447eea892b": 1,
+  "55da8243ae": 1,
+  "630feda239": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "os dois já e demais, mas o lugar deve ter sido só o fundo do poco mesmo kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "essa parte aí já começa a dar uma balançada na nossa paz kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "oito anos com câmera desligada é um recorde que merece até troféu kkkkkk",
    "p": "concorda",
@@ -4792,6 +4785,16 @@
    "t": "pegar óleo composto pensando que é azeite é golpe baixo demais kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "essas armadilhas digitais facilitam demais o fim do salario",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse é o tipo de ferramenta que vem com manual de sobrevivencia embutido",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6074,12 +6077,6 @@
   }
  ],
  "aberturas_post": {
-  "18126776548905390": [
-   "e o campinho",
-   "verdade a varzea",
-   "tem muito projeto",
-   "dedao na terra"
-  ],
   "18063738524658947": [
    "muita gente esquece",
    "essa cidade tem",
@@ -6236,6 +6233,10 @@
    "esta tao dificil",
    "precisa de chave",
    "pegar oleo composto"
+  ],
+  "18104241452373307": [
+   "essas armadilhas digitais",
+   "esse e o"
   ]
  },
  "shopee_checada": "2026-11-13|1",
