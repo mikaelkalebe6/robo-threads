@@ -27,13 +27,14 @@
    "09:00",
    "10:07",
    "11:36",
-   "12:28"
+   "12:28",
+   "13:21"
   ],
   "produtos_feitos": 0,
-  "respostas": 18,
+  "respostas": 19,
   "por_post": {
    "18063130034642069": 1,
-   "18096884879660620": 4,
+   "18096884879660620": 5,
    "18012664097996382": 2,
    "18136310087493187": 1,
    "18094004198210983": 2,
@@ -47,23 +48,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18081521156456374",
-   "insp": "01d9d1e7d7",
-   "link": "",
-   "texto": "Churrasco em Minas é outro nível porque acaba sempre com cafezinho passado e pão de queijo quentinho na mesa.",
-   "quando": "2026-11-08T09:37:08.091371-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 649,
-    "likes": 13,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-13"
-   }
-  },
   {
    "id": "18133726225744742",
    "insp": "prod_45754796089",
@@ -1036,10 +1020,17 @@
    "texto": "SEJAM SINCEROS: vocês também já foram julgados pelo que fazem pra ganhar dinheiro ou só eu que continuo fingindo ser consultora de energias quânticas de tictac pra vizinha fofoqueira não descobrir que eu passo o dia inteiro jogando videogame e chorando no boleto?",
    "quando": "2026-11-13T13:37:08.734320-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18046621457839134",
+   "insp": "6e7858b93b",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a partir de quantos reais o azeite de oliva passa a ser considerado herança de família e fica trancado no cofre do banco?",
+   "quando": "2026-11-13T14:37:08.374229-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17882669595690731",
   "18119893211006043",
   "18013359473976816",
   "18202559278373213",
@@ -4038,10 +4029,10 @@
   "17953475265054413",
   "18060558536566761",
   "18112570094333968",
-  "18114661189869818"
+  "18114661189869818",
+  "18096943034664852"
  ],
  "hashes": [
-  "1a635db3c4f2f08fed5d14ad78354335",
   "5ff86e9bc04a0b7bfd087949065a1e70",
   "36abb9ecf90e4dacdbf15206fbe5bd68",
   "6697a4086d13ea440c8da8d61d0ba156",
@@ -4240,7 +4231,8 @@
   "c08165e4629f14ba29bf1272f2561f14",
   "78238ccd5c7ab5c2a46464bb5f3c2a17",
   "2a8c891b4a4d1e6207b2bf0e46dd7ac1",
-  "3e0340cdf8275523320cb15a20023bbb"
+  "3e0340cdf8275523320cb15a20023bbb",
+  "3e0a099940ba224f681180d57f067fd1"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4505,7 +4497,6 @@
   "a46755f7b9": 1793207258.8348277,
   "1625f98254": 1793209089.0608096,
   "379a8ce6b4": 1793221687.3524406,
-  "6e7858b93b": 1793225291.397958,
   "8875ec01b3": 1793228854.8775113,
   "36f567653d": 1793236086.8599896,
   "095d3d6cd4": 1793279254.4351137,
@@ -4651,7 +4642,8 @@
   "0127d41120": 1794578873.3749712,
   "0445902113": 1794580658.2638593,
   "6c95b06784": 1794584240.7096345,
-  "a537fed31d": 1794591449.181507
+  "a537fed31d": 1794591449.181507,
+  "6e7858b93b": 1794595091.1607795
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4671,15 +4663,11 @@
   "9193e3b8f9": 1,
   "1f9f283a44": 1,
   "a9cd8eccc9": 1,
-  "83f6a73b93": 1
+  "83f6a73b93": 1,
+  "69704e2689": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "RenK RenK? Só falta a Lady Gaga gritar no porta‑malas kkkkkkk 🤣",
-   "p": "concorda",
-   "r": 3
-  },
   {
    "t": "esse aí vai no mercado só para renovar a casa inteira kkkk",
    "p": "concorda",
@@ -4824,6 +4812,11 @@
    "t": "que o hacker aceite capivara como forma de pagamento",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "quase um teste cardíaco ao vivo né kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6252,7 +6245,8 @@
    "o problema e",
    "cor da pele",
    "a mente da",
-   "perfeito o problema"
+   "perfeito o problema",
+   "quase um teste"
   ],
   "18063130034642069": [
    "viagem com quem"
