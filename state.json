@@ -29,10 +29,10 @@
    "11:36"
   ],
   "produtos_feitos": 0,
-  "respostas": 15,
+  "respostas": 17,
   "por_post": {
    "18063130034642069": 1,
-   "18096884879660620": 3,
+   "18096884879660620": 4,
    "18012664097996382": 2,
    "18136310087493187": 1,
    "18094004198210983": 2,
@@ -40,7 +40,8 @@
    "18277459723309994": 1,
    "18131101210849673": 1,
    "18022374683732581": 1,
-   "17918018859494317": 1
+   "17918018859494317": 1,
+   "18130953941477836": 1
   }
  },
  "posts": [
@@ -1045,8 +1046,6 @@
   }
  ],
  "respondidos": [
-  "18077602118417427",
-  "18192686971399709",
   "18129596095743600",
   "17882669595690731",
   "18119893211006043",
@@ -4044,7 +4043,9 @@
   "18454693099192798",
   "18136452277741600",
   "18109379819362234",
-  "17953475265054413"
+  "17953475265054413",
+  "18060558536566761",
+  "18112570094333968"
  ],
  "hashes": [
   "b02b1b9d93e18feac2e7862d37686c3c",
@@ -4674,20 +4675,12 @@
   "526c410eb2": 1,
   "b1d7a14308": 1,
   "2690e16735": 1,
-  "9193e3b8f9": 1
+  "9193e3b8f9": 1,
+  "1f9f283a44": 1,
+  "a9cd8eccc9": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "frieza desnecessária quando a intenção era só trocar ideia de boa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Nossa, também já sofri com gente irritante no ônibus, né 😢",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "É, dinheiro dá aquela mãozinha pra ser feliz 😊",
    "p": "concorda",
@@ -4827,6 +4820,16 @@
    "t": "esse roteiro turístico para comprar um sanduba exige planejamento de viagem internacional",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "vc não entendeu nada ou só achou absurdo mesmo",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "perfeito, o problema é a velocidade de raciocínio para achar o doc sem levante suspeitas kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6109,9 +6112,6 @@
   }
  ],
  "aberturas_post": {
-  "18119258228009395": [
-   "pelo menos a"
-  ],
   "17956439277273218": [
    "poxa ainda nao",
    "medo desse metodo"
@@ -6261,7 +6261,8 @@
    "quase que o",
    "o problema e",
    "cor da pele",
-   "a mente da"
+   "a mente da",
+   "perfeito o problema"
   ],
   "18063130034642069": [
    "viagem com quem"
@@ -6278,6 +6279,9 @@
   ],
   "17918018859494317": [
    "esse roteiro turistico"
+  ],
+  "18130953941477836": [
+   "vc nao entendeu"
   ]
  },
  "shopee_checada": "2026-11-13|1",
