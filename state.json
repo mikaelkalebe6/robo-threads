@@ -30,10 +30,11 @@
    "13:34",
    "14:35",
    "16:03",
-   "17:42"
+   "17:42",
+   "18:45"
   ],
   "produtos_feitos": 0,
-  "respostas": 16,
+  "respostas": 19,
   "por_post": {
    "18453362791120072": 2,
    "17916150045505435": 1,
@@ -43,28 +44,12 @@
    "18112357985258185": 1,
    "18042919802842058": 1,
    "18444123814177794": 3,
-   "17997445890029104": 1
-  }
+   "17997445890029104": 1,
+   "18094004198210983": 3
+  },
+  "escondidos": 1
  },
  "posts": [
-  {
-   "id": "18094337621212236",
-   "insp": "3ef9800d4d",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: deixar o carona controlar a playlist da viagem de carro é um ato de amor real ou um risco desnecessário para a sanidade mental de quem está dirigindo",
-   "quando": "2026-11-07T12:07:07.735706-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 532,
-    "likes": 5,
-    "replies": 15,
-    "reposts": 0,
-    "quotes": 1,
-    "shares": 0,
-    "em": "2026-11-12"
-   },
-   "viral_chk": "2026-11-08T07:07:08.627425-04:00"
-  },
   {
    "id": "18139184407643257",
    "insp": "a6880f3186",
@@ -1029,13 +1014,17 @@
    "texto": "DÚVIDA SINCERA: a pessoa que decide pagar boleto com o limite do cartão pra impressionar o crush na primeira saída merece um abraço ou um processo por burrice financeira?",
    "quando": "2026-11-12T20:07:08.921225-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18136310087493187",
+   "insp": "42105a2390",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: churrasco no Brasil não é sobre carne, é sobre a hora exata em que o cunhado começa a inventar que entende de ponto da picanha enquanto a esposa dele descobre no grupo da família que ele curtiu foto de ex a três anos atrás. O que nunca pode faltar é o caos em família. Qual foi o ",
+   "quando": "2026-11-12T20:37:08.236154-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17869903965648146",
-  "17912239188509760",
-  "18077181299406610",
-  "18127797103859828",
   "18144727450598377",
   "17913878316462629",
   "18108140440922235",
@@ -4031,10 +4020,13 @@
   "18110627864458375",
   "18491877850107576",
   "17921578146454877",
-  "18129304631297744"
+  "18129304631297744",
+  "18058118660584473",
+  "18415414483094143",
+  "18645381964056990",
+  "17984198370124018"
  ],
  "hashes": [
-  "378776797bd2e3e295271ac7459b3eec",
   "f4cf7684976b4d2ad53156eb3ac3db1a",
   "5083592bc58c80489431dc8e68016f00",
   "25dcd2dec649d8a673ac8e042706ea54",
@@ -4233,7 +4225,8 @@
   "00fd9461f8e1154106dd744e9467fa4d",
   "307404186cdefa13354ab254c7608ea4",
   "858cc10d8f15255ed4379721da28ac65",
-  "d213121e21ec63de55afd7a282e35bb3"
+  "d213121e21ec63de55afd7a282e35bb3",
+  "b65a351fcb21697ded6b264bf4d30ae5"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4363,7 +4356,6 @@
   "6ab249fcf7": 1791580080.9198704,
   "ae0c3922a8": 1791583645.2915637,
   "239781c6f2": 1791589092.918579,
-  "42105a2390": 1791590842.082595,
   "a0d83e5ad4": 1791594453.9146647,
   "b6e8893db8": 1791637653.5574567,
   "f8cf963815": 1791644893.9161525,
@@ -4644,7 +4636,8 @@
   "e38b1c2eb7": 1794508701.7960765,
   "c422eac36b": 1794512293.0169692,
   "63b1ece74f": 1794523092.6620424,
-  "68d405bd4e": 1794528492.656194
+  "68d405bd4e": 1794528492.656194,
+  "42105a2390": 1794530243.3526776
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4656,25 +4649,13 @@
   "5a4f6559c6": 3,
   "20f0d66806": 1,
   "509b287f93": 1,
-  "977aa04ba7": 1
+  "977aa04ba7": 1,
+  "0521dbc115": 1,
+  "5eb1bcccad": 1,
+  "1bc8d7a799": 1
  },
  "reservas_checadas": "2026-11-12",
  "ultimas_respostas": [
-  {
-   "t": "muita gente passa direto por lá e perde um lugar incrível",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "contar até 5 parece feitiçaria mas vou tentar kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Verdade, o YouTube entrega mais rápido 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Um furacão de pelos, hein? 😂",
    "p": "neutra",
@@ -4809,6 +4790,21 @@
    "t": "tem hora que a gente leva tudo um pouco mais a sério do que precisa",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "pelo menos os juros já chegam para fazer companhia no fim do mês kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pior q tem doido pra tudo kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "os dois já e demais, mas o lugar deve ter sido só o fundo do poco mesmo kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6086,22 +6082,6 @@
   }
  ],
  "aberturas_post": {
-  "17922262281453470": [
-   "esse detalhe de",
-   "entendo 300 parece",
-   "parcelado em seis",
-   "700 e o",
-   "morri o boleto",
-   "esse valor ja",
-   "cem reais protegendo",
-   "cinco meses e",
-   "valor justo para",
-   "esse limite moral",
-   "limite bom e",
-   "essa escala de",
-   "essa cotacao ai",
-   "quatrocentos parece justo"
-  ],
   "18122952722291296": [
    "estrategia de guerra",
    "esse ai era",
@@ -6276,6 +6256,11 @@
   ],
   "17997445890029104": [
    "tem hora que"
+  ],
+  "18094004198210983": [
+   "pelo menos os",
+   "pior q tem",
+   "os dois ja"
   ]
  },
  "shopee_checada": "2026-11-12|1",
