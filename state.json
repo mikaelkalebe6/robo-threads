@@ -21,7 +21,8 @@
   ],
   "feitos": [
    "08:10",
-   "09:28"
+   "09:28",
+   "10:12"
   ],
   "produtos_feitos": 0,
   "respostas": 4,
@@ -33,23 +34,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17893301271457429",
-   "insp": "975bd546f5",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: ir ao mercado com fome é golpe baixo, mas o pior mesmo é que o carrinho sempre enche de besteira que eu nem sabia que existia.",
-   "quando": "2026-11-08T22:07:07.844691-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 722,
-    "likes": 5,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-14"
-   }
-  },
   {
    "id": "18646993528063414",
    "insp": "dbd1bc17b7",
@@ -1033,6 +1017,14 @@
    "link": "",
    "texto": "SEM MENTIR: o que você faria primeiro se ganhasse 10 mil reais hoje? Eu juro que tentaria investir com sabedoria, mas cinco minutos depois estaria pagando um boleto de IPVA vencido, pedindo um lanche superfaturado e comprando roupinha de tem-que-ter na internet. No fim das contas o dinheiro sumiria ",
    "quando": "2026-11-14T10:37:08.825518-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18120271687959403",
+   "insp": "8ab8e68dd2",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: qual professor teve que inventar um surto psicótico em ata pra justificar dar dez pras duas cabras que não sabiam nem o próprio nome na chamada",
+   "quando": "2026-11-14T12:07:10.063439-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4039,7 +4031,6 @@
   "18036425012885887"
  ],
  "hashes": [
-  "d395b1f3a150de5742131def8e7c5732",
   "b92902465bfb221a0b3e4b676c88c2d9",
   "075afe4804339a44ddba9f501c8883c0",
   "ebe4ef7fa5166c5d751f861aa7113f78",
@@ -4238,7 +4229,8 @@
   "5c7c2d81b27a9e1a677b55ec8dac33d4",
   "cb2e376cec93f43368098dbee4247a13",
   "62b6e451462ccac63acdcb6cfcb37cfb",
-  "2cefbf3930816b68c4282be424bfce6c"
+  "2cefbf3930816b68c4282be424bfce6c",
+  "54e9e436805f0ac9b44cbbd4f6ab29ce"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4404,7 +4396,6 @@
   "2c97391d6e": 1792274863.0839956,
   "f4861a96cb": 1792278445.6304848,
   "b8060c0c5a": 1792285646.3168828,
-  "8ab8e68dd2": 1792327044.3925588,
   "92d6999031": 1792330647.7168002,
   "a78254bf8a": 1792336043.8635733,
   "0e810ea820": 1792339650.9835525,
@@ -4649,7 +4640,8 @@
   "d6e52dbbe4": 1794622087.3386233,
   "38ecc56e84": 1794623895.169639,
   "e50a061e21": 1794665248.5132728,
-  "eb6c939e24": 1794667094.2750309
+  "eb6c939e24": 1794667094.2750309,
+  "8ab8e68dd2": 1794672468.427
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
