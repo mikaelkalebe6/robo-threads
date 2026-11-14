@@ -35,7 +35,8 @@
    "17:19",
    "17:59",
    "19:17",
-   "20:16"
+   "20:16",
+   "21:20"
   ],
   "produtos_feitos": 0,
   "respostas": 35,
@@ -59,23 +60,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17900757891393240",
-   "insp": "5215f6a807",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: vocês funcionam melhor de madrugada ou são apegados às nove da manhã?",
-   "quando": "2026-11-08T19:07:09.162000-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 311,
-    "likes": 1,
-    "replies": 12,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-13"
-   }
-  },
   {
    "id": "18012741368996434",
    "insp": "ba00af7a13",
@@ -960,6 +944,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: o boy gastou o único pix que tinha pra pagar a prestação da moto na skin do Free Fire e ainda teve a audácia de mandar áudio chorando dizendo que o Pix caiu no multiverso da esposa dele, eu tô chocada que o apocalipse zumbi vai ser só mulher correndo atrás de homem que ainda lemb",
    "quando": "2026-11-13T22:07:08.777734-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17997418490841281",
+   "insp": "38ecc56e84",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: a opção 3 que é dormir derretendo igual vela de 7 dias porque desligou o ventilador pra economizar e acordar ouvindo a vizinha fofocando às 6 da manhã tá valendo pra todo mundo ou só pra mim",
+   "quando": "2026-11-13T22:37:08.469341-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3966,7 +3958,6 @@
   "17913537072312482"
  ],
  "hashes": [
-  "efbb500e717e2b5312c97af8237f7d2b",
   "a749827120fc3d442b4730afe2ff8955",
   "240b4e6bcd3d04f0772a7f1f54ccd4c3",
   "d395b1f3a150de5742131def8e7c5732",
@@ -4165,12 +4156,12 @@
   "48537f34bfb19c1788501a539b2a558f",
   "85f8f4b2e3a229c94d89a5281149f428",
   "cd5312052b43b9313a9b66398cb113e3",
-  "5c7c2d81b27a9e1a677b55ec8dac33d4"
+  "5c7c2d81b27a9e1a677b55ec8dac33d4",
+  "cb2e376cec93f43368098dbee4247a13"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
   "3546666699": 1790550466.4820309,
-  "38ecc56e84": 1790602946.2972836,
   "7ba791c39f": 1790615357.5071127,
   "7d71edeab3": 1790620679.9542685,
   "ff5027f0d8": 1790633283.7908828,
@@ -4576,7 +4567,8 @@
   "ff5db927b2": 1794611290.087744,
   "017f3ae860": 1794613040.9707444,
   "852685f1e2": 1794620260.9634366,
-  "d6e52dbbe4": 1794622087.3386233
+  "d6e52dbbe4": 1794622087.3386233,
+  "38ecc56e84": 1794623895.169639
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
