@@ -36,7 +36,7 @@
    "17:59"
   ],
   "produtos_feitos": 0,
-  "respostas": 32,
+  "respostas": 34,
   "por_post": {
    "18063130034642069": 1,
    "18096884879660620": 6,
@@ -53,7 +53,7 @@
    "18046621457839134": 5,
    "18104241452373307": 2,
    "17979576284932506": 2,
-   "18175522570414652": 2
+   "18175522570414652": 4
   }
  },
  "posts": [
@@ -980,8 +980,6 @@
   }
  ],
  "respondidos": [
-  "18167002405486049",
-  "17922580194432522",
   "17909785929517681",
   "18112379036231501",
   "18033957932815672",
@@ -3979,7 +3977,9 @@
   "18101477105647029",
   "18001105364824878",
   "18359477350169171",
-  "18136583686731588"
+  "18136583686731588",
+  "17956818288271082",
+  "18100750973393688"
  ],
  "hashes": [
   "3e5f8988dbb66a54ee90dc948e297c4e",
@@ -4625,20 +4625,12 @@
   "3a4f6eb0bb": 1,
   "57a1d4907b": 1,
   "eb4ffd00eb": 1,
-  "19203479a1": 1
+  "19203479a1": 1,
+  "733f9ecd92": 1,
+  "6f44b7fae2": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "perigo iminente de block e nome sujo no SPC kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o churrasco de quinze anos já vinha com roteiro de novela mexicana kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "o date foi tão produtivo que resolveram a vida financeira ali mesmo kkkkk",
    "p": "concorda",
@@ -4776,6 +4768,16 @@
   },
   {
    "t": "pelo menos a documentação está em dia, já é um ótimo começo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "se tem salsa e bachata no meio da rua o documento do carro tem que estar impecável kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse aí com certeza vai empacar na primeira blitz da pista kkkk",
    "p": "concorda",
    "r": 1
   }
@@ -6190,7 +6192,9 @@
   ],
   "18175522570414652": [
    "menos mal que",
-   "pelo menos a"
+   "pelo menos a",
+   "se tem salsa",
+   "esse ai com"
   ]
  },
  "shopee_checada": "2026-11-13|1",
