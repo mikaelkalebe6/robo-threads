@@ -19,7 +19,9 @@
    "15:01",
    "20:05"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:10"
+  ],
   "produtos_feitos": 0,
   "respostas": 3,
   "por_post": {
@@ -29,23 +31,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18012741368996434",
-   "insp": "ba00af7a13",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: marmanjo gastando todas as economias com figurinha de copa com a mesma seriedade de quem investe na bolsa é o ápice da falta de boleto para pagar",
-   "quando": "2026-11-08T20:07:07.432860-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 196,
-    "likes": 2,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-14"
-   }
-  },
   {
    "id": "18192095356371866",
    "insp": "bffa429f4f",
@@ -1048,6 +1033,14 @@
     "shares": 0,
     "em": "2026-11-14"
    }
+  },
+  {
+   "id": "18383916136235532",
+   "insp": "e50a061e21",
+   "link": "",
+   "texto": "SEM MENTIR: quem aqui já teve que pedir pro chat gpt fingir que é um romântico incurável só pra responder o boy que mandou \"oi sumida\" depois de três semanas no vácuo. O pior não é usar inteligência artificial, é a IA mandar você responder com um poema sobre o vento e o boy achar lindo e mandar \"pro",
+   "quando": "2026-11-14T10:07:09.074510-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4053,7 +4046,6 @@
   "18209495503375657"
  ],
  "hashes": [
-  "a749827120fc3d442b4730afe2ff8955",
   "240b4e6bcd3d04f0772a7f1f54ccd4c3",
   "d395b1f3a150de5742131def8e7c5732",
   "b92902465bfb221a0b3e4b676c88c2d9",
@@ -4252,7 +4244,8 @@
   "85f8f4b2e3a229c94d89a5281149f428",
   "cd5312052b43b9313a9b66398cb113e3",
   "5c7c2d81b27a9e1a677b55ec8dac33d4",
-  "cb2e376cec93f43368098dbee4247a13"
+  "cb2e376cec93f43368098dbee4247a13",
+  "62b6e451462ccac63acdcb6cfcb37cfb"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4294,7 +4287,6 @@
   "f9515d2675": 1790942852.9562535,
   "75f882533b": 1790950055.3061569,
   "0de75da121": 1790953680.934701,
-  "e50a061e21": 1790957272.388927,
   "ff377f4a44": 1790960890.434097,
   "e66fb581d1": 1790964490.8074522,
   "170d280425": 1790977043.7117248,
@@ -4663,7 +4655,8 @@
   "017f3ae860": 1794613040.9707444,
   "852685f1e2": 1794620260.9634366,
   "d6e52dbbe4": 1794622087.3386233,
-  "38ecc56e84": 1794623895.169639
+  "38ecc56e84": 1794623895.169639,
+  "e50a061e21": 1794665248.5132728
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
