@@ -22,35 +22,19 @@
   "feitos": [
    "08:10",
    "09:28",
-   "10:12"
+   "10:12",
+   "12:21"
   ],
   "produtos_feitos": 0,
-  "respostas": 4,
+  "respostas": 5,
   "por_post": {
-   "17979576284932506": 1,
+   "17979576284932506": 2,
    "17918018859494317": 1,
    "18130953941477836": 1,
    "18651915367032814": 1
   }
  },
  "posts": [
-  {
-   "id": "18646993528063414",
-   "insp": "dbd1bc17b7",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: tomar chimarrão no meio de um calor de 35 graus é uma das maiores loucuras que a gente defende com orgulho só para não dar o braço a torcer.",
-   "quando": "2026-11-09T08:07:09.578894-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 502,
-    "likes": 3,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-14"
-   }
-  },
   {
    "id": "18132673849887493",
    "insp": "e381eb3fd0",
@@ -1026,10 +1010,17 @@
    "texto": "VAMOS SER HONESTOS: qual professor teve que inventar um surto psicótico em ata pra justificar dar dez pras duas cabras que não sabiam nem o próprio nome na chamada",
    "quando": "2026-11-14T12:07:10.063439-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18128431813899276",
+   "insp": "d4f824d797",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a pessoa que inventou a frase é rapidinho no domingo à noite merece o que exatamente, prisão perpétua ou trabalho forçado na escala 6 por 1? Meu chefe mandou isso ontem jurando que era só uma coisinha de dois minutos e agora estou aqui fingindo que entendo de planilha enquanto meu mi",
+   "quando": "2026-11-14T12:37:08.945341-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18104578040360458",
   "18631849723045473",
   "18141064480623466",
   "18217755649355426",
@@ -4028,10 +4019,10 @@
   "18221007208342855",
   "18252716608311285",
   "18209495503375657",
-  "18036425012885887"
+  "18036425012885887",
+  "18106543169198699"
  ],
  "hashes": [
-  "b92902465bfb221a0b3e4b676c88c2d9",
   "075afe4804339a44ddba9f501c8883c0",
   "ebe4ef7fa5166c5d751f861aa7113f78",
   "1017d7c0b176debacf7b733fc89bf563",
@@ -4230,7 +4221,8 @@
   "cb2e376cec93f43368098dbee4247a13",
   "62b6e451462ccac63acdcb6cfcb37cfb",
   "2cefbf3930816b68c4282be424bfce6c",
-  "54e9e436805f0ac9b44cbbd4f6ab29ce"
+  "54e9e436805f0ac9b44cbbd4f6ab29ce",
+  "4d037b1b759cdc82b45f6d4b57c23e9c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4504,7 +4496,6 @@
   "c73aca2192": 1793412495.3129582,
   "7f395074e1": 1793450287.861915,
   "642c97cc3a": 1793452048.4490342,
-  "d4f824d797": 1793462891.1001406,
   "74bdceb463": 1793468270.5694325,
   "2096a4fb50": 1793471856.3255594,
   "00e682aa73": 1793479087.9723935,
@@ -4641,7 +4632,8 @@
   "38ecc56e84": 1794623895.169639,
   "e50a061e21": 1794665248.5132728,
   "eb6c939e24": 1794667094.2750309,
-  "8ab8e68dd2": 1794672468.427
+  "8ab8e68dd2": 1794672468.427,
+  "d4f824d797": 1794674288.0046456
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4649,15 +4641,11 @@
   "0af1701b18": 1,
   "0d5115d295": 1,
   "9c74723392": 1,
-  "c9899b74f7": 1
+  "c9899b74f7": 1,
+  "5ac7dec197": 1
  },
  "reservas_checadas": "2026-11-14",
  "ultimas_respostas": [
-  {
-   "t": "medida drástica mas que poupa muita dor de cabeça e extrato zerado",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Então você também vive no modo cartão infinito, né? kkkkk 😅",
    "p": "concorda",
@@ -4800,6 +4788,11 @@
   },
   {
    "t": "inveja branca dessa disciplina toda",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estatística puramente realista e difícil de refutar",
    "p": "concorda",
    "r": 0
   }
@@ -6215,7 +6208,8 @@
   "17979576284932506": [
    "ja avisando que",
    "com certeza vai",
-   "esse sim e"
+   "esse sim e",
+   "estatistica puramente realista"
   ],
   "18175522570414652": [
    "menos mal que",
