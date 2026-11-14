@@ -26,7 +26,8 @@
    "12:21",
    "13:31",
    "15:01",
-   "16:46"
+   "16:46",
+   "18:17"
   ],
   "produtos_feitos": 0,
   "respostas": 9,
@@ -39,23 +40,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18171642805469752",
-   "insp": "e0f1744b77",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: ganhar 5 mil trabalhando de pijama em casa ou 8 mil pegando trânsito todo dia?",
-   "quando": "2026-11-09T12:37:08.870776-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 301,
-    "likes": 1,
-    "replies": 11,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-14"
-   }
-  },
   {
    "id": "17967758891983415",
    "insp": "e4924359a7",
@@ -994,6 +978,14 @@
    "link": "",
    "texto": "ME CONTA: o plano pro feriadão é fingir que viajou e ficar maratonando série no escuro para economizar luz ou vocês preferem a humilhação tradicional de pegar quatro horas de trânsito pra comer salgadinho murcho na praia?",
    "quando": "2026-11-14T17:07:07.982694-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18146628538613203",
+   "insp": "7a1c42a5d7",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: se eu vejo o namorado da minha melhor amiga pagando lanche pra outra com o limite do cartão que ela mesma emprestou, eu conto ou mando o print pro Serasa pra sujar o nome do traste junto?",
+   "quando": "2026-11-14T18:37:07.876114-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4000,7 +3992,6 @@
   "18134935171697996"
  ],
  "hashes": [
-  "1b20e5eb93ecf5bd0e1e2c030aeab9b7",
   "6b25c16140b060144d390873164bd5c8",
   "1a1f20df0f8051e714f32fd0da8e01f8",
   "b6d2483d34d9291952537358bc513cbe",
@@ -4199,7 +4190,8 @@
   "4d037b1b759cdc82b45f6d4b57c23e9c",
   "0a5e1b9b96327616709bd81a6f07ddab",
   "490f4ed1218fffc437b2d09ff2cc7cf6",
-  "1ff0e849393e899958127bdc6b741823"
+  "1ff0e849393e899958127bdc6b741823",
+  "081680d45be50b32217feef9106c9b19"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4225,7 +4217,6 @@
   "3ce988f7a6": 1790807853.3159423,
   "fbedf7f149": 1790813252.2096584,
   "c2d56efe9f": 1790816840.2517245,
-  "7a1c42a5d7": 1790818665.313843,
   "559f0792a7": 1790820449.309396,
   "962dfe5354": 1790856442.2857137,
   "4fb1c220f3": 1790861857.0642593,
@@ -4610,7 +4601,8 @@
   "d4f824d797": 1794674288.0046456,
   "6e6b47e4ea": 1794677889.1978235,
   "ca1265befe": 1794683289.0686412,
-  "3b094b119a": 1794690487.6192758
+  "3b094b119a": 1794690487.6192758,
+  "7a1c42a5d7": 1794695885.2995505
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
