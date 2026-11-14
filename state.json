@@ -25,7 +25,8 @@
    "10:12",
    "12:21",
    "13:31",
-   "15:01"
+   "15:01",
+   "16:46"
   ],
   "produtos_feitos": 0,
   "respostas": 9,
@@ -38,23 +39,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18100291571670800",
-   "insp": "68a7ca2ea2",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: quem nunca passou raiva com o próprio time num domingo à tarde que atire a primeira pedra",
-   "quando": "2026-11-09T11:37:11.016381-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 639,
-    "likes": 19,
-    "replies": 5,
-    "reposts": 2,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-14"
-   }
-  },
   {
    "id": "18171642805469752",
    "insp": "e0f1744b77",
@@ -1002,6 +986,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: o cargo de corno investigativo de rede social deveria pagar pelo menos dois salários mínimos com adicional de insalubridade porque a pessoa cruza print de story com seguidor novo, cruza horário de visto por último do WhatsApp, acha o perfil fake da amante em cinco minutos e no fim",
    "quando": "2026-11-14T15:07:08.539564-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18438527584199726",
+   "insp": "3b094b119a",
+   "link": "",
+   "texto": "ME CONTA: o plano pro feriadão é fingir que viajou e ficar maratonando série no escuro para economizar luz ou vocês preferem a humilhação tradicional de pegar quatro horas de trânsito pra comer salgadinho murcho na praia?",
+   "quando": "2026-11-14T17:07:07.982694-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4008,7 +4000,6 @@
   "18134935171697996"
  ],
  "hashes": [
-  "1017d7c0b176debacf7b733fc89bf563",
   "1b20e5eb93ecf5bd0e1e2c030aeab9b7",
   "6b25c16140b060144d390873164bd5c8",
   "1a1f20df0f8051e714f32fd0da8e01f8",
@@ -4207,7 +4198,8 @@
   "54e9e436805f0ac9b44cbbd4f6ab29ce",
   "4d037b1b759cdc82b45f6d4b57c23e9c",
   "0a5e1b9b96327616709bd81a6f07ddab",
-  "490f4ed1218fffc437b2d09ff2cc7cf6"
+  "490f4ed1218fffc437b2d09ff2cc7cf6",
+  "1ff0e849393e899958127bdc6b741823"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4406,7 +4398,6 @@
   "07943be66b": 1792609666.9940557,
   "546540780d": 1792616895.2913206,
   "041d158196": 1792618645.1492493,
-  "3b094b119a": 1792624041.2676432,
   "304d0a9ace": 1792631296.153229,
   "d25c82e639": 1792633048.3753517,
   "8f2f1c9592": 1792672653.2844026,
@@ -4618,7 +4609,8 @@
   "8ab8e68dd2": 1794672468.427,
   "d4f824d797": 1794674288.0046456,
   "6e6b47e4ea": 1794677889.1978235,
-  "ca1265befe": 1794683289.0686412
+  "ca1265befe": 1794683289.0686412,
+  "3b094b119a": 1794690487.6192758
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
