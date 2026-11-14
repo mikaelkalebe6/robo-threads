@@ -24,7 +24,8 @@
    "09:28",
    "10:12",
    "12:21",
-   "13:31"
+   "13:31",
+   "15:01"
   ],
   "produtos_feitos": 0,
   "respostas": 8,
@@ -37,23 +38,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18021151787740470",
-   "insp": "e146c536ac",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: carro antigo bem cuidado dá menos dor de cabeça do que muito lançamento cheio de sensor que vive na oficina.",
-   "quando": "2026-11-09T10:37:08.626605-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 16574,
-    "likes": 563,
-    "replies": 186,
-    "reposts": 5,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-14"
-   }
-  },
   {
    "id": "18100291571670800",
    "insp": "68a7ca2ea2",
@@ -1010,6 +994,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: o único carro popular que envelheceu bem foi o Corsa Classic 2008 da minha ex-cunhada, que já pegou enchente, rodou sem óleo, carrega três caixas d'água no teto e ainda xinga a gente em código Morse toda vez que liga o ar-quente. Qual o limite de humilhação que um veículo aceita a",
    "quando": "2026-11-14T13:37:12.982950-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18098531486678091",
+   "insp": "ca1265befe",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: o cargo de corno investigativo de rede social deveria pagar pelo menos dois salários mínimos com adicional de insalubridade porque a pessoa cruza print de story com seguidor novo, cruza horário de visto por último do WhatsApp, acha o perfil fake da amante em cinco minutos e no fim",
+   "quando": "2026-11-14T15:07:08.539564-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4016,7 +4008,6 @@
   "17886523545691734"
  ],
  "hashes": [
-  "ebe4ef7fa5166c5d751f861aa7113f78",
   "1017d7c0b176debacf7b733fc89bf563",
   "1b20e5eb93ecf5bd0e1e2c030aeab9b7",
   "6b25c16140b060144d390873164bd5c8",
@@ -4215,7 +4206,8 @@
   "2cefbf3930816b68c4282be424bfce6c",
   "54e9e436805f0ac9b44cbbd4f6ab29ce",
   "4d037b1b759cdc82b45f6d4b57c23e9c",
-  "0a5e1b9b96327616709bd81a6f07ddab"
+  "0a5e1b9b96327616709bd81a6f07ddab",
+  "490f4ed1218fffc437b2d09ff2cc7cf6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4348,7 +4340,6 @@
   "615229a3f1": 1791808651.8310485,
   "ff36dce57b": 1791812301.1103742,
   "1025b0cd16": 1791819454.3798175,
-  "ca1265befe": 1791828457.4636238,
   "e55cc2488b": 1791835650.942528,
   "834ef38ad5": 1791839248.1884155,
   "c256239fef": 1791853676.4890728,
@@ -4626,7 +4617,8 @@
   "eb6c939e24": 1794667094.2750309,
   "8ab8e68dd2": 1794672468.427,
   "d4f824d797": 1794674288.0046456,
-  "6e6b47e4ea": 1794677889.1978235
+  "6e6b47e4ea": 1794677889.1978235,
+  "ca1265befe": 1794683289.0686412
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
