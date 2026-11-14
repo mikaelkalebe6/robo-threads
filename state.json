@@ -24,11 +24,12 @@
    "09:28"
   ],
   "produtos_feitos": 0,
-  "respostas": 3,
+  "respostas": 4,
   "por_post": {
    "17979576284932506": 1,
    "17918018859494317": 1,
-   "18130953941477836": 1
+   "18130953941477836": 1,
+   "18651915367032814": 1
   }
  },
  "posts": [
@@ -1036,7 +1037,6 @@
   }
  ],
  "respondidos": [
-  "18112565720601363",
   "18104578040360458",
   "18631849723045473",
   "18141064480623466",
@@ -4035,7 +4035,8 @@
   "17913537072312482",
   "18221007208342855",
   "18252716608311285",
-  "18209495503375657"
+  "18209495503375657",
+  "18036425012885887"
  ],
  "hashes": [
   "d395b1f3a150de5742131def8e7c5732",
@@ -4655,15 +4656,11 @@
   "_data": "2026-11-14",
   "0af1701b18": 1,
   "0d5115d295": 1,
-  "9c74723392": 1
+  "9c74723392": 1,
+  "c9899b74f7": 1
  },
  "reservas_checadas": "2026-11-14",
  "ultimas_respostas": [
-  {
-   "t": "cor da pele é estratégica demais, perdeu a graça da capivara",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "medida drástica mas que poupa muita dor de cabeça e extrato zerado",
    "p": "concorda",
@@ -4807,6 +4804,11 @@
   {
    "t": "estou duvidando da minha sanidade depois dessa história",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "inveja branca dessa disciplina toda",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6095,10 +6097,6 @@
   }
  ],
  "aberturas_post": {
-  "17946950157401907": [
-   "esse e o",
-   "nos que nem"
-  ],
   "17974782471168671": [
    "e parece que"
   ],
@@ -6232,6 +6230,9 @@
    "pelo menos a",
    "se tem salsa",
    "esse ai com"
+  ],
+  "18651915367032814": [
+   "inveja branca dessa"
   ]
  },
  "shopee_checada": "2026-11-14|1",
