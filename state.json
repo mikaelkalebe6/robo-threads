@@ -28,13 +28,13 @@
    "15:01"
   ],
   "produtos_feitos": 0,
-  "respostas": 8,
+  "respostas": 9,
   "por_post": {
    "17979576284932506": 2,
    "17918018859494317": 1,
    "18130953941477836": 1,
    "18651915367032814": 1,
-   "18221737609359141": 3
+   "18221737609359141": 4
   }
  },
  "posts": [
@@ -1006,7 +1006,6 @@
   }
  ],
  "respondidos": [
-  "18337867225274520",
   "18115411028061776",
   "18160066915500643",
   "18073217684732190",
@@ -4005,7 +4004,8 @@
   "18106543169198699",
   "18036410822913547",
   "18114280613578830",
-  "17886523545691734"
+  "17886523545691734",
+  "18134935171697996"
  ],
  "hashes": [
   "1017d7c0b176debacf7b733fc89bf563",
@@ -4630,15 +4630,11 @@
   "5ac7dec197": 1,
   "20d6ec04ea": 1,
   "ac384b7542": 1,
-  "85f4a0d1fd": 1
+  "85f4a0d1fd": 1,
+  "a39c96d8a6": 1
  },
  "reservas_checadas": "2026-11-14",
  "ultimas_respostas": [
-  {
-   "t": "a mente da pessoa voa longe com a desorganizacao alheia",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse roteiro turístico para comprar um sanduba exige planejamento de viagem internacional",
    "p": "concorda",
@@ -4781,6 +4777,11 @@
   },
   {
    "t": "milagre e fe combinados faziam o serviço completo kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "literalmente um tanque de guerra com ar condicionado kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6208,7 +6209,8 @@
   "18221737609359141": [
    "esse carro virou",
    "motor antigo tem",
-   "milagre e fe"
+   "milagre e fe",
+   "literalmente um tanque"
   ]
  },
  "shopee_checada": "2026-11-14|1",
