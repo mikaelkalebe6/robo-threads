@@ -21,10 +21,11 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 2,
+  "respostas": 3,
   "por_post": {
    "17979576284932506": 1,
-   "17918018859494317": 1
+   "17918018859494317": 1,
+   "18130953941477836": 1
   }
  },
  "posts": [
@@ -1050,7 +1051,6 @@
   }
  ],
  "respondidos": [
-  "18101450990377573",
   "18112565720601363",
   "18104578040360458",
   "18631849723045473",
@@ -4049,7 +4049,8 @@
   "18100750973393688",
   "17913537072312482",
   "18221007208342855",
-  "18252716608311285"
+  "18252716608311285",
+  "18209495503375657"
  ],
  "hashes": [
   "a749827120fc3d442b4730afe2ff8955",
@@ -4668,15 +4669,11 @@
  "por_pessoa": {
   "_data": "2026-11-14",
   "0af1701b18": 1,
-  "0d5115d295": 1
+  "0d5115d295": 1,
+  "9c74723392": 1
  },
  "reservas_checadas": "2026-11-14",
  "ultimas_respostas": [
-  {
-   "t": "pois é, a separação foi totalmente cancelada por aqui",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "cor da pele é estratégica demais, perdeu a graça da capivara",
    "p": "ressalva",
@@ -4820,6 +4817,11 @@
   {
    "t": "Verdade, cada um curte o pão ao seu jeito",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estou duvidando da minha sanidade depois dessa história",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -6218,7 +6220,8 @@
    "verdade cada um"
   ],
   "18130953941477836": [
-   "vc nao entendeu"
+   "vc nao entendeu",
+   "estou duvidando da"
   ],
   "17954907144340398": [
    "que o hacker"
