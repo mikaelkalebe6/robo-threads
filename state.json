@@ -36,7 +36,7 @@
    "17:59"
   ],
   "produtos_feitos": 0,
-  "respostas": 30,
+  "respostas": 32,
   "por_post": {
    "18063130034642069": 1,
    "18096884879660620": 6,
@@ -52,7 +52,8 @@
    "17954907144340398": 1,
    "18046621457839134": 5,
    "18104241452373307": 2,
-   "17979576284932506": 2
+   "17979576284932506": 2,
+   "18175522570414652": 2
   }
  },
  "posts": [
@@ -979,8 +980,6 @@
   }
  ],
  "respondidos": [
-  "17904315834353093",
-  "18150218320551726",
   "18167002405486049",
   "17922580194432522",
   "17909785929517681",
@@ -3978,7 +3977,9 @@
   "18113877791226770",
   "17915999940287389",
   "18101477105647029",
-  "18001105364824878"
+  "18001105364824878",
+  "18359477350169171",
+  "18136583686731588"
  ],
  "hashes": [
   "3e5f8988dbb66a54ee90dc948e297c4e",
@@ -4622,20 +4623,12 @@
   "630feda239": 1,
   "b243b89171": 1,
   "3a4f6eb0bb": 1,
-  "57a1d4907b": 1
+  "57a1d4907b": 1,
+  "eb4ffd00eb": 1,
+  "19203479a1": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "viagem com quem importa rende muito mais lembrança boa do que festa pra parentes distantes",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "o problema é o dedo cair em cima da câmera bem na hora da tragédia",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "perigo iminente de block e nome sujo no SPC kkkk",
    "p": "concorda",
@@ -4775,6 +4768,16 @@
    "t": "o pior é o desespero pra achar a calça antes da câmera abrir",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "menos mal que a papelada tá em ordem então",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a documentação está em dia, já é um ótimo começo kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6057,32 +6060,6 @@
   }
  ],
  "aberturas_post": {
-  "18138156736652646": [
-   "branco e rebelde",
-   "agora chamar adulto",
-   "queria ver seguir",
-   "pelo menos a",
-   "se o google",
-   "anotei tudo agora",
-   "se trocar a",
-   "panela certa resolve",
-   "ai sim olho",
-   "entao se o",
-   "quase deram ne",
-   "esse dom so",
-   "adorei a dica",
-   "medida exata assim",
-   "ouvido bionico faz",
-   "essa dica de",
-   "ai ponto de",
-   "vou testar esse",
-   "facil falar quando",
-   "pelo menos ja",
-   "confessou a falcatrua",
-   "contar ate 5",
-   "essa fritadinha inicial",
-   "nossa arroz perfeito"
-  ],
   "17946950157401907": [
    "esse e o",
    "nos que nem"
@@ -6210,6 +6187,10 @@
   "17979576284932506": [
    "ja avisando que",
    "com certeza vai"
+  ],
+  "18175522570414652": [
+   "menos mal que",
+   "pelo menos a"
   ]
  },
  "shopee_checada": "2026-11-13|1",
