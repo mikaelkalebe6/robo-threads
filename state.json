@@ -20,7 +20,8 @@
    "20:05"
   ],
   "feitos": [
-   "08:10"
+   "08:10",
+   "09:28"
   ],
   "produtos_feitos": 0,
   "respostas": 3,
@@ -31,23 +32,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18192095356371866",
-   "insp": "bffa429f4f",
-   "link": "",
-   "texto": "PESSOAS QUE...: escolhem o restaurante do primeiro encontro só olhando a foto do prato no Google são estrategistas ou só têm fome mesmo",
-   "quando": "2026-11-08T21:37:07.755803-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 231,
-    "likes": 1,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-14"
-   }
-  },
   {
    "id": "17893301271457429",
    "insp": "975bd546f5",
@@ -1040,6 +1024,14 @@
    "link": "",
    "texto": "SEM MENTIR: quem aqui já teve que pedir pro chat gpt fingir que é um romântico incurável só pra responder o boy que mandou \"oi sumida\" depois de três semanas no vácuo. O pior não é usar inteligência artificial, é a IA mandar você responder com um poema sobre o vento e o boy achar lindo e mandar \"pro",
    "quando": "2026-11-14T10:07:09.074510-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18651915367032814",
+   "insp": "eb6c939e24",
+   "link": "",
+   "texto": "SEM MENTIR: o que você faria primeiro se ganhasse 10 mil reais hoje? Eu juro que tentaria investir com sabedoria, mas cinco minutos depois estaria pagando um boleto de IPVA vencido, pedindo um lanche superfaturado e comprando roupinha de tem-que-ter na internet. No fim das contas o dinheiro sumiria ",
+   "quando": "2026-11-14T10:37:08.825518-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4046,7 +4038,6 @@
   "18209495503375657"
  ],
  "hashes": [
-  "240b4e6bcd3d04f0772a7f1f54ccd4c3",
   "d395b1f3a150de5742131def8e7c5732",
   "b92902465bfb221a0b3e4b676c88c2d9",
   "075afe4804339a44ddba9f501c8883c0",
@@ -4245,7 +4236,8 @@
   "cd5312052b43b9313a9b66398cb113e3",
   "5c7c2d81b27a9e1a677b55ec8dac33d4",
   "cb2e376cec93f43368098dbee4247a13",
-  "62b6e451462ccac63acdcb6cfcb37cfb"
+  "62b6e451462ccac63acdcb6cfcb37cfb",
+  "2cefbf3930816b68c4282be424bfce6c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4372,7 +4364,6 @@
   "a5b0a002b5": 1791677248.7385156,
   "7e236666a4": 1791682693.6785476,
   "95c7572ca7": 1791722249.162733,
-  "eb6c939e24": 1791727694.1486886,
   "d9cd77c4a6": 1791743849.964815,
   "f0670ff0d7": 1791752839.976383,
   "5ffe3dfd2e": 1791760046.8847692,
@@ -4656,7 +4647,8 @@
   "852685f1e2": 1794620260.9634366,
   "d6e52dbbe4": 1794622087.3386233,
   "38ecc56e84": 1794623895.169639,
-  "e50a061e21": 1794665248.5132728
+  "e50a061e21": 1794665248.5132728,
+  "eb6c939e24": 1794667094.2750309
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
