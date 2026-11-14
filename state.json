@@ -34,13 +34,14 @@
    "16:29",
    "17:19",
    "17:59",
-   "19:17"
+   "19:17",
+   "20:16"
   ],
   "produtos_feitos": 0,
-  "respostas": 34,
+  "respostas": 35,
   "por_post": {
    "18063130034642069": 1,
-   "18096884879660620": 6,
+   "18096884879660620": 7,
    "18012664097996382": 2,
    "18136310087493187": 1,
    "18094004198210983": 2,
@@ -58,23 +59,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18096380930670615",
-   "insp": "24564d0f1b",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Uma vez esperei meia hora no bar e o cara chegou rindo, sem mandar um aviso sequer. Paguei minha cerveja e fui embora antes dele sentar. \n\nVocês relevam isso no primeiro encontro ou fariam o mesmo?",
-   "quando": "2026-11-08T17:07:08.017995-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 912,
-    "likes": 16,
-    "replies": 45,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-13"
-   }
-  },
   {
    "id": "17900757891393240",
    "insp": "5215f6a807",
@@ -969,10 +953,17 @@
    "texto": "SEM MENTIR: jurei pro boy que meu carro tinha baixado espírito de entidade e o painel inteiro acendeu bem na hora de ir pro motel, mas a verdade é que tava passando reprise de novela mexicana e eu não ia perder a cena da surra por nada neste mundo. Qual foi a pior mentira que vocês inventaram só pra",
    "quando": "2026-11-13T21:37:08.139538-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18129949615860859",
+   "insp": "d6e52dbbe4",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: o boy gastou o único pix que tinha pra pagar a prestação da moto na skin do Free Fire e ainda teve a audácia de mandar áudio chorando dizendo que o Pix caiu no multiverso da esposa dele, eu tô chocada que o apocalipse zumbi vai ser só mulher correndo atrás de homem que ainda lemb",
+   "quando": "2026-11-13T22:07:08.777734-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17909785929517681",
   "18112379036231501",
   "18033957932815672",
   "18101450990377573",
@@ -3971,10 +3962,10 @@
   "18359477350169171",
   "18136583686731588",
   "17956818288271082",
-  "18100750973393688"
+  "18100750973393688",
+  "17913537072312482"
  ],
  "hashes": [
-  "d974036e71a32a7127cb7bd11211be00",
   "efbb500e717e2b5312c97af8237f7d2b",
   "a749827120fc3d442b4730afe2ff8955",
   "240b4e6bcd3d04f0772a7f1f54ccd4c3",
@@ -4173,7 +4164,8 @@
   "a5e7ae27d7a4cad39a8ca8de5b25f0e6",
   "48537f34bfb19c1788501a539b2a558f",
   "85f8f4b2e3a229c94d89a5281149f428",
-  "cd5312052b43b9313a9b66398cb113e3"
+  "cd5312052b43b9313a9b66398cb113e3",
+  "5c7c2d81b27a9e1a677b55ec8dac33d4"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4332,7 +4324,6 @@
   "383fb2ad25": 1792184851.883079,
   "13bb414dfc": 1792195647.9195256,
   "7bb5b555f8": 1792242456.141735,
-  "d6e52dbbe4": 1792246042.8907247,
   "dded827567": 1792251452.5580068,
   "6112a4e17f": 1792253245.2702851,
   "5f95698f56": 1792256892.5006678,
@@ -4584,7 +4575,8 @@
   "bc90ccda37": 1794605892.9470575,
   "ff5db927b2": 1794611290.087744,
   "017f3ae860": 1794613040.9707444,
-  "852685f1e2": 1794620260.9634366
+  "852685f1e2": 1794620260.9634366,
+  "d6e52dbbe4": 1794622087.3386233
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4619,15 +4611,11 @@
   "eb4ffd00eb": 1,
   "19203479a1": 1,
   "733f9ecd92": 1,
-  "6f44b7fae2": 1
+  "6f44b7fae2": 1,
+  "935d67fc6f": 1
  },
  "reservas_checadas": "2026-11-13",
  "ultimas_respostas": [
-  {
-   "t": "o date foi tão produtivo que resolveram a vida financeira ali mesmo kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Eita, já deixei um barulhinho de TEC TEC passar também, kkk 🙈",
    "p": "concorda",
@@ -4772,6 +4760,11 @@
    "t": "esse aí com certeza vai empacar na primeira blitz da pista kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse é o tipo de surpresa que faz a gente repensar a carreira inteira",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6142,7 +6135,8 @@
    "a mente da",
    "perfeito o problema",
    "quase um teste",
-   "o pior e"
+   "o pior e",
+   "esse e o"
   ],
   "18063130034642069": [
    "viagem com quem"
