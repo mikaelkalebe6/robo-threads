@@ -31,13 +31,14 @@
    "18:58"
   ],
   "produtos_feitos": 0,
-  "respostas": 9,
+  "respostas": 12,
   "por_post": {
    "17979576284932506": 2,
    "17918018859494317": 1,
    "18130953941477836": 1,
    "18651915367032814": 1,
-   "18221737609359141": 4
+   "18221737609359141": 5,
+   "18139116064630488": 2
   }
  },
  "posts": [
@@ -982,9 +983,6 @@
   }
  ],
  "respondidos": [
-  "18115411028061776",
-  "18160066915500643",
-  "18073217684732190",
   "18011586608987811",
   "18112027334167511",
   "18069230789784572",
@@ -3981,7 +3979,10 @@
   "18036410822913547",
   "18114280613578830",
   "17886523545691734",
-  "18134935171697996"
+  "18134935171697996",
+  "18098949716149574",
+  "18015852680763657",
+  "18092225183258613"
  ],
  "hashes": [
   "1a1f20df0f8051e714f32fd0da8e01f8",
@@ -4607,25 +4608,13 @@
   "20d6ec04ea": 1,
   "ac384b7542": 1,
   "85f4a0d1fd": 1,
-  "a39c96d8a6": 1
+  "a39c96d8a6": 1,
+  "da053ac9a7": 1,
+  "077f86a8b5": 1,
+  "d98240b8ff": 1
  },
  "reservas_checadas": "2026-11-14",
  "ultimas_respostas": [
-  {
-   "t": "esse roteiro turístico para comprar um sanduba exige planejamento de viagem internacional",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "vc não entendeu nada ou só achou absurdo mesmo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "perfeito, o problema é a velocidade de raciocínio para achar o doc sem levante suspeitas kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "que o hacker aceite capivara como forma de pagamento",
    "p": "neutra",
@@ -4758,6 +4747,21 @@
   },
   {
    "t": "literalmente um tanque de guerra com ar condicionado kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "vinte anos de mansão isolada é para poucos, respeito a escolha kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "caos total mas a gente acaba aceitando pela localização kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o Mille Fire merecia uma medalha de honra ao merito por resistencia kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6047,12 +6051,6 @@
   }
  ],
  "aberturas_post": {
-  "18354126094248731": [
-   "socorro o pior",
-   "seu dog virou",
-   "o caozinho e",
-   "um furacao de"
-  ],
   "18120342413070647": [
    "estrategia de mercado",
    "bolsa de valores"
@@ -6186,7 +6184,12 @@
    "esse carro virou",
    "motor antigo tem",
    "milagre e fe",
-   "literalmente um tanque"
+   "literalmente um tanque",
+   "o mille fire"
+  ],
+  "18139116064630488": [
+   "vinte anos de",
+   "caos total mas"
   ]
  },
  "shopee_checada": "2026-11-14|1",
