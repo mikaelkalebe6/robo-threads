@@ -23,7 +23,8 @@
    "08:53",
    "09:49",
    "10:31",
-   "11:40"
+   "11:40",
+   "13:20"
   ],
   "produtos_feitos": 0,
   "respostas": 7,
@@ -37,23 +38,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18111119075264289",
-   "insp": "90498c5f32",
-   "link": "",
-   "texto": "ME CONTA: o date acabou com a pessoa falando mal do ex ou fazendo mil perguntas sobre quanto você ganha?",
-   "quando": "2026-11-09T20:37:07.728136-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 386,
-    "likes": 2,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-15"
-   }
-  },
   {
    "id": "17912449200577226",
    "insp": "7f63cfaf2e",
@@ -1041,6 +1025,14 @@
    "texto": "OPINIÃO IMPOPULAR: amarração amorosa é para fracos que nunca tentaram prender o boy por falta de limite no cartão ou ameaçando mandar print da conversa da faculdade no grupo da família. O negócio hoje em dia é prender pelo medo do boleto vencido. Alguém aqui já apelou pra magia negra ou só aceitou q",
    "quando": "2026-11-15T13:07:07.881753-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18211482229366474",
+   "insp": "c77e24d709",
+   "link": "",
+   "texto": "ME CONTA: como vocês conheceram a pessoa que tá com vocês hoje?\n\nPorque romance fofinho de cafeteria é fácil, quero ver sustentar o amor que começou com ele me dando uma ré no para-choque no estacionamento do atacarejo, a gente quase saindo na mão por causa de 200 reais de funilaria e, três meses de",
+   "quando": "2026-11-15T13:37:09.685944-04:00",
+   "ia": "Gemini gemini-flash-latest"
   }
  ],
  "respondidos": [
@@ -4046,7 +4038,6 @@
   "18002719773040343"
  ],
  "hashes": [
-  "226f35882ab1295a795a1068adb3c73a",
   "bb14a73e3a29800600e3530cd177b901",
   "fef1d3b343c0ad1dbcedee8ea6bb8c2f",
   "841839fd5c82bf67a3e42bcd0769fe15",
@@ -4245,7 +4236,8 @@
   "1bc21e38a2c6ee25a12a65e0352e4e51",
   "7c7e881ea043c69be8441f671a86d604",
   "adef2f9f6368d38572baaa1ee65f306c",
-  "9d23dc77686e7f872a6f43cd0a6b76f8"
+  "9d23dc77686e7f872a6f43cd0a6b76f8",
+  "08994cbff28b55a24f0ac80374489c23"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4412,7 +4404,6 @@
   "55ca636ebf": 1792357683.111423,
   "3394e0a232": 1792359441.2228508,
   "63b327e43d": 1792363057.593114,
-  "c77e24d709": 1792366640.4001057,
   "d7e44e025a": 1792372085.3802283,
   "54dc948734": 1792375654.3754094,
   "a998017f2f": 1792413453.4373097,
@@ -4656,7 +4647,8 @@
   "9dfc1777fa": 1794755287.134633,
   "b7ff902af0": 1794757090.2990987,
   "c73aca2192": 1794758886.6755836,
-  "9ff7d269b6": 1794762489.1846814
+  "9ff7d269b6": 1794762489.1846814,
+  "c77e24d709": 1794764263.1120522
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
