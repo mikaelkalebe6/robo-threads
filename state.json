@@ -33,14 +33,15 @@
    "21:46"
   ],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 14,
   "por_post": {
    "17979576284932506": 2,
    "17918018859494317": 1,
    "18130953941477836": 1,
    "18651915367032814": 1,
    "18221737609359141": 5,
-   "18139116064630488": 2
+   "18139116064630488": 2,
+   "18396334567161083": 2
   }
  },
  "posts": [
@@ -967,8 +968,6 @@
   }
  ],
  "respondidos": [
-  "18011586608987811",
-  "18112027334167511",
   "18069230789784572",
   "18129598519755093",
   "18121682878820094",
@@ -3966,7 +3965,9 @@
   "18134935171697996",
   "18098949716149574",
   "18015852680763657",
-  "18092225183258613"
+  "18092225183258613",
+  "18102084494388797",
+  "17977349550160115"
  ],
  "hashes": [
   "123b2c3d3bc2062d4007da054e7689f5",
@@ -4595,20 +4596,12 @@
   "a39c96d8a6": 1,
   "da053ac9a7": 1,
   "077f86a8b5": 1,
-  "d98240b8ff": 1
+  "d98240b8ff": 1,
+  "b3e6cbeee6": 1,
+  "1d06969815": 1
  },
  "reservas_checadas": "2026-11-14",
  "ultimas_respostas": [
-  {
-   "t": "que o hacker aceite capivara como forma de pagamento",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "quase um teste cardíaco ao vivo né kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "daqui a pouco precisa dar o carro como garantia kkkkkk",
    "p": "concorda",
@@ -4748,6 +4741,16 @@
    "t": "o Mille Fire merecia uma medalha de honra ao merito por resistencia kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "pelo menos a notificação de conta vencida chega com pontualidade britânica",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "três pagamentos de segurança já é uma vitória enorme contra os boletos",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6035,10 +6038,6 @@
   }
  ],
  "aberturas_post": {
-  "18120342413070647": [
-   "estrategia de mercado",
-   "bolsa de valores"
-  ],
   "18103288532377942": [
    "verdade o youtube",
    "atalho de milhoes"
@@ -6174,6 +6173,10 @@
   "18139116064630488": [
    "vinte anos de",
    "caos total mas"
+  ],
+  "18396334567161083": [
+   "pelo menos a",
+   "tres pagamentos de"
   ]
  },
  "shopee_checada": "2026-11-14|1",
