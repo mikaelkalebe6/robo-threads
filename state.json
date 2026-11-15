@@ -25,7 +25,8 @@
    "10:31",
    "11:40",
    "13:20",
-   "15:38"
+   "15:38",
+   "17:20"
   ],
   "produtos_feitos": 0,
   "respostas": 11,
@@ -42,23 +43,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17974782471168671",
-   "insp": "e287619658",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: a ficha de que a gente virou nossos pais não cai com um grande acontecimento, cai no dia em que você pega o carro para ir ao mercado ouvindo a mesma rádio que eles escutavam e ainda reclama do preço do tomate.",
-   "quando": "2026-11-10T08:37:08.340756-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 138,
-    "likes": 2,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-15"
-   }
-  },
   {
    "id": "18119258228009395",
    "insp": "0c1b7902c1",
@@ -1027,6 +1011,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: eu julgo a pessoa pelo nível de golpe que ela aceita cair no Tinder. Se o boy chega dizendo que é herdeiro mas a foto do perfil é na mureta da praia com um corolla financiado em 72 vezes e o tapete da sala é de grama sintética, e a criatura ainda acha que vai virar boazuda da alta",
    "quando": "2026-11-15T16:07:09.938906-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17998486959052559",
+   "insp": "fb72b5075b",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: qual é a profissão secreta que a galera tá exercendo pra conseguir comprar pão francês sem passar por um comitê de crédito do BNDES porque tá difícil demais",
+   "quando": "2026-11-15T18:37:08.233527-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4033,7 +4025,6 @@
   "18354522700251738"
  ],
  "hashes": [
-  "fef1d3b343c0ad1dbcedee8ea6bb8c2f",
   "841839fd5c82bf67a3e42bcd0769fe15",
   "cdd3adba14f5508e61972a97ac5555c6",
   "16b2e6693607123fb1b9fedb480b2973",
@@ -4232,7 +4223,8 @@
   "adef2f9f6368d38572baaa1ee65f306c",
   "9d23dc77686e7f872a6f43cd0a6b76f8",
   "08994cbff28b55a24f0ac80374489c23",
-  "e978884bcc836bb02b8c3082e6d220f1"
+  "e978884bcc836bb02b8c3082e6d220f1",
+  "03765c3036d308e76d2d46fed6f624d0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4244,7 +4236,6 @@
   "f6d9ba8473": 1790645865.3717055,
   "08c5fced1d": 1790687276.4493108,
   "4c34f415ce": 1790690916.9672582,
-  "fb72b5075b": 1790705255.8349135,
   "573ba90908": 1790725049.010326,
   "09e842892c": 1790726852.4957767,
   "6447474ad3": 1790730448.4125926,
@@ -4643,7 +4634,8 @@
   "c73aca2192": 1794758886.6755836,
   "9ff7d269b6": 1794762489.1846814,
   "c77e24d709": 1794764263.1120522,
-  "db597fa355": 1794773294.2520335
+  "db597fa355": 1794773294.2520335,
+  "fb72b5075b": 1794782292.5138488
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
