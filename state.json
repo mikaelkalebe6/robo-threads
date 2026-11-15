@@ -28,7 +28,8 @@
    "15:01",
    "16:46",
    "18:17",
-   "18:58"
+   "18:58",
+   "20:05"
   ],
   "produtos_feitos": 0,
   "respostas": 12,
@@ -42,23 +43,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18120815357070220",
-   "insp": "538e4aa327",
-   "link": "",
-   "texto": "ME CONTA: quem aqui já mandou dinheiro pro contato errado e passou o resto do dia suando frio esperando o estorno?",
-   "quando": "2026-11-09T14:07:15.011224-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 249,
-    "likes": 2,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-14"
-   }
-  },
   {
    "id": "18168780994485568",
    "insp": "bcecb54c92",
@@ -979,6 +963,14 @@
    "link": "",
    "texto": "SEM MENTIR: prefere pagar aluguel pra morar num ovo de pombo no centro com direito a barulhento transando na laje toda terça ou comprar uma mansão na pqp onde o Uber aceita a corrida chorando e o vizinho cria porco de estimação?",
    "quando": "2026-11-14T19:07:08.244359-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18152771725480497",
+   "insp": "880c48c090",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual hábito pequeno mudou sua vida de verdade? porque o meu foi começar a fingir que não entendo inglês quando vejo o vizinho no elevador para não ter que conversar sobre o clima.",
+   "quando": "2026-11-14T20:07:08.429430-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3985,7 +3977,6 @@
   "18092225183258613"
  ],
  "hashes": [
-  "1a1f20df0f8051e714f32fd0da8e01f8",
   "b6d2483d34d9291952537358bc513cbe",
   "123b2c3d3bc2062d4007da054e7689f5",
   "ff4783a38d132ee488ec926ac8d6c4f5",
@@ -4184,7 +4175,8 @@
   "490f4ed1218fffc437b2d09ff2cc7cf6",
   "1ff0e849393e899958127bdc6b741823",
   "081680d45be50b32217feef9106c9b19",
-  "85fec8511716f49d511af740ed95df4e"
+  "85fec8511716f49d511af740ed95df4e",
+  "e3e8b437ef122d213798d2e9fc05cacc"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4236,7 +4228,6 @@
   "7d0b87a61f": 1791040054.20017,
   "143d9cb236": 1791045474.23247,
   "120d39bc61": 1791052643.211581,
-  "880c48c090": 1791058075.4252539,
   "c5b66c6c5b": 1791065245.2783217,
   "39b02ce282": 1791076070.1774423,
   "6d7d2f32e2": 1791079643.0164294,
@@ -4595,7 +4586,8 @@
   "ca1265befe": 1794683289.0686412,
   "3b094b119a": 1794690487.6192758,
   "7a1c42a5d7": 1794695885.2995505,
-  "f9f379c8bc": 1794697691.6906765
+  "f9f379c8bc": 1794697691.6906765,
+  "880c48c090": 1794701284.1197793
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
