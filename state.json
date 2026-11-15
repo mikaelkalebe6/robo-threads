@@ -19,7 +19,9 @@
    "15:38",
    "20:41"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:53"
+  ],
   "produtos_feitos": 0,
   "respostas": 5,
   "por_post": {
@@ -30,23 +32,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17922262281453470",
-   "insp": "8914f039e6",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual o limite aceitável de preço num tênis que a gente vai usar até gastar a sola?",
-   "quando": "2026-11-09T16:07:09.455185-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 2103,
-    "likes": 5,
-    "replies": 30,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-15"
-   }
-  },
   {
    "id": "18122952722291296",
    "insp": "90d676888d",
@@ -1070,6 +1055,14 @@
    "meme_views": 698,
    "formato_link": "coment",
    "produto": "58219306819"
+  },
+  {
+   "id": "18124714787064620",
+   "insp": "9dfc1777fa",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: a maior plot twist de 2024 não foi traição de famoso nem IA roubando emprego, foi eu abrir um pote de Kibon no congelador esperando feijão temperado e achar SORVETE DE CHOCOLATE. Juro pra vocês, fiquei tão tonta que quase mandei áudio de 14 minutos pro meu ex só pra avisar que a v",
+   "quando": "2026-11-15T11:07:08.864051-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4075,7 +4068,6 @@
   "18098437118463647"
  ],
  "hashes": [
-  "123b2c3d3bc2062d4007da054e7689f5",
   "ff4783a38d132ee488ec926ac8d6c4f5",
   "0e9e007245a7a412f564b4f70c9f4628",
   "a05e29d090036acd3592416e65835f6b",
@@ -4274,7 +4266,8 @@
   "081680d45be50b32217feef9106c9b19",
   "85fec8511716f49d511af740ed95df4e",
   "e3e8b437ef122d213798d2e9fc05cacc",
-  "3cc7ef3cda2c3f271cab397d81565f9e"
+  "3cc7ef3cda2c3f271cab397d81565f9e",
+  "1bc21e38a2c6ee25a12a65e0352e4e51"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4376,7 +4369,6 @@
   "607a9f8d64": 1791491845.7964373,
   "bcc0c20424": 1791495460.9115326,
   "29649aab34": 1791497253.2238147,
-  "9dfc1777fa": 1791509880.1285467,
   "c8a0ab9dff": 1791549494.5057452,
   "b0cef3aaad": 1791553048.7074025,
   "3f6e169db2": 1791556688.1126475,
@@ -4685,7 +4677,8 @@
   "7a1c42a5d7": 1794695885.2995505,
   "f9f379c8bc": 1794697691.6906765,
   "880c48c090": 1794701284.1197793,
-  "8afd53c3f1": 1794708442.2957947
+  "8afd53c3f1": 1794708442.2957947,
+  "9dfc1777fa": 1794755287.134633
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
