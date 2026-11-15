@@ -21,35 +21,20 @@
   ],
   "feitos": [
    "08:53",
-   "09:49"
+   "09:49",
+   "10:31"
   ],
   "produtos_feitos": 0,
-  "respostas": 5,
+  "respostas": 6,
   "por_post": {
    "18152771725480497": 1,
    "18438527584199726": 1,
    "18221737609359141": 1,
-   "18651915367032814": 2
+   "18651915367032814": 2,
+   "18104104235645381": 1
   }
  },
  "posts": [
-  {
-   "id": "18352395226269773",
-   "insp": "e968b60bcc",
-   "link": "",
-   "texto": "SEJAM SINCEROS: qual lanche vocês escondem no armário para ninguém comer?",
-   "quando": "2026-11-09T18:37:08.294952-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 802,
-    "likes": 5,
-    "replies": 33,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-15"
-   }
-  },
   {
    "id": "18134045356776215",
    "insp": "482ab880e4",
@@ -1055,10 +1040,17 @@
    "texto": "Viajar sozinho é ótimo até você perceber que a única testemunha ocular de você pagando trinta reais num pão de queijo murcho no aeroporto é o caixa que te julgou em silêncio",
    "quando": "2026-11-15T11:37:09.568024-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17966557017237273",
+   "insp": "c73aca2192",
+   "link": "",
+   "texto": "Minha mãe achando que eu fui sequestrada porque demorei quarenta minutos pra sair da garagem, sendo que eu tava em pleno cativeiro psicológico ouvindo a mesma música triste pela sexta vez seguida fingindo que sou protagonista de clipe da Taylor Swift. Quem mais faz essa humilhação voluntária ou só e",
+   "quando": "2026-11-15T12:07:08.702207-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18149465209557362",
   "18159655411501226",
   "18013646912958211",
   "17916864252463181",
@@ -4057,10 +4049,10 @@
   "18101117456694002",
   "18651355600006266",
   "18171809311474394",
-  "18098437118463647"
+  "18098437118463647",
+  "18040294301655920"
  ],
  "hashes": [
-  "0e9e007245a7a412f564b4f70c9f4628",
   "a05e29d090036acd3592416e65835f6b",
   "226f35882ab1295a795a1068adb3c73a",
   "bb14a73e3a29800600e3530cd177b901",
@@ -4259,7 +4251,8 @@
   "e3e8b437ef122d213798d2e9fc05cacc",
   "3cc7ef3cda2c3f271cab397d81565f9e",
   "1bc21e38a2c6ee25a12a65e0352e4e51",
-  "7c7e881ea043c69be8441f671a86d604"
+  "7c7e881ea043c69be8441f671a86d604",
+  "adef2f9f6368d38572baaa1ee65f306c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4521,7 +4514,6 @@
   "35fc27c176": 1793399891.0611634,
   "7ba592d22e": 1793403484.6466517,
   "da475bd113": 1793408851.1002078,
-  "c73aca2192": 1793412495.3129582,
   "7f395074e1": 1793450287.861915,
   "642c97cc3a": 1793452048.4490342,
   "74bdceb463": 1793468270.5694325,
@@ -4670,7 +4662,8 @@
   "880c48c090": 1794701284.1197793,
   "8afd53c3f1": 1794708442.2957947,
   "9dfc1777fa": 1794755287.134633,
-  "b7ff902af0": 1794757090.2990987
+  "b7ff902af0": 1794757090.2990987,
+  "c73aca2192": 1794758886.6755836
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4678,15 +4671,11 @@
   "977aa04ba7": 1,
   "9c9ed7acc0": 2,
   "d273c6a44b": 1,
-  "0521dbc115": 1
+  "0521dbc115": 1,
+  "b243b89171": 1
  },
  "reservas_checadas": "2026-11-15",
  "ultimas_respostas": [
-  {
-   "t": "essas armadilhas digitais facilitam demais o fim do salario",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse é o tipo de ferramenta que vem com manual de sobrevivencia embutido",
    "p": "concorda",
@@ -4829,6 +4818,11 @@
   },
   {
    "t": "prioridade de gente adulta que tem compromisso com o futuro",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "água de aeroporto deveria vir com laudo médico pelo preço",
    "p": "concorda",
    "r": 0
   }
@@ -6133,12 +6127,6 @@
   }
  ],
  "aberturas_post": {
-  "17916150045505435": [
-   "esse nivel de",
-   "gato e um",
-   "pelo menos a",
-   "criatividade nas alturas"
-  ],
   "18126774545303649": [
    "quando o santo"
   ],
@@ -6275,6 +6263,9 @@
   ],
   "18438527584199726": [
    "com boa companhia"
+  ],
+  "18104104235645381": [
+   "agua de aeroporto"
   ]
  },
  "shopee_checada": "2026-11-15|1",
