@@ -28,7 +28,7 @@
    "15:38"
   ],
   "produtos_feitos": 0,
-  "respostas": 10,
+  "respostas": 11,
   "por_post": {
    "18152771725480497": 1,
    "18438527584199726": 1,
@@ -37,7 +37,8 @@
    "18104104235645381": 2,
    "17966557017237273": 1,
    "18211482229366474": 1,
-   "17969002848236768": 1
+   "17969002848236768": 1,
+   "17952847533299771": 1
   }
  },
  "posts": [
@@ -1030,7 +1031,6 @@
   }
  ],
  "respondidos": [
-  "18115232099118973",
   "18130489027744214",
   "17918371575451747",
   "18092418215672710",
@@ -4029,7 +4029,8 @@
   "18002719773040343",
   "18001693335041187",
   "18106683260198421",
-  "17869007541675041"
+  "17869007541675041",
+  "18354522700251738"
  ],
  "hashes": [
   "fef1d3b343c0ad1dbcedee8ea6bb8c2f",
@@ -4653,15 +4654,11 @@
   "0521dbc115": 1,
   "b243b89171": 1,
   "1d06969815": 2,
-  "5a4f6559c6": 2
+  "5a4f6559c6": 2,
+  "607b4e0a45": 1
  },
  "reservas_checadas": "2026-11-15",
  "ultimas_respostas": [
-  {
-   "t": "menos mal que a papelada tá em ordem então",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pelo menos a documentação está em dia, já é um ótimo começo kkk",
    "p": "concorda",
@@ -4804,6 +4801,11 @@
   },
   {
    "t": "esse aeroporto é um universo paralelo onde qualquer lanche custa um rim",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tapete de grama sintética na sala é o limite que a sociedade ultrapassou",
    "p": "concorda",
    "r": 0
   }
@@ -6108,12 +6110,6 @@
   }
  ],
  "aberturas_post": {
-  "18131101210849673": [
-   "pelo menos a",
-   "respeito a verdadeira",
-   "socorro o grupo",
-   "pois e a"
-  ],
   "18113350808614874": [
    "verdade parece reuniao",
    "esse ja vem",
@@ -6247,6 +6243,9 @@
   ],
   "17969002848236768": [
    "pesado demais livramento"
+  ],
+  "17952847533299771": [
+   "tapete de grama"
   ]
  },
  "shopee_checada": "2026-11-15|1",
