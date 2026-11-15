@@ -28,13 +28,13 @@
    "15:38"
   ],
   "produtos_feitos": 0,
-  "respostas": 9,
+  "respostas": 10,
   "por_post": {
    "18152771725480497": 1,
    "18438527584199726": 1,
    "18221737609359141": 1,
    "18651915367032814": 2,
-   "18104104235645381": 1,
+   "18104104235645381": 2,
    "17966557017237273": 1,
    "18211482229366474": 1,
    "17969002848236768": 1
@@ -1030,7 +1030,6 @@
   }
  ],
  "respondidos": [
-  "17993249045848512",
   "18115232099118973",
   "18130489027744214",
   "17918371575451747",
@@ -4029,7 +4028,8 @@
   "18040294301655920",
   "18002719773040343",
   "18001693335041187",
-  "18106683260198421"
+  "18106683260198421",
+  "17869007541675041"
  ],
  "hashes": [
   "fef1d3b343c0ad1dbcedee8ea6bb8c2f",
@@ -4653,15 +4653,10 @@
   "0521dbc115": 1,
   "b243b89171": 1,
   "1d06969815": 2,
-  "5a4f6559c6": 1
+  "5a4f6559c6": 2
  },
  "reservas_checadas": "2026-11-15",
  "ultimas_respostas": [
-  {
-   "t": "o pior é o desespero pra achar a calça antes da câmera abrir",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "menos mal que a papelada tá em ordem então",
    "p": "concorda",
@@ -4805,6 +4800,11 @@
   {
    "t": "pesado demais, livramento disfarçado de pior escolha",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "esse aeroporto é um universo paralelo onde qualquer lanche custa um rim",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6236,7 +6236,8 @@
    "com boa companhia"
   ],
   "18104104235645381": [
-   "agua de aeroporto"
+   "agua de aeroporto",
+   "esse aeroporto e"
   ],
   "17966557017237273": [
    "mae em estado"
