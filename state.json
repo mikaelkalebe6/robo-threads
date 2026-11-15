@@ -29,7 +29,8 @@
    "16:46",
    "18:17",
    "18:58",
-   "20:05"
+   "20:05",
+   "21:46"
   ],
   "produtos_feitos": 0,
   "respostas": 12,
@@ -43,23 +44,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18168780994485568",
-   "insp": "bcecb54c92",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: quem mais aqui já fingiu que estava super ocupado só para não parecer disponível demais logo na primeira mensagem?",
-   "quando": "2026-11-09T15:07:12.395524-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 650,
-    "likes": 11,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-14"
-   }
-  },
   {
    "id": "17922262281453470",
    "insp": "8914f039e6",
@@ -971,6 +955,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: qual hábito pequeno mudou sua vida de verdade? porque o meu foi começar a fingir que não entendo inglês quando vejo o vizinho no elevador para não ter que conversar sobre o clima.",
    "quando": "2026-11-14T20:07:08.429430-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18396334567161083",
+   "insp": "8afd53c3f1",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a conta bancária de vocês avisa quando entra dinheiro com fogos de artifício igual o Nubank faz ou a de vocês só manda um gemido de dor e desespero? Porque a minha parece que faz o PIX cair direto no bolso do agiota. Vocês guardam dinheiro ou vivem perigosamente apostando na sorte qu",
+   "quando": "2026-11-14T22:07:08.064732-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -3977,7 +3969,6 @@
   "18092225183258613"
  ],
  "hashes": [
-  "b6d2483d34d9291952537358bc513cbe",
   "123b2c3d3bc2062d4007da054e7689f5",
   "ff4783a38d132ee488ec926ac8d6c4f5",
   "0e9e007245a7a412f564b4f70c9f4628",
@@ -4176,7 +4167,8 @@
   "1ff0e849393e899958127bdc6b741823",
   "081680d45be50b32217feef9106c9b19",
   "85fec8511716f49d511af740ed95df4e",
-  "e3e8b437ef122d213798d2e9fc05cacc"
+  "e3e8b437ef122d213798d2e9fc05cacc",
+  "3cc7ef3cda2c3f271cab397d81565f9e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4193,7 +4185,6 @@
   "09e842892c": 1790726852.4957767,
   "6447474ad3": 1790730448.4125926,
   "fd6c7eeb28": 1790771853.9675057,
-  "8afd53c3f1": 1790773645.4395769,
   "018fcf3621": 1790782693.9690814,
   "2b14999174": 1790786274.782627,
   "8b93fbf051": 1790789849.0126176,
@@ -4587,7 +4578,8 @@
   "3b094b119a": 1794690487.6192758,
   "7a1c42a5d7": 1794695885.2995505,
   "f9f379c8bc": 1794697691.6906765,
-  "880c48c090": 1794701284.1197793
+  "880c48c090": 1794701284.1197793,
+  "8afd53c3f1": 1794708442.2957947
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
