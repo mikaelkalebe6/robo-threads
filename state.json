@@ -26,10 +26,11 @@
    "11:40",
    "13:20",
    "15:38",
-   "17:20"
+   "17:20",
+   "18:28"
   ],
   "produtos_feitos": 0,
-  "respostas": 11,
+  "respostas": 17,
   "por_post": {
    "18152771725480497": 1,
    "18438527584199726": 1,
@@ -39,27 +40,11 @@
    "17966557017237273": 1,
    "18211482229366474": 1,
    "17969002848236768": 1,
-   "17952847533299771": 1
+   "17952847533299771": 1,
+   "17998486959052559": 6
   }
  },
  "posts": [
-  {
-   "id": "18119258228009395",
-   "insp": "0c1b7902c1",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: usar suporte na cabeça pra gravar vídeos é a vergonha mais real que já passei, mas o resultado valeu a pena.",
-   "quando": "2026-11-10T10:37:09.937738-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 354,
-    "likes": 5,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-15"
-   }
-  },
   {
    "id": "17956439277273218",
    "insp": "d9aa630945",
@@ -1020,15 +1005,17 @@
    "texto": "VAMOS SER HONESTOS: qual é a profissão secreta que a galera tá exercendo pra conseguir comprar pão francês sem passar por um comitê de crédito do BNDES porque tá difícil demais",
    "quando": "2026-11-15T18:37:08.233527-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18117749984024760",
+   "insp": "3d5b6c562f",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: A pior parte de virar adulto não é pagar boleto, é descobrir que aquela historinha de que em julho a gente ia pra praia era só golpe dos adultos antigos pra fazer a gente calar a boca. Eu tentei negociar minhas férias de julho com o RH fingindo que sou uma capivara em período de r",
+   "quando": "2026-11-15T19:07:08.479698-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18130489027744214",
-  "17918371575451747",
-  "18092418215672710",
-  "18118311454986930",
-  "17937183393124535",
-  "18106358626964208",
   "17912550492515974",
   "18126126275308873",
   "18475025179113441",
@@ -4022,10 +4009,15 @@
   "18001693335041187",
   "18106683260198421",
   "17869007541675041",
-  "18354522700251738"
+  "18354522700251738",
+  "17912336622570546",
+  "18081869150392594",
+  "18090954770701882",
+  "18068223980512617",
+  "18267451195307817",
+  "18139455910726843"
  ],
  "hashes": [
-  "841839fd5c82bf67a3e42bcd0769fe15",
   "cdd3adba14f5508e61972a97ac5555c6",
   "16b2e6693607123fb1b9fedb480b2973",
   "51aff792ed037fd4ec8779bba7dc3846",
@@ -4224,7 +4216,8 @@
   "9d23dc77686e7f872a6f43cd0a6b76f8",
   "08994cbff28b55a24f0ac80374489c23",
   "e978884bcc836bb02b8c3082e6d220f1",
-  "03765c3036d308e76d2d46fed6f624d0"
+  "03765c3036d308e76d2d46fed6f624d0",
+  "72b89b740e61e59a50ab565e2d903a49"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4392,7 +4385,6 @@
   "d7e44e025a": 1792372085.3802283,
   "54dc948734": 1792375654.3754094,
   "a998017f2f": 1792413453.4373097,
-  "3d5b6c562f": 1792415245.5738044,
   "1918758b46": 1792420653.077342,
   "5d187cad11": 1792426040.4519188,
   "112111ad3e": 1792429639.2747066,
@@ -4635,7 +4627,8 @@
   "9ff7d269b6": 1794762489.1846814,
   "c77e24d709": 1794764263.1120522,
   "db597fa355": 1794773294.2520335,
-  "fb72b5075b": 1794782292.5138488
+  "fb72b5075b": 1794782292.5138488,
+  "3d5b6c562f": 1794784094.3589349
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4647,40 +4640,16 @@
   "b243b89171": 1,
   "1d06969815": 2,
   "5a4f6559c6": 2,
-  "607b4e0a45": 1
+  "607b4e0a45": 1,
+  "a1d5148e69": 1,
+  "d9c71d3445": 1,
+  "aeef92d7bd": 1,
+  "96216a46d9": 1,
+  "f723ff3edd": 1,
+  "75f4d3cd0a": 1
  },
  "reservas_checadas": "2026-11-15",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos a documentação está em dia, já é um ótimo começo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "se tem salsa e bachata no meio da rua o documento do carro tem que estar impecável kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse aí com certeza vai empacar na primeira blitz da pista kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse é o tipo de surpresa que faz a gente repensar a carreira inteira",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse sim é o tipo de programa que vale o esforço de abrir a porta pro entregador kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Verdade, cada um curte o pão ao seu jeito",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "estou duvidando da minha sanidade depois dessa história",
    "p": "neutra",
@@ -4800,6 +4769,36 @@
    "t": "tapete de grama sintética na sala é o limite que a sociedade ultrapassou",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse sim é o verdadeiro ouro vermelho hoje em dia kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "descobriu meu plano de dominação mundial através da panificação",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "contexto internacional pesado interferindo diretamente no café da manhã",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse emprego misterioso aí parece lucrativo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse setor aí tá operando com orçamento de multinacional kkkkkkkkk",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "eles tão fiscalizando até o tamanho da baguete agora kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6102,11 +6101,6 @@
   }
  ],
  "aberturas_post": {
-  "18113350808614874": [
-   "verdade parece reuniao",
-   "esse ja vem",
-   "frieza desnecessaria quando"
-  ],
   "18277459723309994": [
    "verdade quem nunca",
    "e dinheiro da",
@@ -6238,6 +6232,14 @@
   ],
   "17952847533299771": [
    "tapete de grama"
+  ],
+  "17998486959052559": [
+   "esse sim e",
+   "descobriu meu plano",
+   "contexto internacional pesado",
+   "esse emprego misterioso",
+   "esse setor ai",
+   "eles tao fiscalizando"
   ]
  },
  "shopee_checada": "2026-11-15|1",
