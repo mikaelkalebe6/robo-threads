@@ -24,10 +24,11 @@
    "09:49",
    "10:31",
    "11:40",
-   "13:20"
+   "13:20",
+   "15:38"
   ],
   "produtos_feitos": 0,
-  "respostas": 8,
+  "respostas": 9,
   "por_post": {
    "18152771725480497": 1,
    "18438527584199726": 1,
@@ -35,27 +36,11 @@
    "18651915367032814": 2,
    "18104104235645381": 1,
    "17966557017237273": 1,
-   "18211482229366474": 1
+   "18211482229366474": 1,
+   "17969002848236768": 1
   }
  },
  "posts": [
-  {
-   "id": "17912449200577226",
-   "insp": "7f63cfaf2e",
-   "link": "",
-   "texto": "VAMOS CONCORDAR: quem mais viveu a fase de sonhar com a casa enorme de condomínio e hoje só quer um cantinho prático que não demore duas horas pra faxinar",
-   "quando": "2026-11-09T22:07:09.849874-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 406,
-    "likes": 4,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-15"
-   }
-  },
   {
    "id": "17974782471168671",
    "insp": "e287619658",
@@ -1034,10 +1019,17 @@
    "texto": "ME CONTA: como vocês conheceram a pessoa que tá com vocês hoje?\n\nPorque romance fofinho de cafeteria é fácil, quero ver sustentar o amor que começou com ele me dando uma ré no para-choque no estacionamento do atacarejo, a gente quase saindo na mão por causa de 200 reais de funilaria e, três meses de",
    "quando": "2026-11-15T13:37:09.685944-04:00",
    "ia": "Gemini gemini-flash-latest"
+  },
+  {
+   "id": "17952847533299771",
+   "insp": "db597fa355",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: eu julgo a pessoa pelo nível de golpe que ela aceita cair no Tinder. Se o boy chega dizendo que é herdeiro mas a foto do perfil é na mureta da praia com um corolla financiado em 72 vezes e o tapete da sala é de grama sintética, e a criatura ainda acha que vai virar boazuda da alta",
+   "quando": "2026-11-15T16:07:09.938906-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17916864252463181",
   "17993249045848512",
   "18115232099118973",
   "18130489027744214",
@@ -4036,10 +4028,10 @@
   "18098437118463647",
   "18040294301655920",
   "18002719773040343",
-  "18001693335041187"
+  "18001693335041187",
+  "18106683260198421"
  ],
  "hashes": [
-  "bb14a73e3a29800600e3530cd177b901",
   "fef1d3b343c0ad1dbcedee8ea6bb8c2f",
   "841839fd5c82bf67a3e42bcd0769fe15",
   "cdd3adba14f5508e61972a97ac5555c6",
@@ -4238,7 +4230,8 @@
   "7c7e881ea043c69be8441f671a86d604",
   "adef2f9f6368d38572baaa1ee65f306c",
   "9d23dc77686e7f872a6f43cd0a6b76f8",
-  "08994cbff28b55a24f0ac80374489c23"
+  "08994cbff28b55a24f0ac80374489c23",
+  "e978884bcc836bb02b8c3082e6d220f1"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4309,7 +4302,6 @@
   "7733a769d4": 1791227258.5966003,
   "2832d4baf6": 1791247069.3264678,
   "58ac2ae535": 1791248867.6549494,
-  "db597fa355": 1791292045.8237777,
   "f1481a1658": 1791295658.0818608,
   "338b545216": 1791299241.9964204,
   "380b00e24d": 1791301049.584341,
@@ -4649,7 +4641,8 @@
   "b7ff902af0": 1794757090.2990987,
   "c73aca2192": 1794758886.6755836,
   "9ff7d269b6": 1794762489.1846814,
-  "c77e24d709": 1794764263.1120522
+  "c77e24d709": 1794764263.1120522,
+  "db597fa355": 1794773294.2520335
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4659,15 +4652,11 @@
   "d273c6a44b": 1,
   "0521dbc115": 1,
   "b243b89171": 1,
-  "1d06969815": 2
+  "1d06969815": 2,
+  "5a4f6559c6": 1
  },
  "reservas_checadas": "2026-11-15",
  "ultimas_respostas": [
-  {
-   "t": "com certeza vai aceitar sem questionar nada kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "o pior é o desespero pra achar a calça antes da câmera abrir",
    "p": "concorda",
@@ -4811,6 +4800,11 @@
   {
    "t": "pior que é a mais pura verdade, o caos tem dessas",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pesado demais, livramento disfarçado de pior escolha",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -6114,10 +6108,6 @@
   }
  ],
  "aberturas_post": {
-  "18453362791120072": [
-   "corajosa ja estou",
-   "o estoque de"
-  ],
   "18131101210849673": [
    "pelo menos a",
    "respeito a verdadeira",
@@ -6253,6 +6243,9 @@
   ],
   "18211482229366474": [
    "pior que e"
+  ],
+  "17969002848236768": [
+   "pesado demais livramento"
   ]
  },
  "shopee_checada": "2026-11-15|1",
