@@ -20,7 +20,8 @@
    "20:41"
   ],
   "feitos": [
-   "08:53"
+   "08:53",
+   "09:49"
   ],
   "produtos_feitos": 0,
   "respostas": 5,
@@ -32,23 +33,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18122952722291296",
-   "insp": "90d676888d",
-   "link": "",
-   "texto": "NINGUÉM FALA DISSO: quem era o amigo chato que só deixava a gente jogar com o personagem fraco no videogame",
-   "quando": "2026-11-09T17:37:11.412339-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 830,
-    "likes": 8,
-    "replies": 14,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-15"
-   }
-  },
   {
    "id": "18352395226269773",
    "insp": "e968b60bcc",
@@ -1062,6 +1046,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: a maior plot twist de 2024 não foi traição de famoso nem IA roubando emprego, foi eu abrir um pote de Kibon no congelador esperando feijão temperado e achar SORVETE DE CHOCOLATE. Juro pra vocês, fiquei tão tonta que quase mandei áudio de 14 minutos pro meu ex só pra avisar que a v",
    "quando": "2026-11-15T11:07:08.864051-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18104104235645381",
+   "insp": "b7ff902af0",
+   "link": "",
+   "texto": "Viajar sozinho é ótimo até você perceber que a única testemunha ocular de você pagando trinta reais num pão de queijo murcho no aeroporto é o caixa que te julgou em silêncio",
+   "quando": "2026-11-15T11:37:09.568024-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4068,7 +4060,6 @@
   "18098437118463647"
  ],
  "hashes": [
-  "ff4783a38d132ee488ec926ac8d6c4f5",
   "0e9e007245a7a412f564b4f70c9f4628",
   "a05e29d090036acd3592416e65835f6b",
   "226f35882ab1295a795a1068adb3c73a",
@@ -4267,7 +4258,8 @@
   "85fec8511716f49d511af740ed95df4e",
   "e3e8b437ef122d213798d2e9fc05cacc",
   "3cc7ef3cda2c3f271cab397d81565f9e",
-  "1bc21e38a2c6ee25a12a65e0352e4e51"
+  "1bc21e38a2c6ee25a12a65e0352e4e51",
+  "7c7e881ea043c69be8441f671a86d604"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4357,7 +4349,6 @@
   "8b38fc3868": 1791398249.960267,
   "dd26d54eba": 1791401855.1985977,
   "59c16f2082": 1791403651.236615,
-  "b7ff902af0": 1791407257.6508343,
   "69415b36aa": 1791414450.6617262,
   "0c6e3aa2e9": 1791418053.3214092,
   "6d05f48de0": 1791421663.0746691,
@@ -4678,7 +4669,8 @@
   "f9f379c8bc": 1794697691.6906765,
   "880c48c090": 1794701284.1197793,
   "8afd53c3f1": 1794708442.2957947,
-  "9dfc1777fa": 1794755287.134633
+  "9dfc1777fa": 1794755287.134633,
+  "b7ff902af0": 1794757090.2990987
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
