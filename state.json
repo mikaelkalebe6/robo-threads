@@ -27,10 +27,11 @@
    "13:20",
    "15:38",
    "17:20",
-   "18:28"
+   "18:28",
+   "19:35"
   ],
   "produtos_feitos": 0,
-  "respostas": 17,
+  "respostas": 18,
   "por_post": {
    "18152771725480497": 1,
    "18438527584199726": 1,
@@ -41,27 +42,11 @@
    "18211482229366474": 1,
    "17969002848236768": 1,
    "17952847533299771": 1,
-   "17998486959052559": 6
+   "17998486959052559": 6,
+   "18139116064630488": 1
   }
  },
  "posts": [
-  {
-   "id": "17956439277273218",
-   "insp": "d9aa630945",
-   "link": "",
-   "texto": "ME CONTA: qual foi a cantada mais horrível que acabou funcionando com você?",
-   "quando": "2026-11-10T11:07:08.515152-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 493,
-    "likes": 1,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-15"
-   }
-  },
   {
    "id": "18358811470223070",
    "insp": "95a127f43f",
@@ -1013,10 +998,17 @@
    "texto": "OPINIÃO IMPOPULAR: A pior parte de virar adulto não é pagar boleto, é descobrir que aquela historinha de que em julho a gente ia pra praia era só golpe dos adultos antigos pra fazer a gente calar a boca. Eu tentei negociar minhas férias de julho com o RH fingindo que sou uma capivara em período de r",
    "quando": "2026-11-15T19:07:08.479698-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18127923431297256",
+   "insp": "828a5aba09",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: minha terapeuta merece um décimo terceiro ou eu deveria incluir o nome dela no meu testamento por evitar que eu cometesse um crime hediondo com um ex que achava que pagar o Uber com pix de 3 reais parcelado era prova de amor.",
+   "quando": "2026-11-15T19:37:09.582819-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17912550492515974",
   "18126126275308873",
   "18475025179113441",
   "18164082787499947",
@@ -4015,10 +4007,10 @@
   "18090954770701882",
   "18068223980512617",
   "18267451195307817",
-  "18139455910726843"
+  "18139455910726843",
+  "18132204724862963"
  ],
  "hashes": [
-  "cdd3adba14f5508e61972a97ac5555c6",
   "16b2e6693607123fb1b9fedb480b2973",
   "51aff792ed037fd4ec8779bba7dc3846",
   "e468ed9bbf3a1937b59dd9f4f3538a84",
@@ -4217,7 +4209,8 @@
   "08994cbff28b55a24f0ac80374489c23",
   "e978884bcc836bb02b8c3082e6d220f1",
   "03765c3036d308e76d2d46fed6f624d0",
-  "72b89b740e61e59a50ab565e2d903a49"
+  "72b89b740e61e59a50ab565e2d903a49",
+  "53f8e65d19fa624d7ba13f4de1225a96"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4237,7 +4230,6 @@
   "2b14999174": 1790786274.782627,
   "8b93fbf051": 1790789849.0126176,
   "00c9530901": 1790798863.395636,
-  "828a5aba09": 1790802454.7834787,
   "3ce988f7a6": 1790807853.3159423,
   "fbedf7f149": 1790813252.2096584,
   "c2d56efe9f": 1790816840.2517245,
@@ -4628,7 +4620,8 @@
   "c77e24d709": 1794764263.1120522,
   "db597fa355": 1794773294.2520335,
   "fb72b5075b": 1794782292.5138488,
-  "3d5b6c562f": 1794784094.3589349
+  "3d5b6c562f": 1794784094.3589349,
+  "828a5aba09": 1794785891.6323524
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4646,15 +4639,11 @@
   "aeef92d7bd": 1,
   "96216a46d9": 1,
   "f723ff3edd": 1,
-  "75f4d3cd0a": 1
+  "75f4d3cd0a": 1,
+  "b02ac971b4": 1
  },
  "reservas_checadas": "2026-11-15",
  "ultimas_respostas": [
-  {
-   "t": "estou duvidando da minha sanidade depois dessa história",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "inveja branca dessa disciplina toda",
    "p": "concorda",
@@ -4799,6 +4788,11 @@
    "t": "eles tão fiscalizando até o tamanho da baguete agora kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "paz de espírito deveria ser item básico e não luxo",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6204,7 +6198,8 @@
   ],
   "18139116064630488": [
    "vinte anos de",
-   "caos total mas"
+   "caos total mas",
+   "paz de espirito"
   ],
   "18396334567161083": [
    "pelo menos a",
