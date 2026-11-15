@@ -27,14 +27,15 @@
    "13:20"
   ],
   "produtos_feitos": 0,
-  "respostas": 7,
+  "respostas": 8,
   "por_post": {
    "18152771725480497": 1,
    "18438527584199726": 1,
    "18221737609359141": 1,
    "18651915367032814": 2,
    "18104104235645381": 1,
-   "17966557017237273": 1
+   "17966557017237273": 1,
+   "18211482229366474": 1
   }
  },
  "posts": [
@@ -1036,7 +1037,6 @@
   }
  ],
  "respondidos": [
-  "18013646912958211",
   "17916864252463181",
   "17993249045848512",
   "18115232099118973",
@@ -4035,7 +4035,8 @@
   "18171809311474394",
   "18098437118463647",
   "18040294301655920",
-  "18002719773040343"
+  "18002719773040343",
+  "18001693335041187"
  ],
  "hashes": [
   "bb14a73e3a29800600e3530cd177b901",
@@ -4658,15 +4659,10 @@
   "d273c6a44b": 1,
   "0521dbc115": 1,
   "b243b89171": 1,
-  "1d06969815": 1
+  "1d06969815": 2
  },
  "reservas_checadas": "2026-11-15",
  "ultimas_respostas": [
-  {
-   "t": "já avisando que ele exige petisco para aceitar visitas",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "com certeza vai aceitar sem questionar nada kkkkk",
    "p": "concorda",
@@ -4811,6 +4807,11 @@
    "t": "mãe em estado de alerta máximo é um evento canonico perigoso kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "pior que é a mais pura verdade, o caos tem dessas",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6113,9 +6114,6 @@
   }
  ],
  "aberturas_post": {
-  "18113412365203537": [
-   "menos mal que"
-  ],
   "18453362791120072": [
    "corajosa ja estou",
    "o estoque de"
@@ -6252,6 +6250,9 @@
   ],
   "17966557017237273": [
    "mae em estado"
+  ],
+  "18211482229366474": [
+   "pior que e"
   ]
  },
  "shopee_checada": "2026-11-15|1",
