@@ -28,10 +28,11 @@
    "15:38",
    "17:20",
    "18:28",
-   "19:35"
+   "19:35",
+   "20:41"
   ],
   "produtos_feitos": 0,
-  "respostas": 18,
+  "respostas": 19,
   "por_post": {
    "18152771725480497": 1,
    "18438527584199726": 1,
@@ -42,28 +43,11 @@
    "18211482229366474": 1,
    "17969002848236768": 1,
    "17952847533299771": 1,
-   "17998486959052559": 6,
+   "17998486959052559": 7,
    "18139116064630488": 1
   }
  },
  "posts": [
-  {
-   "id": "18358811470223070",
-   "insp": "95a127f43f",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: no primeiro encontro quem convida paga a conta e ponto final",
-   "quando": "2026-11-10T12:37:09.381995-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 761,
-    "likes": 13,
-    "replies": 35,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-15"
-   }
-  },
   {
    "id": "18126776548905390",
    "insp": "f9bb6059fa",
@@ -1006,10 +990,17 @@
    "texto": "VAMOS SER HONESTOS: minha terapeuta merece um décimo terceiro ou eu deveria incluir o nome dela no meu testamento por evitar que eu cometesse um crime hediondo com um ex que achava que pagar o Uber com pix de 3 reais parcelado era prova de amor.",
    "quando": "2026-11-15T19:37:09.582819-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18171150787465175",
+   "insp": "a0d83e5ad4",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: o ser humano que chega na balada falando que tem carro financiado em sessenta vezes e o IPVA atrasado acha que tá vendendo um Corolla ou um passe livre pro inferno astral? O pior é que a criatura ainda lança um \"mas o ar condicionado gela\", meu anjo, o único gelo aqui vai ser o da mi",
+   "quando": "2026-11-15T21:07:08.484925-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18126126275308873",
   "18475025179113441",
   "18164082787499947",
   "18107399432266547",
@@ -4008,10 +3999,10 @@
   "18068223980512617",
   "18267451195307817",
   "18139455910726843",
-  "18132204724862963"
+  "18132204724862963",
+  "17884591200572672"
  ],
  "hashes": [
-  "16b2e6693607123fb1b9fedb480b2973",
   "51aff792ed037fd4ec8779bba7dc3846",
   "e468ed9bbf3a1937b59dd9f4f3538a84",
   "055788945327645dff7e114b5ba4f840",
@@ -4210,7 +4201,8 @@
   "e978884bcc836bb02b8c3082e6d220f1",
   "03765c3036d308e76d2d46fed6f624d0",
   "72b89b740e61e59a50ab565e2d903a49",
-  "53f8e65d19fa624d7ba13f4de1225a96"
+  "53f8e65d19fa624d7ba13f4de1225a96",
+  "c8163640e5a6741900b896e684e54482"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4317,7 +4309,6 @@
   "6ab249fcf7": 1791580080.9198704,
   "ae0c3922a8": 1791583645.2915637,
   "239781c6f2": 1791589092.918579,
-  "a0d83e5ad4": 1791594453.9146647,
   "b6e8893db8": 1791637653.5574567,
   "f8cf963815": 1791644893.9161525,
   "d74ec1b0c0": 1791648492.9168603,
@@ -4621,7 +4612,8 @@
   "db597fa355": 1794773294.2520335,
   "fb72b5075b": 1794782292.5138488,
   "3d5b6c562f": 1794784094.3589349,
-  "828a5aba09": 1794785891.6323524
+  "828a5aba09": 1794785891.6323524,
+  "a0d83e5ad4": 1794791261.3017795
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4640,15 +4632,11 @@
   "96216a46d9": 1,
   "f723ff3edd": 1,
   "75f4d3cd0a": 1,
-  "b02ac971b4": 1
+  "b02ac971b4": 1,
+  "eadeca0661": 1
  },
  "reservas_checadas": "2026-11-15",
  "ultimas_respostas": [
-  {
-   "t": "inveja branca dessa disciplina toda",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "estatística puramente realista e difícil de refutar",
    "p": "concorda",
@@ -4793,6 +4781,11 @@
    "t": "paz de espírito deveria ser item básico e não luxo",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "perigoso esse investimento na padaria alheia kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6234,7 +6227,8 @@
    "contexto internacional pesado",
    "esse emprego misterioso",
    "esse setor ai",
-   "eles tao fiscalizando"
+   "eles tao fiscalizando",
+   "perigoso esse investimento"
   ]
  },
  "shopee_checada": "2026-11-15|1",
