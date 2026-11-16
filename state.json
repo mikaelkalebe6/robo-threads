@@ -24,32 +24,17 @@
    "19:07"
   ],
   "feitos": [
-   "08:24"
+   "08:24",
+   "09:33"
   ],
   "produtos_feitos": 0,
-  "respostas": 1,
+  "respostas": 2,
   "por_post": {
-   "17998486959052559": 1
+   "17998486959052559": 1,
+   "18171150787465175": 1
   }
  },
  "posts": [
-  {
-   "id": "17946950157401907",
-   "insp": "cc277cae04",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: ninguém abre o manual do carro por vontade própria, a gente só descobre pra que servem os botões quando acende aquela luz misteriosa no painel",
-   "quando": "2026-11-10T19:07:08.352963-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 129,
-    "likes": 5,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-16"
-   }
-  },
   {
    "id": "18138156736652646",
    "insp": "c71e576931",
@@ -1064,10 +1049,17 @@
    "texto": "SEJAM SINCEROS: se a gente só pudesse ficar com três aplicativos no celular, eu provavelmente escolheria o banco para pagar boleto chorando, o WhatsApp para fingir que não vi áudio de dez minutos e o Tinder para ver os malucos da minha cidade achando que são o Christian Grey da Lapa. Qual seria o ki",
    "quando": "2026-11-16T10:37:10.420752-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18119874185009638",
+   "insp": "41c97f7daf",
+   "link": "",
+   "texto": "ME CONTA: qual foi a pior desgraça romântica que a gincana do amor te obrigou a viver no Brasil? Minha amiga foi inventar de fingir que entendia de futebol pra impressionar o boy num bar lotado, gritou \"isso mesmo, juiz corno\" num gol contra do time dele, descobriu que o cara era o próprio árbitro d",
+   "quando": "2026-11-16T11:37:09.647285-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18107399432266547",
   "17912445624288449",
   "18285562186295842",
   "18130959568732391",
@@ -4066,10 +4058,10 @@
   "18132204724862963",
   "17884591200572672",
   "18082251728753495",
-  "18654325690013592"
+  "18654325690013592",
+  "17957388801291440"
  ],
  "hashes": [
-  "055788945327645dff7e114b5ba4f840",
   "8860fe03c816adb9d8edf61b95ac537d",
   "3374da3c3c15bd2d4ef90a28ca2ca5d5",
   "8d4b2fe8daf0a5e822fc0e20fea0f952",
@@ -4268,7 +4260,8 @@
   "53f8e65d19fa624d7ba13f4de1225a96",
   "c8163640e5a6741900b896e684e54482",
   "7fdd31e782e90c7be8187c674d42abb8",
-  "f3b674bb210d76d01843708a3aabca04"
+  "f3b674bb210d76d01843708a3aabca04",
+  "c56a265bddccc57211c935307e2565d5"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4491,7 +4484,6 @@
   "6a712ecbe9": 1793034538.0364904,
   "3473fe5200": 1793043451.7551863,
   "70192e2aab": 1793050646.2488854,
-  "41c97f7daf": 1793052457.3364546,
   "5267cbb0dc": 1793065089.76041,
   "2605ac3685": 1793106470.5231354,
   "aa28edd6a1": 1793110088.7743607,
@@ -4679,20 +4671,17 @@
   "828a5aba09": 1794785891.6323524,
   "a0d83e5ad4": 1794791261.3017795,
   "bc64a2ff13": 1794793096.7968543,
-  "08c5fced1d": 1794839889.979296
+  "08c5fced1d": 1794839889.979296,
+  "41c97f7daf": 1794843453.6286013
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-11-16",
-  "f543719bc6": 1
+  "f543719bc6": 1,
+  "5a4f6559c6": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "motor antigo tem alma de tanque de guerra mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "milagre e fe combinados faziam o serviço completo kkkk",
    "p": "concorda",
@@ -4837,6 +4826,11 @@
    "t": "três anos no mesmo valor é uma raridade que merece placa comemorativa",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "essa abordagem direta corta qualquer enrolação kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6144,9 +6138,6 @@
   }
  ],
  "aberturas_post": {
-  "18112357985258185": [
-   "nossa tambem ja"
-  ],
   "18042919802842058": [
    "renk renk so",
    "essa parte ai",
@@ -6284,6 +6275,9 @@
   ],
   "18080804558764298": [
    "mudou completamente o"
+  ],
+  "18171150787465175": [
+   "essa abordagem direta"
   ]
  },
  "shopee_checada": "2026-11-16|1",
