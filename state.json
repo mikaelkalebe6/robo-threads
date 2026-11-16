@@ -30,11 +30,12 @@
    "11:25"
   ],
   "produtos_feitos": 0,
-  "respostas": 4,
+  "respostas": 5,
   "por_post": {
    "17998486959052559": 2,
    "18171150787465175": 1,
-   "18137326147667955": 1
+   "18137326147667955": 1,
+   "18111720626357971": 1
   }
  },
  "posts": [
@@ -1045,7 +1046,6 @@
   }
  ],
  "respondidos": [
-  "18130959568732391",
   "18371769424211453",
   "17994410196042871",
   "17992214987849100",
@@ -4044,7 +4044,8 @@
   "18654325690013592",
   "17957388801291440",
   "18093760829686287",
-  "18121452007996235"
+  "18121452007996235",
+  "18117133604277693"
  ],
  "hashes": [
   "8d4b2fe8daf0a5e822fc0e20fea0f952",
@@ -4665,15 +4666,11 @@
   "f543719bc6": 1,
   "5a4f6559c6": 1,
   "3ca1a9f70d": 1,
-  "9c9ed7acc0": 1
+  "9c9ed7acc0": 1,
+  "eb96652ea7": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "vinte anos de mansão isolada é para poucos, respeito a escolha kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "caos total mas a gente acaba aceitando pela localização kkk",
    "p": "concorda",
@@ -4818,6 +4815,11 @@
    "t": "verdade, o simples tem seu charme kkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "perdeu a chance de assistir ao vivo mas fica o convite pra próxima briga de final de ano",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6125,11 +6127,6 @@
   }
  ],
  "aberturas_post": {
-  "18444123814177794": [
-   "esse ai vai",
-   "alguem precisa mesmo",
-   "vendedor de rua"
-  ],
   "17997445890029104": [
    "tem hora que"
   ],
@@ -6263,6 +6260,9 @@
   ],
   "18137326147667955": [
    "verdade o simples"
+  ],
+  "18111720626357971": [
+   "perdeu a chance"
   ]
  },
  "shopee_checada": "2026-11-16|1",
