@@ -29,35 +29,20 @@
    "10:40",
    "11:25",
    "12:05",
-   "13:52"
+   "13:52",
+   "14:44"
   ],
   "produtos_feitos": 0,
-  "respostas": 5,
+  "respostas": 10,
   "por_post": {
    "17998486959052559": 2,
    "18171150787465175": 1,
    "18137326147667955": 1,
-   "18111720626357971": 1
+   "18111720626357971": 1,
+   "18111918469906337": 5
   }
  },
  "posts": [
-  {
-   "id": "18148034998598778",
-   "insp": "c05528a8e3",
-   "link": "",
-   "texto": "SEM MENTIR: casamento com separação total de bens ou comunhão de sofrimento porque se for pra dividir conta até no PIX do motel eu prefiro casar com o boleto do IPVA que pelo menos me abraça chorando todo mês. Vocês confiam tanto assim no ex de vocês?",
-   "quando": "2026-11-11T14:07:09.889234-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 95,
-    "likes": 2,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-16"
-   }
-  },
   {
    "id": "18113412365203537",
    "insp": "d6497bdd55",
@@ -1027,14 +1012,17 @@
    "texto": "Fui na casa do boy novo e a mãe dele serviu um strogonoff com uva passa, milho e azeite de dendê parecendo um ritual macabro, juro pra vocês que meu boleto de 45 reais da terapia nunca foi tão justificado comendo aquilo sorrindo e falando que estava uma delícia. \n\nQual foi a atrocidade culinária que",
    "quando": "2026-11-16T15:37:24.166728-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18136119379675335",
+   "insp": "fb4677367c",
+   "link": "",
+   "texto": "PESSOAS QUE...: ainda guardam o CD do primeiro videogame achando que o console queimado vai ressuscitar com passe espiritista e água batizada, mas fingem que esquecem o boleto do IPVA vencido no painel do carro só pra não passar raiva sozinha no trânsito. Alguém avisa que nostalgia não paga o tanque",
+   "quando": "2026-11-16T16:07:13.259583-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18371769424211453",
-  "17994410196042871",
-  "17992214987849100",
-  "18087367934283285",
-  "17986048983116291",
   "17882401620528736",
   "17910666384472375",
   "18634231150001602",
@@ -4029,10 +4017,14 @@
   "17957388801291440",
   "18093760829686287",
   "18121452007996235",
-  "18117133604277693"
+  "18117133604277693",
+  "18111273299243146",
+  "17894370201618634",
+  "18083943821722035",
+  "18118300379044557",
+  "17958153354295792"
  ],
  "hashes": [
-  "a6125a4ebfb4073a715fe342bab83301",
   "8743beeaae6f46ac02f9a86ff79b7c6f",
   "66c9f50512b99d0179ab01c66b9b02d9",
   "a8de56a5d9e3e90bc35ae467d792f910",
@@ -4231,7 +4223,8 @@
   "a6d8f12983d59347344b8a649bdffd55",
   "0b51c8f04cc98c2c4eb9cdaa0081c4bc",
   "700563a645eee9b0259da8fc697e24a5",
-  "c308cb7e8aa96918e4c82e10f3b21264"
+  "c308cb7e8aa96918e4c82e10f3b21264",
+  "765cdafd7111f7d09cd00f39516d0617"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4435,7 +4428,6 @@
   "ba30bb89b0": 1792805884.0814035,
   "1a4df9fa8d": 1792807648.3731372,
   "5efa674a14": 1792845486.7009747,
-  "fb4677367c": 1792856249.0528126,
   "31631bee08": 1792861687.3606534,
   "8126542588": 1792865252.5994968,
   "23052490c4": 1792872469.8408012,
@@ -4642,7 +4634,8 @@
   "d8d17a2688": 1794845257.173013,
   "d3233367fd": 1794848879.5093079,
   "cadb3d9e75": 1794856058.4282978,
-  "9a79b11d92": 1794857858.4747362
+  "9a79b11d92": 1794857858.4747362,
+  "fb4677367c": 1794859696.6385975
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4651,35 +4644,15 @@
   "5a4f6559c6": 1,
   "3ca1a9f70d": 1,
   "9c9ed7acc0": 1,
-  "eb96652ea7": 1
+  "eb96652ea7": 1,
+  "79fa09ba56": 1,
+  "460cb883df": 1,
+  "16c6cbdc41": 1,
+  "0ce3120b7d": 1,
+  "66c99dd4aa": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "caos total mas a gente acaba aceitando pela localização kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "o Mille Fire merecia uma medalha de honra ao merito por resistencia kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pelo menos a notificação de conta vencida chega com pontualidade britânica",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "três pagamentos de segurança já é uma vitória enorme contra os boletos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse som aí nem o Vaticano atende socorro kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "estratégia brilhante e totalmente sem falhas kkkkkkkk",
    "p": "concorda",
@@ -4804,6 +4777,31 @@
    "t": "perdeu a chance de assistir ao vivo mas fica o convite pra próxima briga de final de ano",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "inimiga da paz de espírito e da gastronomia mundial kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "passa no strogonoff é um golpe muito forte na nossa sanidade mental",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "até quem gosta de uva passa tem limite pra tanta ousadia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cada um traça seus limites culinários onde preferir",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse ingrediente aí já vem direto de laboratório secreto kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6111,9 +6109,6 @@
   }
  ],
  "aberturas_post": {
-  "17997445890029104": [
-   "tem hora que"
-  ],
   "18094004198210983": [
    "pelo menos os",
    "pior q tem",
@@ -6247,6 +6242,13 @@
   ],
   "18111720626357971": [
    "perdeu a chance"
+  ],
+  "18111918469906337": [
+   "inimiga da paz",
+   "passa no strogonoff",
+   "ate quem gosta",
+   "cada um traca",
+   "esse ingrediente ai"
   ]
  },
  "shopee_checada": "2026-11-16|1",
