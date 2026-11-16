@@ -23,7 +23,9 @@
    "14:44",
    "19:07"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:24"
+  ],
   "produtos_feitos": 0,
   "respostas": 1,
   "por_post": {
@@ -31,23 +33,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18063738524658947",
-   "insp": "cd232d0d3c",
-   "link": "",
-   "texto": "NINGUÉM FALA DISSO: qual foi a cidade mais subestimada que você já visitou e que quase ninguém dá nada por ela",
-   "quando": "2026-11-10T17:07:09.426414-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 3581,
-    "likes": 6,
-    "replies": 25,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-16"
-   }
-  },
   {
    "id": "17946950157401907",
    "insp": "cc277cae04",
@@ -1071,6 +1056,14 @@
     "shares": 0,
     "em": "2026-11-16"
    }
+  },
+  {
+   "id": "18236830162326017",
+   "insp": "08c5fced1d",
+   "link": "",
+   "texto": "SEJAM SINCEROS: se a gente só pudesse ficar com três aplicativos no celular, eu provavelmente escolheria o banco para pagar boleto chorando, o WhatsApp para fingir que não vi áudio de dez minutos e o Tinder para ver os malucos da minha cidade achando que são o Christian Grey da Lapa. Qual seria o ki",
+   "quando": "2026-11-16T10:37:10.420752-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4076,7 +4069,6 @@
   "18654325690013592"
  ],
  "hashes": [
-  "e468ed9bbf3a1937b59dd9f4f3538a84",
   "055788945327645dff7e114b5ba4f840",
   "8860fe03c816adb9d8edf61b95ac537d",
   "3374da3c3c15bd2d4ef90a28ca2ca5d5",
@@ -4275,7 +4267,8 @@
   "72b89b740e61e59a50ab565e2d903a49",
   "53f8e65d19fa624d7ba13f4de1225a96",
   "c8163640e5a6741900b896e684e54482",
-  "7fdd31e782e90c7be8187c674d42abb8"
+  "7fdd31e782e90c7be8187c674d42abb8",
+  "f3b674bb210d76d01843708a3aabca04"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4285,7 +4278,6 @@
   "ff5027f0d8": 1790633283.7908828,
   "d12059d204": 1790636883.6793935,
   "f6d9ba8473": 1790645865.3717055,
-  "08c5fced1d": 1790687276.4493108,
   "4c34f415ce": 1790690916.9672582,
   "573ba90908": 1790725049.010326,
   "09e842892c": 1790726852.4957767,
@@ -4686,7 +4678,8 @@
   "3d5b6c562f": 1794784094.3589349,
   "828a5aba09": 1794785891.6323524,
   "a0d83e5ad4": 1794791261.3017795,
-  "bc64a2ff13": 1794793096.7968543
+  "bc64a2ff13": 1794793096.7968543,
+  "08c5fced1d": 1794839889.979296
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
