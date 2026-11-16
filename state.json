@@ -31,16 +31,18 @@
    "12:05",
    "13:52",
    "14:44",
-   "15:57"
+   "15:57",
+   "17:32"
   ],
   "produtos_feitos": 0,
-  "respostas": 26,
+  "respostas": 32,
   "por_post": {
    "17998486959052559": 2,
    "18171150787465175": 1,
    "18137326147667955": 1,
    "18111720626357971": 1,
-   "18111918469906337": 21
+   "18111918469906337": 25,
+   "18136119379675335": 2
   }
  },
  "posts": [
@@ -1015,23 +1017,6 @@
   }
  ],
  "respondidos": [
-  "17899567935601503",
-  "17981337519106394",
-  "18066490835784155",
-  "17898889098671695",
-  "17908787220555531",
-  "18093533978176332",
-  "17949253467335228",
-  "18127865891504277",
-  "17987925570119700",
-  "18165624388469990",
-  "17964789305982715",
-  "18360290023218158",
-  "18345311851253069",
-  "17887711290478854",
-  "18125958862870540",
-  "18105651503195080",
-  "17976190892930699",
   "18124716680304280",
   "18125834260872272",
   "18446408182122492",
@@ -4014,7 +3999,24 @@
   "17941909728406557",
   "18129816223925708",
   "18112074082933873",
-  "18161121508525325"
+  "18161121508525325",
+  "18017848901976146",
+  "17976479004171599",
+  "18289204840288920",
+  "18125886863057107",
+  "18098239622466454",
+  "18123872018286263",
+  "18139784317642168",
+  "18092333075694291",
+  "18362066389301900",
+  "18218118058359638",
+  "18117403379593454",
+  "17946877434090597",
+  "18126812665712676",
+  "18137305345675747",
+  "17947310217379215",
+  "18083934977538770",
+  "17904844902674390"
  ],
  "hashes": [
   "66c9f50512b99d0179ab01c66b9b02d9",
@@ -4656,40 +4658,16 @@
   "647e23638b": 1,
   "ae1e87ae98": 1,
   "0581534094": 1,
-  "8def7eee2a": 1
+  "8def7eee2a": 1,
+  "0521dbc115": 1,
+  "756b634707": 1,
+  "636d942e27": 1,
+  "ed48303943": 1,
+  "b7a2306fa0": 1,
+  "c81e413c95": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "eles tão fiscalizando até o tamanho da baguete agora kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "paz de espírito deveria ser item básico e não luxo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "perigoso esse investimento na padaria alheia kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "mudou completamente o foco da investigação",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "três anos no mesmo valor é uma raridade que merece placa comemorativa",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa abordagem direta corta qualquer enrolação kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "artigo de luxo que exige declaração de bens no imposto de renda",
    "p": "concorda",
@@ -4809,6 +4787,36 @@
    "t": "imortalidade culinária de vc é invejável kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "É, às vezes o aleatório surpreende mais que o boleto do IPVA kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quanto mais específico mais dói de verdade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "lasanha com milho estraga qualquer tentativa de jantar em paz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia de sabotagem masterclass só pode kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quase um crime culinario que deveria dar cadeia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "padrão de ciúmes disfarçado de complacência kkk",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6116,13 +6124,6 @@
   }
  ],
  "aberturas_post": {
-  "18094004198210983": [
-   "pelo menos os",
-   "pior q tem",
-   "os dois ja",
-   "o date foi",
-   "entao voce tambem"
-  ],
   "18096884879660620": [
    "oito anos com",
    "quase que o",
@@ -6271,7 +6272,15 @@
    "nao vc pode",
    "incomivel e pouco",
    "saudade mental e",
-   "imortalidade culinaria de"
+   "imortalidade culinaria de",
+   "lasanha com milho",
+   "estrategia de sabotagem",
+   "quase um crime",
+   "padrao de ciumes"
+  ],
+  "18136119379675335": [
+   "e as vezes",
+   "quanto mais especifico"
   ]
  },
  "shopee_checada": "2026-11-16|1",
