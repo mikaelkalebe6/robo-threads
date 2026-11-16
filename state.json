@@ -28,7 +28,8 @@
    "09:33",
    "10:40",
    "11:25",
-   "12:05"
+   "12:05",
+   "13:52"
   ],
   "produtos_feitos": 0,
   "respostas": 5,
@@ -40,23 +41,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18103288532377942",
-   "insp": "25cf5fb448",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: vale mais a pena gastar cinco anos na faculdade chorando em cima de cálculo III ou fazer um curso de 40 horas no YouTube com o coach do foguete e virar herdeiro de dropshipping?",
-   "quando": "2026-11-11T13:07:08.616320-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 278,
-    "likes": 3,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-16"
-   }
-  },
   {
    "id": "18148034998598778",
    "insp": "c05528a8e3",
@@ -1034,6 +1018,14 @@
    "link": "",
    "texto": "Me pegaram falando sozinha no trabalho enquanto discutia em voz alta com a planilha se vale mais a pena pagar o boleto ou fugir pro Uruguai com identidade falsa. O pior não foi ter sido flagrada, foi o chefe concordar comigo e sugerir um esquema de laranja.",
    "quando": "2026-11-16T15:07:18.433073-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18111918469906337",
+   "insp": "9a79b11d92",
+   "link": "",
+   "texto": "Fui na casa do boy novo e a mãe dele serviu um strogonoff com uva passa, milho e azeite de dendê parecendo um ritual macabro, juro pra vocês que meu boleto de 45 reais da terapia nunca foi tão justificado comendo aquilo sorrindo e falando que estava uma delícia. \n\nQual foi a atrocidade culinária que",
+   "quando": "2026-11-16T15:37:24.166728-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4040,7 +4032,6 @@
   "18117133604277693"
  ],
  "hashes": [
-  "633129cc617349f4f0b3ce7aba31df15",
   "a6125a4ebfb4073a715fe342bab83301",
   "8743beeaae6f46ac02f9a86ff79b7c6f",
   "66c9f50512b99d0179ab01c66b9b02d9",
@@ -4239,7 +4230,8 @@
   "c56a265bddccc57211c935307e2565d5",
   "a6d8f12983d59347344b8a649bdffd55",
   "0b51c8f04cc98c2c4eb9cdaa0081c4bc",
-  "700563a645eee9b0259da8fc697e24a5"
+  "700563a645eee9b0259da8fc697e24a5",
+  "c308cb7e8aa96918e4c82e10f3b21264"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4329,7 +4321,6 @@
   "927cd87598": 1791461243.4873743,
   "f16c6c27c0": 1791464840.5570676,
   "9251fb6a0d": 1791468449.4808562,
-  "9a79b11d92": 1791473853.9998388,
   "607a9f8d64": 1791491845.7964373,
   "bcc0c20424": 1791495460.9115326,
   "29649aab34": 1791497253.2238147,
@@ -4650,7 +4641,8 @@
   "41c97f7daf": 1794843453.6286013,
   "d8d17a2688": 1794845257.173013,
   "d3233367fd": 1794848879.5093079,
-  "cadb3d9e75": 1794856058.4282978
+  "cadb3d9e75": 1794856058.4282978,
+  "9a79b11d92": 1794857858.4747362
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
