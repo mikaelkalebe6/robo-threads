@@ -29,9 +29,9 @@
    "10:40"
   ],
   "produtos_feitos": 0,
-  "respostas": 2,
+  "respostas": 3,
   "por_post": {
-   "17998486959052559": 1,
+   "17998486959052559": 2,
    "18171150787465175": 1
   }
  },
@@ -1052,7 +1052,6 @@
   }
  ],
  "respondidos": [
-  "17912445624288449",
   "18285562186295842",
   "18130959568732391",
   "18371769424211453",
@@ -4051,7 +4050,8 @@
   "17884591200572672",
   "18082251728753495",
   "18654325690013592",
-  "17957388801291440"
+  "17957388801291440",
+  "18093760829686287"
  ],
  "hashes": [
   "3374da3c3c15bd2d4ef90a28ca2ca5d5",
@@ -4670,15 +4670,11 @@
  "por_pessoa": {
   "_data": "2026-11-16",
   "f543719bc6": 1,
-  "5a4f6559c6": 1
+  "5a4f6559c6": 1,
+  "3ca1a9f70d": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "milagre e fe combinados faziam o serviço completo kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "literalmente um tanque de guerra com ar condicionado kkk",
    "p": "concorda",
@@ -4823,6 +4819,11 @@
    "t": "essa abordagem direta corta qualquer enrolação kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "artigo de luxo que exige declaração de bens no imposto de renda",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6263,7 +6264,8 @@
    "esse setor ai",
    "eles tao fiscalizando",
    "perigoso esse investimento",
-   "tres anos no"
+   "tres anos no",
+   "artigo de luxo"
   ],
   "18080804558764298": [
    "mudou completamente o"
