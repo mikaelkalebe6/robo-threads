@@ -30,7 +30,8 @@
    "11:25",
    "12:05",
    "13:52",
-   "14:44"
+   "14:44",
+   "15:57"
   ],
   "produtos_feitos": 0,
   "respostas": 26,
@@ -43,23 +44,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18113412365203537",
-   "insp": "d6497bdd55",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: a IA da firma já tá escrevendo os e-mails passivo-agressivos por vocês ou vocês ainda perdem tempo fingindo que se importam com as sinergias da semana",
-   "quando": "2026-11-11T15:07:08.023078-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 118,
-    "likes": 1,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-16"
-   }
-  },
   {
    "id": "17916150045505435",
    "insp": "bc90ccda37",
@@ -1019,6 +1003,14 @@
    "link": "",
    "texto": "PESSOAS QUE...: ainda guardam o CD do primeiro videogame achando que o console queimado vai ressuscitar com passe espiritista e água batizada, mas fingem que esquecem o boleto do IPVA vencido no painel do carro só pra não passar raiva sozinha no trânsito. Alguém avisa que nostalgia não paga o tanque",
    "quando": "2026-11-16T16:07:13.259583-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18061572179556122",
+   "insp": "039df70d88",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: esperar guincho na beira da estrada de madrugada é terapia gratuita, só que o terapeuta é um motorista de caminhão comendo coxinha fria que te ouve chorar por causa de boy lixo enquanto o carro fede a óleo queimado.\n\nVocês trocariam o boy ou o carro primeiro?",
+   "quando": "2026-11-16T17:37:07.596660-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4025,7 +4017,6 @@
   "18161121508525325"
  ],
  "hashes": [
-  "8743beeaae6f46ac02f9a86ff79b7c6f",
   "66c9f50512b99d0179ab01c66b9b02d9",
   "a8de56a5d9e3e90bc35ae467d792f910",
   "bfd18b7f37880f55dbd08d82aec21387",
@@ -4224,7 +4215,8 @@
   "0b51c8f04cc98c2c4eb9cdaa0081c4bc",
   "700563a645eee9b0259da8fc697e24a5",
   "c308cb7e8aa96918e4c82e10f3b21264",
-  "765cdafd7111f7d09cd00f39516d0617"
+  "765cdafd7111f7d09cd00f39516d0617",
+  "9534847fbd1b7c966b77fa3a32a63eaf"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4368,7 +4360,6 @@
   "5f95698f56": 1792256892.5006678,
   "cbd68162a7": 1792260488.221213,
   "993899e22c": 1792264088.3358436,
-  "039df70d88": 1792269448.3002117,
   "36557e440f": 1792273052.9622602,
   "2c97391d6e": 1792274863.0839956,
   "f4861a96cb": 1792278445.6304848,
@@ -4635,7 +4626,8 @@
   "d3233367fd": 1794848879.5093079,
   "cadb3d9e75": 1794856058.4282978,
   "9a79b11d92": 1794857858.4747362,
-  "fb4677367c": 1794859696.6385975
+  "fb4677367c": 1794859696.6385975,
+  "039df70d88": 1794865100.0168946
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
