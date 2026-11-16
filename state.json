@@ -26,33 +26,18 @@
   "feitos": [
    "08:24",
    "09:33",
-   "10:40"
+   "10:40",
+   "11:25"
   ],
   "produtos_feitos": 0,
-  "respostas": 3,
+  "respostas": 4,
   "por_post": {
    "17998486959052559": 2,
-   "18171150787465175": 1
+   "18171150787465175": 1,
+   "18137326147667955": 1
   }
  },
  "posts": [
-  {
-   "id": "18354126094248731",
-   "insp": "b5bc8dc34f",
-   "link": "",
-   "texto": "PESSOAS QUE TÊM PET: o cachorro de uma conhecida simplesmente comeu o boleto do IPVA e deixou intacto o carnê da faculdade de direito, acho que o bicho tem senso de prioridade e tá querendo proteger a dona de uma vida sofrida. Qual foi a maior arte que o seu animalzinho já fez para testar sua sanida",
-   "quando": "2026-11-11T08:37:09.547707-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 263,
-    "likes": 3,
-    "replies": 12,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-16"
-   }
-  },
   {
    "id": "18120342413070647",
    "insp": "6e719f8d0f",
@@ -1049,10 +1034,17 @@
    "texto": "VAMOS SER HONESTOS: meu cérebro querendo um celular que faz até pix sozinho e meu bolso implorando para eu voltar pro tijolinho da Nokia que só roda o jogo da cobrinha.",
    "quando": "2026-11-16T12:07:09.319947-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18111720626357971",
+   "insp": "d3233367fd",
+   "link": "",
+   "texto": "SEJAM SINCEROS: na minha família o almoço de domingo só não acaba em tribunal de pequenas causas porque o meu tio prefere fugir pro Paraguai toda vez que o assunto é herança e spoiler de novela turca. Na de vcs o caos familiar envolve qual nível de humilhação pública?",
+   "quando": "2026-11-16T13:07:21.448055-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18285562186295842",
   "18130959568732391",
   "18371769424211453",
   "17994410196042871",
@@ -4051,10 +4043,10 @@
   "18082251728753495",
   "18654325690013592",
   "17957388801291440",
-  "18093760829686287"
+  "18093760829686287",
+  "18121452007996235"
  ],
  "hashes": [
-  "3374da3c3c15bd2d4ef90a28ca2ca5d5",
   "8d4b2fe8daf0a5e822fc0e20fea0f952",
   "633129cc617349f4f0b3ce7aba31df15",
   "a6125a4ebfb4073a715fe342bab83301",
@@ -4253,7 +4245,8 @@
   "7fdd31e782e90c7be8187c674d42abb8",
   "f3b674bb210d76d01843708a3aabca04",
   "c56a265bddccc57211c935307e2565d5",
-  "a6d8f12983d59347344b8a649bdffd55"
+  "a6d8f12983d59347344b8a649bdffd55",
+  "0b51c8f04cc98c2c4eb9cdaa0081c4bc"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4309,7 +4302,6 @@
   "7d6d624d0c": 1791126454.4498146,
   "5d46bb3702": 1791131871.1175742,
   "23a8ecfd7a": 1791137246.3924928,
-  "d3233367fd": 1791140845.51298,
   "dce953f387": 1791142652.6592295,
   "c638d9ff81": 1791148042.25671,
   "c5cc27e19f": 1791151645.7283194,
@@ -4664,22 +4656,19 @@
   "bc64a2ff13": 1794793096.7968543,
   "08c5fced1d": 1794839889.979296,
   "41c97f7daf": 1794843453.6286013,
-  "d8d17a2688": 1794845257.173013
+  "d8d17a2688": 1794845257.173013,
+  "d3233367fd": 1794848879.5093079
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-11-16",
   "f543719bc6": 1,
   "5a4f6559c6": 1,
-  "3ca1a9f70d": 1
+  "3ca1a9f70d": 1,
+  "9c9ed7acc0": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "literalmente um tanque de guerra com ar condicionado kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "vinte anos de mansão isolada é para poucos, respeito a escolha kkk",
    "p": "concorda",
@@ -4824,6 +4813,11 @@
    "t": "artigo de luxo que exige declaração de bens no imposto de renda",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "verdade, o simples tem seu charme kkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6131,12 +6125,6 @@
   }
  ],
  "aberturas_post": {
-  "18042919802842058": [
-   "renk renk so",
-   "essa parte ai",
-   "eita ja deixei",
-   "agora fiquei com"
-  ],
   "18444123814177794": [
    "esse ai vai",
    "alguem precisa mesmo",
@@ -6272,6 +6260,9 @@
   ],
   "18171150787465175": [
    "essa abordagem direta"
+  ],
+  "18137326147667955": [
+   "verdade o simples"
   ]
  },
  "shopee_checada": "2026-11-16|1",
