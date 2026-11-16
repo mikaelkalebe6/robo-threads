@@ -29,7 +29,8 @@
    "17:20",
    "18:28",
    "19:35",
-   "20:41"
+   "20:41",
+   "21:25"
   ],
   "produtos_feitos": 0,
   "respostas": 19,
@@ -48,23 +49,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18126776548905390",
-   "insp": "f9bb6059fa",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: quem acha que futebol de várzea é só chute pra frente nunca passou um domingo de sol na beira do campinho.",
-   "quando": "2026-11-10T14:37:11.428242-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 328,
-    "likes": 8,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 1,
-    "em": "2026-11-15"
-   }
-  },
   {
    "id": "18063738524658947",
    "insp": "cd232d0d3c",
@@ -997,6 +981,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: o ser humano que chega na balada falando que tem carro financiado em sessenta vezes e o IPVA atrasado acha que tá vendendo um Corolla ou um passe livre pro inferno astral? O pior é que a criatura ainda lança um \"mas o ar condicionado gela\", meu anjo, o único gelo aqui vai ser o da mi",
    "quando": "2026-11-15T21:07:08.484925-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18080804558764298",
+   "insp": "bc64a2ff13",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: o namorado da minha amiga foi descoberto jogando Habbo Hotel escondido às três da manhã e agora ela tá achando que é vício em jogo de azar, mas a única aposta ali era tentar conseguir um tapete de dragão sem gastar o VR. Vocês acham que isso é motivo pra terapia de casal ou ela só de",
+   "quando": "2026-11-15T21:37:11.348039-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4003,7 +3995,6 @@
   "17884591200572672"
  ],
  "hashes": [
-  "51aff792ed037fd4ec8779bba7dc3846",
   "e468ed9bbf3a1937b59dd9f4f3538a84",
   "055788945327645dff7e114b5ba4f840",
   "8860fe03c816adb9d8edf61b95ac537d",
@@ -4202,7 +4193,8 @@
   "03765c3036d308e76d2d46fed6f624d0",
   "72b89b740e61e59a50ab565e2d903a49",
   "53f8e65d19fa624d7ba13f4de1225a96",
-  "c8163640e5a6741900b896e684e54482"
+  "c8163640e5a6741900b896e684e54482",
+  "7fdd31e782e90c7be8187c674d42abb8"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4280,7 +4272,6 @@
   "20c7cdebe0": 1791326248.2575233,
   "5a57ea2b34": 1791329841.1190572,
   "40b922d817": 1791337109.1160452,
-  "bc64a2ff13": 1791338847.1850562,
   "e69b61516f": 1791376726.9967973,
   "fb0beb9a45": 1791380300.4169106,
   "bf83cca91b": 1791383893.0639527,
@@ -4613,7 +4604,8 @@
   "fb72b5075b": 1794782292.5138488,
   "3d5b6c562f": 1794784094.3589349,
   "828a5aba09": 1794785891.6323524,
-  "a0d83e5ad4": 1794791261.3017795
+  "a0d83e5ad4": 1794791261.3017795,
+  "bc64a2ff13": 1794793096.7968543
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
