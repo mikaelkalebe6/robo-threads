@@ -32,37 +32,21 @@
    "13:52",
    "14:44",
    "15:57",
-   "17:32"
+   "17:32",
+   "16:40"
   ],
   "produtos_feitos": 0,
-  "respostas": 32,
+  "respostas": 40,
   "por_post": {
    "17998486959052559": 2,
    "18171150787465175": 1,
    "18137326147667955": 1,
    "18111720626357971": 1,
-   "18111918469906337": 25,
+   "18111918469906337": 33,
    "18136119379675335": 2
   }
  },
  "posts": [
-  {
-   "id": "17916150045505435",
-   "insp": "bc90ccda37",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a pessoa me chama pro rolê e eu respondo que o gato da minha vizinha teve crise de ansiedade e eu preciso segurar a patinha dele pra acalmar. Aí a pessoa me manda áudio de 4 minutos dizendo que entende porque o pet é sagrado, mas na verdade eu só tô deitada no escuro comendo Doritos ",
-   "quando": "2026-11-11T17:07:10.414378-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 249,
-    "likes": 8,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-16"
-   }
-  },
   {
    "id": "18126774545303649",
    "insp": "ef980ef49f",
@@ -1014,23 +998,17 @@
    "texto": "OPINIÃO IMPOPULAR: esperar guincho na beira da estrada de madrugada é terapia gratuita, só que o terapeuta é um motorista de caminhão comendo coxinha fria que te ouve chorar por causa de boy lixo enquanto o carro fede a óleo queimado.\n\nVocês trocariam o boy ou o carro primeiro?",
    "quando": "2026-11-16T17:37:07.596660-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17891187162478769",
+   "insp": "20c7cdebe0",
+   "link": "",
+   "texto": "Elevador lotado, 7º andar, silêncio mortal… Eu finjo que estou em uma ligação urgente com o suporte da Netflix, mas na verdade estou negociando com o boleto que ainda não pagou a conta de luz. Quando o colega de trabalho tenta puxar papo, eu dou aquela cara de “só o Wi‑Fi da minha vida que tá travad",
+   "quando": "2026-11-16T19:37:07.947464-04:00",
+   "ia": "Groq openai/gpt-oss-120b"
   }
  ],
  "respondidos": [
-  "18124716680304280",
-  "18125834260872272",
-  "18446408182122492",
-  "18125438666479042",
-  "18066445352607046",
-  "18354522328223193",
-  "17950730259320342",
-  "17949221112341418",
-  "18097142009400651",
-  "17946641670069625",
-  "17907155481334058",
-  "17890372191683173",
-  "18249620716308978",
-  "17959361970240032",
   "17930490885162037",
   "17947084653300741",
   "18105051617195851",
@@ -4016,10 +3994,23 @@
   "18137305345675747",
   "17947310217379215",
   "18083934977538770",
-  "17904844902674390"
+  "17904844902674390",
+  "18081765842751830",
+  "17881623024635504",
+  "18117817661329292",
+  "17993086590115577",
+  "18127595069291223",
+  "17883093588553334",
+  "18101433152234686",
+  "17949963429359394",
+  "18170017138477301",
+  "18134503249692179",
+  "18100600190638284",
+  "17924031279445425",
+  "18125340548058300",
+  "18112341146349823"
  ],
  "hashes": [
-  "66c9f50512b99d0179ab01c66b9b02d9",
   "a8de56a5d9e3e90bc35ae467d792f910",
   "bfd18b7f37880f55dbd08d82aec21387",
   "3c66a4706e32b5e23a33caeffd683852",
@@ -4218,7 +4209,8 @@
   "700563a645eee9b0259da8fc697e24a5",
   "c308cb7e8aa96918e4c82e10f3b21264",
   "765cdafd7111f7d09cd00f39516d0617",
-  "9534847fbd1b7c966b77fa3a32a63eaf"
+  "9534847fbd1b7c966b77fa3a32a63eaf",
+  "e2175af763aa7d028a2f8aeb612bdfdd"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4290,7 +4282,6 @@
   "3effd5124d": 1791310042.3382156,
   "fb886a59a7": 1791315444.3711731,
   "07137399ea": 1791322646.4106162,
-  "20c7cdebe0": 1791326248.2575233,
   "5a57ea2b34": 1791329841.1190572,
   "40b922d817": 1791337109.1160452,
   "e69b61516f": 1791376726.9967973,
@@ -4629,7 +4620,8 @@
   "cadb3d9e75": 1794856058.4282978,
   "9a79b11d92": 1794857858.4747362,
   "fb4677367c": 1794859696.6385975,
-  "039df70d88": 1794865100.0168946
+  "039df70d88": 1794865100.0168946,
+  "20c7cdebe0": 1794872252.8591666
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4664,50 +4656,18 @@
   "636d942e27": 1,
   "ed48303943": 1,
   "b7a2306fa0": 1,
-  "c81e413c95": 1
+  "c81e413c95": 1,
+  "4c95b20c9b": 1,
+  "19c3e1a9de": 1,
+  "613a2b49fb": 1,
+  "2d4422e479": 1,
+  "7b62b6b0db": 1,
+  "671aa7941a": 1,
+  "9db8915496": 1,
+  "f006585a8f": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "artigo de luxo que exige declaração de bens no imposto de renda",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, o simples tem seu charme kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "perdeu a chance de assistir ao vivo mas fica o convite pra próxima briga de final de ano",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "inimiga da paz de espírito e da gastronomia mundial kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "passa no strogonoff é um golpe muito forte na nossa sanidade mental",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "até quem gosta de uva passa tem limite pra tanta ousadia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cada um traça seus limites culinários onde preferir",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse ingrediente aí já vem direto de laboratório secreto kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "cozidos juntos só para testar a nossa paciência com a culinária kkk",
    "p": "concorda",
@@ -4815,6 +4775,46 @@
   },
   {
    "t": "padrão de ciúmes disfarçado de complacência kkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "kkkkk minha sogra já me odeia, mas o strogonoff ainda me salva",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkk 45 reais pra terapia? Só se for terapia de sobrevivência",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkk imagina uva passa com dendê, tipo sobremesa de terror, vc já encarou algo assim?",
+   "p": "neutra",
+   "r": 2
+  },
+  {
+   "t": "isso é terrorismo nutricional de verdade",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "morri com a mortadela na lasanha kkkkkkkkkkkk",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "kkk, isso é fim de mundo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Poxa, bolo gigante de mandioca, ficou em você e no ar por tempo",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "fugir é o instinto mais honesto que existe depois de um jantar desse",
    "p": "concorda",
    "r": 0
   }
@@ -6276,7 +6276,15 @@
    "lasanha com milho",
    "estrategia de sabotagem",
    "quase um crime",
-   "padrao de ciumes"
+   "padrao de ciumes",
+   "minha sogra ja",
+   "45 reais pra",
+   "imagina uva passa",
+   "isso e terrorismo",
+   "morri com a",
+   "isso e fim",
+   "poxa bolo gigante",
+   "fugir e o"
   ],
   "18136119379675335": [
    "e as vezes",
