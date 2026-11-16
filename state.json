@@ -33,7 +33,7 @@
    "21:25"
   ],
   "produtos_feitos": 0,
-  "respostas": 19,
+  "respostas": 20,
   "por_post": {
    "18152771725480497": 1,
    "18438527584199726": 1,
@@ -45,7 +45,8 @@
    "17969002848236768": 1,
    "17952847533299771": 1,
    "17998486959052559": 7,
-   "18139116064630488": 1
+   "18139116064630488": 1,
+   "18080804558764298": 1
   }
  },
  "posts": [
@@ -993,7 +994,6 @@
   }
  ],
  "respondidos": [
-  "18475025179113441",
   "18164082787499947",
   "18107399432266547",
   "17912445624288449",
@@ -3992,7 +3992,8 @@
   "18267451195307817",
   "18139455910726843",
   "18132204724862963",
-  "17884591200572672"
+  "17884591200572672",
+  "18082251728753495"
  ],
  "hashes": [
   "e468ed9bbf3a1937b59dd9f4f3538a84",
@@ -4622,18 +4623,13 @@
   "d9c71d3445": 1,
   "aeef92d7bd": 1,
   "96216a46d9": 1,
-  "f723ff3edd": 1,
+  "f723ff3edd": 2,
   "75f4d3cd0a": 1,
   "b02ac971b4": 1,
   "eadeca0661": 1
  },
  "reservas_checadas": "2026-11-15",
  "ultimas_respostas": [
-  {
-   "t": "estatística puramente realista e difícil de refutar",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse carro virou parte da família de verdade",
    "p": "concorda",
@@ -4778,6 +4774,11 @@
    "t": "perigoso esse investimento na padaria alheia kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "mudou completamente o foco da investigação",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6080,11 +6081,6 @@
   }
  ],
  "aberturas_post": {
-  "18277459723309994": [
-   "verdade quem nunca",
-   "e dinheiro da",
-   "concordo dinheiro e"
-  ],
   "18112357985258185": [
    "nossa tambem ja"
   ],
@@ -6221,6 +6217,9 @@
    "esse setor ai",
    "eles tao fiscalizando",
    "perigoso esse investimento"
+  ],
+  "18080804558764298": [
+   "mudou completamente o"
   ]
  },
  "shopee_checada": "2026-11-15|1",
