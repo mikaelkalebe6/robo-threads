@@ -7,7 +7,6 @@
    "10:40",
    "11:25",
    "12:05",
-   "12:45",
    "13:52",
    "14:44",
    "15:57",
@@ -16,7 +15,8 @@
    "18:25",
    "19:07",
    "20:01",
-   "21:20"
+   "21:20",
+   "22:00"
   ],
   "horarios_produto": [
    "10:40",
@@ -27,7 +27,8 @@
    "08:24",
    "09:33",
    "10:40",
-   "11:25"
+   "11:25",
+   "12:05"
   ],
   "produtos_feitos": 0,
   "respostas": 5,
@@ -39,23 +40,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18120342413070647",
-   "insp": "6e719f8d0f",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: o primeiro encontro começa na velocidade da resposta. A pessoa visualiza, some por 45 minutos pra consultar o comitê de ética dos amigos e ainda me manda um \"olha, a semana tá bem corrida, mas a gente vai falando\". Meu anjo, você não tá gerindo uma crise na Petrobras, só precisa ",
-   "quando": "2026-11-11T10:07:09.835957-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 113,
-    "likes": 2,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-16"
-   }
-  },
   {
    "id": "18103288532377942",
    "insp": "25cf5fb448",
@@ -1042,6 +1026,14 @@
    "link": "",
    "texto": "SEJAM SINCEROS: na minha família o almoço de domingo só não acaba em tribunal de pequenas causas porque o meu tio prefere fugir pro Paraguai toda vez que o assunto é herança e spoiler de novela turca. Na de vcs o caos familiar envolve qual nível de humilhação pública?",
    "quando": "2026-11-16T13:07:21.448055-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17979632273932325",
+   "insp": "cadb3d9e75",
+   "link": "",
+   "texto": "Me pegaram falando sozinha no trabalho enquanto discutia em voz alta com a planilha se vale mais a pena pagar o boleto ou fugir pro Uruguai com identidade falsa. O pior não foi ter sido flagrada, foi o chefe concordar comigo e sugerir um esquema de laranja.",
+   "quando": "2026-11-16T15:07:18.433073-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4048,7 +4040,6 @@
   "18117133604277693"
  ],
  "hashes": [
-  "8d4b2fe8daf0a5e822fc0e20fea0f952",
   "633129cc617349f4f0b3ce7aba31df15",
   "a6125a4ebfb4073a715fe342bab83301",
   "8743beeaae6f46ac02f9a86ff79b7c6f",
@@ -4247,7 +4238,8 @@
   "f3b674bb210d76d01843708a3aabca04",
   "c56a265bddccc57211c935307e2565d5",
   "a6d8f12983d59347344b8a649bdffd55",
-  "0b51c8f04cc98c2c4eb9cdaa0081c4bc"
+  "0b51c8f04cc98c2c4eb9cdaa0081c4bc",
+  "700563a645eee9b0259da8fc697e24a5"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4478,7 +4470,6 @@
   "5760d94547": 1793144294.4001164,
   "3125348bad": 1793153250.330989,
   "0046da4da8": 1793192851.2663953,
-  "cadb3d9e75": 1793201851.7399964,
   "a46755f7b9": 1793207258.8348277,
   "1625f98254": 1793209089.0608096,
   "379a8ce6b4": 1793221687.3524406,
@@ -4658,7 +4649,8 @@
   "08c5fced1d": 1794839889.979296,
   "41c97f7daf": 1794843453.6286013,
   "d8d17a2688": 1794845257.173013,
-  "d3233367fd": 1794848879.5093079
+  "d3233367fd": 1794848879.5093079,
+  "cadb3d9e75": 1794856058.4282978
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
