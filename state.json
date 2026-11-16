@@ -33,13 +33,13 @@
    "14:44"
   ],
   "produtos_feitos": 0,
-  "respostas": 10,
+  "respostas": 26,
   "por_post": {
    "17998486959052559": 2,
    "18171150787465175": 1,
    "18137326147667955": 1,
    "18111720626357971": 1,
-   "18111918469906337": 5
+   "18111918469906337": 21
   }
  },
  "posts": [
@@ -1023,24 +1023,6 @@
   }
  ],
  "respondidos": [
-  "17882401620528736",
-  "17910666384472375",
-  "18634231150001602",
-  "18082609676354248",
-  "17993526770848654",
-  "18152200825545667",
-  "18216327700348306",
-  "18128764084695311",
-  "18146429128601171",
-  "17968129772965672",
-  "18127328218894341",
-  "18129286489804627",
-  "18073708181758166",
-  "18131586040669632",
-  "18130403023786174",
-  "17905576005591604",
-  "18135404254644280",
-  "17953729452257070",
   "17899567935601503",
   "17981337519106394",
   "18066490835784155",
@@ -4022,7 +4004,25 @@
   "17894370201618634",
   "18083943821722035",
   "18118300379044557",
-  "17958153354295792"
+  "17958153354295792",
+  "18161234029510290",
+  "17956154178293239",
+  "18126095077938324",
+  "18187542475426979",
+  "17931405138186030",
+  "18137777746738663",
+  "18159425293524326",
+  "18115322929869420",
+  "18085733804533810",
+  "18192582670408061",
+  "18075660530784401",
+  "18120741292804056",
+  "18073336157797837",
+  "18040023920889648",
+  "17941909728406557",
+  "18129816223925708",
+  "18112074082933873",
+  "18161121508525325"
  ],
  "hashes": [
   "8743beeaae6f46ac02f9a86ff79b7c6f",
@@ -4649,90 +4649,25 @@
   "460cb883df": 1,
   "16c6cbdc41": 1,
   "0ce3120b7d": 1,
-  "66c99dd4aa": 1
+  "66c99dd4aa": 1,
+  "d83637d2f9": 1,
+  "7765e44094": 1,
+  "5c1fa323fc": 1,
+  "de718a1277": 1,
+  "b17e76ce1c": 1,
+  "86346748ed": 1,
+  "935d67fc6f": 1,
+  "b8030709b6": 1,
+  "e466c87e04": 1,
+  "ff71844d99": 1,
+  "01af5a7598": 2,
+  "647e23638b": 1,
+  "ae1e87ae98": 1,
+  "0581534094": 1,
+  "8def7eee2a": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "estratégia brilhante e totalmente sem falhas kkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "com boa companhia o destino é o que menos importa kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sobreviveu a tudo que é desaforo e ainda pedia mais kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "gerando renda passiva no cassino da esquina kkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "prioridade de gente adulta que tem compromisso com o futuro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "água de aeroporto deveria vir com laudo médico pelo preço",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "mãe em estado de alerta máximo é um evento canonico perigoso kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pior que é a mais pura verdade, o caos tem dessas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pesado demais, livramento disfarçado de pior escolha",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "esse aeroporto é um universo paralelo onde qualquer lanche custa um rim",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tapete de grama sintética na sala é o limite que a sociedade ultrapassou",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse sim é o verdadeiro ouro vermelho hoje em dia kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "descobriu meu plano de dominação mundial através da panificação",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "contexto internacional pesado interferindo diretamente no café da manhã",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "esse emprego misterioso aí parece lucrativo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "esse setor aí tá operando com orçamento de multinacional kkkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
   {
    "t": "eles tão fiscalizando até o tamanho da baguete agora kkkk",
    "p": "concorda",
@@ -4802,6 +4737,86 @@
    "t": "esse ingrediente aí já vem direto de laboratório secreto kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "cozidos juntos só para testar a nossa paciência com a culinária kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "tem gente que defende essa causa com a vida inteira",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "socorro, o clima pesou aí também",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "já veio com mensagem subliminar embutida no prato kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "limite perfeitamente aceitável nesse tipo de caos culinário",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "era frango mas o gosto tava bem distante de qualquer coisa normal",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "investimento alto mas necessário para a saúde mental",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "defesa totalmente válida para salvar o paladar e evitar o conflito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "milho nessa receita deveria ser considerado crime inafiançável",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Entendo, vegetarianas também merecem drama de strogonoff, kkk 🙏🏼",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "sorte a sua por viver em um lugar onde a gastronomia ainda faz sentido",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "respeito a sinceridade",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "não, vc pode recusar sem drama kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "incomível é pouco pro estrago que fizeram com a receita original",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "saudade mental é prioridade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "imortalidade culinária de vc é invejável kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6248,7 +6263,23 @@
    "passa no strogonoff",
    "ate quem gosta",
    "cada um traca",
-   "esse ingrediente ai"
+   "esse ingrediente ai",
+   "cozidos juntos so",
+   "tem gente que",
+   "socorro o clima",
+   "ja veio com",
+   "limite perfeitamente aceitavel",
+   "era frango mas",
+   "investimento alto mas",
+   "defesa totalmente valida",
+   "milho nessa receita",
+   "entendo vegetarianas tambem",
+   "sorte a sua",
+   "respeito a sinceridade",
+   "nao vc pode",
+   "incomivel e pouco",
+   "saudade mental e",
+   "imortalidade culinaria de"
   ]
  },
  "shopee_checada": "2026-11-16|1",
