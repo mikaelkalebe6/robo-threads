@@ -33,37 +33,21 @@
    "14:44",
    "15:57",
    "17:32",
-   "16:40"
+   "16:40",
+   "18:25"
   ],
   "produtos_feitos": 0,
-  "respostas": 40,
+  "respostas": 52,
   "por_post": {
    "17998486959052559": 2,
    "18171150787465175": 1,
    "18137326147667955": 1,
    "18111720626357971": 1,
-   "18111918469906337": 33,
+   "18111918469906337": 45,
    "18136119379675335": 2
   }
  },
  "posts": [
-  {
-   "id": "18126774545303649",
-   "insp": "ef980ef49f",
-   "link": "",
-   "texto": "Gente, encontro bom de verdade é aquele que o papo tá tão bom que você só percebe que passou das horas quando o Uber avisa que a taxa dinâmica subiu o preço de um rim e o garçom começa a apagar as luzes do restaurante com você ainda mastigando o guardanapo. \n\nVocês também ficam cegas ou sou só eu qu",
-   "quando": "2026-11-11T18:07:08.467630-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 164,
-    "likes": 2,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-16"
-   }
-  },
   {
    "id": "18453362791120072",
    "insp": "f784c8426a",
@@ -1006,22 +990,17 @@
    "texto": "Elevador lotado, 7º andar, silêncio mortal… Eu finjo que estou em uma ligação urgente com o suporte da Netflix, mas na verdade estou negociando com o boleto que ainda não pagou a conta de luz. Quando o colega de trabalho tenta puxar papo, eu dou aquela cara de “só o Wi‑Fi da minha vida que tá travad",
    "quando": "2026-11-16T19:37:07.947464-04:00",
    "ia": "Groq openai/gpt-oss-120b"
+  },
+  {
+   "id": "18077386775780157",
+   "insp": "8bcb7cd8a4",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual foi o pior conselho que te deram quando você virou pai ou mãe? porque me mandaram comprar um chiqueirinho e agora meu filho tem mais estilo que eu, vive de terno e cobra aluguel do meu quarto",
+   "quando": "2026-11-16T20:07:08.651454-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17930490885162037",
-  "17947084653300741",
-  "18105051617195851",
-  "18109475369522279",
-  "18108779732607173",
-  "18116872283098880",
-  "18468946801190263",
-  "18093767927555938",
-  "17870848569643651",
-  "18102706781458185",
-  "18088632998256233",
-  "18042446339837215",
-  "18344637925249177",
   "18128474335845298",
   "18033559109667616",
   "18441580993133793",
@@ -4008,10 +3987,22 @@
   "18100600190638284",
   "17924031279445425",
   "18125340548058300",
-  "18112341146349823"
+  "18112341146349823",
+  "18407491357200558",
+  "18383254183242583",
+  "17968513172982459",
+  "18054330962604631",
+  "18033060707688356",
+  "17917337331555512",
+  "17993933067073610",
+  "18119822654043418",
+  "18118610045521734",
+  "18103468010416581",
+  "18484366657118470",
+  "17999737953022413",
+  "18083877950722547"
  ],
  "hashes": [
-  "a8de56a5d9e3e90bc35ae467d792f910",
   "bfd18b7f37880f55dbd08d82aec21387",
   "3c66a4706e32b5e23a33caeffd683852",
   "889c3c9cb28e8a0cab64cb763be58c5f",
@@ -4210,7 +4201,8 @@
   "c308cb7e8aa96918e4c82e10f3b21264",
   "765cdafd7111f7d09cd00f39516d0617",
   "9534847fbd1b7c966b77fa3a32a63eaf",
-  "e2175af763aa7d028a2f8aeb612bdfdd"
+  "e2175af763aa7d028a2f8aeb612bdfdd",
+  "a03ade98adbfdafaabb637967fa8055f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4330,7 +4322,6 @@
   "e55cc2488b": 1791835650.942528,
   "834ef38ad5": 1791839248.1884155,
   "c256239fef": 1791853676.4890728,
-  "8bcb7cd8a4": 1791855449.7577894,
   "1ad1290613": 1791914896.075832,
   "54cb923235": 1791925655.3801472,
   "c192019942": 1791943733.6456878,
@@ -4621,7 +4612,8 @@
   "9a79b11d92": 1794857858.4747362,
   "fb4677367c": 1794859696.6385975,
   "039df70d88": 1794865100.0168946,
-  "20c7cdebe0": 1794872252.8591666
+  "20c7cdebe0": 1794872252.8591666,
+  "8bcb7cd8a4": 1794874093.9189005
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4664,70 +4656,22 @@
   "7b62b6b0db": 1,
   "671aa7941a": 1,
   "9db8915496": 1,
-  "f006585a8f": 1
+  "f006585a8f": 1,
+  "b309368098": 1,
+  "6ca1703f7f": 1,
+  "1c804a35d3": 1,
+  "2306f6eeef": 1,
+  "4ec8ea3de0": 1,
+  "522a7898a3": 1,
+  "4f89315f98": 1,
+  "94ce7ccea2": 1,
+  "c16b7f0e15": 1,
+  "6d7c0bcc6a": 1,
+  "3138437ac8": 1,
+  "ef1651adad": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "cozidos juntos só para testar a nossa paciência com a culinária kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "tem gente que defende essa causa com a vida inteira",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "socorro, o clima pesou aí também",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "já veio com mensagem subliminar embutida no prato kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "limite perfeitamente aceitável nesse tipo de caos culinário",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "era frango mas o gosto tava bem distante de qualquer coisa normal",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "investimento alto mas necessário para a saúde mental",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "defesa totalmente válida para salvar o paladar e evitar o conflito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "milho nessa receita deveria ser considerado crime inafiançável",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Entendo, vegetarianas também merecem drama de strogonoff, kkk 🙏🏼",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "sorte a sua por viver em um lugar onde a gastronomia ainda faz sentido",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "respeito a sinceridade",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "não, vc pode recusar sem drama kkk",
    "p": "concorda",
@@ -4817,6 +4761,66 @@
    "t": "fugir é o instinto mais honesto que existe depois de um jantar desse",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "cliente que oferece brinde perigoso merece um oscar de coragem",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sobrevivência extrema ao prato alheio",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "misturar uva passa com arroz e feijão já é ousadia, mas guacamole junto é um evento histórico kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "terrorismo culinário completo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "depois dessa qualquer outra atrocidade entra como prato gourmet kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "estômago de ferro é um privilégio para poucos",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pura crueldade em forma de prato salgado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "tentativa de homicídio culinário em pleno século vinte e um",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "defesa totalmente justa e necessária para a saúde mental",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esse cardápio foi um teste físico disfarçado de jantar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Azeite de dendê realmente transforma tudo em missão impossível kkk 😅",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Acho que o kibe salvou seu dia, kkk mas ainda sinto dor da enxaqueca 😭",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6284,7 +6288,19 @@
    "morri com a",
    "isso e fim",
    "poxa bolo gigante",
-   "fugir e o"
+   "fugir e o",
+   "cliente que oferece",
+   "sobrevivencia extrema ao",
+   "misturar uva passa",
+   "terrorismo culinario completo",
+   "depois dessa qualquer",
+   "estomago de ferro",
+   "pura crueldade em",
+   "tentativa de homicidio",
+   "defesa totalmente justa",
+   "esse cardapio foi",
+   "azeite de dende",
+   "acho que o"
   ],
   "18136119379675335": [
    "e as vezes",
