@@ -36,7 +36,8 @@
    "16:40",
    "18:25",
    "20:01",
-   "19:07"
+   "19:07",
+   "21:20"
   ],
   "produtos_feitos": 0,
   "respostas": 67,
@@ -50,23 +51,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18131101210849673",
-   "insp": "36df8573cc",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: pra quem trabalha em casa, como vocês separam trabalho e vida pessoal? Porque eu acabei de mandar um \"segue o boleto em anexo, beijos\" pra minha sogra no grupo da família.",
-   "quando": "2026-11-12T09:07:08.967308-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 322,
-    "likes": 5,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-16"
-   }
-  },
   {
    "id": "18113350808614874",
    "insp": "f505b6ba89",
@@ -991,20 +975,17 @@
    "texto": "OPINIÃO IMPOPULAR: Ouvir Luan Santana no talo no trânsito às sete da manhã deveria contar como terapia gratuita pelo SUS. O problema não é gostar, o problema é o algoritmo da minha vida me expor desse jeito. Qual música duvidosa você escuta escondido rezando pro bluetooth não conectar na JBL da famí",
    "quando": "2026-11-16T21:37:08.290805-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18018279020755623",
+   "insp": "53abd8941d",
+   "link": "",
+   "texto": "SEM MENTIR: qual foi a mentira mais boba que você já contou pra sair mais cedo do trabalho? Eu jurei que o meu botijão de gás tinha empacotado e que a minha avó precisava de mim para reanimar o eletrodoméstico com respiração boca a boca. O pior é que o chefe acreditou e ainda me mandou desejar força",
+   "quando": "2026-11-16T22:37:08.180694-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18008603897987982",
-  "18118527350286917",
-  "17964541079982810",
-  "18177920275429006",
-  "18092360942465211",
-  "18119340877985493",
-  "17905893042665725",
-  "18132285799706707",
-  "18131179984774283",
-  "18126233719920438",
-  "18076798595427804",
   "18170436811461799",
   "18095905604670556",
   "17933153307147061",
@@ -3993,10 +3974,20 @@
   "17866842312696002",
   "18122104736051126",
   "18100801277446507",
-  "17922555477525503"
+  "17922555477525503",
+  "18105196502383195",
+  "17894140428453703",
+  "18120966803102128",
+  "17977957157942468",
+  "18119001851323499",
+  "17959739238274371",
+  "18034178342880129",
+  "18121082386995660",
+  "18039286025891591",
+  "17916959712555909",
+  "18161548090514201"
  ],
  "hashes": [
-  "3c66a4706e32b5e23a33caeffd683852",
   "889c3c9cb28e8a0cab64cb763be58c5f",
   "8e3a4a40bf72d04d47e5bf2f7db150de",
   "cde85533a7b95ccb3e43688a87af64d7",
@@ -4195,7 +4186,8 @@
   "9534847fbd1b7c966b77fa3a32a63eaf",
   "e2175af763aa7d028a2f8aeb612bdfdd",
   "a03ade98adbfdafaabb637967fa8055f",
-  "463c2dd36e8a32670d1cdd1ffca0e783"
+  "463c2dd36e8a32670d1cdd1ffca0e783",
+  "c0634cc426855ae944980565baaf0ccf"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4320,7 +4312,6 @@
   "c192019942": 1791943733.6456878,
   "fb3aa2715c": 1791979648.075333,
   "e849a7e6a9": 1791985050.7143126,
-  "53abd8941d": 1792004840.696338,
   "89cdd01f02": 1792006647.4343123,
   "613abd5c08": 1792067892.1591535,
   "574b51f445": 1792084092.8612313,
@@ -4606,7 +4597,8 @@
   "039df70d88": 1794865100.0168946,
   "20c7cdebe0": 1794872252.8591666,
   "8bcb7cd8a4": 1794874093.9189005,
-  "e6b297b654": 1794879495.3674445
+  "e6b297b654": 1794879495.3674445,
+  "53abd8941d": 1794883050.7321832
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
