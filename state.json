@@ -37,16 +37,17 @@
    "18:25",
    "20:01",
    "19:07",
-   "21:20"
+   "21:20",
+   "22:00"
   ],
   "produtos_feitos": 0,
-  "respostas": 67,
+  "respostas": 79,
   "por_post": {
    "17998486959052559": 2,
    "18171150787465175": 1,
    "18137326147667955": 1,
    "18111720626357971": 1,
-   "18111918469906337": 60,
+   "18111918469906337": 72,
    "18136119379675335": 2
   }
  },
@@ -986,18 +987,6 @@
   }
  ],
  "respondidos": [
-  "18170436811461799",
-  "18095905604670556",
-  "17933153307147061",
-  "17988108786112026",
-  "18052298342663530",
-  "18090620372669500",
-  "18138372004621095",
-  "18591847186066801",
-  "18146289970559561",
-  "18032139278911055",
-  "18013945619977490",
-  "17936421459399855",
   "18122019559936359",
   "18142247356591873",
   "18348406033264093",
@@ -3985,7 +3974,19 @@
   "18121082386995660",
   "18039286025891591",
   "17916959712555909",
-  "18161548090514201"
+  "18161548090514201",
+  "18081815093552050",
+  "18192647074404713",
+  "17968350317982947",
+  "18105195020167444",
+  "18641874448036779",
+  "18134483131781022",
+  "18099786623439266",
+  "18057681341589942",
+  "17984095059122065",
+  "17904325683609259",
+  "18181306561386313",
+  "17876349090639256"
  ],
  "hashes": [
   "889c3c9cb28e8a0cab64cb763be58c5f",
@@ -4668,70 +4669,22 @@
   "5b9b7a2452": 1,
   "91648683df": 1,
   "ba3800bcdb": 1,
-  "8ee6819299": 1
+  "8ee6819299": 1,
+  "72faf747f8": 1,
+  "cdc2c495d6": 1,
+  "68d1afc522": 1,
+  "941b4d1ae2": 1,
+  "597f7078cc": 1,
+  "317ae58159": 1,
+  "b8e12888bc": 1,
+  "74b4407532": 1,
+  "265d63632b": 1,
+  "41b8f3126f": 1,
+  "7db2aadc1c": 1,
+  "53fd607bf2": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "kkk, isso é fim de mundo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Poxa, bolo gigante de mandioca, ficou em você e no ar por tempo",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "fugir é o instinto mais honesto que existe depois de um jantar desse",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cliente que oferece brinde perigoso merece um oscar de coragem",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "sobrevivência extrema ao prato alheio",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "misturar uva passa com arroz e feijão já é ousadia, mas guacamole junto é um evento histórico kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "terrorismo culinário completo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "depois dessa qualquer outra atrocidade entra como prato gourmet kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "estômago de ferro é um privilégio para poucos",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pura crueldade em forma de prato salgado",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "tentativa de homicídio culinário em pleno século vinte e um",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "defesa totalmente justa e necessária para a saúde mental",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse cardápio foi um teste físico disfarçado de jantar",
    "p": "concorda",
@@ -4821,6 +4774,66 @@
    "t": "respeito vc, ninguém tem que forçar o paladar kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "olho de cozinha ou de peixe pq o estrago parece grande kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "passas no cachorro quente já é ousadia, mas no strogonoff cruzou a linha da civilização kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "certamente foi trabalho pesado para garantir o relacionamento kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "voltar tudo foi o mínimo depois de um roteiro desse",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "estratégia de sobrevivência familiar em nível avançado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "foi exatamente a vibe que passou na hora kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "prato exótico é pouco, aquilo pedia um exorcista kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "acreditou direitinho, quem sou eu pra estragar a ilusão da sogra kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "fingir demencia nessa hora é habilidade de sobrevivência pura kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "clinica social não resolve o trauma de ver strogonoff com uva passa e azeite de dende",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "farinha crua com carne de porco sem tempero é um combo de respeito hein kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "justo, melhor passar longe do que inventar moda",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6315,7 +6328,19 @@
    "preparacao completa para",
    "pescoco de frango",
    "feijao doce na",
-   "respeito vc ninguem"
+   "respeito vc ninguem",
+   "olho de cozinha",
+   "passas no cachorro",
+   "certamente foi trabalho",
+   "voltar tudo foi",
+   "estrategia de sobrevivencia",
+   "foi exatamente a",
+   "prato exotico e",
+   "acreditou direitinho quem",
+   "fingir demencia nessa",
+   "clinica social nao",
+   "farinha crua com",
+   "justo melhor passar"
   ],
   "18136119379675335": [
    "e as vezes",
