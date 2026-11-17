@@ -17,33 +17,18 @@
   "feitos": [
    "08:53",
    "09:57",
-   "13:23"
+   "13:23",
+   "14:34"
   ],
-  "produtos_feitos": 1,
-  "respostas": 25,
+  "produtos_feitos": 2,
+  "respostas": 26,
   "por_post": {
    "18111918469906337": 24,
-   "18136119379675335": 1
+   "18136119379675335": 1,
+   "18025514525927282": 1
   }
  },
  "posts": [
-  {
-   "id": "17871445599662545",
-   "insp": "20b4497ce2",
-   "link": "",
-   "texto": "PESSOAS QUE TÊM FILHOS: qual foi o dia exato em que o dinheiro da sua rescisão foi parar na conta do TikTok de uma cririança de quatro anos que ensina a fazer slime com clara de ovo e cola tenax?",
-   "quando": "2026-11-12T13:37:11.346280-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 316,
-    "likes": 2,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-17"
-   }
-  },
   {
    "id": "18042919802842058",
    "insp": "e38b1c2eb7",
@@ -901,7 +886,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
+   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
   },
   {
    "id": "18111918469906337",
@@ -942,7 +927,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
+   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
   },
   {
    "id": "18061572179556122",
@@ -960,7 +945,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
+   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
   },
   {
    "id": "17891187162478769",
@@ -978,7 +963,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
+   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
   },
   {
    "id": "18077386775780157",
@@ -996,7 +981,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
+   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
   },
   {
    "id": "18025514525927282",
@@ -1014,7 +999,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
+   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
   },
   {
    "id": "18018279020755623",
@@ -1032,7 +1017,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
+   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
   },
   {
    "id": "18095465699675445",
@@ -1041,7 +1026,7 @@
    "texto": "OPINIÃO IMPOPULAR: Falar mal de futebol de várzea é pra quem nunca viu o zagueiro Clodoaldo resolver uma DR de divórcio no meio de um lateral e ainda fazer gol de bicicleta. O cara joga de cigarro atrás da orelha e chuteira 37 num pé 42. Respeita a elite. Qual foi a cena mais caótica que você já viu",
    "quando": "2026-11-17T09:07:09.058687-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
+   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
   },
   {
    "id": "18107444138377277",
@@ -1071,11 +1056,30 @@
    "texto": "VAMOS SER HONESTOS: qual foi o gasto surpresa com bicho que quase te fez financiar o gato em trinta e seis vezes no carnê da casas bahia porque o infeliz decidiu que só comeria ração com selo de aprovação do papa",
    "quando": "2026-11-17T14:07:09.837468-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
+   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
+  },
+  {
+   "id": "18114486605614841",
+   "insp": "prod_23993565028",
+   "link": "",
+   "texto": "Cansada de celular caindo no chão do carro toda vez que passo em lombada. Descobri esse suporte veicular com trava automática que segura o aparelho firme sem precisar ficar ajeitando toda hora. Olha como funciona 👀",
+   "quando": "2026-11-17T14:37:09.637951-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "23993565028",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "23993565028",
+    "nome": "Suporte Celular Carro Veicular Trava Automática anti queda",
+    "offerLink": "https://s.shopee.com.br/6L657tto0h",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3m7hftjtxp779",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
-  "18130595653705478",
   "18097269242450585",
   "18642514159062732",
   "18115477408964736",
@@ -4074,7 +4078,8 @@
   "18101954108082080",
   "18129702376871594",
   "18156311776531439",
-  "17977611012183597"
+  "17977611012183597",
+  "18347098411258805"
  ],
  "hashes": [
   "cde85533a7b95ccb3e43688a87af64d7",
@@ -4714,15 +4719,11 @@
   "41cca95da8": 1,
   "464686fa02": 1,
   "44c01f0135": 1,
-  "285473ba58": 1
+  "285473ba58": 1,
+  "5a4f6559c6": 1
  },
  "reservas_checadas": "2026-11-17",
  "ultimas_respostas": [
-  {
-   "t": "mingau de água de salsicha com certeza supera todos os limites da culinária kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "quem tem paladar fresco sofre demais nessas horas",
    "p": "concorda",
@@ -4865,6 +4866,11 @@
   },
   {
    "t": "essa mãe tinha certeza do que estava fazendo, o prato era maldito mesmo kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "investimento de respeito testado com sucesso no Luan Santana kkkkkk",
    "p": "concorda",
    "r": 2
   }
@@ -6184,17 +6190,6 @@
   }
  ],
  "aberturas_post": {
-  "18096884879660620": [
-   "oito anos com",
-   "quase que o",
-   "o problema e",
-   "cor da pele",
-   "a mente da",
-   "perfeito o problema",
-   "quase um teste",
-   "o pior e",
-   "esse e o"
-  ],
   "18063130034642069": [
    "viagem com quem"
   ],
@@ -6417,6 +6412,9 @@
    "e as vezes",
    "quanto mais especifico",
    "verdade so um"
+  ],
+  "18025514525927282": [
+   "investimento de respeito"
   ]
  },
  "shopee_checada": "2026-11-17|1",
@@ -6696,7 +6694,7 @@
   "22393525887": "2026-10-11T12:07:09.276302-04:00",
   "58214462678": "2026-10-11T15:37:09.556759-04:00",
   "58204067039": "2026-10-28T10:07:09.225022-04:00",
-  "23993565028": "2026-10-26T18:37:08.130717-04:00",
+  "23993565028": "2026-11-17T14:37:09.637951-04:00",
   "21898099575": "2026-10-27T21:07:08.589314-04:00",
   "58257654101": "2026-10-28T20:07:08.471996-04:00",
   "58250519029": "2026-10-31T12:37:07.469660-04:00",
