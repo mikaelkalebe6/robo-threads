@@ -18,9 +18,9 @@
    "08:53"
   ],
   "produtos_feitos": 0,
-  "respostas": 9,
+  "respostas": 10,
   "por_post": {
-   "18111918469906337": 9
+   "18111918469906337": 10
   }
  },
  "posts": [
@@ -860,7 +860,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+   "viral_chk": "2026-11-17T09:37:08.598713-04:00"
   },
   {
    "id": "18119874185009638",
@@ -878,7 +878,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+   "viral_chk": "2026-11-17T09:37:08.598713-04:00"
   },
   {
    "id": "18137326147667955",
@@ -896,7 +896,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+   "viral_chk": "2026-11-17T09:37:08.598713-04:00"
   },
   {
    "id": "18111720626357971",
@@ -914,7 +914,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+   "viral_chk": "2026-11-17T09:37:08.598713-04:00"
   },
   {
    "id": "17979632273932325",
@@ -932,7 +932,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+   "viral_chk": "2026-11-17T09:37:08.598713-04:00"
   },
   {
    "id": "18111918469906337",
@@ -973,7 +973,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+   "viral_chk": "2026-11-17T09:37:08.598713-04:00"
   },
   {
    "id": "18061572179556122",
@@ -991,7 +991,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+   "viral_chk": "2026-11-17T09:37:08.598713-04:00"
   },
   {
    "id": "17891187162478769",
@@ -1009,7 +1009,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+   "viral_chk": "2026-11-17T09:37:08.598713-04:00"
   },
   {
    "id": "18077386775780157",
@@ -1027,7 +1027,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+   "viral_chk": "2026-11-17T09:37:08.598713-04:00"
   },
   {
    "id": "18025514525927282",
@@ -1045,7 +1045,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+   "viral_chk": "2026-11-17T09:37:08.598713-04:00"
   },
   {
    "id": "18018279020755623",
@@ -1063,7 +1063,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+   "viral_chk": "2026-11-17T09:37:08.598713-04:00"
   },
   {
    "id": "18095465699675445",
@@ -1072,11 +1072,10 @@
    "texto": "OPINIÃO IMPOPULAR: Falar mal de futebol de várzea é pra quem nunca viu o zagueiro Clodoaldo resolver uma DR de divórcio no meio de um lateral e ainda fazer gol de bicicleta. O cara joga de cigarro atrás da orelha e chuteira 37 num pé 42. Respeita a elite. Qual foi a cena mais caótica que você já viu",
    "quando": "2026-11-17T09:07:09.058687-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+   "viral_chk": "2026-11-17T09:37:08.598713-04:00"
   }
  ],
  "respondidos": [
-  "18061659215530449",
   "17981758179065022",
   "18132681914499070",
   "17901097884667621",
@@ -4075,7 +4074,8 @@
   "18131920909883678",
   "17975971503169489",
   "18121517363094905",
-  "18020040017952649"
+  "18020040017952649",
+  "18023377064729062"
  ],
  "hashes": [
   "8e3a4a40bf72d04d47e5bf2f7db150de",
@@ -4700,15 +4700,11 @@
   "b24fdf57e4": 1,
   "f8e6f08104": 1,
   "d61a678a69": 1,
-  "deb366424e": 2
+  "deb366424e": 2,
+  "9328ec251d": 1
  },
  "reservas_checadas": "2026-11-17",
  "ultimas_respostas": [
-  {
-   "t": "passas no cachorro quente já é ousadia, mas no strogonoff cruzou a linha da civilização kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "certamente foi trabalho pesado para garantir o relacionamento kkkkkk",
    "p": "concorda",
@@ -4853,6 +4849,11 @@
    "t": "Pepino na lasanha? acho que a mãe do boy entrou de férias na cozinha kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "Eu também estou com água na boca, impossível resistir kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6388,7 +6389,8 @@
    "prova de fogo",
    "tirar grao por",
    "fruta ja e",
-   "pepino na lasanha"
+   "pepino na lasanha",
+   "eu tambem estou"
   ],
   "18136119379675335": [
    "e as vezes",
