@@ -899,7 +899,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T11:37:09.032486-04:00"
+   "viral_chk": "2026-11-17T12:07:21.145231-04:00"
   },
   {
    "id": "17979632273932325",
@@ -917,7 +917,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T11:37:09.032486-04:00"
+   "viral_chk": "2026-11-17T12:07:21.145231-04:00"
   },
   {
    "id": "18111918469906337",
@@ -958,7 +958,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T11:37:09.032486-04:00"
+   "viral_chk": "2026-11-17T12:07:21.145231-04:00"
   },
   {
    "id": "18061572179556122",
@@ -976,7 +976,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T11:37:09.032486-04:00"
+   "viral_chk": "2026-11-17T12:07:21.145231-04:00"
   },
   {
    "id": "17891187162478769",
@@ -994,7 +994,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T11:37:09.032486-04:00"
+   "viral_chk": "2026-11-17T12:07:21.145231-04:00"
   },
   {
    "id": "18077386775780157",
@@ -1012,7 +1012,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T11:37:09.032486-04:00"
+   "viral_chk": "2026-11-17T12:07:21.145231-04:00"
   },
   {
    "id": "18025514525927282",
@@ -1030,7 +1030,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T11:37:09.032486-04:00"
+   "viral_chk": "2026-11-17T12:07:21.145231-04:00"
   },
   {
    "id": "18018279020755623",
@@ -1048,7 +1048,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T11:37:09.032486-04:00"
+   "viral_chk": "2026-11-17T12:07:21.145231-04:00"
   },
   {
    "id": "18095465699675445",
@@ -1057,7 +1057,7 @@
    "texto": "OPINIÃO IMPOPULAR: Falar mal de futebol de várzea é pra quem nunca viu o zagueiro Clodoaldo resolver uma DR de divórcio no meio de um lateral e ainda fazer gol de bicicleta. O cara joga de cigarro atrás da orelha e chuteira 37 num pé 42. Respeita a elite. Qual foi a cena mais caótica que você já viu",
    "quando": "2026-11-17T09:07:09.058687-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T11:37:09.032486-04:00"
+   "viral_chk": "2026-11-17T12:07:21.145231-04:00"
   },
   {
    "id": "18107444138377277",
@@ -1070,14 +1070,15 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "19098752815",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "19098752815",
     "nome": "Suporte Veicular Carro Para Celular 360 ° Giratório Universal Multifuncional Ventilacao Ar",
     "offerLink": "https://s.shopee.com.br/5VWy8MwyhY",
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljg30etzu9ibac",
     "campanha": ""
-   }
+   },
+   "apagado": true
   }
  ],
  "respondidos": [
