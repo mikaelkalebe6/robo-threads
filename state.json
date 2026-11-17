@@ -19,9 +19,9 @@
    "09:57"
   ],
   "produtos_feitos": 1,
-  "respostas": 11,
+  "respostas": 12,
   "por_post": {
-   "18111918469906337": 11
+   "18111918469906337": 12
   }
  },
  "posts": [
@@ -844,7 +844,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T10:07:07.993973-04:00"
+   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
   },
   {
    "id": "18119874185009638",
@@ -862,7 +862,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T10:07:07.993973-04:00"
+   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
   },
   {
    "id": "18137326147667955",
@@ -880,7 +880,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T10:07:07.993973-04:00"
+   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
   },
   {
    "id": "18111720626357971",
@@ -898,7 +898,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T10:07:07.993973-04:00"
+   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
   },
   {
    "id": "17979632273932325",
@@ -916,7 +916,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T10:07:07.993973-04:00"
+   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
   },
   {
    "id": "18111918469906337",
@@ -957,7 +957,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T10:07:07.993973-04:00"
+   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
   },
   {
    "id": "18061572179556122",
@@ -975,7 +975,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T10:07:07.993973-04:00"
+   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
   },
   {
    "id": "17891187162478769",
@@ -993,7 +993,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T10:07:07.993973-04:00"
+   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
   },
   {
    "id": "18077386775780157",
@@ -1011,7 +1011,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T10:07:07.993973-04:00"
+   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
   },
   {
    "id": "18025514525927282",
@@ -1029,7 +1029,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T10:07:07.993973-04:00"
+   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
   },
   {
    "id": "18018279020755623",
@@ -1047,7 +1047,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T10:07:07.993973-04:00"
+   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
   },
   {
    "id": "18095465699675445",
@@ -1056,7 +1056,7 @@
    "texto": "OPINIÃO IMPOPULAR: Falar mal de futebol de várzea é pra quem nunca viu o zagueiro Clodoaldo resolver uma DR de divórcio no meio de um lateral e ainda fazer gol de bicicleta. O cara joga de cigarro atrás da orelha e chuteira 37 num pé 42. Respeita a elite. Qual foi a cena mais caótica que você já viu",
    "quando": "2026-11-17T09:07:09.058687-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T10:07:07.993973-04:00"
+   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
   },
   {
    "id": "18107444138377277",
@@ -1080,7 +1080,6 @@
   }
  ],
  "respondidos": [
-  "18132681914499070",
   "17901097884667621",
   "18141527833716679",
   "18143722030591102",
@@ -4079,7 +4078,8 @@
   "18121517363094905",
   "18020040017952649",
   "18023377064729062",
-  "18081306860468899"
+  "18081306860468899",
+  "18133371448827556"
  ],
  "hashes": [
   "8e3a4a40bf72d04d47e5bf2f7db150de",
@@ -4706,15 +4706,11 @@
   "d61a678a69": 1,
   "deb366424e": 2,
   "9328ec251d": 1,
-  "06a4bc3ad8": 1
+  "06a4bc3ad8": 1,
+  "c89ea63a23": 1
  },
  "reservas_checadas": "2026-11-17",
  "ultimas_respostas": [
-  {
-   "t": "voltar tudo foi o mínimo depois de um roteiro desse",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "estratégia de sobrevivência familiar em nível avançado",
    "p": "concorda",
@@ -4859,6 +4855,11 @@
    "t": "kkkkk, a sogra virou chef de horror e ainda tem polvo como atração principal 😂",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "esse valor foi a taxa de sobrevivencia emocional mais barata do ano",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6396,7 +6397,8 @@
    "fruta ja e",
    "pepino na lasanha",
    "eu tambem estou",
-   "a sogra virou"
+   "a sogra virou",
+   "esse valor foi"
   ],
   "18136119379675335": [
    "e as vezes",
