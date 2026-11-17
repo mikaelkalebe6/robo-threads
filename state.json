@@ -34,37 +34,22 @@
    "15:57",
    "17:32",
    "16:40",
-   "18:25"
+   "18:25",
+   "20:01",
+   "19:07"
   ],
   "produtos_feitos": 0,
-  "respostas": 52,
+  "respostas": 63,
   "por_post": {
    "17998486959052559": 2,
    "18171150787465175": 1,
    "18137326147667955": 1,
    "18111720626357971": 1,
-   "18111918469906337": 45,
+   "18111918469906337": 56,
    "18136119379675335": 2
   }
  },
  "posts": [
-  {
-   "id": "18453362791120072",
-   "insp": "f784c8426a",
-   "link": "",
-   "texto": "Mandei um \"oi sumido\" pro crush e agora o algoritmo do meu celular tá tão ansioso que a tela tá suando junto comigo. O pior nem é esperar a resposta, é que nesse meio tempo eu já consegui criar o roteiro da nossa festa de casamento, brigar por causa da louça e pedir o divórcio mentalmente.\n\nAlguém m",
-   "quando": "2026-11-11T22:07:09.373201-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 162,
-    "likes": 4,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-16"
-   }
-  },
   {
    "id": "18131101210849673",
    "insp": "36df8573cc",
@@ -998,20 +983,17 @@
    "texto": "DÚVIDA SINCERA: qual foi o pior conselho que te deram quando você virou pai ou mãe? porque me mandaram comprar um chiqueirinho e agora meu filho tem mais estilo que eu, vive de terno e cobra aluguel do meu quarto",
    "quando": "2026-11-16T20:07:08.651454-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18025514525927282",
+   "insp": "e6b297b654",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Ouvir Luan Santana no talo no trânsito às sete da manhã deveria contar como terapia gratuita pelo SUS. O problema não é gostar, o problema é o algoritmo da minha vida me expor desse jeito. Qual música duvidosa você escuta escondido rezando pro bluetooth não conectar na JBL da famí",
+   "quando": "2026-11-16T21:37:08.290805-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18128474335845298",
-  "18033559109667616",
-  "18441580993133793",
-  "18435287542181390",
-  "18344734195248816",
-  "17898019548671603",
-  "18117370250072424",
-  "18061451324566751",
-  "18211122655362907",
-  "18059788817570547",
-  "18127378229488726",
   "18137912656723525",
   "17875382907634337",
   "17949489045325130",
@@ -4000,10 +3982,20 @@
   "18103468010416581",
   "18484366657118470",
   "17999737953022413",
-  "18083877950722547"
+  "18083877950722547",
+  "18660766072019509",
+  "18114718919614467",
+  "18154667704468549",
+  "18084576287409023",
+  "18110255138217948",
+  "18105402323344398",
+  "18079801016446107",
+  "18645110557050713",
+  "18124661336074029",
+  "17915660061564858",
+  "18111394670208005"
  ],
  "hashes": [
-  "bfd18b7f37880f55dbd08d82aec21387",
   "3c66a4706e32b5e23a33caeffd683852",
   "889c3c9cb28e8a0cab64cb763be58c5f",
   "8e3a4a40bf72d04d47e5bf2f7db150de",
@@ -4202,7 +4194,8 @@
   "765cdafd7111f7d09cd00f39516d0617",
   "9534847fbd1b7c966b77fa3a32a63eaf",
   "e2175af763aa7d028a2f8aeb612bdfdd",
-  "a03ade98adbfdafaabb637967fa8055f"
+  "a03ade98adbfdafaabb637967fa8055f",
+  "463c2dd36e8a32670d1cdd1ffca0e783"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4327,7 +4320,6 @@
   "c192019942": 1791943733.6456878,
   "fb3aa2715c": 1791979648.075333,
   "e849a7e6a9": 1791985050.7143126,
-  "e6b297b654": 1791990458.4722366,
   "53abd8941d": 1792004840.696338,
   "89cdd01f02": 1792006647.4343123,
   "613abd5c08": 1792067892.1591535,
@@ -4613,7 +4605,8 @@
   "fb4677367c": 1794859696.6385975,
   "039df70d88": 1794865100.0168946,
   "20c7cdebe0": 1794872252.8591666,
-  "8bcb7cd8a4": 1794874093.9189005
+  "8bcb7cd8a4": 1794874093.9189005,
+  "e6b297b654": 1794879495.3674445
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4668,65 +4661,21 @@
   "c16b7f0e15": 1,
   "6d7c0bcc6a": 1,
   "3138437ac8": 1,
-  "ef1651adad": 1
+  "ef1651adad": 1,
+  "b15cfba357": 1,
+  "cb53b247f3": 1,
+  "60caab1b51": 1,
+  "53fa6c089b": 1,
+  "d13f1d7f91": 1,
+  "50848b4766": 1,
+  "5d5b53fc94": 1,
+  "89573f54a5": 1,
+  "4bb838ec24": 1,
+  "7d706b0735": 1,
+  "b965bbbc88": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "não, vc pode recusar sem drama kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "incomível é pouco pro estrago que fizeram com a receita original",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "saudade mental é prioridade kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "imortalidade culinária de vc é invejável kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "É, às vezes o aleatório surpreende mais que o boleto do IPVA kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quanto mais específico mais dói de verdade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "lasanha com milho estraga qualquer tentativa de jantar em paz",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "estratégia de sabotagem masterclass só pode kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "quase um crime culinario que deveria dar cadeia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "padrão de ciúmes disfarçado de complacência kkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "kkkkk minha sogra já me odeia, mas o strogonoff ainda me salva",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "kkk 45 reais pra terapia? Só se for terapia de sobrevivência",
    "p": "concorda",
@@ -4821,6 +4770,61 @@
    "t": "Acho que o kibe salvou seu dia, kkk mas ainda sinto dor da enxaqueca 😭",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "esse suco tem nome de ingrediente de feitiçaria antiga kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "crime culinário em grau máximo kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "vinho com uva passa flutuando pra garantir o terror natalino completo kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "cuspir sangue alheio no bar da frente de todo mundo é um trauma para a vida inteira kkkkkkkkkkkkk",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "Steak and kidney pie? Parece teste de coragem, kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "autodefesa pura e simples nessas horas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nhoque com molho de salsicha é teste de resistência familiar kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Verdade, parece ritual de filme de terror 😂",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "textura de papel machê molhado é pra acabar com qualquer estômago kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Entendi, cada um tem seu gosto, sem drama com ingredientes 😅",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "o que é isso, terapia de verdade pra 45 reais já seria um milagre kk",
+   "p": "neutra",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6300,7 +6304,18 @@
    "defesa totalmente justa",
    "esse cardapio foi",
    "azeite de dende",
-   "acho que o"
+   "acho que o",
+   "esse suco tem",
+   "crime culinario em",
+   "vinho com uva",
+   "cuspir sangue alheio",
+   "steak and kidney",
+   "autodefesa pura e",
+   "nhoque com molho",
+   "verdade parece ritual",
+   "textura de papel",
+   "entendi cada um",
+   "o que e"
   ],
   "18136119379675335": [
    "e as vezes",
