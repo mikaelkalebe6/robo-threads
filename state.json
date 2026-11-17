@@ -41,13 +41,13 @@
    "22:00"
   ],
   "produtos_feitos": 0,
-  "respostas": 79,
+  "respostas": 89,
   "por_post": {
    "17998486959052559": 2,
    "18171150787465175": 1,
    "18137326147667955": 1,
    "18111720626357971": 1,
-   "18111918469906337": 72,
+   "18111918469906337": 82,
    "18136119379675335": 2
   }
  },
@@ -987,16 +987,6 @@
   }
  ],
  "respondidos": [
-  "18122019559936359",
-  "18142247356591873",
-  "18348406033264093",
-  "17951765046275748",
-  "18089163785690828",
-  "18132046807708489",
-  "17920315014440447",
-  "18107293952186298",
-  "18473937172112029",
-  "18239974690315918",
   "18131588491751100",
   "18494100229099294",
   "18639937366011757",
@@ -3986,7 +3976,17 @@
   "17984095059122065",
   "17904325683609259",
   "18181306561386313",
-  "17876349090639256"
+  "17876349090639256",
+  "17914039320567271",
+  "17996467428059292",
+  "18136280695783858",
+  "18656036698018104",
+  "17993946882119213",
+  "18094266761217602",
+  "17913272013578962",
+  "17993845103860459",
+  "18120306200323006",
+  "18114652040177763"
  ],
  "hashes": [
   "889c3c9cb28e8a0cab64cb763be58c5f",
@@ -4681,60 +4681,20 @@
   "265d63632b": 1,
   "41b8f3126f": 1,
   "7db2aadc1c": 1,
-  "53fd607bf2": 1
+  "53fd607bf2": 1,
+  "b5b39b896d": 1,
+  "570d7f9e81": 1,
+  "23affd90f1": 1,
+  "46fc3eb90f": 1,
+  "4e26e89926": 1,
+  "d28de1b937": 1,
+  "ab3a6e6a9e": 1,
+  "dc41812936": 1,
+  "6095bc23f3": 1,
+  "4608b887a4": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "esse cardápio foi um teste físico disfarçado de jantar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Azeite de dendê realmente transforma tudo em missão impossível kkk 😅",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Acho que o kibe salvou seu dia, kkk mas ainda sinto dor da enxaqueca 😭",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse suco tem nome de ingrediente de feitiçaria antiga kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "crime culinário em grau máximo kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "vinho com uva passa flutuando pra garantir o terror natalino completo kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "cuspir sangue alheio no bar da frente de todo mundo é um trauma para a vida inteira kkkkkkkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
-  {
-   "t": "Steak and kidney pie? Parece teste de coragem, kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "autodefesa pura e simples nessas horas",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nhoque com molho de salsicha é teste de resistência familiar kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Verdade, parece ritual de filme de terror 😂",
    "p": "concorda",
@@ -4834,6 +4794,56 @@
    "t": "justo, melhor passar longe do que inventar moda",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "pudim com coca-cola é mistura de quem já desistiu de lutar contra o caos kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "esse terapeuta deveria estar cobrando o dobro pela paciência q exige",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "essa descrição me deu falta de ar instantânea socorro kkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "estômago passou foi por um processo de habilitação especial kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "sobrevivência extrema né amiga, qualquer passo em falso era fim da linha kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "mingau de água de salsicha com certeza supera todos os limites da culinária kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "quem tem paladar fresco sofre demais nessas horas",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "batata e tomate no strogonoff já é pedir demais da paciência de qualquer um kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "sardinha com macarrão consegue competir feio no ranking de combinacoes que não deveriam existir",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "substituir a bolacha por água e sal é um atentado contra a dignidade do doce kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6340,7 +6350,17 @@
    "fingir demencia nessa",
    "clinica social nao",
    "farinha crua com",
-   "justo melhor passar"
+   "justo melhor passar",
+   "pudim com coca",
+   "esse terapeuta deveria",
+   "essa descricao me",
+   "estomago passou foi",
+   "sobrevivencia extrema ne",
+   "mingau de agua",
+   "quem tem paladar",
+   "batata e tomate",
+   "sardinha com macarrao",
+   "substituir a bolacha"
   ],
   "18136119379675335": [
    "e as vezes",
