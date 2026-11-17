@@ -18,7 +18,8 @@
    "08:53",
    "09:57",
    "13:23",
-   "14:34"
+   "14:34",
+   "18:33"
   ],
   "produtos_feitos": 2,
   "respostas": 28,
@@ -30,23 +31,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18042919802842058",
-   "insp": "e38b1c2eb7",
-   "link": "",
-   "texto": "ME CONTA: qual barulho estranho do seu carro você finge que não está ouvindo porque o som da negação é mais barato que o mecânico? O meu tá parecendo uma escola de samba misturada com espírito chutando o porta-luvas e eu só aumento o rádio fingindo que é a minha intuição mandando eu seguir em frente",
-   "quando": "2026-11-12T14:37:08.807381-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 166,
-    "likes": 2,
-    "replies": 11,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-17"
-   }
-  },
   {
    "id": "18444123814177794",
    "insp": "c422eac36b",
@@ -964,7 +948,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T18:07:09.811893-04:00"
+   "viral_chk": "2026-11-17T18:37:17.356170-04:00"
   },
   {
    "id": "18077386775780157",
@@ -982,7 +966,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T18:07:09.811893-04:00"
+   "viral_chk": "2026-11-17T18:37:17.356170-04:00"
   },
   {
    "id": "18025514525927282",
@@ -1000,7 +984,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T18:07:09.811893-04:00"
+   "viral_chk": "2026-11-17T18:37:17.356170-04:00"
   },
   {
    "id": "18018279020755623",
@@ -1018,7 +1002,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T18:07:09.811893-04:00"
+   "viral_chk": "2026-11-17T18:37:17.356170-04:00"
   },
   {
    "id": "18095465699675445",
@@ -1027,7 +1011,7 @@
    "texto": "OPINIÃO IMPOPULAR: Falar mal de futebol de várzea é pra quem nunca viu o zagueiro Clodoaldo resolver uma DR de divórcio no meio de um lateral e ainda fazer gol de bicicleta. O cara joga de cigarro atrás da orelha e chuteira 37 num pé 42. Respeita a elite. Qual foi a cena mais caótica que você já viu",
    "quando": "2026-11-17T09:07:09.058687-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T18:07:09.811893-04:00"
+   "viral_chk": "2026-11-17T18:37:17.356170-04:00"
   },
   {
    "id": "18107444138377277",
@@ -1057,7 +1041,7 @@
    "texto": "VAMOS SER HONESTOS: qual foi o gasto surpresa com bicho que quase te fez financiar o gato em trinta e seis vezes no carnê da casas bahia porque o infeliz decidiu que só comeria ração com selo de aprovação do papa",
    "quando": "2026-11-17T14:07:09.837468-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T18:07:09.811893-04:00"
+   "viral_chk": "2026-11-17T18:37:17.356170-04:00"
   },
   {
    "id": "18114486605614841",
@@ -1078,6 +1062,15 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3m7hftjtxp779",
     "campanha": ""
    }
+  },
+  {
+   "id": "18611542363068430",
+   "insp": "d1e2f3c049",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: em que momento exato da vida a gente vira a pessoa que fala \"se eu for aí e achar, eu pego\" para o boy e depois percebe que virou a própria mãe ameaçando o namorado com a sola do chinelo mental?",
+   "quando": "2026-11-17T18:37:17.356170-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-17T18:37:17.356170-04:00"
   }
  ],
  "respondidos": [
@@ -4083,7 +4076,6 @@
   "18142824124738834"
  ],
  "hashes": [
-  "cde85533a7b95ccb3e43688a87af64d7",
   "641c7392501b883d3c0c4712da6f91ca",
   "858f7877f9c28cec937083080f1aafad",
   "8c4c1624e76015f5d96bd6d5030c1359",
@@ -4282,7 +4274,8 @@
   "463c2dd36e8a32670d1cdd1ffca0e783",
   "c0634cc426855ae944980565baaf0ccf",
   "db3e46de67c625094564bba41cb620d0",
-  "b185815933318635e9186183d168d4d6"
+  "b185815933318635e9186183d168d4d6",
+  "5b9a963ae3cdbba6cdcfdd5819097c71"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4499,7 +4492,6 @@
   "2605ac3685": 1793106470.5231354,
   "aa28edd6a1": 1793110088.7743607,
   "1c1d414be8": 1793119065.6566234,
-  "d1e2f3c049": 1793120863.046784,
   "4b99e3a872": 1793124470.8923373,
   "a05db3f0dd": 1793137092.3311388,
   "5760d94547": 1793144294.4001164,
@@ -4693,7 +4685,8 @@
   "e6b297b654": 1794879495.3674445,
   "53abd8941d": 1794883050.7321832,
   "f9bb6059fa": 1794920899.4919643,
-  "7733a769d4": 1794938847.3666458
+  "7733a769d4": 1794938847.3666458,
+  "d1e2f3c049": 1794955096.081281
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
