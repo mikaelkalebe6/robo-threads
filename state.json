@@ -16,33 +16,17 @@
   ],
   "feitos": [
    "08:53",
-   "09:57"
+   "09:57",
+   "13:23"
   ],
   "produtos_feitos": 1,
-  "respostas": 14,
+  "respostas": 25,
   "por_post": {
-   "18111918469906337": 13,
+   "18111918469906337": 24,
    "18136119379675335": 1
   }
  },
  "posts": [
-  {
-   "id": "18112357985258185",
-   "insp": "9c5110941a",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: a vida adulta do brasileiro médio é basicamente acordar cedo, fingir que entendeu o boleto do IPVA, descobrir que o boy da faculdade agora vende curso de tigrinho e ainda ter que responder \"tudo bem e com você?\" pro chefe na segunda-feira de manhã. O que mais vocês colocariam nes",
-   "quando": "2026-11-12T13:07:19.783828-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 46,
-    "likes": 1,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-17"
-   }
-  },
   {
    "id": "17871445599662545",
    "insp": "20b4497ce2",
@@ -917,7 +901,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T13:37:09.220625-04:00"
+   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
   },
   {
    "id": "18111918469906337",
@@ -958,7 +942,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T13:37:09.220625-04:00"
+   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
   },
   {
    "id": "18061572179556122",
@@ -976,7 +960,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T13:37:09.220625-04:00"
+   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
   },
   {
    "id": "17891187162478769",
@@ -994,7 +978,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T13:37:09.220625-04:00"
+   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
   },
   {
    "id": "18077386775780157",
@@ -1012,7 +996,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T13:37:09.220625-04:00"
+   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
   },
   {
    "id": "18025514525927282",
@@ -1030,7 +1014,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T13:37:09.220625-04:00"
+   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
   },
   {
    "id": "18018279020755623",
@@ -1048,7 +1032,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T13:37:09.220625-04:00"
+   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
   },
   {
    "id": "18095465699675445",
@@ -1057,7 +1041,7 @@
    "texto": "OPINIÃO IMPOPULAR: Falar mal de futebol de várzea é pra quem nunca viu o zagueiro Clodoaldo resolver uma DR de divórcio no meio de um lateral e ainda fazer gol de bicicleta. O cara joga de cigarro atrás da orelha e chuteira 37 num pé 42. Respeita a elite. Qual foi a cena mais caótica que você já viu",
    "quando": "2026-11-17T09:07:09.058687-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T13:37:09.220625-04:00"
+   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
   },
   {
    "id": "18107444138377277",
@@ -1079,20 +1063,18 @@
     "campanha": ""
    },
    "apagado": true
+  },
+  {
+   "id": "18343211152279703",
+   "insp": "7733a769d4",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: qual foi o gasto surpresa com bicho que quase te fez financiar o gato em trinta e seis vezes no carnê da casas bahia porque o infeliz decidiu que só comeria ração com selo de aprovação do papa",
+   "quando": "2026-11-17T14:07:09.837468-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-17T14:07:09.837468-04:00"
   }
  ],
  "respondidos": [
-  "18143722030591102",
-  "18222402499339761",
-  "17897992218604104",
-  "18127921690837178",
-  "18050120483811947",
-  "18483120535128345",
-  "17879576529547258",
-  "18149358946596086",
-  "18353808085223210",
-  "18657991738044470",
-  "17900259498607159",
   "18130595653705478",
   "18097269242450585",
   "18642514159062732",
@@ -4081,10 +4063,20 @@
   "18081306860468899",
   "18133371448827556",
   "18117232235031294",
-  "18603568411071288"
+  "18603568411071288",
+  "18131561302883225",
+  "17916264435288432",
+  "18659336242000200",
+  "18089402702327227",
+  "18428784634157906",
+  "18473479309186346",
+  "18173984176479320",
+  "18101954108082080",
+  "18129702376871594",
+  "18156311776531439",
+  "17977611012183597"
  ],
  "hashes": [
-  "8e3a4a40bf72d04d47e5bf2f7db150de",
   "cde85533a7b95ccb3e43688a87af64d7",
   "641c7392501b883d3c0c4712da6f91ca",
   "858f7877f9c28cec937083080f1aafad",
@@ -4283,7 +4275,8 @@
   "a03ade98adbfdafaabb637967fa8055f",
   "463c2dd36e8a32670d1cdd1ffca0e783",
   "c0634cc426855ae944980565baaf0ccf",
-  "db3e46de67c625094564bba41cb620d0"
+  "db3e46de67c625094564bba41cb620d0",
+  "b185815933318635e9186183d168d4d6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4346,7 +4339,6 @@
   "7fff0e06da": 1791162445.4803498,
   "7e797582de": 1791216456.696685,
   "de9bf80054": 1791220047.5941434,
-  "7733a769d4": 1791227258.5966003,
   "2832d4baf6": 1791247069.3264678,
   "58ac2ae535": 1791248867.6549494,
   "f1481a1658": 1791295658.0818608,
@@ -4694,7 +4686,8 @@
   "8bcb7cd8a4": 1794874093.9189005,
   "e6b297b654": 1794879495.3674445,
   "53abd8941d": 1794883050.7321832,
-  "f9bb6059fa": 1794920899.4919643
+  "f9bb6059fa": 1794920899.4919643,
+  "7733a769d4": 1794938847.3666458
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4705,71 +4698,26 @@
   "284e3d2c0f": 1,
   "b24fdf57e4": 1,
   "f8e6f08104": 1,
-  "d61a678a69": 1,
+  "d61a678a69": 2,
   "deb366424e": 2,
   "9328ec251d": 1,
   "06a4bc3ad8": 1,
   "c89ea63a23": 1,
   "0af1701b18": 1,
-  "88e6fc2c03": 1
+  "88e6fc2c03": 1,
+  "166aa73e57": 1,
+  "0dc857eb90": 1,
+  "5d2cec194d": 1,
+  "5d020db20e": 1,
+  "54c997744d": 1,
+  "019cb27ada": 1,
+  "41cca95da8": 1,
+  "464686fa02": 1,
+  "44c01f0135": 1,
+  "285473ba58": 1
  },
  "reservas_checadas": "2026-11-17",
  "ultimas_respostas": [
-  {
-   "t": "prato exótico é pouco, aquilo pedia um exorcista kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "acreditou direitinho, quem sou eu pra estragar a ilusão da sogra kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "fingir demencia nessa hora é habilidade de sobrevivência pura kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "clinica social não resolve o trauma de ver strogonoff com uva passa e azeite de dende",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "farinha crua com carne de porco sem tempero é um combo de respeito hein kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "justo, melhor passar longe do que inventar moda",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pudim com coca-cola é mistura de quem já desistiu de lutar contra o caos kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "esse terapeuta deveria estar cobrando o dobro pela paciência q exige",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "essa descrição me deu falta de ar instantânea socorro kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "estômago passou foi por um processo de habilitação especial kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "sobrevivência extrema né amiga, qualquer passo em falso era fim da linha kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "mingau de água de salsicha com certeza supera todos os limites da culinária kkkkk",
    "p": "concorda",
@@ -4864,6 +4812,61 @@
    "t": "juro que eu queria que fosse mentira",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "mocotó já é teste de resistência, misturar com o resto da lista é covardia kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkk eu também quase chamei o exorcista pra salvar o paladar 😭",
+   "p": "concorda",
+   "r": 3
+  },
+  {
+   "t": "saúde mental realmente vale cada centavo quando a gente evita esse tipo de situação",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Buchada de coragem, hein? kkk só falta o molho de medo",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "vc tem bons reflexos ao comprar, evita o prato da vovó kkkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "sorpresa gostosa no melhor sentido da palavra kkkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "Ah eu já senti essa mistura, dá vontade de chamar a terapia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Passas no feijão, sério? Vai virar receita de horror 😅",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "passei com louvor e ganhei um trauma de brinde",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "sorrir foi reflexo, o resto foi pura sobrevivência",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa mãe tinha certeza do que estava fazendo, o prato era maldito mesmo kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6309,12 +6312,6 @@
    "perdeu a chance"
   ],
   "18111918469906337": [
-   "inimiga da paz",
-   "passa no strogonoff",
-   "ate quem gosta",
-   "cada um traca",
-   "esse ingrediente ai",
-   "cozidos juntos so",
    "tem gente que",
    "socorro o clima",
    "ja veio com",
@@ -6403,7 +6400,18 @@
    "eu tambem estou",
    "a sogra virou",
    "esse valor foi",
-   "juro que eu"
+   "juro que eu",
+   "mocoto ja e",
+   "eu tambem quase",
+   "saude mental realmente",
+   "buchada de coragem",
+   "vc tem bons",
+   "sorpresa gostosa no",
+   "ah eu ja",
+   "passas no feijao",
+   "passei com louvor",
+   "sorrir foi reflexo",
+   "essa mae tinha"
   ],
   "18136119379675335": [
    "e as vezes",
