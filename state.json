@@ -22,9 +22,9 @@
    "18:33"
   ],
   "produtos_feitos": 2,
-  "respostas": 28,
+  "respostas": 30,
   "por_post": {
-   "18111918469906337": 25,
+   "18111918469906337": 27,
    "18136119379675335": 1,
    "18025514525927282": 1,
    "18343211152279703": 1
@@ -966,7 +966,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T19:07:09.848059-04:00"
+   "viral_chk": "2026-11-17T19:37:09.889648-04:00"
   },
   {
    "id": "18025514525927282",
@@ -984,7 +984,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T19:07:09.848059-04:00"
+   "viral_chk": "2026-11-17T19:37:09.889648-04:00"
   },
   {
    "id": "18018279020755623",
@@ -1002,7 +1002,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T19:07:09.848059-04:00"
+   "viral_chk": "2026-11-17T19:37:09.889648-04:00"
   },
   {
    "id": "18095465699675445",
@@ -1011,7 +1011,7 @@
    "texto": "OPINIÃO IMPOPULAR: Falar mal de futebol de várzea é pra quem nunca viu o zagueiro Clodoaldo resolver uma DR de divórcio no meio de um lateral e ainda fazer gol de bicicleta. O cara joga de cigarro atrás da orelha e chuteira 37 num pé 42. Respeita a elite. Qual foi a cena mais caótica que você já viu",
    "quando": "2026-11-17T09:07:09.058687-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T19:07:09.848059-04:00"
+   "viral_chk": "2026-11-17T19:37:09.889648-04:00"
   },
   {
    "id": "18107444138377277",
@@ -1041,7 +1041,7 @@
    "texto": "VAMOS SER HONESTOS: qual foi o gasto surpresa com bicho que quase te fez financiar o gato em trinta e seis vezes no carnê da casas bahia porque o infeliz decidiu que só comeria ração com selo de aprovação do papa",
    "quando": "2026-11-17T14:07:09.837468-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T19:07:09.848059-04:00"
+   "viral_chk": "2026-11-17T19:37:09.889648-04:00"
   },
   {
    "id": "18114486605614841",
@@ -1070,12 +1070,10 @@
    "texto": "DÚVIDA SINCERA: em que momento exato da vida a gente vira a pessoa que fala \"se eu for aí e achar, eu pego\" para o boy e depois percebe que virou a própria mãe ameaçando o namorado com a sola do chinelo mental?",
    "quando": "2026-11-17T18:37:17.356170-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T19:07:09.848059-04:00"
+   "viral_chk": "2026-11-17T19:37:09.889648-04:00"
   }
  ],
  "respondidos": [
-  "18115477408964736",
-  "17951525937289311",
   "18089426900240738",
   "17920080708445529",
   "18106599407221284",
@@ -4073,7 +4071,9 @@
   "17977611012183597",
   "18347098411258805",
   "18130411664482950",
-  "18142824124738834"
+  "18142824124738834",
+  "18116872115580015",
+  "18665387023027854"
  ],
  "hashes": [
   "641c7392501b883d3c0c4712da6f91ca",
@@ -4715,20 +4715,12 @@
   "44c01f0135": 1,
   "285473ba58": 1,
   "5a4f6559c6": 2,
-  "0496050abc": 1
+  "0496050abc": 1,
+  "dd7a1eab13": 1,
+  "2b2a0bc5f8": 1
  },
  "reservas_checadas": "2026-11-17",
  "ultimas_respostas": [
-  {
-   "t": "sardinha com macarrão consegue competir feio no ranking de combinacoes que não deveriam existir",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "substituir a bolacha por água e sal é um atentado contra a dignidade do doce kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "uva passa consegue estragar qualquer prato com uma facilidade impressionante kkk",
    "p": "concorda",
@@ -4866,6 +4858,16 @@
   },
   {
    "t": "pura maldade planejada com requintes de crueldade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "misturar sal e açúcar na mesma rodada devia ser crime inafiançavel kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "perder a fome foi o seu instinto de sobrevivência acionando o alarme kkk",
    "p": "concorda",
    "r": 1
   }
@@ -6299,8 +6301,6 @@
    "perdeu a chance"
   ],
   "18111918469906337": [
-   "socorro o clima",
-   "ja veio com",
    "limite perfeitamente aceitavel",
    "era frango mas",
    "investimento alto mas",
@@ -6398,7 +6398,9 @@
    "passei com louvor",
    "sorrir foi reflexo",
    "essa mae tinha",
-   "pura maldade planejada"
+   "pura maldade planejada",
+   "misturar sal e",
+   "perder a fome"
   ],
   "18136119379675335": [
    "e as vezes",
