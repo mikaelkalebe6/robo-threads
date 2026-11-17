@@ -21,11 +21,12 @@
    "14:34"
   ],
   "produtos_feitos": 2,
-  "respostas": 26,
+  "respostas": 27,
   "por_post": {
    "18111918469906337": 24,
    "18136119379675335": 1,
-   "18025514525927282": 1
+   "18025514525927282": 1,
+   "18343211152279703": 1
   }
  },
  "posts": [
@@ -886,7 +887,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
+   "viral_chk": "2026-11-17T15:07:08.881351-04:00"
   },
   {
    "id": "18111918469906337",
@@ -927,7 +928,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
+   "viral_chk": "2026-11-17T15:07:08.881351-04:00"
   },
   {
    "id": "18061572179556122",
@@ -945,7 +946,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
+   "viral_chk": "2026-11-17T15:07:08.881351-04:00"
   },
   {
    "id": "17891187162478769",
@@ -963,7 +964,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
+   "viral_chk": "2026-11-17T15:07:08.881351-04:00"
   },
   {
    "id": "18077386775780157",
@@ -981,7 +982,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
+   "viral_chk": "2026-11-17T15:07:08.881351-04:00"
   },
   {
    "id": "18025514525927282",
@@ -999,7 +1000,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
+   "viral_chk": "2026-11-17T15:07:08.881351-04:00"
   },
   {
    "id": "18018279020755623",
@@ -1017,7 +1018,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
+   "viral_chk": "2026-11-17T15:07:08.881351-04:00"
   },
   {
    "id": "18095465699675445",
@@ -1026,7 +1027,7 @@
    "texto": "OPINIÃO IMPOPULAR: Falar mal de futebol de várzea é pra quem nunca viu o zagueiro Clodoaldo resolver uma DR de divórcio no meio de um lateral e ainda fazer gol de bicicleta. O cara joga de cigarro atrás da orelha e chuteira 37 num pé 42. Respeita a elite. Qual foi a cena mais caótica que você já viu",
    "quando": "2026-11-17T09:07:09.058687-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
+   "viral_chk": "2026-11-17T15:07:08.881351-04:00"
   },
   {
    "id": "18107444138377277",
@@ -1056,7 +1057,7 @@
    "texto": "VAMOS SER HONESTOS: qual foi o gasto surpresa com bicho que quase te fez financiar o gato em trinta e seis vezes no carnê da casas bahia porque o infeliz decidiu que só comeria ração com selo de aprovação do papa",
    "quando": "2026-11-17T14:07:09.837468-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T14:37:09.637951-04:00"
+   "viral_chk": "2026-11-17T15:07:08.881351-04:00"
   },
   {
    "id": "18114486605614841",
@@ -1080,7 +1081,6 @@
   }
  ],
  "respondidos": [
-  "18097269242450585",
   "18642514159062732",
   "18115477408964736",
   "17951525937289311",
@@ -4079,7 +4079,8 @@
   "18129702376871594",
   "18156311776531439",
   "17977611012183597",
-  "18347098411258805"
+  "18347098411258805",
+  "18130411664482950"
  ],
  "hashes": [
   "cde85533a7b95ccb3e43688a87af64d7",
@@ -4720,15 +4721,10 @@
   "464686fa02": 1,
   "44c01f0135": 1,
   "285473ba58": 1,
-  "5a4f6559c6": 1
+  "5a4f6559c6": 2
  },
  "reservas_checadas": "2026-11-17",
  "ultimas_respostas": [
-  {
-   "t": "quem tem paladar fresco sofre demais nessas horas",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "batata e tomate no strogonoff já é pedir demais da paciência de qualquer um kkk",
    "p": "concorda",
@@ -4873,6 +4869,11 @@
    "t": "investimento de respeito testado com sucesso no Luan Santana kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "sorte grande porque economizar na ração é raridade hoje em dia",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6190,9 +6191,6 @@
   }
  ],
  "aberturas_post": {
-  "18063130034642069": [
-   "viagem com quem"
-  ],
   "18012664097996382": [
    "perigo iminente de",
    "medida drastica mas"
@@ -6415,6 +6413,9 @@
   ],
   "18025514525927282": [
    "investimento de respeito"
+  ],
+  "18343211152279703": [
+   "sorte grande porque"
   ]
  },
  "shopee_checada": "2026-11-17|1",
