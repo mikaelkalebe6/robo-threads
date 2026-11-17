@@ -14,7 +14,9 @@
    "14:34",
    "20:17"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:53"
+  ],
   "produtos_feitos": 0,
   "respostas": 9,
   "por_post": {
@@ -22,23 +24,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18113350808614874",
-   "insp": "f505b6ba89",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: dividir a conta no primeiro encontro é gesto de igualdade ou já vem com a planilha de gastos e o boleto do Netflix do cara? 😂\n\nOntem, o meu “próximo” chegou de táxi, abriu a conta, puxou a calculadora da mãe e começou a repartir cada centavo como se fosse reunião de condomínio. Enqua",
-   "quando": "2026-11-12T10:37:11.408543-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "metricas": {
-    "views": 282,
-    "likes": 4,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-17"
-   }
-  },
   {
    "id": "18277459723309994",
    "insp": "5dc520f8de",
@@ -875,7 +860,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T08:37:14.492938-04:00"
+   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
   },
   {
    "id": "18119874185009638",
@@ -893,7 +878,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T08:37:14.492938-04:00"
+   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
   },
   {
    "id": "18137326147667955",
@@ -911,7 +896,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T08:37:14.492938-04:00"
+   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
   },
   {
    "id": "18111720626357971",
@@ -929,7 +914,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T08:37:14.492938-04:00"
+   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
   },
   {
    "id": "17979632273932325",
@@ -947,7 +932,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T08:37:14.492938-04:00"
+   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
   },
   {
    "id": "18111918469906337",
@@ -988,7 +973,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T08:37:14.492938-04:00"
+   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
   },
   {
    "id": "18061572179556122",
@@ -1006,7 +991,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T08:37:14.492938-04:00"
+   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
   },
   {
    "id": "17891187162478769",
@@ -1024,7 +1009,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T08:37:14.492938-04:00"
+   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
   },
   {
    "id": "18077386775780157",
@@ -1042,7 +1027,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T08:37:14.492938-04:00"
+   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
   },
   {
    "id": "18025514525927282",
@@ -1060,7 +1045,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T08:37:14.492938-04:00"
+   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
   },
   {
    "id": "18018279020755623",
@@ -1078,7 +1063,16 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T08:37:14.492938-04:00"
+   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
+  },
+  {
+   "id": "18095465699675445",
+   "insp": "f9bb6059fa",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Falar mal de futebol de várzea é pra quem nunca viu o zagueiro Clodoaldo resolver uma DR de divórcio no meio de um lateral e ainda fazer gol de bicicleta. O cara joga de cigarro atrás da orelha e chuteira 37 num pé 42. Respeita a elite. Qual foi a cena mais caótica que você já viu",
+   "quando": "2026-11-17T09:07:09.058687-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-17T09:07:09.058687-04:00"
   }
  ],
  "respondidos": [
@@ -4084,7 +4078,6 @@
   "18020040017952649"
  ],
  "hashes": [
-  "889c3c9cb28e8a0cab64cb763be58c5f",
   "8e3a4a40bf72d04d47e5bf2f7db150de",
   "cde85533a7b95ccb3e43688a87af64d7",
   "641c7392501b883d3c0c4712da6f91ca",
@@ -4283,7 +4276,8 @@
   "e2175af763aa7d028a2f8aeb612bdfdd",
   "a03ade98adbfdafaabb637967fa8055f",
   "463c2dd36e8a32670d1cdd1ffca0e783",
-  "c0634cc426855ae944980565baaf0ccf"
+  "c0634cc426855ae944980565baaf0ccf",
+  "db3e46de67c625094564bba41cb620d0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4623,7 +4617,6 @@
   "0c1b7902c1": 1794321451.8171608,
   "d9aa630945": 1794323247.1317086,
   "95a127f43f": 1794328649.6362257,
-  "f9bb6059fa": 1794335890.9586565,
   "cd232d0d3c": 1794344888.8127327,
   "cc277cae04": 1794352051.0826151,
   "c71e576931": 1794362896.7196717,
@@ -4694,7 +4687,8 @@
   "20c7cdebe0": 1794872252.8591666,
   "8bcb7cd8a4": 1794874093.9189005,
   "e6b297b654": 1794879495.3674445,
-  "53abd8941d": 1794883050.7321832
+  "53abd8941d": 1794883050.7321832,
+  "f9bb6059fa": 1794920899.4919643
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
