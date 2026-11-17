@@ -39,13 +39,13 @@
    "19:07"
   ],
   "produtos_feitos": 0,
-  "respostas": 63,
+  "respostas": 67,
   "por_post": {
    "17998486959052559": 2,
    "18171150787465175": 1,
    "18137326147667955": 1,
    "18111720626357971": 1,
-   "18111918469906337": 56,
+   "18111918469906337": 60,
    "18136119379675335": 2
   }
  },
@@ -994,21 +994,6 @@
   }
  ],
  "respondidos": [
-  "18137912656723525",
-  "17875382907634337",
-  "17949489045325130",
-  "18560922031073142",
-  "17870712450648213",
-  "18123159193703883",
-  "17990952627023635",
-  "18071282681727112",
-  "18098746688305764",
-  "18135294523573896",
-  "17910480126493376",
-  "18355550488223066",
-  "17949916449057726",
-  "18096483929438773",
-  "18089144120297861",
   "18008603897987982",
   "18118527350286917",
   "17964541079982810",
@@ -3993,7 +3978,22 @@
   "18645110557050713",
   "18124661336074029",
   "17915660061564858",
-  "18111394670208005"
+  "18111394670208005",
+  "17875904208639569",
+  "18225542755340751",
+  "17956834923309825",
+  "18117204872111197",
+  "17956561464322990",
+  "18142980046547663",
+  "18436240420146969",
+  "18120746048006963",
+  "18132233881829523",
+  "18167620669440755",
+  "18116774426141252",
+  "17866842312696002",
+  "18122104736051126",
+  "18100801277446507",
+  "17922555477525503"
  ],
  "hashes": [
   "3c66a4706e32b5e23a33caeffd683852",
@@ -4672,30 +4672,14 @@
   "89573f54a5": 1,
   "4bb838ec24": 1,
   "7d706b0735": 1,
-  "b965bbbc88": 1
+  "b965bbbc88": 1,
+  "5b9b7a2452": 1,
+  "91648683df": 1,
+  "ba3800bcdb": 1,
+  "8ee6819299": 1
  },
  "reservas_checadas": "2026-11-16",
  "ultimas_respostas": [
-  {
-   "t": "kkk 45 reais pra terapia? Só se for terapia de sobrevivência",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "kkk imagina uva passa com dendê, tipo sobremesa de terror, vc já encarou algo assim?",
-   "p": "neutra",
-   "r": 2
-  },
-  {
-   "t": "isso é terrorismo nutricional de verdade",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "morri com a mortadela na lasanha kkkkkkkkkkkk",
-   "p": "concorda",
-   "r": 3
-  },
   {
    "t": "kkk, isso é fim de mundo",
    "p": "concorda",
@@ -4824,6 +4808,26 @@
   {
    "t": "o que é isso, terapia de verdade pra 45 reais já seria um milagre kk",
    "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "preparação completa para o pior cenário possível kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pescoço de frango inteiro é terror psicológico em forma de almoço kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "feijão doce na sexta-feira santa já é teste de fé pesado kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "respeito vc, ninguém tem que forçar o paladar kkk",
+   "p": "concorda",
    "r": 1
   }
  ],
@@ -6315,7 +6319,11 @@
    "verdade parece ritual",
    "textura de papel",
    "entendi cada um",
-   "o que e"
+   "o que e",
+   "preparacao completa para",
+   "pescoco de frango",
+   "feijao doce na",
+   "respeito vc ninguem"
   ],
   "18136119379675335": [
    "e as vezes",
