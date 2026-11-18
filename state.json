@@ -19,9 +19,10 @@
    "09:57",
    "13:23",
    "14:34",
-   "18:33"
+   "18:33",
+   "20:17"
   ],
-  "produtos_feitos": 2,
+  "produtos_feitos": 3,
   "respostas": 30,
   "por_post": {
    "18111918469906337": 27,
@@ -31,23 +32,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18444123814177794",
-   "insp": "c422eac36b",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a pessoa sai de casa focada em comprar três pãezinhos de sal e volta com duas caixas de som JBL, um kit de panela de cerâmica que viu no corredor do meio e o CPF da vizinha cadastrado na promoção do panetone de meio quilo, mas esqueceu o bendito do pão. Alguém mais sofre desse surto ",
-   "quando": "2026-11-12T15:37:09.319505-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 207,
-    "likes": 4,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-17"
-   }
-  },
   {
    "id": "17997445890029104",
    "insp": "63b1ece74f",
@@ -984,7 +968,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T20:07:12.070387-04:00"
+   "viral_chk": "2026-11-17T20:37:08.319525-04:00"
   },
   {
    "id": "18018279020755623",
@@ -1002,7 +986,7 @@
     "shares": 0,
     "em": "2026-11-17"
    },
-   "viral_chk": "2026-11-17T20:07:12.070387-04:00"
+   "viral_chk": "2026-11-17T20:37:08.319525-04:00"
   },
   {
    "id": "18095465699675445",
@@ -1011,7 +995,7 @@
    "texto": "OPINIÃO IMPOPULAR: Falar mal de futebol de várzea é pra quem nunca viu o zagueiro Clodoaldo resolver uma DR de divórcio no meio de um lateral e ainda fazer gol de bicicleta. O cara joga de cigarro atrás da orelha e chuteira 37 num pé 42. Respeita a elite. Qual foi a cena mais caótica que você já viu",
    "quando": "2026-11-17T09:07:09.058687-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T20:07:12.070387-04:00"
+   "viral_chk": "2026-11-17T20:37:08.319525-04:00"
   },
   {
    "id": "18107444138377277",
@@ -1041,7 +1025,7 @@
    "texto": "VAMOS SER HONESTOS: qual foi o gasto surpresa com bicho que quase te fez financiar o gato em trinta e seis vezes no carnê da casas bahia porque o infeliz decidiu que só comeria ração com selo de aprovação do papa",
    "quando": "2026-11-17T14:07:09.837468-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T20:07:12.070387-04:00"
+   "viral_chk": "2026-11-17T20:37:08.319525-04:00"
   },
   {
    "id": "18114486605614841",
@@ -1070,7 +1054,27 @@
    "texto": "DÚVIDA SINCERA: em que momento exato da vida a gente vira a pessoa que fala \"se eu for aí e achar, eu pego\" para o boy e depois percebe que virou a própria mãe ameaçando o namorado com a sola do chinelo mental?",
    "quando": "2026-11-17T18:37:17.356170-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-17T20:07:12.070387-04:00"
+   "viral_chk": "2026-11-17T20:37:08.319525-04:00"
+  },
+  {
+   "id": "18121041461008264",
+   "insp": "prod_58204067039",
+   "link": "",
+   "texto": "Ficar no escuro na chácara ou no sítio é um sufoco danado né? Descobri essa lanterna tática super potente que ilumina tudo de longe e salvou nossos corações na última viagem. Olha como funciona 👀",
+   "quando": "2026-11-17T20:37:08.319525-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "58204067039",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "58204067039",
+    "nome": "Lanterna Tática WUDI T9 P50 Super Luminosa Recarregável USB Ideal Para Sitio Fazenda AcampamentoCamping SegurançaNoturna",
+    "offerLink": "https://s.shopee.com.br/BVRmacSod",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261k-mjye50tsga9wb4",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
@@ -6690,7 +6694,7 @@
   "18599696115": "2026-11-05T11:37:09.706712-04:00",
   "22393525887": "2026-10-11T12:07:09.276302-04:00",
   "58214462678": "2026-10-11T15:37:09.556759-04:00",
-  "58204067039": "2026-10-28T10:07:09.225022-04:00",
+  "58204067039": "2026-11-17T20:37:08.319525-04:00",
   "23993565028": "2026-11-17T14:37:09.637951-04:00",
   "21898099575": "2026-10-27T21:07:08.589314-04:00",
   "58257654101": "2026-10-28T20:07:08.471996-04:00",
