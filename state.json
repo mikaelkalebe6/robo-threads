@@ -28,7 +28,8 @@
    "11:29",
    "12:51",
    "13:58",
-   "15:59"
+   "15:59",
+   "17:01"
   ],
   "produtos_feitos": 2,
   "respostas": 6,
@@ -40,23 +41,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17954907144340398",
-   "insp": "0127d41120",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: qual aplicativo de rastreamento de ex vocês usam que eu cansei de pagar o hacker no Pix e ele só me manda foto da capivara do lago da cidade dizendo que é o meu anjo no altar",
-   "quando": "2026-11-13T10:07:14.182816-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 359,
-    "likes": 5,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-18"
-   }
-  },
   {
    "id": "17918018859494317",
    "insp": "0445902113",
@@ -973,7 +957,7 @@
    "texto": "DÚVIDA SINCERA: em que momento exato da vida a gente vira a pessoa que fala \"se eu for aí e achar, eu pego\" para o boy e depois percebe que virou a própria mãe ameaçando o namorado com a sola do chinelo mental?",
    "quando": "2026-11-17T18:37:17.356170-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T16:37:08.888535-04:00",
+   "viral_chk": "2026-11-18T17:07:09.224968-04:00",
    "metricas": {
     "views": 104,
     "likes": 1,
@@ -1023,7 +1007,7 @@
    "texto": "VAMOS SER HONESTOS: pizza de ontem gelada da caixinha de papelão amassada é haute cuisine e quem discorda só tem inveja do nosso paladar de alta performance financeira pós-boleto.",
    "quando": "2026-11-18T08:37:18.343238-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T16:37:08.888535-04:00"
+   "viral_chk": "2026-11-18T17:07:09.224968-04:00"
   },
   {
    "id": "17988406653108359",
@@ -1032,7 +1016,7 @@
    "texto": "O tal do amor à primeira vista é só a sua carência vestida de Prada achando que o boy da farmácia que te deu bom dia é o pai dos seus filhos, porque racionalmente falando ninguém se apaixona pelo caráter de alguém que ainda não pagou um boleto pra ver se a pessoa desmaia.\n\nVocês já casaram na cabeça",
    "quando": "2026-11-18T09:07:08.904539-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T16:37:08.888535-04:00"
+   "viral_chk": "2026-11-18T17:07:09.224968-04:00"
   },
   {
    "id": "18022786943945602",
@@ -1061,7 +1045,7 @@
    "texto": "DÚVIDA SINCERA: a pessoa que tenta impressionar o crush falando difamado o próprio signo merece um troféu de palhaça ou um abraço? porque eu inventei que era ariana raiz pra parecer intensa e o boy me chamou pra ver eclipse às três da manhã num cemitério abandonado. detalhe: eu tenho pavor de escuro",
    "quando": "2026-11-18T11:37:10.846586-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T16:37:08.888535-04:00"
+   "viral_chk": "2026-11-18T17:07:09.224968-04:00"
   },
   {
    "id": "18150862768541103",
@@ -1070,7 +1054,7 @@
    "texto": "O nível de conexão no encontro tá tão alto que a pessoa passou duas horas olhando pra própria unha postiça gigante igual um velociraptor, mas jurou que tava prestando atenção na minha tese sobre o rodízio de carona da firma. O celular ficou na mesa com a tela virada pra baixo só pra fingir que a gen",
    "quando": "2026-11-18T13:07:09.915865-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T16:37:08.888535-04:00"
+   "viral_chk": "2026-11-18T17:07:09.224968-04:00"
   },
   {
    "id": "18117332165117832",
@@ -1079,7 +1063,7 @@
    "texto": "SEJAM SINCEROS: com quantos anos a criança já tem maturidade pra fingir que não viu o boleto da creche e pedir Uber sozinho pra fugir da tia chata?",
    "quando": "2026-11-18T14:07:18.748529-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T16:37:08.888535-04:00"
+   "viral_chk": "2026-11-18T17:07:09.224968-04:00"
   },
   {
    "id": "17879713524634778",
@@ -1100,6 +1084,15 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-msgh50r25wxybf",
     "campanha": ""
    }
+  },
+  {
+   "id": "18114592565137270",
+   "insp": "4fb1c220f3",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: a pessoa começa a perder o interesse no exato segundo em que o boy manda um áudio de quatro minutos respirando fundo antes de falar e a miniatura do Spotify mostra que ele escuta funk consciente às três da manhã num domingo. Qual o nível de paz espiritual que vocês acham que sobre",
+   "quando": "2026-11-18T17:07:09.224968-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-18T17:07:09.224968-04:00"
   }
  ],
  "respondidos": [
@@ -4105,7 +4098,6 @@
   "17878302009585059"
  ],
  "hashes": [
-  "a36d8664b49976c73459d95ad917665c",
   "cec6ba7717687fd33f7d1147e01f42bb",
   "6883a917152a5329e2f61d1416997d26",
   "c9a23aaa71653ac5d57373f4406f116c",
@@ -4304,7 +4296,8 @@
   "17fa89ded55a335b5b4d9ab5ab9aecbb",
   "7215cf9dceac682cc901938adefdc4fd",
   "b12d932a8334bf71115ecb3adbc02e91",
-  "b1dbd629d4b9ec599f653c8e993c1420"
+  "b1dbd629d4b9ec599f653c8e993c1420",
+  "528079b46bf1ddd26b1be402c551abff"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4328,7 +4321,6 @@
   "c2d56efe9f": 1790816840.2517245,
   "559f0792a7": 1790820449.309396,
   "962dfe5354": 1790856442.2857137,
-  "4fb1c220f3": 1790861857.0642593,
   "52a7f9104a": 1790863692.6714327,
   "db79935195": 1790867256.044346,
   "c0031ddd0f": 1790879857.0117278,
@@ -4715,7 +4707,8 @@
   "383fb2ad25": 1795007252.4071724,
   "95c7572ca7": 1795016266.9344811,
   "77b88ec144": 1795021651.8070705,
-  "2f5da7a997": 1795025289.3249052
+  "2f5da7a997": 1795025289.3249052,
+  "4fb1c220f3": 1795036047.963534
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
