@@ -21,7 +21,9 @@
    "15:59",
    "19:49"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:05"
+  ],
   "produtos_feitos": 0,
   "respostas": 1,
   "por_post": {
@@ -29,23 +31,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17997445890029104",
-   "insp": "63b1ece74f",
-   "link": "",
-   "texto": "O brasileiro tem zero condições de julgar a culinária alheia porque a gente inventou que farinha com feijão e um ovo tristonho é alta gastronomia, mas se alguém mexe na pamonha da minha região a pessoa sai direto pro velório com cobertura de açúcar e canela. Qual prato da tua cidade tu defende com u",
-   "quando": "2026-11-12T18:37:09.410727-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 181,
-    "likes": 3,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-18"
-   }
-  },
   {
    "id": "18094004198210983",
    "insp": "68d405bd4e",
@@ -992,7 +977,7 @@
    "texto": "OPINIÃO IMPOPULAR: Falar mal de futebol de várzea é pra quem nunca viu o zagueiro Clodoaldo resolver uma DR de divórcio no meio de um lateral e ainda fazer gol de bicicleta. O cara joga de cigarro atrás da orelha e chuteira 37 num pé 42. Respeita a elite. Qual foi a cena mais caótica que você já viu",
    "quando": "2026-11-17T09:07:09.058687-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T08:07:10.568365-04:00",
+   "viral_chk": "2026-11-18T08:37:18.343238-04:00",
    "metricas": {
     "views": 66,
     "likes": 1,
@@ -1031,7 +1016,7 @@
    "texto": "VAMOS SER HONESTOS: qual foi o gasto surpresa com bicho que quase te fez financiar o gato em trinta e seis vezes no carnê da casas bahia porque o infeliz decidiu que só comeria ração com selo de aprovação do papa",
    "quando": "2026-11-17T14:07:09.837468-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T08:07:10.568365-04:00",
+   "viral_chk": "2026-11-18T08:37:18.343238-04:00",
    "metricas": {
     "views": 280,
     "likes": 1,
@@ -1053,7 +1038,7 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "23993565028",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "23993565028",
     "nome": "Suporte Celular Carro Veicular Trava Automática anti queda",
@@ -1069,7 +1054,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-11-18"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/6L657tto0h",
+   "link_em": "2026-11-18T08:37:18.343238-04:00",
+   "link_views": 0
   },
   {
    "id": "18611542363068430",
@@ -1078,7 +1066,7 @@
    "texto": "DÚVIDA SINCERA: em que momento exato da vida a gente vira a pessoa que fala \"se eu for aí e achar, eu pego\" para o boy e depois percebe que virou a própria mãe ameaçando o namorado com a sola do chinelo mental?",
    "quando": "2026-11-17T18:37:17.356170-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T08:07:10.568365-04:00",
+   "viral_chk": "2026-11-18T08:37:18.343238-04:00",
    "metricas": {
     "views": 104,
     "likes": 1,
@@ -1117,6 +1105,15 @@
     "shares": 0,
     "em": "2026-11-18"
    }
+  },
+  {
+   "id": "17965583001321734",
+   "insp": "40b922d817",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: pizza de ontem gelada da caixinha de papelão amassada é haute cuisine e quem discorda só tem inveja do nosso paladar de alta performance financeira pós-boleto.",
+   "quando": "2026-11-18T08:37:18.343238-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-18T08:37:18.343238-04:00"
   }
  ],
  "respondidos": [
@@ -4122,7 +4119,6 @@
   "17919976623262916"
  ],
  "hashes": [
-  "641c7392501b883d3c0c4712da6f91ca",
   "858f7877f9c28cec937083080f1aafad",
   "8c4c1624e76015f5d96bd6d5030c1359",
   "6b9fb23b684174a8a490e16e6deab228",
@@ -4321,7 +4317,8 @@
   "c0634cc426855ae944980565baaf0ccf",
   "db3e46de67c625094564bba41cb620d0",
   "b185815933318635e9186183d168d4d6",
-  "5b9a963ae3cdbba6cdcfdd5819097c71"
+  "5b9a963ae3cdbba6cdcfdd5819097c71",
+  "0d5076c05f05d2642724a76edae86628"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4393,7 +4390,6 @@
   "fb886a59a7": 1791315444.3711731,
   "07137399ea": 1791322646.4106162,
   "5a57ea2b34": 1791329841.1190572,
-  "40b922d817": 1791337109.1160452,
   "e69b61516f": 1791376726.9967973,
   "fb0beb9a45": 1791380300.4169106,
   "bf83cca91b": 1791383893.0639527,
@@ -4732,7 +4728,8 @@
   "53abd8941d": 1794883050.7321832,
   "f9bb6059fa": 1794920899.4919643,
   "7733a769d4": 1794938847.3666458,
-  "d1e2f3c049": 1794955096.081281
+  "d1e2f3c049": 1794955096.081281,
+  "40b922d817": 1795005469.4103384
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -5577,6 +5574,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-17T07:07:09.478781-04:00"
+  },
+  "18122116579944153": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-18T08:37:18.343238-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6552,7 +6554,7 @@
   "22393525887": "2026-10-11T12:07:09.276302-04:00",
   "58214462678": "2026-10-11T15:37:09.556759-04:00",
   "58204067039": "2026-11-17T20:37:08.319525-04:00",
-  "23993565028": "2026-11-17T14:37:09.637951-04:00",
+  "23993565028": "2026-11-18T08:37:18.343238-04:00",
   "21898099575": "2026-10-27T21:07:08.589314-04:00",
   "58257654101": "2026-10-28T20:07:08.471996-04:00",
   "58250519029": "2026-10-31T12:37:07.469660-04:00",
