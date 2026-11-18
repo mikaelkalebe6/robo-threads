@@ -30,36 +30,21 @@
    "13:58",
    "15:59",
    "17:01",
-   "18:11"
+   "18:11",
+   "18:56"
   ],
   "produtos_feitos": 2,
-  "respostas": 7,
+  "respostas": 8,
   "por_post": {
    "18343211152279703": 2,
    "17988406653108359": 2,
    "18669013498032608": 1,
    "18150862768541103": 1,
-   "18114592565137270": 1
+   "18114592565137270": 1,
+   "18155194087527421": 1
   }
  },
  "posts": [
-  {
-   "id": "18130953941477836",
-   "insp": "6c95b06784",
-   "link": "",
-   "texto": "GENTE DO CÉU, descobri que a minha vizinha tá usando o mesmo método infalível que a gente usava pra desbloquear fase difícil no videogame pra descobrir a senha do Wi-Fi do boy da traição dela. O nível de hacker de relacionamento tá tão alto que a pessoa prefere gastar o QI memorizando sequência de b",
-   "quando": "2026-11-13T11:37:09.068103-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 396,
-    "likes": 0,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-18"
-   }
-  },
   {
    "id": "18121892965807955",
    "insp": "a537fed31d",
@@ -992,7 +977,7 @@
    "texto": "VAMOS SER HONESTOS: pizza de ontem gelada da caixinha de papelão amassada é haute cuisine e quem discorda só tem inveja do nosso paladar de alta performance financeira pós-boleto.",
    "quando": "2026-11-18T08:37:18.343238-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T19:07:09.511978-04:00"
+   "viral_chk": "2026-11-18T19:37:13.145783-04:00"
   },
   {
    "id": "17988406653108359",
@@ -1001,7 +986,7 @@
    "texto": "O tal do amor à primeira vista é só a sua carência vestida de Prada achando que o boy da farmácia que te deu bom dia é o pai dos seus filhos, porque racionalmente falando ninguém se apaixona pelo caráter de alguém que ainda não pagou um boleto pra ver se a pessoa desmaia.\n\nVocês já casaram na cabeça",
    "quando": "2026-11-18T09:07:08.904539-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T19:07:09.511978-04:00"
+   "viral_chk": "2026-11-18T19:37:13.145783-04:00"
   },
   {
    "id": "18022786943945602",
@@ -1030,7 +1015,7 @@
    "texto": "DÚVIDA SINCERA: a pessoa que tenta impressionar o crush falando difamado o próprio signo merece um troféu de palhaça ou um abraço? porque eu inventei que era ariana raiz pra parecer intensa e o boy me chamou pra ver eclipse às três da manhã num cemitério abandonado. detalhe: eu tenho pavor de escuro",
    "quando": "2026-11-18T11:37:10.846586-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T19:07:09.511978-04:00"
+   "viral_chk": "2026-11-18T19:37:13.145783-04:00"
   },
   {
    "id": "18150862768541103",
@@ -1039,7 +1024,7 @@
    "texto": "O nível de conexão no encontro tá tão alto que a pessoa passou duas horas olhando pra própria unha postiça gigante igual um velociraptor, mas jurou que tava prestando atenção na minha tese sobre o rodízio de carona da firma. O celular ficou na mesa com a tela virada pra baixo só pra fingir que a gen",
    "quando": "2026-11-18T13:07:09.915865-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T19:07:09.511978-04:00"
+   "viral_chk": "2026-11-18T19:37:13.145783-04:00"
   },
   {
    "id": "18117332165117832",
@@ -1048,7 +1033,7 @@
    "texto": "SEJAM SINCEROS: com quantos anos a criança já tem maturidade pra fingir que não viu o boleto da creche e pedir Uber sozinho pra fugir da tia chata?",
    "quando": "2026-11-18T14:07:18.748529-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T19:07:09.511978-04:00"
+   "viral_chk": "2026-11-18T19:37:13.145783-04:00"
   },
   {
    "id": "17879713524634778",
@@ -1077,7 +1062,7 @@
    "texto": "OPINIÃO IMPOPULAR: a pessoa começa a perder o interesse no exato segundo em que o boy manda um áudio de quatro minutos respirando fundo antes de falar e a miniatura do Spotify mostra que ele escuta funk consciente às três da manhã num domingo. Qual o nível de paz espiritual que vocês acham que sobre",
    "quando": "2026-11-18T17:07:09.224968-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T19:07:09.511978-04:00"
+   "viral_chk": "2026-11-18T19:37:13.145783-04:00"
   },
   {
    "id": "18155194087527421",
@@ -1086,11 +1071,19 @@
    "texto": "VAMOS SER HONESTOS: no primeiro encontro a pessoa tem que pagar a conta ou eu já posso acionar o SPC pelo Pix de meio açaí e dois pasteis de queijo que o alecrim dourado comeu sozinho enquanto reclamava da ex",
    "quando": "2026-11-18T18:37:10.502934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T19:07:09.511978-04:00"
+   "viral_chk": "2026-11-18T19:37:13.145783-04:00"
+  },
+  {
+   "id": "18168070993490631",
+   "insp": "c0031ddd0f",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: chorar por causa de comercial de margarina é fácil, quero ver manter a compostura quando a fatia do bolo de pote custa mais caro que o meu Uber e ainda vem com promessa de felicidade inclusa.",
+   "quando": "2026-11-18T19:37:13.145783-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-18T19:37:13.145783-04:00"
   }
  ],
  "respondidos": [
-  "18358478236222731",
   "17950085145275652",
   "18098280260428959",
   "18105681173369041",
@@ -4089,10 +4082,10 @@
   "18161420923518792",
   "18170594248485702",
   "17878302009585059",
-  "18165179236536508"
+  "18165179236536508",
+  "18026220065718672"
  ],
  "hashes": [
-  "6883a917152a5329e2f61d1416997d26",
   "c9a23aaa71653ac5d57373f4406f116c",
   "9cbb3ef6053fbd2800860a52ebe9abb6",
   "5eaf80d1c66d8b8a60ac661cfbf33290",
@@ -4291,7 +4284,8 @@
   "b12d932a8334bf71115ecb3adbc02e91",
   "b1dbd629d4b9ec599f653c8e993c1420",
   "528079b46bf1ddd26b1be402c551abff",
-  "1cb59b373d86bdc8505ba040d4501479"
+  "1cb59b373d86bdc8505ba040d4501479",
+  "436f812470f6b08f394513779c4de8ba"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4317,7 +4311,6 @@
   "962dfe5354": 1790856442.2857137,
   "52a7f9104a": 1790863692.6714327,
   "db79935195": 1790867256.044346,
-  "c0031ddd0f": 1790879857.0117278,
   "cfb5d252d5": 1790885244.5991204,
   "ae1c8a29b8": 1790887047.4568858,
   "40d9bc7aa4": 1790890644.6638198,
@@ -4702,7 +4695,8 @@
   "77b88ec144": 1795021651.8070705,
   "2f5da7a997": 1795025289.3249052,
   "4fb1c220f3": 1795036047.963534,
-  "1025b0cd16": 1795041496.3015172
+  "1025b0cd16": 1795041496.3015172,
+  "c0031ddd0f": 1795045094.7490833
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4711,15 +4705,11 @@
   "c70fbb17fe": 1,
   "5a4f6559c6": 1,
   "90dd791a42": 1,
-  "a0eb99e802": 1
+  "a0eb99e802": 1,
+  "eec6eed26a": 1
  },
  "reservas_checadas": "2026-11-18",
  "ultimas_respostas": [
-  {
-   "t": "fruta já é doce sozinha, colocar milho aí já é maldade pura kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Pepino na lasanha? acho que a mãe do boy entrou de férias na cozinha kkkkk",
    "p": "concorda",
@@ -4862,6 +4852,11 @@
   },
   {
    "t": "foi um raio X completo da situação",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "prejuízo completo e ainda teve que ouvir chororô da ex, o combo do caos",
    "p": "concorda",
    "r": 0
   }
@@ -6196,10 +6191,6 @@
   }
  ],
  "aberturas_post": {
-  "18130953941477836": [
-   "vc nao entendeu",
-   "estou duvidando da"
-  ],
   "17954907144340398": [
    "que o hacker"
   ],
@@ -6421,6 +6412,9 @@
   ],
   "18114592565137270": [
    "foi um raio"
+  ],
+  "18155194087527421": [
+   "prejuizo completo e"
   ]
  },
  "shopee_checada": "2026-11-18|1",
