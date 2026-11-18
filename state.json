@@ -28,10 +28,11 @@
    "11:29"
   ],
   "produtos_feitos": 1,
-  "respostas": 4,
+  "respostas": 5,
   "por_post": {
    "18343211152279703": 2,
-   "17988406653108359": 2
+   "17988406653108359": 2,
+   "18669013498032608": 1
   }
  },
  "posts": [
@@ -969,7 +970,7 @@
    "texto": "VAMOS SER HONESTOS: qual foi o gasto surpresa com bicho que quase te fez financiar o gato em trinta e seis vezes no carnê da casas bahia porque o infeliz decidiu que só comeria ração com selo de aprovação do papa",
    "quando": "2026-11-17T14:07:09.837468-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T11:37:10.846586-04:00",
+   "viral_chk": "2026-11-18T12:07:09.990453-04:00",
    "metricas": {
     "views": 280,
     "likes": 1,
@@ -1019,7 +1020,7 @@
    "texto": "DÚVIDA SINCERA: em que momento exato da vida a gente vira a pessoa que fala \"se eu for aí e achar, eu pego\" para o boy e depois percebe que virou a própria mãe ameaçando o namorado com a sola do chinelo mental?",
    "quando": "2026-11-17T18:37:17.356170-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T11:37:10.846586-04:00",
+   "viral_chk": "2026-11-18T12:07:09.990453-04:00",
    "metricas": {
     "views": 104,
     "likes": 1,
@@ -1066,7 +1067,7 @@
    "texto": "VAMOS SER HONESTOS: pizza de ontem gelada da caixinha de papelão amassada é haute cuisine e quem discorda só tem inveja do nosso paladar de alta performance financeira pós-boleto.",
    "quando": "2026-11-18T08:37:18.343238-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T11:37:10.846586-04:00"
+   "viral_chk": "2026-11-18T12:07:09.990453-04:00"
   },
   {
    "id": "17988406653108359",
@@ -1075,7 +1076,7 @@
    "texto": "O tal do amor à primeira vista é só a sua carência vestida de Prada achando que o boy da farmácia que te deu bom dia é o pai dos seus filhos, porque racionalmente falando ninguém se apaixona pelo caráter de alguém que ainda não pagou um boleto pra ver se a pessoa desmaia.\n\nVocês já casaram na cabeça",
    "quando": "2026-11-18T09:07:08.904539-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T11:37:10.846586-04:00"
+   "viral_chk": "2026-11-18T12:07:09.990453-04:00"
   },
   {
    "id": "18022786943945602",
@@ -1104,11 +1105,10 @@
    "texto": "DÚVIDA SINCERA: a pessoa que tenta impressionar o crush falando difamado o próprio signo merece um troféu de palhaça ou um abraço? porque eu inventei que era ariana raiz pra parecer intensa e o boy me chamou pra ver eclipse às três da manhã num cemitério abandonado. detalhe: eu tenho pavor de escuro",
    "quando": "2026-11-18T11:37:10.846586-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T11:37:10.846586-04:00"
+   "viral_chk": "2026-11-18T12:07:09.990453-04:00"
   }
  ],
  "respondidos": [
-  "17895480294417449",
   "18156191977509565",
   "18126547564880566",
   "18358478236222731",
@@ -4107,7 +4107,8 @@
   "17919976623262916",
   "18122468299996934",
   "18103630943552414",
-  "18161420923518792"
+  "18161420923518792",
+  "18170594248485702"
  ],
  "hashes": [
   "6b9fb23b684174a8a490e16e6deab228",
@@ -4727,15 +4728,11 @@
   "_data": "2026-11-18",
   "9c9ed7acc0": 2,
   "c70fbb17fe": 1,
-  "5a4f6559c6": 1
+  "5a4f6559c6": 1,
+  "90dd791a42": 1
  },
  "reservas_checadas": "2026-11-18",
  "ultimas_respostas": [
-  {
-   "t": "investimento baixo pelo estrago psicológico que evitei",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "prova de fogo logo na primeira impressão kkkkkk",
    "p": "concorda",
@@ -4880,6 +4877,11 @@
    "t": "kkk, então já tá quase oficial esse casamento de caixa 😅",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "kkkkk aceito o convite, mas só se levar lanterna kkkk 😆",
+   "p": "concorda",
+   "r": 3
   }
  ],
  "minhas_respostas": {
@@ -6207,9 +6209,6 @@
   }
  ],
  "aberturas_post": {
-  "18136310087493187": [
-   "o churrasco de"
-  ],
   "18022374683732581": [
    "perdeu a chance"
   ],
@@ -6434,6 +6433,9 @@
   "17988406653108359": [
    "3 temporadas e",
    "entao ja ta"
+  ],
+  "18669013498032608": [
+   "aceito o convite"
   ]
  },
  "shopee_checada": "2026-11-18|1",
