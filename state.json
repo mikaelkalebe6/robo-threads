@@ -29,35 +29,20 @@
    "12:51",
    "13:58",
    "15:59",
-   "17:01"
+   "17:01",
+   "18:11"
   ],
   "produtos_feitos": 2,
-  "respostas": 6,
+  "respostas": 7,
   "por_post": {
    "18343211152279703": 2,
    "17988406653108359": 2,
    "18669013498032608": 1,
-   "18150862768541103": 1
+   "18150862768541103": 1,
+   "18114592565137270": 1
   }
  },
  "posts": [
-  {
-   "id": "17918018859494317",
-   "insp": "0445902113",
-   "link": "",
-   "texto": "O paulistano inventa que vai dar um rolê só pra comprar três pãezinhos na padaria, parece que o pão francês virou atração turística com direito a guia turístico e lojinha de souvenir. A pessoa bota tênis de caminhada, o melhor casaco e pega o metrô pra ir comer um misto quente na esquina de baixo. Q",
-   "quando": "2026-11-13T10:37:09.201748-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 418,
-    "likes": 4,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-18"
-   }
-  },
   {
    "id": "18130953941477836",
    "insp": "6c95b06784",
@@ -957,7 +942,7 @@
    "texto": "DÚVIDA SINCERA: em que momento exato da vida a gente vira a pessoa que fala \"se eu for aí e achar, eu pego\" para o boy e depois percebe que virou a própria mãe ameaçando o namorado com a sola do chinelo mental?",
    "quando": "2026-11-17T18:37:17.356170-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T18:07:10.531749-04:00",
+   "viral_chk": "2026-11-18T18:37:10.502934-04:00",
    "metricas": {
     "views": 104,
     "likes": 1,
@@ -1007,7 +992,7 @@
    "texto": "VAMOS SER HONESTOS: pizza de ontem gelada da caixinha de papelão amassada é haute cuisine e quem discorda só tem inveja do nosso paladar de alta performance financeira pós-boleto.",
    "quando": "2026-11-18T08:37:18.343238-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T18:07:10.531749-04:00"
+   "viral_chk": "2026-11-18T18:37:10.502934-04:00"
   },
   {
    "id": "17988406653108359",
@@ -1016,7 +1001,7 @@
    "texto": "O tal do amor à primeira vista é só a sua carência vestida de Prada achando que o boy da farmácia que te deu bom dia é o pai dos seus filhos, porque racionalmente falando ninguém se apaixona pelo caráter de alguém que ainda não pagou um boleto pra ver se a pessoa desmaia.\n\nVocês já casaram na cabeça",
    "quando": "2026-11-18T09:07:08.904539-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T18:07:10.531749-04:00"
+   "viral_chk": "2026-11-18T18:37:10.502934-04:00"
   },
   {
    "id": "18022786943945602",
@@ -1045,7 +1030,7 @@
    "texto": "DÚVIDA SINCERA: a pessoa que tenta impressionar o crush falando difamado o próprio signo merece um troféu de palhaça ou um abraço? porque eu inventei que era ariana raiz pra parecer intensa e o boy me chamou pra ver eclipse às três da manhã num cemitério abandonado. detalhe: eu tenho pavor de escuro",
    "quando": "2026-11-18T11:37:10.846586-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T18:07:10.531749-04:00"
+   "viral_chk": "2026-11-18T18:37:10.502934-04:00"
   },
   {
    "id": "18150862768541103",
@@ -1054,7 +1039,7 @@
    "texto": "O nível de conexão no encontro tá tão alto que a pessoa passou duas horas olhando pra própria unha postiça gigante igual um velociraptor, mas jurou que tava prestando atenção na minha tese sobre o rodízio de carona da firma. O celular ficou na mesa com a tela virada pra baixo só pra fingir que a gen",
    "quando": "2026-11-18T13:07:09.915865-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T18:07:10.531749-04:00"
+   "viral_chk": "2026-11-18T18:37:10.502934-04:00"
   },
   {
    "id": "18117332165117832",
@@ -1063,7 +1048,7 @@
    "texto": "SEJAM SINCEROS: com quantos anos a criança já tem maturidade pra fingir que não viu o boleto da creche e pedir Uber sozinho pra fugir da tia chata?",
    "quando": "2026-11-18T14:07:18.748529-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T18:07:10.531749-04:00"
+   "viral_chk": "2026-11-18T18:37:10.502934-04:00"
   },
   {
    "id": "17879713524634778",
@@ -1092,11 +1077,19 @@
    "texto": "OPINIÃO IMPOPULAR: a pessoa começa a perder o interesse no exato segundo em que o boy manda um áudio de quatro minutos respirando fundo antes de falar e a miniatura do Spotify mostra que ele escuta funk consciente às três da manhã num domingo. Qual o nível de paz espiritual que vocês acham que sobre",
    "quando": "2026-11-18T17:07:09.224968-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T18:07:10.531749-04:00"
+   "viral_chk": "2026-11-18T18:37:10.502934-04:00"
+  },
+  {
+   "id": "18155194087527421",
+   "insp": "1025b0cd16",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: no primeiro encontro a pessoa tem que pagar a conta ou eu já posso acionar o SPC pelo Pix de meio açaí e dois pasteis de queijo que o alecrim dourado comeu sozinho enquanto reclamava da ex",
+   "quando": "2026-11-18T18:37:10.502934-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-18T18:37:10.502934-04:00"
   }
  ],
  "respondidos": [
-  "18126547564880566",
   "18358478236222731",
   "17950085145275652",
   "18098280260428959",
@@ -4095,10 +4088,10 @@
   "18103630943552414",
   "18161420923518792",
   "18170594248485702",
-  "17878302009585059"
+  "17878302009585059",
+  "18165179236536508"
  ],
  "hashes": [
-  "cec6ba7717687fd33f7d1147e01f42bb",
   "6883a917152a5329e2f61d1416997d26",
   "c9a23aaa71653ac5d57373f4406f116c",
   "9cbb3ef6053fbd2800860a52ebe9abb6",
@@ -4297,7 +4290,8 @@
   "7215cf9dceac682cc901938adefdc4fd",
   "b12d932a8334bf71115ecb3adbc02e91",
   "b1dbd629d4b9ec599f653c8e993c1420",
-  "528079b46bf1ddd26b1be402c551abff"
+  "528079b46bf1ddd26b1be402c551abff",
+  "1cb59b373d86bdc8505ba040d4501479"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4409,7 +4403,6 @@
   "654bef73ca": 1791770867.2880807,
   "615229a3f1": 1791808651.8310485,
   "ff36dce57b": 1791812301.1103742,
-  "1025b0cd16": 1791819454.3798175,
   "e55cc2488b": 1791835650.942528,
   "834ef38ad5": 1791839248.1884155,
   "c256239fef": 1791853676.4890728,
@@ -4708,7 +4701,8 @@
   "95c7572ca7": 1795016266.9344811,
   "77b88ec144": 1795021651.8070705,
   "2f5da7a997": 1795025289.3249052,
-  "4fb1c220f3": 1795036047.963534
+  "4fb1c220f3": 1795036047.963534,
+  "1025b0cd16": 1795041496.3015172
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4716,15 +4710,11 @@
   "9c9ed7acc0": 3,
   "c70fbb17fe": 1,
   "5a4f6559c6": 1,
-  "90dd791a42": 1
+  "90dd791a42": 1,
+  "a0eb99e802": 1
  },
  "reservas_checadas": "2026-11-18",
  "ultimas_respostas": [
-  {
-   "t": "tirar grão por grão é um nível de paciência que eu admiro profundamente kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "fruta já é doce sozinha, colocar milho aí já é maldade pura kkk",
    "p": "concorda",
@@ -4867,6 +4857,11 @@
   },
   {
    "t": "justo, tolerância zero pra falta de educação no date",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "foi um raio X completo da situação",
    "p": "concorda",
    "r": 0
   }
@@ -6201,11 +6196,6 @@
   }
  ],
  "aberturas_post": {
-  "17918018859494317": [
-   "esse roteiro turistico",
-   "a pior hora",
-   "verdade cada um"
-  ],
   "18130953941477836": [
    "vc nao entendeu",
    "estou duvidando da"
@@ -6428,6 +6418,9 @@
   ],
   "18150862768541103": [
    "justo tolerancia zero"
+  ],
+  "18114592565137270": [
+   "foi um raio"
   ]
  },
  "shopee_checada": "2026-11-18|1",
