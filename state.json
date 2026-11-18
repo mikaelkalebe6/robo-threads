@@ -24,33 +24,17 @@
   "feitos": [
    "08:05",
    "08:45",
-   "09:38"
+   "09:38",
+   "11:29"
   ],
   "produtos_feitos": 1,
-  "respostas": 3,
+  "respostas": 4,
   "por_post": {
    "18343211152279703": 2,
-   "17988406653108359": 1
+   "17988406653108359": 2
   }
  },
  "posts": [
-  {
-   "id": "18012664097996382",
-   "insp": "3a347dea45",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a nova modalidade de stalkear o ex é mandar um pix de um centavo com a mensagem \"saudade do meu ex?\" no extrato bancário ou o SPC já tá aceitando isso como garantia de choro?",
-   "quando": "2026-11-12T21:07:07.673630-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 142,
-    "likes": 3,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-18"
-   }
-  },
   {
    "id": "18096884879660620",
    "insp": "46db302f47",
@@ -985,7 +969,7 @@
    "texto": "VAMOS SER HONESTOS: qual foi o gasto surpresa com bicho que quase te fez financiar o gato em trinta e seis vezes no carnê da casas bahia porque o infeliz decidiu que só comeria ração com selo de aprovação do papa",
    "quando": "2026-11-17T14:07:09.837468-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T11:07:10.106567-04:00",
+   "viral_chk": "2026-11-18T11:37:10.846586-04:00",
    "metricas": {
     "views": 280,
     "likes": 1,
@@ -1035,7 +1019,7 @@
    "texto": "DÚVIDA SINCERA: em que momento exato da vida a gente vira a pessoa que fala \"se eu for aí e achar, eu pego\" para o boy e depois percebe que virou a própria mãe ameaçando o namorado com a sola do chinelo mental?",
    "quando": "2026-11-17T18:37:17.356170-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T11:07:10.106567-04:00",
+   "viral_chk": "2026-11-18T11:37:10.846586-04:00",
    "metricas": {
     "views": 104,
     "likes": 1,
@@ -1082,7 +1066,7 @@
    "texto": "VAMOS SER HONESTOS: pizza de ontem gelada da caixinha de papelão amassada é haute cuisine e quem discorda só tem inveja do nosso paladar de alta performance financeira pós-boleto.",
    "quando": "2026-11-18T08:37:18.343238-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T11:07:10.106567-04:00"
+   "viral_chk": "2026-11-18T11:37:10.846586-04:00"
   },
   {
    "id": "17988406653108359",
@@ -1091,7 +1075,7 @@
    "texto": "O tal do amor à primeira vista é só a sua carência vestida de Prada achando que o boy da farmácia que te deu bom dia é o pai dos seus filhos, porque racionalmente falando ninguém se apaixona pelo caráter de alguém que ainda não pagou um boleto pra ver se a pessoa desmaia.\n\nVocês já casaram na cabeça",
    "quando": "2026-11-18T09:07:08.904539-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T11:07:10.106567-04:00"
+   "viral_chk": "2026-11-18T11:37:10.846586-04:00"
   },
   {
    "id": "18022786943945602",
@@ -1112,10 +1096,18 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdmsrbntex15d7",
     "campanha": ""
    }
+  },
+  {
+   "id": "18669013498032608",
+   "insp": "95c7572ca7",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a pessoa que tenta impressionar o crush falando difamado o próprio signo merece um troféu de palhaça ou um abraço? porque eu inventei que era ariana raiz pra parecer intensa e o boy me chamou pra ver eclipse às três da manhã num cemitério abandonado. detalhe: eu tenho pavor de escuro",
+   "quando": "2026-11-18T11:37:10.846586-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-18T11:37:10.846586-04:00"
   }
  ],
  "respondidos": [
-  "18100913411378906",
   "17895480294417449",
   "18156191977509565",
   "18126547564880566",
@@ -4114,10 +4106,10 @@
   "18665387023027854",
   "17919976623262916",
   "18122468299996934",
-  "18103630943552414"
+  "18103630943552414",
+  "18161420923518792"
  ],
  "hashes": [
-  "8c4c1624e76015f5d96bd6d5030c1359",
   "6b9fb23b684174a8a490e16e6deab228",
   "804973db987f7b93619ff59c5bb175db",
   "a36d8664b49976c73459d95ad917665c",
@@ -4316,7 +4308,8 @@
   "b185815933318635e9186183d168d4d6",
   "5b9a963ae3cdbba6cdcfdd5819097c71",
   "0d5076c05f05d2642724a76edae86628",
-  "17fa89ded55a335b5b4d9ab5ab9aecbb"
+  "17fa89ded55a335b5b4d9ab5ab9aecbb",
+  "7215cf9dceac682cc901938adefdc4fd"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4423,7 +4416,6 @@
   "a5b40d343a": 1791673648.3117123,
   "a5b0a002b5": 1791677248.7385156,
   "7e236666a4": 1791682693.6785476,
-  "95c7572ca7": 1791722249.162733,
   "d9cd77c4a6": 1791743849.964815,
   "f0670ff0d7": 1791752839.976383,
   "5ffe3dfd2e": 1791760046.8847692,
@@ -4727,21 +4719,18 @@
   "7733a769d4": 1794938847.3666458,
   "d1e2f3c049": 1794955096.081281,
   "40b922d817": 1795005469.4103384,
-  "383fb2ad25": 1795007252.4071724
+  "383fb2ad25": 1795007252.4071724,
+  "95c7572ca7": 1795016266.9344811
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-11-18",
   "9c9ed7acc0": 2,
-  "c70fbb17fe": 1
+  "c70fbb17fe": 1,
+  "5a4f6559c6": 1
  },
  "reservas_checadas": "2026-11-18",
  "ultimas_respostas": [
-  {
-   "t": "concordo total, melhor engolir o orgulho e garantir a paz familiar",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "investimento baixo pelo estrago psicológico que evitei",
    "p": "neutra",
@@ -4886,6 +4875,11 @@
    "t": "95 por cento do mercado cortado é dose, o bolso chora só de ler",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "kkk, então já tá quase oficial esse casamento de caixa 😅",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6438,7 +6432,8 @@
    "95 por cento"
   ],
   "17988406653108359": [
-   "3 temporadas e"
+   "3 temporadas e",
+   "entao ja ta"
   ]
  },
  "shopee_checada": "2026-11-18|1",
