@@ -25,7 +25,8 @@
    "08:05",
    "08:45",
    "09:38",
-   "11:29"
+   "11:29",
+   "12:51"
   ],
   "produtos_feitos": 1,
   "respostas": 5,
@@ -36,23 +37,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18096884879660620",
-   "insp": "46db302f47",
-   "link": "",
-   "texto": "PESSOAS QUE TRABALHAM EM HOME OFFICE: o meu cérebro acha totalmente aceitável participar de uma reunião de diretoria de terno e gravata na parte de cima e calcinha de estampa de capivara embaixo. O problema é quando o chefe pede para eu levantar rapidinho para pegar um documento e eu descubro que o ",
-   "quando": "2026-11-12T22:07:14.299974-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 466,
-    "likes": 8,
-    "replies": 22,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-18"
-   }
-  },
   {
    "id": "18063130034642069",
    "insp": "0fc3b77eb4",
@@ -970,7 +954,7 @@
    "texto": "VAMOS SER HONESTOS: qual foi o gasto surpresa com bicho que quase te fez financiar o gato em trinta e seis vezes no carnê da casas bahia porque o infeliz decidiu que só comeria ração com selo de aprovação do papa",
    "quando": "2026-11-17T14:07:09.837468-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T12:37:10.149753-04:00",
+   "viral_chk": "2026-11-18T13:07:09.915865-04:00",
    "metricas": {
     "views": 280,
     "likes": 1,
@@ -1020,7 +1004,7 @@
    "texto": "DÚVIDA SINCERA: em que momento exato da vida a gente vira a pessoa que fala \"se eu for aí e achar, eu pego\" para o boy e depois percebe que virou a própria mãe ameaçando o namorado com a sola do chinelo mental?",
    "quando": "2026-11-17T18:37:17.356170-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T12:37:10.149753-04:00",
+   "viral_chk": "2026-11-18T13:07:09.915865-04:00",
    "metricas": {
     "views": 104,
     "likes": 1,
@@ -1067,7 +1051,7 @@
    "texto": "VAMOS SER HONESTOS: pizza de ontem gelada da caixinha de papelão amassada é haute cuisine e quem discorda só tem inveja do nosso paladar de alta performance financeira pós-boleto.",
    "quando": "2026-11-18T08:37:18.343238-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T12:37:10.149753-04:00"
+   "viral_chk": "2026-11-18T13:07:09.915865-04:00"
   },
   {
    "id": "17988406653108359",
@@ -1076,7 +1060,7 @@
    "texto": "O tal do amor à primeira vista é só a sua carência vestida de Prada achando que o boy da farmácia que te deu bom dia é o pai dos seus filhos, porque racionalmente falando ninguém se apaixona pelo caráter de alguém que ainda não pagou um boleto pra ver se a pessoa desmaia.\n\nVocês já casaram na cabeça",
    "quando": "2026-11-18T09:07:08.904539-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T12:37:10.149753-04:00"
+   "viral_chk": "2026-11-18T13:07:09.915865-04:00"
   },
   {
    "id": "18022786943945602",
@@ -1105,7 +1089,16 @@
    "texto": "DÚVIDA SINCERA: a pessoa que tenta impressionar o crush falando difamado o próprio signo merece um troféu de palhaça ou um abraço? porque eu inventei que era ariana raiz pra parecer intensa e o boy me chamou pra ver eclipse às três da manhã num cemitério abandonado. detalhe: eu tenho pavor de escuro",
    "quando": "2026-11-18T11:37:10.846586-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T12:37:10.149753-04:00"
+   "viral_chk": "2026-11-18T13:07:09.915865-04:00"
+  },
+  {
+   "id": "18150862768541103",
+   "insp": "77b88ec144",
+   "link": "",
+   "texto": "O nível de conexão no encontro tá tão alto que a pessoa passou duas horas olhando pra própria unha postiça gigante igual um velociraptor, mas jurou que tava prestando atenção na minha tese sobre o rodízio de carona da firma. O celular ficou na mesa com a tela virada pra baixo só pra fingir que a gen",
+   "quando": "2026-11-18T13:07:09.915865-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-18T13:07:09.915865-04:00"
   }
  ],
  "respondidos": [
@@ -4111,7 +4104,6 @@
   "18170594248485702"
  ],
  "hashes": [
-  "6b9fb23b684174a8a490e16e6deab228",
   "804973db987f7b93619ff59c5bb175db",
   "a36d8664b49976c73459d95ad917665c",
   "cec6ba7717687fd33f7d1147e01f42bb",
@@ -4310,7 +4302,8 @@
   "5b9a963ae3cdbba6cdcfdd5819097c71",
   "0d5076c05f05d2642724a76edae86628",
   "17fa89ded55a335b5b4d9ab5ab9aecbb",
-  "7215cf9dceac682cc901938adefdc4fd"
+  "7215cf9dceac682cc901938adefdc4fd",
+  "b12d932a8334bf71115ecb3adbc02e91"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4540,7 +4533,6 @@
   "6fc3351715": 1793365691.5429385,
   "911dee6995": 1793369286.8698964,
   "ff37b68cb2": 1793376490.7384787,
-  "77b88ec144": 1793380052.2374887,
   "311cd408b3": 1793383691.4343736,
   "3d3928277d": 1793385489.4548943,
   "7ef1d6fca0": 1793394450.0635054,
@@ -4721,7 +4713,8 @@
   "d1e2f3c049": 1794955096.081281,
   "40b922d817": 1795005469.4103384,
   "383fb2ad25": 1795007252.4071724,
-  "95c7572ca7": 1795016266.9344811
+  "95c7572ca7": 1795016266.9344811,
+  "77b88ec144": 1795021651.8070705
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
