@@ -15,30 +15,14 @@
    "20:56"
   ],
   "feitos": [
-   "08:27"
+   "08:27",
+   "09:41"
   ],
-  "produtos_feitos": 0,
+  "produtos_feitos": 1,
   "respostas": 0,
   "por_post": {}
  },
  "posts": [
-  {
-   "id": "18104241452373307",
-   "insp": "c7f8b70e05",
-   "link": "",
-   "texto": "Meu primeiro salário foi tão cinematográfico que eu comprei um sanduíche natural que me deu uma intoxicação alimentar digna de novela das nove e paguei a taxa de religiosidade do meu cachorro pra ele não queimar no inferno. O resto foi pra receita federal em forma de lágrimas. Qual foi a pior burric",
-   "quando": "2026-11-13T16:37:09.343879-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 150,
-    "likes": 2,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-19"
-   }
-  },
   {
    "id": "17979576284932506",
    "insp": "bc90ccda37",
@@ -971,7 +955,7 @@
    "texto": "DÚVIDA SINCERA: a pessoa que tenta impressionar o crush falando difamado o próprio signo merece um troféu de palhaça ou um abraço? porque eu inventei que era ariana raiz pra parecer intensa e o boy me chamou pra ver eclipse às três da manhã num cemitério abandonado. detalhe: eu tenho pavor de escuro",
    "quando": "2026-11-18T11:37:10.846586-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T09:37:09.221279-04:00",
+   "viral_chk": "2026-11-19T10:07:16.091626-04:00",
    "metricas": {
     "views": 172,
     "likes": 2,
@@ -989,7 +973,7 @@
    "texto": "O nível de conexão no encontro tá tão alto que a pessoa passou duas horas olhando pra própria unha postiça gigante igual um velociraptor, mas jurou que tava prestando atenção na minha tese sobre o rodízio de carona da firma. O celular ficou na mesa com a tela virada pra baixo só pra fingir que a gen",
    "quando": "2026-11-18T13:07:09.915865-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T09:37:09.221279-04:00",
+   "viral_chk": "2026-11-19T10:07:16.091626-04:00",
    "metricas": {
     "views": 66,
     "likes": 1,
@@ -1007,7 +991,7 @@
    "texto": "SEJAM SINCEROS: com quantos anos a criança já tem maturidade pra fingir que não viu o boleto da creche e pedir Uber sozinho pra fugir da tia chata?",
    "quando": "2026-11-18T14:07:18.748529-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T09:37:09.221279-04:00",
+   "viral_chk": "2026-11-19T10:07:16.091626-04:00",
    "metricas": {
     "views": 274,
     "likes": 2,
@@ -1029,7 +1013,7 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "22694227037",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "22694227037",
     "nome": "Revitalizador De Plástico Automotivo Matrix Cera Moto E Carro Para Choque Original",
@@ -1045,7 +1029,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-11-19"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/20x7YngPrA",
+   "link_em": "2026-11-19T10:07:16.091626-04:00",
+   "link_views": 0
   },
   {
    "id": "18114592565137270",
@@ -1054,7 +1041,7 @@
    "texto": "OPINIÃO IMPOPULAR: a pessoa começa a perder o interesse no exato segundo em que o boy manda um áudio de quatro minutos respirando fundo antes de falar e a miniatura do Spotify mostra que ele escuta funk consciente às três da manhã num domingo. Qual o nível de paz espiritual que vocês acham que sobre",
    "quando": "2026-11-18T17:07:09.224968-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T09:37:09.221279-04:00",
+   "viral_chk": "2026-11-19T10:07:16.091626-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1072,7 +1059,7 @@
    "texto": "VAMOS SER HONESTOS: no primeiro encontro a pessoa tem que pagar a conta ou eu já posso acionar o SPC pelo Pix de meio açaí e dois pasteis de queijo que o alecrim dourado comeu sozinho enquanto reclamava da ex",
    "quando": "2026-11-18T18:37:10.502934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T09:37:09.221279-04:00",
+   "viral_chk": "2026-11-19T10:07:16.091626-04:00",
    "metricas": {
     "views": 121,
     "likes": 2,
@@ -1090,7 +1077,7 @@
    "texto": "OPINIÃO IMPOPULAR: chorar por causa de comercial de margarina é fácil, quero ver manter a compostura quando a fatia do bolo de pote custa mais caro que o meu Uber e ainda vem com promessa de felicidade inclusa.",
    "quando": "2026-11-18T19:37:13.145783-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T09:37:09.221279-04:00",
+   "viral_chk": "2026-11-19T10:07:16.091626-04:00",
    "metricas": {
     "views": 334,
     "likes": 3,
@@ -1137,7 +1124,7 @@
    "texto": "SEM MENTIR: quantas horas vocês já ficaram jogando até o sol nascer porque a vizinha tava traindo o marido com o personal trainer e o roteiro da fofoca tava melhor que o modo história do jogo?",
    "quando": "2026-11-18T21:07:07.702288-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T09:37:09.221279-04:00",
+   "viral_chk": "2026-11-19T10:07:16.091626-04:00",
    "metricas": {
     "views": 38,
     "likes": 0,
@@ -1155,7 +1142,27 @@
    "texto": "SEM MENTIR: qual foi o pior estrago que já fizeram no grupo da família? minha tia avó descobriu que existe inteligência artificial e agora ela acha que o bolo de cenoura com cobertura de plástico que ela postou no zap foi gerado por robô comunista para acabar com a soberania da confeitaria brasileir",
    "quando": "2026-11-19T09:07:08.295933-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T09:37:09.221279-04:00"
+   "viral_chk": "2026-11-19T10:07:16.091626-04:00"
+  },
+  {
+   "id": "18040982102896369",
+   "insp": "prod_58262895607",
+   "link": "",
+   "texto": "Perder chamada no celular guiando e ouvindo barulho de estrada é dose, né? 😂 Descobri esse smartwatch que faz ligação e já vem com três pulseiras por um preço que achei que era erro no sistema. Olha como funciona 👀",
+   "quando": "2026-11-19T10:07:16.091626-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "58262895607",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "58262895607",
+    "nome": "Smartwatch WL23 PRO(46mm)2026 3 Pulseiras inteligente GPS unisex Esportes Faz Recebe Chamada",
+    "offerLink": "https://s.shopee.com.br/6L68JfUDVL",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mpp5kpuip537a4",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
@@ -5630,6 +5637,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-19T07:07:09.663735-04:00"
+  },
+  "18101844641434397": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-19T10:07:16.091626-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6585,7 +6597,7 @@
   "23198658411": "2026-11-01T13:07:08.715113-04:00",
   "14448900266": "2026-10-16T21:37:07.021297-04:00",
   "18599879164": "2026-11-01T10:07:09.481070-04:00",
-  "22694227037": "2026-11-18T16:07:10.725921-04:00",
+  "22694227037": "2026-11-19T10:07:16.091626-04:00",
   "14065340258": "2026-10-17T15:37:07.980428-04:00",
   "58255737985": "2026-11-04T12:37:08.343067-04:00",
   "58254074073": "2026-11-05T07:07:09.689824-04:00",
@@ -6670,7 +6682,8 @@
   "22898397694": "2026-11-08T07:07:08.627425-04:00",
   "58252352902": "2026-11-15T07:07:08.908196-04:00",
   "58219306819": "2026-11-15T07:07:08.908196-04:00",
-  "58268112796": "2026-11-18T20:07:08.552014-04:00"
+  "58268112796": "2026-11-18T20:07:08.552014-04:00",
+  "58262895607": "2026-11-19T10:07:16.091626-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
