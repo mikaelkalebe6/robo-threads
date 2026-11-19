@@ -32,7 +32,8 @@
    "17:01",
    "18:11",
    "18:56",
-   "19:49"
+   "19:49",
+   "20:56"
   ],
   "produtos_feitos": 3,
   "respostas": 8,
@@ -46,23 +47,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18046621457839134",
-   "insp": "6e7858b93b",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a partir de quantos reais o azeite de oliva passa a ser considerado herança de família e fica trancado no cofre do banco?",
-   "quando": "2026-11-13T14:37:08.374229-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 447,
-    "likes": 3,
-    "replies": 15,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-18"
-   }
-  },
   {
    "id": "17914429374484925",
    "insp": "4fcfb095d4",
@@ -961,7 +945,7 @@
    "texto": "VAMOS SER HONESTOS: pizza de ontem gelada da caixinha de papelão amassada é haute cuisine e quem discorda só tem inveja do nosso paladar de alta performance financeira pós-boleto.",
    "quando": "2026-11-18T08:37:18.343238-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T20:37:07.523760-04:00"
+   "viral_chk": "2026-11-18T21:07:07.702288-04:00"
   },
   {
    "id": "17988406653108359",
@@ -970,7 +954,7 @@
    "texto": "O tal do amor à primeira vista é só a sua carência vestida de Prada achando que o boy da farmácia que te deu bom dia é o pai dos seus filhos, porque racionalmente falando ninguém se apaixona pelo caráter de alguém que ainda não pagou um boleto pra ver se a pessoa desmaia.\n\nVocês já casaram na cabeça",
    "quando": "2026-11-18T09:07:08.904539-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T20:37:07.523760-04:00"
+   "viral_chk": "2026-11-18T21:07:07.702288-04:00"
   },
   {
    "id": "18022786943945602",
@@ -999,7 +983,7 @@
    "texto": "DÚVIDA SINCERA: a pessoa que tenta impressionar o crush falando difamado o próprio signo merece um troféu de palhaça ou um abraço? porque eu inventei que era ariana raiz pra parecer intensa e o boy me chamou pra ver eclipse às três da manhã num cemitério abandonado. detalhe: eu tenho pavor de escuro",
    "quando": "2026-11-18T11:37:10.846586-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T20:37:07.523760-04:00"
+   "viral_chk": "2026-11-18T21:07:07.702288-04:00"
   },
   {
    "id": "18150862768541103",
@@ -1008,7 +992,7 @@
    "texto": "O nível de conexão no encontro tá tão alto que a pessoa passou duas horas olhando pra própria unha postiça gigante igual um velociraptor, mas jurou que tava prestando atenção na minha tese sobre o rodízio de carona da firma. O celular ficou na mesa com a tela virada pra baixo só pra fingir que a gen",
    "quando": "2026-11-18T13:07:09.915865-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T20:37:07.523760-04:00"
+   "viral_chk": "2026-11-18T21:07:07.702288-04:00"
   },
   {
    "id": "18117332165117832",
@@ -1017,7 +1001,7 @@
    "texto": "SEJAM SINCEROS: com quantos anos a criança já tem maturidade pra fingir que não viu o boleto da creche e pedir Uber sozinho pra fugir da tia chata?",
    "quando": "2026-11-18T14:07:18.748529-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T20:37:07.523760-04:00"
+   "viral_chk": "2026-11-18T21:07:07.702288-04:00"
   },
   {
    "id": "17879713524634778",
@@ -1046,7 +1030,7 @@
    "texto": "OPINIÃO IMPOPULAR: a pessoa começa a perder o interesse no exato segundo em que o boy manda um áudio de quatro minutos respirando fundo antes de falar e a miniatura do Spotify mostra que ele escuta funk consciente às três da manhã num domingo. Qual o nível de paz espiritual que vocês acham que sobre",
    "quando": "2026-11-18T17:07:09.224968-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T20:37:07.523760-04:00"
+   "viral_chk": "2026-11-18T21:07:07.702288-04:00"
   },
   {
    "id": "18155194087527421",
@@ -1055,7 +1039,7 @@
    "texto": "VAMOS SER HONESTOS: no primeiro encontro a pessoa tem que pagar a conta ou eu já posso acionar o SPC pelo Pix de meio açaí e dois pasteis de queijo que o alecrim dourado comeu sozinho enquanto reclamava da ex",
    "quando": "2026-11-18T18:37:10.502934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T20:37:07.523760-04:00"
+   "viral_chk": "2026-11-18T21:07:07.702288-04:00"
   },
   {
    "id": "18168070993490631",
@@ -1064,7 +1048,7 @@
    "texto": "OPINIÃO IMPOPULAR: chorar por causa de comercial de margarina é fácil, quero ver manter a compostura quando a fatia do bolo de pote custa mais caro que o meu Uber e ainda vem com promessa de felicidade inclusa.",
    "quando": "2026-11-18T19:37:13.145783-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T20:37:07.523760-04:00"
+   "viral_chk": "2026-11-18T21:07:07.702288-04:00"
   },
   {
    "id": "18020253023953074",
@@ -1085,6 +1069,15 @@
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257v-mt486h58fqiv1e",
     "campanha": ""
    }
+  },
+  {
+   "id": "18115889417335650",
+   "insp": "6112a4e17f",
+   "link": "",
+   "texto": "SEM MENTIR: quantas horas vocês já ficaram jogando até o sol nascer porque a vizinha tava traindo o marido com o personal trainer e o roteiro da fofoca tava melhor que o modo história do jogo?",
+   "quando": "2026-11-18T21:07:07.702288-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-18T21:07:07.702288-04:00"
   }
  ],
  "respondidos": [
@@ -4090,7 +4083,6 @@
   "18026220065718672"
  ],
  "hashes": [
-  "c9a23aaa71653ac5d57373f4406f116c",
   "9cbb3ef6053fbd2800860a52ebe9abb6",
   "5eaf80d1c66d8b8a60ac661cfbf33290",
   "a03b56ab58cecb9faf4b8f1e12e8c13c",
@@ -4289,7 +4281,8 @@
   "b1dbd629d4b9ec599f653c8e993c1420",
   "528079b46bf1ddd26b1be402c551abff",
   "1cb59b373d86bdc8505ba040d4501479",
-  "436f812470f6b08f394513779c4de8ba"
+  "436f812470f6b08f394513779c4de8ba",
+  "c65c5919c6c1b034578ab4f0ab8d94b0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4418,7 +4411,6 @@
   "13bb414dfc": 1792195647.9195256,
   "7bb5b555f8": 1792242456.141735,
   "dded827567": 1792251452.5580068,
-  "6112a4e17f": 1792253245.2702851,
   "5f95698f56": 1792256892.5006678,
   "cbd68162a7": 1792260488.221213,
   "993899e22c": 1792264088.3358436,
@@ -4700,7 +4692,8 @@
   "2f5da7a997": 1795025289.3249052,
   "4fb1c220f3": 1795036047.963534,
   "1025b0cd16": 1795041496.3015172,
-  "c0031ddd0f": 1795045094.7490833
+  "c0031ddd0f": 1795045094.7490833,
+  "6112a4e17f": 1795050453.3074417
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
