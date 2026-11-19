@@ -20,9 +20,9 @@
    "14:23"
   ],
   "produtos_feitos": 1,
-  "respostas": 9,
+  "respostas": 11,
   "por_post": {
-   "18121063603804214": 9
+   "18121063603804214": 11
   }
  },
  "posts": [
@@ -1027,7 +1027,7 @@
    "texto": "OPINIÃO IMPOPULAR: a pessoa começa a perder o interesse no exato segundo em que o boy manda um áudio de quatro minutos respirando fundo antes de falar e a miniatura do Spotify mostra que ele escuta funk consciente às três da manhã num domingo. Qual o nível de paz espiritual que vocês acham que sobre",
    "quando": "2026-11-18T17:07:09.224968-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T15:07:09.375841-04:00",
+   "viral_chk": "2026-11-19T15:37:09.533239-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1045,7 +1045,7 @@
    "texto": "VAMOS SER HONESTOS: no primeiro encontro a pessoa tem que pagar a conta ou eu já posso acionar o SPC pelo Pix de meio açaí e dois pasteis de queijo que o alecrim dourado comeu sozinho enquanto reclamava da ex",
    "quando": "2026-11-18T18:37:10.502934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T15:07:09.375841-04:00",
+   "viral_chk": "2026-11-19T15:37:09.533239-04:00",
    "metricas": {
     "views": 121,
     "likes": 2,
@@ -1063,7 +1063,7 @@
    "texto": "OPINIÃO IMPOPULAR: chorar por causa de comercial de margarina é fácil, quero ver manter a compostura quando a fatia do bolo de pote custa mais caro que o meu Uber e ainda vem com promessa de felicidade inclusa.",
    "quando": "2026-11-18T19:37:13.145783-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T15:07:09.375841-04:00",
+   "viral_chk": "2026-11-19T15:37:09.533239-04:00",
    "metricas": {
     "views": 334,
     "likes": 3,
@@ -1113,7 +1113,7 @@
    "texto": "SEM MENTIR: quantas horas vocês já ficaram jogando até o sol nascer porque a vizinha tava traindo o marido com o personal trainer e o roteiro da fofoca tava melhor que o modo história do jogo?",
    "quando": "2026-11-18T21:07:07.702288-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T15:07:09.375841-04:00",
+   "viral_chk": "2026-11-19T15:37:09.533239-04:00",
    "metricas": {
     "views": 38,
     "likes": 0,
@@ -1131,7 +1131,7 @@
    "texto": "SEM MENTIR: qual foi o pior estrago que já fizeram no grupo da família? minha tia avó descobriu que existe inteligência artificial e agora ela acha que o bolo de cenoura com cobertura de plástico que ela postou no zap foi gerado por robô comunista para acabar com a soberania da confeitaria brasileir",
    "quando": "2026-11-19T09:07:08.295933-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T15:07:09.375841-04:00"
+   "viral_chk": "2026-11-19T15:37:09.533239-04:00"
   },
   {
    "id": "18040982102896369",
@@ -1160,12 +1160,15 @@
    "texto": "OPINIÃO IMPOPULAR: Fui num encontro num restaurante chique onde o infeliz pediu carpaccio de vaga-lume a R$ 300 e eu pedi a única coisa barata que achei, um pastel de vento gourmet, aí na hora de fechar a conta o ser humano meteu o clássico divide igual porque a gente é moderno. Moderno vai ser o ta",
    "quando": "2026-11-19T14:37:12.011394-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T15:07:09.375841-04:00"
+   "viral_chk": "2026-11-19T15:37:09.533239-04:00",
+   "link_coment": "https://s.shopee.com.br/9fMaqmLNSB",
+   "meme_comentado": true,
+   "meme_views": 639,
+   "formato_link": "coment",
+   "produto": "22798433097"
   }
  ],
  "respondidos": [
-  "18202668661340681",
-  "18199186984377121",
   "17958642123247594",
   "17961768027209224",
   "17874907062585554",
@@ -4163,7 +4166,9 @@
   "18136238962815044",
   "18113985155614994",
   "17961045984017728",
-  "18108241990988503"
+  "18108241990988503",
+  "18092810564697872",
+  "18104358551382508"
  ],
  "hashes": [
   "a03b56ab58cecb9faf4b8f1e12e8c13c",
@@ -4788,20 +4793,12 @@
   "83388a3fb2": 1,
   "5a4f6559c6": 1,
   "366fd5e9e4": 1,
-  "5340e05032": 1
+  "5340e05032": 1,
+  "969a9e1055": 1,
+  "7311fa2903": 1
  },
  "reservas_checadas": "2026-11-19",
  "ultimas_respostas": [
-  {
-   "t": "Buchada de coragem, hein? kkk só falta o molho de medo",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "vc tem bons reflexos ao comprar, evita o prato da vovó kkkk",
-   "p": "neutra",
-   "r": 1
-  },
   {
    "t": "sorpresa gostosa no melhor sentido da palavra kkkk",
    "p": "neutra",
@@ -4941,6 +4938,16 @@
    "t": "converso antes justamente para evitar esse tipo de surpresa desagradável",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "otária foi pouco, fui é palhaça msm kkkk",
+   "p": "ressalva",
+   "r": 1
+  },
+  {
+   "t": "kkk, se ele quiser dividir, que leve lanterna pro carpaccio de vaga‑lume 😂",
+   "p": "neutra",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -5653,6 +5660,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-19T14:37:12.011394-04:00"
+  },
+  "17905633752399255": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-19T15:37:09.533239-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6524,7 +6536,9 @@
    "bora pedir o",
    "formiga crocante ja",
    "pior que a",
-   "converso antes justamente"
+   "converso antes justamente",
+   "otaria foi pouco",
+   "se ele quiser"
   ]
  },
  "shopee_checada": "2026-11-19|1",
@@ -6702,7 +6716,8 @@
   "58252352902": "2026-11-15T07:07:08.908196-04:00",
   "58219306819": "2026-11-15T07:07:08.908196-04:00",
   "58268112796": "2026-11-19T14:37:12.011394-04:00",
-  "58262895607": "2026-11-19T10:07:16.091626-04:00"
+  "58262895607": "2026-11-19T10:07:16.091626-04:00",
+  "22798433097": "2026-11-19T15:37:09.533239-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -6712,7 +6727,7 @@
  },
  "meme_links_dia": {
   "data": "2026-11-19",
-  "qtd": 0
+  "qtd": 1
  },
  "carrosseis_usados": [
   "car-20261010-1",
