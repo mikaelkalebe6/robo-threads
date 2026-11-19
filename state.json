@@ -17,7 +17,8 @@
   "feitos": [
    "08:27",
    "09:41",
-   "14:23"
+   "14:23",
+   "18:21"
   ],
   "produtos_feitos": 1,
   "respostas": 13,
@@ -27,23 +28,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18126701461718589",
-   "insp": "ff5db927b2",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: o ex da minha vizinha teve a audácia de colocar o feijão EM CIMA do arroz na quentinha que ela mandou pra ele e agora o grupo do condomínio inteiro tá votando se isso é motivo pra medida protetiva ou só deportação imediata.",
-   "quando": "2026-11-13T19:07:08.511148-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 72,
-    "likes": 2,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-19"
-   }
-  },
   {
    "id": "18175522570414652",
    "insp": "017f3ae860",
@@ -1046,7 +1030,7 @@
    "texto": "VAMOS SER HONESTOS: no primeiro encontro a pessoa tem que pagar a conta ou eu já posso acionar o SPC pelo Pix de meio açaí e dois pasteis de queijo que o alecrim dourado comeu sozinho enquanto reclamava da ex",
    "quando": "2026-11-18T18:37:10.502934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T18:07:10.292891-04:00",
+   "viral_chk": "2026-11-19T18:37:08.828557-04:00",
    "metricas": {
     "views": 121,
     "likes": 2,
@@ -1064,7 +1048,7 @@
    "texto": "OPINIÃO IMPOPULAR: chorar por causa de comercial de margarina é fácil, quero ver manter a compostura quando a fatia do bolo de pote custa mais caro que o meu Uber e ainda vem com promessa de felicidade inclusa.",
    "quando": "2026-11-18T19:37:13.145783-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T18:07:10.292891-04:00",
+   "viral_chk": "2026-11-19T18:37:08.828557-04:00",
    "metricas": {
     "views": 334,
     "likes": 3,
@@ -1114,7 +1098,7 @@
    "texto": "SEM MENTIR: quantas horas vocês já ficaram jogando até o sol nascer porque a vizinha tava traindo o marido com o personal trainer e o roteiro da fofoca tava melhor que o modo história do jogo?",
    "quando": "2026-11-18T21:07:07.702288-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T18:07:10.292891-04:00",
+   "viral_chk": "2026-11-19T18:37:08.828557-04:00",
    "metricas": {
     "views": 38,
     "likes": 0,
@@ -1132,7 +1116,7 @@
    "texto": "SEM MENTIR: qual foi o pior estrago que já fizeram no grupo da família? minha tia avó descobriu que existe inteligência artificial e agora ela acha que o bolo de cenoura com cobertura de plástico que ela postou no zap foi gerado por robô comunista para acabar com a soberania da confeitaria brasileir",
    "quando": "2026-11-19T09:07:08.295933-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T18:07:10.292891-04:00"
+   "viral_chk": "2026-11-19T18:37:08.828557-04:00"
   },
   {
    "id": "18040982102896369",
@@ -1167,6 +1151,15 @@
    "meme_views": 639,
    "formato_link": "coment",
    "produto": "22798433097"
+  },
+  {
+   "id": "18062665283584810",
+   "insp": "379a8ce6b4",
+   "link": "",
+   "texto": "PESSOAS QUE MORAM SOZINHAS: a maior vantagem é andar pelada pela casa achando que é a Gisele Bündchen e a desvantagem é descobrir que o barulho estranho da cozinha de madrugada nunca é um fantasma romântico, é só a barata preta exercendo o livre arbítrio na sua pia. Quem foi o infeliz que inventou q",
+   "quando": "2026-11-19T18:37:08.828557-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-19T18:37:08.828557-04:00"
   }
  ],
  "respondidos": [
@@ -4172,7 +4165,6 @@
   "18681219499046912"
  ],
  "hashes": [
-  "a03b56ab58cecb9faf4b8f1e12e8c13c",
   "fbbfc005a55f490011978e63d18adff6",
   "2fe1b29384a69ec97affa54d7a08071c",
   "1d50e37cf449a26eeec6bdf81f5c69f7",
@@ -4371,7 +4363,8 @@
   "436f812470f6b08f394513779c4de8ba",
   "c65c5919c6c1b034578ab4f0ab8d94b0",
   "30ab4389cb9eb4f20b91929f59a9c833",
-  "b06f0f4cc0f155268e65d2e727b7be21"
+  "b06f0f4cc0f155268e65d2e727b7be21",
+  "fec199f597eeb60ca16502fe00912c57"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4585,7 +4578,6 @@
   "0046da4da8": 1793192851.2663953,
   "a46755f7b9": 1793207258.8348277,
   "1625f98254": 1793209089.0608096,
-  "379a8ce6b4": 1793221687.3524406,
   "8875ec01b3": 1793228854.8775113,
   "36f567653d": 1793236086.8599896,
   "095d3d6cd4": 1793279254.4351137,
@@ -4782,7 +4774,8 @@
   "c0031ddd0f": 1795045094.7490833,
   "6112a4e17f": 1795050453.3074417,
   "e1d097044c": 1795093658.1640792,
-  "fa26296fcf": 1795113454.666821
+  "fa26296fcf": 1795113454.666821,
+  "379a8ce6b4": 1795127847.6952102
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
