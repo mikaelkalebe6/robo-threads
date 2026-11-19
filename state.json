@@ -16,30 +16,14 @@
   ],
   "feitos": [
    "08:27",
-   "09:41"
+   "09:41",
+   "14:23"
   ],
   "produtos_feitos": 1,
   "respostas": 0,
   "por_post": {}
  },
  "posts": [
-  {
-   "id": "17979576284932506",
-   "insp": "bc90ccda37",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a pessoa me chama pro rolê às dez da noite e eu respondo que o meu gato teve uma crise existencial e precisa de terapia de apoio emocional. Qual a chance da pessoa acreditar que eu só queria ficar deitada vendo reels de comida?",
-   "quando": "2026-11-13T17:37:07.541834-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 248,
-    "likes": 6,
-    "replies": 12,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-19"
-   }
-  },
   {
    "id": "18126701461718589",
    "insp": "ff5db927b2",
@@ -1041,7 +1025,7 @@
    "texto": "OPINIÃO IMPOPULAR: a pessoa começa a perder o interesse no exato segundo em que o boy manda um áudio de quatro minutos respirando fundo antes de falar e a miniatura do Spotify mostra que ele escuta funk consciente às três da manhã num domingo. Qual o nível de paz espiritual que vocês acham que sobre",
    "quando": "2026-11-18T17:07:09.224968-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T14:07:08.512061-04:00",
+   "viral_chk": "2026-11-19T14:37:12.011394-04:00",
    "metricas": {
     "views": 192,
     "likes": 1,
@@ -1059,7 +1043,7 @@
    "texto": "VAMOS SER HONESTOS: no primeiro encontro a pessoa tem que pagar a conta ou eu já posso acionar o SPC pelo Pix de meio açaí e dois pasteis de queijo que o alecrim dourado comeu sozinho enquanto reclamava da ex",
    "quando": "2026-11-18T18:37:10.502934-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T14:07:08.512061-04:00",
+   "viral_chk": "2026-11-19T14:37:12.011394-04:00",
    "metricas": {
     "views": 121,
     "likes": 2,
@@ -1077,7 +1061,7 @@
    "texto": "OPINIÃO IMPOPULAR: chorar por causa de comercial de margarina é fácil, quero ver manter a compostura quando a fatia do bolo de pote custa mais caro que o meu Uber e ainda vem com promessa de felicidade inclusa.",
    "quando": "2026-11-18T19:37:13.145783-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T14:07:08.512061-04:00",
+   "viral_chk": "2026-11-19T14:37:12.011394-04:00",
    "metricas": {
     "views": 334,
     "likes": 3,
@@ -1099,7 +1083,7 @@
    "formato": "postfoto",
    "formato_link": "resp",
    "produto": "58268112796",
-   "link_pendente": true,
+   "link_pendente": false,
    "prod_dados": {
     "itemId": "58268112796",
     "nome": "relogio smartwatch multifuncional e resistente a quedas para crianças, adequado para alunos do ensino fundamental II.",
@@ -1115,7 +1099,10 @@
     "quotes": 0,
     "shares": 0,
     "em": "2026-11-19"
-   }
+   },
+   "link_coment": "https://s.shopee.com.br/2gCoM28C9H",
+   "link_em": "2026-11-19T14:37:12.011394-04:00",
+   "link_views": 0
   },
   {
    "id": "18115889417335650",
@@ -1124,7 +1111,7 @@
    "texto": "SEM MENTIR: quantas horas vocês já ficaram jogando até o sol nascer porque a vizinha tava traindo o marido com o personal trainer e o roteiro da fofoca tava melhor que o modo história do jogo?",
    "quando": "2026-11-18T21:07:07.702288-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T14:07:08.512061-04:00",
+   "viral_chk": "2026-11-19T14:37:12.011394-04:00",
    "metricas": {
     "views": 38,
     "likes": 0,
@@ -1142,7 +1129,7 @@
    "texto": "SEM MENTIR: qual foi o pior estrago que já fizeram no grupo da família? minha tia avó descobriu que existe inteligência artificial e agora ela acha que o bolo de cenoura com cobertura de plástico que ela postou no zap foi gerado por robô comunista para acabar com a soberania da confeitaria brasileir",
    "quando": "2026-11-19T09:07:08.295933-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T14:07:08.512061-04:00"
+   "viral_chk": "2026-11-19T14:37:12.011394-04:00"
   },
   {
    "id": "18040982102896369",
@@ -1163,6 +1150,15 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mpp5kpuip537a4",
     "campanha": ""
    }
+  },
+  {
+   "id": "18121063603804214",
+   "insp": "fa26296fcf",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Fui num encontro num restaurante chique onde o infeliz pediu carpaccio de vaga-lume a R$ 300 e eu pedi a única coisa barata que achei, um pastel de vento gourmet, aí na hora de fechar a conta o ser humano meteu o clássico divide igual porque a gente é moderno. Moderno vai ser o ta",
+   "quando": "2026-11-19T14:37:12.011394-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-19T14:37:12.011394-04:00"
   }
  ],
  "respondidos": [
@@ -4168,7 +4164,6 @@
   "18026220065718672"
  ],
  "hashes": [
-  "5eaf80d1c66d8b8a60ac661cfbf33290",
   "a03b56ab58cecb9faf4b8f1e12e8c13c",
   "fbbfc005a55f490011978e63d18adff6",
   "2fe1b29384a69ec97affa54d7a08071c",
@@ -4367,7 +4362,8 @@
   "1cb59b373d86bdc8505ba040d4501479",
   "436f812470f6b08f394513779c4de8ba",
   "c65c5919c6c1b034578ab4f0ab8d94b0",
-  "30ab4389cb9eb4f20b91929f59a9c833"
+  "30ab4389cb9eb4f20b91929f59a9c833",
+  "b06f0f4cc0f155268e65d2e727b7be21"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4540,7 +4536,6 @@
   "8f2f1c9592": 1792672653.2844026,
   "55ef5ab4ee": 1792683447.603377,
   "bcd56c55f6": 1792688850.6268787,
-  "fa26296fcf": 1792692452.4035587,
   "603114869d": 1792697842.438406,
   "2b3a6a81d7": 1792701496.5239007,
   "da8ab25023": 1792706895.8525548,
@@ -4778,7 +4773,8 @@
   "1025b0cd16": 1795041496.3015172,
   "c0031ddd0f": 1795045094.7490833,
   "6112a4e17f": 1795050453.3074417,
-  "e1d097044c": 1795093658.1640792
+  "e1d097044c": 1795093658.1640792,
+  "fa26296fcf": 1795113454.666821
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -5642,6 +5638,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-19T10:07:16.091626-04:00"
+  },
+  "18648318799034470": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-19T14:37:12.011394-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6682,7 +6683,7 @@
   "22898397694": "2026-11-08T07:07:08.627425-04:00",
   "58252352902": "2026-11-15T07:07:08.908196-04:00",
   "58219306819": "2026-11-15T07:07:08.908196-04:00",
-  "58268112796": "2026-11-18T20:07:08.552014-04:00",
+  "58268112796": "2026-11-19T14:37:12.011394-04:00",
   "58262895607": "2026-11-19T10:07:16.091626-04:00"
  },
  "teste_comentario_produto": {
