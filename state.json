@@ -20,10 +20,11 @@
    "09:14"
   ],
   "produtos_feitos": 0,
-  "respostas": 4,
+  "respostas": 7,
   "por_post": {
    "18062665283584810": 2,
-   "18438967744146475": 2
+   "18438967744146475": 2,
+   "18001391246829257": 3
   }
  },
  "posts": [
@@ -1185,9 +1186,6 @@
   }
  ],
  "respondidos": [
-  "17912600937283202",
-  "17911229826515271",
-  "18089470340256511",
   "18125691854488203",
   "18091486871491043",
   "18126528775873107",
@@ -4184,7 +4182,10 @@
   "17898346392615133",
   "17928622437448477",
   "18102031916560504",
-  "17874938325640726"
+  "17874938325640726",
+  "18077390303774165",
+  "18083204480457132",
+  "18072890264507678"
  ],
  "hashes": [
   "c76c921a78b85f5f933205cc04b852b9",
@@ -4805,25 +4806,13 @@
   "9c9ed7acc0": 1,
   "f3affc8b90": 1,
   "1707d794f8": 1,
-  "366fd5e9e4": 1
+  "366fd5e9e4": 1,
+  "e565cc147c": 1,
+  "57d03e4ba9": 1,
+  "da4ff88606": 1
  },
  "reservas_checadas": "2026-11-20",
  "ultimas_respostas": [
-  {
-   "t": "investimento de respeito testado com sucesso no Luan Santana kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "sorte grande porque economizar na ração é raridade hoje em dia",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pura maldade planejada com requintes de crueldade kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "misturar sal e açúcar na mesma rodada devia ser crime inafiançavel kkkk",
    "p": "concorda",
@@ -4958,6 +4947,21 @@
    "t": "verdade, melhor sozinha do que aguentando ranço alheio",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "descobriu foi o golpe cedo demais kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "pesado mas quem sou eu para julgar kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "iniciou a carreira cedo no sofrimento kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6325,12 +6329,6 @@
   }
  ],
  "aberturas_post": {
-  "17979576284932506": [
-   "ja avisando que",
-   "com certeza vai",
-   "esse sim e",
-   "estatistica puramente realista"
-  ],
   "18175522570414652": [
    "menos mal que",
    "pelo menos a",
@@ -6558,6 +6556,11 @@
   "18438967744146475": [
    "minha mente ja",
    "imagino o cansaco"
+  ],
+  "18001391246829257": [
+   "descobriu foi o",
+   "pesado mas quem",
+   "iniciou a carreira"
   ]
  },
  "shopee_checada": "2026-11-20|1",
