@@ -17,7 +17,8 @@
   ],
   "feitos": [
    "08:04",
-   "09:14"
+   "09:14",
+   "12:58"
   ],
   "produtos_feitos": 0,
   "respostas": 7,
@@ -28,24 +29,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18383916136235532",
-   "insp": "e50a061e21",
-   "link": "",
-   "texto": "SEM MENTIR: quem aqui já teve que pedir pro chat gpt fingir que é um romântico incurável só pra responder o boy que mandou \"oi sumida\" depois de três semanas no vácuo. O pior não é usar inteligência artificial, é a IA mandar você responder com um poema sobre o vento e o boy achar lindo e mandar \"pro",
-   "quando": "2026-11-14T10:07:09.074510-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 74,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-20"
-   },
-   "viral_chk": "2026-11-15T07:07:08.908196-04:00"
-  },
   {
    "id": "18651915367032814",
    "insp": "eb6c939e24",
@@ -1182,6 +1165,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: a partir de quantos anos a pessoa descobre que comer o miojo cru direto no pacote enquanto chora vendo boleto não é um lanche gourmet?",
    "quando": "2026-11-20T11:37:09.993250-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17874686565645901",
+   "insp": "7f395074e1",
+   "link": "",
+   "texto": "SEM MENTIR: qual foi o primeiro carro de vocês e quanto pagaram nele? O meu foi um Corsa que fazia um barulho de cafeteira quebrada, a porta do carona só abria por dentro e eu paguei doze vezes a minha dignidade e um boleto de IPTU atrasado. O pior nem foi o preço, foi descobrir no primeiro morro qu",
+   "quando": "2026-11-20T14:37:10.139824-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4188,7 +4179,6 @@
   "18072890264507678"
  ],
  "hashes": [
-  "c76c921a78b85f5f933205cc04b852b9",
   "72f0dbfd3ac493145ce33fba62e00229",
   "01afd5a482058d3fda4ef0a4b985eae9",
   "c414555ed6612a32f7c88bf17770d088",
@@ -4387,7 +4377,8 @@
   "bcd47cbafb38df245e574c98b5c54fad",
   "95525eab3e6691ea591ca8084b5a997f",
   "b433f78d4680556e8e793fef165a0f00",
-  "babb4391b9352275e4bd880381d9ea59"
+  "babb4391b9352275e4bd880381d9ea59",
+  "1e42aa4b35c13ca0292761b0e014df9f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4613,7 +4604,6 @@
   "35fc27c176": 1793399891.0611634,
   "7ba592d22e": 1793403484.6466517,
   "da475bd113": 1793408851.1002078,
-  "7f395074e1": 1793450287.861915,
   "642c97cc3a": 1793452048.4490342,
   "74bdceb463": 1793468270.5694325,
   "2096a4fb50": 1793471856.3255594,
@@ -4798,7 +4788,8 @@
   "38ecc56e84": 1795133298.029101,
   "7d6d624d0c": 1795136895.1484516,
   "c97ba72637": 1795178291.0253613,
-  "bd449a65bb": 1795189088.2188303
+  "bd449a65bb": 1795189088.2188303,
+  "7f395074e1": 1795199869.4321249
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
