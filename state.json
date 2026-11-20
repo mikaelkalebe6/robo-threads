@@ -23,12 +23,12 @@
    "15:55"
   ],
   "produtos_feitos": 0,
-  "respostas": 11,
+  "respostas": 12,
   "por_post": {
    "18062665283584810": 2,
    "18438967744146475": 2,
    "18001391246829257": 3,
-   "17874686565645901": 4
+   "17874686565645901": 5
   }
  },
  "posts": [
@@ -1160,7 +1160,6 @@
   }
  ],
  "respondidos": [
-  "17874504957584314",
   "18027979622878905",
   "18064499534784797",
   "17912797608542991",
@@ -4159,7 +4158,8 @@
   "18132099961877143",
   "17878367679638372",
   "17930523744430501",
-  "18133040873507971"
+  "18133040873507971",
+  "18120094274092101"
  ],
  "hashes": [
   "c414555ed6612a32f7c88bf17770d088",
@@ -4787,15 +4787,11 @@
   "d3c3d528f3": 1,
   "8cc8706b2b": 1,
   "b234975816": 1,
-  "1fdd94a055": 1
+  "1fdd94a055": 1,
+  "5464860914": 1
  },
  "reservas_checadas": "2026-11-20",
  "ultimas_respostas": [
-  {
-   "t": "95 por cento do mercado cortado é dose, o bolso chora só de ler",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "kkk, então já tá quase oficial esse casamento de caixa 😅",
    "p": "concorda",
@@ -4938,6 +4934,11 @@
   },
   {
    "t": "comparação justa porque o sofrimento com Peugeot de ano 2002 é herança pesada kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "maverick vermelho em 1974 já é patrimônio histórico kkkk",
    "p": "concorda",
    "r": 1
   }
@@ -6538,7 +6539,8 @@
    "um carro vintage",
    "zero e por",
    "quatro anos rodando",
-   "comparacao justa porque"
+   "comparacao justa porque",
+   "maverick vermelho em"
   ]
  },
  "shopee_checada": "2026-11-20|1",
