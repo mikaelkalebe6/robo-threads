@@ -19,9 +19,9 @@
    "08:04"
   ],
   "produtos_feitos": 0,
-  "respostas": 3,
+  "respostas": 4,
   "por_post": {
-   "18062665283584810": 1,
+   "18062665283584810": 2,
    "18438967744146475": 2
   }
  },
@@ -1193,7 +1193,6 @@
   }
  ],
  "respondidos": [
-  "18117535619052852",
   "17912600937283202",
   "17911229826515271",
   "18089470340256511",
@@ -4192,7 +4191,8 @@
   "18681219499046912",
   "17898346392615133",
   "17928622437448477",
-  "18102031916560504"
+  "18102031916560504",
+  "17874938325640726"
  ],
  "hashes": [
   "b499685ed78de3b7f80dedf8592e5a4c",
@@ -4812,15 +4812,11 @@
   "_data": "2026-11-20",
   "9c9ed7acc0": 1,
   "f3affc8b90": 1,
-  "1707d794f8": 1
+  "1707d794f8": 1,
+  "366fd5e9e4": 1
  },
  "reservas_checadas": "2026-11-20",
  "ultimas_respostas": [
-  {
-   "t": "essa mãe tinha certeza do que estava fazendo, o prato era maldito mesmo kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "investimento de respeito testado com sucesso no Luan Santana kkkkkk",
    "p": "concorda",
@@ -4963,6 +4959,11 @@
   },
   {
    "t": "imagino o cansaço que é lidar com isso todo dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, melhor sozinha do que aguentando ranço alheio",
    "p": "concorda",
    "r": 0
   }
@@ -6559,7 +6560,8 @@
    "procedimento corretissimo aprendizado"
   ],
   "18062665283584810": [
-   "livre arbitrio na"
+   "livre arbitrio na",
+   "verdade melhor sozinha"
   ],
   "18438967744146475": [
    "minha mente ja",
