@@ -21,11 +21,12 @@
    "12:58"
   ],
   "produtos_feitos": 0,
-  "respostas": 7,
+  "respostas": 10,
   "por_post": {
    "18062665283584810": 2,
    "18438967744146475": 2,
-   "18001391246829257": 3
+   "18001391246829257": 3,
+   "17874686565645901": 3
   }
  },
  "posts": [
@@ -1177,9 +1178,6 @@
   }
  ],
  "respondidos": [
-  "18125691854488203",
-  "18091486871491043",
-  "18126528775873107",
   "17911558368473279",
   "17874504957584314",
   "18027979622878905",
@@ -4176,7 +4174,10 @@
   "17874938325640726",
   "18077390303774165",
   "18083204480457132",
-  "18072890264507678"
+  "18072890264507678",
+  "18132099961877143",
+  "17878367679638372",
+  "17930523744430501"
  ],
  "hashes": [
   "72f0dbfd3ac493145ce33fba62e00229",
@@ -4800,25 +4801,13 @@
   "366fd5e9e4": 1,
   "e565cc147c": 1,
   "57d03e4ba9": 1,
-  "da4ff88606": 1
+  "da4ff88606": 1,
+  "d3c3d528f3": 1,
+  "8cc8706b2b": 1,
+  "b234975816": 1
  },
  "reservas_checadas": "2026-11-20",
  "ultimas_respostas": [
-  {
-   "t": "misturar sal e açúcar na mesma rodada devia ser crime inafiançavel kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "perder a fome foi o seu instinto de sobrevivência acionando o alarme kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "kkk, se pedra vira petisco eu já tô de olho 😂",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "3 temporadas é pouco, a minha já tá renovando pro quinto ano kkkkkk",
    "p": "concorda",
@@ -4953,6 +4942,21 @@
    "t": "iniciou a carreira cedo no sofrimento kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "um carro vintage de verdade e com preço que hoje em dia não paga nem o estacionamento",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "zero e por esse valor já começa vencendo na vida",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "quatro anos rodando tanto assim foi lucro puro com esse motor",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6320,12 +6324,6 @@
   }
  ],
  "aberturas_post": {
-  "18175522570414652": [
-   "menos mal que",
-   "pelo menos a",
-   "se tem salsa",
-   "esse ai com"
-  ],
   "18651915367032814": [
    "inveja branca dessa",
    "gerando renda passiva",
@@ -6552,6 +6550,11 @@
    "descobriu foi o",
    "pesado mas quem",
    "iniciou a carreira"
+  ],
+  "17874686565645901": [
+   "um carro vintage",
+   "zero e por",
+   "quatro anos rodando"
   ]
  },
  "shopee_checada": "2026-11-20|1",
