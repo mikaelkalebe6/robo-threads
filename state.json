@@ -18,36 +18,19 @@
   "feitos": [
    "08:04",
    "09:14",
-   "12:58"
+   "12:58",
+   "14:34"
   ],
   "produtos_feitos": 0,
-  "respostas": 10,
+  "respostas": 11,
   "por_post": {
    "18062665283584810": 2,
    "18438967744146475": 2,
    "18001391246829257": 3,
-   "17874686565645901": 3
+   "17874686565645901": 4
   }
  },
  "posts": [
-  {
-   "id": "18651915367032814",
-   "insp": "eb6c939e24",
-   "link": "",
-   "texto": "SEM MENTIR: o que você faria primeiro se ganhasse 10 mil reais hoje? Eu juro que tentaria investir com sabedoria, mas cinco minutos depois estaria pagando um boleto de IPVA vencido, pedindo um lanche superfaturado e comprando roupinha de tem-que-ter na internet. No fim das contas o dinheiro sumiria ",
-   "quando": "2026-11-14T10:37:08.825518-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 210,
-    "likes": 1,
-    "replies": 6,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-20"
-   },
-   "viral_chk": "2026-11-15T07:07:08.908196-04:00"
-  },
   {
    "id": "18120271687959403",
    "insp": "8ab8e68dd2",
@@ -1175,10 +1158,17 @@
    "texto": "SEM MENTIR: qual foi o primeiro carro de vocês e quanto pagaram nele? O meu foi um Corsa que fazia um barulho de cafeteira quebrada, a porta do carona só abria por dentro e eu paguei doze vezes a minha dignidade e um boleto de IPTU atrasado. O pior nem foi o preço, foi descobrir no primeiro morro qu",
    "quando": "2026-11-20T14:37:10.139824-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18159001912517103",
+   "insp": "e1ce0fd268",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Juro que não aguento mais competir com o Relâmpago McQueen pelo afeto do meu namorado. O maluco prefere colocar o DVD do Carros numa sexta-feira à noite do que ver qualquer outra coisa, e ainda fica com os olhos brilhando igualzinho quando a gente passa naqueles radares de 40 por ",
+   "quando": "2026-11-20T15:37:08.421283-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17911558368473279",
   "17874504957584314",
   "18027979622878905",
   "18064499534784797",
@@ -4177,10 +4167,10 @@
   "18072890264507678",
   "18132099961877143",
   "17878367679638372",
-  "17930523744430501"
+  "17930523744430501",
+  "18133040873507971"
  ],
  "hashes": [
-  "72f0dbfd3ac493145ce33fba62e00229",
   "01afd5a482058d3fda4ef0a4b985eae9",
   "c414555ed6612a32f7c88bf17770d088",
   "e350a4e6d12dac5c349dcef15bab3f7d",
@@ -4379,7 +4369,8 @@
   "95525eab3e6691ea591ca8084b5a997f",
   "b433f78d4680556e8e793fef165a0f00",
   "babb4391b9352275e4bd880381d9ea59",
-  "1e42aa4b35c13ca0292761b0e014df9f"
+  "1e42aa4b35c13ca0292761b0e014df9f",
+  "96d11b64c4883a6b174ee3bef74ad8cc"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4560,7 +4551,6 @@
   "e7eeb217a4": 1792773493.8628683,
   "c201aa73c5": 1792778846.8173857,
   "876494bf5b": 1792789682.5346763,
-  "e1ce0fd268": 1792800450.0255358,
   "ba30bb89b0": 1792805884.0814035,
   "1a4df9fa8d": 1792807648.3731372,
   "5efa674a14": 1792845486.7009747,
@@ -4790,7 +4780,8 @@
   "7d6d624d0c": 1795136895.1484516,
   "c97ba72637": 1795178291.0253613,
   "bd449a65bb": 1795189088.2188303,
-  "7f395074e1": 1795199869.4321249
+  "7f395074e1": 1795199869.4321249,
+  "e1ce0fd268": 1795203488.3438969
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4804,15 +4795,11 @@
   "da4ff88606": 1,
   "d3c3d528f3": 1,
   "8cc8706b2b": 1,
-  "b234975816": 1
+  "b234975816": 1,
+  "1fdd94a055": 1
  },
  "reservas_checadas": "2026-11-20",
  "ultimas_respostas": [
-  {
-   "t": "3 temporadas é pouco, a minha já tá renovando pro quinto ano kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "95 por cento do mercado cortado é dose, o bolso chora só de ler",
    "p": "concorda",
@@ -4957,6 +4944,11 @@
    "t": "quatro anos rodando tanto assim foi lucro puro com esse motor",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "comparação justa porque o sofrimento com Peugeot de ano 2002 é herança pesada kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6554,7 +6546,8 @@
   "17874686565645901": [
    "um carro vintage",
    "zero e por",
-   "quatro anos rodando"
+   "quatro anos rodando",
+   "comparacao justa porque"
   ]
  },
  "shopee_checada": "2026-11-20|1",
