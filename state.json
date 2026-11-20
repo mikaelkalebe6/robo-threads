@@ -15,7 +15,9 @@
    "14:34",
    "19:30"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:04"
+  ],
   "produtos_feitos": 0,
   "respostas": 1,
   "por_post": {
@@ -23,23 +25,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18129949615860859",
-   "insp": "d6e52dbbe4",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: o boy gastou o único pix que tinha pra pagar a prestação da moto na skin do Free Fire e ainda teve a audácia de mandar áudio chorando dizendo que o Pix caiu no multiverso da esposa dele, eu tô chocada que o apocalipse zumbi vai ser só mulher correndo atrás de homem que ainda lemb",
-   "quando": "2026-11-13T22:07:08.777734-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 68,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-20"
-   }
-  },
   {
    "id": "17997418490841281",
    "insp": "38ecc56e84",
@@ -1196,6 +1181,14 @@
     "shares": 0,
     "em": "2026-11-20"
    }
+  },
+  {
+   "id": "18438967744146475",
+   "insp": "c97ba72637",
+   "link": "",
+   "texto": "SEM MENTIR: vc já voltou pra casa porque não lembrava se fechou o gás ou se a sua vida amorosa inteira foi só um surto coletivo da sua ansiedade? O pior é que chego lá e o fogão tá intacto, mas a minha paz de espírito foi de arrasta pra cima. Alguém mais sofre desse nível de cinema mental ou sou só ",
+   "quando": "2026-11-20T08:37:08.607204-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4201,7 +4194,6 @@
   "17898346392615133"
  ],
  "hashes": [
-  "1d50e37cf449a26eeec6bdf81f5c69f7",
   "b499685ed78de3b7f80dedf8592e5a4c",
   "c76c921a78b85f5f933205cc04b852b9",
   "72f0dbfd3ac493145ce33fba62e00229",
@@ -4400,7 +4392,8 @@
   "b06f0f4cc0f155268e65d2e727b7be21",
   "fec199f597eeb60ca16502fe00912c57",
   "bcd47cbafb38df245e574c98b5c54fad",
-  "95525eab3e6691ea591ca8084b5a997f"
+  "95525eab3e6691ea591ca8084b5a997f",
+  "b433f78d4680556e8e793fef165a0f00"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4438,7 +4431,6 @@
   "ff377f4a44": 1790960890.434097,
   "e66fb581d1": 1790964490.8074522,
   "170d280425": 1790977043.7117248,
-  "c97ba72637": 1790982446.0230103,
   "e9335aae02": 1790989648.0792394,
   "20526bb3a2": 1790993249.785394,
   "d26d8b821e": 1791032846.9219635,
@@ -4811,7 +4803,8 @@
   "fa26296fcf": 1795113454.666821,
   "379a8ce6b4": 1795127847.6952102,
   "38ecc56e84": 1795133298.029101,
-  "7d6d624d0c": 1795136895.1484516
+  "7d6d624d0c": 1795136895.1484516,
+  "c97ba72637": 1795178291.0253613
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
