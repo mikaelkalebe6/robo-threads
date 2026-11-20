@@ -19,7 +19,8 @@
    "09:41",
    "14:23",
    "18:21",
-   "19:45"
+   "19:45",
+   "20:56"
   ],
   "produtos_feitos": 1,
   "respostas": 13,
@@ -29,23 +30,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18039921002899720",
-   "insp": "852685f1e2",
-   "link": "",
-   "texto": "SEM MENTIR: jurei pro boy que meu carro tinha baixado espírito de entidade e o painel inteiro acendeu bem na hora de ir pro motel, mas a verdade é que tava passando reprise de novela mexicana e eu não ia perder a cena da surra por nada neste mundo. Qual foi a pior mentira que vocês inventaram só pra",
-   "quando": "2026-11-13T21:37:08.139538-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 110,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-19"
-   }
-  },
   {
    "id": "18129949615860859",
    "insp": "d6e52dbbe4",
@@ -1100,7 +1084,7 @@
    "texto": "SEM MENTIR: qual foi o pior estrago que já fizeram no grupo da família? minha tia avó descobriu que existe inteligência artificial e agora ela acha que o bolo de cenoura com cobertura de plástico que ela postou no zap foi gerado por robô comunista para acabar com a soberania da confeitaria brasileir",
    "quando": "2026-11-19T09:07:08.295933-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T20:37:13.995481-04:00"
+   "viral_chk": "2026-11-19T21:07:08.370066-04:00"
   },
   {
    "id": "18040982102896369",
@@ -1143,7 +1127,7 @@
    "texto": "PESSOAS QUE MORAM SOZINHAS: a maior vantagem é andar pelada pela casa achando que é a Gisele Bündchen e a desvantagem é descobrir que o barulho estranho da cozinha de madrugada nunca é um fantasma romântico, é só a barata preta exercendo o livre arbítrio na sua pia. Quem foi o infeliz que inventou q",
    "quando": "2026-11-19T18:37:08.828557-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T20:37:13.995481-04:00"
+   "viral_chk": "2026-11-19T21:07:08.370066-04:00"
   },
   {
    "id": "18143121307616756",
@@ -1152,7 +1136,16 @@
    "texto": "SEJAM SINCEROS: prefere a roleta russa de pegar uma pneumonia tripla com o ventilador roncando igual a uma britadeira na sua cara às três da manhã ou pagar o equivalente a um rim no ar condicionado só pra não derreter o colchão?",
    "quando": "2026-11-19T20:07:09.737619-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T20:37:13.995481-04:00"
+   "viral_chk": "2026-11-19T21:07:08.370066-04:00"
+  },
+  {
+   "id": "18104609207055264",
+   "insp": "7d6d624d0c",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: Homem que passa dos trinta precisa começar a incluir laudo médico e raio-x nos aplicativos de paquera ou o boy já chega com a garantia de fábrica vencida direto? O meu ex me mandou mensagem avisando que a crise de labirintite dele atacou bem na hora de pagar o boleto do motel, eu tô ",
+   "quando": "2026-11-19T21:07:08.370066-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-19T21:07:08.370066-04:00"
   }
  ],
  "respondidos": [
@@ -4158,7 +4151,6 @@
   "18681219499046912"
  ],
  "hashes": [
-  "2fe1b29384a69ec97affa54d7a08071c",
   "1d50e37cf449a26eeec6bdf81f5c69f7",
   "b499685ed78de3b7f80dedf8592e5a4c",
   "c76c921a78b85f5f933205cc04b852b9",
@@ -4357,7 +4349,8 @@
   "30ab4389cb9eb4f20b91929f59a9c833",
   "b06f0f4cc0f155268e65d2e727b7be21",
   "fec199f597eeb60ca16502fe00912c57",
-  "bcd47cbafb38df245e574c98b5c54fad"
+  "bcd47cbafb38df245e574c98b5c54fad",
+  "95525eab3e6691ea591ca8084b5a997f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4408,7 +4401,6 @@
   "6d7d2f32e2": 1791079643.0164294,
   "3d41eeda62": 1791117448.2717893,
   "4e6f1fb18b": 1791122845.40371,
-  "7d6d624d0c": 1791126454.4498146,
   "5d46bb3702": 1791131871.1175742,
   "23a8ecfd7a": 1791137246.3924928,
   "dce953f387": 1791142652.6592295,
@@ -4768,7 +4760,8 @@
   "e1d097044c": 1795093658.1640792,
   "fa26296fcf": 1795113454.666821,
   "379a8ce6b4": 1795127847.6952102,
-  "38ecc56e84": 1795133298.029101
+  "38ecc56e84": 1795133298.029101,
+  "7d6d624d0c": 1795136895.1484516
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
