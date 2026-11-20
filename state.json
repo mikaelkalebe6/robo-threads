@@ -18,7 +18,8 @@
    "08:27",
    "09:41",
    "14:23",
-   "18:21"
+   "18:21",
+   "19:45"
   ],
   "produtos_feitos": 1,
   "respostas": 13,
@@ -28,23 +29,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18175522570414652",
-   "insp": "017f3ae860",
-   "link": "",
-   "texto": "O cara jura que vai me conquistar dando uma giradinha estilo passista de escola de samba no meio da balada e eu só consigo pensar se o IPVA dele tá em dia pra gente ir embora sem passar vergonha no meio da rua. Homem que sabe dançar ganha quantos pontos com vocês, de 0 a 10?",
-   "quando": "2026-11-13T19:37:08.766287-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 924,
-    "likes": 7,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-19"
-   }
-  },
   {
    "id": "18039921002899720",
    "insp": "852685f1e2",
@@ -1098,7 +1082,7 @@
    "texto": "SEM MENTIR: quantas horas vocês já ficaram jogando até o sol nascer porque a vizinha tava traindo o marido com o personal trainer e o roteiro da fofoca tava melhor que o modo história do jogo?",
    "quando": "2026-11-18T21:07:07.702288-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T19:37:07.734798-04:00",
+   "viral_chk": "2026-11-19T20:07:09.737619-04:00",
    "metricas": {
     "views": 38,
     "likes": 0,
@@ -1116,7 +1100,7 @@
    "texto": "SEM MENTIR: qual foi o pior estrago que já fizeram no grupo da família? minha tia avó descobriu que existe inteligência artificial e agora ela acha que o bolo de cenoura com cobertura de plástico que ela postou no zap foi gerado por robô comunista para acabar com a soberania da confeitaria brasileir",
    "quando": "2026-11-19T09:07:08.295933-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T19:37:07.734798-04:00"
+   "viral_chk": "2026-11-19T20:07:09.737619-04:00"
   },
   {
    "id": "18040982102896369",
@@ -1159,7 +1143,16 @@
    "texto": "PESSOAS QUE MORAM SOZINHAS: a maior vantagem é andar pelada pela casa achando que é a Gisele Bündchen e a desvantagem é descobrir que o barulho estranho da cozinha de madrugada nunca é um fantasma romântico, é só a barata preta exercendo o livre arbítrio na sua pia. Quem foi o infeliz que inventou q",
    "quando": "2026-11-19T18:37:08.828557-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T19:37:07.734798-04:00"
+   "viral_chk": "2026-11-19T20:07:09.737619-04:00"
+  },
+  {
+   "id": "18143121307616756",
+   "insp": "38ecc56e84",
+   "link": "",
+   "texto": "SEJAM SINCEROS: prefere a roleta russa de pegar uma pneumonia tripla com o ventilador roncando igual a uma britadeira na sua cara às três da manhã ou pagar o equivalente a um rim no ar condicionado só pra não derreter o colchão?",
+   "quando": "2026-11-19T20:07:09.737619-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-19T20:07:09.737619-04:00"
   }
  ],
  "respondidos": [
@@ -4165,7 +4158,6 @@
   "18681219499046912"
  ],
  "hashes": [
-  "fbbfc005a55f490011978e63d18adff6",
   "2fe1b29384a69ec97affa54d7a08071c",
   "1d50e37cf449a26eeec6bdf81f5c69f7",
   "b499685ed78de3b7f80dedf8592e5a4c",
@@ -4364,7 +4356,8 @@
   "c65c5919c6c1b034578ab4f0ab8d94b0",
   "30ab4389cb9eb4f20b91929f59a9c833",
   "b06f0f4cc0f155268e65d2e727b7be21",
-  "fec199f597eeb60ca16502fe00912c57"
+  "fec199f597eeb60ca16502fe00912c57",
+  "bcd47cbafb38df245e574c98b5c54fad"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4726,7 +4719,6 @@
   "017f3ae860": 1794613040.9707444,
   "852685f1e2": 1794620260.9634366,
   "d6e52dbbe4": 1794622087.3386233,
-  "38ecc56e84": 1794623895.169639,
   "e50a061e21": 1794665248.5132728,
   "eb6c939e24": 1794667094.2750309,
   "8ab8e68dd2": 1794672468.427,
@@ -4775,7 +4767,8 @@
   "6112a4e17f": 1795050453.3074417,
   "e1d097044c": 1795093658.1640792,
   "fa26296fcf": 1795113454.666821,
-  "379a8ce6b4": 1795127847.6952102
+  "379a8ce6b4": 1795127847.6952102,
+  "38ecc56e84": 1795133298.029101
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
