@@ -21,43 +21,22 @@
    "12:58",
    "14:34",
    "15:55",
-   "19:30"
+   "19:30",
+   "21:25"
   ],
   "produtos_feitos": 0,
-  "respostas": 16,
+  "respostas": 17,
   "por_post": {
    "18062665283584810": 2,
    "18438967744146475": 3,
    "18001391246829257": 3,
    "17874686565645901": 6,
    "18112368254239008": 1,
-   "17888396106504772": 1
+   "17888396106504772": 1,
+   "18159001912517103": 1
   }
  },
  "posts": [
-  {
-   "id": "18221737609359141",
-   "insp": "6e6b47e4ea",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: o único carro popular que envelheceu bem foi o Corsa Classic 2008 da minha ex-cunhada, que já pegou enchente, rodou sem óleo, carrega três caixas d'água no teto e ainda xinga a gente em código Morse toda vez que liga o ar-quente. Qual o limite de humilhação que um veículo aceita a",
-   "quando": "2026-11-14T13:37:12.982950-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1178,
-    "likes": 32,
-    "replies": 17,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-20"
-   },
-   "viral_chk": "2026-11-15T07:07:08.908196-04:00",
-   "link_coment": "https://s.shopee.com.br/3B90AHNJx1",
-   "meme_comentado": true,
-   "meme_views": 1049,
-   "formato_link": "coment",
-   "produto": "58252352902"
-  },
   {
    "id": "18098531486678091",
    "insp": "ca1265befe",
@@ -1150,10 +1129,17 @@
    "texto": "DÚVIDA SINCERA: vocês já se apaixonaram por alguém só pelo áudio do zap e na hora que viram a pessoa pessoalmente parece que o boleto venceu ontem? a criatura tem a voz do Barry White na velocidade 1.5, mas ao vivo tem a exata energia de quem come reboco de parede. juro, fiquei três dias planejando ",
    "quando": "2026-11-20T20:07:17.258203-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18095751749197555",
+   "insp": "c638d9ff81",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: prefere passar uma semana sem internet ou um mês inteiro sem comer doce? \n\nMeu cérebro coringou achando que um mês sem doce é de boa, mas aí lembrei que na terceira semana sem açúcar eu já estaria aceitando PIX de golpista só para comprar um Sonho de Valsa escondida no armário da coz",
+   "quando": "2026-11-20T22:37:13.462310-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17968444704186991",
   "18113371618845168",
   "18113982734329001",
   "17969526894179591",
@@ -4152,10 +4138,10 @@
   "18101643881557963",
   "18138008947674130",
   "18074519762602331",
-  "18137749958486411"
+  "18137749958486411",
+  "17968605102238355"
  ],
  "hashes": [
-  "e350a4e6d12dac5c349dcef15bab3f7d",
   "5bbed3398d65d4f79532663deb28f94c",
   "e9fecedcc06ae2cf7b014754cab7db10",
   "7a04382eff61bd2d8ad46e031f756606",
@@ -4354,7 +4340,8 @@
   "1e42aa4b35c13ca0292761b0e014df9f",
   "96d11b64c4883a6b174ee3bef74ad8cc",
   "4451ada6782cc82846f7a7117ea9aa9c",
-  "7ff1fcc30d26675d7758709d8afa9d75"
+  "7ff1fcc30d26675d7758709d8afa9d75",
+  "01b23d028df19fa48057b61e4be1d1f4"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4406,7 +4393,6 @@
   "5d46bb3702": 1791131871.1175742,
   "23a8ecfd7a": 1791137246.3924928,
   "dce953f387": 1791142652.6592295,
-  "c638d9ff81": 1791148042.25671,
   "c5cc27e19f": 1791151645.7283194,
   "c7f375102c": 1791160638.6544247,
   "7fff0e06da": 1791162445.4803498,
@@ -4765,7 +4751,8 @@
   "7f395074e1": 1795199869.4321249,
   "e1ce0fd268": 1795203488.3438969,
   "8b38fc3868": 1795205278.885947,
-  "962dfe5354": 1795219701.7446613
+  "962dfe5354": 1795219701.7446613,
+  "c638d9ff81": 1795228697.980564
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4784,15 +4771,11 @@
   "5464860914": 1,
   "5a4f6559c6": 1,
   "53fa6c089b": 2,
-  "c1eaa97d30": 1
+  "c1eaa97d30": 1,
+  "81a550e1e7": 1
  },
  "reservas_checadas": "2026-11-20",
  "ultimas_respostas": [
-  {
-   "t": "prejuízo completo e ainda teve que ouvir chororô da ex, o combo do caos",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "curitibana raiz não passa pano pra folgado kkkkk",
    "p": "concorda",
@@ -4937,6 +4920,11 @@
    "t": "dois anos sem dar problema já é quase um milagre financeiro kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "pelo menos você entende o tamanho do meu desespero",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6304,11 +6292,6 @@
   }
  ],
  "aberturas_post": {
-  "18139116064630488": [
-   "vinte anos de",
-   "caos total mas",
-   "paz de espirito"
-  ],
   "18396334567161083": [
    "pelo menos a",
    "tres pagamentos de",
@@ -6532,6 +6515,9 @@
   ],
   "17888396106504772": [
    "exato o boleto"
+  ],
+  "18159001912517103": [
+   "pelo menos voce"
   ]
  },
  "shopee_checada": "2026-11-20|1",
