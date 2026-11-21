@@ -17,7 +17,8 @@
   ],
   "feitos": [
    "08:46",
-   "10:26"
+   "10:26",
+   "11:21"
   ],
   "produtos_feitos": 0,
   "respostas": 1,
@@ -26,24 +27,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18146628538613203",
-   "insp": "7a1c42a5d7",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: se eu vejo o namorado da minha melhor amiga pagando lanche pra outra com o limite do cartão que ela mesma emprestou, eu conto ou mando o print pro Serasa pra sujar o nome do traste junto?",
-   "quando": "2026-11-14T18:37:07.876114-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 85,
-    "likes": 3,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-21"
-   },
-   "viral_chk": "2026-11-15T07:07:08.908196-04:00"
-  },
   {
    "id": "18139116064630488",
    "insp": "f9f379c8bc",
@@ -1168,6 +1151,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: tentei ser a namoradinha do Brasil, educada, respondendo direct em até cinco minutos e aceitando rolê em bar com cheiro de mijo. Resultado? Tomei ghosting de um cara que coleciona funkadão em vinil. A partir de hoje meu lema é virar a ex que assusta a família dele no Natal e ameaç",
    "quando": "2026-11-21T11:07:08.964285-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18450022324132652",
+   "insp": "8126542588",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: paixão de adolescente parecia um filme da disney mas com dor de barriga de ansiedade, e amor de adulto parece um boleto em débito automático que você aceita chorando. mas a real é que só o amor de adulto te obriga a dividir o frete grátis do mercado livre com alguém. qual dos dois",
+   "quando": "2026-11-21T12:07:08.089630-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4174,7 +4165,6 @@
   "18033200129880666"
  ],
  "hashes": [
-  "7a04382eff61bd2d8ad46e031f756606",
   "6da2964eb03f980332c318a307f9bd39",
   "46595bcf62665c726f473d3883306798",
   "06b76aab2e19c6074249fc37dd44226b",
@@ -4373,7 +4363,8 @@
   "7ff1fcc30d26675d7758709d8afa9d75",
   "01b23d028df19fa48057b61e4be1d1f4",
   "eda9899f040394b7785314c6f3f69180",
-  "b77e0e2e797135d3d6cb1a40d95c8574"
+  "b77e0e2e797135d3d6cb1a40d95c8574",
+  "d6f80bfd665dcf2f947f8dfc466687a1"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4554,7 +4545,6 @@
   "1a4df9fa8d": 1792807648.3731372,
   "5efa674a14": 1792845486.7009747,
   "31631bee08": 1792861687.3606534,
-  "8126542588": 1792865252.5994968,
   "23052490c4": 1792872469.8408012,
   "a1c2ae306e": 1792876083.525706,
   "c312178704": 1792894087.5275266,
@@ -4784,7 +4774,8 @@
   "962dfe5354": 1795219701.7446613,
   "c638d9ff81": 1795228697.980564,
   "31ea134865": 1795271891.685933,
-  "2b14999174": 1795273657.4840953
+  "2b14999174": 1795273657.4840953,
+  "8126542588": 1795277294.7807105
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
