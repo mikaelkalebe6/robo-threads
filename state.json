@@ -24,10 +24,10 @@
    "15:51"
   ],
   "produtos_feitos": 0,
-  "respostas": 2,
+  "respostas": 3,
   "por_post": {
    "17874686565645901": 1,
-   "17957195529284107": 1
+   "17957195529284107": 2
   }
  },
  "posts": [
@@ -1132,7 +1132,6 @@
   }
  ],
  "respondidos": [
-  "17969526894179591",
   "18127116601804506",
   "18126866977919059",
   "18129859441762686",
@@ -4131,7 +4130,8 @@
   "18137749958486411",
   "17968605102238355",
   "18033200129880666",
-  "17974980405155115"
+  "17974980405155115",
+  "18101692598104950"
  ],
  "hashes": [
   "c8a2e7fa55746c6d4194c6e55c240cc8",
@@ -4750,15 +4750,11 @@
  "por_pessoa": {
   "_data": "2026-11-21",
   "786f8beb7e": 1,
-  "bcff4cb30e": 1
+  "bcff4cb30e": 1,
+  "da053ac9a7": 1
  },
  "reservas_checadas": "2026-11-21",
  "ultimas_respostas": [
-  {
-   "t": "paguei só o pastel e vaga-lume deve ser prato de mentira para disfarçar o golpe",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "totalmente indefensável, o negócio foi um fiasco completo",
    "p": "concorda",
@@ -4901,6 +4897,11 @@
   },
   {
    "t": "zerou a vida dos motoristas organizados",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "agora o manual virou tutorial de celular mesmo",
    "p": "concorda",
    "r": 0
   }
@@ -6499,7 +6500,8 @@
    "pelo menos voce"
   ],
   "17957195529284107": [
-   "zerou a vida"
+   "zerou a vida",
+   "agora o manual"
   ]
  },
  "shopee_checada": "2026-11-21|1",
