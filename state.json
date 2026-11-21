@@ -20,7 +20,8 @@
    "09:14",
    "12:58",
    "14:34",
-   "15:55"
+   "15:55",
+   "19:30"
   ],
   "produtos_feitos": 0,
   "respostas": 12,
@@ -32,24 +33,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18128431813899276",
-   "insp": "d4f824d797",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a pessoa que inventou a frase é rapidinho no domingo à noite merece o que exatamente, prisão perpétua ou trabalho forçado na escala 6 por 1? Meu chefe mandou isso ontem jurando que era só uma coisinha de dois minutos e agora estou aqui fingindo que entendo de planilha enquanto meu mi",
-   "quando": "2026-11-14T12:37:08.945341-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 44,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-20"
-   },
-   "viral_chk": "2026-11-15T07:07:08.908196-04:00"
-  },
   {
    "id": "18221737609359141",
    "insp": "6e6b47e4ea",
@@ -1156,6 +1139,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: a partir de qual idade a gente olha pro boleto da luz vencido, aceita que meu pai tava certo sobre a desgraça da lâmpada acesa e começa a correr atrás da família inteira igual um sargento da reserva gritando na sala?",
    "quando": "2026-11-20T16:07:09.640629-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18112368254239008",
+   "insp": "962dfe5354",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: vocês já se apaixonaram por alguém só pelo áudio do zap e na hora que viram a pessoa pessoalmente parece que o boleto venceu ontem? a criatura tem a voz do Barry White na velocidade 1.5, mas ao vivo tem a exata energia de quem come reboco de parede. juro, fiquei três dias planejando ",
+   "quando": "2026-11-20T20:07:17.258203-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4162,7 +4153,6 @@
   "18120094274092101"
  ],
  "hashes": [
-  "c414555ed6612a32f7c88bf17770d088",
   "e350a4e6d12dac5c349dcef15bab3f7d",
   "5bbed3398d65d4f79532663deb28f94c",
   "e9fecedcc06ae2cf7b014754cab7db10",
@@ -4361,7 +4351,8 @@
   "babb4391b9352275e4bd880381d9ea59",
   "1e42aa4b35c13ca0292761b0e014df9f",
   "96d11b64c4883a6b174ee3bef74ad8cc",
-  "4451ada6782cc82846f7a7117ea9aa9c"
+  "4451ada6782cc82846f7a7117ea9aa9c",
+  "7ff1fcc30d26675d7758709d8afa9d75"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4384,7 +4375,6 @@
   "fbedf7f149": 1790813252.2096584,
   "c2d56efe9f": 1790816840.2517245,
   "559f0792a7": 1790820449.309396,
-  "962dfe5354": 1790856442.2857137,
   "52a7f9104a": 1790863692.6714327,
   "db79935195": 1790867256.044346,
   "cfb5d252d5": 1790885244.5991204,
@@ -4772,7 +4762,8 @@
   "bd449a65bb": 1795189088.2188303,
   "7f395074e1": 1795199869.4321249,
   "e1ce0fd268": 1795203488.3438969,
-  "8b38fc3868": 1795205278.885947
+  "8b38fc3868": 1795205278.885947,
+  "962dfe5354": 1795219701.7446613
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
