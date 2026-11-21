@@ -16,7 +16,8 @@
    "15:51"
   ],
   "feitos": [
-   "08:46"
+   "08:46",
+   "10:26"
   ],
   "produtos_feitos": 0,
   "respostas": 1,
@@ -25,24 +26,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18438527584199726",
-   "insp": "3b094b119a",
-   "link": "",
-   "texto": "ME CONTA: o plano pro feriadão é fingir que viajou e ficar maratonando série no escuro para economizar luz ou vocês preferem a humilhação tradicional de pegar quatro horas de trânsito pra comer salgadinho murcho na praia?",
-   "quando": "2026-11-14T17:07:07.982694-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 77,
-    "likes": 3,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-21"
-   },
-   "viral_chk": "2026-11-15T07:07:08.908196-04:00"
-  },
   {
    "id": "18146628538613203",
    "insp": "7a1c42a5d7",
@@ -1177,6 +1160,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: qual barulho de carro faz o seu cérebro imediatamente calcular o valor de um rim no mercado negro? O meu é aquele som que parece um gato engasgando com uma panela de pressão, seguido pela luz da injeção acendendo firme só pra testar minha fé em Deus. \n\nVocês preferem chorar no capô o",
    "quando": "2026-11-21T10:37:08.968754-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17996550648027278",
+   "insp": "2b14999174",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: tentei ser a namoradinha do Brasil, educada, respondendo direct em até cinco minutos e aceitando rolê em bar com cheiro de mijo. Resultado? Tomei ghosting de um cara que coleciona funkadão em vinil. A partir de hoje meu lema é virar a ex que assusta a família dele no Natal e ameaç",
+   "quando": "2026-11-21T11:07:08.964285-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4183,7 +4174,6 @@
   "18033200129880666"
  ],
  "hashes": [
-  "e9fecedcc06ae2cf7b014754cab7db10",
   "7a04382eff61bd2d8ad46e031f756606",
   "6da2964eb03f980332c318a307f9bd39",
   "46595bcf62665c726f473d3883306798",
@@ -4382,7 +4372,8 @@
   "4451ada6782cc82846f7a7117ea9aa9c",
   "7ff1fcc30d26675d7758709d8afa9d75",
   "01b23d028df19fa48057b61e4be1d1f4",
-  "eda9899f040394b7785314c6f3f69180"
+  "eda9899f040394b7785314c6f3f69180",
+  "b77e0e2e797135d3d6cb1a40d95c8574"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4398,7 +4389,6 @@
   "6447474ad3": 1790730448.4125926,
   "fd6c7eeb28": 1790771853.9675057,
   "018fcf3621": 1790782693.9690814,
-  "2b14999174": 1790786274.782627,
   "8b93fbf051": 1790789849.0126176,
   "00c9530901": 1790798863.395636,
   "3ce988f7a6": 1790807853.3159423,
@@ -4793,7 +4783,8 @@
   "8b38fc3868": 1795205278.885947,
   "962dfe5354": 1795219701.7446613,
   "c638d9ff81": 1795228697.980564,
-  "31ea134865": 1795271891.685933
+  "31ea134865": 1795271891.685933,
+  "2b14999174": 1795273657.4840953
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
