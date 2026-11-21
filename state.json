@@ -21,7 +21,8 @@
    "11:21",
    "12:28",
    "14:02",
-   "15:51"
+   "15:51",
+   "18:42"
   ],
   "produtos_feitos": 0,
   "respostas": 3,
@@ -31,23 +32,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18124714787064620",
-   "insp": "9dfc1777fa",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: a maior plot twist de 2024 não foi traição de famoso nem IA roubando emprego, foi eu abrir um pote de Kibon no congelador esperando feijão temperado e achar SORVETE DE CHOCOLATE. Juro pra vocês, fiquei tão tonta que quase mandei áudio de 14 minutos pro meu ex só pra avisar que a v",
-   "quando": "2026-11-15T11:07:08.864051-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 145,
-    "likes": 2,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-21"
-   }
-  },
   {
    "id": "18104104235645381",
    "insp": "b7ff902af0",
@@ -1128,6 +1112,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: o manual do carro é aquele livrinho que a gente só abre quando acende uma luz vermelha que parece a logo do capeta e o painel vira uma árvore de natal. aí você descobre que o carro tá com febre e você que vai ter que pagar o remédio. vocês realmente leem aquilo antes ou só descob",
    "quando": "2026-11-21T17:07:09.642289-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17915066049568172",
+   "insp": "d9cd77c4a6",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Google Maps acha que minha maior vocação na vida é dar ré em rua sem saída de favela só porque o algoritmo acordou com espírito de criminoso digital. O melhor GPS do Brasil continua sendo perguntar para o frentista do posto de gasolina que já viu corno fugir, amante ser chutada do",
+   "quando": "2026-11-21T19:07:08.309832-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4134,7 +4126,6 @@
   "18101692598104950"
  ],
  "hashes": [
-  "c8a2e7fa55746c6d4194c6e55c240cc8",
   "c8f106e1058d9f383f5ac046a3920bf1",
   "db0f6a2c64d4a2b808172e0280b42bd9",
   "1cbc33ea3f353808f8aecc3d59ed9541",
@@ -4333,7 +4324,8 @@
   "d6f80bfd665dcf2f947f8dfc466687a1",
   "1dbcf84542ba3e284bcd005764864477",
   "fada0cf76acafe4ecd83531f8ed0b5cb",
-  "783d2a3fa106c32dd5c354268ace77fd"
+  "783d2a3fa106c32dd5c354268ace77fd",
+  "7892041223b6245db259366b30a5ad3c"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4430,7 +4422,6 @@
   "a5b40d343a": 1791673648.3117123,
   "a5b0a002b5": 1791677248.7385156,
   "7e236666a4": 1791682693.6785476,
-  "d9cd77c4a6": 1791743849.964815,
   "f0670ff0d7": 1791752839.976383,
   "5ffe3dfd2e": 1791760046.8847692,
   "654bef73ca": 1791770867.2880807,
@@ -4744,7 +4735,8 @@
   "8126542588": 1795277294.7807105,
   "fb0beb9a45": 1795286286.8641663,
   "607a9f8d64": 1795291650.2599416,
-  "cc277cae04": 1795295293.3355992
+  "cc277cae04": 1795295293.3355992,
+  "d9cd77c4a6": 1795302449.4058213
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
