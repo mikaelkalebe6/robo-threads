@@ -24,10 +24,10 @@
    "19:30"
   ],
   "produtos_feitos": 0,
-  "respostas": 14,
+  "respostas": 15,
   "por_post": {
    "18062665283584810": 2,
-   "18438967744146475": 2,
+   "18438967744146475": 3,
    "18001391246829257": 3,
    "17874686565645901": 5,
    "18112368254239008": 1,
@@ -1153,7 +1153,6 @@
   }
  ],
  "respondidos": [
-  "17912797608542991",
   "18133568131737299",
   "17968444704186991",
   "18113371618845168",
@@ -4152,7 +4151,8 @@
   "18133040873507971",
   "18120094274092101",
   "18101643881557963",
-  "18138008947674130"
+  "18138008947674130",
+  "18074519762602331"
  ],
  "hashes": [
   "e350a4e6d12dac5c349dcef15bab3f7d",
@@ -4783,15 +4783,10 @@
   "1fdd94a055": 1,
   "5464860914": 1,
   "5a4f6559c6": 1,
-  "53fa6c089b": 1
+  "53fa6c089b": 2
  },
  "reservas_checadas": "2026-11-20",
  "ultimas_respostas": [
-  {
-   "t": "justo, tolerância zero pra falta de educação no date",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "foi um raio X completo da situação",
    "p": "concorda",
@@ -4936,6 +4931,11 @@
    "t": "exato, o boleto chega e a gente já vira o sargento da casa",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "perder o arroz é o menor dos danos perto do susto na estrada kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6510,7 +6510,8 @@
   ],
   "18438967744146475": [
    "minha mente ja",
-   "imagino o cansaco"
+   "imagino o cansaco",
+   "perder o arroz"
   ],
   "18001391246829257": [
    "descobriu foi o",
