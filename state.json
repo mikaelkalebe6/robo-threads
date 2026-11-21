@@ -18,7 +18,8 @@
   "feitos": [
    "08:46",
    "10:26",
-   "11:21"
+   "11:21",
+   "12:28"
   ],
   "produtos_feitos": 0,
   "respostas": 1,
@@ -27,24 +28,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18139116064630488",
-   "insp": "f9f379c8bc",
-   "link": "",
-   "texto": "SEM MENTIR: prefere pagar aluguel pra morar num ovo de pombo no centro com direito a barulhento transando na laje toda terça ou comprar uma mansão na pqp onde o Uber aceita a corrida chorando e o vizinho cria porco de estimação?",
-   "quando": "2026-11-14T19:07:08.244359-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 391,
-    "likes": 7,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-21"
-   },
-   "viral_chk": "2026-11-15T07:07:08.908196-04:00"
-  },
   {
    "id": "18152771725480497",
    "insp": "880c48c090",
@@ -1159,6 +1142,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: paixão de adolescente parecia um filme da disney mas com dor de barriga de ansiedade, e amor de adulto parece um boleto em débito automático que você aceita chorando. mas a real é que só o amor de adulto te obriga a dividir o frete grátis do mercado livre com alguém. qual dos dois",
    "quando": "2026-11-21T12:07:08.089630-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18196526386398981",
+   "insp": "fb0beb9a45",
+   "link": "",
+   "texto": "PESSOAS QUE VIAJAM MUITO: o perrengue não é perder o voo, é você olhar pro lado no aeroporto e descobrir que o boy tava mandando bom dia com carinha de apaixonado pro Uber dele enquanto fingia que lia um livro cult pra parecer misterioso. Qual foi a maior humilhação que o turismo te proporcionou?",
+   "quando": "2026-11-21T14:37:08.222110-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4165,7 +4156,6 @@
   "18033200129880666"
  ],
  "hashes": [
-  "6da2964eb03f980332c318a307f9bd39",
   "46595bcf62665c726f473d3883306798",
   "06b76aab2e19c6074249fc37dd44226b",
   "c8a2e7fa55746c6d4194c6e55c240cc8",
@@ -4364,7 +4354,8 @@
   "01b23d028df19fa48057b61e4be1d1f4",
   "eda9899f040394b7785314c6f3f69180",
   "b77e0e2e797135d3d6cb1a40d95c8574",
-  "d6f80bfd665dcf2f947f8dfc466687a1"
+  "d6f80bfd665dcf2f947f8dfc466687a1",
+  "1dbcf84542ba3e284bcd005764864477"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4430,7 +4421,6 @@
   "07137399ea": 1791322646.4106162,
   "5a57ea2b34": 1791329841.1190572,
   "e69b61516f": 1791376726.9967973,
-  "fb0beb9a45": 1791380300.4169106,
   "bf83cca91b": 1791383893.0639527,
   "0edf5745b6": 1791389239.8850503,
   "e9173b96df": 1791394644.6266675,
@@ -4775,7 +4765,8 @@
   "c638d9ff81": 1795228697.980564,
   "31ea134865": 1795271891.685933,
   "2b14999174": 1795273657.4840953,
-  "8126542588": 1795277294.7807105
+  "8126542588": 1795277294.7807105,
+  "fb0beb9a45": 1795286286.8641663
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
