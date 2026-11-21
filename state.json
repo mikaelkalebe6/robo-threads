@@ -24,12 +24,14 @@
    "19:30"
   ],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 14,
   "por_post": {
    "18062665283584810": 2,
    "18438967744146475": 2,
    "18001391246829257": 3,
-   "17874686565645901": 5
+   "17874686565645901": 5,
+   "18112368254239008": 1,
+   "17888396106504772": 1
   }
  },
  "posts": [
@@ -1151,8 +1153,6 @@
   }
  ],
  "respondidos": [
-  "18027979622878905",
-  "18064499534784797",
   "17912797608542991",
   "18133568131737299",
   "17968444704186991",
@@ -4150,7 +4150,9 @@
   "17878367679638372",
   "17930523744430501",
   "18133040873507971",
-  "18120094274092101"
+  "18120094274092101",
+  "18101643881557963",
+  "18138008947674130"
  ],
  "hashes": [
   "e350a4e6d12dac5c349dcef15bab3f7d",
@@ -4779,20 +4781,12 @@
   "8cc8706b2b": 1,
   "b234975816": 1,
   "1fdd94a055": 1,
-  "5464860914": 1
+  "5464860914": 1,
+  "5a4f6559c6": 1,
+  "53fa6c089b": 1
  },
  "reservas_checadas": "2026-11-20",
  "ultimas_respostas": [
-  {
-   "t": "kkk, então já tá quase oficial esse casamento de caixa 😅",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "kkkkk aceito o convite, mas só se levar lanterna kkkk 😆",
-   "p": "concorda",
-   "r": 3
-  },
   {
    "t": "justo, tolerância zero pra falta de educação no date",
    "p": "concorda",
@@ -4932,6 +4926,16 @@
    "t": "maverick vermelho em 1974 já é patrimônio histórico kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "voz zoada mas com bonus de princesa foi lucro na certa kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "exato, o boleto chega e a gente já vira o sargento da casa",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6299,19 +6303,6 @@
   }
  ],
  "aberturas_post": {
-  "18651915367032814": [
-   "inveja branca dessa",
-   "gerando renda passiva",
-   "prioridade de gente"
-  ],
-  "18221737609359141": [
-   "esse carro virou",
-   "motor antigo tem",
-   "milagre e fe",
-   "literalmente um tanque",
-   "o mille fire",
-   "sobreviveu a tudo"
-  ],
   "18139116064630488": [
    "vinte anos de",
    "caos total mas",
@@ -6532,6 +6523,12 @@
    "quatro anos rodando",
    "comparacao justa porque",
    "maverick vermelho em"
+  ],
+  "18112368254239008": [
+   "voz zoada mas"
+  ],
+  "17888396106504772": [
+   "exato o boleto"
   ]
  },
  "shopee_checada": "2026-11-20|1",
