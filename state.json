@@ -20,7 +20,8 @@
    "10:26",
    "11:21",
    "12:28",
-   "14:02"
+   "14:02",
+   "15:51"
   ],
   "produtos_feitos": 0,
   "respostas": 1,
@@ -29,29 +30,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18396334567161083",
-   "insp": "8afd53c3f1",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a conta bancária de vocês avisa quando entra dinheiro com fogos de artifício igual o Nubank faz ou a de vocês só manda um gemido de dor e desespero? Porque a minha parece que faz o PIX cair direto no bolso do agiota. Vocês guardam dinheiro ou vivem perigosamente apostando na sorte qu",
-   "quando": "2026-11-14T22:07:08.064732-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 778,
-    "likes": 5,
-    "replies": 8,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-21"
-   },
-   "viral_chk": "2026-11-15T07:07:08.908196-04:00",
-   "link_coment": "https://s.shopee.com.br/30pZxzwoln",
-   "meme_comentado": true,
-   "meme_views": 698,
-   "formato_link": "coment",
-   "produto": "58219306819"
-  },
   {
    "id": "18124714787064620",
    "insp": "9dfc1777fa",
@@ -1141,6 +1119,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: quem aqui já leu aquele textão de termos de uso e aceitou de boa vender a alma pro Mark Zuckerberg só porque queria ver o filtro novo de cachorro no Instagram. O pior é que se viesse escrito na terceira cláusula que eu sou obrigada a doar um rim e adotar três capivaras raivosas e",
    "quando": "2026-11-21T16:07:08.423041-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17957195529284107",
+   "insp": "cc277cae04",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: o manual do carro é aquele livrinho que a gente só abre quando acende uma luz vermelha que parece a logo do capeta e o painel vira uma árvore de natal. aí você descobre que o carro tá com febre e você que vai ter que pagar o remédio. vocês realmente leem aquilo antes ou só descob",
+   "quando": "2026-11-21T17:07:09.642289-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4147,7 +4133,6 @@
   "18033200129880666"
  ],
  "hashes": [
-  "06b76aab2e19c6074249fc37dd44226b",
   "c8a2e7fa55746c6d4194c6e55c240cc8",
   "c8f106e1058d9f383f5ac046a3920bf1",
   "db0f6a2c64d4a2b808172e0280b42bd9",
@@ -4346,7 +4331,8 @@
   "b77e0e2e797135d3d6cb1a40d95c8574",
   "d6f80bfd665dcf2f947f8dfc466687a1",
   "1dbcf84542ba3e284bcd005764864477",
-  "fada0cf76acafe4ecd83531f8ed0b5cb"
+  "fada0cf76acafe4ecd83531f8ed0b5cb",
+  "783d2a3fa106c32dd5c354268ace77fd"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4660,7 +4646,6 @@
   "d9aa630945": 1794323247.1317086,
   "95a127f43f": 1794328649.6362257,
   "cd232d0d3c": 1794344888.8127327,
-  "cc277cae04": 1794352051.0826151,
   "c71e576931": 1794362896.7196717,
   "b5bc8dc34f": 1794400656.0151815,
   "6e719f8d0f": 1794406097.618749,
@@ -4757,7 +4742,8 @@
   "2b14999174": 1795273657.4840953,
   "8126542588": 1795277294.7807105,
   "fb0beb9a45": 1795286286.8641663,
-  "607a9f8d64": 1795291650.2599416
+  "607a9f8d64": 1795291650.2599416,
+  "cc277cae04": 1795295293.3355992
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
