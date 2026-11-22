@@ -20,30 +20,14 @@
    "10:46",
    "11:32",
    "13:31",
-   "15:35"
+   "15:35",
+   "16:33"
   ],
   "produtos_feitos": 0,
   "respostas": 0,
   "por_post": {}
  },
  "posts": [
-  {
-   "id": "17952847533299771",
-   "insp": "db597fa355",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: eu julgo a pessoa pelo nível de golpe que ela aceita cair no Tinder. Se o boy chega dizendo que é herdeiro mas a foto do perfil é na mureta da praia com um corolla financiado em 72 vezes e o tapete da sala é de grama sintética, e a criatura ainda acha que vai virar boazuda da alta",
-   "quando": "2026-11-15T16:07:09.938906-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 84,
-    "likes": 2,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-22"
-   }
-  },
   {
    "id": "17998486959052559",
    "insp": "fb72b5075b",
@@ -1142,6 +1126,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: a linha entre pagar mais caro pela marca ou comprar o genérico que tem gosto de cal virgem é o que define se a gente venceu na vida ou só desistiu, porque meu remédio pra dor de cabeça genérico tem a mesma cor de um giz de lousa e só me faz chorar em outra língua, e vocês são team gr",
    "quando": "2026-11-22T16:07:10.322803-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18122819762067033",
+   "insp": "603114869d",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: cortar cabelo feminino virou financiamento imobiliário em 30 anos. \n\nFui retocar a franja e o moço do salão lançou: são duzentos e cinquenta reais, moça, porque inclui o visagismo quântico e o detox emocional dos fios. \n\nEu só queria tirar as pontas duplas, não fazer harmonização ",
+   "quando": "2026-11-22T17:07:10.152935-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4148,7 +4140,6 @@
   "18101692598104950"
  ],
  "hashes": [
-  "df0f0f164675125c2f2e419af0f50022",
   "ef94f165cd2347b409b4ea2a0220b27d",
   "69cd1fa41ad72b4d6fde3c44c3ae9453",
   "6212450f8d9caf546011af74ecae33fc",
@@ -4347,7 +4338,8 @@
   "6b5020d7bb032bd5f4fe6271c3f5ced8",
   "bfb26ad120cc1a3bca2ea3566fac28a2",
   "80f3002c9e0f3625755c24c1f0c6674b",
-  "9d61074fb330999e2c1a37c718f8b47a"
+  "9d61074fb330999e2c1a37c718f8b47a",
+  "661463a01f1dc60c417d7ac2bc220975"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4507,7 +4499,6 @@
   "d25c82e639": 1792633048.3753517,
   "55ef5ab4ee": 1792683447.603377,
   "bcd56c55f6": 1792688850.6268787,
-  "603114869d": 1792697842.438406,
   "2b3a6a81d7": 1792701496.5239007,
   "da8ab25023": 1792706895.8525548,
   "feb6e197f0": 1792715844.1856916,
@@ -4758,7 +4749,8 @@
   "a5b0a002b5": 1795360091.367442,
   "c2d56efe9f": 1795361896.520552,
   "8f2f1c9592": 1795376298.3687613,
-  "e69b61516f": 1795378050.3335407
+  "e69b61516f": 1795378050.3335407,
+  "603114869d": 1795381679.1835365
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
