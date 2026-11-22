@@ -18,30 +18,14 @@
   ],
   "feitos": [
    "10:46",
-   "11:32"
+   "11:32",
+   "13:31"
   ],
   "produtos_feitos": 0,
   "respostas": 0,
   "por_post": {}
  },
  "posts": [
-  {
-   "id": "17969002848236768",
-   "insp": "9ff7d269b6",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: amarração amorosa é para fracos que nunca tentaram prender o boy por falta de limite no cartão ou ameaçando mandar print da conversa da faculdade no grupo da família. O negócio hoje em dia é prender pelo medo do boleto vencido. Alguém aqui já apelou pra magia negra ou só aceitou q",
-   "quando": "2026-11-15T13:07:07.881753-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 90,
-    "likes": 1,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-22"
-   }
-  },
   {
    "id": "18211482229366474",
    "insp": "c77e24d709",
@@ -1158,6 +1142,14 @@
    "link": "",
    "texto": "Com sete anos eu jurei que seria veterinária de dinossauro e hoje estou aqui explicando por pix que o boleto do IPVA não aceita carinho e nem promessa de pagamento em laudo falso de exumação de alma gêmea. A infância é um golpe muito bem estruturado. Vocês também viraram adultos pagadores de imposto",
    "quando": "2026-11-22T11:37:08.990451-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18104695457413152",
+   "insp": "8f2f1c9592",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: a verdadeira pelada de domingo não é sobre futebol, é sobre quem vai ter a audácia de chegar no grupo do WhatsApp na segunda-feira fingindo que não foi o bagre que deu uma tesoura voadora no cunhado só porque o infeliz tava ganhando a aposta do bolão do brasileirão.",
+   "quando": "2026-11-22T15:37:08.611783-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4164,7 +4156,6 @@
   "18101692598104950"
  ],
  "hashes": [
-  "1cbc33ea3f353808f8aecc3d59ed9541",
   "fe62750c8cda9662833a131c7dec09dd",
   "df0f0f164675125c2f2e419af0f50022",
   "ef94f165cd2347b409b4ea2a0220b27d",
@@ -4363,7 +4354,8 @@
   "783d2a3fa106c32dd5c354268ace77fd",
   "7892041223b6245db259366b30a5ad3c",
   "6b5020d7bb032bd5f4fe6271c3f5ced8",
-  "bfb26ad120cc1a3bca2ea3566fac28a2"
+  "bfb26ad120cc1a3bca2ea3566fac28a2",
+  "80f3002c9e0f3625755c24c1f0c6674b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4522,7 +4514,6 @@
   "041d158196": 1792618645.1492493,
   "304d0a9ace": 1792631296.153229,
   "d25c82e639": 1792633048.3753517,
-  "8f2f1c9592": 1792672653.2844026,
   "55ef5ab4ee": 1792683447.603377,
   "bcd56c55f6": 1792688850.6268787,
   "603114869d": 1792697842.438406,
@@ -4774,7 +4765,8 @@
   "cc277cae04": 1795295293.3355992,
   "d9cd77c4a6": 1795302449.4058213,
   "a5b0a002b5": 1795360091.367442,
-  "c2d56efe9f": 1795361896.520552
+  "c2d56efe9f": 1795361896.520552,
+  "8f2f1c9592": 1795376298.3687613
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
