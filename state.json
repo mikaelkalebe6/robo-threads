@@ -19,30 +19,14 @@
   "feitos": [
    "10:46",
    "11:32",
-   "13:31"
+   "13:31",
+   "15:35"
   ],
   "produtos_feitos": 0,
   "respostas": 0,
   "por_post": {}
  },
  "posts": [
-  {
-   "id": "18211482229366474",
-   "insp": "c77e24d709",
-   "link": "",
-   "texto": "ME CONTA: como vocês conheceram a pessoa que tá com vocês hoje?\n\nPorque romance fofinho de cafeteria é fácil, quero ver sustentar o amor que começou com ele me dando uma ré no para-choque no estacionamento do atacarejo, a gente quase saindo na mão por causa de 200 reais de funilaria e, três meses de",
-   "quando": "2026-11-15T13:37:09.685944-04:00",
-   "ia": "Gemini gemini-flash-latest",
-   "metricas": {
-    "views": 242,
-    "likes": 1,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-22"
-   }
-  },
   {
    "id": "17952847533299771",
    "insp": "db597fa355",
@@ -1150,6 +1134,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: a verdadeira pelada de domingo não é sobre futebol, é sobre quem vai ter a audácia de chegar no grupo do WhatsApp na segunda-feira fingindo que não foi o bagre que deu uma tesoura voadora no cunhado só porque o infeliz tava ganhando a aposta do bolão do brasileirão.",
    "quando": "2026-11-22T15:37:08.611783-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18347363095281208",
+   "insp": "e69b61516f",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a linha entre pagar mais caro pela marca ou comprar o genérico que tem gosto de cal virgem é o que define se a gente venceu na vida ou só desistiu, porque meu remédio pra dor de cabeça genérico tem a mesma cor de um giz de lousa e só me faz chorar em outra língua, e vocês são team gr",
+   "quando": "2026-11-22T16:07:10.322803-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4156,7 +4148,6 @@
   "18101692598104950"
  ],
  "hashes": [
-  "fe62750c8cda9662833a131c7dec09dd",
   "df0f0f164675125c2f2e419af0f50022",
   "ef94f165cd2347b409b4ea2a0220b27d",
   "69cd1fa41ad72b4d6fde3c44c3ae9453",
@@ -4355,7 +4346,8 @@
   "7892041223b6245db259366b30a5ad3c",
   "6b5020d7bb032bd5f4fe6271c3f5ced8",
   "bfb26ad120cc1a3bca2ea3566fac28a2",
-  "80f3002c9e0f3625755c24c1f0c6674b"
+  "80f3002c9e0f3625755c24c1f0c6674b",
+  "9d61074fb330999e2c1a37c718f8b47a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4419,7 +4411,6 @@
   "fb886a59a7": 1791315444.3711731,
   "07137399ea": 1791322646.4106162,
   "5a57ea2b34": 1791329841.1190572,
-  "e69b61516f": 1791376726.9967973,
   "bf83cca91b": 1791383893.0639527,
   "0edf5745b6": 1791389239.8850503,
   "e9173b96df": 1791394644.6266675,
@@ -4766,7 +4757,8 @@
   "d9cd77c4a6": 1795302449.4058213,
   "a5b0a002b5": 1795360091.367442,
   "c2d56efe9f": 1795361896.520552,
-  "8f2f1c9592": 1795376298.3687613
+  "8f2f1c9592": 1795376298.3687613,
+  "e69b61516f": 1795378050.3335407
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
