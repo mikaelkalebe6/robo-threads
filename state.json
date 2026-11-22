@@ -24,8 +24,10 @@
    "16:33"
   ],
   "produtos_feitos": 0,
-  "respostas": 0,
-  "por_post": {}
+  "respostas": 1,
+  "por_post": {
+   "18122819762067033": 1
+  }
  },
  "posts": [
   {
@@ -1138,7 +1140,6 @@
   }
  ],
  "respondidos": [
-  "18127116601804506",
   "18126866977919059",
   "18129859441762686",
   "18020818769927093",
@@ -4137,7 +4138,8 @@
   "17968605102238355",
   "18033200129880666",
   "17974980405155115",
-  "18101692598104950"
+  "18101692598104950",
+  "17957613540326426"
  ],
  "hashes": [
   "ef94f165cd2347b409b4ea2a0220b27d",
@@ -4754,15 +4756,11 @@
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
-  "_data": "2026-11-22"
+  "_data": "2026-11-22",
+  "7c2b8178ae": 1
  },
  "reservas_checadas": "2026-11-22",
  "ultimas_respostas": [
-  {
-   "t": "totalmente indefensável, o negócio foi um fiasco completo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pelo menos já ilumina o ambiente sem gastar energia kkkkkk",
    "p": "concorda",
@@ -4906,6 +4904,11 @@
   {
    "t": "agora o manual virou tutorial de celular mesmo",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade mas o detox emocional pegou pesado demais",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6284,9 +6287,6 @@
   }
  ],
  "aberturas_post": {
-  "18152771725480497": [
-   "estrategia brilhante e"
-  ],
   "18438527584199726": [
    "com boa companhia"
   ],
@@ -6510,6 +6510,9 @@
   "17957195529284107": [
    "zerou a vida",
    "agora o manual"
+  ],
+  "18122819762067033": [
+   "verdade mas o"
   ]
  },
  "shopee_checada": "2026-11-22|1",
