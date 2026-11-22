@@ -21,7 +21,8 @@
    "11:32",
    "13:31",
    "15:35",
-   "16:33"
+   "16:33",
+   "19:22"
   ],
   "produtos_feitos": 0,
   "respostas": 3,
@@ -30,23 +31,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17998486959052559",
-   "insp": "fb72b5075b",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: qual é a profissão secreta que a galera tá exercendo pra conseguir comprar pão francês sem passar por um comitê de crédito do BNDES porque tá difícil demais",
-   "quando": "2026-11-15T18:37:08.233527-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 874,
-    "likes": 10,
-    "replies": 21,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-22"
-   }
-  },
   {
    "id": "18117749984024760",
    "insp": "3d5b6c562f",
@@ -1136,6 +1120,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: cortar cabelo feminino virou financiamento imobiliário em 30 anos. \n\nFui retocar a franja e o moço do salão lançou: são duzentos e cinquenta reais, moça, porque inclui o visagismo quântico e o detox emocional dos fios. \n\nEu só queria tirar as pontas duplas, não fazer harmonização ",
    "quando": "2026-11-22T17:07:10.152935-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18148563982597050",
+   "insp": "39b02ce282",
+   "link": "",
+   "texto": "PESSOAS QUE TRABALHAM COM PÚBLICO: O cliente chega na loja às 17h58 dizendo que é rapidinho só pra olhar, o relógio vira 18h e o ser humano puxa uma lista de casamento com cem convidados pra cotar em dez lojas diferentes. \n\nQual foi o nível máximo de sem-noção que você já atendeu e teve que sorrir p",
+   "quando": "2026-11-22T19:37:08.454680-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4142,7 +4134,6 @@
   "18652918666049465"
  ],
  "hashes": [
-  "ef94f165cd2347b409b4ea2a0220b27d",
   "69cd1fa41ad72b4d6fde3c44c3ae9453",
   "6212450f8d9caf546011af74ecae33fc",
   "6ed0895b56a8563f1079f91daaaaba34",
@@ -4341,7 +4332,8 @@
   "bfb26ad120cc1a3bca2ea3566fac28a2",
   "80f3002c9e0f3625755c24c1f0c6674b",
   "9d61074fb330999e2c1a37c718f8b47a",
-  "661463a01f1dc60c417d7ac2bc220975"
+  "661463a01f1dc60c417d7ac2bc220975",
+  "c8e2485e8b6cc044af04174187ce6877"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4384,7 +4376,6 @@
   "143d9cb236": 1791045474.23247,
   "120d39bc61": 1791052643.211581,
   "c5b66c6c5b": 1791065245.2783217,
-  "39b02ce282": 1791076070.1774423,
   "6d7d2f32e2": 1791079643.0164294,
   "3d41eeda62": 1791117448.2717893,
   "4e6f1fb18b": 1791122845.40371,
@@ -4752,7 +4743,8 @@
   "c2d56efe9f": 1795361896.520552,
   "8f2f1c9592": 1795376298.3687613,
   "e69b61516f": 1795378050.3335407,
-  "603114869d": 1795381679.1835365
+  "603114869d": 1795381679.1835365,
+  "39b02ce282": 1795390646.5894046
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
