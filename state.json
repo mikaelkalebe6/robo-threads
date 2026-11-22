@@ -24,9 +24,9 @@
    "16:33"
   ],
   "produtos_feitos": 0,
-  "respostas": 1,
+  "respostas": 3,
   "por_post": {
-   "18122819762067033": 1
+   "18122819762067033": 3
   }
  },
  "posts": [
@@ -1140,8 +1140,6 @@
   }
  ],
  "respondidos": [
-  "18126866977919059",
-  "18129859441762686",
   "18020818769927093",
   "18126274997490944",
   "18121234907080355",
@@ -4139,7 +4137,9 @@
   "18033200129880666",
   "17974980405155115",
   "18101692598104950",
-  "17957613540326426"
+  "17957613540326426",
+  "18010775256007642",
+  "18652918666049465"
  ],
  "hashes": [
   "ef94f165cd2347b409b4ea2a0220b27d",
@@ -4757,20 +4757,11 @@
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-11-22",
-  "7c2b8178ae": 1
+  "7c2b8178ae": 1,
+  "d641e65355": 2
  },
  "reservas_checadas": "2026-11-22",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos já ilumina o ambiente sem gastar energia kkkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "bora pedir o cardápio inteiro pra ver se o cabra aguenta a fatura kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "formiga crocante já é demais pra minha cabeça 🐜",
    "p": "concorda",
@@ -4910,6 +4901,16 @@
    "t": "verdade mas o detox emocional pegou pesado demais",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "Entendo o salão virou banco e a gente fica devedora de autoestima",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "KKK então o salão tem mais custos que minha conta de luz, né? Entendi o 'detox' 😅",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6512,7 +6513,9 @@
    "agora o manual"
   ],
   "18122819762067033": [
-   "verdade mas o"
+   "verdade mas o",
+   "entendo o salao",
+   "entao o salao"
   ]
  },
  "shopee_checada": "2026-11-22|1",
