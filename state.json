@@ -26,9 +26,10 @@
    "20:11"
   ],
   "produtos_feitos": 0,
-  "respostas": 4,
+  "respostas": 8,
   "por_post": {
-   "18122819762067033": 4
+   "18122819762067033": 4,
+   "18136963183688312": 4
   }
  },
  "posts": [
@@ -1124,10 +1125,6 @@
   }
  ],
  "respondidos": [
-  "18126274997490944",
-  "18121234907080355",
-  "18154950691522186",
-  "18109696325182426",
   "18346984171271007",
   "18099112862175782",
   "18368470966212880",
@@ -4123,7 +4120,11 @@
   "17957613540326426",
   "18010775256007642",
   "18652918666049465",
-  "17979837923932302"
+  "17979837923932302",
+  "18054215939618583",
+  "18000667452046507",
+  "18000028194052931",
+  "17903655033387420"
  ],
  "hashes": [
   "6212450f8d9caf546011af74ecae33fc",
@@ -4743,30 +4744,14 @@
   "_data": "2026-11-22",
   "7c2b8178ae": 1,
   "d641e65355": 2,
-  "af09eb82fb": 1
+  "af09eb82fb": 1,
+  "dae9a32c92": 1,
+  "331135dc84": 1,
+  "e2bce193c5": 1,
+  "8d3cba6591": 1
  },
  "reservas_checadas": "2026-11-22",
  "ultimas_respostas": [
-  {
-   "t": "pior que a teoria tá certíssima, mas na hora a gente trava",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "converso antes justamente para evitar esse tipo de surpresa desagradável",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "otária foi pouco, fui é palhaça msm kkkk",
-   "p": "ressalva",
-   "r": 1
-  },
-  {
-   "t": "kkk, se ele quiser dividir, que leve lanterna pro carpaccio de vaga‑lume 😂",
-   "p": "neutra",
-   "r": 2
-  },
   {
    "t": "independente é muita certeza pra um mundo tão incerto",
    "p": "discorda",
@@ -4894,6 +4879,26 @@
   },
   {
    "t": "quase o valor de um terreno na lua essa tesoura kkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "peixe com crosta e risoto é chique demais para chorar no banco de trás",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Obrigada, sua energia já me fez pensar num prato quentinho pra reconfortar 😭",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cachaça entra na categoria de carboidrato líquido chorando no Uber né kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Verdade, situação digna de drama, mas já pensou no acarajé de Salvador? kkk",
    "p": "neutra",
    "r": 1
   }
@@ -6273,9 +6278,6 @@
   }
  ],
  "aberturas_post": {
-  "18438527584199726": [
-   "com boa companhia"
-  ],
   "18104104235645381": [
    "agua de aeroporto",
    "esse aeroporto e"
@@ -6502,6 +6504,12 @@
    "entendo o salao",
    "entao o salao",
    "quase o valor"
+  ],
+  "18136963183688312": [
+   "peixe com crosta",
+   "obrigada sua energia",
+   "cachaca entra na",
+   "verdade situacao digna"
   ]
  },
  "shopee_checada": "2026-11-22|1",
