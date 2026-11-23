@@ -27,9 +27,9 @@
    "21:36"
   ],
   "produtos_feitos": 0,
-  "respostas": 8,
+  "respostas": 9,
   "por_post": {
-   "18122819762067033": 4,
+   "18122819762067033": 5,
    "18136963183688312": 4
   }
  },
@@ -1117,7 +1117,6 @@
   }
  ],
  "respondidos": [
-  "18346984171271007",
   "18099112862175782",
   "18368470966212880",
   "17911652616540694",
@@ -4116,7 +4115,8 @@
   "18054215939618583",
   "18000667452046507",
   "18000028194052931",
-  "17903655033387420"
+  "17903655033387420",
+  "17910933159656442"
  ],
  "hashes": [
   "6ed0895b56a8563f1079f91daaaaba34",
@@ -4740,15 +4740,11 @@
   "dae9a32c92": 1,
   "331135dc84": 1,
   "e2bce193c5": 1,
-  "8d3cba6591": 1
+  "8d3cba6591": 1,
+  "89baedcbe9": 1
  },
  "reservas_checadas": "2026-11-22",
  "ultimas_respostas": [
-  {
-   "t": "independente é muita certeza pra um mundo tão incerto",
-   "p": "discorda",
-   "r": 0
-  },
   {
    "t": "procedimento corretíssimo, aprendizado rápido para não passar raiva de novo",
    "p": "concorda",
@@ -4893,6 +4889,11 @@
    "t": "Verdade, situação digna de drama, mas já pensou no acarajé de Salvador? kkk",
    "p": "neutra",
    "r": 1
+  },
+  {
+   "t": "justo demais, o problema é meu saldo bancário chorando junto com a franja",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6495,7 +6496,8 @@
    "verdade mas o",
    "entendo o salao",
    "entao o salao",
-   "quase o valor"
+   "quase o valor",
+   "justo demais o"
   ],
   "18136963183688312": [
    "peixe com crosta",
