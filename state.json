@@ -22,32 +22,16 @@
    "13:31",
    "15:35",
    "16:33",
-   "19:22"
+   "19:22",
+   "20:11"
   ],
   "produtos_feitos": 0,
-  "respostas": 3,
+  "respostas": 4,
   "por_post": {
-   "18122819762067033": 3
+   "18122819762067033": 4
   }
  },
  "posts": [
-  {
-   "id": "18117749984024760",
-   "insp": "3d5b6c562f",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: A pior parte de virar adulto não é pagar boleto, é descobrir que aquela historinha de que em julho a gente ia pra praia era só golpe dos adultos antigos pra fazer a gente calar a boca. Eu tentei negociar minhas férias de julho com o RH fingindo que sou uma capivara em período de r",
-   "quando": "2026-11-15T19:07:08.479698-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 84,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-22"
-   }
-  },
   {
    "id": "18127923431297256",
    "insp": "828a5aba09",
@@ -1129,10 +1113,17 @@
    "texto": "PESSOAS QUE TRABALHAM COM PÚBLICO: O cliente chega na loja às 17h58 dizendo que é rapidinho só pra olhar, o relógio vira 18h e o ser humano puxa uma lista de casamento com cem convidados pra cotar em dez lojas diferentes. \n\nQual foi o nível máximo de sem-noção que você já atendeu e teve que sorrir p",
    "quando": "2026-11-22T19:37:08.454680-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18136963183688312",
+   "insp": "380b00e24d",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual prato típico da sua cidade você indicaria pra alguém de fora que acabou de descobrir a traição do ex com a sua melhor amiga no meio do jantar de aniversário de namoro e agora precisa comer carboidrato chorando no Uber? Comenta a cidade",
+   "quando": "2026-11-22T20:37:12.694231-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18020818769927093",
   "18126274997490944",
   "18121234907080355",
   "18154950691522186",
@@ -4131,10 +4122,10 @@
   "18101692598104950",
   "17957613540326426",
   "18010775256007642",
-  "18652918666049465"
+  "18652918666049465",
+  "17979837923932302"
  ],
  "hashes": [
-  "69cd1fa41ad72b4d6fde3c44c3ae9453",
   "6212450f8d9caf546011af74ecae33fc",
   "6ed0895b56a8563f1079f91daaaaba34",
   "5f3be0057df7c5c312f4360be2643b71",
@@ -4333,7 +4324,8 @@
   "80f3002c9e0f3625755c24c1f0c6674b",
   "9d61074fb330999e2c1a37c718f8b47a",
   "661463a01f1dc60c417d7ac2bc220975",
-  "c8e2485e8b6cc044af04174187ce6877"
+  "c8e2485e8b6cc044af04174187ce6877",
+  "38fcf42fe580e0516898f19865b57a99"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4391,7 +4383,6 @@
   "58ac2ae535": 1791248867.6549494,
   "f1481a1658": 1791295658.0818608,
   "338b545216": 1791299241.9964204,
-  "380b00e24d": 1791301049.584341,
   "3effd5124d": 1791310042.3382156,
   "fb886a59a7": 1791315444.3711731,
   "07137399ea": 1791322646.4106162,
@@ -4744,21 +4735,18 @@
   "8f2f1c9592": 1795376298.3687613,
   "e69b61516f": 1795378050.3335407,
   "603114869d": 1795381679.1835365,
-  "39b02ce282": 1795390646.5894046
+  "39b02ce282": 1795390646.5894046,
+  "380b00e24d": 1795394254.6707392
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-11-22",
   "7c2b8178ae": 1,
-  "d641e65355": 2
+  "d641e65355": 2,
+  "af09eb82fb": 1
  },
  "reservas_checadas": "2026-11-22",
  "ultimas_respostas": [
-  {
-   "t": "formiga crocante já é demais pra minha cabeça 🐜",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "pior que a teoria tá certíssima, mas na hora a gente trava",
    "p": "ressalva",
@@ -4902,6 +4890,11 @@
   {
    "t": "KKK então o salão tem mais custos que minha conta de luz, né? Entendi o 'detox' 😅",
    "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quase o valor de um terreno na lua essa tesoura kkk",
+   "p": "neutra",
    "r": 1
   }
  ],
@@ -6507,7 +6500,8 @@
   "18122819762067033": [
    "verdade mas o",
    "entendo o salao",
-   "entao o salao"
+   "entao o salao",
+   "quase o valor"
   ]
  },
  "shopee_checada": "2026-11-22|1",
