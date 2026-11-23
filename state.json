@@ -30,9 +30,10 @@
    "10:34"
   ],
   "produtos_feitos": 1,
-  "respostas": 6,
+  "respostas": 7,
   "por_post": {
-   "18122819762067033": 6
+   "18122819762067033": 6,
+   "18034662515856285": 1
   }
  },
  "posts": [
@@ -1053,7 +1054,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T12:07:09.860682-04:00"
+   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
   },
   {
    "id": "18347363095281208",
@@ -1071,7 +1072,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T12:07:09.860682-04:00"
+   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
   },
   {
    "id": "18122819762067033",
@@ -1112,7 +1113,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T12:07:09.860682-04:00"
+   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
   },
   {
    "id": "18136963183688312",
@@ -1130,7 +1131,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T12:07:09.860682-04:00"
+   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
   },
   {
    "id": "18120094514114120",
@@ -1148,7 +1149,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T12:07:09.860682-04:00"
+   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
   },
   {
    "id": "18034662515856285",
@@ -1157,7 +1158,7 @@
    "texto": "SEJAM SINCEROS: qual conselho financeiro vocês ignoraram e se arrependem? Eu jurei que ia seguir a regra de guardar trinta por cento do salário todo mês até o meu carro decidir que o câmbio merecia tirar férias remuneradas e o meu terapeuta sugerir que chorar no carro novo gasta menos água do que no",
    "quando": "2026-11-23T09:37:09.456426-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T12:07:09.860682-04:00"
+   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
   },
   {
    "id": "17997666804022075",
@@ -1166,7 +1167,7 @@
    "texto": "PESSOAS QUE VIAJAM MUITO: o mano que vai pra praia passa o fDS inteiro lutando contra uma areia radioativa que entra até no boleto do cartão e o da serra gasta o PIB da família em fondue de queijo de R$ 800 pra fingir que tá na Europa enquanto dorme num chalé que tem uma aranha do tamanho de um Fiat",
    "quando": "2026-11-23T10:07:09.278735-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T12:07:09.860682-04:00"
+   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
   },
   {
    "id": "18103135061561933",
@@ -1190,8 +1191,6 @@
   }
  ],
  "respondidos": [
-  "17933314068146231",
-  "18032005961899316",
   "17946847962072382",
   "18128302018856550",
   "18106485586960995",
@@ -4189,7 +4188,9 @@
   "18470618080187614",
   "18117924689330700",
   "18238124554325770",
-  "18109701644129489"
+  "18109701644129489",
+  "17994486284860207",
+  "17915516691477186"
  ],
  "hashes": [
   "d917841c9fa94ad5922b484fca2bb800",
@@ -4812,15 +4813,11 @@
   "4c9b2febd7": 1,
   "d09dbca403": 1,
   "49c9a0d490": 1,
-  "e544b6f6f0": 1
+  "e544b6f6f0": 1,
+  "7c463688cc": 1
  },
  "reservas_checadas": "2026-11-23",
  "ultimas_respostas": [
-  {
-   "t": "pesado mas quem sou eu para julgar kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "iniciou a carreira cedo no sofrimento kkk",
    "p": "concorda",
@@ -4965,6 +4962,11 @@
    "t": "Concordo, tem que achar o corte que não pesa no extrato kkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "Concordo, regras genéricas ignoram que somos humanos cheios de imprevistos kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6352,10 +6354,6 @@
   }
  ],
  "aberturas_post": {
-  "18104104235645381": [
-   "agua de aeroporto",
-   "esse aeroporto e"
-  ],
   "17966557017237273": [
    "mae em estado"
   ],
@@ -6591,6 +6589,9 @@
    "obrigada sua energia",
    "cachaca entra na",
    "verdade situacao digna"
+  ],
+  "18034662515856285": [
+   "concordo regras genericas"
   ]
  },
  "shopee_checada": "2026-11-23|1",
