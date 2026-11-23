@@ -32,9 +32,10 @@
    "13:17",
    "14:00",
    "12:28",
-   "15:15"
+   "15:15",
+   "16:00"
   ],
-  "produtos_feitos": 1,
+  "produtos_feitos": 2,
   "respostas": 7,
   "por_post": {
    "18122819762067033": 6,
@@ -42,24 +43,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17979632273932325",
-   "insp": "cadb3d9e75",
-   "link": "",
-   "texto": "Me pegaram falando sozinha no trabalho enquanto discutia em voz alta com a planilha se vale mais a pena pagar o boleto ou fugir pro Uruguai com identidade falsa. O pior não foi ter sido flagrada, foi o chefe concordar comigo e sugerir um esquema de laranja.",
-   "quando": "2026-11-16T15:07:18.433073-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 127,
-    "likes": 3,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-23"
-   },
-   "viral_chk": "2026-11-17T15:07:08.881351-04:00"
-  },
   {
    "id": "18111918469906337",
    "insp": "9a79b11d92",
@@ -1064,7 +1047,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T16:07:08.723938-04:00"
+   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
   },
   {
    "id": "18136963183688312",
@@ -1082,7 +1065,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T16:07:08.723938-04:00"
+   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
   },
   {
    "id": "18120094514114120",
@@ -1100,7 +1083,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T16:07:08.723938-04:00"
+   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
   },
   {
    "id": "18034662515856285",
@@ -1109,7 +1092,7 @@
    "texto": "SEJAM SINCEROS: qual conselho financeiro vocês ignoraram e se arrependem? Eu jurei que ia seguir a regra de guardar trinta por cento do salário todo mês até o meu carro decidir que o câmbio merecia tirar férias remuneradas e o meu terapeuta sugerir que chorar no carro novo gasta menos água do que no",
    "quando": "2026-11-23T09:37:09.456426-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T16:07:08.723938-04:00"
+   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
   },
   {
    "id": "17997666804022075",
@@ -1118,7 +1101,7 @@
    "texto": "PESSOAS QUE VIAJAM MUITO: o mano que vai pra praia passa o fDS inteiro lutando contra uma areia radioativa que entra até no boleto do cartão e o da serra gasta o PIB da família em fondue de queijo de R$ 800 pra fingir que tá na Europa enquanto dorme num chalé que tem uma aranha do tamanho de um Fiat",
    "quando": "2026-11-23T10:07:09.278735-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T16:07:08.723938-04:00"
+   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
   },
   {
    "id": "18103135061561933",
@@ -1147,7 +1130,7 @@
    "texto": "OPINIÃO IMPOPULAR: a única vontade incontrolável que dá num domingo à tarde é de cometer um crime fiscal bem planejado, porque trair o namorado dá muito trabalho e eu não tenho energia nem pra lavar a airfryer, imagina carregar dois celulares na bolsa e inventar que fui pra Niterói visitar uma tia q",
    "quando": "2026-11-23T13:07:09.908998-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T16:07:08.723938-04:00"
+   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
   },
   {
    "id": "17982223043925126",
@@ -1156,7 +1139,7 @@
    "texto": "OPINIÃO IMPOPULAR: o verdadeiro teste do churrasqueiro não é o ponto da carne nem a picanha marmorizada, é a habilidade olímpica de desviar da fumaça maldita que parece ter GPS instalado só pra perseguir o olho esquerdo de quem tá pilotando a brasa.",
    "quando": "2026-11-23T15:37:09.470949-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T16:07:08.723938-04:00"
+   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
   },
   {
    "id": "17937764010148235",
@@ -1165,7 +1148,27 @@
    "texto": "SEM MENTIR: qual foi o presente mais sem noção que você já ganhou? Juro que a minha ex-sogra me deu um vale-academia vencido e ainda teve a coragem de dizer que era para eu aproveitar o foco do ano novo.",
    "quando": "2026-11-23T16:07:08.723938-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T16:07:08.723938-04:00"
+   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
+  },
+  {
+   "id": "18007073072846873",
+   "insp": "prod_40878630024",
+   "link": "",
+   "texto": "Achar coisa no escuro sem a luz do celular é um teste para os nervos 😂 Descobri essa lanterna tática super potente que ilumina até o fundo do quintal, olha como funciona 👀",
+   "quando": "2026-11-23T16:37:09.488042-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "40878630024",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "40878630024",
+    "nome": "Lanterna mais poderosa forte luz táctica tocha  grande  luz recarregável tocha de longo alcance",
+    "offerLink": "https://s.shopee.com.br/5fqXu0lRbd",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmvl941zp43qe6",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
@@ -6929,7 +6932,8 @@
   "58268112796": "2026-11-19T14:37:12.011394-04:00",
   "58262895607": "2026-11-20T07:07:08.271040-04:00",
   "22798433097": "2026-11-19T15:37:09.533239-04:00",
-  "58202821764": "2026-11-23T11:37:11.482435-04:00"
+  "58202821764": "2026-11-23T11:37:11.482435-04:00",
+  "40878630024": "2026-11-23T16:37:09.488042-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
