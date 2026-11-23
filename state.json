@@ -26,33 +26,16 @@
   ],
   "feitos": [
    "08:39",
-   "09:28"
+   "09:28",
+   "10:34"
   ],
-  "produtos_feitos": 0,
-  "respostas": 4,
+  "produtos_feitos": 1,
+  "respostas": 5,
   "por_post": {
-   "18122819762067033": 4
+   "18122819762067033": 5
   }
  },
  "posts": [
-  {
-   "id": "18236830162326017",
-   "insp": "08c5fced1d",
-   "link": "",
-   "texto": "SEJAM SINCEROS: se a gente só pudesse ficar com três aplicativos no celular, eu provavelmente escolheria o banco para pagar boleto chorando, o WhatsApp para fingir que não vi áudio de dez minutos e o Tinder para ver os malucos da minha cidade achando que são o Christian Grey da Lapa. Qual seria o ki",
-   "quando": "2026-11-16T10:37:10.420752-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 102,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-23"
-   },
-   "viral_chk": "2026-11-17T10:37:08.307738-04:00"
-  },
   {
    "id": "18119874185009638",
    "insp": "41c97f7daf",
@@ -1034,7 +1017,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T10:07:09.278735-04:00"
+   "viral_chk": "2026-11-23T10:37:13.987258-04:00"
   },
   {
    "id": "18197216731397752",
@@ -1052,7 +1035,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T10:07:09.278735-04:00"
+   "viral_chk": "2026-11-23T10:37:13.987258-04:00"
   },
   {
    "id": "18104695457413152",
@@ -1070,7 +1053,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T10:07:09.278735-04:00"
+   "viral_chk": "2026-11-23T10:37:13.987258-04:00"
   },
   {
    "id": "18347363095281208",
@@ -1088,7 +1071,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T10:07:09.278735-04:00"
+   "viral_chk": "2026-11-23T10:37:13.987258-04:00"
   },
   {
    "id": "18122819762067033",
@@ -1106,7 +1089,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T10:07:09.278735-04:00"
+   "viral_chk": "2026-11-23T10:37:13.987258-04:00"
   },
   {
    "id": "18148563982597050",
@@ -1124,7 +1107,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T10:07:09.278735-04:00"
+   "viral_chk": "2026-11-23T10:37:13.987258-04:00"
   },
   {
    "id": "18136963183688312",
@@ -1142,7 +1125,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T10:07:09.278735-04:00"
+   "viral_chk": "2026-11-23T10:37:13.987258-04:00"
   },
   {
    "id": "18120094514114120",
@@ -1160,7 +1143,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T10:07:09.278735-04:00"
+   "viral_chk": "2026-11-23T10:37:13.987258-04:00"
   },
   {
    "id": "18034662515856285",
@@ -1169,7 +1152,7 @@
    "texto": "SEJAM SINCEROS: qual conselho financeiro vocês ignoraram e se arrependem? Eu jurei que ia seguir a regra de guardar trinta por cento do salário todo mês até o meu carro decidir que o câmbio merecia tirar férias remuneradas e o meu terapeuta sugerir que chorar no carro novo gasta menos água do que no",
    "quando": "2026-11-23T09:37:09.456426-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T10:07:09.278735-04:00"
+   "viral_chk": "2026-11-23T10:37:13.987258-04:00"
   },
   {
    "id": "17997666804022075",
@@ -1178,11 +1161,30 @@
    "texto": "PESSOAS QUE VIAJAM MUITO: o mano que vai pra praia passa o fDS inteiro lutando contra uma areia radioativa que entra até no boleto do cartão e o da serra gasta o PIB da família em fondue de queijo de R$ 800 pra fingir que tá na Europa enquanto dorme num chalé que tem uma aranha do tamanho de um Fiat",
    "quando": "2026-11-23T10:07:09.278735-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T10:07:09.278735-04:00"
+   "viral_chk": "2026-11-23T10:37:13.987258-04:00"
+  },
+  {
+   "id": "18103135061561933",
+   "insp": "prod_22894551427",
+   "link": "",
+   "texto": "Abrir pacote de churrasco na hora do fim de semana dá um trabalhão, né? 😂\nDescobri esse canivete dobrável que corta tudo, de fruta a corda, na hora que preciso.\nOlha como funciona 👀",
+   "quando": "2026-11-23T10:37:13.987258-04:00",
+   "ia": "Groq openai/gpt-oss-120b",
+   "estrategia": "produto_foto",
+   "formato": "postfoto",
+   "formato_link": "resp",
+   "produto": "22894551427",
+   "link_pendente": true,
+   "prod_dados": {
+    "itemId": "22894551427",
+    "nome": "Canivete Dobrável Aço Inox com Trava para Camping Pesca Churrasco Multiuso",
+    "offerLink": "https://s.shopee.com.br/3g5TWLAenM",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqvbo3ll08hv26",
+    "campanha": ""
+   }
   }
  ],
  "respondidos": [
-  "18095075318343911",
   "17948699862321928",
   "17933314068146231",
   "18032005961899316",
@@ -4181,7 +4183,8 @@
   "17916421770520498",
   "18254737735309055",
   "18470618080187614",
-  "18117924689330700"
+  "18117924689330700",
+  "18238124554325770"
  ],
  "hashes": [
   "d917841c9fa94ad5922b484fca2bb800",
@@ -4802,15 +4805,11 @@
   "8e48774abe": 1,
   "8a7ebbbcab": 1,
   "4c9b2febd7": 1,
-  "d09dbca403": 1
+  "d09dbca403": 1,
+  "49c9a0d490": 1
  },
  "reservas_checadas": "2026-11-23",
  "ultimas_respostas": [
-  {
-   "t": "verdade, melhor sozinha do que aguentando ranço alheio",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "descobriu foi o golpe cedo demais kkkk",
    "p": "concorda",
@@ -4955,6 +4954,11 @@
    "t": "verificar o preço de tudo antes só estraga a surpresa do boleto",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "Nossa, vc investe tanto que o corte vira ação na bolsa kkk 😅",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6567,7 +6571,8 @@
    "socorro a franja",
    "vc ta certa",
    "salao de bairro",
-   "verificar o preco"
+   "verificar o preco",
+   "nossa vc investe"
   ],
   "18136963183688312": [
    "peixe com crosta",
@@ -6832,7 +6837,7 @@
   "49864801044": "2026-10-12T22:07:07.460566-04:00",
   "20798026236": "2026-10-13T07:07:09.287262-04:00",
   "22798989636": "2026-10-13T14:37:07.606623-04:00",
-  "22894551427": "2026-10-28T15:07:09.509518-04:00",
+  "22894551427": "2026-11-23T10:37:13.987258-04:00",
   "58208889792": "2026-10-30T16:37:09.218738-04:00",
   "58211842722": "2026-10-31T07:07:08.775010-04:00",
   "14831203028": "2026-11-06T07:07:08.908811-04:00",
