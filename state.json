@@ -24,7 +24,9 @@
    "16:00",
    "20:21"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:39"
+  ],
   "produtos_feitos": 0,
   "respostas": 4,
   "por_post": {
@@ -32,23 +34,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18171150787465175",
-   "insp": "a0d83e5ad4",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: o ser humano que chega na balada falando que tem carro financiado em sessenta vezes e o IPVA atrasado acha que tá vendendo um Corolla ou um passe livre pro inferno astral? O pior é que a criatura ainda lança um \"mas o ar condicionado gela\", meu anjo, o único gelo aqui vai ser o da mi",
-   "quando": "2026-11-15T21:07:08.484925-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 164,
-    "likes": 1,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-22"
-   }
-  },
   {
    "id": "18080804558764298",
    "insp": "bc64a2ff13",
@@ -1065,7 +1050,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T09:07:10.199981-04:00"
+   "viral_chk": "2026-11-23T09:37:09.456426-04:00"
   },
   {
    "id": "18197216731397752",
@@ -1083,7 +1068,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T09:07:10.199981-04:00"
+   "viral_chk": "2026-11-23T09:37:09.456426-04:00"
   },
   {
    "id": "18104695457413152",
@@ -1101,7 +1086,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T09:07:10.199981-04:00"
+   "viral_chk": "2026-11-23T09:37:09.456426-04:00"
   },
   {
    "id": "18347363095281208",
@@ -1119,7 +1104,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T09:07:10.199981-04:00"
+   "viral_chk": "2026-11-23T09:37:09.456426-04:00"
   },
   {
    "id": "18122819762067033",
@@ -1137,7 +1122,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T09:07:10.199981-04:00"
+   "viral_chk": "2026-11-23T09:37:09.456426-04:00"
   },
   {
    "id": "18148563982597050",
@@ -1155,7 +1140,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T09:07:10.199981-04:00"
+   "viral_chk": "2026-11-23T09:37:09.456426-04:00"
   },
   {
    "id": "18136963183688312",
@@ -1173,7 +1158,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T09:07:10.199981-04:00"
+   "viral_chk": "2026-11-23T09:37:09.456426-04:00"
   },
   {
    "id": "18120094514114120",
@@ -1191,7 +1176,16 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T09:07:10.199981-04:00"
+   "viral_chk": "2026-11-23T09:37:09.456426-04:00"
+  },
+  {
+   "id": "18034662515856285",
+   "insp": "fd6c7eeb28",
+   "link": "",
+   "texto": "SEJAM SINCEROS: qual conselho financeiro vocês ignoraram e se arrependem? Eu jurei que ia seguir a regra de guardar trinta por cento do salário todo mês até o meu carro decidir que o câmbio merecia tirar férias remuneradas e o meu terapeuta sugerir que chorar no carro novo gasta menos água do que no",
+   "quando": "2026-11-23T09:37:09.456426-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-23T09:37:09.456426-04:00"
   }
  ],
  "respondidos": [
@@ -4197,7 +4191,6 @@
   "18117924689330700"
  ],
  "hashes": [
-  "6ed0895b56a8563f1079f91daaaaba34",
   "5f3be0057df7c5c312f4360be2643b71",
   "d917841c9fa94ad5922b484fca2bb800",
   "d6f15cf9c593ff24c0193fac3a88ba77",
@@ -4396,7 +4389,8 @@
   "661463a01f1dc60c417d7ac2bc220975",
   "c8e2485e8b6cc044af04174187ce6877",
   "38fcf42fe580e0516898f19865b57a99",
-  "a11fa7d1a46c233a799a83ec2d4396f9"
+  "a11fa7d1a46c233a799a83ec2d4396f9",
+  "7e8d39653681f687b1e6b68e77e64245"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4410,7 +4404,6 @@
   "573ba90908": 1790725049.010326,
   "09e842892c": 1790726852.4957767,
   "6447474ad3": 1790730448.4125926,
-  "fd6c7eeb28": 1790771853.9675057,
   "018fcf3621": 1790782693.9690814,
   "8b93fbf051": 1790789849.0126176,
   "00c9530901": 1790798863.395636,
@@ -4807,7 +4800,8 @@
   "603114869d": 1795381679.1835365,
   "39b02ce282": 1795390646.5894046,
   "380b00e24d": 1795394254.6707392,
-  "5ffe3dfd2e": 1795397889.294439
+  "5ffe3dfd2e": 1795397889.294439,
+  "fd6c7eeb28": 1795441052.3082225
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
