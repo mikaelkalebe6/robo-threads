@@ -23,7 +23,8 @@
    "15:35",
    "16:33",
    "19:22",
-   "20:11"
+   "20:11",
+   "21:36"
   ],
   "produtos_feitos": 0,
   "respostas": 8,
@@ -33,23 +34,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18127923431297256",
-   "insp": "828a5aba09",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: minha terapeuta merece um décimo terceiro ou eu deveria incluir o nome dela no meu testamento por evitar que eu cometesse um crime hediondo com um ex que achava que pagar o Uber com pix de 3 reais parcelado era prova de amor.",
-   "quando": "2026-11-15T19:37:09.582819-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 119,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-22"
-   }
-  },
   {
    "id": "18171150787465175",
    "insp": "a0d83e5ad4",
@@ -1121,6 +1105,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: qual prato típico da sua cidade você indicaria pra alguém de fora que acabou de descobrir a traição do ex com a sua melhor amiga no meio do jantar de aniversário de namoro e agora precisa comer carboidrato chorando no Uber? Comenta a cidade",
    "quando": "2026-11-22T20:37:12.694231-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18120094514114120",
+   "insp": "5ffe3dfd2e",
+   "link": "",
+   "texto": "Gente, a vizinha passou meia hora organizando a lista de mercado por corredor em três cores diferentes só pra chegar no hortifrúti, olhar pra abobrinha com ódio no olhar, desistir de tudo, comprar duas latas de leite condensado e um miojo e voltar pra casa chorando assistindo reels de ex. Quem de vo",
+   "quando": "2026-11-22T21:37:11.617908-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4127,7 +4119,6 @@
   "17903655033387420"
  ],
  "hashes": [
-  "6212450f8d9caf546011af74ecae33fc",
   "6ed0895b56a8563f1079f91daaaaba34",
   "5f3be0057df7c5c312f4360be2643b71",
   "d917841c9fa94ad5922b484fca2bb800",
@@ -4326,7 +4317,8 @@
   "9d61074fb330999e2c1a37c718f8b47a",
   "661463a01f1dc60c417d7ac2bc220975",
   "c8e2485e8b6cc044af04174187ce6877",
-  "38fcf42fe580e0516898f19865b57a99"
+  "38fcf42fe580e0516898f19865b57a99",
+  "a11fa7d1a46c233a799a83ec2d4396f9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4419,7 +4411,6 @@
   "a5b40d343a": 1791673648.3117123,
   "7e236666a4": 1791682693.6785476,
   "f0670ff0d7": 1791752839.976383,
-  "5ffe3dfd2e": 1791760046.8847692,
   "654bef73ca": 1791770867.2880807,
   "615229a3f1": 1791808651.8310485,
   "ff36dce57b": 1791812301.1103742,
@@ -4737,7 +4728,8 @@
   "e69b61516f": 1795378050.3335407,
   "603114869d": 1795381679.1835365,
   "39b02ce282": 1795390646.5894046,
-  "380b00e24d": 1795394254.6707392
+  "380b00e24d": 1795394254.6707392,
+  "5ffe3dfd2e": 1795397889.294439
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
