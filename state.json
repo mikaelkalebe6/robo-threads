@@ -27,7 +27,8 @@
   "feitos": [
    "08:39",
    "09:28",
-   "10:34"
+   "10:34",
+   "11:41"
   ],
   "produtos_feitos": 1,
   "respostas": 7,
@@ -37,24 +38,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18119874185009638",
-   "insp": "41c97f7daf",
-   "link": "",
-   "texto": "ME CONTA: qual foi a pior desgraça romântica que a gincana do amor te obrigou a viver no Brasil? Minha amiga foi inventar de fingir que entendia de futebol pra impressionar o boy num bar lotado, gritou \"isso mesmo, juiz corno\" num gol contra do time dele, descobriu que o cara era o próprio árbitro d",
-   "quando": "2026-11-16T11:37:09.647285-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 132,
-    "likes": 3,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-23"
-   },
-   "viral_chk": "2026-11-17T11:37:09.032486-04:00"
-  },
   {
    "id": "18137326147667955",
    "insp": "d8d17a2688",
@@ -1054,7 +1037,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
+   "viral_chk": "2026-11-23T13:07:09.908998-04:00"
   },
   {
    "id": "18347363095281208",
@@ -1072,7 +1055,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
+   "viral_chk": "2026-11-23T13:07:09.908998-04:00"
   },
   {
    "id": "18122819762067033",
@@ -1113,7 +1096,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
+   "viral_chk": "2026-11-23T13:07:09.908998-04:00"
   },
   {
    "id": "18136963183688312",
@@ -1131,7 +1114,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
+   "viral_chk": "2026-11-23T13:07:09.908998-04:00"
   },
   {
    "id": "18120094514114120",
@@ -1149,7 +1132,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
+   "viral_chk": "2026-11-23T13:07:09.908998-04:00"
   },
   {
    "id": "18034662515856285",
@@ -1158,7 +1141,7 @@
    "texto": "SEJAM SINCEROS: qual conselho financeiro vocês ignoraram e se arrependem? Eu jurei que ia seguir a regra de guardar trinta por cento do salário todo mês até o meu carro decidir que o câmbio merecia tirar férias remuneradas e o meu terapeuta sugerir que chorar no carro novo gasta menos água do que no",
    "quando": "2026-11-23T09:37:09.456426-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
+   "viral_chk": "2026-11-23T13:07:09.908998-04:00"
   },
   {
    "id": "17997666804022075",
@@ -1167,7 +1150,7 @@
    "texto": "PESSOAS QUE VIAJAM MUITO: o mano que vai pra praia passa o fDS inteiro lutando contra uma areia radioativa que entra até no boleto do cartão e o da serra gasta o PIB da família em fondue de queijo de R$ 800 pra fingir que tá na Europa enquanto dorme num chalé que tem uma aranha do tamanho de um Fiat",
    "quando": "2026-11-23T10:07:09.278735-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T12:37:08.737743-04:00"
+   "viral_chk": "2026-11-23T13:07:09.908998-04:00"
   },
   {
    "id": "18103135061561933",
@@ -1188,6 +1171,15 @@
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqvbo3ll08hv26",
     "campanha": ""
    }
+  },
+  {
+   "id": "18186605248443500",
+   "insp": "f6d9ba8473",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: a única vontade incontrolável que dá num domingo à tarde é de cometer um crime fiscal bem planejado, porque trair o namorado dá muito trabalho e eu não tenho energia nem pra lavar a airfryer, imagina carregar dois celulares na bolsa e inventar que fui pra Niterói visitar uma tia q",
+   "quando": "2026-11-23T13:07:09.908998-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-23T13:07:09.908998-04:00"
   }
  ],
  "respondidos": [
@@ -4193,7 +4185,6 @@
   "17915516691477186"
  ],
  "hashes": [
-  "d917841c9fa94ad5922b484fca2bb800",
   "d6f15cf9c593ff24c0193fac3a88ba77",
   "1af3d86d93e0a01374439b83073abf8f",
   "b8504013681f19710392e609c23b783d",
@@ -4392,7 +4383,8 @@
   "38fcf42fe580e0516898f19865b57a99",
   "a11fa7d1a46c233a799a83ec2d4396f9",
   "7e8d39653681f687b1e6b68e77e64245",
-  "4d031d9ce44d291ae0f04fc3701ee708"
+  "4d031d9ce44d291ae0f04fc3701ee708",
+  "e387ce73b3ff1b4b8aa1f80285f71ad2"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4400,7 +4392,6 @@
   "7d71edeab3": 1790620679.9542685,
   "ff5027f0d8": 1790633283.7908828,
   "d12059d204": 1790636883.6793935,
-  "f6d9ba8473": 1790645865.3717055,
   "4c34f415ce": 1790690916.9672582,
   "573ba90908": 1790725049.010326,
   "09e842892c": 1790726852.4957767,
@@ -4803,7 +4794,8 @@
   "380b00e24d": 1795394254.6707392,
   "5ffe3dfd2e": 1795397889.294439,
   "fd6c7eeb28": 1795441052.3082225,
-  "7ba791c39f": 1795442848.8761885
+  "7ba791c39f": 1795442848.8761885,
+  "f6d9ba8473": 1795453643.966384
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
