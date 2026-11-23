@@ -33,7 +33,8 @@
    "14:00",
    "12:28",
    "15:15",
-   "16:00"
+   "16:00",
+   "16:54"
   ],
   "produtos_feitos": 2,
   "respostas": 7,
@@ -43,29 +44,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18111918469906337",
-   "insp": "9a79b11d92",
-   "link": "",
-   "texto": "Fui na casa do boy novo e a mãe dele serviu um strogonoff com uva passa, milho e azeite de dendê parecendo um ritual macabro, juro pra vocês que meu boleto de 45 reais da terapia nunca foi tão justificado comendo aquilo sorrindo e falando que estava uma delícia. \n\nQual foi a atrocidade culinária que",
-   "quando": "2026-11-16T15:37:24.166728-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 39031,
-    "likes": 613,
-    "replies": 640,
-    "reposts": 3,
-    "quotes": 1,
-    "shares": 8,
-    "em": "2026-11-23"
-   },
-   "viral_chk": "2026-11-17T07:07:09.478781-04:00",
-   "link_coment": "https://s.shopee.com.br/4qHHLBByaI",
-   "meme_comentado": true,
-   "meme_views": 34252,
-   "formato_link": "coment",
-   "produto": "23199020709"
-  },
   {
    "id": "18136119379675335",
    "insp": "fb4677367c",
@@ -1047,7 +1025,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
+   "viral_chk": "2026-11-23T17:07:08.766985-04:00"
   },
   {
    "id": "18136963183688312",
@@ -1065,7 +1043,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
+   "viral_chk": "2026-11-23T17:07:08.766985-04:00"
   },
   {
    "id": "18120094514114120",
@@ -1083,7 +1061,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
+   "viral_chk": "2026-11-23T17:07:08.766985-04:00"
   },
   {
    "id": "18034662515856285",
@@ -1092,7 +1070,7 @@
    "texto": "SEJAM SINCEROS: qual conselho financeiro vocês ignoraram e se arrependem? Eu jurei que ia seguir a regra de guardar trinta por cento do salário todo mês até o meu carro decidir que o câmbio merecia tirar férias remuneradas e o meu terapeuta sugerir que chorar no carro novo gasta menos água do que no",
    "quando": "2026-11-23T09:37:09.456426-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
+   "viral_chk": "2026-11-23T17:07:08.766985-04:00"
   },
   {
    "id": "17997666804022075",
@@ -1101,7 +1079,7 @@
    "texto": "PESSOAS QUE VIAJAM MUITO: o mano que vai pra praia passa o fDS inteiro lutando contra uma areia radioativa que entra até no boleto do cartão e o da serra gasta o PIB da família em fondue de queijo de R$ 800 pra fingir que tá na Europa enquanto dorme num chalé que tem uma aranha do tamanho de um Fiat",
    "quando": "2026-11-23T10:07:09.278735-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
+   "viral_chk": "2026-11-23T17:07:08.766985-04:00"
   },
   {
    "id": "18103135061561933",
@@ -1130,7 +1108,7 @@
    "texto": "OPINIÃO IMPOPULAR: a única vontade incontrolável que dá num domingo à tarde é de cometer um crime fiscal bem planejado, porque trair o namorado dá muito trabalho e eu não tenho energia nem pra lavar a airfryer, imagina carregar dois celulares na bolsa e inventar que fui pra Niterói visitar uma tia q",
    "quando": "2026-11-23T13:07:09.908998-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
+   "viral_chk": "2026-11-23T17:07:08.766985-04:00"
   },
   {
    "id": "17982223043925126",
@@ -1139,7 +1117,7 @@
    "texto": "OPINIÃO IMPOPULAR: o verdadeiro teste do churrasqueiro não é o ponto da carne nem a picanha marmorizada, é a habilidade olímpica de desviar da fumaça maldita que parece ter GPS instalado só pra perseguir o olho esquerdo de quem tá pilotando a brasa.",
    "quando": "2026-11-23T15:37:09.470949-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
+   "viral_chk": "2026-11-23T17:07:08.766985-04:00"
   },
   {
    "id": "17937764010148235",
@@ -1148,7 +1126,7 @@
    "texto": "SEM MENTIR: qual foi o presente mais sem noção que você já ganhou? Juro que a minha ex-sogra me deu um vale-academia vencido e ainda teve a coragem de dizer que era para eu aproveitar o foco do ano novo.",
    "quando": "2026-11-23T16:07:08.723938-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T16:37:09.488042-04:00"
+   "viral_chk": "2026-11-23T17:07:08.766985-04:00"
   },
   {
    "id": "18007073072846873",
@@ -1169,6 +1147,15 @@
     "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmvl941zp43qe6",
     "campanha": ""
    }
+  },
+  {
+   "id": "18177224197403425",
+   "insp": "db79935195",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a galera que dorme cedo e acorda às cinco da manhã pra correr faz o que com todo o resto do dia, espiona a vida dos vizinhos por binóculo ou só finge produtividade no Excel até o boleto vencer?",
+   "quando": "2026-11-23T17:07:08.766985-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-23T17:07:08.766985-04:00"
   }
  ],
  "respondidos": [
@@ -4174,7 +4161,6 @@
   "17915516691477186"
  ],
  "hashes": [
-  "b8504013681f19710392e609c23b783d",
   "c710a0cf4b8e7b14432309ac1608d6cd",
   "eb65d0d8da9ec4811aafca2b454a1652",
   "5ad9a6917ff0d1bc2379d5063f81adda",
@@ -4373,7 +4359,8 @@
   "4d031d9ce44d291ae0f04fc3701ee708",
   "e387ce73b3ff1b4b8aa1f80285f71ad2",
   "edd91731eb1d2d0f57aa5b7082740ad5",
-  "aae55da297ccf6f6c019f86227ad726c"
+  "aae55da297ccf6f6c019f86227ad726c",
+  "5c9fb73c58c1c249a30868c6d4d205fb"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4392,7 +4379,6 @@
   "fbedf7f149": 1790813252.2096584,
   "559f0792a7": 1790820449.309396,
   "52a7f9104a": 1790863692.6714327,
-  "db79935195": 1790867256.044346,
   "cfb5d252d5": 1790885244.5991204,
   "ae1c8a29b8": 1790887047.4568858,
   "40d9bc7aa4": 1790890644.6638198,
@@ -4784,7 +4770,8 @@
   "7ba791c39f": 1795442848.8761885,
   "f6d9ba8473": 1795453643.966384,
   "69d2f4ea0d": 1795462650.330198,
-  "927cd87598": 1795464468.9797704
+  "927cd87598": 1795464468.9797704,
+  "db79935195": 1795468051.1417189
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
