@@ -1053,7 +1053,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T11:07:08.607759-04:00"
+   "viral_chk": "2026-11-23T11:37:11.482435-04:00"
   },
   {
    "id": "18347363095281208",
@@ -1071,7 +1071,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T11:07:08.607759-04:00"
+   "viral_chk": "2026-11-23T11:37:11.482435-04:00"
   },
   {
    "id": "18122819762067033",
@@ -1089,7 +1089,12 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T11:07:08.607759-04:00"
+   "viral_chk": "2026-11-23T11:37:11.482435-04:00",
+   "link_coment": "https://s.shopee.com.br/9AQQMwfQN8",
+   "meme_comentado": true,
+   "meme_views": 545,
+   "formato_link": "coment",
+   "produto": "58202821764"
   },
   {
    "id": "18148563982597050",
@@ -1107,7 +1112,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T11:07:08.607759-04:00"
+   "viral_chk": "2026-11-23T11:37:11.482435-04:00"
   },
   {
    "id": "18136963183688312",
@@ -1125,7 +1130,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T11:07:08.607759-04:00"
+   "viral_chk": "2026-11-23T11:37:11.482435-04:00"
   },
   {
    "id": "18120094514114120",
@@ -1143,7 +1148,7 @@
     "shares": 0,
     "em": "2026-11-23"
    },
-   "viral_chk": "2026-11-23T11:07:08.607759-04:00"
+   "viral_chk": "2026-11-23T11:37:11.482435-04:00"
   },
   {
    "id": "18034662515856285",
@@ -1152,7 +1157,7 @@
    "texto": "SEJAM SINCEROS: qual conselho financeiro vocês ignoraram e se arrependem? Eu jurei que ia seguir a regra de guardar trinta por cento do salário todo mês até o meu carro decidir que o câmbio merecia tirar férias remuneradas e o meu terapeuta sugerir que chorar no carro novo gasta menos água do que no",
    "quando": "2026-11-23T09:37:09.456426-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T11:07:08.607759-04:00"
+   "viral_chk": "2026-11-23T11:37:11.482435-04:00"
   },
   {
    "id": "17997666804022075",
@@ -1161,7 +1166,7 @@
    "texto": "PESSOAS QUE VIAJAM MUITO: o mano que vai pra praia passa o fDS inteiro lutando contra uma areia radioativa que entra até no boleto do cartão e o da serra gasta o PIB da família em fondue de queijo de R$ 800 pra fingir que tá na Europa enquanto dorme num chalé que tem uma aranha do tamanho de um Fiat",
    "quando": "2026-11-23T10:07:09.278735-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T11:07:08.607759-04:00"
+   "viral_chk": "2026-11-23T11:37:11.482435-04:00"
   },
   {
    "id": "18103135061561933",
@@ -5681,6 +5686,11 @@
    "t": "(link produto)",
    "c": "",
    "q": "2026-11-20T07:07:08.271040-04:00"
+  },
+  "18057325982612594": {
+   "t": "(link produto)",
+   "c": "",
+   "q": "2026-11-23T11:37:11.482435-04:00"
   }
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
@@ -6937,7 +6947,8 @@
   "58219306819": "2026-11-15T07:07:08.908196-04:00",
   "58268112796": "2026-11-19T14:37:12.011394-04:00",
   "58262895607": "2026-11-20T07:07:08.271040-04:00",
-  "22798433097": "2026-11-19T15:37:09.533239-04:00"
+  "22798433097": "2026-11-19T15:37:09.533239-04:00",
+  "58202821764": "2026-11-23T11:37:11.482435-04:00"
  },
  "teste_comentario_produto": {
   "data": "2026-10-09T22:37:10.488190-04:00",
@@ -6947,7 +6958,7 @@
  },
  "meme_links_dia": {
   "data": "2026-11-23",
-  "qtd": 0
+  "qtd": 1
  },
  "carrosseis_usados": [
   "car-20261010-1",
