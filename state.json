@@ -26,49 +26,19 @@
    "09:25",
    "11:10",
    "11:57",
-   "13:21"
+   "13:21",
+   "14:19"
   ],
   "produtos_feitos": 0,
-  "respostas": 7,
+  "respostas": 10,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
-   "17895434610685394": 4
+   "17895434610685394": 4,
+   "18108595124318110": 3
   }
  },
  "posts": [
-  {
-   "id": "18114486605614841",
-   "insp": "prod_23993565028",
-   "link": "",
-   "texto": "Cansada de celular caindo no chão do carro toda vez que passo em lombada. Descobri esse suporte veicular com trava automática que segura o aparelho firme sem precisar ficar ajeitando toda hora. Olha como funciona 👀",
-   "quando": "2026-11-17T14:37:09.637951-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "23993565028",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "23993565028",
-    "nome": "Suporte Celular Carro Veicular Trava Automática anti queda",
-    "offerLink": "https://s.shopee.com.br/6L657tto0h",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3m7hftjtxp779",
-    "campanha": ""
-   },
-   "metricas": {
-    "views": 109,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-24"
-   },
-   "link_coment": "https://s.shopee.com.br/6L657tto0h",
-   "link_em": "2026-11-18T08:37:18.343238-04:00",
-   "link_views": 0
-  },
   {
    "id": "18611542363068430",
    "insp": "d1e2f3c049",
@@ -1174,12 +1144,17 @@
    "texto": "VAMOS SER HONESTOS: com quantos anos vocês saíram da casa dos pais de verdade, porque eu conheço marmanjo que só mudou de quarto e continua mandando as marmitas sujas pra minha sogra lavar.",
    "quando": "2026-11-24T14:07:09.966092-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18477460000137963",
+   "insp": "1a4df9fa8d",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual é a palavra da sua região que quem é de fora acha que é ofensa federal mas na verdade é só vírgula? \n\nMeu ex tentou me processar por danos morais porque eu chamei ele de desmantelado no meio de uma discussão sobre quem ia pagar a conta do drive-thru do McDonalds. O juiz deve ter",
+   "quando": "2026-11-24T14:37:08.645976-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17877445581564381",
-  "18503432503103676",
-  "17999598126001673",
   "18123162643898155",
   "17907024495560536",
   "18083999168686874",
@@ -4176,10 +4151,12 @@
   "17928487656445763",
   "18185040526437590",
   "18025302149946185",
-  "18122539912963629"
+  "18122539912963629",
+  "17980438962173116",
+  "18101652701406238",
+  "18474677710141661"
  ],
  "hashes": [
-  "111ea3bf609b4c2d5d80a0d9a948e822",
   "3a35f403b2a89407c0605376f13d7313",
   "9a7cdea938c5fbf4dabb0a2208f5c5ca",
   "5c1ef4b29bfb0b97ecae64cb87caf004",
@@ -4378,7 +4355,8 @@
   "d4f50c6ace93b6b0291a77f441d13833",
   "83b3d8eef17f767e11b713a2d9b9cde1",
   "f53d02549694d6966cedab1ba315be84",
-  "c53e95749c9dc998338133e73f94bc0e"
+  "c53e95749c9dc998338133e73f94bc0e",
+  "04f8251d5a337188ba84a502a892d516"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4533,7 +4511,6 @@
   "c201aa73c5": 1792778846.8173857,
   "876494bf5b": 1792789682.5346763,
   "ba30bb89b0": 1792805884.0814035,
-  "1a4df9fa8d": 1792807648.3731372,
   "5efa674a14": 1792845486.7009747,
   "31631bee08": 1792861687.3606534,
   "23052490c4": 1792872469.8408012,
@@ -4789,7 +4766,8 @@
   "d7e44e025a": 1795527447.8614604,
   "55ca636ebf": 1795534654.975997,
   "c312178704": 1795538252.9664772,
-  "3546666699": 1795543655.5974424
+  "3546666699": 1795543655.5974424,
+  "1a4df9fa8d": 1795545447.2938218
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4800,25 +4778,13 @@
   "bef359caf6": 1,
   "3973933721": 1,
   "a4db22c03a": 1,
-  "c7fb0deefe": 1
+  "c7fb0deefe": 1,
+  "390517d1ff": 1,
+  "322d1f8488": 1,
+  "dac3245e70": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "troca justa porque o nokia ao menos resistia a queda de morro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "zerou a vida dos motoristas organizados",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "agora o manual virou tutorial de celular mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "verdade mas o detox emocional pegou pesado demais",
    "p": "ressalva",
@@ -4953,6 +4919,21 @@
    "t": "pesou na balança e a carne acabou vindo estragada",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "Concordo, mãe é base e às vezes a marmita vem com drama kkk 🙏🏼",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "com essa idade eu só pensava em qual desenho ia passar na tv",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "23? já tá na hora de cobrar o aluguel kkk",
+   "p": "neutra",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6355,9 +6336,6 @@
   }
  ],
  "aberturas_post": {
-  "18171150787465175": [
-   "essa abordagem direta"
-  ],
   "18137326147667955": [
    "verdade o simples"
   ],
@@ -6590,6 +6568,11 @@
    "verdade merece jantar",
    "realmente parece jantar",
    "pesou na balanca"
+  ],
+  "18108595124318110": [
+   "concordo mae e",
+   "com essa idade",
+   "23 ja ta"
   ]
  },
  "shopee_checada": "2026-11-24|1",
