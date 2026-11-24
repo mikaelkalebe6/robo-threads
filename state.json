@@ -28,53 +28,22 @@
    "11:57",
    "13:21",
    "14:19",
-   "15:29"
+   "15:29",
+   "17:00"
   ],
   "produtos_feitos": 0,
-  "respostas": 23,
+  "respostas": 24,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
    "17895434610685394": 7,
-   "18108595124318110": 7,
+   "18108595124318110": 8,
    "18104256290059815": 4,
    "17922516261454597": 1,
    "18477460000137963": 1
   }
  },
  "posts": [
-  {
-   "id": "18121041461008264",
-   "insp": "prod_58204067039",
-   "link": "",
-   "texto": "Ficar no escuro na chácara ou no sítio é um sufoco danado né? Descobri essa lanterna tática super potente que ilumina tudo de longe e salvou nossos corações na última viagem. Olha como funciona 👀",
-   "quando": "2026-11-17T20:37:08.319525-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58204067039",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58204067039",
-    "nome": "Lanterna Tática WUDI T9 P50 Super Luminosa Recarregável USB Ideal Para Sitio Fazenda AcampamentoCamping SegurançaNoturna",
-    "offerLink": "https://s.shopee.com.br/BVRmacSod",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261k-mjye50tsga9wb4",
-    "campanha": ""
-   },
-   "metricas": {
-    "views": 86,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-24"
-   },
-   "link_coment": "https://s.shopee.com.br/BVRmacSod",
-   "link_em": "2026-11-18T14:37:08.991745-04:00",
-   "link_views": 0
-  },
   {
    "id": "17965583001321734",
    "insp": "40b922d817",
@@ -1146,10 +1115,17 @@
    "texto": "DÚVIDA SINCERA: tem um mês que tem uma rã morando de favor na minha cozinha e eu já tô considerando botar um boleto de condomínio pra ela pagar. O problema é que ela me olha com mais julgamento do que a minha mãe quando vê meu extrato bancário e eu simplesmente paraliso. Alguém sabe se sapo aceita P",
    "quando": "2026-11-24T16:07:16.895738-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18127176991902978",
+   "insp": "13bb414dfc",
+   "link": "",
+   "texto": "SEM MENTIR: vocês contam o salário pro parceiro ou parceira? \n\n- Amor, quanto você ganha?\n- Uns quatro mil líquidos, mas com os descontos vai pra três e duzentos. E você?\n- Sou CEO de uma startup invisível e sonego imposto em criptomoedas na lua.\n- Mentira, você é estagiária e gasta tudo em energéti",
+   "quando": "2026-11-24T19:07:15.167433-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18117362774061165",
   "18116446277049980",
   "18491996716101321",
   "17897352375672372",
@@ -4148,10 +4124,10 @@
   "18114223826334425",
   "18054728339603044",
   "18149001376585627",
-  "18123725981068073"
+  "18123725981068073",
+  "18021857348975297"
  ],
  "hashes": [
-  "9a7cdea938c5fbf4dabb0a2208f5c5ca",
   "5c1ef4b29bfb0b97ecae64cb87caf004",
   "a615e17e25bc58d509f7c85d83fdd24d",
   "0411794174ee69c415e5d3ea0ce5388c",
@@ -4350,7 +4326,8 @@
   "f53d02549694d6966cedab1ba315be84",
   "c53e95749c9dc998338133e73f94bc0e",
   "04f8251d5a337188ba84a502a892d516",
-  "9da7b0f4bb3af436edf1be7f1978901b"
+  "9da7b0f4bb3af436edf1be7f1978901b",
+  "00855c6e6e061267f3d06167b3e8eed6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4453,7 +4430,6 @@
   "4322eb9d04": 1792159645.6739976,
   "ee7378f2f0": 1792165044.1035805,
   "30e1771c4d": 1792172245.717424,
-  "13bb414dfc": 1792195647.9195256,
   "7bb5b555f8": 1792242456.141735,
   "dded827567": 1792251452.5580068,
   "5f95698f56": 1792256892.5006678,
@@ -4761,7 +4737,8 @@
   "c312178704": 1795538252.9664772,
   "3546666699": 1795543655.5974424,
   "1a4df9fa8d": 1795545447.2938218,
-  "112111ad3e": 1795550898.2373574
+  "112111ad3e": 1795550898.2373574,
+  "13bb414dfc": 1795561698.1861813
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4787,15 +4764,11 @@
   "c70fbb17fe": 1,
   "0579c184ae": 1,
   "b536fcf1da": 1,
-  "74d035840d": 1
+  "74d035840d": 1,
+  "9c9408d192": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "Nossa, vc investe tanto que o corte vira ação na bolsa kkk 😅",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Concordo, tem que achar o corte que não pesa no extrato kkk",
    "p": "concorda",
@@ -4940,6 +4913,11 @@
    "t": "pelo menos o tomate garante assunto pro jantar inteiro",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "24 já é uma idade bem respeitável pra encarar o primeiro boleto sozinho kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6477,7 +6455,8 @@
    "28 cada um",
    "17 anos voce",
    "19 ainda tem",
-   "18 ano novo"
+   "18 ano novo",
+   "24 ja e"
   ],
   "18104256290059815": [
    "entao se a",
