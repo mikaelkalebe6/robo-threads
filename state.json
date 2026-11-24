@@ -30,12 +30,12 @@
    "14:19"
   ],
   "produtos_feitos": 0,
-  "respostas": 10,
+  "respostas": 13,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
    "17895434610685394": 4,
-   "18108595124318110": 3
+   "18108595124318110": 6
   }
  },
  "posts": [
@@ -1155,9 +1155,6 @@
   }
  ],
  "respondidos": [
-  "18123162643898155",
-  "17907024495560536",
-  "18083999168686874",
   "18177560830380904",
   "18033090266874821",
   "18371354530212671",
@@ -4154,7 +4151,10 @@
   "18122539912963629",
   "17980438962173116",
   "18101652701406238",
-  "18474677710141661"
+  "18474677710141661",
+  "18132377581845897",
+  "18116574176150351",
+  "18120966562800681"
  ],
  "hashes": [
   "3a35f403b2a89407c0605376f13d7313",
@@ -4781,25 +4781,13 @@
   "c7fb0deefe": 1,
   "390517d1ff": 1,
   "322d1f8488": 1,
-  "dac3245e70": 1
+  "dac3245e70": 1,
+  "630feda239": 1,
+  "fbf8e1074c": 1,
+  "910e864a3c": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "verdade mas o detox emocional pegou pesado demais",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "Entendo o salão virou banco e a gente fica devedora de autoestima",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "KKK então o salão tem mais custos que minha conta de luz, né? Entendi o 'detox' 😅",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "quase o valor de um terreno na lua essa tesoura kkk",
    "p": "neutra",
@@ -4934,6 +4922,21 @@
    "t": "23? já tá na hora de cobrar o aluguel kkk",
    "p": "neutra",
    "r": 1
+  },
+  {
+   "t": "28? cada um no seu tempo, viu 😅",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "17 anos? você saiu pra morar no sítio dos avós né",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "19 ainda tem muita marmita para mandar para a sogra kkkk",
+   "p": "neutra",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6572,7 +6575,10 @@
   "18108595124318110": [
    "concordo mae e",
    "com essa idade",
-   "23 ja ta"
+   "23 ja ta",
+   "28 cada um",
+   "17 anos voce",
+   "19 ainda tem"
   ]
  },
  "shopee_checada": "2026-11-24|1",
