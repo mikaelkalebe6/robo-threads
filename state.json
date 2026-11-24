@@ -25,10 +25,11 @@
    "08:30"
   ],
   "produtos_feitos": 0,
-  "respostas": 2,
+  "respostas": 3,
   "por_post": {
    "18105525359539634": 1,
-   "18129549358925799": 1
+   "18129549358925799": 1,
+   "17895434610685394": 1
   }
  },
  "posts": [
@@ -1212,7 +1213,6 @@
   }
  ],
  "respondidos": [
-  "18112374281125208",
   "18624048193052645",
   "17972372058170953",
   "17943031614363251",
@@ -4211,7 +4211,8 @@
   "18355121365254489",
   "18403728718165729",
   "17906981727388823",
-  "17950016097075796"
+  "17950016097075796",
+  "18137558431809515"
  ],
  "hashes": [
   "8eddcc8e380481c769322390a0aaaff0",
@@ -4830,15 +4831,11 @@
  "por_pessoa": {
   "_data": "2026-11-24",
   "7d8771b110": 1,
-  "be89258121": 1
+  "be89258121": 1,
+  "726dab1666": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "voz zoada mas com bonus de princesa foi lucro na certa kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "exato, o boleto chega e a gente já vira o sargento da casa",
    "p": "concorda",
@@ -4983,6 +4980,11 @@
    "t": "Verdade, parece que ele só queria usar o aparelho mesmo kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "kkk, também já estou de fora desse vício de reclamar 😂",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6380,9 +6382,6 @@
   }
  ],
  "aberturas_post": {
-  "18080804558764298": [
-   "mudou completamente o"
-  ],
   "18171150787465175": [
    "essa abordagem direta"
   ],
@@ -6611,6 +6610,9 @@
   ],
   "18129549358925799": [
    "verdade parece que"
+  ],
+  "17895434610685394": [
+   "tambem ja estou"
   ]
  },
  "shopee_checada": "2026-11-24|1",
