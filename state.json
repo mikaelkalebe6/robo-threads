@@ -28,10 +28,10 @@
    "11:57"
   ],
   "produtos_feitos": 0,
-  "respostas": 5,
+  "respostas": 6,
   "por_post": {
    "18105525359539634": 1,
-   "18129549358925799": 1,
+   "18129549358925799": 2,
    "17895434610685394": 3
   }
  },
@@ -1186,7 +1186,6 @@
   }
  ],
  "respondidos": [
-  "17943031614363251",
   "17949808074054207",
   "17877445581564381",
   "18503432503103676",
@@ -4185,7 +4184,8 @@
   "17950016097075796",
   "18137558431809515",
   "17928487656445763",
-  "18185040526437590"
+  "18185040526437590",
+  "18025302149946185"
  ],
  "hashes": [
   "e83be1c959d0c1b5432447f140d2fe59",
@@ -4807,15 +4807,11 @@
   "be89258121": 1,
   "726dab1666": 1,
   "bef359caf6": 1,
-  "3973933721": 1
+  "3973933721": 1,
+  "a4db22c03a": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "dois anos sem dar problema já é quase um milagre financeiro kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "pelo menos você entende o tamanho do meu desespero",
    "p": "neutra",
@@ -4960,6 +4956,11 @@
    "t": "Realmente parece jantar de filme de terror, o prato principal foi a planilha kkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "quem treina sério assim vira lenda urbana na academia kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6589,7 +6590,8 @@
    "entao ta todo"
   ],
   "18129549358925799": [
-   "verdade parece que"
+   "verdade parece que",
+   "quem treina serio"
   ],
   "17895434610685394": [
    "tambem ja estou",
