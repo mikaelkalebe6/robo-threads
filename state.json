@@ -27,11 +27,11 @@
    "11:10"
   ],
   "produtos_feitos": 0,
-  "respostas": 4,
+  "respostas": 5,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 1,
-   "17895434610685394": 2
+   "17895434610685394": 3
   }
  },
  "posts": [
@@ -1198,7 +1198,6 @@
   }
  ],
  "respondidos": [
-  "17972372058170953",
   "17943031614363251",
   "17949808074054207",
   "17877445581564381",
@@ -4197,7 +4196,8 @@
   "17906981727388823",
   "17950016097075796",
   "18137558431809515",
-  "17928487656445763"
+  "17928487656445763",
+  "18185040526437590"
  ],
  "hashes": [
   "f0c631555ce12f021a3843b45389611a",
@@ -4818,15 +4818,11 @@
   "7d8771b110": 1,
   "be89258121": 1,
   "726dab1666": 1,
-  "bef359caf6": 1
+  "bef359caf6": 1,
+  "3973933721": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "perder o arroz é o menor dos danos perto do susto na estrada kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "dois anos sem dar problema já é quase um milagre financeiro kkk",
    "p": "concorda",
@@ -4969,6 +4965,11 @@
   },
   {
    "t": "Verdade, merece jantar sem planilha e papo de imposto kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Realmente parece jantar de filme de terror, o prato principal foi a planilha kkk",
    "p": "concorda",
    "r": 2
   }
@@ -6604,7 +6605,8 @@
   ],
   "17895434610685394": [
    "tambem ja estou",
-   "verdade merece jantar"
+   "verdade merece jantar",
+   "realmente parece jantar"
   ]
  },
  "shopee_checada": "2026-11-24|1",
