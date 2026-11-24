@@ -38,37 +38,21 @@
    "17:43",
    "18:23",
    "20:21",
-   "19:03"
+   "19:03",
+   "21:04"
   ],
   "produtos_feitos": 2,
-  "respostas": 10,
+  "respostas": 11,
   "por_post": {
    "18122819762067033": 6,
    "18034662515856285": 1,
    "18177224197403425": 1,
    "18110220422195891": 1,
-   "17982223043925126": 1
+   "17982223043925126": 1,
+   "18105525359539634": 1
   }
  },
  "posts": [
-  {
-   "id": "18077386775780157",
-   "insp": "8bcb7cd8a4",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual foi o pior conselho que te deram quando você virou pai ou mãe? porque me mandaram comprar um chiqueirinho e agora meu filho tem mais estilo que eu, vive de terno e cobra aluguel do meu quarto",
-   "quando": "2026-11-16T20:07:08.651454-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 308,
-    "likes": 2,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-23"
-   },
-   "viral_chk": "2026-11-17T19:37:09.889648-04:00"
-  },
   {
    "id": "18025514525927282",
    "insp": "e6b297b654",
@@ -1023,7 +1007,7 @@
    "texto": "SEJAM SINCEROS: qual conselho financeiro vocês ignoraram e se arrependem? Eu jurei que ia seguir a regra de guardar trinta por cento do salário todo mês até o meu carro decidir que o câmbio merecia tirar férias remuneradas e o meu terapeuta sugerir que chorar no carro novo gasta menos água do que no",
    "quando": "2026-11-23T09:37:09.456426-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T22:07:09.778559-04:00"
+   "viral_chk": "2026-11-23T22:37:09.334798-04:00"
   },
   {
    "id": "17997666804022075",
@@ -1032,7 +1016,7 @@
    "texto": "PESSOAS QUE VIAJAM MUITO: o mano que vai pra praia passa o fDS inteiro lutando contra uma areia radioativa que entra até no boleto do cartão e o da serra gasta o PIB da família em fondue de queijo de R$ 800 pra fingir que tá na Europa enquanto dorme num chalé que tem uma aranha do tamanho de um Fiat",
    "quando": "2026-11-23T10:07:09.278735-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T22:07:09.778559-04:00"
+   "viral_chk": "2026-11-23T22:37:09.334798-04:00"
   },
   {
    "id": "18103135061561933",
@@ -1061,7 +1045,7 @@
    "texto": "OPINIÃO IMPOPULAR: a única vontade incontrolável que dá num domingo à tarde é de cometer um crime fiscal bem planejado, porque trair o namorado dá muito trabalho e eu não tenho energia nem pra lavar a airfryer, imagina carregar dois celulares na bolsa e inventar que fui pra Niterói visitar uma tia q",
    "quando": "2026-11-23T13:07:09.908998-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T22:07:09.778559-04:00"
+   "viral_chk": "2026-11-23T22:37:09.334798-04:00"
   },
   {
    "id": "17982223043925126",
@@ -1070,7 +1054,7 @@
    "texto": "OPINIÃO IMPOPULAR: o verdadeiro teste do churrasqueiro não é o ponto da carne nem a picanha marmorizada, é a habilidade olímpica de desviar da fumaça maldita que parece ter GPS instalado só pra perseguir o olho esquerdo de quem tá pilotando a brasa.",
    "quando": "2026-11-23T15:37:09.470949-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T22:07:09.778559-04:00"
+   "viral_chk": "2026-11-23T22:37:09.334798-04:00"
   },
   {
    "id": "17937764010148235",
@@ -1079,7 +1063,7 @@
    "texto": "SEM MENTIR: qual foi o presente mais sem noção que você já ganhou? Juro que a minha ex-sogra me deu um vale-academia vencido e ainda teve a coragem de dizer que era para eu aproveitar o foco do ano novo.",
    "quando": "2026-11-23T16:07:08.723938-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T22:07:09.778559-04:00"
+   "viral_chk": "2026-11-23T22:37:09.334798-04:00"
   },
   {
    "id": "18007073072846873",
@@ -1108,7 +1092,7 @@
    "texto": "DÚVIDA SINCERA: a galera que dorme cedo e acorda às cinco da manhã pra correr faz o que com todo o resto do dia, espiona a vida dos vizinhos por binóculo ou só finge produtividade no Excel até o boleto vencer?",
    "quando": "2026-11-23T17:07:08.766985-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T22:07:09.778559-04:00"
+   "viral_chk": "2026-11-23T22:37:09.334798-04:00"
   },
   {
    "id": "18110220422195891",
@@ -1117,7 +1101,7 @@
    "texto": "DÚVIDA SINCERA: a pessoa que espera a Black Friday pra comprar um pote de margarina de três reais tem o meu total respeito ou precisa ser internada imediatamente?",
    "quando": "2026-11-23T18:07:08.848029-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T22:07:09.778559-04:00"
+   "viral_chk": "2026-11-23T22:37:09.334798-04:00"
   },
   {
    "id": "18129549358925799",
@@ -1126,7 +1110,7 @@
    "texto": "OPINIÃO IMPOPULAR: academia lotada às 18h é o pior lugar pra paquerar. \n\nO cara chega perto com aquela respiração de maratona de 1998, todo suado, cheirando a osteossíntese mal resolvida e whey superfaturado, pra me soltar: licença, falta muito pra você terminar? Irmão, falta eu terminar de ter vont",
    "quando": "2026-11-23T18:37:08.405004-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T22:07:09.778559-04:00"
+   "viral_chk": "2026-11-23T22:37:09.334798-04:00"
   },
   {
    "id": "18105525359539634",
@@ -1135,11 +1119,19 @@
    "texto": "DÚVIDA SINCERA: o mecânico olhou pro meu painel que tava parecendo uma árvore de natal da CPFL, respirou fundo e perguntou se eu aceitava Pix ou se preferia deixar o carro como garantia de divórcio. Vocês também usam fita isolante e fé pra segurar o para-choque ou só eu que tô vivendo na base da bai",
    "quando": "2026-11-23T22:07:09.778559-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T22:07:09.778559-04:00"
+   "viral_chk": "2026-11-23T22:37:09.334798-04:00"
+  },
+  {
+   "id": "17922516261454597",
+   "insp": "239781c6f2",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual foi o jogo de celular que fez você passar raiva o suficiente para desinstalar e ainda ficar com vontade de jogar o celular na parede da cozinha? Juro que o meu limite foi aquele joguinho de administrar restaurante onde o cliente surta se o bife passa dez segundos no fogo e eu qu",
+   "quando": "2026-11-23T22:37:09.334798-04:00",
+   "ia": "Gemini gemini-flash-lite-latest",
+   "viral_chk": "2026-11-23T22:37:09.334798-04:00"
   }
  ],
  "respondidos": [
-  "17997755511032114",
   "17998198560035955",
   "17868215568663223",
   "18112374281125208",
@@ -4138,10 +4130,10 @@
   "17915516691477186",
   "17888995239502218",
   "17897981676683021",
-  "18355121365254489"
+  "18355121365254489",
+  "18403728718165729"
  ],
  "hashes": [
-  "19da41446d7e624717872dbe6f5b43e0",
   "8f7ca9e8fa039b0f44c9485d84eb3011",
   "8eddcc8e380481c769322390a0aaaff0",
   "6a16b8ba9625ef480b72af781c736ce6",
@@ -4340,7 +4332,8 @@
   "5c9fb73c58c1c249a30868c6d4d205fb",
   "b2bbe519404307f738d1144e8534a473",
   "aef0507b5d145c515cee514c5b160a62",
-  "50e0e68972e89cd94ba425ef2bb902cc"
+  "50e0e68972e89cd94ba425ef2bb902cc",
+  "41f5f889b8f496ec9985d7ec7f201918"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4418,7 +4411,6 @@
   "da2a07512c": 1791576445.2365634,
   "6ab249fcf7": 1791580080.9198704,
   "ae0c3922a8": 1791583645.2915637,
-  "239781c6f2": 1791589092.918579,
   "b6e8893db8": 1791637653.5574567,
   "f8cf963815": 1791644893.9161525,
   "d74ec1b0c0": 1791648492.9168603,
@@ -4751,7 +4743,8 @@
   "db79935195": 1795468051.1417189,
   "ff5027f0d8": 1795471646.386982,
   "e51c00ec33": 1795473455.1786914,
-  "88bd5be843": 1795486045.9342809
+  "88bd5be843": 1795486045.9342809,
+  "239781c6f2": 1795487851.5635538
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4765,15 +4758,11 @@
   "7c463688cc": 1,
   "969a9e1055": 1,
   "5a4f6559c6": 1,
-  "0af1701b18": 1
+  "0af1701b18": 1,
+  "0dc3032bda": 1
  },
  "reservas_checadas": "2026-11-23",
  "ultimas_respostas": [
-  {
-   "t": "quatro anos rodando tanto assim foi lucro puro com esse motor",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "comparação justa porque o sofrimento com Peugeot de ano 2002 é herança pesada kkk",
    "p": "concorda",
@@ -4918,6 +4907,11 @@
    "t": "essa dica é preciosa, vou testar na próxima brasa",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "kkkk parece cena de filme de comédia",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6305,9 +6299,6 @@
   }
  ],
  "aberturas_post": {
-  "17952847533299771": [
-   "tapete de grama"
-  ],
   "17998486959052559": [
    "esse sim e",
    "descobriu meu plano",
@@ -6543,6 +6534,9 @@
   ],
   "17982223043925126": [
    "essa dica e"
+  ],
+  "18105525359539634": [
+   "parece cena de"
   ]
  },
  "shopee_checada": "2026-11-23|1",
