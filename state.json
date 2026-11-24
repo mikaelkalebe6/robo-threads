@@ -21,7 +21,9 @@
    "15:29",
    "20:19"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:30"
+  ],
   "produtos_feitos": 0,
   "respostas": 2,
   "por_post": {
@@ -30,24 +32,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18025514525927282",
-   "insp": "e6b297b654",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Ouvir Luan Santana no talo no trânsito às sete da manhã deveria contar como terapia gratuita pelo SUS. O problema não é gostar, o problema é o algoritmo da minha vida me expor desse jeito. Qual música duvidosa você escuta escondido rezando pro bluetooth não conectar na JBL da famí",
-   "quando": "2026-11-16T21:37:08.290805-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 301,
-    "likes": 3,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-23"
-   },
-   "viral_chk": "2026-11-17T21:07:07.979504-04:00"
-  },
   {
    "id": "18018279020755623",
    "insp": "53abd8941d",
@@ -1217,6 +1201,14 @@
     "shares": 0,
     "em": "2026-11-24"
    }
+  },
+  {
+   "id": "17895434610685394",
+   "insp": "6e31bac1d7",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: Tinder depois dos 40 parece seleção de elenco para remake de novela das oito onde todo mundo só quer falar de imposto de renda e dor na lombar. O boy me chama pra jantar e o papo rende tanto sobre o preço do quilo do tomate que eu já saio da mesa querendo pedir a pensão alimentíci",
+   "quando": "2026-11-24T08:37:09.606425-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4222,7 +4214,6 @@
   "17950016097075796"
  ],
  "hashes": [
-  "8f7ca9e8fa039b0f44c9485d84eb3011",
   "8eddcc8e380481c769322390a0aaaff0",
   "6a16b8ba9625ef480b72af781c736ce6",
   "f0c631555ce12f021a3843b45389611a",
@@ -4421,7 +4412,8 @@
   "b2bbe519404307f738d1144e8534a473",
   "aef0507b5d145c515cee514c5b160a62",
   "50e0e68972e89cd94ba425ef2bb902cc",
-  "41f5f889b8f496ec9985d7ec7f201918"
+  "41f5f889b8f496ec9985d7ec7f201918",
+  "167a7c46a33962f6f00bd0e4283eadb3"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4586,7 +4578,6 @@
   "a1c2ae306e": 1792876083.525706,
   "c312178704": 1792894087.5275266,
   "60aee01b67": 1792939046.8483899,
-  "6e31bac1d7": 1792951653.7694635,
   "30cb84bf04": 1792958842.2132401,
   "9511ce0bfa": 1792967893.077666,
   "9cb883fe04": 1792980455.4338508,
@@ -4832,7 +4823,8 @@
   "ff5027f0d8": 1795471646.386982,
   "e51c00ec33": 1795473455.1786914,
   "88bd5be843": 1795486045.9342809,
-  "239781c6f2": 1795487851.5635538
+  "239781c6f2": 1795487851.5635538,
+  "6e31bac1d7": 1795523851.9181154
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
