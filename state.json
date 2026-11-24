@@ -31,11 +31,11 @@
    "15:29"
   ],
   "produtos_feitos": 0,
-  "respostas": 22,
+  "respostas": 23,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
-   "17895434610685394": 6,
+   "17895434610685394": 7,
    "18108595124318110": 7,
    "18104256290059815": 4,
    "17922516261454597": 1,
@@ -1149,7 +1149,6 @@
   }
  ],
  "respondidos": [
-  "18104370419002603",
   "18117362774061165",
   "18116446277049980",
   "18491996716101321",
@@ -4148,7 +4147,8 @@
   "18115978580138001",
   "18114223826334425",
   "18054728339603044",
-  "18149001376585627"
+  "18149001376585627",
+  "18123725981068073"
  ],
  "hashes": [
   "9a7cdea938c5fbf4dabb0a2208f5c5ca",
@@ -4786,15 +4786,11 @@
   "de3250757a": 1,
   "c70fbb17fe": 1,
   "0579c184ae": 1,
-  "b536fcf1da": 1
+  "b536fcf1da": 1,
+  "74d035840d": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "verificar o preço de tudo antes só estraga a surpresa do boleto",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "Nossa, vc investe tanto que o corte vira ação na bolsa kkk 😅",
    "p": "concorda",
@@ -4939,6 +4935,11 @@
    "t": "shopee pelo menos entrega o pacote mais rápido que esse papo kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "pelo menos o tomate garante assunto pro jantar inteiro",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6466,7 +6467,8 @@
    "realmente parece jantar",
    "pesou na balanca",
    "voce leu rapido",
-   "shopee pelo menos"
+   "shopee pelo menos",
+   "pelo menos o"
   ],
   "18108595124318110": [
    "concordo mae e",
