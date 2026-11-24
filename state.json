@@ -25,35 +25,18 @@
    "08:30",
    "09:25",
    "11:10",
-   "11:57"
+   "11:57",
+   "13:21"
   ],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 7,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
-   "17895434610685394": 3
+   "17895434610685394": 4
   }
  },
  "posts": [
-  {
-   "id": "18343211152279703",
-   "insp": "7733a769d4",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: qual foi o gasto surpresa com bicho que quase te fez financiar o gato em trinta e seis vezes no carnê da casas bahia porque o infeliz decidiu que só comeria ração com selo de aprovação do papa",
-   "quando": "2026-11-17T14:07:09.837468-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T13:37:08.716595-04:00",
-   "metricas": {
-    "views": 333,
-    "likes": 1,
-    "replies": 9,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-24"
-   }
-  },
   {
    "id": "18114486605614841",
    "insp": "prod_23993565028",
@@ -1183,10 +1166,17 @@
    "texto": "SEM MENTIR: vc já chorou no banheiro do trabalho e depois teve que voltar pra reunião fingindo que a alma não tinha saído do corpo há cinco minutos? eu juro que tava só limpando uma lágrima tática de ódio enquanto pensava se dava tempo de fingir um desmaio técnico ou se era melhor só aceitar o bolet",
    "quando": "2026-11-24T12:37:09.371211-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18108595124318110",
+   "insp": "3546666699",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: com quantos anos vocês saíram da casa dos pais de verdade, porque eu conheço marmanjo que só mudou de quarto e continua mandando as marmitas sujas pra minha sogra lavar.",
+   "quando": "2026-11-24T14:07:09.966092-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17949808074054207",
   "17877445581564381",
   "18503432503103676",
   "17999598126001673",
@@ -4185,10 +4175,10 @@
   "18137558431809515",
   "17928487656445763",
   "18185040526437590",
-  "18025302149946185"
+  "18025302149946185",
+  "18122539912963629"
  ],
  "hashes": [
-  "e83be1c959d0c1b5432447f140d2fe59",
   "111ea3bf609b4c2d5d80a0d9a948e822",
   "3a35f403b2a89407c0605376f13d7313",
   "9a7cdea938c5fbf4dabb0a2208f5c5ca",
@@ -4387,11 +4377,11 @@
   "167a7c46a33962f6f00bd0e4283eadb3",
   "d4f50c6ace93b6b0291a77f441d13833",
   "83b3d8eef17f767e11b713a2d9b9cde1",
-  "f53d02549694d6966cedab1ba315be84"
+  "f53d02549694d6966cedab1ba315be84",
+  "c53e95749c9dc998338133e73f94bc0e"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
-  "3546666699": 1790550466.4820309,
   "7d71edeab3": 1790620679.9542685,
   "d12059d204": 1790636883.6793935,
   "4c34f415ce": 1790690916.9672582,
@@ -4798,7 +4788,8 @@
   "6e31bac1d7": 1795523851.9181154,
   "d7e44e025a": 1795527447.8614604,
   "55ca636ebf": 1795534654.975997,
-  "c312178704": 1795538252.9664772
+  "c312178704": 1795538252.9664772,
+  "3546666699": 1795543655.5974424
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4808,15 +4799,11 @@
   "726dab1666": 1,
   "bef359caf6": 1,
   "3973933721": 1,
-  "a4db22c03a": 1
+  "a4db22c03a": 1,
+  "c7fb0deefe": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos você entende o tamanho do meu desespero",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "troca justa porque o nokia ao menos resistia a queda de morro",
    "p": "concorda",
@@ -4961,6 +4948,11 @@
    "t": "quem treina sério assim vira lenda urbana na academia kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "pesou na balança e a carne acabou vindo estragada",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6596,7 +6588,8 @@
   "17895434610685394": [
    "tambem ja estou",
    "verdade merece jantar",
-   "realmente parece jantar"
+   "realmente parece jantar",
+   "pesou na balanca"
   ]
  },
  "shopee_checada": "2026-11-24|1",
