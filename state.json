@@ -24,7 +24,8 @@
   "feitos": [
    "08:30",
    "09:25",
-   "11:10"
+   "11:10",
+   "11:57"
   ],
   "produtos_feitos": 0,
   "respostas": 5,
@@ -35,27 +36,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18107444138377277",
-   "insp": "prod_19098752815",
-   "link": "",
-   "texto": "Suporte no carro que cai a cada buraco, né? 😂\nDescobri esse suporte 360° que segura o celular firme e ainda gira pra ver tudo.\nOlha aí como ficou o painel 👀",
-   "quando": "2026-11-17T10:07:07.993973-04:00",
-   "ia": "Groq openai/gpt-oss-120b",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "19098752815",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "19098752815",
-    "nome": "Suporte Veicular Carro Para Celular 360 ° Giratório Universal Multifuncional Ventilacao Ar",
-    "offerLink": "https://s.shopee.com.br/5VWy8MwyhY",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljg30etzu9ibac",
-    "campanha": ""
-   },
-   "apagado": true
-  },
   {
    "id": "18343211152279703",
    "insp": "7733a769d4",
@@ -1194,6 +1174,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: o cara lembra que você comentou numa terça-feira chuvosa de 2022 que não gosta de coentro, mas esquece o próprio aniversário e jura que a ex era só uma amiga chamada Cleide que morava com ele. O algoritmo da memória seletiva masculina é fascinante. Qual foi o nível de loucura do ",
    "quando": "2026-11-24T11:37:10.356229-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18167919508496666",
+   "insp": "c312178704",
+   "link": "",
+   "texto": "SEM MENTIR: vc já chorou no banheiro do trabalho e depois teve que voltar pra reunião fingindo que a alma não tinha saído do corpo há cinco minutos? eu juro que tava só limpando uma lágrima tática de ódio enquanto pensava se dava tempo de fingir um desmaio técnico ou se era melhor só aceitar o bolet",
+   "quando": "2026-11-24T12:37:09.371211-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4200,7 +4188,6 @@
   "18185040526437590"
  ],
  "hashes": [
-  "f0c631555ce12f021a3843b45389611a",
   "e83be1c959d0c1b5432447f140d2fe59",
   "111ea3bf609b4c2d5d80a0d9a948e822",
   "3a35f403b2a89407c0605376f13d7313",
@@ -4399,7 +4386,8 @@
   "41f5f889b8f496ec9985d7ec7f201918",
   "167a7c46a33962f6f00bd0e4283eadb3",
   "d4f50c6ace93b6b0291a77f441d13833",
-  "83b3d8eef17f767e11b713a2d9b9cde1"
+  "83b3d8eef17f767e11b713a2d9b9cde1",
+  "f53d02549694d6966cedab1ba315be84"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4560,7 +4548,6 @@
   "31631bee08": 1792861687.3606534,
   "23052490c4": 1792872469.8408012,
   "a1c2ae306e": 1792876083.525706,
-  "c312178704": 1792894087.5275266,
   "60aee01b67": 1792939046.8483899,
   "30cb84bf04": 1792958842.2132401,
   "9511ce0bfa": 1792967893.077666,
@@ -4810,7 +4797,8 @@
   "239781c6f2": 1795487851.5635538,
   "6e31bac1d7": 1795523851.9181154,
   "d7e44e025a": 1795527447.8614604,
-  "55ca636ebf": 1795534654.975997
+  "55ca636ebf": 1795534654.975997,
+  "c312178704": 1795538252.9664772
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
