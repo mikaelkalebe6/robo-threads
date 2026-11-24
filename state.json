@@ -23,7 +23,8 @@
   ],
   "feitos": [
    "08:30",
-   "09:25"
+   "09:25",
+   "11:10"
   ],
   "produtos_feitos": 0,
   "respostas": 4,
@@ -34,24 +35,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18095465699675445",
-   "insp": "f9bb6059fa",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Falar mal de futebol de várzea é pra quem nunca viu o zagueiro Clodoaldo resolver uma DR de divórcio no meio de um lateral e ainda fazer gol de bicicleta. O cara joga de cigarro atrás da orelha e chuteira 37 num pé 42. Respeita a elite. Qual foi a cena mais caótica que você já viu",
-   "quando": "2026-11-17T09:07:09.058687-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T09:07:08.904539-04:00",
-   "metricas": {
-    "views": 74,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-24"
-   }
-  },
   {
    "id": "18107444138377277",
    "insp": "prod_19098752815",
@@ -1203,6 +1186,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: a minha honestidade sincericida já me fez perder a melhor amiga porque eu avisei que o boy dela parecia o boneco Olindo de Olinda depois de uma ressaca moral e a criatura achou ofensa pessoal, sendo que eu tava fazendo um favor pra humanidade. Quem aqui já perdeu amizade por fala",
    "quando": "2026-11-24T09:37:09.945208-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18001477658829260",
+   "insp": "55ca636ebf",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: o cara lembra que você comentou numa terça-feira chuvosa de 2022 que não gosta de coentro, mas esquece o próprio aniversário e jura que a ex era só uma amiga chamada Cleide que morava com ele. O algoritmo da memória seletiva masculina é fascinante. Qual foi o nível de loucura do ",
+   "quando": "2026-11-24T11:37:10.356229-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4209,7 +4200,6 @@
   "17928487656445763"
  ],
  "hashes": [
-  "6a16b8ba9625ef480b72af781c736ce6",
   "f0c631555ce12f021a3843b45389611a",
   "e83be1c959d0c1b5432447f140d2fe59",
   "111ea3bf609b4c2d5d80a0d9a948e822",
@@ -4408,7 +4398,8 @@
   "50e0e68972e89cd94ba425ef2bb902cc",
   "41f5f889b8f496ec9985d7ec7f201918",
   "167a7c46a33962f6f00bd0e4283eadb3",
-  "d4f50c6ace93b6b0291a77f441d13833"
+  "d4f50c6ace93b6b0291a77f441d13833",
+  "83b3d8eef17f767e11b713a2d9b9cde1"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4527,7 +4518,6 @@
   "0e810ea820": 1792339650.9835525,
   "9baa29373a": 1792346849.6100967,
   "d5e042b763": 1792350456.4683714,
-  "55ca636ebf": 1792357683.111423,
   "3394e0a232": 1792359441.2228508,
   "63b327e43d": 1792363057.593114,
   "54dc948734": 1792375654.3754094,
@@ -4819,7 +4809,8 @@
   "88bd5be843": 1795486045.9342809,
   "239781c6f2": 1795487851.5635538,
   "6e31bac1d7": 1795523851.9181154,
-  "d7e44e025a": 1795527447.8614604
+  "d7e44e025a": 1795527447.8614604,
+  "55ca636ebf": 1795534654.975997
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
