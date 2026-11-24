@@ -27,7 +27,8 @@
    "11:10",
    "11:57",
    "13:21",
-   "14:19"
+   "14:19",
+   "15:29"
   ],
   "produtos_feitos": 0,
   "respostas": 13,
@@ -39,24 +40,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18611542363068430",
-   "insp": "d1e2f3c049",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: em que momento exato da vida a gente vira a pessoa que fala \"se eu for aí e achar, eu pego\" para o boy e depois percebe que virou a própria mãe ameaçando o namorado com a sola do chinelo mental?",
-   "quando": "2026-11-17T18:37:17.356170-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-18T18:37:10.502934-04:00",
-   "metricas": {
-    "views": 117,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-24"
-   }
-  },
   {
    "id": "18121041461008264",
    "insp": "prod_58204067039",
@@ -1151,6 +1134,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: qual é a palavra da sua região que quem é de fora acha que é ofensa federal mas na verdade é só vírgula? \n\nMeu ex tentou me processar por danos morais porque eu chamei ele de desmantelado no meio de uma discussão sobre quem ia pagar a conta do drive-thru do McDonalds. O juiz deve ter",
    "quando": "2026-11-24T14:37:08.645976-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18104256290059815",
+   "insp": "112111ad3e",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: tem um mês que tem uma rã morando de favor na minha cozinha e eu já tô considerando botar um boleto de condomínio pra ela pagar. O problema é que ela me olha com mais julgamento do que a minha mãe quando vê meu extrato bancário e eu simplesmente paraliso. Alguém sabe se sapo aceita P",
+   "quando": "2026-11-24T16:07:16.895738-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4157,7 +4148,6 @@
   "18120966562800681"
  ],
  "hashes": [
-  "3a35f403b2a89407c0605376f13d7313",
   "9a7cdea938c5fbf4dabb0a2208f5c5ca",
   "5c1ef4b29bfb0b97ecae64cb87caf004",
   "a615e17e25bc58d509f7c85d83fdd24d",
@@ -4356,7 +4346,8 @@
   "83b3d8eef17f767e11b713a2d9b9cde1",
   "f53d02549694d6966cedab1ba315be84",
   "c53e95749c9dc998338133e73f94bc0e",
-  "04f8251d5a337188ba84a502a892d516"
+  "04f8251d5a337188ba84a502a892d516",
+  "9da7b0f4bb3af436edf1be7f1978901b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4480,7 +4471,6 @@
   "a998017f2f": 1792413453.4373097,
   "1918758b46": 1792420653.077342,
   "5d187cad11": 1792426040.4519188,
-  "112111ad3e": 1792429639.2747066,
   "d4f6b1be43": 1792433248.0910127,
   "5a11d3ea8d": 1792438695.5831506,
   "7d5fd436ee": 1792444041.6296065,
@@ -4767,7 +4757,8 @@
   "55ca636ebf": 1795534654.975997,
   "c312178704": 1795538252.9664772,
   "3546666699": 1795543655.5974424,
-  "1a4df9fa8d": 1795545447.2938218
+  "1a4df9fa8d": 1795545447.2938218,
+  "112111ad3e": 1795550898.2373574
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
