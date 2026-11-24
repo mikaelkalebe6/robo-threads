@@ -32,11 +32,11 @@
    "17:00"
   ],
   "produtos_feitos": 0,
-  "respostas": 24,
+  "respostas": 25,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
-   "17895434610685394": 7,
+   "17895434610685394": 8,
    "18108595124318110": 8,
    "18104256290059815": 4,
    "17922516261454597": 1,
@@ -1126,7 +1126,6 @@
   }
  ],
  "respondidos": [
-  "18116446277049980",
   "18491996716101321",
   "17897352375672372",
   "17863048602696207",
@@ -4125,7 +4124,8 @@
   "18054728339603044",
   "18149001376585627",
   "18123725981068073",
-  "18021857348975297"
+  "18021857348975297",
+  "17897156418616818"
  ],
  "hashes": [
   "5c1ef4b29bfb0b97ecae64cb87caf004",
@@ -4765,15 +4765,11 @@
   "0579c184ae": 1,
   "b536fcf1da": 1,
   "74d035840d": 1,
-  "9c9408d192": 1
+  "9c9408d192": 1,
+  "38fef96277": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "Concordo, tem que achar o corte que não pesa no extrato kkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Concordo, regras genéricas ignoram que somos humanos cheios de imprevistos kkk",
    "p": "concorda",
@@ -4918,6 +4914,11 @@
    "t": "24 já é uma idade bem respeitável pra encarar o primeiro boleto sozinho kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "pelo menos rir com respeito evita pagar pensao alimenticia kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6446,7 +6447,8 @@
    "pesou na balanca",
    "voce leu rapido",
    "shopee pelo menos",
-   "pelo menos o"
+   "pelo menos o",
+   "pelo menos rir"
   ],
   "18108595124318110": [
    "concordo mae e",
