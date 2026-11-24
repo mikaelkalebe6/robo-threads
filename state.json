@@ -31,14 +31,15 @@
    "15:29"
   ],
   "produtos_feitos": 0,
-  "respostas": 19,
+  "respostas": 22,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
-   "17895434610685394": 4,
+   "17895434610685394": 6,
    "18108595124318110": 7,
    "18104256290059815": 4,
-   "17922516261454597": 1
+   "17922516261454597": 1,
+   "18477460000137963": 1
   }
  },
  "posts": [
@@ -1148,9 +1149,6 @@
   }
  ],
  "respondidos": [
-  "18095955971440289",
-  "18199739743344851",
-  "18409222591092937",
   "18104370419002603",
   "18117362774061165",
   "18116446277049980",
@@ -4147,7 +4145,10 @@
   "18233227522335987",
   "18017116877975005",
   "17974537317193344",
-  "18115978580138001"
+  "18115978580138001",
+  "18114223826334425",
+  "18054728339603044",
+  "18149001376585627"
  ],
  "hashes": [
   "9a7cdea938c5fbf4dabb0a2208f5c5ca",
@@ -4782,25 +4783,13 @@
   "cc6d1c46c8": 2,
   "0474697f85": 1,
   "8dbc0be42d": 1,
-  "de3250757a": 1
+  "de3250757a": 1,
+  "c70fbb17fe": 1,
+  "0579c184ae": 1,
+  "b536fcf1da": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "socorro a franja ficou com personalidade própria",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "vc tá certa, em casa pelo menos o único prejuizo e a tesoura escolar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Salão de bairro raiz é o verdadeiro patrimônio nacional kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "verificar o preço de tudo antes só estraga a surpresa do boleto",
    "p": "ressalva",
@@ -4935,6 +4924,21 @@
    "t": "18, ano novo, só ficou alguns meses, depois voltou pra casa kkk",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "socorro o projeto rondon rendendo crise diplomatica por causa de vocabulario kkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "você leu rápido demais ou com muita vontade kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "shopee pelo menos entrega o pacote mais rápido que esse papo kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6337,108 +6341,6 @@
   }
  ],
  "aberturas_post": {
-  "18111918469906337": [
-   "limite perfeitamente aceitavel",
-   "era frango mas",
-   "investimento alto mas",
-   "defesa totalmente valida",
-   "milho nessa receita",
-   "entendo vegetarianas tambem",
-   "sorte a sua",
-   "respeito a sinceridade",
-   "nao vc pode",
-   "incomivel e pouco",
-   "saudade mental e",
-   "imortalidade culinaria de",
-   "lasanha com milho",
-   "estrategia de sabotagem",
-   "quase um crime",
-   "padrao de ciumes",
-   "minha sogra ja",
-   "45 reais pra",
-   "imagina uva passa",
-   "isso e terrorismo",
-   "morri com a",
-   "isso e fim",
-   "poxa bolo gigante",
-   "fugir e o",
-   "cliente que oferece",
-   "sobrevivencia extrema ao",
-   "misturar uva passa",
-   "terrorismo culinario completo",
-   "depois dessa qualquer",
-   "estomago de ferro",
-   "pura crueldade em",
-   "tentativa de homicidio",
-   "defesa totalmente justa",
-   "esse cardapio foi",
-   "azeite de dende",
-   "acho que o",
-   "esse suco tem",
-   "crime culinario em",
-   "vinho com uva",
-   "cuspir sangue alheio",
-   "steak and kidney",
-   "autodefesa pura e",
-   "nhoque com molho",
-   "verdade parece ritual",
-   "textura de papel",
-   "entendi cada um",
-   "o que e",
-   "preparacao completa para",
-   "pescoco de frango",
-   "feijao doce na",
-   "respeito vc ninguem",
-   "olho de cozinha",
-   "passas no cachorro",
-   "certamente foi trabalho",
-   "voltar tudo foi",
-   "estrategia de sobrevivencia",
-   "foi exatamente a",
-   "prato exotico e",
-   "acreditou direitinho quem",
-   "fingir demencia nessa",
-   "clinica social nao",
-   "farinha crua com",
-   "justo melhor passar",
-   "pudim com coca",
-   "esse terapeuta deveria",
-   "essa descricao me",
-   "estomago passou foi",
-   "sobrevivencia extrema ne",
-   "mingau de agua",
-   "quem tem paladar",
-   "batata e tomate",
-   "sardinha com macarrao",
-   "substituir a bolacha",
-   "uva passa consegue",
-   "esse valor ta",
-   "passas ainda tem",
-   "concordo total melhor",
-   "investimento baixo pelo",
-   "prova de fogo",
-   "tirar grao por",
-   "fruta ja e",
-   "pepino na lasanha",
-   "eu tambem estou",
-   "a sogra virou",
-   "esse valor foi",
-   "juro que eu",
-   "mocoto ja e",
-   "eu tambem quase",
-   "saude mental realmente",
-   "buchada de coragem",
-   "vc tem bons",
-   "sorpresa gostosa no",
-   "ah eu ja",
-   "passas no feijao",
-   "passei com louvor",
-   "sorrir foi reflexo",
-   "essa mae tinha",
-   "pura maldade planejada",
-   "misturar sal e",
-   "perder a fome"
-  ],
   "18136119379675335": [
    "e as vezes",
    "quanto mais especifico",
@@ -6562,7 +6464,9 @@
    "tambem ja estou",
    "verdade merece jantar",
    "realmente parece jantar",
-   "pesou na balanca"
+   "pesou na balanca",
+   "voce leu rapido",
+   "shopee pelo menos"
   ],
   "18108595124318110": [
    "concordo mae e",
@@ -6581,6 +6485,9 @@
   ],
   "17922516261454597": [
    "entendo essas baterias"
+  ],
+  "18477460000137963": [
+   "socorro o projeto"
   ]
  },
  "shopee_checada": "2026-11-24|1",
