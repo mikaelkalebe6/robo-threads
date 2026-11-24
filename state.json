@@ -31,12 +31,14 @@
    "15:29"
   ],
   "produtos_feitos": 0,
-  "respostas": 13,
+  "respostas": 19,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
    "17895434610685394": 4,
-   "18108595124318110": 6
+   "18108595124318110": 7,
+   "18104256290059815": 4,
+   "17922516261454597": 1
   }
  },
  "posts": [
@@ -1146,12 +1148,6 @@
   }
  ],
  "respondidos": [
-  "18177560830380904",
-  "18033090266874821",
-  "18371354530212671",
-  "18055891358645728",
-  "18432327745147526",
-  "18142984327511627",
   "18095955971440289",
   "18199739743344851",
   "18409222591092937",
@@ -4145,7 +4141,13 @@
   "18474677710141661",
   "18132377581845897",
   "18116574176150351",
-  "18120966562800681"
+  "18120966562800681",
+  "18096208847698198",
+  "18111100727211355",
+  "18233227522335987",
+  "18017116877975005",
+  "17974537317193344",
+  "18115978580138001"
  ],
  "hashes": [
   "9a7cdea938c5fbf4dabb0a2208f5c5ca",
@@ -4775,40 +4777,15 @@
   "dac3245e70": 1,
   "630feda239": 1,
   "fbf8e1074c": 1,
-  "910e864a3c": 1
+  "910e864a3c": 1,
+  "b27c7306a4": 1,
+  "cc6d1c46c8": 2,
+  "0474697f85": 1,
+  "8dbc0be42d": 1,
+  "de3250757a": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "quase o valor de um terreno na lua essa tesoura kkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "peixe com crosta e risoto é chique demais para chorar no banco de trás",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Obrigada, sua energia já me fez pensar num prato quentinho pra reconfortar 😭",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cachaça entra na categoria de carboidrato líquido chorando no Uber né kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Verdade, situação digna de drama, mas já pensou no acarajé de Salvador? kkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "justo demais, o problema é meu saldo bancário chorando junto com a franja",
-   "p": "ressalva",
-   "r": 0
-  },
   {
    "t": "socorro a franja ficou com personalidade própria",
    "p": "concorda",
@@ -4928,6 +4905,36 @@
    "t": "19 ainda tem muita marmita para mandar para a sogra kkkk",
    "p": "neutra",
    "r": 2
+  },
+  {
+   "t": "Então, se a rã vai cobrar, a mosca já está pedindo desconto kkkkk 😂",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Entendo, essas baterias de energia são um tormento kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o pix da rã vai direto pra poupança dela kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "saindo então, mas antes deixa eu pagar o boleto dela kkk",
+   "p": null,
+   "r": 1
+  },
+  {
+   "t": "vassoura na mão, boleto no bolso, vamos fazer a rã pagar kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "18, ano novo, só ficou alguns meses, depois voltou pra casa kkk",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6330,12 +6337,6 @@
   }
  ],
  "aberturas_post": {
-  "18137326147667955": [
-   "verdade o simples"
-  ],
-  "18111720626357971": [
-   "perdeu a chance"
-  ],
   "18111918469906337": [
    "limite perfeitamente aceitavel",
    "era frango mas",
@@ -6569,7 +6570,17 @@
    "23 ja ta",
    "28 cada um",
    "17 anos voce",
-   "19 ainda tem"
+   "19 ainda tem",
+   "18 ano novo"
+  ],
+  "18104256290059815": [
+   "entao se a",
+   "o pix da",
+   "saindo entao mas",
+   "vassoura na mao"
+  ],
+  "17922516261454597": [
+   "entendo essas baterias"
   ]
  },
  "shopee_checada": "2026-11-24|1",
