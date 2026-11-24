@@ -26,11 +26,11 @@
    "09:25"
   ],
   "produtos_feitos": 0,
-  "respostas": 3,
+  "respostas": 4,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 1,
-   "17895434610685394": 1
+   "17895434610685394": 2
   }
  },
  "posts": [
@@ -1204,7 +1204,6 @@
   }
  ],
  "respondidos": [
-  "18624048193052645",
   "17972372058170953",
   "17943031614363251",
   "17949808074054207",
@@ -4203,7 +4202,8 @@
   "18403728718165729",
   "17906981727388823",
   "17950016097075796",
-  "18137558431809515"
+  "18137558431809515",
+  "17928487656445763"
  ],
  "hashes": [
   "6a16b8ba9625ef480b72af781c736ce6",
@@ -4823,15 +4823,11 @@
   "_data": "2026-11-24",
   "7d8771b110": 1,
   "be89258121": 1,
-  "726dab1666": 1
+  "726dab1666": 1,
+  "bef359caf6": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "exato, o boleto chega e a gente já vira o sargento da casa",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "perder o arroz é o menor dos danos perto do susto na estrada kkkk",
    "p": "concorda",
@@ -4974,6 +4970,11 @@
   },
   {
    "t": "kkk, também já estou de fora desse vício de reclamar 😂",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "Verdade, merece jantar sem planilha e papo de imposto kkkk",
    "p": "concorda",
    "r": 2
   }
@@ -6603,7 +6604,8 @@
    "verdade parece que"
   ],
   "17895434610685394": [
-   "tambem ja estou"
+   "tambem ja estou",
+   "verdade merece jantar"
   ]
  },
  "shopee_checada": "2026-11-24|1",
