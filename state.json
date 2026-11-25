@@ -29,39 +29,23 @@
    "13:21",
    "14:19",
    "15:29",
-   "17:00"
+   "17:00",
+   "18:20"
   ],
   "produtos_feitos": 0,
-  "respostas": 25,
+  "respostas": 28,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
    "17895434610685394": 8,
-   "18108595124318110": 8,
+   "18108595124318110": 9,
    "18104256290059815": 4,
    "17922516261454597": 1,
-   "18477460000137963": 1
+   "18477460000137963": 1,
+   "18127176991902978": 2
   }
  },
  "posts": [
-  {
-   "id": "17965583001321734",
-   "insp": "40b922d817",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: pizza de ontem gelada da caixinha de papelão amassada é haute cuisine e quem discorda só tem inveja do nosso paladar de alta performance financeira pós-boleto.",
-   "quando": "2026-11-18T08:37:18.343238-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T08:37:08.593384-04:00",
-   "metricas": {
-    "views": 62,
-    "likes": 4,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-24"
-   }
-  },
   {
    "id": "17988406653108359",
    "insp": "383fb2ad25",
@@ -1123,12 +1107,17 @@
    "texto": "SEM MENTIR: vocês contam o salário pro parceiro ou parceira? \n\n- Amor, quanto você ganha?\n- Uns quatro mil líquidos, mas com os descontos vai pra três e duzentos. E você?\n- Sou CEO de uma startup invisível e sonego imposto em criptomoedas na lua.\n- Mentira, você é estagiária e gasta tudo em energéti",
    "quando": "2026-11-24T19:07:15.167433-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18649654579060705",
+   "insp": "90498c5f32",
+   "link": "",
+   "texto": "ME CONTA: qual foi o encontro mais desastroso que vocês já tiveram? O meu achou que era boa ideia me levar para comer pastel de feira e na hora de pagar disse que esqueceu a carteira, o pix e a dignidade, mas pelo menos sobrou o caldinho de cana pra lavar a alma. Qual o nível de humilhação que vocês",
+   "quando": "2026-11-24T20:07:16.298913-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18491996716101321",
-  "17897352375672372",
-  "17863048602696207",
   "18090703373196943",
   "18185043631424020",
   "17879444895554602",
@@ -4125,10 +4114,12 @@
   "18149001376585627",
   "18123725981068073",
   "18021857348975297",
-  "17897156418616818"
+  "17897156418616818",
+  "18160501261518893",
+  "18121842224005185",
+  "18144181957736463"
  ],
  "hashes": [
-  "5c1ef4b29bfb0b97ecae64cb87caf004",
   "a615e17e25bc58d509f7c85d83fdd24d",
   "0411794174ee69c415e5d3ea0ce5388c",
   "46469b519ee308b20c4f1ebfe997ef69",
@@ -4327,7 +4318,8 @@
   "c53e95749c9dc998338133e73f94bc0e",
   "04f8251d5a337188ba84a502a892d516",
   "9da7b0f4bb3af436edf1be7f1978901b",
-  "00855c6e6e061267f3d06167b3e8eed6"
+  "00855c6e6e061267f3d06167b3e8eed6",
+  "f289e6067bb964f00e56771c3903eb90"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4607,7 +4599,6 @@
   "90d676888d": 1794260296.5456269,
   "e968b60bcc": 1794263891.4078858,
   "482ab880e4": 1794269287.5389795,
-  "90498c5f32": 1794271044.077261,
   "7f63cfaf2e": 1794276496.9818194,
   "e287619658": 1794314284.9861703,
   "0c1b7902c1": 1794321451.8171608,
@@ -4738,7 +4729,8 @@
   "3546666699": 1795543655.5974424,
   "1a4df9fa8d": 1795545447.2938218,
   "112111ad3e": 1795550898.2373574,
-  "13bb414dfc": 1795561698.1861813
+  "13bb414dfc": 1795561698.1861813,
+  "90498c5f32": 1795565261.865993
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4766,25 +4758,13 @@
   "b536fcf1da": 1,
   "74d035840d": 1,
   "9c9408d192": 1,
-  "38fef96277": 1
+  "38fef96277": 1,
+  "a27245b02a": 1,
+  "5a4f6559c6": 1,
+  "5de76cc256": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "Concordo, regras genéricas ignoram que somos humanos cheios de imprevistos kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "normal, a lógica dessas horas da manhã é um mistério para poucos",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "puro marketing pra enganar a gente na sexta kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "essa dica é preciosa, vou testar na próxima brasa",
    "p": "concorda",
@@ -4919,6 +4899,21 @@
    "t": "pelo menos rir com respeito evita pagar pensao alimenticia kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "o colega achando que abafou e o marido correndo pro banheiro pra contar pra patroa kkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "estratégia de defesa válida, pelo menos a conta nunca ficou sem dono kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "nossa, que história forte, sinto muito por eles",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6321,11 +6316,6 @@
   }
  ],
  "aberturas_post": {
-  "18136119379675335": [
-   "e as vezes",
-   "quanto mais especifico",
-   "verdade so um"
-  ],
   "18025514525927282": [
    "investimento de respeito"
   ],
@@ -6458,7 +6448,8 @@
    "17 anos voce",
    "19 ainda tem",
    "18 ano novo",
-   "24 ja e"
+   "24 ja e",
+   "nossa que historia"
   ],
   "18104256290059815": [
    "entao se a",
@@ -6471,6 +6462,10 @@
   ],
   "18477460000137963": [
    "socorro o projeto"
+  ],
+  "18127176991902978": [
+   "o colega achando",
+   "estrategia de defesa"
   ]
  },
  "shopee_checada": "2026-11-24|1",
