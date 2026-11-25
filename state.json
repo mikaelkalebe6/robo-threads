@@ -19,7 +19,8 @@
    "09:37",
    "10:20",
    "15:27",
-   "16:54"
+   "16:54",
+   "18:27"
   ],
   "produtos_feitos": 0,
   "respostas": 45,
@@ -31,24 +32,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18114592565137270",
-   "insp": "4fb1c220f3",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: a pessoa começa a perder o interesse no exato segundo em que o boy manda um áudio de quatro minutos respirando fundo antes de falar e a miniatura do Spotify mostra que ele escuta funk consciente às três da manhã num domingo. Qual o nível de paz espiritual que vocês acham que sobre",
-   "quando": "2026-11-18T17:07:09.224968-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T17:07:08.383085-04:00",
-   "metricas": {
-    "views": 227,
-    "likes": 2,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-25"
-   }
-  },
   {
    "id": "18155194087527421",
    "insp": "1025b0cd16",
@@ -1110,6 +1093,14 @@
    "link": "",
    "texto": "ACABEI DE PERCEBER: faz anos que não recebo nada escrito à mão a não ser intimação do juizado especial e carta do banco ameaçando pendurar meu nome no SPC. O romantismo morreu e foi substituído por boleto em PDF. Qual foi a última declaração de amor escrita que vcs ganharam, um bilhetinho no para-br",
    "quando": "2026-11-25T17:37:08.464310-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18030039716934185",
+   "insp": "5f95698f56",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro é só um processo seletivo gourmet onde o RH te obriga a comer carpaccio fingindo que gosta de rir de piada sem graça pra não ser demitida do mercado de namorados antes do período de experiência. Falta só o cara pedir pra eu desenhar meus defei",
+   "quando": "2026-11-25T19:07:09.532136-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4116,7 +4107,6 @@
   "17982844536139829"
  ],
  "hashes": [
-  "936c7d446e825f4e90a3fe5be417a196",
   "3dfdf226387675d4672bbc0c406d9165",
   "402040ba2e4c7300aea9015879529685",
   "d8c6d4b862a549500733764a325da00a",
@@ -4315,7 +4305,8 @@
   "705e2a46bc6da34e0bc619444ff8e2f9",
   "67b4d18488a6ecd09c5147350487bed3",
   "8cf5b481971616a9761788ac94088d57",
-  "b4c146521db4c41815e30daa768fdc7d"
+  "b4c146521db4c41815e30daa768fdc7d",
+  "1af3b350d8141358510b887596173975"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4415,7 +4406,6 @@
   "30e1771c4d": 1792172245.717424,
   "7bb5b555f8": 1792242456.141735,
   "dded827567": 1792251452.5580068,
-  "5f95698f56": 1792256892.5006678,
   "cbd68162a7": 1792260488.221213,
   "993899e22c": 1792264088.3358436,
   "36557e440f": 1792273052.9622602,
@@ -4726,7 +4716,8 @@
   "83111fe9a4": 1795619287.6501162,
   "ae1c8a29b8": 1795628242.1192162,
   "0b1e634fcd": 1795639090.3691568,
-  "7d0b87a61f": 1795642647.4314444
+  "7d0b87a61f": 1795642647.4314444,
+  "5f95698f56": 1795648047.0580792
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
