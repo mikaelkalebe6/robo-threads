@@ -22,11 +22,11 @@
    "16:54"
   ],
   "produtos_feitos": 0,
-  "respostas": 37,
+  "respostas": 39,
   "por_post": {
    "18108595124318110": 3,
    "17895434610685394": 1,
-   "18127176991902978": 32,
+   "18127176991902978": 34,
    "18080062685773379": 1
   }
  },
@@ -1114,8 +1114,6 @@
   }
  ],
  "respondidos": [
-  "18394984114162629",
-  "18136857454711720",
   "18370565932210696",
   "17982904241901790",
   "18032342168903845",
@@ -4113,7 +4111,9 @@
   "17982209214139297",
   "18348962587249926",
   "18117113258167594",
-  "18127145884940873"
+  "18127145884940873",
+  "18121308487974033",
+  "18130340551861044"
  ],
  "hashes": [
   "936c7d446e825f4e90a3fe5be417a196",
@@ -4767,20 +4767,12 @@
   "1f607134a2": 1,
   "213ddf1294": 1,
   "4841ca3fb3": 1,
-  "6035244efa": 1
+  "6035244efa": 1,
+  "87fe4bfae1": 1,
+  "4ad3540ca0": 1
  },
  "reservas_checadas": "2026-11-25",
  "ultimas_respostas": [
-  {
-   "t": "esse nível de paz aí é para poucos kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "solteirice pouca é bobagem, pelo menos sobra pra gastar com lanche 😭",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "transparência financeira é o mínimo mesmo para a conta não virar mistério kkk",
    "p": "concorda",
@@ -4920,6 +4912,16 @@
    "t": "dividir tudo certinho assim da paz né kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "transparência assim evita tanta dor de cabeça depois",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos aí não tem como esconder nada de ninguém",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6505,7 +6507,9 @@
    "verdade ja estava",
    "seguro contra segredos",
    "entao basta abrir",
-   "dividir tudo certinho"
+   "dividir tudo certinho",
+   "transparencia assim evita",
+   "pelo menos ai"
   ],
   "18649654579060705": [
    "piratas do caribe"
