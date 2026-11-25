@@ -30,10 +30,11 @@
    "14:19",
    "15:29",
    "17:00",
-   "18:20"
+   "18:20",
+   "19:38"
   ],
   "produtos_feitos": 0,
-  "respostas": 29,
+  "respostas": 30,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
@@ -42,29 +43,11 @@
    "18104256290059815": 4,
    "17922516261454597": 1,
    "18477460000137963": 1,
-   "18127176991902978": 2,
+   "18127176991902978": 3,
    "18649654579060705": 1
   }
  },
  "posts": [
-  {
-   "id": "17988406653108359",
-   "insp": "383fb2ad25",
-   "link": "",
-   "texto": "O tal do amor à primeira vista é só a sua carência vestida de Prada achando que o boy da farmácia que te deu bom dia é o pai dos seus filhos, porque racionalmente falando ninguém se apaixona pelo caráter de alguém que ainda não pagou um boleto pra ver se a pessoa desmaia.\n\nVocês já casaram na cabeça",
-   "quando": "2026-11-18T09:07:08.904539-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T09:07:08.295933-04:00",
-   "metricas": {
-    "views": 50,
-    "likes": 2,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-24"
-   }
-  },
   {
    "id": "18022786943945602",
    "insp": "prod_20999580796",
@@ -1116,10 +1099,17 @@
    "texto": "ME CONTA: qual foi o encontro mais desastroso que vocês já tiveram? O meu achou que era boa ideia me levar para comer pastel de feira e na hora de pagar disse que esqueceu a carteira, o pix e a dignidade, mas pelo menos sobrou o caldinho de cana pra lavar a alma. Qual o nível de humilhação que vocês",
    "quando": "2026-11-24T20:07:16.298913-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17872733940660048",
+   "insp": "7fff0e06da",
+   "link": "",
+   "texto": "SEM MENTIR: o que te faz perder a vontade de trabalhar num lugar? \n\nPara mim é quando o chefe manda mensagem meia-noite falando que \"somos uma família\" e no dia seguinte esquece de pagar o vale-refeição porque a família dele foi viajar para Miami. O pior nem é o calote, é ter que fingir que acha o g",
+   "quando": "2026-11-24T21:07:08.078642-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18185043631424020",
   "17879444895554602",
   "17975813889134445",
   "17916724401254969",
@@ -4118,10 +4108,10 @@
   "18160501261518893",
   "18121842224005185",
   "18144181957736463",
-  "18111946742629165"
+  "18111946742629165",
+  "18003195456035488"
  ],
  "hashes": [
-  "a615e17e25bc58d509f7c85d83fdd24d",
   "0411794174ee69c415e5d3ea0ce5388c",
   "46469b519ee308b20c4f1ebfe997ef69",
   "02462d97910f6af2d24a918a48a787a9",
@@ -4320,7 +4310,8 @@
   "04f8251d5a337188ba84a502a892d516",
   "9da7b0f4bb3af436edf1be7f1978901b",
   "00855c6e6e061267f3d06167b3e8eed6",
-  "f289e6067bb964f00e56771c3903eb90"
+  "f289e6067bb964f00e56771c3903eb90",
+  "84bd0c3f39a47a1d3afd0ebb62024a62"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4365,7 +4356,6 @@
   "dce953f387": 1791142652.6592295,
   "c5cc27e19f": 1791151645.7283194,
   "c7f375102c": 1791160638.6544247,
-  "7fff0e06da": 1791162445.4803498,
   "7e797582de": 1791216456.696685,
   "de9bf80054": 1791220047.5941434,
   "2832d4baf6": 1791247069.3264678,
@@ -4731,7 +4721,8 @@
   "1a4df9fa8d": 1795545447.2938218,
   "112111ad3e": 1795550898.2373574,
   "13bb414dfc": 1795561698.1861813,
-  "90498c5f32": 1795565261.865993
+  "90498c5f32": 1795565261.865993,
+  "7fff0e06da": 1795568893.0099375
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4763,15 +4754,11 @@
   "a27245b02a": 1,
   "5a4f6559c6": 1,
   "5de76cc256": 1,
-  "2ca94ec7e5": 1
+  "2ca94ec7e5": 1,
+  "eaf0f9edcc": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "kkkk parece cena de filme de comédia",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "então tá todo mundo na mesma situação",
    "p": "concorda",
@@ -4916,6 +4903,11 @@
    "t": "piratas do caribe com espinafre no dente foi demais kkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "administrar a própria renda sem dar trabalho é um ótimo jeito de manter a paz",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6464,7 +6456,8 @@
   ],
   "18127176991902978": [
    "o colega achando",
-   "estrategia de defesa"
+   "estrategia de defesa",
+   "administrar a propria"
   ],
   "18649654579060705": [
    "piratas do caribe"
