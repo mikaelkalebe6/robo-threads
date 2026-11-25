@@ -20,11 +20,11 @@
    "10:20"
   ],
   "produtos_feitos": 0,
-  "respostas": 10,
+  "respostas": 18,
   "por_post": {
    "18108595124318110": 3,
    "17895434610685394": 1,
-   "18127176991902978": 6
+   "18127176991902978": 14
   }
  },
  "posts": [
@@ -1145,14 +1145,6 @@
   }
  ],
  "respondidos": [
-  "18060059450572369",
-  "18098859881342974",
-  "18115601711013525",
-  "17961235857233295",
-  "18117975631949510",
-  "18074184317733803",
-  "18128605288875211",
-  "17951586810391491",
   "18070103342748240",
   "17888542440621559",
   "18050731982603210",
@@ -4144,7 +4136,15 @@
   "17946762396090734",
   "18118908881080606",
   "18082309217416586",
-  "18132069596480317"
+  "18132069596480317",
+  "17975079360198182",
+  "18118841501324574",
+  "18135493126750291",
+  "18159801709469308",
+  "18114933446230437",
+  "18072731450785137",
+  "17918392656470725",
+  "18121917529777830"
  ],
  "hashes": [
   "5eb3a2aeb4b1828c1968a2e244eda029",
@@ -4771,50 +4771,18 @@
   "c7fcb59f46": 1,
   "d37ee57544": 1,
   "b6fdfa801d": 1,
-  "69c302294c": 1
+  "69c302294c": 1,
+  "90c7e8c4cd": 1,
+  "1b680b6b1d": 1,
+  "d1748f850f": 1,
+  "050637a8c0": 1,
+  "f353478222": 1,
+  "f8be76c3cb": 1,
+  "d0c334f8a4": 1,
+  "d9259ec3c8": 1
  },
  "reservas_checadas": "2026-11-25",
  "ultimas_respostas": [
-  {
-   "t": "18, ano novo, só ficou alguns meses, depois voltou pra casa kkk",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "socorro o projeto rondon rendendo crise diplomatica por causa de vocabulario kkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "você leu rápido demais ou com muita vontade kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "shopee pelo menos entrega o pacote mais rápido que esse papo kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "pelo menos o tomate garante assunto pro jantar inteiro",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "24 já é uma idade bem respeitável pra encarar o primeiro boleto sozinho kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pelo menos rir com respeito evita pagar pensao alimenticia kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "o colega achando que abafou e o marido correndo pro banheiro pra contar pra patroa kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "estratégia de defesa válida, pelo menos a conta nunca ficou sem dono kkk",
    "p": "concorda",
@@ -4924,6 +4892,46 @@
    "t": "transparência financeira é o mínimo mesmo para a conta não virar mistério kkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "Adorei como vocês organizam as finanças, inspira muito 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "medo real mesmo, esconder isso estraga tudo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nessa lista toda tem fase até pra renegociar dívida kkk",
+   "p": "neutra",
+   "r": 1
+  },
+  {
+   "t": "investimento de alto risco pagar fatura alheia kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "organização financeira desse jeito traz uma paz enorme pra relação",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Óbvio mesmo, né kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "o portal da transparencia deixando todo mundo no bolo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, é parceria e não fiscalização",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6487,7 +6495,15 @@
    "12 anos construindo",
    "esse nivel de",
    "solteirice pouca e",
-   "transparencia financeira e"
+   "transparencia financeira e",
+   "adorei como voces",
+   "medo real mesmo",
+   "nessa lista toda",
+   "investimento de alto",
+   "organizacao financeira desse",
+   "obvio mesmo ne",
+   "o portal da",
+   "verdade e parceria"
   ],
   "18649654579060705": [
    "piratas do caribe"
