@@ -20,11 +20,11 @@
    "10:20"
   ],
   "produtos_feitos": 0,
-  "respostas": 18,
+  "respostas": 22,
   "por_post": {
    "18108595124318110": 3,
    "17895434610685394": 1,
-   "18127176991902978": 14
+   "18127176991902978": 18
   }
  },
  "posts": [
@@ -1145,10 +1145,6 @@
   }
  ],
  "respondidos": [
-  "18070103342748240",
-  "17888542440621559",
-  "18050731982603210",
-  "18089543492244454",
   "18109908170131199",
   "17933667054146083",
   "18110567261174679",
@@ -4144,7 +4140,11 @@
   "18114933446230437",
   "18072731450785137",
   "17918392656470725",
-  "18121917529777830"
+  "18121917529777830",
+  "17965876302236315",
+  "17969343149982156",
+  "17902938492609467",
+  "18160900060455646"
  ],
  "hashes": [
   "5eb3a2aeb4b1828c1968a2e244eda029",
@@ -4779,30 +4779,14 @@
   "f353478222": 1,
   "f8be76c3cb": 1,
   "d0c334f8a4": 1,
-  "d9259ec3c8": 1
+  "d9259ec3c8": 1,
+  "4f0d6e0b6b": 1,
+  "fe55bb8c0a": 1,
+  "fe0123b9b6": 1,
+  "265e588e4f": 1
  },
  "reservas_checadas": "2026-11-25",
  "ultimas_respostas": [
-  {
-   "t": "estratégia de defesa válida, pelo menos a conta nunca ficou sem dono kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "nossa, que história forte, sinto muito por eles",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "piratas do caribe com espinafre no dente foi demais kkkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "administrar a própria renda sem dar trabalho é um ótimo jeito de manter a paz",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "precisa de uma auditoria completa antes de abrir o extrato kkk",
    "p": "concorda",
@@ -4930,6 +4914,26 @@
   },
   {
    "t": "verdade, é parceria e não fiscalização",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Concordo, vc tá certa, falar de grana fortalece a relação 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dividir a vida desse jeito traz uma solidez que a lei às vezes demora pra acompanhar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "nessa fase de assinar papel o boleto passa a ser dos dois mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Verdade, quem fala tudo tem ponto extra no relacionamento 🙏🏼",
    "p": "concorda",
    "r": 0
   }
@@ -6503,7 +6507,11 @@
    "organizacao financeira desse",
    "obvio mesmo ne",
    "o portal da",
-   "verdade e parceria"
+   "verdade e parceria",
+   "concordo vc ta",
+   "dividir a vida",
+   "nessa fase de",
+   "verdade quem fala"
   ],
   "18649654579060705": [
    "piratas do caribe"
