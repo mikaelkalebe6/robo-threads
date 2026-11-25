@@ -17,9 +17,9 @@
   ],
   "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 2,
+  "respostas": 3,
   "por_post": {
-   "18108595124318110": 1,
+   "18108595124318110": 2,
    "17895434610685394": 1
   }
  },
@@ -1161,7 +1161,6 @@
   }
  ],
  "respondidos": [
-  "17914007820465293",
   "18124228864906981",
   "17887578909479939",
   "18012738173977293",
@@ -4160,7 +4159,8 @@
   "18137393653671662",
   "18035128907910845",
   "17883969840546181",
-  "17890882152486917"
+  "17890882152486917",
+  "17991557880083795"
  ],
  "hashes": [
   "46469b519ee308b20c4f1ebfe997ef69",
@@ -4779,15 +4779,11 @@
  "por_pessoa": {
   "_data": "2026-11-25",
   "dcfd122ace": 1,
-  "7f0e63c85d": 1
+  "7f0e63c85d": 1,
+  "47a58004f4": 1
  },
  "reservas_checadas": "2026-11-25",
  "ultimas_respostas": [
-  {
-   "t": "28? cada um no seu tempo, viu 😅",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "17 anos? você saiu pra morar no sítio dos avós né",
    "p": "neutra",
@@ -4930,6 +4926,11 @@
   },
   {
    "t": "exato, e se faltar interesse a gente inventa pauta sobre o boleto pra ver se anima",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Entendo, cada um no seu tempo, 24 já é vitória!",
    "p": "concorda",
    "r": 0
   }
@@ -6469,7 +6470,8 @@
    "nossa que historia",
    "cada fase tem",
    "17 anos e",
-   "22 ja da"
+   "22 ja da",
+   "entendo cada um"
   ],
   "18104256290059815": [
    "entao se a",
