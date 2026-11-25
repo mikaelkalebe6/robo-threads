@@ -20,11 +20,11 @@
    "10:20"
   ],
   "produtos_feitos": 0,
-  "respostas": 7,
+  "respostas": 10,
   "por_post": {
    "18108595124318110": 3,
    "17895434610685394": 1,
-   "18127176991902978": 3
+   "18127176991902978": 6
   }
  },
  "posts": [
@@ -1145,9 +1145,6 @@
   }
  ],
  "respondidos": [
-  "17930785380163404",
-  "18108259913230236",
-  "18101187713550454",
   "18060059450572369",
   "18098859881342974",
   "18115601711013525",
@@ -4144,7 +4141,10 @@
   "18148693699514237",
   "18088065914517834",
   "18228452929340061",
-  "17946762396090734"
+  "17946762396090734",
+  "18118908881080606",
+  "18082309217416586",
+  "18132069596480317"
  ],
  "hashes": [
   "5eb3a2aeb4b1828c1968a2e244eda029",
@@ -4768,25 +4768,13 @@
   "244e942aed": 1,
   "eac14edb3c": 1,
   "7eb5b77e08": 1,
-  "c7fcb59f46": 1
+  "c7fcb59f46": 1,
+  "d37ee57544": 1,
+  "b6fdfa801d": 1,
+  "69c302294c": 1
  },
  "reservas_checadas": "2026-11-25",
  "ultimas_respostas": [
-  {
-   "t": "o pix da rã vai direto pra poupança dela kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "saindo então, mas antes deixa eu pagar o boleto dela kkk",
-   "p": null,
-   "r": 1
-  },
-  {
-   "t": "vassoura na mão, boleto no bolso, vamos fazer a rã pagar kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "18, ano novo, só ficou alguns meses, depois voltou pra casa kkk",
    "p": "neutra",
@@ -4921,6 +4909,21 @@
    "t": "12 anos construindo parceria de verdade é para aplaudir de pé",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse nível de paz aí é para poucos kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "solteirice pouca é bobagem, pelo menos sobra pra gastar com lanche 😭",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "transparência financeira é o mínimo mesmo para a conta não virar mistério kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6481,7 +6484,10 @@
    "precisa de uma",
    "cada casal tem",
    "porque a gente",
-   "12 anos construindo"
+   "12 anos construindo",
+   "esse nivel de",
+   "solteirice pouca e",
+   "transparencia financeira e"
   ],
   "18649654579060705": [
    "piratas do caribe"
