@@ -34,7 +34,7 @@
    "19:38"
   ],
   "produtos_feitos": 0,
-  "respostas": 30,
+  "respostas": 31,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
@@ -43,7 +43,7 @@
    "18104256290059815": 4,
    "17922516261454597": 1,
    "18477460000137963": 1,
-   "18127176991902978": 3,
+   "18127176991902978": 4,
    "18649654579060705": 1
   }
  },
@@ -1110,7 +1110,6 @@
   }
  ],
  "respondidos": [
-  "17879444895554602",
   "17975813889134445",
   "17916724401254969",
   "18094140809341954",
@@ -4109,7 +4108,8 @@
   "18121842224005185",
   "18144181957736463",
   "18111946742629165",
-  "18003195456035488"
+  "18003195456035488",
+  "18098266100480543"
  ],
  "hashes": [
   "0411794174ee69c415e5d3ea0ce5388c",
@@ -4755,15 +4755,11 @@
   "5a4f6559c6": 1,
   "5de76cc256": 1,
   "2ca94ec7e5": 1,
-  "eaf0f9edcc": 1
+  "eaf0f9edcc": 1,
+  "a47fe1a1f0": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "então tá todo mundo na mesma situação",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Verdade, parece que ele só queria usar o aparelho mesmo kkk",
    "p": "concorda",
@@ -4906,6 +4902,11 @@
   },
   {
    "t": "administrar a própria renda sem dar trabalho é um ótimo jeito de manter a paz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "precisa de uma auditoria completa antes de abrir o extrato kkk",
    "p": "concorda",
    "r": 0
   }
@@ -6457,7 +6458,8 @@
   "18127176991902978": [
    "o colega achando",
    "estrategia de defesa",
-   "administrar a propria"
+   "administrar a propria",
+   "precisa de uma"
   ],
   "18649654579060705": [
    "piratas do caribe"
