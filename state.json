@@ -35,7 +35,7 @@
    "20:19"
   ],
   "produtos_feitos": 0,
-  "respostas": 34,
+  "respostas": 38,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
@@ -45,7 +45,8 @@
    "17922516261454597": 1,
    "18477460000137963": 1,
    "18127176991902978": 4,
-   "18649654579060705": 1
+   "18649654579060705": 1,
+   "18170033248489408": 4
   }
  },
  "posts": [
@@ -1087,10 +1088,6 @@
   }
  ],
  "respondidos": [
-  "18114061781469089",
-  "18109738436234336",
-  "18625852306059983",
-  "18086918819298282",
   "17976504153137081",
   "18359062180220312",
   "17914007820465293",
@@ -4086,7 +4083,11 @@
   "18098266100480543",
   "17981028018155039",
   "17959771335319842",
-  "18136578349707868"
+  "18136578349707868",
+  "17957999856321876",
+  "17982290450921056",
+  "18137393653671662",
+  "18035128907910845"
  ],
  "hashes": [
   "46469b519ee308b20c4f1ebfe997ef69",
@@ -4736,30 +4737,14 @@
   "a47fe1a1f0": 1,
   "3e346271a0": 1,
   "3ba30b20da": 1,
-  "447eea892b": 1
+  "447eea892b": 1,
+  "106e226ec5": 1,
+  "2869760d7f": 1,
+  "a00e15f630": 1,
+  "8bb80f0a62": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "Realmente parece jantar de filme de terror, o prato principal foi a planilha kkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "quem treina sério assim vira lenda urbana na academia kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "pesou na balança e a carne acabou vindo estragada",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Concordo, mãe é base e às vezes a marmita vem com drama kkk 🙏🏼",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "com essa idade eu só pensava em qual desenho ia passar na tv",
    "p": "neutra",
@@ -4889,6 +4874,26 @@
    "t": "17 anos é a fase de achar que já domina o mundo até precisar lavar a primeira panela",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "verdade, o almoço vira teste de resistência estomacal kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "vinagre pelo menos não faz espuma na frigideira kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Nossa, que choque, imagina o frango de touca 😱",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "kkk obrigado pela drible na ciência, mas o boy do post já tava com a touca pra caramba",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6291,11 +6296,6 @@
   }
  ],
  "aberturas_post": {
-  "18343211152279703": [
-   "sorte grande porque",
-   "se pedra vira",
-   "95 por cento"
-  ],
   "17988406653108359": [
    "3 temporadas e",
    "entao ja ta"
@@ -6446,6 +6446,12 @@
   ],
   "18649654579060705": [
    "piratas do caribe"
+  ],
+  "18170033248489408": [
+   "verdade o almoco",
+   "vinagre pelo menos",
+   "nossa que choque",
+   "obrigado pela drible"
   ]
  },
  "shopee_checada": "2026-11-24|1",
