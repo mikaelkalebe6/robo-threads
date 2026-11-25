@@ -33,7 +33,7 @@
    "18:20"
   ],
   "produtos_feitos": 0,
-  "respostas": 28,
+  "respostas": 29,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
@@ -42,7 +42,8 @@
    "18104256290059815": 4,
    "17922516261454597": 1,
    "18477460000137963": 1,
-   "18127176991902978": 2
+   "18127176991902978": 2,
+   "18649654579060705": 1
   }
  },
  "posts": [
@@ -1118,7 +1119,6 @@
   }
  ],
  "respondidos": [
-  "18090703373196943",
   "18185043631424020",
   "17879444895554602",
   "17975813889134445",
@@ -4117,7 +4117,8 @@
   "17897156418616818",
   "18160501261518893",
   "18121842224005185",
-  "18144181957736463"
+  "18144181957736463",
+  "18111946742629165"
  ],
  "hashes": [
   "a615e17e25bc58d509f7c85d83fdd24d",
@@ -4761,15 +4762,11 @@
   "38fef96277": 1,
   "a27245b02a": 1,
   "5a4f6559c6": 1,
-  "5de76cc256": 1
+  "5de76cc256": 1,
+  "2ca94ec7e5": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "essa dica é preciosa, vou testar na próxima brasa",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "kkkk parece cena de filme de comédia",
    "p": "concorda",
@@ -4914,6 +4911,11 @@
    "t": "nossa, que história forte, sinto muito por eles",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "piratas do caribe com espinafre no dente foi demais kkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6316,9 +6318,6 @@
   }
  ],
  "aberturas_post": {
-  "18025514525927282": [
-   "investimento de respeito"
-  ],
   "18343211152279703": [
    "sorte grande porque",
    "se pedra vira",
@@ -6466,6 +6465,9 @@
   "18127176991902978": [
    "o colega achando",
    "estrategia de defesa"
+  ],
+  "18649654579060705": [
+   "piratas do caribe"
   ]
  },
  "shopee_checada": "2026-11-24|1",
