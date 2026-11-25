@@ -21,11 +21,11 @@
    "15:27"
   ],
   "produtos_feitos": 0,
-  "respostas": 33,
+  "respostas": 36,
   "por_post": {
    "18108595124318110": 3,
    "17895434610685394": 1,
-   "18127176991902978": 28,
+   "18127176991902978": 31,
    "18080062685773379": 1
   }
  },
@@ -1137,9 +1137,6 @@
   }
  ],
  "respondidos": [
-  "18020584622930520",
-  "18075321386484328",
-  "18476600620114398",
   "18130088179756018",
   "18394984114162629",
   "18136857454711720",
@@ -4136,7 +4133,10 @@
   "18153206146481666",
   "17914070121667295",
   "18111781631210301",
-  "18131701147630927"
+  "18131701147630927",
+  "17982209214139297",
+  "18348962587249926",
+  "18117113258167594"
  ],
  "hashes": [
   "e657864bfbdd3e389fbe96c9a3f3acba",
@@ -4786,25 +4786,13 @@
   "6c1fecc82f": 1,
   "80913e6f9c": 1,
   "0cffdff642": 1,
-  "09fe7ef239": 1
+  "09fe7ef239": 1,
+  "1f607134a2": 1,
+  "213ddf1294": 1,
+  "4841ca3fb3": 1
  },
  "reservas_checadas": "2026-11-25",
  "ultimas_respostas": [
-  {
-   "t": "meus sentimentos, que perda difícil e dolorosa",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "Cada casal tem seu ritmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "porque a gente já viu drama de boleto quando não conta kkk",
-   "p": "neutra",
-   "r": 1
-  },
   {
    "t": "12 anos construindo parceria de verdade é para aplaudir de pé",
    "p": "concorda",
@@ -4939,6 +4927,21 @@
    "t": "kkkkk somos parceiros na falência, vc também divide o boleto?",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "Verdade, já estava certa",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "seguro contra segredos kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "Então basta abrir o portal da transparência e conferir",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6520,7 +6523,10 @@
    "cada um cuidando",
    "organizar os impostos",
    "integracao total que",
-   "somos parceiros na"
+   "somos parceiros na",
+   "verdade ja estava",
+   "seguro contra segredos",
+   "entao basta abrir"
   ],
   "18649654579060705": [
    "piratas do caribe"
