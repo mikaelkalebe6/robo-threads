@@ -15,7 +15,9 @@
    "15:27",
    "18:27"
   ],
-  "feitos": [],
+  "feitos": [
+   "09:37"
+  ],
   "produtos_feitos": 0,
   "respostas": 4,
   "por_post": {
@@ -24,24 +26,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18669013498032608",
-   "insp": "95c7572ca7",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a pessoa que tenta impressionar o crush falando difamado o próprio signo merece um troféu de palhaça ou um abraço? porque eu inventei que era ariana raiz pra parecer intensa e o boy me chamou pra ver eclipse às três da manhã num cemitério abandonado. detalhe: eu tenho pavor de escuro",
-   "quando": "2026-11-18T11:37:10.846586-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T11:37:08.628361-04:00",
-   "metricas": {
-    "views": 186,
-    "likes": 2,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-25"
-   }
-  },
   {
    "id": "18150862768541103",
    "insp": "77b88ec144",
@@ -1158,6 +1142,14 @@
     "shares": 0,
     "em": "2026-11-25"
    }
+  },
+  {
+   "id": "18350454295249300",
+   "insp": "83111fe9a4",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a taxa de \"material de uso coletivo\" na lista da escola inclui o meu salário inteiro ou eu ainda preciso pagar o aluguel?",
+   "quando": "2026-11-25T11:07:12.450328-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4163,7 +4155,6 @@
   "18148693699514237"
  ],
  "hashes": [
-  "46469b519ee308b20c4f1ebfe997ef69",
   "02462d97910f6af2d24a918a48a787a9",
   "5eb3a2aeb4b1828c1968a2e244eda029",
   "e657864bfbdd3e389fbe96c9a3f3acba",
@@ -4362,7 +4353,8 @@
   "00855c6e6e061267f3d06167b3e8eed6",
   "f289e6067bb964f00e56771c3903eb90",
   "84bd0c3f39a47a1d3afd0ebb62024a62",
-  "1fd82e733508212dbd7ab8348757b6ee"
+  "1fd82e733508212dbd7ab8348757b6ee",
+  "705e2a46bc6da34e0bc619444ff8e2f9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4582,7 +4574,6 @@
   "db1e9eddc7": 1793803052.0079184,
   "35da4326cb": 1793812060.853649,
   "34b48535d3": 1793817501.0267892,
-  "83111fe9a4": 1793822857.9849665,
   "db72a20743": 1793830093.6415808,
   "639172332f": 1793833650.1521714,
   "a31c102c39": 1793835454.8069456,
@@ -4773,7 +4764,8 @@
   "13bb414dfc": 1795561698.1861813,
   "90498c5f32": 1795565261.865993,
   "7fff0e06da": 1795568893.0099375,
-  "f1481a1658": 1795572455.9349465
+  "f1481a1658": 1795572455.9349465,
+  "83111fe9a4": 1795619287.6501162
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
