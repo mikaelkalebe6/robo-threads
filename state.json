@@ -20,11 +20,11 @@
    "10:20"
   ],
   "produtos_feitos": 0,
-  "respostas": 22,
+  "respostas": 28,
   "por_post": {
    "18108595124318110": 3,
    "17895434610685394": 1,
-   "18127176991902978": 18
+   "18127176991902978": 24
   }
  },
  "posts": [
@@ -1145,12 +1145,6 @@
   }
  ],
  "respondidos": [
-  "18109908170131199",
-  "17933667054146083",
-  "18110567261174679",
-  "18106370281976368",
-  "18092923235445105",
-  "18085214537337095",
   "18154399366516547",
   "18111690836174180",
   "17986943372879199",
@@ -4144,7 +4138,13 @@
   "17965876302236315",
   "17969343149982156",
   "17902938492609467",
-  "18160900060455646"
+  "18160900060455646",
+  "18140075509655433",
+  "18184425481450469",
+  "18092039378302796",
+  "18191888689372194",
+  "18137369278671036",
+  "17992360230109485"
  ],
  "hashes": [
   "5eb3a2aeb4b1828c1968a2e244eda029",
@@ -4783,40 +4783,16 @@
   "4f0d6e0b6b": 1,
   "fe55bb8c0a": 1,
   "fe0123b9b6": 1,
-  "265e588e4f": 1
+  "265e588e4f": 1,
+  "a08a158c76": 1,
+  "7bcef34d3e": 1,
+  "1b960e7460": 1,
+  "896df21642": 1,
+  "aaa71e7532": 1,
+  "960ede750f": 1
  },
  "reservas_checadas": "2026-11-25",
  "ultimas_respostas": [
-  {
-   "t": "precisa de uma auditoria completa antes de abrir o extrato kkk",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Acho que a Shopee tá patrocinando até meus jantares 😂",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "cada fase tem seu ritmo e o importante é estar em paz com a escolha",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "17 anos é a fase de achar que já domina o mundo até precisar lavar a primeira panela",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, o almoço vira teste de resistência estomacal kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "vinagre pelo menos não faz espuma na frigideira kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Nossa, que choque, imagina o frango de touca 😱",
    "p": "neutra",
@@ -4934,6 +4910,36 @@
   },
   {
    "t": "Verdade, quem fala tudo tem ponto extra no relacionamento 🙏🏼",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "acha elegante manter o mistério até a mudança de endereço",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "esperar a relação firmar pra abrir a carteira faz todo sentido kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "parceria leve faz toda a diferença no dia a dia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "administração de milhões e ainda sobra lazer kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "pagar metade de tudo sem saber a realidade do outro é golpe baixo",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "nessa hora a transparência deixa de ser opção e vira regra",
    "p": "concorda",
    "r": 0
   }
@@ -6511,7 +6517,13 @@
    "concordo vc ta",
    "dividir a vida",
    "nessa fase de",
-   "verdade quem fala"
+   "verdade quem fala",
+   "acha elegante manter",
+   "esperar a relacao",
+   "parceria leve faz",
+   "administracao de milhoes",
+   "pagar metade de",
+   "nessa hora a"
   ],
   "18649654579060705": [
    "piratas do caribe"
