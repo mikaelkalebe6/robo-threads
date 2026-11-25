@@ -31,15 +31,16 @@
    "15:29",
    "17:00",
    "18:20",
-   "19:38"
+   "19:38",
+   "20:19"
   ],
   "produtos_feitos": 0,
-  "respostas": 31,
+  "respostas": 34,
   "por_post": {
    "18105525359539634": 1,
    "18129549358925799": 2,
-   "17895434610685394": 8,
-   "18108595124318110": 9,
+   "17895434610685394": 9,
+   "18108595124318110": 11,
    "18104256290059815": 4,
    "17922516261454597": 1,
    "18477460000137963": 1,
@@ -48,38 +49,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18022786943945602",
-   "insp": "prod_20999580796",
-   "link": "",
-   "texto": "Cabo de celular embolando no carro da um nervoso, né? 😂 Descobri esse carregador retrátil 4 em 1 que resolveu isso e ainda carrega super rápido. Olha como funciona 👀",
-   "quando": "2026-11-18T10:07:09.460037-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "20999580796",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "20999580796",
-    "nome": "Carregador de carro retrátil com luz LED, carregador de carro rápido 4 em 1 de 120 W para iPhone e Android",
-    "offerLink": "https://s.shopee.com.br/60TEjHv4gb",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdmsrbntex15d7",
-    "campanha": ""
-   },
-   "metricas": {
-    "views": 53,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-24"
-   },
-   "link_coment": "https://s.shopee.com.br/60TEjHv4gb",
-   "link_em": "2026-11-19T07:07:09.663735-04:00",
-   "link_views": 0
-  },
   {
    "id": "18669013498032608",
    "insp": "95c7572ca7",
@@ -1107,12 +1076,17 @@
    "texto": "SEM MENTIR: o que te faz perder a vontade de trabalhar num lugar? \n\nPara mim é quando o chefe manda mensagem meia-noite falando que \"somos uma família\" e no dia seguinte esquece de pagar o vale-refeição porque a família dele foi viajar para Miami. O pior nem é o calote, é ter que fingir que acha o g",
    "quando": "2026-11-24T21:07:08.078642-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18170033248489408",
+   "insp": "f1481a1658",
+   "link": "",
+   "texto": "SEJAM SINCEROS: vcs lavam o frango antes de cozinhar? porque ontem fui na casa de um boy e o bicho tava de touca térmica e sabão OMO na pia jurando que ia matar a bactéria e dar cheiro de lavanda no almoço. \n\nvocês são da turma do cloroquina no peito de frango ou têm o mínimo de sanidade mental?",
+   "quando": "2026-11-24T22:07:09.602713-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17975813889134445",
-  "17916724401254969",
-  "18094140809341954",
   "18114061781469089",
   "18109738436234336",
   "18625852306059983",
@@ -4109,10 +4083,12 @@
   "18144181957736463",
   "18111946742629165",
   "18003195456035488",
-  "18098266100480543"
+  "18098266100480543",
+  "17981028018155039",
+  "17959771335319842",
+  "18136578349707868"
  ],
  "hashes": [
-  "0411794174ee69c415e5d3ea0ce5388c",
   "46469b519ee308b20c4f1ebfe997ef69",
   "02462d97910f6af2d24a918a48a787a9",
   "5eb3a2aeb4b1828c1968a2e244eda029",
@@ -4311,7 +4287,8 @@
   "9da7b0f4bb3af436edf1be7f1978901b",
   "00855c6e6e061267f3d06167b3e8eed6",
   "f289e6067bb964f00e56771c3903eb90",
-  "84bd0c3f39a47a1d3afd0ebb62024a62"
+  "84bd0c3f39a47a1d3afd0ebb62024a62",
+  "1fd82e733508212dbd7ab8348757b6ee"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4360,7 +4337,6 @@
   "de9bf80054": 1791220047.5941434,
   "2832d4baf6": 1791247069.3264678,
   "58ac2ae535": 1791248867.6549494,
-  "f1481a1658": 1791295658.0818608,
   "338b545216": 1791299241.9964204,
   "3effd5124d": 1791310042.3382156,
   "fb886a59a7": 1791315444.3711731,
@@ -4722,7 +4698,8 @@
   "112111ad3e": 1795550898.2373574,
   "13bb414dfc": 1795561698.1861813,
   "90498c5f32": 1795565261.865993,
-  "7fff0e06da": 1795568893.0099375
+  "7fff0e06da": 1795568893.0099375,
+  "f1481a1658": 1795572455.9349465
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4756,25 +4733,13 @@
   "5de76cc256": 1,
   "2ca94ec7e5": 1,
   "eaf0f9edcc": 1,
-  "a47fe1a1f0": 1
+  "a47fe1a1f0": 1,
+  "3e346271a0": 1,
+  "3ba30b20da": 1,
+  "447eea892b": 1
  },
  "reservas_checadas": "2026-11-24",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, parece que ele só queria usar o aparelho mesmo kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "kkk, também já estou de fora desse vício de reclamar 😂",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "Verdade, merece jantar sem planilha e papo de imposto kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Realmente parece jantar de filme de terror, o prato principal foi a planilha kkk",
    "p": "concorda",
@@ -4907,6 +4872,21 @@
   },
   {
    "t": "precisa de uma auditoria completa antes de abrir o extrato kkk",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Acho que a Shopee tá patrocinando até meus jantares 😂",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "cada fase tem seu ritmo e o importante é estar em paz com a escolha",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "17 anos é a fase de achar que já domina o mundo até precisar lavar a primeira panela",
    "p": "concorda",
    "r": 0
   }
@@ -6430,7 +6410,8 @@
    "voce leu rapido",
    "shopee pelo menos",
    "pelo menos o",
-   "pelo menos rir"
+   "pelo menos rir",
+   "acho que a"
   ],
   "18108595124318110": [
    "concordo mae e",
@@ -6441,7 +6422,9 @@
    "19 ainda tem",
    "18 ano novo",
    "24 ja e",
-   "nossa que historia"
+   "nossa que historia",
+   "cada fase tem",
+   "17 anos e"
   ],
   "18104256290059815": [
    "entao se a",
