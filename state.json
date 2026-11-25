@@ -17,35 +17,19 @@
   ],
   "feitos": [
    "09:37",
-   "10:20"
+   "10:20",
+   "15:27"
   ],
   "produtos_feitos": 0,
-  "respostas": 28,
+  "respostas": 33,
   "por_post": {
    "18108595124318110": 3,
    "17895434610685394": 1,
-   "18127176991902978": 24
+   "18127176991902978": 28,
+   "18080062685773379": 1
   }
  },
  "posts": [
-  {
-   "id": "18117332165117832",
-   "insp": "2f5da7a997",
-   "link": "",
-   "texto": "SEJAM SINCEROS: com quantos anos a criança já tem maturidade pra fingir que não viu o boleto da creche e pedir Uber sozinho pra fugir da tia chata?",
-   "quando": "2026-11-18T14:07:18.748529-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T14:07:08.512061-04:00",
-   "metricas": {
-    "views": 300,
-    "likes": 2,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-25"
-   }
-  },
   {
    "id": "17879713524634778",
    "insp": "prod_22694227037",
@@ -1142,14 +1126,17 @@
    "texto": "DÚVIDA SINCERA: a gente acorda cedo pra trabalhar ou pra financiar a carreira de coach de quem vende curso de como ficar rico dormindo?",
    "quando": "2026-11-25T13:37:08.520213-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18124051987974170",
+   "insp": "0b1e634fcd",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: qual foi o primeiro emprego de vocês e quanto ganhavam? \n\nPorque eu começo: meu ex me contratou como gerente de investigação de rede social e o único salário era descobrir se ele tava online às 3h da manhã. O pior é que fui demitida por justa causa porque descobri que ele tava mandan",
+   "quando": "2026-11-25T16:37:09.214675-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18154399366516547",
-  "18111690836174180",
-  "17986943372879199",
-  "18232745317326357",
-  "18271119508305598",
   "18020584622930520",
   "18075321386484328",
   "18476600620114398",
@@ -4144,10 +4131,14 @@
   "18092039378302796",
   "18191888689372194",
   "18137369278671036",
-  "17992360230109485"
+  "17992360230109485",
+  "18093492677265857",
+  "18153206146481666",
+  "17914070121667295",
+  "18111781631210301",
+  "18131701147630927"
  ],
  "hashes": [
-  "5eb3a2aeb4b1828c1968a2e244eda029",
   "e657864bfbdd3e389fbe96c9a3f3acba",
   "936c7d446e825f4e90a3fe5be417a196",
   "3dfdf226387675d4672bbc0c406d9165",
@@ -4346,7 +4337,8 @@
   "84bd0c3f39a47a1d3afd0ebb62024a62",
   "1fd82e733508212dbd7ab8348757b6ee",
   "705e2a46bc6da34e0bc619444ff8e2f9",
-  "67b4d18488a6ecd09c5147350487bed3"
+  "67b4d18488a6ecd09c5147350487bed3",
+  "8cf5b481971616a9761788ac94088d57"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4423,7 +4415,6 @@
   "b6e8893db8": 1791637653.5574567,
   "f8cf963815": 1791644893.9161525,
   "d74ec1b0c0": 1791648492.9168603,
-  "0b1e634fcd": 1791657457.6883128,
   "eb9c03e299": 1791670089.8466873,
   "a5b40d343a": 1791673648.3117123,
   "7e236666a4": 1791682693.6785476,
@@ -4757,7 +4748,8 @@
   "7fff0e06da": 1795568893.0099375,
   "f1481a1658": 1795572455.9349465,
   "83111fe9a4": 1795619287.6501162,
-  "ae1c8a29b8": 1795628242.1192162
+  "ae1c8a29b8": 1795628242.1192162,
+  "0b1e634fcd": 1795639090.3691568
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4789,35 +4781,15 @@
   "1b960e7460": 1,
   "896df21642": 1,
   "aaa71e7532": 1,
-  "960ede750f": 1
+  "960ede750f": 1,
+  "1aaea1502d": 1,
+  "6c1fecc82f": 1,
+  "80913e6f9c": 1,
+  "0cffdff642": 1,
+  "09fe7ef239": 1
  },
  "reservas_checadas": "2026-11-25",
  "ultimas_respostas": [
-  {
-   "t": "Nossa, que choque, imagina o frango de touca 😱",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "kkk obrigado pela drible na ciência, mas o boy do post já tava com a touca pra caramba",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "22 já dá um caldo bom de independência",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "exato, e se faltar interesse a gente inventa pauta sobre o boleto pra ver se anima",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Entendo, cada um no seu tempo, 24 já é vitória!",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "meus sentimentos, que perda difícil e dolorosa",
    "p": "neutra",
@@ -4942,6 +4914,31 @@
    "t": "nessa hora a transparência deixa de ser opção e vira regra",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "esse meio tempo entre pagar o boleto e chorar no banho é longo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "cada um cuidando da sua parte o boleto vem mais leve",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "organizar os impostos juntos assim mostra que a parceria vai além do papel kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "integração total que o pix de vocês deve rodar sozinho kkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "kkkkk somos parceiros na falência, vc também divide o boleto?",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6349,10 +6346,6 @@
   }
  ],
  "aberturas_post": {
-  "17988406653108359": [
-   "3 temporadas e",
-   "entao ja ta"
-  ],
   "18669013498032608": [
    "aceito o convite"
   ],
@@ -6523,7 +6516,11 @@
    "parceria leve faz",
    "administracao de milhoes",
    "pagar metade de",
-   "nessa hora a"
+   "nessa hora a",
+   "cada um cuidando",
+   "organizar os impostos",
+   "integracao total que",
+   "somos parceiros na"
   ],
   "18649654579060705": [
    "piratas do caribe"
@@ -6533,6 +6530,9 @@
    "vinagre pelo menos",
    "nossa que choque",
    "obrigado pela drible"
+  ],
+  "18080062685773379": [
+   "esse meio tempo"
   ]
  },
  "shopee_checada": "2026-11-25|1",
