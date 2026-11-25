@@ -22,11 +22,11 @@
    "16:54"
   ],
   "produtos_feitos": 0,
-  "respostas": 39,
+  "respostas": 45,
   "por_post": {
    "18108595124318110": 3,
    "17895434610685394": 1,
-   "18127176991902978": 34,
+   "18127176991902978": 40,
    "18080062685773379": 1
   }
  },
@@ -1114,12 +1114,6 @@
   }
  ],
  "respondidos": [
-  "18370565932210696",
-  "17982904241901790",
-  "18032342168903845",
-  "18119269078987044",
-  "18049707254807882",
-  "18149576548483216",
   "17989165725114639",
   "18077262878469439",
   "18113749769110938",
@@ -4113,7 +4107,13 @@
   "18117113258167594",
   "18127145884940873",
   "18121308487974033",
-  "18130340551861044"
+  "18130340551861044",
+  "18104080751536539",
+  "18078936983466215",
+  "18124853758943750",
+  "18173429482487317",
+  "17906559396405603",
+  "17982844536139829"
  ],
  "hashes": [
   "936c7d446e825f4e90a3fe5be417a196",
@@ -4769,40 +4769,16 @@
   "4841ca3fb3": 1,
   "6035244efa": 1,
   "87fe4bfae1": 1,
-  "4ad3540ca0": 1
+  "4ad3540ca0": 1,
+  "1d3106905f": 1,
+  "923f3fcf87": 1,
+  "eabf3b1266": 1,
+  "cd2cdaacdb": 1,
+  "0c84702863": 1,
+  "68d23c1957": 1
  },
  "reservas_checadas": "2026-11-25",
  "ultimas_respostas": [
-  {
-   "t": "transparência financeira é o mínimo mesmo para a conta não virar mistério kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "Adorei como vocês organizam as finanças, inspira muito 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "medo real mesmo, esconder isso estraga tudo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nessa lista toda tem fase até pra renegociar dívida kkk",
-   "p": "neutra",
-   "r": 1
-  },
-  {
-   "t": "investimento de alto risco pagar fatura alheia kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "organização financeira desse jeito traz uma paz enorme pra relação",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Óbvio mesmo, né kkk",
    "p": "concorda",
@@ -4920,6 +4896,36 @@
   },
   {
    "t": "pelo menos aí não tem como esconder nada de ninguém",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Entendi, já tá planejando o limite do cartão da parceira",
+   "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "kkkkk esse é o marido que manda o pix pra por conta",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "vixi, ele virou seu cofre humano kkk",
+   "p": "ressalta",
+   "r": 1
+  },
+  {
+   "t": "nossa, esse nível de confiança é raro, então a segunda-feira vocês dois amanhecem em paz",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "isso, salário escondido só vira briga boba depois, melhor falar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "Honestidade + cálculo simples = divisão justa sem dor",
    "p": "concorda",
    "r": 0
   }
@@ -6509,7 +6515,13 @@
    "entao basta abrir",
    "dividir tudo certinho",
    "transparencia assim evita",
-   "pelo menos ai"
+   "pelo menos ai",
+   "entendi ja ta",
+   "esse e o",
+   "vixi ele virou",
+   "nossa esse nivel",
+   "isso salario escondido",
+   "honestidade calculo simples"
   ],
   "18649654579060705": [
    "piratas do caribe"
