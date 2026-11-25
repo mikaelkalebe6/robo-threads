@@ -19,10 +19,11 @@
    "09:37"
   ],
   "produtos_feitos": 0,
-  "respostas": 4,
+  "respostas": 6,
   "por_post": {
    "18108595124318110": 3,
-   "17895434610685394": 1
+   "17895434610685394": 1,
+   "18127176991902978": 2
   }
  },
  "posts": [
@@ -1153,8 +1154,6 @@
   }
  ],
  "respondidos": [
-  "17887578909479939",
-  "18012738173977293",
   "18634044007047422",
   "17930785380163404",
   "18108259913230236",
@@ -4152,7 +4151,9 @@
   "17883969840546181",
   "17890882152486917",
   "17991557880083795",
-  "18148693699514237"
+  "18148693699514237",
+  "18088065914517834",
+  "18228452929340061"
  ],
  "hashes": [
   "02462d97910f6af2d24a918a48a787a9",
@@ -4773,20 +4774,12 @@
   "dcfd122ace": 1,
   "7f0e63c85d": 1,
   "47a58004f4": 1,
-  "244e942aed": 1
+  "244e942aed": 1,
+  "eac14edb3c": 1,
+  "7eb5b77e08": 1
  },
  "reservas_checadas": "2026-11-25",
  "ultimas_respostas": [
-  {
-   "t": "19 ainda tem muita marmita para mandar para a sogra kkkk",
-   "p": "neutra",
-   "r": 2
-  },
-  {
-   "t": "Então, se a rã vai cobrar, a mosca já está pedindo desconto kkkkk 😂",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Entendo, essas baterias de energia são um tormento kkk",
    "p": "concorda",
@@ -4926,6 +4919,16 @@
    "t": "meus sentimentos, que perda difícil e dolorosa",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "Cada casal tem seu ritmo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "porque a gente já viu drama de boleto quando não conta kkk",
+   "p": "neutra",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6483,7 +6486,9 @@
    "o colega achando",
    "estrategia de defesa",
    "administrar a propria",
-   "precisa de uma"
+   "precisa de uma",
+   "cada casal tem",
+   "porque a gente"
   ],
   "18649654579060705": [
    "piratas do caribe"
