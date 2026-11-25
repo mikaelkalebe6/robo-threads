@@ -18,50 +18,19 @@
   "feitos": [
    "09:37",
    "10:20",
-   "15:27"
+   "15:27",
+   "16:54"
   ],
   "produtos_feitos": 0,
-  "respostas": 36,
+  "respostas": 37,
   "por_post": {
    "18108595124318110": 3,
    "17895434610685394": 1,
-   "18127176991902978": 31,
+   "18127176991902978": 32,
    "18080062685773379": 1
   }
  },
  "posts": [
-  {
-   "id": "17879713524634778",
-   "insp": "prod_22694227037",
-   "link": "",
-   "texto": "Parachoque de carro e peça plastica que queimam no sol dao um trabalho danado pra manter com cara de novo, ne? 😂 Descobri esse revitalizador que devolve a cor preta original na hora parecendo que saiu da loja. Olha como funciona 👀",
-   "quando": "2026-11-18T16:07:10.725921-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "22694227037",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "22694227037",
-    "nome": "Revitalizador De Plástico Automotivo Matrix Cera Moto E Carro Para Choque Original",
-    "offerLink": "https://s.shopee.com.br/20x7YngPrA",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-msgh50r25wxybf",
-    "campanha": ""
-   },
-   "metricas": {
-    "views": 180,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-25"
-   },
-   "link_coment": "https://s.shopee.com.br/20x7YngPrA",
-   "link_em": "2026-11-19T10:07:16.091626-04:00",
-   "link_views": 0
-  },
   {
    "id": "18114592565137270",
    "insp": "4fb1c220f3",
@@ -1134,10 +1103,17 @@
    "texto": "DÚVIDA SINCERA: qual foi o primeiro emprego de vocês e quanto ganhavam? \n\nPorque eu começo: meu ex me contratou como gerente de investigação de rede social e o único salário era descobrir se ele tava online às 3h da manhã. O pior é que fui demitida por justa causa porque descobri que ele tava mandan",
    "quando": "2026-11-25T16:37:09.214675-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18120917234095229",
+   "insp": "7d0b87a61f",
+   "link": "",
+   "texto": "ACABEI DE PERCEBER: faz anos que não recebo nada escrito à mão a não ser intimação do juizado especial e carta do banco ameaçando pendurar meu nome no SPC. O romantismo morreu e foi substituído por boleto em PDF. Qual foi a última declaração de amor escrita que vcs ganharam, um bilhetinho no para-br",
+   "quando": "2026-11-25T17:37:08.464310-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18130088179756018",
   "18394984114162629",
   "18136857454711720",
   "18370565932210696",
@@ -4136,10 +4112,10 @@
   "18131701147630927",
   "17982209214139297",
   "18348962587249926",
-  "18117113258167594"
+  "18117113258167594",
+  "18127145884940873"
  ],
  "hashes": [
-  "e657864bfbdd3e389fbe96c9a3f3acba",
   "936c7d446e825f4e90a3fe5be417a196",
   "3dfdf226387675d4672bbc0c406d9165",
   "402040ba2e4c7300aea9015879529685",
@@ -4338,7 +4314,8 @@
   "1fd82e733508212dbd7ab8348757b6ee",
   "705e2a46bc6da34e0bc619444ff8e2f9",
   "67b4d18488a6ecd09c5147350487bed3",
-  "8cf5b481971616a9761788ac94088d57"
+  "8cf5b481971616a9761788ac94088d57",
+  "b4c146521db4c41815e30daa768fdc7d"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4370,7 +4347,6 @@
   "20526bb3a2": 1790993249.785394,
   "d26d8b821e": 1791032846.9219635,
   "9c1e78bb9a": 1791038248.3376563,
-  "7d0b87a61f": 1791040054.20017,
   "143d9cb236": 1791045474.23247,
   "120d39bc61": 1791052643.211581,
   "c5b66c6c5b": 1791065245.2783217,
@@ -4749,7 +4725,8 @@
   "f1481a1658": 1795572455.9349465,
   "83111fe9a4": 1795619287.6501162,
   "ae1c8a29b8": 1795628242.1192162,
-  "0b1e634fcd": 1795639090.3691568
+  "0b1e634fcd": 1795639090.3691568,
+  "7d0b87a61f": 1795642647.4314444
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4789,15 +4766,11 @@
   "09fe7ef239": 1,
   "1f607134a2": 1,
   "213ddf1294": 1,
-  "4841ca3fb3": 1
+  "4841ca3fb3": 1,
+  "6035244efa": 1
  },
  "reservas_checadas": "2026-11-25",
  "ultimas_respostas": [
-  {
-   "t": "12 anos construindo parceria de verdade é para aplaudir de pé",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse nível de paz aí é para poucos kkk",
    "p": "concorda",
@@ -4942,6 +4915,11 @@
    "t": "Então basta abrir o portal da transparência e conferir",
    "p": "neutra",
    "r": 0
+  },
+  {
+   "t": "dividir tudo certinho assim da paz né kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6526,7 +6504,8 @@
    "somos parceiros na",
    "verdade ja estava",
    "seguro contra segredos",
-   "entao basta abrir"
+   "entao basta abrir",
+   "dividir tudo certinho"
   ],
   "18649654579060705": [
    "piratas do caribe"
