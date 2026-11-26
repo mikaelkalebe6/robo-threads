@@ -25,7 +25,8 @@
    "09:19",
    "10:14",
    "10:57",
-   "11:56"
+   "11:56",
+   "13:20"
   ],
   "produtos_feitos": 0,
   "respostas": 11,
@@ -37,24 +38,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18062665283584810",
-   "insp": "379a8ce6b4",
-   "link": "",
-   "texto": "PESSOAS QUE MORAM SOZINHAS: a maior vantagem é andar pelada pela casa achando que é a Gisele Bündchen e a desvantagem é descobrir que o barulho estranho da cozinha de madrugada nunca é um fantasma romântico, é só a barata preta exercendo o livre arbítrio na sua pia. Quem foi o infeliz que inventou q",
-   "quando": "2026-11-19T18:37:08.828557-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T23:37:09.276845-04:00",
-   "metricas": {
-    "views": 64,
-    "likes": 4,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-26"
-   }
-  },
   {
    "id": "18143121307616756",
    "insp": "38ecc56e84",
@@ -1066,6 +1049,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: o boy gastou o FGTS inteiro num perfume importado de dozentos conto pra provar amor e a namorada levou o infeliz pra passar o domingo inteiro no sol quente da represa fingindo que entende de tilápia, sem 4G e comendo salgadinho murcho. Adivinha do que ele lembra chorando no banho",
    "quando": "2026-11-26T14:37:08.585475-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18355495063280659",
+   "insp": "dd26d54eba",
+   "link": "",
+   "texto": "GENTE SOCORRO o corno contemporâneo evoluiu de nível\n\ndescobri que a vizinha cancelou o bloco de notas do celular e voltou a usar caderninho de brochura com capa da Tilibra pra anotar a escala dupla dos dois namorados \n\na desculpa da infiel é que o analógico tem mais charme e não deixa histórico no ",
+   "quando": "2026-11-26T15:07:09.747360-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4072,7 +4063,6 @@
   "18582808756079527"
  ],
  "hashes": [
-  "4103ab1e3e43916655c6da5609f44488",
   "e4d1a03941fb68967d5b5a94dda34aa8",
   "54383cc77ecf9fa8e3a9827581c5854f",
   "72645999f08172756ce2948617acbae7",
@@ -4271,7 +4261,8 @@
   "65a176690d10ed9c9656d65c087c17f3",
   "6adc410072addac2e8803bb8ffe9ebdd",
   "593b1d8b774c25d5bdde462037ad77cd",
-  "40b9bec85e7205b4070e0c54b95fbc4f"
+  "40b9bec85e7205b4070e0c54b95fbc4f",
+  "7b43e152bc5279829bb15d52e451defe"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4324,7 +4315,6 @@
   "bf83cca91b": 1791383893.0639527,
   "0edf5745b6": 1791389239.8850503,
   "e9173b96df": 1791394644.6266675,
-  "dd26d54eba": 1791401855.1985977,
   "59c16f2082": 1791403651.236615,
   "69415b36aa": 1791414450.6617262,
   "0c6e3aa2e9": 1791418053.3214092,
@@ -4682,7 +4672,8 @@
   "23a8ecfd7a": 1795703858.524616,
   "dded827567": 1795705647.3131185,
   "fc172f6e0c": 1795711055.7449536,
-  "5efa674a14": 1795718254.0002115
+  "5efa674a14": 1795718254.0002115,
+  "dd26d54eba": 1795720056.2372952
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
