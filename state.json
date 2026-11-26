@@ -24,11 +24,11 @@
    "08:03"
   ],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 8,
   "por_post": {
    "18030039716934185": 1,
    "17872733940660048": 1,
-   "18154923289555134": 4
+   "18154923289555134": 6
   }
  },
  "posts": [
@@ -1124,8 +1124,6 @@
   }
  ],
  "respondidos": [
-  "17951515572293600",
-  "18132322225672968",
   "17872198713639166",
   "18118793794971970",
   "17882564439528847",
@@ -4123,7 +4121,9 @@
   "18184925044429606",
   "18109683328982055",
   "17972487516031755",
-  "18110619361976850"
+  "18110619361976850",
+  "18132059695856314",
+  "17980469363935709"
  ],
  "hashes": [
   "903e24488ed2a7c1a35c0b555fc5de5d",
@@ -4745,20 +4745,12 @@
   "3a8af678d0": 1,
   "d0c334f8a4": 1,
   "2dfa87c7ce": 1,
-  "c03f26b948": 1
+  "c03f26b948": 1,
+  "a6b9319c89": 1,
+  "dc9eee46fa": 1
  },
  "reservas_checadas": "2026-11-26",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, quem fala tudo tem ponto extra no relacionamento 🙏🏼",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "acha elegante manter o mistério até a mudança de endereço",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esperar a relação firmar pra abrir a carteira faz todo sentido kkk",
    "p": "concorda",
@@ -4898,6 +4890,16 @@
    "t": "essa opção exige investimento baixo mas o risco de CPI é alto kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "tem investimento para todos os gostos na sua lista",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "dar o primeiro passo pequeno já tira o peso de achar que precisa de muito",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6511,7 +6513,9 @@
    "comecar com cinquenta",
    "rendimento garantido assim",
    "investir no futuro",
-   "essa opcao exige"
+   "essa opcao exige",
+   "tem investimento para",
+   "dar o primeiro"
   ]
  },
  "shopee_checada": "2026-11-26|1",
