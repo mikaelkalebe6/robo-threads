@@ -20,7 +20,9 @@
    "13:20",
    "19:38"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:03"
+  ],
   "produtos_feitos": 0,
   "respostas": 2,
   "por_post": {
@@ -29,38 +31,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18020253023953074",
-   "insp": "prod_58268112796",
-   "link": "",
-   "texto": "Olha isso que eu achei: relogio smartwatch multifuncional e resistente a quedas para",
-   "quando": "2026-11-18T20:07:08.552014-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58268112796",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58268112796",
-    "nome": "relogio smartwatch multifuncional e resistente a quedas para crianças, adequado para alunos do ensino fundamental II.",
-    "offerLink": "https://s.shopee.com.br/2gCoM28C9H",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257v-mt486h58fqiv1e",
-    "campanha": ""
-   },
-   "metricas": {
-    "views": 126,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-25"
-   },
-   "link_coment": "https://s.shopee.com.br/2gCoM28C9H",
-   "link_em": "2026-11-19T14:37:12.011394-04:00",
-   "link_views": 0
-  },
   {
    "id": "18115889417335650",
    "insp": "6112a4e17f",
@@ -1142,6 +1112,14 @@
     "shares": 0,
     "em": "2026-11-26"
    }
+  },
+  {
+   "id": "18154923289555134",
+   "insp": "8afd53c3f1",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a galera que consegue guardar dinheiro todo mês investe em que? No jogo do bicho, em rinha de galo ou tem pacto com alguma entidade secreta que eu ainda não fui convidada pra participar",
+   "quando": "2026-11-26T08:07:09.558149-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4147,7 +4125,6 @@
   "18099785717396497"
  ],
  "hashes": [
-  "d8c6d4b862a549500733764a325da00a",
   "903e24488ed2a7c1a35c0b555fc5de5d",
   "eb7cf60d83bfd42188d15ab3e90e3a05",
   "b4497a0474b36d64e9edcf4bb580630a",
@@ -4346,7 +4323,8 @@
   "b4c146521db4c41815e30daa768fdc7d",
   "1af3b350d8141358510b887596173975",
   "556686e0fd9984e329292d5408ef81e0",
-  "b6717636a2af170634c456ca0624216b"
+  "b6717636a2af170634c456ca0624216b",
+  "57ed9073e5f0968e5d3368874a84bc31"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4667,7 +4645,6 @@
   "7a1c42a5d7": 1794695885.2995505,
   "f9f379c8bc": 1794697691.6906765,
   "880c48c090": 1794701284.1197793,
-  "8afd53c3f1": 1794708442.2957947,
   "9dfc1777fa": 1794755287.134633,
   "b7ff902af0": 1794757090.2990987,
   "c73aca2192": 1794758886.6755836,
@@ -4757,7 +4734,8 @@
   "7d0b87a61f": 1795642647.4314444,
   "5f95698f56": 1795648047.0580792,
   "58ac2ae535": 1795653446.1286354,
-  "7e236666a4": 1795657100.1514072
+  "7e236666a4": 1795657100.1514072,
+  "8afd53c3f1": 1795694850.3460946
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
