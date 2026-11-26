@@ -7,12 +7,12 @@
    "10:14",
    "10:57",
    "11:56",
-   "12:36",
    "13:20",
    "14:55",
    "16:03",
    "17:55",
    "19:38",
+   "20:33",
    "21:20"
   ],
   "horarios_produto": [
@@ -27,12 +27,12 @@
    "10:57"
   ],
   "produtos_feitos": 0,
-  "respostas": 10,
+  "respostas": 11,
   "por_post": {
    "18030039716934185": 1,
    "17872733940660048": 1,
    "18154923289555134": 6,
-   "18127176991902978": 2
+   "18127176991902978": 3
   }
  },
  "posts": [
@@ -1084,7 +1084,6 @@
   }
  ],
  "respondidos": [
-  "17882564439528847",
   "18117604801789543",
   "18005511009005129",
   "18092042618690234",
@@ -4083,7 +4082,8 @@
   "18132059695856314",
   "17980469363935709",
   "18647104261050517",
-  "18211689976369623"
+  "18211689976369623",
+  "18582808756079527"
  ],
  "hashes": [
   "2a953a0c762ec5429fcea00b0b29b0a5",
@@ -4709,15 +4709,11 @@
   "a6b9319c89": 1,
   "dc9eee46fa": 1,
   "f89193d2ee": 1,
-  "ce43f533aa": 1
+  "ce43f533aa": 1,
+  "671044bd37": 1
  },
  "reservas_checadas": "2026-11-26",
  "ultimas_respostas": [
-  {
-   "t": "administração de milhões e ainda sobra lazer kkkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "pagar metade de tudo sem saber a realidade do outro é golpe baixo",
    "p": "ressalva",
@@ -4862,6 +4858,11 @@
    "t": "verdade, no fim das contas a conta precisa fechar certinha",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "seis anos de parceria com adm própria é golpe de sorte, melhor que isso só loteria kkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6453,7 +6454,8 @@
    "isso salario escondido",
    "honestidade calculo simples",
    "transparencia no trabalho",
-   "verdade no fim"
+   "verdade no fim",
+   "seis anos de"
   ],
   "18649654579060705": [
    "piratas do caribe"
