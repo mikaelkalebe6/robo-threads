@@ -26,7 +26,8 @@
    "10:14",
    "10:57",
    "11:56",
-   "13:20"
+   "13:20",
+   "14:55"
   ],
   "produtos_feitos": 0,
   "respostas": 11,
@@ -38,24 +39,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18143121307616756",
-   "insp": "38ecc56e84",
-   "link": "",
-   "texto": "SEJAM SINCEROS: prefere a roleta russa de pegar uma pneumonia tripla com o ventilador roncando igual a uma britadeira na sua cara às três da manhã ou pagar o equivalente a um rim no ar condicionado só pra não derreter o colchão?",
-   "quando": "2026-11-19T20:07:09.737619-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T23:37:09.276845-04:00",
-   "metricas": {
-    "views": 87,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-26"
-   }
-  },
   {
    "id": "18104609207055264",
    "insp": "7d6d624d0c",
@@ -1057,6 +1040,14 @@
    "link": "",
    "texto": "GENTE SOCORRO o corno contemporâneo evoluiu de nível\n\ndescobri que a vizinha cancelou o bloco de notas do celular e voltou a usar caderninho de brochura com capa da Tilibra pra anotar a escala dupla dos dois namorados \n\na desculpa da infiel é que o analógico tem mais charme e não deixa histórico no ",
    "quando": "2026-11-26T15:07:09.747360-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17888648265510957",
+   "insp": "7bb5b555f8",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: o único som alto que deveria sair de um carro rebaixado depois dos 25 anos é o choro do motorista lembrando que o alvará da quiropraxia não cobre vértebra estourada na lombada.",
+   "quando": "2026-11-26T16:37:08.834284-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4063,7 +4054,6 @@
   "18582808756079527"
  ],
  "hashes": [
-  "e4d1a03941fb68967d5b5a94dda34aa8",
   "54383cc77ecf9fa8e3a9827581c5854f",
   "72645999f08172756ce2948617acbae7",
   "12dd837fb6b4904d7103f8202d1a5dbe",
@@ -4262,7 +4252,8 @@
   "6adc410072addac2e8803bb8ffe9ebdd",
   "593b1d8b774c25d5bdde462037ad77cd",
   "40b9bec85e7205b4070e0c54b95fbc4f",
-  "7b43e152bc5279829bb15d52e451defe"
+  "7b43e152bc5279829bb15d52e451defe",
+  "c3313395ca14f0244607cdaf55efa706"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4356,7 +4347,6 @@
   "4322eb9d04": 1792159645.6739976,
   "ee7378f2f0": 1792165044.1035805,
   "30e1771c4d": 1792172245.717424,
-  "7bb5b555f8": 1792242456.141735,
   "cbd68162a7": 1792260488.221213,
   "993899e22c": 1792264088.3358436,
   "36557e440f": 1792273052.9622602,
@@ -4673,7 +4663,8 @@
   "dded827567": 1795705647.3131185,
   "fc172f6e0c": 1795711055.7449536,
   "5efa674a14": 1795718254.0002115,
-  "dd26d54eba": 1795720056.2372952
+  "dd26d54eba": 1795720056.2372952,
+  "7bb5b555f8": 1795725486.3098347
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
