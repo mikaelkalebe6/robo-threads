@@ -28,7 +28,8 @@
    "11:56",
    "13:20",
    "14:55",
-   "16:03"
+   "16:03",
+   "17:55"
   ],
   "produtos_feitos": 0,
   "respostas": 11,
@@ -40,23 +41,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18438967744146475",
-   "insp": "c97ba72637",
-   "link": "",
-   "texto": "SEM MENTIR: vc já voltou pra casa porque não lembrava se fechou o gás ou se a sua vida amorosa inteira foi só um surto coletivo da sua ansiedade? O pior é que chego lá e o fogão tá intacto, mas a minha paz de espírito foi de arrasta pra cima. Alguém mais sofre desse nível de cinema mental ou sou só ",
-   "quando": "2026-11-20T08:37:08.607204-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 331,
-    "likes": 5,
-    "replies": 8,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-26"
-   }
-  },
   {
    "id": "18001391246829257",
    "insp": "bd449a65bb",
@@ -1039,6 +1023,14 @@
    "link": "",
    "texto": "SEM MENTIR: vc já chorou no banheiro do trabalho enquanto comia um pão de queijo gelado e pensava em largar tudo pra virar tiktoker de ASMR de capivara?",
    "quando": "2026-11-26T17:37:09.465385-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18133142113924481",
+   "insp": "dce953f387",
+   "link": "",
+   "texto": "SEJAM SINCEROS: vocês respondem a mensagem na hora ou deixam o crush mofando no vácuo só para fingir que são uma celebridade internacional com a agenda lotada? Sendo que o único compromisso real do dia foi decidir se o miojo vai com dois ou três sachês de pozinho mágico. Depois reclamam que a carênc",
+   "quando": "2026-11-26T18:07:09.726326-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4045,7 +4037,6 @@
   "18582808756079527"
  ],
  "hashes": [
-  "72645999f08172756ce2948617acbae7",
   "12dd837fb6b4904d7103f8202d1a5dbe",
   "45bfb7e848ddca5a9ec024ace23b76ba",
   "bb3f05e0e4ad34ea9783c66de2473c49",
@@ -4244,7 +4235,8 @@
   "40b9bec85e7205b4070e0c54b95fbc4f",
   "7b43e152bc5279829bb15d52e451defe",
   "c3313395ca14f0244607cdaf55efa706",
-  "416fd5ecdf42df323cbce28c05aabc9f"
+  "416fd5ecdf42df323cbce28c05aabc9f",
+  "a02389cf1f6fea1e08319eef95518970"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4283,7 +4275,6 @@
   "3d41eeda62": 1791117448.2717893,
   "4e6f1fb18b": 1791122845.40371,
   "5d46bb3702": 1791131871.1175742,
-  "dce953f387": 1791142652.6592295,
   "c5cc27e19f": 1791151645.7283194,
   "c7f375102c": 1791160638.6544247,
   "7e797582de": 1791216456.696685,
@@ -4655,7 +4646,8 @@
   "5efa674a14": 1795718254.0002115,
   "dd26d54eba": 1795720056.2372952,
   "7bb5b555f8": 1795725486.3098347,
-  "c312178704": 1795729055.0832002
+  "c312178704": 1795729055.0832002,
+  "dce953f387": 1795730852.277333
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
