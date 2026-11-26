@@ -32,11 +32,11 @@
    "17:55"
   ],
   "produtos_feitos": 0,
-  "respostas": 11,
+  "respostas": 13,
   "por_post": {
    "18030039716934185": 1,
    "17872733940660048": 1,
-   "18154923289555134": 6,
+   "18154923289555134": 8,
    "18127176991902978": 3
   }
  },
@@ -1035,8 +1035,6 @@
   }
  ],
  "respondidos": [
-  "18117604801789543",
-  "18005511009005129",
   "18092042618690234",
   "18137974489621052",
   "17919343977241246",
@@ -4034,7 +4032,9 @@
   "17980469363935709",
   "18647104261050517",
   "18211689976369623",
-  "18582808756079527"
+  "18582808756079527",
+  "17950098150379971",
+  "18114376043229145"
  ],
  "hashes": [
   "12dd837fb6b4904d7103f8202d1a5dbe",
@@ -4661,20 +4661,12 @@
   "dc9eee46fa": 1,
   "f89193d2ee": 1,
   "ce43f533aa": 1,
-  "671044bd37": 1
+  "671044bd37": 1,
+  "03c324b4d0": 1,
+  "18585ce3a0": 1
  },
  "reservas_checadas": "2026-11-26",
  "ultimas_respostas": [
-  {
-   "t": "pagar metade de tudo sem saber a realidade do outro é golpe baixo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "nessa hora a transparência deixa de ser opção e vira regra",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "esse meio tempo entre pagar o boleto e chorar no banho é longo kkk",
    "p": "concorda",
@@ -4812,6 +4804,16 @@
   },
   {
    "t": "seis anos de parceria com adm própria é golpe de sorte, melhor que isso só loteria kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "então o pacto secreto era sobre isso, rendimento de milhões em poucos dias kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "comprando ações reais em lote fechado, achei que era só lenda urbana kkkk",
    "p": "concorda",
    "r": 1
   }
@@ -6432,7 +6434,9 @@
    "investir no futuro",
    "essa opcao exige",
    "tem investimento para",
-   "dar o primeiro"
+   "dar o primeiro",
+   "entao o pacto",
+   "comprando acoes reais"
   ]
  },
  "shopee_checada": "2026-11-26|1",
