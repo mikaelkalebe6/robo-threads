@@ -20,7 +20,8 @@
    "10:20",
    "15:27",
    "16:54",
-   "18:27"
+   "18:27",
+   "19:33"
   ],
   "produtos_feitos": 0,
   "respostas": 45,
@@ -32,24 +33,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18155194087527421",
-   "insp": "1025b0cd16",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: no primeiro encontro a pessoa tem que pagar a conta ou eu já posso acionar o SPC pelo Pix de meio açaí e dois pasteis de queijo que o alecrim dourado comeu sozinho enquanto reclamava da ex",
-   "quando": "2026-11-18T18:37:10.502934-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T18:37:08.828557-04:00",
-   "metricas": {
-    "views": 166,
-    "likes": 4,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-25"
-   }
-  },
   {
    "id": "18168070993490631",
    "insp": "c0031ddd0f",
@@ -1101,6 +1084,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: primeiro encontro em restaurante caro é só um processo seletivo gourmet onde o RH te obriga a comer carpaccio fingindo que gosta de rir de piada sem graça pra não ser demitida do mercado de namorados antes do período de experiência. Falta só o cara pedir pra eu desenhar meus defei",
    "quando": "2026-11-25T19:07:09.532136-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18489011929118336",
+   "insp": "58ac2ae535",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a gaveta de sacola plástica que engole os próprios sacos e o carregador que só funciona se colar com durex e rezar em aramaico são os únicos bens materiais que a gente herda da nossa versão de dez anos atrás ou vocês também guardam boleto pago de 2018?",
+   "quando": "2026-11-25T20:37:08.728132-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4107,7 +4098,6 @@
   "17982844536139829"
  ],
  "hashes": [
-  "3dfdf226387675d4672bbc0c406d9165",
   "402040ba2e4c7300aea9015879529685",
   "d8c6d4b862a549500733764a325da00a",
   "903e24488ed2a7c1a35c0b555fc5de5d",
@@ -4306,7 +4296,8 @@
   "67b4d18488a6ecd09c5147350487bed3",
   "8cf5b481971616a9761788ac94088d57",
   "b4c146521db4c41815e30daa768fdc7d",
-  "1af3b350d8141358510b887596173975"
+  "1af3b350d8141358510b887596173975",
+  "556686e0fd9984e329292d5408ef81e0"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4352,7 +4343,6 @@
   "7e797582de": 1791216456.696685,
   "de9bf80054": 1791220047.5941434,
   "2832d4baf6": 1791247069.3264678,
-  "58ac2ae535": 1791248867.6549494,
   "338b545216": 1791299241.9964204,
   "3effd5124d": 1791310042.3382156,
   "fb886a59a7": 1791315444.3711731,
@@ -4717,7 +4707,8 @@
   "ae1c8a29b8": 1795628242.1192162,
   "0b1e634fcd": 1795639090.3691568,
   "7d0b87a61f": 1795642647.4314444,
-  "5f95698f56": 1795648047.0580792
+  "5f95698f56": 1795648047.0580792,
+  "58ac2ae535": 1795653446.1286354
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
