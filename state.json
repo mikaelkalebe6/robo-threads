@@ -24,7 +24,8 @@
    "08:03",
    "09:19",
    "10:14",
-   "10:57"
+   "10:57",
+   "11:56"
   ],
   "produtos_feitos": 0,
   "respostas": 11,
@@ -36,29 +37,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18121063603804214",
-   "insp": "fa26296fcf",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Fui num encontro num restaurante chique onde o infeliz pediu carpaccio de vaga-lume a R$ 300 e eu pedi a única coisa barata que achei, um pastel de vento gourmet, aí na hora de fechar a conta o ser humano meteu o clássico divide igual porque a gente é moderno. Moderno vai ser o ta",
-   "quando": "2026-11-19T14:37:12.011394-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T15:37:09.533239-04:00",
-   "link_coment": "https://s.shopee.com.br/9fMaqmLNSB",
-   "meme_comentado": true,
-   "meme_views": 639,
-   "formato_link": "coment",
-   "produto": "22798433097",
-   "metricas": {
-    "views": 1399,
-    "likes": 8,
-    "replies": 29,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-26"
-   }
-  },
   {
    "id": "18062665283584810",
    "insp": "379a8ce6b4",
@@ -1080,6 +1058,14 @@
    "link": "",
    "texto": "Chega o boy falando que o maior sofrimento da vida dele foi o rebaixamento do time em 2004 e eu já respondo que pior que isso só o meu ex dizendo que a traição foi um investimento de longo prazo. A ilusão com futebol pelo menos acaba no fim do campeonato, mas acreditar em homem romântico é torcer pr",
    "quando": "2026-11-26T12:37:09.063835-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18131619088855105",
+   "insp": "5efa674a14",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: o boy gastou o FGTS inteiro num perfume importado de dozentos conto pra provar amor e a namorada levou o infeliz pra passar o domingo inteiro no sol quente da represa fingindo que entende de tilápia, sem 4G e comendo salgadinho murcho. Adivinha do que ele lembra chorando no banho",
+   "quando": "2026-11-26T14:37:08.585475-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4086,7 +4072,6 @@
   "18582808756079527"
  ],
  "hashes": [
-  "2a953a0c762ec5429fcea00b0b29b0a5",
   "4103ab1e3e43916655c6da5609f44488",
   "e4d1a03941fb68967d5b5a94dda34aa8",
   "54383cc77ecf9fa8e3a9827581c5854f",
@@ -4285,7 +4270,8 @@
   "57ed9073e5f0968e5d3368874a84bc31",
   "65a176690d10ed9c9656d65c087c17f3",
   "6adc410072addac2e8803bb8ffe9ebdd",
-  "593b1d8b774c25d5bdde462037ad77cd"
+  "593b1d8b774c25d5bdde462037ad77cd",
+  "40b9bec85e7205b4070e0c54b95fbc4f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4428,7 +4414,6 @@
   "c201aa73c5": 1792778846.8173857,
   "876494bf5b": 1792789682.5346763,
   "ba30bb89b0": 1792805884.0814035,
-  "5efa674a14": 1792845486.7009747,
   "31631bee08": 1792861687.3606534,
   "23052490c4": 1792872469.8408012,
   "a1c2ae306e": 1792876083.525706,
@@ -4696,7 +4681,8 @@
   "8afd53c3f1": 1795694850.3460946,
   "23a8ecfd7a": 1795703858.524616,
   "dded827567": 1795705647.3131185,
-  "fc172f6e0c": 1795711055.7449536
+  "fc172f6e0c": 1795711055.7449536,
+  "5efa674a14": 1795718254.0002115
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
