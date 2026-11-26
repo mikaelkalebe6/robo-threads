@@ -27,12 +27,12 @@
    "10:57"
   ],
   "produtos_feitos": 0,
-  "respostas": 9,
+  "respostas": 10,
   "por_post": {
    "18030039716934185": 1,
    "17872733940660048": 1,
    "18154923289555134": 6,
-   "18127176991902978": 1
+   "18127176991902978": 2
   }
  },
  "posts": [
@@ -1084,7 +1084,6 @@
   }
  ],
  "respondidos": [
-  "18118793794971970",
   "17882564439528847",
   "18117604801789543",
   "18005511009005129",
@@ -4083,7 +4082,8 @@
   "18110619361976850",
   "18132059695856314",
   "17980469363935709",
-  "18647104261050517"
+  "18647104261050517",
+  "18211689976369623"
  ],
  "hashes": [
   "2a953a0c762ec5429fcea00b0b29b0a5",
@@ -4708,15 +4708,11 @@
   "c03f26b948": 1,
   "a6b9319c89": 1,
   "dc9eee46fa": 1,
-  "f89193d2ee": 1
+  "f89193d2ee": 1,
+  "ce43f533aa": 1
  },
  "reservas_checadas": "2026-11-26",
  "ultimas_respostas": [
-  {
-   "t": "parceria leve faz toda a diferença no dia a dia",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "administração de milhões e ainda sobra lazer kkkk",
    "p": "concorda",
@@ -4860,6 +4856,11 @@
   {
    "t": "transparência no trabalho evita surpresa ruim na hora de negociar",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, no fim das contas a conta precisa fechar certinha",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6451,7 +6452,8 @@
    "nossa esse nivel",
    "isso salario escondido",
    "honestidade calculo simples",
-   "transparencia no trabalho"
+   "transparencia no trabalho",
+   "verdade no fim"
   ],
   "18649654579060705": [
    "piratas do caribe"
