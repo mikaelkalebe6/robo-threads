@@ -22,35 +22,19 @@
   ],
   "feitos": [
    "08:03",
-   "09:19"
+   "09:19",
+   "10:14"
   ],
   "produtos_feitos": 0,
-  "respostas": 8,
+  "respostas": 9,
   "por_post": {
    "18030039716934185": 1,
    "17872733940660048": 1,
-   "18154923289555134": 6
+   "18154923289555134": 6,
+   "18127176991902978": 1
   }
  },
  "posts": [
-  {
-   "id": "18026189105927028",
-   "insp": "e1d097044c",
-   "link": "",
-   "texto": "SEM MENTIR: qual foi o pior estrago que já fizeram no grupo da família? minha tia avó descobriu que existe inteligência artificial e agora ela acha que o bolo de cenoura com cobertura de plástico que ela postou no zap foi gerado por robô comunista para acabar com a soberania da confeitaria brasileir",
-   "quando": "2026-11-19T09:07:08.295933-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T23:37:09.276845-04:00",
-   "metricas": {
-    "views": 210,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-26"
-   }
-  },
   {
    "id": "18040982102896369",
    "insp": "prod_58262895607",
@@ -1112,10 +1096,17 @@
    "texto": "OPINIÃO IMPOPULAR: a vizinha bateu pedindo um punhado de sal e acabou fazendo uma palestra de duas horas sobre a harmonização facial que o ex-marido traidor fez com a amante. eu fiquei lá fingindo interesse só para não gastar meu pacote de internet móvel. vocês abrem a porta ou fingem que viraram es",
    "quando": "2026-11-26T10:37:08.874615-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18156816310551692",
+   "insp": "dded827567",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: qual comida de boteco vocês pediriam até o fim da vida sabendo que a única alternativa é comer a lasanha congelada que o boy que não assume fez no primeiro encontro para tentar impressionar",
+   "quando": "2026-11-26T11:07:09.806459-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "17872198713639166",
   "18118793794971970",
   "17882564439528847",
   "18117604801789543",
@@ -4114,10 +4105,10 @@
   "17972487516031755",
   "18110619361976850",
   "18132059695856314",
-  "17980469363935709"
+  "17980469363935709",
+  "18647104261050517"
  ],
  "hashes": [
-  "eb7cf60d83bfd42188d15ab3e90e3a05",
   "b4497a0474b36d64e9edcf4bb580630a",
   "2a953a0c762ec5429fcea00b0b29b0a5",
   "4103ab1e3e43916655c6da5609f44488",
@@ -4316,7 +4307,8 @@
   "556686e0fd9984e329292d5408ef81e0",
   "b6717636a2af170634c456ca0624216b",
   "57ed9073e5f0968e5d3368874a84bc31",
-  "65a176690d10ed9c9656d65c087c17f3"
+  "65a176690d10ed9c9656d65c087c17f3",
+  "6adc410072addac2e8803bb8ffe9ebdd"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4412,7 +4404,6 @@
   "ee7378f2f0": 1792165044.1035805,
   "30e1771c4d": 1792172245.717424,
   "7bb5b555f8": 1792242456.141735,
-  "dded827567": 1792251452.5580068,
   "cbd68162a7": 1792260488.221213,
   "993899e22c": 1792264088.3358436,
   "36557e440f": 1792273052.9622602,
@@ -4727,7 +4718,8 @@
   "58ac2ae535": 1795653446.1286354,
   "7e236666a4": 1795657100.1514072,
   "8afd53c3f1": 1795694850.3460946,
-  "23a8ecfd7a": 1795703858.524616
+  "23a8ecfd7a": 1795703858.524616,
+  "dded827567": 1795705647.3131185
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4738,15 +4730,11 @@
   "2dfa87c7ce": 1,
   "c03f26b948": 1,
   "a6b9319c89": 1,
-  "dc9eee46fa": 1
+  "dc9eee46fa": 1,
+  "f89193d2ee": 1
  },
  "reservas_checadas": "2026-11-26",
  "ultimas_respostas": [
-  {
-   "t": "esperar a relação firmar pra abrir a carteira faz todo sentido kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "parceria leve faz toda a diferença no dia a dia",
    "p": "concorda",
@@ -4889,6 +4877,11 @@
   },
   {
    "t": "dar o primeiro passo pequeno já tira o peso de achar que precisa de muito",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "transparência no trabalho evita surpresa ruim na hora de negociar",
    "p": "concorda",
    "r": 0
   }
@@ -6480,7 +6473,8 @@
    "vixi ele virou",
    "nossa esse nivel",
    "isso salario escondido",
-   "honestidade calculo simples"
+   "honestidade calculo simples",
+   "transparencia no trabalho"
   ],
   "18649654579060705": [
    "piratas do caribe"
