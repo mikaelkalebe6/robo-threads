@@ -21,7 +21,8 @@
    "19:38"
   ],
   "feitos": [
-   "08:03"
+   "08:03",
+   "09:19"
   ],
   "produtos_feitos": 0,
   "respostas": 8,
@@ -32,24 +33,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18115889417335650",
-   "insp": "6112a4e17f",
-   "link": "",
-   "texto": "SEM MENTIR: quantas horas vocês já ficaram jogando até o sol nascer porque a vizinha tava traindo o marido com o personal trainer e o roteiro da fofoca tava melhor que o modo história do jogo?",
-   "quando": "2026-11-18T21:07:07.702288-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T20:37:13.995481-04:00",
-   "metricas": {
-    "views": 81,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-25"
-   }
-  },
   {
    "id": "18026189105927028",
    "insp": "e1d097044c",
@@ -1120,6 +1103,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: a galera que consegue guardar dinheiro todo mês investe em que? No jogo do bicho, em rinha de galo ou tem pacto com alguma entidade secreta que eu ainda não fui convidada pra participar",
    "quando": "2026-11-26T08:07:09.558149-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18403208182200780",
+   "insp": "23a8ecfd7a",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: a vizinha bateu pedindo um punhado de sal e acabou fazendo uma palestra de duas horas sobre a harmonização facial que o ex-marido traidor fez com a amante. eu fiquei lá fingindo interesse só para não gastar meu pacote de internet móvel. vocês abrem a porta ou fingem que viraram es",
+   "quando": "2026-11-26T10:37:08.874615-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4126,7 +4117,6 @@
   "17980469363935709"
  ],
  "hashes": [
-  "903e24488ed2a7c1a35c0b555fc5de5d",
   "eb7cf60d83bfd42188d15ab3e90e3a05",
   "b4497a0474b36d64e9edcf4bb580630a",
   "2a953a0c762ec5429fcea00b0b29b0a5",
@@ -4325,7 +4315,8 @@
   "1af3b350d8141358510b887596173975",
   "556686e0fd9984e329292d5408ef81e0",
   "b6717636a2af170634c456ca0624216b",
-  "57ed9073e5f0968e5d3368874a84bc31"
+  "57ed9073e5f0968e5d3368874a84bc31",
+  "65a176690d10ed9c9656d65c087c17f3"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4364,7 +4355,6 @@
   "3d41eeda62": 1791117448.2717893,
   "4e6f1fb18b": 1791122845.40371,
   "5d46bb3702": 1791131871.1175742,
-  "23a8ecfd7a": 1791137246.3924928,
   "dce953f387": 1791142652.6592295,
   "c5cc27e19f": 1791151645.7283194,
   "c7f375102c": 1791160638.6544247,
@@ -4736,7 +4726,8 @@
   "5f95698f56": 1795648047.0580792,
   "58ac2ae535": 1795653446.1286354,
   "7e236666a4": 1795657100.1514072,
-  "8afd53c3f1": 1795694850.3460946
+  "8afd53c3f1": 1795694850.3460946,
+  "23a8ecfd7a": 1795703858.524616
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
