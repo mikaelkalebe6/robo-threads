@@ -24,11 +24,11 @@
    "08:03"
   ],
   "produtos_feitos": 0,
-  "respostas": 4,
+  "respostas": 6,
   "por_post": {
    "18030039716934185": 1,
    "17872733940660048": 1,
-   "18154923289555134": 2
+   "18154923289555134": 4
   }
  },
  "posts": [
@@ -1124,8 +1124,6 @@
   }
  ],
  "respondidos": [
-  "17953055985279373",
-  "17968588355966332",
   "17951515572293600",
   "18132322225672968",
   "17872198713639166",
@@ -4123,7 +4121,9 @@
   "18119279141109685",
   "18099785717396497",
   "18184925044429606",
-  "18109683328982055"
+  "18109683328982055",
+  "17972487516031755",
+  "18110619361976850"
  ],
  "hashes": [
   "903e24488ed2a7c1a35c0b555fc5de5d",
@@ -4743,20 +4743,12 @@
   "_data": "2026-11-26",
   "5a4f6559c6": 2,
   "3a8af678d0": 1,
-  "d0c334f8a4": 1
+  "d0c334f8a4": 1,
+  "2dfa87c7ce": 1,
+  "c03f26b948": 1
  },
  "reservas_checadas": "2026-11-26",
  "ultimas_respostas": [
-  {
-   "t": "dividir a vida desse jeito traz uma solidez que a lei às vezes demora pra acompanhar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "nessa fase de assinar papel o boleto passa a ser dos dois mesmo",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "Verdade, quem fala tudo tem ponto extra no relacionamento 🙏🏼",
    "p": "concorda",
@@ -4896,6 +4888,16 @@
    "t": "rendimento garantido assim pelo menos dá uma paz no fim do mês",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "investir no futuro quando o presente já levou tudo é a parte difícil",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "essa opção exige investimento baixo mas o risco de CPI é alto kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6507,7 +6509,9 @@
   ],
   "18154923289555134": [
    "comecar com cinquenta",
-   "rendimento garantido assim"
+   "rendimento garantido assim",
+   "investir no futuro",
+   "essa opcao exige"
   ]
  },
  "shopee_checada": "2026-11-26|1",
