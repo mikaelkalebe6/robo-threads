@@ -23,7 +23,8 @@
   "feitos": [
    "08:03",
    "09:19",
-   "10:14"
+   "10:14",
+   "10:57"
   ],
   "produtos_feitos": 0,
   "respostas": 9,
@@ -35,38 +36,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18040982102896369",
-   "insp": "prod_58262895607",
-   "link": "",
-   "texto": "Perder chamada no celular guiando e ouvindo barulho de estrada é dose, né? 😂 Descobri esse smartwatch que faz ligação e já vem com três pulseiras por um preço que achei que era erro no sistema. Olha como funciona 👀",
-   "quando": "2026-11-19T10:07:16.091626-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "estrategia": "produto_foto",
-   "formato": "postfoto",
-   "formato_link": "resp",
-   "produto": "58262895607",
-   "link_pendente": false,
-   "prod_dados": {
-    "itemId": "58262895607",
-    "nome": "Smartwatch WL23 PRO(46mm)2026 3 Pulseiras inteligente GPS unisex Esportes Faz Recebe Chamada",
-    "offerLink": "https://s.shopee.com.br/6L68JfUDVL",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mpp5kpuip537a4",
-    "campanha": ""
-   },
-   "metricas": {
-    "views": 127,
-    "likes": 0,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-26"
-   },
-   "link_coment": "https://s.shopee.com.br/6L68JfUDVL",
-   "link_em": "2026-11-20T07:07:08.271040-04:00",
-   "link_views": 0
-  },
   {
    "id": "18121063603804214",
    "insp": "fa26296fcf",
@@ -1103,6 +1072,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: qual comida de boteco vocês pediriam até o fim da vida sabendo que a única alternativa é comer a lasanha congelada que o boy que não assume fez no primeiro encontro para tentar impressionar",
    "quando": "2026-11-26T11:07:09.806459-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18244514149316611",
+   "insp": "fc172f6e0c",
+   "link": "",
+   "texto": "Chega o boy falando que o maior sofrimento da vida dele foi o rebaixamento do time em 2004 e eu já respondo que pior que isso só o meu ex dizendo que a traição foi um investimento de longo prazo. A ilusão com futebol pelo menos acaba no fim do campeonato, mas acreditar em homem romântico é torcer pr",
+   "quando": "2026-11-26T12:37:09.063835-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4109,7 +4086,6 @@
   "18647104261050517"
  ],
  "hashes": [
-  "b4497a0474b36d64e9edcf4bb580630a",
   "2a953a0c762ec5429fcea00b0b29b0a5",
   "4103ab1e3e43916655c6da5609f44488",
   "e4d1a03941fb68967d5b5a94dda34aa8",
@@ -4308,7 +4284,8 @@
   "b6717636a2af170634c456ca0624216b",
   "57ed9073e5f0968e5d3368874a84bc31",
   "65a176690d10ed9c9656d65c087c17f3",
-  "6adc410072addac2e8803bb8ffe9ebdd"
+  "6adc410072addac2e8803bb8ffe9ebdd",
+  "593b1d8b774c25d5bdde462037ad77cd"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4479,7 +4456,6 @@
   "36f567653d": 1793236086.8599896,
   "095d3d6cd4": 1793279254.4351137,
   "1fd8d1a0a2": 1793284700.7855046,
-  "fc172f6e0c": 1793309886.80331,
   "6fc3351715": 1793365691.5429385,
   "911dee6995": 1793369286.8698964,
   "ff37b68cb2": 1793376490.7384787,
@@ -4719,7 +4695,8 @@
   "7e236666a4": 1795657100.1514072,
   "8afd53c3f1": 1795694850.3460946,
   "23a8ecfd7a": 1795703858.524616,
-  "dded827567": 1795705647.3131185
+  "dded827567": 1795705647.3131185,
+  "fc172f6e0c": 1795711055.7449536
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
