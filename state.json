@@ -27,7 +27,8 @@
    "10:57",
    "11:56",
    "13:20",
-   "14:55"
+   "14:55",
+   "16:03"
   ],
   "produtos_feitos": 0,
   "respostas": 11,
@@ -39,24 +40,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18104609207055264",
-   "insp": "7d6d624d0c",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: Homem que passa dos trinta precisa começar a incluir laudo médico e raio-x nos aplicativos de paquera ou o boy já chega com a garantia de fábrica vencida direto? O meu ex me mandou mensagem avisando que a crise de labirintite dele atacou bem na hora de pagar o boleto do motel, eu tô ",
-   "quando": "2026-11-19T21:07:08.370066-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-19T23:37:09.276845-04:00",
-   "metricas": {
-    "views": 285,
-    "likes": 1,
-    "replies": 1,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-26"
-   }
-  },
   {
    "id": "18438967744146475",
    "insp": "c97ba72637",
@@ -1048,6 +1031,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: o único som alto que deveria sair de um carro rebaixado depois dos 25 anos é o choro do motorista lembrando que o alvará da quiropraxia não cobre vértebra estourada na lombada.",
    "quando": "2026-11-26T16:37:08.834284-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18399863665164338",
+   "insp": "c312178704",
+   "link": "",
+   "texto": "SEM MENTIR: vc já chorou no banheiro do trabalho enquanto comia um pão de queijo gelado e pensava em largar tudo pra virar tiktoker de ASMR de capivara?",
+   "quando": "2026-11-26T17:37:09.465385-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4054,7 +4045,6 @@
   "18582808756079527"
  ],
  "hashes": [
-  "54383cc77ecf9fa8e3a9827581c5854f",
   "72645999f08172756ce2948617acbae7",
   "12dd837fb6b4904d7103f8202d1a5dbe",
   "45bfb7e848ddca5a9ec024ace23b76ba",
@@ -4253,7 +4243,8 @@
   "593b1d8b774c25d5bdde462037ad77cd",
   "40b9bec85e7205b4070e0c54b95fbc4f",
   "7b43e152bc5279829bb15d52e451defe",
-  "c3313395ca14f0244607cdaf55efa706"
+  "c3313395ca14f0244607cdaf55efa706",
+  "416fd5ecdf42df323cbce28c05aabc9f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4643,7 +4634,6 @@
   "6e31bac1d7": 1795523851.9181154,
   "d7e44e025a": 1795527447.8614604,
   "55ca636ebf": 1795534654.975997,
-  "c312178704": 1795538252.9664772,
   "3546666699": 1795543655.5974424,
   "1a4df9fa8d": 1795545447.2938218,
   "112111ad3e": 1795550898.2373574,
@@ -4664,7 +4654,8 @@
   "fc172f6e0c": 1795711055.7449536,
   "5efa674a14": 1795718254.0002115,
   "dd26d54eba": 1795720056.2372952,
-  "7bb5b555f8": 1795725486.3098347
+  "7bb5b555f8": 1795725486.3098347,
+  "c312178704": 1795729055.0832002
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
