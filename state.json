@@ -28,33 +28,18 @@
    "08:08",
    "08:59",
    "09:41",
-   "10:24"
+   "10:24",
+   "11:27"
   ],
   "produtos_feitos": 0,
-  "respostas": 3,
+  "respostas": 4,
   "por_post": {
    "18511459831097298": 1,
-   "18140343922570774": 2
+   "18140343922570774": 2,
+   "18132694267935898": 1
   }
  },
  "posts": [
-  {
-   "id": "17996550648027278",
-   "insp": "2b14999174",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: tentei ser a namoradinha do Brasil, educada, respondendo direct em até cinco minutos e aceitando rolê em bar com cheiro de mijo. Resultado? Tomei ghosting de um cara que coleciona funkadão em vinil. A partir de hoje meu lema é virar a ex que assusta a família dele no Natal e ameaç",
-   "quando": "2026-11-21T11:07:08.964285-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 147,
-    "likes": 3,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-27"
-   }
-  },
   {
    "id": "18450022324132652",
    "insp": "8126542588",
@@ -1074,10 +1059,17 @@
    "texto": "DÚVIDA SINCERA: a conta bancária de vocês também tem aquela função de passar vergonha no débito ou é defeito só na minha? Eu juro que tentei guardar dinheiro esse mês, mas aí a inflação olhou pra mim, deu risada, comprou um terreno na lua e ainda me cobrou IPTU. A única reserva que eu tenho é de ódi",
    "quando": "2026-11-27T12:07:09.164740-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18123939902084382",
+   "insp": "fb3aa2715c",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: a única função real de ir a aniversário de criança de três anos é disputar tapa na traquei com os tios no raio gourmet de coxinha e tentar embolsar um tupperware inteiro de brigadeiro pra disfarçar o IPVA atrasado. Qual foi a maior atrocidade que você já cometeu por um salgadinho",
+   "quando": "2026-11-27T13:07:08.591908-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18088505984256257",
   "18490255861107824",
   "18097751180558835",
   "18065605391784754",
@@ -4076,10 +4068,10 @@
   "17999213781066560",
   "18120972608013524",
   "18155333482551470",
-  "18655002262060673"
+  "18655002262060673",
+  "18358175545264717"
  ],
  "hashes": [
-  "b034aeb1facbc7f33ca371dfd0561fb8",
   "981ec72df27b67f438cb730bfde89f4b",
   "245ef317dfb41ec55a229e1685c7abb3",
   "ba60b253bdd6530009bf6c2672a0099b",
@@ -4278,7 +4270,8 @@
   "7c1160c9fed1bd4697dd0d2654a58273",
   "c9ae17fc65742f0c849f07bc73872dbb",
   "425bed4cff0dd95ca356d4a9dd2cae15",
-  "c52786b497521814e2bcbfa5576e9289"
+  "c52786b497521814e2bcbfa5576e9289",
+  "f273cfc7d043b575b0a3ada1d84a8d89"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4361,7 +4354,6 @@
   "1ad1290613": 1791914896.075832,
   "54cb923235": 1791925655.3801472,
   "c192019942": 1791943733.6456878,
-  "fb3aa2715c": 1791979648.075333,
   "e849a7e6a9": 1791985050.7143126,
   "89cdd01f02": 1792006647.4343123,
   "613abd5c08": 1792067892.1591535,
@@ -4689,22 +4681,18 @@
   "5b9cf279c9": 1795783089.2500162,
   "63b1ece74f": 1795788492.7935221,
   "54dc948734": 1795792045.919192,
-  "8afd53c3f1": 1795795694.5685878
+  "8afd53c3f1": 1795795694.5685878,
+  "fb3aa2715c": 1795799250.3569694
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-11-27",
   "626574c30b": 1,
-  "3a4f6eb0bb": 1,
+  "3a4f6eb0bb": 2,
   "5d2692b82e": 1
  },
  "reservas_checadas": "2026-11-27",
  "ultimas_respostas": [
-  {
-   "t": "kkkkk somos parceiros na falência, vc também divide o boleto?",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "Verdade, já estava certa",
    "p": "concorda",
@@ -4849,6 +4837,11 @@
    "t": "medo de depender dos outros é o que faz a gente tentar de tudo",
    "p": "ressalva",
    "r": 0
+  },
+  {
+   "t": "psicopatia não, terapia preventiva bem econômica kkkk",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6266,11 +6259,6 @@
   }
  ],
  "aberturas_post": {
-  "18438967744146475": [
-   "minha mente ja",
-   "imagino o cansaco",
-   "perder o arroz"
-  ],
   "18001391246829257": [
    "descobriu foi o",
    "pesado mas quem",
@@ -6463,6 +6451,9 @@
   "18140343922570774": [
    "essa aposentadoria precoce",
    "medo de depender"
+  ],
+  "18132694267935898": [
+   "psicopatia nao terapia"
   ]
  },
  "shopee_checada": "2026-11-27|1",
