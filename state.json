@@ -34,7 +34,8 @@
    "13:44",
    "14:25",
    "16:58",
-   "15:05"
+   "15:05",
+   "17:51"
   ],
   "produtos_feitos": 0,
   "respostas": 7,
@@ -47,23 +48,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17915066049568172",
-   "insp": "d9cd77c4a6",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Google Maps acha que minha maior vocação na vida é dar ré em rua sem saída de favela só porque o algoritmo acordou com espírito de criminoso digital. O melhor GPS do Brasil continua sendo perguntar para o frentista do posto de gasolina que já viu corno fugir, amante ser chutada do",
-   "quando": "2026-11-21T19:07:08.309832-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 57,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-27"
-   }
-  },
   {
    "id": "18134007500488263",
    "insp": "a5b0a002b5",
@@ -1037,6 +1021,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: a linha de crédito da família de vocês também é tratada como fundo perdido do BNDES ou só o meu limite que virou patrimônio público da parentada?",
    "quando": "2026-11-27T18:37:11.020964-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18085394804367161",
+   "insp": "aa28edd6a1",
+   "link": "",
+   "texto": "Passei três dias colando EVA, glitter e papelão pra ir na festa fantasiada de inflação de dois dígitos e o povo achando que eu era só um abacate deprimido. \n\nO boy olhou pra mim e soltou: nossa, que criativo, tá de imposto atrasado. \n\nAlguém aqui já teve a dignidade destruída por falta de interpreta",
+   "quando": "2026-11-27T19:07:07.510760-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4043,7 +4035,6 @@
   "18096382862481427"
  ],
  "hashes": [
-  "54d5f74616c85277e7a24ec745a2e74f",
   "0d39caef1ca9881ec5268dd39de8e511",
   "dd86ac50af1a1bddcecdec80447a0cd0",
   "8683de370303c1d303ba4f137f0c5f1a",
@@ -4242,7 +4233,8 @@
   "e5d19345eb050d699c2d4af2e03af75b",
   "50077c50b1d9c64a4e4b474536ebd89a",
   "c524359d792ee1d79edbe9090f661fb9",
-  "0473a4cefc157b8cb9cb57cc5f9964f5"
+  "0473a4cefc157b8cb9cb57cc5f9964f5",
+  "e70ccfcc442829e5e77214c121d11983"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4391,7 +4383,6 @@
   "70192e2aab": 1793050646.2488854,
   "5267cbb0dc": 1793065089.76041,
   "2605ac3685": 1793106470.5231354,
-  "aa28edd6a1": 1793110088.7743607,
   "1c1d414be8": 1793119065.6566234,
   "4b99e3a872": 1793124470.8923373,
   "a05db3f0dd": 1793137092.3311388,
@@ -4653,7 +4644,8 @@
   "911dee6995": 1795802845.1869116,
   "573ba90908": 1795808290.4604218,
   "ef980ef49f": 1795810044.601295,
-  "0046da4da8": 1795819088.1197355
+  "0046da4da8": 1795819088.1197355,
+  "aa28edd6a1": 1795820886.6931822
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
