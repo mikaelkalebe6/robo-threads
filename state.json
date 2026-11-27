@@ -25,30 +25,14 @@
    "19:15"
   ],
   "feitos": [
-   "08:08"
+   "08:08",
+   "08:59"
   ],
   "produtos_feitos": 0,
   "respostas": 0,
   "por_post": {}
  },
  "posts": [
-  {
-   "id": "18112368254239008",
-   "insp": "962dfe5354",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: vocês já se apaixonaram por alguém só pelo áudio do zap e na hora que viram a pessoa pessoalmente parece que o boleto venceu ontem? a criatura tem a voz do Barry White na velocidade 1.5, mas ao vivo tem a exata energia de quem come reboco de parede. juro, fiquei três dias planejando ",
-   "quando": "2026-11-20T20:07:17.258203-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 194,
-    "likes": 2,
-    "replies": 2,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-27"
-   }
-  },
   {
    "id": "18095751749197555",
    "insp": "c638d9ff81",
@@ -1094,6 +1078,14 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: a pessoa que vai de moto trabalhar na chuva tá juntando pontos pra qual divindade do caos? porque olha, entre virar recheio de caminhão de lixo ou chegar no escritório fedendo a cachorro molhado e com a alma em 3x sem juros, eu prefiro ir morar na rua e pedir PIX no semáforo. Vocês r",
    "quando": "2026-11-27T08:37:08.182087-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18112408772218176",
+   "insp": "63b1ece74f",
+   "link": "",
+   "texto": "VAMOS SER HONESTOS: qual comida da sua região você jura que é a melhor do Brasil só porque sua avó ameaçava excomungar quem criticasse",
+   "quando": "2026-11-27T10:07:08.636237-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4100,7 +4092,6 @@
   "17999213781066560"
  ],
  "hashes": [
-  "bd17d8227f63d98107ea2a3d92660257",
   "29f358b5df53aa63ffe90f8c87f0f0e3",
   "2e703a3d588fa32855e6929e3dcdbdb9",
   "b034aeb1facbc7f33ca371dfd0561fb8",
@@ -4299,7 +4290,8 @@
   "bbcd4f5a461675ddc24452b658ef63ae",
   "9554acf8229b4a4852ca52a8824ba151",
   "615a2cf32fdfb43bca9299063a88caf9",
-  "7c1160c9fed1bd4697dd0d2654a58273"
+  "7c1160c9fed1bd4697dd0d2654a58273",
+  "c9ae17fc65742f0c849f07bc73872dbb"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4580,7 +4572,6 @@
   "20b4497ce2": 1794505074.5405226,
   "e38b1c2eb7": 1794508701.7960765,
   "c422eac36b": 1794512293.0169692,
-  "63b1ece74f": 1794523092.6620424,
   "68d405bd4e": 1794528492.656194,
   "42105a2390": 1794530243.3526776,
   "3a347dea45": 1794532041.0352526,
@@ -4710,7 +4701,8 @@
   "d74ec1b0c0": 1795738094.1215944,
   "a1c2ae306e": 1795741651.2250817,
   "3ef9800d4d": 1795747047.3618524,
-  "5b9cf279c9": 1795783089.2500162
+  "5b9cf279c9": 1795783089.2500162,
+  "63b1ece74f": 1795788492.7935221
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
