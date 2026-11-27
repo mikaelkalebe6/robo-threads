@@ -30,8 +30,10 @@
    "09:41"
   ],
   "produtos_feitos": 0,
-  "respostas": 0,
-  "por_post": {}
+  "respostas": 1,
+  "por_post": {
+   "18511459831097298": 1
+  }
  },
  "posts": [
   {
@@ -1082,7 +1084,6 @@
   }
  ],
  "respondidos": [
-  "18137974489621052",
   "17919343977241246",
   "18171910147454725",
   "18088505984256257",
@@ -4081,7 +4082,8 @@
   "18582808756079527",
   "17950098150379971",
   "18114376043229145",
-  "17999213781066560"
+  "17999213781066560",
+  "18120972608013524"
  ],
  "hashes": [
   "2e703a3d588fa32855e6929e3dcdbdb9",
@@ -4698,15 +4700,11 @@
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
-  "_data": "2026-11-27"
+  "_data": "2026-11-27",
+  "626574c30b": 1
  },
  "reservas_checadas": "2026-11-27",
  "ultimas_respostas": [
-  {
-   "t": "cada um cuidando da sua parte o boleto vem mais leve",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "organizar os impostos juntos assim mostra que a parceria vai além do papel kkkk",
    "p": "concorda",
@@ -4851,6 +4849,11 @@
    "t": "parece roteiro pronto de um dia normal de escritório kkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "tá tudo bem sim, só trauma de vizinhança mesmo",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6268,20 +6271,6 @@
   }
  ],
  "aberturas_post": {
-  "18121063603804214": [
-   "curitibana raiz nao",
-   "parque parece otimo",
-   "paguei so o",
-   "totalmente indefensavel o",
-   "pelo menos ja",
-   "bora pedir o",
-   "formiga crocante ja",
-   "pior que a",
-   "converso antes justamente",
-   "otaria foi pouco",
-   "se ele quiser",
-   "procedimento corretissimo aprendizado"
-  ],
   "18062665283584810": [
    "livre arbitrio na",
    "verdade melhor sozinha"
@@ -6476,6 +6465,9 @@
   ],
   "18399863665164338": [
    "parece roteiro pronto"
+  ],
+  "18511459831097298": [
+   "ta tudo bem"
   ]
  },
  "shopee_checada": "2026-11-27|1",
