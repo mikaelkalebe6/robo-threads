@@ -32,7 +32,9 @@
    "11:27",
    "13:04",
    "13:44",
-   "14:25"
+   "14:25",
+   "16:58",
+   "15:05"
   ],
   "produtos_feitos": 0,
   "respostas": 7,
@@ -45,23 +47,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17957195529284107",
-   "insp": "cc277cae04",
-   "link": "",
-   "texto": "VAMOS SER HONESTOS: o manual do carro é aquele livrinho que a gente só abre quando acende uma luz vermelha que parece a logo do capeta e o painel vira uma árvore de natal. aí você descobre que o carro tá com febre e você que vai ter que pagar o remédio. vocês realmente leem aquilo antes ou só descob",
-   "quando": "2026-11-21T17:07:09.642289-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 195,
-    "likes": 2,
-    "replies": 5,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-27"
-   }
-  },
   {
    "id": "17915066049568172",
    "insp": "d9cd77c4a6",
@@ -1044,6 +1029,14 @@
    "link": "",
    "texto": "Encontro bom é aquele que a química tá tão forte que você esquece de olhar a hora e quando finalmente olha, já passou o horário do rodízio, o metrô fechou, o motorista de aplicativo cancelou três vezes e você tá cogitando pedir abrigo num posto de gasolina às quatro da manhã. \n\nVocês já passaram por",
    "quando": "2026-11-27T16:07:08.711692-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17937732591143313",
+   "insp": "0046da4da8",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a linha de crédito da família de vocês também é tratada como fundo perdido do BNDES ou só o meu limite que virou patrimônio público da parentada?",
+   "quando": "2026-11-27T18:37:11.020964-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4050,7 +4043,6 @@
   "18096382862481427"
  ],
  "hashes": [
-  "0367ff78577717d903959993a362687d",
   "54d5f74616c85277e7a24ec745a2e74f",
   "0d39caef1ca9881ec5268dd39de8e511",
   "dd86ac50af1a1bddcecdec80447a0cd0",
@@ -4249,7 +4241,8 @@
   "f273cfc7d043b575b0a3ada1d84a8d89",
   "e5d19345eb050d699c2d4af2e03af75b",
   "50077c50b1d9c64a4e4b474536ebd89a",
-  "c524359d792ee1d79edbe9090f661fb9"
+  "c524359d792ee1d79edbe9090f661fb9",
+  "0473a4cefc157b8cb9cb57cc5f9964f5"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4404,7 +4397,6 @@
   "a05db3f0dd": 1793137092.3311388,
   "5760d94547": 1793144294.4001164,
   "3125348bad": 1793153250.330989,
-  "0046da4da8": 1793192851.2663953,
   "a46755f7b9": 1793207258.8348277,
   "1625f98254": 1793209089.0608096,
   "8875ec01b3": 1793228854.8775113,
@@ -4660,7 +4652,8 @@
   "fb3aa2715c": 1795799250.3569694,
   "911dee6995": 1795802845.1869116,
   "573ba90908": 1795808290.4604218,
-  "ef980ef49f": 1795810044.601295
+  "ef980ef49f": 1795810044.601295,
+  "0046da4da8": 1795819088.1197355
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
