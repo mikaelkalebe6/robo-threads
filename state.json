@@ -24,29 +24,14 @@
    "15:05",
    "19:15"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:08"
+  ],
   "produtos_feitos": 0,
   "respostas": 0,
   "por_post": {}
  },
  "posts": [
-  {
-   "id": "17888396106504772",
-   "insp": "8b38fc3868",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a partir de qual idade a gente olha pro boleto da luz vencido, aceita que meu pai tava certo sobre a desgraça da lâmpada acesa e começa a correr atrás da família inteira igual um sargento da reserva gritando na sala?",
-   "quando": "2026-11-20T16:07:09.640629-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 94,
-    "likes": 1,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-27"
-   }
-  },
   {
    "id": "18112368254239008",
    "insp": "962dfe5354",
@@ -1102,6 +1087,14 @@
     "shares": 0,
     "em": "2026-11-27"
    }
+  },
+  {
+   "id": "18048622565835448",
+   "insp": "5b9cf279c9",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a pessoa que vai de moto trabalhar na chuva tá juntando pontos pra qual divindade do caos? porque olha, entre virar recheio de caminhão de lixo ou chegar no escritório fedendo a cachorro molhado e com a alma em 3x sem juros, eu prefiro ir morar na rua e pedir PIX no semáforo. Vocês r",
+   "quando": "2026-11-27T08:37:08.182087-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4107,7 +4100,6 @@
   "17999213781066560"
  ],
  "hashes": [
-  "4d02d3cd6533b87547cd9a6c5551913a",
   "bd17d8227f63d98107ea2a3d92660257",
   "29f358b5df53aa63ffe90f8c87f0f0e3",
   "2e703a3d588fa32855e6929e3dcdbdb9",
@@ -4306,7 +4298,8 @@
   "a02389cf1f6fea1e08319eef95518970",
   "bbcd4f5a461675ddc24452b658ef63ae",
   "9554acf8229b4a4852ca52a8824ba151",
-  "615a2cf32fdfb43bca9299063a88caf9"
+  "615a2cf32fdfb43bca9299063a88caf9",
+  "7c1160c9fed1bd4697dd0d2654a58273"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4504,7 +4497,6 @@
   "31d5ff1cab": 1793655452.9774752,
   "a97ae3ae12": 1793657276.5510592,
   "3c191ef8b8": 1793666242.5047946,
-  "5b9cf279c9": 1793668043.6286292,
   "43ee3055b5": 1793718474.3212643,
   "134d436301": 1793738289.3725514,
   "b8bafc8bd6": 1793797665.4475825,
@@ -4717,7 +4709,8 @@
   "dce953f387": 1795730852.277333,
   "d74ec1b0c0": 1795738094.1215944,
   "a1c2ae306e": 1795741651.2250817,
-  "3ef9800d4d": 1795747047.3618524
+  "3ef9800d4d": 1795747047.3618524,
+  "5b9cf279c9": 1795783089.2500162
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
