@@ -30,36 +30,20 @@
    "09:41",
    "10:24",
    "11:27",
-   "13:04"
+   "13:04",
+   "13:44"
   ],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 7,
   "por_post": {
    "18511459831097298": 1,
    "18140343922570774": 2,
    "18132694267935898": 1,
-   "18112408772218176": 1,
+   "18112408772218176": 2,
    "18079732655779642": 1
   }
  },
  "posts": [
-  {
-   "id": "18196526386398981",
-   "insp": "fb0beb9a45",
-   "link": "",
-   "texto": "PESSOAS QUE VIAJAM MUITO: o perrengue não é perder o voo, é você olhar pro lado no aeroporto e descobrir que o boy tava mandando bom dia com carinha de apaixonado pro Uber dele enquanto fingia que lia um livro cult pra parecer misterioso. Qual foi a maior humilhação que o turismo te proporcionou?",
-   "quando": "2026-11-21T14:37:08.222110-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 143,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-27"
-   }
-  },
   {
    "id": "18077290511765735",
    "insp": "607a9f8d64",
@@ -1061,10 +1045,17 @@
    "texto": "Eu: amor, esse barulho de batedeira misturada com grilo agonizando no motor é normal?\nEle: total, relaxa, é só o alternador conversando com a correia.\nA correia: socorro me tira daqui a qualquer momento vou estourar na sua cara numa segunda-feira chovendo na marginal.\n\nVocês também confiam cegamente",
    "quando": "2026-11-27T14:07:08.702155-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18139515046647844",
+   "insp": "573ba90908",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: se o VMA rolasse no Brasil com o orçamento de um churrasco de fim de ano da firma, a briga generalizada por causa de playback ia acontecer antes ou depois da coxinha congelada acabar?",
+   "quando": "2026-11-27T15:37:09.314246-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18065605391784754",
   "18151631005540367",
   "17914382115496659",
   "18147274030560183",
@@ -4063,10 +4054,10 @@
   "18655002262060673",
   "18358175545264717",
   "18106715705633519",
-  "18173453575479670"
+  "18173453575479670",
+  "18096382862481427"
  ],
  "hashes": [
-  "245ef317dfb41ec55a229e1685c7abb3",
   "ba60b253bdd6530009bf6c2672a0099b",
   "0367ff78577717d903959993a362687d",
   "54d5f74616c85277e7a24ec745a2e74f",
@@ -4265,14 +4256,14 @@
   "425bed4cff0dd95ca356d4a9dd2cae15",
   "c52786b497521814e2bcbfa5576e9289",
   "f273cfc7d043b575b0a3ada1d84a8d89",
-  "e5d19345eb050d699c2d4af2e03af75b"
+  "e5d19345eb050d699c2d4af2e03af75b",
+  "50077c50b1d9c64a4e4b474536ebd89a"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
   "7d71edeab3": 1790620679.9542685,
   "d12059d204": 1790636883.6793935,
   "4c34f415ce": 1790690916.9672582,
-  "573ba90908": 1790725049.010326,
   "09e842892c": 1790726852.4957767,
   "6447474ad3": 1790730448.4125926,
   "018fcf3621": 1790782693.9690814,
@@ -4676,7 +4667,8 @@
   "54dc948734": 1795792045.919192,
   "8afd53c3f1": 1795795694.5685878,
   "fb3aa2715c": 1795799250.3569694,
-  "911dee6995": 1795802845.1869116
+  "911dee6995": 1795802845.1869116,
+  "573ba90908": 1795808290.4604218
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4685,15 +4677,11 @@
   "3a4f6eb0bb": 2,
   "5d2692b82e": 1,
   "d109db9df4": 1,
-  "fcf8949395": 1
+  "fcf8949395": 1,
+  "3a0fdb2b5b": 1
  },
  "reservas_checadas": "2026-11-27",
  "ultimas_respostas": [
-  {
-   "t": "Então basta abrir o portal da transparência e conferir",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "dividir tudo certinho assim da paz né kkk",
    "p": "concorda",
@@ -4837,6 +4825,11 @@
   {
    "t": "exatamente, no fim é tudo na base da sorte e da fé mesmo",
    "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "zerou a competição de afeto familiar por excomunhão",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6438,7 +6431,8 @@
    "psicopatia nao terapia"
   ],
   "18112408772218176": [
-   "perdeu as broncas"
+   "perdeu as broncas",
+   "zerou a competicao"
   ],
   "18079732655779642": [
    "exatamente no fim"
