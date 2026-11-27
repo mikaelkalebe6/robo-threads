@@ -27,7 +27,8 @@
   "feitos": [
    "08:08",
    "08:59",
-   "09:41"
+   "09:41",
+   "10:24"
   ],
   "produtos_feitos": 0,
   "respostas": 1,
@@ -36,23 +37,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17901419463393485",
-   "insp": "31ea134865",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual barulho de carro faz o seu cérebro imediatamente calcular o valor de um rim no mercado negro? O meu é aquele som que parece um gato engasgando com uma panela de pressão, seguido pela luz da injeção acendendo firme só pra testar minha fé em Deus. \n\nVocês preferem chorar no capô o",
-   "quando": "2026-11-21T10:37:08.968754-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 65,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-27"
-   }
-  },
   {
    "id": "17996550648027278",
    "insp": "2b14999174",
@@ -1080,6 +1064,14 @@
    "link": "",
    "texto": "PESSOAS QUE MUDARAM DE CIDADE: do que vocês mais sentem falta além da ex vizinha fofoqueira que sabia exatamente a que horas o seu boy da traição pulava o muro usando a calça do pijama de flanela do Garfield?",
    "quando": "2026-11-27T11:07:10.644342-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18140343922570774",
+   "insp": "8afd53c3f1",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a conta bancária de vocês também tem aquela função de passar vergonha no débito ou é defeito só na minha? Eu juro que tentei guardar dinheiro esse mês, mas aí a inflação olhou pra mim, deu risada, comprou um terreno na lua e ainda me cobrou IPTU. A única reserva que eu tenho é de ódi",
+   "quando": "2026-11-27T12:07:09.164740-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4086,7 +4078,6 @@
   "18120972608013524"
  ],
  "hashes": [
-  "2e703a3d588fa32855e6929e3dcdbdb9",
   "b034aeb1facbc7f33ca371dfd0561fb8",
   "981ec72df27b67f438cb730bfde89f4b",
   "245ef317dfb41ec55a229e1685c7abb3",
@@ -4285,7 +4276,8 @@
   "615a2cf32fdfb43bca9299063a88caf9",
   "7c1160c9fed1bd4697dd0d2654a58273",
   "c9ae17fc65742f0c849f07bc73872dbb",
-  "425bed4cff0dd95ca356d4a9dd2cae15"
+  "425bed4cff0dd95ca356d4a9dd2cae15",
+  "c52786b497521814e2bcbfa5576e9289"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4682,7 +4674,6 @@
   "5f95698f56": 1795648047.0580792,
   "58ac2ae535": 1795653446.1286354,
   "7e236666a4": 1795657100.1514072,
-  "8afd53c3f1": 1795694850.3460946,
   "23a8ecfd7a": 1795703858.524616,
   "dded827567": 1795705647.3131185,
   "fc172f6e0c": 1795711055.7449536,
@@ -4696,7 +4687,8 @@
   "3ef9800d4d": 1795747047.3618524,
   "5b9cf279c9": 1795783089.2500162,
   "63b1ece74f": 1795788492.7935221,
-  "54dc948734": 1795792045.919192
+  "54dc948734": 1795792045.919192,
+  "8afd53c3f1": 1795795694.5685878
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
