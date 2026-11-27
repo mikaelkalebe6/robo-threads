@@ -26,30 +26,14 @@
   ],
   "feitos": [
    "08:08",
-   "08:59"
+   "08:59",
+   "09:41"
   ],
   "produtos_feitos": 0,
   "respostas": 0,
   "por_post": {}
  },
  "posts": [
-  {
-   "id": "18095751749197555",
-   "insp": "c638d9ff81",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: prefere passar uma semana sem internet ou um mês inteiro sem comer doce? \n\nMeu cérebro coringou achando que um mês sem doce é de boa, mas aí lembrei que na terceira semana sem açúcar eu já estaria aceitando PIX de golpista só para comprar um Sonho de Valsa escondida no armário da coz",
-   "quando": "2026-11-20T22:37:13.462310-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 87,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-27"
-   }
-  },
   {
    "id": "17901419463393485",
    "insp": "31ea134865",
@@ -1086,6 +1070,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: qual comida da sua região você jura que é a melhor do Brasil só porque sua avó ameaçava excomungar quem criticasse",
    "quando": "2026-11-27T10:07:08.636237-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18511459831097298",
+   "insp": "54dc948734",
+   "link": "",
+   "texto": "PESSOAS QUE MUDARAM DE CIDADE: do que vocês mais sentem falta além da ex vizinha fofoqueira que sabia exatamente a que horas o seu boy da traição pulava o muro usando a calça do pijama de flanela do Garfield?",
+   "quando": "2026-11-27T11:07:10.644342-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4092,7 +4084,6 @@
   "17999213781066560"
  ],
  "hashes": [
-  "29f358b5df53aa63ffe90f8c87f0f0e3",
   "2e703a3d588fa32855e6929e3dcdbdb9",
   "b034aeb1facbc7f33ca371dfd0561fb8",
   "981ec72df27b67f438cb730bfde89f4b",
@@ -4291,7 +4282,8 @@
   "9554acf8229b4a4852ca52a8824ba151",
   "615a2cf32fdfb43bca9299063a88caf9",
   "7c1160c9fed1bd4697dd0d2654a58273",
-  "c9ae17fc65742f0c849f07bc73872dbb"
+  "c9ae17fc65742f0c849f07bc73872dbb",
+  "425bed4cff0dd95ca356d4a9dd2cae15"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4396,7 +4388,6 @@
   "d5e042b763": 1792350456.4683714,
   "3394e0a232": 1792359441.2228508,
   "63b327e43d": 1792363057.593114,
-  "54dc948734": 1792375654.3754094,
   "a998017f2f": 1792413453.4373097,
   "1918758b46": 1792420653.077342,
   "5d187cad11": 1792426040.4519188,
@@ -4702,7 +4693,8 @@
   "a1c2ae306e": 1795741651.2250817,
   "3ef9800d4d": 1795747047.3618524,
   "5b9cf279c9": 1795783089.2500162,
-  "63b1ece74f": 1795788492.7935221
+  "63b1ece74f": 1795788492.7935221,
+  "54dc948734": 1795792045.919192
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
