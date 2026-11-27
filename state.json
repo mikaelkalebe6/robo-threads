@@ -33,12 +33,13 @@
    "13:04"
   ],
   "produtos_feitos": 0,
-  "respostas": 5,
+  "respostas": 6,
   "por_post": {
    "18511459831097298": 1,
    "18140343922570774": 2,
    "18132694267935898": 1,
-   "18112408772218176": 1
+   "18112408772218176": 1,
+   "18079732655779642": 1
   }
  },
  "posts": [
@@ -1063,7 +1064,6 @@
   }
  ],
  "respondidos": [
-  "18097751180558835",
   "18065605391784754",
   "18151631005540367",
   "17914382115496659",
@@ -4062,7 +4062,8 @@
   "18155333482551470",
   "18655002262060673",
   "18358175545264717",
-  "18106715705633519"
+  "18106715705633519",
+  "18173453575479670"
  ],
  "hashes": [
   "245ef317dfb41ec55a229e1685c7abb3",
@@ -4683,15 +4684,11 @@
   "626574c30b": 1,
   "3a4f6eb0bb": 2,
   "5d2692b82e": 1,
-  "d109db9df4": 1
+  "d109db9df4": 1,
+  "fcf8949395": 1
  },
  "reservas_checadas": "2026-11-27",
  "ultimas_respostas": [
-  {
-   "t": "seguro contra segredos kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "Então basta abrir o portal da transparência e conferir",
    "p": "neutra",
@@ -4835,6 +4832,11 @@
   {
    "t": "perdeu as broncas mas ganhou paz na cozinha",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "exatamente, no fim é tudo na base da sorte e da fé mesmo",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6253,15 +6255,6 @@
   }
  ],
  "aberturas_post": {
-  "17874686565645901": [
-   "um carro vintage",
-   "zero e por",
-   "quatro anos rodando",
-   "comparacao justa porque",
-   "maverick vermelho em",
-   "dois anos sem",
-   "troca justa porque"
-  ],
   "18112368254239008": [
    "voz zoada mas"
   ],
@@ -6446,6 +6439,9 @@
   ],
   "18112408772218176": [
    "perdeu as broncas"
+  ],
+  "18079732655779642": [
+   "exatamente no fim"
   ]
  },
  "shopee_checada": "2026-11-27|1",
