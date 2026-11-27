@@ -30,7 +30,8 @@
    "14:55",
    "16:03",
    "17:55",
-   "19:38"
+   "19:38",
+   "20:33"
   ],
   "produtos_feitos": 0,
   "respostas": 14,
@@ -43,23 +44,6 @@
   }
  },
  "posts": [
-  {
-   "id": "17874686565645901",
-   "insp": "7f395074e1",
-   "link": "",
-   "texto": "SEM MENTIR: qual foi o primeiro carro de vocês e quanto pagaram nele? O meu foi um Corsa que fazia um barulho de cafeteira quebrada, a porta do carona só abria por dentro e eu paguei doze vezes a minha dignidade e um boleto de IPTU atrasado. O pior nem foi o preço, foi descobrir no primeiro morro qu",
-   "quando": "2026-11-20T14:37:10.139824-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 652,
-    "likes": 2,
-    "replies": 17,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-26"
-   }
-  },
   {
    "id": "18159001912517103",
    "insp": "e1ce0fd268",
@@ -1024,6 +1008,14 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: o jogo que marcou minha infância foi o The Sims, mas eu só jogava para criar o ex que me traiu, colocar ele numa piscina sem escada e esperar o trágico fim enquanto eu comia trakinas. Quem nunca fez terapia econômica e psicológica assim aos dez anos?",
    "quando": "2026-11-26T20:07:09.301935-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18110593766630758",
+   "insp": "a1c2ae306e",
+   "link": "",
+   "texto": "VAMOS CONCORDAR: o meu extrato bancário chegou no estágio de aceitar Pix em troca de um abraço e um vale-oração. Quero saber se vocês também financiam a aposentadoria do motoboy do iFood todo mês ou se só eu que pareço sócia oculta da rede de fast food.",
+   "quando": "2026-11-26T21:07:09.051436-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4030,7 +4022,6 @@
   "17999213781066560"
  ],
  "hashes": [
-  "45bfb7e848ddca5a9ec024ace23b76ba",
   "bb3f05e0e4ad34ea9783c66de2473c49",
   "4d02d3cd6533b87547cd9a6c5551913a",
   "bd17d8227f63d98107ea2a3d92660257",
@@ -4229,7 +4220,8 @@
   "c3313395ca14f0244607cdaf55efa706",
   "416fd5ecdf42df323cbce28c05aabc9f",
   "a02389cf1f6fea1e08319eef95518970",
-  "bbcd4f5a461675ddc24452b658ef63ae"
+  "bbcd4f5a461675ddc24452b658ef63ae",
+  "9554acf8229b4a4852ca52a8824ba151"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4370,7 +4362,6 @@
   "ba30bb89b0": 1792805884.0814035,
   "31631bee08": 1792861687.3606534,
   "23052490c4": 1792872469.8408012,
-  "a1c2ae306e": 1792876083.525706,
   "60aee01b67": 1792939046.8483899,
   "30cb84bf04": 1792958842.2132401,
   "9511ce0bfa": 1792967893.077666,
@@ -4640,7 +4631,8 @@
   "7bb5b555f8": 1795725486.3098347,
   "c312178704": 1795729055.0832002,
   "dce953f387": 1795730852.277333,
-  "d74ec1b0c0": 1795738094.1215944
+  "d74ec1b0c0": 1795738094.1215944,
+  "a1c2ae306e": 1795741651.2250817
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
