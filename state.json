@@ -31,7 +31,8 @@
    "16:03",
    "17:55",
    "19:38",
-   "20:33"
+   "20:33",
+   "21:20"
   ],
   "produtos_feitos": 0,
   "respostas": 14,
@@ -44,23 +45,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18159001912517103",
-   "insp": "e1ce0fd268",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: Juro que não aguento mais competir com o Relâmpago McQueen pelo afeto do meu namorado. O maluco prefere colocar o DVD do Carros numa sexta-feira à noite do que ver qualquer outra coisa, e ainda fica com os olhos brilhando igualzinho quando a gente passa naqueles radares de 40 por ",
-   "quando": "2026-11-20T15:37:08.421283-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 89,
-    "likes": 0,
-    "replies": 2,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-26"
-   }
-  },
   {
    "id": "17888396106504772",
    "insp": "8b38fc3868",
@@ -1016,6 +1000,14 @@
    "link": "",
    "texto": "VAMOS CONCORDAR: o meu extrato bancário chegou no estágio de aceitar Pix em troca de um abraço e um vale-oração. Quero saber se vocês também financiam a aposentadoria do motoboy do iFood todo mês ou se só eu que pareço sócia oculta da rede de fast food.",
    "quando": "2026-11-26T21:07:09.051436-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18099804107480263",
+   "insp": "3ef9800d4d",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: deixar o carona escolher a música na viagem de carro é grounds for divorce imediato ou vocês ainda tentam dialogar com quem bota sertanejo universitário às três da manhã na Dutra?",
+   "quando": "2026-11-26T22:37:07.882504-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4022,7 +4014,6 @@
   "17999213781066560"
  ],
  "hashes": [
-  "bb3f05e0e4ad34ea9783c66de2473c49",
   "4d02d3cd6533b87547cd9a6c5551913a",
   "bd17d8227f63d98107ea2a3d92660257",
   "29f358b5df53aa63ffe90f8c87f0f0e3",
@@ -4221,7 +4212,8 @@
   "416fd5ecdf42df323cbce28c05aabc9f",
   "a02389cf1f6fea1e08319eef95518970",
   "bbcd4f5a461675ddc24452b658ef63ae",
-  "9554acf8229b4a4852ca52a8824ba151"
+  "9554acf8229b4a4852ca52a8824ba151",
+  "615a2cf32fdfb43bca9299063a88caf9"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4452,7 +4444,6 @@
   "048fecc76e": 1794017284.4860115,
   "e6849630fe": 1794056839.9159582,
   "16918d1a30": 1794065843.5841568,
-  "3ef9800d4d": 1794067697.2892349,
   "a6880f3186": 1794071293.8193247,
   "da0bcb8dad": 1794082048.1856525,
   "e5954341f1": 1794087491.8681405,
@@ -4632,7 +4623,8 @@
   "c312178704": 1795729055.0832002,
   "dce953f387": 1795730852.277333,
   "d74ec1b0c0": 1795738094.1215944,
-  "a1c2ae306e": 1795741651.2250817
+  "a1c2ae306e": 1795741651.2250817,
+  "3ef9800d4d": 1795747047.3618524
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
