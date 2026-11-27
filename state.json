@@ -31,9 +31,10 @@
    "10:24"
   ],
   "produtos_feitos": 0,
-  "respostas": 1,
+  "respostas": 3,
   "por_post": {
-   "18511459831097298": 1
+   "18511459831097298": 1,
+   "18140343922570774": 2
   }
  },
  "posts": [
@@ -1076,8 +1077,6 @@
   }
  ],
  "respondidos": [
-  "17919343977241246",
-  "18171910147454725",
   "18088505984256257",
   "18490255861107824",
   "18097751180558835",
@@ -4075,7 +4074,9 @@
   "17950098150379971",
   "18114376043229145",
   "17999213781066560",
-  "18120972608013524"
+  "18120972608013524",
+  "18155333482551470",
+  "18655002262060673"
  ],
  "hashes": [
   "b034aeb1facbc7f33ca371dfd0561fb8",
@@ -4693,20 +4694,12 @@
  "eu": "lorenafleck_",
  "por_pessoa": {
   "_data": "2026-11-27",
-  "626574c30b": 1
+  "626574c30b": 1,
+  "3a4f6eb0bb": 1,
+  "5d2692b82e": 1
  },
  "reservas_checadas": "2026-11-27",
  "ultimas_respostas": [
-  {
-   "t": "organizar os impostos juntos assim mostra que a parceria vai além do papel kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "integração total que o pix de vocês deve rodar sozinho kkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "kkkkk somos parceiros na falência, vc também divide o boleto?",
    "p": "concorda",
@@ -4845,6 +4838,16 @@
   {
    "t": "tá tudo bem sim, só trauma de vizinhança mesmo",
    "p": "neutra",
+   "r": 0
+  },
+  {
+   "t": "essa aposentadoria precoce aí parece um ótimo plano de fuga kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "medo de depender dos outros é o que faz a gente tentar de tudo",
+   "p": "ressalva",
    "r": 0
   }
  ],
@@ -6263,10 +6266,6 @@
   }
  ],
  "aberturas_post": {
-  "18062665283584810": [
-   "livre arbitrio na",
-   "verdade melhor sozinha"
-  ],
   "18438967744146475": [
    "minha mente ja",
    "imagino o cansaco",
@@ -6460,6 +6459,10 @@
   ],
   "18511459831097298": [
    "ta tudo bem"
+  ],
+  "18140343922570774": [
+   "essa aposentadoria precoce",
+   "medo de depender"
   ]
  },
  "shopee_checada": "2026-11-27|1",
