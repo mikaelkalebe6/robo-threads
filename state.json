@@ -32,11 +32,12 @@
    "11:27"
   ],
   "produtos_feitos": 0,
-  "respostas": 4,
+  "respostas": 5,
   "por_post": {
    "18511459831097298": 1,
    "18140343922570774": 2,
-   "18132694267935898": 1
+   "18132694267935898": 1,
+   "18112408772218176": 1
   }
  },
  "posts": [
@@ -1070,7 +1071,6 @@
   }
  ],
  "respondidos": [
-  "18490255861107824",
   "18097751180558835",
   "18065605391784754",
   "18151631005540367",
@@ -4069,7 +4069,8 @@
   "18120972608013524",
   "18155333482551470",
   "18655002262060673",
-  "18358175545264717"
+  "18358175545264717",
+  "18106715705633519"
  ],
  "hashes": [
   "981ec72df27b67f438cb730bfde89f4b",
@@ -4689,15 +4690,11 @@
   "_data": "2026-11-27",
   "626574c30b": 1,
   "3a4f6eb0bb": 2,
-  "5d2692b82e": 1
+  "5d2692b82e": 1,
+  "d109db9df4": 1
  },
  "reservas_checadas": "2026-11-27",
  "ultimas_respostas": [
-  {
-   "t": "Verdade, já estava certa",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "seguro contra segredos kkk",
    "p": "concorda",
@@ -4842,6 +4839,11 @@
    "t": "psicopatia não, terapia preventiva bem econômica kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "perdeu as broncas mas ganhou paz na cozinha",
+   "p": "neutra",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6259,11 +6261,6 @@
   }
  ],
  "aberturas_post": {
-  "18001391246829257": [
-   "descobriu foi o",
-   "pesado mas quem",
-   "iniciou a carreira"
-  ],
   "17874686565645901": [
    "um carro vintage",
    "zero e por",
@@ -6454,6 +6451,9 @@
   ],
   "18132694267935898": [
    "psicopatia nao terapia"
+  ],
+  "18112408772218176": [
+   "perdeu as broncas"
   ]
  },
  "shopee_checada": "2026-11-27|1",
