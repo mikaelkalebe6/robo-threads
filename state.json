@@ -29,35 +29,20 @@
    "13:20",
    "14:55",
    "16:03",
-   "17:55"
+   "17:55",
+   "19:38"
   ],
   "produtos_feitos": 0,
-  "respostas": 13,
+  "respostas": 14,
   "por_post": {
    "18030039716934185": 1,
    "17872733940660048": 1,
    "18154923289555134": 8,
-   "18127176991902978": 3
+   "18127176991902978": 3,
+   "18399863665164338": 1
   }
  },
  "posts": [
-  {
-   "id": "18001391246829257",
-   "insp": "bd449a65bb",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a partir de quantos anos a pessoa descobre que comer o miojo cru direto no pacote enquanto chora vendo boleto não é um lanche gourmet?",
-   "quando": "2026-11-20T11:37:09.993250-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 300,
-    "likes": 1,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-26"
-   }
-  },
   {
    "id": "17874686565645901",
    "insp": "7f395074e1",
@@ -1032,10 +1017,17 @@
    "texto": "SEJAM SINCEROS: vocês respondem a mensagem na hora ou deixam o crush mofando no vácuo só para fingir que são uma celebridade internacional com a agenda lotada? Sendo que o único compromisso real do dia foi decidir se o miojo vai com dois ou três sachês de pozinho mágico. Depois reclamam que a carênc",
    "quando": "2026-11-26T18:07:09.726326-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18132694267935898",
+   "insp": "d74ec1b0c0",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: o jogo que marcou minha infância foi o The Sims, mas eu só jogava para criar o ex que me traiu, colocar ele numa piscina sem escada e esperar o trágico fim enquanto eu comia trakinas. Quem nunca fez terapia econômica e psicológica assim aos dez anos?",
+   "quando": "2026-11-26T20:07:09.301935-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18092042618690234",
   "18137974489621052",
   "17919343977241246",
   "18171910147454725",
@@ -4034,10 +4026,10 @@
   "18211689976369623",
   "18582808756079527",
   "17950098150379971",
-  "18114376043229145"
+  "18114376043229145",
+  "17999213781066560"
  ],
  "hashes": [
-  "12dd837fb6b4904d7103f8202d1a5dbe",
   "45bfb7e848ddca5a9ec024ace23b76ba",
   "bb3f05e0e4ad34ea9783c66de2473c49",
   "4d02d3cd6533b87547cd9a6c5551913a",
@@ -4236,7 +4228,8 @@
   "7b43e152bc5279829bb15d52e451defe",
   "c3313395ca14f0244607cdaf55efa706",
   "416fd5ecdf42df323cbce28c05aabc9f",
-  "a02389cf1f6fea1e08319eef95518970"
+  "a02389cf1f6fea1e08319eef95518970",
+  "bbcd4f5a461675ddc24452b658ef63ae"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4307,7 +4300,6 @@
   "ae0c3922a8": 1791583645.2915637,
   "b6e8893db8": 1791637653.5574567,
   "f8cf963815": 1791644893.9161525,
-  "d74ec1b0c0": 1791648492.9168603,
   "eb9c03e299": 1791670089.8466873,
   "a5b40d343a": 1791673648.3117123,
   "f0670ff0d7": 1791752839.976383,
@@ -4647,7 +4639,8 @@
   "dd26d54eba": 1795720056.2372952,
   "7bb5b555f8": 1795725486.3098347,
   "c312178704": 1795729055.0832002,
-  "dce953f387": 1795730852.277333
+  "dce953f387": 1795730852.277333,
+  "d74ec1b0c0": 1795738094.1215944
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4663,15 +4656,11 @@
   "ce43f533aa": 1,
   "671044bd37": 1,
   "03c324b4d0": 1,
-  "18585ce3a0": 1
+  "18585ce3a0": 1,
+  "e38b8c90e6": 1
  },
  "reservas_checadas": "2026-11-26",
  "ultimas_respostas": [
-  {
-   "t": "esse meio tempo entre pagar o boleto e chorar no banho é longo kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "cada um cuidando da sua parte o boleto vem mais leve",
    "p": "concorda",
@@ -4816,6 +4805,11 @@
    "t": "comprando ações reais em lote fechado, achei que era só lenda urbana kkkk",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "parece roteiro pronto de um dia normal de escritório kkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6228,10 +6222,6 @@
   }
  ],
  "aberturas_post": {
-  "18155194087527421": [
-   "prejuizo completo e",
-   "independente e muita"
-  ],
   "18121063603804214": [
    "curitibana raiz nao",
    "parque parece otimo",
@@ -6437,6 +6427,9 @@
    "dar o primeiro",
    "entao o pacto",
    "comprando acoes reais"
+  ],
+  "18399863665164338": [
+   "parece roteiro pronto"
   ]
  },
  "shopee_checada": "2026-11-26|1",
