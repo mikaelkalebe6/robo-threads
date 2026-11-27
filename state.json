@@ -29,7 +29,8 @@
    "08:59",
    "09:41",
    "10:24",
-   "11:27"
+   "11:27",
+   "13:04"
   ],
   "produtos_feitos": 0,
   "respostas": 5,
@@ -41,23 +42,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18450022324132652",
-   "insp": "8126542588",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: paixão de adolescente parecia um filme da disney mas com dor de barriga de ansiedade, e amor de adulto parece um boleto em débito automático que você aceita chorando. mas a real é que só o amor de adulto te obriga a dividir o frete grátis do mercado livre com alguém. qual dos dois",
-   "quando": "2026-11-21T12:07:08.089630-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 31,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-27"
-   }
-  },
   {
    "id": "18196526386398981",
    "insp": "fb0beb9a45",
@@ -1067,6 +1051,14 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: a única função real de ir a aniversário de criança de três anos é disputar tapa na traquei com os tios no raio gourmet de coxinha e tentar embolsar um tupperware inteiro de brigadeiro pra disfarçar o IPVA atrasado. Qual foi a maior atrocidade que você já cometeu por um salgadinho",
    "quando": "2026-11-27T13:07:08.591908-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18079732655779642",
+   "insp": "911dee6995",
+   "link": "",
+   "texto": "Eu: amor, esse barulho de batedeira misturada com grilo agonizando no motor é normal?\nEle: total, relaxa, é só o alternador conversando com a correia.\nA correia: socorro me tira daqui a qualquer momento vou estourar na sua cara numa segunda-feira chovendo na marginal.\n\nVocês também confiam cegamente",
+   "quando": "2026-11-27T14:07:08.702155-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4073,7 +4065,6 @@
   "18106715705633519"
  ],
  "hashes": [
-  "981ec72df27b67f438cb730bfde89f4b",
   "245ef317dfb41ec55a229e1685c7abb3",
   "ba60b253bdd6530009bf6c2672a0099b",
   "0367ff78577717d903959993a362687d",
@@ -4272,7 +4263,8 @@
   "c9ae17fc65742f0c849f07bc73872dbb",
   "425bed4cff0dd95ca356d4a9dd2cae15",
   "c52786b497521814e2bcbfa5576e9289",
-  "f273cfc7d043b575b0a3ada1d84a8d89"
+  "f273cfc7d043b575b0a3ada1d84a8d89",
+  "e5d19345eb050d699c2d4af2e03af75b"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4436,7 +4428,6 @@
   "095d3d6cd4": 1793279254.4351137,
   "1fd8d1a0a2": 1793284700.7855046,
   "6fc3351715": 1793365691.5429385,
-  "911dee6995": 1793369286.8698964,
   "ff37b68cb2": 1793376490.7384787,
   "311cd408b3": 1793383691.4343736,
   "3d3928277d": 1793385489.4548943,
@@ -4683,7 +4674,8 @@
   "63b1ece74f": 1795788492.7935221,
   "54dc948734": 1795792045.919192,
   "8afd53c3f1": 1795795694.5685878,
-  "fb3aa2715c": 1795799250.3569694
+  "fb3aa2715c": 1795799250.3569694,
+  "911dee6995": 1795802845.1869116
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
