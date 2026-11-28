@@ -25,7 +25,8 @@
    "08:49",
    "10:19",
    "11:10",
-   "11:58"
+   "11:58",
+   "13:10"
   ],
   "produtos_feitos": 0,
   "respostas": 32,
@@ -38,24 +39,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18034662515856285",
-   "insp": "fd6c7eeb28",
-   "link": "",
-   "texto": "SEJAM SINCEROS: qual conselho financeiro vocês ignoraram e se arrependem? Eu jurei que ia seguir a regra de guardar trinta por cento do salário todo mês até o meu carro decidir que o câmbio merecia tirar férias remuneradas e o meu terapeuta sugerir que chorar no carro novo gasta menos água do que no",
-   "quando": "2026-11-23T09:37:09.456426-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "viral_chk": "2026-11-23T23:37:08.855337-04:00",
-   "metricas": {
-    "views": 102,
-    "likes": 1,
-    "replies": 3,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-28"
-   }
-  },
   {
    "id": "17997666804022075",
    "insp": "7ba791c39f",
@@ -1060,6 +1043,14 @@
    "link": "",
    "texto": "comprar notebook recondicionado é basicamente assinar um contrato de namoro com um ex que jura que mudou mas a tela apaga bem na hora do PIX. Aí você abre o bicho e tem foto de uma excursão pra Beto Carrero em 2018 e histórico de busca no Google de como rastrear ex no Tinder.\n\nvocês tivessem que esc",
    "quando": "2026-11-28T12:37:09.458100-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18084539432446599",
+   "insp": "076d4def4f",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: a gente já pode cancelar o boleto da academia desse ano e fingir que 2024 nem aconteceu ou vocês ainda têm esperança que aquela dieta de segunda-feira vai rolar em novembro?",
+   "quando": "2026-11-28T14:37:08.756617-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4066,7 +4057,6 @@
   "18134719900836719"
  ],
  "hashes": [
-  "765b918a52e40bd1195a6a16a5723215",
   "1fe5cb407f1362ea7ead9c4abec7e30d",
   "d05958242bf10e70d8668f0b34f8922c",
   "9da9a7e5cc0f4cebc4a8efa8bc8fa2bb",
@@ -4265,7 +4255,8 @@
   "86ed6b7ea933c73f7a5d6fb16abde6b6",
   "3df10252942ebbb7fc5a14a51fd06404",
   "f16b2a73cbbbf74d4e1e616b4a8c2a20",
-  "b77c5905716c5a02190503c19b4bc768"
+  "b77c5905716c5a02190503c19b4bc768",
+  "dea9d1a21c9295aa9672934464094b0f"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4434,7 +4425,6 @@
   "1fa67b78db": 1793484448.2494302,
   "3a51bc27e7": 1793493489.3505154,
   "4bd21fcc8d": 1793497046.4816182,
-  "076d4def4f": 1793547486.5774412,
   "4176f68ac7": 1793554670.193656,
   "2abbca2759": 1793561891.0220225,
   "648ff7fceb": 1793572639.0643594,
@@ -4676,7 +4666,8 @@
   "8b93fbf051": 1795871247.4197857,
   "ae0c3922a8": 1795876693.8406308,
   "f16c6c27c0": 1795880295.2420819,
-  "2cd94859c5": 1795883849.6721392
+  "2cd94859c5": 1795883849.6721392,
+  "076d4def4f": 1795891086.1844144
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
