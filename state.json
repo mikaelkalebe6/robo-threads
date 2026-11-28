@@ -25,8 +25,10 @@
    "08:49"
   ],
   "produtos_feitos": 0,
-  "respostas": 0,
-  "por_post": {}
+  "respostas": 6,
+  "por_post": {
+   "18099219389154598": 6
+  }
  },
  "posts": [
   {
@@ -1085,12 +1087,6 @@
   }
  ],
  "respondidos": [
-  "17914382115496659",
-  "18147274030560183",
-  "17938769664378158",
-  "18197307892353318",
-  "18103130819010102",
-  "17909833683490590",
   "18105765332460185",
   "18498617452102605",
   "18108753155244162",
@@ -4084,7 +4080,13 @@
   "18106715705633519",
   "18173453575479670",
   "18096382862481427",
-  "18650025862012213"
+  "18650025862012213",
+  "18107582288330827",
+  "18097141682677095",
+  "17956111545345446",
+  "18017005283978094",
+  "17959809240281100",
+  "18023353508953320"
  ],
  "hashes": [
   "59ac4e7c4ad76b1807b29baa7e8cbe92",
@@ -4701,40 +4703,16 @@
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
-  "_data": "2026-11-28"
+  "_data": "2026-11-28",
+  "4bd1917918": 1,
+  "e5af94b0cb": 1,
+  "5768c00274": 1,
+  "0d1aae5ad4": 1,
+  "447f2c1e6c": 1,
+  "88b82c2c45": 1
  },
  "reservas_checadas": "2026-11-28",
  "ultimas_respostas": [
-  {
-   "t": "transparência assim evita tanta dor de cabeça depois",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pelo menos aí não tem como esconder nada de ninguém",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Entendi, já tá planejando o limite do cartão da parceira",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "kkkkk esse é o marido que manda o pix pra por conta",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "vixi, ele virou seu cofre humano kkk",
-   "p": "ressalta",
-   "r": 1
-  },
-  {
-   "t": "nossa, esse nível de confiança é raro, então a segunda-feira vocês dois amanhecem em paz",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "isso, salário escondido só vira briga boba depois, melhor falar",
    "p": "concorda",
@@ -4853,6 +4831,36 @@
   {
    "t": "costume é apego à vida, pegar chuva de moto é coragem demais",
    "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos a gente divide o clube das que não sabem kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "queria ter essa paz de espirito para achar que roupa amassada combina com tudo",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "pelo visto a lenda continua oficializada",
+   "p": "discorda",
+   "r": 0
+  },
+  {
+   "t": "justo demais, menos uma obrigação inventada pra ocupar nosso tempo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "perdendo as esperanças antes dos quarenta",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "então o mistério todo se resume à boa vontade mesmo",
+   "p": "concorda",
    "r": 0
   }
  ],
@@ -6276,9 +6284,6 @@
   }
  ],
  "aberturas_post": {
-  "17888396106504772": [
-   "exato o boleto"
-  ],
   "18159001912517103": [
    "pelo menos voce"
   ],
@@ -6464,6 +6469,14 @@
   ],
   "18048622565835448": [
    "costume e apego"
+  ],
+  "18099219389154598": [
+   "pelo menos a",
+   "queria ter essa",
+   "pelo visto a",
+   "justo demais menos",
+   "perdendo as esperancas",
+   "entao o misterio"
   ]
  },
  "shopee_checada": "2026-11-28|1",
