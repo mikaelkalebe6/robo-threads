@@ -24,36 +24,19 @@
   "feitos": [
    "08:49",
    "10:19",
-   "11:10"
+   "11:10",
+   "11:58"
   ],
   "produtos_feitos": 0,
-  "respostas": 27,
+  "respostas": 30,
   "por_post": {
-   "18099219389154598": 23,
+   "18099219389154598": 26,
    "18089878928333453": 2,
    "18140343922570774": 1,
    "18511459831097298": 1
   }
  },
  "posts": [
-  {
-   "id": "18120094514114120",
-   "insp": "5ffe3dfd2e",
-   "link": "",
-   "texto": "Gente, a vizinha passou meia hora organizando a lista de mercado por corredor em três cores diferentes só pra chegar no hortifrúti, olhar pra abobrinha com ódio no olhar, desistir de tudo, comprar duas latas de leite condensado e um miojo e voltar pra casa chorando assistindo reels de ex. Quem de vo",
-   "quando": "2026-11-22T21:37:11.617908-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 92,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-28"
-   },
-   "viral_chk": "2026-11-23T21:37:08.875608-04:00"
-  },
   {
    "id": "18034662515856285",
    "insp": "fd6c7eeb28",
@@ -1069,12 +1052,17 @@
    "texto": "SEM MENTIR: o meu pior emprego foi ser ouvinte oficial de áudio de trinta minutos de ex que manda \"precisamos conversar\" mas só reclama que o Uber cancelou. Meu chefe era um boleto vencido e o salário era em migalhas de afeto. Alguém aqui já trabalhou de graça pro caos emocional dos outros ou fui só",
    "quando": "2026-11-28T11:37:10.663277-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "17930149875441374",
+   "insp": "2cd94859c5",
+   "link": "",
+   "texto": "comprar notebook recondicionado é basicamente assinar um contrato de namoro com um ex que jura que mudou mas a tela apaga bem na hora do PIX. Aí você abre o bicho e tem foto de uma excursão pra Beto Carrero em 2018 e histórico de busca no Google de como rastrear ex no Tinder.\n\nvocês tivessem que esc",
+   "quando": "2026-11-28T12:37:09.458100-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18101911970456022",
-  "17973877437136711",
-  "18041468927835072",
   "18565670443073932",
   "18107586340964059",
   "17987876709063537",
@@ -4071,10 +4059,12 @@
   "18040776761892431",
   "17882603742562824",
   "18114349439183219",
-  "18026887712715609"
+  "18026887712715609",
+  "18122463035470276",
+  "17956069455046977",
+  "17918120475553115"
  ],
  "hashes": [
-  "b763911dc447bdc0e1d9a488e2dd99d9",
   "765b918a52e40bd1195a6a16a5723215",
   "1fe5cb407f1362ea7ead9c4abec7e30d",
   "d05958242bf10e70d8668f0b34f8922c",
@@ -4273,7 +4263,8 @@
   "0f7145ea89e10349c31acd8dbc2286b3",
   "86ed6b7ea933c73f7a5d6fb16abde6b6",
   "3df10252942ebbb7fc5a14a51fd06404",
-  "f16b2a73cbbbf74d4e1e616b4a8c2a20"
+  "f16b2a73cbbbf74d4e1e616b4a8c2a20",
+  "b77c5905716c5a02190503c19b4bc768"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4354,7 +4345,6 @@
   "e849a7e6a9": 1791985050.7143126,
   "89cdd01f02": 1792006647.4343123,
   "613abd5c08": 1792067892.1591535,
-  "2cd94859c5": 1792103847.1107104,
   "4322eb9d04": 1792159645.6739976,
   "ee7378f2f0": 1792165044.1035805,
   "30e1771c4d": 1792172245.717424,
@@ -4684,7 +4674,8 @@
   "c5b66c6c5b": 1795833486.4361985,
   "8b93fbf051": 1795871247.4197857,
   "ae0c3922a8": 1795876693.8406308,
-  "f16c6c27c0": 1795880295.2420819
+  "f16c6c27c0": 1795880295.2420819,
+  "2cd94859c5": 1795883849.6721392
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4713,25 +4704,13 @@
   "17cf71cd52": 1,
   "d958aef614": 1,
   "e12c9d8ce9": 1,
-  "67591103b0": 1
+  "67591103b0": 1,
+  "c63f23746e": 1,
+  "e9175cfd43": 1,
+  "96216a46d9": 1
  },
  "reservas_checadas": "2026-11-28",
  "ultimas_respostas": [
-  {
-   "t": "exatamente, no fim é tudo na base da sorte e da fé mesmo",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "zerou a competição de afeto familiar por excomunhão",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "costume é apego à vida, pegar chuva de moto é coragem demais",
-   "p": "discorda",
-   "r": 0
-  },
   {
    "t": "pelo menos a gente divide o clube das que não sabem kkk",
    "p": "concorda",
@@ -4866,6 +4845,21 @@
    "t": "quem aprendeu cedo com mãe exigente hoje guarda esse dom como troféu kkkkkk",
    "p": "concorda",
    "r": 2
+  },
+  {
+   "t": "esse nível de detalhe aí já é quase engenharia civil aplicada à camisa kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "salvação de quem tem preguiça de brigar com o ferro kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "esse exemplar raro aí costuma vir acompanhado de manual de instruções em extinção",
+   "p": "ressalva",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6496,7 +6490,10 @@
    "liberdade e jogar",
    "portugues claro e",
    "roupa social salva",
-   "quem aprendeu cedo"
+   "quem aprendeu cedo",
+   "esse nivel de",
+   "salvacao de quem",
+   "esse exemplar raro"
   ],
   "18089878928333453": [
    "alguem precisa avisar",
