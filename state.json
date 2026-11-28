@@ -21,35 +21,14 @@
    "15:41",
    "19:32"
   ],
-  "feitos": [],
+  "feitos": [
+   "08:49"
+  ],
   "produtos_feitos": 0,
   "respostas": 0,
   "por_post": {}
  },
  "posts": [
-  {
-   "id": "18122819762067033",
-   "insp": "603114869d",
-   "link": "",
-   "texto": "OPINIÃO IMPOPULAR: cortar cabelo feminino virou financiamento imobiliário em 30 anos. \n\nFui retocar a franja e o moço do salão lançou: são duzentos e cinquenta reais, moça, porque inclui o visagismo quântico e o detox emocional dos fios. \n\nEu só queria tirar as pontas duplas, não fazer harmonização ",
-   "quando": "2026-11-22T17:07:10.152935-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 1056,
-    "likes": 16,
-    "replies": 41,
-    "reposts": 1,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-28"
-   },
-   "viral_chk": "2026-11-23T11:37:11.482435-04:00",
-   "link_coment": "https://s.shopee.com.br/9AQQMwfQN8",
-   "meme_comentado": true,
-   "meme_views": 545,
-   "formato_link": "coment",
-   "produto": "58202821764"
-  },
   {
    "id": "18148563982597050",
    "insp": "39b02ce282",
@@ -1095,6 +1074,14 @@
     "shares": 0,
     "em": "2026-11-28"
    }
+  },
+  {
+   "id": "18099219389154598",
+   "insp": "8b93fbf051",
+   "link": "",
+   "texto": "DÚVIDA SINCERA: homem de 35 que mora sozinho e sabe passar roupa sem criar um vinco extra na camisa que mais parece um origami de Chernobyl ainda existe ou é lenda urbana criada pelas mães pra gente não desistir da humanidade?",
+   "quando": "2026-11-28T09:07:11.898160-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
@@ -4100,7 +4087,6 @@
   "18650025862012213"
  ],
  "hashes": [
-  "39a41ad89b813d06412466283e4fe402",
   "59ac4e7c4ad76b1807b29baa7e8cbe92",
   "cd342bbca166d4fd5a80fde8f4a37640",
   "b763911dc447bdc0e1d9a488e2dd99d9",
@@ -4299,7 +4285,8 @@
   "13d242167499d268c0f3a8d6869db5f6",
   "83eda32cbc6b0afc51b3739019f8c985",
   "5670738954a3e6f256146cee13086af5",
-  "0f7145ea89e10349c31acd8dbc2286b3"
+  "0f7145ea89e10349c31acd8dbc2286b3",
+  "86ed6b7ea933c73f7a5d6fb16abde6b6"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4309,7 +4296,6 @@
   "09e842892c": 1790726852.4957767,
   "6447474ad3": 1790730448.4125926,
   "018fcf3621": 1790782693.9690814,
-  "8b93fbf051": 1790789849.0126176,
   "00c9530901": 1790798863.395636,
   "3ce988f7a6": 1790807853.3159423,
   "fbedf7f149": 1790813252.2096584,
@@ -4710,7 +4696,8 @@
   "574b51f445": 1795824497.6100063,
   "4af53e8178": 1795828042.2119846,
   "5d187cad11": 1795831696.6370752,
-  "c5b66c6c5b": 1795833486.4361985
+  "c5b66c6c5b": 1795833486.4361985,
+  "8b93fbf051": 1795871247.4197857
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
