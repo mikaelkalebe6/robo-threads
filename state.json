@@ -26,9 +26,9 @@
    "10:19"
   ],
   "produtos_feitos": 0,
-  "respostas": 12,
+  "respostas": 14,
   "por_post": {
-   "18099219389154598": 12
+   "18099219389154598": 14
   }
  },
  "posts": [
@@ -1078,8 +1078,6 @@
   }
  ],
  "respondidos": [
-  "18351278638281327",
-  "18169341328465062",
   "18445025632134455",
   "17961818685208268",
   "17959971336228483",
@@ -4077,7 +4075,9 @@
   "17984108844132329",
   "18393788185224640",
   "18131047972878632",
-  "18020661809958744"
+  "18020661809958744",
+  "17878548405637973",
+  "18443121208178448"
  ],
  "hashes": [
   "cd342bbca166d4fd5a80fde8f4a37640",
@@ -4706,20 +4706,12 @@
   "c4bd9b1655": 1,
   "8df450f53e": 1,
   "01af5a7598": 1,
-  "7eb4bef55a": 1
+  "7eb4bef55a": 1,
+  "3da9a9795d": 1,
+  "fcdc5857d1": 1
  },
  "reservas_checadas": "2026-11-28",
  "ultimas_respostas": [
-  {
-   "t": "investir no futuro quando o presente já levou tudo é a parte difícil",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "essa opção exige investimento baixo mas o risco de CPI é alto kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "tem investimento para todos os gostos na sua lista",
    "p": "concorda",
@@ -4859,6 +4851,16 @@
    "t": "lavanderia renomada é o esconderijo oficial dessa espécie",
    "p": "concorda",
    "r": 1
+  },
+  {
+   "t": "passando as dela também já é bônus raro de achar",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, quem precisa de ferro quando dá pra usar amassado com classe",
+   "p": "concorda",
+   "r": 0
   }
  ],
  "minhas_respostas": {
@@ -6479,7 +6481,9 @@
    "receita de fa",
    "essa e a",
    "com essa idade",
-   "lavanderia renomada e"
+   "lavanderia renomada e",
+   "passando as dela",
+   "justo quem precisa"
   ]
  },
  "shopee_checada": "2026-11-28|1",
