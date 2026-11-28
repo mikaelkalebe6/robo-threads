@@ -28,12 +28,13 @@
    "11:58"
   ],
   "produtos_feitos": 0,
-  "respostas": 30,
+  "respostas": 32,
   "por_post": {
-   "18099219389154598": 26,
+   "18099219389154598": 27,
    "18089878928333453": 2,
    "18140343922570774": 1,
-   "18511459831097298": 1
+   "18511459831097298": 1,
+   "17930149875441374": 1
   }
  },
  "posts": [
@@ -1063,8 +1064,6 @@
   }
  ],
  "respondidos": [
-  "18565670443073932",
-  "18107586340964059",
   "17987876709063537",
   "18498979555099448",
   "17901507363670523",
@@ -4062,7 +4061,9 @@
   "18026887712715609",
   "18122463035470276",
   "17956069455046977",
-  "17918120475553115"
+  "17918120475553115",
+  "18115400408139469",
+  "18134719900836719"
  ],
  "hashes": [
   "765b918a52e40bd1195a6a16a5723215",
@@ -4685,7 +4686,7 @@
   "5768c00274": 1,
   "0d1aae5ad4": 1,
   "447f2c1e6c": 1,
-  "88b82c2c45": 1,
+  "88b82c2c45": 2,
   "cf19c867bb": 1,
   "1c6aa3cfe3": 1,
   "c4bd9b1655": 1,
@@ -4707,20 +4708,11 @@
   "67591103b0": 1,
   "c63f23746e": 1,
   "e9175cfd43": 1,
-  "96216a46d9": 1
+  "96216a46d9": 1,
+  "dc8f0a3f5f": 1
  },
  "reservas_checadas": "2026-11-28",
  "ultimas_respostas": [
-  {
-   "t": "pelo menos a gente divide o clube das que não sabem kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "queria ter essa paz de espirito para achar que roupa amassada combina com tudo",
-   "p": "discorda",
-   "r": 0
-  },
   {
    "t": "pelo visto a lenda continua oficializada",
    "p": "discorda",
@@ -4859,6 +4851,16 @@
   {
    "t": "esse exemplar raro aí costuma vir acompanhado de manual de instruções em extinção",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "coragem nível extremo ligar o bicho sem formatar antes kkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "sorte a sua por não precisar lidar com isso",
+   "p": "neutra",
    "r": 0
   }
  ],
@@ -6282,10 +6284,6 @@
   }
  ],
  "aberturas_post": {
-  "17957195529284107": [
-   "zerou a vida",
-   "agora o manual"
-  ],
   "18122819762067033": [
    "verdade mas o",
    "entendo o salao",
@@ -6493,11 +6491,15 @@
    "quem aprendeu cedo",
    "esse nivel de",
    "salvacao de quem",
-   "esse exemplar raro"
+   "esse exemplar raro",
+   "sorte a sua"
   ],
   "18089878928333453": [
    "alguem precisa avisar",
    "pelo menos o"
+  ],
+  "17930149875441374": [
+   "coragem nivel extremo"
   ]
  },
  "shopee_checada": "2026-11-28|1",
