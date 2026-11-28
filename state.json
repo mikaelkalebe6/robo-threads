@@ -1,57 +1,30 @@
 {
  "plano": {
-  "data": "2026-11-27",
+  "data": "2026-11-28",
   "horarios": [
-   "08:08",
-   "08:59",
-   "09:41",
-   "10:24",
-   "11:27",
-   "13:04",
-   "13:44",
-   "14:25",
-   "15:05",
-   "16:58",
-   "17:51",
-   "18:33",
-   "19:15",
-   "20:10",
-   "20:56",
-   "21:38"
+   "08:49",
+   "10:19",
+   "11:10",
+   "11:58",
+   "13:10",
+   "14:38",
+   "15:41",
+   "17:04",
+   "17:46",
+   "18:39",
+   "19:32",
+   "20:24",
+   "21:52"
   ],
   "horarios_produto": [
-   "09:41",
-   "15:05",
-   "19:15"
+   "11:10",
+   "15:41",
+   "19:32"
   ],
-  "feitos": [
-   "08:08",
-   "08:59",
-   "09:41",
-   "10:24",
-   "11:27",
-   "13:04",
-   "13:44",
-   "14:25",
-   "16:58",
-   "15:05",
-   "17:51",
-   "18:33",
-   "19:15",
-   "20:10",
-   "20:56",
-   "21:38"
-  ],
+  "feitos": [],
   "produtos_feitos": 0,
-  "respostas": 8,
-  "por_post": {
-   "18511459831097298": 1,
-   "18140343922570774": 2,
-   "18132694267935898": 1,
-   "18112408772218176": 2,
-   "18079732655779642": 1,
-   "18048622565835448": 1
-  }
+  "respostas": 0,
+  "por_post": {}
  },
  "posts": [
   {
@@ -62,13 +35,13 @@
    "quando": "2026-11-22T17:07:10.152935-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1051,
+    "views": 1056,
     "likes": 16,
     "replies": 41,
     "reposts": 1,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    },
    "viral_chk": "2026-11-23T11:37:11.482435-04:00",
    "link_coment": "https://s.shopee.com.br/9AQQMwfQN8",
@@ -91,7 +64,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    },
    "viral_chk": "2026-11-23T19:37:08.139063-04:00"
   },
@@ -109,7 +82,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    },
    "viral_chk": "2026-11-23T20:37:09.794939-04:00"
   },
@@ -127,7 +100,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    },
    "viral_chk": "2026-11-23T21:37:08.875608-04:00"
   },
@@ -146,7 +119,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -164,7 +137,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -187,13 +160,13 @@
     "campanha": ""
    },
    "metricas": {
-    "views": 106,
+    "views": 107,
     "likes": 0,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    },
    "link_coment": "https://s.shopee.com.br/3g5TWLAenM",
    "link_em": "2026-11-24T07:07:08.662111-04:00",
@@ -214,7 +187,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -226,13 +199,13 @@
    "ia": "Gemini gemini-flash-lite-latest",
    "viral_chk": "2026-11-23T23:37:08.855337-04:00",
    "metricas": {
-    "views": 89,
+    "views": 90,
     "likes": 4,
     "replies": 3,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -250,7 +223,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -273,13 +246,13 @@
     "campanha": ""
    },
    "metricas": {
-    "views": 140,
+    "views": 141,
     "likes": 0,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    },
    "link_coment": "https://s.shopee.com.br/5fqXu0lRbd",
    "link_em": "2026-11-24T11:07:09.724799-04:00",
@@ -300,7 +273,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -318,7 +291,7 @@
     "reposts": 1,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -336,7 +309,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -354,7 +327,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -372,7 +345,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -383,13 +356,13 @@
    "quando": "2026-11-24T08:37:09.606425-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 1573,
+    "views": 1576,
     "likes": 33,
     "replies": 27,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -406,7 +379,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -423,7 +396,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -440,7 +413,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -457,7 +430,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -474,7 +447,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -485,13 +458,13 @@
    "quando": "2026-11-24T16:07:16.895738-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 347,
+    "views": 349,
     "likes": 6,
     "replies": 11,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -502,13 +475,13 @@
    "quando": "2026-11-24T19:07:15.167433-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 32938,
+    "views": 32967,
     "likes": 96,
     "replies": 116,
     "reposts": 1,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -519,13 +492,13 @@
    "quando": "2026-11-24T20:07:16.298913-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 209,
+    "views": 210,
     "likes": 1,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -542,7 +515,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -553,13 +526,13 @@
    "quando": "2026-11-24T22:07:09.602713-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 398,
+    "views": 399,
     "likes": 1,
     "replies": 11,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -576,7 +549,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -593,7 +566,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -610,7 +583,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -627,7 +600,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -644,7 +617,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -655,13 +628,13 @@
    "quando": "2026-11-25T20:37:08.728132-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 175,
+    "views": 176,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -672,13 +645,13 @@
    "quando": "2026-11-25T21:37:13.173679-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 77,
+    "views": 79,
     "likes": 0,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -689,13 +662,13 @@
    "quando": "2026-11-26T08:07:09.558149-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 716,
+    "views": 723,
     "likes": 4,
     "replies": 24,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -712,7 +685,7 @@
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -723,13 +696,13 @@
    "quando": "2026-11-26T11:07:09.806459-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 201,
+    "views": 202,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -740,13 +713,13 @@
    "quando": "2026-11-26T12:37:09.063835-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 60,
+    "views": 62,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -757,13 +730,13 @@
    "quando": "2026-11-26T14:37:08.585475-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 89,
+    "views": 90,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -774,13 +747,13 @@
    "quando": "2026-11-26T15:07:09.747360-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 159,
+    "views": 160,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -791,13 +764,13 @@
    "quando": "2026-11-26T16:37:08.834284-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 64,
+    "views": 67,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -808,13 +781,13 @@
    "quando": "2026-11-26T17:37:09.465385-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 115,
+    "views": 120,
     "likes": 1,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -825,13 +798,13 @@
    "quando": "2026-11-26T18:07:09.726326-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 88,
+    "views": 92,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -842,13 +815,13 @@
    "quando": "2026-11-26T20:07:09.301935-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 66,
-    "likes": 2,
-    "replies": 0,
+    "views": 78,
+    "likes": 4,
+    "replies": 3,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -859,13 +832,13 @@
    "quando": "2026-11-26T21:07:09.051436-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 166,
+    "views": 168,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -876,13 +849,13 @@
    "quando": "2026-11-26T22:37:07.882504-04:00",
    "ia": "Gemini gemini-flash-lite-latest",
    "metricas": {
-    "views": 253,
+    "views": 292,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "shares": 0,
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    }
   },
   {
@@ -891,7 +864,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: a pessoa que vai de moto trabalhar na chuva tá juntando pontos pra qual divindade do caos? porque olha, entre virar recheio de caminhão de lixo ou chegar no escritório fedendo a cachorro molhado e com a alma em 3x sem juros, eu prefiro ir morar na rua e pedir PIX no semáforo. Vocês r",
    "quando": "2026-11-27T08:37:08.182087-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 282,
+    "likes": 1,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "18112408772218176",
@@ -899,7 +881,16 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: qual comida da sua região você jura que é a melhor do Brasil só porque sua avó ameaçava excomungar quem criticasse",
    "quando": "2026-11-27T10:07:08.636237-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 232,
+    "likes": 1,
+    "replies": 4,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "18511459831097298",
@@ -907,7 +898,16 @@
    "link": "",
    "texto": "PESSOAS QUE MUDARAM DE CIDADE: do que vocês mais sentem falta além da ex vizinha fofoqueira que sabia exatamente a que horas o seu boy da traição pulava o muro usando a calça do pijama de flanela do Garfield?",
    "quando": "2026-11-27T11:07:10.644342-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 364,
+    "likes": 0,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "18140343922570774",
@@ -915,7 +915,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: a conta bancária de vocês também tem aquela função de passar vergonha no débito ou é defeito só na minha? Eu juro que tentei guardar dinheiro esse mês, mas aí a inflação olhou pra mim, deu risada, comprou um terreno na lua e ainda me cobrou IPTU. A única reserva que eu tenho é de ódi",
    "quando": "2026-11-27T12:07:09.164740-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 288,
+    "likes": 1,
+    "replies": 5,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "18123939902084382",
@@ -923,7 +932,16 @@
    "link": "",
    "texto": "VAMOS SER HONESTOS: a única função real de ir a aniversário de criança de três anos é disputar tapa na traquei com os tios no raio gourmet de coxinha e tentar embolsar um tupperware inteiro de brigadeiro pra disfarçar o IPVA atrasado. Qual foi a maior atrocidade que você já cometeu por um salgadinho",
    "quando": "2026-11-27T13:07:08.591908-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 109,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "18079732655779642",
@@ -931,7 +949,16 @@
    "link": "",
    "texto": "Eu: amor, esse barulho de batedeira misturada com grilo agonizando no motor é normal?\nEle: total, relaxa, é só o alternador conversando com a correia.\nA correia: socorro me tira daqui a qualquer momento vou estourar na sua cara numa segunda-feira chovendo na marginal.\n\nVocês também confiam cegamente",
    "quando": "2026-11-27T14:07:08.702155-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 81,
+    "likes": 0,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "18139515046647844",
@@ -939,7 +966,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: se o VMA rolasse no Brasil com o orçamento de um churrasco de fim de ano da firma, a briga generalizada por causa de playback ia acontecer antes ou depois da coxinha congelada acabar?",
    "quando": "2026-11-27T15:37:09.314246-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 70,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "18091188479522365",
@@ -947,7 +983,16 @@
    "link": "",
    "texto": "Encontro bom é aquele que a química tá tão forte que você esquece de olhar a hora e quando finalmente olha, já passou o horário do rodízio, o metrô fechou, o motorista de aplicativo cancelou três vezes e você tá cogitando pedir abrigo num posto de gasolina às quatro da manhã. \n\nVocês já passaram por",
    "quando": "2026-11-27T16:07:08.711692-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 81,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "17937732591143313",
@@ -955,7 +1000,16 @@
    "link": "",
    "texto": "DÚVIDA SINCERA: a linha de crédito da família de vocês também é tratada como fundo perdido do BNDES ou só o meu limite que virou patrimônio público da parentada?",
    "quando": "2026-11-27T18:37:11.020964-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 135,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "18085394804367161",
@@ -963,7 +1017,16 @@
    "link": "",
    "texto": "Passei três dias colando EVA, glitter e papelão pra ir na festa fantasiada de inflação de dois dígitos e o povo achando que eu era só um abacate deprimido. \n\nO boy olhou pra mim e soltou: nossa, que criativo, tá de imposto atrasado. \n\nAlguém aqui já teve a dignidade destruída por falta de interpreta",
    "quando": "2026-11-27T19:07:07.510760-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 127,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "18650126470012578",
@@ -971,7 +1034,16 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: o professor de matemática que me deu recuperação merecia cadeia por ensinar a calcular juros de cartão e me dar o superpoder de chorar olhando o aplicativo do banco em quatro dimensões diferentes.",
    "quando": "2026-11-27T20:07:13.605237-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 19,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "18116850986137836",
@@ -979,7 +1051,16 @@
    "link": "",
    "texto": "OPINIÃO IMPOPULAR: mandar áudio de três minutos logo no começo da paquera deveria ser considerado crime hediondo com direito a tornozeleira eletrônica. O cidadão começa a falar do signo, passa pelo trauma do ex, respira fundo quatro vezes e ainda manda um e, enfim, é isso no final. Alguém aguenta ou",
    "quando": "2026-11-27T21:07:09.554034-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 29,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "18115233875218140",
@@ -987,7 +1068,16 @@
    "link": "",
    "texto": "Feriado no Nordeste sem forró é que nem ex mandando \"sumiu por quê?\": um evento canônico de pura tortura psicológica que ninguém pediu. Aqui o programa obrigatório é fingir que gosta de pular forró debaixo de um sol de 40 graus enquanto o vizinho toca o mesmo CD estourado do Dorgival Dantas desde 20",
    "quando": "2026-11-27T22:07:09.401889-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 140,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   },
   {
    "id": "18096000038208137",
@@ -995,7 +1085,16 @@
    "link": "",
    "texto": "PESSOAS QUE JÁ FIZERAM MOCHILÃO: qual foi o momento exato em que o espírito aventureiro morreu e você só quis saber se o Uber Black aceitava Pix parcelado para te tirar daquele matagal europeu?",
    "quando": "2026-11-27T22:37:07.801998-04:00",
-   "ia": "Gemini gemini-flash-lite-latest"
+   "ia": "Gemini gemini-flash-lite-latest",
+   "metricas": {
+    "views": 244,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "shares": 0,
+    "em": "2026-11-28"
+   }
   }
  ],
  "respondidos": [
@@ -4615,16 +4714,9 @@
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
-  "_data": "2026-11-27",
-  "626574c30b": 1,
-  "3a4f6eb0bb": 2,
-  "5d2692b82e": 1,
-  "d109db9df4": 1,
-  "fcf8949395": 1,
-  "3a0fdb2b5b": 1,
-  "88b82c2c45": 1
+  "_data": "2026-11-28"
  },
- "reservas_checadas": "2026-11-27",
+ "reservas_checadas": "2026-11-28",
  "ultimas_respostas": [
   {
    "t": "transparência assim evita tanta dor de cabeça depois",
@@ -5516,306 +5608,306 @@
  },
  "exemplos_desde": "2026-09-30T07:07:10.746271-04:00",
  "exemplos_vistos": [
-  "18092673473271371",
-  "18647897434045387",
-  "18024186894444761",
-  "18097925774400562",
-  "18132062830908500",
-  "18123118393766827",
-  "18075985214729945",
-  "18131633588490731",
-  "18019839464954058",
-  "17888002836624141",
-  "18101150240419688",
-  "18110308853641426",
-  "18136729843743203",
-  "18102001748674265",
-  "17940024861122266",
-  "18114857234110382",
-  "18236653516324545",
-  "17975296974159827",
-  "18141062968635424",
-  "18321789994304703",
-  "18013885221005838",
-  "17941286304381390",
-  "18133698686487872",
-  "18482854036118168",
-  "18417313090090383",
-  "18141103258629108",
-  "18124028605961848",
-  "17886289506689417",
-  "18074724326556172",
-  "18158737744474879",
-  "18181487491445246",
-  "18077636273459499",
-  "18027806762696717",
-  "18039066260663519",
-  "18088110392709060",
-  "18077562518759313",
-  "18094895189672753",
-  "18035170262681094",
-  "18111524570589741",
-  "17898747009612848",
-  "18654226900013284",
-  "18346031257281162",
-  "17980092272935935",
-  "17906966877605195",
-  "18033163793857097",
-  "18111489542524566",
-  "18132855130691332",
-  "18107155157007096",
-  "18111005135240714",
-  "18003101904006837",
-  "18134739229828280",
-  "18119099771057275",
-  "18132641074813849",
-  "17938076781380613",
-  "18353214802271913",
-  "18440098807198435",
-  "18139483201563820",
-  "17921918502454962",
-  "18131566894616108",
-  "18008607866793652",
-  "18120483316821281",
-  "18120500872956948",
-  "18001837656033527",
-  "18154019134542532",
-  "17921803398463530",
-  "18080324102738055",
-  "18121868863966668",
-  "18136141552739187",
-  "18025360976941136",
-  "18167780782510373",
-  "17992072019864499",
-  "18076022504758442",
-  "18111440726337835",
-  "18135103654759608",
-  "18109074854360394",
-  "18151211212569114",
-  "18012417287776622",
-  "18070816793685719",
-  "18656317819021234",
-  "17869328922679938",
-  "18439000435198297",
-  "18417553159094716",
-  "17968579425228118",
-  "17866308648693195",
-  "17897010639614713",
-  "18092160437261990",
-  "17981892192134994",
-  "18119948222039744",
-  "18087131645339089",
-  "17871562467662132",
-  "17917183266515595",
-  "17968228277978959",
-  "17917914105487050",
-  "17918346615469576",
-  "18091587272254790",
-  "17991065396877450",
-  "18115186958332270",
+  "18115877888172886",
+  "18445655512194456",
   "18133973494746418",
-  "18504212716110927",
-  "18388574278236336",
-  "17982146334108334",
-  "18139305583731709",
-  "17979327075168486",
-  "18203010913390112",
-  "18141410848618838",
-  "17914635450305659",
-  "18606795544066986",
-  "18031921154863444",
-  "18443919676176371",
-  "18121332361766043",
-  "18118200869025789",
-  "18454035052133244",
-  "17999980377019495",
-  "18152483536555456",
-  "18148762252571661",
-  "18044280890638533",
-  "18111558710211292",
-  "18134325997773757",
-  "18099757571467440",
-  "18358248628221039",
-  "18021655574739820",
-  "18160833475509251",
-  "18232707580327856",
-  "17902323159612934",
-  "18126447065517041",
-  "18109942370629108",
-  "18158352628472936",
-  "18038618741884135",
-  "18441676894196679",
-  "17888575767505520",
-  "18022865513944351",
-  "18125735341938885",
-  "18419034634093069",
-  "18121153375959963",
-  "18645938191048548",
-  "17940044733127269",
-  "18133080274840570",
-  "18101775545376897",
-  "17940657009123982",
-  "17958302877297435",
-  "17960761845270828",
-  "18577829116077787",
-  "17966485929232381",
-  "17961244998234979",
-  "18122988394963553",
-  "18112303388580311",
-  "17976553731171265",
   "18108103334224491",
-  "17914802838578291",
-  "17959813026276657",
-  "18033203750947530",
-  "18181283593393437",
+  "18101539955655430",
+  "17948010777085936",
+  "17917420953541943",
+  "18112303388580311",
+  "17917183266515595",
+  "18025360976941136",
+  "18151211212569114",
+  "18094895189672753",
+  "18135388489766369",
+  "17897010639614713",
+  "18136789777777035",
+  "18154019134542532",
+  "18482854036118168",
+  "17980092272935935",
+  "18121868863966668",
+  "18430017166148034",
+  "17940657009123982",
+  "18019839464954058",
+  "18013885221005838",
+  "17929712514429127",
+  "18275877349310005",
+  "17950726695055272",
+  "17938076781380613",
+  "18119099771057275",
+  "18321789994304703",
+  "18167780782510373",
+  "18341797402274406",
+  "18119895509098956",
   "18109338287620384",
   "18164651446509541",
-  "17958381159293021",
-  "18650364589052234",
-  "18094379438229644",
-  "18120999100975948",
-  "18159929425502471",
-  "18121110914019262",
-  "18501647023107206",
-  "18147923197586762",
-  "18139592758646918",
-  "18111333365187813",
-  "18100030649649880",
-  "18113972183233407",
-  "18204490507384762",
-  "18119471116802403",
-  "18571881454077140",
-  "18484092178113560",
-  "18155088898521551",
-  "18445655512194456",
-  "18158771050455684",
-  "18275877349310005",
-  "18013622883001592",
-  "17915292099588628",
-  "18145842790610476",
-  "18111177941357920",
-  "18419418376083629",
-  "18123687314068190",
-  "18453579835131053",
-  "18108509777255691",
-  "18096819041666550",
-  "18117498083113703",
-  "17995704390061026",
-  "18012143231989019",
-  "18197301343395440",
-  "17917693839495721",
-  "17948010777085936",
-  "18135388489766369",
-  "18024287675937336",
-  "18123753734594730",
-  "18215078533326302",
-  "17950726695055272",
-  "18119694626044985",
-  "18133437595837530",
-  "18075871466775246",
-  "18350572687264558",
-  "18115877888172886",
-  "18171465202464973",
-  "18215586295366447",
-  "17886493317528598",
-  "18076267148769947",
-  "18111014381206523",
-  "17967304755215596",
-  "18107524508221239",
-  "18641140375022122",
-  "17918871600536739",
-  "18148057576574616",
-  "18399970039201068",
-  "18136219423666575",
-  "18079016357585367",
-  "18390189097242607",
-  "18093830273504834",
-  "17964380822998199",
-  "18447502852176971",
-  "18642734314038679",
-  "18120145460277665",
-  "18103216610639963",
-  "18141320746718511",
-  "18017745887967828",
-  "18116742410125230",
-  "18124940842968649",
-  "18119895509098956",
-  "18180780349455296",
-  "18131763763846694",
-  "18291821176295851",
-  "18117073550165037",
-  "18161303986525838",
-  "18011302799781266",
-  "18133453412487069",
-  "17916214056492921",
-  "17887001661524189",
-  "17917420953541943",
-  "18128083957830097",
-  "17919458676507322",
-  "18080076386418938",
-  "18118683487816749",
-  "17917797159547875",
-  "17918308047538470",
-  "18096954560549708",
-  "18096830726663097",
-  "18513082756103231",
-  "18239210734320618",
-  "18644245393048980",
-  "18163573501502210",
-  "18127763485926312",
-  "18131129038632111",
-  "18125229520822252",
-  "18136776631635411",
-  "18136789777777035",
-  "18016655111763056",
+  "18454035052133244",
   "17971477626192988",
-  "17956444113303213",
-  "18033314837890166",
-  "18030997244696511",
-  "18137296903668030",
-  "18121524118797015",
+  "18346031257281162",
+  "17991065396877450",
+  "18656317819021234",
+  "18061181699569159",
+  "18116742410125230",
+  "17914635450305659",
   "17875995441649105",
-  "18101539955655430",
+  "18161303986525838",
+  "18118200869025789",
+  "17956444113303213",
+  "17886289506689417",
+  "18121524118797015",
+  "18641140375022122",
+  "18111014381206523",
+  "18132062830908500",
+  "18203010913390112",
+  "17921918502454962",
+  "17995704390061026",
+  "18108509777255691",
+  "18128220871856044",
+  "17915292099588628",
+  "17964380822998199",
+  "18439000435198297",
+  "17893890618455873",
+  "18115352144037603",
+  "18078778832488082",
+  "18158771050455684",
+  "18076267148769947",
+  "18143232634713453",
+  "17888575767505520",
+  "18390189097242607",
+  "18111489542524566",
+  "18146873998723211",
+  "18075871466775246",
+  "18148762252571661",
+  "18032095964919247",
+  "18067571393647572",
+  "18134739229828280",
+  "18417553159094716",
+  "18017745887967828",
+  "18197301343395440",
+  "18128083957830097",
+  "18131763763846694",
+  "17887001661524189",
+  "18417313090090383",
+  "17881403232554352",
+  "18141410848618838",
+  "18109074854360394",
+  "18092160437261990",
+  "17961244998234979",
+  "18163573501502210",
+  "18016655111763056",
+  "18642734314038679",
+  "18353214802271913",
+  "17871562467662132",
+  "18654226900013284",
+  "17958381159293021",
+  "18445858036178370",
+  "18101775545376897",
+  "18024186894444761",
+  "18180780349455296",
+  "18120483316821281",
+  "17916214056492921",
+  "18012143231989019",
+  "18135103654759608",
+  "18076022504758442",
+  "18141320746718511",
+  "18087131645339089",
+  "18100030649649880",
+  "18215078533326302",
+  "18123687314068190",
+  "17917797159547875",
+  "18030997244696511",
+  "18133080274840570",
+  "18513082756103231",
+  "18122982617063216",
+  "18033163793857097",
+  "17992072019864499",
+  "18125735341938885",
+  "18141062968635424",
+  "18606795544066986",
+  "18111005135240714",
+  "18136729843743203",
+  "18096954560549708",
+  "17918871600536739",
+  "18088110392709060",
+  "18644245393048980",
+  "17907486189599745",
+  "18027806762696717",
+  "18022278986745519",
+  "18422264758152894",
+  "17920531692263281",
+  "18443919676176371",
+  "18204490507384762",
+  "18134174260704995",
+  "18096383045161820",
+  "18091587272254790",
+  "18111524570589741",
+  "18359220352222685",
+  "17962392636212745",
+  "18113972183233407",
+  "17999980377019495",
+  "18118683487816749",
+  "17958302877297435",
+  "18131566894616108",
+  "17976553731171265",
+  "18024287675937336",
+  "18239210734320618",
+  "18139592758646918",
+  "18079350608402767",
+  "18118548725468302",
+  "18133698686487872",
+  "18074724326556172",
+  "18021655574739820",
+  "18159929425502471",
+  "18097925774400562",
+  "18038618741884135",
+  "18031921154863444",
+  "18571881454077140",
+  "18077636273459499",
+  "18017705390777103",
+  "18133453412487069",
+  "17959813026276657",
+  "18152483536555456",
+  "18107155157007096",
+  "18139305583731709",
+  "17975296974159827",
+  "18001837656033527",
+  "18629579566024327",
+  "17898747009612848",
+  "18216447088364202",
+  "17982146334108334",
+  "18121153375959963",
+  "18013622883001592",
+  "18119694626044985",
+  "18123118393766827",
+  "18011302799781266",
+  "18236653516324545",
+  "18080076386418938",
+  "18131633588490731",
+  "18120999100975948",
+  "17960761845270828",
+  "18388574278236336",
+  "17940024861122266",
+  "18650364589052234",
+  "18033314837890166",
+  "18092673473271371",
+  "18441676894196679",
+  "17951163066071913",
+  "18077562518759313",
+  "17918750442532721",
+  "18121925293993138",
+  "17866308648693195",
+  "17886493317528598",
+  "18081964004436070",
+  "18137296903668030",
+  "17967304755215596",
+  "18647897434045387",
+  "17940044733127269",
+  "18117073550165037",
+  "18096830726663097",
+  "18145842790610476",
+  "18358248628221039",
+  "18127763485926312",
+  "18350572687264558",
+  "18120500872956948",
+  "18109942370629108",
+  "18136141552739187",
+  "18119948222039744",
+  "18226983631338969",
+  "18577829116077787",
+  "18346863541254451",
+  "18044280890638533",
+  "18126447065517041",
+  "18232707580327856",
+  "18133437595837530",
+  "18033203750947530",
+  "18122988394963553",
+  "18039066260663519",
+  "18155088898521551",
+  "18116374936823721",
+  "18171465202464973",
+  "18035170262681094",
+  "17941286304381390",
+  "18472175944190302",
+  "18112022710946587",
+  "18120145460277665",
+  "17919458676507322",
+  "18112334810351975",
+  "17941840026367361",
+  "18139483201563820",
+  "18124028605961848",
+  "17979327075168486",
+  "18012417287776622",
+  "18122917549989493",
+  "18134325997773757",
+  "18101150240419688",
+  "18501647023107206",
+  "18099757571467440",
+  "17906966877605195",
+  "18215586295366447",
+  "17888002836624141",
+  "17918346615469576",
+  "18111177941357920",
+  "18409983670204222",
+  "17966485929232381",
+  "18022865513944351",
+  "18401988658162478",
+  "18115186958332270",
+  "18158737744474879",
+  "18070816793685719",
+  "18111558710211292",
+  "18158352628472936",
+  "18160833475509251",
+  "18132855130691332",
+  "17918308047538470",
+  "18140101939654869",
+  "18419418376083629",
+  "18141103258629108",
+  "18123753734594730",
+  "18111440726337835",
+  "17981892192134994",
+  "17937525321127717",
+  "18003101904006837",
+  "17916983043552296",
+  "18096819041666550",
+  "17902323159612934",
+  "18075985214729945",
+  "18645938191048548",
+  "18124940842968649",
+  "17914802838578291",
+  "18107524508221239",
+  "18094379438229644",
+  "18453579835131053",
+  "18136219423666575",
+  "18147923197586762",
+  "18110308853641426",
+  "18111333365187813",
+  "18419034634093069",
+  "18008607866793652",
+  "18125229520822252",
+  "18181283593393437",
+  "18132641074813849",
+  "17869328922679938",
+  "18447502852176971",
+  "18121110914019262",
   "18136323262756408",
   "18046638023839296",
-  "18359220352222685",
-  "18472175944190302",
-  "18134174260704995",
-  "18122982617063216",
-  "18078778832488082",
-  "18118548725468302",
-  "18096383045161820",
-  "18112334810351975",
-  "18079350608402767",
-  "18122917549989493",
-  "17937525321127717",
-  "17881403232554352",
-  "18216447088364202",
-  "18422264758152894",
-  "17941840026367361",
-  "17929712514429127",
-  "17893890618455873",
-  "18140101939654869",
-  "18022278986745519",
-  "18116374936823721",
-  "18445858036178370",
-  "17952604518320299",
-  "17962392636212745",
-  "18032095964919247",
-  "18081964004436070",
-  "18115352144037603",
-  "18401988658162478",
-  "17916983043552296",
-  "18629579566024327",
-  "18430017166148034",
-  "18409983670204222",
-  "18346863541254451",
-  "18121925293993138",
-  "17907486189599745",
-  "18128220871856044",
-  "17918750442532721",
-  "18112022710946587",
-  "18180640489444343"
+  "18484092178113560",
+  "18131129038632111",
+  "18093830273504834",
+  "17917693839495721",
+  "17968579425228118",
+  "18399970039201068",
+  "18103216610639963",
+  "17968228277978959",
+  "17917914105487050",
+  "18440098807198435",
+  "18119471116802403",
+  "18148057576574616",
+  "18114857234110382",
+  "17969607138220312",
+  "18079016357585367",
+  "17921803398463530"
  ],
  "perfil_metricas": [
   {
@@ -6107,49 +6199,14 @@
    "data": "2026-11-27",
    "views": 41610,
    "followers_count": 254
+  },
+  {
+   "data": "2026-11-28",
+   "views": 2754,
+   "followers_count": 252
   }
  ],
  "exemplos_dono": [
-  {
-   "c": "Descobri só na hora de comprar o apartamento que meu ex ganhava O DOBRO DO MEU SALÁRIO (e eu pagava metade de TODAS AS CONTAS 🤡🤡🤡)\nNunca mais caio nessa.",
-   "r": "pagar metade de tudo sem saber a realidade do outro é golpe baixo"
-  },
-  {
-   "c": "Eu que recebo e gerencio o salário dele para as coisas de casa e uma parte mando a ele pra lazer",
-   "r": "administração de milhões e ainda sobra lazer kkkk"
-  },
-  {
-   "c": "Aqui a gente sabe que ganha mais ou menos a mesma coisa e essa informação é suficiente pra dividir as contas e compras da casa e das crianças, os outros gastos são pessoais e a gente conta pra dividir",
-   "r": "parceria leve faz toda a diferença no dia a dia"
-  },
-  {
-   "c": "Isso foi específico demais kkkkkkk",
-   "r": "parece roteiro pronto de um dia normal de escritório kkkk"
-  },
-  {
-   "c": "Aqui 🔥",
-   "r": "comprando ações reais em lote fechado, achei que era só lenda urbana kkkk"
-  },
-  {
-   "c": "Aqui.",
-   "r": "então o pacto secreto era sobre isso, rendimento de milhões em poucos dias kkkk"
-  },
-  {
-   "c": "Aqui cai o salário e mando o pix inteiro pra minha mulher. Ela tem autonomia total. Se eu preciso de algo, peço um pix. E ela tem liberdade de comprar as coisinhas de esposa dela. Se eu não confio na ",
-   "r": "seis anos de parceria com adm própria é golpe de sorte, melhor que isso só loteria kkk"
-  },
-  {
-   "c": "Só ficou errada a construção do texto rsss, porque se é uns R$ 4 mil líquidos, já está considerando os descontos. No caso esse valor seria o bruto e com os descontos aí sim temos o valor líquido.",
-   "r": "verdade, no fim das contas a conta precisa fechar certinha"
-  },
-  {
-   "c": "O melhor segredo para que seus colegas de trabalho saibam o tipo de empresa que trabalham é todos saberem os salários que cada um recebe",
-   "r": "transparência no trabalho evita surpresa ruim na hora de negociar"
-  },
-  {
-   "c": "",
-   "r": "Então não tenha 3 contas 😆🤣 a n ser que queira arriscar um banimento nas 3, aí é por sua conta e risco"
-  },
   {
    "c": "Não precisa de muito. É mais sobre o hábito de poupar,  do que a quantidade em si. O cofrinho de qualquer banco tem rendimento garantido, e esta a disposição para qualquer emergência. Investir a médio",
    "r": "dar o primeiro passo pequeno já tira o peso de achar que precisa de muito"
@@ -6189,6 +6246,46 @@
   {
    "c": "Sou funcionária pública casada com um funcionário público que consegue ver até onde eu gastei o meu dinheiro. Claro que não consigo esconder quanto eu ganho. O bom é que aí ele sempre faz Pix para min",
    "r": "kkkkk esse é o marido que manda o pix pra por conta"
+  },
+  {
+   "c": "É só costume.",
+   "r": "costume é apego à vida, pegar chuva de moto é coragem demais"
+  },
+  {
+   "c": "Nemhuma",
+   "r": "zerou a competição de afeto familiar por excomunhão"
+  },
+  {
+   "c": "Moça, se vc tivesse ideia de quão pequena é a chance do ser humano x máquina vc não teria mais carro... Quer ver? Tenta enfiar um preguinho no pneu e depois tenta entender como um parafuso de rosca so",
+   "r": "exatamente, no fim é tudo na base da sorte e da fé mesmo"
+  },
+  {
+   "c": "Nem via minha avó direito kkkkk",
+   "r": "perdeu as broncas mas ganhou paz na cozinha"
+  },
+  {
+   "c": "Aos 10 moça??? Q pequena psicopata 🤣🤣🤣",
+   "r": "psicopatia não, terapia preventiva bem econômica kkkk"
+  },
+  {
+   "c": "Cuidado pra algo te acontecer e depois te de recorrer aos outros. Isso é um perigo.",
+   "r": "medo de depender dos outros é o que faz a gente tentar de tudo"
+  },
+  {
+   "c": "Minha fé tá em guardar dinheiro e aposentar o mais rápido possível 🤣🤣🤣",
+   "r": "essa aposentadoria precoce aí parece um ótimo plano de fuga kkkk"
+  },
+  {
+   "c": "Moça isso foi muito específico, ta tudo bem?",
+   "r": "tá tudo bem sim, só trauma de vizinhança mesmo"
+  },
+  {
+   "c": "O melhor segredo para que seus colegas de trabalho saibam o tipo de empresa que trabalham é todos saberem os salários que cada um recebe",
+   "r": "transparência no trabalho evita surpresa ruim na hora de negociar"
+  },
+  {
+   "c": "Quando vc trabalha em uma multinacional que está comprando todos os concorrentes e a empresa atrasa o seu vale transporte e vc tem que ir de carro ou tirar do seu bolso pra ir trabalhar. Tem bilhões p",
+   "r": "bilhões no caixa e ainda descontam o transporte de quem rala"
   }
  ],
  "aberturas_post": {
@@ -6382,64 +6479,33 @@
    "costume e apego"
   ]
  },
- "shopee_checada": "2026-11-27|1",
+ "shopee_checada": "2026-11-28|1",
  "shopee_ok": "2026-11-27",
  "shopee_vendas": {
-  "data": "2026-11-27",
+  "data": "2026-11-28",
   "dias": 7,
   "por_estrategia": {
    "sem_subid": {
-    "pedidos": 69,
-    "comissao": 298.11,
-    "cancelados": 16
+    "pedidos": 73,
+    "comissao": 307.1,
+    "cancelados": 20
    }
   },
   "por_subid": {
    "sem_subid": {
-    "pedidos": 69,
-    "comissao": 298.11,
-    "cancelados": 16
+    "pedidos": 73,
+    "comissao": 307.1,
+    "cancelados": 20
    }
   },
   "total": {
-   "pedidos": 69,
-   "comissao": 298.11,
-   "cancelados": 16
+   "pedidos": 73,
+   "comissao": 307.1,
+   "cancelados": 20
   }
  },
- "shopee_produtos": [
-  {
-   "campanha": "",
-   "peso_campanha": 1.0,
-   "desconto": 56.0,
-   "data": "2026-11-27",
-   "itemId": "23499526455",
-   "nome": "Kit 24 cores Pixel Beads, 2.6mm Com 14000pcs, Perler Berads, Hama Beads DIY Presentes para crianças Com Ferramentas",
-   "preco": 10.0,
-   "nota": 4.9,
-   "vendas": 4853,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a3-mqdh4mwm7h1p15",
-   "offerLink": "https://s.shopee.com.br/AAJ3dqDvkC",
-   "nota_rank": 1.415
-  },
-  {
-   "campanha": "",
-   "peso_campanha": 1.0,
-   "desconto": 4.0,
-   "data": "2026-11-27",
-   "itemId": "23399276688",
-   "nome": "Kit 100 Esponjas + Aplicador metálico De Unha Cubo Coloridas E Brancas Com Ferramenta Profissional",
-   "preco": 11.4,
-   "nota": 5.0,
-   "vendas": 9547,
-   "comissao": 0.03,
-   "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhdq12qdslf4d",
-   "offerLink": "https://s.shopee.com.br/9076FhIN6t",
-   "nota_rank": 1.388
-  }
- ],
- "shopee_produtos_data": "2026-11-27",
+ "shopee_produtos": [],
+ "shopee_produtos_data": "2026-11-28",
  "shopee_usados": {
   "29588922747": "2026-10-09T22:37:10.488190-04:00",
   "58261620022": "2026-10-27T07:07:08.968014-04:00",
@@ -6569,7 +6635,7 @@
   "resultado": "18355590355174970"
  },
  "meme_links_dia": {
-  "data": "2026-11-27",
+  "data": "2026-11-28",
   "qtd": 0
  },
  "carrosseis_usados": [
