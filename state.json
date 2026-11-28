@@ -23,33 +23,17 @@
   ],
   "feitos": [
    "08:49",
-   "10:19"
+   "10:19",
+   "11:10"
   ],
   "produtos_feitos": 0,
-  "respostas": 14,
+  "respostas": 20,
   "por_post": {
-   "18099219389154598": 14
+   "18099219389154598": 19,
+   "18089878928333453": 1
   }
  },
  "posts": [
-  {
-   "id": "18136963183688312",
-   "insp": "380b00e24d",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: qual prato típico da sua cidade você indicaria pra alguém de fora que acabou de descobrir a traição do ex com a sua melhor amiga no meio do jantar de aniversário de namoro e agora precisa comer carboidrato chorando no Uber? Comenta a cidade",
-   "quando": "2026-11-22T20:37:12.694231-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 499,
-    "likes": 2,
-    "replies": 10,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-28"
-   },
-   "viral_chk": "2026-11-23T20:37:09.794939-04:00"
-  },
   {
    "id": "18120094514114120",
    "insp": "5ffe3dfd2e",
@@ -1075,16 +1059,17 @@
    "texto": "OPINIÃO IMPOPULAR: a inteligência artificial manda um bom dia tão perfeito, com figurinha de gatinho brilhando e solzinho animado, que eu tô a dois passos de terminar com o boy e namorar o chatgpt. o robô nunca esquece meu aniversário, não visualiza e não responde, e ainda calcula os juros do meu bo",
    "quando": "2026-11-28T10:37:09.427893-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18126620800915006",
+   "insp": "f16c6c27c0",
+   "link": "",
+   "texto": "SEM MENTIR: o meu pior emprego foi ser ouvinte oficial de áudio de trinta minutos de ex que manda \"precisamos conversar\" mas só reclama que o Uber cancelou. Meu chefe era um boleto vencido e o salário era em migalhas de afeto. Alguém aqui já trabalhou de graça pro caos emocional dos outros ou fui só",
+   "quando": "2026-11-28T11:37:10.663277-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18445025632134455",
-  "17961818685208268",
-  "17959971336228483",
-  "18114592315833067",
-  "17868352281661294",
-  "18030722264856921",
-  "18036302771658882",
   "18124118500932357",
   "17969706536961588",
   "18105770060206470",
@@ -4077,10 +4062,16 @@
   "18131047972878632",
   "18020661809958744",
   "17878548405637973",
-  "18443121208178448"
+  "18443121208178448",
+  "18017823227991947",
+  "18122325127787390",
+  "18438986884195297",
+  "17901129420613106",
+  "18124776791581179",
+  "18120289873805205",
+  "18118709327125128"
  ],
  "hashes": [
-  "cd342bbca166d4fd5a80fde8f4a37640",
   "b763911dc447bdc0e1d9a488e2dd99d9",
   "765b918a52e40bd1195a6a16a5723215",
   "1fe5cb407f1362ea7ead9c4abec7e30d",
@@ -4279,7 +4270,8 @@
   "5670738954a3e6f256146cee13086af5",
   "0f7145ea89e10349c31acd8dbc2286b3",
   "86ed6b7ea933c73f7a5d6fb16abde6b6",
-  "3df10252942ebbb7fc5a14a51fd06404"
+  "3df10252942ebbb7fc5a14a51fd06404",
+  "f16b2a73cbbbf74d4e1e616b4a8c2a20"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4333,7 +4325,6 @@
   "0c6e3aa2e9": 1791418053.3214092,
   "6d05f48de0": 1791421663.0746691,
   "ab0f309ba0": 1791423493.1508825,
-  "f16c6c27c0": 1791464840.5570676,
   "9251fb6a0d": 1791468449.4808562,
   "bcc0c20424": 1791495460.9115326,
   "29649aab34": 1791497253.2238147,
@@ -4690,7 +4681,8 @@
   "5d187cad11": 1795831696.6370752,
   "c5b66c6c5b": 1795833486.4361985,
   "8b93fbf051": 1795871247.4197857,
-  "ae0c3922a8": 1795876693.8406308
+  "ae0c3922a8": 1795876693.8406308,
+  "f16c6c27c0": 1795880295.2420819
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4708,40 +4700,16 @@
   "01af5a7598": 1,
   "7eb4bef55a": 1,
   "3da9a9795d": 1,
-  "fcdc5857d1": 1
+  "fcdc5857d1": 1,
+  "cc95a00116": 1,
+  "1b4bb672fb": 1,
+  "f61a378742": 1,
+  "26b1e34154": 1,
+  "6d46c1c964": 1,
+  "98aa8d168a": 1
  },
  "reservas_checadas": "2026-11-28",
  "ultimas_respostas": [
-  {
-   "t": "tem investimento para todos os gostos na sua lista",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "dar o primeiro passo pequeno já tira o peso de achar que precisa de muito",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "transparência no trabalho evita surpresa ruim na hora de negociar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "verdade, no fim das contas a conta precisa fechar certinha",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "seis anos de parceria com adm própria é golpe de sorte, melhor que isso só loteria kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "então o pacto secreto era sobre isso, rendimento de milhões em poucos dias kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "comprando ações reais em lote fechado, achei que era só lenda urbana kkkk",
    "p": "concorda",
@@ -4859,6 +4827,36 @@
   },
   {
    "t": "justo, quem precisa de ferro quando dá pra usar amassado com classe",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "alguém precisa avisar que o robô pelo menos não reclama da louça na pia",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "verdade, o tempo voa e a gente só quer paz mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "idade de ouro do aprendizado doméstico kkkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "quatro e nove ainda dá tempo de aprender o truque",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "justo, roupa amassada em casa é abraço e fora é estilo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "terceirizar o problema com certeza é a decisão mais adulta que alguém pode tomar",
    "p": "concorda",
    "r": 0
   }
@@ -6283,9 +6281,6 @@
   }
  ],
  "aberturas_post": {
-  "18159001912517103": [
-   "pelo menos voce"
-  ],
   "17957195529284107": [
    "zerou a vida",
    "agora o manual"
@@ -6483,7 +6478,15 @@
    "com essa idade",
    "lavanderia renomada e",
    "passando as dela",
-   "justo quem precisa"
+   "justo quem precisa",
+   "verdade o tempo",
+   "idade de ouro",
+   "quatro e nove",
+   "justo roupa amassada",
+   "terceirizar o problema"
+  ],
+  "18089878928333453": [
+   "alguem precisa avisar"
   ]
  },
  "shopee_checada": "2026-11-28|1",
