@@ -38,7 +38,8 @@
    "17:51",
    "18:33",
    "19:15",
-   "20:10"
+   "20:10",
+   "20:56"
   ],
   "produtos_feitos": 0,
   "respostas": 8,
@@ -52,24 +53,6 @@
   }
  },
  "posts": [
-  {
-   "id": "18347363095281208",
-   "insp": "e69b61516f",
-   "link": "",
-   "texto": "DÚVIDA SINCERA: a linha entre pagar mais caro pela marca ou comprar o genérico que tem gosto de cal virgem é o que define se a gente venceu na vida ou só desistiu, porque meu remédio pra dor de cabeça genérico tem a mesma cor de um giz de lousa e só me faz chorar em outra língua, e vocês são team gr",
-   "quando": "2026-11-22T16:07:10.322803-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 100,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-27"
-   },
-   "viral_chk": "2026-11-23T16:07:08.723938-04:00"
-  },
   {
    "id": "18122819762067033",
    "insp": "603114869d",
@@ -1003,6 +986,14 @@
    "link": "",
    "texto": "Feriado no Nordeste sem forró é que nem ex mandando \"sumiu por quê?\": um evento canônico de pura tortura psicológica que ninguém pediu. Aqui o programa obrigatório é fingir que gosta de pular forró debaixo de um sol de 40 graus enquanto o vizinho toca o mesmo CD estourado do Dorgival Dantas desde 20",
    "quando": "2026-11-27T22:07:09.401889-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18096000038208137",
+   "insp": "c5b66c6c5b",
+   "link": "",
+   "texto": "PESSOAS QUE JÁ FIZERAM MOCHILÃO: qual foi o momento exato em que o espírito aventureiro morreu e você só quis saber se o Uber Black aceitava Pix parcelado para te tirar daquele matagal europeu?",
+   "quando": "2026-11-27T22:37:07.801998-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
@@ -4009,7 +4000,6 @@
   "18650025862012213"
  ],
  "hashes": [
-  "d4cb653e7e25cd1183993af20031f496",
   "39a41ad89b813d06412466283e4fe402",
   "59ac4e7c4ad76b1807b29baa7e8cbe92",
   "cd342bbca166d4fd5a80fde8f4a37640",
@@ -4208,7 +4198,8 @@
   "e70ccfcc442829e5e77214c121d11983",
   "13d242167499d268c0f3a8d6869db5f6",
   "83eda32cbc6b0afc51b3739019f8c985",
-  "5670738954a3e6f256146cee13086af5"
+  "5670738954a3e6f256146cee13086af5",
+  "0f7145ea89e10349c31acd8dbc2286b3"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4241,7 +4232,6 @@
   "9c1e78bb9a": 1791038248.3376563,
   "143d9cb236": 1791045474.23247,
   "120d39bc61": 1791052643.211581,
-  "c5b66c6c5b": 1791065245.2783217,
   "6d7d2f32e2": 1791079643.0164294,
   "3d41eeda62": 1791117448.2717893,
   "4e6f1fb18b": 1791122845.40371,
@@ -4619,7 +4609,8 @@
   "aa28edd6a1": 1795820886.6931822,
   "574b51f445": 1795824497.6100063,
   "4af53e8178": 1795828042.2119846,
-  "5d187cad11": 1795831696.6370752
+  "5d187cad11": 1795831696.6370752,
+  "c5b66c6c5b": 1795833486.4361985
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
