@@ -25,9 +25,9 @@
    "08:49"
   ],
   "produtos_feitos": 0,
-  "respostas": 6,
+  "respostas": 9,
   "por_post": {
-   "18099219389154598": 6
+   "18099219389154598": 9
   }
  },
  "posts": [
@@ -1087,9 +1087,6 @@
   }
  ],
  "respondidos": [
-  "18105765332460185",
-  "18498617452102605",
-  "18108753155244162",
   "18157893907505730",
   "18636279301047542",
   "18080237900709769",
@@ -4086,7 +4083,10 @@
   "17956111545345446",
   "18017005283978094",
   "17959809240281100",
-  "18023353508953320"
+  "18023353508953320",
+  "17872322556659138",
+  "18094693826237938",
+  "17984108844132329"
  ],
  "hashes": [
   "59ac4e7c4ad76b1807b29baa7e8cbe92",
@@ -4709,25 +4709,13 @@
   "5768c00274": 1,
   "0d1aae5ad4": 1,
   "447f2c1e6c": 1,
-  "88b82c2c45": 1
+  "88b82c2c45": 1,
+  "cf19c867bb": 1,
+  "1c6aa3cfe3": 1,
+  "c4bd9b1655": 1
  },
  "reservas_checadas": "2026-11-28",
  "ultimas_respostas": [
-  {
-   "t": "isso, salário escondido só vira briga boba depois, melhor falar",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "Honestidade + cálculo simples = divisão justa sem dor",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "pergunta sobre o futuro no primeiro encontro é o teste final pra ver quem corre primeiro kkkk",
-   "p": "concorda",
-   "r": 2
-  },
   {
    "t": "bilhões no caixa e ainda descontam o transporte de quem rala",
    "p": "concorda",
@@ -4860,6 +4848,21 @@
   },
   {
    "t": "então o mistério todo se resume à boa vontade mesmo",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "vinco já é pedir demais da engenharia masculina kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "dezesseis anos de férias acumuladas",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "receita de fã de tecnologia para um problema milenar",
    "p": "concorda",
    "r": 0
   }
@@ -6476,7 +6479,10 @@
    "pelo visto a",
    "justo demais menos",
    "perdendo as esperancas",
-   "entao o misterio"
+   "entao o misterio",
+   "vinco ja e",
+   "dezesseis anos de",
+   "receita de fa"
   ]
  },
  "shopee_checada": "2026-11-28|1",
