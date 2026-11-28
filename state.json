@@ -22,33 +22,16 @@
    "19:32"
   ],
   "feitos": [
-   "08:49"
+   "08:49",
+   "10:19"
   ],
   "produtos_feitos": 0,
-  "respostas": 9,
+  "respostas": 12,
   "por_post": {
-   "18099219389154598": 9
+   "18099219389154598": 12
   }
  },
  "posts": [
-  {
-   "id": "18148563982597050",
-   "insp": "39b02ce282",
-   "link": "",
-   "texto": "PESSOAS QUE TRABALHAM COM PÚBLICO: O cliente chega na loja às 17h58 dizendo que é rapidinho só pra olhar, o relógio vira 18h e o ser humano puxa uma lista de casamento com cem convidados pra cotar em dez lojas diferentes. \n\nQual foi o nível máximo de sem-noção que você já atendeu e teve que sorrir p",
-   "quando": "2026-11-22T19:37:08.454680-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 54,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-28"
-   },
-   "viral_chk": "2026-11-23T19:37:08.139063-04:00"
-  },
   {
    "id": "18136963183688312",
    "insp": "380b00e24d",
@@ -1084,12 +1067,17 @@
    "texto": "DÚVIDA SINCERA: homem de 35 que mora sozinho e sabe passar roupa sem criar um vinco extra na camisa que mais parece um origami de Chernobyl ainda existe ou é lenda urbana criada pelas mães pra gente não desistir da humanidade?",
    "quando": "2026-11-28T09:07:11.898160-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18089878928333453",
+   "insp": "ae0c3922a8",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: a inteligência artificial manda um bom dia tão perfeito, com figurinha de gatinho brilhando e solzinho animado, que eu tô a dois passos de terminar com o boy e namorar o chatgpt. o robô nunca esquece meu aniversário, não visualiza e não responde, e ainda calcula os juros do meu bo",
+   "quando": "2026-11-28T10:37:09.427893-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18157893907505730",
-  "18636279301047542",
-  "18080237900709769",
   "18351278638281327",
   "18169341328465062",
   "18445025632134455",
@@ -4086,10 +4074,12 @@
   "18023353508953320",
   "17872322556659138",
   "18094693826237938",
-  "17984108844132329"
+  "17984108844132329",
+  "18393788185224640",
+  "18131047972878632",
+  "18020661809958744"
  ],
  "hashes": [
-  "59ac4e7c4ad76b1807b29baa7e8cbe92",
   "cd342bbca166d4fd5a80fde8f4a37640",
   "b763911dc447bdc0e1d9a488e2dd99d9",
   "765b918a52e40bd1195a6a16a5723215",
@@ -4288,7 +4278,8 @@
   "83eda32cbc6b0afc51b3739019f8c985",
   "5670738954a3e6f256146cee13086af5",
   "0f7145ea89e10349c31acd8dbc2286b3",
-  "86ed6b7ea933c73f7a5d6fb16abde6b6"
+  "86ed6b7ea933c73f7a5d6fb16abde6b6",
+  "3df10252942ebbb7fc5a14a51fd06404"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4353,7 +4344,6 @@
   "c23c34d690": 1791563875.9416332,
   "da2a07512c": 1791576445.2365634,
   "6ab249fcf7": 1791580080.9198704,
-  "ae0c3922a8": 1791583645.2915637,
   "b6e8893db8": 1791637653.5574567,
   "f8cf963815": 1791644893.9161525,
   "eb9c03e299": 1791670089.8466873,
@@ -4699,7 +4689,8 @@
   "4af53e8178": 1795828042.2119846,
   "5d187cad11": 1795831696.6370752,
   "c5b66c6c5b": 1795833486.4361985,
-  "8b93fbf051": 1795871247.4197857
+  "8b93fbf051": 1795871247.4197857,
+  "ae0c3922a8": 1795876693.8406308
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4712,25 +4703,13 @@
   "88b82c2c45": 1,
   "cf19c867bb": 1,
   "1c6aa3cfe3": 1,
-  "c4bd9b1655": 1
+  "c4bd9b1655": 1,
+  "8df450f53e": 1,
+  "01af5a7598": 1,
+  "7eb4bef55a": 1
  },
  "reservas_checadas": "2026-11-28",
  "ultimas_respostas": [
-  {
-   "t": "bilhões no caixa e ainda descontam o transporte de quem rala",
-   "p": "concorda",
-   "r": 0
-  },
-  {
-   "t": "começar com cinquenta reais já tira o peso de achar que precisa de muito kkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "rendimento garantido assim pelo menos dá uma paz no fim do mês",
-   "p": "concorda",
-   "r": 0
-  },
   {
    "t": "investir no futuro quando o presente já levou tudo é a parte difícil",
    "p": "concorda",
@@ -4865,6 +4844,21 @@
    "t": "receita de fã de tecnologia para um problema milenar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "essa é a pergunta que vale um milhão de dólares",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "com essa idade já virou peça de museu ou lenda viva kkkkkk",
+   "p": "concorda",
+   "r": 2
+  },
+  {
+   "t": "lavanderia renomada é o esconderijo oficial dessa espécie",
+   "p": "concorda",
+   "r": 1
   }
  ],
  "minhas_respostas": {
@@ -6482,7 +6476,10 @@
    "entao o misterio",
    "vinco ja e",
    "dezesseis anos de",
-   "receita de fa"
+   "receita de fa",
+   "essa e a",
+   "com essa idade",
+   "lavanderia renomada e"
   ]
  },
  "shopee_checada": "2026-11-28|1",
