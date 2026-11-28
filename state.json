@@ -27,10 +27,12 @@
    "11:10"
   ],
   "produtos_feitos": 0,
-  "respostas": 20,
+  "respostas": 27,
   "por_post": {
-   "18099219389154598": 19,
-   "18089878928333453": 1
+   "18099219389154598": 23,
+   "18089878928333453": 2,
+   "18140343922570774": 1,
+   "18511459831097298": 1
   }
  },
  "posts": [
@@ -1070,13 +1072,6 @@
   }
  ],
  "respondidos": [
-  "18124118500932357",
-  "17969706536961588",
-  "18105770060206470",
-  "18487468039111164",
-  "18103467488196687",
-  "17906981331586686",
-  "18023344166925388",
   "18101911970456022",
   "17973877437136711",
   "18041468927835072",
@@ -4069,7 +4064,14 @@
   "17901129420613106",
   "18124776791581179",
   "18120289873805205",
-  "18118709327125128"
+  "18118709327125128",
+  "18112045973524892",
+  "18080131808726532",
+  "18133691615307920",
+  "18040776761892431",
+  "17882603742562824",
+  "18114349439183219",
+  "18026887712715609"
  ],
  "hashes": [
   "b763911dc447bdc0e1d9a488e2dd99d9",
@@ -4704,47 +4706,17 @@
   "cc95a00116": 1,
   "1b4bb672fb": 1,
   "f61a378742": 1,
-  "26b1e34154": 1,
+  "26b1e34154": 3,
   "6d46c1c964": 1,
-  "98aa8d168a": 1
+  "98aa8d168a": 1,
+  "5b496efc86": 1,
+  "17cf71cd52": 1,
+  "d958aef614": 1,
+  "e12c9d8ce9": 1,
+  "67591103b0": 1
  },
  "reservas_checadas": "2026-11-28",
  "ultimas_respostas": [
-  {
-   "t": "comprando ações reais em lote fechado, achei que era só lenda urbana kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "parece roteiro pronto de um dia normal de escritório kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "tá tudo bem sim, só trauma de vizinhança mesmo",
-   "p": "neutra",
-   "r": 0
-  },
-  {
-   "t": "essa aposentadoria precoce aí parece um ótimo plano de fuga kkkk",
-   "p": "concorda",
-   "r": 2
-  },
-  {
-   "t": "medo de depender dos outros é o que faz a gente tentar de tudo",
-   "p": "ressalva",
-   "r": 0
-  },
-  {
-   "t": "psicopatia não, terapia preventiva bem econômica kkkk",
-   "p": "concorda",
-   "r": 1
-  },
-  {
-   "t": "perdeu as broncas mas ganhou paz na cozinha",
-   "p": "neutra",
-   "r": 0
-  },
   {
    "t": "exatamente, no fim é tudo na base da sorte e da fé mesmo",
    "p": "concorda",
@@ -4859,6 +4831,41 @@
    "t": "terceirizar o problema com certeza é a decisão mais adulta que alguém pode tomar",
    "p": "concorda",
    "r": 0
+  },
+  {
+   "t": "complicado é chegar em 2027 inteira para ver essa melhora",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "trocar o agito pela brisa do mar parece um excelente plano de fuga",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "pelo menos o robô não cobra frete pra carregar o peso emocional",
+   "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "liberdade é jogar o ferro fora e fingir que amassado é o novo estilo kkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "português claro e direto só para quem já passou dos trinta e entendeu o recado",
+   "p": "concorda",
+   "r": 0
+  },
+  {
+   "t": "roupa social salva a honra do armário kkkk",
+   "p": "concorda",
+   "r": 1
+  },
+  {
+   "t": "quem aprendeu cedo com mãe exigente hoje guarda esse dom como troféu kkkkkk",
+   "p": "concorda",
+   "r": 2
   }
  ],
  "minhas_respostas": {
@@ -6445,11 +6452,13 @@
    "parece roteiro pronto"
   ],
   "18511459831097298": [
-   "ta tudo bem"
+   "ta tudo bem",
+   "trocar o agito"
   ],
   "18140343922570774": [
    "essa aposentadoria precoce",
-   "medo de depender"
+   "medo de depender",
+   "complicado e chegar"
   ],
   "18132694267935898": [
    "psicopatia nao terapia"
@@ -6483,10 +6492,15 @@
    "idade de ouro",
    "quatro e nove",
    "justo roupa amassada",
-   "terceirizar o problema"
+   "terceirizar o problema",
+   "liberdade e jogar",
+   "portugues claro e",
+   "roupa social salva",
+   "quem aprendeu cedo"
   ],
   "18089878928333453": [
-   "alguem precisa avisar"
+   "alguem precisa avisar",
+   "pelo menos o"
   ]
  },
  "shopee_checada": "2026-11-28|1",
