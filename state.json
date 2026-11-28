@@ -36,37 +36,21 @@
    "16:58",
    "15:05",
    "17:51",
-   "18:33"
+   "18:33",
+   "19:15"
   ],
   "produtos_feitos": 0,
-  "respostas": 7,
+  "respostas": 8,
   "por_post": {
    "18511459831097298": 1,
    "18140343922570774": 2,
    "18132694267935898": 1,
    "18112408772218176": 2,
-   "18079732655779642": 1
+   "18079732655779642": 1,
+   "18048622565835448": 1
   }
  },
  "posts": [
-  {
-   "id": "18197216731397752",
-   "insp": "c2d56efe9f",
-   "link": "",
-   "texto": "Com sete anos eu jurei que seria veterinária de dinossauro e hoje estou aqui explicando por pix que o boleto do IPVA não aceita carinho e nem promessa de pagamento em laudo falso de exumação de alma gêmea. A infância é um golpe muito bem estruturado. Vocês também viraram adultos pagadores de imposto",
-   "quando": "2026-11-22T11:37:08.990451-04:00",
-   "ia": "Gemini gemini-flash-lite-latest",
-   "metricas": {
-    "views": 67,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "shares": 0,
-    "em": "2026-11-27"
-   },
-   "viral_chk": "2026-11-23T11:07:08.607759-04:00"
-  },
   {
    "id": "18104695457413152",
    "insp": "8f2f1c9592",
@@ -1021,10 +1005,17 @@
    "texto": "OPINIÃO IMPOPULAR: o professor de matemática que me deu recuperação merecia cadeia por ensinar a calcular juros de cartão e me dar o superpoder de chorar olhando o aplicativo do banco em quatro dimensões diferentes.",
    "quando": "2026-11-27T20:07:13.605237-04:00",
    "ia": "Gemini gemini-flash-lite-latest"
+  },
+  {
+   "id": "18116850986137836",
+   "insp": "4af53e8178",
+   "link": "",
+   "texto": "OPINIÃO IMPOPULAR: mandar áudio de três minutos logo no começo da paquera deveria ser considerado crime hediondo com direito a tornozeleira eletrônica. O cidadão começa a falar do signo, passa pelo trauma do ex, respira fundo quatro vezes e ainda manda um e, enfim, é isso no final. Alguém aguenta ou",
+   "quando": "2026-11-27T21:07:09.554034-04:00",
+   "ia": "Gemini gemini-flash-lite-latest"
   }
  ],
  "respondidos": [
-  "18151631005540367",
   "17914382115496659",
   "18147274030560183",
   "17938769664378158",
@@ -4023,10 +4014,10 @@
   "18358175545264717",
   "18106715705633519",
   "18173453575479670",
-  "18096382862481427"
+  "18096382862481427",
+  "18650025862012213"
  ],
  "hashes": [
-  "dd86ac50af1a1bddcecdec80447a0cd0",
   "8683de370303c1d303ba4f137f0c5f1a",
   "d4cb653e7e25cd1183993af20031f496",
   "39a41ad89b813d06412466283e4fe402",
@@ -4225,7 +4216,8 @@
   "c524359d792ee1d79edbe9090f661fb9",
   "0473a4cefc157b8cb9cb57cc5f9964f5",
   "e70ccfcc442829e5e77214c121d11983",
-  "13d242167499d268c0f3a8d6869db5f6"
+  "13d242167499d268c0f3a8d6869db5f6",
+  "83eda32cbc6b0afc51b3739019f8c985"
  ],
  "uso": {
   "d256f4ea39": 1790526608.4119065,
@@ -4353,7 +4345,6 @@
   "2b3a6a81d7": 1792701496.5239007,
   "da8ab25023": 1792706895.8525548,
   "feb6e197f0": 1792715844.1856916,
-  "4af53e8178": 1792719494.7289777,
   "35da8217ed": 1792759082.5340042,
   "4564f47ffe": 1792762703.9526036,
   "e7eeb217a4": 1792773493.8628683,
@@ -4636,7 +4627,8 @@
   "ef980ef49f": 1795810044.601295,
   "0046da4da8": 1795819088.1197355,
   "aa28edd6a1": 1795820886.6931822,
-  "574b51f445": 1795824497.6100063
+  "574b51f445": 1795824497.6100063,
+  "4af53e8178": 1795828042.2119846
  },
  "eu": "lorenafleck_",
  "por_pessoa": {
@@ -4646,15 +4638,11 @@
   "5d2692b82e": 1,
   "d109db9df4": 1,
   "fcf8949395": 1,
-  "3a0fdb2b5b": 1
+  "3a0fdb2b5b": 1,
+  "88b82c2c45": 1
  },
  "reservas_checadas": "2026-11-27",
  "ultimas_respostas": [
-  {
-   "t": "dividir tudo certinho assim da paz né kkk",
-   "p": "concorda",
-   "r": 1
-  },
   {
    "t": "transparência assim evita tanta dor de cabeça depois",
    "p": "concorda",
@@ -4798,6 +4786,11 @@
   {
    "t": "zerou a competição de afeto familiar por excomunhão",
    "p": "ressalva",
+   "r": 0
+  },
+  {
+   "t": "costume é apego à vida, pegar chuva de moto é coragem demais",
+   "p": "discorda",
    "r": 0
   }
  ],
@@ -6216,9 +6209,6 @@
   }
  ],
  "aberturas_post": {
-  "18112368254239008": [
-   "voz zoada mas"
-  ],
   "17888396106504772": [
    "exato o boleto"
   ],
@@ -6404,6 +6394,9 @@
   ],
   "18079732655779642": [
    "exatamente no fim"
+  ],
+  "18048622565835448": [
+   "costume e apego"
   ]
  },
  "shopee_checada": "2026-11-27|1",
